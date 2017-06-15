@@ -107,10 +107,35 @@ for key in j['data']:
 
 		for author in j['data']['authors']:
 
+			#TODO -- This throws a KeyError -- is this a problem, and how can I supress?
+
 			#Convert author name to LC and replace spaces with dashes to make good file names
 			lc_name = (j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
 			markdown = open('output/authors/' + lc_name + '.md','w')
 			markdown.write('+++\n')
+			markdown.write('index = %r\n' % author.encode('utf-8'))
+			_sort_create_date = (j['data']['authors'][author]['_sort_create_date']).get
+
+			#markdown.write('_sort_create_date = %d\n' % get(j['data']['authors'][author]['_sort_create_date']))
+			#markdown.write('_sort_last_updated = %d\n' % j['data']['authors'][author]['_sort_last_updated'])
+			#markdown.write('alphabetize_by = %r\n' % (j['data']['authors'][author]['alphabetize_by']).encode('utf-8'))
+			##books loop
+			#markdown.write('create_date = %r\n' % (j['data']['authors'][author]['create_date']).encode('utf-8'))
+			#markdown.write('isDraft = %r\n' % (j['data']['authors'][author]['isDraft']).encode('utf-8'))
+			#markdown.write('is_seattle__pnw_writer = %r\n' % (j['data']['authors'][author]['is_seattle__pnw_writer']).encode('utf-8'))
+			#markdown.write('last_updated = %r\n' % (j['data']['authors'][author]['last_updated']).encode('utf-8'))
+			#markdown.write('name = %r\n' % (j['data']['authors'][author]['name']).encode('utf-8'))
+			##notes loop
+			#markdown.write('preview_url = %r\n' % (j['data']['authors'][author]['preview_url']).encode('utf-8'))
+			#markdown.write('publish_date = %r\n' % (j['data']['authors'][author]['publish_date']).encode('utf-8'))
+			
+				
+			
+			
+
+
+			#books
+			#notes
 			markdown.write('+++\n')			
 			markdown.close()
 
