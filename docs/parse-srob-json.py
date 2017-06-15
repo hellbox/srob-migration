@@ -106,5 +106,11 @@ for key in j['data']:
 			os.makedirs('output/authors')
 
 		for author in j['data']['authors']:
-			print author
+
+			#Convert author name to LC and replace spaces with dashes to make good file names
+			lc_name = (j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
+			markdown = open('output/authors/' + lc_name + '.md','w')
+			markdown.write('+++\n')
+			markdown.write('+++\n')			
+			markdown.close()
 
