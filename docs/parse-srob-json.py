@@ -97,5 +97,14 @@ for key in j['data']:
 		markdown.write('preview_url = %r\n' % (j['data']['sponsor']['preview_url']).encode('utf-8'))
 		markdown.write('+++\n\n')
 		markdown.write((j['data']['sponsor']['markdown_text']).encode('utf-8'))
-		markdown.close()			
+		markdown.close()
+
+	#And now for the things with more complex relationships. Here we go
+
+	elif key == 'authors':
+		if not os.path.exists('output/authors'):
+			os.makedirs('output/authors')
+
+		for author in j['data']['authors']:
+			print author
 
