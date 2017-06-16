@@ -130,7 +130,7 @@ for key in j['data']:
 			# Or, without UTF-8 encoding, I get a KeyError again.
 			# markdown.write('alphabetize_by = %r\n' % j.get(j['data']['authors'][author]['alphabetize_by']))
 
-			# So, I think I'm doing something wrong here, but I'm cahsing my tail figuring it out. Ideas?
+			# So, I think I'm doing something wrong here, but I'm chasing my tail figuring it out. Ideas?
 
 
 			######## END HELP ME PLEASE SECTION #########
