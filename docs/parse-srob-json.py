@@ -107,18 +107,44 @@ for key in j['data']:
 
 		for author in j['data']['authors']:
 
-			#TODO -- This throws a KeyError -- is this a problem, and how can I supress?
 
 			#Convert author name to LC and replace spaces with dashes to make good file names
 			lc_name = (j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
 			markdown = open('output/authors/' + lc_name + '.md','w')
 			markdown.write('+++\n')
 			markdown.write('index = %r\n' % author.encode('utf-8'))
-			_sort_create_date = (j['data']['authors'][author]['_sort_create_date']).get
+
+			########### HELP ME PLEASE ##################
+			
+			# This throws a 'KeyError', so somewhere in the loop, there is an entry that doesn't have the expected key. 
+			# markdown.write('_sort_create_date = %d\n' % j['data']['authors'][author]['_sort_create_date'])
+
+			# The solution for that is to wrap the call in get(), but this throws a TypeError:
+			# markdown.write('_sort_create_date = %d\n' % j.get(j['data']['authors'][author]['_sort_create_date']))
+
+			# That makes me think my formatting is correct for get(), and becuase it's returning "none", but it expects a number, it's erroring. 
+			
+			# But if I do this, with a unicode string converted to UTF-8, I get an attribute error. 			
+			# markdown.write('alphabetize_by = %r\n' % j.get(j['data']['authors'][author]['alphabetize_by']).encode('utf-8'))
+
+			# Or, without UTF-8 encoding, I get a KeyError again.
+			# markdown.write('alphabetize_by = %r\n' % j.get(j['data']['authors'][author]['alphabetize_by']))
+
+			# So, I think I'm doing something wrong here, but I'm cahsing my tail figuring it out. Ideas?
+
+
+			######## END HELP ME PLEASE SECTION #########
+			
+
+
+
+
+			### CALLS COMMENTED OUT UNTIL I FIGURE OUT HOW THE ABOVE SHOULD WORK
 
 			#markdown.write('_sort_create_date = %d\n' % get(j['data']['authors'][author]['_sort_create_date']))
 			#markdown.write('_sort_last_updated = %d\n' % j['data']['authors'][author]['_sort_last_updated'])
-			#markdown.write('alphabetize_by = %r\n' % (j['data']['authors'][author]['alphabetize_by']).encode('utf-8'))
+			########alphabetize_by = j.get((j['data']['authors'][author]['alphabetize_by']).encode('utf-8'))
+			#markdown.write('isDraft = %r\n' % (j['data']['authors'][author]['isDraft']).encode('utf-8'))
 			##books loop
 			#markdown.write('create_date = %r\n' % (j['data']['authors'][author]['create_date']).encode('utf-8'))
 			#markdown.write('isDraft = %r\n' % (j['data']['authors'][author]['isDraft']).encode('utf-8'))
@@ -129,11 +155,6 @@ for key in j['data']:
 			#markdown.write('preview_url = %r\n' % (j['data']['authors'][author]['preview_url']).encode('utf-8'))
 			#markdown.write('publish_date = %r\n' % (j['data']['authors'][author]['publish_date']).encode('utf-8'))
 			
-				
-			
-			
-
-
 			#books
 			#notes
 			markdown.write('+++\n')			
