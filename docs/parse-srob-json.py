@@ -19,7 +19,7 @@ for key in j['data']:
             os.makedirs('output/about')
 
         #create file and structure
-        markdown = open('output/about/about.md','w')
+        markdown = open('output/about/about.toml','w')
         markdown.write('+++\n')
         markdown.write('_sort_create_date = %d\n' % j['data']['about']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['about']['_sort_last_updated'])
@@ -37,7 +37,7 @@ for key in j['data']:
             os.makedirs('output/privacy')
 
         #create file and structure
-        markdown = open('output/privacy/privacy.md','w')
+        markdown = open('output/privacy/privacy.toml','w')
         markdown.write('+++\n')
         markdown.write('_sort_create_date = %d\n' % j['data']['privacy']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['privacy']['_sort_last_updated'])
@@ -54,7 +54,7 @@ for key in j['data']:
             os.makedirs('output/resources')
 
         #create file and structure
-        markdown = open('output/resources/resources.md','w')
+        markdown = open('output/resources/resources.toml','w')
         markdown.write('+++\n')
         markdown.write('_sort_create_date = %d\n' % j['data']['resources']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['resources']['_sort_last_updated'])
@@ -71,7 +71,7 @@ for key in j['data']:
             os.makedirs('output/submissions')
 
         #create file and structure
-        markdown = open('output/submissions/submissions.md','w')
+        markdown = open('output/submissions/submissions.toml','w')
         markdown.write('+++\n')
         markdown.write('_sort_create_date = %d\n' % j['data']['submissions']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['submissions']['_sort_last_updated'])
@@ -88,7 +88,7 @@ for key in j['data']:
             os.makedirs('output/sponsor')
 
         #create file and structure
-        markdown = open('output/sponsor/sponsor.md','w')
+        markdown = open('output/sponsor/sponsor.toml','w')
         markdown.write('+++\n')
         markdown.write('_sort_create_date = %d\n' % j['data']['sponsor']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['sponsor']['_sort_last_updated'])
@@ -107,11 +107,11 @@ for key in j['data']:
             os.makedirs('output/authors')
 
         for author in j['data']['authors']:
-            print("  the key %s is an author." % author)
+            #print("  the key %s is an author." % author)
             # print ("    author has a creation date of %s" % j['data']['authors'][author]['_sort_create_date'])            
             #Convert author name to LC and replace spaces with dashes to make good file names
             lc_name = (j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
-            markdown = open('output/authors/' + lc_name + '.md','w')
+            markdown = open('output/authors/' + lc_name + '.toml','w')
             markdown.write('+++\n')
             markdown.write('index = %r\n' % author.encode('utf-8'))
             markdown.write('_sort_create_date = %d\n' % j['data']['authors'][author]['_sort_create_date'])           
@@ -139,8 +139,44 @@ for key in j['data']:
             	markdown.write('preview_url = %r\n' % (j['data']['authors'][author]['preview_url']).encode('utf-8'))
             except KeyError:
             	markdown.write('preview_url = ""\n')
-
-            #books
-            #notes
+            try:
+            	markdown.write('written_about = %r\n' % (j['data']['authors'][author]['written_about']).encode('utf-8'))
+            except KeyError:
+            	markdown.write('written_about = ""\n')            	
+            try:
+            	index_builder = []
+            	for book in j['data']['authors'][author]['books']:
+            		index_builder.append(book.encode('utf-8'))
+            	markdown.write('books = %r\n' % index_builder)       	
+            except KeyError:
+            	markdown.write('books = ""\n')
+            try:
+            	index_builder = []
+            	for calendar in j['data']['authors'][author]['calendar_author']:
+            		index_builder.append(calendar.encode('utf-8'))
+            	markdown.write('calendar_author = %r\n' % index_builder)             	      	
+            except KeyError:
+            	markdown.write('calendar_author = ""\n')
+            try:
+            	index_builder = []
+            	for reviews in j['data']['authors'][author]['reviews']:
+            		index_builder.append(reviews.encode('utf-8'))
+            	markdown.write('reviews = %r\n' % index_builder)            	     	
+            except KeyError:
+            	markdown.write('reviews = ""\n') 
+            try:
+            	index_builder = []
+            	for note in j['data']['authors'][author]['notes']:
+            		index_builder.append(note.encode('utf-8'))
+            	markdown.write('notes = %r\n' % index_builder)               	
+            except KeyError:
+            	markdown.write('notes = ""\n')
+            try:
+            	index_builder = []
+            	for sponsorship in j['data']['authors'][author]['sponsorships_author']:
+            		index_builder.append(sponsorship.encode('utf-8'))
+            	markdown.write('sponsorships_author = %r\n' % index_builder)
+            except KeyError:
+            	markdown.write('sponsorships_author = ""\n')         	
             markdown.write('+++\n')
             markdown.close()
