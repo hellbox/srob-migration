@@ -116,20 +116,29 @@ for key in j['data']:
             markdown.write('index = %r\n' % author.encode('utf-8'))
             markdown.write('_sort_create_date = %d\n' % j['data']['authors'][author]['_sort_create_date'])           
             markdown.write('_sort_last_updated = %d\n' % j['data']['authors'][author]['_sort_last_updated'])
+            markdown.write('last_updated = %r\n' % (j['data']['authors'][author]['last_updated']).encode('utf-8'))
+            markdown.write('name = %r\n' % (j['data']['authors'][author]['name']).encode('utf-8'))
+            markdown.write('publish_date = %r\n' % (j['data']['authors'][author]['publish_date']).encode('utf-8'))
             try:
             	markdown.write('alphabetize_by = %r\n' % (j['data']['authors'][author]['alphabetize_by']).encode('utf-8'))
             except KeyError:
-            	markdown.write('alphabetize_by = ""')            	
-            #markdown.write('isDraft = %r\n' % (j['data']['authors'][author]['isDraft']).encode('utf-8'))
-            ##books loop
-            #markdown.write('create_date = %r\n' % (j['data']['authors'][author]['create_date']).encode('utf-8'))
-            #markdown.write('isDraft = %r\n' % (j['data']['authors'][author]['isDraft']).encode('utf-8'))
-            #markdown.write('is_seattle__pnw_writer = %r\n' % (j['data']['authors'][author]['is_seattle__pnw_writer']).encode('utf-8'))
-            #markdown.write('last_updated = %r\n' % (j['data']['authors'][author]['last_updated']).encode('utf-8'))
-            #markdown.write('name = %r\n' % (j['data']['authors'][author]['name']).encode('utf-8'))
-            ##notes loop
-            #markdown.write('preview_url = %r\n' % (j['data']['authors'][author]['preview_url']).encode('utf-8'))
-            #markdown.write('publish_date = %r\n' % (j['data']['authors'][author]['publish_date']).encode('utf-8'))
+            	markdown.write('alphabetize_by = ""\n')
+            try:
+            	markdown.write('isDraft = %r\n' % (j['data']['authors'][author]['isDraft']))
+            except KeyError:
+            	markdown.write('isDraft = ""\n')
+            try:
+            	markdown.write('create_date = %r\n' % (j['data']['authors'][author]['create_date']).encode('utf-8'))
+            except KeyError:
+            	markdown.write('create_date = ""\n')
+            try:
+            	markdown.write('is_seattle__pnw_writer = %r\n' % (j['data']['authors'][author]['is_seattle__pnw_writer']))
+            except KeyError:
+            	markdown.write('is_seattle__pnw_writer = ""\n')
+            try:
+            	markdown.write('preview_url = %r\n' % (j['data']['authors'][author]['preview_url']).encode('utf-8'))
+            except KeyError:
+            	markdown.write('preview_url = ""\n')
 
             #books
             #notes
