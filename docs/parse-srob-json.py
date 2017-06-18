@@ -195,33 +195,79 @@ for key in j['data']:
         	markdown.write('_sort_create_date = %d\n' % j['data']['authors'][author]['_sort_create_date'])
         	markdown.write('_sort_last_updated = %d\n' % j['data']['authors'][author]['_sort_last_updated'])
         	markdown.write('last_updated = %r\n' % (j['data']['authors'][author]['last_updated']).encode('utf-8'))
+        	markdown.write('name = %r\n' % (j['data']['authors'][author]['name']).encode('utf-8'))
 
-        	# Category can either be an item or an object so we need to check for both
+        	try:
+        		markdown.write('subtitle = %r\n' % (j['data']['books'][book]['subtitle']).encode('utf-8'))
+    		except KeyError:
+    			markdown.write('subtitle = ""\n')
+
+        	try:
+        		markdown.write('isbn = %r\n' % (j['data']['books'][book]['isbn']).encode('utf-8'))
+    		except KeyError:
+    			markdown.write('isbn = ""\n')
+
+        	try:
+        		markdown.write('isbn_13 = %r\n' % (j['data']['books'][book]['isbn_13']).encode('utf-8'))
+    		except KeyError:
+    			markdown.write('isbn_13 = ""\n') 
+
+        	try:
+        		markdown.write('page_count = %r\n' % (j['data']['books'][book]['page_count']).encode('utf-8'))
+    		except KeyError:
+    			markdown.write('page_count = ""\n')
+
+        	try:
+        		markdown.write('description = %r\n' % (j['data']['books'][book]['description']).encode('utf-8'))
+    		except KeyError:
+    			markdown.write('description = ""\n')
+
+        	try:
+        		markdown.write('publication_date = %r\n' % (j['data']['books'][book]['publication_date']).encode('utf-8'))
+    		except KeyError:
+    			markdown.write('publication_date = ""\n') 
+
+        	try:
+        		markdown.write('how_we_acquired = %r\n' % (j['data']['books'][book]['how_we_acquired']).encode('utf-8'))
+    		except KeyError:
+    			markdown.write('how_we_acquired = ""\n')
+
+        	try:
+        		markdown.write('is_sponsorship = %r\n' % (j['data']['books'][book]['is_sponsorship']))
+    		except KeyError:
+    			markdown.write('is_sponsorship = ""\n')
+
+        	try:
+        		markdown.write('alt_purchase_link = %r\n' % (j['data']['books'][book]['alt_purchase_link']).encode('utf-8'))
+    		except KeyError:
+    			markdown.write('alt_purchase_link = ""\n')  
+
+        	try:
+        		markdown.write('alt_purchase_label = %r\n' % (j['data']['books'][book]['alt_purchase_label']).encode('utf-8'))
+    		except KeyError:
+    			markdown.write('alt_purchase_label = ""\n')  
+
+        	try:
+        		markdown.write('ebook_purchase = %r\n' % (j['data']['books'][book]['ebook_purchase']).encode('utf-8'))   
+    		except KeyError:
+    			markdown.write('ebook_purchase = ""\n') 
+
+        	try:
+        		markdown.write('alt_ebook_label = %r\n' % (j['data']['books'][book]['alt_ebook_label']).encode('utf-8'))
+    		except KeyError:
+    			markdown.write('alt_ebook_label = ""\n')       			      			     			     			       			      			      			
+
+        	# Category can either be an item or an object so we need to check for both, and in this case, flatten them
         	try:
         		markdown.write('category = %r\n' % (j['data']['books'][book]['category']).encode('utf-8'))
         	except AttributeError:
-        		index_builder = []
+        		index_builder = ""
         		for category in j['data']['books'][book]['category']:
-        			index_builder.append(category.encode('utf-8'))
+        			index_builder = index_builder + category.encode('utf-8')
         		markdown.write('category = %r\n' % index_builder)
+        		print(index_builder)
         	except KeyError:
         		markdown.write('category = ""\n')
-
-
-        	# FLAT #
-        	# name        	
-        	# subtitle        	
-        	# isbn
-        	# isbn_13
-        	# page_count
-        	# description
-        	# publication_date
-        	# how_we_acquired
-        	# is_sponsorship
-        	# alt_purchase_link
-        	# alt_purchase_label
-        	# ebook_purchase
-        	# alt_ebook_label
 
  
 
