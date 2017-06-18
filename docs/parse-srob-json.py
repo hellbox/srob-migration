@@ -100,7 +100,8 @@ for key in j['data']:
         markdown.write((j['data']['sponsor']['markdown_text']).encode('utf-8'))
         markdown.close()
 
-    #And now for the things with more complex relationships. Here we go
+    
+    # AUTHORS AREA
 
     elif key == 'authors':
         if not os.path.exists('output/authors'):
@@ -180,3 +181,78 @@ for key in j['data']:
             	markdown.write('sponsorships_author = ""\n')         	
             markdown.write('+++\n')
             markdown.close()
+
+    # BOOKS AREA
+    elif key == 'books':
+        if not os.path.exists('output/books'):
+            os.makedirs('output/books')
+
+        for book in j['data']['books']:
+        	lc_name = (j['data']['books'][book]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        	markdown = open('output/books/' + lc_name + '.toml','w')
+        	markdown.write('+++\n')
+        	markdown.write('index = %r\n' % book.encode('utf-8'))
+        	markdown.write('_sort_create_date = %d\n' % j['data']['authors'][author]['_sort_create_date'])
+        	markdown.write('_sort_last_updated = %d\n' % j['data']['authors'][author]['_sort_last_updated'])
+        	markdown.write('last_updated = %r\n' % (j['data']['authors'][author]['last_updated']).encode('utf-8'))
+
+        	# Category can either be an item or an object so we need to check for both
+        	try:
+        		markdown.write('category = %r\n' % (j['data']['books'][book]['category']).encode('utf-8'))
+        	except AttributeError:
+        		index_builder = []
+        		for category in j['data']['books'][book]['category']:
+        			index_builder.append(category.encode('utf-8'))
+        		markdown.write('category = %r\n' % index_builder)
+        	except KeyError:
+        		markdown.write('category = ""\n')
+
+
+        	# FLAT #
+        	# name        	
+        	# subtitle        	
+        	# isbn
+        	# isbn_13
+        	# page_count
+        	# description
+        	# publication_date
+        	# how_we_acquired
+        	# is_sponsorship
+        	# alt_purchase_link
+        	# alt_purchase_label
+        	# ebook_purchase
+        	# alt_ebook_label
+
+ 
+
+        	# LOOPS #
+        	# image
+        		# height
+        		# resize_url
+        		# size
+        		# type
+        		# url
+        		# width
+        	# publisher_relationship
+			# translator
+        	# review_relationship
+        	# sponsorships_book
+        	# translator
+        	# notes_relationship
+
+        	markdown.write('+++\n')
+        	markdown.close() 
+
+#    # TEMPLATE AREA
+#	elif key == 'xxxx':
+#        if not os.path.exists('output/xxxx'):
+#            os.makedirs('output/xxxx')
+#
+#        for book in j['data']['xxxx']:
+#        	lc_name = (j['data']['xxxx'][xxxx]['name']).replace(' ', '-').replace('.','').lower()
+#            markdown = open('output/xxxx/' + lc_name + '.toml','w')
+#            markdown.write('+++\n')
+#            markdown.write('+++\n')  
+#            markdown.close()                            
+#
+
