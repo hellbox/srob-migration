@@ -287,64 +287,55 @@ for key in j['data']:
         		markdown.write('translator = ""\n')
 
         	try:
-        		index_builder = []
+        		index_builder = {}
         		for image in j['data']['books'][book]['image']:
-        			if image == 'width':
-        				index_builder[image] = j['data']['books'][book]['image'][image]
+        			if image == 'width':   
+        				index_builder['width'] = j['data']['books'][book]['image'][image]
     				elif image == 'height':
-    					print(image)
+    					index_builder['height'] = j['data']['books'][book]['image'][image]
     				elif image == 'resize_url':
-						print(image)
+						index_builder['resize_url'] = (j['data']['books'][book]['image'][image]).encode('utf-8')
     				elif image == 'url':
-						print(image)
+						index_builder['url'] = (j['data']['books'][book]['image'][image]).encode('utf-8')
     				elif image == 'type':
-						print(image)
+						index_builder['type'] = (j['data']['books'][book]['image'][image]).encode('utf-8')
     				elif image == 'size':
-						print(image)
-
-        			#index_builder = index_builder + image.encode('utf-8')
-        			index_builder.append(image.encode('utf-8'))
+						index_builder['size'] = j['data']['books'][book]['image'][image]        			
         		markdown.write('image = %r\n' % index_builder)
         	except KeyError:
-        		markdown.write('image = ""\n')        		
+        		markdown.write('image = ""\n')
 
- #       	try:
- #       		index_builder = []
- #       		for image in j['data']['books'][book]['image']:
- #       			print(image)
- #       		except KeyError:
-#					print('KeyError')
-#
+        	try:
+        		index_builder = []
+        		for review in j['data']['books'][book]['review_relationship']:
+        			index_builder.append(review.encode('utf-8'))
+        		markdown.write('review_relationship = %r\n' % index_builder)
+        	except KeyError:
+        		markdown.write('review_relationship = ""\n')
 
-     			### IF STATEMENT ISN'T WORKING FOR SOME REASON
-     			#	if "cron" == 'cron':
-     			#		print('height')
-     			#	elif j['data'['books'][book]['image'][image] == 'size':
-     			#		print('size')
- 				#	elif j['data'['books'][book]['image'][image] == 'type':
- 				#		print('type')
- 				#	elif j['data'['books'][book]['image'][image] == 'url':
- 				#		print('url')
-				#	elif j['data'['books'][book]['image'][image] == 'width':
-				#		print('width')
-     		#
-		
- 
+        	try:
+        		index_builder = []
+        		for sponsorship in j['data']['books'][book]['sponsorships_book']:
+        			index_builder.append(sponsorship.encode('utf-8'))
+        		markdown.write('sponsorships_book = %r\n' % index_builder)
+        	except KeyError:
+        		markdown.write('sponsorships_book = ""\n')
 
-        	# LOOPS #
-        	# image
-        		# height
-        		# resize_url
-        		# size
-        		# type
-        		# url
-        		# width
-        	# review_relationship - multiple 
-        	# sponsorships_book 
-        	# notes_relationship - multiple 
+        	try:
+        		index_builder = []
+        		for notes in j['data']['books'][book]['notes_relationship']:
+        			index_builder.append(notes.encode('utf-8'))
+        		markdown.write('notes_relationship = %r\n' % index_builder)
+        		print(index_builder)
+        	except KeyError:
+        		markdown.write('notes_relationship = ""\n')          		          		       		     		
 
         	markdown.write('+++\n')
         	markdown.close() 
+  
+
+    ###### END BOOKS AREA #######
+
 
 #    # TEMPLATE AREA
 #	elif key == 'xxxx':
