@@ -341,6 +341,7 @@ for key in j['data']:
           lc_name = (j['data']['calendar'][calendar]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
           markdown = open('output/calendar/' + lc_name + '.toml', 'w')
           markdown.write('+++\n')
+          markdown.write('index = %r\n' % (calendar).encode('utf-8'))
           markdown.write('name = %r\n' % (j['data']['calendar'][calendar]['name']).encode('utf-8'))
           # IMAGE
           try:
@@ -431,8 +432,76 @@ for key in j['data']:
             markdown.write((j['data']['calendar'][calendar]['details']).encode('utf-8')) 
           except:
             markdown.write('')
+          markdown.close() 
 
-          markdown.close()     
+    elif key == 'notes':
+      if not os.path.exists('output/notes'):
+        os.makedirs('output/notes')
+
+      for note in j['data']['notes']:
+        lc_name = (j['data']['notes'][note]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
+        markdown = open('output/notes/' + lc_name + '.toml', 'w')
+        markdown.write('+++\n')
+        markdown.write('index = %r\n' % (note).encode('utf-8'))
+        markdown.write('name = %r\n' % (j['data']['notes'][note]['name']).encode('utf-8'))
+        markdown.write('type = %r\n' % (j['data']['notes'][note]['type']).encode('utf-8'))
+
+        try:
+          markdown.write('url = %r\n' % (j['data']['notes'][note]['url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('url = ""\n')
+        try:
+          markdown.write('shareimage = %r\n' % (j['data']['notes'][note]['shareimage']).encode('utf-8'))
+        except KeyError:
+          markdown.write('shareimage = ""\n') 
+        try:
+          markdown.write('twitterauto = %r\n' % (j['data']['notes'][note]['twitterauto']).encode('utf-8'))
+        except KeyError:
+          markdown.write('twitterauto = ""\n')               
+        try:
+          markdown.write('facebookauto = %r\n' % (j['data']['notes'][note]['facebookauto']).encode('utf-8'))
+        except KeyError:
+          markdown.write('facebookauto = ""\n')
+        try:
+          markdown.write('make_image_tweet = %r\n' % (j['data']['notes'][note]['make_image_tweet']))
+        except KeyError:
+          markdown.write('make_image_tweet = ""\n')
+
+        try:
+            index_builder = []
+            for byline in j['data']['notes'][note]['byline']:
+                index_builder.append(byline.encode('utf-8'))
+            markdown.write('byline = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('byline = ""\n')
+        try:
+            index_builder = []
+            for tags_notes in j['data']['notes'][note]['tags_notes']:
+                index_builder.append(tags_notes.encode('utf-8'))
+            markdown.write('tags_notes = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('tags_notes = ""\n')
+        try:
+            index_builder = []
+            for authors_notes in j['data']['notes'][note]['authors_notes']:
+                index_builder.append(authors_notes.encode('utf-8'))
+            markdown.write('authors_notes = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('authors_notes = ""\n')
+        try:
+            index_builder = []
+            for books in j['data']['notes'][note]['books']:
+                index_builder.append(books.encode('utf-8'))
+            markdown.write('books = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('books = ""\n')                                      
+
+
+        markdown.write('+++\n')
+        
+        markdown.write((j['data']['notes'][note]['post']).encode('utf-8'))
+
+        markdown.close()
 
 
 #    # TEMPLATE AREA
