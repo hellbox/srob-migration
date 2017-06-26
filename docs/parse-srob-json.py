@@ -366,20 +366,20 @@ for key in j['data']:
           try:
             markdown.write('link = %r\n' % (j['data']['calendar'][calendar]['link']).encode('utf-8')) 
           except:
-            markdown.write('link = "\n')
+            markdown.write('link = ""\n')
 
           try:
             markdown.write('date = %r\n' % (j['data']['calendar'][calendar]['date']).encode('utf-8')) 
           except:
-            markdown.write('date = "\n') 
+            markdown.write('date = ""\n') 
           try:
             markdown.write('start_time = %r\n' % (j['data']['calendar'][calendar]['start_time']).encode('utf-8')) 
           except:
-            markdown.write('start_time = "\n') 
+            markdown.write('start_time = ""\n') 
           try:
             markdown.write('end_time = %r\n' % (j['data']['calendar'][calendar]['end_time']).encode('utf-8')) 
           except:
-            markdown.write('end_time = "\n')  
+            markdown.write('end_time = ""\n')  
           try:
             markdown.write('time_description = %r\n' % (j['data']['calendar'][calendar]['time_description']).encode('utf-8')) 
           except:
@@ -387,52 +387,45 @@ for key in j['data']:
           try:
             markdown.write('end_time = %r\n' % (j['data']['calendar'][calendar]['end_time']).encode('utf-8')) 
           except:
-            markdown.write('end_time = "\n')   
+            markdown.write('end_time = ""\n')   
           try:
             markdown.write('enddate = %r\n' % (j['data']['calendar'][calendar]['enddate']).encode('utf-8')) 
           except:
-            markdown.write('enddate = "\n')
+            markdown.write('enddate = ""\n')
           try:
               markdown.write('is_sponsorship = %r\n' % (j['data']['calendar'][calendar]['is_sponsorship']))
           except KeyError:
               markdown.write('is_sponsorship = ""\n')  
 
-          try:
-              index_builder = ""
-              for author in j['data']['calendar'][calendar]['authors']:
-                  index_builder = index_builder + author.encode('utf-8')
-              markdown.write('authors = %r\n' % index_builder)
-          except KeyError:
-              markdown.write('authors = ""\n')
-          try:
-              index_builder = ""
-              for sponsorship_event in j['data']['calendar'][calendar]['sponsorship_events']:
-                  index_builder = index_builder + sponsorship_event.encode('utf-8')
-              markdown.write('sponsorship_events = %r\n' % index_builder)
-          except KeyError:
-              markdown.write('sponsorship_events = ""\n')
-          try:
-              index_builder = ""
-              for sponsorship_event in j['data']['calendar'][calendar]['venues']:
-                  venue = index_builder + venue.encode('utf-8')
-              markdown.write('venues = %r\n' % index_builder)
-          except KeyError:
-              markdown.write('venues = ""\n')  
+        try:
+            index_builder = []
+            for authors in j['data']['calendar'][calendar]['authors']:
+                index_builder.append(authors.encode('utf-8'))
+            markdown.write('authors = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('authors = ""\n')
 
-          try:
-              index_builder = ""
-              for sponsorship_event in j['data']['calendar'][calendar]['venues']:
-                  venue = index_builder + venue.encode('utf-8')
-              markdown.write('venues = %r\n' % index_builder)
-          except KeyError:
-              markdown.write('venues = ""\n')                            
-          markdown.write('+++\n')  
+        try:
+            index_builder = []
+            for sponsorship_event in j['data']['calendar'][calendar]['sponsorship_event']:
+                index_builder.append(sponsorship_event.encode('utf-8'))
+            markdown.write('sponsorship_event = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('sponsorship_event = ""\n')                  
 
-          try:
-            markdown.write((j['data']['calendar'][calendar]['details']).encode('utf-8')) 
-          except:
-            markdown.write('')
-          markdown.close() 
+        try:
+          index_builder = ""
+          for venues in j['data']['calendar'][calendar]['venues']:
+            venue = index_builder + venue.encode('utf-8')
+          markdown.write('venues = %r\n' % index_builder)
+        except KeyError:
+          markdown.write('venues = ""\n')
+
+        try:
+          markdown.write((j['data']['calendar'][calendar]['details']).encode('utf-8')) 
+        except:
+          markdown.write('')
+        markdown.close() 
 
     elif key == 'notes':
       if not os.path.exists('output/notes'):
@@ -502,6 +495,39 @@ for key in j['data']:
         markdown.write((j['data']['notes'][note]['post']).encode('utf-8'))
 
         markdown.close()
+
+    elif key == 'publishers':
+      if not os.path.exists('output/publishers'):
+        os.makedirs('output/publishers')
+
+      for publisher in j['data']['publishers']:
+        lc_name = (j['data']['publishers'][publisher]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        markdown = open('output/publishers/' + lc_name + '.toml', 'w')
+        markdown.write('+++\n')
+        markdown.write('index = %r\n' % publisher.encode('utf-8'))
+        try:
+          markdown.write('create_date = %r\n' % j['data']['publishers'][publisher]['create_date'])
+        except KeyError:
+          markdown.write('create_date = ""\n')
+        try:
+          markdown.write('last_updated = %r\n' % (j['data']['publishers'][publisher]['last_updated']).encode('utf-8'))
+        except KeyError:
+          markdown.write('last_updated = ""\n')
+        markdown.write('name = %r\n' % (j['data']['publishers'][publisher]['name']).encode('utf-8'))
+        try:
+          markdown.write('publish_date = %r\n' % (j['data']['publishers'][publisher]['publish_date']).encode('utf-8'))        
+        except:
+          markdown.write('publish date = ""\n') 
+        try:
+            index_builder = []
+            for publisher in j['data']['publishers'][publisher]['books_by_this_publisher']:
+                index_builder.append(publisher.encode('utf-8'))
+            markdown.write('books_by_this_publisher = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('books_by_this_publisher = ""\n')          
+        # books_by_this_publisher
+        markdown.write('+++\n')
+        markdown.close()        
 
 
 #    # TEMPLATE AREA
