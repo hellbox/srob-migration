@@ -21,6 +21,7 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/about/about.toml', 'w')
         markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK        
         markdown.write('_sort_create_date = %d\n' % j['data']['about']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['about']['_sort_last_updated'])
         markdown.write('create_date = %r\n' % (j['data']['about']['create_date']).encode('utf-8'))
@@ -39,6 +40,7 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/privacy/privacy.toml','w')
         markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK        
         markdown.write('_sort_create_date = %d\n' % j['data']['privacy']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['privacy']['_sort_last_updated'])
         markdown.write('create_date = %r\n' % (j['data']['privacy']['create_date']).encode('utf-8'))
@@ -56,6 +58,7 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/resources/resources.toml','w')
         markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK        
         markdown.write('_sort_create_date = %d\n' % j['data']['resources']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['resources']['_sort_last_updated'])
         markdown.write('create_date = %r\n' % (j['data']['resources']['create_date']).encode('utf-8'))
@@ -73,6 +76,7 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/submissions/submissions.toml', 'w')
         markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK        
         markdown.write('_sort_create_date = %d\n' % j['data']['submissions']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['submissions']['_sort_last_updated'])
         markdown.write('create_date = %r\n' % (j['data']['submissions']['create_date']).encode('utf-8'))
@@ -90,6 +94,7 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/sponsor/sponsor.toml', 'w')
         markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK        
         markdown.write('_sort_create_date = %d\n' % j['data']['sponsor']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['sponsor']['_sort_last_updated'])
         markdown.write('create_date = %r\n' % (j['data']['sponsor']['create_date']).encode('utf-8'))
@@ -111,6 +116,7 @@ for key in j['data']:
             lc_name = (j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
             markdown = open('output/authors/' + lc_name + '.toml','w')
             markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK            
             markdown.write('index = %r\n' % author.encode('utf-8'))
             markdown.write('_sort_create_date = %d\n' % j['data']['authors'][author]['_sort_create_date'])
             markdown.write('_sort_last_updated = %d\n' % j['data']['authors'][author]['_sort_last_updated'])
@@ -190,6 +196,7 @@ for key in j['data']:
             lc_name = (j['data']['books'][book]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
             markdown = open('output/books/' + lc_name + '.toml','w')
             markdown.write('+++\n')
+            ## REPLACE WITH STANDARD DATA BLOCK            
             markdown.write('index = %r\n' % book.encode('utf-8'))
             markdown.write('_sort_create_date = %d\n' % j['data']['authors'][author]['_sort_create_date'])
             markdown.write('_sort_last_updated = %d\n' % j['data']['authors'][author]['_sort_last_updated'])
@@ -435,6 +442,7 @@ for key in j['data']:
         lc_name = (j['data']['notes'][note]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
         markdown = open('output/notes/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK        
         markdown.write('index = %r\n' % (note).encode('utf-8'))
         markdown.write('name = %r\n' % (j['data']['notes'][note]['name']).encode('utf-8'))
         markdown.write('type = %r\n' % (j['data']['notes'][note]['type']).encode('utf-8'))
@@ -504,6 +512,7 @@ for key in j['data']:
         lc_name = (j['data']['publishers'][publisher]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
         markdown = open('output/publishers/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK        
         markdown.write('index = %r\n' % publisher.encode('utf-8'))
         try:
           markdown.write('create_date = %r\n' % j['data']['publishers'][publisher]['create_date'])
@@ -527,7 +536,48 @@ for key in j['data']:
             markdown.write('books_by_this_publisher = ""\n')          
         # books_by_this_publisher
         markdown.write('+++\n')
-        markdown.close()        
+        markdown.close()
+
+    elif key == 'reviews':
+      if not os.path.exists('output/reviews'):
+        os.makedirs('output/reviews')
+
+      for review in j['data']['reviews']:
+        lc_name = (j['data']['reviews'][review]['name']).replace(' ', '-').replace('.','').lower()
+        markdown = open('output/reviews/' + lc_name + '.toml', 'w')
+        markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK
+        markdown.write('index = %r\n' % review.encode('utf-8'))
+        markdown.write('name = %r\n' % (j['data']['reviews'][review]['name']).encode('utf-8'))        
+        markdown.write('dek = %r\n' % (j['data']['reviews'][review]['dek']).encode('utf-8'))
+        try:
+          markdown.write('facebookauto = %r\n' % (j['data']['reviews'][review]['facebookauto']).encode('utf-8'))
+        except KeyError:
+          markdown.write
+
+        try:
+          markdown.write('twitterauto = %r\n' % (j['data']['reviews'][review]['twitterauto']).encode('utf-8'))
+        except KeyError:
+          markdown.write
+
+        
+
+        # by (loop)
+        # books in review (loop)
+
+        # tags (loop)
+        # authors (loop)
+        # facebook-auto
+        # twitter-auto
+
+        markdown.write('+++\n\n')
+
+        markdown.write((j['data']['reviews'][review]['review']).encode('utf-8'))
+
+        markdown.close()
+
+
+
 
 
 #    # TEMPLATE AREA
