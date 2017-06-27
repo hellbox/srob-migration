@@ -560,21 +560,74 @@ for key in j['data']:
         except KeyError:
           markdown.write
 
-        
+        try:
+            index_builder = []
+            for by in j['data']['reviews'][review]['by']:
+                index_builder.append(by.encode('utf-8'))
+            markdown.write('by = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('by = ""\n')
 
-        # by (loop)
-        # books in review (loop)
+        try:
+            index_builder = []
+            for books_in_this_review in j['data']['reviews'][review]['books_in_this_review']:
+                index_builder.append(books_in_this_review.encode('utf-8'))
+            markdown.write('books_in_this_review = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('books_in_this_review = ""\n')
 
-        # tags (loop)
-        # authors (loop)
-        # facebook-auto
-        # twitter-auto
+        try:
+            index_builder = []
+            for tags_reviews in j['data']['reviews'][review]['tags_reviews']:
+                index_builder.append(tags_reviews.encode('utf-8'))
+            markdown.write('tags_reviews = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('tags_reviews = ""\n')
 
+        try:
+            index_builder = []
+            for authors_reviews in j['data']['reviews'][review]['authors_reviews']:
+                index_builder.append(authors_reviews.encode('utf-8'))
+            markdown.write('authors_reviews = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('authors_reviews = ""\n')                                  
         markdown.write('+++\n\n')
-
         markdown.write((j['data']['reviews'][review]['review']).encode('utf-8'))
-
         markdown.close()
+
+    elif key == 'tags':
+      if not os.path.exists('output/tags'):
+        os.makedirs('output/tags')
+
+      for tag in j['data']['tags']:
+        lc_name = (j['data']['tags'][tag]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        markdown = open('output/tags/' + lc_name + '.toml', 'w')
+        markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK
+        markdown.write('index = %r\n' % tag.encode('utf-8'))
+        markdown.write('name = %r\n' % (j['data']['tags'][tag]['name']).encode('utf-8'))                
+        try:
+            markdown.write('is_column = %r\n' % (j['data']['tags'][tag]['is_column']))
+        except KeyError:
+            markdown.write('is_column = False\n')  
+
+        try:
+            index_builder = []
+            for reviews in j['data']['tags'][tag]['reviews']:
+                index_builder.append(reviews.encode('utf-8'))
+            markdown.write('reviews = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('reviews = ""\n')
+        try:
+            index_builder = []
+            for notes in j['data']['tags'][tag]['notes']:
+                index_builder.append(notes.encode('utf-8'))
+            markdown.write('notes = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('notes = ""\n')        
+            
+        markdown.write('+++\n\n')  
+        markdown.close()   
 
 
 
