@@ -625,9 +625,30 @@ for key in j['data']:
             markdown.write('notes = %r\n' % index_builder)
         except KeyError:
             markdown.write('notes = ""\n')        
-            
+
         markdown.write('+++\n\n')  
-        markdown.close()   
+        markdown.close()
+
+    elif key == 'translators':
+      if not os.path.exists('output/translators'):
+        os.makedirs('output/translators')
+
+      for translator in j['data']['translators']:
+        lc_name = (j['data']['translators'][translator]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        markdown = open('output/translators/' + lc_name + '.toml', 'w')
+        markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK
+        markdown.write('index = %r\n' % translator.encode('utf-8'))
+        markdown.write('name = %r\n' % (j['data']['translators'][translator]['name']).encode('utf-8'))                 
+        try:
+            index_builder = []
+            for translators in j['data']['translators'][translator]['books_translator']:
+                index_builder.append(translators.encode('utf-8'))
+            markdown.write('books = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('books = ""\n')          
+        markdown.write('+++\n\n')  
+        markdown.close()                
 
 
 
