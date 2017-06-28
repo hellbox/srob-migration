@@ -644,11 +644,85 @@ for key in j['data']:
             index_builder = []
             for translators in j['data']['translators'][translator]['books_translator']:
                 index_builder.append(translators.encode('utf-8'))
-            markdown.write('books = %r\n' % index_builder)
+            markdown.write('books_translator = %r\n' % index_builder)
         except KeyError:
-            markdown.write('books = ""\n')          
+            markdown.write('books_translator = ""\n')          
         markdown.write('+++\n\n')  
-        markdown.close()                
+        markdown.close()
+
+    elif key == 'writers':
+      if not os.path.exists('output/writers'):
+        os.makedirs('output/writers')
+
+      for writer in j['data']['writers']:
+        lc_name = (j['data']['writers'][writer]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        markdown = open('output/writers/' + lc_name + '.toml', 'w')
+        markdown.write('+++\n')
+        ## REPLACE WITH STANDARD DATA BLOCK
+        markdown.write('index = %r\n' % writer.encode('utf-8'))
+        markdown.write('name = %r\n' % (j['data']['writers'][writer]['name']).encode('utf-8'))
+        try:
+          markdown.write('alphabetize_by = %r\n' % (j['data']['writers'][writer]['alphabetize_by']).encode('utf-8'))
+        except KeyError:
+          markdown.write('alphabetize_by = ""\n')
+        try:
+          markdown.write('email = %r\n' % (j['data']['writers'][writer]['email']).encode('utf-8'))
+        except KeyError:
+          markdown.write('email = ""\n')
+        try:
+          markdown.write('twitter = %r\n' % (j['data']['writers'][writer]['twitter']).encode('utf-8'))
+        except KeyError:
+          markdown.write('twitter = ""\n') 
+        try:
+          markdown.write('website = %r\n' % (j['data']['writers'][writer]['website']).encode('utf-8'))
+        except KeyError:
+          markdown.write('website = ""\n') 
+        try:
+          markdown.write('bio = %r\n' % (j['data']['writers'][writer]['bio']).encode('utf-8'))
+        except KeyError:
+          markdown.write('bio = ""\n')
+        try:
+          markdown.write('gender = %r\n' % (j['data']['writers'][writer]['gender']).encode('utf-8'))
+        except KeyError:
+          markdown.write('gender = ""\n')
+        try:
+          markdown.write('ethnicity = %r\n' % (j['data']['writers'][writer]['ethnicity']).encode('utf-8'))
+        except KeyError:
+          markdown.write('ethnicity = ""\n')
+        try:
+          markdown.write('underrepresented = %r\n' % (j['data']['writers'][writer]['underrepresented']).encode('utf-8'))
+        except KeyError:
+          markdown.write('underrepresented = ""\n')           
+
+        # reviews_by
+        # notes_byline
+        # written_about
+
+        try:
+            index_builder = []
+            for reviews_by in j['data']['writers'][writer]['reviews_by']:
+                index_builder.append(reviews_by.encode('utf-8'))
+            markdown.write('reviews_by = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('reviews_by = ""\n')
+        try:
+            index_builder = []
+            for notes_byline in j['data']['writers'][writer]['notes_byline']:
+                index_builder.append(notes_byline.encode('utf-8'))
+            markdown.write('notes_byline = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('notes_byline = ""\n')
+        try:
+            index_builder = []
+            for written_about in j['data']['writers'][writer]['written_about']:
+                index_builder.append(written_about.encode('utf-8'))
+            markdown.write('written_about = %r\n' % index_builder)
+        except KeyError:
+            markdown.write('written_about = ""\n')                         
+
+
+        markdown.write('+++\n\n')  
+        markdown.close()                         
 
 
 
