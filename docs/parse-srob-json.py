@@ -692,11 +692,7 @@ for key in j['data']:
         try:
           markdown.write('underrepresented = %r\n' % (j['data']['writers'][writer]['underrepresented']).encode('utf-8'))
         except KeyError:
-          markdown.write('underrepresented = ""\n')           
-
-        # reviews_by
-        # notes_byline
-        # written_about
+          markdown.write('underrepresented = ""\n')
 
         try:
             index_builder = []
@@ -725,19 +721,5 @@ for key in j['data']:
         markdown.close()                         
 
 
-
-
-
-#    # TEMPLATE AREA
-#   elif key == 'xxxx':
-#        if not os.path.exists('output/xxxx'):
-#            os.makedirs('output/xxxx')
-#
-#        for book in j['data']['xxxx']:
-#           lc_name = (j['data']['xxxx'][xxxx]['name']).replace(' ', '-').replace('.','').lower()
-#            markdown = open('output/xxxx/' + lc_name + '.toml','w')
-#            markdown.write('+++\n')
-#            markdown.write('+++\n')  
-#            markdown.close()                            
-#
-
+# TODO:
+# 1. Replace ## REPLACE WITH STANDARD DATA BLOCK
