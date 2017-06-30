@@ -21,13 +21,25 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/about/about.toml', 'w')
         markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK        
+        ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['about']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['about']['_sort_last_updated'])
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['about']['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
         markdown.write('create_date = %r\n' % (j['data']['about']['create_date']).encode('utf-8'))
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['about']['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n')     
         markdown.write('last_updated = %r\n' % (j['data']['about']['last_updated']).encode('utf-8'))
+        try:
+          markdown.write('preview_url = %r\n' % (j['data']['about']['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##        
         markdown.write('name = %r\n' % (j['data']['about']['name']).encode('utf-8'))
-        markdown.write('preview_url = %r\n' % (j['data']['about']['preview_url']).encode('utf-8'))
         markdown.write('+++\n\n')
         markdown.write((j['data']['about']['markdown_text']).encode('utf-8'))
         markdown.close()
@@ -40,13 +52,25 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/privacy/privacy.toml','w')
         markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK        
+        ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['privacy']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['privacy']['_sort_last_updated'])
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['privacy']['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
         markdown.write('create_date = %r\n' % (j['data']['privacy']['create_date']).encode('utf-8'))
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['privacy']['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n')     
         markdown.write('last_updated = %r\n' % (j['data']['privacy']['last_updated']).encode('utf-8'))
+        try:
+          markdown.write('preview_url = %r\n' % (j['data']['privacy']['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##          
         markdown.write('name = %r\n' % (j['data']['privacy']['name']).encode('utf-8'))
-        markdown.write('preview_url = %r\n' % (j['data']['privacy']['preview_url']).encode('utf-8'))
         markdown.write('+++\n\n')
         markdown.write((j['data']['privacy']['markdown_text']).encode('utf-8'))
         markdown.close()
@@ -58,13 +82,25 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/resources/resources.toml','w')
         markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK        
+        ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['resources']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['resources']['_sort_last_updated'])
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['resources']['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
         markdown.write('create_date = %r\n' % (j['data']['resources']['create_date']).encode('utf-8'))
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['resources']['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n')     
         markdown.write('last_updated = %r\n' % (j['data']['resources']['last_updated']).encode('utf-8'))
+        try:
+          markdown.write('preview_url = %r\n' % (j['data']['resources']['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##   
         markdown.write('name = %r\n' % (j['data']['resources']['name']).encode('utf-8'))
-        markdown.write('preview_url = %r\n' % (j['data']['resources']['preview_url']).encode('utf-8'))
         markdown.write('+++\n\n')
         markdown.write((j['data']['resources']['markdown_text']).encode('utf-8'))
         markdown.close()
@@ -76,13 +112,25 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/submissions/submissions.toml', 'w')
         markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK        
+        ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['submissions']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['submissions']['_sort_last_updated'])
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['submissions']['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
         markdown.write('create_date = %r\n' % (j['data']['submissions']['create_date']).encode('utf-8'))
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['submissions']['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n')     
         markdown.write('last_updated = %r\n' % (j['data']['submissions']['last_updated']).encode('utf-8'))
+        try:
+          markdown.write('preview_url = %r\n' % (j['data']['submissions']['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##   
         markdown.write('name = %r\n' % (j['data']['submissions']['name']).encode('utf-8'))
-        markdown.write('preview_url = %r\n' % (j['data']['submissions']['preview_url']).encode('utf-8'))
         markdown.write('+++\n\n')
         markdown.write((j['data']['submissions']['markdown_text']).encode('utf-8'))
         markdown.close()
@@ -94,13 +142,25 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/sponsor/sponsor.toml', 'w')
         markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK        
+        ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['sponsor']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['sponsor']['_sort_last_updated'])
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['sponsor']['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
         markdown.write('create_date = %r\n' % (j['data']['sponsor']['create_date']).encode('utf-8'))
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['sponsor']['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n')     
         markdown.write('last_updated = %r\n' % (j['data']['sponsor']['last_updated']).encode('utf-8'))
+        try:
+          markdown.write('preview_url = %r\n' % (j['data']['sponsor']['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##   
         markdown.write('name = %r\n' % (j['data']['sponsor']['name']).encode('utf-8'))
-        markdown.write('preview_url = %r\n' % (j['data']['sponsor']['preview_url']).encode('utf-8'))
         markdown.write('+++\n\n')
         markdown.write((j['data']['sponsor']['markdown_text']).encode('utf-8'))
         markdown.close()
@@ -116,13 +176,26 @@ for key in j['data']:
             lc_name = (j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
             markdown = open('output/authors/' + lc_name + '.toml','w')
             markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK            
-            markdown.write('index = %r\n' % author.encode('utf-8'))
+            markdown.write('index = %r\n' % author.encode('utf-8'))            
+            ## STANDARD DATA BLOCK ##        
             markdown.write('_sort_create_date = %d\n' % j['data']['authors'][author]['_sort_create_date'])
             markdown.write('_sort_last_updated = %d\n' % j['data']['authors'][author]['_sort_last_updated'])
+            try:
+              markdown.write('_sort_publish_date = %d\n' % j['data']['authors'][author]['_sort_publish_date']) 
+            except KeyError:
+              markdown.write('_sort_publish_date = False\n')
+            markdown.write('create_date = %r\n' % (j['data']['authors'][author]['create_date']).encode('utf-8'))
+            try:
+              markdown.write('publish_date = %d\n' % j['data']['authors'][author]['_sort_publish_date']) 
+            except KeyError:   
+              markdown.write('publish_date = False\n')     
             markdown.write('last_updated = %r\n' % (j['data']['authors'][author]['last_updated']).encode('utf-8'))
+            try:
+              markdown.write('preview_url = %r\n' % (j['data']['authors'][author]['preview_url']).encode('utf-8'))
+            except KeyError:
+              markdown.write('preview_url = False\n')
+            ## END STANDARD DATA BLOCK ##   
             markdown.write('name = %r\n' % (j['data']['authors'][author]['name']).encode('utf-8'))
-            markdown.write('publish_date = %r\n' % (j['data']['authors'][author]['publish_date']).encode('utf-8'))
             try:
                 markdown.write('alphabetize_by = %r\n' % (j['data']['authors'][author]['alphabetize_by']).encode('utf-8'))
             except KeyError:
@@ -132,17 +205,9 @@ for key in j['data']:
             except KeyError:
                 markdown.write('isDraft = ""\n')
             try:
-                markdown.write('create_date = %r\n' % (j['data']['authors'][author]['create_date']).encode('utf-8'))
-            except KeyError:
-                markdown.write('create_date = ""\n')
-            try:
                 markdown.write('is_seattle__pnw_writer = %r\n' % (j['data']['authors'][author]['is_seattle__pnw_writer']))
             except KeyError:
                 markdown.write('is_seattle__pnw_writer = ""\n')
-            try:
-                markdown.write('preview_url = %r\n' % (j['data']['authors'][author]['preview_url']).encode('utf-8'))
-            except KeyError:
-                markdown.write('preview_url = ""\n')
             try:
                 markdown.write('written_about = %r\n' % (j['data']['authors'][author]['written_about']).encode('utf-8'))
             except KeyError:
@@ -195,12 +260,38 @@ for key in j['data']:
         for book in j['data']['books']:
             lc_name = (j['data']['books'][book]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
             markdown = open('output/books/' + lc_name + '.toml','w')
-            markdown.write('+++\n')
-            ## REPLACE WITH STANDARD DATA BLOCK            
+            markdown.write('+++\n')         
             markdown.write('index = %r\n' % book.encode('utf-8'))
-            markdown.write('_sort_create_date = %d\n' % j['data']['authors'][author]['_sort_create_date'])
-            markdown.write('_sort_last_updated = %d\n' % j['data']['authors'][author]['_sort_last_updated'])
-            markdown.write('last_updated = %r\n' % (j['data']['authors'][author]['last_updated']).encode('utf-8'))
+            ## STANDARD DATA BLOCK ## 
+            try:       
+              markdown.write('_sort_create_date = %d\n' % j['data']['books'][book]['_sort_create_date'])
+            except KeyError:
+              markdown.write('_sort_create_date = False\n')
+            try:
+              markdown.write('_sort_last_updated = %d\n' % j['data']['books'][book]['_sort_last_updated'])
+            except KeyError:
+              markdown.write('_sort_last_updated = False\n')
+            try:
+              markdown.write('_sort_publish_date = %d\n' % j['data']['books'][book]['_sort_publish_date']) 
+            except KeyError:
+              markdown.write('_sort_publish_date = False\n')
+            try:
+              markdown.write('create_date = %r\n' % (j['data']['books'][book]['create_date']).encode('utf-8'))
+            except KeyError:
+              markdown.write('create_date = False\n')
+            try:
+              markdown.write('publish_date = %d\n' % j['data']['books'][book]['_sort_publish_date']) 
+            except KeyError:   
+              markdown.write('publish_date = False\n') 
+            try:    
+              markdown.write('last_updated = %r\n' % (j['data']['books'][book]['last_updated']).encode('utf-8'))
+            except KeyError:
+              markdown.write('last_updated = False\n')
+            try:
+              markdown.write('preview_url = %r\n' % (j['data']['books'][book]['preview_url']).encode('utf-8'))
+            except KeyError:
+              markdown.write('preview_url = False\n')
+            ## END STANDARD DATA BLOCK ##               
             markdown.write('name = %r\n' % (j['data']['authors'][author]['name']).encode('utf-8'))
 
             try:
@@ -349,6 +440,36 @@ for key in j['data']:
           markdown = open('output/calendar/' + lc_name + '.toml', 'w')
           markdown.write('+++\n')
           markdown.write('index = %r\n' % (calendar).encode('utf-8'))
+          ## STANDARD DATA BLOCK ## 
+          try:       
+            markdown.write('_sort_create_date = %d\n' % j['data']['calendar'][calendar]['_sort_create_date'])
+          except KeyError:
+            markdown.write('_sort_create_date = False\n')
+          try:
+            markdown.write('_sort_last_updated = %d\n' % j['data']['calendar'][calendar]['_sort_last_updated'])
+          except KeyError:
+            markdown.write('_sort_last_updated = False\n')
+          try:
+            markdown.write('_sort_publish_date = %d\n' % j['data']['calendar'][calendar]['_sort_publish_date']) 
+          except KeyError:
+            markdown.write('_sort_publish_date = False\n')
+          try:
+            markdown.write('create_date = %r\n' % (j['data']['calendar'][calendar]['create_date']).encode('utf-8'))
+          except KeyError:
+            markdown.write('create_date = False\n')
+          try:
+            markdown.write('publish_date = %d\n' % j['data']['calendar'][calendar]['_sort_publish_date']) 
+          except KeyError:   
+            markdown.write('publish_date = False\n') 
+          try:    
+            markdown.write('last_updated = %r\n' % (j['data']['calendar'][calendar]['last_updated']).encode('utf-8'))
+          except KeyError:
+            markdown.write('last_updated = False\n')
+          try:
+            markdown.write('preview_url = %r\n' % (j['data']['calendar'][calendar]['preview_url']).encode('utf-8'))
+          except KeyError:
+            markdown.write('preview_url = False\n')
+          ## END STANDARD DATA BLOCK ##             
           markdown.write('name = %r\n' % (j['data']['calendar'][calendar]['name']).encode('utf-8'))
           # IMAGE
           try:
@@ -441,9 +562,38 @@ for key in j['data']:
       for note in j['data']['notes']:
         lc_name = (j['data']['notes'][note]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
         markdown = open('output/notes/' + lc_name + '.toml', 'w')
-        markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK        
+        markdown.write('+++\n') 
         markdown.write('index = %r\n' % (note).encode('utf-8'))
+        ## STANDARD DATA BLOCK ## 
+        try:       
+          markdown.write('_sort_create_date = %d\n' % j['data']['notes'][note]['_sort_create_date'])
+        except KeyError:
+          markdown.write('_sort_create_date = False\n')
+        try:
+          markdown.write('_sort_last_updated = %d\n' % j['data']['notes'][note]['_sort_last_updated'])
+        except KeyError:
+          markdown.write('_sort_last_updated = False\n')
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['notes'][note]['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
+        try:
+          markdown.write('create_date = %r\n' % (j['data']['notes'][note]['create_date']).encode('utf-8'))
+        except KeyError:
+          markdown.write('create_date = False\n')
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['notes'][note]['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n') 
+        try:    
+          markdown.write('last_updated = %r\n' % (j['data']['notes'][note]['last_updated']).encode('utf-8'))
+        except KeyError:
+          markdown.write('last_updated = False\n')
+        try:
+          markdown.write('preview_url = %r\n' % (j['data']['notes'][note]['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##           
         markdown.write('name = %r\n' % (j['data']['notes'][note]['name']).encode('utf-8'))
         markdown.write('type = %r\n' % (j['data']['notes'][note]['type']).encode('utf-8'))
 
@@ -511,22 +661,39 @@ for key in j['data']:
       for publisher in j['data']['publishers']:
         lc_name = (j['data']['publishers'][publisher]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
         markdown = open('output/publishers/' + lc_name + '.toml', 'w')
-        markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK        
+        markdown.write('+++\n')    
         markdown.write('index = %r\n' % publisher.encode('utf-8'))
-        try:
-          markdown.write('create_date = %r\n' % j['data']['publishers'][publisher]['create_date'])
+        ## STANDARD DATA BLOCK ## 
+        try:       
+          markdown.write('_sort_create_date = %d\n' % j['data']['publishers'][publisher]['_sort_create_date'])
         except KeyError:
-          markdown.write('create_date = ""\n')
+          markdown.write('_sort_create_date = False\n')
         try:
+          markdown.write('_sort_last_updated = %d\n' % j['data']['publishers'][publisher]['_sort_last_updated'])
+        except KeyError:
+          markdown.write('_sort_last_updated = False\n')
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['publishers'][publisher]['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
+        try:
+          markdown.write('create_date = %r\n' % (j['data']['publishers'][publisher]['create_date']).encode('utf-8'))
+        except KeyError:
+          markdown.write('create_date = False\n')
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['publishers'][publisher]['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n') 
+        try:    
           markdown.write('last_updated = %r\n' % (j['data']['publishers'][publisher]['last_updated']).encode('utf-8'))
         except KeyError:
-          markdown.write('last_updated = ""\n')
-        markdown.write('name = %r\n' % (j['data']['publishers'][publisher]['name']).encode('utf-8'))
+          markdown.write('last_updated = False\n')
         try:
-          markdown.write('publish_date = %r\n' % (j['data']['publishers'][publisher]['publish_date']).encode('utf-8'))        
-        except:
-          markdown.write('publish date = ""\n') 
+          markdown.write('preview_url = %r\n' % (j['data']['publishers'][publisher]['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##           
+        markdown.write('name = %r\n' % (j['data']['publishers'][publisher]['name']).encode('utf-8'))
         try:
             index_builder = []
             for publisher in j['data']['publishers'][publisher]['books_by_this_publisher']:
@@ -546,8 +713,37 @@ for key in j['data']:
         lc_name = (j['data']['reviews'][review]['name']).replace(' ', '-').replace('.','').lower()
         markdown = open('output/reviews/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK
         markdown.write('index = %r\n' % review.encode('utf-8'))
+        ## STANDARD DATA BLOCK ## 
+        try:       
+          markdown.write('_sort_create_date = %d\n' % j['data']['reviews'][review]['_sort_create_date'])
+        except KeyError:
+          markdown.write('_sort_create_date = False\n')
+        try:
+          markdown.write('_sort_last_updated = %d\n' % j['data']['reviews'][review]['_sort_last_updated'])
+        except KeyError:
+          markdown.write('_sort_last_updated = False\n')
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['reviews'][review]['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
+        try:
+          markdown.write('create_date = %r\n' % (j['data']['reviews'][review]['create_date']).encode('utf-8'))
+        except KeyError:
+          markdown.write('create_date = False\n')
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['reviews'][review]['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n') 
+        try:    
+          markdown.write('last_updated = %r\n' % (j['data']['reviews'][review]['last_updated']).encode('utf-8'))
+        except KeyError:
+          markdown.write('last_updated = False\n')
+        try:
+          markdown.write('preview_url = %r\n' % (j['data']['reviews'][review]['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##           
         markdown.write('name = %r\n' % (j['data']['reviews'][review]['name']).encode('utf-8'))        
         markdown.write('dek = %r\n' % (j['data']['reviews'][review]['dek']).encode('utf-8'))
         try:
@@ -603,8 +799,37 @@ for key in j['data']:
         lc_name = (j['data']['tags'][tag]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
         markdown = open('output/tags/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK
         markdown.write('index = %r\n' % tag.encode('utf-8'))
+        ## STANDARD DATA BLOCK ## 
+        try:       
+          markdown.write('_sort_create_date = %d\n' % j['data']['tags'][tag]['_sort_create_date'])
+        except KeyError:
+          markdown.write('_sort_create_date = False\n')
+        try:
+          markdown.write('_sort_last_updated = %d\n' % j['data']['tags'][tag]['_sort_last_updated'])
+        except KeyError:
+          markdown.write('_sort_last_updated = False\n')
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['tags'][tag]['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
+        try:
+          markdown.write('create_date = %r\n' % (j['data']['tags'][tag]['create_date']).encode('utf-8'))
+        except KeyError:
+          markdown.write('create_date = False\n')
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['tags'][tag]['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n') 
+        try:    
+          markdown.write('last_updated = %r\n' % (j['data']['tags'][tag]['last_updated']).encode('utf-8'))
+        except KeyError:
+          markdown.write('last_updated = False\n')
+        try:
+          markdown.write('preview_url = %r\n' % (j['data']['tags'][tag]['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##           
         markdown.write('name = %r\n' % (j['data']['tags'][tag]['name']).encode('utf-8'))                
         try:
             markdown.write('is_column = %r\n' % (j['data']['tags'][tag]['is_column']))
@@ -637,8 +862,37 @@ for key in j['data']:
         lc_name = (j['data']['translators'][translator]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
         markdown = open('output/translators/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK
         markdown.write('index = %r\n' % translator.encode('utf-8'))
+        ## STANDARD DATA BLOCK ## 
+        try:       
+          markdown.write('_sort_create_date = %d\n' % j['data']['translators'][translator]['_sort_create_date'])
+        except KeyError:
+          markdown.write('_sort_create_date = False\n')
+        try:
+          markdown.write('_sort_last_updated = %d\n' % j['data']['translators'][translator]['_sort_last_updated'])
+        except KeyError:
+          markdown.write('_sort_last_updated = False\n')
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['translators'][translator]['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
+        try:
+          markdown.write('create_date = %r\n' % (j['data']['translators'][translator]['create_date']).encode('utf-8'))
+        except KeyError:
+          markdown.write('create_date = False\n')
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['translators'][translator]['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n') 
+        try:    
+          markdown.write('last_updated = %r\n' % (j['data']['translators'][translator]['last_updated']).encode('utf-8'))
+        except KeyError:
+          markdown.write('last_updated = False\n')
+        try:
+          markdown.write('preview_url = %r\n' % (j['data']['translators'][translator]['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##           
         markdown.write('name = %r\n' % (j['data']['translators'][translator]['name']).encode('utf-8'))                 
         try:
             index_builder = []
@@ -658,8 +912,37 @@ for key in j['data']:
         lc_name = (j['data']['writers'][writer]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
         markdown = open('output/writers/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')
-        ## REPLACE WITH STANDARD DATA BLOCK
         markdown.write('index = %r\n' % writer.encode('utf-8'))
+        ## STANDARD DATA BLOCK ## 
+        try:       
+          markdown.write('_sort_create_date = %d\n' % j['data']['writers'][writer]['_sort_create_date'])
+        except KeyError:
+          markdown.write('_sort_create_date = False\n')
+        try:
+          markdown.write('_sort_last_updated = %d\n' % j['data']['writers'][writer]['_sort_last_updated'])
+        except KeyError:
+          markdown.write('_sort_last_updated = False\n')
+        try:
+          markdown.write('_sort_publish_date = %d\n' % j['data']['writers'][writer]['_sort_publish_date']) 
+        except KeyError:
+          markdown.write('_sort_publish_date = False\n')
+        try:
+          markdown.write('create_date = %r\n' % (j['data']['writers'][writer]['create_date']).encode('utf-8'))
+        except KeyError:
+          markdown.write('create_date = False\n')
+        try:
+          markdown.write('publish_date = %d\n' % j['data']['writers'][writer]['_sort_publish_date']) 
+        except KeyError:   
+          markdown.write('publish_date = False\n') 
+        try:    
+          markdown.write('last_updated = %r\n' % (j['data']['writers'][writer]['last_updated']).encode('utf-8'))
+        except KeyError:
+          markdown.write('last_updated = False\n')
+        try:
+          markdown.write('preview_url = %r\n' % (j['data']['writers'][writer]['preview_url']).encode('utf-8'))
+        except KeyError:
+          markdown.write('preview_url = False\n')
+        ## END STANDARD DATA BLOCK ##           
         markdown.write('name = %r\n' % (j['data']['writers'][writer]['name']).encode('utf-8'))
         try:
           markdown.write('alphabetize_by = %r\n' % (j['data']['writers'][writer]['alphabetize_by']).encode('utf-8'))
