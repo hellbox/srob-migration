@@ -20,7 +20,7 @@ for key in j['data']:
             os.makedirs('output/about')
 
         # create file and structure
-        markdown = open('output/about/_index.toml', 'w')
+        markdown = open('output/about/_index.md', 'w')
         markdown.write('+++\n')
         # # STANDARD DATA BLOCK ##
         markdown.write('_sort_create_date = %d\n' % j['data']['about']['_sort_create_date'])
@@ -51,7 +51,7 @@ for key in j['data']:
             os.makedirs('output/privacy')
 
         # create file and structure
-        markdown = open('output/privacy/_index.toml','w')
+        markdown = open('output/privacy/_index.md','w')
         markdown.write('+++\n')
         # STANDARD DATA BLOCK # #
         markdown.write('_sort_create_date = %d\n' % j['data']['privacy']['_sort_create_date'])
@@ -81,7 +81,7 @@ for key in j['data']:
             os.makedirs('output/resources')
 
         # create file and structure
-        markdown = open('output/resources/_index.toml','w')
+        markdown = open('output/resources/_index.md','w')
         markdown.write('+++\n')
         ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['resources']['_sort_create_date'])
@@ -111,7 +111,7 @@ for key in j['data']:
             os.makedirs('output/submissions')
 
         # create file and structure
-        markdown = open('output/submissions/_index.toml', 'w')
+        markdown = open('output/submissions/_index.md', 'w')
         markdown.write('+++\n')
         ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['submissions']['_sort_create_date'])
@@ -141,7 +141,7 @@ for key in j['data']:
             os.makedirs('output/sponsor')
 
         # create file and structure
-        markdown = open('output/sponsor/_index.toml', 'w')
+        markdown = open('output/sponsor/_index.md', 'w')
         markdown.write('+++\n')
         ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['sponsor']['_sort_create_date'])
@@ -174,7 +174,7 @@ for key in j['data']:
 
         for author in j['data']['authors']:  
             lc_name = (j['data']['authors'][author]['publish_date'][0:10] + '-' + j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
-            markdown = open('output/authors/' + lc_name + '.toml','w')
+            markdown = open('output/authors/' + lc_name + '.md','w')
             markdown.write('+++\n')
             markdown.write('index = %r\n' % author.encode('utf-8'))            
             ## STANDARD DATA BLOCK ##        
@@ -268,7 +268,7 @@ for key in j['data']:
                     thedate = 'xxxx-xx-xx'
 
             lc_name = (thedate[0:10] + '-' + j['data']['books'][book]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
-            markdown = open('output/books/' + lc_name + '.toml','w')
+            markdown = open('output/books/' + lc_name + '.md','w')
             markdown.write('+++\n')         
             markdown.write('index = %r\n' % book.encode('utf-8'))
             ## STANDARD DATA BLOCK ## 
@@ -453,7 +453,7 @@ for key in j['data']:
                 except KeyError:
                     thedate = 'xxxx-xx-xx'
             lc_name = (thedate[0:10] + '-' + j['data']['calendar'][calendar]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
-            markdown = open('output/calendar/' + lc_name + '.toml', 'w')
+            markdown = open('output/calendar/' + lc_name + '.md', 'w')
             markdown.write('+++\n')
             markdown.write('index = %r\n' % (calendar).encode('utf-8'))
             # # STANDARD DATA BLOCK ## 
@@ -584,7 +584,7 @@ for key in j['data']:
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
         lc_name = (thedate[0:10] + '-' + j['data']['notes'][note]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
-        markdown = open('output/notes/' + lc_name + '.toml', 'w')
+        markdown = open('output/notes/' + lc_name + '.md', 'w')
         markdown.write('+++\n') 
         markdown.write('index = %r\n' % (note).encode('utf-8'))
         ## STANDARD DATA BLOCK ## 
@@ -690,7 +690,7 @@ for key in j['data']:
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
         lc_name = (thedate[0:10] + '-' + j['data']['publishers'][publisher]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
-        markdown = open('output/publishers/' + lc_name + '.toml', 'w')
+        markdown = open('output/publishers/' + lc_name + '.md', 'w')
         markdown.write('+++\n')    
         markdown.write('index = %r\n' % publisher.encode('utf-8'))
         ## STANDARD DATA BLOCK ## 
@@ -748,7 +748,7 @@ for key in j['data']:
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
         lc_name = (thedate[0:10] + '-' + j['data']['reviews'][review]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
-        markdown = open('output/reviews/' + lc_name + '.toml', 'w')
+        markdown = open('output/reviews/' + lc_name + '.md', 'w')
         markdown.write('+++\n')
         markdown.write('index = %r\n' % review.encode('utf-8'))
         ## STANDARD DATA BLOCK ## 
@@ -841,7 +841,7 @@ for key in j['data']:
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
         lc_name = (thedate[0:10] + '-' + j['data']['tags'][tag]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()        
-        markdown = open('output/tags/' + lc_name + '.toml', 'w')
+        markdown = open('output/tags/' + lc_name + '.md', 'w')
         markdown.write('+++\n')
         markdown.write('index = %r\n' % tag.encode('utf-8'))
         ## STANDARD DATA BLOCK ## 
@@ -911,7 +911,7 @@ for key in j['data']:
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
         lc_name = (thedate[0:10] + '-' + j['data']['translators'][translator]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
-        markdown = open('output/translators/' + lc_name + '.toml', 'w')
+        markdown = open('output/translators/' + lc_name + '.md', 'w')
         markdown.write('+++\n')
         markdown.write('index = %r\n' % translator.encode('utf-8'))
         ## STANDARD DATA BLOCK ## 
@@ -968,7 +968,7 @@ for key in j['data']:
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
         lc_name = (thedate[0:10] + '-' + j['data']['writers'][writer]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()        
-        markdown = open('output/writers/' + lc_name + '.toml', 'w')
+        markdown = open('output/writers/' + lc_name + '.md', 'w')
         markdown.write('+++\n')
         markdown.write('index = %r\n' % writer.encode('utf-8'))
         ## STANDARD DATA BLOCK ## 
