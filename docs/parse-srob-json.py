@@ -1,6 +1,7 @@
 #! /usr/bin/python
 import json
 import os
+import time
 
 # Load JSON object
 with open('srob-firebase.json') as json_data:
@@ -19,26 +20,26 @@ for key in j['data']:
             os.makedirs('output/about')
 
         # create file and structure
-        markdown = open('output/about/about.toml', 'w')
+        markdown = open('output/about/_index.toml', 'w')
         markdown.write('+++\n')
-        ## STANDARD DATA BLOCK ##        
+        # # STANDARD DATA BLOCK ##
         markdown.write('_sort_create_date = %d\n' % j['data']['about']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['about']['_sort_last_updated'])
         try:
-          markdown.write('_sort_publish_date = %d\n' % j['data']['about']['_sort_publish_date']) 
+            markdown.write('_sort_publish_date = %d\n' % j['data']['about']['_sort_publish_date']) 
         except KeyError:
-          markdown.write('_sort_publish_date = False\n')
+            markdown.write('_sort_publish_date = False\n')
         markdown.write('create_date = %r\n' % (j['data']['about']['create_date']).encode('utf-8'))
         try:
-          markdown.write('publish_date = %d\n' % j['data']['about']['_sort_publish_date']) 
-        except KeyError:   
-          markdown.write('publish_date = False\n')     
+            markdown.write('publish_date = %d\n' % j['data']['about']['_sort_publish_date']) 
+        except KeyError:
+            markdown.write('publish_date = False\n')     
         markdown.write('last_updated = %r\n' % (j['data']['about']['last_updated']).encode('utf-8'))
         try:
-          markdown.write('preview_url = %r\n' % (j['data']['about']['preview_url']).encode('utf-8'))
+            markdown.write('preview_url = %r\n' % (j['data']['about']['preview_url']).encode('utf-8'))
         except KeyError:
-          markdown.write('preview_url = False\n')
-        ## END STANDARD DATA BLOCK ##        
+            markdown.write('preview_url = False\n')
+        # # END STANDARD DATA BLOCK ##        
         markdown.write('name = %r\n' % (j['data']['about']['name']).encode('utf-8'))
         markdown.write('+++\n\n')
         markdown.write((j['data']['about']['markdown_text']).encode('utf-8'))
@@ -50,9 +51,9 @@ for key in j['data']:
             os.makedirs('output/privacy')
 
         # create file and structure
-        markdown = open('output/privacy/privacy.toml','w')
+        markdown = open('output/privacy/_index.toml','w')
         markdown.write('+++\n')
-        ## STANDARD DATA BLOCK ##        
+        # STANDARD DATA BLOCK # #
         markdown.write('_sort_create_date = %d\n' % j['data']['privacy']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['privacy']['_sort_last_updated'])
         try:
@@ -62,8 +63,8 @@ for key in j['data']:
         markdown.write('create_date = %r\n' % (j['data']['privacy']['create_date']).encode('utf-8'))
         try:
           markdown.write('publish_date = %d\n' % j['data']['privacy']['_sort_publish_date']) 
-        except KeyError:   
-          markdown.write('publish_date = False\n')     
+        except KeyError:
+          markdown.write('publish_date = False\n')
         markdown.write('last_updated = %r\n' % (j['data']['privacy']['last_updated']).encode('utf-8'))
         try:
           markdown.write('preview_url = %r\n' % (j['data']['privacy']['preview_url']).encode('utf-8'))
@@ -80,7 +81,7 @@ for key in j['data']:
             os.makedirs('output/resources')
 
         # create file and structure
-        markdown = open('output/resources/resources.toml','w')
+        markdown = open('output/resources/_index.toml','w')
         markdown.write('+++\n')
         ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['resources']['_sort_create_date'])
@@ -110,7 +111,7 @@ for key in j['data']:
             os.makedirs('output/submissions')
 
         # create file and structure
-        markdown = open('output/submissions/submissions.toml', 'w')
+        markdown = open('output/submissions/_index.toml', 'w')
         markdown.write('+++\n')
         ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['submissions']['_sort_create_date'])
@@ -140,7 +141,7 @@ for key in j['data']:
             os.makedirs('output/sponsor')
 
         # create file and structure
-        markdown = open('output/sponsor/sponsor.toml', 'w')
+        markdown = open('output/sponsor/_index.toml', 'w')
         markdown.write('+++\n')
         ## STANDARD DATA BLOCK ##        
         markdown.write('_sort_create_date = %d\n' % j['data']['sponsor']['_sort_create_date'])
@@ -172,8 +173,9 @@ for key in j['data']:
             os.makedirs('output/authors')
 
         for author in j['data']['authors']:
+            timestamp = time.strftime('%Y-%m-%d', time.localtime(j['data']['authors'][author]['_sort_publish_date']))
             # Convert author name to LC and replace spaces with dashes to make good file names
-            lc_name = (j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
+            lc_name = (timestamp + '-' + j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
             markdown = open('output/authors/' + lc_name + '.toml','w')
             markdown.write('+++\n')
             markdown.write('index = %r\n' % author.encode('utf-8'))            
@@ -186,7 +188,7 @@ for key in j['data']:
               markdown.write('_sort_publish_date = False\n')
             markdown.write('create_date = %r\n' % (j['data']['authors'][author]['create_date']).encode('utf-8'))
             try:
-              markdown.write('publish_date = %d\n' % j['data']['authors'][author]['_sort_publish_date']) 
+              markdown.write('publish_date = %r\n' % j['data']['authors'][author]['publish_date']) 
             except KeyError:   
               markdown.write('publish_date = False\n')     
             markdown.write('last_updated = %r\n' % (j['data']['authors'][author]['last_updated']).encode('utf-8'))
@@ -280,7 +282,7 @@ for key in j['data']:
             except KeyError:
               markdown.write('create_date = False\n')
             try:
-              markdown.write('publish_date = %d\n' % j['data']['books'][book]['_sort_publish_date']) 
+              markdown.write('publish_date = %r\n' % j['data']['books'][book]['publish_date']) 
             except KeyError:   
               markdown.write('publish_date = False\n') 
             try:    
@@ -458,7 +460,7 @@ for key in j['data']:
           except KeyError:
             markdown.write('create_date = False\n')
           try:
-            markdown.write('publish_date = %d\n' % j['data']['calendar'][calendar]['_sort_publish_date']) 
+            markdown.write('publish_date = %r\n' % j['data']['calendar'][calendar]['publish_date']) 
           except KeyError:   
             markdown.write('publish_date = False\n') 
           try:    
@@ -582,7 +584,7 @@ for key in j['data']:
         except KeyError:
           markdown.write('create_date = False\n')
         try:
-          markdown.write('publish_date = %d\n' % j['data']['notes'][note]['_sort_publish_date']) 
+          markdown.write('publish_date = %r\n' % j['data']['notes'][note]['publish_date']) 
         except KeyError:   
           markdown.write('publish_date = False\n') 
         try:    
@@ -681,7 +683,7 @@ for key in j['data']:
         except KeyError:
           markdown.write('create_date = False\n')
         try:
-          markdown.write('publish_date = %d\n' % j['data']['publishers'][publisher]['_sort_publish_date']) 
+          markdown.write('publish_date = %r\n' % j['data']['publishers'][publisher]['publish_date']) 
         except KeyError:   
           markdown.write('publish_date = False\n') 
         try:    
@@ -732,7 +734,7 @@ for key in j['data']:
         except KeyError:
           markdown.write('create_date = False\n')
         try:
-          markdown.write('publish_date = %d\n' % j['data']['reviews'][review]['_sort_publish_date']) 
+          markdown.write('publish_date = %r\n' % j['data']['reviews'][review]['publish_date']) 
         except KeyError:   
           markdown.write('publish_date = False\n') 
         try:    
@@ -818,7 +820,7 @@ for key in j['data']:
         except KeyError:
           markdown.write('create_date = False\n')
         try:
-          markdown.write('publish_date = %d\n' % j['data']['tags'][tag]['_sort_publish_date']) 
+          markdown.write('publish_date = %r\n' % j['data']['tags'][tag]['publish_date']) 
         except KeyError:   
           markdown.write('publish_date = False\n') 
         try:    
@@ -881,7 +883,7 @@ for key in j['data']:
         except KeyError:
           markdown.write('create_date = False\n')
         try:
-          markdown.write('publish_date = %d\n' % j['data']['translators'][translator]['_sort_publish_date']) 
+          markdown.write('publish_date = %r\n' % j['data']['translators'][translator]['publish_date']) 
         except KeyError:   
           markdown.write('publish_date = False\n') 
         try:    
@@ -931,7 +933,7 @@ for key in j['data']:
         except KeyError:
           markdown.write('create_date = False\n')
         try:
-          markdown.write('publish_date = %d\n' % j['data']['writers'][writer]['_sort_publish_date']) 
+          markdown.write('publish_date = %r\n' % j['data']['writers'][writer]['publish_date']) 
         except KeyError:   
           markdown.write('publish_date = False\n') 
         try:    
