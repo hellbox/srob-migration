@@ -172,10 +172,8 @@ for key in j['data']:
         if not os.path.exists('output/authors'):
             os.makedirs('output/authors')
 
-        for author in j['data']['authors']:
-            timestamp = time.strftime('%Y-%m-%d', time.localtime(j['data']['authors'][author]['_sort_publish_date']))
-            # Convert author name to LC and replace spaces with dashes to make good file names
-            lc_name = (timestamp + '-' + j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
+        for author in j['data']['authors']:  
+            lc_name = (j['data']['authors'][author]['publish_date'][0:10] + '-' + j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
             markdown = open('output/authors/' + lc_name + '.toml','w')
             markdown.write('+++\n')
             markdown.write('index = %r\n' % author.encode('utf-8'))            
@@ -260,7 +258,16 @@ for key in j['data']:
             os.makedirs('output/books')
 
         for book in j['data']['books']:
-            lc_name = (j['data']['books'][book]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+            try:
+                thedate = j['data']['books'][book]['publish_date']
+            except KeyError:
+                try:
+                    print(1)
+                    thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['books'][book]['_sort_publish_date']))
+                except KeyError:
+                    thedate = 'xxxx-xx-xx'
+
+            lc_name = (thedate[0:10] + '-' + j['data']['books'][book]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
             markdown = open('output/books/' + lc_name + '.toml','w')
             markdown.write('+++\n')         
             markdown.write('index = %r\n' % book.encode('utf-8'))
@@ -438,131 +445,145 @@ for key in j['data']:
             os.makedirs('output/calendar')
 
         for calendar in j['data']['calendar']:
-          lc_name = (j['data']['calendar'][calendar]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
-          markdown = open('output/calendar/' + lc_name + '.toml', 'w')
-          markdown.write('+++\n')
-          markdown.write('index = %r\n' % (calendar).encode('utf-8'))
-          ## STANDARD DATA BLOCK ## 
-          try:       
-            markdown.write('_sort_create_date = %d\n' % j['data']['calendar'][calendar]['_sort_create_date'])
-          except KeyError:
-            markdown.write('_sort_create_date = False\n')
-          try:
-            markdown.write('_sort_last_updated = %d\n' % j['data']['calendar'][calendar]['_sort_last_updated'])
-          except KeyError:
-            markdown.write('_sort_last_updated = False\n')
-          try:
-            markdown.write('_sort_publish_date = %d\n' % j['data']['calendar'][calendar]['_sort_publish_date']) 
-          except KeyError:
-            markdown.write('_sort_publish_date = False\n')
-          try:
-            markdown.write('create_date = %r\n' % (j['data']['calendar'][calendar]['create_date']).encode('utf-8'))
-          except KeyError:
-            markdown.write('create_date = False\n')
-          try:
-            markdown.write('publish_date = %r\n' % j['data']['calendar'][calendar]['publish_date']) 
-          except KeyError:   
-            markdown.write('publish_date = False\n') 
-          try:    
-            markdown.write('last_updated = %r\n' % (j['data']['calendar'][calendar]['last_updated']).encode('utf-8'))
-          except KeyError:
-            markdown.write('last_updated = False\n')
-          try:
-            markdown.write('preview_url = %r\n' % (j['data']['calendar'][calendar]['preview_url']).encode('utf-8'))
-          except KeyError:
-            markdown.write('preview_url = False\n')
-          ## END STANDARD DATA BLOCK ##             
-          markdown.write('name = %r\n' % (j['data']['calendar'][calendar]['name']).encode('utf-8'))
-          # IMAGE
-          try:
-              index_builder = {}
-              for image in j['data']['calendar'][calendar]['image']:
-                  if image == 'width':
-                      index_builder['width'] = j['data']['calendar'][calendar]['image'][image]
-                  elif image == 'height':
-                      index_builder['height'] = j['data']['calendar'][calendar]['image'][image]
-                  elif image == 'resize_url':
-                      index_builder['resize_url'] = (j['data']['calendar'][calendar]['image'][image]).encode('utf-8')
-                  elif image == 'url':
-                      index_builder['url'] = (j['data']['calendar'][calendar]['image'][image]).encode('utf-8')
-                  elif image == 'type':
-                      index_builder['type'] = (j['data']['calendar'][calendar]['image'][image]).encode('utf-8')
-                  elif image == 'size':
-                      index_builder['size'] = j['data']['calendar'][calendar]['image'][image]                    
-              markdown.write('image = %r\n' % index_builder)
-          except KeyError:
-              markdown.write('image = ""\n')
-          
-          try:
-            markdown.write('link = %r\n' % (j['data']['calendar'][calendar]['link']).encode('utf-8')) 
-          except:
-            markdown.write('link = ""\n')
+            try:
+                thedate = j['data']['calendars'][calendar]['publish_date']
+            except KeyError:
+                try:
+                    thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['calendars'][calendar]['_sort_publish_date']))
+                except KeyError:
+                    thedate = 'xxxx-xx-xx'
+            lc_name = (thedate[0:10] + '-' + j['data']['calendar'][calendar]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
+            markdown = open('output/calendar/' + lc_name + '.toml', 'w')
+            markdown.write('+++\n')
+            markdown.write('index = %r\n' % (calendar).encode('utf-8'))
+            # # STANDARD DATA BLOCK ## 
+            try:       
+              markdown.write('_sort_create_date = %d\n' % j['data']['calendar'][calendar]['_sort_create_date'])
+            except KeyError:
+              markdown.write('_sort_create_date = False\n')
+            try:
+              markdown.write('_sort_last_updated = %d\n' % j['data']['calendar'][calendar]['_sort_last_updated'])
+            except KeyError:
+              markdown.write('_sort_last_updated = False\n')
+            try:
+              markdown.write('_sort_publish_date = %d\n' % j['data']['calendar'][calendar]['_sort_publish_date']) 
+            except KeyError:
+              markdown.write('_sort_publish_date = False\n')
+            try:
+              markdown.write('create_date = %r\n' % (j['data']['calendar'][calendar]['create_date']).encode('utf-8'))
+            except KeyError:
+              markdown.write('create_date = False\n')
+            try:
+              markdown.write('publish_date = %r\n' % j['data']['calendar'][calendar]['publish_date']) 
+            except KeyError:   
+              markdown.write('publish_date = False\n') 
+            try:    
+              markdown.write('last_updated = %r\n' % (j['data']['calendar'][calendar]['last_updated']).encode('utf-8'))
+            except KeyError:
+              markdown.write('last_updated = False\n')
+            try:
+              markdown.write('preview_url = %r\n' % (j['data']['calendar'][calendar]['preview_url']).encode('utf-8'))
+            except KeyError:
+              markdown.write('preview_url = False\n')
+            ## END STANDARD DATA BLOCK ##             
+            markdown.write('name = %r\n' % (j['data']['calendar'][calendar]['name']).encode('utf-8'))
+            # IMAGE
+            try:
+                index_builder = {}
+                for image in j['data']['calendar'][calendar]['image']:
+                    if image == 'width':
+                        index_builder['width'] = j['data']['calendar'][calendar]['image'][image]
+                    elif image == 'height':
+                        index_builder['height'] = j['data']['calendar'][calendar]['image'][image]
+                    elif image == 'resize_url':
+                        index_builder['resize_url'] = (j['data']['calendar'][calendar]['image'][image]).encode('utf-8')
+                    elif image == 'url':
+                        index_builder['url'] = (j['data']['calendar'][calendar]['image'][image]).encode('utf-8')
+                    elif image == 'type':
+                        index_builder['type'] = (j['data']['calendar'][calendar]['image'][image]).encode('utf-8')
+                    elif image == 'size':
+                        index_builder['size'] = j['data']['calendar'][calendar]['image'][image]                    
+                markdown.write('image = %r\n' % index_builder)
+            except KeyError:
+                markdown.write('image = ""\n')
+            
+            try:
+              markdown.write('link = %r\n' % (j['data']['calendar'][calendar]['link']).encode('utf-8')) 
+            except:
+              markdown.write('link = ""\n')
+    
+            try:
+              markdown.write('date = %r\n' % (j['data']['calendar'][calendar]['date']).encode('utf-8')) 
+            except:
+              markdown.write('date = ""\n') 
+            try:
+              markdown.write('start_time = %r\n' % (j['data']['calendar'][calendar]['start_time']).encode('utf-8')) 
+            except:
+              markdown.write('start_time = ""\n') 
+            try:
+              markdown.write('end_time = %r\n' % (j['data']['calendar'][calendar]['end_time']).encode('utf-8')) 
+            except:
+              markdown.write('end_time = ""\n')  
+            try:
+              markdown.write('time_description = %r\n' % (j['data']['calendar'][calendar]['time_description']).encode('utf-8')) 
+            except:
+              markdown.write('time_description = "\n')
+            try:
+              markdown.write('end_time = %r\n' % (j['data']['calendar'][calendar]['end_time']).encode('utf-8')) 
+            except:
+              markdown.write('end_time = ""\n')   
+            try:
+              markdown.write('enddate = %r\n' % (j['data']['calendar'][calendar]['enddate']).encode('utf-8')) 
+            except:
+              markdown.write('enddate = ""\n')
+            try:
+                markdown.write('is_sponsorship = %r\n' % (j['data']['calendar'][calendar]['is_sponsorship']))
+            except KeyError:
+                markdown.write('is_sponsorship = ""\n')  
 
-          try:
-            markdown.write('date = %r\n' % (j['data']['calendar'][calendar]['date']).encode('utf-8')) 
-          except:
-            markdown.write('date = ""\n') 
-          try:
-            markdown.write('start_time = %r\n' % (j['data']['calendar'][calendar]['start_time']).encode('utf-8')) 
-          except:
-            markdown.write('start_time = ""\n') 
-          try:
-            markdown.write('end_time = %r\n' % (j['data']['calendar'][calendar]['end_time']).encode('utf-8')) 
-          except:
-            markdown.write('end_time = ""\n')  
-          try:
-            markdown.write('time_description = %r\n' % (j['data']['calendar'][calendar]['time_description']).encode('utf-8')) 
-          except:
-            markdown.write('time_description = "\n')
-          try:
-            markdown.write('end_time = %r\n' % (j['data']['calendar'][calendar]['end_time']).encode('utf-8')) 
-          except:
-            markdown.write('end_time = ""\n')   
-          try:
-            markdown.write('enddate = %r\n' % (j['data']['calendar'][calendar]['enddate']).encode('utf-8')) 
-          except:
-            markdown.write('enddate = ""\n')
-          try:
-              markdown.write('is_sponsorship = %r\n' % (j['data']['calendar'][calendar]['is_sponsorship']))
-          except KeyError:
-              markdown.write('is_sponsorship = ""\n')  
-
-        try:
-            index_builder = []
-            for authors in j['data']['calendar'][calendar]['authors']:
-                index_builder.append(authors.encode('utf-8'))
-            markdown.write('authors = %r\n' % index_builder)
-        except KeyError:
-            markdown.write('authors = ""\n')
-
-        try:
-            index_builder = []
-            for sponsorship_event in j['data']['calendar'][calendar]['sponsorship_event']:
-                index_builder.append(sponsorship_event.encode('utf-8'))
-            markdown.write('sponsorship_event = %r\n' % index_builder)
-        except KeyError:
-            markdown.write('sponsorship_event = ""\n')                  
-
-        try:
-          index_builder = ""
-          for venues in j['data']['calendar'][calendar]['venues']:
-            venue = index_builder + venue.encode('utf-8')
-          markdown.write('venues = %r\n' % index_builder)
-        except KeyError:
-          markdown.write('venues = ""\n')
-
-        try:
-          markdown.write((j['data']['calendar'][calendar]['details']).encode('utf-8')) 
-        except:
-          markdown.write('')
-        markdown.close() 
+            try:
+                index_builder = []
+                for authors in j['data']['calendar'][calendar]['authors']:
+                    index_builder.append(authors.encode('utf-8'))
+                markdown.write('authors = %r\n' % index_builder)
+            except KeyError:
+                markdown.write('authors = ""\n')
+    
+            try:
+                index_builder = []
+                for sponsorship_event in j['data']['calendar'][calendar]['sponsorship_event']:
+                    index_builder.append(sponsorship_event.encode('utf-8'))
+                markdown.write('sponsorship_event = %r\n' % index_builder)
+            except KeyError:
+                markdown.write('sponsorship_event = ""\n')                  
+    
+            try:
+              index_builder = ""
+              for venues in j['data']['calendar'][calendar]['venues']:
+                venue = index_builder + venue.encode('utf-8')
+              markdown.write('venues = %r\n' % index_builder)
+            except KeyError:
+              markdown.write('venues = ""\n')
+    
+            try:
+              markdown.write((j['data']['calendar'][calendar]['details']).encode('utf-8')) 
+            except:
+              markdown.write('')
+            markdown.close() 
 
     elif key == 'notes':
       if not os.path.exists('output/notes'):
         os.makedirs('output/notes')
 
       for note in j['data']['notes']:
-        lc_name = (j['data']['notes'][note]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
+        try:
+            thedate = j['data']['notes'][note]['publish_date']
+        except KeyError:
+            try:
+                thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['notes'][note]['_sort_publish_date']))
+            except KeyError:
+                thedate = 'xxxx-xx-xx'        
+        lc_name = (thedate[0:10] + '-' + j['data']['notes'][note]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
         markdown = open('output/notes/' + lc_name + '.toml', 'w')
         markdown.write('+++\n') 
         markdown.write('index = %r\n' % (note).encode('utf-8'))
@@ -661,7 +682,14 @@ for key in j['data']:
         os.makedirs('output/publishers')
 
       for publisher in j['data']['publishers']:
-        lc_name = (j['data']['publishers'][publisher]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        try:
+            thedate = j['data']['publishers'][publisher]['publish_date']
+        except KeyError:
+            try:
+                thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['publishers'][publisher]['_sort_publish_date']))
+            except KeyError:
+                thedate = 'xxxx-xx-xx'        
+        lc_name = (thedate[0:10] + '-' + j['data']['publishers'][publisher]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
         markdown = open('output/publishers/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')    
         markdown.write('index = %r\n' % publisher.encode('utf-8'))
@@ -712,7 +740,14 @@ for key in j['data']:
         os.makedirs('output/reviews')
 
       for review in j['data']['reviews']:
-        lc_name = (j['data']['reviews'][review]['name']).replace(' ', '-').replace('.','').lower()
+        try:
+            thedate = j['data']['reviews'][review]['publish_date']
+        except KeyError:
+            try:
+                thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['reviews'][review]['_sort_publish_date']))
+            except KeyError:
+                thedate = 'xxxx-xx-xx'        
+        lc_name = (thedate[0:10] + '-' + j['data']['reviews'][review]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
         markdown = open('output/reviews/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')
         markdown.write('index = %r\n' % review.encode('utf-8'))
@@ -798,7 +833,14 @@ for key in j['data']:
         os.makedirs('output/tags')
 
       for tag in j['data']['tags']:
-        lc_name = (j['data']['tags'][tag]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        try:
+            thedate = j['data']['tags'][tag]['publish_date']
+        except KeyError:
+            try:
+                thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['tags'][tag]['_sort_publish_date']))
+            except KeyError:
+                thedate = 'xxxx-xx-xx'        
+        lc_name = (thedate[0:10] + '-' + j['data']['tags'][tag]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()        
         markdown = open('output/tags/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')
         markdown.write('index = %r\n' % tag.encode('utf-8'))
@@ -861,7 +903,14 @@ for key in j['data']:
         os.makedirs('output/translators')
 
       for translator in j['data']['translators']:
-        lc_name = (j['data']['translators'][translator]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        try:
+            thedate = j['data']['translators'][translator]['publish_date']
+        except KeyError:
+            try:
+                thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['translators'][translator]['_sort_publish_date']))
+            except KeyError:
+                thedate = 'xxxx-xx-xx'        
+        lc_name = (thedate[0:10] + '-' + j['data']['translators'][translator]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
         markdown = open('output/translators/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')
         markdown.write('index = %r\n' % translator.encode('utf-8'))
@@ -911,7 +960,14 @@ for key in j['data']:
         os.makedirs('output/writers')
 
       for writer in j['data']['writers']:
-        lc_name = (j['data']['writers'][writer]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        try:
+            thedate = j['data']['writers'][writer]['publish_date']
+        except KeyError:
+            try:
+                thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['writers'][writer]['_sort_publish_date']))
+            except KeyError:
+                thedate = 'xxxx-xx-xx'        
+        lc_name = (thedate[0:10] + '-' + j['data']['writers'][writer]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()        
         markdown = open('output/writers/' + lc_name + '.toml', 'w')
         markdown.write('+++\n')
         markdown.write('index = %r\n' % writer.encode('utf-8'))
