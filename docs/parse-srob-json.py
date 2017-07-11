@@ -660,8 +660,8 @@ for key in j['data']:
         except KeyError:
           markdown.write('preview_url = False\n')
         ## END STANDARD DATA BLOCK ##           
-        markdown.write('name = %r\n' % (j['data']['notes'][note]['name']).encode('utf-8'))
-        markdown.write('title = %r\n' % (j['data']['notes'][note]['name']).encode('utf-8'))        
+        markdown.write('name = %s\n' % (json.dumps(j['data']['notes'][note]['name']).encode('utf-8')))
+        markdown.write('title = %s\n' % (json.dumps(j['data']['notes'][note]['name']).encode('utf-8')))
         markdown.write('type = %r\n' % (j['data']['notes'][note]['type']).encode('utf-8'))
 
         try:
@@ -673,11 +673,11 @@ for key in j['data']:
         except KeyError:
           markdown.write('shareimage = ""\n') 
         try:
-          markdown.write('twitterauto = %r\n' % (j['data']['notes'][note]['twitterauto']).encode('utf-8'))
+          markdown.write('twitterauto = %s\n' % (json.dumps(j["data"]["notes"][note]["twitterauto"]).encode("utf-8")))
         except KeyError:
           markdown.write('twitterauto = ""\n')               
         try:
-          markdown.write('facebookauto = %r\n' % (j['data']['notes'][note]['facebookauto']).encode('utf-8'))
+          markdown.write('facebookauto = %s\n' % (json.dumps(j["data"]["notes"][note]["facebookauto"]).encode("utf-8")))
         except KeyError:
           markdown.write('facebookauto = ""\n')
         try:
@@ -1129,6 +1129,8 @@ for key in j['data']:
 
         markdown.write('+++\n\n')  
         markdown.close()                         
+
+
 
 
 # TODO:
