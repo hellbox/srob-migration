@@ -3,11 +3,30 @@ import json
 import os
 import time
 
+def findstring( string ):
+    string.split()
+
+
 # Load JSON object
 with open('srob-firebase.json') as json_data:
     j = json.load(json_data)
     # Look for the node title "data"
     data = j['data']
+
+
+def sanitizestring( string):
+    bug = string.replace(' ', '-').replace('.','').replace(':','').replace('\'','').replace('/','--').replace(',','').replace('\"','').lower()
+    return bug
+
+# A function to find linked titles and return their real names for better linking
+def findstring( string ):
+    breakup = string.split()
+    # find node with first part of string
+    return breakup[0] + "/" + sanitizestring(j['data'][breakup[0]][breakup[1]]['name'])
+    # output name, and add second part of string and solution to lookup table for later reference
+
+equal = findstring( "notes -KZUEIz4zQXxZHmxqeH0" )
+print(equal)
 
 # Select child
 for key in j['data']:
@@ -198,8 +217,7 @@ for key in j['data']:
             os.makedirs('output/authors')
 
         for author in j['data']['authors']:  
-            print(j['data']['authors'][author]['name'])
-            lc_name = (j['data']['authors'][author]['publish_date'][0:10] + '-' + j['data']['authors'][author]['name']).replace(' ', '-').replace('.','').lower()
+            lc_name = sanitizestring(j['data']['authors'][author]['name'])            
             markdown = open('output/authors/' + lc_name + '.md','w')
             markdown.write('+++\n')
             markdown.write('index = %s\n' % json.dumps(author.encode('utf-8')))
@@ -296,8 +314,8 @@ for key in j['data']:
                     thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['books'][book]['_sort_publish_date']))
                 except KeyError:
                     thedate = 'xxxx-xx-xx'
-
-            lc_name = (thedate[0:10] + '-' + j['data']['books'][book]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+           # print( j['data']['books'][book]['name'] )
+            lc_name = sanitizestring(j['data']['books'][book]['name'])            
             markdown = open('output/books/' + lc_name + '.md','w')
             markdown.write('+++\n')         
             markdown.write('index = %s\n' % json.dumps(book.encode('utf-8')))
@@ -335,8 +353,7 @@ for key in j['data']:
             except KeyError:
               markdown.write('preview_url = ""\n')
             ## END STANDARD DATA BLOCK ##               
-            markdown.write('name = %s\n' % (json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
-            markdown.write('title = %s\n' % (json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
+            markdown.write('name = %s\n' % (json.dumps(j['data']['books'][book]['name']).encode('utf-8')))
 
             try:
                 markdown.write('subtitle = %s\n' % (json.dumps(j['data']['books'][book]['subtitle']).encode('utf-8')))
@@ -453,6 +470,14 @@ for key in j['data']:
 
             try:
                 index_builder = []
+                for author in j['data']['books'][book]['author_relationship']:
+                    index_builder.append(author.encode('utf-8'))                    
+                markdown.write('author_relationship = %s\n' % json.dumps(index_builder))
+            except KeyError:
+                markdown.write('author_relationship = ""\n')                                
+
+            try:
+                index_builder = []
                 for sponsorship in j['data']['books'][book]['sponsorships_book']:
                     index_builder.append(sponsorship.encode('utf-8'))
                 markdown.write('sponsorships_book = %s\n' % json.dumps(index_builder))
@@ -486,7 +511,7 @@ for key in j['data']:
                     thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['calendars'][calendar]['_sort_publish_date']))
                 except KeyError:
                     thedate = 'xxxx-xx-xx'
-            lc_name = (thedate[0:10] + '-' + j['data']['calendar'][calendar]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
+            lc_name = sanitizestring(j['data']['calendar'][calendar]['name'])
             markdown = open('output/calendar/' + lc_name + '.md', 'w')
             markdown.write('+++\n')
             markdown.write('index = %s\n' % json.dumps((calendar).encode('utf-8')))
@@ -621,7 +646,7 @@ for key in j['data']:
                 thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['notes'][note]['_sort_publish_date']))
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
-        lc_name = (thedate[0:10] + '-' + j['data']['notes'][note]['name']).replace(' ', '-').replace('.', '').replace('/','--').lower()
+        lc_name = sanitizestring(j['data']['notes'][note]['name'])
         markdown = open('output/notes/' + lc_name + '.md', 'w')
         markdown.write('+++\n') 
         markdown.write('index = %s\n' % json.dumps((note).encode('utf-8')))
@@ -732,7 +757,7 @@ for key in j['data']:
                 thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['publishers'][publisher]['_sort_publish_date']))
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
-        lc_name = (thedate[0:10] + '-' + j['data']['publishers'][publisher]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        lc_name = sanitizestring(j['data']['publishers'][publisher]['name'])
         markdown = open('output/publishers/' + lc_name + '.md', 'w')
         markdown.write('+++\n')    
         markdown.write('index = %s\n' % json.dumps(publisher.encode('utf-8')))
@@ -795,7 +820,7 @@ for key in j['data']:
                 thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['reviews'][review]['_sort_publish_date']))
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
-        lc_name = (thedate[0:10] + '-' + j['data']['reviews'][review]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        lc_name = sanitizestring(j['data']['reviews'][review]['name'])
         markdown = open('output/reviews/' + lc_name + '.md', 'w')
         markdown.write('+++\n')
         markdown.write('index = %s\n' % json.dumps(review.encode('utf-8')))
@@ -893,7 +918,7 @@ for key in j['data']:
                 thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['tags'][tag]['_sort_publish_date']))
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
-        lc_name = (thedate[0:10] + '-' + j['data']['tags'][tag]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()        
+        lc_name = sanitizestring(j['data']['tags'][tag]['name'])
         markdown = open('output/tags/' + lc_name + '.md', 'w')
         markdown.write('+++\n')
         markdown.write('index = %s\n' % json.dumps(tag.encode('utf-8')))
@@ -968,7 +993,7 @@ for key in j['data']:
                 thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['translators'][translator]['_sort_publish_date']))
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
-        lc_name = (thedate[0:10] + '-' + j['data']['translators'][translator]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()
+        lc_name = sanitizestring(j['data']['translators'][translator]['name'])
         markdown = open('output/translators/' + lc_name + '.md', 'w')
         markdown.write('+++\n')
         markdown.write('index = %s\n' % json.dumps(translator.encode('utf-8')))
@@ -1030,7 +1055,7 @@ for key in j['data']:
                 thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['writers'][writer]['_sort_publish_date']))
             except KeyError:
                 thedate = 'xxxx-xx-xx'        
-        lc_name = (thedate[0:10] + '-' + j['data']['writers'][writer]['name']).replace(' ', '-').replace('.','').replace('/','--').lower()        
+        lc_name = sanitizestring(j['data']['writers'][writer]['name'])      
         markdown = open('output/writers/' + lc_name + '.md', 'w')
         markdown.write('+++\n')
         markdown.write('index = %s\n' % json.dumps(writer.encode('utf-8')))
