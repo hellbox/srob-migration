@@ -21,12 +21,10 @@ def sanitizestring( string):
 # A function to find linked titles and return their real names for better linking
 def findstring( string ):
     breakup = string.split()
-    # find node with first part of string
+    # Looksup the correct node, returns it as a formatted string, with the folder and filename
+    #print(breakup[0] + "/" + sanitizestring(j['data'][breakup[0]][breakup[1]]['name']))
     return breakup[0] + "/" + sanitizestring(j['data'][breakup[0]][breakup[1]]['name'])
-    # output name, and add second part of string and solution to lookup table for later reference
 
-equal = findstring( "notes -KZUEIz4zQXxZHmxqeH0" )
-print(equal)
 
 # Select child
 for key in j['data']:
@@ -264,6 +262,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for book in j['data']['authors'][author]['books']:
+                    book = findstring(book)
                     index_builder.append(book.encode('utf-8'))
                 markdown.write('books = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -271,6 +270,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for calendar in j['data']['authors'][author]['calendar_author']:
+                    calendar = findstring(calendar)
                     index_builder.append(calendar.encode('utf-8'))
                 markdown.write('calendar_author = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -278,6 +278,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for reviews in j['data']['authors'][author]['reviews']:
+                    reviews = findstring(reviews)
                     index_builder.append(reviews.encode('utf-8'))
                 markdown.write('reviews = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -286,6 +287,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for note in j['data']['authors'][author]['notes']:
+                    note = findstring(note)
                     index_builder.append(note.encode('utf-8'))
                 markdown.write('notes = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -294,6 +296,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for sponsorship in j['data']['authors'][author]['sponsorships_author']:
+                    sponsorship = findstring(sponsorship)
                     index_builder.append(sponsorship.encode('utf-8'))
                 markdown.write('sponsorships_author = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -421,6 +424,7 @@ for key in j['data']:
             except AttributeError:
                 index_builder = ""
                 for category in j['data']['books'][book]['category']:
+                    category = findstring(category)
                     index_builder = index_builder + category.encode('utf-8')
                 markdown.write('category = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -429,6 +433,9 @@ for key in j['data']:
             try:
                 index_builder = ""
                 for relationship in j['data']['books'][book]['publisher_relationship']:
+                    relationship = findstring(relationship)
+                    relationship = findstring(relationship)
+                    print(relationship)
                     index_builder = index_builder + relationship.encode('utf-8')
                 markdown.write('publisher_relationship = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -436,7 +443,9 @@ for key in j['data']:
 
             try:
                 index_builder = ""
-                for translator in j['data']['books'][book]['translator']:
+                for translator in j['data']['books'][book]['translator']: 
+                    translator = findstring(translator)
+                    translator = findstring(translator)                   
                     index_builder = index_builder + translator.encode('utf-8')
                 markdown.write('translator = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -463,6 +472,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for review in j['data']['books'][book]['review_relationship']:
+                    review = findstring(review)
                     index_builder.append(review.encode('utf-8'))
                 markdown.write('review_relationship = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -471,6 +481,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for author in j['data']['books'][book]['author_relationship']:
+                    author = findstring(author)
                     index_builder.append(author.encode('utf-8'))                    
                 markdown.write('author_relationship = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -479,6 +490,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for sponsorship in j['data']['books'][book]['sponsorships_book']:
+                    sponsorship = findstring(sponsorship)
                     index_builder.append(sponsorship.encode('utf-8'))
                 markdown.write('sponsorships_book = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -487,6 +499,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for notes in j['data']['books'][book]['notes_relationship']:
+                    notes = findstring(notes)
                     index_builder.append(notes.encode('utf-8'))
                 markdown.write('notes_relationship = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -607,6 +620,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for authors in j['data']['calendar'][calendar]['authors']:
+                    authors = findstring(authors)
                     index_builder.append(authors.encode('utf-8'))
                 markdown.write('authors = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -615,6 +629,7 @@ for key in j['data']:
             try:
                 index_builder = []
                 for sponsorship_event in j['data']['calendar'][calendar]['sponsorship_event']:
+                    sponsorship_event = findstring(sponsorship_event)
                     index_builder.append(sponsorship_event.encode('utf-8'))
                 markdown.write('sponsorship_event = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -623,6 +638,7 @@ for key in j['data']:
             try:
               index_builder = ""
               for venues in j['data']['calendar'][calendar]['venues']:
+                venues = findstring(venues)
                 venue = index_builder + venue.encode('utf-8')
               markdown.write('venues = %s\n' % json.dumps(index_builder))
             except KeyError:
@@ -712,6 +728,7 @@ for key in j['data']:
         try:
             index_builder = []
             for byline in j['data']['notes'][note]['byline']:
+                byline = findstring(byline)
                 index_builder.append(byline.encode('utf-8'))
             markdown.write('byline = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -719,6 +736,7 @@ for key in j['data']:
         try:
             index_builder = []
             for tags_notes in j['data']['notes'][note]['tags_notes']:
+                tags_notes = findstring(tags_notes)
                 index_builder.append(tags_notes.encode('utf-8'))
             markdown.write('tags_notes = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -726,6 +744,7 @@ for key in j['data']:
         try:
             index_builder = []
             for authors_notes in j['data']['notes'][note]['authors_notes']:
+                authors_notes = findstring(authors_notes)
                 index_builder.append(authors_notes.encode('utf-8'))
             markdown.write('authors_notes = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -733,6 +752,7 @@ for key in j['data']:
         try:
             index_builder = []
             for books in j['data']['notes'][note]['books']:
+                books = findstring(books)
                 index_builder.append(books.encode('utf-8'))
             markdown.write('books = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -800,6 +820,7 @@ for key in j['data']:
         try:
             index_builder = []
             for publisher in j['data']['publishers'][publisher]['books_by_this_publisher']:
+                publisher = findstring(publisher)
                 index_builder.append(publisher.encode('utf-8'))
             markdown.write('books_by_this_publisher = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -874,6 +895,7 @@ for key in j['data']:
         try:
             index_builder = []
             for by in j['data']['reviews'][review]['by']:
+                by = findstring(by)
                 index_builder.append(by.encode('utf-8'))
             markdown.write('by = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -882,6 +904,7 @@ for key in j['data']:
         try:
             index_builder = []
             for books_in_this_review in j['data']['reviews'][review]['books_in_this_review']:
+                books_in_this_review = findstring(books_in_this_review)
                 index_builder.append(books_in_this_review.encode('utf-8'))
             markdown.write('books_in_this_review = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -890,6 +913,7 @@ for key in j['data']:
         try:
             index_builder = []
             for tags_reviews in j['data']['reviews'][review]['tags_reviews']:
+                tags_reviews = findstring(tags_reviews)
                 index_builder.append(tags_reviews.encode('utf-8'))
             markdown.write('tags_reviews = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -898,6 +922,7 @@ for key in j['data']:
         try:
             index_builder = []
             for authors_reviews in j['data']['reviews'][review]['authors_reviews']:
+                authors_reviews = findstring(authors_reviews)
                 index_builder.append(authors_reviews.encode('utf-8'))
             markdown.write('authors_reviews = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -966,6 +991,7 @@ for key in j['data']:
         try:
             index_builder = []
             for reviews in j['data']['tags'][tag]['reviews']:
+                reviews = findstring(reviews)
                 index_builder.append(reviews.encode('utf-8'))
             markdown.write('reviews = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -973,6 +999,7 @@ for key in j['data']:
         try:
             index_builder = []
             for notes in j['data']['tags'][tag]['notes']:
+                notes = findstring(notes)
                 index_builder.append(notes.encode('utf-8'))
             markdown.write('notes = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -1036,6 +1063,7 @@ for key in j['data']:
         try:
             index_builder = []
             for translators in j['data']['translators'][translator]['books_translator']:
+                translators = findstring(translators)
                 index_builder.append(translators.encode('utf-8'))
             markdown.write('books_translator = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -1131,6 +1159,7 @@ for key in j['data']:
         try:
             index_builder = []
             for reviews_by in j['data']['writers'][writer]['reviews_by']:
+                reviews_by = findstring(reviews_by)
                 index_builder.append(reviews_by.encode('utf-8'))
             markdown.write('reviews_by = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -1138,6 +1167,7 @@ for key in j['data']:
         try:
             index_builder = []
             for notes_byline in j['data']['writers'][writer]['notes_byline']:
+                notes_byline = findstring(notes_byline)
                 index_builder.append(notes_byline.encode('utf-8'))
             markdown.write('notes_byline = %s\n' % json.dumps(index_builder))
         except KeyError:
@@ -1145,6 +1175,7 @@ for key in j['data']:
         try:
             index_builder = []
             for written_about in j['data']['writers'][writer]['written_about']:
+                written_about = findstring(written_about)
                 index_builder.append(written_about.encode('utf-8'))
             markdown.write('written_about = %s\n' % json.dumps(index_builder))
         except KeyError:
