@@ -1,0 +1,9 @@
+baseURL = "http://seattlereviewofbooks.com"
+languageCode = "en-us"
+title = "The Seattle Review of Books"
+theme = "seattlereviewofbooks"
+
+[taxonomies]
+    note = "notes"
+    tag = "tags"
+    review = "reviews"

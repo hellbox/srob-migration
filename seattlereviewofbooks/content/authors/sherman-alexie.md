@@ -1,0 +1,22 @@
++++
+index = "-JnIxGWcVFvVEoV_Pgr6"
+_sort_create_date = 1429485180
+_sort_last_updated = 1436744760
+_sort_publish_date = 1429485180
+create_date = "2015-04-19T16:13:00-07:00"
+publish_date = "2015-04-19T16:13:00-07:00"
+date = "2015-04-19T16:13:00-07:00"
+last_updated = "2015-07-12T16:46:00-07:00"
+preview_url = "c2104908-55a0-bf52-2c67-116b97759019"
+name = "Sherman Alexie"
+title = "Sherman Alexie"
+alphabetize_by = "alexie"
+isDraft = false
+is_seattle__pnw_writer = true
+written_about = ""
+books = ["books/you-dont-have-to-say-you-love-me"]
+calendar_author = ""
+reviews = ["reviews/stitch-by-stitch-by-broken-stitch", "reviews/we-the-poems"]
+notes = ["notes/so-did-i-pick-the-best-75-poems-published-last-year?-of-course-not-i-picked-75-poems-that-survived-a-literary-ordeal-that-happened-only-in-my-brain", "notes/yi-fen-chou-what\u2019s-good?", "notes/michael-derrick-hudson-may-be-worse-than-we-originally-thought", "notes/#actualasianpoets-speak-out", "notes/jess-walter-destroyed-seattle", "notes/its-banned-book-week!", "notes/your-week-in-readings-the-best-literary-events-from-october-5-to-october-11", "notes/dont-forget-to-celebrate-small-business-saturday", "notes/a-tiny-sense-of-closure", "notes/book-news-roundup-celebrate-sherman-alexie-get-a-new-job-and-change-the-font-on-your-e-reader", "notes/the-readings-that-helped-make-open-books", "notes/the-seattle-review-of-books-is-coming-to-bumbershoot!", "notes/writing-center-gets-written-on", "notes/book-news-roundup-sherman-alexie-to-curate-sal-series", "notes/your-week-in-readings-the-best-literary-events-from-may-18---may-24", "notes/book-news-roundup-sherman-alexies-six-favorite-books-about-identity", "notes/the-pandora-of-poetry", "notes/your-week-in-readings-the-best-literary-events-from-june-22nd---june-28th", "notes/your-week-in-readings-the-best-literary-events-in-seattle-from-august-10th---august-16th", "notes/literary-event-of-the-week-wong--akbar--pe\u00f1aloza--lewis", "notes/book-news-roundup-how-to-talk-to-a-woman-reading-a-book", "notes/sherman-alexie-is-finalist-for-kirkus-prize", "notes/your-week-in-readings-the-best-literary-events-from-october-12th---october-18th", "notes/your-week-in-readings-the-best-literary-events-from-november-9th---november-15th", "notes/literary-event-of-the-week-sherman-alexie-robert-lashley-and-ej-koh", "notes/literary-event-of-the-week-indies-first-party-bus", "notes/why-elliott-bay-book-company-is-one-of-the-best-bookstores-in-the-world", "notes/scenes-from-the-indies-first-party-bus-tour", "notes/sherman-alexie-to-adapt-the-absolutely-true-diary-of-a-part-time-indian-into-a-film", "notes/sherman-alexie-lindy-west-and-ta-nehisi-coates-all-quit-twitter-this-week", "notes/book-news-roundup-of-whoppers-and-romance", "notes/book-news-roundup-have-you-read-sherman-alexies-viral-poem-about-passports?", "notes/book-news-roundup-get-a-publishing-job-help-standing-rock-and-ruin-your-mr-darcy-sex-dreams", "notes/one-month-since-her-passing-seattles-literary-community-still-mourns-joan-swift", "notes/literary-event-of-the-week-celebrating-the-life-and-work-of-joan-swift", "notes/book-news-roundup-all-good-news-all-poetry", "notes/book-news-roundup-nominate-your-favorite-seattle-writer-for-the-mayors-arts-awards", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel?", "notes/your-week-in-readings-the-best-literary-events-from-june-14th---20th", "notes/book-news-roundup-americans-are-crazy-about-audio-books", "notes/in-the-recording-studio-with-sherman-alexie", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels?", "notes/citing-a-need-to-take-a-big-step-back-and-do-most-of-my-grieving-in-private-sherman-alexie-postpones-book-tour", "notes/seattle-authors-everywhere-read-new-work-from-sherman-alexie-and-corinne-manning", "notes/your-week-in-readings-the-best-literary-events-from-september-13th---september-19th", "notes/literary-event-of-the-week-absolutely-true-diary-of-a-part-time-indian-reissue-release-party", "notes/\u201ci-just-want-to-go-on-the-record-in-case-i-unexpectedly-die-that-i-havent-read-any-book-by-john-smelcer\u201d-", "notes/john-smelcer-wants-to-sing-like-sherman-alexie-but-he-sounds-more-like-a-cat-in-heat", "notes/daniel-handlers-all-the-dirty-parts-is-just-as-enticing-funny-profane-and-frustrating-as-sex-itself", "notes/here-are-the-winners-of-the-2017-washington-state-book-awards"]
+sponsorships_author = ""
++++

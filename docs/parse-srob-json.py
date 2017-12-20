@@ -25,7 +25,6 @@ def findstring( string ):
     #print(breakup[0] + "/" + sanitizestring(j['data'][breakup[0]][breakup[1]]['name']))
     return breakup[0] + "/" + sanitizestring(j['data'][breakup[0]][breakup[1]]['name'])
 
-
 # Select child
 for key in j['data']:
     print("---------- working with key '%s'--------" % key)
@@ -39,7 +38,7 @@ for key in j['data']:
         # create file and structure
         markdown = open('output/about/_index.md', 'w')
         markdown.write('+++\n')
-        # # STANDARD DATA BLOCK ##
+        # # STANDARD DATA BLOCK ##j['data'][breakup[0]][breakup[1]]['name']
         markdown.write('_sort_create_date = %d\n' % j['data']['about']['_sort_create_date'])
         markdown.write('_sort_last_updated = %d\n' % j['data']['about']['_sort_last_updated'])
         try:

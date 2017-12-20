@@ -1,0 +1,38 @@
++++
+index = "-JzZ-tsXKvQg9LnGFsh7"
+_sort_create_date = 1442639460
+_sort_last_updated = 1442640060
+_sort_publish_date = 1442678400
+create_date = "2015-09-18T22:11:00-07:00"
+publish_date = "2015-09-19T09:00:00-07:00"
+date = "2015-09-19T09:00:00-07:00"
+last_updated = "2015-09-18T22:21:00-07:00"
+preview_url = "10134e2e-3030-ea22-f3dd-775f87e93cf5"
+name = "Rahawa Haile\u2019s short stories of the day, of the previous week, for September 19, 2015"
+title = "Rahawa Haile\u2019s short stories of the day, of the previous week, for September 19, 2015"
+type = "Column"
+link = ""
+shareimage = ""
+twitterauto = "Our weekly round up of @rahawahaile's short story project is up, featuring @SarahPinsker, @cmaum and more."
+facebookauto = "Our weekly roundup of Rahawa Haile's Short Story of the Day project is up. A great way to spend a weekend morning, reading through some writers you may not know. "
+make_image_tweet = ""
+byline = ["writers/martin-mcclellan"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-stories", "tags/short-story-of-the-day"]
+authors_notes = ""
+books = ""
++++
+<p class="intro">Every day, friend of the _SRoB_ Rahawa Haile tweets a short story. She gave us permission to collect them every week. She’s archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a></p>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #255&#10;Lisa Donovan&#39;s &quot;Our Book of Failures&quot;&#10;Conjunctions (2015)&#10;<a href="http://t.co/HEmEq6IkEX">http://t.co/HEmEq6IkEX</a> <a href="http://t.co/wirBZDbWHi">pic.twitter.com/wirBZDbWHi</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/642856655911305216">September 13, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #256&#10;Sarah Pinsker&#39;s &quot;And We Were Left Darkling&quot;&#10;Lightspeed (2015)&#10;<a href="http://t.co/8Okv6JlQy7">http://t.co/8Okv6JlQy7</a> <a href="http://t.co/CXfQ7wFiNp">pic.twitter.com/CXfQ7wFiNp</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/643178448333217792">September 13, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #257&#10;Nao-cola Yamazaki&#39;s &quot;A False Genealogy&quot;&#10;Catapult (2015)&#10;<a href="https://t.co/zVpLd9OIuQ">https://t.co/zVpLd9OIuQ</a> <a href="http://t.co/Hy4oLyoNWy">pic.twitter.com/Hy4oLyoNWy</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/643561952694902784">September 14, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Short Story of the Day #258&#10;These past two weeks have been difficult for more reasons than I can say. But. <a href="http://t.co/v9VyFxsoas">pic.twitter.com/v9VyFxsoas</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/643990320892485634">September 16, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #259&#10;Courtney Maum&#39;s &quot;The Bashful Yeti Tree Sculpture, Guarder of the Pond&quot;&#10;Hobart (2012) <a href="http://t.co/UA4YualaU9">pic.twitter.com/UA4YualaU9</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/644350651976302592">September 17, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #260&#10;Gina Ochsner&#39;s &quot;Song of the Selkie&quot;&#10;Fantastic Women (Tin House, 2011)&#10;&lt;3 <a href="https://twitter.com/HousingWorksBks">@HousingWorksBks</a> <a href="http://t.co/6IwlaMT6LR">pic.twitter.com/6IwlaMT6LR</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/644698181834534912">September 18, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #261&#10;Jessica Alexander&#39;s &quot;Bring Me Something&quot;&#10;Alice Blue Review (2014)&#10;<a href="http://t.co/mFDsJhr2Ev">http://t.co/mFDsJhr2Ev</a> <a href="http://t.co/deEd1BQhOd">pic.twitter.com/deEd1BQhOd</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/645058061422477316">September 19, 2015</a></blockquote>

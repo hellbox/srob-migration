@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Touchies on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/touchy/</link>
+    <description>Recent content in Touchies on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2017 07:23:31 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/touchy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>main love</title>
+      <link>http://seattlereviewofbooks.com/touchy/main-love/</link>
+      <pubDate>Wed, 05 Jul 2017 07:23:31 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/touchy/main-love/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero labore maxime, asperiores ad beatae veniam culpa consequuntur. Labore cum, recusandae, obcaecati dolor voluptas accusamus cumque doloribus. Totam autem modi non.</description>
+    </item>
+    
+    <item>
+      <title>Lunch date: Butterflies in November</title>
+      <link>http://seattlereviewofbooks.com/touchy/2015-06-22-lunch-date-butterflies-in-november/</link>
+      <pubDate>Mon, 22 Jun 2015 22:46:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/touchy/2015-06-22-lunch-date-butterflies-in-november/</guid>
+      <description>*(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. Lunch Date is my judgment on that speed-dating experience.)*
+**Who’s your date today?** *Butterflies in November*, an Icelandic novel written by Auður Ava Ólafsdóttir and translated into English by Brian FitzGibbon.
+**Where’d you go?** [Queen Bee Cafe](http://www.queenbeecafe.com/) on Madison Ave.
+**What’d you eat?** The BLT crumpet sandwich with fruit cup ($7.</description>
+    </item>
+    
+  </channel>
+</rss>
