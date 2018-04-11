@@ -20,6 +20,7 @@ byline = ["writers/aaron-bagley"]
 tags_notes = ["tags/aaron-bagleys-dream-comics"]
 authors_notes = ""
 books = ""
+markup = "markdown"
 +++
 <p class="image"><a href="/webhook-uploads/1507562066304/dream%207.19.2012-1.jpg" target="_blank">![](/webhook-uploads/1507562066304/dream%207.19.2012-1.jpg)</a></p>
 <p class="image"><a href="/webhook-uploads/1507562080502/dream%207.19.2012-2.jpg" target="_blank">![](/webhook-uploads/1507562080502/dream%207.19.2012-2.jpg)</a></p>

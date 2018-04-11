@@ -1,7 +1,7 @@
 <ul>
 {{ range .Pages }}
     {{ if .Date.Before now }}
-        <li><a href="{{ .Permalink }}">{{ .Params.index }} - {{ .Title }} - {{ .Params.byline }}</a></li>
+        <li><a href="{{ .Permalink }}">{{ .Title }} - {{ .Params.byline }} - {{ .Params.date }} </a></li>
     {{ end }}
 {{ end }}
 </ul>

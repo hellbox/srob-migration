@@ -2,6 +2,12 @@ baseURL = "http://seattlereviewofbooks.com"
 languageCode = "en-us"
 title = "The Seattle Review of Books"
 theme = "seattlereviewofbooks"
+staticDir = "static"
+description = "From writers to readers, from booksellers to librarians, from new releases to antiquarian discoveries, the Seattle Review of Books examines exactly what it means to love books and writing in Seattle in the 21st century. The book review is an underrated art form, and we publish as much beautiful writing about books as humanly possible."
+copyright = "All content \u00A9{ year } the Seattle Review of Books, and respective authors."
+
+[params]
+    description = "From writers to readers, from booksellers to librarians, from new releases to antiquarian discoveries, the Seattle Review of Books examines exactly what it means to love books and writing in Seattle in the 21st century. The book review is an underrated art form, and we publish as much beautiful writing about books as humanly possible."
 
 [taxonomies]
     note = "notes"

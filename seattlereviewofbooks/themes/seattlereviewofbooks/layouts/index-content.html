@@ -1,0 +1,132 @@
+{{ define "head_extra" }}
+{{/* TODO: put this in it's own area */}}
+<meta property="fb:app_id" content="481146972233231"/>
+<meta property="og:url" content="http://www.seattlereviewofbooks.com">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Seattle Review of Books">
+<meta property="og:description" content="Reviews, notes, interviews, articles, and poetry from The Seattle Review of Books.">
+<meta property="og:image:url" content="http://helpers.seattlereviewofbooks.com/images/srob-logo.png">
+<meta property="og:type" content="website">
+<meta property="article:published_time" content="{{/* TODO: add published timestamp */}}">
+<meta property="article:section" content="books">
+<link rel="amphtml" href="http://mercury.postlight.com/amp?url=http://www.seattlereviewofbooks.com">
+{{ end }}
+
+
+
+<div class="container note">
+{{ range .Data.Pages }}
+    {{ if .Date.Before now }}
+    {{ if .Params.books_in_this_review }}
+        <div class="row">
+            <div class="col-sm-7 inline-review">
+                <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                <p class="date">Published {{ .Date.Format "January 2, 2018 at 3:04pm" }}<p>
+                <p class="noindent review-meta">
+                <strong>{{ .Params.by }} </strong>
+                </p>
+                <div class="dek">{{ .Params.dek }}</div>
+                <p class="noindent"><a href="{{ .Permalink }}">Read this review now</a></p>
+            <div class="item-end"></div>             
+            </div>            
+        </div>
+
+    {{ end }}
+    {{ if eq .Params.type "Note"}}
+        <li>Note</li> //link off to columns
+    {{ else if eq .Params.type "Column" }}
+        <li>Column</li>
+    {{ else if eq .Params.type "Poem" }}        
+    <li>Poem</li>
+    {{ else if eq .Params.type "Interview" }}        
+    <li>Interview</li> 
+    {{ else if eq .Params.type "Fiction" }}        
+    <li>Fiction</li>         
+    {{ else if eq .Params.type "Politics" }}        
+    <li>Politics</li>             
+    {{ end }}
+  
+    {{ end }}
+{{ end }}
+</div>
+
+
+
+{{/* comments here 
+
+OLD CONTENT TO RECKON WITH
+{% block content %}
+<div class="container note">
+    {% for item in notes %}
+    
+
+    {% if !item.type %}
+
+    <div class="row">
+        <div class="col-sm-7 inline-review">
+         <h1><a href="{{ url(item) }}">{{ item.name }}</a></h1> 
+         <p class="date">Published {{ item.publish_date|date('F d, Y') }}, at {{ item.publish_date|date('g:ia') }}<p>
+         <p class="noindent review-meta">
+    <strong>{# REVIEW WRITER(S) #}{#  Loop over the writer's of the review: #}{% for relation in item.by %}{# Spit out writer's name #}{{ relation.name }}{# If we're more than 0 away from the end of the loop, there is more than one writer, so add a comma #}{% if loop.revindex0 > 0 %}, {% endif %}{# If we're exactly two people way from the end of the loop, then add the "and", and mark a variable so we can test for multiples later  #}{% if loop.revindex == 2 %} and {% set multiples = true %}{% endif %}{% endfor %}</strong> 
+    review{# Adds an 's' to the end of word 'review' if there is not more than one author (because multiple review writers remove the plural on the word 'review') #}{% if !multiples %}s {% else %} {% endif %}{# THE BOOK(S) #}{# Loop through books in the review #}{% for book in item.books_in_this_review %}{# THE AUTHOR(S) #}{# Set apostrophe to true, because we want it at the end of the last author's name #}{% set apostrophe = true %}{# Loop through writers of the book #}{% set loopcount = 0 %}{% for author in book.author_relationship %}{# Checks to see if "namecheck" has been set previously (if not, first author) #}{% if !namecheck || namecheck != author.name %}{{ author.name }}{% set namecheck = author.name %}{# if namecheck HAS been set there is more than one author, or the author is singular #}{% else %}{# then we do not want an apostrophe #}{% set apostrophe = false %}{% endif %}{% if loop.revindex0 > 0 %}, {% set apostrophe = false %}{% endif %}{% if loop.revindex == 2 %} and {% set apostrophe = false %}{% endif %}{% if apostrophe %}'s{% endif %}{% set apostrophe = true %}{% endfor %}{# THE BOOK(S) #} <em>{{ book.name }}</em>{# Handles multiple books #}{% if loop.revindex0 > 0 %}, {% endif %}{% if loop.revindex == 2 %} and {% endif %}{% endfor %}.</p> 
+
+            <div class="dek">{{ item.dek|markdown }}</div>
+            <p class="noindent"><a href="{{ url( item ) }}">Read this review now</a></p>
+            <div class="item-end"></div>             
+        </div>  
+                {% if loop.first %}
+        <div class="col-sm-3 col-sm-offset-7 sponsor">
+            {% include "templates/sponsorships/sponsorship.partial.html" %}
+        </div>
+        {% endif %} 
+            {% if loop.last %}{# inserts mobile ad after main stream #}
+                 <div class="mobile-sponsor">
+                    {% include "templates/sponsorships/sponsorship.partial.html" %}
+                </div>
+            {% endif %}       
+    </div>
+
+    {% else %}
+
+    <div class="row">
+        <div class="col-sm-1">
+            <div class="share-links small share-column">
+                {% include "templates/partials/share-links.partial.html" %}
+            </div>
+        </div>
+        <div class="col-sm-6">
+            {% if item.type|lower == 'column' %}
+            {% include "templates/notes/note-column.partial.html" %}
+            {% elseif item.type|lower == 'note' %}
+            {% include "templates/notes/note-note.partial.html" %}
+            {% elseif item.type|lower == 'interview' %}
+            {% include "templates/notes/note-interview.partial.html" %}
+            {% elseif item.type|lower == 'poem' %}
+            {% include "templates/notes/note-poem.partial.html" %}
+            {% elseif item.type|lower == 'fiction' %}
+            {% include "templates/notes/note-fiction.partial.html" %}
+            {% elseif item.type|lower == 'politics' %}
+            {% include "templates/notes/note-politics.partial.html" %}            
+            {% endif %}
+            <div class="note-end"></div>
+
+            {% if loop.last %}{# inserts mobile ad after main stream #}
+                 <div class="mobile-sponsor">
+                    {% include "templates/sponsorships/sponsorship.partial.html" %}
+                </div>
+            {% endif %}
+
+        </div>
+        {% if loop.first %}
+        <div class="col-sm-3 col-sm-offset-7 sponsor">
+            {% include "templates/sponsorships/sponsorship.partial.html" %}
+        </div>
+        {% endif %}
+    </div>
+    {% endif %}
+    {% endfor %}
+    {% include "templates/partials/paginator.html" %}
+</div>
+</div>
+{% endblock %}
+*/}}
