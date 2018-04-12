@@ -34,17 +34,17 @@
 
     {{ end }}
     {{ if eq .Params.type "Note"}}
-        <li>Note</li> //link off to columns
+        <li>Note: <a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ else if eq .Params.type "Column" }}
-        <li>Column</li>
+        <li>Column: <a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ else if eq .Params.type "Poem" }}        
-    <li>Poem</li>
+    <li>Poem: <a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ else if eq .Params.type "Interview" }}        
-    <li>Interview</li> 
+    <li>Interview: <a href="{{ .Permalink }}">{{ .Title }}</a></li> 
     {{ else if eq .Params.type "Fiction" }}        
-    <li>Fiction</li>         
+    <li>Fiction: <a href="{{ .Permalink }}">{{ .Title }}</a></li>         
     {{ else if eq .Params.type "Politics" }}        
-    <li>Politics</li>             
+    <li>Politics: <a href="{{ .Permalink }}">{{ .Title }}</a></li>             
     {{ end }}
   
     {{ end }}
