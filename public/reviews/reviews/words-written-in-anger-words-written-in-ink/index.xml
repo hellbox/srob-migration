@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/Words Written in Anger Words Written in Ink on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/words-written-in-anger-words-written-in-ink/</link>
+    <description>Recent content in Reviews/Words Written in Anger Words Written in Ink on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Thu, 13 Aug 2015 16:03:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/words-written-in-anger-words-written-in-ink/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ta-Nehisi Coates</title>
+      <link>http://seattlereviewofbooks.com/authors/ta-nehisi-coates/</link>
+      <pubDate>Thu, 13 Aug 2015 16:03:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/ta-nehisi-coates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

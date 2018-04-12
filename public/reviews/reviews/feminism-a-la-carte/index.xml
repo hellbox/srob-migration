@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/Feminism a La Carte on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/feminism-a-la-carte/</link>
+    <description>Recent content in Reviews/Feminism a La Carte on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Mon, 19 Sep 2016 20:46:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/feminism-a-la-carte/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kameron Hurley</title>
+      <link>http://seattlereviewofbooks.com/authors/kameron-hurley/</link>
+      <pubDate>Mon, 19 Sep 2016 20:46:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/kameron-hurley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andi Zeisler</title>
+      <link>http://seattlereviewofbooks.com/authors/andi-zeisler/</link>
+      <pubDate>Mon, 23 May 2016 20:53:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/andi-zeisler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

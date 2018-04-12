@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes/The First Selection of the Seattle Seahawks Book Club Is on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/notes/notes/the-first-selection-of-the-seattle-seahawks-book-club-is/</link>
+    <description>Recent content in Notes/The First Selection of the Seattle Seahawks Book Club Is on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Wed, 12 Jul 2017 08:37:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/notes/notes/the-first-selection-of-the-seattle-seahawks-book-club-is/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seahawks</title>
+      <link>http://seattlereviewofbooks.com/tags/seahawks/</link>
+      <pubDate>Wed, 12 Jul 2017 08:37:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/seahawks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book club</title>
+      <link>http://seattlereviewofbooks.com/tags/book-club/</link>
+      <pubDate>Sat, 16 Jan 2016 12:56:00 -0800</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/book-club/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

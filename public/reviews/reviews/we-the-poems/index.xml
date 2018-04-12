@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/We the Poems on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/we-the-poems/</link>
+    <description>Recent content in Reviews/We the Poems on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Sun, 19 Mar 2017 13:47:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/we-the-poems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Theodore Roethke</title>
+      <link>http://seattlereviewofbooks.com/authors/theodore-roethke/</link>
+      <pubDate>Sun, 19 Mar 2017 13:47:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/theodore-roethke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tod Marshall</title>
+      <link>http://seattlereviewofbooks.com/authors/tod-marshall/</link>
+      <pubDate>Mon, 23 May 2016 20:30:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/tod-marshall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claudia Castro Luna</title>
+      <link>http://seattlereviewofbooks.com/authors/claudia-castro-luna/</link>
+      <pubDate>Mon, 23 May 2016 19:59:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/claudia-castro-luna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sherman Alexie</title>
+      <link>http://seattlereviewofbooks.com/authors/sherman-alexie/</link>
+      <pubDate>Sun, 19 Apr 2015 16:13:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/sherman-alexie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

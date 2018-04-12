@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/Adventures in the Third Dimension on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/adventures-in-the-third-dimension/</link>
+    <description>Recent content in Reviews/Adventures in the Third Dimension on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Sun, 01 Nov 2015 15:56:00 -0800</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/adventures-in-the-third-dimension/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mita Mahato</title>
+      <link>http://seattlereviewofbooks.com/authors/mita-mahato/</link>
+      <pubDate>Sun, 01 Nov 2015 15:56:00 -0800</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/mita-mahato/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

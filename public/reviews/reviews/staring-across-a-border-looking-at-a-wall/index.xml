@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/Staring Across a Border Looking at a Wall on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/staring-across-a-border-looking-at-a-wall/</link>
+    <description>Recent content in Reviews/Staring Across a Border Looking at a Wall on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Tue, 08 Mar 2016 20:52:00 -0800</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/staring-across-a-border-looking-at-a-wall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ito Romo</title>
+      <link>http://seattlereviewofbooks.com/authors/ito-romo/</link>
+      <pubDate>Tue, 08 Mar 2016 20:52:00 -0800</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/ito-romo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

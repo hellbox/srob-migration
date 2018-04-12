@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes/Look Ma Were in Slate on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/notes/notes/look-ma-were-in-slate/</link>
+    <description>Recent content in Notes/Look Ma Were in Slate on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Wed, 12 Jul 2017 08:29:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/notes/notes/look-ma-were-in-slate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Third Place Books Seward Park</title>
+      <link>http://seattlereviewofbooks.com/tags/third-place-books-seward-park/</link>
+      <pubDate>Wed, 12 Jul 2017 08:29:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/third-place-books-seward-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading Through It</title>
+      <link>http://seattlereviewofbooks.com/tags/reading-through-it/</link>
+      <pubDate>Tue, 13 Jun 2017 22:16:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/reading-through-it/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes/Visual Art and Comics Art Collide at Grumpy Old Mans Comics Art and Collectibles on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/notes/notes/visual-art-and-comics-art-collide-at-grumpy-old-mans-comics-art-and-collectibles/</link>
+    <description>Recent content in Notes/Visual Art and Comics Art Collide at Grumpy Old Mans Comics Art and Collectibles on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Tue, 17 Jan 2017 15:34:00 -0800</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/notes/notes/visual-art-and-comics-art-collide-at-grumpy-old-mans-comics-art-and-collectibles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interviews</title>
+      <link>http://seattlereviewofbooks.com/tags/interviews/</link>
+      <pubDate>Tue, 17 Jan 2017 15:34:00 -0800</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/interviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grumpy Old Man</title>
+      <link>http://seattlereviewofbooks.com/tags/grumpy-old-man/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/grumpy-old-man/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

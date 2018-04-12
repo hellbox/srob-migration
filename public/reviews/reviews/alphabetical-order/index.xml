@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/Alphabetical Order on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/alphabetical-order/</link>
+    <description>Recent content in Reviews/Alphabetical Order on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 22:44:00 -0800</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/alphabetical-order/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sue Grafton</title>
+      <link>http://seattlereviewofbooks.com/authors/sue-grafton/</link>
+      <pubDate>Mon, 01 Jan 2018 22:44:00 -0800</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/sue-grafton/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes/Dancing Is Like Reading With Your Body on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/notes/notes/dancing-is-like-reading-with-your-body/</link>
+    <description>Recent content in Notes/Dancing Is Like Reading With Your Body on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Wed, 12 Jul 2017 07:02:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/notes/notes/dancing-is-like-reading-with-your-body/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fundraiser</title>
+      <link>http://seattlereviewofbooks.com/tags/fundraiser/</link>
+      <pubDate>Wed, 12 Jul 2017 07:02:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/fundraiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lit Crawl</title>
+      <link>http://seattlereviewofbooks.com/tags/lit-crawl/</link>
+      <pubDate>Wed, 12 Jul 2017 07:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/lit-crawl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rejections</title>
+      <link>http://seattlereviewofbooks.com/tags/the-rejections/</link>
+      <pubDate>Wed, 12 Jul 2017 07:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/the-rejections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elliott Bay Book Company</title>
+      <link>http://seattlereviewofbooks.com/tags/elliott-bay-book-company/</link>
+      <pubDate>Sat, 16 Jan 2016 13:11:00 -0800</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/elliott-bay-book-company/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+.navbar-nav { display:none; }
+a.logo { left:40px; }
+nav { margin-left:50px;}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+  .navbar-nav { display:block-inline-block; }
+    body {
+    /*border:10px solid red;*/
+  }
+  a.logo { left:50%; }
+  nav { margin-left:0;}
+ }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .navbar-nav { display:block; }
+  body {
+    /*border:10px solid blue;*/
+  }
+ }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .navbar-nav { display:block; }
+    body {
+    /*border:10px solid purple;*/
+  }
+
+ }

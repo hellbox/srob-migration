@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/Traveled the World and the Seven Seas on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/traveled-the-world-and-the-seven-seas/</link>
+    <description>Recent content in Reviews/Traveled the World and the Seven Seas on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Tue, 04 Oct 2016 23:40:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/traveled-the-world-and-the-seven-seas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Joshua Foer</title>
+      <link>http://seattlereviewofbooks.com/authors/joshua-foer/</link>
+      <pubDate>Tue, 04 Oct 2016 23:40:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/joshua-foer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

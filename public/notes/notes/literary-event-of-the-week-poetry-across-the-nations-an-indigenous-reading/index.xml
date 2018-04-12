@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes/Literary Event of the Week Poetry Across the Nations an Indigenous Reading on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/notes/notes/literary-event-of-the-week-poetry-across-the-nations-an-indigenous-reading/</link>
+    <description>Recent content in Notes/Literary Event of the Week Poetry Across the Nations an Indigenous Reading on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Wed, 12 Jul 2017 08:28:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/notes/notes/literary-event-of-the-week-poetry-across-the-nations-an-indigenous-reading/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Event of the Week</title>
+      <link>http://seattlereviewofbooks.com/tags/event-of-the-week/</link>
+      <pubDate>Wed, 12 Jul 2017 08:28:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/event-of-the-week/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interviews</title>
+      <link>http://seattlereviewofbooks.com/tags/interviews/</link>
+      <pubDate>Tue, 17 Jan 2017 15:34:00 -0800</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/interviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo House</title>
+      <link>http://seattlereviewofbooks.com/tags/hugo-house/</link>
+      <pubDate>Sat, 16 Jan 2016 13:09:00 -0800</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/tags/hugo-house/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
