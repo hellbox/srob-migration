@@ -180,7 +180,7 @@ nav span a.navbar-brand, nav span a.navbar-brand-mobile {
 }
 
 header {
-    background: url('/static/images/header-backdrop.svg');
+    background: url('/images/header-backdrop.svg');
     z-index: 8000;
     border-bottom: 5px solid #fff;
 }
@@ -232,7 +232,7 @@ a.logo {
     width: 49px;
     height: 100px;
     background-size: 100%;
-    background: url('/static/images/logo-bw.svg') top center no-repeat;
+    background: url('/images/logo-bw.svg') top center no-repeat;
     transition: .1s linear;
     margin-left: -25px;
 }
@@ -572,7 +572,7 @@ a.sponsorship:hover {
 
 .break {
     height: 85px;
-    background: url('/static/images/glyph.svg') center center no-repeat;
+    background: url('/images/glyph.svg') center center no-repeat;
 }
 
 body.sponsorship div.break {
@@ -599,7 +599,7 @@ body.sponsorship div.break {
 .end, .note-end {
     height: 85px;
     margin-bottom: 5em;
-    background: url('/static/images/break-mark.svg') center center no-repeat;
+    background: url('/images/break-mark.svg') center center no-repeat;
 }
 
 .note-end {
@@ -609,7 +609,7 @@ body.sponsorship div.break {
 }
 
 footer {
-    background-image: url('/static/images/header-backdrop.svg');
+    background-image: url('/images/header-backdrop.svg');
     background-size: 100%;
     padding: 25px 0;
     margin-top: 3em;
@@ -1178,7 +1178,7 @@ ul.article-list li, ol.article-list li { font-family: "SeravekLight"; padding:0.
     blockquote { border:0; }
     /*.container .review p.break + p:first-line, .container .review div.break + p:first-line, div.review-text:first-line, p.image-hero + p:first-line { color:#000; }*/
     .break { text-align:center; padding:2em;  }
-    .break:after { content: url('/static/images/glyph.svg'); }
+    .break:after { content: url('/images/glyph.svg'); }
     .break + p { padding-top:2em; }
     
 
