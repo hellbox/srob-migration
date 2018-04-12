@@ -1,12 +1,12 @@
 +++
 index = "-KwHzq_m0uKuwwPYg2zo"
 _sort_create_date = 1507852200
-_sort_last_updated = 1507852860
+_sort_last_updated = 1508192460
 _sort_publish_date = 1508176500
 create_date = "2017-10-12T16:50:00-07:00"
 publish_date = "2017-10-16T10:55:00-07:00"
 date = "2017-10-16T10:55:00-07:00"
-last_updated = "2017-10-12T17:01:00-07:00"
+last_updated = "2017-10-16T15:21:00-07:00"
 preview_url = "dd6660b5-dba6-0dd6-a16f-57a259f1dbbf"
 name = "Lit Crawl Itinerary #1: The genre walk"
 title = "Lit Crawl Itinerary #1: The genre walk"
@@ -23,7 +23,7 @@ books = ""
 +++
 <p class="intro">This Thursday night is Lit Crawl, a bacchanalia of literary events spread over four courses across Capitol Hill, First Hill, and downtown. [You can find the full schedule here](http://litcrawl.org/seattle/2017-schedule), but we wanted to provide a few possible itineraries for people who have a hard time making up their minds. Come back tomorrow for the next itnerary.</p>
 
-**Phase 1**: Our first itinerary starts with a choice: are you a dystopian fiction nut, or do you like your sci-fi to be a broader deal? If you like dystopia, head to the Sorrento Hotel for an evening of postapocalyptic stories with readers Aple Plotnick Jannotta, Lynn Adams, and Johanna Stoberock. Prefer a wider scope on your speculative fiction? Saint John's bar is hosting Cat Rambo, Camille Griep, and Caren Gussoff Sumption.
+**Phase 1**: Our first itinerary starts with a choice: are you a dystopian fiction nut, or do you like your sci-fi to be a broader deal? If you like dystopia, head to the Sorrento Hotel for an evening of postapocalyptic stories with readers Apple Plotnick Jannotta, Lynn Adams, and Johanna Stoberock. Prefer a wider scope on your speculative fiction? Saint John's bar is hosting Cat Rambo, Camille Griep, and Caren Gussoff Sumption.
 
 **Phase 2**: Head to Zoë Events on Union for Meredith Clark, Katie Ellison, Leslie Frank, and Molly Thornton for a brisk 45-minute exploration of what genre can do. The copy for the event promises an evening that "traverses across memoir, essay, and less definable forms to create cross-genre and hybrid nonfiction."
 

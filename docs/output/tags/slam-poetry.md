@@ -12,6 +12,6 @@ name = "slam poetry"
 title = "slam poetry"
 is_column = false
 reviews = ""
-notes = ["notes/talking-with-ebo-barton-about-representing-seattle-the-divide-between-spoken-word-and-written-poetry-and-three-poets-you-should-know"]
+notes = ["notes/talking-with-ebo-barton-about-representing-seattle-the-divide-between-spoken-word-and-written-poetry-and-three-poets-you-should-know", "notes/although-[seattle]-has-so-many-things-that-it-needs-to-work-on-there-is-beauty-in-it-as-well"]
 +++
 

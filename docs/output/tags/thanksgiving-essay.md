@@ -12,6 +12,6 @@ name = "Thanksgiving Essay"
 title = "Thanksgiving Essay"
 is_column = true
 reviews = ""
-notes = ["notes/gratitude-stripped-bare-by-her-bachelors"]
+notes = ["notes/gratitude-stripped-bare-by-her-bachelors", "notes/its-thanksgiving-in-seattle", "notes/morning-terror-nights-of-dread"]
 +++
 

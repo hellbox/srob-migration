@@ -8,7 +8,7 @@ publish_date = "2017-02-08T21:20:00-08:00"
 date = "2017-02-08T21:20:00-08:00"
 last_updated = "2017-02-08T21:20:00-08:00"
 preview_url = "280604f6-a632-9d7a-bcfc-249973134683"
-name = "Charles Dickens"
+byline = "Charles Dickens"
 title = "Charles Dickens"
 alphabetize_by = "dickens"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/the-help-desk-portrait-of-the-author-as-a-total-hottie", "notes/mary-gaitskill-and-the-invisible-force-between-words", "notes/sour-grapes"]
+notes = ["notes/the-help-desk-portrait-of-the-author-as-a-total-hottie", "notes/mary-gaitskill-and-the-invisible-force-between-words", "notes/sour-grapes", "notes/what-sean-spicer-a-christmas-carol-and-star-wars-can-teach-us-about-criticism"]
 sponsorships_author = ""
 +++

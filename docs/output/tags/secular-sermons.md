@@ -12,6 +12,6 @@ name = "secular sermons"
 title = "secular sermons"
 is_column = false
 reviews = ""
-notes = ["notes/gratitude-stripped-bare-by-her-bachelors", "notes/nanowrimo-week-5-stories-and-bridges", "notes/its-thanksgiving-in-seattle"]
+notes = ["notes/gratitude-stripped-bare-by-her-bachelors", "notes/nanowrimo-week-5-stories-and-bridges", "notes/its-thanksgiving-in-seattle", "notes/morning-terror-nights-of-dread"]
 +++
 

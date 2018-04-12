@@ -1,12 +1,12 @@
 +++
 index = "-KvQO9Brt_0nQ10kbILy"
 _sort_create_date = 1506919320
-_sort_last_updated = 1507647060
+_sort_last_updated = 1509421440
 _sort_publish_date = 1509468900
 create_date = "2017-10-01T21:42:00-07:00"
 publish_date = "2017-10-31T09:55:00-07:00"
 date = "2017-10-31T09:55:00-07:00"
-last_updated = "2017-10-10T07:51:00-07:00"
+last_updated = "2017-10-30T20:44:00-07:00"
 preview_url = "d1dd9565-6b5a-3045-be76-02607b9fa713"
 name = "Lady Poem"
 title = "Lady Poem"
@@ -53,5 +53,4 @@ _I’m not there then_
 
 _No I cannot_
 
-<p class="poem-footer">Kary Wayson is the _Seattle Review of Books_ Poet in Residence for October.<br><br>Previously: [_My Subjects_](), [_My Own Hikmet Poem_](), [_Farthermore_](), and [_Glugs Ofamber Winelight Lay_]().</p>
-
+<p class="poem-footer">Kary Wayson is the _Seattle Review of Books_ Poet in Residence for October.<br><br>Previously: [_My Subjects_](http://www.seattlereviewofbooks.com/notes/2017/10/03/my-subjects/), [_My Own Hikmet Poem_](http://www.seattlereviewofbooks.com/notes/2017/10/10/my-own-hikmet-poem/), [_Farthermore_](http://www.seattlereviewofbooks.com/notes/2017/10/17/farthermore/), and [_Glugs of Amber Winelight Lay_](http://www.seattlereviewofbooks.com/notes/2017/10/24/glugs-of-amber-winelight-lay/).</p>

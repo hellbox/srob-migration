@@ -8,7 +8,7 @@ publish_date = "2017-09-19T20:55:00-07:00"
 date = "2017-09-19T20:55:00-07:00"
 last_updated = "2017-09-19T20:55:00-07:00"
 preview_url = "27de266b-a9ae-0c6b-4b64-661c01cd57ae"
-name = "Nnedi Okorafor"
+byline = "Nnedi Okorafor"
 title = "Nnedi Okorafor"
 alphabetize_by = "okorafor"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/future-alternative-past-covering-it"]
+notes = ["notes/future-alternative-past-covering-it", "notes/future-alternative-past-sound-it-out"]
 sponsorships_author = ""
 +++

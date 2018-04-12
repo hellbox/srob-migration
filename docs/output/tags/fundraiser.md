@@ -12,6 +12,6 @@ name = "Fundraiser"
 title = "Fundraiser"
 is_column = false
 reviews = ""
-notes = ["notes/dancing-is-like-reading-with-your-body"]
+notes = ["notes/dancing-is-like-reading-with-your-body", "notes/greenwoods-couth-buzzard-books-launches-fundraising-campaign"]
 +++
 

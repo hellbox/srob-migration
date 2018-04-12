@@ -12,6 +12,6 @@ name = "Seattle7Writers"
 title = "Seattle7Writers"
 is_column = false
 reviews = ""
-notes = ["notes/literary-event-of-the-week-bushwick-book-club-and-seattle7writers-at-town-hall"]
+notes = ["notes/literary-event-of-the-week-bushwick-book-club-and-seattle7writers-at-town-hall", "notes/the-help-desk-a-very-help-desk-christmas"]
 +++
 

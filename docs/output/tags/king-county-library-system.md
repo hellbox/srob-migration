@@ -12,6 +12,6 @@ name = "King County Library System"
 title = "King County Library System"
 is_column = false
 reviews = ""
-notes = ["notes/king-county-library-system-director-gary-wasdin-has-resigned"]
+notes = ["notes/king-county-library-system-director-gary-wasdin-has-resigned", "notes/talking-with-lisa-rosenblum-the-new-director-of-the-king-county-library-system"]
 +++
 

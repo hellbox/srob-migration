@@ -8,7 +8,7 @@ publish_date = "2016-05-23T20:32:00-07:00"
 date = "2016-05-23T20:32:00-07:00"
 last_updated = "2016-05-23T20:32:00-07:00"
 preview_url = "c25f8463-ee16-bb8e-8c80-836152637db7"
-name = "George RR Martin"
+byline = "George RR Martin"
 title = "George RR Martin"
 alphabetize_by = "martin"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/the-sunday-post-for-january-17-2016"]
+notes = ["notes/the-sunday-post-for-january-17-2016", "notes/book-news-roundup-opportunities-available-for-poets-cartoonists-sci-fi-writers-and-more"]
 sponsorships_author = ""
 +++

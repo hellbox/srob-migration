@@ -12,6 +12,6 @@ name = "Paperback"
 title = "Paperback"
 is_column = false
 reviews = ""
-notes = ["notes/in-praise-of-mass-market-paperbacks"]
+notes = ["notes/in-praise-of-mass-market-paperbacks", "notes/second-times-the-charm-talking-with-laurie-frankel-about-the-pleasures-and-pains-of-paperbacks"]
 +++
 

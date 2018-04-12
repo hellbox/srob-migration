@@ -8,7 +8,7 @@ publish_date = "2016-05-23T20:12:00-07:00"
 date = "2016-05-23T20:12:00-07:00"
 last_updated = "2016-05-23T20:12:00-07:00"
 preview_url = "3f870c6a-0eaf-98f8-ba01-9dde9288d95e"
-name = "Courtney Milan"
+byline = "Courtney Milan"
 title = "Courtney Milan"
 alphabetize_by = "milan"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/the-help-desk-so-youre-a-mans-man-who-loves-romance-novels"]
+notes = ["notes/the-help-desk-so-youre-a-mans-man-who-loves-romance-novels", "notes/kissing-books-the-other-f-word"]
 sponsorships_author = ""
 +++

@@ -8,7 +8,7 @@ publish_date = "2016-05-23T20:52:00-07:00"
 date = "2016-05-23T20:52:00-07:00"
 last_updated = "2016-05-23T20:52:00-07:00"
 preview_url = "73d157bb-aa9d-3804-12d4-425c47107e3d"
-name = "Jane Austen"
+byline = "Jane Austen"
 title = "Jane Austen"
 alphabetize_by = "austen"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/here-are-the-most-bookish-movies-at-siff-this-year"]
+notes = ["notes/here-are-the-most-bookish-movies-at-siff-this-year", "notes/kissing-books-historically-speaking"]
 sponsorships_author = ""
 +++

@@ -1,12 +1,12 @@
 +++
 index = "-KvQNCDIYCd0upbW6ZuZ"
 _sort_create_date = 1506919080
-_sort_last_updated = 1507646940
+_sort_last_updated = 1508252880
 _sort_publish_date = 1508259300
 create_date = "2017-10-01T21:38:00-07:00"
 publish_date = "2017-10-17T09:55:00-07:00"
 date = "2017-10-17T09:55:00-07:00"
-last_updated = "2017-10-10T07:49:00-07:00"
+last_updated = "2017-10-17T08:08:00-07:00"
 preview_url = "a1f87dc8-a26c-440b-5034-670a7dde2040"
 name = "Farthermore"
 title = "Farthermore"
@@ -44,4 +44,4 @@ in Santa Maria del Popolo, facing the facing <br>
 Caravaggios. I wish &mdash; but the child is no one. Her needs are <br>
 none that I know.
 
-<p class="poem-footer">Kary Wayson is the _Seattle Review of Books_ Poet in Residence for October.<br><br>Previously: [_My Subjects_](http://www.seattlereviewofbooks.com/notes/2017/10/03/my-subjects/), and [_My Own Hikmet Poem_]().</p>
+<p class="poem-footer">Kary Wayson is the _Seattle Review of Books_ Poet in Residence for October.<br><br>Previously: [_My Subjects_](http://www.seattlereviewofbooks.com/notes/2017/10/03/my-subjects/), and [_My Own Hikmet Poem_](http://www.seattlereviewofbooks.com/notes/2017/10/10/my-own-hikmet-poem/).</p>

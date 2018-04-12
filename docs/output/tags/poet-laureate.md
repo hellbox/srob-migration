@@ -12,6 +12,6 @@ name = "poet laureate"
 title = "poet laureate"
 is_column = false
 reviews = ["reviews/we-the-poems"]
-notes = ["notes/washington-states-wildfires-in-poetry", "notes/an-interview-with-shin-yu-pai-redmonds-new-poet-laureate", "notes/spokane-poet-tod-marshall-is-washingtons-new-poet-laureate", "notes/your-week-in-readings-the-best-literary-events-from-january-11-to-january-17", "notes/129-washington-poets-wanted"]
+notes = ["notes/washington-states-wildfires-in-poetry", "notes/an-interview-with-shin-yu-pai-redmonds-new-poet-laureate", "notes/spokane-poet-tod-marshall-is-washingtons-new-poet-laureate", "notes/your-week-in-readings-the-best-literary-events-from-january-11-to-january-17", "notes/129-washington-poets-wanted", "notes/seattles-first-civic--poet-is-now-washington-states-newest-poet-laureate", "notes/an-exit-interview-with-shin-yu-pai-the-outgoing-poet-laureate-of-redmond"]
 +++
 

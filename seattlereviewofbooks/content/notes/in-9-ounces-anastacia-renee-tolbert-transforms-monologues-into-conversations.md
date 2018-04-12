@@ -18,7 +18,7 @@ facebookauto = "Last weekend, former Hugo House Writer-in-Residence Anastacia Re
 make_image_tweet = "False"
 byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ""
-authors_notes = ["authors/anastacia-renee-tolbert"]
+authors_notes = ["authors/anastacia-renee"]
 books = ""
 +++
 Luna, Alice, and Saraphina fill the stage with both humor and anguish. Three friends living in the same building, they work on their downward dog together and help each other through life’s daily struggles. The performance in _9 Ounces_ presented the separate monologues of these three black women — each one an act and each role performed by [Anastacia Renee Tolbert](http://indigoa.wix.com/main), the Hugo House's current poet-in-residence. In part, the characters serve to represent the span of life and its various stages through their age differences: Luna is a kid, Alice an adult, and Saraphina a 91-year-old widow. Their unusual friendship also demonstrates Tolbert’s belief that generation gaps and age expectations shouldn’t dictate what we do or who we see. Tolbert donned each persona naturally and switched between them with ease, giving them distinct outfits, different voices, and unique mannerisms. Each character has the therapist-appointed task of talking to their reflection in the mirror (the audience). The result is a self-aware and brutally honest string of ideas and thoughts, sometimes expressing self-consciousness, sometimes criticizing society, and sometimes just trying to be okay. 

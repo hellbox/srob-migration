@@ -18,7 +18,7 @@ facebookauto = "Mattilda Bernstein Sycamore interviews Anastacia-Renee about poe
 make_image_tweet = "False"
 byline = ["writers/mattilda-bernstein-sycamore"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/anastacia-renee-tolbert"]
+authors_notes = ["authors/anastacia-renee"]
 books = ["books/(v)", "books/forget-it"]
 +++
 <div class="intro">

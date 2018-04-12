@@ -12,6 +12,6 @@ name = "conflict of interest"
 title = "conflict of interest"
 is_column = false
 reviews = ""
-notes = ["notes/riding-the-mustang"]
+notes = ["notes/riding-the-mustang", "notes/save-the-date-vincent-comes-home-launch-party-at-secret-garden-books-on-sunday-february-18th", "notes/on-negative-reviews-and-why-the-scarlet-letter-is-still-relevant"]
 +++
 

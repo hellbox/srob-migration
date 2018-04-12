@@ -12,6 +12,6 @@ name = "DC Comics"
 title = "DC Comics"
 is_column = false
 reviews = ""
-notes = ["notes/a-heavy-case-of-vertigo", "notes/calling-out-the-comic-book-super-villains", "notes/thursday-comics-hangover-super-weird", "notes/public-service-announcement-dont-freak-out-over-superhero-comics", "notes/the-stuff-that-dreams-are-made-of", "notes/nicole-from-comics-dungeon-recommends-your-next-summer-reads", "notes/thursday-comics-hangover-the-super-man-of-shanghai", "notes/thursday-comics-hangover-doom-again", "notes/united-nations-fires-wonder-woman", "notes/thursday-comics-hangover-out-of-left-field", "notes/thursday-comics-hangover-meet-the-b-side-batman", "notes/thursday-comics-hangover-same-shit-different-costume"]
+notes = ["notes/a-heavy-case-of-vertigo", "notes/calling-out-the-comic-book-super-villains", "notes/thursday-comics-hangover-super-weird", "notes/public-service-announcement-dont-freak-out-over-superhero-comics", "notes/the-stuff-that-dreams-are-made-of", "notes/nicole-from-comics-dungeon-recommends-your-next-summer-reads", "notes/thursday-comics-hangover-the-super-man-of-shanghai", "notes/thursday-comics-hangover-doom-again", "notes/united-nations-fires-wonder-woman", "notes/thursday-comics-hangover-out-of-left-field", "notes/thursday-comics-hangover-meet-the-b-side-batman", "notes/thursday-comics-hangover-same-shit-different-costume", "notes/thursday-comics-hangover-justice-is-blind-justice-league-is-dumb"]
 +++
 

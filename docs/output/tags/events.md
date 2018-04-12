@@ -12,6 +12,6 @@ name = "events"
 title = "events"
 is_column = false
 reviews = ""
-notes = ["notes/thanks-for-coming-out-last-night!", "notes/bug-boys-release-party-is-this-sunday-1-3pm", "notes/in-teacher-mode-susan-orlean-delighted-at-hugo-house-last-night", "notes/tonight!-diversity-in-childrens-book-illustration-and-writing-free-for-librarians", "notes/reflecting-on-race-and-racism-through-poetry-spoken-word-and-conversation-", "notes/this-is-a-thank-you-post-and-a-call-to-instagram"]
+notes = ["notes/thanks-for-coming-out-last-night!", "notes/bug-boys-release-party-is-this-sunday-1-3pm", "notes/in-teacher-mode-susan-orlean-delighted-at-hugo-house-last-night", "notes/tonight!-diversity-in-childrens-book-illustration-and-writing-free-for-librarians", "notes/reflecting-on-race-and-racism-through-poetry-spoken-word-and-conversation-", "notes/this-is-a-thank-you-post-and-a-call-to-instagram", "notes/natalie-diaz-john-freeman-and-a-pair-of-events-for-you-to-consider"]
 +++
 

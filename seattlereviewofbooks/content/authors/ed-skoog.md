@@ -8,7 +8,7 @@ publish_date = "2016-05-23T20:39:00-07:00"
 date = "2016-05-23T20:39:00-07:00"
 last_updated = "2016-05-23T20:39:00-07:00"
 preview_url = "1a445bfe-1287-e341-8e65-7ce9acc7126a"
-name = "Ed Skoog"
+byline = "Ed Skoog"
 title = "Ed Skoog"
 alphabetize_by = "skoog"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/april-managing-director-tara-atkinson-to-step-down", "notes/hugo-house-announces-2016-2017-season"]
+notes = ["notes/april-managing-director-tara-atkinson-to-step-down", "notes/hugo-house-announces-2016-2017-season", "notes/literary-event-of-the-week-pie-and-whiskey-at-washington-hall"]
 sponsorships_author = ""
 +++

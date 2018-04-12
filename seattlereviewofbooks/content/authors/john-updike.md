@@ -8,7 +8,7 @@ publish_date = "2016-05-23T20:31:00-07:00"
 date = "2016-05-23T20:31:00-07:00"
 last_updated = "2016-05-23T20:31:00-07:00"
 preview_url = "a8c7d2dc-7e50-1a3a-b2a6-b3b2a98fb808"
-name = "John Updike"
+byline = "John Updike"
 title = "John Updike"
 alphabetize_by = "updike"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/the-sunday-post-for-january-10-2016", "notes/every-teleportation-is-a-little-death-talking-with-m-thomas-gammarino-about-sci-fi-book-design-and-epistemology"]
+notes = ["notes/the-sunday-post-for-january-10-2016", "notes/every-teleportation-is-a-little-death-talking-with-m-thomas-gammarino-about-sci-fi-book-design-and-epistemology", "notes/the-help-desk-do-only-terrible-men-write-books-about-terrible-men?"]
 sponsorships_author = ""
 +++

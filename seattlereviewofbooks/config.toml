@@ -13,3 +13,10 @@ copyright = "All content \u00A9{ year } the Seattle Review of Books, and respect
     note = "notes"
     tag = "tags"
     review = "reviews"
+
+[related]
+
+[[related.indices]]
+    name = "byline"
+    weight = 1
+    includeNewer = true

@@ -10,5 +10,5 @@ last_updated = "2017-06-06T23:19:00-07:00"
 preview_url = "6db595d3-204b-38dc-2d9a-1490edd5e656"
 name = "Cold Cube Press"
 title = "Cold Cube Press"
-books_by_this_publisher = ["books/lightning-snake"]
+books_by_this_publisher = ["books/lightning-snake", "books/more-or-less"]
 +++

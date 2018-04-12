@@ -8,7 +8,7 @@ publish_date = "2016-05-23T20:13:00-07:00"
 date = "2016-05-23T20:13:00-07:00"
 last_updated = "2016-05-23T20:13:00-07:00"
 preview_url = "c62d2918-8cd0-cfe3-c51e-0d32dec1cdea"
-name = "Ellen Forney"
+byline = "Ellen Forney"
 title = "Ellen Forney"
 alphabetize_by = "forney"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/its-banned-book-week!", "notes/for-the-comics-fan-who-has-everything", "notes/party-with-ellen-forney-tonight", "notes/ellen-forney-talks-about-her-art-in-capitol-hills-light-rail-station", "notes/fantagraphics-announces-new-ellen-forney-book", "notes/literary-event-of-the-week-seattle-independent-bookstore-day", "notes/i-didnt-set-out-to-do-it-but-what-i-had-done-was-i-made-a-comic-talking-with-mk-czerwiec-cofounder-of-the-comics-and-medicine-conference"]
+notes = ["notes/its-banned-book-week!", "notes/for-the-comics-fan-who-has-everything", "notes/party-with-ellen-forney-tonight", "notes/ellen-forney-talks-about-her-art-in-capitol-hills-light-rail-station", "notes/fantagraphics-announces-new-ellen-forney-book", "notes/literary-event-of-the-week-seattle-independent-bookstore-day", "notes/i-didnt-set-out-to-do-it-but-what-i-had-done-was-i-made-a-comic-talking-with-mk-czerwiec-cofounder-of-the-comics-and-medicine-conference", "notes/book-news-roundup-a-new-seattle-area-magazine!-a-new-book-from-ellen-forney!-the-same-terrible-old-president!"]
 sponsorships_author = ""
 +++

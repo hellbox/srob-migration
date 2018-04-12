@@ -12,6 +12,6 @@ name = "historical fiction"
 title = "historical fiction"
 is_column = false
 reviews = ["reviews/everfair-in-love-and-war"]
-notes = ["notes/danielle-dutton\u2019s-paper-bodies"]
+notes = ["notes/danielle-dutton\u2019s-paper-bodies", "notes/the-help-desk-i-want-to-write-a-historical-novel-but-history-is-really-really-racist"]
 +++
 

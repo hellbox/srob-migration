@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "St. Martin&#x27;s Press"
 title = "St. Martin&#x27;s Press"
-books_by_this_publisher = ["books/death-in-the-dark-continent", "books/strawberry-days"]
+books_by_this_publisher = ["books/death-in-the-dark-continent", "books/strawberry-days", "books/d-is-for-deadbeat"]
 +++

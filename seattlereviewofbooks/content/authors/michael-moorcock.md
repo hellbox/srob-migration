@@ -8,7 +8,7 @@ publish_date = "2016-05-23T19:57:00-07:00"
 date = "2016-05-23T19:57:00-07:00"
 last_updated = "2016-05-23T19:57:00-07:00"
 preview_url = "8d25cc21-2a46-84f4-166a-af731cd302f6"
-name = "Michael Moorcock"
+byline = "Michael Moorcock"
 title = "Michael Moorcock"
 alphabetize_by = "moorcock"
 isDraft = ""
@@ -16,7 +16,7 @@ is_seattle__pnw_writer = false
 written_about = ""
 books = ""
 calendar_author = ""
-reviews = ""
+reviews = ["reviews/the-beautiful-strange"]
 notes = ["notes/philip-k-dick-the-fortune-teller-and-jrr-tolkien-the-crypto-fascist"]
 sponsorships_author = ""
 +++

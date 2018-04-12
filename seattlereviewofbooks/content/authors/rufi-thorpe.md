@@ -8,7 +8,7 @@ publish_date = "2016-05-23T19:10:00-07:00"
 date = "2016-05-23T19:10:00-07:00"
 last_updated = "2016-05-23T19:10:00-07:00"
 preview_url = "44010a90-dbda-57ee-aaf4-9121dc586b6f"
-name = "Rufi Thorpe"
+byline = "Rufi Thorpe"
 title = "Rufi Thorpe"
 alphabetize_by = "thorpe"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/dear-fang-with-love"]
 calendar_author = ""
 reviews = ["reviews/five-reviews-in-different-styles-of-rufi-thorpes-brilliant-new-novel"]
-notes = ["notes/talking-with-rufi-thorpe-about-writing-and-her-latest-novel", "notes/the-sunday-post-for-july-10-2016"]
+notes = ["notes/talking-with-rufi-thorpe-about-writing-and-her-latest-novel", "notes/the-sunday-post-for-july-10-2016", "notes/whatcha-reading-rufi-thorpe?"]
 sponsorships_author = ""
 +++

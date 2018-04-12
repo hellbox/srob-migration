@@ -8,7 +8,7 @@ publish_date = "2016-05-23T19:54:00-07:00"
 date = "2016-05-23T19:54:00-07:00"
 last_updated = "2016-05-23T19:54:00-07:00"
 preview_url = "b2033be0-0fb1-fc12-fb79-162a7dcab9cb"
-name = "Herman Melville"
+byline = "Herman Melville"
 title = "Herman Melville"
 alphabetize_by = "melville"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/moby-dick"]
 calendar_author = ""
 reviews = ""
-notes = ["notes/heres-something-to-do-if-youd-prefer-not-to-work"]
+notes = ["notes/heres-something-to-do-if-youd-prefer-not-to-work", "notes/call-me-twitter-bot"]
 sponsorships_author = ""
 +++

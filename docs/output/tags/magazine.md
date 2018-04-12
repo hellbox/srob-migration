@@ -12,6 +12,6 @@ name = "magazine"
 title = "magazine"
 is_column = false
 reviews = ["reviews/the-invisible-art-of-magazines"]
-notes = ["notes/details-magazine-to-close", "notes/the-vice-paradox-how-do-you-attract-mass-audiences-while-pretending-youre-cooler-than-everyone-else?"]
+notes = ["notes/details-magazine-to-close", "notes/the-vice-paradox-how-do-you-attract-mass-audiences-while-pretending-youre-cooler-than-everyone-else?", "notes/talking-with-andrew-engelson-the-publisher-of-the-brand-new-cascadia-magazine"]
 +++
 

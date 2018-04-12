@@ -11,7 +11,7 @@ preview_url = "b750c19a-a152-a545-eafd-d2786df53334"
 name = "fantasy"
 title = "fantasy"
 is_column = false
-reviews = ""
+reviews = ["reviews/room-for-everything"]
 notes = ["notes/lunch-date-all-the-birds-in-the-sky", "notes/talking-with-lindy-west-about-fantasy-novels-deadlines-and-why-seattle-is-her-home"]
 +++
 

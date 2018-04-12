@@ -12,6 +12,6 @@ name = "Thick as Thieves"
 title = "Thick as Thieves"
 is_column = false
 reviews = ""
-notes = ["notes/can-the-intruder-community-remain-as-thick-as-thieves?", "notes/thursday-comics-hangover-thick-as-thieves-hits-the-streets", "notes/book-news-roundup-support-your-local-comics-newspaper", "notes/your-week-in-readings-the-best-literary-events-from-june-14th---20th"]
+notes = ["notes/can-the-intruder-community-remain-as-thick-as-thieves?", "notes/thursday-comics-hangover-thick-as-thieves-hits-the-streets", "notes/book-news-roundup-support-your-local-comics-newspaper", "notes/your-week-in-readings-the-best-literary-events-from-june-14th---20th", "notes/thursday-comics-hangover-an-alternative-to-the-alternative"]
 +++
 

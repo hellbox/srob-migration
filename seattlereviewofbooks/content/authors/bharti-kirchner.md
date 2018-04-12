@@ -8,7 +8,7 @@ publish_date = "2016-03-17T23:41:00-07:00"
 date = "2016-03-17T23:41:00-07:00"
 last_updated = "2016-03-17T23:44:00-07:00"
 preview_url = "b786ac5d-9a80-95aa-795a-2493ba1b6e8a"
-name = "Bharti Kirchner"
+byline = "Bharti Kirchner"
 title = "Bharti Kirchner"
 alphabetize_by = "kirchner"
 isDraft = false
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/goddess-of-fire-a-historical-novel-set-in-17th-century-india"]
 calendar_author = ["calendar/seattle7writers-bookish-brunch"]
 reviews = ["reviews/saved-from-the-flames-of-history"]
-notes = ["notes/five-books-by-seattle-authors-to-look-out-for-this-fall"]
+notes = ["notes/five-books-by-seattle-authors-to-look-out-for-this-fall", "notes/looking-for-a-holiday-gift-book?-bharti-kirchner-recommends-all-the-old-knives"]
 sponsorships_author = ""
 +++

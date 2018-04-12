@@ -11,7 +11,7 @@ preview_url = "1d75f1dd-24c6-72f1-69bd-510107345943"
 name = "mystery"
 title = "mystery"
 is_column = false
-reviews = ["reviews/seattle-and-seattle-and-seattle"]
+reviews = ["reviews/seattle-and-seattle-and-seattle", "reviews/alphabetical-order"]
 notes = ["notes/recommended-books-for-the-young-reader-in-your-life"]
 +++
 

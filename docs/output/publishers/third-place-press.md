@@ -10,5 +10,5 @@ last_updated = "2015-12-12T14:56:00-08:00"
 preview_url = "7507f225-05cf-f64e-588c-65c9a6b3aea8"
 name = "Third Place Press"
 title = "Third Place Press"
-books_by_this_publisher = ["books/grit-and-roses", "books/emerald-reflections"]
+books_by_this_publisher = ["books/grit-and-roses", "books/emerald-reflections", "books/fly-to-the-assemblies!", "books/third-place-press-publishing-services"]
 +++

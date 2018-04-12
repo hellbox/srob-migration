@@ -11,7 +11,7 @@ preview_url = "91afd145-034d-669b-890c-795a37d135bb"
 name = "minicomics"
 title = "minicomics"
 is_column = false
-reviews = ["reviews/it-should-exist-but-it-doesnt"]
+reviews = ["reviews/it-should-exist-but-it-doesnt", "reviews/adventures-in-the-third-dimension"]
 notes = ["notes/thursday-comics-hangover-mini-comics-big-love"]
 +++
 

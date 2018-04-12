@@ -18,7 +18,7 @@ facebookauto = "It's time to get excited for the APRIL Festival, which features 
 make_image_tweet = "True"
 byline = ["writers/paul-constant"]
 tags_notes = ["tags/april"]
-authors_notes = ["authors/sarah-galvin", "authors/jenny-zhang", "authors/kelly-froh", "authors/ej-koh", "authors/maged-zaher", "authors/anastacia-renee-tolbert", "authors/david-schmader"]
+authors_notes = ["authors/sarah-galvin", "authors/jenny-zhang", "authors/kelly-froh", "authors/ej-koh", "authors/maged-zaher", "authors/anastacia-renee", "authors/david-schmader"]
 books = ""
 +++
 This afternoon, the APRIL Festival (it stands for Authors, Publishers, and Readers of Independent Literature) announced the schedule for their fifth annual celebration of small-press writing and reading, and it looks pretty goddamned spectacular. As previously announced, the writer-in-residence for this year’s APRIL is [Jenny Zhang](http://seattlereviewofbooks.com/notes/2015/11/11/jenny-zhang-is-the-april-festivals-next-writer-in-residence/), a [talented poet](http://www.jennybagel.com/) and [wonderful essayist](http://www.buzzfeed.com/jennybagel/they-pretend-to-be-us-while-pretending-we-dont-exist#.uazVaLZaa) out of Brooklyn. Zhang’s star is on the rise, and her role as writer-in-residence will undoubtedly give the festival some national prominence.

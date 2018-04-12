@@ -12,6 +12,6 @@ name = "Bureau of Fearless Ideas"
 title = "Bureau of Fearless Ideas"
 is_column = false
 reviews = ""
-notes = ["notes/everything-is-illuminated", "notes/an-interview-with-david-schmader-the-brand-new-creative-director-at-the-bureau-of-fearless-ideas", "notes/teri-hein-stepping-down-as-leader-of-the-bureau-of-fearless-ideas", "notes/the-stars-(and-greenwood)-my-destination", "notes/book-news-roundup-the-publishing-industry-is-changing-too-slowly", "notes/book-news-roundup-iceland-comes-to-seattle-this-week", "notes/book-news-roundup-four-books-you-should-really-look-into", "notes/your-week-in-readings-the-best-literary-events-from-march-1st---march-7th"]
+notes = ["notes/everything-is-illuminated", "notes/an-interview-with-david-schmader-the-brand-new-creative-director-at-the-bureau-of-fearless-ideas", "notes/teri-hein-stepping-down-as-leader-of-the-bureau-of-fearless-ideas", "notes/the-stars-(and-greenwood)-my-destination", "notes/book-news-roundup-the-publishing-industry-is-changing-too-slowly", "notes/book-news-roundup-iceland-comes-to-seattle-this-week", "notes/book-news-roundup-four-books-you-should-really-look-into", "notes/your-week-in-readings-the-best-literary-events-from-march-1st---march-7th", "notes/the-help-desk-a-very-help-desk-christmas"]
 +++
 

@@ -8,7 +8,7 @@ publish_date = "2016-09-27T14:11:00-07:00"
 date = "2016-09-27T14:11:00-07:00"
 last_updated = "2016-09-27T14:11:00-07:00"
 preview_url = "cab4eec7-41cb-75ec-2f1a-48f2b2574905"
-name = "Eva Dolan"
+byline = "Eva Dolan"
 title = "Eva Dolan"
 alphabetize_by = "dolan"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/criminal-fiction-our-inaugural-mystery-suspense-and-thriller-column", "notes/criminal-fiction-blood-in-the-cut", "notes/criminal-fiction-killer-podcasts"]
+notes = ["notes/criminal-fiction-our-inaugural-mystery-suspense-and-thriller-column", "notes/criminal-fiction-blood-in-the-cut", "notes/criminal-fiction-killer-podcasts", "notes/criminal-fiction-welcomes-congratulations-and-farewells"]
 sponsorships_author = ""
 +++

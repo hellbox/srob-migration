@@ -1,12 +1,12 @@
 +++
 index = "-K74Dz6_JPRklfDNzb6b"
 _sort_create_date = 1451786760
-_sort_last_updated = 1484543760
+_sort_last_updated = 1513538940
 _sort_publish_date = 1451786760
 create_date = "2016-01-02T18:06:00-08:00"
 publish_date = "2016-01-02T18:06:00-08:00"
 date = "2016-01-02T18:06:00-08:00"
-last_updated = "2017-01-15T21:16:00-08:00"
+last_updated = "2017-12-17T11:29:00-08:00"
 preview_url = "bc279903-c50d-63ae-9efa-c6d8ac8ca2dc"
 name = "Apply to Mineral School"
 title = "Apply to Mineral School"
@@ -22,7 +22,7 @@ link = "https://mineralschool.submittable.com/submit"
 date = ""
 start_time = ""
 end_time = ""
-time_description = "Applications open through Februrary 15. Don't delay!"
+time_description = "Applications open through February 15. Don't delay!"
 end_time = ""
 enddate = ""
 is_sponsorship = true

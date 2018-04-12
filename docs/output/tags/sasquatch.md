@@ -12,6 +12,6 @@ name = "Sasquatch"
 title = "Sasquatch"
 is_column = false
 reviews = ""
-notes = ["notes/book-news-roundup-sasquatch-sighted-in-publishers-weekly-", "notes/book-news-roundup-get-a-publishing-job-help-standing-rock-and-ruin-your-mr-darcy-sex-dreams", "notes/seattle-publisher-sasquatch-books-has-been-bought-by-penguin-random-house"]
+notes = ["notes/book-news-roundup-sasquatch-sighted-in-publishers-weekly-", "notes/book-news-roundup-get-a-publishing-job-help-standing-rock-and-ruin-your-mr-darcy-sex-dreams", "notes/seattle-publisher-sasquatch-books-has-been-bought-by-penguin-random-house", "notes/event-of-the-week-chief-seattle-and-the-town-that-took-his-name-reading-at-seattle-public-library"]
 +++
 

@@ -8,7 +8,7 @@ publish_date = "2016-11-23T09:22:00-08:00"
 date = "2016-11-23T09:22:00-08:00"
 last_updated = "2016-11-23T09:22:00-08:00"
 preview_url = "45b64ff4-6beb-5302-fbbf-f82a37a968e5"
-name = "Michael Connelly"
+byline = "Michael Connelly"
 title = "Michael Connelly"
 alphabetize_by = "connelly"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/criminal-fiction-november-thanks-and-remember-to-add-zombies-or-psychopaths", "notes/criminal-fiction-leaving-out-the-parts-that-the-readers-skip"]
+notes = ["notes/criminal-fiction-november-thanks-and-remember-to-add-zombies-or-psychopaths", "notes/criminal-fiction-leaving-out-the-parts-that-the-readers-skip", "notes/criminal-fiction-year-ending"]
 sponsorships_author = ""
 +++

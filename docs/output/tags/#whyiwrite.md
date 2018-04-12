@@ -12,6 +12,6 @@ name = "#WhyIWrite"
 title = "#WhyIWrite"
 is_column = false
 reviews = ""
-notes = ["notes/it\u2019s-the-seventh-annual-national-day-on-writing"]
+notes = ["notes/it\u2019s-the-seventh-annual-national-day-on-writing", "notes/how-to-support-an-author-during-launch-a-guide-for-family-friends-and-fans"]
 +++
 

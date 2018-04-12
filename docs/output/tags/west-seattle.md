@@ -12,6 +12,6 @@ name = "West Seattle"
 title = "West Seattle"
 is_column = false
 reviews = ""
-notes = ["notes/the-odd-couple"]
+notes = ["notes/the-odd-couple", "notes/tonights-words-west-reading-benefits-one-of-seattles-best-neighborhood-independent-coffee-shops"]
 +++
 

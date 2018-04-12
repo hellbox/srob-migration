@@ -240,7 +240,7 @@ for key in j['data']:
             except KeyError:
               markdown.write('preview_url = ""\n')
             ## END STANDARD DATA BLOCK ##   
-            markdown.write('name = %s\n' % (json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
+            markdown.write('byline = %s\n' % (json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
             markdown.write('title = %s\n' % (json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
             try:
                 markdown.write('alphabetize_by = %s\n' % (json.dumps(j['data']['authors'][author]['alphabetize_by']).encode('utf-8')))
@@ -896,9 +896,9 @@ for key in j['data']:
             for by in j['data']['reviews'][review]['by']:
                 by = findstring(by)
                 index_builder.append(by.encode('utf-8'))
-            markdown.write('by = %s\n' % json.dumps(index_builder))
+            markdown.write('byline = %s\n' % json.dumps(index_builder))
         except KeyError:
-            markdown.write('by = ""\n')
+            markdown.write('byline = ""\n')
 
         try:
             index_builder = []

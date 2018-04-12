@@ -1,12 +1,12 @@
 +++
 index = "-KKkw1vxW0kVR0LS72LS"
 _sort_create_date = 1466478600
-_sort_last_updated = 1466519760
+_sort_last_updated = 1512713460
 _sort_publish_date = 1466533800
 create_date = "2016-06-20T20:10:00-07:00"
 publish_date = "2016-06-21T11:30:00-07:00"
 date = "2016-06-21T11:30:00-07:00"
-last_updated = "2016-06-21T07:36:00-07:00"
+last_updated = "2017-12-07T22:11:00-08:00"
 preview_url = "d69065a4-aa2b-d4cf-ab0e-3297d12e0fcd"
 name = "A poet explores when poems go viral"
 title = "A poet explores when poems go viral"
@@ -40,7 +40,7 @@ The last time I remember another poem going viral was immediately after the Pari
 <p class="inside-poem noindent">
 Later that night<br>
 I held an atlas in my lap<br>
-ran my fingers across the whole word<br>
+ran my fingers across the whole world<br>
 and whispered<br>
 where does it hurt?
 

@@ -18,7 +18,7 @@ facebookauto = "Portrait Gallery:  Anastacia-Rene\u00e9 by Christine Marie Larse
 make_image_tweet = "True"
 byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/anastacia-renee-tolbert"]
+authors_notes = ["authors/anastacia-renee"]
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

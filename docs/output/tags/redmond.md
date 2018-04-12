@@ -12,6 +12,6 @@ name = "redmond"
 title = "redmond"
 is_column = false
 reviews = ""
-notes = ["notes/an-interview-with-shin-yu-pai-redmonds-new-poet-laureate"]
+notes = ["notes/an-interview-with-shin-yu-pai-redmonds-new-poet-laureate", "notes/an-exit-interview-with-shin-yu-pai-the-outgoing-poet-laureate-of-redmond"]
 +++
 

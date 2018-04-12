@@ -18,7 +18,7 @@ facebookauto = ""
 make_image_tweet = "False"
 byline = ["writers/paul-constant"]
 tags_notes = ["tags/gramma-press"]
-authors_notes = ["authors/anastacia-renee-tolbert"]
+authors_notes = ["authors/anastacia-renee"]
 books = ""
 +++
 This morning, the folks at Seattle's own Gramma Press announced that they'll be releasing a new book from poet Anastacia-Reneé (who [we published back when she was known as Anastacia Renée Tolbert](http://www.seattlereviewofbooks.com/writers/anastacia-renee-tolbert/)) on July 1st. The collection, titled *(v.)*, is described this way:

@@ -12,6 +12,6 @@ name = "Phinney Books"
 title = "Phinney Books"
 is_column = false
 reviews = ""
-notes = ["notes/phinney-books-the-elkin-test-and-the-eternal-joy-of-fup", "notes/your-week-in-readings-the-best-literary-events-from-the-week-of-august-24---august-30", "notes/your-week-in-readings-the-best-literary-events-from-december-7th-to-13th", "notes/please-join-me-in-welcoming-shann-ray-to-phinney-books-tomorrow-night", "notes/your-#resist-#resist-is-on-my-list"]
+notes = ["notes/phinney-books-the-elkin-test-and-the-eternal-joy-of-fup", "notes/your-week-in-readings-the-best-literary-events-from-the-week-of-august-24---august-30", "notes/your-week-in-readings-the-best-literary-events-from-december-7th-to-13th", "notes/please-join-me-in-welcoming-shann-ray-to-phinney-books-tomorrow-night", "notes/your-#resist-#resist-is-on-my-list", "notes/literary-event-of-the-week-dock-street-salon-at-phinney-books"]
 +++
 

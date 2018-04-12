@@ -12,6 +12,6 @@ name = "UNESCO"
 title = "UNESCO"
 is_column = false
 reviews = ""
-notes = ["notes/talking-with-stesha-brandon-the-new-interim-executive-director-of-seattle-city-of-literature"]
+notes = ["notes/talking-with-stesha-brandon-the-new-interim-executive-director-of-seattle-city-of-literature", "notes/seattle-designated-a-unesco-city-of-literature-the-world-is-looking-at-seattle-as-a-cultural-leader", "notes/heres-the-official-announcement-that-seattle-has-been-designated-a-unesco-city-of-literature"]
 +++
 

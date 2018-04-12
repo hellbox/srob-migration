@@ -12,6 +12,6 @@ name = "Holidays"
 title = "Holidays"
 is_column = false
 reviews = ""
-notes = ["notes/gratitude-stripped-bare-by-her-bachelors"]
+notes = ["notes/gratitude-stripped-bare-by-her-bachelors", "notes/looking-for-a-holiday-gift-book?-anca-szil\u00e1gyi-recommends-the-dud-avocado", "notes/looking-for-a-holiday-gift-book?-richard-chiem-recommends-the-passion-according-to-gh", "notes/looking-for-a-holiday-gift-book?-bharti-kirchner-recommends-all-the-old-knives", "notes/looking-for-a-holiday-gift-book?-jessixa-bagley-recommends-louis-undercover-", "notes/add-a-personal-touch-to-your-holiday-shopping-at-phinney-books"]
 +++
 

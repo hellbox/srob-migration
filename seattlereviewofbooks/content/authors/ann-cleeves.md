@@ -8,7 +8,7 @@ publish_date = "2017-04-26T22:21:00-07:00"
 date = "2017-04-26T22:21:00-07:00"
 last_updated = "2017-04-26T22:21:00-07:00"
 preview_url = "d16f12e4-2fb1-12cf-9335-a91f651a4c09"
-name = "Ann Cleeves"
+byline = "Ann Cleeves"
 title = "Ann Cleeves"
 alphabetize_by = "cleeves"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/criminal-fiction-blood-in-the-cut"]
+notes = ["notes/criminal-fiction-blood-in-the-cut", "notes/criminal-fiction-a-door-closes"]
 sponsorships_author = ""
 +++

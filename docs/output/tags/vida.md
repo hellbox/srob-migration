@@ -12,6 +12,6 @@ name = "VIDA"
 title = "VIDA"
 is_column = false
 reviews = ""
-notes = ["notes/against-reading-books-by-men", "notes/the-2015-vida-count-is-in"]
+notes = ["notes/against-reading-books-by-men", "notes/the-2015-vida-count-is-in", "notes/the-2016-vida-count-is-in!"]
 +++
 

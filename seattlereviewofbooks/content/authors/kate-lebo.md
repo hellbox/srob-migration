@@ -8,7 +8,7 @@ publish_date = "2016-05-23T20:00:00-07:00"
 date = "2016-05-23T20:00:00-07:00"
 last_updated = "2016-05-23T20:00:00-07:00"
 preview_url = "c1545b7b-d7bf-5b50-83a4-8b7577c21541"
-name = "Kate Lebo"
+byline = "Kate Lebo"
 title = "Kate Lebo"
 alphabetize_by = "lebo"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane", "notes/your-week-in-readings-the-best-literary-events-from-september-14-to-september-20", "notes/your-week-in-readings-the-best-literary-events-from-october-12---18", "notes/the-love-song-of-cathy-mcmorris-rodgers", "notes/seattle-publisher-sasquatch-books-has-been-bought-by-penguin-random-house"]
+notes = ["notes/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane", "notes/your-week-in-readings-the-best-literary-events-from-september-14-to-september-20", "notes/your-week-in-readings-the-best-literary-events-from-october-12---18", "notes/the-love-song-of-cathy-mcmorris-rodgers", "notes/seattle-publisher-sasquatch-books-has-been-bought-by-penguin-random-house", "notes/literary-event-of-the-week-pie-and-whiskey-at-washington-hall"]
 sponsorships_author = ""
 +++

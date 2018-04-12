@@ -8,7 +8,7 @@ publish_date = "2017-09-05T07:57:00-07:00"
 date = "2017-09-05T07:57:00-07:00"
 last_updated = "2017-09-05T07:57:00-07:00"
 preview_url = "48cc745d-57e0-31cb-56cb-9f5948a92266"
-name = "Clare Johnson"
+byline = "Clare Johnson"
 title = "Clare Johnson"
 alphabetize_by = "johnson"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/were-publishing-clare-johnsons-post-it-note-project-on-our-instagram-account"]
+notes = ["notes/were-publishing-clare-johnsons-post-it-note-project-on-our-instagram-account", "notes/your-week-in-readings-the-best-literary-events-from-november-6th---november-12th"]
 sponsorships_author = ""
 +++

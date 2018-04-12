@@ -12,6 +12,6 @@ name = "Exit Interview"
 title = "Exit Interview"
 is_column = true
 reviews = ""
-notes = ["notes/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane", "notes/exit-interview-kelly-davio-is-moving-to-london", "notes/exit-interview-michelle-pe\u00f1aloza-says-goodbye-to-seattle"]
+notes = ["notes/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane", "notes/exit-interview-kelly-davio-is-moving-to-london", "notes/exit-interview-michelle-pe\u00f1aloza-says-goodbye-to-seattle", "notes/an-exit-interview-with-shin-yu-pai-the-outgoing-poet-laureate-of-redmond"]
 +++
 

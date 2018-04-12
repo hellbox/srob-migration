@@ -12,6 +12,6 @@ name = "erotica"
 title = "erotica"
 is_column = false
 reviews = ["reviews/laid-bear"]
-notes = ""
+notes = ["notes/the-war-against-digital-erotica-has-begun"]
 +++
 

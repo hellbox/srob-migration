@@ -1,12 +1,12 @@
 +++
 index = "-KwJLduujplgLfsb5UnL"
 _sort_create_date = 1507875000
-_sort_last_updated = 1507875600
+_sort_last_updated = 1508390820
 _sort_publish_date = 1508436540
 create_date = "2017-10-12T23:10:00-07:00"
 publish_date = "2017-10-19T11:09:00-07:00"
 date = "2017-10-19T11:09:00-07:00"
-last_updated = "2017-10-12T23:20:00-07:00"
+last_updated = "2017-10-18T22:27:00-07:00"
 preview_url = "d3003d07-c926-d4a4-62cc-118ce70c53cf"
 name = "Lit Crawl Itinerary #4: It's a small world, after all"
 title = "Lit Crawl Itinerary #4: It's a small world, after all"
@@ -22,6 +22,10 @@ authors_notes = ["authors/willie-fitzgerald"]
 books = ""
 +++
 <p class="intro">Tonight is Lit Crawl, a bacchanalia of literary events spread over four courses across Capitol Hill, First Hill, and downtown. [You can find the full schedule here](http://litcrawl.org/seattle/2017-schedule), but we wanted to provide a few possible itineraries for people who have a hard time making up their minds. See you out on the streets tonight!</p>
+
+[Here's Itinerary #1](http://www.seattlereviewofbooks.com/notes/2017/10/16/lit-crawl-itinerary-1-the-genre-walk/).
+[Here's Itinerary #2](http://www.seattlereviewofbooks.com/notes/2017/10/17/lit-crawl-itinerary-2-no-white-dudes/).
+[Here's Itinerary #3](http://www.seattlereviewofbooks.com/notes/2017/10/18/lit-crawl-itinerary-3-all-poetry-all-the-time/).
 
 <p class="image-left">![](/webhook-uploads/1507874813872/flinn.jpg)</p>
 

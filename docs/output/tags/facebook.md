@@ -12,6 +12,6 @@ name = "Facebook"
 title = "Facebook"
 is_column = false
 reviews = ""
-notes = ["notes/why-youre-about-to-see-fewer-words-on-the-internet", "notes/facebook-is-predicting-the-end-of-the-written-word-on-its-platform", "notes/the-help-desk-you-cant-dog-ear-a-facebook", "notes/are-question-based-headlines-a-bad-idea?", "notes/franklin-foer-has-advice-for-any-city-looking-to-become-amazons-second-headquarters"]
+notes = ["notes/why-youre-about-to-see-fewer-words-on-the-internet", "notes/facebook-is-predicting-the-end-of-the-written-word-on-its-platform", "notes/the-help-desk-you-cant-dog-ear-a-facebook", "notes/are-question-based-headlines-a-bad-idea?", "notes/franklin-foer-has-advice-for-any-city-looking-to-become-amazons-second-headquarters", "notes/you-have-to-stop-letting-facebook-tell-you-what-to-read"]
 +++
 

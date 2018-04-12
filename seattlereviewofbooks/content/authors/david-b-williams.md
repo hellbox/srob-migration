@@ -8,7 +8,7 @@ publish_date = "2017-04-12T19:24:00-07:00"
 date = "2017-04-12T19:24:00-07:00"
 last_updated = "2017-04-12T19:24:00-07:00"
 preview_url = "94eafff8-1932-bff4-0f5f-3ecd6e6d3a8d"
-name = "David B. Williams"
+byline = "David B. Williams"
 title = "David B. Williams"
 alphabetize_by = "williams"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/seattle-walks"]
 calendar_author = ""
 reviews = ["reviews/seattle-step-by-step"]
-notes = ""
+notes = ["notes/literary-event-of-the-week-literary-murder-in-seattle-at-third-place-books"]
 sponsorships_author = ""
 +++

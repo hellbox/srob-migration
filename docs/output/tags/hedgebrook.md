@@ -12,6 +12,6 @@ name = "Hedgebrook"
 title = "Hedgebrook"
 is_column = false
 reviews = ""
-notes = ["notes/lit-crawl-seattle-announces-(very)-full-schedule"]
+notes = ["notes/lit-crawl-seattle-announces-(very)-full-schedule", "notes/the-help-desk-writing-residencies-at-the-end-of-the-world"]
 +++
 

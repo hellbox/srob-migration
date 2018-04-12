@@ -12,6 +12,6 @@ name = "Poet in Residence"
 title = "Poet in Residence"
 is_column = false
 reviews = ""
-notes = ["notes/introducing-our-new-poet-in-residence-program"]
+notes = ["notes/introducing-our-new-poet-in-residence-program", "notes/meet-our-february-poet-in-residence-azura-tyabji"]
 +++
 

@@ -8,7 +8,7 @@ publish_date = "2017-01-24T20:40:00-08:00"
 date = "2017-01-24T20:40:00-08:00"
 last_updated = "2017-01-24T20:40:00-08:00"
 preview_url = "d4a1f1f9-2215-6bcf-7ad8-1af78e251c12"
-name = "Jane Harper"
+byline = "Jane Harper"
 title = "Jane Harper"
 alphabetize_by = "harper"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/criminal-fiction-mailing-lists-and-twitter-follows"]
+notes = ["notes/criminal-fiction-mailing-lists-and-twitter-follows", "notes/criminal-fiction-welcomes-congratulations-and-farewells"]
 sponsorships_author = ""
 +++

@@ -8,7 +8,7 @@ publish_date = "2015-11-02T21:12:00-08:00"
 date = "2015-11-02T21:12:00-08:00"
 last_updated = "2015-11-02T21:12:00-08:00"
 preview_url = "638ec9bf-0575-8dc7-5702-15ddeae6d8d7"
-name = "Laura Knetzger"
+byline = "Laura Knetzger"
 title = "Laura Knetzger"
 alphabetize_by = "knetzger"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/bug-boys"]
 calendar_author = ""
 reviews = ["reviews/short-run-i-second-that"]
-notes = ["notes/bug-boys-release-party-is-this-sunday-1-3pm", "notes/another-take-on-short-run"]
+notes = ["notes/bug-boys-release-party-is-this-sunday-1-3pm", "notes/another-take-on-short-run", "notes/what-we-saw-(and-loved)-at-short-run"]
 sponsorships_author = ""
 +++

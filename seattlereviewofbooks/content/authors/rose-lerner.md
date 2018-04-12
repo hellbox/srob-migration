@@ -8,7 +8,7 @@ publish_date = "2017-09-02T14:36:00-07:00"
 date = "2017-09-02T14:36:00-07:00"
 last_updated = "2017-09-02T14:36:00-07:00"
 preview_url = "16e774cc-db29-ced3-4098-a7cdbaff491b"
-name = "Rose Lerner"
+byline = "Rose Lerner"
 title = "Rose Lerner"
 alphabetize_by = "lerner"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/a-taste-of-honey"]
 calendar_author = ""
 reviews = ""
-notes = ["notes/never-trust-aaron-burr-and-other-research-tips-from-a-historical-romance-author"]
+notes = ["notes/never-trust-aaron-burr-and-other-research-tips-from-a-historical-romance-author", "notes/kissing-books-the-other-f-word"]
 sponsorships_author = ""
 +++

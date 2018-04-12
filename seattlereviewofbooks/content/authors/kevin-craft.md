@@ -8,7 +8,7 @@ publish_date = "2017-03-03T15:08:00-08:00"
 date = "2017-03-03T15:08:00-08:00"
 last_updated = "2017-03-03T15:08:00-08:00"
 preview_url = "c63ef1da-cec3-de69-4119-69f2cd9768a0"
-name = "Kevin Craft"
+byline = "Kevin Craft"
 title = "Kevin Craft"
 alphabetize_by = "craft"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/literary-event-of-the-week-kevin-craft-at-open-books"]
+notes = ["notes/literary-event-of-the-week-kevin-craft-at-open-books", "notes/talking-with-kevin-craft-about-finding-substance-and-meaning-in-poetry-when-the-worlds-gone-mad"]
 sponsorships_author = ""
 +++

@@ -8,7 +8,7 @@ publish_date = "2015-05-07T08:34:00-07:00"
 date = "2015-05-07T08:34:00-07:00"
 last_updated = "2015-07-12T16:45:00-07:00"
 preview_url = "052f82df-7bb9-939c-dab4-3b6bb20cf426"
-name = "Alix Christie"
+byline = "Alix Christie"
 title = "Alix Christie"
 alphabetize_by = "christie"
 isDraft = false
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/gutenbergs-apprentice", "books/gutenbergs-apprentice-(paperback)"]
 calendar_author = ""
 reviews = ["reviews/omg-gutenberg"]
-notes = ""
+notes = ["notes/whatcha-reading-alix-christie?"]
 sponsorships_author = ""
 +++

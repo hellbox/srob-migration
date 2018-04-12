@@ -8,7 +8,7 @@ publish_date = "2015-06-28T09:25:00-07:00"
 date = "2015-06-28T09:25:00-07:00"
 last_updated = "2015-07-12T16:42:00-07:00"
 preview_url = "5e5069c5-26c4-ef9d-d4ef-a1204d3d9753"
-name = "Neal Stephenson"
+byline = "Neal Stephenson"
 title = "Neal Stephenson"
 alphabetize_by = "stephenson"
 isDraft = false
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/seveneves", "books/seveneves-(audio)"]
 calendar_author = ""
 reviews = ["reviews/sticking-the-landing", "reviews/the-stars-my-destination", "reviews/with-a-single-step"]
-notes = ["notes/duane-wilkins-is-seattles-godfather-of-sci-fi-and-fantasy", "notes/hugo-award-finalists-announced", "notes/tomorrow-never-dies", "notes/book-news-roundup-neal-stephenson-is-going-to-the-movies", "notes/finally-a-way-to-support-independent-bookstores-while-listening-to-audiobooks!", "notes/your-week-in-readings-the-best-literary-events-from-june-7th---june-13th", "notes/portrait-gallery-neal-stephenson", "notes/book-news-roundup-americans-are-crazy-about-audio-books", "notes/someone-should-write-the-sci-fi-novel-that-america-really-needs-to-read-right-now"]
+notes = ["notes/duane-wilkins-is-seattles-godfather-of-sci-fi-and-fantasy", "notes/hugo-award-finalists-announced", "notes/tomorrow-never-dies", "notes/book-news-roundup-neal-stephenson-is-going-to-the-movies", "notes/finally-a-way-to-support-independent-bookstores-while-listening-to-audiobooks!", "notes/your-week-in-readings-the-best-literary-events-from-june-7th---june-13th", "notes/portrait-gallery-neal-stephenson", "notes/book-news-roundup-americans-are-crazy-about-audio-books", "notes/someone-should-write-the-sci-fi-novel-that-america-really-needs-to-read-right-now", "notes/literary-event-of-the-week-artemis-reading-at-third-place-books", "notes/looking-for-optimistic-sci-fi?-head-to-the-multiplexes"]
 sponsorships_author = ""
 +++

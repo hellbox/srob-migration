@@ -12,6 +12,6 @@ name = "Man Booker Prize"
 title = "Man Booker Prize"
 is_column = false
 reviews = ["reviews/choose-your-own-year-in-reading"]
-notes = ["notes/2015-man-booker-prize-longlist-announced", "notes/man-booker-prize-shortlist-announced", "notes/they-put-the-man-in-the-man-booker-prize", "notes/marlon-james-takes-the-booker", "notes/vegetarian-wins-award", "notes/book-news-roundup-racism-in-science-fiction-man-booker-longlist-released", "notes/paul-beatty-takes-the-booker"]
+notes = ["notes/2015-man-booker-prize-longlist-announced", "notes/man-booker-prize-shortlist-announced", "notes/they-put-the-man-in-the-man-booker-prize", "notes/marlon-james-takes-the-booker", "notes/vegetarian-wins-award", "notes/book-news-roundup-racism-in-science-fiction-man-booker-longlist-released", "notes/paul-beatty-takes-the-booker", "notes/george-saunders-wins-the-2017-man-booker-prize"]
 +++
 

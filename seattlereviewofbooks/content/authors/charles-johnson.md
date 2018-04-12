@@ -8,7 +8,7 @@ publish_date = "2016-12-04T19:25:00-08:00"
 date = "2016-12-04T19:25:00-08:00"
 last_updated = "2016-12-04T19:25:00-08:00"
 preview_url = "2e012182-bffe-9f0e-b9e7-099b06e0dcfe"
-name = "Charles Johnson"
+byline = "Charles Johnson"
 title = "Charles Johnson"
 alphabetize_by = "johnson"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/portrait-gallery-charles-johnson", "notes/talking-with-charles-johnson-about-community-retirement-and-writing-a-whole-lot-of-books"]
+notes = ["notes/portrait-gallery-charles-johnson", "notes/talking-with-charles-johnson-about-community-retirement-and-writing-a-whole-lot-of-books", "notes/literary-event-of-the-week-charles-johnson-at-the-annex-theatre", "notes/portrait-gallery-charles-johnson-"]
 sponsorships_author = ""
 +++

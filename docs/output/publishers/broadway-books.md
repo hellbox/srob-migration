@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Broadway Books"
 title = "Broadway Books"
-books_by_this_publisher = ["books/although-of-course-you-end-up-becoming-yourself", "books/doctor-who-the-drostens-curse"]
+books_by_this_publisher = ["books/although-of-course-you-end-up-becoming-yourself", "books/doctor-who-the-drostens-curse", "books/charlatan"]
 +++

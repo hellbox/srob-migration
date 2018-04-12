@@ -12,6 +12,6 @@ name = "obituaries"
 title = "obituaries"
 is_column = false
 reviews = ""
-notes = ["notes/jackie-collins-dead-at-77", "notes/this-month-we-celebrate-the-life-of-madeline-defrees", "notes/remembering-elizabeth-eisenstein", "notes/jim-harrison-dead-at-78"]
+notes = ["notes/jackie-collins-dead-at-77", "notes/this-month-we-celebrate-the-life-of-madeline-defrees", "notes/remembering-elizabeth-eisenstein", "notes/jim-harrison-dead-at-78", "notes/ursula-le-guin-has-died"]
 +++
 

@@ -12,6 +12,6 @@ name = "PageBoy"
 title = "PageBoy"
 is_column = false
 reviews = ""
-notes = ["notes/join-the-art-party-this-sunday", "notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th", "notes/literary-event-of-the-week-the-cascadia-poetry-festival-"]
+notes = ["notes/join-the-art-party-this-sunday", "notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th", "notes/literary-event-of-the-week-the-cascadia-poetry-festival-", "notes/book-news-roundup-restaurant-suggestions-from-david-sedaris"]
 +++
 

@@ -12,6 +12,6 @@ name = "Clarion West"
 title = "Clarion West"
 is_column = false
 reviews = ""
-notes = ["notes/clarion-(west)-call", "notes/your-week-in-readings-the-best-literary-events-from-june-15th---june-21st", "notes/your-week-in-readings-the-best-literary-events-from-july-6th---12th", "notes/book-news-roundup-get-your-table-at-the-seattle-urban-book-expo"]
+notes = ["notes/clarion-(west)-call", "notes/your-week-in-readings-the-best-literary-events-from-june-15th---june-21st", "notes/your-week-in-readings-the-best-literary-events-from-july-6th---12th", "notes/book-news-roundup-get-your-table-at-the-seattle-urban-book-expo", "notes/book-news-roundup-opportunities-available-for-poets-cartoonists-sci-fi-writers-and-more"]
 +++
 

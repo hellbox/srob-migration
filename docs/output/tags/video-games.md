@@ -12,6 +12,6 @@ name = "video games"
 title = "video games"
 is_column = false
 reviews = ""
-notes = ["notes/cheever-the-video-game", "notes/murakami-the-video-game"]
+notes = ["notes/cheever-the-video-game", "notes/murakami-the-video-game", "notes/the-cliff-the-deer-and-the-choices-you-make"]
 +++
 

@@ -11,7 +11,7 @@ preview_url = "a0400244-cc56-aa49-1d4c-5082e0c0d99c"
 name = "satire"
 title = "satire"
 is_column = false
-reviews = ["reviews/michel-houellebecq-and-the-limitations-of-satire"]
+reviews = ["reviews/michel-houellebecq-and-the-limitations-of-satire", "reviews/room-for-everything"]
 notes = ["notes/thursday-comics-hangover-the-bedrock-of-our-society"]
 +++
 

@@ -8,7 +8,7 @@ publish_date = "2015-10-18T18:10:00-07:00"
 date = "2015-10-18T18:10:00-07:00"
 last_updated = "2015-10-18T18:10:00-07:00"
 preview_url = "3cbe527e-f6da-c45d-11df-ddd867baaaf4"
-name = "John Freeman"
+byline = "John Freeman"
 title = "John Freeman"
 alphabetize_by = "freeman"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/freemans"]
 calendar_author = ""
 reviews = ["reviews/the-invisible-art-of-magazines"]
-notes = ""
+notes = ["notes/natalie-diaz-john-freeman-and-a-pair-of-events-for-you-to-consider"]
 sponsorships_author = ""
 +++

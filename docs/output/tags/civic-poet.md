@@ -12,6 +12,6 @@ name = "civic poet"
 title = "civic poet"
 is_column = false
 reviews = ["reviews/we-the-poems"]
-notes = ["notes/claudia-castro-luna-is-seattles-new-civic-poet", "notes/variation-on-a-theme", "notes/book-news-roundup-opportunities-for-writers-a-book-swap-and-benedict-cumberbatch-news", "notes/seattle-mapped-in-poetry", "notes/anastacia-renee-is-seattles-next-civic-poet", "notes/it-was-a-happy-convergenceof-my-interests-in-poetry-and-place"]
+notes = ["notes/claudia-castro-luna-is-seattles-new-civic-poet", "notes/variation-on-a-theme", "notes/book-news-roundup-opportunities-for-writers-a-book-swap-and-benedict-cumberbatch-news", "notes/seattle-mapped-in-poetry", "notes/anastacia-renee-is-seattles-next-civic-poet", "notes/it-was-a-happy-convergenceof-my-interests-in-poetry-and-place", "notes/seattles-first-civic--poet-is-now-washington-states-newest-poet-laureate"]
 +++
 

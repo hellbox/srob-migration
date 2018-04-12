@@ -12,6 +12,6 @@ name = "Racism"
 title = "Racism"
 is_column = false
 reviews = ["reviews/american-elegy"]
-notes = ["notes/-our-magazine\u2019s-mission-is-to-maintain-standards-of-quality-always-and-everywhere-in-burgers-in-bike-trails-and-in-readers", "notes/michael-derrick-hudson-may-be-worse-than-we-originally-thought", "notes/hp-lovecrafts-hateful-legacy", "notes/the-help-desk-tintin-is-a-racist-and-i-dont-know-what-to-do-about-it", "notes/talking-about-race-in-seattle-through-personal-experience", "notes/can-you-save-a-frog-from-neo-nazis?", "notes/someone-should-write-the-sci-fi-novel-that-america-really-needs-to-read-right-now"]
+notes = ["notes/-our-magazine\u2019s-mission-is-to-maintain-standards-of-quality-always-and-everywhere-in-burgers-in-bike-trails-and-in-readers", "notes/michael-derrick-hudson-may-be-worse-than-we-originally-thought", "notes/hp-lovecrafts-hateful-legacy", "notes/the-help-desk-tintin-is-a-racist-and-i-dont-know-what-to-do-about-it", "notes/talking-about-race-in-seattle-through-personal-experience", "notes/can-you-save-a-frog-from-neo-nazis?", "notes/someone-should-write-the-sci-fi-novel-that-america-really-needs-to-read-right-now", "notes/the-help-desk-i-want-to-write-a-historical-novel-but-history-is-really-really-racist"]
 +++
 

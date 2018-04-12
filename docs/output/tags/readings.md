@@ -12,6 +12,6 @@ name = "Readings"
 title = "Readings"
 is_column = false
 reviews = ""
-notes = ["notes/the-help-desk-oh-the-guilt!", "notes/the-stuff-that-dreams-are-made-of", "notes/or-you-might-want-to-go-see-priscilla-long-on-thursday", "notes/the-help-desk-sometimes-humiliation-is-a-team-sport"]
+notes = ["notes/the-help-desk-oh-the-guilt!", "notes/the-stuff-that-dreams-are-made-of", "notes/or-you-might-want-to-go-see-priscilla-long-on-thursday", "notes/the-help-desk-sometimes-humiliation-is-a-team-sport", "notes/this-sunday-anastasia-renee-is-having-a-big-day-(and-you-can-too!)"]
 +++
 

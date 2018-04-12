@@ -1,12 +1,12 @@
 +++
 index = "-Kuc5fZTLp9pYyajC1I9"
 _sort_create_date = 1506058860
-_sort_last_updated = 1507006680
-_sort_publish_date = 1508349300
+_sort_last_updated = 1508302740
+_sort_publish_date = 1508352900
 create_date = "2017-09-21T22:41:00-07:00"
-publish_date = "2017-10-18T10:55:00-07:00"
-date = "2017-10-18T10:55:00-07:00"
-last_updated = "2017-10-02T21:58:00-07:00"
+publish_date = "2017-10-18T11:55:00-07:00"
+date = "2017-10-18T11:55:00-07:00"
+last_updated = "2017-10-17T21:59:00-07:00"
 preview_url = "ff62f267-3be2-e607-3d96-895ecbdf51fa"
 name = "Your Week in Readings: The best literary events from October 18th - October 24th "
 title = "Your Week in Readings: The best literary events from October 18th - October 24th "

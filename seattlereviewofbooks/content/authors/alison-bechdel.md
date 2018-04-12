@@ -8,7 +8,7 @@ publish_date = "2015-10-19T22:48:00-07:00"
 date = "2015-10-19T22:48:00-07:00"
 last_updated = "2015-10-19T22:48:00-07:00"
 preview_url = "b6de7eaf-7b81-7a48-5cea-0a309a30636d"
-name = "Alison Bechdel"
+byline = "Alison Bechdel"
 title = "Alison Bechdel"
 alphabetize_by = "bechdel"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/tested-by-bechdel-", "notes/the-help-desk-deflated-by-word-balloons"]
+notes = ["notes/tested-by-bechdel-", "notes/the-help-desk-deflated-by-word-balloons", "notes/whatcha-reading-leni-zumas?"]
 sponsorships_author = ""
 +++

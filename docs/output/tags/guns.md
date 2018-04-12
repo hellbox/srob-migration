@@ -12,6 +12,6 @@ name = "guns"
 title = "guns"
 is_column = false
 reviews = ""
-notes = ["notes/of-books-and-guns"]
+notes = ["notes/of-books-and-guns", "notes/the-help-desk-bringing-a-book-to-a-gun-fight"]
 +++
 

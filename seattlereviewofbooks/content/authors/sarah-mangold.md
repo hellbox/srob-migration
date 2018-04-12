@@ -8,7 +8,7 @@ publish_date = "2016-06-23T23:35:00-07:00"
 date = "2016-06-23T23:35:00-07:00"
 last_updated = "2016-06-23T23:35:00-07:00"
 preview_url = "5eb5c463-3d5e-47f1-f59d-4b3666f4bd2a"
-name = "Sarah Mangold"
+byline = "Sarah Mangold"
 title = "Sarah Mangold"
 alphabetize_by = "mangold"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/giraffes-of-devotion"]
 calendar_author = ""
 reviews = ["reviews/the-poet-next-door"]
-notes = ""
+notes = ["notes/2017-artist-trust-gap-recipients-announced"]
 sponsorships_author = ""
 +++

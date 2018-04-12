@@ -1,12 +1,12 @@
 +++
 index = "-KXEL36jiQqqFfizYxvD"
 _sort_create_date = 1479873660
-_sort_last_updated = 1479873840
+_sort_last_updated = 1511322180
 _sort_publish_date = 1480010400
 create_date = "2016-11-22T20:01:00-08:00"
 publish_date = "2016-11-24T10:00:00-08:00"
 date = "2016-11-24T10:00:00-08:00"
-last_updated = "2016-11-22T20:04:00-08:00"
+last_updated = "2017-11-21T19:43:00-08:00"
 preview_url = "bbd3e2ee-9aee-c79a-2c83-1ed4871738d3"
 name = "It's Thanksgiving in Seattle"
 title = "It's Thanksgiving in Seattle"
@@ -17,7 +17,7 @@ twitterauto = "It's Thanksgiving in Seattle. We've got some tough years ahead. W
 facebookauto = "It's Thanksgiving in Seattle. We've got some tough years ahead. What do we have to be thankful for?"
 make_image_tweet = "False"
 byline = ["writers/paul-constant"]
-tags_notes = ["tags/secular-sermons", "tags/donald-trump"]
+tags_notes = ["tags/secular-sermons", "tags/donald-trump", "tags/thanksgiving-essay"]
 authors_notes = ""
 books = ""
 +++

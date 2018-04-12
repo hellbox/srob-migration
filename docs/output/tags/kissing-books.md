@@ -12,6 +12,6 @@ name = "Kissing Books"
 title = "Kissing Books"
 is_column = true
 reviews = ""
-notes = ["notes/kissing-books-romance-novels-are-important-because-people-are-important", "notes/kissing-books-the-sunrise-of-your-enemy", "notes/kissing-books-she-works-hard-for-it-honey"]
+notes = ["notes/kissing-books-romance-novels-are-important-because-people-are-important", "notes/kissing-books-the-sunrise-of-your-enemy", "notes/kissing-books-she-works-hard-for-it-honey", "notes/kissing-books-the-other-f-word", "notes/kissing-books-historically-speaking", "notes/kissing-books-series-ously-speaking", "notes/kissing-books-taking-it-on-the-ego", "notes/kissing-books-dont-fuck-nazis", "notes/kissing-books-the-coded-dress"]
 +++
 

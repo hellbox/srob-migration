@@ -12,6 +12,6 @@ name = "plagiarism"
 title = "plagiarism"
 is_column = false
 reviews = ""
-notes = ["notes/the-help-desk-the-other-help-desk", "notes/trump-transition-team-appointees-book-pulled-for-plagiarism"]
+notes = ["notes/the-help-desk-the-other-help-desk", "notes/trump-transition-team-appointees-book-pulled-for-plagiarism", "notes/this-is-not-the-plagiarism-story-youre-looking-for"]
 +++
 

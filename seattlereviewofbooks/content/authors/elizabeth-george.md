@@ -8,7 +8,7 @@ publish_date = "2016-10-26T20:59:00-07:00"
 date = "2016-10-26T20:59:00-07:00"
 last_updated = "2016-10-26T20:59:00-07:00"
 preview_url = "913a57fd-f64d-ac64-7046-63806d687d7f"
-name = "Elizabeth George"
+byline = "Elizabeth George"
 title = "Elizabeth George"
 alphabetize_by = "george"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/criminal-fiction-some-october-surprises"]
+notes = ["notes/criminal-fiction-some-october-surprises", "notes/criminal-fiction-welcomes-congratulations-and-farewells"]
 sponsorships_author = ""
 +++

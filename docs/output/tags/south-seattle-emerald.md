@@ -12,6 +12,6 @@ name = "South Seattle Emerald"
 title = "South Seattle Emerald"
 is_column = false
 reviews = ""
-notes = ["notes/heres-what-vlad-from-third-place-books-is-most-looking-forward-to-this-fall", "notes/book-news-roundup-the-death-of-seattle-media-edition", "notes/book-news-roundup-saying-goodbye-to-lems-life-enrichment-bookstore-owner-vickie-williams"]
+notes = ["notes/heres-what-vlad-from-third-place-books-is-most-looking-forward-to-this-fall", "notes/book-news-roundup-the-death-of-seattle-media-edition", "notes/book-news-roundup-saying-goodbye-to-lems-life-enrichment-bookstore-owner-vickie-williams", "notes/book-news-roundup-while-you-were-on-holiday-break"]
 +++
 

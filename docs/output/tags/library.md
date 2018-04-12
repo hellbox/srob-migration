@@ -12,6 +12,6 @@ name = "library"
 title = "library"
 is_column = false
 reviews = ""
-notes = ["notes/give-to-louisiana-libraries-if-you-can"]
+notes = ["notes/give-to-louisiana-libraries-if-you-can", "notes/the-future-of-libraries-in-convenient-magazine-form"]
 +++
 

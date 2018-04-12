@@ -18,7 +18,7 @@ facebookauto = "This week in readings: Eli Sanders! Bernie Sanders! Ivar the Fam
 make_image_tweet = "True"
 byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/anastacia-renee-tolbert", "authors/storme-webber", "authors/eli-sanders", "authors/nancy-pearl"]
+authors_notes = ["authors/anastacia-renee", "authors/storme-webber", "authors/eli-sanders", "authors/nancy-pearl"]
 books = ["books/while-the-city-slept"]
 +++
 **MONDAY** Let’s start our week off with one of the last Works in Progress open mic nights at the [Hugo House](https://hugohouse.org/event/works-in-progress-2/2016-02-01/) in its current location. Works in Progress has been going on for years now, and it will undoubtedly stick with Hugo House in their [temporary location on First Hill](http://seattlereviewofbooks.com/notes/2016/01/05/the-frye-art-museum-gives-hugo-house-a-temporary-home/), but there is a certain kind of magic to the Hugo House cabaret space right now, as awkward as it can be when there’s a full house. There have been a lot of readers on this stage, and this is one of your last chances to get up there and give it a shot. Why not? 

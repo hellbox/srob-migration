@@ -8,7 +8,7 @@ publish_date = "2017-09-05T07:58:00-07:00"
 date = "2017-09-05T07:58:00-07:00"
 last_updated = "2017-09-05T07:58:00-07:00"
 preview_url = "c3fd5184-41c3-9a25-0f4e-d61fafb94f4a"
-name = "Beverly Jenkins"
+byline = "Beverly Jenkins"
 title = "Beverly Jenkins"
 alphabetize_by = "jenkins"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/kissing-books-the-sunrise-of-your-enemy"]
+notes = ["notes/kissing-books-the-sunrise-of-your-enemy", "notes/kissing-books-historically-speaking", "notes/kissing-books-taking-it-on-the-ego"]
 sponsorships_author = ""
 +++

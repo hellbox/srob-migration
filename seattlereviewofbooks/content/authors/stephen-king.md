@@ -8,7 +8,7 @@ publish_date = "2016-05-23T20:04:00-07:00"
 date = "2016-05-23T20:04:00-07:00"
 last_updated = "2016-05-23T20:04:00-07:00"
 preview_url = "3ba16ad1-aba4-af75-2ba0-3026ca0d5901"
-name = "Stephen King"
+byline = "Stephen King"
 title = "Stephen King"
 alphabetize_by = "king"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/the-help-desk-taking-a-stand-on-stephen-king", "notes/stephen-kings-murder-has-been-canceled", "notes/stephen-king-is-the-new-john-malkovich-apparently"]
+notes = ["notes/the-help-desk-taking-a-stand-on-stephen-king", "notes/stephen-kings-murder-has-been-canceled", "notes/stephen-king-is-the-new-john-malkovich-apparently", "notes/the-help-desk-does-stephen-king-have-it?", "notes/the-future-alternative-past-now-with-animal-pictures"]
 sponsorships_author = ""
 +++

@@ -11,7 +11,7 @@ preview_url = "c38687b3-1fbe-d42c-e504-d460a911e58d"
 name = "noir"
 title = "noir"
 is_column = false
-reviews = ["reviews/derrick-noir"]
+reviews = ["reviews/derrick-noir", "reviews/the-dark-side-of-the-sun"]
 notes = ""
 +++
 

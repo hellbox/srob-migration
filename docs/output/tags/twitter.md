@@ -12,6 +12,6 @@ name = "Twitter"
 title = "Twitter"
 is_column = false
 reviews = ""
-notes = ["notes/fifty-shades-of-ama", "notes/the-best-kind-of-twitter-broadside", "notes/twitter-to-expand-beyond-its-140-character-limitations", "notes/unearthing-the-accidental-poetry-of-twitter", "notes/of-hyphens-and-e-lectronics", "notes/sherman-alexie-lindy-west-and-ta-nehisi-coates-all-quit-twitter-this-week", "notes/gone-rogue"]
+notes = ["notes/fifty-shades-of-ama", "notes/the-best-kind-of-twitter-broadside", "notes/twitter-to-expand-beyond-its-140-character-limitations", "notes/unearthing-the-accidental-poetry-of-twitter", "notes/of-hyphens-and-e-lectronics", "notes/sherman-alexie-lindy-west-and-ta-nehisi-coates-all-quit-twitter-this-week", "notes/gone-rogue", "notes/call-me-twitter-bot"]
 +++
 

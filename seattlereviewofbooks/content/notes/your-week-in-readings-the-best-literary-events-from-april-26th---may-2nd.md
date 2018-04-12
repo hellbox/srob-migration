@@ -18,7 +18,7 @@ facebookauto = "Your week in readings delivers an edible city, life on Mars, and
 make_image_tweet = "False"
 byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/jamaica-baldwin", "authors/elisa-chavez", "authors/anastacia-renee-tolbert", "authors/kevin-emerson"]
+authors_notes = ["authors/jamaica-baldwin", "authors/elisa-chavez", "authors/anastacia-renee", "authors/kevin-emerson"]
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1492581592443/ediblecity.jpeg)</p>

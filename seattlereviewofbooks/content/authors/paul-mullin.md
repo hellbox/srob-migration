@@ -8,7 +8,7 @@ publish_date = "2016-05-28T22:48:00-07:00"
 date = "2016-05-28T22:48:00-07:00"
 last_updated = "2016-05-28T22:48:00-07:00"
 preview_url = "1934d937-bb51-cff7-b6d5-5ccbf788efc2"
-name = "Paul Mullin"
+byline = "Paul Mullin"
 title = "Paul Mullin"
 alphabetize_by = "mullin"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/the-starting-gate"]
 calendar_author = ""
 reviews = ""
-notes = ["notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th", "notes/literary-event-of-the-week-loud-mouth-lit"]
-sponsorships_author = ["sponsorships/the-starting-gate"]
+notes = ["notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th", "notes/literary-event-of-the-week-loud-mouth-lit", "notes/check-out-a-sample-from-the-starting-gate-courtesy-of-sponsor-paul-mullin"]
+sponsorships_author = ["sponsorships/the-starting-gate-05--30--2016", "sponsorships/the-starting-gate"]
 +++

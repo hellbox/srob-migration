@@ -12,6 +12,6 @@ name = "Couth Buzzard"
 title = "Couth Buzzard"
 is_column = false
 reviews = ""
-notes = ["notes/how-you-can-help-a-seattle-area-bookstore-that-was-burgled", "notes/literary-events-of-the-week-koon-woon-and-margin-shift"]
+notes = ["notes/how-you-can-help-a-seattle-area-bookstore-that-was-burgled", "notes/literary-events-of-the-week-koon-woon-and-margin-shift", "notes/greenwoods-couth-buzzard-books-launches-fundraising-campaign", "notes/talking-to-couth-buzzard-owner-theo-dzielak-about-the-greenwood-bookstores-future"]
 +++
 

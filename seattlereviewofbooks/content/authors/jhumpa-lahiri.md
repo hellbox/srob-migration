@@ -8,7 +8,7 @@ publish_date = "2016-05-31T23:19:00-07:00"
 date = "2016-05-31T23:19:00-07:00"
 last_updated = "2016-05-31T23:22:00-07:00"
 preview_url = "8e1973e9-c916-fd97-c3a1-f1b0a0be7c14"
-name = "Jhumpa Lahiri"
+byline = "Jhumpa Lahiri"
 title = "Jhumpa Lahiri"
 alphabetize_by = "lahiri"
 isDraft = false
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/in-other-words"]
 calendar_author = ""
 reviews = ["reviews/the-one-sided-deal"]
-notes = ""
+notes = ["notes/whatcha-reading-jennifer-haupt?"]
 sponsorships_author = ""
 +++

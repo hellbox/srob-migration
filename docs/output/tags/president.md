@@ -11,7 +11,7 @@ preview_url = "92df7356-e9b1-c37e-c72c-9eeabba41f8a"
 name = "president"
 title = "president"
 is_column = false
-reviews = ["reviews/the-idiot", "reviews/out-of-the-running"]
+reviews = ["reviews/the-idiot", "reviews/out-of-the-running", "reviews/bidens-time"]
 notes = ""
 +++
 

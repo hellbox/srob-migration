@@ -12,6 +12,6 @@ name = "Louis Collins Books"
 title = "Louis Collins Books"
 is_column = false
 reviews = ""
-notes = ["notes/louis-collins-books-is-our-september-bookstore-of-the-month", "notes/louis-collins-books-celebrates-seattles-long-tradition-of-loving-books", "notes/how-louis-collins-made-the-leap-from-physical-bookselling-to-digital", "notes/a-life-in-service-to-and-served-by-books"]
+notes = ["notes/louis-collins-books-is-our-september-bookstore-of-the-month", "notes/louis-collins-books-celebrates-seattles-long-tradition-of-loving-books", "notes/how-louis-collins-made-the-leap-from-physical-bookselling-to-digital", "notes/a-life-in-service-to-and-served-by-books", "notes/louis-collins-a-titan-of-the-antiquarian-books-scene-has-passed-away"]
 +++
 

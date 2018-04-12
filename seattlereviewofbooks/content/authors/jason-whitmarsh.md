@@ -8,7 +8,7 @@ publish_date = "2017-04-28T22:12:00-07:00"
 date = "2017-04-28T22:12:00-07:00"
 last_updated = "2017-04-28T22:13:00-07:00"
 preview_url = "d9b5a57e-5a06-3b4f-1d07-86e43239af51"
-name = "Jason Whitmarsh"
+byline = "Jason Whitmarsh"
 title = "Jason Whitmarsh"
 alphabetize_by = "whitmarsh"
 isDraft = false
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/the-histories"]
 calendar_author = ""
 reviews = ["reviews/stand-up-poetry"]
-notes = ""
+notes = ["notes/whatcha-reading-kevin-craft?"]
 sponsorships_author = ""
 +++

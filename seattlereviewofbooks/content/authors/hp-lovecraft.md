@@ -8,7 +8,7 @@ publish_date = "2016-05-23T20:25:00-07:00"
 date = "2016-05-23T20:25:00-07:00"
 last_updated = "2016-05-23T20:25:00-07:00"
 preview_url = "106fbae1-0c03-05f9-23e0-b983b57fc8ea"
-name = "HP Lovecraft"
+byline = "HP Lovecraft"
 title = "HP Lovecraft"
 alphabetize_by = "lovecraft"
 isDraft = ""
@@ -16,7 +16,7 @@ is_seattle__pnw_writer = false
 written_about = ""
 books = ""
 calendar_author = ""
-reviews = ""
+reviews = ["reviews/the-beautiful-strange"]
 notes = ["notes/hp-lovecrafts-hateful-legacy"]
 sponsorships_author = ""
 +++

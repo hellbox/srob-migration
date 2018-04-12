@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Grey Sun Press"
 title = "Grey Sun Press"
-books_by_this_publisher = ["books/joy-to-the-worlds"]
+books_by_this_publisher = ["books/joy-to-the-worlds", "books/amaskans-blood"]
 +++

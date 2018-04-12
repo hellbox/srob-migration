@@ -12,6 +12,6 @@ name = "Outsider Comics"
 title = "Outsider Comics"
 is_column = false
 reviews = ""
-notes = ["notes/literary-event-of-the-week-first-second-at-seattle-public-library", "notes/weve-got-some-fine-comics-shops-in-seattle"]
+notes = ["notes/literary-event-of-the-week-first-second-at-seattle-public-library", "notes/weve-got-some-fine-comics-shops-in-seattle", "notes/thursday-comics-hangover-how-to-attend-eccc-without-attending-eccc"]
 +++
 

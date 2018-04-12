@@ -12,6 +12,6 @@ name = "New Hire"
 title = "New Hire"
 is_column = true
 reviews = ""
-notes = ["notes/new-hire-sarah-glidden-doesnt-believe-in-the-seattle-freeze", "notes/new-hire-neal-bascomb-found-a-community-of-writers-in-seattle", "notes/new-hire-talking-with-dw-about-moving-to-seattle-publishing-his-sketchbooks-and-finding-cartoonists-from-every-continent-on-earth"]
+notes = ["notes/new-hire-sarah-glidden-doesnt-believe-in-the-seattle-freeze", "notes/new-hire-neal-bascomb-found-a-community-of-writers-in-seattle", "notes/new-hire-talking-with-dw-about-moving-to-seattle-publishing-his-sketchbooks-and-finding-cartoonists-from-every-continent-on-earth", "notes/talking-with-lisa-rosenblum-the-new-director-of-the-king-county-library-system"]
 +++
 

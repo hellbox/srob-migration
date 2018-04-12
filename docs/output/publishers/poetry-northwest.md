@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Poetry Northwest"
 title = "Poetry Northwest"
-books_by_this_publisher = ["books/poetry-northwest-volume-x-issue-2"]
+books_by_this_publisher = ["books/poetry-northwest-volume-x-issue-2", "books/poetry-northwest-(winter-&-spring-2018)"]
 +++

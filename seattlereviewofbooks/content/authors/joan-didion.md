@@ -8,7 +8,7 @@ publish_date = "2016-05-23T20:52:00-07:00"
 date = "2016-05-23T20:52:00-07:00"
 last_updated = "2016-05-23T20:52:00-07:00"
 preview_url = "9422a7f1-93e0-c10f-f1ce-26c4c1f507dd"
-name = "Joan Didion"
+byline = "Joan Didion"
 title = "Joan Didion"
 alphabetize_by = "didion"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/south-and-west"]
 calendar_author = ""
 reviews = ["reviews/song-of-the-south"]
-notes = ["notes/the-sunday-post-for-may-8-2016", "notes/bob-dylan-wins-2016-nobel-prize-for-literature"]
+notes = ["notes/the-sunday-post-for-may-8-2016", "notes/bob-dylan-wins-2016-nobel-prize-for-literature", "notes/book-news-roundup-wrath-can-be-fun!"]
 sponsorships_author = ""
 +++

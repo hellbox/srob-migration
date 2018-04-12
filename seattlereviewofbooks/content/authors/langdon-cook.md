@@ -8,7 +8,7 @@ publish_date = "2017-06-25T15:45:00-07:00"
 date = "2017-06-25T15:45:00-07:00"
 last_updated = "2017-06-25T15:45:00-07:00"
 preview_url = "78b03d77-ab69-55d6-0bdd-0d3275f96e93"
-name = "Langdon Cook"
+byline = "Langdon Cook"
 title = "Langdon Cook"
 alphabetize_by = "cook"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/upstream"]
 calendar_author = ""
 reviews = ["reviews/something-fishy"]
-notes = ""
+notes = ["notes/whatcha-reading-kevin-craft?"]
 sponsorships_author = ""
 +++

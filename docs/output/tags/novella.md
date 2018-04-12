@@ -12,6 +12,6 @@ name = "novella"
 title = "novella"
 is_column = false
 reviews = ["reviews/looking-and-seeing-are-two-different-things", "reviews/short-on-pages-long-on-ideas"]
-notes = ["notes/literary-event-of-the-week-jon-raymond-reads-freebird-at-university-book-store"]
+notes = ["notes/literary-event-of-the-week-jon-raymond-reads-freebird-at-university-book-store", "notes/every-city-a-mystery"]
 +++
 

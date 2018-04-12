@@ -12,6 +12,6 @@ name = "Phoenix Comics and Games"
 title = "Phoenix Comics and Games"
 is_column = false
 reviews = ""
-notes = ["notes/thursday-comics-hangover-saga-split-in-two", "notes/your-week-in-readings-the-best-literary-events-for-the-week-of-august-10---august-16-2015", "notes/thursday-comics-hangover-skin-deep", "notes/thursday-comics-hangover-hey-kids!-head-lopper!", "notes/thursday-comics-hangover-bringing-the-fire", "notes/thursday-comics-hangover-mini-comics-big-love", "notes/literary-event-of-the-week-first-second-at-seattle-public-library", "notes/some-asshole-broke-into-phoenix-comics-last-night", "notes/thursday-comics-hangover-how-to-get-the-most-out-of-your-free-comic-book-day", "notes/weve-got-some-fine-comics-shops-in-seattle"]
+notes = ["notes/thursday-comics-hangover-saga-split-in-two", "notes/your-week-in-readings-the-best-literary-events-for-the-week-of-august-10---august-16-2015", "notes/thursday-comics-hangover-skin-deep", "notes/thursday-comics-hangover-hey-kids!-head-lopper!", "notes/thursday-comics-hangover-bringing-the-fire", "notes/thursday-comics-hangover-mini-comics-big-love", "notes/literary-event-of-the-week-first-second-at-seattle-public-library", "notes/some-asshole-broke-into-phoenix-comics-last-night", "notes/thursday-comics-hangover-how-to-get-the-most-out-of-your-free-comic-book-day", "notes/weve-got-some-fine-comics-shops-in-seattle", "notes/thursday-comics-hangover-how-to-attend-eccc-without-attending-eccc"]
 +++
 

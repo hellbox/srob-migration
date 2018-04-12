@@ -12,6 +12,6 @@ name = "David Sedaris"
 title = "David Sedaris"
 is_column = false
 reviews = ""
-notes = ["notes/david-sedaris-to-workshop-his-upcoming-book-at-broadway-performance-hall"]
+notes = ["notes/david-sedaris-to-workshop-his-upcoming-book-at-broadway-performance-hall", "notes/you-can-tell-a-lot-about-david-sedaris-from-the-edits-on-his-wikipedia-page"]
 +++
 

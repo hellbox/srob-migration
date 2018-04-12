@@ -12,6 +12,6 @@ name = "Benaroya Hall"
 title = "Benaroya Hall"
 is_column = false
 reviews = ""
-notes = ["notes/thats-the-ticket-david-sedaris-and-gloria-steinem-shows-are-selling-quickly", "notes/why-a-dog-owner-in-maine-doesnt-like-david-sedaris", "notes/joe-biden-reading-at-benaroya-hall-in-december-advance-tickets-on-sale-now", "notes/tickets-are-available-now-for-armistead-maupin-and-david-sedaris"]
+notes = ["notes/thats-the-ticket-david-sedaris-and-gloria-steinem-shows-are-selling-quickly", "notes/why-a-dog-owner-in-maine-doesnt-like-david-sedaris", "notes/joe-biden-reading-at-benaroya-hall-in-december-advance-tickets-on-sale-now", "notes/tickets-are-available-now-for-armistead-maupin-and-david-sedaris", "notes/armistead-maupin-left-me-speechless-last-night"]
 +++
 

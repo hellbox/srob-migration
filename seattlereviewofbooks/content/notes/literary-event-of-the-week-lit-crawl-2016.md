@@ -18,7 +18,7 @@ facebookauto = "Our Event of the Week is Lit Crawl, which features 35 (!?!) terr
 make_image_tweet = "False"
 byline = ["writers/paul-constant"]
 tags_notes = ["tags/lit-crawl"]
-authors_notes = ["authors/quenton-baker", "authors/robert-lashley", "authors/mattilda-bernstein-sycamore", "authors/anastacia-renee-tolbert", "authors/jane-wong", "authors/sierra-nelson", "authors/peter-mountford"]
+authors_notes = ["authors/quenton-baker", "authors/robert-lashley", "authors/mattilda-bernstein-sycamore", "authors/anastacia-renee", "authors/jane-wong", "authors/sierra-nelson", "authors/peter-mountford"]
 books = ""
 +++
 In just five years, Seattle Lit Crawl has become more than just a bookish pub crawl — it’s now the fever-pitch climax of autumn, the busiest night of the busiest time of the year for literary Seattle. On the evening of October 27th, 35 readings (each lasting 45 minutes, with programs starting at 6, 7, 8, and 9 pm) will unfold all over downtown, First Hill, and Capitol Hill. You can find a full listing of all the readings at litcrawl.org, but here are a few itineraries to get you started. Feel free to mix or match, based on your interest.

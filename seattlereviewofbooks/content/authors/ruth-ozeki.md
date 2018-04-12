@@ -8,7 +8,7 @@ publish_date = "2016-04-07T23:02:00-07:00"
 date = "2016-04-07T23:02:00-07:00"
 last_updated = "2016-04-07T23:04:00-07:00"
 preview_url = "e68ca49e-73ce-6c27-bc9e-d30d802ff1ad"
-name = "Ruth Ozeki"
+byline = "Ruth Ozeki"
 title = "Ruth Ozeki"
 alphabetize_by = "ozeki"
 isDraft = false
@@ -17,6 +17,6 @@ written_about = ""
 books = ["books/the-face"]
 calendar_author = ""
 reviews = ["reviews/open-faced"]
-notes = ""
+notes = ["notes/literary-event-of-the-week-meditation-for-writers-at-washington-hall"]
 sponsorships_author = ""
 +++

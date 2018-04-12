@@ -8,7 +8,7 @@ publish_date = "2016-07-20T22:58:00-07:00"
 date = "2016-07-20T22:58:00-07:00"
 last_updated = "2016-07-20T22:58:00-07:00"
 preview_url = "3d8981dd-edd1-2e60-b39c-141b18d8789a"
-name = "Tom Van Deusen"
+byline = "Tom Van Deusen"
 title = "Tom Van Deusen"
 alphabetize_by = "van deusen"
 isDraft = ""
@@ -17,6 +17,6 @@ written_about = ""
 books = ""
 calendar_author = ""
 reviews = ""
-notes = ["notes/thursday-comics-hangover-jeff-bezos-destroyer-of-worlds", "notes/new-hire-talking-with-dw-about-moving-to-seattle-publishing-his-sketchbooks-and-finding-cartoonists-from-every-continent-on-earth"]
+notes = ["notes/thursday-comics-hangover-jeff-bezos-destroyer-of-worlds", "notes/new-hire-talking-with-dw-about-moving-to-seattle-publishing-his-sketchbooks-and-finding-cartoonists-from-every-continent-on-earth", "notes/what-we-saw-(and-loved)-at-short-run", "notes/thursday-comics-hangover-the-unexpected-terror-of-josh-simmons"]
 sponsorships_author = ""
 +++

@@ -18,7 +18,7 @@ facebookauto = "All of Seattle is losing its mind over Anastacia-Renee. Find out
 make_image_tweet = "False"
 byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/anastacia-renee-tolbert"]
+authors_notes = ["authors/anastacia-renee"]
 books = ""
 +++
 Every so often in Seattle, a writer pops into the popular consciousness. You’ll find them everywhere at once: in every Seattle-centric magazine, newspaper, and website that covers the literary scene. (Yes, and there aren’t so many of those these days, but that’s a complaint for another time.)

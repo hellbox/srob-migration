@@ -12,6 +12,6 @@ name = "Technology"
 title = "Technology"
 is_column = false
 reviews = ["reviews/blinded-by-the-supernova"]
-notes = ["notes/obligatory-pokemon-go-post", "notes/technology-killed-bookstore-chains-can-technology-save-indie-bookstores?"]
+notes = ["notes/obligatory-pokemon-go-post", "notes/technology-killed-bookstore-chains-can-technology-save-indie-bookstores?", "notes/harry-potter-and-the-predictive-text"]
 +++
 

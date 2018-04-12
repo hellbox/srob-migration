@@ -12,6 +12,6 @@ name = "Seattle Reads"
 title = "Seattle Reads"
 is_column = false
 reviews = ""
-notes = ["notes/and-the-next-seattle-reads-title-is", "notes/talking-with-librarian-andrea-gough-about-why-the-turner-house-is-the-book-all-seattle-should-read-in-2017", "notes/literary-event-of-the-week-hugo-literary-series-exile", "notes/literary-event-of-the-week-seattle-reads-the-turner-house", "notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th"]
+notes = ["notes/and-the-next-seattle-reads-title-is", "notes/talking-with-librarian-andrea-gough-about-why-the-turner-house-is-the-book-all-seattle-should-read-in-2017", "notes/literary-event-of-the-week-hugo-literary-series-exile", "notes/literary-event-of-the-week-seattle-reads-the-turner-house", "notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th", "notes/this-may-seattle-will-read-yaa-gyasis-homegoing"]
 +++
 

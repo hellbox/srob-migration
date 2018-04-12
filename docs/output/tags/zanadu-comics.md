@@ -12,6 +12,6 @@ name = "Zanadu Comics"
 title = "Zanadu Comics"
 is_column = false
 reviews = ""
-notes = ["notes/shoring-up-zanadu"]
+notes = ["notes/shoring-up-zanadu", "notes/zanadu-comics-to-close-in-january-2018", "notes/go-talk-comics-at-zanadu-tonight", "notes/book-news-roundup-support-a-cartoonist-say-goodbye-to-zanadu-and-read-the-fast-food-fire-and-fury"]
 +++
 

@@ -11,7 +11,7 @@ preview_url = "aff6ef86-bffc-a82d-c627-fd069317c37e"
 name = "Non-fiction"
 title = "Non-fiction"
 is_column = false
-reviews = ["reviews/traveling-light", "reviews/open-faced", "reviews/the-visible-women", "reviews/blinded-by-the-supernova"]
+reviews = ["reviews/traveling-light", "reviews/open-faced", "reviews/the-visible-women", "reviews/blinded-by-the-supernova", "reviews/walking-around-seattle-with-jane-jacobs"]
 notes = ""
 +++
 

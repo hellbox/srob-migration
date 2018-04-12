@@ -12,6 +12,6 @@ name = "Mount Analogue"
 title = "Mount Analogue"
 is_column = false
 reviews = ["reviews/the-line-between-you-and-me"]
-notes = ["notes/for-colleen-louise-barry-mount-analogue-is-the-future-of-books", "notes/do-you-have-something-political-to-say?", "notes/literary-event-of-the-week-x-y-z-gallery-opening", "notes/what-we-saw-at-the-x-y-z-gallery-launch-party-last-night"]
+notes = ["notes/for-colleen-louise-barry-mount-analogue-is-the-future-of-books", "notes/do-you-have-something-political-to-say?", "notes/literary-event-of-the-week-x-y-z-gallery-opening", "notes/what-we-saw-at-the-x-y-z-gallery-launch-party-last-night", "notes/the-pleasures-and-pains-of-housing-three-seattle-small-presses-under-one-roof"]
 +++
 

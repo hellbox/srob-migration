@@ -12,6 +12,6 @@ name = "writing"
 title = "writing"
 is_column = false
 reviews = ""
-notes = ["notes/john-august-on-screenwriting", "notes/it\u2019s-the-seventh-annual-national-day-on-writing", "notes/stop-me-if-youve-heard-this-one", "notes/nanowrimo-week-2-it-doesnt-matter-how-you-feel", "notes/book-titled-thrill-me-actually-more-comforting-than-thrilling", "notes/everything-you-wanted-to-know-about-literary-agents-(but-was-afraid-to-ask)"]
+notes = ["notes/john-august-on-screenwriting", "notes/it\u2019s-the-seventh-annual-national-day-on-writing", "notes/stop-me-if-youve-heard-this-one", "notes/nanowrimo-week-2-it-doesnt-matter-how-you-feel", "notes/book-titled-thrill-me-actually-more-comforting-than-thrilling", "notes/everything-you-wanted-to-know-about-literary-agents-(but-was-afraid-to-ask)", "notes/how-to-support-an-author-during-launch-a-guide-for-family-friends-and-fans"]
 +++
 

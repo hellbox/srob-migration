@@ -18,7 +18,7 @@ facebookauto = "Some people say the lack of LGBT bookstores in Seattle is a step
 make_image_tweet = "False"
 byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/mattilda-bernstein-sycamore", "authors/anastacia-renee-tolbert"]
+authors_notes = ["authors/mattilda-bernstein-sycamore", "authors/anastacia-renee"]
 books = ""
 +++
 There used to be two LGBT-themed bookstores on Capitol Hill alone. Now there are none. Lots of people would say that this is a sign of progress — after all, though we may not have a Beyond the Closet or a Bailey/Coy on Capitol Hill anymore, pretty much every bookstore in town now has a huge section devoted to LGBT issues. Virtually every bookstore I can think of has at least one LGBT employee, and some have many more than one. With the mainstreaming of gay culture, many would argue, why would you need a space specifically for LGBT literature?

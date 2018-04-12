@@ -12,6 +12,6 @@ name = "housekeeping"
 title = "housekeeping"
 is_column = false
 reviews = ""
-notes = ["notes/the-seattle-review-of-books-is-coming-to-you"]
+notes = ["notes/the-seattle-review-of-books-is-coming-to-you", "notes/a-small-programming-note"]
 +++
 

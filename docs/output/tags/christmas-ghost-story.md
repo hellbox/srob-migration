@@ -12,6 +12,6 @@ name = "Christmas Ghost Story"
 title = "Christmas Ghost Story"
 is_column = true
 reviews = ""
-notes = ["notes/keys", "notes/in-praise-of-the-christmas-ghost-story", "notes/-the-christmas-they-left-us-alone"]
+notes = ["notes/keys", "notes/in-praise-of-the-christmas-ghost-story", "notes/-the-christmas-they-left-us-alone", "notes/rip-it-out-with-your-hands"]
 +++
 
