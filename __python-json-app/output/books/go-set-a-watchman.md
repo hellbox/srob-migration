@@ -29,5 +29,5 @@ image = ""
 review_relationship = ""
 author_relationship = ""
 sponsorships_book = ""
-notes_relationship = ["notes/how-harper-lee-saved-bloom-county", "notes/the-help-desk-is-there-publishing-after-death?"]
+notes_relationship = ["notes/how-harper-lee-saved-bloom-county", "notes/the-help-desk-is-there-publishing-after-death"]
 +++

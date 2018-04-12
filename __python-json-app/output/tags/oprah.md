@@ -12,6 +12,6 @@ name = "Oprah"
 title = "Oprah"
 is_column = false
 reviews = ""
-notes = ["notes/oprah-gives-the-oprah-seal-of-approval-to-underground-railroad", "notes/\u201ci-thought-why-not-write-the-book-that-really-scares-you?\u201d-"]
+notes = ["notes/oprah-gives-the-oprah-seal-of-approval-to-underground-railroad", "notes/\u201ci-thought-why-not-write-the-book-that-really-scares-you\u201d-"]
 +++
 

@@ -12,6 +12,6 @@ name = "Protest"
 title = "Protest"
 is_column = false
 reviews = ""
-notes = ["notes/the-help-desk-how-should-a-pacifist-book-lover-protest-amazons-bookstore?", "notes/book-news-roundup-have-you-read-sherman-alexies-viral-poem-about-passports?"]
+notes = ["notes/the-help-desk-how-should-a-pacifist-book-lover-protest-amazons-bookstore", "notes/book-news-roundup-have-you-read-sherman-alexies-viral-poem-about-passports"]
 +++
 

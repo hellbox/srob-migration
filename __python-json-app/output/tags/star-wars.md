@@ -12,6 +12,6 @@ name = "Star Wars"
 title = "Star Wars"
 is_column = false
 reviews = ""
-notes = ["notes/hobbits-in-space?", "notes/what-sean-spicer-a-christmas-carol-and-star-wars-can-teach-us-about-criticism"]
+notes = ["notes/hobbits-in-space", "notes/what-sean-spicer-a-christmas-carol-and-star-wars-can-teach-us-about-criticism"]
 +++
 

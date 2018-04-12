@@ -35,5 +35,5 @@ size = 6243
 review_relationship = ["reviews/the-publishers-dilemma", "reviews/a-room-full-of-citizens"]
 author_relationship = ["authors/claudia-rankine"]
 sponsorships_book = ""
-notes_relationship = ["notes/third-place-seward-park-is-our-june-bookstore-of-the-month", "notes/the-kind-of-genius-you-cant-ignore", "notes/reading-through-it-join-us-for-a-discussion-of-how-to-move-forward-in-donald-trump\u2019s-america", "notes/literary-event-of-the-week-come-discuss-citizen-an-american-lyric-with-us-tonight", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels?", "notes/book-news-roundup-the-georgetown-steam-plant-has-its-official-cartoonist-biographers"]
+notes_relationship = ["notes/third-place-seward-park-is-our-june-bookstore-of-the-month", "notes/the-kind-of-genius-you-cant-ignore", "notes/reading-through-it-join-us-for-a-discussion-of-how-to-move-forward-in-donald-trump\u2019s-america", "notes/literary-event-of-the-week-come-discuss-citizen-an-american-lyric-with-us-tonight", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels", "notes/book-news-roundup-the-georgetown-steam-plant-has-its-official-cartoonist-biographers"]
 +++

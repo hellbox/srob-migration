@@ -35,5 +35,5 @@ size = 13938
 review_relationship = ""
 author_relationship = ["authors/charlotte-riggle"]
 sponsorships_book = ["sponsorships/catherines-pascha"]
-notes_relationship = ["notes/easter-in-the-middle-of-the-night", "notes/isnt-easter-already-past?-not-if-youre-in-the-orthodox-church"]
+notes_relationship = ["notes/easter-in-the-middle-of-the-night", "notes/isnt-easter-already-past-not-if-youre-in-the-orthodox-church"]
 +++

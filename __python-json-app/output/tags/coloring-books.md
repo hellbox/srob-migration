@@ -12,6 +12,6 @@ name = "coloring books"
 title = "coloring books"
 is_column = false
 reviews = ""
-notes = ["notes/the-help-desk-color-me-vexed", "notes/the-help-desk-are-adult-coloring-books-a-fad?"]
+notes = ["notes/the-help-desk-color-me-vexed", "notes/the-help-desk-are-adult-coloring-books-a-fad"]
 +++
 

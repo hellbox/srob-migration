@@ -12,6 +12,6 @@ name = "Instant Future"
 title = "Instant Future"
 is_column = false
 reviews = ["reviews/the-perpetual-naked-lunch-of-starvation-mode"]
-notes = ["notes/cheever-the-video-game", "notes/lit-crawl-itinerary-#1-meet-the-new-publishers"]
+notes = ["notes/cheever-the-video-game", "notes/lit-crawl-itinerary-1-meet-the-new-publishers"]
 +++
 

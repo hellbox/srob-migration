@@ -12,6 +12,6 @@ name = "Hugo Awards"
 title = "Hugo Awards"
 is_column = false
 reviews = ""
-notes = ["notes/hugo-award-winners-announced", "notes/so-did-i-pick-the-best-75-poems-published-last-year?-of-course-not-i-picked-75-poems-that-survived-a-literary-ordeal-that-happened-only-in-my-brain", "notes/hugo-award-finalists-announced", "notes/the-sad-troll-gets-sadder", "notes/2017-hugo-award-nominees-announced"]
+notes = ["notes/hugo-award-winners-announced", "notes/so-did-i-pick-the-best-75-poems-published-last-year-of-course-not-i-picked-75-poems-that-survived-a-literary-ordeal-that-happened-only-in-my-brain", "notes/hugo-award-finalists-announced", "notes/the-sad-troll-gets-sadder", "notes/2017-hugo-award-nominees-announced"]
 +++
 

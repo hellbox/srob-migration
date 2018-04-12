@@ -12,6 +12,6 @@ name = "The Atlantic"
 title = "The Atlantic"
 is_column = false
 reviews = ""
-notes = ["notes/the-help-desk-what-can-writers-do-to-fight-trump?"]
+notes = ["notes/the-help-desk-what-can-writers-do-to-fight-trump"]
 +++
 

@@ -12,6 +12,6 @@ name = "e-books"
 title = "e-books"
 is_column = false
 reviews = ""
-notes = ["notes/why-doesnt-amazon-add-support-for-drm-free-epub-ebooks?"]
+notes = ["notes/why-doesnt-amazon-add-support-for-drm-free-epub-ebooks"]
 +++
 

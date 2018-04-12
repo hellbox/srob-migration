@@ -10,5 +10,5 @@ last_updated = "2015-09-24T13:06:00-07:00"
 preview_url = "49e030a0-b913-c58a-d036-718c4b70295d"
 name = "Drawn and Quarterly"
 title = "Drawn and Quarterly"
-books_by_this_publisher = ["books/step-aside-pops", "books/mary-wept-over-the-feet-of-jesus", "books/was-she-pretty?", "books/hot-dog-taste-test", "books/mooncop", "books/rolling-blackouts", "books/fire!!-", "books/sticks-angelica-folk-hero"]
+books_by_this_publisher = ["books/step-aside-pops", "books/mary-wept-over-the-feet-of-jesus", "books/was-she-pretty", "books/hot-dog-taste-test", "books/mooncop", "books/rolling-blackouts", "books/fire!!-", "books/sticks-angelica-folk-hero"]
 +++

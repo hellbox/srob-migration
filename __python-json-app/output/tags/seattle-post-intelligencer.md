@@ -12,6 +12,6 @@ name = "Seattle Post-Intelligencer"
 title = "Seattle Post-Intelligencer"
 is_column = false
 reviews = ""
-notes = ["notes/seattle-writing-prompt-#1"]
+notes = ["notes/seattle-writing-prompt-1"]
 +++
 

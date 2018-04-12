@@ -12,6 +12,6 @@ name = "vice"
 title = "vice"
 is_column = false
 reviews = ""
-notes = ["notes/the-vice-paradox-how-do-you-attract-mass-audiences-while-pretending-youre-cooler-than-everyone-else?"]
+notes = ["notes/the-vice-paradox-how-do-you-attract-mass-audiences-while-pretending-youre-cooler-than-everyone-else"]
 +++
 

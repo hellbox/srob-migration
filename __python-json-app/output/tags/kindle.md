@@ -12,6 +12,6 @@ name = "kindle"
 title = "kindle"
 is_column = false
 reviews = ""
-notes = ["notes/book-news-roundup-celebrate-sherman-alexie-get-a-new-job-and-change-the-font-on-your-e-reader", "notes/why-doesnt-amazon-add-support-for-drm-free-epub-ebooks?", "notes/thursday-comics-hangover-jeff-bezos-destroyer-of-worlds"]
+notes = ["notes/book-news-roundup-celebrate-sherman-alexie-get-a-new-job-and-change-the-font-on-your-e-reader", "notes/why-doesnt-amazon-add-support-for-drm-free-epub-ebooks", "notes/thursday-comics-hangover-jeff-bezos-destroyer-of-worlds"]
 +++
 

@@ -12,6 +12,6 @@ name = "TSA"
 title = "TSA"
 is_column = false
 reviews = ""
-notes = ["notes/is-the-tsa-going-to-start-rifling-through-your-books-and-magazines?", "notes/book-news-roundup-the-fight-to-save-pepe"]
+notes = ["notes/is-the-tsa-going-to-start-rifling-through-your-books-and-magazines", "notes/book-news-roundup-the-fight-to-save-pepe"]
 +++
 

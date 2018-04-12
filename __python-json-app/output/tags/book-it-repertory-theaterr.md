@@ -12,6 +12,6 @@ name = "Book-It Repertory Theaterr"
 title = "Book-It Repertory Theaterr"
 is_column = false
 reviews = ""
-notes = ["notes/lit-crawl-itinerary-#3-readings-for-people-who-hate-readings"]
+notes = ["notes/lit-crawl-itinerary-3-readings-for-people-who-hate-readings"]
 +++
 

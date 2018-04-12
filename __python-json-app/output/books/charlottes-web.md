@@ -35,5 +35,5 @@ size = 12885
 review_relationship = ""
 author_relationship = ""
 sponsorships_book = ""
-notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad?"]
+notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad"]
 +++

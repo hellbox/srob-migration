@@ -35,5 +35,5 @@ size = 2505763
 review_relationship = ""
 author_relationship = ["authors/m-allen-cunningham"]
 sponsorships_book = ["sponsorships/funny-ass-thoreau"]
-notes_relationship = ["notes/waitwho-was-really-funny?-really?"]
+notes_relationship = ["notes/waitwho-was-really-funny-really"]
 +++

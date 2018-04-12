@@ -29,5 +29,5 @@ image = ""
 review_relationship = ""
 author_relationship = ""
 sponsorships_book = ""
-notes_relationship = ["notes/make-something-new-ye-nerds!", "notes/the-help-desk-are-adult-coloring-books-a-fad?"]
+notes_relationship = ["notes/make-something-new-ye-nerds!", "notes/the-help-desk-are-adult-coloring-books-a-fad"]
 +++

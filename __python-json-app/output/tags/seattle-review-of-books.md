@@ -12,6 +12,6 @@ name = "Seattle Review of Books"
 title = "Seattle Review of Books"
 is_column = false
 reviews = ""
-notes = ["notes/thanks-for-coming-out-last-night!", "notes/the-srob-on-good-old-tv", "notes/hugo-house-class-now-open-for-general-registration", "notes/of-hyphens-and-e-lectronics", "notes/the-state-of-the-site-year-one", "notes/the-seattle-review-of-books-is-coming-to-you-on-friday-night", "notes/the-seattle-review-of-books-wants-your-pitches", "notes/new-saturday-column", "notes/whatcha-reading-mattilda-bernstein-sycamore?"]
+notes = ["notes/thanks-for-coming-out-last-night!", "notes/the-srob-on-good-old-tv", "notes/hugo-house-class-now-open-for-general-registration", "notes/of-hyphens-and-e-lectronics", "notes/the-state-of-the-site-year-one", "notes/the-seattle-review-of-books-is-coming-to-you-on-friday-night", "notes/the-seattle-review-of-books-wants-your-pitches", "notes/new-saturday-column", "notes/whatcha-reading-mattilda-bernstein-sycamore"]
 +++
 

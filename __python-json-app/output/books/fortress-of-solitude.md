@@ -29,5 +29,5 @@ image = ""
 review_relationship = ""
 author_relationship = ""
 sponsorships_book = ""
-notes_relationship = ["notes/seattle-writing-prompt-#2-writing-the-city"]
+notes_relationship = ["notes/seattle-writing-prompt-2-writing-the-city"]
 +++

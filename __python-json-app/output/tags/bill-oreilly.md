@@ -12,6 +12,6 @@ name = "Bill O'Reilly"
 title = "Bill O'Reilly"
 is_column = false
 reviews = ""
-notes = ["notes/bill-oreilly-is-out-at-fox-news-what-about-his-career-as-a-bestselling-writer?"]
+notes = ["notes/bill-oreilly-is-out-at-fox-news-what-about-his-career-as-a-bestselling-writer"]
 +++
 

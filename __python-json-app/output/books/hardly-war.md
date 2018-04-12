@@ -35,5 +35,5 @@ size = 19521
 review_relationship = ["reviews/the-adverbs-of-war"]
 author_relationship = ["authors/don-mee-choi"]
 sponsorships_book = ""
-notes_relationship = ["notes/the-trouble-with-genius", "notes/event-of-the-week-a-night-with-wave-books-at-fred-wildlife-refuge", "notes/book-news-roundup-an-international-publishing-partnership-a-lannan-fellowship-and-#blacklivesmatter", "notes/what-you-need-to-do-for-literary-seattle-in-2017"]
+notes_relationship = ["notes/the-trouble-with-genius", "notes/event-of-the-week-a-night-with-wave-books-at-fred-wildlife-refuge", "notes/book-news-roundup-an-international-publishing-partnership-a-lannan-fellowship-and-blacklivesmatter", "notes/what-you-need-to-do-for-literary-seattle-in-2017"]
 +++

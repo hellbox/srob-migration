@@ -29,5 +29,5 @@ image = ""
 review_relationship = ""
 author_relationship = ""
 sponsorships_book = ""
-notes_relationship = ["notes/the-help-desk-a-cute-boy-only-reads-self-important-books-by-self-important-men-\u2014\u00a0what-do-i-do?"]
+notes_relationship = ["notes/the-help-desk-a-cute-boy-only-reads-self-important-books-by-self-important-men-\u2014\u00a0what-do-i-do"]
 +++

@@ -12,6 +12,6 @@ name = "Gary Herbert"
 title = "Gary Herbert"
 is_column = false
 reviews = ""
-notes = ["notes/the-help-desk-are-we-pro-or-con-when-it-comes-to-sexy-librarian-porn?"]
+notes = ["notes/the-help-desk-are-we-pro-or-con-when-it-comes-to-sexy-librarian-porn"]
 +++
 

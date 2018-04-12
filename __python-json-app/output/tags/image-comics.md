@@ -12,6 +12,6 @@ name = "Image Comics"
 title = "Image Comics"
 is_column = false
 reviews = ""
-notes = ["notes/thursday-comics-hangover-los-angeles-is-a-magical-place", "notes/image-expo-comes-to-emerald-city-comicon", "notes/thursday-comics-hangover-the-fix-is-in", "notes/thursday-comics-hangover-class-war-is-hell", "notes/thursday-comics-hangover-money-is-power", "notes/thursday-comics-hangover-can-you-top-this?"]
+notes = ["notes/thursday-comics-hangover-los-angeles-is-a-magical-place", "notes/image-expo-comes-to-emerald-city-comicon", "notes/thursday-comics-hangover-the-fix-is-in", "notes/thursday-comics-hangover-class-war-is-hell", "notes/thursday-comics-hangover-money-is-power", "notes/thursday-comics-hangover-can-you-top-this"]
 +++
 

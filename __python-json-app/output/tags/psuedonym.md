@@ -12,6 +12,6 @@ name = "psuedonym"
 title = "psuedonym"
 is_column = false
 reviews = ""
-notes = ["notes/did-thomas-pynchon-really-write-a-pseudonymous-novel-about-a-community-college-in-the-middle-of-nowhere?"]
+notes = ["notes/did-thomas-pynchon-really-write-a-pseudonymous-novel-about-a-community-college-in-the-middle-of-nowhere"]
 +++
 

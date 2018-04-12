@@ -12,6 +12,6 @@ name = "Prince"
 title = "Prince"
 is_column = false
 reviews = ""
-notes = ["notes/book-news-roundup-who-wouldnt-read-a-prince-memoir?", "notes/prince-has-died-long-live-prince"]
+notes = ["notes/book-news-roundup-who-wouldnt-read-a-prince-memoir", "notes/prince-has-died-long-live-prince"]
 +++
 

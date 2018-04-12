@@ -12,6 +12,6 @@ name = "Mein Kampf"
 title = "Mein Kampf"
 is_column = false
 reviews = ""
-notes = ["notes/its-a-hit(ler)", "notes/adam-gopnik-reviews-mein-kampf", "notes/book-news-roundup-what-does-nancy-pearls-ice-cream-taste-like?"]
+notes = ["notes/its-a-hit(ler)", "notes/adam-gopnik-reviews-mein-kampf", "notes/book-news-roundup-what-does-nancy-pearls-ice-cream-taste-like"]
 +++
 

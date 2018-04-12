@@ -12,6 +12,6 @@ name = "Diversity Editor Reports"
 title = "Diversity Editor Reports"
 is_column = false
 reviews = ""
-notes = ["notes/public-diversity-editor-report-#1-september-2016", "notes/our-response-to-the-public-diversity-editor-report-#1-september-2016"]
+notes = ["notes/public-diversity-editor-report-1-september-2016", "notes/our-response-to-the-public-diversity-editor-report-1-september-2016"]
 +++
 

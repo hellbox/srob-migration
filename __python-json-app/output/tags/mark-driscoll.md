@@ -12,6 +12,6 @@ name = "Mark Driscoll"
 title = "Mark Driscoll"
 is_column = false
 reviews = ""
-notes = ["notes/did-ted-cruz-manipulate-the-bestseller-list?", "notes/the-help-desk-does-dog-earing-make-me-an-infidel?"]
+notes = ["notes/did-ted-cruz-manipulate-the-bestseller-list", "notes/the-help-desk-does-dog-earing-make-me-an-infidel"]
 +++
 

@@ -12,6 +12,6 @@ name = "Copper Canyon Press"
 title = "Copper Canyon Press"
 is_column = false
 reviews = ""
-notes = ["notes/new-ruda", "notes/was-pablo-neruda-murdered?", "notes/your-week-in-readings-the-best-literary-events-from-december-14th---20th", "notes/the-essential-ws-merwin---kickstarter-fund-project-#44"]
+notes = ["notes/new-ruda", "notes/was-pablo-neruda-murdered", "notes/your-week-in-readings-the-best-literary-events-from-december-14th---20th", "notes/the-essential-ws-merwin---kickstarter-fund-project-44"]
 +++
 

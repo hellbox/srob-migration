@@ -35,5 +35,5 @@ size = 477233
 review_relationship = ["reviews/the-perpetual-naked-lunch-of-starvation-mode"]
 author_relationship = ["authors/elissa-washuta"]
 sponsorships_book = ""
-notes_relationship = ["notes/lit-crawl-itinerary-#1-meet-the-new-publishers", "notes/sometimes-our-writers-go-east", "notes/elissa-washuta-is-your-first-fremont-bridge-writer-in-residence", "notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award"]
+notes_relationship = ["notes/lit-crawl-itinerary-1-meet-the-new-publishers", "notes/sometimes-our-writers-go-east", "notes/elissa-washuta-is-your-first-fremont-bridge-writer-in-residence", "notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award"]
 +++

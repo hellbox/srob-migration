@@ -12,6 +12,6 @@ name = "education"
 title = "education"
 is_column = false
 reviews = ""
-notes = ["notes/book-news-roundup-the-huge-success-of-#1000blackgirlsbooks"]
+notes = ["notes/book-news-roundup-the-huge-success-of-1000blackgirlsbooks"]
 +++
 

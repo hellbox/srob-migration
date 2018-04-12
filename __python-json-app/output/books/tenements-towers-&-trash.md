@@ -35,5 +35,5 @@ size = 7629
 review_relationship = ["reviews/a-city-of-one"]
 author_relationship = ["authors/julia-wertz"]
 sponsorships_book = ""
-notes_relationship = ["notes/getting-ready-for-short-run?-read-our-coverage-first!"]
+notes_relationship = ["notes/getting-ready-for-short-run-read-our-coverage-first!"]
 +++

@@ -12,6 +12,6 @@ name = "Nancy Pearl"
 title = "Nancy Pearl"
 is_column = false
 reviews = ""
-notes = ["notes/book-news-roundup-what-does-nancy-pearls-ice-cream-taste-like?"]
+notes = ["notes/book-news-roundup-what-does-nancy-pearls-ice-cream-taste-like"]
 +++
 

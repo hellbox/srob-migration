@@ -12,6 +12,6 @@ name = "science"
 title = "science"
 is_column = false
 reviews = ["reviews/rational-exuberance"]
-notes = ["notes/tomorrow-never-dies", "notes/are-readers-of-literary-fiction-more-empathetic-than-readers-of-commercial-fiction?", "notes/the-best-way-to-announce-the-discovery-of-new-planets-poetry"]
+notes = ["notes/tomorrow-never-dies", "notes/are-readers-of-literary-fiction-more-empathetic-than-readers-of-commercial-fiction", "notes/the-best-way-to-announce-the-discovery-of-new-planets-poetry"]
 +++
 

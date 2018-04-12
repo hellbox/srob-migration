@@ -12,6 +12,6 @@ name = "illiteracy"
 title = "illiteracy"
 is_column = false
 reviews = ""
-notes = ["notes/the-help-desk-is-we-getting-more-illiterater?"]
+notes = ["notes/the-help-desk-is-we-getting-more-illiterater"]
 +++
 

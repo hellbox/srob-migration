@@ -12,6 +12,6 @@ name = "University of Washington Press"
 title = "University of Washington Press"
 is_column = false
 reviews = ""
-notes = ["notes/book-news-roundup-wait-how-many-amazon-books-are-opening?", "notes/book-news-roundup-uw-press-is-hiring-wide-world-books-&-maps-considers-its-future", "notes/today-in-opportunities-get-a-project-based-grant-or-work-for-university-of-washington-press"]
+notes = ["notes/book-news-roundup-wait-how-many-amazon-books-are-opening", "notes/book-news-roundup-uw-press-is-hiring-wide-world-books-&-maps-considers-its-future", "notes/today-in-opportunities-get-a-project-based-grant-or-work-for-university-of-washington-press"]
 +++
 

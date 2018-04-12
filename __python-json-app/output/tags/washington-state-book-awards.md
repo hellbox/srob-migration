@@ -12,6 +12,6 @@ name = "Washington State Book Awards"
 title = "Washington State Book Awards"
 is_column = false
 reviews = ""
-notes = ["notes/the-washington-state-book-awards-winners-share-something-in-common", "notes/book-news-roundup-open-books-reopens-this-saturday!", "notes/why-does-carl-phillips-need-the-washington-state-book-award?", "notes/sharma-shields-erik-larson-jessixa-bagley-win-at-washington-state-book-awards", "notes/letters-to-the-editor-more-on-the-washington-state-book-awards", "notes/here-are-the-winners-of-the-2017-washington-state-book-awards", "notes/book-news-roundup-a-king-of-joy-a-book-bunker-and-a-chance-to-win-a-washington-state-book-award"]
+notes = ["notes/the-washington-state-book-awards-winners-share-something-in-common", "notes/book-news-roundup-open-books-reopens-this-saturday!", "notes/why-does-carl-phillips-need-the-washington-state-book-award", "notes/sharma-shields-erik-larson-jessixa-bagley-win-at-washington-state-book-awards", "notes/letters-to-the-editor-more-on-the-washington-state-book-awards", "notes/here-are-the-winners-of-the-2017-washington-state-book-awards", "notes/book-news-roundup-a-king-of-joy-a-book-bunker-and-a-chance-to-win-a-washington-state-book-award"]
 +++
 

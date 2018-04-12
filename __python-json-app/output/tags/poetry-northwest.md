@@ -12,6 +12,6 @@ name = "Poetry Northwest"
 title = "Poetry Northwest"
 is_column = false
 reviews = ""
-notes = ["notes/lit-crawl-itinerary-#-2-meet-the-poets", "notes/poetry-northwest-announces-new-editors-a-new-publishing-imprint", "notes/literary-event-of-the-week-kevin-craft-at-open-books", "notes/literary-event-of-the-week-the-cascadia-poetry-festival-", "notes/poetry-northwest-launches-the-joan-swift-memorial-prize-for-women-poets-over-the-age-of-65", "notes/talking-with-kevin-craft-about-finding-substance-and-meaning-in-poetry-when-the-worlds-gone-mad"]
+notes = ["notes/lit-crawl-itinerary--2-meet-the-poets", "notes/poetry-northwest-announces-new-editors-a-new-publishing-imprint", "notes/literary-event-of-the-week-kevin-craft-at-open-books", "notes/literary-event-of-the-week-the-cascadia-poetry-festival-", "notes/poetry-northwest-launches-the-joan-swift-memorial-prize-for-women-poets-over-the-age-of-65", "notes/talking-with-kevin-craft-about-finding-substance-and-meaning-in-poetry-when-the-worlds-gone-mad"]
 +++
 

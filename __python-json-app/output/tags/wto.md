@@ -11,7 +11,7 @@ preview_url = "d639cbb1-d084-8597-707b-57f14d7ca20a"
 name = "WTO"
 title = "WTO"
 is_column = false
-reviews = ["reviews/whose-streets?-our-streets!"]
+reviews = ["reviews/whose-streets-our-streets!"]
 notes = ""
 +++
 

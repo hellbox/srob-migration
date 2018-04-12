@@ -12,6 +12,6 @@ name = "Third Place Books Ravenna"
 title = "Third Place Books Ravenna"
 is_column = false
 reviews = ""
-notes = ["notes/your-week-in-readings-the-best-literary-events-from-the-week-of-august-31---september-6", "notes/a-little-selfishness-before-the-giving-starts", "notes/the-algorithm-method", "notes/holiday-gift-book-recommendation-#1-thing-explainer", "notes/not-a-drone", "notes/event-of-the-week-third-place-books-seward-park-grand-opening-", "notes/christina-from-ravenna-third-place-books-recommends-your-next-summer-read", "notes/psa-third-place-books-is-having-their-big-used-book-sale-this-weekend", "notes/our-independent-bookstore-day-in-photos"]
+notes = ["notes/your-week-in-readings-the-best-literary-events-from-the-week-of-august-31---september-6", "notes/a-little-selfishness-before-the-giving-starts", "notes/the-algorithm-method", "notes/holiday-gift-book-recommendation-1-thing-explainer", "notes/not-a-drone", "notes/event-of-the-week-third-place-books-seward-park-grand-opening-", "notes/christina-from-ravenna-third-place-books-recommends-your-next-summer-read", "notes/psa-third-place-books-is-having-their-big-used-book-sale-this-weekend", "notes/our-independent-bookstore-day-in-photos"]
 +++
 

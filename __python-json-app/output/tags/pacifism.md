@@ -12,6 +12,6 @@ name = "Pacifism"
 title = "Pacifism"
 is_column = false
 reviews = ""
-notes = ["notes/the-help-desk-how-should-a-pacifist-book-lover-protest-amazons-bookstore?"]
+notes = ["notes/the-help-desk-how-should-a-pacifist-book-lover-protest-amazons-bookstore"]
 +++
 

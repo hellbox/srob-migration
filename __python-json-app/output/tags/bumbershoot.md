@@ -12,6 +12,6 @@ name = "Bumbershoot"
 title = "Bumbershoot"
 is_column = false
 reviews = ""
-notes = ["notes/the-seattle-review-of-books-is-coming-to-bumbershoot!", "notes/literary-event-of-the-week-celebrate-the-literary-arts-at-bumbershoot-", "notes/talking-with-jon-raymond-about-freebird-regional-writing-and-his-seattle-reading-curse", "notes/is-the-stranger-running-a-contest-where-winners-cover-bumbershoot-as-unpaid-marketers?", "notes/why-wont-the-stranger-pay-a-young-writer-for-their-work?", "notes/your-week-in-readings-the-best-literary-events-from-august-30---september-5th", "notes/literary-event-of-the-week-bumbershoot"]
+notes = ["notes/the-seattle-review-of-books-is-coming-to-bumbershoot!", "notes/literary-event-of-the-week-celebrate-the-literary-arts-at-bumbershoot-", "notes/talking-with-jon-raymond-about-freebird-regional-writing-and-his-seattle-reading-curse", "notes/is-the-stranger-running-a-contest-where-winners-cover-bumbershoot-as-unpaid-marketers", "notes/why-wont-the-stranger-pay-a-young-writer-for-their-work", "notes/your-week-in-readings-the-best-literary-events-from-august-30---september-5th", "notes/literary-event-of-the-week-bumbershoot"]
 +++
 

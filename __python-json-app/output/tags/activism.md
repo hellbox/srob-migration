@@ -12,6 +12,6 @@ name = "activism"
 title = "activism"
 is_column = false
 reviews = ["reviews/how-nick-licata-won-seattle-politics"]
-notes = ["notes/book-news-roundup-have-you-read-sherman-alexies-viral-poem-about-passports?"]
+notes = ["notes/book-news-roundup-have-you-read-sherman-alexies-viral-poem-about-passports"]
 +++
 

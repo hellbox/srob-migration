@@ -35,5 +35,5 @@ size = 1945985
 review_relationship = ["reviews/caught-after-dark-in-lovecraft-country"]
 author_relationship = ["authors/matt-ruff"]
 sponsorships_book = ""
-notes_relationship = ["notes/talking-with-matt-ruff-about-science-fictions-racist-past", "notes/book-news-roundup-where-will-amazon-open-their-next-bookstore?", "notes/bad-monkeys-optioned-for-film", "notes/what-you-need-to-do-for-literary-seattle-in-2017", "notes/go-ask-matt-ruff-anything", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st", "notes/jordan-peele-signs-on-to-produce-matt-ruffs-lovecraft-country-as-a-tv-series", "notes/2017-washington-state-book-awards-finalists-announced"]
+notes_relationship = ["notes/talking-with-matt-ruff-about-science-fictions-racist-past", "notes/book-news-roundup-where-will-amazon-open-their-next-bookstore", "notes/bad-monkeys-optioned-for-film", "notes/what-you-need-to-do-for-literary-seattle-in-2017", "notes/go-ask-matt-ruff-anything", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st", "notes/jordan-peele-signs-on-to-produce-matt-ruffs-lovecraft-country-as-a-tv-series", "notes/2017-washington-state-book-awards-finalists-announced"]
 +++

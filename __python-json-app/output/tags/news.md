@@ -12,6 +12,6 @@ name = "news"
 title = "news"
 is_column = false
 reviews = ""
-notes = ["notes/the-srob-on-good-old-tv", "notes/maybe-dont-vandalize-bookstores?"]
+notes = ["notes/the-srob-on-good-old-tv", "notes/maybe-dont-vandalize-bookstores"]
 +++
 

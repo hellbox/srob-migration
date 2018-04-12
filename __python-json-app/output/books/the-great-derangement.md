@@ -32,7 +32,7 @@ width = 225
 type = "image/jpeg"
 size = 30530
 
-review_relationship = ["reviews/why-cant-literature-deal-with-climate-change?"]
+review_relationship = ["reviews/why-cant-literature-deal-with-climate-change"]
 author_relationship = ["authors/amitav-ghosh"]
 sponsorships_book = ""
 notes_relationship = ""

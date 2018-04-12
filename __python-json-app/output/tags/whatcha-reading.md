@@ -12,6 +12,6 @@ name = "Whatcha Reading"
 title = "Whatcha Reading"
 is_column = true
 reviews = ""
-notes = ["notes/whatcha-reading-cat-rambo?", "notes/whatcha-reading-kevin-craft?", "notes/whatcha-reading-leni-zumas?", "notes/whatcha-reading-donna-miscolta?", "notes/whatcha-reading-lauren-cerand?", "notes/whatcha-reading-dawn-mccarra-bass?", "notes/whatcha-reading-alix-christie?", "notes/whatcha-reading-paige-embry?", "notes/whatcha-reading-rufi-thorpe?", "notes/whatcha-reading-maris-kreizman?", "notes/whatcha-reading-kory-stamper?", "notes/whatcha-reading-jennifer-haupt?", "notes/whatcha-reading-jonathan-evison?"]
+notes = ["notes/whatcha-reading-cat-rambo", "notes/whatcha-reading-kevin-craft", "notes/whatcha-reading-leni-zumas", "notes/whatcha-reading-donna-miscolta", "notes/whatcha-reading-lauren-cerand", "notes/whatcha-reading-dawn-mccarra-bass", "notes/whatcha-reading-alix-christie", "notes/whatcha-reading-paige-embry", "notes/whatcha-reading-rufi-thorpe", "notes/whatcha-reading-maris-kreizman", "notes/whatcha-reading-kory-stamper", "notes/whatcha-reading-jennifer-haupt", "notes/whatcha-reading-jonathan-evison"]
 +++
 

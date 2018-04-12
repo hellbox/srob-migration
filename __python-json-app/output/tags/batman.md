@@ -12,6 +12,6 @@ name = "Batman"
 title = "Batman"
 is_column = false
 reviews = ""
-notes = ["notes/thursday-comics-hangover-super-weird", "notes/thursday-comics-hangover-are-you-a-batman-person-or-a-superman-person?"]
+notes = ["notes/thursday-comics-hangover-super-weird", "notes/thursday-comics-hangover-are-you-a-batman-person-or-a-superman-person"]
 +++
 

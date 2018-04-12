@@ -32,7 +32,7 @@ width = 128
 type = "application/octet-stream"
 size = 30153
 
-review_relationship = ["reviews/whose-streets?-our-streets!"]
+review_relationship = ["reviews/whose-streets-our-streets!"]
 author_relationship = ["authors/sunil-yapa"]
 sponsorships_book = ""
 notes_relationship = ""

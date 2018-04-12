@@ -32,7 +32,7 @@ width = 324
 type = "image/jpeg"
 size = 52521
 
-review_relationship = ["reviews/who-gawks-at-the-gawkers?"]
+review_relationship = ["reviews/who-gawks-at-the-gawkers"]
 author_relationship = ["authors/brian-abrams"]
 sponsorships_book = ""
 notes_relationship = ""

@@ -12,6 +12,6 @@ name = "ISIS"
 title = "ISIS"
 is_column = false
 reviews = ""
-notes = ["notes/maybe-dont-vandalize-bookstores?"]
+notes = ["notes/maybe-dont-vandalize-bookstores"]
 +++
 

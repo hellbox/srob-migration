@@ -12,6 +12,6 @@ name = "Office of Arts and Culture"
 title = "Office of Arts and Culture"
 is_column = false
 reviews = ""
-notes = ["notes/the-fremont-bridge-is-seeking-a-writer-in-residence", "notes/book-news-roundup-special-all-good-news-edition", "notes/book-news-roundup-looking-for-work?", "notes/book-news-roundup-nominate-your-favorite-seattle-writer-for-the-mayors-arts-awards"]
+notes = ["notes/the-fremont-bridge-is-seeking-a-writer-in-residence", "notes/book-news-roundup-special-all-good-news-edition", "notes/book-news-roundup-looking-for-work", "notes/book-news-roundup-nominate-your-favorite-seattle-writer-for-the-mayors-arts-awards"]
 +++
 

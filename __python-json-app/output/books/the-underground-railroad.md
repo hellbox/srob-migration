@@ -35,5 +35,5 @@ size = 61788
 review_relationship = ["reviews/american-odyssey"]
 author_relationship = ["authors/colson-whitehead"]
 sponsorships_book = ""
-notes_relationship = ["notes/this-years-pulitzer-prizes-were-exactly-right", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel?"]
+notes_relationship = ["notes/this-years-pulitzer-prizes-were-exactly-right", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel"]
 +++

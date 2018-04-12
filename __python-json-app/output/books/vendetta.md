@@ -32,7 +32,7 @@ width = 258
 type = "image/jpeg"
 size = 18375
 
-review_relationship = ["reviews/whats-one-more-american-death-give-or-take?"]
+review_relationship = ["reviews/whats-one-more-american-death-give-or-take"]
 author_relationship = ["authors/james-neff"]
 sponsorships_book = ""
 notes_relationship = ["notes/you-wont-ever-meet-bill-clinton-on-amazoncom"]

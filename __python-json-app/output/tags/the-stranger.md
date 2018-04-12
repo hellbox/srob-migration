@@ -12,6 +12,6 @@ name = "The Stranger"
 title = "The Stranger"
 is_column = false
 reviews = ["reviews/punk-snot-dead"]
-notes = ["notes/talking-with-lindy-west-about-fantasy-novels-deadlines-and-why-seattle-is-her-home", "notes/is-the-stranger-running-a-contest-where-winners-cover-bumbershoot-as-unpaid-marketers?", "notes/why-wont-the-stranger-pay-a-young-writer-for-their-work?"]
+notes = ["notes/talking-with-lindy-west-about-fantasy-novels-deadlines-and-why-seattle-is-her-home", "notes/is-the-stranger-running-a-contest-where-winners-cover-bumbershoot-as-unpaid-marketers", "notes/why-wont-the-stranger-pay-a-young-writer-for-their-work"]
 +++
 

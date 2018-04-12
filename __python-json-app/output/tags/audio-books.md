@@ -12,6 +12,6 @@ name = "Audio books"
 title = "Audio books"
 is_column = false
 reviews = ["reviews/with-a-single-step"]
-notes = ["notes/whatd-you-say-bernadette?", "notes/you-dont-have-to-buy-audio-books-from-giant-online-retailers", "notes/finally-a-way-to-support-independent-bookstores-while-listening-to-audiobooks!", "notes/sour-grapes", "notes/in-the-recording-studio-with-sherman-alexie"]
+notes = ["notes/whatd-you-say-bernadette", "notes/you-dont-have-to-buy-audio-books-from-giant-online-retailers", "notes/finally-a-way-to-support-independent-bookstores-while-listening-to-audiobooks!", "notes/sour-grapes", "notes/in-the-recording-studio-with-sherman-alexie"]
 +++
 

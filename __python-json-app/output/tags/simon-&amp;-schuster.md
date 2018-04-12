@@ -12,6 +12,6 @@ name = "Simon &amp; Schuster"
 title = "Simon &amp; Schuster"
 is_column = false
 reviews = ""
-notes = ["notes/simon-and-schuster-gives-a-quarter-million-dollars-to-white-supremacist-troll", "notes/publisher-issues-unsatisfying-letter-to-justify-publishing-a-book-by-milo-yiannopoulos", "notes/simon-&-schuster-finally-cancels-dangerous-by-milo-yiannopoulos", "notes/so-wait-did-milo-yiannopoulos-get-to-keep-the-money-from-his-book-deal?", "notes/milo-yiannopoulos-sued-simon-and-schuster-for-ten-million-dollars"]
+notes = ["notes/simon-and-schuster-gives-a-quarter-million-dollars-to-white-supremacist-troll", "notes/publisher-issues-unsatisfying-letter-to-justify-publishing-a-book-by-milo-yiannopoulos", "notes/simon-&-schuster-finally-cancels-dangerous-by-milo-yiannopoulos", "notes/so-wait-did-milo-yiannopoulos-get-to-keep-the-money-from-his-book-deal", "notes/milo-yiannopoulos-sued-simon-and-schuster-for-ten-million-dollars"]
 +++
 

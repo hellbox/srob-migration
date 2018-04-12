@@ -12,6 +12,6 @@ name = "Ted Cruz"
 title = "Ted Cruz"
 is_column = false
 reviews = ""
-notes = ["notes/did-ted-cruz-manipulate-the-bestseller-list?", "notes/the-ayn-rand-parody-candidate-likes-the-ayn-rand-parody-superhero"]
+notes = ["notes/did-ted-cruz-manipulate-the-bestseller-list", "notes/the-ayn-rand-parody-candidate-likes-the-ayn-rand-parody-superhero"]
 +++
 

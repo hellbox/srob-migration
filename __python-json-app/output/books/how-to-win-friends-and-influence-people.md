@@ -29,5 +29,5 @@ image = ""
 review_relationship = ""
 author_relationship = ""
 sponsorships_book = ""
-notes_relationship = ["notes/the-help-desk-introducing-our-new-literary-advice-column", "notes/the-help-desk-my-bookish-friend-drinks-too-much-can-books-save-him?"]
+notes_relationship = ["notes/the-help-desk-introducing-our-new-literary-advice-column", "notes/the-help-desk-my-bookish-friend-drinks-too-much-can-books-save-him"]
 +++

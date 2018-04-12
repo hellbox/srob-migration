@@ -12,6 +12,6 @@ name = "music"
 title = "music"
 is_column = false
 reviews = ["reviews/punk-snot-dead", "reviews/this-machine-kills-_______ists", "reviews/choose-your-own-year-in-reading"]
-notes = ["notes/they\u2019re-not-even-juicy-mistakes-mostly-just-blunders-involving-parenting-money-and-eyelid-tattoos", "notes/is-music-literature?-"]
+notes = ["notes/they\u2019re-not-even-juicy-mistakes-mostly-just-blunders-involving-parenting-money-and-eyelid-tattoos", "notes/is-music-literature-"]
 +++
 

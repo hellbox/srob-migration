@@ -35,5 +35,5 @@ size = 1058438
 review_relationship = ["reviews/the-seattle-globalist", "reviews/strange-bedfellows"]
 author_relationship = ["authors/maged-zaher"]
 sponsorships_book = ""
-notes_relationship = ["notes/where-can-you-get-maged-zahers-new-book?"]
+notes_relationship = ["notes/where-can-you-get-maged-zahers-new-book"]
 +++

@@ -12,6 +12,6 @@ name = "BEA"
 title = "BEA"
 is_column = false
 reviews = ""
-notes = ["notes/how-much-does-an-e-cost?"]
+notes = ["notes/how-much-does-an-e-cost"]
 +++
 

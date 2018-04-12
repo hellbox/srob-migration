@@ -12,6 +12,6 @@ name = "Future of books"
 title = "Future of books"
 is_column = false
 reviews = ""
-notes = ["notes/codex-hackathon-is-coming-up-in-cambridge-ma-this-weekend", "notes/technology-killed-bookstore-chains-can-technology-save-indie-bookstores?", "notes/book-news-roundup-fair-trade-ebooks-jeffrey-tambor-in-seattle-and-writing-tips-from-kafka", "notes/for-colleen-louise-barry-mount-analogue-is-the-future-of-books"]
+notes = ["notes/codex-hackathon-is-coming-up-in-cambridge-ma-this-weekend", "notes/technology-killed-bookstore-chains-can-technology-save-indie-bookstores", "notes/book-news-roundup-fair-trade-ebooks-jeffrey-tambor-in-seattle-and-writing-tips-from-kafka", "notes/for-colleen-louise-barry-mount-analogue-is-the-future-of-books"]
 +++
 

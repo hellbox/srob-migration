@@ -12,6 +12,6 @@ name = "Shakespeare"
 title = "Shakespeare"
 is_column = false
 reviews = ""
-notes = ["notes/putting-on-a-shakespeare-play?-the-language-should-be-the-boss"]
+notes = ["notes/putting-on-a-shakespeare-play-the-language-should-be-the-boss"]
 +++
 

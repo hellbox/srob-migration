@@ -35,5 +35,5 @@ size = 9516
 review_relationship = ["reviews/adventures-in-the-third-dimension"]
 author_relationship = ["authors/mita-mahato"]
 sponsorships_book = ""
-notes_relationship = ["notes/getting-ready-for-short-run?-read-our-coverage-first!"]
+notes_relationship = ["notes/getting-ready-for-short-run-read-our-coverage-first!"]
 +++

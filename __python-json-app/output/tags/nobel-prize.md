@@ -12,6 +12,6 @@ name = "Nobel Prize"
 title = "Nobel Prize"
 is_column = false
 reviews = ""
-notes = ["notes/svetlana-alexievich-wins-nobel-prize-in-literature", "notes/youll-have-to-wait-a-little-longer-to-find-out-who-won-the-nobel-prize-for-literature-this-year", "notes/bob-dylan-wins-2016-nobel-prize-for-literature", "notes/is-music-literature?-", "notes/kazuo-ishiguro-wins-nobel-prize-for-literature"]
+notes = ["notes/svetlana-alexievich-wins-nobel-prize-in-literature", "notes/youll-have-to-wait-a-little-longer-to-find-out-who-won-the-nobel-prize-for-literature-this-year", "notes/bob-dylan-wins-2016-nobel-prize-for-literature", "notes/is-music-literature-", "notes/kazuo-ishiguro-wins-nobel-prize-for-literature"]
 +++
 

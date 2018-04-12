@@ -35,5 +35,5 @@ size = 38136
 review_relationship = ["reviews/youll-laugh-youll-cry"]
 author_relationship = ["authors/patricia-lockwood"]
 sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels?"]
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels"]
 +++

@@ -15,7 +15,7 @@ with open('srob-firebase.json') as json_data:
 
 
 def sanitizestring( string):
-    bug = string.replace(' ', '-').replace('.','').replace(':','').replace('\'','').replace('/','--').replace(',','').replace('\"','').lower()
+    bug = string.replace(' ', '-').replace('.','').replace(':','').replace('\'','').replace('/','--').replace(',','').replace('\"','').replace('#','').replace('?','').lower()
     return bug
 
 # A function to find linked titles and return their real names for better linking

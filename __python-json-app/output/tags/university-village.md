@@ -12,6 +12,6 @@ name = "University Village"
 title = "University Village"
 is_column = false
 reviews = ""
-notes = ["notes/geekwire-publishes-blueprints-of-the-(amazon?)-bookstore-opening-at-university-village", "notes/university-book-store-warns-of-sales-impact-from-amazon-books"]
+notes = ["notes/geekwire-publishes-blueprints-of-the-(amazon)-bookstore-opening-at-university-village", "notes/university-book-store-warns-of-sales-impact-from-amazon-books"]
 +++
 

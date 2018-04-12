@@ -12,6 +12,6 @@ name = "Cheap Wine &amp; Poetry"
 title = "Cheap Wine &amp; Poetry"
 is_column = false
 reviews = ""
-notes = ["notes/lit-crawl-itinerary-#-2-meet-the-poets", "notes/ghost-tokens-inumbrating-pinnacle-is-a-seven-day-literary-event-in-seattle-center", "notes/book-news-roundup-cheap-wine-&-poetry-the-lulu-fund-and-anonymous-targets-a-bookstore"]
+notes = ["notes/lit-crawl-itinerary--2-meet-the-poets", "notes/ghost-tokens-inumbrating-pinnacle-is-a-seven-day-literary-event-in-seattle-center", "notes/book-news-roundup-cheap-wine-&-poetry-the-lulu-fund-and-anonymous-targets-a-bookstore"]
 +++
 

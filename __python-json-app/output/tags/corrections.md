@@ -12,6 +12,6 @@ name = "Corrections"
 title = "Corrections"
 is_column = false
 reviews = ""
-notes = ["notes/a-correction-on-an-earlier-post", "notes/brad-pitt-or-matt-dillon?-michelle-tea-has-opinions"]
+notes = ["notes/a-correction-on-an-earlier-post", "notes/brad-pitt-or-matt-dillon-michelle-tea-has-opinions"]
 +++
 

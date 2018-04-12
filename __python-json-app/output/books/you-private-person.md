@@ -35,5 +35,5 @@ size = 471648
 review_relationship = ["reviews/the-second-coming"]
 author_relationship = ["authors/richard-chiem"]
 sponsorships_book = ""
-notes_relationship = ["notes/looking-for-a-holiday-gift-book?-richard-chiem-recommends-the-passion-according-to-gh", "notes/book-news-roundup-a-king-of-joy-a-book-bunker-and-a-chance-to-win-a-washington-state-book-award"]
+notes_relationship = ["notes/looking-for-a-holiday-gift-book-richard-chiem-recommends-the-passion-according-to-gh", "notes/book-news-roundup-a-king-of-joy-a-book-bunker-and-a-chance-to-win-a-washington-state-book-award"]
 +++

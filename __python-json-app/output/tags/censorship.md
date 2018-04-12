@@ -12,6 +12,6 @@ name = "censorship"
 title = "censorship"
 is_column = false
 reviews = ""
-notes = ["notes/poll-americans-pretty-okay-with-banning-books", "notes/anti-censorship-group-alarmed-by-decision-to-pull-a-birthday-cake-for-george-washington", "notes/i-suppose-this-is-a-kind-of-honor", "notes/book-news-roundup-neal-stephenson-is-going-to-the-movies", "notes/how-do-you-know-what-to-censor?"]
+notes = ["notes/poll-americans-pretty-okay-with-banning-books", "notes/anti-censorship-group-alarmed-by-decision-to-pull-a-birthday-cake-for-george-washington", "notes/i-suppose-this-is-a-kind-of-honor", "notes/book-news-roundup-neal-stephenson-is-going-to-the-movies", "notes/how-do-you-know-what-to-censor"]
 +++
 

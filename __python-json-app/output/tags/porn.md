@@ -12,6 +12,6 @@ name = "porn"
 title = "porn"
 is_column = false
 reviews = ""
-notes = ["notes/the-help-desk-are-we-pro-or-con-when-it-comes-to-sexy-librarian-porn?", "notes/the-help-desk-not-your-porn?-not-your-problem"]
+notes = ["notes/the-help-desk-are-we-pro-or-con-when-it-comes-to-sexy-librarian-porn", "notes/the-help-desk-not-your-porn-not-your-problem"]
 +++
 

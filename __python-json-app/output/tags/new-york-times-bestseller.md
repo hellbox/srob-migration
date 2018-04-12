@@ -12,6 +12,6 @@ name = "New York Times bestseller"
 title = "New York Times bestseller"
 is_column = false
 reviews = ""
-notes = ["notes/did-ted-cruz-manipulate-the-bestseller-list?", "notes/the-new-york-times-bestseller-list-is-getting-downsized", "notes/book-news-roundup-special-fall-of-the-bestseller-list-edition"]
+notes = ["notes/did-ted-cruz-manipulate-the-bestseller-list", "notes/the-new-york-times-bestseller-list-is-getting-downsized", "notes/book-news-roundup-special-fall-of-the-bestseller-list-edition"]
 +++
 

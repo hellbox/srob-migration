@@ -12,6 +12,6 @@ name = "marijuana"
 title = "marijuana"
 is_column = false
 reviews = ["reviews/please-note-that-we-didnt-publish-this-review-at-420"]
-notes = ["notes/the-help-desk-is-it-even-possible-to-read-while-high?", "notes/everybody-is-dying-so-you-shouldn\u2019t-waste-people\u2019s-time", "notes/book-news-roundup-this-book-smells-awfully-skunky"]
+notes = ["notes/the-help-desk-is-it-even-possible-to-read-while-high", "notes/everybody-is-dying-so-you-shouldn\u2019t-waste-people\u2019s-time", "notes/book-news-roundup-this-book-smells-awfully-skunky"]
 +++
 

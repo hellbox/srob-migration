@@ -12,6 +12,6 @@ name = "literature"
 title = "literature"
 is_column = false
 reviews = ""
-notes = ["notes/is-music-literature?-"]
+notes = ["notes/is-music-literature-"]
 +++
 

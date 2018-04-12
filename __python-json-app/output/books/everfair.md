@@ -35,5 +35,5 @@ size = 13890
 review_relationship = ["reviews/everfair-in-love-and-war"]
 author_relationship = ["authors/nisi-shawl"]
 sponsorships_book = ""
-notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st", "notes/portrait-gallery-nisi-shawl", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel?", "notes/looking-for-optimistic-sci-fi?-head-to-the-multiplexes"]
+notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st", "notes/portrait-gallery-nisi-shawl", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel", "notes/looking-for-optimistic-sci-fi-head-to-the-multiplexes"]
 +++

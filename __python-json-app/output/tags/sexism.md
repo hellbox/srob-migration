@@ -12,6 +12,6 @@ name = "sexism"
 title = "sexism"
 is_column = false
 reviews = ""
-notes = ["notes/why-cant-dick-lit-authors-write-normal-books-like-everyone-else?", "notes/the-help-desk-a-trip-down-mammary-lane"]
+notes = ["notes/why-cant-dick-lit-authors-write-normal-books-like-everyone-else", "notes/the-help-desk-a-trip-down-mammary-lane"]
 +++
 

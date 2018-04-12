@@ -32,7 +32,7 @@ width = 320
 type = "image/jpeg"
 size = 21252
 
-review_relationship = ["reviews/are-you-there-whoever?-its-me-lesley"]
+review_relationship = ["reviews/are-you-there-whoever-its-me-lesley"]
 author_relationship = ["authors/lesley-hazleton"]
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-david-sedaris-lesley-hazleton-tatiana-gill-and-more", "notes/book-news-roundup-four-books-you-should-really-look-into", "notes/what-you-need-to-do-for-literary-seattle-in-2017", "notes/talking-with-reza-aslan-about-why-were-wired-for-faith-and-how-farming-was-a-bad-bet-for-humanity"]

@@ -12,6 +12,6 @@ name = "graffiti"
 title = "graffiti"
 is_column = false
 reviews = ""
-notes = ["notes/seattle-writing-prompt-#2-writing-the-city"]
+notes = ["notes/seattle-writing-prompt-2-writing-the-city"]
 +++
 

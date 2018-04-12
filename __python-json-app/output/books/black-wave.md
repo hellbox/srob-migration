@@ -35,5 +35,5 @@ size = 30578
 review_relationship = ["reviews/after-the-end-of-the-world"]
 author_relationship = ["authors/michelle-tea"]
 sponsorships_book = ""
-notes_relationship = ["notes/brad-pitt-or-matt-dillon?-michelle-tea-has-opinions", "notes/your-week-in-readings-the-best-literary-events-from-november-16th---november-22nd"]
+notes_relationship = ["notes/brad-pitt-or-matt-dillon-michelle-tea-has-opinions", "notes/your-week-in-readings-the-best-literary-events-from-november-16th---november-22nd"]
 +++

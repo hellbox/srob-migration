@@ -12,6 +12,6 @@ name = "public diversity editor"
 title = "public diversity editor"
 is_column = false
 reviews = ""
-notes = ["notes/open-call-for-a-public-diversity-editor", "notes/interview-with-our-new-public-diversity-editor", "notes/public-diversity-editor-report-#1-september-2016"]
+notes = ["notes/open-call-for-a-public-diversity-editor", "notes/interview-with-our-new-public-diversity-editor", "notes/public-diversity-editor-report-1-september-2016"]
 +++
 

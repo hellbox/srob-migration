@@ -12,6 +12,6 @@ name = "twice sold tales"
 title = "twice sold tales"
 is_column = false
 reviews = ""
-notes = ["notes/meet-mercer-street-books-our-first-bookstore-of-the-month", "notes/anybody-have-some-space-to-sublet-in-ballard?", "notes/twice-sold-tales-owner-jamie-lutton-faces-two-crises", "notes/book-news-roundup-fantagraphics-scores-big-stacey-levine-resurfaces-and-a-case-is-made-against-little-free-libraries"]
+notes = ["notes/meet-mercer-street-books-our-first-bookstore-of-the-month", "notes/anybody-have-some-space-to-sublet-in-ballard", "notes/twice-sold-tales-owner-jamie-lutton-faces-two-crises", "notes/book-news-roundup-fantagraphics-scores-big-stacey-levine-resurfaces-and-a-case-is-made-against-little-free-libraries"]
 +++
 

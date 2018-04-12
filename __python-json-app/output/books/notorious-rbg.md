@@ -32,7 +32,7 @@ width = 128
 type = "application/octet-stream"
 size = 7373
 
-review_relationship = ["reviews/you-down-with-rbg?"]
+review_relationship = ["reviews/you-down-with-rbg"]
 author_relationship = ["authors/irin-carmon"]
 sponsorships_book = ""
 notes_relationship = ""

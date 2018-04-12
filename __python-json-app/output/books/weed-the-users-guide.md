@@ -35,5 +35,5 @@ size = 48350
 review_relationship = ["reviews/please-note-that-we-didnt-publish-this-review-at-420"]
 author_relationship = ["authors/david-schmader"]
 sponsorships_book = ""
-notes_relationship = ["notes/everybody-is-dying-so-you-shouldn\u2019t-waste-people\u2019s-time", "notes/your-week-in-readings-the-best-literary-events-from-april-20th-26th", "notes/your-week-in-readings-the-best-literary-events-from-april-27---may-3", "notes/book-news-roundup-anybody-need-ten-thousand-dollars?", "notes/literary-event-of-the-week-nevertold-casket-company-reading-#1", "notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th"]
+notes_relationship = ["notes/everybody-is-dying-so-you-shouldn\u2019t-waste-people\u2019s-time", "notes/your-week-in-readings-the-best-literary-events-from-april-20th-26th", "notes/your-week-in-readings-the-best-literary-events-from-april-27---may-3", "notes/book-news-roundup-anybody-need-ten-thousand-dollars", "notes/literary-event-of-the-week-nevertold-casket-company-reading-1", "notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th"]
 +++

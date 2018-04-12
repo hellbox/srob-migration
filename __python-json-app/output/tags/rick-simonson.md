@@ -12,6 +12,6 @@ name = "Rick Simonson"
 title = "Rick Simonson"
 is_column = false
 reviews = ""
-notes = ["notes/holiday-gift-book-recommendation-#4-soup-for-syria", "notes/after-40-years-rick-simonson-is-still-representing-the-best-of-literary-seattle"]
+notes = ["notes/holiday-gift-book-recommendation-4-soup-for-syria", "notes/after-40-years-rick-simonson-is-still-representing-the-best-of-literary-seattle"]
 +++
 

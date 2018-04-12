@@ -12,6 +12,6 @@ name = "Shelf Awareness"
 title = "Shelf Awareness"
 is_column = false
 reviews = ""
-notes = ["notes/book-news-roundup-looking-for-work?"]
+notes = ["notes/book-news-roundup-looking-for-work"]
 +++
 

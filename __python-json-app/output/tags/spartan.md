@@ -12,6 +12,6 @@ name = "Spartan"
 title = "Spartan"
 is_column = false
 reviews = ""
-notes = ["notes/lit-crawl-seattle-announces-(very)-full-schedule", "notes/lit-crawl-itinerary-#1-meet-the-new-publishers", "notes/your-week-in-readings-the-best-literary-events-from-august-3rd---august-9th", "notes/book-news-roundup-join-the-push--pull-book-club-apply-for-sweet-gigs-at-hugo-house-and-submit-to-spartan"]
+notes = ["notes/lit-crawl-seattle-announces-(very)-full-schedule", "notes/lit-crawl-itinerary-1-meet-the-new-publishers", "notes/your-week-in-readings-the-best-literary-events-from-august-3rd---august-9th", "notes/book-news-roundup-join-the-push--pull-book-club-apply-for-sweet-gigs-at-hugo-house-and-submit-to-spartan"]
 +++
 

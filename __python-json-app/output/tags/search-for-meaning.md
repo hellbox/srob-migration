@@ -12,6 +12,6 @@ name = "Search for meaning"
 title = "Search for meaning"
 is_column = false
 reviews = ""
-notes = ["notes/searching-for-meaning?-tickets-are-available-now!"]
+notes = ["notes/searching-for-meaning-tickets-are-available-now!"]
 +++
 

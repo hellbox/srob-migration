@@ -12,6 +12,6 @@ name = "GiveBig"
 title = "GiveBig"
 is_column = false
 reviews = ""
-notes = ["notes/martins-picks-for-givebig", "notes/if-you-can-givebig-today", "notes/pauls-picks-for-givebig", "notes/a-quick-note-on-problems-with-givebig", "notes/its-time-to-givebig-take-two", "notes/one-week-after-the-givebig-meltdown-whats-happening?", "notes/looking-to-givebig?-heres-a-list-of-good-literary-causes-that-need-your-help"]
+notes = ["notes/martins-picks-for-givebig", "notes/if-you-can-givebig-today", "notes/pauls-picks-for-givebig", "notes/a-quick-note-on-problems-with-givebig", "notes/its-time-to-givebig-take-two", "notes/one-week-after-the-givebig-meltdown-whats-happening", "notes/looking-to-givebig-heres-a-list-of-good-literary-causes-that-need-your-help"]
 +++
 

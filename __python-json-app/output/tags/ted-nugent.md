@@ -12,6 +12,6 @@ name = "ted nugent"
 title = "ted nugent"
 is_column = false
 reviews = ""
-notes = ["notes/the-help-desk-does-dog-earing-make-me-an-infidel?"]
+notes = ["notes/the-help-desk-does-dog-earing-make-me-an-infidel"]
 +++
 

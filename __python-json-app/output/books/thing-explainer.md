@@ -29,5 +29,5 @@ image = ""
 review_relationship = ""
 author_relationship = ""
 sponsorships_book = ""
-notes_relationship = ["notes/holiday-gift-book-recommendation-#1-thing-explainer"]
+notes_relationship = ["notes/holiday-gift-book-recommendation-1-thing-explainer"]
 +++

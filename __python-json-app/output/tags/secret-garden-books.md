@@ -12,6 +12,6 @@ name = "Secret Garden Books"
 title = "Secret Garden Books"
 is_column = false
 reviews = ["reviews/drawn-this-way"]
-notes = ["notes/holiday-gift-book-recommendation-#3-chasing-secrets", "notes/augusts-bookstore-of-the-month-is-secret-garden-books", "notes/bookstore-of-the-month-bringing-authors-to-kids", "notes/bookstore-of-the-month-why-does-seattle-have-so-many-great-authors-for-children?", "notes/the-time-madeleine-lengle-helped-introduce-secret-garden-books-to-ballard", "notes/your-week-in-readings-the-best-literary-events-from-october-26th---november-1st", "notes/be-sure-to-visit-secret-garden-and-buy-a-book-for-a-seattle-kid-in-need"]
+notes = ["notes/holiday-gift-book-recommendation-3-chasing-secrets", "notes/augusts-bookstore-of-the-month-is-secret-garden-books", "notes/bookstore-of-the-month-bringing-authors-to-kids", "notes/bookstore-of-the-month-why-does-seattle-have-so-many-great-authors-for-children", "notes/the-time-madeleine-lengle-helped-introduce-secret-garden-books-to-ballard", "notes/your-week-in-readings-the-best-literary-events-from-october-26th---november-1st", "notes/be-sure-to-visit-secret-garden-and-buy-a-book-for-a-seattle-kid-in-need"]
 +++
 

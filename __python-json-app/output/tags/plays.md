@@ -12,6 +12,6 @@ name = "plays"
 title = "plays"
 is_column = false
 reviews = ""
-notes = ["notes/denzel-washington-to-bring-august-wilson-to-hbo", "notes/putting-on-a-shakespeare-play?-the-language-should-be-the-boss"]
+notes = ["notes/denzel-washington-to-bring-august-wilson-to-hbo", "notes/putting-on-a-shakespeare-play-the-language-should-be-the-boss"]
 +++
 

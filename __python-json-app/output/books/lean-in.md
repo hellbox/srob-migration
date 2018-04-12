@@ -35,5 +35,5 @@ size = 8481
 review_relationship = ""
 author_relationship = ["authors/sheryl-sandberg"]
 sponsorships_book = ""
-notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad?"]
+notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad"]
 +++

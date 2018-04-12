@@ -12,6 +12,6 @@ name = "Seattle Black Book Club"
 title = "Seattle Black Book Club"
 is_column = false
 reviews = ""
-notes = ["notes/the-most-heavily-policed-book-club-in-the-history-of-seattle?"]
+notes = ["notes/the-most-heavily-policed-book-club-in-the-history-of-seattle"]
 +++
 

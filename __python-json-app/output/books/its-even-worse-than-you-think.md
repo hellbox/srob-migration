@@ -32,7 +32,7 @@ width = 180
 type = "image/jpeg"
 size = 8663
 
-review_relationship = ["reviews/how-bad-is-it?"]
+review_relationship = ["reviews/how-bad-is-it"]
 author_relationship = ["authors/david-cay-johnston"]
 sponsorships_book = ""
 notes_relationship = ""

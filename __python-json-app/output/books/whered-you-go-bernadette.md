@@ -35,5 +35,5 @@ size = 16936
 review_relationship = ""
 author_relationship = ["authors/maria-semple"]
 sponsorships_book = ""
-notes_relationship = ["notes/whatd-you-say-bernadette?", "notes/event-of-the-week-epilogue--prologue-at-hugo-house", "notes/literary-event-of-the-week-happy-family-with-maria-semple", "notes/cate-blanchett-spotted-at-downtown-seattle-public-library"]
+notes_relationship = ["notes/whatd-you-say-bernadette", "notes/event-of-the-week-epilogue--prologue-at-hugo-house", "notes/literary-event-of-the-week-happy-family-with-maria-semple", "notes/cate-blanchett-spotted-at-downtown-seattle-public-library"]
 +++

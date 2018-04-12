@@ -12,6 +12,6 @@ name = "dystopia"
 title = "dystopia"
 is_column = false
 reviews = ["reviews/and-i-feel-fine", "reviews/the-end-of-the-world-again"]
-notes = ["notes/the-help-desk-how-about-some-dystopia-to-go-along-with-your-dystopia?", "notes/i-cannot-tell-you-how-strange-this-feels-i-wrote-the-book-hoping-to-fend-it-off-and-i-believe-it-will-be-fended-off"]
+notes = ["notes/the-help-desk-how-about-some-dystopia-to-go-along-with-your-dystopia", "notes/i-cannot-tell-you-how-strange-this-feels-i-wrote-the-book-hoping-to-fend-it-off-and-i-believe-it-will-be-fended-off"]
 +++
 

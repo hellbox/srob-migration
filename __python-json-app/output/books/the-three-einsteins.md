@@ -29,5 +29,5 @@ image = ""
 review_relationship = ""
 author_relationship = ["authors/sarah-galvin"]
 sponsorships_book = ""
-notes_relationship = ["notes/literary-event-of-the-week-nevertold-casket-company-reading-#1"]
+notes_relationship = ["notes/literary-event-of-the-week-nevertold-casket-company-reading-1"]
 +++

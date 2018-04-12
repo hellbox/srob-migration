@@ -12,6 +12,6 @@ name = "Comixology"
 title = "Comixology"
 is_column = false
 reviews = ""
-notes = ["notes/maybe-dont-sign-on-to-the-netflix-of-comics-just-yet-okay?"]
+notes = ["notes/maybe-dont-sign-on-to-the-netflix-of-comics-just-yet-okay"]
 +++
 

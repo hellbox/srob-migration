@@ -35,5 +35,5 @@ size = 15227
 review_relationship = ""
 author_relationship = ["authors/gg-silverman"]
 sponsorships_book = ["sponsorships/vegan-teenage-zombie-huntress"]
-notes_relationship = ["notes/have-you-looked-at-vegan-teenage-zombie-huntress-yet?"]
+notes_relationship = ["notes/have-you-looked-at-vegan-teenage-zombie-huntress-yet"]
 +++

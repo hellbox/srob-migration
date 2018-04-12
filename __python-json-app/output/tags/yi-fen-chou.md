@@ -12,6 +12,6 @@ name = "yi-fen chou"
 title = "yi-fen chou"
 is_column = false
 reviews = ""
-notes = ["notes/#actualasianpoets-speak-out"]
+notes = ["notes/actualasianpoets-speak-out"]
 +++
 

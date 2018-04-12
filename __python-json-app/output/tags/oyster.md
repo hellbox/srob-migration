@@ -12,6 +12,6 @@ name = "Oyster"
 title = "Oyster"
 is_column = false
 reviews = ""
-notes = ["notes/the-netflix-of-books-heads-to-google?"]
+notes = ["notes/the-netflix-of-books-heads-to-google"]
 +++
 

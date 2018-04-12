@@ -35,5 +35,5 @@ size = 8060
 review_relationship = ["reviews/stitch-by-stitch-by-broken-stitch"]
 author_relationship = ["authors/sherman-alexie"]
 sponsorships_book = ""
-notes_relationship = ["notes/in-the-recording-studio-with-sherman-alexie", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels?", "notes/citing-a-need-to-take-a-big-step-back-and-do-most-of-my-grieving-in-private-sherman-alexie-postpones-book-tour", "notes/literary-event-of-the-week-absolutely-true-diary-of-a-part-time-indian-reissue-release-party", "notes/john-smelcer-wants-to-sing-like-sherman-alexie-but-he-sounds-more-like-a-cat-in-heat", "notes/sherman-alexie-jennifer-egan-win-carnegie-medals-for-literary-excellence"]
+notes_relationship = ["notes/in-the-recording-studio-with-sherman-alexie", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels", "notes/citing-a-need-to-take-a-big-step-back-and-do-most-of-my-grieving-in-private-sherman-alexie-postpones-book-tour", "notes/literary-event-of-the-week-absolutely-true-diary-of-a-part-time-indian-reissue-release-party", "notes/john-smelcer-wants-to-sing-like-sherman-alexie-but-he-sounds-more-like-a-cat-in-heat", "notes/sherman-alexie-jennifer-egan-win-carnegie-medals-for-literary-excellence"]
 +++

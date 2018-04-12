@@ -12,6 +12,6 @@ name = "superheroes"
 title = "superheroes"
 is_column = false
 reviews = ""
-notes = ["notes/thursday-comics-hangover-let\u2019s-sell-some-action-figures!", "notes/thursday-comics-hangover-secret-war-is-over-(if-you-want-it)", "notes/fantagraphics-books-to-publish-superhero-comics(?!??!)"]
+notes = ["notes/thursday-comics-hangover-let\u2019s-sell-some-action-figures!", "notes/thursday-comics-hangover-secret-war-is-over-(if-you-want-it)", "notes/fantagraphics-books-to-publish-superhero-comics(!!)"]
 +++
 

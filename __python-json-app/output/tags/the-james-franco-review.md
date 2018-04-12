@@ -12,6 +12,6 @@ name = "The James Franco Review"
 title = "The James Franco Review"
 is_column = false
 reviews = ""
-notes = ["notes/an-editor\u2019s-job\u2014particularly-a-white-straight-editor\u2014must-do-the-work-to-question-where-their-tastes-come-from", "notes/seattles-literary-magazines-are-kicking-ass-and-taking-names", "notes/lit-crawl-seattle-announces-(very)-full-schedule", "notes/lit-crawl-itinerary-#1-meet-the-new-publishers", "notes/the-fifth-franco", "notes/book-news-roundup-sherman-alexie-to-curate-sal-series", "notes/the-james-franco-review-is-getting-a-new-name-and-new-leadership"]
+notes = ["notes/an-editor\u2019s-job\u2014particularly-a-white-straight-editor\u2014must-do-the-work-to-question-where-their-tastes-come-from", "notes/seattles-literary-magazines-are-kicking-ass-and-taking-names", "notes/lit-crawl-seattle-announces-(very)-full-schedule", "notes/lit-crawl-itinerary-1-meet-the-new-publishers", "notes/the-fifth-franco", "notes/book-news-roundup-sherman-alexie-to-curate-sal-series", "notes/the-james-franco-review-is-getting-a-new-name-and-new-leadership"]
 +++
 

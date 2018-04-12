@@ -35,5 +35,5 @@ size = 78572
 review_relationship = ["reviews/it-was-always-this-way-until-it-wasnt"]
 author_relationship = ["authors/amy-goldstein"]
 sponsorships_book = ""
-notes_relationship = ["notes/is-a-company-town-with-no-company-still-a-town?"]
+notes_relationship = ["notes/is-a-company-town-with-no-company-still-a-town"]
 +++

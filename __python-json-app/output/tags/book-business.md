@@ -12,6 +12,6 @@ name = "Book Business"
 title = "Book Business"
 is_column = false
 reviews = ""
-notes = ["notes/technology-killed-bookstore-chains-can-technology-save-indie-bookstores?"]
+notes = ["notes/technology-killed-bookstore-chains-can-technology-save-indie-bookstores"]
 +++
 

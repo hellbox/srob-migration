@@ -12,6 +12,6 @@ name = "Google Play Books"
 title = "Google Play Books"
 is_column = false
 reviews = ""
-notes = ["notes/the-netflix-of-books-heads-to-google?", "notes/welcome-to-our-bookstore-we-sell-books-that-cannot-be-printed"]
+notes = ["notes/the-netflix-of-books-heads-to-google", "notes/welcome-to-our-bookstore-we-sell-books-that-cannot-be-printed"]
 +++
 
