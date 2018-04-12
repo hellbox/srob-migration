@@ -804,7 +804,7 @@ for key in j['data']:
         try:
           markdown.write('date = %s\n' % json.dumps(j['data']['publishers'][publisher]['publish_date'].encode('utf-8')))
         except KeyError:   
-          markdown.write('date = ""\n')           
+          markdown.write('date = "2018-04-12T12:01:00-07:00"\n')  #hard coding date because of build fails         
         try:    
           markdown.write('last_updated = %s\n' % (json.dumps(j['data']['publishers'][publisher]['last_updated']).encode('utf-8')))
         except KeyError:
