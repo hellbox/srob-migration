@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/New Years Day on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/new-years-day/</link>
+    <description>Recent content in Reviews/New Years Day on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Sun, 27 Dec 2015 13:52:00 -0800</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/new-years-day/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Noy Holland</title>
+      <link>http://seattlereviewofbooks.com/authors/noy-holland/</link>
+      <pubDate>Sun, 27 Dec 2015 13:52:00 -0800</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/noy-holland/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

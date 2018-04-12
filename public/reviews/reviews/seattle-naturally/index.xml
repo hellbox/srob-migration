@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/Seattle Naturally on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/seattle-naturally/</link>
+    <description>Recent content in Reviews/Seattle Naturally on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Sun, 07 Jan 2018 23:31:00 -0800</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/seattle-naturally/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adrienne Ross Scanlan</title>
+      <link>http://seattlereviewofbooks.com/authors/adrienne-ross-scanlan/</link>
+      <pubDate>Sun, 07 Jan 2018 23:31:00 -0800</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/adrienne-ross-scanlan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

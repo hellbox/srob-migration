@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/Sometimes You Do the Job and Sometimes the Job Does You on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/sometimes-you-do-the-job-and-sometimes-the-job-does-you/</link>
+    <description>Recent content in Reviews/Sometimes You Do the Job and Sometimes the Job Does You on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Tue, 28 Jul 2015 22:50:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/sometimes-you-do-the-job-and-sometimes-the-job-does-you/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kelly Froh</title>
+      <link>http://seattlereviewofbooks.com/authors/kelly-froh/</link>
+      <pubDate>Tue, 28 Jul 2015 22:50:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/kelly-froh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

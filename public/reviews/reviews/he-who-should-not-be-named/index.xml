@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/He Who Should Not Be Named on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/he-who-should-not-be-named/</link>
+    <description>Recent content in Reviews/He Who Should Not Be Named on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Sun, 30 Oct 2016 22:53:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/he-who-should-not-be-named/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jon Ronson</title>
+      <link>http://seattlereviewofbooks.com/authors/jon-ronson/</link>
+      <pubDate>Sun, 30 Oct 2016 22:53:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/jon-ronson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Kranish</title>
+      <link>http://seattlereviewofbooks.com/authors/michael-kranish/</link>
+      <pubDate>Sun, 30 Oct 2016 22:50:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/michael-kranish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Fisher</title>
+      <link>http://seattlereviewofbooks.com/authors/marc-fisher/</link>
+      <pubDate>Sun, 30 Oct 2016 22:48:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/marc-fisher/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

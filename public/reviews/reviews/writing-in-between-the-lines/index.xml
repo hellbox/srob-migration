@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews/Writing in Between the Lines on The Seattle Review of Books</title>
+    <link>http://seattlereviewofbooks.com/reviews/reviews/writing-in-between-the-lines/</link>
+    <description>Recent content in Reviews/Writing in Between the Lines on The Seattle Review of Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
+    <lastBuildDate>Sat, 02 Apr 2016 09:29:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://seattlereviewofbooks.com/reviews/reviews/writing-in-between-the-lines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anca L. Szilágyi</title>
+      <link>http://seattlereviewofbooks.com/authors/anca-l-szil%C3%A1gyi/</link>
+      <pubDate>Sat, 02 Apr 2016 09:29:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/anca-l-szil%C3%A1gyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doug Nufer</title>
+      <link>http://seattlereviewofbooks.com/authors/doug-nufer/</link>
+      <pubDate>Mon, 17 Aug 2015 21:46:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/authors/doug-nufer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
