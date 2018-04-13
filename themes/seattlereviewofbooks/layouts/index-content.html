@@ -1,5 +1,5 @@
 {{ define "head_extra" }}
-{{/* TODO: put this in it's own area */}}
+{{/* TODO: put this in its own area */}}
 <meta property="fb:app_id" content="481146972233231"/>
 <meta property="og:url" content="http://www.seattlereviewofbooks.com">
 <meta property="og:type" content="article">
@@ -23,7 +23,13 @@
                 <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
                 <p class="date">Published {{ .Date.Format "January 2, 2018 at 3:04pm" }}<p>
                 <p class="noindent review-meta">
-                <strong>{{ .Params.byline }} </strong>                
+                <strong>{{ .Params.byline }} </strong>   
+                {{ $related := .Pages.RelatedIndices . "byline" "name" }}
+                {{ $related }}
+
+
+
+             
 
                 </p>
                 <div class="dek">{{ .Params.dek }}</div>
@@ -35,6 +41,7 @@
     {{ end }}
     {{ if eq .Params.type "Note"}}
         <li>Note: <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ template "theme/partials/notes.html" . }}
     {{ else if eq .Params.type "Column" }}
         <li>Column: <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ else if eq .Params.type "Poem" }}        
