@@ -393,7 +393,7 @@ for key in j['data']:
                 markdown.write('notes_byline = %s\n' % json.dumps(index_builder))
             except KeyError:
                 markdown.write('notes_byline = ""\n') 
-            markdown.write('books_translator = ""')                     
+            markdown.write('books_translator = ""\n')                     
     
             markdown.write('+++\n\n')  
             markdown.close()

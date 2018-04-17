@@ -7,10 +7,820 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All content ©{ year } the Seattle Review of Books, and respective authors.</copyright>
-    <lastBuildDate>Mon, 19 Mar 2018 21:49:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Apr 2018 12:01:00 -0700</lastBuildDate>
     
 	<atom:link href="http://seattlereviewofbooks.com/publishers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> e Greater Seattle Bureau of Fearless Ideas</title>
+      <link>http://seattlereviewofbooks.com/publishers/-e-greater-seattle-bureau-of-fearless-ideas/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/-e-greater-seattle-bureau-of-fearless-ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon</title>
+      <link>http://seattlereviewofbooks.com/publishers/amazon/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amethyst Editions</title>
+      <link>http://seattlereviewofbooks.com/publishers/amethyst-editions/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/amethyst-editions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anchor Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/anchor-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/anchor-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>And Other Stories</title>
+      <link>http://seattlereviewofbooks.com/publishers/and-other-stories/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/and-other-stories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audible Studios</title>
+      <link>http://seattlereviewofbooks.com/publishers/audible-studios/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/audible-studios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomedia</title>
+      <link>http://seattlereviewofbooks.com/publishers/autonomedia/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/autonomedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back Bay Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/back-bay-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/back-bay-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Radish Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/black-radish-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/black-radish-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bloomsbury</title>
+      <link>http://seattlereviewofbooks.com/publishers/bloomsbury/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/bloomsbury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Booklyn</title>
+      <link>http://seattlereviewofbooks.com/publishers/booklyn/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/booklyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brilliance Audio</title>
+      <link>http://seattlereviewofbooks.com/publishers/brilliance-audio/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/brilliance-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadway Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/broadway-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/broadway-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broken Eye Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/broken-eye-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/broken-eye-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Button Poetry</title>
+      <link>http://seattlereviewofbooks.com/publishers/button-poetry/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/button-poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catapult</title>
+      <link>http://seattlereviewofbooks.com/publishers/catapult/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/catapult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chick Publications</title>
+      <link>http://seattlereviewofbooks.com/publishers/chick-publications/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/chick-publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civil Coping Mechanisms</title>
+      <link>http://seattlereviewofbooks.com/publishers/civil-coping-mechanisms/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/civil-coping-mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coin-Op Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/coin-op-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/coin-op-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copper Canyon Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/copper-canyon-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/copper-canyon-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CreateSpace Independent Publishing Platform</title>
+      <link>http://seattlereviewofbooks.com/publishers/createspace-independent-publishing-platform/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/createspace-independent-publishing-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Czap Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/czap-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/czap-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Lasky</title>
+      <link>http://seattlereviewofbooks.com/publishers/david-lasky/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/david-lasky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editions Checkpointed</title>
+      <link>http://seattlereviewofbooks.com/publishers/editions-checkpointed/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/editions-checkpointed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fantagraphics</title>
+      <link>http://seattlereviewofbooks.com/publishers/fantagraphics/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/fantagraphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featherproof Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/featherproof-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/featherproof-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flatiron Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/flatiron-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/flatiron-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GG Silverman</title>
+      <link>http://seattlereviewofbooks.com/publishers/gg-silverman/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/gg-silverman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabalfa Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/gabalfa-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/gabalfa-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gollancz</title>
+      <link>http://seattlereviewofbooks.com/publishers/gollancz/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/gollancz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gramma Poetry</title>
+      <link>http://seattlereviewofbooks.com/publishers/gramma-poetry/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/gramma-poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grey Sun Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/grey-sun-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/grey-sun-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grove Atlantic</title>
+      <link>http://seattlereviewofbooks.com/publishers/grove-atlantic/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/grove-atlantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HarperCollins</title>
+      <link>http://seattlereviewofbooks.com/publishers/harpercollins/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/harpercollins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hawthorne Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/hawthorne-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/hawthorne-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haymarket Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/haymarket-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/haymarket-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Houghton Mifflin</title>
+      <link>http://seattlereviewofbooks.com/publishers/houghton-mifflin/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/houghton-mifflin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Comics</title>
+      <link>http://seattlereviewofbooks.com/publishers/image-comics/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/image-comics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knopf Publishing Group</title>
+      <link>http://seattlereviewofbooks.com/publishers/knopf-publishing-group/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/knopf-publishing-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kore Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/kore-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/kore-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lanternfish Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/lanternfish-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/lanternfish-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Little A</title>
+      <link>http://seattlereviewofbooks.com/publishers/little-a/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/little-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Little, Brown and Company</title>
+      <link>http://seattlereviewofbooks.com/publishers/little-brown-and-company/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/little-brown-and-company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manic Thrills Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/manic-thrills-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/manic-thrills-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McSweeney&#39;s Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/mcsweeneys-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/mcsweeneys-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melcher Media</title>
+      <link>http://seattlereviewofbooks.com/publishers/melcher-media/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/melcher-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melville House</title>
+      <link>http://seattlereviewofbooks.com/publishers/melville-house/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/melville-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minotaur Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/minotaur-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/minotaur-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moon City Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/moon-city-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/moon-city-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moss</title>
+      <link>http://seattlereviewofbooks.com/publishers/moss/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/moss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Internationalist </title>
+      <link>http://seattlereviewofbooks.com/publishers/new-internationalist-/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/new-internationalist-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Dieker</title>
+      <link>http://seattlereviewofbooks.com/publishers/nicole-dieker/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/nicole-dieker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nightboat Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/nightboat-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/nightboat-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orbit</title>
+      <link>http://seattlereviewofbooks.com/publishers/orbit/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/orbit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PageBoy</title>
+      <link>http://seattlereviewofbooks.com/publishers/pageboy/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/pageboy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penguin Random House Audio</title>
+      <link>http://seattlereviewofbooks.com/publishers/penguin-random-house-audio/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/penguin-random-house-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picador USA</title>
+      <link>http://seattlereviewofbooks.com/publishers/picador-usa/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/picador-usa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pizza Party Comics</title>
+      <link>http://seattlereviewofbooks.com/publishers/pizza-party-comics/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/pizza-party-comics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poetry Northwest</title>
+      <link>http://seattlereviewofbooks.com/publishers/poetry-northwest/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/poetry-northwest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hen Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/red-hen-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/red-hen-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relegation Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/relegation-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/relegation-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Lowell</title>
+      <link>http://seattlereviewofbooks.com/publishers/robert-lowell/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/robert-lowell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scribner Book Company</title>
+      <link>http://seattlereviewofbooks.com/publishers/scribner-book-company/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/scribner-book-company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seal Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/seal-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/seal-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-published</title>
+      <link>http://seattlereviewofbooks.com/publishers/self-published/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/self-published/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serving House Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/serving-house-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/serving-house-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Severn House</title>
+      <link>http://seattlereviewofbooks.com/publishers/severn-house/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/severn-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SheWritesPress</title>
+      <link>http://seattlereviewofbooks.com/publishers/shewritespress/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/shewritespress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skyhorse Publishing</title>
+      <link>http://seattlereviewofbooks.com/publishers/skyhorse-publishing/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/skyhorse-publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Doggies Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/small-doggies-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/small-doggies-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Southern Indiana Review Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/southern-indiana-review-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/southern-indiana-review-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speak</title>
+      <link>http://seattlereviewofbooks.com/publishers/speak/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/speak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiegel &amp;amp; Grau</title>
+      <link>http://seattlereviewofbooks.com/publishers/spiegel-amp-grau/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/spiegel-amp-grau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spuyten Duyvil</title>
+      <link>http://seattlereviewofbooks.com/publishers/spuyten-duyvil/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/spuyten-duyvil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>St. Martin&amp;#x27;s Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/st-martinx27s-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/st-martinx27s-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategic Book Publishing Company</title>
+      <link>http://seattlereviewofbooks.com/publishers/strategic-book-publishing-company/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/strategic-book-publishing-company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweet Air Publishing</title>
+      <link>http://seattlereviewofbooks.com/publishers/sweet-air-publishing/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/sweet-air-publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Bobbs-Merrill Company</title>
+      <link>http://seattlereviewofbooks.com/publishers/the-bobbs-merrill-company/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/the-bobbs-merrill-company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The New Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/the-new-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/the-new-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The University of Virginia Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/the-university-of-virginia-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/the-university-of-virginia-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Dunne Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/thomas-dunne-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/thomas-dunne-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thunder&amp;#x27;s Mouth Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/thunderx27s-mouth-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/thunderx27s-mouth-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of New Mexico Pres</title>
+      <link>http://seattlereviewofbooks.com/publishers/university-of-new-mexico-pres/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/university-of-new-mexico-pres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verso</title>
+      <link>http://seattlereviewofbooks.com/publishers/verso/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/verso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertigo Comics</title>
+      <link>http://seattlereviewofbooks.com/publishers/vertigo-comics/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/vertigo-comics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vintage</title>
+      <link>http://seattlereviewofbooks.com/publishers/vintage/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/vintage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warner Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/warner-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/warner-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Washington State University Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/washington-state-university-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/washington-state-university-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave Books</title>
+      <link>http://seattlereviewofbooks.com/publishers/wave-books/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/wave-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waywiser Press</title>
+      <link>http://seattlereviewofbooks.com/publishers/waywiser-press/</link>
+      <pubDate>Thu, 12 Apr 2018 12:01:00 -0700</pubDate>
+      
+      <guid>http://seattlereviewofbooks.com/publishers/waywiser-press/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FC2</title>
