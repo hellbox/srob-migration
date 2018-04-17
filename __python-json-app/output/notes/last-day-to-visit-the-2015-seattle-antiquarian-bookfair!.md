@@ -1,8 +1,8 @@
 +++
 index = "-K0Mu5MXz9oX_SXPYiFQ"
-_sort_create_date = 1444583820
-_sort_last_updated = 1444583880
-_sort_publish_date = 1444583880
+sort_create_date = 1444583820
+sort_last_updated = 1444583880
+sort_publish_date = 1444583880
 create_date = "2015-10-11T10:17:00-07:00"
 publish_date = "2015-10-11T10:18:00-07:00"
 date = "2015-10-11T10:18:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://lh3.googleusercontent.com/w1nMJX96KXuKgPjlA_Co2H_xho7_7emYa
 twitterauto = ""
 facebookauto = "Last day to go checkout our sponsor the Seattle Antiquarian Bookfair -- get down to Seattle Center today to check it out!"
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Did you make it to the Seattle Antiquarian Bookfair yesterday? If not, head on down today! They'll be open through 4pm today. Go see rare book and ephemera dealers from around the country, and even from overseas. Lots of amazing finds for book lovers, collectors, and even for looky-loos. 

@@ -1,8 +1,8 @@
 +++
 index = "-KtAFhlPTsZQJdn1-YiA"
-_sort_create_date = 1504501200
-_sort_last_updated = 1505186220
-_sort_publish_date = 1505235300
+sort_create_date = 1504501200
+sort_last_updated = 1505186220
+sort_publish_date = 1505235300
 create_date = "2017-09-03T22:00:00-07:00"
 publish_date = "2017-09-12T09:55:00-07:00"
 date = "2017-09-12T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504501727556/Scre
 twitterauto = "The second poem by Poet in Residence @estherhelfgott is called \"A poem is a space\""
 facebookauto = "The second poem by Poet in Residence Esther Altshul Helfgott is called \"A poem is a space\""
 make_image_tweet = "False"
-byline = ["writers/esther-altshul-helfgott"]
+notes_byline = ["writers/esther-altshul-helfgott"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 and an unspace<br>

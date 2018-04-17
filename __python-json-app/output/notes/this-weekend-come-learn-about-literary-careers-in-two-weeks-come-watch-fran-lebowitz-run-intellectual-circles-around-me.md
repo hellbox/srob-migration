@@ -1,8 +1,8 @@
 +++
 index = "-L4A9JM2tgI-8TRIXMhz"
-_sort_create_date = 1517384400
-_sort_last_updated = 1517421120
-_sort_publish_date = 1517432100
+sort_create_date = 1517384400
+sort_last_updated = 1517421120
+sort_publish_date = 1517432100
 create_date = "2018-01-30T23:40:00-08:00"
 publish_date = "2018-01-31T12:55:00-08:00"
 date = "2018-01-31T12:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our co-founder, @paulconstant, is taking part in two upcoming events. Learn about them here:"
 facebookauto = "Our co-founder, Paul Constant, is taking part in two upcoming events. Learn about them here:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I'm taking part in a pair of upcoming events that you should know about:

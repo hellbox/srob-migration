@@ -1,8 +1,8 @@
 +++
 index = "-KLUdDsa9AxrgMyuWU3X"
-_sort_create_date = 1467262200
-_sort_last_updated = 1467840720
-_sort_publish_date = 1467824340
+sort_create_date = 1467262200
+sort_last_updated = 1467840720
+sort_publish_date = 1467824340
 create_date = "2016-06-29T21:50:00-07:00"
 publish_date = "2016-07-06T09:59:00-07:00"
 date = "2016-07-06T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our event of the week is N.K. Jemisin reading @SPLBuzz for @ClarionWest."
 facebookauto = "N.K. Jemisin's science fiction is very interested in oppression, and struggle, and triumphing even when society is against you."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/nk-jemisin"]
+notes_about = ""
 books = ""
 +++
 N.K. Jemisin’s 2014 short story “Walking Awake” begins with a very familiar power dynamic. In the opening lines a “Master” appears, “wearing a relatively young body.” The Master appraises some young, strong bodies, which we’re told will then be sent to the “transfer center.” It’s pretty clear within a few paragraphs that “Walking Awake” is a science-fiction take on the master/slave dynamic. Readers almost immediately get the sense that Masters subsume slave bodies entirely and live inside them, a surprising elaboration on the idea that anyone can “own” another human being’s body.

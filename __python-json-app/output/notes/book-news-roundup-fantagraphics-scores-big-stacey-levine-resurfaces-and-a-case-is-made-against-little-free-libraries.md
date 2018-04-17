@@ -1,8 +1,8 @@
 +++
 index = "-KjKnDujf0ph_mEYaCdz"
-_sort_create_date = 1493940600
-_sort_last_updated = 1494003420
-_sort_publish_date = 1494003420
+sort_create_date = 1493940600
+sort_last_updated = 1494003420
+sort_publish_date = 1494003420
 create_date = "2017-05-04T16:30:00-07:00"
 publish_date = "2017-05-05T09:57:00-07:00"
 date = "2017-05-05T09:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493940143115/eisn
 twitterauto = "Today in book news: @fantagraphics scores big, and a portrait of Seattle's book theft network."
 facebookauto = "Today in book news: @fantagraphics scores big, against Little Free Libraries, and a portrait of Seattle's book theft network."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics", "tags/twice-sold-tales", "tags/little-free-library"]
-authors_notes = ["authors/stacey-levine"]
+notes_about = ""
 books = ""
 +++
 * Congratulations are due to Seattle's own Fantagraphics Books, which [cleaned up in the Eisner Awards nominations](https://www.comic-con.org/awards/eisner-awards-nominations-2017) this week. (The Eisners are the comics version of the Oscars.) Fnatagraphics picked up [more nominations than almost any other publisher](http://fantagraphics.com/flog/eisnernoms2017/). Go help them celebrate tomorrow by visiting their store for [Free Comic Book Day](http://www.seattlereviewofbooks.com/notes/2017/05/04/thursday-comics-hangover-how-to-get-the-most-out-of-your-free-comic-book-day/).

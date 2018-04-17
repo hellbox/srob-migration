@@ -1,8 +1,8 @@
 +++
 index = "-KFN8J2qdHRg4Dqk_ewh"
-_sort_create_date = 1460693940
-_sort_last_updated = 1460693940
-_sort_publish_date = 1460745000
+sort_create_date = 1460693940
+sort_last_updated = 1460693940
+sort_publish_date = 1460745000
 create_date = "2016-04-14T21:19:00-07:00"
 publish_date = "2016-04-15T11:30:00-07:00"
 date = "2016-04-15T11:30:00-07:00"
@@ -13,10 +13,10 @@ title = "There's something about Mary"
 dek = "Two reviewers discuss why they're having such a hard time reviewing Chester Brown's latest book of Bible scholarship."
 facebookauto = "Two reviewers discuss why they're having such a hard time reviewing Chester Brown's latest book of Bible scholarship."
 twitterauto = "Two reviewers discuss why they're having such a hard time reviewing Chester Brown's latest book of Bible scholarship."
-byline = ["writers/paul-constant", "writers/martin-mcclellan"]
+reviews_byline = ["writers/paul-constant", "writers/martin-mcclellan"]
 books_in_this_review = ["books/mary-wept-over-the-feet-of-jesus"]
 tags_reviews = ["tags/comics", "tags/bible"]
-authors_reviews = ["authors/chester-brown"]
+reviews_about = ""
 +++
 
 <p class="intro">Canadian cartoonist Chester Brown reads from his new book *Mary Wept Over the Feet of Jesus: Prostitution and Religious Obedience in the Bible* on [Saturday, April 16th at 7 pm at the Hugo House](https://hugohouse.org/event/book-party-for-chester-browns-mary-wept-over-the-feet-of-jesus/). Both of the *Seattle Review of Books* co-founders, Paul Constant and Martin McClellan, read the book, and it left them with a lot of conflicted feelings. The following is a conversation they had on a Google Doc as they tried to determine what it was about *Mary* that left them feeling so strangely dissatisfied.</p>

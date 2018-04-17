@@ -1,8 +1,8 @@
 +++
 index = "-JwzMKZyvab_TJSJvnrM"
-_sort_create_date = 1439877120
-_sort_last_updated = 1440020040
-_sort_publish_date = 1440003660
+sort_create_date = 1439877120
+sort_last_updated = 1440020040
+sort_publish_date = 1440003660
 create_date = "2015-08-17T22:52:00-07:00"
 publish_date = "2015-08-19T10:01:00-07:00"
 date = "2015-08-19T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Talking with the Mercer Street Books staff about the neat things they find inside used books. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/mercer-street-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 When you ask [Debbie Sarow](http://seattlereviewofbooks.com/notes/2015/08/12/everything-has-its-place-at-mercer-street-books/) if there are any rules that [Mercer Street Books](http://seattlereviewofbooks.com/notes/2015/08/05/meet-mercer-street-books-our-first-bookstore-of-the-month/) customers should keep in mind when bringing their books in to sell to the store, she bristles. She has a few basic rules for books she’ll never buy — computer books, hardback books without dust jackets — but Sarow doesn’t like to discourage customers from bringing any sorts of books in, because “it’s the one book that they think is garbage that turns out to be the prize. That’s part of the fun.”

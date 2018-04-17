@@ -1,8 +1,8 @@
 +++
 index = "-KcGvwTJz4uyTPV1ccbj"
-_sort_create_date = 1486359600
-_sort_last_updated = 1486360200
-_sort_publish_date = 1486414800
+sort_create_date = 1486359600
+sort_last_updated = 1486360200
+sort_publish_date = 1486414800
 create_date = "2017-02-05T21:40:00-08:00"
 publish_date = "2017-02-06T13:00:00-08:00"
 date = "2017-02-06T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486359592563/C2t0
 twitterauto = "Sponsor @mineralschool is back to remind you to get your applications in!"
 facebookauto = "Sponsor Mineral School is back to remind you to get your applications in!"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1486359494915/unnamed.jpg)</p>

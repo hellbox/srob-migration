@@ -1,8 +1,8 @@
 +++
 index = "-KaImAld1d2tXLA2EYfv"
-_sort_create_date = 1484243100
-_sort_last_updated = 1484245020
-_sort_publish_date = 1484253000
+sort_create_date = 1484243100
+sort_last_updated = 1484245020
+sort_publish_date = 1484253000
 create_date = "2017-01-12T09:45:00-08:00"
 publish_date = "2017-01-12T12:30:00-08:00"
 date = "2017-01-12T12:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483644876356/unna
 twitterauto = "Act fast! Our sponsor just released some tickets for the sold-out David Sedaris shows this Sunday"
 facebookauto = "Act fast! Our sponsor just released some tickets for the sold-out David Sedaris shows this Sunday"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1483644876356/unnamed.gif)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KUmIUIk9S_Wew0IsCf6"
-_sort_create_date = 1477238940
-_sort_last_updated = 1477238940
-_sort_publish_date = 1477238940
+sort_create_date = 1477238940
+sort_last_updated = 1477238940
+sort_publish_date = 1477238940
 create_date = "2016-10-23T09:09:00-07:00"
 publish_date = "2016-10-23T09:09:00-07:00"
 date = "2016-10-23T09:09:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/yX4NMcqpArlPgOMZLqAzud0zvFH7aiNIy4z7L45OGqNY0kXw3ovdItuWkYyHo2zJewwtTQFSOOHhrkL5G8daMUxxd_YM"
 url = "/webhook-uploads/1477238851767/images.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 71821
 
 review_relationship = ["reviews/im-from-bellevue"]
-author_relationship = ["authors/david-a-neiwert-"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

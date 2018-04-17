@@ -1,8 +1,8 @@
 +++
 index = "-JycDB1wYP_Dw2i_AYsE"
-_sort_create_date = 1441636334
-_sort_last_updated = 1441636334
-_sort_publish_date = 1441636334
+sort_create_date = 1441636334
+sort_last_updated = 1441636334
+sort_publish_date = 1441636334
 create_date = "2015-09-07T14:32:14+00:00"
 publish_date = "2015-09-07T14:32:14+00:00"
 date = "2015-09-07T14:32:14+00:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Language Arts & Disciplines"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/IpEiBKV6_T49EDWDfri2YpJNB4laoxATWGsczFz2Efd64iEZuLpBxA7uAPCEbJRKD1FvtGw4GGjMib0e11O6DqoZY475"
 url = "/webhook-uploads/1441636335052/content%3Fid%3Dao2mQQAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 9173
 
 review_relationship = ""
-author_relationship = ""
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

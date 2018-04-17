@@ -1,8 +1,8 @@
 +++
 index = "-Kpp4_TeYnydycVTiWO8"
-_sort_create_date = 1500907980
-_sort_last_updated = 1500911640
-_sort_publish_date = 1500926400
+sort_create_date = 1500907980
+sort_last_updated = 1500911640
+sort_publish_date = 1500926400
 create_date = "2017-07-24T07:53:00-07:00"
 publish_date = "2017-07-24T13:00:00-07:00"
 date = "2017-07-24T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left"><img src="/webhook-uploads/1499099932962/sponsorship-by-you-small.jpg" alt=""></p>

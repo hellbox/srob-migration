@@ -1,8 +1,8 @@
 +++
 index = "-KHXt0b8aPILrWsNxsyk"
-_sort_create_date = 1463021700
-_sort_last_updated = 1464718740
-_sort_publish_date = 1463086800
+sort_create_date = 1463021700
+sort_last_updated = 1464718740
+sort_publish_date = 1463086800
 create_date = "2016-05-11T19:55:00-07:00"
 publish_date = "2016-05-12T14:00:00-07:00"
 date = "2016-05-12T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463021306238/SRoB
 twitterauto = "It's @andizeisler in @studiochristine's Portrait Gallery today!"
 facebookauto = "It's Andi Zeisler of Bitch Magazine, in Portrait Gallery today."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

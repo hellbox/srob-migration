@@ -1,8 +1,8 @@
 +++
 index = "-KHODf2zkns-UFeUvKxK"
-_sort_create_date = 1462859580
-_sort_last_updated = 1462859880
-_sort_publish_date = 1462859580
+sort_create_date = 1462859580
+sort_last_updated = 1462859880
+sort_publish_date = 1462859580
 create_date = "2016-05-09T22:53:00-07:00"
 publish_date = "2016-05-09T22:53:00-07:00"
 date = "2016-05-09T22:53:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Agd_w5GaEkrLnFyk7zxi-_BV-wtbV8uxn3GJ7eQtrfbpjWfuZ9lyS29mFh8jdJo31tVc1ETQ7Og4lGMT8Rt-mrp6Z4E"
 url = "/webhook-uploads/1462859639968/content%3Fid%3Dzu3FMgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 8888
 
 review_relationship = ["reviews/it-begins-with-a-single-step"]
-author_relationship = ["authors/john-allison"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

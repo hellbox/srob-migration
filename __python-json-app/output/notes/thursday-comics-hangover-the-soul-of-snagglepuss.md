@@ -1,8 +1,8 @@
 +++
 index = "-Kbxdy02c_Agq1A2U4Da"
-_sort_create_date = 1486019340
-_sort_last_updated = 1486054380
-_sort_publish_date = 1486065660
+sort_create_date = 1486019340
+sort_last_updated = 1486054380
+sort_publish_date = 1486065660
 create_date = "2017-02-01T23:09:00-08:00"
 publish_date = "2017-02-02T12:01:00-08:00"
 date = "2017-02-02T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486017860307/unna
 twitterauto = "Someone's using old Hanna Barbera cartoons to mock economics and worship Tennessee Williams."
 facebookauto = "If you can turn old Hanna Barbera cartoons into a deft satire of economics and a Tennessee Williams biopic, you're automatically one of our new favorite writers.."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I have [written about how good the *Flintstones* comic](http://www.seattlereviewofbooks.com/notes/2016/08/25/thursday-comics-hangover-the-bedrock-of-our-society/) is, but it has to be noted that the most recent issue, #8, is the best, most ambitious edition yet. It satirizes gender roles, economics, politics, and celebrity, and it also contains a great little story about how the ultimate goal of parenting should be to fuck the next generation up slightly less than your own.

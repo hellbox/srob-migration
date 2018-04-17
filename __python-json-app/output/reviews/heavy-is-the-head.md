@@ -1,8 +1,8 @@
 +++
 index = "-KeX7-Wz5UxjKX6jG5Ln"
-_sort_create_date = 1488778680
-_sort_last_updated = 1489351260
-_sort_publish_date = 1489517340
+sort_create_date = 1488778680
+sort_last_updated = 1489351260
+sort_publish_date = 1489517340
 create_date = "2017-03-05T21:38:00-08:00"
 publish_date = "2017-03-14T11:49:00-07:00"
 date = "2017-03-14T11:49:00-07:00"
@@ -13,10 +13,10 @@ title = "Heavy is the head"
 dek = "Hanif Willis-Abdurraqib's first poetry collection combines hip-hop, poetry, and spoken word into a book that speaks to America right now."
 facebookauto = "\"It\u2019s perhaps no surprise that the white-led ivory tower of literary academia is the last gated community to accept a poetry of hip-hop poetics.\""
 twitterauto = "From Biggie to the ivory tower of literary academia, The Crown Ain't Worth Much finds a new poetic path."
-byline = ["writers/dujie-tahat"]
+reviews_byline = ["writers/dujie-tahat"]
 books_in_this_review = ["books/the-crown-aint-worth-much"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/hanif-willis-abdurraqib"]
+reviews_about = ""
 +++
 
 <blockquote class="noline">You see you wouldn’t ask why the rose that grew from the concrete had damaged petals. On the contrary, we would all celebrate its tenacity. We would all love its will to reach for the sun. Well, we are the roses. This is the concrete. These are my damaged petals. Don’t ask me why. Ask me how. –Tupac Shakur, “The Rose That Grew From Concrete”</blockquote>

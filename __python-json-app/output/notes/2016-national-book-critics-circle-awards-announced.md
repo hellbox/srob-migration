@@ -1,8 +1,8 @@
 +++
 index = "-KD633LgVZAM2iUDYkXN"
-_sort_create_date = 1458259860
-_sort_last_updated = 1458260040
-_sort_publish_date = 1458259860
+sort_create_date = 1458259860
+sort_last_updated = 1458260040
+sort_publish_date = 1458259860
 create_date = "2016-03-17T17:11:00-07:00"
 publish_date = "2016-03-17T17:11:00-07:00"
 date = "2016-03-17T17:11:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The National Book Critics Circle Awards have been announced, and there are some damn fine books on the list."
 facebookauto = "The National Book Critics Circle Awards have been announced, and there are some damn fine books on the list."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/awards", "tags/national-book-critics-circle"]
-authors_notes = ["authors/maggie-nelson"]
+notes_about = ""
 books = ["books/the-argonauts"]
 +++
 Winners include:

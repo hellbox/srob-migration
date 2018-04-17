@@ -1,8 +1,8 @@
 +++
 index = "-KRzM3PFuj-qyL3ym95N"
-_sort_create_date = 1474236780
-_sort_last_updated = 1474312080
-_sort_publish_date = 1474311600
+sort_create_date = 1474236780
+sort_last_updated = 1474312080
+sort_publish_date = 1474311600
 create_date = "2016-09-18T15:13:00-07:00"
 publish_date = "2016-09-19T12:00:00-07:00"
 date = "2016-09-19T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Counterfactual, counterhistory, counter memory"
 dek = "We love to build alternative Jewish homelands in literature. Ivan Schneider looks at the latest."
 facebookauto = "A new imagined Jewish homeland appears in Simone Zelitch's Judenstaat. Ivan Schneider has our review."
 twitterauto = "A new imagined Jewish homeland appears in @simonezelitch\u2019s Judenstaat. @ivantohelpyou has our review."
-byline = ["writers/ivan-schneider"]
+reviews_byline = ["writers/ivan-schneider"]
 books_in_this_review = ["books/judenstaat"]
 tags_reviews = ["tags/judaism"]
-authors_reviews = ["authors/simone-zelitch"]
+reviews_about = ""
 +++
 
 Counterfactual history, or counterhistory, has its signature moves: Killing Hitler. Letting the other side win the war. Imagining a home for the Jewish people outside of Israel.

@@ -1,8 +1,8 @@
 +++
 index = "-KcFb8EzHb6Lm-qO0z2A"
-_sort_create_date = 1486337340
-_sort_last_updated = 1486337400
-_sort_publish_date = 1486337340
+sort_create_date = 1486337340
+sort_last_updated = 1486337400
+sort_publish_date = 1486337340
 create_date = "2017-02-05T15:29:00-08:00"
 publish_date = "2017-02-05T15:29:00-08:00"
 date = "2017-02-05T15:29:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/zK2bVSMSj5rtm0tqBXlZtr31aTluXBqTtP-JNvvTB4OFKuJ0VZw8HwNj4Yf65cLyjy5-jO30JhqXe4E-0eDPcnAsNHEX"
 url = "/webhook-uploads/1486337380946/content%3Fid%3DD_gvjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 11158
 
 review_relationship = ["reviews/all-happy-families-are-alike"]
-author_relationship = ["authors/laurie-frankel"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/second-times-the-charm-talking-with-laurie-frankel-about-the-pleasures-and-pains-of-paperbacks", "notes/literary-event-of-the-week-this-is-how-it-always-is-paperback-release-reading-at-seattle-public-library"]
 +++

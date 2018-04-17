@@ -1,8 +1,8 @@
 +++
 index = "-K1WUARIU7fpNchbOeEK"
-_sort_create_date = 1445818260
-_sort_last_updated = 1445837160
-_sort_publish_date = 1445893140
+sort_create_date = 1445818260
+sort_last_updated = 1445837160
+sort_publish_date = 1445893140
 create_date = "2015-10-25T17:11:00-07:00"
 publish_date = "2015-10-26T13:59:00-07:00"
 date = "2015-10-26T13:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/seattle-public-library", "tags/marcellus-turner"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 President Fujiwara and the Seattle Public Library’s Board of Trustees,

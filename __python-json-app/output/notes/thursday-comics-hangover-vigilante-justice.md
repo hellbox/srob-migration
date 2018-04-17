@@ -1,8 +1,8 @@
 +++
 index = "-KTwxQdUYw2B06L89UFq"
-_sort_create_date = 1476343980
-_sort_last_updated = 1476343980
-_sort_publish_date = 1476378000
+sort_create_date = 1476343980
+sort_last_updated = 1476343980
+sort_publish_date = 1476378000
 create_date = "2016-10-13T00:33:00-07:00"
 publish_date = "2016-10-13T10:00:00-07:00"
 date = "2016-10-13T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476343665617/Kill
 twitterauto = "Kill or Be Killed is a comic that mashes Taxi Driver up with the Punisher."
 facebookauto = ""
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Unlike a lot of male superhero comics readers of my generation, I’ve never been a fan of the Punisher. I always preferred my superheroes to be aspirational. Murdering criminals in the street is something that only criminals do. The Punisher, to me, has always demonstrated the ugly, conservative side of superheroes, where the bad guys are an other—monstrous, irredeemable, worthy of nothing but scorn.

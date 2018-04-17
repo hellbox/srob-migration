@@ -1,8 +1,8 @@
 +++
 index = "-L6V3u0pbuVcQ9NKJhQ7"
-_sort_create_date = 1519882800
-_sort_last_updated = 1519884480
-_sort_publish_date = 1519884480
+sort_create_date = 1519882800
+sort_last_updated = 1519884480
+sort_publish_date = 1519884480
 create_date = "2018-02-28T21:40:00-08:00"
 publish_date = "2018-02-28T22:08:00-08:00"
 date = "2018-02-28T22:08:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Seattle Times has published a report on the allegations against Sherman Alexie."
 facebookauto = "The Seattle Times has published a report on the allegations against Sherman Alexie."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ""
-authors_notes = ["authors/sherman-alexie", "authors/litsa-dremousis"]
+notes_about = ""
 books = ""
 +++
 Tonight, [Nina Shapiro and Brendan Kiley at the *Seattle Times*]( https://www.seattletimes.com/seattle-news/sherman-alexie-addresses-the-sexual-misconduct-allegations-that-have-led-to-fallout/) published the most comprehensive coverage of the accusations swirling around Seattle author Sherman Alexie to date, including [a statement from Alexie](https://www.documentcloud.org/documents/4391069-Sherman-Alexie-Statement.html?utm_content=buffer65709&utm_medium=social&utm_source=twitter&utm_campaign=owned_buffer_tw_m).

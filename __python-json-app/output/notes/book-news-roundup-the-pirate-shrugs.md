@@ -1,8 +1,8 @@
 +++
 index = "-KBBRNsfr_-JLUZ7netR"
-_sort_create_date = 1456202640
-_sort_last_updated = 1456205220
-_sort_publish_date = 1456256640
+sort_create_date = 1456202640
+sort_last_updated = 1456205220
+sort_publish_date = 1456256640
 create_date = "2016-02-22T20:44:00-08:00"
 publish_date = "2016-02-23T11:44:00-08:00"
 date = "2016-02-23T11:44:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup includes the most prolific comics pirate in the world."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comics", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Congratulations are due to Chris Higashi, the director of the Washington Center for the Book. [Mary Ann Gwinn at the *Seattle Times* reports](http://www.seattletimes.com/entertainment/books/we-are-all-completely-beside-ourselves-is-new-seattle-reads-book/) that Higashi is receiving this year's Sherry Prowda Literary Champion Award, which is a prize celebrating a person who champions the Seattle literary community. Higashi is a powerhouse who curates the library's reading series and many of the library's wonderful literacy programs. She is exactly the kind of person the library should be emulating; let's hope this award underlines that fact.

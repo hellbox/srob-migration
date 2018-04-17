@@ -1,8 +1,8 @@
 +++
 index = "-KeR46T99DQO6Pfocnmk"
-_sort_create_date = 1488677220
-_sort_last_updated = 1488677280
-_sort_publish_date = 1488735000
+sort_create_date = 1488677220
+sort_last_updated = 1488677280
+sort_publish_date = 1488735000
 create_date = "2017-03-04T17:27:00-08:00"
 publish_date = "2017-03-05T09:30:00-08:00"
 date = "2017-03-05T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\u201cWWMT?\": A race across icy Alaska, design thinking deconstructed, and Tom Waits wears his own clothes."
 facebookauto = "\u201cWWMT?\": A race across icy Alaska, design thinking deconstructed, and Tom Waits wears his own clothes in the Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat.</p>

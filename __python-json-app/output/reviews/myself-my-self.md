@@ -1,8 +1,8 @@
 +++
 index = "-KmxR5OAjUOg6QfzTOeV"
-_sort_create_date = 1497826860
-_sort_last_updated = 1497849480
-_sort_publish_date = 1497985260
+sort_create_date = 1497826860
+sort_last_updated = 1497849480
+sort_publish_date = 1497985260
 create_date = "2017-06-18T16:01:00-07:00"
 publish_date = "2017-06-20T12:01:00-07:00"
 date = "2017-06-20T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Myself, my self"
 dek = "Doug Nufer's latest book is a fascinating literary constraint that will make you wonder how much weight words can bear."
 facebookauto = "How much weight can words bear before they're devoid of meaning? Does a word have to carry meaning to still be a word? Doug Nufer's latest book will leave you wondering if we're using words to their fullest potential."
 twitterauto = "How much weight can words bear before they're devoid of meaning?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-me-theme"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/doug-nufer"]
+reviews_about = ""
 +++
 
 No writer in Seattle is more interested in the raw physicality of words than Doug Nufer. Nufer is interested in the shape of words, the multiple meanings they carry, the sound of them when spoken aloud, the look of them when aligned on the page next to each other. The meat and bones of words — before even the meaning imbues them with a kind of soul — fascinates him.

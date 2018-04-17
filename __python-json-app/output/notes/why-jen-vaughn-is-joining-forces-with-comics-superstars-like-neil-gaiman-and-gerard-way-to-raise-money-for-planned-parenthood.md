@@ -1,8 +1,8 @@
 +++
 index = "-Krib7vxoo-ZL8NSz2nM"
-_sort_create_date = 1502946780
-_sort_last_updated = 1503286620
-_sort_publish_date = 1503334800
+sort_create_date = 1502946780
+sort_last_updated = 1503286620
+sort_publish_date = 1503334800
 create_date = "2017-08-16T22:13:00-07:00"
 publish_date = "2017-08-21T10:00:00-07:00"
 date = "2017-08-21T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502946432482/jenv
 twitterauto = "We talked with @TheJenya about a comics anthology that raises money for @PPAct."
 facebookauto = "We talked with Seattle comics superstar Jen Vaughn about her contribution to a comics anthology fundraiser for Planned Parenthood."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/planned-parenthood"]
-authors_notes = ["authors/jen-vaughn", "authors/neil-gaiman"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1502946432482/jenvaughn.jpg)</p>

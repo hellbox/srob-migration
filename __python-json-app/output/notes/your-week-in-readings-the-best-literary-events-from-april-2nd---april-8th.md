@@ -1,8 +1,8 @@
 +++
 index = "-L6VRmROvBYLU78igiE1"
-_sort_create_date = 1519889040
-_sort_last_updated = 1522195440
-_sort_publish_date = 1522695240
+sort_create_date = 1519889040
+sort_last_updated = 1522195440
+sort_publish_date = 1522695240
 create_date = "2018-02-28T23:24:00-08:00"
 publish_date = "2018-04-02T11:54:00-07:00"
 date = "2018-04-02T11:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522194880657/song
 twitterauto = "Your week in readings features one hell of a debut party @HugoHouse."
 facebookauto = "Your week in readings features a hell of a debut party at Hugo House."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, April 2:  *Turn This Book Into a Beehive* Reading**</h5></p>

@@ -1,8 +1,8 @@
 +++
 index = "-KejMlab2_EHGSaaov08"
-_sort_create_date = 1489000920
-_sort_last_updated = 1489003920
-_sort_publish_date = 1489006920
+sort_create_date = 1489000920
+sort_last_updated = 1489003920
+sort_publish_date = 1489006920
 create_date = "2017-03-08T11:22:00-08:00"
 publish_date = "2017-03-08T13:02:00-08:00"
 date = "2017-03-08T13:02:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Get ready for another brick-and-mortar Amazon store, this time in Bellevue."
 facebookauto = "Get ready for another brick-and-mortar Amazon store, this time in Bellevue."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Amazon's tenth bookstore will open in the Bellevue Square mall later this year, [reports Jillian Stampher for GeekWire](http://www.geekwire.com/2017/amazon-open-10th-brick-mortar-bookstore-second-seattle-region-later-year/).

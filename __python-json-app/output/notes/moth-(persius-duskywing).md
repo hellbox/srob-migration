@@ -1,8 +1,8 @@
 +++
 index = "-KITAv59HDpelZHat5eH"
-_sort_create_date = 1464016500
-_sort_last_updated = 1464103020
-_sort_publish_date = 1464108900
+sort_create_date = 1464016500
+sort_last_updated = 1464103020
+sort_publish_date = 1464108900
 create_date = "2016-05-23T08:15:00-07:00"
 publish_date = "2016-05-24T09:55:00-07:00"
 date = "2016-05-24T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is by JM Miller, and the first line is: \"Its wings don\u2019t ground into dust, nor do they signal\""
 facebookauto = "Our Tuesday Poem is by JM Miller, and is called \"Moth (Persius Duskywing)\""
 make_image_tweet = "False"
-byline = ["writers/jm-miller"]
+notes_byline = ["writers/jm-miller"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Its wings don’t ground into dust, nor do they signal<br>

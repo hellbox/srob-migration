@@ -1,8 +1,8 @@
 +++
 index = "-JwLM5K7A0-Pl4TG8qdD"
-_sort_create_date = 1439189880
-_sort_last_updated = 1439189880
-_sort_publish_date = 1439189880
+sort_create_date = 1439189880
+sort_last_updated = 1439189880
+sort_publish_date = 1439189880
 create_date = "2015-08-09T23:58:00-07:00"
 publish_date = "2015-08-09T23:58:00-07:00"
 date = "2015-08-09T23:58:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/RvP46Ax6_nVyOu3Cc_qdYSdBhgzjx1CD9UXqwotJVjnNsPZ3QUFIFaejawBAuBCUT2x8ZwNzwStUTxTJhB5YO3XHk5ki"
 url = "/webhook-uploads/1439189801021/9780316738347.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 18375
 
 review_relationship = ["reviews/whats-one-more-american-death-give-or-take"]
-author_relationship = ["authors/james-neff"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/you-wont-ever-meet-bill-clinton-on-amazoncom"]
 +++

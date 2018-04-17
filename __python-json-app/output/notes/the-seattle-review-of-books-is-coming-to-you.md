@@ -1,8 +1,8 @@
 +++
 index = "-K4RULEtquBhbdaVF-tY"
-_sort_create_date = 1448955660
-_sort_last_updated = 1448955660
-_sort_publish_date = 1449005820
+sort_create_date = 1448955660
+sort_last_updated = 1448955660
+sort_publish_date = 1449005820
 create_date = "2015-11-30T23:41:00-08:00"
 publish_date = "2015-12-01T13:37:00-08:00"
 date = "2015-12-01T13:37:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's information about upcoming Seattle Review of Books events at @PhinneyBooks and @HugoHouse:"
 facebookauto = "If you're not getting enough Seattle Review of Books in your day-to-day life, SRoB co-founders Martin McClellan and Paul Constant will be reading at Phinney Books next week and teaching a class at Hugo House next month."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/housekeeping", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Two housekeeping issues we'd like to share with our readers:

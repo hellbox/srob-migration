@@ -1,8 +1,8 @@
 +++
 index = "-KvQNCDIYCd0upbW6ZuZ"
-_sort_create_date = 1506919080
-_sort_last_updated = 1508252880
-_sort_publish_date = 1508259300
+sort_create_date = 1506919080
+sort_last_updated = 1508252880
+sort_publish_date = 1508259300
 create_date = "2017-10-01T21:38:00-07:00"
 publish_date = "2017-10-17T09:55:00-07:00"
 date = "2017-10-17T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506919828269/Scre
 twitterauto = "\"Farthermore\" is the third poem from Poet in Residence @karywayson"
 facebookauto = "\"Farthermore\" is the third poem from Poet in Residence Kary Wayson"
 make_image_tweet = "False"
-byline = ["writers/kary-wayson"]
+notes_byline = ["writers/kary-wayson"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The child is no one. Her needs are<br>

@@ -1,8 +1,8 @@
 +++
 index = "-KxQwMpY8lueUKj3SKvT"
-_sort_create_date = 1509076020
-_sort_last_updated = 1509639300
-_sort_publish_date = 1509647400
+sort_create_date = 1509076020
+sort_last_updated = 1509639300
+sort_publish_date = 1509647400
 create_date = "2017-10-26T20:47:00-07:00"
 publish_date = "2017-11-02T11:30:00-07:00"
 date = "2017-11-02T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509075556925/ragn
 twitterauto = "Thor: Ragnarok is not a great movie, but it definitely contains pieces of great movies in it."
 facebookauto = "Thor: Ragnarok is not a great movie, but it definitely contains pieces of great movies in it."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/adaptation"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1509075556925/ragnarok.jpg)</p>

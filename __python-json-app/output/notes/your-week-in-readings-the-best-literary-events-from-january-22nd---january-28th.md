@@ -1,8 +1,8 @@
 +++
 index = "-L23_AFG26L5ASctQqyU"
-_sort_create_date = 1515126540
-_sort_last_updated = 1515126660
-_sort_publish_date = 1516650900
+sort_create_date = 1515126540
+sort_last_updated = 1515126660
+sort_publish_date = 1516650900
 create_date = "2018-01-04T20:29:00-08:00"
 publish_date = "2018-01-22T11:55:00-08:00"
 date = "2018-01-22T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1515126053824/yel
 twitterauto = "Topics discussed in this week's readings: self-reliance, feuding scientists, and residencies. "
 facebookauto = "Topics discussed in this week's readings: self-reliance, feuding scientists, and residencies. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, January 22: * The German Art of Raising Self-Reliant Children* Reading**</h5></p>

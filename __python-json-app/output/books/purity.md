@@ -1,8 +1,8 @@
 +++
 index = "-JwdJZYTf6yAFrhn4bfi"
-_sort_create_date = 1439507280
-_sort_last_updated = 1517203980
-_sort_publish_date = 1439507280
+sort_create_date = 1439507280
+sort_last_updated = 1517203980
+sort_publish_date = 1439507280
 create_date = "2015-08-13T16:08:00-07:00"
 publish_date = "2015-08-13T16:08:00-07:00"
 date = "2015-08-13T16:08:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/EloDoa5eit6DLyiOrPOKZenNAM0j0K5Ozy3-JSemqb9t5eOTY2Vs751k4xUKBohyxWnIa0t8bd1AmM6o6h7qpl_garo"
 url = "/webhook-uploads/1439507301995/content%3Fid%3DLDYbrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 9897
 
 review_relationship = ""
-author_relationship = ["authors/jonathan-franzen"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-a-cute-boy-only-reads-self-important-books-by-self-important-men-\u2014\u00a0what-do-i-do"]
 +++

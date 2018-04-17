@@ -1,8 +1,8 @@
 +++
 index = "-KgXbVLGXLxNP13OndxX"
-_sort_create_date = 1490934420
-_sort_last_updated = 1490934720
-_sort_publish_date = 1490934420
+sort_create_date = 1490934420
+sort_last_updated = 1490934720
+sort_publish_date = 1490934420
 create_date = "2017-03-30T21:27:00-07:00"
 publish_date = "2017-03-30T21:27:00-07:00"
 date = "2017-03-30T21:27:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/JA_Rwq6hCO8DoIBU3ljKkcckb3lDFjvnNE9wUHBCdAfWrI9QeKrZae0aMQz5za6BLZJTEEzM91AqjFezl-413ZEfPILRVQ"
 url = "/webhook-uploads/1490934724823/IMG_1538.JPG"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 1916600
 
 review_relationship = ["reviews/one-of-a-kind"]
-author_relationship = ["authors/catherine-bresner"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

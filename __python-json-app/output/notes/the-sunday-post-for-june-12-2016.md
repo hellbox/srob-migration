@@ -1,8 +1,8 @@
 +++
 index = "-KJwx8RtJzXDFY9DcvFQ"
-_sort_create_date = 1465606500
-_sort_last_updated = 1465835220
-_sort_publish_date = 1465747200
+sort_create_date = 1465606500
+sort_last_updated = 1465835220
+sort_publish_date = 1465747200
 create_date = "2016-06-10T17:55:00-07:00"
 publish_date = "2016-06-12T09:00:00-07:00"
 date = "2016-06-12T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Pieces from @join_scout, @SEMcBain, and @alex_shephard in today's Sunday Post. "
 facebookauto = "Driverless cars in our driver-full city, grade inflation on book reviews, and are we losing our brains, now that we can outsource them to our phones? All in today's Sunday Post"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="https://scout.ai/story/cities-like-seattle-are-recklessly-unprepared-for-self-driving-cars" title="None">Cities Like Seattle Are Recklessly Unprepared For Self-Driving Cars</a></h5>

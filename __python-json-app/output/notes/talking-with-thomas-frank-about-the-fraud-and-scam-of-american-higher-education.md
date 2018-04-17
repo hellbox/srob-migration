@@ -1,8 +1,8 @@
 +++
 index = "-KiGo0v8A9Om9-7VtDoB"
-_sort_create_date = 1492799940
-_sort_last_updated = 1492799940
-_sort_publish_date = 1493052900
+sort_create_date = 1492799940
+sort_last_updated = 1492799940
+sort_publish_date = 1493052900
 create_date = "2017-04-21T11:39:00-07:00"
 publish_date = "2017-04-24T09:55:00-07:00"
 date = "2017-04-24T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492799729090/down
 twitterauto = "We talked with \u200e@PicadorUSA author Thomas Frank about the \"scam\" behind higher education in America."
 facebookauto = "We talked with Thomas Frank about the \"scam\" behind higher education in America."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/thomas-frank"]
+notes_about = ""
 books = ["books/listen-liberal"]
 +++
 <p class="intro">Last week, [Thomas Frank was in town to read at Town Hall Seattle](http://www.seattlereviewofbooks.com/notes/2017/04/19/the-populist-who-crashed-the-party/) from his new-in-paperback book *Listen, Liberal*. If you're looking to understand what went wrong with the Democratic Party over the last few years, this is the book for you: Frank explains that Democratic leaders have over time shifted the Democrats from a working-class party to a league of meritocratic professional elites. While Frank was in Seattle, he agreed to meet for a podcast interview for [my day job at Civic Ventures](http://civic-ventures.com/). The full interview will be released on Thursday of this week as the first episode of the second season of our new podcast, *The Other Washington*. (You can [subscribe to our podcast on iTunes](https://itunes.apple.com/us/podcast/the-other-washington/id1081134368?mt=2) or, as they say, wherever you get your podcasts.) But for now, here's a sample of our conversation.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-JuDMxOBM5qsqkGBIAbt"
-_sort_create_date = 1436907720
-_sort_last_updated = 1436907720
-_sort_publish_date = 1436907720
+sort_create_date = 1436907720
+sort_last_updated = 1436907720
+sort_publish_date = 1436907720
 create_date = "2015-07-14T14:02:00-07:00"
 publish_date = "2015-07-14T14:02:00-07:00"
 date = "2015-07-14T14:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/go-set-a-watchman"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Today, in case you can't tell from the flurry of posts on the internet and on this site, is the official release day of the *To Kill a Mockingbird* sequel/prequel. If you're frustrated by the overkill, I promise it will all be over tomorrow. But until then, [Quartz has discovered](http://qz.com/452650/harper-lee-revisions/) that significant portions of *Watchman* very closely resemble significant portions of *Mockingbird*. Of course, self-plagiarism is no crime — and by all accounts, *Watchman* was an early draft of *Mockingbird*, which explains the overlap — but it again raises the question of why *Watchman* even exists. 

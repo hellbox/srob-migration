@@ -1,8 +1,8 @@
 +++
 index = "-K-bFZQJ7J-x5tS-lyTA"
-_sort_create_date = 1443767640
-_sort_last_updated = 1443767640
-_sort_publish_date = 1443819240
+sort_create_date = 1443767640
+sort_last_updated = 1443767640
+sort_publish_date = 1443819240
 create_date = "2015-10-01T23:34:00-07:00"
 publish_date = "2015-10-02T13:54:00-07:00"
 date = "2015-10-02T13:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The comics industry has a history of sexual harassment and a culture of silence. It's time for that to end."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comics", "tags/sexual-assault"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *SRoB* tipper [Nick Hanover](https://twitter.com/Nick_Hanover/status/649818773860388864) alerted me to [this excellent Graphic Policy story by Janelle Asselin](http://graphicpolicy.com/2015/10/01/enough-is-enough-dark-horses-scott-allies-assaulting-behavior/) about former Dark Horse Comics editor-in-chief Scott Allie, alleging that Allie frequently engaged in "out of control behavior while drunk and biting." Yes, biting. As in, his nickname around the office was supposedly "**Bitey the Clown**." Allie was removed from his job this fall after he publicly assaulted two people at a convention, but rumor has it that Dark Horse Comics in specific, and the Portland comics scene in general, has been covering up for Allie for years. (And in fact, Allie **still works at Dark Horse**, under the title "executive senior editor.")

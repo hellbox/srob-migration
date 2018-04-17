@@ -1,8 +1,8 @@
 +++
 index = "-KgXLM5irXDckwp4UIlI"
-_sort_create_date = 1490929920
-_sort_last_updated = 1490930400
-_sort_publish_date = 1490985900
+sort_create_date = 1490929920
+sort_last_updated = 1490930400
+sort_publish_date = 1490985900
 create_date = "2017-03-30T20:12:00-07:00"
 publish_date = "2017-03-31T11:45:00-07:00"
 date = "2017-03-31T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Help wanted: Contribute to a new comics anthology, make some quick calls for @HugoHouse, and take part in a play."
 facebookauto = "Looking for ways to contribute to the local literary scene? Place a quick call for Hugo House, contribute to a new comics anthology about sexual assault and consent, and contribute your Spanish-speaking skills to an exciting new project from a playwright."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house", "tags/atlas-obscura"]
-authors_notes = ["authors/shin-yu-pai"]
+notes_about = ""
 books = ""
 +++
 * Hugo House published an important [call to action on their Facebook page](https://www.facebook.com/hugohouse/photos/a.217832891060.178515.53183671060/10154972280241061/?type=3&theater):

@@ -1,8 +1,8 @@
 +++
 index = "-JubpHaqnWBi5jKifSAW"
-_sort_create_date = 1437334800
-_sort_last_updated = 1437334800
-_sort_publish_date = 1438012800
+sort_create_date = 1437334800
+sort_last_updated = 1437334800
+sort_publish_date = 1438012800
 create_date = "2015-07-19T12:40:00-07:00"
 publish_date = "2015-07-27T09:00:00-07:00"
 date = "2015-07-27T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **Monday**: Tonight’s recommended event is the [Seattle Spelling Bee at Cafe Racer](https://www.facebook.com/events/1585721615021873/), in which adults drink beer and try to spell words of varying difficulty. What could possibly go wrong?

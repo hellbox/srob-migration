@@ -1,8 +1,8 @@
 +++
 index = "-KsI0SC9x5YqXrxN37P2"
-_sort_create_date = 1503557700
-_sort_last_updated = 1503557700
-_sort_publish_date = 1504716600
+sort_create_date = 1503557700
+sort_last_updated = 1503557700
+sort_publish_date = 1504716600
 create_date = "2017-08-23T23:55:00-07:00"
 publish_date = "2017-09-06T09:50:00-07:00"
 date = "2017-09-06T09:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500849484900/Read
 twitterauto = "Are you ready for Readerfest? It's happening this weekend at Magnuson Park!"
 facebookauto = "Are you ready for Readerfest? It's happening this weekend at Magnuson Park!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/readerfest"]
-authors_notes = ["authors/nisi-shawl", "authors/kathleen-alcala"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1500849484900/Reader_FinalPoster-01.jpg)</p>

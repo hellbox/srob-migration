@@ -1,8 +1,8 @@
 +++
 index = "-KD9qVCEjjb1oBX9Aj_y"
-_sort_create_date = 1458323400
-_sort_last_updated = 1458323940
-_sort_publish_date = 1458323940
+sort_create_date = 1458323400
+sort_last_updated = 1458323940
+sort_publish_date = 1458323940
 create_date = "2016-03-18T10:50:00-07:00"
 publish_date = "2016-03-18T10:59:00-07:00"
 date = "2016-03-18T10:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Should you feel guilty about buying used books? What if you go to a reading and don't buy a book?"
 facebookauto = "In this week's advice column, one letter-writer feels guilty about buying used books. Another feels guilty about going to readings and not buying a copy of the book. Cienna Madrid wants them to know what real guilt feels like."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-K9zKZ4AvlUk0NcnbaK9"
-_sort_create_date = 1454909040
-_sort_last_updated = 1454909100
-_sort_publish_date = 1454965260
+sort_create_date = 1454909040
+sort_last_updated = 1454909100
+sort_publish_date = 1454965260
 create_date = "2016-02-07T21:24:00-08:00"
 publish_date = "2016-02-08T13:01:00-08:00"
 date = "2016-02-08T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Remember \"If All Seattle Read the Same Book?\" That was a lot of fun."
 facebookauto = "Remember \"If All Seattle Read the Same Book?\" That was a lot of fun. Did you know that program is still going? And are you ready to hear what this year's selection is?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library"]
-authors_notes = ["authors/karen-joy-fowler"]
+notes_about = ""
 books = ""
 +++
 Remember the "If All Seattle Read the Same Book" program that Nancy Pearl started almost twenty years ago? Did you know it's still going on? It's true! Only a few years ago, Seattle Public Library changed the title of the program from Nancy Pearl's super-cool name to the much-less-compelling "Seattle Reads." It's still basically the same idea: SPL has a ton of copies of one book, and the author appears at library branches all around town to talk about the book. Why did they change the name to something passive and un-catchy? I dunno.

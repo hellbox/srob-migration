@@ -1,8 +1,8 @@
 +++
 index = "-L8nwfqhiAhUaTvf9tzD"
-_sort_create_date = 1522363680
-_sort_last_updated = 1522639200
-_sort_publish_date = 1522868400
+sort_create_date = 1522363680
+sort_last_updated = 1522639200
+sort_publish_date = 1522868400
 create_date = "2018-03-29T15:48:00-07:00"
 publish_date = "2018-04-04T12:00:00-07:00"
 date = "2018-04-04T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Trying to make sense of the border"
 dek = "At the border between Mexico and the United States, lines run much deeper than the surface of a map. "
 facebookauto = "Near the border, lines can blur, says Donna Miscolta, reviewing Francisco Cant\u00fa's memoir of his time as a border agent."
 twitterauto = "Near the border, lines blur, says @DonnaMiscolta in her sharp-eyed review of @_franciscocantu's Line Becomes a River"
-byline = ["writers/donna-miscolta"]
+reviews_byline = ["writers/donna-miscolta"]
 books_in_this_review = ["books/the-line-becomes-a-river"]
 tags_reviews = ""
-authors_reviews = ["authors/francisco-cant\u00fa"]
+reviews_about = ""
 +++
 
 When I was a college student in San Diego, I worked part-time at the Natural History Museum doing a variety of jobs. I was a zoology major and was once invited to join the herpetologist and his student assistants in the field. We drove over the mountains and dropped into the desert near the border. I was the only brown person in the car, and when a border patrol helicopter whirred overhead, one of the assistants yelled, with mock urgency, “Hide Donna!” Presumably, that’s what they would’ve done had I been undocumented, though that wasn’t the word in use in the 70s. 

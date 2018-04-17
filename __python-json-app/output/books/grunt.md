@@ -1,8 +1,8 @@
 +++
 index = "-KKI-Rx0Has7vStqprka"
-_sort_create_date = 1465976460
-_sort_last_updated = 1465976700
-_sort_publish_date = 1465976460
+sort_create_date = 1465976460
+sort_last_updated = 1465976700
+sort_publish_date = 1465976460
 create_date = "2016-06-15T00:41:00-07:00"
 publish_date = "2016-06-15T00:41:00-07:00"
 date = "2016-06-15T00:41:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Science"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BCgAMK1O7n6LQbvA98pZx280qEraoTybg4tAnDxr53-2Shtb0qOmkc28ywJUXahX3-OTUCnecVh2HdNM5M35swtexEQ"
 url = "/webhook-uploads/1465976474903/content%3Fid%3DnxMtjgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7992
 
 review_relationship = ["reviews/rational-exuberance"]
-author_relationship = ["authors/mary-roach"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

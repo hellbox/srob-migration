@@ -1,8 +1,8 @@
 +++
 index = "-JsiTJeTkm8gjqm4coqR"
-_sort_create_date = 1435299060
-_sort_last_updated = 1517204040
-_sort_publish_date = 1435299060
+sort_create_date = 1435299060
+sort_last_updated = 1517204040
+sort_publish_date = 1435299060
 create_date = "2015-06-25T23:11:00-07:00"
 publish_date = "2015-06-25T23:11:00-07:00"
 date = "2015-06-25T23:11:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4zZOxgVSoBRjsZ2kN1WZ55vV__h2VVE5R6CTbjMl6aHS7mix3hYY7_KDsk2p1MB-EmEvFn40gK9FhGeCz82Yss6qSXxgEQ"
 url = "/webhook-uploads/1435298949268/9780374277895.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 20671
 
 review_relationship = ["reviews/traveling-light"]
-author_relationship = ["authors/\u00e5sne-seierstad"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

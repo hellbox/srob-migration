@@ -1,8 +1,8 @@
 +++
 index = "-KFrIOPMaj9PQmbStBpt"
-_sort_create_date = 1461216660
-_sort_last_updated = 1461216660
-_sort_publish_date = 1461258000
+sort_create_date = 1461216660
+sort_last_updated = 1461216660
+sort_publish_date = 1461258000
 create_date = "2016-04-20T22:31:00-07:00"
 publish_date = "2016-04-21T10:00:00-07:00"
 date = "2016-04-21T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461216118897/2016
 twitterauto = "We checked out minicomics from @eltripol, @ColleenFrakes, and @JosephLaney."
 facebookauto = "This week's comics column looks at a Chick Tract exploration of Frank Herbert's Dune series and a love letter to Ruth Bader Ginsburg."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/phoenix-comics-and-games", "tags/minicomics"]
-authors_notes = ["authors/colleen-frakes"]
+notes_about = ""
 books = ["books/prison-island"]
 +++
 <p class="image">![](/webhook-uploads/1461216118897/20160420_185901.jpg)</p>

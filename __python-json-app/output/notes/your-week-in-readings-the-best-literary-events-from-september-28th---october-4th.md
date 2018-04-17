@@ -1,8 +1,8 @@
 +++
 index = "-KS-flrMkyHwMcpMwa11"
-_sort_create_date = 1474258980
-_sort_last_updated = 1475185140
-_sort_publish_date = 1475085660
+sort_create_date = 1474258980
+sort_last_updated = 1475185140
+sort_publish_date = 1475085660
 create_date = "2016-09-18T21:23:00-07:00"
 publish_date = "2016-09-28T11:01:00-07:00"
 date = "2016-09-28T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1474258699092/mtra
 twitterauto = "Here's one great reading for every night of the week."
 facebookauto = "Your week in readings includes a grief ritual, a writing class, and a discussion about censorship."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday September 28th: Eye on India**</h5></p> 

@@ -1,8 +1,8 @@
 +++
 index = "-K2DczJ5mfnxtxqvyMzi"
-_sort_create_date = 1446575820
-_sort_last_updated = 1446575820
-_sort_publish_date = 1446575820
+sort_create_date = 1446575820
+sort_last_updated = 1446575820
+sort_publish_date = 1446575820
 create_date = "2015-11-03T10:37:00-08:00"
 publish_date = "2015-11-03T10:37:00-08:00"
 date = "2015-11-03T10:37:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/7oQ9ES0nQ0jWn0VGxmvakll5K8rFo6CoCOsMVMtTxuOBfxxkaEpAQspCNs65YRJnEYrfFzu8YfTaGTYGHoHKE8SPmY3x"
 url = "/webhook-uploads/1446575812466/9780374158279.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 25785
 
 review_relationship = ""
-author_relationship = ["authors/ari-berman"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/voting-is-power-a-conversation-with-ari-berman-about-the-struggle-for-voting-rights-in-america", "notes/wear-your-i-voted-stickers-to-town-hall-tonight"]
 +++

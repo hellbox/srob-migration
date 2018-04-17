@@ -1,8 +1,8 @@
 +++
 index = "-KVub01a124cKHatngrT"
-_sort_create_date = 1478452020
-_sort_last_updated = 1478452680
-_sort_publish_date = 1478453400
+sort_create_date = 1478452020
+sort_last_updated = 1478452680
+sort_publish_date = 1478453400
 create_date = "2016-11-06T09:07:00-08:00"
 publish_date = "2016-11-06T09:30:00-08:00"
 date = "2016-11-06T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday post has: Ferrante, militias, defrauding voters, and uninvited KKK party guests. "
 facebookauto = "The Sunday Post today links to four pieces that deal with: Elena Ferrante's new book, militias, defrauding voters, and how do you solve a problem like David Duke?"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="https://newrepublic.com/article/138017/elena-ferrante-private-novelist?utm_content=buffer8d904&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" title="Elena Ferrante, Private Novelist | New Republic">Elena Ferrante, Private Novelist</a></h5>

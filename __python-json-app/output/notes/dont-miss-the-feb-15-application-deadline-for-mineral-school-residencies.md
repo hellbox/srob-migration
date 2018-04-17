@@ -1,8 +1,8 @@
 +++
 index = "-L35fIPEeLp5YaIIpyCR"
-_sort_create_date = 1516235460
-_sort_last_updated = 1516235760
-_sort_publish_date = 1516654800
+sort_create_date = 1516235460
+sort_last_updated = 1516235760
+sort_publish_date = 1516654800
 create_date = "2018-01-17T16:31:00-08:00"
 publish_date = "2018-01-22T13:00:00-08:00"
 date = "2018-01-22T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516235600323/Mine
 twitterauto = "We love you, and we love the residency program run by sponsor @MineralSchool. Shouldn't you be together?"
 facebookauto = "We love you, and we love the residency program run by sponsor Mineral School. Shouldn't you be together? Don't miss the Feb. 15 application deadline!"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1516235297989/Mineral%20School_chalk.jpg)</p>

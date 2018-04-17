@@ -1,8 +1,8 @@
 +++
 index = "-KSY9_6UXHn2CD4hoXcu"
-_sort_create_date = 1474837440
-_sort_last_updated = 1474837440
-_sort_publish_date = 1474909260
+sort_create_date = 1474837440
+sort_last_updated = 1474837440
+sort_publish_date = 1474909260
 create_date = "2016-09-25T14:04:00-07:00"
 publish_date = "2016-09-26T10:01:00-07:00"
 date = "2016-09-26T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "You can travel to the other side of the world, but you'll never find another bookstore like Lion Heart."
 facebookauto = "You can travel to the other side of the world, but you'll never find another shop like our Bookstore of the Month, Lion Heart Books."
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/lion-heart-books"]
-authors_notes = ["authors/barbara-kingsolver"]
+notes_about = ""
 books = ""
 +++
 Well-versed in the contents of his shop and the world of books, a recommendation from David is a valuable gift. He went straight from high school to bookselling and has held his current position as caretaker of [Lion Heart Book Store](http://www.seattlereviewofbooks.com/notes/2016/09/05/our-september-bookstore-of-the-month-is-lion-heart-book-store/) for 15 years. In a half-serious, half-joking tone (leaving the facts amusingly uncertain), he explained that his father offered him three choices after high school: he’d send him to vet school, send him to prison, or help him start a bookstore. 

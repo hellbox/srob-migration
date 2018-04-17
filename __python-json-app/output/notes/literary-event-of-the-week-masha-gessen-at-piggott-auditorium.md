@@ -1,8 +1,8 @@
 +++
 index = "-KvB7lxDIfPntd4VLKer"
-_sort_create_date = 1506663360
-_sort_last_updated = 1506711720
-_sort_publish_date = 1507136100
+sort_create_date = 1506663360
+sort_last_updated = 1506711720
+sort_publish_date = 1507136100
 create_date = "2017-09-28T22:36:00-07:00"
 publish_date = "2017-10-04T09:55:00-07:00"
 date = "2017-10-04T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506663263458/futu
 twitterauto = "Masha Gessen is the best writer in the world on the topic of Russia. "
 facebookauto = "Masha Gessen is the best writer in the world on the topic of Russia. That means she might just be the most important writer in the world."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/reading-through-it"]
-authors_notes = ["authors/masha-gessen"]
+notes_about = ""
 books = ""
 +++
 Permit me a moment to entertain my own craven self-interest: Reading Through It, the book club co-sponsored by the *Seattle Weekly* and the *Seattle Review of Books*, is happening tonight at Third Place Books Seward Park. We meet at 7 pm, you can bring booze to the book club, and no purchase is necessary. We’ll be discussing Noam Chomsky’s book *Requiem for the American Dream*. Our Trump-era book club is still going strong, with dozens of folks coming out for last month’s event, but there’s always room for you.

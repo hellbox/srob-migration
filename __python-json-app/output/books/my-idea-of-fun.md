@@ -1,8 +1,8 @@
 +++
 index = "-KG8zxQ1PpHahFwvazMI"
-_sort_create_date = 1461530340
-_sort_last_updated = 1461530340
-_sort_publish_date = 1461530340
+sort_create_date = 1461530340
+sort_last_updated = 1461530340
+sort_publish_date = 1461530340
 create_date = "2016-04-24T13:39:00-07:00"
 publish_date = "2016-04-24T13:39:00-07:00"
 date = "2016-04-24T13:39:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/b3x6fDe5irhalbQcqDcy0RZc2lZQN5Vw9LIma28cyOLnoCInSNese1jAe2jkSLihzL1NSWRfXVFPNjIKk4PvyCZpzO_p"
 url = "/webhook-uploads/1461530325055/MyIdeaofFun.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 587628
 
 review_relationship = ""
-author_relationship = ["authors/brian-cooney"]
+books_author = ""
 sponsorships_book = ["sponsorships/my-idea-of-fun"]
 notes_relationship = ["notes/everybodys-idea-of-fun"]
 +++

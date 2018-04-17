@@ -1,8 +1,8 @@
 +++
 index = "-K0rheXsLMlwv0FOBt1_"
-_sort_create_date = 1445117460
-_sort_last_updated = 1445117580
-_sort_publish_date = 1445117460
+sort_create_date = 1445117460
+sort_last_updated = 1445117580
+sort_publish_date = 1445117460
 create_date = "2015-10-17T14:31:00-07:00"
 publish_date = "2015-10-17T14:31:00-07:00"
 date = "2015-10-17T14:31:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/iQt6KWEyrTslGT4uiL-Q7vR6kZ_CZggS3o9fMJtVRsOAKTiWVtl4w8i4ABvQRz8l-3VPyeBFoPJgLYm3SkSohplEzoq2"
 url = "/webhook-uploads/1445117470225/content%3Fid%3DgGeAAAAAIAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12807
 
 review_relationship = ["reviews/that-is-so-weird"]
-author_relationship = ["authors/johanna-sinisalo"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

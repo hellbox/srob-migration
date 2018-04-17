@@ -1,8 +1,8 @@
 +++
 index = "-K1bbEaOJD7_DUkRSIAJ"
-_sort_create_date = 1445921040
-_sort_last_updated = 1445965020
-_sort_publish_date = 1445964900
+sort_create_date = 1445921040
+sort_last_updated = 1445965020
+sort_publish_date = 1445964900
 create_date = "2015-10-26T21:44:00-07:00"
 publish_date = "2015-10-27T09:55:00-07:00"
 date = "2015-10-27T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/jourdan-imani-keith"]
+notes_byline = ["writers/jourdan-imani-keith"]
 tags_notes = ["tags/poetry", "tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Rushing toward the ocean tongue<br>

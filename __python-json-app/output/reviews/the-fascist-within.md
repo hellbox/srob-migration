@@ -1,8 +1,8 @@
 +++
 index = "-KPzaV7leiYN_c-g6d-6"
-_sort_create_date = 1472093340
-_sort_last_updated = 1479153900
-_sort_publish_date = 1479153900
+sort_create_date = 1472093340
+sort_last_updated = 1479153900
+sort_publish_date = 1479153900
 create_date = "2016-08-24T19:49:00-07:00"
 publish_date = "2016-11-14T12:05:00-08:00"
 date = "2016-11-14T12:05:00-08:00"
@@ -13,10 +13,10 @@ title = "The fascist within"
 dek = "If you're still reeling from the thought of President Trump, it's time to compose yourself. We must prepare to fight the fascist future. "
 facebookauto = "Now that President Trump has been elected, how do we stop America from sliding into fascism? (This piece originally ran in August, but we're re-running it because it seems even more pertinent now.)"
 twitterauto = "We published this piece in August, but it's more relevant now than ever. How do we stop fascism in America?"
-byline = ["writers/sarah-bakker-kellogg"]
+reviews_byline = ["writers/sarah-bakker-kellogg"]
 books_in_this_review = ["books/integral-europe"]
 tags_reviews = ["tags/nonfiction", "tags/donald-trump", "tags/brexit"]
-authors_reviews = ["authors/douglas-r-holmes"]
+reviews_about = ""
 +++
 
 I shouldn’t have been surprised by Brexit. And I shouldn’t have been surprised by the intensity of Donald Trump’s support among a volatile electorate. Living in a too-homogenous left-wing enclave on the West Coast, I was caught off guard. But I should have known better: I study racial and religious politics in Europe for a living, and this story is so familiar it hurts. So when the *New York Times* posted a video of Trump supporters screaming vicious racist epithets at a rally a few weeks ago, to tell us all to *look! Pay attention, America! This is the sound of fascism reborn!*, I pulled a book off my shelf that I haven’t read since my grad student days. I’ve been shoving it into the hands of everyone I know, in person and online. *Here you go! Read this!*

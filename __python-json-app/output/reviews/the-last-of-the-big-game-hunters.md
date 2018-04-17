@@ -1,8 +1,8 @@
 +++
 index = "-Jvm6C00_8S9_-5LxPKv"
-_sort_create_date = 1438581000
-_sort_last_updated = 1499867700
-_sort_publish_date = 1438627800
+sort_create_date = 1438581000
+sort_last_updated = 1499867700
+sort_publish_date = 1438627800
 create_date = "2015-08-02T22:50:00-07:00"
 publish_date = "2015-08-03T11:50:00-07:00"
 date = "2015-08-03T11:50:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "34b96a18-34d1-f4fe-c7ab-d0e0372e833b"
 name = "The last of the big game hunters"
 title = "The last of the big game hunters"
 dek = "Cecil wasn't the only lion to be killed by a rich white American with way too much time on his hands. The Great White Hunter narrative has a long (and until recently, a proud) tradition in literature."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/death-in-the-dark-continent", "books/in-africa"]
 tags_reviews = ["tags/big-game-hunting", "tags/trophy-hunting", "tags/cecil-the-lion", "tags/walter-palmer"]
-authors_reviews = ["authors/peter-hathaway-capstick", "authors/john-tinney-mccutcheon", "authors/ernest-hemingway", "authors/aj-hunter"]
+reviews_about = ""
 +++
 
 If you’ve spent any amount of time on the internet in the last week or so, you know that Dr. Walter Palmer, a dentist from Minnesota, [shot and killed a celebrity lion named Cecil](http://www.nytimes.com/2015/07/31/opinion/the-death-of-cecil-the-lion.html?_r=0) on July 1st of this year in Zimbabwe. Palmer’s actions inspired the internet to recoil in outrage; he was doxxed almost immediately and had to go into hiding when people began plastering the front of his business with shaming messages and threats. 

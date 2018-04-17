@@ -1,8 +1,8 @@
 +++
 index = "-KpldNAiQWzevZTTy6iI"
-_sort_create_date = 1500850200
-_sort_last_updated = 1500915960
-_sort_publish_date = 1500922200
+sort_create_date = 1500850200
+sort_last_updated = 1500915960
+sort_publish_date = 1500922200
 create_date = "2017-07-23T15:50:00-07:00"
 publish_date = "2017-07-24T11:50:00-07:00"
 date = "2017-07-24T11:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500849484900/Read
 twitterauto = "Meet Karen Junker, the creator of Readerfest."
 facebookauto = "This morning, we told you about Readerfest, a free family-friendly book festival happening at Magnuson Park on September 9th. Here's an interview with the founder of Readerfest, Karen Junker."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/readerfest"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Karen Junker’s life has always been devoted to books. Though the tiny Washington town where she grew up, DuPont, didn’t have a library when she was young, “I loved reading more than anything.” One of her high school classmates was Robert Heinlein’s niece, and Junker clearly recalls her meeting with the sci-fi great to be a turning point in her life. 

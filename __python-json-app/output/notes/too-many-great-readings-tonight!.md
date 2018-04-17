@@ -1,8 +1,8 @@
 +++
 index = "-KEePLM7oV8aQey-HxWD"
-_sort_create_date = 1459926660
-_sort_last_updated = 1460044980
-_sort_publish_date = 1460053800
+sort_create_date = 1459926660
+sort_last_updated = 1460044980
+sort_publish_date = 1460053800
 create_date = "2016-04-06T00:11:00-07:00"
 publish_date = "2016-04-07T11:30:00-07:00"
 date = "2016-04-07T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1459926270223/sire
 twitterauto = "There are three great-looking events happening tonight. Which are you going to?"
 facebookauto = "There are three great-looking events happening tonight. Which are you going to?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 As we've mentioned, tonight is the very last Cheap Wine & Poetry event at the Hugo House. This is our pick for the best event of the evening; CW&P is a consistently great event, and this is its last time on the Hugo House stage before the House is demolished later this year. Further, the future of CW&P — and the answer to the question of whether CW&P even *has* a future — has not yet been announced. It's a milestone! 

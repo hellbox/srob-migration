@@ -1,8 +1,8 @@
 +++
 index = "-KLJL5bsbqj5M1sUakg7"
-_sort_create_date = 1467072660
-_sort_last_updated = 1467121380
-_sort_publish_date = 1467132900
+sort_create_date = 1467072660
+sort_last_updated = 1467121380
+sort_publish_date = 1467132900
 create_date = "2016-06-27T17:11:00-07:00"
 publish_date = "2016-06-28T09:55:00-07:00"
 date = "2016-06-28T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is by @meghantmcclure, and it's titled \"Bruise: A Study\""
 facebookauto = "Our Tuesday Poem is by Meghan McClure, and it's titled \"Bruise: A Study\""
 make_image_tweet = "False"
-byline = ["writers/meghan-mcclure"]
+notes_byline = ["writers/meghan-mcclure"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **Bruise: A Study**

@@ -1,8 +1,8 @@
 +++
 index = "-JxkiKx_pUQW8a42qahw"
-_sort_create_date = 1440705240
-_sort_last_updated = 1440774480
-_sort_publish_date = 1440705240
+sort_create_date = 1440705240
+sort_last_updated = 1440774480
+sort_publish_date = 1440705240
 create_date = "2015-08-27T12:54:00-07:00"
 publish_date = "2015-08-27T12:54:00-07:00"
 date = "2015-08-27T12:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Introducing the new creative director at the Bureau of @Fearless_Ideas: the one and only @davidschmader!"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bureau-of-fearless-ideas"]
-authors_notes = ["authors/david-schmader"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1440704453028/DavidSchmader.jpg)</p>

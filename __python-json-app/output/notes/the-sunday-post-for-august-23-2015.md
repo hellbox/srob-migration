@@ -1,8 +1,8 @@
 +++
 index = "-JxN-iK1xdG25H2A3xGG"
-_sort_create_date = 1440290580
-_sort_last_updated = 1440303720
-_sort_publish_date = 1440345600
+sort_create_date = 1440290580
+sort_last_updated = 1440303720
+sort_publish_date = 1440345600
 create_date = "2015-08-22T17:43:00-07:00"
 publish_date = "2015-08-23T09:00:00-07:00"
 date = "2015-08-23T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This weeks's Sunday post, with pieces from @jezburrows, @wynkenhimself, @bydavidnickle, and George Orwell"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Dictionary Stories](http://www.dictionarystories.com)</h5>

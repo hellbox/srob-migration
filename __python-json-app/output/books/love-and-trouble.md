@@ -1,8 +1,8 @@
 +++
 index = "-KjZA90CnOBdIBn2Xn3E"
-_sort_create_date = 1494181740
-_sort_last_updated = 1494352980
-_sort_publish_date = 1494181740
+sort_create_date = 1494181740
+sort_last_updated = 1494352980
+sort_publish_date = 1494181740
 create_date = "2017-05-07T11:29:00-07:00"
 publish_date = "2017-05-07T11:29:00-07:00"
 date = "2017-05-07T11:29:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/8TTBg9YWCP2VST4FSHjKZZqbeK-v73Qas7DHtq7-75p036XsZWPmP2Y_AIpWZgXXfZ5lHVzbCplZOu_p51BoUbhKJkiI"
 url = "/webhook-uploads/1494353003558/9781101946503.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 69657
 
 review_relationship = ["reviews/reviewing-is-a-strong-word-for-what-happens-here"]
-author_relationship = ["authors/claire-dederer"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

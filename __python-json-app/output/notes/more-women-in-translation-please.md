@@ -1,8 +1,8 @@
 +++
 index = "-K6ClD6NBjHEf-R37sxA"
-_sort_create_date = 1450856160
-_sort_last_updated = 1450883460
-_sort_publish_date = 1450904460
+sort_create_date = 1450856160
+sort_last_updated = 1450883460
+sort_publish_date = 1450904460
 create_date = "2015-12-22T23:36:00-08:00"
 publish_date = "2015-12-23T13:01:00-08:00"
 date = "2015-12-23T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Find out why #womenintranslation is a hashtag crusade that deserves your support."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/feminism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Do you follow [Meytal Radzinski on Twitter](https://twitter.com/Biblibio)? You should. She's been documenting the number of books featuring women in translation, and the results have been eye-opening.

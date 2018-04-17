@@ -1,8 +1,8 @@
 +++
 index = "-KUi_wSxHmMbvkIUsukE"
-_sort_create_date = 1477176660
-_sort_last_updated = 1477176660
-_sort_publish_date = 1477176660
+sort_create_date = 1477176660
+sort_last_updated = 1477176660
+sort_publish_date = 1477176660
 create_date = "2016-10-22T15:51:00-07:00"
 publish_date = "2016-10-22T15:51:00-07:00"
 date = "2016-10-22T15:51:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BGdrSXPbVCEc2d1mV7VNZvOt-EvDGZPTInQZu8apZffJx3a1VZnYj_XxNzIgYPAw9ndb2OjohYDHdGPYmnDrqmnJCj7i"
 url = "/webhook-uploads/1477176702774/nine-facts.jpg"
@@ -31,7 +31,7 @@ type = "image/jpeg"
 size = 868962
 
 review_relationship = ""
-author_relationship = ["authors/ronna-wineberg"]
+books_author = ""
 sponsorships_book = ["sponsorships/nine-facts-that-can-change-your-life"]
 notes_relationship = ["notes/a-full-short-story-from-a-talented-writer"]
 +++

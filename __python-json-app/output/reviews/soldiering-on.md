@@ -1,8 +1,8 @@
 +++
 index = "-L7Stgiu2xG3i78UxPbJ"
-_sort_create_date = 1520920080
-_sort_last_updated = 1520960280
-_sort_publish_date = 1520966820
+sort_create_date = 1520920080
+sort_last_updated = 1520960280
+sort_publish_date = 1520966820
 create_date = "2018-03-12T22:48:00-07:00"
 publish_date = "2018-03-13T11:47:00-07:00"
 date = "2018-03-13T11:47:00-07:00"
@@ -13,10 +13,10 @@ title = "Soldiering on"
 dek = "If you don't read military stories, Olympia author Matt Young's memoir about life in the Marine Corps might be just the book for you."
 facebookauto = "If you don't read military books, this beautiful memoir about the Marine Corps might change your mind."
 twitterauto = "Don't read military books? This beautiful memoir about the Marine Corps might change your mind."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/eat-the-apple"]
 tags_reviews = ["tags/memoir"]
-authors_reviews = ["authors/matt-young"]
+reviews_about = ""
 +++
 
 *Dunkirk*, Christopher Nolan's World War II film, is a brilliant technical achievement. Made using mostly practical special effects, and told through an ambitious three-tier story that collapses three different timelines into a single climactic battle, the movie was one of the most remarkable cinematic achievements of 2017.

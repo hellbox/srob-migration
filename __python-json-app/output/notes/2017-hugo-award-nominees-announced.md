@@ -1,8 +1,8 @@
 +++
 index = "-KgtsxcOvyyh7D_fDSMZ"
-_sort_create_date = 1491324840
-_sort_last_updated = 1491324840
-_sort_publish_date = 1491324840
+sort_create_date = 1491324840
+sort_last_updated = 1491324840
+sort_publish_date = 1491324840
 create_date = "2017-04-04T09:54:00-07:00"
 publish_date = "2017-04-04T09:54:00-07:00"
 date = "2017-04-04T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Good news\u2014there are fewer alt-righters on the Hugo nominee list this year."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-awards"]
-authors_notes = ["authors/g-willow-wilson", "authors/ta-nehisi-coates", "authors/brian-k-vaughan"]
+notes_about = ""
 books = ""
 +++
 Every year, the Hugo Awards announcement arrives with some dumb intercenine politics. Every year a small number of alt-right self-publishers try to game the ballot. Every year, they lose the awards. Every year, people call for the Hugos to change the way nominees are chosen. Every year the Hugos don't really change a thing.

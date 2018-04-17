@@ -1,8 +1,8 @@
 +++
 index = "-KlWiAn4wGtJVBXr2yjx"
-_sort_create_date = 1496288100
-_sort_last_updated = 1496722500
-_sort_publish_date = 1496768100
+sort_create_date = 1496288100
+sort_last_updated = 1496722500
+sort_publish_date = 1496768100
 create_date = "2017-05-31T20:35:00-07:00"
 publish_date = "2017-06-06T09:55:00-07:00"
 date = "2017-06-06T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Poet in Residence for June is @pearlepubs! We start with her poem titled: \"Hymen\""
 facebookauto = "Our Poet in Residence for June is Tammy Robacker! We start with her poem titled: \"Hymen\""
 make_image_tweet = "False"
-byline = ["writers/tammy-robacker"]
+notes_byline = ["writers/tammy-robacker"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The tulle veil<br>

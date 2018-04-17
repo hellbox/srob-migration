@@ -1,8 +1,8 @@
 +++
 index = "-KVvs7Lh9AyyKOOwbUAz"
-_sort_create_date = 1478473260
-_sort_last_updated = 1478473260
-_sort_publish_date = 1478541540
+sort_create_date = 1478473260
+sort_last_updated = 1478473260
+sort_publish_date = 1478541540
 create_date = "2016-11-06T15:01:00-08:00"
 publish_date = "2016-11-07T09:59:00-08:00"
 date = "2016-11-07T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478473060425/Elli
 twitterauto = "Our November Bookstore of the Month is @elliottbaybooks!"
 facebookauto = "Our November Bookstore of the Month is Elliott Bay Book Company!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/elliott-bay-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1478473060425/ElliottBayBookCo.jpg)</p>

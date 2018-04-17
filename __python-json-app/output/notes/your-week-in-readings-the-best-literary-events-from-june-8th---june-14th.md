@@ -1,8 +1,8 @@
 +++
 index = "-KJOqcnRl9SwwYZnYasX"
-_sort_create_date = 1465017600
-_sort_last_updated = 1465018140
-_sort_publish_date = 1465405800
+sort_create_date = 1465017600
+sort_last_updated = 1465018140
+sort_publish_date = 1465405800
 create_date = "2016-06-03T22:20:00-07:00"
 publish_date = "2016-06-08T10:10:00-07:00"
 date = "2016-06-08T10:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465017392855/lika
 twitterauto = "Your week in readings begins with a Ta-Nehisi Coates-approved novel @elliottbaybooks tonight."
 facebookauto = "Your week in readings includes a bike ride with some sci-fi authors, a big comics show at SAM, and an eagerly awaited debut novel that's loved by Ta-Nehisi Coates."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/stacey-levine", "authors/adam-rakunas"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday June 8: *Homegoing* Reading

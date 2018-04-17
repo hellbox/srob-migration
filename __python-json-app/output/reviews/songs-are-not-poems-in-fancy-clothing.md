@@ -1,8 +1,8 @@
 +++
 index = "-KA8t1GbdOxrtJkUa6Pk"
-_sort_create_date = 1455086100
-_sort_last_updated = 1455086100
-_sort_publish_date = 1455134460
+sort_create_date = 1455086100
+sort_last_updated = 1455086100
+sort_publish_date = 1455134460
 create_date = "2016-02-09T22:35:00-08:00"
 publish_date = "2016-02-10T12:01:00-08:00"
 date = "2016-02-10T12:01:00-08:00"
@@ -13,10 +13,10 @@ title = "Songs are not poems in fancy clothing"
 dek = "It's one thing to love Simon Joyner's music. Is it possible to love the lyrics, when they're stripped of the music and bound in a book?"
 facebookauto = "It's one thing to love Simon Joyner's music. Is it possible to love the lyrics, when they're stripped of the music and bound in a book?"
 twitterauto = ".@maireadcase reviews a published collection of @SimonJoyner1's song lyrics."
-byline = ["writers/mairead-case"]
+reviews_byline = ["writers/mairead-case"]
 books_in_this_review = ["books/only-love-can-bring-you-peace"]
 tags_reviews = ["tags/poetry", "tags/song-lyrics"]
-authors_reviews = ["authors/simon-joyner"]
+reviews_about = ""
 +++
 
 I love Simon Joyner’s music already — I don’t listen to it all the time, or even every year, though I always come back — but I was unsure about this collection. Lyrics are not, I think, “poems without their clothing,” as Dennis Callaci writes in his introduction to *Only Love Can Bring You Peace*, Joyner's first book. Dudes: poems are not naked songs. Not everything is purer, more vulnerable when stripped. If anything, binding these songs in text and page makes them less tethered — no guitar, no General American accent, no fuzz. In this sense *Only Love* is an act of generosity and separation. An act of growing-lighter, not loss. Lyrics are intimate, portable things — think of whatever you wrote on whatever notebooks you had as a teenager — and reading a song instead of hearing it is another opportunity to let it hook ever-more relevantly into daily life. This is listening over time, not alchemy.

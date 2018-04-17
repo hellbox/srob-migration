@@ -1,8 +1,8 @@
 +++
 index = "-L9hce0kta_SmvPqBOuL"
-_sort_create_date = 1523331480
-_sort_last_updated = 1523331480
-_sort_publish_date = 1523904960
+sort_create_date = 1523331480
+sort_last_updated = 1523331480
+sort_publish_date = 1523904960
 create_date = "2018-04-09T20:38:00-07:00"
 publish_date = "2018-04-16T11:56:00-07:00"
 date = "2018-04-16T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523331246724/hear
 twitterauto = "This week: Poetry in translation, sci-fi writers in conversation, and cats fighting dogs!"
 facebookauto = "This week in readings: Poetry in translation, sci-fi writers in conversation, and cats fighting dogs!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/anca-l-szil\u00e1gyi", "authors/ross-mcmeekin", "authors/cat-rambo"]
+notes_about = ""
 books = ["books/daughters-of-the-air", "books/the-hummingbirds"]
 +++
 <p class="noindent"><h5>**Monday, April 16: Subcontinental Drift**</h5></p>

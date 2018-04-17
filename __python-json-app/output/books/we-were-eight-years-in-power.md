@@ -1,8 +1,8 @@
 +++
 index = "-L-cFUS6szhsN-AWDCh1"
-_sort_create_date = 1512504600
-_sort_last_updated = 1512504600
-_sort_publish_date = 1512504600
+sort_create_date = 1512504600
+sort_last_updated = 1512504600
+sort_publish_date = 1512504600
 create_date = "2017-12-05T12:10:00-08:00"
 publish_date = "2017-12-05T12:10:00-08:00"
 date = "2017-12-05T12:10:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qBlaHuG5eWVXI1AocumYuVKhJ_yO7kLysxmqTNbdy-8H3Q6-D7fMnUBU-rBWJ9RKDexffNwb63NPns6nBW0A5ibyU4OuYA"
 url = "/webhook-uploads/1512504591147/Eight%20Years%20in%20Power_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 19336
 
 review_relationship = ["reviews/words-written-in-anger-words-written-in-ink"]
-author_relationship = ["authors/ta-nehisi-coates"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

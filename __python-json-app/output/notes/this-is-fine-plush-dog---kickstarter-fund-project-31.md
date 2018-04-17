@@ -1,8 +1,8 @@
 +++
 index = "-KOVmvhO6lxPAf33mgb1"
-_sort_create_date = 1470502740
-_sort_last_updated = 1482566520
-_sort_publish_date = 1470503100
+sort_create_date = 1470502740
+sort_last_updated = 1482566520
+sort_publish_date = 1470503100
 create_date = "2016-08-06T09:59:00-07:00"
 publish_date = "2016-08-06T10:05:00-07:00"
 date = "2016-08-06T10:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470502823021/7cf6
 twitterauto = "The Kickstarter fund gets behind @kcgreenn (and it's fine)"
 facebookauto = "This is a fine Kickstarter. Really. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week, the _Seattle Review of Books_ backs a Kickstarter, and writes up why we picked that particular project. <a href="http://seattlereviewofbooks.com/notes/2016/01/08/announcing-the-seattle-review-of-books-kickstarter-fund/" title="The Seattle Review of Books - Announcing the Seattle Review of Books Kickstarter Fund">Read more about the project here</a>. Suggest a project by writing to _kickstarter_ at this domain, or by <a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">using our contact form</a>.<p>

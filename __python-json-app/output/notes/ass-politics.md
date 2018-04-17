@@ -1,8 +1,8 @@
 +++
 index = "-KPpTxGUbqc6SPdG6C7F"
-_sort_create_date = 1471923600
-_sort_last_updated = 1473010260
-_sort_publish_date = 1471971300
+sort_create_date = 1471923600
+sort_last_updated = 1473010260
+sort_publish_date = 1471971300
 create_date = "2016-08-22T20:40:00-07:00"
 publish_date = "2016-08-23T09:55:00-07:00"
 date = "2016-08-23T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is \"Ass Politics\", by @trippweavepoet"
 facebookauto = "Our Tuesday Poem today is \"Ass Politics\", by Julene Tripp Weaver"
 make_image_tweet = "False"
-byline = ["writers/julene-tripp-weaver"]
+notes_byline = ["writers/julene-tripp-weaver"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 My diaphragm left behind<br>

@@ -1,8 +1,8 @@
 +++
 index = "-L4NV3_AamgSnDfOYt_w"
-_sort_create_date = 1517608200
-_sort_last_updated = 1517608200
-_sort_publish_date = 1517608200
+sort_create_date = 1517608200
+sort_last_updated = 1517608200
+sort_publish_date = 1517608200
 create_date = "2018-02-02T13:50:00-08:00"
 publish_date = "2018-02-02T13:50:00-08:00"
 date = "2018-02-02T13:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The @HugoHouse is looking for a new events curator! Could you be the person they're looking for?"
 facebookauto = "The Hugo House is looking for a new events curator! Could you be the person they're looking for?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ["authors/peter-mountford"]
+notes_about = ""
 books = ""
 +++
 Hugo House Event Curator Peter Mountford just dropped some big news down the Friday-afternoon news-hole:

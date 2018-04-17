@@ -1,8 +1,8 @@
 +++
 index = "-JvSGZDRMwvwuKIl53Se"
-_sort_create_date = 1438231440
-_sort_last_updated = 1440222300
-_sort_publish_date = 1438231440
+sort_create_date = 1438231440
+sort_last_updated = 1440222300
+sort_publish_date = 1438231440
 create_date = "2015-07-29T21:44:00-07:00"
 publish_date = "2015-07-29T21:44:00-07:00"
 date = "2015-07-29T21:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/pank", "tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">So, a little news. We are shuttering PANK in December &#39;15. It has been a great decade. 1 more print issue, 2 online between now/then.</p>&mdash; roxane gay (@rgay) <a href="https://twitter.com/rgay/status/626527827844706304">July 29, 2015</a></blockquote>

@@ -1,8 +1,8 @@
 +++
 index = "-KvDsvGSc4cv3mr2RBlM"
-_sort_create_date = 1506709560
-_sort_last_updated = 1506712620
-_sort_publish_date = 1506974400
+sort_create_date = 1506709560
+sort_last_updated = 1506712620
+sort_publish_date = 1506974400
 create_date = "2017-09-29T11:26:00-07:00"
 publish_date = "2017-10-02T13:00:00-07:00"
 date = "2017-10-02T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506038646616/Seat
 twitterauto = "Mark Oct. 14 and 15 for this week's sponsor, the Seattle Antiquarian Book Fair!"
 facebookauto = "Make sure to mark Oct. 14th and 15th for this week's sponsor, the Seattle Antiquarian Book Fair. "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1506028285378/Seattle%20Antiquarian%20Book%20Fair_125.jpeg)</p>

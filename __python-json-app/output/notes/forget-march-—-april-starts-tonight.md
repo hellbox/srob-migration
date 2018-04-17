@@ -1,8 +1,8 @@
 +++
 index = "-KCsQkBwkRySFtV9juU4"
-_sort_create_date = 1458014400
-_sort_last_updated = 1458014400
-_sort_publish_date = 1458068400
+sort_create_date = 1458014400
+sort_last_updated = 1458014400
+sort_publish_date = 1458068400
 create_date = "2016-03-14T21:00:00-07:00"
 publish_date = "2016-03-15T12:00:00-07:00"
 date = "2016-03-15T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "APRIL Festival starts tonight! Here are the hot tickets to buy in advance."
 facebookauto = "APRIL Festival starts tonight! Here are the hot tickets to buy in advance."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/april"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Tonight is the first night of the APRIL Festival, the annual celebration of Authors, Publishers, and Readers of Independent Literature. Now through Sunday, APRIL will be putting on events around Capitol and First Hill. Most of those events are absolutely free. But I wanted to alert you to the two events that are ticketed: Thursday night's "A Poet, a Playwright, a Novelist and a Drag Queen" competitive storytelling event and Friday night's Five-Year Anniversary party.

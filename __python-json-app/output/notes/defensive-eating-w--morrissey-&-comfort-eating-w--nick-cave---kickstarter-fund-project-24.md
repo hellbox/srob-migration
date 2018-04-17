@@ -1,8 +1,8 @@
 +++
 index = "-KKZQbTNdYaz_NC_ZdbA"
-_sort_create_date = 1466268780
-_sort_last_updated = 1482565920
-_sort_publish_date = 1466269200
+sort_create_date = 1466268780
+sort_last_updated = 1482565920
+sort_publish_date = 1466269200
 create_date = "2016-06-18T09:53:00-07:00"
 publish_date = "2016-06-18T10:00:00-07:00"
 date = "2016-06-18T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466268787786/90e4
 twitterauto = "Kickstarter Fund backs @Microcosmmm today!"
 facebookauto = "The Kickstarter Fund backs Defensive Eating w/Morrissey & Comfort Eating w/Nick Cave. Yeah, that's the literal project title, and I don't think we can improve on it. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week, the _Seattle Review of Books_ backs a Kickstarter, and writes up why we picked that particular project. <a href="http://seattlereviewofbooks.com/notes/2016/01/08/announcing-the-seattle-review-of-books-kickstarter-fund/" title="The Seattle Review of Books - Announcing the Seattle Review of Books Kickstarter Fund">Read more about the project here</a>. Suggest a project by writing to _kickstarter_ at this domain, or by <a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">using our contact form</a>.<p>

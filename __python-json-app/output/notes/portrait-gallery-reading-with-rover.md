@@ -1,8 +1,8 @@
 +++
 index = "-KnmQYDePlwHPIOeP33x"
-_sort_create_date = 1498715880
-_sort_last_updated = 1498717140
-_sort_publish_date = 1498770000
+sort_create_date = 1498715880
+sort_last_updated = 1498717140
+sort_publish_date = 1498770000
 create_date = "2017-06-28T22:58:00-07:00"
 publish_date = "2017-06-29T14:00:00-07:00"
 date = "2017-06-29T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498716451379/SRoB
 twitterauto = "Portrait Gallery: Reading with Rover, 1st Sundays @ubookstorereads Mill Creek. readingwithrover.org #dogs #literacy"
 facebookauto = "Portrait Gallery: Reading with Rover at UBookstore Mill Creek, the first Sunday of every month."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

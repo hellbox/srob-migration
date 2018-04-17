@@ -1,8 +1,8 @@
 +++
 index = "-JxHbqtnuGX7Fs5wXfLb"
-_sort_create_date = 1440200220
-_sort_last_updated = 1440449520
-_sort_publish_date = 1440442860
+sort_create_date = 1440200220
+sort_last_updated = 1440449520
+sort_publish_date = 1440442860
 create_date = "2015-08-21T16:37:00-07:00"
 publish_date = "2015-08-24T12:01:00-07:00"
 date = "2015-08-24T12:01:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "71c493de-5cb0-1c4e-9704-0381f0fae862"
 name = "A cruel mistress"
 title = "A cruel mistress"
 dek = "*Hausfrau* may look like a girly novel of female complaint, but really it's a story that defies categorization. At its heart, it's part of a difficult tradition of art about cruelty."
-byline = ["writers/jennifer-r-bernstein"]
+reviews_byline = ["writers/jennifer-r-bernstein"]
 books_in_this_review = ["books/hausfrau", "books/the-art-of-cruelty"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/maggie-nelson", "authors/jill-alexander-essbaum"]
+reviews_about = ""
 +++
 
 As an object, *Hausfrau* is unprepossessing. It eschews visual hallmarks of literary seriousness, by which I mostly mean, it looks girly. The dust jacket invites one to wrinkle her nose at its ingratiating spray of pink and purple roses floating atop a metallic plane, which, combined with the title, suggest the novel might be slumming it in the genre ghetto known as Female Complaint. And at a measly 300-ish pages, it lacks the heft of, say, the Victorians, whose prolixity goes some way with a species of modern reader toward atoning for their trivial concerns.

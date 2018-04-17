@@ -1,8 +1,8 @@
 +++
 index = "-KUJIWjGNz2d9UjW85Jx"
-_sort_create_date = 1476735660
-_sort_last_updated = 1476735720
-_sort_publish_date = 1476735660
+sort_create_date = 1476735660
+sort_last_updated = 1476735720
+sort_publish_date = 1476735660
 create_date = "2016-10-17T13:21:00-07:00"
 publish_date = "2016-10-17T13:21:00-07:00"
 date = "2016-10-17T13:21:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476735653169/unna
 twitterauto = "Sponsor @UWAPress is here to show @katkat_alcala's latest."
 facebookauto = "Sponsor University of Washington Press is here to show Kathleen Alcala's latest work. "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/kathleen-alcala"]
+notes_about = ""
 books = ""
 +++
 The University of Washington Press is our sponsor this week, and they're here to show Kathleen Alcalá's new book _the Deepest Roots_. Our [sponsor's page has more details](http://www.seattlereviewofbooks.com/sponsorships), and the most beautiful book trailer we've ever seen. 

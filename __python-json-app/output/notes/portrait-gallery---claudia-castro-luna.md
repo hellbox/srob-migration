@@ -1,8 +1,8 @@
 +++
 index = "-KOHeREUN4GcOWc9qbVo"
-_sort_create_date = 1470265620
-_sort_last_updated = 1470337260
-_sort_publish_date = 1470344400
+sort_create_date = 1470265620
+sort_last_updated = 1470337260
+sort_publish_date = 1470344400
 create_date = "2016-08-03T16:07:00-07:00"
 publish_date = "2016-08-04T14:00:00-07:00"
 date = "2016-08-04T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = " http://seattlereviewofbooks.com/webhook-uploads/1470265339749/SRo
 twitterauto = "Portrait Gallery is back with @ClaudiaC_L, Seattle's Civic Poet, by @studiochristine"
 facebookauto = "Portrait Gallery is back! Check out this rendition of Claudia Castro Luna, Seattle's Civic Poet"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

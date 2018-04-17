@@ -1,8 +1,8 @@
 +++
 index = "-L5v7T-omJcxLTIU5_4u"
-_sort_create_date = 1519263000
-_sort_last_updated = 1520314860
-_sort_publish_date = 1519263000
+sort_create_date = 1519263000
+sort_last_updated = 1520314860
+sort_publish_date = 1519263000
 create_date = "2018-02-21T17:30:00-08:00"
 publish_date = "2018-02-21T17:30:00-08:00"
 date = "2018-02-21T17:30:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uNz3KDYCnVSNJTmyVsXmr-bexYCVCUeHv098O7gQZ1XQ3JwHXBXbocLMR113LeO0hSntVAO0iibI2IXUq8hp2d_Rk50RkA"
 url = "/webhook-uploads/1519262939546/Music%20to%20My%20Years_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 92468
 
 review_relationship = ""
-author_relationship = ["authors/artie-kane"]
+books_author = ""
 sponsorships_book = ["sponsorships/music-to-my-years"]
 notes_relationship = ["notes/the-sharpest-ear-in-hollywood"]
 +++

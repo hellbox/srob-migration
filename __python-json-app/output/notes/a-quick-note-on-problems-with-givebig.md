@@ -1,8 +1,8 @@
 +++
 index = "-KGs1YGYsU8T8daxM09x"
-_sort_create_date = 1462302780
-_sort_last_updated = 1462311120
-_sort_publish_date = 1462308060
+sort_create_date = 1462302780
+sort_last_updated = 1462311120
+sort_publish_date = 1462308060
 create_date = "2016-05-03T12:13:00-07:00"
 publish_date = "2016-05-03T13:41:00-07:00"
 date = "2016-05-03T13:41:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/givebig"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We're [always excited](http://seattlereviewofbooks.com/notes/2016/05/03/if-you-can-givebig-today/) to [promote GiveBIG](http://seattlereviewofbooks.com/notes/2016/05/03/martins-picks-for-givebig/) every [year](http://seattlereviewofbooks.com/notes/2016/05/03/pauls-picks-for-givebig/), but this year it seems that the website is having serious issues. As in, it's impossible to donate through the GiveBIG site right now. Many nonprofits are reporting not receiving donations in over an hour, and [the Seattle Foundation's calls for people to "refresh" the site](https://twitter.com/SeattleFdn/status/727520914330386432) don't seem to be working.

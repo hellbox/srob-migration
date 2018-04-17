@@ -1,8 +1,8 @@
 +++
 index = "-Kc-OhCPE7CjfkPAEehW"
-_sort_create_date = 1486065420
-_sort_last_updated = 1486065660
-_sort_publish_date = 1486072800
+sort_create_date = 1486065420
+sort_last_updated = 1486065660
+sort_publish_date = 1486072800
 create_date = "2017-02-02T11:57:00-08:00"
 publish_date = "2017-02-02T14:00:00-08:00"
 date = "2017-02-02T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486064582490/SRoB
 twitterauto = "Portrait Gallery: Barbara Earl Thomas painted by @studiochristine #lllustration #editorial #portrait @TheRoyalRoom"
 facebookauto = "Portrait Gallery: Seattle painter and author Barbara Earl Thomas with John Mullen and Kate Farrell Saturday February 4 at the Royal Room."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/barbara-earl-thomas"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

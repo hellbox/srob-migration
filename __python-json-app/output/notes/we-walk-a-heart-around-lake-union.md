@@ -1,8 +1,8 @@
 +++
 index = "-JzGhUX6QXSnk5vf1yl6"
-_sort_create_date = 1442332380
-_sort_last_updated = 1442333940
-_sort_publish_date = 1442336100
+sort_create_date = 1442332380
+sort_last_updated = 1442333940
+sort_publish_date = 1442336100
 create_date = "2015-09-15T08:53:00-07:00"
 publish_date = "2015-09-15T09:55:00-07:00"
 date = "2015-09-15T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Tuesday Poem today is from @pennyzola: \"We Walk A Heart Around Lake Union\""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/michelle-pe\u00f1aloza"]
+notes_byline = ["writers/michelle-pe\u00f1aloza"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 and you point to buildings and streets<br>

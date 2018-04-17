@@ -1,8 +1,8 @@
 +++
 index = "-KqZFPxdyq5q2k059Kn4"
-_sort_create_date = 1501699320
-_sort_last_updated = 1502119380
-_sort_publish_date = 1502136000
+sort_create_date = 1501699320
+sort_last_updated = 1502119380
+sort_publish_date = 1502136000
 create_date = "2017-08-02T11:42:00-07:00"
 publish_date = "2017-08-07T13:00:00-07:00"
 date = "2017-08-07T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Cross continents and decades with sponsor @ElizCFowler in her memoir, Lonely Refugee. "
 facebookauto = "Cross continents and decades with sponsor Elizabeth Fowler in her memoir, Lonely Refugee. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/elizabeth-c-fowler"]
+notes_about = ""
 books = ["books/lonely-refugee"]
 +++
 <p class="image-left">![](/webhook-uploads/1501699256213/Lonely%20Refugee_125.jpeg)</p>

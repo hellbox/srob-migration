@@ -1,8 +1,8 @@
 +++
 index = "-JzWpNnGDSPPNZ2isep4"
-_sort_create_date = 1442602860
-_sort_last_updated = 1442604480
-_sort_publish_date = 1442602860
+sort_create_date = 1442602860
+sort_last_updated = 1442604480
+sort_publish_date = 1442602860
 create_date = "2015-09-18T12:01:00-07:00"
 publish_date = "2015-09-18T12:01:00-07:00"
 date = "2015-09-18T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Advice from @ciennam: \"Religion & butt play are 2 very personal choices that mothers must make for themselves.\""
 facebookauto = "Our advice columnist Cienna Madrid responds to a reader whose mother has come out of the closet as a practicing Wiccan. Cienna's advice begins, \"I understand your horror. Just last weekend my own dear mother let it slip that she\u2019s interested in butt play.\""
 make_image_tweet = ""
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/butt-play", "tags/wiccan"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

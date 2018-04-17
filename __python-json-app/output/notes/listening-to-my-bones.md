@@ -1,8 +1,8 @@
 +++
 index = "-KfjCi65XKFOIV7g1gKR"
-_sort_create_date = 1490071980
-_sort_last_updated = 1491319680
-_sort_publish_date = 1491324900
+sort_create_date = 1490071980
+sort_last_updated = 1491319680
+sort_publish_date = 1491324900
 create_date = "2017-03-20T21:53:00-07:00"
 publish_date = "2017-04-04T09:55:00-07:00"
 date = "2017-04-04T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1491319679409/Joan
 twitterauto = "Joan Swift is our April Poet in Residence, in memoriam. "
 facebookauto = "Joan Swift is our April Poet in Residence, in memoriam."
 make_image_tweet = "False"
-byline = ["writers/joan-swift"]
+notes_byline = ["writers/joan-swift"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 When the doctor holds my upper arm in his two hands,<br>

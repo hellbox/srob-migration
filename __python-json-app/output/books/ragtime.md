@@ -1,8 +1,8 @@
 +++
 index = "-JunPM-igbuK1XVL8psL"
-_sort_create_date = 1437606420
-_sort_last_updated = 1437606420
-_sort_publish_date = 1437606420
+sort_create_date = 1437606420
+sort_last_updated = 1437606420
+sort_publish_date = 1437606420
 create_date = "2015-07-22T16:07:00-07:00"
 publish_date = "2015-07-22T16:07:00-07:00"
 date = "2015-07-22T16:07:00-07:00"
@@ -23,11 +23,11 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 image = ""
 review_relationship = ""
-author_relationship = ""
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/el-doctorow-1931---2015"]
 +++

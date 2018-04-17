@@ -1,8 +1,8 @@
 +++
 index = "-KJ46MH23Iwl3a3XItKU"
-_sort_create_date = 1464669660
-_sort_last_updated = 1464837120
-_sort_publish_date = 1464807600
+sort_create_date = 1464669660
+sort_last_updated = 1464837120
+sort_publish_date = 1464807600
 create_date = "2016-05-30T21:41:00-07:00"
 publish_date = "2016-06-01T12:00:00-07:00"
 date = "2016-06-01T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Sancocho"
 dek = "Donna Miscolta looks at a new collection of shorts from Dominican women."
 facebookauto = "Donna Miscolta reviews a new book of shorts by Dominican Women."
 twitterauto = "A new book of shorts by Dominican women, edited by @erikammwriter, caught @donnamiscolta's eye. Here's her review."
-byline = ["writers/donna-miscolta"]
+reviews_byline = ["writers/donna-miscolta"]
 books_in_this_review = ["books/daring-to-write"]
 tags_reviews = ["tags/dominican-republic"]
-authors_reviews = ["authors/erika-m-martinez", "authors/ana-maurine-lara", "authors/leonor-suarez", "authors/kersy-corporan", "authors/rhina-p-espaillat", "authors/sherezada-vicioso", "authors/angie-cruz", "authors/dulce-mar\u00eda-reyes-bonilla", "authors/sofia-quintero", "authors/nelly-rosari"]
+reviews_about = ""
 +++
 
 I was a kindergartener in 1958 when the _in loco parentis_ doctrine, which granted teachers the same rights as parents to punish children in their care, was still common practice. It allowed my mean-eyed teacher with the heavily penciled eyebrows and too-black hair to take it upon herself to line up every child in the classroom and inspect our underwear. Someone had pooped their pants and the hapless offender would not, could not, face the humiliation of such a public admission &mdash; at least not voluntarily. For the record, I was not the pooper. I’ve put that incident in one of my stories, my only recourse of redress for the violation I and my classmates endured when our teacher stripped us of our dignity well before our five-year-old selves could articulate such a state of being. 

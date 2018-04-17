@@ -1,8 +1,8 @@
 +++
 index = "-KzA88s3k5SDgcEBj66u"
-_sort_create_date = 1510941660
-_sort_last_updated = 1510944960
-_sort_publish_date = 1510948740
+sort_create_date = 1510941660
+sort_last_updated = 1510944960
+sort_publish_date = 1510948740
 create_date = "2017-11-17T10:01:00-08:00"
 publish_date = "2017-11-17T11:59:00-08:00"
 date = "2017-11-17T11:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Dear @ciennam: Help! I want to write a historical novel, but history is really, really racist!"
 facebookauto = "\"If you publish your manuscript, I can guarantee that no critic or reader will think, 'not enough N-words for my taste.'\""
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/racism", "tags/historical-fiction"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna Madrid can help. Send your Help Desk Questions to advice@seattlereviewofbooks.com.</p>

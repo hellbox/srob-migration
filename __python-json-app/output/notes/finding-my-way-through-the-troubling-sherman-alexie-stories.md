@@ -1,8 +1,8 @@
 +++
 index = "-L6tjk-9OtBfv5YZkzeW"
-_sort_create_date = 1520313480
-_sort_last_updated = 1520359260
-_sort_publish_date = 1520366700
+sort_create_date = 1520313480
+sort_last_updated = 1520359260
+sort_publish_date = 1520366700
 create_date = "2018-03-05T21:18:00-08:00"
 publish_date = "2018-03-06T12:05:00-08:00"
 date = "2018-03-06T12:05:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"I believe the women who talked to NPR about being sexually harassed by Sherman Alexie...\""
 facebookauto = "\"I believe the women who talked to NPR about being sexually harassed by Sherman Alexie...\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/metoo"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ""
 +++
 I believe the women who [talked to NPR about being sexually harassed by Sherman Alexie](http://www.seattlereviewofbooks.com/notes/2018/03/05/npr-publishes-report-accusing-sherman-alexie-of-harassment/). I admire the bravery that it must have taken to speak up against such a powerful man in the literary community. I hope that sharing their stories helps them find some emotional peace, and if there are others out there who have had the same experience as these women — as we've learned in the last six months, there are often more women — I hope that they find inspiration in the courage that these women displayed.

@@ -1,8 +1,8 @@
 +++
 index = "-KvQMoU4fEHfRuVZ6S5i"
-_sort_create_date = 1506918960
-_sort_last_updated = 1507646820
-_sort_publish_date = 1507654500
+sort_create_date = 1506918960
+sort_last_updated = 1507646820
+sort_publish_date = 1507654500
 create_date = "2017-10-01T21:36:00-07:00"
 publish_date = "2017-10-10T09:55:00-07:00"
 date = "2017-10-10T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506919796659/Scre
 twitterauto = "Poet in Residence @karywayson's second piece for us is called \"My Own Hikmet Poem\""
 facebookauto = "Poet in Residence Kary Wayson's second piece for us is called \"My Own Hikmet Poem\""
 make_image_tweet = "False"
-byline = ["writers/kary-wayson"]
+notes_byline = ["writers/kary-wayson"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 _&mdash; it’s 1962 March 28th_

@@ -1,8 +1,8 @@
 +++
 index = "-L5kyYpDjx61p-qCAhr8"
-_sort_create_date = 1519092600
-_sort_last_updated = 1519099500
-_sort_publish_date = 1519156860
+sort_create_date = 1519092600
+sort_last_updated = 1519099500
+sort_publish_date = 1519156860
 create_date = "2018-02-19T18:10:00-08:00"
 publish_date = "2018-02-20T12:01:00-08:00"
 date = "2018-02-20T12:01:00-08:00"
@@ -13,10 +13,10 @@ title = "Room for everything"
 dek = "Chandler Klang Smith's new book crams everything it can inside itself, from Batman to Jane Austen to dystopian fiction to dragons. Are you ready for the first big everything novel of 2018?"
 facebookauto = "From Batman to Jane Austen, Chandler Klang Smith's new novel has it all."
 twitterauto = "From Batman to Jane Austen, Chandler Klang Smith's new novel has it all."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-sky-is-yours"]
 tags_reviews = ["tags/science-fiction", "tags/fantasy", "tags/satire"]
-authors_reviews = ["authors/chandler-klang-smith"]
+reviews_about = ""
 +++
 
 Here's a story you've probably heard: in a strange world of dragons and heroes, a bratty young heir to a great fortune is about to enter an arranged marriage with a young woman he's never met. Published in January, Chandler Klang Smith's second novel *The Sky Is Yours* takes that simple hero narrative and plasters it over with…well, everything.

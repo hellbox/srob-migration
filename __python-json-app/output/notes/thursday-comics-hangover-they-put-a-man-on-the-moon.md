@@ -1,8 +1,8 @@
 +++
 index = "-KRg29KOMKAVBJ8ZSLBL"
-_sort_create_date = 1473912780
-_sort_last_updated = 1473912780
-_sort_publish_date = 1473958860
+sort_create_date = 1473912780
+sort_last_updated = 1473912780
+sort_publish_date = 1473958860
 create_date = "2016-09-14T21:13:00-07:00"
 publish_date = "2016-09-15T10:01:00-07:00"
 date = "2016-09-15T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473912034255/moon
 twitterauto = "Mooncop, from @DandQ, is a perfect sci-fi comic for a year when everyone is afraid of the future."
 facebookauto = "One day in the future, humans are abandoning a lunar colony because they don't like life in space. One man stands between a dwindling population and total boredom. That man...is Mooncop."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/tom-gauld"]
+notes_about = ""
 books = ["books/mooncop"]
 +++
 <p class="image">![](/webhook-uploads/1473912034255/mooncop.png)</p>

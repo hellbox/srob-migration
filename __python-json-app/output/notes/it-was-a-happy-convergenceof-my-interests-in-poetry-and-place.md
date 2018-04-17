@@ -1,8 +1,8 @@
 +++
 index = "-KvPkVSpIJhy-AHEbdD7"
-_sort_create_date = 1506908700
-_sort_last_updated = 1506908700
-_sort_publish_date = 1506969900
+sort_create_date = 1506908700
+sort_last_updated = 1506908700
+sort_publish_date = 1506969900
 create_date = "2017-10-01T18:45:00-07:00"
 publish_date = "2017-10-02T11:45:00-07:00"
 date = "2017-10-02T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Watch @ClaudiaC_L talk about her poetic map of Seattle on PBS @Newshour!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/civic-poet"]
-authors_notes = ["authors/claudia-castro-luna"]
+notes_about = ""
 books = ""
 +++
 Seattle's first Civic Poet, Claudia Castro Luna, was featured in a terrific segment on PBS Newshour, talking about her [Poetic Grid](http://www.seattlereviewofbooks.com/reviews/we-the-poems/) of Seattle:

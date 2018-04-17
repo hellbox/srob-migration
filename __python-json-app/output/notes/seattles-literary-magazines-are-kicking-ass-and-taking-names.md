@@ -1,8 +1,8 @@
 +++
 index = "-JzH2SX_78KDs_rqJ7Tv"
-_sort_create_date = 1442338140
-_sort_last_updated = 1442338140
-_sort_publish_date = 1442348940
+sort_create_date = 1442338140
+sort_last_updated = 1442338140
+sort_publish_date = 1442348940
 create_date = "2015-09-15T10:29:00-07:00"
 publish_date = "2015-09-15T13:29:00-07:00"
 date = "2015-09-15T13:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Two local literary magazines, @mosslitmag and the James Franco Review, are busy being awesome right now."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/moss", "tags/the-james-franco-review"]
-authors_notes = ["authors/nancy-jooyoun-kim"]
+notes_about = ""
 books = ""
 +++
 Today, local literary magazine *The James Franco Review*, which treats every submission as though it was written by James Franco, [started rolling out an "Emergency Issue"](http://thejamesfrancoreview.com/2015/09/02/an-emergency-issue-art-and-engagement/) on art and engagment. What does that mean? 

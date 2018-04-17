@@ -1,8 +1,8 @@
 +++
 index = "-KsC7KoHiXGvchsjj48p"
-_sort_create_date = 1503458820
-_sort_last_updated = 1503458820
-_sort_publish_date = 1504119300
+sort_create_date = 1503458820
+sort_last_updated = 1503458820
+sort_publish_date = 1504119300
 create_date = "2017-08-22T20:27:00-07:00"
 publish_date = "2017-08-30T11:55:00-07:00"
 date = "2017-08-30T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503458681253/geor
 twitterauto = "Your week of readings includes Bumbershoot and @Nancy_Pearl!"
 facebookauto = "Your week of readings includes Wonder Woman and Nancy Pearl, who is a wondrous woman."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/bumbershoot"]
-authors_notes = ["authors/nancy-pearl"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday August 30th: *An Oral History of the New Orleans Ninth Ward* Reading

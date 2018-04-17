@@ -1,8 +1,8 @@
 +++
 index = "-KvDfd2lRdQHAO8_ZIt8"
-_sort_create_date = 1506706080
-_sort_last_updated = 1506708360
-_sort_publish_date = 1506708360
+sort_create_date = 1506706080
+sort_last_updated = 1506708360
+sort_publish_date = 1506708360
 create_date = "2017-09-29T10:28:00-07:00"
 publish_date = "2017-09-29T11:06:00-07:00"
 date = "2017-09-29T11:06:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"My husband's family knows I love books, so the problem is that they buy me books. Why is it a problem?\""
 facebookauto = "\"My husband's family knows I love books, so the problem is that they buy me books. Why is it a problem?\""
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna Madrid can help. Send your Help Desk Questions to advice@seattlereviewofbooks.com.</p>

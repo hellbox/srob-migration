@@ -1,8 +1,8 @@
 +++
 index = "-KU9ZbjEYWdakMWeQsep"
-_sort_create_date = 1476572340
-_sort_last_updated = 1476722340
-_sort_publish_date = 1476729900
+sort_create_date = 1476572340
+sort_last_updated = 1476722340
+sort_publish_date = 1476729900
 create_date = "2016-10-15T15:59:00-07:00"
 publish_date = "2016-10-17T11:45:00-07:00"
 date = "2016-10-17T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Quenton Baker and Tea Obreht both committed beautiful acts of literary theft on Friday night."
 facebookauto = "At the Hugo House's first homeless Literary Series event, Quenton Baker and Tea Obreht both committed beautiful acts of literary theft on Friday night."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ["authors/quenton-baker", "authors/peter-mountford"]
+notes_about = ""
 books = ""
 +++
 On Friday night at Fred Wildlife Refuge, Hugo House events coordinator Peter Mountford thanked a big crowd of people for joining the House in what he called Hugotory — the purgatory period between Hugo House’s demolition and reconstruction, when the nonprofit writing center is hosting events in many different venues around town. Fred Wildlife is a terrific venue for the House’s Literary Series: the room feels at once large and intimate, and there’s something about a chandelier to make a reading feel extra-classy.

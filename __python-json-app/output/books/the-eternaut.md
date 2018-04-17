@@ -1,8 +1,8 @@
 +++
 index = "-K5ZMt3eGDiUJ5ZchvPQ"
-_sort_create_date = 1450161660
-_sort_last_updated = 1450161840
-_sort_publish_date = 1450161660
+sort_create_date = 1450161660
+sort_last_updated = 1450161840
+sort_publish_date = 1450161660
 create_date = "2015-12-14T22:41:00-08:00"
 publish_date = "2015-12-14T22:41:00-08:00"
 date = "2015-12-14T22:41:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tzn0uu2uYlfKnseanY8M0VgHCnsZzqXLcPwMTxqx97SqQg9yfFos0QluacVMg-qeGRQtnPMkgCULW8SuYEJ81VjvZCGl"
 url = "/webhook-uploads/1450161704503/content%3Fid%3DnpByCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 6198
 
 review_relationship = ["reviews/the-sky-is-falling"]
-author_relationship = ["authors/h\u00e9ctor-germ\u00e1n-oesterheld", "authors/francisco-solano-lopez"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/seattle-shows-up-for-the-2016-eisner-award-nominations", "notes/book-news-roundup-seattle-cleans-up-at-the-eisner-awards"]
 +++

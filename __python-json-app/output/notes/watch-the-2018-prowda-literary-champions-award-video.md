@@ -1,8 +1,8 @@
 +++
 index = "-L8_xoKbGqyX3K-_iRZT"
-_sort_create_date = 1522129080
-_sort_last_updated = 1522169220
-_sort_publish_date = 1522181700
+sort_create_date = 1522129080
+sort_last_updated = 1522169220
+sort_publish_date = 1522181700
 create_date = "2018-03-26T22:38:00-07:00"
 publish_date = "2018-03-27T13:15:00-07:00"
 date = "2018-03-27T13:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Thanks to @SeaArtsLectures for naming us 2018 Prowda Literary Champions!"
 facebookauto = "Thanks to Seattle Arts and Lectures for naming us 2018 Prowda Literary Champions!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last week, *Seattle Review of Books* cofounder Martin McClellan, associate editor Dawn McCarra Bass, and I attended the [Seattle Arts and Lectures](https://lectures.org/) annual Words Matter fundraising dinner, where this website was honored with the 2018 Prowda Literary Champion Award. We had the privilege of sharing a table with the recipient of the individual 2018 Literary Champion Award, [Mary Ann Gwinn](http://abcnews.go.com/Politics/lawmakers-nra-money/story?id=53230001). 

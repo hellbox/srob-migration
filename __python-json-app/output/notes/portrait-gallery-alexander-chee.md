@@ -1,8 +1,8 @@
 +++
 index = "-KVfFODkqJIAjsFip353"
-_sort_create_date = 1478194440
-_sort_last_updated = 1478195280
-_sort_publish_date = 1478206800
+sort_create_date = 1478194440
+sort_last_updated = 1478195280
+sort_publish_date = 1478206800
 create_date = "2016-11-03T10:34:00-07:00"
 publish_date = "2016-11-03T14:00:00-07:00"
 date = "2016-11-03T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478194363004/SRoB
 twitterauto = "It's @alexanderchee for this week's Portrait Gallery illustrated by @studiochristine. At @HugoHouse this Friday."
 facebookauto = "Portrait Gallery: Alexander Chee"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/alexander-chee"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

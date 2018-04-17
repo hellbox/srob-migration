@@ -1,8 +1,8 @@
 +++
 index = "-L-ZrAgwf06UuhLfPAxG"
-_sort_create_date = 1512446940
-_sort_last_updated = 1514311680
-_sort_publish_date = 1514310900
+sort_create_date = 1512446940
+sort_last_updated = 1514311680
+sort_publish_date = 1514310900
 create_date = "2017-12-04T20:09:00-08:00"
 publish_date = "2017-12-26T09:55:00-08:00"
 date = "2017-12-26T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512447990175/Scre
 twitterauto = "The last poem from December Poet in Residence @writer_sejones is called \"When I finally get that claw-footed tub\""
 facebookauto = "The last poem from December Poet in Residence @writer_sejones is called \"When I finally get that claw-footed tub\""
 make_image_tweet = "False"
-byline = ["writers/sarah-jones"]
+notes_byline = ["writers/sarah-jones"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 and sink into her smooth white hollow<br>

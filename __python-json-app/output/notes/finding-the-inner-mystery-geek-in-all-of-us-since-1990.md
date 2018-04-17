@@ -1,8 +1,8 @@
 +++
 index = "-JzJh-Z-x7ye00-GF2kk"
-_sort_create_date = 1442382600
-_sort_last_updated = 1442383020
-_sort_publish_date = 1442422200
+sort_create_date = 1442382600
+sort_last_updated = 1442383020
+sort_publish_date = 1442422200
 create_date = "2015-09-15T22:50:00-07:00"
 publish_date = "2015-09-16T09:50:00-07:00"
 date = "2015-09-16T09:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@SeattleMystery employees have pretty much seen it all\u2014except an accordion-themed mystery."
 facebookauto = "Seattle Mystery Bookshop has been around long enough that they've seen it all, and they shared their stories with us. One customer was despondent after the staff had to inform him that Sherlock Holmes wasn\u2019t a real person."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-mystery-bookshop", "tags/sherlock-holmes"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 JB Dickey happened to walk into the Seattle Mystery Bookshop on the day that they received their first order of books from late, lamented west coast distributor Pipeline in 1990. There were boxes everywhere. He made a deal with Seattle Mystery founder Bill Farley: “I traded him work for store credit” on that first day, Dickey says, and “a few weeks later, I ended up starting with him part-time so he could do other, non-bookselling things.” In those early days, Seattle Mystery Bookshop was one of hundreds of mystery-only bookstores in the US. Today, Dickey estimates that it's one of "about fifteen, maybe twenty."

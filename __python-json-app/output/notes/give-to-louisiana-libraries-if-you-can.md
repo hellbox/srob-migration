@@ -1,8 +1,8 @@
 +++
 index = "-KPzloRFb3bVbcJiZZDd"
-_sort_create_date = 1472096280
-_sort_last_updated = 1472144340
-_sort_publish_date = 1472155260
+sort_create_date = 1472096280
+sort_last_updated = 1472144340
+sort_publish_date = 1472155260
 create_date = "2016-08-24T20:38:00-07:00"
 publish_date = "2016-08-25T13:01:00-07:00"
 date = "2016-08-25T13:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Want to help libraries affected by flooding in Louisiana? Donate here:"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/disaster", "tags/library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you're looking for some way to help those affected by flooding in Louisiana, the Louisiana Library Association has started to [take donations](http://llaonline.org/LLA/Disaster_Relief/LLA/Disaster_Relief_Contributions.aspx?hkey=42435b53-c7df-4856-9f01-145f4a4cb9ba) for its disaster relief fund. 

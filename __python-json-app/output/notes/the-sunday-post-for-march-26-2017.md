@@ -1,8 +1,8 @@
 +++
 index = "-Kg6ZD5bHoEl7C-rXX3V"
-_sort_create_date = 1490480580
-_sort_last_updated = 1490503620
-_sort_publish_date = 1490545800
+sort_create_date = 1490480580
+sort_last_updated = 1490503620
+sort_publish_date = 1490545800
 create_date = "2017-03-25T15:23:00-07:00"
 publish_date = "2017-03-26T09:30:00-07:00"
 date = "2017-03-26T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post is up: Kellyanne Conway, Mario Batali dines with Jim Harrison, and Easter eggs both fresh & rotten."
 facebookauto = "Sunday Post is up: Kellyanne Conway, Mario Batali dines with Jim Harrison, and Easter eggs both fresh & rotten."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

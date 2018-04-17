@@ -1,8 +1,8 @@
 +++
 index = "-KUto4OPOlm4cmUudQz4"
-_sort_create_date = 1477364940
-_sort_last_updated = 1477414080
-_sort_publish_date = 1477414500
+sort_create_date = 1477364940
+sort_last_updated = 1477414080
+sort_publish_date = 1477414500
 create_date = "2016-10-24T20:09:00-07:00"
 publish_date = "2016-10-25T09:55:00-07:00"
 date = "2016-10-25T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is \"The Cult of Iuvenis Invictus\" by @mstegosaurus"
 facebookauto = "Our Tuesday Poem is \"The Cult of Iuvenis Invictus\" by Morris Stegosaurus"
 make_image_tweet = "False"
-byline = ["writers/morris-stegosaurus"]
+notes_byline = ["writers/morris-stegosaurus"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <em style="font-size:16px;font-family:SeravekLightItalic">(for Abbey, Belle, Circa, Fiddleback, Fritz, Oscar, Sideway, Toast, and Zan)</em>

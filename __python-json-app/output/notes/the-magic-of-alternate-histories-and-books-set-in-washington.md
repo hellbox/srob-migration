@@ -1,8 +1,8 @@
 +++
 index = "-KBinwTOU8iC-wHlk03K"
-_sort_create_date = 1456779240
-_sort_last_updated = 1456779660
-_sort_publish_date = 1456779600
+sort_create_date = 1456779240
+sort_last_updated = 1456779660
+sort_publish_date = 1456779600
 create_date = "2016-02-29T12:54:00-08:00"
 publish_date = "2016-02-29T13:00:00-08:00"
 date = "2016-02-29T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor Julie Manthey takes us to the tip of Southwest Washington, and we find magic."
 facebookauto = "Our sponsor Julie Manthey takes us to the tip of Southwest Washington, to Cape Disappointment, to find magic, mystery, and a little love, too. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Our sponsor [Julie Manthey](https://heyjoule.wordpress.com) was camping at Cape Disappointment when she came up with the idea for her first novel, _The Magic of Cape Disappointment_. The history of Lewis &amp; Clark permeats the Columbia River outlet, and there are so many things unknown in the accounts of their history. 

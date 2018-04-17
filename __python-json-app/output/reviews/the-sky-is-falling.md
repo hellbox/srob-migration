@@ -1,8 +1,8 @@
 +++
 index = "-K5ZSjrdS8Oc1RZurtEW"
-_sort_create_date = 1450163220
-_sort_last_updated = 1450390740
-_sort_publish_date = 1450467900
+sort_create_date = 1450163220
+sort_last_updated = 1450390740
+sort_publish_date = 1450467900
 create_date = "2015-12-14T23:07:00-08:00"
 publish_date = "2015-12-18T11:45:00-08:00"
 date = "2015-12-18T11:45:00-08:00"
@@ -13,10 +13,10 @@ title = "The sky is falling"
 dek = "In the late 1950s, two men from Argentina published a comic about a horrific alien invasion that quickly became embraced as a classic in Latin American science fiction. It's finally just been published in English for the very first time. Lucky you."
 facebookauto = "A classic Argentinian comic book about an alien invasion has finally been translated into English. (And yeah, it's even better than it sounds.)"
 twitterauto = "Paul Constant calls @fantagraphics' new comic The Eternaut \"the best genre comic book I\u2019ve read all year.\""
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-eternaut"]
 tags_reviews = ["tags/comics", "tags/fantagraphics"]
-authors_reviews = ["authors/h\u00e9ctor-germ\u00e1n-oesterheld", "authors/francisco-solano-lopez"]
+reviews_about = ""
 +++
 
 <p class="image-hero">![](/webhook-uploads/1450162683243/Screen%20Shot%202015-12-14%20at%2010.57.19%20PM.png)</p>

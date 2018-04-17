@@ -1,8 +1,8 @@
 +++
 index = "-JwIfN3f4gqIn4A6RsjX"
-_sort_create_date = 1439144160
-_sort_last_updated = 1439144220
-_sort_publish_date = 1439144160
+sort_create_date = 1439144160
+sort_last_updated = 1439144220
+sort_publish_date = 1439144160
 create_date = "2015-08-09T11:16:00-07:00"
 publish_date = "2015-08-09T11:16:00-07:00"
 date = "2015-08-09T11:16:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oZimdakMXZ5faJk7iP8K7WGcQjAcmNVQau8NgTDYehYvwcNlbSr8gVmJiFdOS-331uttPORP7MAcRO4yzAjgeF6HeIcP4Q"
 url = "/webhook-uploads/1439144181374/content%3Fid%3DpMzjrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 31454
 
 review_relationship = ["reviews/a-love-letter-to-eve-babitz"]
-author_relationship = ["authors/eve-babitz"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

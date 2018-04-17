@@ -1,8 +1,8 @@
 +++
 index = "-K0wRhUV4S8qjvIBWUr4"
-_sort_create_date = 1445196900
-_sort_last_updated = 1445196900
-_sort_publish_date = 1445273100
+sort_create_date = 1445196900
+sort_last_updated = 1445196900
+sort_publish_date = 1445273100
 create_date = "2015-10-18T12:35:00-07:00"
 publish_date = "2015-10-19T09:45:00-07:00"
 date = "2015-10-19T09:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445196439733/Free
 twitterauto = "Tonight you should get drunk with librarians. Obviously. But what else is happening in literary Seattle this week?"
 facebookauto = "Tonight, you should get drunk with librarians. Obviously. But what else is going on? We've picked one fantastic event for every day of the week, including Lit Crawl, Colum McCann, a reading in West Seattle, and a signing from Seattle author G. willow Wilson."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/seattle-public-library", "tags/hugo-house", "tags/university-book-store"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **MONDAY** Start the week off with some librarians at a [Bookish Happy Hour at the Diller Room](https://www.facebook.com/events/1501246780167954/). This is part of Seattle Public Library’s Booktoberfest program, which brings librarians, beer, and you together in non-traditional venues.

@@ -1,8 +1,8 @@
 +++
 index = "-KKtg1eTiZGmB4xzndLP"
-_sort_create_date = 1466625420
-_sort_last_updated = 1466625480
-_sort_publish_date = 1466625420
+sort_create_date = 1466625420
+sort_last_updated = 1466625480
+sort_publish_date = 1466625420
 create_date = "2016-06-22T12:57:00-07:00"
 publish_date = "2016-06-22T12:57:00-07:00"
 date = "2016-06-22T12:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Now is a great time to read more about the comic book hero of #NoBillNoBreak."
 facebookauto = "Now is a great time to read more about the comic book hero of #NoBillNoBreak."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 You are hopefully already [watching #NoBillNoBreak](https://twitter.com/hashtag/NoBillNoBreak?src=tren&data_id=tweet%3A745704163443675136), the Democratic Congressional sit-in to demand a vote on gun responsibility laws. It's a striking bit of political drama, and a battle over one of the most important issues of our time. 

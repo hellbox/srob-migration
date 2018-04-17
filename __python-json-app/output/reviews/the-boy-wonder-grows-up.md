@@ -1,8 +1,8 @@
 +++
 index = "-KOcdsH1L5VeRV4-7kNt"
-_sort_create_date = 1470634620
-_sort_last_updated = 1470725520
-_sort_publish_date = 1470772800
+sort_create_date = 1470634620
+sort_last_updated = 1470725520
+sort_publish_date = 1470772800
 create_date = "2016-08-07T22:37:00-07:00"
 publish_date = "2016-08-09T13:00:00-07:00"
 date = "2016-08-09T13:00:00-07:00"
@@ -13,10 +13,10 @@ title = "The boy wonder grows up"
 dek = "This Saturday, Peter Bagge will debut a collection of his earliest comics, The Complete Neat Stuff, at Fantagraphics Bookstore & Gallery in Georgetown. Neat Stuff tells the story of how Bagge went from a promising young talent to one of the finest cartoonists in his generation."
 facebookauto = "The Complete Neat Stuff documents how Peter Bagge grew from a promising talent to a once-in-a-generation talent."
 twitterauto = "A new collection documents how Peter Bagge grew from a promising cartoonist to a once-in-a-generation talent."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-complete-neat-stuff"]
 tags_reviews = ["tags/comics", "tags/fantagraphics"]
-authors_reviews = ["authors/peter-bagge"]
+reviews_about = ""
 +++
 
 For decades, Peter Bagge has reigned as Seattle’s mightiest cartoonist. He’s a high-functioning artist, which is to say that his work is strong in just about any way an artist’s work can be measured: he’s prolific, he’s stylistically fascinating, his comics are easy to read and well-written, he has a unique viewpoint, and his work has deepened over time. Though he’s been publishing work for over three decades now, Bagge’s best work — a biography of Margaret Sanger titled *Woman Rebel* — was published in late 2013, and there’s no sign that he’s slowing down in terms of output and quality. And in fact, it’s easy to misremember Bagge as an artist that was born fully formed. He’s been so consistent for so long that you might believe he’s always been this good. 

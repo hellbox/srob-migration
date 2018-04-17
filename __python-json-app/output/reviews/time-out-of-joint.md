@@ -1,8 +1,8 @@
 +++
 index = "-K9yB8K2_HXXxP-y7MDu"
-_sort_create_date = 1454889780
-_sort_last_updated = 1454889780
-_sort_publish_date = 1454961180
+sort_create_date = 1454889780
+sort_last_updated = 1454889780
+sort_publish_date = 1454961180
 create_date = "2016-02-07T16:03:00-08:00"
 publish_date = "2016-02-08T11:53:00-08:00"
 date = "2016-02-08T11:53:00-08:00"
@@ -13,10 +13,10 @@ title = "Time out of joint"
 dek = "A very disjointed review of Heidi Julavits's beautifully disjointed memoir, \"The Folded Clock: A Diary.\""
 facebookauto = "You can read this review of Heidi Julavits's new book in any order you please."
 twitterauto = "A very disjointed review of Heidi Julavits's beautifully disjointed memoir, \"The Folded Clock: A Diary.\""
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-folded-clock"]
 tags_reviews = ["tags/memoir"]
-authors_reviews = ["authors/heidi-julavits"]
+reviews_about = ""
 +++
 
 It's gauche, I know, for a reviewer to ask a favor of his readers. In 2016, a book critic should be happy to be read at all. But I’m going to ask something of you, regardless — and hopefully you’ll get something out of this, too, besides the glow of internal warmth that comes from knowing that you indulged the whims of a tired old book reviewer. My request is this: print this review out. Yes, on paper. Then, with a pair of scissors — or through careful folding and scoring and tearing — divide each of the segments of this book review. Just cut across the little symbol that falls between each break. You should have seven pieces of paper, including this one.

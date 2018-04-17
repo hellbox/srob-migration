@@ -1,8 +1,8 @@
 +++
 index = "-KPylfiXUZiRuSy4jicp"
-_sort_create_date = 1472079480
-_sort_last_updated = 1472079780
-_sort_publish_date = 1472666400
+sort_create_date = 1472079480
+sort_last_updated = 1472079780
+sort_publish_date = 1472666400
 create_date = "2016-08-24T15:58:00-07:00"
 publish_date = "2016-08-31T11:00:00-07:00"
 date = "2016-08-31T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1472079287902/ever
 twitterauto = "This week brings book debut parties from Megan Snyder-Camp and @NisiShawl!"
 facebookauto = "This week, you should attend the release parties for brand new books from Seattle authors Megan Snyder-Camp and Nisi Shawl!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday August 31: *I Will Send Rain* **</h5></p> 

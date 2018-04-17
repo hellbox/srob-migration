@@ -1,8 +1,8 @@
 +++
 index = "-KVwskBnMS2CJxPRG5Zv"
-_sort_create_date = 1478490240
-_sort_last_updated = 1478718960
-_sort_publish_date = 1478721600
+sort_create_date = 1478490240
+sort_last_updated = 1478718960
+sort_publish_date = 1478721600
 create_date = "2016-11-06T19:44:00-08:00"
 publish_date = "2016-11-09T12:00:00-08:00"
 date = "2016-11-09T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Help selfie"
 dek = "Helping herself when faced with self-help, Bonnie J Rough ends up helping us all."
 facebookauto = "Self-help!? Bonnie J Rough finds jewels in the maligned genre \u2014 something helpful on a day we all need some help."
 twitterauto = "Self-help!? @bonniejrough finds jewels in the maligned genre \u2014 something helpful on a day we all need some help."
-byline = ["writers/bonnie-j-rough"]
+reviews_byline = ["writers/bonnie-j-rough"]
 books_in_this_review = ["books/minding-the-muse", "books/playing-big"]
 tags_reviews = ["tags/self-help"]
-authors_reviews = ["authors/priscilla-long", "authors/tara-mohr"]
+reviews_about = ""
 +++
 
 I have the usual prejudices about self-help books. They hook you with flattery, pamper your ego, promise easy fixes, make you a sucker and then a recidivist. They’re banal, corny, embarrassing, predatory, and mercenary to the tune of a growing multi-billion dollar industry. They’re cheap cons: they love you and leave you desperate for more. Self-help isn’t _real_ help. On the other hand, being a wet blanket 24/7 is unyielding hard work, especially when a person needs a pick-me-up.

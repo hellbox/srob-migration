@@ -1,8 +1,8 @@
 +++
 index = "-K4WVvAhR56fksKQc3ma"
-_sort_create_date = 1449039960
-_sort_last_updated = 1449084180
-_sort_publish_date = 1449093480
+sort_create_date = 1449039960
+sort_last_updated = 1449084180
+sort_publish_date = 1449093480
 create_date = "2015-12-01T23:06:00-08:00"
 publish_date = "2015-12-02T13:58:00-08:00"
 date = "2015-12-02T13:58:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449039740451/glid
 twitterauto = "Holiday gifts don't get much more unique than erotic greeting cards from the great Ellen Forney."
 facebookauto = "If you're looking for a unique gift this year, you can't get much more unique than erotic greeting cards from Ellen Forney."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run"]
-authors_notes = ["authors/colleen-frakes", "authors/ellen-forney", "authors/kelly-froh"]
+notes_about = ""
 books = ["books/prison-island", "books/tales-from-amazon-1-3"]
 +++
 The fabulous Short Run Comix & Arts Festival is [throwing a holiday fundraising art auction](http://stores.ebay.com/shortrunseattle), and it's packed with all sorts of one-of-a-kind gift ideas. Highlights include:

@@ -1,8 +1,8 @@
 +++
 index = "-L3awR43cJfyMtLM-IHQ"
-_sort_create_date = 1516776780
-_sort_last_updated = 1516776780
-_sort_publish_date = 1516829400
+sort_create_date = 1516776780
+sort_last_updated = 1516776780
+sort_publish_date = 1516829400
 create_date = "2018-01-23T22:53:00-08:00"
 publish_date = "2018-01-24T13:30:00-08:00"
 date = "2018-01-24T13:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516776683971/clos
 twitterauto = "We almost didn't read the second book in this sci-fi series. We're so glad someone talked us into it."
 facebookauto = "We almost didn't read the second book in this sci-fi series. We're so glad someone talked us into it."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/science-fiction"]
-authors_notes = ["authors/becky-chambers"]
+notes_about = ""
 books = ""
 +++
 Last summer, I [wrote about *The Long Way to a Small, Angry Planet*, a sci-fi novel from Portland author Becky Chambers](http://www.seattlereviewofbooks.com/notes/2017/07/18/to-boldly-go-where-someone-else-has-gone-before/). I gave the book a hard time, chastising it for treading a little too closely to preexisting science fiction tropes. The piece ended, “I breezed through *Long Way*, but I don’t know if I’m going to be back for the just-released sequel unless I’m assured that Chambers finally takes her crew somewhere new for a change.”

@@ -1,8 +1,8 @@
 +++
 index = "-KrqNQnkf3l1is5kSSFW"
-_sort_create_date = 1503077160
-_sort_last_updated = 1503079440
-_sort_publish_date = 1503077160
+sort_create_date = 1503077160
+sort_last_updated = 1503079440
+sort_publish_date = 1503077160
 create_date = "2017-08-18T10:26:00-07:00"
 publish_date = "2017-08-18T10:26:00-07:00"
 date = "2017-08-18T10:26:00-07:00"
@@ -13,10 +13,10 @@ title = "The devil eats his own tail"
 dek = "Today's news that Steve Bannon was fired from the White House is good news because it means a self-described villain no longer has direct access to the levers of power. But it's bad news because it means Bannon is free to do whatever he wants. What's his plan?"
 facebookauto = "Now that Steve Bannon has been fired from the White House, let's look at the book about his relationship with Donald Trump to figure out what his next move might be."
 twitterauto = "White House advisor Steve Bannon has been fired! That's good news. Uh, right?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/devils-bargain"]
 tags_reviews = ["tags/donald-trump", "tags/politics"]
-authors_reviews = ["authors/joshua-green"]
+reviews_about = ""
 +++
 
 Some smartass on Twitter pointed out that the Trump presidency is the first one where the American people, and not the president, will age twenty years over a single term of office. Time is flowing in an incredibly weird way these days. Days sometimes feel like minutes, but weeks feel like months. And months feel like decades. 

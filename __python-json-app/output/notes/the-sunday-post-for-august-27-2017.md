@@ -1,8 +1,8 @@
 +++
 index = "-KsVhwIsgiP4F_kQEBxd"
-_sort_create_date = 1503787440
-_sort_last_updated = 1503814440
-_sort_publish_date = 1503849600
+sort_create_date = 1503787440
+sort_last_updated = 1503814440
+sort_publish_date = 1503849600
 create_date = "2017-08-26T15:44:00-07:00"
 publish_date = "2017-08-27T09:00:00-07:00"
 date = "2017-08-27T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Trump's a jerk, Diana's a myth, books are good, and digital is (sometimes) bad in this week's Sunday Post."
 facebookauto = "Trump's a jerk, Diana's a myth, books are good, and digital is (sometimes) bad in this week's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

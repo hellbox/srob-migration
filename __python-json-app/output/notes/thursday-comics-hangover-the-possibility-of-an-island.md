@@ -1,8 +1,8 @@
 +++
 index = "-JuKJr25lht9Qq6_Mp4N"
-_sort_create_date = 1437024300
-_sort_last_updated = 1437068520
-_sort_publish_date = 1437067500
+sort_create_date = 1437024300
+sort_last_updated = 1437068520
+sort_publish_date = 1437067500
 create_date = "2015-07-15T22:25:00-07:00"
 publish_date = "2015-07-16T10:25:00-07:00"
 date = "2015-07-16T10:25:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/island", "tags/brandon-graham", "tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 (*Every comics fan knows that Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country. *Thursday Comics Hangover* is a weekly column reviewing some of the new books that I pick up at Phoenix Comics, my friendly neighborhood comic book store*.)

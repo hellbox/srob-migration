@@ -1,8 +1,8 @@
 +++
 index = "-KRap5lMURAZ6uhx5j9h"
-_sort_create_date = 1473825180
-_sort_last_updated = 1473825540
-_sort_publish_date = 1474477260
+sort_create_date = 1473825180
+sort_last_updated = 1473825540
+sort_publish_date = 1474477260
 create_date = "2016-09-13T20:53:00-07:00"
 publish_date = "2016-09-21T10:01:00-07:00"
 date = "2016-09-21T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our literary event of the week is a reading from a book about a Moscow hotel, tonight @folioseattle!"
 facebookauto = "If you liked Wes Anderson's movie The Grant Budapest Hotel, you should give Amor Towles's new novel A Gentleman in Moscow a try."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/folio-seattle"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1473825529368/moscow.jpg)</p>

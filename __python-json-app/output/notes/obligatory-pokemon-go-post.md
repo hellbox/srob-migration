@@ -1,8 +1,8 @@
 +++
 index = "-KMgdhVyrEX-UxFBAlzw"
-_sort_create_date = 1468554180
-_sort_last_updated = 1468558260
-_sort_publish_date = 1468609260
+sort_create_date = 1468554180
+sort_last_updated = 1468558260
+sort_publish_date = 1468609260
 create_date = "2016-07-14T20:43:00-07:00"
 publish_date = "2016-07-15T12:01:00-07:00"
 date = "2016-07-15T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468553653662/poke
 twitterauto = "After #PokemonGo, who's going to write the first augmented reality novel?"
 facebookauto = "Someday soon, someone is going to use the technology behind Pokemon Go to write a novel. Hopefully, that person will be from Seattle."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/technology", "tags/e-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1468553653662/pokemongo.jpg)</p>

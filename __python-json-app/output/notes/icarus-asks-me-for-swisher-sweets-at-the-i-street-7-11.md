@@ -1,8 +1,8 @@
 +++
 index = "-KTCRNK6sIvvv4VifVs-"
-_sort_create_date = 1475546760
-_sort_last_updated = 1475598960
-_sort_publish_date = 1475600100
+sort_create_date = 1475546760
+sort_last_updated = 1475598960
+sort_publish_date = 1475600100
 create_date = "2016-10-03T19:06:00-07:00"
 publish_date = "2016-10-04T09:55:00-07:00"
 date = "2016-10-04T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1475597831204/Scre
 twitterauto = "Our Tuesday Poem is from @misterlashley, and starts like this:"
 facebookauto = "Our Tuesday Poem is from Robert Lashley, and is titled: \"Icarus Asks Me For Swisher Sweets At The I Street 7-11.\""
 make_image_tweet = "True"
-byline = ["writers/robert-lashley"]
+notes_byline = ["writers/robert-lashley"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I did not see her in flight or morning.<br>

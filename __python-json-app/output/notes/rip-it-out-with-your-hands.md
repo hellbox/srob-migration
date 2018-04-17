@@ -1,8 +1,8 @@
 +++
 index = "-L1BPk_iUjnKQjYnRYwJ"
-_sort_create_date = 1514184300
-_sort_last_updated = 1514185320
-_sort_publish_date = 1514221200
+sort_create_date = 1514184300
+sort_last_updated = 1514185320
+sort_publish_date = 1514221200
 create_date = "2017-12-24T22:45:00-08:00"
 publish_date = "2017-12-25T09:00:00-08:00"
 date = "2017-12-25T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1514185113460/Scre
 twitterauto = "It\u2019s our annual Christmas Day ghost story, by @hellbox. Step carefully. Don't go in alone."
 facebookauto = "It\u2019s our annual Christmas Day ghost story. Be careful when you read it. Don't go in alone."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/christmas-ghost-story"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 They talked Carol into dropping by. His coworkers met at the tavern once a week after their shift. The Graveyard Ghouls, they called themselves, and one of them even had patches made up, about three inches round, with a melting ghost face amidst a field of flame, clutching a wrench in its teeth. Carol wanted nothing to do with them normally, but agreed to stop in on account of it being Christmas Eve.

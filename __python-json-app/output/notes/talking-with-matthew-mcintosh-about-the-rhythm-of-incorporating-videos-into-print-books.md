@@ -1,8 +1,8 @@
 +++
 index = "-L0RmBJne-oo9slLEIG4"
-_sort_create_date = 1513385100
-_sort_last_updated = 1513402500
-_sort_publish_date = 1514397600
+sort_create_date = 1513385100
+sort_last_updated = 1513402500
+sort_publish_date = 1514397600
 create_date = "2017-12-15T16:45:00-08:00"
 publish_date = "2017-12-27T10:00:00-08:00"
 date = "2017-12-27T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512536893623/them
 twitterauto = "\"...to have it in still form on a page, it\u2019s almost like it\u2019s eternal, in a sense.\""
 facebookauto = "\"...to have it in still form on a page, it\u2019s almost like it\u2019s eternal, in a sense.\""
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/matthew-mcintosh"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">On Thursday, December 14th, I [interviewed author Matthew McIntosh at Elliott Bay Book Company about his remarkable sophomore novel, *theMystery.doc*](http://www.seattlereviewofbooks.com/notes/2017/12/11/literary-event-of-the-week-themysterydoc-at-elliott-bay-book-company/). McIntosh is the kind of author who invites the word "reclusive." There are almost no photos of him online, and he has kept himself cloistered away for over a decade working on *theMystery.doc*. He doesn't take part in group readings, or offer freewheeling chats on Twitter, or have a Facebook page. In fact, the Elliott Bay event was the second of only two readings he did as a part of *theMystery.doc*'s launch.</p>

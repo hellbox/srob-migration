@@ -1,8 +1,8 @@
 +++
 index = "-KFgAX-U8LmaAZj7ZcdJ"
-_sort_create_date = 1461030060
-_sort_last_updated = 1461030180
-_sort_publish_date = 1461030060
+sort_create_date = 1461030060
+sort_last_updated = 1461030180
+sort_publish_date = 1461030060
 create_date = "2016-04-18T18:41:00-07:00"
 publish_date = "2016-04-18T18:41:00-07:00"
 date = "2016-04-18T18:41:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/94Neb5A7zszD4wjqxwMSEtwaHk0SC367WDIPZIusmK2BAV6PzvWwFw8lHQ7sQbdgg9iOLv9AFr6qE8HX-ZUDHG51WsV-Rg"
 url = "/webhook-uploads/1461030099805/content%3Fid%3D92X2sgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 47241
 
 review_relationship = ["reviews/poking-at-death-with-a-long-stick"]
-author_relationship = ["authors/abigail-thomas"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KqLNbaMHCnyM1Mw6nNB"
-_sort_create_date = 1501466580
-_sort_last_updated = 1501467900
-_sort_publish_date = 1501526700
+sort_create_date = 1501466580
+sort_last_updated = 1501467900
+sort_publish_date = 1501526700
 create_date = "2017-07-30T19:03:00-07:00"
 publish_date = "2017-07-31T11:45:00-07:00"
 date = "2017-07-31T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Did a negative book review by Norman Mailer drive a writer into neoconservatism?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Over [at The Smart Set](https://thesmartset.com/always-a-critic/), Paula Marantz Cohen wrote a terrific piece about how one negative book review — written by Norman Mailer — changed the course of a friendship and a career.

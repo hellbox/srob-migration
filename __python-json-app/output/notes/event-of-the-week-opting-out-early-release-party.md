@@ -1,8 +1,8 @@
 +++
 index = "-KXnO4JM8YZuokhJhZ9P"
-_sort_create_date = 1480478400
-_sort_last_updated = 1480622760
-_sort_publish_date = 1481133600
+sort_create_date = 1480478400
+sort_last_updated = 1480622760
+sort_publish_date = 1481133600
 create_date = "2016-11-29T20:00:00-08:00"
 publish_date = "2016-12-07T10:00:00-08:00"
 date = "2016-12-07T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480478234236/opti
 twitterauto = "Our literary event of the week is a book launch party and a goodbye party for Maged Zaher."
 facebookauto = "Our literary event of the week is a book launch party and a goodbye party for Maged Zaher."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/arundel-books"]
-authors_notes = ["authors/maged-zaher"]
+notes_about = ""
 books = ""
 +++
 For over a decade now, Maged Zaher’s poems have bounced between Cairo and Seattle. Somehow, he’s bridged the revolutionary Arab Spring-era Middle East and the banal tech-centric cityscape of Seattle, finding the uneasy common ground between revolutionaries and middle managers. His poems are about the world, but they’re also very specifically rooted in space; Zaher has written some of the most Seattle-y poems you’ll ever read—about our notoriously difficult dating scene, about our tech-bro culture, about corporate blandness encroaching into the arts.

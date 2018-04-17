@@ -1,8 +1,8 @@
 +++
 index = "-KOn-1tyIwIE6WN88MnX"
-_sort_create_date = 1470808200
-_sort_last_updated = 1470808440
-_sort_publish_date = 1471453200
+sort_create_date = 1470808200
+sort_last_updated = 1470808440
+sort_publish_date = 1471453200
 create_date = "2016-08-09T22:50:00-07:00"
 publish_date = "2016-08-17T10:00:00-07:00"
 date = "2016-08-17T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Jane Wong headlines our Event of the Week @elliottbaybooks this Saturday!"
 facebookauto = "Jane Wong headlines our Event of the Week at Elliott Bay Book Company this Saturday."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/jane-wong", "authors/sherman-alexie", "authors/michelle-pe\u00f1aloza"]
+notes_about = ""
 books = ""
 +++
 As you know, we at the *Seattle Review of Books* publish a poem by a Seattle poet every Tuesday at 10 am. We always ask the featured poet to then choose the poet who we’ll feature on the next Tuesday. It’s a chain of Seattle poetry, made up of friends, fans, and acquaintences who’ve shared some laughs on the open-mic circuit. When I asked Seattle literary demigod Sherman Alexie to kick off our spring/summer 2016 poetry chain, I was intensely curious to see who he’d choose as the poet to succeed him. Out of all the poets in Seattle, who would Alexie spotlight?

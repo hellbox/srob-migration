@@ -1,8 +1,8 @@
 +++
 index = "-KsC9pNhkA-bAwCTsTQL"
-_sort_create_date = 1503459480
-_sort_last_updated = 1504132500
-_sort_publish_date = 1504724160
+sort_create_date = 1503459480
+sort_last_updated = 1504132500
+sort_publish_date = 1504724160
 create_date = "2017-08-22T20:38:00-07:00"
 publish_date = "2017-09-06T11:56:00-07:00"
 date = "2017-09-06T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497824132996/klei
 twitterauto = "Your Week in Readings features a literary mixer and @haszombiesinit!"
 facebookauto = "Your Week in Readings features a literary mixer and a special poetic presentation about immigration and friendship."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/readerfest", "tags/reading-through-it"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1497824132996/klein.jpeg)</p>

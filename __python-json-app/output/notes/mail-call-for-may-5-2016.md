@@ -1,8 +1,8 @@
 +++
 index = "-KH35sohhQMvhnAj3qCn"
-_sort_create_date = 1462505220
-_sort_last_updated = 1462505220
-_sort_publish_date = 1462505220
+sort_create_date = 1462505220
+sort_last_updated = 1462505220
+sort_publish_date = 1462505220
 create_date = "2016-05-05T20:27:00-07:00"
 publish_date = "2016-05-05T20:27:00-07:00"
 date = "2016-05-05T20:27:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462505098619/IMG_
 twitterauto = "And then we had the new Alan Moore."
 facebookauto = "Mail Call! Look at that top book. We got the new Alan Moore epic. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ["authors/alan-moore"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1462505098619/IMG_6176.jpg)</p>

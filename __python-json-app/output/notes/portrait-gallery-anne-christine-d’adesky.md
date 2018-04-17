@@ -1,8 +1,8 @@
 +++
 index = "-KrbdD3Hhg9Oml4GjFXx"
-_sort_create_date = 1502829900
-_sort_last_updated = 1502829900
-_sort_publish_date = 1503003600
+sort_create_date = 1502829900
+sort_last_updated = 1502829900
+sort_publish_date = 1503003600
 create_date = "2017-08-15T13:45:00-07:00"
 publish_date = "2017-08-17T14:00:00-07:00"
 date = "2017-08-17T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502829532647/SRoB
 twitterauto = "Portrait Gallery: Anne-Christine d\u2019Adesky #illustration by @studiochristine. The Pox Lover @ElliottBayBooks Fri 8/17"
 facebookauto = "Portrait Gallery: Anne-Christine d\u2019Adesky painted by Christine Marie Larsen. "
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/anne-christine-d\u2019adesky"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

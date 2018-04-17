@@ -1,8 +1,8 @@
 +++
 index = "-KdgQbPpMK4vY5j69FYr"
-_sort_create_date = 1487877840
-_sort_last_updated = 1487878080
-_sort_publish_date = 1487970060
+sort_create_date = 1487877840
+sort_last_updated = 1487878080
+sort_publish_date = 1487970060
 create_date = "2017-02-23T11:24:00-08:00"
 publish_date = "2017-02-24T13:01:00-08:00"
 date = "2017-02-24T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Oh, look. Another establishment male who wants to complain about accessible literature."
 facebookauto = "Oh, look. Another establishment male who wants to complain about accessible literature."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A piece for the Millions titled "[Against Readability](http://www.themillions.com/2017/02/against-readability.html)" by Harvard College Writing Program professor Ben Roth has been circling the lit-o-sphere this week. It's a classic finger-wagging routine about serious literature from an establishment male:

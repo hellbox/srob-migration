@@ -1,8 +1,8 @@
 +++
 index = "-KkhR0newAypxEdFvST9"
-_sort_create_date = 1495410900
-_sort_last_updated = 1495411620
-_sort_publish_date = 1495410900
+sort_create_date = 1495410900
+sort_last_updated = 1495411620
+sort_publish_date = 1495410900
 create_date = "2017-05-21T16:55:00-07:00"
 publish_date = "2017-05-21T16:55:00-07:00"
 date = "2017-05-21T16:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495410909385/IMG_
 twitterauto = "A nice Sunday evening stack of goodness. "
 facebookauto = "A nice Sunday evening stack of goodness. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1495410909385/IMG_3591.jpg)</p>

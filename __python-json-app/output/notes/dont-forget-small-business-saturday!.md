@@ -1,8 +1,8 @@
 +++
 index = "-KzXhQQ5orUUhJv8ccoD"
-_sort_create_date = 1511337060
-_sort_last_updated = 1511337720
-_sort_publish_date = 1511380920
+sort_create_date = 1511337060
+sort_last_updated = 1511337720
+sort_publish_date = 1511380920
 create_date = "2017-11-21T23:51:00-08:00"
 publish_date = "2017-11-22T12:02:00-08:00"
 date = "2017-11-22T12:02:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's a list of all the great events and giveaways local bookstores are offering for Small Business Saturday."
 facebookauto = "Here's a list of all the great events and giveaways local bookstores are offering for Small Business Saturday."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/retail"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Tomorrow, of course, is Thanksgiving. The day after that is Black Friday. Don't shop anywhere on Black Friday; it's a mess out there. But on Saturday, you should go shop at your favorite small business, because it's Small Business Saturday. Small businesses are essential to local economies; [studies have shown](https://www.amiba.net/resources/multiplier-effect/) that while only 14 cents of every dollar spent at a chain recirculate through the local economy, nearly 50 cents of every dollar spent at a small business stays in the local economy. 

@@ -1,8 +1,8 @@
 +++
 index = "-K8RUVI__BhID78seIFA"
-_sort_create_date = 1453250700
-_sort_last_updated = 1453250700
-_sort_publish_date = 1453250700
+sort_create_date = 1453250700
+sort_last_updated = 1453250700
+sort_publish_date = 1453250700
 create_date = "2016-01-19T16:45:00-08:00"
 publish_date = "2016-01-19T16:45:00-08:00"
 date = "2016-01-19T16:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Ursula K. Le Guin vs. the Oregon militia: whose side are you on? (Le Guin's, obviously. Duh.)"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/ursula-k-le-guin"]
+notes_about = ""
 books = ""
 +++
 According [to ThinkProgress](http://thinkprogress.org/climate/2016/01/19/3740829/ursula-k-le-guin-oregon-lte/), Ursula K. Le Guin wrote an angry letter to the *Oregonian* in response to what she perceived as a pro-militia front page article. 

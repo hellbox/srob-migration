@@ -1,8 +1,8 @@
 +++
 index = "-KDLjkjF5K-a5RV-fY8a"
-_sort_create_date = 1458523020
-_sort_last_updated = 1458523740
-_sort_publish_date = 1458578700
+sort_create_date = 1458523020
+sort_last_updated = 1458523740
+sort_publish_date = 1458578700
 create_date = "2016-03-20T18:17:00-07:00"
 publish_date = "2016-03-21T09:45:00-07:00"
 date = "2016-03-21T09:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458522523335/Scre
 twitterauto = "Seattle school librarian @eadsreads talks about how you can help #SPSLibraryEquity."
 facebookauto = "Seattle's public school libraries are in crisis. Kids in the poorest neighborhoods are not getting access to the books they need.  Learn about what you can do to help in the fight for #SPSLibraryEquity."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/libraries", "tags/librarians"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [All this month](http://seattlereviewofbooks.com/notes/2016/03/02/meet-jeffrey-riley-the-school-librarian-at-queen-anne-elementary/), I’ve been [interviewing](http://seattlereviewofbooks.com/notes/2016/03/09/trying-to-make-a-splash-as-a-librarian-bring-cookies/) Seattle-area [school librarians](http://seattlereviewofbooks.com/notes/2016/03/14/give-the-people-what-they-want-ninjas-and-haunted-things/). They have, to a person, been delightful interviews: friendly, optimistic, and eager to talk about their work. Almost every one of them told me that they believe they have the best job in the world. 

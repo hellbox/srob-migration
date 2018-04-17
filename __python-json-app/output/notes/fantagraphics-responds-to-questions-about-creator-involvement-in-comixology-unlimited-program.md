@@ -1,8 +1,8 @@
 +++
 index = "-KIZBq18AoLO8OeAZaMI"
-_sort_create_date = 1464117420
-_sort_last_updated = 1464117420
-_sort_publish_date = 1464117420
+sort_create_date = 1464117420
+sort_last_updated = 1464117420
+sort_publish_date = 1464117420
 create_date = "2016-05-24T12:17:00-07:00"
 publish_date = "2016-05-24T12:17:00-07:00"
 date = "2016-05-24T12:17:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We heard from @fantagraphics associate publisher Eric Reynolds about this whole Comixology thing."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I sent an email to Eric Reynolds, the associate publisher at Seattle's Fantagraphics Books, to ask about how his company dealt with the so-called "Netflix of Comics," [Amazon's Comixology Unlimited](http://seattlereviewofbooks.com/notes/2016/05/24/maybe-dont-sign-on-to-the-netflix-of-comics-just-yet-okay/) program. Did they alert their creators about the program before it was announced? Do those creators have the right to withdraw from the Unlimited program if they're unhappy with it? Here is Reynolds' response in full:

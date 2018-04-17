@@ -1,8 +1,8 @@
 +++
 index = "-K3JPfVx0i65fbD4QUe6"
-_sort_create_date = 1447746480
-_sort_last_updated = 1447746780
-_sort_publish_date = 1447746480
+sort_create_date = 1447746480
+sort_last_updated = 1447746780
+sort_publish_date = 1447746480
 create_date = "2015-11-16T23:48:00-08:00"
 publish_date = "2015-11-16T23:48:00-08:00"
 date = "2015-11-16T23:48:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/eTwWqRfaw5PG4zdtW2JlgMAesF6XZggvYdTrdouwR1N0jspKFajnbrSmAXPmx7rurByFBoS8FCONIjhcLluA94sLk5yd"
 url = "/webhook-uploads/1447746516022/content%3Fid%3DIiH9rQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 17193
 
 review_relationship = ["reviews/sex-and-violence-and-the-sex-of-violence"]
-author_relationship = ["authors/benjamin-marra"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

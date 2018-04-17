@@ -1,8 +1,8 @@
 +++
 index = "-L2s-pBcFpMPPY4N6NIC"
-_sort_create_date = 1515989400
-_sort_last_updated = 1517692020
-_sort_publish_date = 1517679000
+sort_create_date = 1515989400
+sort_last_updated = 1517692020
+sort_publish_date = 1517679000
 create_date = "2018-01-14T20:10:00-08:00"
 publish_date = "2018-02-03T09:30:00-08:00"
 date = "2018-02-03T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515989238711/donn
 twitterauto = "Whatcha reading, @donnamiscolta?@NoleyReid, among others."
 facebookauto = "Whatcha reading, Donna Miscolta?"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/whatcha-reading"]
-authors_notes = ["authors/donna-miscolta", "authors/noley-reid", "authors/mario-bellatin"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week we ask an interesting figure what they're digging into. Have ideas who we should reach out to? Let it fly: [info@seattlereviewofbooks.com](mailto:info@seattlereviewofbooks.com). Want to read more? Check out the [archives](http://www.seattlereviewofbooks.com/tags/whatcha-reading).</p>

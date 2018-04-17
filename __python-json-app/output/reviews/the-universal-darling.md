@@ -1,8 +1,8 @@
 +++
 index = "-KMMzUJ4OH46u7yI-4-C"
-_sort_create_date = 1468207560
-_sort_last_updated = 1468253640
-_sort_publish_date = 1468263600
+sort_create_date = 1468207560
+sort_last_updated = 1468253640
+sort_publish_date = 1468263600
 create_date = "2016-07-10T20:26:00-07:00"
 publish_date = "2016-07-11T12:00:00-07:00"
 date = "2016-07-11T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "The universal darling"
 dek = "What does Belle Epoque France have to tell us about our modern Instgramming ways? Swati Nair digs into a famous novel to find out."
 facebookauto = "What does Belle Epoque France have to tell us about our modern Instgramming ways? Swati Nair looks at Colette's Cheri, and has some answers. "
 twitterauto = "What does Belle Epoque France have to tell us about our modern Instgramming ways?"
-byline = ["writers/swati-nair"]
+reviews_byline = ["writers/swati-nair"]
 books_in_this_review = ["books/cheri"]
 tags_reviews = ["tags/belle-epoque", "tags/france", "tags/french-language-books", "tags/translated-works"]
-authors_reviews = ["authors/colette"]
+reviews_about = ""
 +++
 
 In the play _Le Demi-Monde_ by Alexandre Dumas (the younger), he describes a parallel universe in 19th century France where older, married women spend their time in a swirl of seduction, dazzling parties, and opportunism. It was an ode to that epitome of Epicureanism, where a lux libertine lifestyle was the new moral standard and swashbuckling Lotharios oozed charm, no matter their age. But Dumas would not have known that the title of his play would come to characterize an entire lifestyle for the next few decades. 

@@ -1,8 +1,8 @@
 +++
 index = "-KyJokE3bm7Z0hvM7peK"
-_sort_create_date = 1510030320
-_sort_last_updated = 1510075800
-_sort_publish_date = 1510087920
+sort_create_date = 1510030320
+sort_last_updated = 1510075800
+sort_publish_date = 1510087920
 create_date = "2017-11-06T20:52:00-08:00"
 publish_date = "2017-11-07T12:52:00-08:00"
 date = "2017-11-07T12:52:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle! Don't forget to vote today, okay?"
 facebookauto = "Seattle! Don't forget to vote today, okay?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ""
 +++
 * Seattle author G. Willow Wilson [just announced her second novel](http://gwillowwilson.com/post/167200260578/the-bird-king-takes-flight-with-groveatlantic):

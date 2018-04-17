@@ -1,8 +1,8 @@
 +++
 index = "-K4RN2OD8pTv8rQvlwbC"
-_sort_create_date = 1448953740
-_sort_last_updated = 1448953740
-_sort_publish_date = 1448992560
+sort_create_date = 1448953740
+sort_last_updated = 1448953740
+sort_publish_date = 1448992560
 create_date = "2015-11-30T23:09:00-08:00"
 publish_date = "2015-12-01T09:56:00-08:00"
 date = "2015-12-01T09:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448953741540/9110
 twitterauto = "Join us as we celebrate the poetry of Madeline DeFrees, all December long."
 facebookauto = "Join us as we celebrate the poetry of Madeline DeFrees all December long."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry", "tags/obituaries"]
-authors_notes = ["authors/madeline-defrees"]
+notes_about = ""
 books = ""
 +++
 Last month, [the Seattle poetry world lost one of its giants](http://seattlereviewofbooks.com/notes/2015/11/13/madeline-defrees-1919-2015/) when Madeline DeFrees passed away. DeFrees was one of the most vibrant, evocative poets the Pacific Northwest has ever produced, and the *Seattle Review of Books* wanted to find some way to honor her life, and to bring her work to new audiences. Here’s one way to do that: every Tuesday for the month of December, we’ll present a DeFrees poem. We’re going to move chronologically through her body of work with every passing week of the month. 

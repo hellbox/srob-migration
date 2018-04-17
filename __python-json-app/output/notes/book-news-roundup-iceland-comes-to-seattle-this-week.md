@@ -1,8 +1,8 @@
 +++
 index = "-KTmEZhmXU8BoTjhStS8"
-_sort_create_date = 1476164160
-_sort_last_updated = 1476209220
-_sort_publish_date = 1476212460
+sort_create_date = 1476164160
+sort_last_updated = 1476209220
+sort_publish_date = 1476212460
 create_date = "2016-10-10T22:36:00-07:00"
 publish_date = "2016-10-11T12:01:00-07:00"
 date = "2016-10-11T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in Book News Roundup: a new poetry publication, a prizewinning poet, and Iceland."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/two-sylvias-press", "tags/iceland", "tags/literary-magazines", "tags/bureau-of-fearless-ideas"]
-authors_notes = ["authors/sarah-galvin"]
+notes_about = ""
 books = ""
 +++
 * We caught wind of [this event](http://icelandnaturally.com/article/taste-iceland-seattle-2016) too late for tomorrow's reading calendar, but it's too cool not to mention. The 2016 Taste of Iceland festival is happening this week, and it features a free reading at KEXP's brand-spanking new headquarters (472 1st Ave. N) on Friday, October 14th. Iceland is one of the most literary nations on earth, with more authors per capita than anywhere else, and it's got a long, rich and unbroken tradition of literature that you should learn more about. Here's a description of the event:

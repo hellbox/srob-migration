@@ -1,8 +1,8 @@
 +++
 index = "-L80PA7BD7CGQ2uoygMl"
-_sort_create_date = 1521515760
-_sort_last_updated = 1522098720
-_sort_publish_date = 1521515760
+sort_create_date = 1521515760
+sort_last_updated = 1522098720
+sort_publish_date = 1521515760
 create_date = "2018-03-19T20:16:00-07:00"
 publish_date = "2018-03-19T20:16:00-07:00"
 date = "2018-03-19T20:16:00-07:00"
@@ -26,6 +26,6 @@ time_description = ""
 end_time = "2018-03-19T21:30:00-07:00"
 enddate = ""
 is_sponsorship = true
-authors = ["authors/ted-chiang"]
+authors = ""
 sponsorship_event = ""
 venues = ""

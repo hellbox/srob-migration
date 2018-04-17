@@ -1,8 +1,8 @@
 +++
 index = "-KrE_XLt5_yQrn4fwnWT"
-_sort_create_date = 1502426280
-_sort_last_updated = 1502426400
-_sort_publish_date = 1503514500
+sort_create_date = 1502426280
+sort_last_updated = 1502426400
+sort_publish_date = 1503514500
 create_date = "2017-08-10T21:38:00-07:00"
 publish_date = "2017-08-23T11:55:00-07:00"
 date = "2017-08-23T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502426222767/impo
 twitterauto = "Your week in readings includes a young adult novel, Gender Odyssey, and much more."
 facebookauto = "Your week in readings includes a young adult novel, Gender Odyssey, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday August 23rd: Seattle Urban Book Expo Panel Discussion**</h5></p> 

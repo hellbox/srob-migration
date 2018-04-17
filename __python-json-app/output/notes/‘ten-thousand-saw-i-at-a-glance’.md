@@ -1,8 +1,8 @@
 +++
 index = "-JznJqUDBR1xVEluhCgr"
-_sort_create_date = 1442896320
-_sort_last_updated = 1442936040
-_sort_publish_date = 1442940900
+sort_create_date = 1442896320
+sort_last_updated = 1442936040
+sort_publish_date = 1442940900
 create_date = "2015-09-21T21:32:00-07:00"
 publish_date = "2015-09-22T09:55:00-07:00"
 date = "2015-09-22T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We love our Tuesday poem by @quietlybananas 'Ten thousand saw I at a glance\u2019. First line: \"I can't recommend writing\""
 facebookauto = "The marvelous Arlene Kim is our featured poet today, and we're so proud to run her poem 'Ten thousand saw I at a glance' today as our Tuesday poem."
 make_image_tweet = ""
-byline = ["writers/arlene-kim"]
+notes_byline = ["writers/arlene-kim"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I can’t recommend writing<br>

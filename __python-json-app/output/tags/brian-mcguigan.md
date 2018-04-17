@@ -1,8 +1,8 @@
 +++
 index = "-Jvtysz-IRmKJPgiZTIb"
-_sort_create_date = 1499867820
-_sort_last_updated = 1499867820
-_sort_publish_date = 1499867820
+sort_create_date = 1499867820
+sort_last_updated = 1499867820
+sort_publish_date = 1499867820
 create_date = "2017-07-12T06:57:00-07:00"
 publish_date = "2017-07-12T06:57:00-07:00"
 date = "2017-07-12T06:57:00-07:00"

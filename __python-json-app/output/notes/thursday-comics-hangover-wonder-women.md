@@ -1,8 +1,8 @@
 +++
 index = "-KkOa5WPh73csqppMRTL"
-_sort_create_date = 1495078020
-_sort_last_updated = 1495124820
-_sort_publish_date = 1495126620
+sort_create_date = 1495078020
+sort_last_updated = 1495124820
+sort_publish_date = 1495126620
 create_date = "2017-05-17T20:27:00-07:00"
 publish_date = "2017-05-18T09:57:00-07:00"
 date = "2017-05-18T09:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495077841648/wond
 twitterauto = "Getting ready for Wonder Woman? Here are some comics you might enjoy."
 facebookauto = "There's an actually good Supergirl on TV. The Wonder Woman movie is coming out. And there are some great superhero comics starring women on the shelves right now."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I haven’t had much to say about superhero movies lately — sorry, *Guardians of the Galaxy Vol. 2*, it’s not you, it’s me — but I do agree with the consensus that the movies made from DC Comics superheroes have been disastrous. *Batman V Superman* was one of the worst blockbusters I’ve ever seen. *Suicide Squad* was even worse. I’ll be watching the *Wonder Woman* movie when it debuts at Cinerama in a couple of weeks, but that feels more like an act of obligation: I want to support the first female superhero movie in a generation, even though Gal Gadot has never once ever successfully, in the technical sense of the word, acted. 

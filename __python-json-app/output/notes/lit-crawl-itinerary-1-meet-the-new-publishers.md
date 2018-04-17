@@ -1,8 +1,8 @@
 +++
 index = "-K0PW33fQ_hRJO5gFofu"
-_sort_create_date = 1444627620
-_sort_last_updated = 1444627620
-_sort_publish_date = 1444685640
+sort_create_date = 1444627620
+sort_last_updated = 1444627620
+sort_publish_date = 1444685640
 create_date = "2015-10-11T22:27:00-07:00"
 publish_date = "2015-10-12T14:34:00-07:00"
 date = "2015-10-12T14:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Getting ready for @LitCrawlSeattle? We're presenting possible itineraries to help plan your night. Here's the first:"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/instant-future", "tags/spartan", "tags/the-james-franco-review", "tags/lit-crawl"]
-authors_notes = ["authors/elissa-washuta", "authors/ej-koh", "authors/matthew-simmons"]
+notes_about = ""
 books = ["books/starvation-mode"]
 +++
 <p class="intro">On Thursday, October 22nd, Lit Crawl Seattle is bringing you readings from more than 65 authors at 20 different venues. The [full schedule of events](http://litcrawl.org/seattle/2015-schedule) is a little bit daunting. How are you supposed to choose three readings out of this embarassment of riches? Let the *Seattle Review of Books* help! Here's our first suggested itinerary:</p>

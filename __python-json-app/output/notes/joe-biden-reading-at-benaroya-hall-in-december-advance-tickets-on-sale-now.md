@@ -1,8 +1,8 @@
 +++
 index = "-KpLxPVDRH_-Hy2sDz1s"
-_sort_create_date = 1500402480
-_sort_last_updated = 1500402480
-_sort_publish_date = 1500402480
+sort_create_date = 1500402480
+sort_last_updated = 1500402480
+sort_publish_date = 1500402480
 create_date = "2017-07-18T11:28:00-07:00"
 publish_date = "2017-07-18T11:28:00-07:00"
 date = "2017-07-18T11:28:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500402379447/Offi
 twitterauto = ""
 facebookauto = "Joe Biden is coming to town in December to read from his new book, and Elliott Bay Book Company is selling advance tickets."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/elliott-bay-book-company", "tags/benaroya-hall"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Joe Biden is coming to Benaroya Hall on December 3rd to read from his upcoming book *Promise Me, Dad: A Year of Hope, Hardship, and Purpose*. Elliott Bay Book Company is selling advance tickets. You can [get all the information you need from their Facebook page](https://www.facebook.com/elliottbaybookcompany/posts/10155592131924637). (But be warned that you *will* experience sticker-shock; tickets are in the three figures, for the most part. It costs a lot to bring these bigwigs to town in a venue large enough to support them. I assure you no greedy booksellers are getting rich off your ticket sales.)

@@ -1,8 +1,8 @@
 +++
 index = "-KZw3LM8VPFiX0rprIid"
-_sort_create_date = 1482771480
-_sort_last_updated = 1482772980
-_sort_publish_date = 1482786000
+sort_create_date = 1482771480
+sort_last_updated = 1482772980
+sort_publish_date = 1482786000
 create_date = "2016-12-26T08:58:00-08:00"
 publish_date = "2016-12-26T13:00:00-08:00"
 date = "2016-12-26T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1482771246399/Cal
 twitterauto = "Sponsor @hellbox just made his entire novel @cal4oclock free to read online!"
 facebookauto = "Sponsor Martin McClellan just made his entire novel California Four O'Clock free to read online!"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1482771221565/california-four-oclock.jpg)</p>

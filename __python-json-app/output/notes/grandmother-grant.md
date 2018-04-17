@@ -1,8 +1,8 @@
 +++
 index = "-K5aZQ8u7L1LVLvUrZYj"
-_sort_create_date = 1450198500
-_sort_last_updated = 1450200600
-_sort_publish_date = 1450202100
+sort_create_date = 1450198500
+sort_last_updated = 1450200600
+sort_publish_date = 1450202100
 create_date = "2015-12-15T08:55:00-08:00"
 publish_date = "2015-12-15T09:55:00-08:00"
 date = "2015-12-15T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our month of celebrating Madeline DeFrees continues, with her poem \"Grandmother Grant\""
 facebookauto = "Our month of celebrating Madeline DeFrees continues, with her poem \"Grandmother Grant\""
 make_image_tweet = ""
-byline = ["writers/madeline-defrees"]
+notes_byline = ["writers/madeline-defrees"]
 tags_notes = ["tags/tuesday-poem", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Not the rejected lies of the New York Foundling<br>

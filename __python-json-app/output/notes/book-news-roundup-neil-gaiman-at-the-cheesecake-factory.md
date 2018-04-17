@@ -1,8 +1,8 @@
 +++
 index = "-Kl273Pt8NjGGaxsBUad"
-_sort_create_date = 1495774800
-_sort_last_updated = 1495831320
-_sort_publish_date = 1495821900
+sort_create_date = 1495774800
+sort_last_updated = 1495831320
+sort_publish_date = 1495821900
 create_date = "2017-05-25T22:00:00-07:00"
 publish_date = "2017-05-26T11:05:00-07:00"
 date = "2017-05-26T11:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495774516914/5923
 twitterauto = "Horrifying bookstores, crowdfunding, and the problem with Marvel Comics in today's Book news Roundup."
 facebookauto = "Horrifying bookstores, crowdfunding, and the problem with Marvel Comics in today's Book news Roundup."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/amazon-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Seattle's Office of Arts & Culture is [accepting applications for its CityArtist Projects grant](http://www.seattle.gov/arts/cityartist-projects), which provides funds for artists seeking to complete a project. The grant changes disciplines every year, and literary artists are up for consideration this year. You have 55 days left to apply, so get to it.

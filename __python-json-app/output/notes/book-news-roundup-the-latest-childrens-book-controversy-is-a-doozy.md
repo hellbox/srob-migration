@@ -1,8 +1,8 @@
 +++
 index = "-KQZPo-l7rydJCSWQzLk"
-_sort_create_date = 1472711040
-_sort_last_updated = 1472711220
-_sort_publish_date = 1472756460
+sort_create_date = 1472711040
+sort_last_updated = 1472711220
+sort_publish_date = 1472756460
 create_date = "2016-08-31T23:24:00-07:00"
 publish_date = "2016-09-01T12:01:00-07:00"
 date = "2016-09-01T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Dear @HugoHouse: Should we start digging a bomb shelter in case of President Trump? #Oracle"
 facebookauto = "Today in Book News Roundup: A controversial kid's book, a lawsuit involving the author of Pride and Prejudice and Zombies, and a way to get your fortune told for free."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house", "tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Thinking about moving to Tacoma to save on rent? Wondering if you should wear the polka dots or the stripes? Curious about whether you'll be alone for the rest of your life? If you have a question you'd like to have answered on stage at Bumbershoot, you should tweet it at Hugo House with the hashtag "#Oracle". Your question might be addressed by Garth Stein, Ijeoma Oluo, or Kristiana Kahakauwila; they will be divining responses from their published writings.

@@ -1,8 +1,8 @@
 +++
 index = "-KGYzCSoGMDmeLwhETC6"
-_sort_create_date = 1461966360
-_sort_last_updated = 1461966360
-_sort_publish_date = 1461966360
+sort_create_date = 1461966360
+sort_last_updated = 1461966360
+sort_publish_date = 1461966360
 create_date = "2016-04-29T14:46:00-07:00"
 publish_date = "2016-04-29T14:46:00-07:00"
 date = "2016-04-29T14:46:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4zVPyVKGjokxO_4LaNBrOe31jJmQRBHUO7BIA7cRiMzUHke9Vw4pjv6vhl2-imp94DUM2hvBwToc4CMwGoti9dZhlmlZpQ"
 url = "/webhook-uploads/1461966264421/9780785196112.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 25585
 
 review_relationship = ["reviews/real-life-superhero"]
-author_relationship = ["authors/g-willow-wilson", "authors/takeshi-miyazawa"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day"]
 +++

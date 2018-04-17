@@ -1,8 +1,8 @@
 +++
 index = "-KDM27-RKUiPXdMgjkUc"
-_sort_create_date = 1458528060
-_sort_last_updated = 1458852600
-_sort_publish_date = 1458528060
+sort_create_date = 1458528060
+sort_last_updated = 1458852600
+sort_publish_date = 1458528060
 create_date = "2016-03-20T19:41:00-07:00"
 publish_date = "2016-03-20T19:41:00-07:00"
 date = "2016-03-20T19:41:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/RTGF_hIZLgelIMexCL7brAxPdjQMUewqK1GWPxKRfX8ukavkv38LmPHDDpfEmUuQRFy8rraLid-qNT2Zh_0Ai_RWWhU"
 url = "/webhook-uploads/1458528031092/consequences.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 86419
 
 review_relationship = ["reviews/in-love-and-war"]
-author_relationship = ["authors/maged-zaher"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

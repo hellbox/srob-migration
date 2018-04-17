@@ -1,8 +1,8 @@
 +++
 index = "-K74rz4Y3Y02hjOLxwmI"
-_sort_create_date = 1451797500
-_sort_last_updated = 1451933160
-_sort_publish_date = 1451840400
+sort_create_date = 1451797500
+sort_last_updated = 1451933160
+sort_publish_date = 1451840400
 create_date = "2016-01-02T21:05:00-08:00"
 publish_date = "2016-01-03T09:00:00-08:00"
 date = "2016-01-03T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's the Sunday Post -- first of the year! A few articles that caught our eye this week. "
 facebookauto = "Coloring books, Artificial Intelligence, old-timey fascism, in today's Sunday Post. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[The A.I. Anxiety](http://www.washingtonpost.com/sf/national/2015/12/27/aianxiety/?hpid=hp_hp-top-table-main_resistancetwo-11pm%3Ahomepage%2Fstory)</h5>

@@ -1,8 +1,8 @@
 +++
 index = "-KvQO9Brt_0nQ10kbILy"
-_sort_create_date = 1506919320
-_sort_last_updated = 1509421440
-_sort_publish_date = 1509468900
+sort_create_date = 1506919320
+sort_last_updated = 1509421440
+sort_publish_date = 1509468900
 create_date = "2017-10-01T21:42:00-07:00"
 publish_date = "2017-10-31T09:55:00-07:00"
 date = "2017-10-31T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506919727429/Scre
 twitterauto = "\"Lady Poem\" is the last work from October Poet in Residence @karywayson"
 facebookauto = "\"Lady Poem\" is the last work from October Poet in Residence Kary Wayson"
 make_image_tweet = "False"
-byline = ["writers/kary-wayson"]
+notes_byline = ["writers/kary-wayson"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I go out to smoke but first<br>

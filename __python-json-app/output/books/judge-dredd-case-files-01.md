@@ -1,8 +1,8 @@
 +++
 index = "-KOcnpiMPma-Akayqj21"
-_sort_create_date = 1470637200
-_sort_last_updated = 1470637200
-_sort_publish_date = 1470637200
+sort_create_date = 1470637200
+sort_last_updated = 1470637200
+sort_publish_date = 1470637200
 create_date = "2016-08-07T23:20:00-07:00"
 publish_date = "2016-08-07T23:20:00-07:00"
 date = "2016-08-07T23:20:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QZlO9zIaESV7ZGq_rRub7578pqJvtzTyQNrP-MukktoAcms7qS18_BN_8okQziokPqr_aGSRpSflf0j7vEPU6652NXM"
 url = "/webhook-uploads/1470637153095/81%2BC7u2KH9L.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 450544
 
 review_relationship = ["reviews/dredding-every-minute-of-it"]
-author_relationship = ["authors/john-wagner", "authors/pat-mills"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

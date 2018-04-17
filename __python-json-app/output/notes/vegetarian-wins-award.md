@@ -1,8 +1,8 @@
 +++
 index = "-KHvQtUHhFpWjySO-aBM"
-_sort_create_date = 1463433480
-_sort_last_updated = 1463433900
-_sort_publish_date = 1463433480
+sort_create_date = 1463433480
+sort_last_updated = 1463433900
+sort_publish_date = 1463433480
 create_date = "2016-05-16T14:18:00-07:00"
 publish_date = "2016-05-16T14:18:00-07:00"
 date = "2016-05-16T14:18:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to Han Kang, whose The Vegetarian just won the Man Booker International Prize for fiction!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/man-booker-prize", "tags/awards"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [From the AP](http://abcnews.go.com/Entertainment/wireStory/han-kangs-vegetarian-wins-man-booker-fiction-prize-39153596): 

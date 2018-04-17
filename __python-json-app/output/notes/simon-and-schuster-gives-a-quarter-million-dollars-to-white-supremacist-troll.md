@@ -1,8 +1,8 @@
 +++
 index = "-K_Ahmqr8-JGY4dhArab"
-_sort_create_date = 1483033980
-_sort_last_updated = 1483033980
-_sort_publish_date = 1483033980
+sort_create_date = 1483033980
+sort_last_updated = 1483033980
+sort_publish_date = 1483033980
 create_date = "2016-12-29T09:53:00-08:00"
 publish_date = "2016-12-29T09:53:00-08:00"
 date = "2016-12-29T09:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "No other way to say it: @simonschuster is giving a white supremacist a quarter million dollars to write a book."
 facebookauto = "Simon & Schuster announced today that they're giving a white supremacist a quarter million dollars to write a book."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/simon-&amp;-schuster", "tags/donald-trump", "tags/milo-yiannopoulos"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *The Hollywood Reporter* [ran a gushing press release this morning](http://www.hollywoodreporter.com/news/milo-yiannopoulos-strikes-250k-book-deal-959745) announcing Simon and Schuster's decision to publish Milo Yiannopoulos's memoir. Get a load of this swill:

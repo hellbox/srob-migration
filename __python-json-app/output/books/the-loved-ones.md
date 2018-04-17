@@ -1,8 +1,8 @@
 +++
 index = "-KMLV8DK58Zc_SPhHdjA"
-_sort_create_date = 1468182540
-_sort_last_updated = 1468182540
-_sort_publish_date = 1468182540
+sort_create_date = 1468182540
+sort_last_updated = 1468182540
+sort_publish_date = 1468182540
 create_date = "2016-07-10T13:29:00-07:00"
 publish_date = "2016-07-10T13:29:00-07:00"
 date = "2016-07-10T13:29:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/l7mLWF25uLg55khzAV3P4QbXQtFWaS5mGT6YlcGf7UjiZGsqrNJmLjQOOiHE0_eUqqlyh2PgEWLzbQIbQBSDuhqufDY"
 url = "/webhook-uploads/1468182525163/cover-the-loved-ones.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 71045
 
 review_relationship = ""
-author_relationship = ["authors/sonya-chung"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-loved-ones"]
 notes_relationship = ""
 +++

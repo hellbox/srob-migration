@@ -1,8 +1,8 @@
 +++
 index = "-K2eGoxdi8ffe4oCzIaf"
-_sort_create_date = 1447039500
-_sort_last_updated = 1447089540
-_sort_publish_date = 1447098420
+sort_create_date = 1447039500
+sort_last_updated = 1447089540
+sort_publish_date = 1447098420
 create_date = "2015-11-08T19:25:00-08:00"
 publish_date = "2015-11-09T11:47:00-08:00"
 date = "2015-11-09T11:47:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447038388154/ifro
 twitterauto = "We went to Amazon Books over the weekend. Here's our full report."
 facebookauto = "Paul Constant went to Amazon Books. How was it? For starters, he calls it \"nothing less than the world\u2019s greatest airport bookstore.\""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon-books", "tags/third-place-books-ravenna"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1447038317198/Life%20Online.png)</p>

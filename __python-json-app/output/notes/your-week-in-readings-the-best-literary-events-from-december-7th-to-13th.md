@@ -1,8 +1,8 @@
 +++
 index = "-K4kPLly7QoJ4YBiemf0"
-_sort_create_date = 1449289920
-_sort_last_updated = 1449647520
-_sort_publish_date = 1449509520
+sort_create_date = 1449289920
+sort_last_updated = 1449647520
+sort_publish_date = 1449509520
 create_date = "2015-12-04T20:32:00-08:00"
 publish_date = "2015-12-07T09:32:00-08:00"
 date = "2015-12-07T09:32:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449289163931/510F
 twitterauto = "Your week in readings kicks off with a reading about a dark time in Seattle history @ThirdPlaceBooks."
 facebookauto = "This week's reading events include Tess Gallagher, a collection of Seattle Mystery writers, and a night of musical interpretations of books written by local authors. Plus: Rick Steves!"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/phinney-books", "tags/town-hall-seattle", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/donna-miscolta", "authors/maged-zaher", "authors/tess-gallagher"]
+notes_about = ""
 books = ""
 +++
 **MONDAY** Your week begins at [Third Place Books](http://www.thirdplacebooks.com/event/lfp-seattle-justice-rise-and-fall-police-payoff-system-seattle-christopher-t-bayley) in Lake Forest Park. Tonight, they’re hosting **Christopher T. Bayley**, author of *Seattle Justice: The Rise and Fall of the Police Payoff System in Seattle*. For all its political faults, one thing you’ve got to give Seattle: in comparison to east coast cities, it’s remarkably free from corruption. (Many would argue that this lack of corruption is why it’s very hard to get major infrastructure projects done in this town. Sometimes it takes a little grift to grease the wheels.) Tonight, Bayley will talk about the exception that proves the rule: a payola scheme that rocked the SPD.

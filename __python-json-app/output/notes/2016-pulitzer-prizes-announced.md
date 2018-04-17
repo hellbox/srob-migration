@@ -1,8 +1,8 @@
 +++
 index = "-KFenM1CwnJQ4sfR1z__"
-_sort_create_date = 1461006960
-_sort_last_updated = 1461007140
-_sort_publish_date = 1461006960
+sort_create_date = 1461006960
+sort_last_updated = 1461007140
+sort_publish_date = 1461006960
 create_date = "2016-04-18T12:16:00-07:00"
 publish_date = "2016-04-18T12:16:00-07:00"
 date = "2016-04-18T12:16:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to all the 2016 Pulitzer Prizewinners!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/pulitzer-prize"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The 2016 Pulitzer Prizes are being announced right now. Kathryn Schulz won in the Feature Writing category for her [harrowing piece](http://www.newyorker.com/magazine/2015/07/20/the-really-big-one) on earthquakes in the Northwest.

@@ -1,8 +1,8 @@
 +++
 index = "-L6z32IDQPkSaGUzyMoN"
-_sort_create_date = 1520402700
-_sort_last_updated = 1520540520
-_sort_publish_date = 1520539200
+sort_create_date = 1520402700
+sort_last_updated = 1520540520
+sort_publish_date = 1520539200
 create_date = "2018-03-06T22:05:00-08:00"
 publish_date = "2018-03-08T12:00:00-08:00"
 date = "2018-03-08T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520402601314/Bett
 twitterauto = "Has @nisishawl gone to the dogs? No, but there are great dog stories in this month's Future Alternative Past."
 facebookauto = "Has Nisi Shawl gone to the dogs? No, but she'll tell you about all the great stories about them, in this month's Future Alternative Past."
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ["authors/harlan-ellison", "authors/connie-willis", "authors/stephen-king", "authors/kelly-link", "authors/bradley-denton", "authors/steven-brust", "authors/kim-wilkins", "authors/daniel-h-wilson"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. You can also look through the [archives of the column](http://www.seattlereviewofbooks.com/tags/the-future-alternative-past).</p>

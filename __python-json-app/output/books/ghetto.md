@@ -1,8 +1,8 @@
 +++
 index = "-KJdBqcGbciFUkaZyz65"
-_sort_create_date = 1465275060
-_sort_last_updated = 1465275600
-_sort_publish_date = 1465275060
+sort_create_date = 1465275060
+sort_last_updated = 1465275600
+sort_publish_date = 1465275060
 create_date = "2016-06-06T21:51:00-07:00"
 publish_date = "2016-06-06T21:51:00-07:00"
 date = "2016-06-06T21:51:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Political Science"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/EYc26LelrtMgcO5TQRURjBPILWyu5beubJcb6wYl668DCpUvXyujwmwInJas03fWbNQLr2lGir8TxENeQO4oAG0AEduG"
 url = "/webhook-uploads/1465275625113/Unknown.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 18692
 
 review_relationship = ["reviews/if-you-ain\u2019t-ever-been-to-the-ghetto"]
-author_relationship = ["authors/mitchell-duneier"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

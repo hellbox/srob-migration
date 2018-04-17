@@ -1,8 +1,8 @@
 +++
 index = "-KgzXKXCzfi8aIHW9ZBI"
-_sort_create_date = 1491419580
-_sort_last_updated = 1491514020
-_sort_publish_date = 1491512400
+sort_create_date = 1491419580
+sort_last_updated = 1491514020
+sort_publish_date = 1491512400
 create_date = "2017-04-05T12:13:00-07:00"
 publish_date = "2017-04-06T14:00:00-07:00"
 date = "2017-04-06T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1491419272388/SRoB
 twitterauto = "Portrait Gallery: Poet Kaitlyn Greenidge will be part of a @HugoHouse series reading \"Betrayal\" this Friday."
 facebookauto = "Portrait Gallery: Poet Kaitlyn Greenidge"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/kaitlyn-greenidge"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

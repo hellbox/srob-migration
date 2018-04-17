@@ -1,8 +1,8 @@
 +++
 index = "-K56mviljE4jj8akemcZ"
-_sort_create_date = 1449682200
-_sort_last_updated = 1449682320
-_sort_publish_date = 1449682200
+sort_create_date = 1449682200
+sort_last_updated = 1449682320
+sort_publish_date = 1449682200
 create_date = "2015-12-09T09:30:00-08:00"
 publish_date = "2015-12-09T09:30:00-08:00"
 date = "2015-12-09T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our @hugohouse class is now open to everybody. Please consider joining us for this class."
 facebookauto = "Our Hugo House class is now open to everybody. Please join us!"
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/hugo-house", "tags/seattle-review-of-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 As [Paul previously mentioned](http://seattlereviewofbooks.com/notes/2015/11/11/putting-the-you-in-book-review/), we're teaching a class at Hugo House about book reviewing. We've already met a few nice folks who have signed up, and we'd love it if you were there as well. 

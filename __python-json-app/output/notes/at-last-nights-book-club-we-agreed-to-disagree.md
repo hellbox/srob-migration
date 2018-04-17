@@ -1,8 +1,8 @@
 +++
 index = "-KtQ7UQmn6qNn3D90ovY"
-_sort_create_date = 1504767480
-_sort_last_updated = 1504767480
-_sort_publish_date = 1504799880
+sort_create_date = 1504767480
+sort_last_updated = 1504767480
+sort_publish_date = 1504799880
 create_date = "2017-09-06T23:58:00-07:00"
 publish_date = "2017-09-07T08:58:00-07:00"
 date = "2017-09-07T08:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497824132996/klei
 twitterauto = "Naomi Klein's latest book raised more questions than it answered at last night's book club."
 facebookauto = "Naomi Klein's latest book raised more questions than it answered at last night's book club."
 make_image_tweet = "False"
-byline = ["writers/paul-e-nelson"]
+notes_byline = ["writers/paul-e-nelson"]
 tags_notes = ["tags/reading-through-it"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We had a nice big crowd at last night's Reading Through It book club. People seemed eager to discuss Naomi Klein's *No Is Not Enough: Resisting Trump's Shock Politics and Winning the World We Need*, though the response was relatively mixed. Many readers thought Klein did an admirable job of turning around a cogent book-length analysis of the fledgling Trump administration in a matter of months. At least one book club attendee, though, was thoroughly unhappy with what he perceived to be the shoddiness of Klein's work.

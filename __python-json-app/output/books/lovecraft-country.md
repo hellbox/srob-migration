@@ -1,8 +1,8 @@
 +++
 index = "-K9Y3cHuM-iVcJ4wCmEl"
-_sort_create_date = 1454434800
-_sort_last_updated = 1454434920
-_sort_publish_date = 1454434800
+sort_create_date = 1454434800
+sort_last_updated = 1454434920
+sort_publish_date = 1454434800
 create_date = "2016-02-02T09:40:00-08:00"
 publish_date = "2016-02-02T09:40:00-08:00"
 date = "2016-02-02T09:40:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dmy_XFbBt0W9jjMmOASJ2xfVt0t2gvvKXJh4lHAjWxZ-X1PZ7doY1yMrAKWostS8I1ONTOKQQjrmOOTK-3XtzDDYD57y"
 url = "/webhook-uploads/1454434961267/1600x2417sr.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 1945985
 
 review_relationship = ["reviews/caught-after-dark-in-lovecraft-country"]
-author_relationship = ["authors/matt-ruff"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-matt-ruff-about-science-fictions-racist-past", "notes/book-news-roundup-where-will-amazon-open-their-next-bookstore", "notes/bad-monkeys-optioned-for-film", "notes/what-you-need-to-do-for-literary-seattle-in-2017", "notes/go-ask-matt-ruff-anything", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st", "notes/jordan-peele-signs-on-to-produce-matt-ruffs-lovecraft-country-as-a-tv-series", "notes/2017-washington-state-book-awards-finalists-announced"]
 +++

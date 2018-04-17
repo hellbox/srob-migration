@@ -1,8 +1,8 @@
 +++
 index = "-K3Vx36y8LfKodtoJMCR"
-_sort_create_date = 1447956840
-_sort_last_updated = 1447960500
-_sort_publish_date = 1447966800
+sort_create_date = 1447956840
+sort_last_updated = 1447960500
+sort_publish_date = 1447966800
 create_date = "2015-11-19T10:14:00-08:00"
 publish_date = "2015-11-19T13:00:00-08:00"
 date = "2015-11-19T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447956665282/SRoB
 twitterauto = "Portrait Gallery! @studiochristine gives us a glorious image of Patti Smith today."
 facebookauto = "Christine Marie Larsen gives us the ineffable Patti Smith in today's Portrait Gallery. "
 make_image_tweet = ""
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/patti-smith"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

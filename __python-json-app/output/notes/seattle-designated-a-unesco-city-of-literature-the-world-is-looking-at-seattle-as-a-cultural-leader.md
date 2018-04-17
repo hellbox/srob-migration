@@ -1,8 +1,8 @@
 +++
 index = "-KxngXfBKv8aDkw1PTVX"
-_sort_create_date = 1509474540
-_sort_last_updated = 1509475680
-_sort_publish_date = 1509474540
+sort_create_date = 1509474540
+sort_last_updated = 1509475680
+sort_publish_date = 1509474540
 create_date = "2017-10-31T11:29:00-07:00"
 publish_date = "2017-10-31T11:29:00-07:00"
 date = "2017-10-31T11:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509474308862/down
 twitterauto = ""
 facebookauto = "We could not be more proud to announce that UNESCO has officially designated Seattle as an International City of Literature."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/unesco", "tags/seattle-city-of-literature"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We just got maybe the most welcome press release in the history of press releases. It begins, "**The United Nations Education, Scientific and Cultural Organization (UNESCO) announced it designated Seattle as a City of Literature in the Creative Cities Network**." As a City of Literature, Seattle joins more than 20 other cities around the world in the network, including Baghdad, Dublin, Reykjavík, Prague, and Montevideo.

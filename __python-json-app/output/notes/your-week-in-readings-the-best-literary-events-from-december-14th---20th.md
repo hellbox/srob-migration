@@ -1,8 +1,8 @@
 +++
 index = "-K4kWLjTKkpoc0G__Pl4"
-_sort_create_date = 1449291720
-_sort_last_updated = 1450136460
-_sort_publish_date = 1450114500
+sort_create_date = 1449291720
+sort_last_updated = 1450136460
+sort_publish_date = 1450114500
 create_date = "2015-12-04T21:02:00-08:00"
 publish_date = "2015-12-14T09:35:00-08:00"
 date = "2015-12-14T09:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449291707771/db_s
 twitterauto = "Your week in readings begins with a splash: @mollycrabapple reads @ElliottBayBooks tonight!"
 facebookauto = "This week brings an appearance from Molly Crabapple and a book launch party with Sarah Galvin. Plus, a chocolate tasting, the Copper Canyon Press holiday party, and a visit from Santa Claus."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/hugo-house", "tags/copper-canyon-press"]
-authors_notes = ["authors/sarah-galvin"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1449291707771/db_sidebar1.jpg)</p>**MONDAY** Your week begins with a splash: author and artist **Molly Crabapple** reads at [Elliott Bay Book Company](http://www.elliottbaybook.com/event/molly-crabapple). Crabapple’s *Drawing Blood* is a memoir about art, journalism, and upheaval. It’s an absolutely gorgeous (and, by all accounts, beautifully written) book.

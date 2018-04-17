@@ -1,8 +1,8 @@
 +++
 index = "-KM3KKxxjEcA_C56JuKq"
-_sort_create_date = 1467877740
-_sort_last_updated = 1467877800
-_sort_publish_date = 1467877740
+sort_create_date = 1467877740
+sort_last_updated = 1467877800
+sort_publish_date = 1467877740
 create_date = "2016-07-07T00:49:00-07:00"
 publish_date = "2016-07-07T00:49:00-07:00"
 date = "2016-07-07T00:49:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kquux2UmEccVgP3_torQAd_eCkcByxbkWefP93nrccH2DLIsILG9zVHvDYEqLYvwPkRd23l-WeAfDfN6ujWJ5w72HgE4"
 url = "/webhook-uploads/1467877740830/wasshepretty.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 18793
 
 review_relationship = ["reviews/jealousy-and-gluttony"]
-author_relationship = ["authors/leanne-shapton"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

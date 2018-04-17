@@ -1,8 +1,8 @@
 +++
 index = "-JytU1Qxd7WUA59UDxVJ"
-_sort_create_date = 1441925940
-_sort_last_updated = 1441927020
-_sort_publish_date = 1441998000
+sort_create_date = 1441925940
+sort_last_updated = 1441927020
+sort_publish_date = 1441998000
 create_date = "2015-09-10T15:59:00-07:00"
 publish_date = "2015-09-11T12:00:00-07:00"
 date = "2015-09-11T12:00:00-07:00"
@@ -12,10 +12,10 @@ name = "Intoxicating and irresistible and maybe untrue"
 title = "Intoxicating and irresistible and maybe untrue"
 dek = "What is it about writing advice? Mary Karr shows how lyrical and inspiring, and maybe also how awkward and frustrating, it can be. "
 twitterauto = "The many shades of memoir. @ofbooksandbikes looks at Mary Karr's approach in a new review, now on the site. "
-byline = ["writers/rebecca-hussey"]
+reviews_byline = ["writers/rebecca-hussey"]
 books_in_this_review = ["books/the-art-of-memoir"]
 tags_reviews = ["tags/memoir"]
-authors_reviews = ["authors/mary-karr"]
+reviews_about = ""
 +++
 
 All writing advice is expendable. It is necessarily incomplete and reflects the advice-giver’s biases and preferences. Such advice can certainly be useful, but it offers only one version of what writing can be. This holds true for Mary Karr’s new book _The Art of Memoir_, an introduction to her theories about the genre, a compendium of suggestions for writing, and a close look at some of her favorite examples. The beguiling tone and the witty, lively style from her successful memoirs _The Liars’ Club_, _Cherry, and _Lit_ are on full display in this new book. And yet her vision of what memoir can and should be is frustratingly limited. The book reveals just how hard, if not impossible, it is to sum up the “art” of any particular genre.

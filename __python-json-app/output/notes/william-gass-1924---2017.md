@@ -1,8 +1,8 @@
 +++
 index = "-L-m3WbQn2kXGrNXEcox"
-_sort_create_date = 1512668520
-_sort_last_updated = 1512668520
-_sort_publish_date = 1512668520
+sort_create_date = 1512668520
+sort_last_updated = 1512668520
+sort_publish_date = 1512668520
 create_date = "2017-12-07T09:42:00-08:00"
 publish_date = "2017-12-07T09:42:00-08:00"
 date = "2017-12-07T09:42:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "William Gass, one of the most brilliant and under-appreciated novelists of the 20th century, has died."
 facebookauto = "William Gass, one of the most brilliant and under-appreciated novelists of the 20th century, has died."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/death"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 William Gass, one of the most challenging and brilliant writers of the 20th century, has died, [Dalkey Archive reports](http://www.dalkeyarchive.com/william-gass-1924-2017/). I will never understand why Gass's 1995 novel *The Tunnel*, about Nazism and academia and guilt and procrastination, is not considered one of the major books of our time, alongside its peers like *Infinite Jest* and *Gravity's Rainbow* and *The Last Samurai*.

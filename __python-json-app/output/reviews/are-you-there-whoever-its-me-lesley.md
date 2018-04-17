@@ -1,8 +1,8 @@
 +++
 index = "-KEIhlLxluL30bfNfvE6"
-_sort_create_date = 1459545900
-_sort_last_updated = 1459901460
-_sort_publish_date = 1459891440
+sort_create_date = 1459545900
+sort_last_updated = 1459901460
+sort_publish_date = 1459891440
 create_date = "2016-04-01T14:25:00-07:00"
 publish_date = "2016-04-05T14:24:00-07:00"
 date = "2016-04-05T14:24:00-07:00"
@@ -13,10 +13,10 @@ title = "Are you there, whoever? It's me, Lesley"
 dek = "Can a whole-hearted atheist find any comfort in Lesley Hazleton's defense of agnosticism?"
 facebookauto = "Lesley Hazleton's newest book is a strong defense of agnosticism. Can even a lifelong atheist find anything to love in the book?"
 twitterauto = "A committed atheist reads @accidentaltheo's defense of agnosticism. Does a religious experience follow?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/agnostic"]
 tags_reviews = ["tags/nonfiction", "tags/religion"]
-authors_reviews = ["authors/lesley-hazleton"]
+reviews_about = ""
 +++
 
 “Consider: A stranger calls you on the phone, says she’s conducting a survey, and asks if you believe in God,” Lesley Hazleton writes near the beginning of her new book. “You can answer only yes or no, since don’t knows don’t count. And consider too that if you simply hang up, as you’re likely to do if you consider this an absurdly simplistic question, you don’t count either.” Hazleton is explaining why polls usually indicate that Americans are such devout believers in God; if you force someone to make a binary choice, all nuance and shading simply disappears. Hazleton has never been a fan of oversimplification, which is why she wrote *Agnostic: A Spirited Manifesto*.

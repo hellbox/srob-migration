@@ -1,8 +1,8 @@
 +++
 index = "-L4K197DFtXVmbETtEsY"
-_sort_create_date = 1517550060
-_sort_last_updated = 1517550360
-_sort_publish_date = 1518199200
+sort_create_date = 1517550060
+sort_last_updated = 1517550360
+sort_publish_date = 1518199200
 create_date = "2018-02-01T21:41:00-08:00"
 publish_date = "2018-02-09T10:00:00-08:00"
 date = "2018-02-09T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517549657318/one%
 twitterauto = "It's time for @aaronbaglady's Dream Comics!"
 facebookauto = "It's time for Aaron Bagley's Dream Comics!"
 make_image_tweet = "True"
-byline = ["writers/aaron-bagley"]
+notes_byline = ["writers/aaron-bagley"]
 tags_notes = ["tags/aaron-bagleys-dream-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image"><a href="/webhook-uploads/1517549627229/one%20please%201.jpg" target="_blank">![](/webhook-uploads/1517549627229/one%20please%201.jpg)</a></p>

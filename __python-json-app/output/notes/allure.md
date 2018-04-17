@@ -1,8 +1,8 @@
 +++
 index = "-KW17_Jh-A7ysSwNYAwd"
-_sort_create_date = 1478578260
-_sort_last_updated = 1478578320
-_sort_publish_date = 1478627700
+sort_create_date = 1478578260
+sort_last_updated = 1478578320
+sort_publish_date = 1478627700
 create_date = "2016-11-07T20:11:00-08:00"
 publish_date = "2016-11-08T09:55:00-08:00"
 date = "2016-11-08T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, Allure, is from @7eights"
 facebookauto = "Our Tuesday Poem, Allure, is from Imani Sims."
 make_image_tweet = "False"
-byline = ["writers/imani-sims"]
+notes_byline = ["writers/imani-sims"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 She was perfect pitcher,<br>

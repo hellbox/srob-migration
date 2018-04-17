@@ -1,8 +1,8 @@
 +++
 index = "-KGAMW9bpbexEkYyaT2N"
-_sort_create_date = 1461553320
-_sort_last_updated = 1461553320
-_sort_publish_date = 1461553320
+sort_create_date = 1461553320
+sort_last_updated = 1461553320
+sort_publish_date = 1461553320
 create_date = "2016-04-24T20:02:00-07:00"
 publish_date = "2016-04-24T20:02:00-07:00"
 date = "2016-04-24T20:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Open Books has a new owner, and she's taking over in August."
 facebookauto = "The new owner of Open Books has been announced!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/open-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We [reported at the beginning of this month](http://seattlereviewofbooks.com/notes/2016/04/04/open-books-owner-john-marshall-is-in-the-closing-stages-of-selling-the-shop-to-a-new-owner/) that Open Books owner John Marshall was in the "closing stages" of selling his poetry bookshop to a new owner. The closing stages have finally closed, and in an email to customers last night, Marshall finally revealed the new owner's name:

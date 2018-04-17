@@ -1,8 +1,8 @@
 +++
 index = "-KU9_ELSXnhXP43vK5Pk"
-_sort_create_date = 1476572520
-_sort_last_updated = 1476722040
-_sort_publish_date = 1476723540
+sort_create_date = 1476572520
+sort_last_updated = 1476722040
+sort_publish_date = 1476723540
 create_date = "2016-10-15T16:02:00-07:00"
 publish_date = "2016-10-17T09:59:00-07:00"
 date = "2016-10-17T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Used bookselling shifted dramatically in 2000. How did Louis Collins make the leap to digital?"
 facebookauto = "Used bookselling shifted dramatically in 2000. How did Louis Collins make the leap to digital?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/louis-collins-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In the nearly five decades that Louis Collins has been selling books, he’s seen the book business completely transform itself.  “I started off cataloguing books, sending out-of-print and hard-to-find books, mostly to institutions” out of his office in San Francisco he tells me. “In those days before the internet there was a magazine called the [*AB Bookman’s Weekly*]( https://en.wikipedia.org/wiki/AB_Bookman%27s_Weekly),” which served as a marketplace of rare and out-of-print books and a central meeting-place for the used bookselling community.  Like many other booksellers, at the time, Collins listed all his books in catalogs, which libraries would then order from him.

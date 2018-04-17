@@ -1,8 +1,8 @@
 +++
 index = "-KgomeDGmRDaF3WOWJSj"
-_sort_create_date = 1491239340
-_sort_last_updated = 1491239460
-_sort_publish_date = 1491242940
+sort_create_date = 1491239340
+sort_last_updated = 1491239460
+sort_publish_date = 1491242940
 create_date = "2017-04-03T10:09:00-07:00"
 publish_date = "2017-04-03T11:09:00-07:00"
 date = "2017-04-03T11:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle writer @GWillowWilson is a voice of reason in the current superhero diversity debate."
 facebookauto = "Seattle writer G. Willow Wilson is a much-needed voice of reason in the current superhero diversity debate."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/marvel-comics", "tags/diversity"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ["books/ms-marvel-volume-1-no-normal"]
 +++
 Over the weekend, [some comments made at a sales conference](https://www.bleedingcool.com/2017/03/31/marvels-david-gabriel-sales-slump-people-didnt-want-diversity-didnt-want-female-characters/) by Marvel Comics's Senior VP of Sales, David Gabriel, set the internet on fire. Gabriel was referring to a recent sales slump for Marvel books, and he seemed to place the entire blame for the slump on Marvel's attempts at diversity:

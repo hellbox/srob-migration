@@ -1,8 +1,8 @@
 +++
 index = "-KgXcwNC86EqzCzGhQRF"
-_sort_create_date = 1490934780
-_sort_last_updated = 1490934840
-_sort_publish_date = 1490934780
+sort_create_date = 1490934780
+sort_last_updated = 1490934840
+sort_publish_date = 1490934780
 create_date = "2017-03-30T21:33:00-07:00"
 publish_date = "2017-03-30T21:33:00-07:00"
 date = "2017-03-30T21:33:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bJDcOF6b00rINkYFEDJjvVxESin4Ssu8ipSsUQqOVowJ7H9RyZZcKNxbnxfot1K4F9TXp5gmqaivERnnDk1A2OkpDiM2JA"
 url = "/webhook-uploads/1490934766299/IMG_1880.JPG"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 1142585
 
 review_relationship = ["reviews/one-of-a-kind"]
-author_relationship = ["authors/andrew-s-mcalpine"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

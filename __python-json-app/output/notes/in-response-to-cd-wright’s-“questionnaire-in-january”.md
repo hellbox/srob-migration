@@ -1,8 +1,8 @@
 +++
 index = "-K9VDyZqP182NpnE8nVs"
-_sort_create_date = 1454387220
-_sort_last_updated = 1454423340
-_sort_publish_date = 1454435700
+sort_create_date = 1454387220
+sort_last_updated = 1454423340
+sort_publish_date = 1454435700
 create_date = "2016-02-01T20:27:00-08:00"
 publish_date = "2016-02-02T09:55:00-08:00"
 date = "2016-02-02T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Samar Abulhassan is our poet this week, with her new work \"In Response to C.D. Wright\u2019s 'Questionnaire in January'\""
 facebookauto = "Samar Abulhassan's poem \"In Response to C.D. Wright\u2019s 'Questionnaire in January'\" is our Tuesday Poem."
 make_image_tweet = "False"
-byline = ["writers/samar-abulhassan"]
+notes_byline = ["writers/samar-abulhassan"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="prose-poem">Suppose it is February and there are writers writing at picnic tables in the park. Suppose writing leads us to this park. </p>

@@ -1,8 +1,8 @@
 +++
 index = "-KRWMjPUPNuXuEdkzNX2"
-_sort_create_date = 1473733620
-_sort_last_updated = 1473749640
-_sort_publish_date = 1473793260
+sort_create_date = 1473733620
+sort_last_updated = 1473749640
+sort_publish_date = 1473793260
 create_date = "2016-09-12T19:27:00-07:00"
 publish_date = "2016-09-13T12:01:00-07:00"
 date = "2016-09-13T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Happy to see @STACKEDDMAG is going nonprofit. Good to see a local media org with big plans!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/stackedd", "tags/media"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On Facebook, the founder of [Seattle-area feminist magazine *Stackedd*](http://stackeddmagazine.com/), Ma’chell Duma Lavassar, made an exciting announcement: with the help of the good folks at Shunpike,  *Stackedd* has become a nonprofit:

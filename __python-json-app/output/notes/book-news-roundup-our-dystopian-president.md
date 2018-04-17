@@ -1,8 +1,8 @@
 +++
 index = "-KbIt0TeUIzQ3w5DL__x"
-_sort_create_date = 1485318600
-_sort_last_updated = 1485368100
-_sort_publish_date = 1485378180
+sort_create_date = 1485318600
+sort_last_updated = 1485368100
+sort_publish_date = 1485378180
 create_date = "2017-01-24T20:30:00-08:00"
 publish_date = "2017-01-25T13:03:00-08:00"
 date = "2017-01-25T13:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A book that recast slave-owning Thomas Jefferson as a civil rights leader has been disavowed by its publisher."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/nisi-shawl"]
+notes_about = ""
 books = ""
 +++
  * Roxane Gay's upcoming book, *How to Be Heard*, was due to be published next year by Simon & Schuster. BuzzFeed reports that Gay has [pulled *How to Be Heard* from publication because](https://www.buzzfeed.com/jarrylee/roxane-gay-pulls-book-from-simon-schuster-in-response-to-mil?utm_term=.qnlWx9Lxx#.yrZOzqyzz) "I can’t in good conscience let them publish it while they also [publish [white supremacist] Milo [Yiannopoulos].](http://www.seattlereviewofbooks.com/notes/2017/01/24/publisher-issues-unsatisfying-letter-to-justify-publishing-a-book-by-milo-yiannopoulos/) So I told my agent over the weekend to pull the project."

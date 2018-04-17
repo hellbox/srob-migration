@@ -1,8 +1,8 @@
 +++
 index = "-KBRbXEaZPW7daXMqPUc"
-_sort_create_date = 1456474020
-_sort_last_updated = 1456507440
-_sort_publish_date = 1456510020
+sort_create_date = 1456474020
+sort_last_updated = 1456507440
+sort_publish_date = 1456510020
 create_date = "2016-02-26T00:07:00-08:00"
 publish_date = "2016-02-26T10:07:00-08:00"
 date = "2016-02-26T10:07:00-08:00"
@@ -13,10 +13,10 @@ title = "Whose streets? Our streets!"
 dek = "Why is it so hard to successfully tell a story about the 1999 WTO protests?"
 facebookauto = "Why is it so hard to successfully tell a story about the 1999 WTO protests?"
 twitterauto = "Why is it so hard to successfully tell a story about the 1999 WTO protests?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/your-heart-is-a-muscle-the-size-of-a-fist"]
 tags_reviews = ["tags/novel", "tags/seattle", "tags/wto"]
-authors_reviews = ["authors/sunil-yapa"]
+reviews_about = ""
 +++
 
 In 2008, the Seattle International Film Festival hosted the film *Battle in Seattle* as its opening night gala presentation. *Battle*, a fictionalized account of the 1999 World Trade Organization protests, had the pedigree of a successful film: it starred  Charlize Theron, Outkast’s Andre 3000, Woody Harrelson, Ray Liotta, and Channing Tatum, and it was scored by Massive Attack. At the opening night screening, the room clearly wanted to be on the film's side; Seattle desperately loves to see itself legitimized through adaptation, even if nine times out of ten it’s portrayed onscreen by Vancouver. But by the end of that screening, almost everyone in attendance was cringing; even a friendly Seattle crowd couldn’t find anything to love in the film.

@@ -1,8 +1,8 @@
 +++
 index = "-KocYNpDNyMwgyQyGROD"
-_sort_create_date = 1499623920
-_sort_last_updated = 1499625000
-_sort_publish_date = 1499706060
+sort_create_date = 1499623920
+sort_last_updated = 1499625000
+sort_publish_date = 1499706060
 create_date = "2017-07-09T11:12:00-07:00"
 publish_date = "2017-07-10T10:01:00-07:00"
 date = "2017-07-10T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We have a new associate editor managing submissions, and she wants your pitches!"
 facebookauto = "Our site has a new associate editor who'll be managing submissions, and she wants your pitches!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-review-of-books", "tags/freelance"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 </head>

@@ -1,8 +1,8 @@
 +++
 index = "-L73MPTQJ3ft0OFRAxl0"
-_sort_create_date = 1520491620
-_sort_last_updated = 1520528640
-_sort_publish_date = 1520532060
+sort_create_date = 1520491620
+sort_last_updated = 1520528640
+sort_publish_date = 1520532060
 create_date = "2018-03-07T22:47:00-08:00"
 publish_date = "2018-03-08T10:01:00-08:00"
 date = "2018-03-08T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520491512816/RTI-
 twitterauto = "Last night, our book club had a great discussion about how Democrats have let down rural America."
 facebookauto = "Last night, our book club had a great discussion about how Democrats have let down rural America."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it", "tags/third-place-books-seward-park"]
-authors_notes = ["authors/amy-goldstein"]
+notes_about = ""
 books = ["books/janesville"]
 +++
 I've already [written at length](http://www.seattlereviewofbooks.com/reviews/it-was-always-this-way-until-it-wasnt/) about Amy Goldstein's amazing book *Janesville*. It was one of my favorite books of last year, a beautifully reported study of the economic turmoil that rocks Paul Ryan's hometown after the GM plant closes. If you want to understand the human cost of the perils facing rural America right now, there's no better book to read — toss aside your *Hillbilly Elegy* and your *New York Times* profiles of sympathetic Trump supporters, because you won't need them anymore.

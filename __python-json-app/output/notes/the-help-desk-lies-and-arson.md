@@ -1,8 +1,8 @@
 +++
 index = "-KLbOb1_YcVOxYe-7R22"
-_sort_create_date = 1467392340
-_sort_last_updated = 1467392400
-_sort_publish_date = 1467392340
+sort_create_date = 1467392340
+sort_last_updated = 1467392400
+sort_publish_date = 1467392340
 create_date = "2016-07-01T09:59:00-07:00"
 publish_date = "2016-07-01T09:59:00-07:00"
 date = "2016-07-01T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "How do you deal with someone who lies about reading everything? Maybe starting a fire will help?"
 facebookauto = "How do you deal with someone who lies about reading everything? Maybe starting a fire will help?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

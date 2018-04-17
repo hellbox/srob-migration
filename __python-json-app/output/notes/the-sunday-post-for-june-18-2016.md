@@ -1,8 +1,8 @@
 +++
 index = "-KKasWaorBobUS6a2swX"
-_sort_create_date = 1466309940
-_sort_last_updated = 1466317080
-_sort_publish_date = 1466352000
+sort_create_date = 1466309940
+sort_last_updated = 1466317080
+sort_publish_date = 1466352000
 create_date = "2016-06-18T21:19:00-07:00"
 publish_date = "2016-06-19T09:00:00-07:00"
 date = "2016-06-19T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post: Guaranteed income, Eggers at a Trump rally, a South Pole rescue, repealing the 2nd, & a viral poem"
 facebookauto = "A guaranteed minimum income, David Eggers at a Trump rally, a daring rescue to the South Pole, repealing the Second Amendment, and an amazing viral poem, all in today's Sunday Post. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://fivethirtyeight.com/features/universal-basic-income/" title="What Would Happen If We Just Gave People Money? | FiveThirtyEight">What Would Happen If We Just Gave People Money?</a></h5>

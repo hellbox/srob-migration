@@ -1,8 +1,8 @@
 +++
 index = "-KlWizvSzCE42HWWNN54"
-_sort_create_date = 1496288280
-_sort_last_updated = 1497361500
-_sort_publish_date = 1497372900
+sort_create_date = 1496288280
+sort_last_updated = 1497361500
+sort_publish_date = 1497372900
 create_date = "2017-05-31T20:38:00-07:00"
 publish_date = "2017-06-13T09:55:00-07:00"
 date = "2017-06-13T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"In the beginning, it was innocent\" starts today's poem by Poet in Residence @pearlpubs"
 facebookauto = "\"In the beginning, it was innocent\" starts today's poem by Poet in Residence Tammy Robacker."
 make_image_tweet = "False"
-byline = ["writers/tammy-robacker"]
+notes_byline = ["writers/tammy-robacker"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="prose-poem">In the beginning, it was innocent. Just play. _Let’s mess with Mrs. Flowers’ mailbox!_ Fisher and Price asked me to spy on an old witch they believed lived alone in the woods. _Is her husband dead? Or does she just hate men?_ I wondered. I wondered if she would ever come out of her shack. They tried everything to catch a glimpse of her. Sometimes they fisted worms and mud inside the black hole of it, then pushed the hard red flag up in high salute. Special delivery. Sometimes they didn’t erect it at all. Instead I took long walks with those two leading me through the woods in the heavy heat of curiosities. We built camps. We arranged rocks. We smoked cigarette butts. We lit twigs on fire. We lit trash on fire. We broke brown beer bottles against old trees. We pretended to be married. In a navy blue cotton shirt with a loose ruffle along the bottom edge, I was the bride, marching toward them. In the warm August air, my veil lifted off so easily. </p>

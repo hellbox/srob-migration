@@ -1,8 +1,8 @@
 +++
 index = "-KEPKw1Cf8WKciCWO7do"
-_sort_create_date = 1459657080
-_sort_last_updated = 1459657380
-_sort_publish_date = 1459699200
+sort_create_date = 1459657080
+sort_last_updated = 1459657380
+sort_publish_date = 1459699200
 create_date = "2016-04-02T21:18:00-07:00"
 publish_date = "2016-04-03T09:00:00-07:00"
 date = "2016-04-03T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post, with pieces from: @jiatolentino, @SofiaSamatar, @e_alexjung, @maxlyonross."
 facebookauto = "The end of the great male writing instructor, the words of fantasy, words with the most famous drag queen in the world, and sons relating to fathers, all in today's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://jezebel.com/is-this-the-end-of-the-era-of-the-important-inappropri-1765684275?rev=1459187294779" title="Is This the End of the Era of the Important, Inappropriate Literary Man?">Is This the End of the Era of the Important, Inappropriate Literary Man? </a></h5>

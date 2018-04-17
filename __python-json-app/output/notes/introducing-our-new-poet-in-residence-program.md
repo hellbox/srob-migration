@@ -1,8 +1,8 @@
 +++
 index = "-K_XP_wh6Rza-4WqsDms"
-_sort_create_date = 1483414800
-_sort_last_updated = 1483415880
-_sort_publish_date = 1483466400
+sort_create_date = 1483414800
+sort_last_updated = 1483415880
+sort_publish_date = 1483466400
 create_date = "2017-01-02T19:40:00-08:00"
 publish_date = "2017-01-03T10:00:00-08:00"
 date = "2017-01-03T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're excited to announce a change: every month this year, we'll present a new Poet in Residence!"
 facebookauto = "We're excited to announce a change: every month, we'll bring you a new Poet in Residence! We're excited to introduce you to some terrific Seattle-area poets. (And we're also thrilled to pay poets for their work.)"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poet-in-residence"]
-authors_notes = ["authors/elisa-chavez"]
+notes_about = ""
 books = ""
 +++
 Every week [for the last year and a half](http://www.seattlereviewofbooks.com/tags/tuesday-poem/), we've presented new poems by Seattle-area poets. It's been a tremendous honor — we've been proud to pay poets for their work, and to meet so many of the talented individuals who call Seattle home. We hope you enjoy stopping by the site every Tuesday morning to read a new poem. But because it's a new year, we thought we'd try something new for our recurring Tuesday feature. It's not a drastic change, mind you — we're just adjusting the formula a little bit.

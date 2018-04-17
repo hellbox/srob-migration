@@ -1,8 +1,8 @@
 +++
 index = "-L0rqbpQA9guPtDUNIcX"
-_sort_create_date = 1513839240
-_sort_last_updated = 1513840200
-_sort_publish_date = 1513893600
+sort_create_date = 1513839240
+sort_last_updated = 1513840200
+sort_publish_date = 1513893600
 create_date = "2017-12-20T22:54:00-08:00"
 publish_date = "2017-12-21T14:00:00-08:00"
 date = "2017-12-21T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513839108312/read
 twitterauto = "Portrait Gallery: Happy Holidays"
 facebookauto = "Portrait Gallery: Happy Holidays"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1513839108312/readingsnowperson.gif)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KknOlFxUCPivyZDG9wp"
-_sort_create_date = 1495510980
-_sort_last_updated = 1495572780
-_sort_publish_date = 1495568460
+sort_create_date = 1495510980
+sort_last_updated = 1495572780
+sort_publish_date = 1495568460
 create_date = "2017-05-22T20:43:00-07:00"
 publish_date = "2017-05-23T12:41:00-07:00"
 date = "2017-05-23T12:41:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495510782219/shak
 twitterauto = "\"...I recently watched a Very Bad Play in Seattle...\""
 facebookauto = "Here's a little rant about what happens when a theater company forgets the importance of language in Shakespeare plays."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/shakespeare", "tags/plays"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Writing theater criticism always made me slightly uncomfortable; specifically, I hated to write negative reviews. I have no trouble writing negative reviews of books, but there's something about the vulnerability and teamwork of a play — a group of people coming together for little to no money in order to strut across a stage and mimic emotional states — that I hate to criticize. 

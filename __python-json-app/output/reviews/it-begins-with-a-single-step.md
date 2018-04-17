@@ -1,8 +1,8 @@
 +++
 index = "-KHOHfZxIJl9Jv3u0sEE"
-_sort_create_date = 1462860660
-_sort_last_updated = 1462901760
-_sort_publish_date = 1462906680
+sort_create_date = 1462860660
+sort_last_updated = 1462901760
+sort_publish_date = 1462906680
 create_date = "2016-05-09T23:11:00-07:00"
 publish_date = "2016-05-10T11:58:00-07:00"
 date = "2016-05-10T11:58:00-07:00"
@@ -13,10 +13,10 @@ title = "It begins with a single step"
 dek = "On Saturday, Paul Constant walked 14 miles to visit six comic book stores in the greater Seattle area. This is what he saw."
 facebookauto = "How was your Free Comic Book Day? Here's what we saw on our epic 14-mile walk to visit six stores in the greater Seattle area."
 twitterauto = "Paul Constant walked 14 miles to visit six comic book stores in the greater Seattle area. This is what he saw."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/bad-machinery-vol-1-the-case-of-the-team-spirit", "books/apocalyptigirl"]
 tags_reviews = ["tags/comics"]
-authors_reviews = ["authors/andrew-maclean", "authors/john-allison"]
+reviews_about = ""
 +++
 
 On Saturdays, I go for Really Long Walks. I’ve been doing this for so long now that it’s become a necessary part of my weekly routine; if I don’t get a Really Long Walk in on a Saturday, I’m miserable and antsy and annoyed for all the next week. Twenty thousand steps, or roughly ten miles, is the bare minimum, but I’m usually happiest if I can squeeze double that into a day.

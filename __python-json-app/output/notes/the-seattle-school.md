@@ -1,8 +1,8 @@
 +++
 index = "-JvtWb_JAQuazknW9DBJ"
-_sort_create_date = 1438705380
-_sort_last_updated = 1438705860
-_sort_publish_date = 1439312100
+sort_create_date = 1438705380
+sort_last_updated = 1438705860
+sort_publish_date = 1439312100
 create_date = "2015-08-04T09:23:00-07:00"
 publish_date = "2015-08-11T09:55:00-07:00"
 date = "2015-08-11T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/susan-rich"]
+notes_byline = ["writers/susan-rich"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We celebrated our distance from New York,<br>

@@ -1,8 +1,8 @@
 +++
 index = "-K2LOk-GNIiSRvjq5yNa"
-_sort_create_date = 1446706080
-_sort_last_updated = 1446743400
-_sort_publish_date = 1446752820
+sort_create_date = 1446706080
+sort_last_updated = 1446743400
+sort_publish_date = 1446752820
 create_date = "2015-11-04T22:48:00-08:00"
 publish_date = "2015-11-05T11:47:00-08:00"
 date = "2015-11-05T11:47:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "If you're going to give a talk about the writing craft, you'd better have something original to say."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house", "tags/writing"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Has anyone yet written a how-to-write book for how-to-write books? If it hasn’t happened yet, we’re probably closing in on that moment in literary history. Lots of people — myself included —enjoy being hypnotized by the soothing rhythm and encouraging cadence of how-to-write guides. After a certain point, all the tips and tricks and affirming quotations blend together into a whirl of positivity, but a good writing guide stands out: Stephen King’s *On Writing* is one, and Anne Lamott’s *Bird by Bird*, and John Gardner’s *The Art of Fiction*, and Natalie Goldberg’s *Writing Down the Bones*. But there are so many terrible writing guides by writers with unrecognizable names; at some point, someone is going to compose a guide to writing writing guides, and that book will probably sell surprisingly well.

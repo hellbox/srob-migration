@@ -1,8 +1,8 @@
 +++
 index = "-KN_-STxT8xY_fHcRBsy"
-_sort_create_date = 1469499660
-_sort_last_updated = 1469552820
-_sort_publish_date = 1469552100
+sort_create_date = 1469499660
+sort_last_updated = 1469552820
+sort_publish_date = 1469552100
 create_date = "2016-07-25T19:21:00-07:00"
 publish_date = "2016-07-26T09:55:00-07:00"
 date = "2016-07-26T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Martha Kreiner is our poet this week, and her piece \"Vessel\" has this first line: \"There\u2019s this vessel I feel\""
 facebookauto = "Martha Kreiner is our poet this week, and her piece \"Vessel\" has this first line: \"There\u2019s this vessel I feel\""
 make_image_tweet = "False"
-byline = ["writers/martha-kreiner"]
+notes_byline = ["writers/martha-kreiner"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 There’s this vessel I feel<br>

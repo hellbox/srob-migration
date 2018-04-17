@@ -1,8 +1,8 @@
 +++
 index = "-Kd4wZWTVuUidCVG6whO"
-_sort_create_date = 1487232180
-_sort_last_updated = 1487232180
-_sort_publish_date = 1487232180
+sort_create_date = 1487232180
+sort_last_updated = 1487232180
+sort_publish_date = 1487232180
 create_date = "2017-02-16T00:03:00-08:00"
 publish_date = "2017-02-16T00:03:00-08:00"
 date = "2017-02-16T00:03:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/_sZqpv-GaRrH6a85wFjwHzsPAa0kun7zantZuqZhuAMCWnSO_1pargcv1RYJxpX3u6m8cy1pcURD5a8Br4Z1G7_71idU"
 url = "/webhook-uploads/1487232135540/optingout.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 1058438
 
 review_relationship = ["reviews/the-seattle-globalist", "reviews/strange-bedfellows"]
-author_relationship = ["authors/maged-zaher"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/where-can-you-get-maged-zahers-new-book"]
 +++

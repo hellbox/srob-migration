@@ -1,8 +1,8 @@
 +++
 index = "-K5H7IacABsSujdxOfKf"
-_sort_create_date = 1449855600
-_sort_last_updated = 1449856080
-_sort_publish_date = 1449855600
+sort_create_date = 1449855600
+sort_last_updated = 1449856080
+sort_publish_date = 1449855600
 create_date = "2015-12-11T09:40:00-08:00"
 publish_date = "2015-12-11T09:40:00-08:00"
 date = "2015-12-11T09:40:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The bad news: Seattle isn't a UNESCO City of Literature. The good news: Seattle is a great city for literature."
 facebookauto = "Bad news from UNESCO: Seattle didn't receive a City of Literature designation this year. But we're still a world-class literary city!"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-city-of-literature"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 UNESCO just released [their full list of new members of the Creative Cities Network](http://en.unesco.org/creative-cities/events/47-cities-join-unesco-creative-cities-network). Seattle, which was making its second bid to become a City of Literature, is **not on that list**. UNESCO does not make its deliberations public, but it's [not hard to come up](http://seattlereviewofbooks.com/reviews/picking-wires-from-a-bowl-of-noodles/) with reasons why [we might not have made the list this year](http://seattlish.com/post/113982681386/ryan-boudinot-killed-seattle-city-of-lit-and-the). 

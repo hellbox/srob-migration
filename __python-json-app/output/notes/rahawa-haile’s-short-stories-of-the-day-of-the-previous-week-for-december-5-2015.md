@@ -1,8 +1,8 @@
 +++
 index = "-K4knql9s3EFIaGDvs8y"
-_sort_create_date = 1449296580
-_sort_last_updated = 1449296580
-_sort_publish_date = 1449334800
+sort_create_date = 1449296580
+sort_last_updated = 1449296580
+sort_publish_date = 1449334800
 create_date = "2015-12-04T22:23:00-08:00"
 publish_date = "2015-12-05T09:00:00-08:00"
 date = "2015-12-05T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's @rahawahaile wrap up has stories from @kathyfish and Rachel Kushner. "
 facebookauto = "Our weekly Rahawa Haile wrap up has stories from Kathy Fish and Rachel Kushner."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-story-of-the-day"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the SRoB Rahawa Haile tweets a short story. She gave us permission to collect them every week. She's archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a></p>

@@ -1,8 +1,8 @@
 +++
 index = "-KXlO9dcvo4KN52DZQhG"
-_sort_create_date = 1480444860
-_sort_last_updated = 1480575540
-_sort_publish_date = 1480537800
+sort_create_date = 1480444860
+sort_last_updated = 1480575540
+sort_publish_date = 1480537800
 create_date = "2016-11-29T10:41:00-08:00"
 publish_date = "2016-11-30T12:30:00-08:00"
 date = "2016-11-30T12:30:00-08:00"
@@ -13,10 +13,10 @@ title = "Regarding Lucia Perillo"
 dek = "When Lucia Perillo passed away in October, the Seattle area lost a poet of grace and gratitude who wrote beautifully about the limitations of the body. John Marshall, co-founder of Open Books, remembers her and reflects on what she's left behind."
 facebookauto = "We're so pleased to publish this beautiful piece of writing: John W Marshall, co-founder of Open Books, remembers Seattle-area poet Lucia Perillo, who died in October of this year."
 twitterauto = "John W Marshall, co-founder of @openpoetrybooks, remembers Seattle-area poet Lucia Perillo."
-byline = ["writers/john-w-marshall"]
+reviews_byline = ["writers/john-w-marshall"]
 books_in_this_review = ["books/time-will-clean-the-carcass-bones", "books/the-body-mutinies"]
 tags_reviews = ["tags/poetry", "tags/death"]
-authors_reviews = ["authors/lucia-perillo"]
+reviews_about = ""
 +++
 
 In 1987 I bought a small, struggling bookstore in my neighborhood. I was a godsend for the then-owner and the store was a godsend for me. Prior, I had studied to become, and became, a rehabilitation counselor. That means, seen in hindsight, that I had engaged in expensive self-help at a very good university and then wandered into a career. The bookstore was a much better fit as it allowed me to associate with books and their makers — loves from a very early age — rather than keeping company with other damaged people and their insurance companies.

@@ -1,8 +1,8 @@
 +++
 index = "-K3Tdk56-1F_lemt0w5F"
-_sort_create_date = 1447918200
-_sort_last_updated = 1447918200
-_sort_publish_date = 1447918200
+sort_create_date = 1447918200
+sort_last_updated = 1447918200
+sort_publish_date = 1447918200
 create_date = "2015-11-18T23:30:00-08:00"
 publish_date = "2015-11-18T23:30:00-08:00"
 date = "2015-11-18T23:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Don't forget: #NBAwards-nominated author Hanya Yanagihara reads at @ubookstorereads on Friday."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/national-book-awards"]
-authors_notes = ["authors/ta-nehisi-coates"]
+notes_about = ""
 books = ["books/between-the-world-and-me"]
 +++
 If you didn't [watch the livestream](http://seattlereviewofbooks.com/notes/2015/11/19/national-book-awards-ceremony-live-stream/), here's who won the National Book Awards this year:

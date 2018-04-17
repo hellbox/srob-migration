@@ -1,8 +1,8 @@
 +++
 index = "-KPRLBY2tYbKgqX_EvUP"
-_sort_create_date = 1471501860
-_sort_last_updated = 1471501860
-_sort_publish_date = 1471631400
+sort_create_date = 1471501860
+sort_last_updated = 1471501860
+sort_publish_date = 1471631400
 create_date = "2016-08-17T23:31:00-07:00"
 publish_date = "2016-08-19T11:30:00-07:00"
 date = "2016-08-19T11:30:00-07:00"
@@ -13,10 +13,10 @@ title = "Women are from Mars"
 dek = "There's still room in your summer reading lists for a novel about a strong female lead who smuggles herself onto a spacefaring boat, right?"
 facebookauto = "If the idea of a novel about spacefaring ships traveling between Earth and Mars doesn't capture your interest, you may already be dead."
 twitterauto = "Bring @daviddlevine's Arabella of Mars (from @torbooks) along on your summer vacation."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/arabella-of-mars"]
 tags_reviews = ["tags/science-fiction", "tags/steampunk"]
-authors_reviews = ["authors/david-d-levine"]
+reviews_about = ""
 +++
 
 A rule of thumb for writing science fiction is to start with the world outside our window, change one thing, and then see how that affects the world. Often the thing that’s changed is a technological breakthrough — faster-than-light travel, or nanomachines — and sometimes it’s a societal shift, like talking animals. In Portland author David D. Levine’s *Arabella of Mars*, the one new thing is a physical law: there is no vacuum of space. Instead, the planets of the solar system are separated by oceans of air that can be navigated by, basically, boats.

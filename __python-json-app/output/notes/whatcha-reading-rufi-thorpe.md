@@ -1,8 +1,8 @@
 +++
 index = "-L6eCB4JVlX5D5-dNtlY"
-_sort_create_date = 1520052780
-_sort_last_updated = 1520054520
-_sort_publish_date = 1520098200
+sort_create_date = 1520052780
+sort_last_updated = 1520054520
+sort_publish_date = 1520098200
 create_date = "2018-03-02T20:53:00-08:00"
 publish_date = "2018-03-03T09:30:00-08:00"
 date = "2018-03-03T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520052757225/rufi
 twitterauto = "Now we know what @rufithorpe is reading, and you can too by clicking on this convenient link."
 facebookauto = "Whatcha Reading, Rufi Thorpe? Carl Sagan, Jane Smiley, and Jesmyn Ward"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/whatcha-reading"]
-authors_notes = ["authors/rufi-thorpe", "authors/jane-smiley", "authors/carl-sagan", "authors/jesmyn-ward"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week we ask an interesting figure what they're digging into. Have ideas who we should reach out to? Let it fly: [info@seattlereviewofbooks.com](mailto:info@seattlereviewofbooks.com). Want to read more? Check out the [archives](http://www.seattlereviewofbooks.com/tags/whatcha-reading).</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KV9AglASVQfRUGp8s0e"
-_sort_create_date = 1477639560
-_sort_last_updated = 1482558720
-_sort_publish_date = 1477673760
+sort_create_date = 1477639560
+sort_last_updated = 1482558720
+sort_publish_date = 1477673760
 create_date = "2016-10-28T00:26:00-07:00"
 publish_date = "2016-10-28T09:56:00-07:00"
 date = "2016-10-28T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Last night's Lit Crawl was loud and quiet and good and not so good and there was a really bad bartender."
 facebookauto = "Last night's Lit Crawl was loud and quiet and good and not so good and there was a really bad bartender."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lit-crawl"]
-authors_notes = ["authors/mattilda-bernstein-sycamore", "authors/jane-wong", "authors/sierra-nelson", "authors/tobi-hill-meyer"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1477639534018/JaneWongatLitCrawl.JPG)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KNL38RxgoCXI1vmbqm8"
-_sort_create_date = 1469248980
-_sort_last_updated = 1469249040
-_sort_publish_date = 1469248980
+sort_create_date = 1469248980
+sort_last_updated = 1469249040
+sort_publish_date = 1469248980
 create_date = "2016-07-22T21:43:00-07:00"
 publish_date = "2016-07-22T21:43:00-07:00"
 date = "2016-07-22T21:43:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/opU2XqXg1gYxBl_yjaW_aD1hBmpGTN4Qpzr0-3QhJeXbLbtN_ABa93Fh1eevzirKIaZBqOfRjc04GXGwa0G-L5n6J9Mg"
 url = "/webhook-uploads/1469249000734/content%3Fid%3DCVAhrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7373
 
 review_relationship = ["reviews/you-down-with-rbg"]
-author_relationship = ["authors/irin-carmon"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

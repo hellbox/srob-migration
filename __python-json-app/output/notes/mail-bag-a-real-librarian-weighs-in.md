@@ -1,8 +1,8 @@
 +++
 index = "-KCWt79SbcZXPOUEUsLK"
-_sort_create_date = 1457636220
-_sort_last_updated = 1457648220
-_sort_publish_date = 1457637000
+sort_create_date = 1457636220
+sort_last_updated = 1457648220
+sort_publish_date = 1457637000
 create_date = "2016-03-10T10:57:00-08:00"
 publish_date = "2016-03-10T11:10:00-08:00"
 date = "2016-03-10T11:10:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Reader @kerryhowell had a question for @ciennam about her Little Library response. "
 facebookauto = "We get mail! Today, a reader responds to Cienna Madrid, who responds back. Don't you love this kind of old-fashioned idea of letters and responding instead of a comments section?"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/mail-bag", "tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">A few weeks ago in her <a href="http://seattlereviewofbooks.com/notes/2016/02/26/the-help-desk-my-local-little-free-library-is-a-disaster/" title="The Seattle Review of Books - The Help Desk: My local Little Free Library is a disaster">Help Desk column</a>, Cienna Madrid responded to a question from Alyssa about tidying up the neighborhood Little Free Library. Today's Mail Bag is from an actual librarian. You can always read more of Cienna's columns on her <a href="http://seattlereviewofbooks.com/tags/the-help-desk/" title="The Seattle Review of Books">archive page</a>, and r<a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">each out to us if you'd like to comment</a> on anything we publish.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KeWLwWGXV9d_bDkMA-C"
-_sort_create_date = 1488765780
-_sort_last_updated = 1488821400
-_sort_publish_date = 1488823380
+sort_create_date = 1488765780
+sort_last_updated = 1488821400
+sort_publish_date = 1488823380
 create_date = "2017-03-05T18:03:00-08:00"
 publish_date = "2017-03-06T10:03:00-08:00"
 date = "2017-03-06T10:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488765440608/kcme
 twitterauto = "For five years, one Seattle bus driver has kept a brilliant blog about his experiences. "
 facebookauto = "For five years, one Seattle bus driver has kept a brilliant blog about his experiences. We interviewed Nathan Vass about his time as a bus blogger."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/blogging"]
-authors_notes = ["authors/nathan-vass"]
+notes_about = ""
 books = ""
 +++
 Since June of 2012, Nathan Vass has been blogging about his experiences as a driver for King County Metro. On his blog, [The View from Nathan’s Bus]( http://www.nathanvass.com/the-view-from-nathans-bus), he writes candidly about what he sees as a driver on the 7 line through Rainier Valley, which is commonly stereotyped as the city’s most infamous route.

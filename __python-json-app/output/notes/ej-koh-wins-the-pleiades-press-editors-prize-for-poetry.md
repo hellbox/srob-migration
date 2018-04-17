@@ -1,8 +1,8 @@
 +++
 index = "-KPAn8wWvVy6TmWR1FGp"
-_sort_create_date = 1471224240
-_sort_last_updated = 1471224240
-_sort_publish_date = 1471291740
+sort_create_date = 1471224240
+sort_last_updated = 1471224240
+sort_publish_date = 1471291740
 create_date = "2016-08-14T18:24:00-07:00"
 publish_date = "2016-08-15T13:09:00-07:00"
 date = "2016-08-15T13:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to @thisisEJKoh for winning a prize & publication from @Pleiades_Press!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry", "tags/awards"]
-authors_notes = ["authors/ej-koh"]
+notes_about = ""
 books = ""
 +++
 Seattle poet EJ Koh [announced on Twitter](https://twitter.com/thisisEJKoh/status/764137891341611009?lang=en) that her poetry collection *A Lesser Love* has won the 2016 [Pleiades Press](http://pleiadespress.org/about/) Editors Prize for Poetry. The book will be published next year. 

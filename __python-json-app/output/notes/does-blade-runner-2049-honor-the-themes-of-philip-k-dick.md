@@ -1,8 +1,8 @@
 +++
 index = "-KvkNDVLUnGPJAcATuFS"
-_sort_create_date = 1507271400
-_sort_last_updated = 1507271400
-_sort_publish_date = 1507305660
+sort_create_date = 1507271400
+sort_last_updated = 1507271400
+sort_publish_date = 1507305660
 create_date = "2017-10-05T23:30:00-07:00"
 publish_date = "2017-10-06T09:01:00-07:00"
 date = "2017-10-06T09:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507270220519/2049
 twitterauto = "Does Blade Runner 2049 honor the themes of Philip K. Dick's fiction? Should it?"
 facebookauto = "Does Blade Runner 2049 honor the themes of Philip K. Dick's fiction? Should it honor those themes, or have we moved on?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/adaptation", "tags/science-fiction"]
-authors_notes = ["authors/philip-k-dick"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1507270220519/2049.jpg)</p>

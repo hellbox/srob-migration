@@ -1,8 +1,8 @@
 +++
 index = "-K-EKhDqaprZledopBVn"
-_sort_create_date = 1443366360
-_sort_last_updated = 1443366780
-_sort_publish_date = 1443369900
+sort_create_date = 1443366360
+sort_last_updated = 1443366780
+sort_publish_date = 1443369900
 create_date = "2015-09-27T08:06:00-07:00"
 publish_date = "2015-09-27T09:05:00-07:00"
 date = "2015-09-27T09:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Sunday Post features pieces by @tiffehr, @bcmerchant, @aaronburkhalter, and @rahawahaile this week."
 facebookauto = "Sunday Post time! Tiff Fehr gives advice on changing yourself by unlearning, Brian Merchant talks to Joe Halderman about The Forever War, Aaron Burkhalter looks at why books get banned, and Rahawa Haile goes on a journey of grief and discovery. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Unlearning: How rigorous self-assessment can transform your perspective](https://source.opennews.org/en-US/articles/unlearning/)</h5>

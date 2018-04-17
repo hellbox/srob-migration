@@ -1,8 +1,8 @@
 +++
 index = "-KgwZntF3pGzpYtj4oRz"
-_sort_create_date = 1491369900
-_sort_last_updated = 1491370080
-_sort_publish_date = 1491369900
+sort_create_date = 1491369900
+sort_last_updated = 1491370080
+sort_publish_date = 1491369900
 create_date = "2017-04-04T22:25:00-07:00"
 publish_date = "2017-04-04T22:25:00-07:00"
 date = "2017-04-04T22:25:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/B-PWpoUEkRx7TnWJeWDjG7sIw1PHK0Lw2Ka2pIfCAH_F4prL14CSm0AI5N829k2FpeQoc-L6yENz1xkrXcekiQAvLmk"
 url = "/webhook-uploads/1491369932874/content%3Fid%3D1kZFvgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 3263
 
 review_relationship = ["reviews/trouble-in-paradise"]
-author_relationship = ["authors/halie-theoharides"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-politicians-we-love", "notes/literary-event-of-the-week-x-y-z-gallery-opening"]
 +++

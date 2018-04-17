@@ -1,8 +1,8 @@
 +++
 index = "-L9O7whsKTA1lNoGxBaz"
-_sort_create_date = 1522987680
-_sort_last_updated = 1522987680
-_sort_publish_date = 1523300220
+sort_create_date = 1522987680
+sort_last_updated = 1522987680
+sort_publish_date = 1523300220
 create_date = "2018-04-05T21:08:00-07:00"
 publish_date = "2018-04-09T11:57:00-07:00"
 date = "2018-04-09T11:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522987503124/lawn
 twitterauto = "Your week in readings includes Lindy West in conversation with two great women, Jonathan Evison, and much more."
 facebookauto = "Your week in readings includes Lindy West in conversation with two great women, Jonathan Evison, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/jonathan-evison", "authors/lindy-west", "authors/quenton-baker"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, April 9: *Make Trouble* Reading **</h5></p>

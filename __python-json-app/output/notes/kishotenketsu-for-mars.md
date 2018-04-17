@@ -1,8 +1,8 @@
 +++
 index = "-KVMYoE_7XB_yKqUeSlu"
-_sort_create_date = 1477863960
-_sort_last_updated = 1477975380
-_sort_publish_date = 1478019300
+sort_create_date = 1477863960
+sort_last_updated = 1477975380
+sort_publish_date = 1478019300
 create_date = "2016-10-30T14:46:00-07:00"
 publish_date = "2016-11-01T09:55:00-07:00"
 date = "2016-11-01T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem by @evanjpeterson is \"Kishotenketsu for Mars\""
 facebookauto = "Our Tuesday Poem by Evan J Peterson is \"Kishotenketsu for Mars\""
 make_image_tweet = "False"
-byline = ["writers/evan-j-peterson"]
+notes_byline = ["writers/evan-j-peterson"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On Mars, water once flowed. Where<br>

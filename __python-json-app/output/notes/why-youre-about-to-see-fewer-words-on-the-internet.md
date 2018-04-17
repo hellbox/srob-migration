@@ -1,8 +1,8 @@
 +++
 index = "-KFFt7Ip8bkqP7ow3TwQ"
-_sort_create_date = 1460572260
-_sort_last_updated = 1460572980
-_sort_publish_date = 1460578500
+sort_create_date = 1460572260
+sort_last_updated = 1460572980
+sort_publish_date = 1460578500
 create_date = "2016-04-13T11:31:00-07:00"
 publish_date = "2016-04-13T13:15:00-07:00"
 date = "2016-04-13T13:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Facebook wants you to watch more video and stop reading long pieces of writing. What do you want?"
 facebookauto = "Facebook wants you to watch more video and stop reading long pieces of writing. BuzzFeed just wants your attention. What do you want?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/internet", "tags/buzzfeed", "tags/facebook"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This quote, [from BuzzFeed chairman Ken Lerer](http://recode.net/2016/04/12/buzzfeed-revenue-advertising-2016-facebook/), positively smacks of protesting too much:

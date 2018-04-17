@@ -1,8 +1,8 @@
 +++
 index = "-Jx78e0rkIriAzz1MMaz"
-_sort_create_date = 1440024480
-_sort_last_updated = 1440024480
-_sort_publish_date = 1440024480
+sort_create_date = 1440024480
+sort_last_updated = 1440024480
+sort_publish_date = 1440024480
 create_date = "2015-08-19T15:48:00-07:00"
 publish_date = "2015-08-19T15:48:00-07:00"
 date = "2015-08-19T15:48:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Book nerds! You have 2 chances to get your dance on this week. Proceeds benefit @LitCrawlSeattle and @CampTenTrees."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/the-rejections", "tags/elliott-bay-book-company", "tags/lit-crawl", "tags/fundraiser"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *SRoB* has already declared what we believe to be [the best-looking literary events of the week](http://seattlereviewofbooks.com/notes/2015/08/17/your-week-in-readings-the-best-literary-events-from-the-week-of-august-17-august-23/), but there are a couple of **music-themed literary fundraisers** coming up that we want you to know about. 

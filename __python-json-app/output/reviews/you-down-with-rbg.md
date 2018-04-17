@@ -1,8 +1,8 @@
 +++
 index = "-KNLBiceRw6Y8-DeBrhV"
-_sort_create_date = 1469251200
-_sort_last_updated = 1469557320
-_sort_publish_date = 1469472900
+sort_create_date = 1469251200
+sort_last_updated = 1469557320
+sort_publish_date = 1469472900
 create_date = "2016-07-22T22:20:00-07:00"
 publish_date = "2016-07-25T11:55:00-07:00"
 date = "2016-07-25T11:55:00-07:00"
@@ -13,10 +13,10 @@ title = "You down with RBG?"
 dek = "An examination of one of the weirdest \u2014 and coolest \u2014 popular reappraisals in American political history.\n"
 facebookauto = "Anna Minard reflects on the life, legacy, and all-around general bad-assedness of Ruth Bader Ginsburg."
 twitterauto = "The life, legacy, and all-around general bad-assedness of Ruth Bader Ginsburg, as told by @minardanna."
-byline = ["writers/anna-minard"]
+reviews_byline = ["writers/anna-minard"]
 books_in_this_review = ["books/notorious-rbg"]
 tags_reviews = ["tags/non-fiction", "tags/politics"]
-authors_reviews = ["authors/irin-carmon"]
+reviews_about = ""
 +++
 
 Supreme Court Justice Ruth Bader Ginsburg, surely familiar now with adoring internet coverage of her dissents, her turns of phrase, her fancy collars, her meme status, made headlines earlier this month in a new and entirely surprising way: She was chastised widely by those on the right and the left for impropriety, after criticizing Donald Trump in interviews. For someone whose status as a hero and internet star is just a few years old, and whose prior reputation was as someone quiet, moderate, and exceedingly proper, this must have been an odd reversal. But an embodiment of contradictions is not in itself new for the justice, not at all. A women’s rights lawyer who often argued for male plaintiffs, an octogenarian renowned for her vigorous workout routine, a Jewish grandmother and jurist whose popular nickname ties her to a murdered rap star—surely her public persona can support yet another layer of complexity.

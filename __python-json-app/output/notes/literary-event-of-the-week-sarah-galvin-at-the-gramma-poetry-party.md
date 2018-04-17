@@ -1,8 +1,8 @@
 +++
 index = "-KepnO-tKRNllFLKmEjW"
-_sort_create_date = 1489108800
-_sort_last_updated = 1489109040
-_sort_publish_date = 1489597020
+sort_create_date = 1489108800
+sort_last_updated = 1489109040
+sort_publish_date = 1489597020
 create_date = "2017-03-09T17:20:00-08:00"
 publish_date = "2017-03-15T09:57:00-07:00"
 date = "2017-03-15T09:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489109045207/GALV
 twitterauto = "Sarah Galvin reads at the Gramma Poetry party on Friday night. It's our event of the week."
 facebookauto = "Sarah Galvin reads at the Gramma Poetry party on Friday night. It's our pick for event of the week."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/sarah-galvin"]
+notes_about = ""
 books = ["books/ugly-time"]
 +++
 You can choose from any number of reasons to attend the Gramma Poetry launch party at Canvas (the space formerly known as Western Bridge) this Friday night. It’s the launch party for an exciting new Seattle publisher called Gramma Poetry. There’s food. There’s booze. People are spreading rumors that there may be a bouncy castle. The band Boyfriends will play a set, followed by a dance party. Gramma author Christine Shan Shan Hou will be signing copies of her new book *Community Garden for Lonely Girls*. You might meet the love of your life there.

@@ -1,8 +1,8 @@
 +++
 index = "-K-H7YXiRg0Npg3cD3gQ"
-_sort_create_date = 1443413220
-_sort_last_updated = 1443413220
-_sort_publish_date = 1443470400
+sort_create_date = 1443413220
+sort_last_updated = 1443413220
+sort_publish_date = 1443470400
 create_date = "2015-09-27T21:07:00-07:00"
 publish_date = "2015-09-28T13:00:00-07:00"
 date = "2015-09-28T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Seattle Antiquarian Bookfair is our sponsor again this week. October 10th & 11th -- mark your calendars!"
 facebookauto = "The Seattle Antiquarian Bookfair is our sponsor again this week. October 10th & 11th -- mark your calendars!"
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Our thanks, again, to our current event sponsor The Seattle Antiquarian Bookfair. If you love books, especially rare, not to mention ephemera, and collectables, you’ll really enjoy the fair. There’s a great video on our sponsor page that shows a view at last years event. Don’t miss it — and be sure to thanks them for sponsoring _The Seattle Review of Books_.

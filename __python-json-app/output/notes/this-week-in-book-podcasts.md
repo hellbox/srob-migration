@@ -1,8 +1,8 @@
 +++
 index = "-K0j-AKrZC98zYnRj2aK"
-_sort_create_date = 1444971300
-_sort_last_updated = 1444971300
-_sort_publish_date = 1445020500
+sort_create_date = 1444971300
+sort_last_updated = 1444971300
+sort_publish_date = 1445020500
 create_date = "2015-10-15T21:55:00-07:00"
 publish_date = "2015-10-16T11:35:00-07:00"
 date = "2015-10-16T11:35:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@ThirdPlaceBooks managing partner @rbertsindelar and @paulconstant both showed up in podcasts this week."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/third-place-books-lake-forest-park", "tags/robert-sindelar", "tags/breakfast-at-the-bookstore"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **Podcast #1**: [The Art of Commerce](http://www.0s-1s.com/the-art-of-commerce-xxxiii) talked with Third Place Books managing partner Robert Sindelar about the pleasures and problems of running a bookstore. (If you're wondering, the Seward Park Third Place Books is still scheduled to open early in 2016.)

@@ -1,8 +1,8 @@
 +++
 index = "-L43i5sZZyWpLPb9HGd3"
-_sort_create_date = 1517276340
-_sort_last_updated = 1517276340
-_sort_publish_date = 1517276340
+sort_create_date = 1517276340
+sort_last_updated = 1517276340
+sort_publish_date = 1517276340
 create_date = "2018-01-29T17:39:00-08:00"
 publish_date = "2018-01-29T17:39:00-08:00"
 date = "2018-01-29T17:39:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cREEzsvXlDbFZ-WHwhPeeLrcwIWNuctAE_rMl0hewRpMM8tINhqClzox_9A0RaoOhcNnrMkov6n0xNuHx5t8NHZ3nAbIxQ"
 url = "/webhook-uploads/1517276381340/Charlatan_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 42392
 
 review_relationship = ""
-author_relationship = ["authors/pope-brock"]
+books_author = ""
 sponsorships_book = ["sponsorships/charlatan", "sponsorships/pope-brocks-charlatan"]
 notes_relationship = ["notes/the-flimflam-man-is-back", "notes/the-flimflam-man-is-back-again-(with-a-new-chapter-for-you)"]
 +++

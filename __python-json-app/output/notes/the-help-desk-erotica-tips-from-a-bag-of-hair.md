@@ -1,8 +1,8 @@
 +++
 index = "-Ky24vZtXRotio5sRtkD"
-_sort_create_date = 1509732840
-_sort_last_updated = 1509732840
-_sort_publish_date = 1509735660
+sort_create_date = 1509732840
+sort_last_updated = 1509732840
+sort_publish_date = 1509735660
 create_date = "2017-11-03T11:14:00-07:00"
 publish_date = "2017-11-03T12:01:00-07:00"
 date = "2017-11-03T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509732651303/9780
 twitterauto = "In search of erotica from a woman's perspective, @ciennam asks a bag of a famous person's hair."
 facebookauto = "In search of erotica from a woman's perspective, Cienna Madrid asks a bag of a famous person's hair for help."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna Madrid can help. Send your Help Desk Questions to advice@seattlereviewofbooks.com.</p>

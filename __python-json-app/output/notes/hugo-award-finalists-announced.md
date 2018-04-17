@@ -1,8 +1,8 @@
 +++
 index = "-KGIsjn89jEyshHb2UpZ"
-_sort_create_date = 1461696240
-_sort_last_updated = 1461696240
-_sort_publish_date = 1461696240
+sort_create_date = 1461696240
+sort_last_updated = 1461696240
+sort_publish_date = 1461696240
 create_date = "2016-04-26T11:44:00-07:00"
 publish_date = "2016-04-26T11:44:00-07:00"
 date = "2016-04-26T11:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Hugo Awards finalists have been announced!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-awards"]
-authors_notes = ["authors/neal-stephenson", "authors/ann-leckie"]
+notes_about = ""
 books = ["books/seveneves", "books/ancillary-justice"]
 +++
 Carolyn Kellogg [at Jacket Copy](http://www.latimes.com/books/jacketcopy/la-et-jc-hugo-awards-the-complete-finalist-lst-20160426-story.html) has the full list of the sci-fi/fantasy Hugo Award finalists. Here's the novel category:

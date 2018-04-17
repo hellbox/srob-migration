@@ -1,8 +1,8 @@
 +++
 index = "-KHh_je9Av6wo8qrAjUB"
-_sort_create_date = 1463201220
-_sort_last_updated = 1463596740
-_sort_publish_date = 1463590920
+sort_create_date = 1463201220
+sort_last_updated = 1463596740
+sort_publish_date = 1463590920
 create_date = "2016-05-13T21:47:00-07:00"
 publish_date = "2016-05-18T10:02:00-07:00"
 date = "2016-05-18T10:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463200600707/thun
 twitterauto = "Your week in readings kicks off tonight with Christine Texeria reading as part of The Furnace @hollowearth."
 facebookauto = "This week in readings includes a brand-new bookstore, a reading from Sherman Alexie, and a discussion about fear and memoir."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/third-place-books-seward-park"]
-authors_notes = ["authors/sherman-alexie", "authors/rebecca-brown"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday May 18: The Furnace**</h5></p> 

@@ -1,8 +1,8 @@
 +++
 index = "-K8tkAEQ-E_1IIChBXk7"
-_sort_create_date = 1453741560
-_sort_last_updated = 1453741560
-_sort_publish_date = 1453755600
+sort_create_date = 1453741560
+sort_last_updated = 1453741560
+sort_publish_date = 1453755600
 create_date = "2016-01-25T09:06:00-08:00"
 publish_date = "2016-01-25T13:00:00-08:00"
 date = "2016-01-25T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @fbpress published @mschmeltzer01\u2019s titular poem from his chapbook \u201cElegy/Elk River\u201d on our site today."
 facebookauto = "Floating Bridge Press once again showed their knack for uncovering new talent when Michael Schmeltzer won their 2015 Chapbook Competition. We've published the titular poem from his chapbook \"Elegy/Elk River\" on the site for Floating Bridge's sponsorship this week. Don't miss it."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/michael-schmeltzer"]
+notes_about = ""
 books = ["books/elegy--elk-river"]
 +++
 Our thanks to Floating Bridge Press for their sponsorship this week. They're showing off 2015 chapbook award winner Michael Schmeltzer, and his winning work _Elegy/Elk River_. The titular poem is <a href="http://seattlereviewofbooks.com/sponsorships" title="The Seattle Review of Books - sponsorships">available to read on our sponsors page</a>, and it is an amazing piece of work. His accolades are well deserved.

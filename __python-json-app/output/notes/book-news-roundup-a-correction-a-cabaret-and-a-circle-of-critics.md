@@ -1,8 +1,8 @@
 +++
 index = "-L7goZO21ZygmIb4k6wA"
-_sort_create_date = 1521170400
-_sort_last_updated = 1521170400
-_sort_publish_date = 1521223260
+sort_create_date = 1521170400
+sort_last_updated = 1521170400
+sort_publish_date = 1521223260
 create_date = "2018-03-15T20:20:00-07:00"
 publish_date = "2018-03-16T11:01:00-07:00"
 date = "2018-03-16T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes a correction, a cabaret, and a circle of critics."
 facebookauto = "Today's Book News Roundup includes a correction, a cabaret, and a circle of critics."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * First, let's begin with a correction. In this week's [Event of the Week column](http://www.seattlereviewofbooks.com/notes/2018/03/12/literary-event-of-the-week-dock-street-salon-at-phinney-books/), I credited the Dock Street Salon solely to Dock Street Press publisher Dane Bahr. In fact, Bahr co-hosts the salon with Seattle author and publisher [Heather Jacobs](http://www.bigfictionmagazine.com/). And this week's edition of the Salon was entirely curated and coordinated by Jacobs, not Bahr. I sincerely apologize to Jacobs for getting that wrong, and I've amended the listing to give her proper credit.

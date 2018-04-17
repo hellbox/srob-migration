@@ -1,8 +1,8 @@
 +++
 index = "-KetR6TvOOMr71MlxbIs"
-_sort_create_date = 1489169820
-_sort_last_updated = 1489169820
-_sort_publish_date = 1489169820
+sort_create_date = 1489169820
+sort_last_updated = 1489169820
+sort_publish_date = 1489169820
 create_date = "2017-03-10T10:17:00-08:00"
 publish_date = "2017-03-10T10:17:00-08:00"
 date = "2017-03-10T10:17:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489169503766/ls.p
 twitterauto = "Sad news: the University District Half Price Books on Roosevelt Way is scheduled to close on April 6th."
 facebookauto = "Sad news: the University District Half Price Books on Roosevelt Way is scheduled to close on April 6th."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/retail", "tags/half-price-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Yesterday, a Redditor by the user name of FatuousJeffrey [posted]( https://www.reddit.com/r/SeattleWA/comments/5ygifw/half_price_books_in_u_district_to_close_in_april/) that the Half Price Books in the University District on Roosevelt Way was scheduled to close in April of this year. FatuousJeffrey attributed this news to “a clerk I talked to last night.” That Half Price Books has been operating for at least a quarter-century, and it was a rare familiar presence through all the development the Roosevelt neighborhood has seen in recent years. 

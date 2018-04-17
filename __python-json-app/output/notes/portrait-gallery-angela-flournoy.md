@@ -1,8 +1,8 @@
 +++
 index = "-KjKFLC8-2otSTJL66u4"
-_sort_create_date = 1493931480
-_sort_last_updated = 1493932740
-_sort_publish_date = 1493931600
+sort_create_date = 1493931480
+sort_last_updated = 1493932740
+sort_publish_date = 1493931600
 create_date = "2017-05-04T13:58:00-07:00"
 publish_date = "2017-05-04T14:00:00-07:00"
 date = "2017-05-04T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493931055375/SRoB
 twitterauto = "Portrait Gallery: The Turner House author @angelaflournoy #illustration by @studiochristine @HMHbooks @SPLBuzz"
 facebookauto = "Portrait Gallery: Angela Flournoy"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/angela-flournoy"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

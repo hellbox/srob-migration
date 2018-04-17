@@ -1,8 +1,8 @@
 +++
 index = "-Kd2iiA2TIMNrxK25t_m"
-_sort_create_date = 1487194980
-_sort_last_updated = 1487194980
-_sort_publish_date = 1487194980
+sort_create_date = 1487194980
+sort_last_updated = 1487194980
+sort_publish_date = 1487194980
 create_date = "2017-02-15T13:43:00-08:00"
 publish_date = "2017-02-15T13:43:00-08:00"
 date = "2017-02-15T13:43:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're so sad to hear @misswashuta is leaving Seattle!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/elissa-washuta"]
+notes_about = ""
 books = ""
 +++
 We're always happy to see Seattle writers doing great things and spreading the Northwest gospel elsewhere, but, boy, this stings a little bit:

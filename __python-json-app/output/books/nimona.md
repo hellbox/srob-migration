@@ -1,8 +1,8 @@
 +++
 index = "-KBsF_JvK-Yl-Ds6XP64"
-_sort_create_date = 1456937760
-_sort_last_updated = 1457119380
-_sort_publish_date = 1456937760
+sort_create_date = 1456937760
+sort_last_updated = 1457119380
+sort_publish_date = 1456937760
 create_date = "2016-03-02T08:56:00-08:00"
 publish_date = "2016-03-02T08:56:00-08:00"
 date = "2016-03-02T08:56:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Juvenile Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/iAjZKVY1o4a57sqwC2sWvdQhyhXu2edblbYZvUW5FGpLij0zRKA4yA-MB3bG62W7LDNSoyu6ogomCcjga_HQ8FEWrwk"
 url = "/webhook-uploads/1456937782958/content%3Fid%3DMXizoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 15329
 
 review_relationship = ["reviews/drawn-this-way"]
-author_relationship = ["authors/noelle-stevenson"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/seattle-shows-up-for-the-2016-eisner-award-nominations", "notes/book-news-roundup-seattle-cleans-up-at-the-eisner-awards"]
 +++

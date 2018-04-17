@@ -1,8 +1,8 @@
 +++
 index = "-KRCCL91WziLGLkQeseE"
-_sort_create_date = 1473395340
-_sort_last_updated = 1473395400
-_sort_publish_date = 1473395340
+sort_create_date = 1473395340
+sort_last_updated = 1473395400
+sort_publish_date = 1473395340
 create_date = "2016-09-08T21:29:00-07:00"
 publish_date = "2016-09-08T21:29:00-07:00"
 date = "2016-09-08T21:29:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/lD8ahmLEf2Wc_au58ZS6JNyzEjh7efA5SlxLbCBgtNwBpNsjUmwB9uC9MvKWVamoyonqntbEjwKvp8mVOTayJDBv4ycC"
 url = "/webhook-uploads/1473395384498/content%3Fid%3DDI8VswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 13890
 
 review_relationship = ["reviews/everfair-in-love-and-war"]
-author_relationship = ["authors/nisi-shawl"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st", "notes/portrait-gallery-nisi-shawl", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel", "notes/looking-for-optimistic-sci-fi-head-to-the-multiplexes"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-K-vytUPrOSjGQXhRhRU"
-_sort_create_date = 1444115340
-_sort_last_updated = 1444286100
-_sort_publish_date = 1444237260
+sort_create_date = 1444115340
+sort_last_updated = 1444286100
+sort_publish_date = 1444237260
 create_date = "2015-10-06T00:09:00-07:00"
 publish_date = "2015-10-07T10:01:00-07:00"
 date = "2015-10-07T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444115281388/crop
 twitterauto = "Our October Bookstore of the Month will only exist for one day \u2014 Halloween \u2014 before disappearing for another year."
 facebookauto = "Every Wednesday this month, we're highlighting a different Short Run Small Press Festival presenter. Today, meet Casandra Lopez of As/Us magazine."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/as--us", "tags/short-run"]
-authors_notes = ["authors/elissa-washuta", "authors/casandra-lopez"]
+notes_about = ""
 books = ""
 +++
 <p class= "intro">Our October Bookstore of the Month is a special one, because it’s a bookstore that will only exist in the world for one day. [The Short Run Comix & Arts Festival](http://www.shortrun.org/) will take place this year on October 31st at Fisher Pavilion in the Seattle Center, and for that one day, it will be the largest bookseller of independent literature, zines, and comics in the Seattle area. Every week this month, we’ll highlight a different Short Run exhibitor, to give you a better idea of the scope and breadth of the festival.</p>

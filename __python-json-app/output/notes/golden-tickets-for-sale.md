@@ -1,8 +1,8 @@
 +++
 index = "-JugyRG4gSE5-LQ-BFKC"
-_sort_create_date = 1437421080
-_sort_last_updated = 1437421080
-_sort_publish_date = 1437413880
+sort_create_date = 1437421080
+sort_last_updated = 1437421080
+sort_publish_date = 1437413880
 create_date = "2015-07-20T12:38:00-07:00"
 publish_date = "2015-07-20T10:38:00-07:00"
 date = "2015-07-20T10:38:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-arts-and-lectures"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Individual tickets for Seattle Arts and Lectures' 2015 and 2016 reading series are now available on their website. This is the best SAL season in years, featuring authors like Ta-Nehisi Coates, Emily St. John Mandel, Teju Cole, and Claudia Rankine. If you can't afford a full series pass, now is the time to [stock up on tickets](http://www.lectures.org/season/) for the lectures you simply can't miss. The Coates and Cole readings, in particular, will likely sell out soon.

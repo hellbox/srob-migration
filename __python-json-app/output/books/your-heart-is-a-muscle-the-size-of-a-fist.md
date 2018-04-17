@@ -1,8 +1,8 @@
 +++
 index = "-KBRZE7GIq5AOaouP6bG"
-_sort_create_date = 1456473120
-_sort_last_updated = 1456473300
-_sort_publish_date = 1456473120
+sort_create_date = 1456473120
+sort_last_updated = 1456473300
+sort_publish_date = 1456473120
 create_date = "2016-02-25T23:52:00-08:00"
 publish_date = "2016-02-25T23:52:00-08:00"
 date = "2016-02-25T23:52:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0f6LF9ZQOPzmtOCrXkf5rhSvHxBM0wPlb1P6bfkfObGKDuHx4qcTQ8DF2S_C8M2e1bR1ozN9hnLCScLQN6vwqpMYJZBO"
 url = "/webhook-uploads/1456473173568/content%3Fid%3DxqNdrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 30153
 
 review_relationship = ["reviews/whose-streets-our-streets!"]
-author_relationship = ["authors/sunil-yapa"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-K6VFEdL1-_JGVd0LnaM"
-_sort_create_date = 1451166300
-_sort_last_updated = 1451166360
-_sort_publish_date = 1451166300
+sort_create_date = 1451166300
+sort_last_updated = 1451166360
+sort_publish_date = 1451166300
 create_date = "2015-12-26T13:45:00-08:00"
 publish_date = "2015-12-26T13:45:00-08:00"
 date = "2015-12-26T13:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "One day left to read work from @PriscillaLong during her sponsorship. "
 facebookauto = "Our thanks to sponsor Priscilla Long for her sponsorship. You have one more day to read her work on the site."
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Our thanks to Priscilla Long for her sponsorship this week. We have three poems from her new book _Crossing Over_, and <a href="http://seattlereviewofbooks.com/sponsorships" title="The Seattle Review of Books - sponsorships">we suggest you go take a look</a>. Spend New Years with some poetry. 

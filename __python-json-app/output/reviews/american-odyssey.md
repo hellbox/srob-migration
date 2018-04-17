@@ -1,8 +1,8 @@
 +++
 index = "-KRSAF7MPNliXI9ClqNo"
-_sort_create_date = 1473663240
-_sort_last_updated = 1473698040
-_sort_publish_date = 1473706740
+sort_create_date = 1473663240
+sort_last_updated = 1473698040
+sort_publish_date = 1473706740
 create_date = "2016-09-11T23:54:00-07:00"
 publish_date = "2016-09-12T11:59:00-07:00"
 date = "2016-09-12T11:59:00-07:00"
@@ -13,10 +13,10 @@ title = "American odyssey"
 dek = "Colson Whitehead's novels are all about the alternate realities that keep us from truly understanding each other. In his latest, The Underground Railroad, can he finally find a way to bring us together?"
 facebookauto = "The Underground Railroad is like Cormac McCarthy's novel The Road, only it's actually about something."
 twitterauto = "The Underground Railroad is like Cormac McCarthy's The Road, only it's actually about something."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-underground-railroad"]
 tags_reviews = ["tags/fiction", "tags/novel"]
-authors_reviews = ["authors/colson-whitehead"]
+reviews_about = ""
 +++
 
 Colson Whitehead never writes the same book twice. This is possibly why, despite the fact that he’s been the most consistently excellent novelist to be published by a mainstream New York house over the last two decades, he hasn’t been able to build the audience that he deserves. In these times of fractured fandoms and increasingly algorithm-centric recommendations, people who enjoy Whitehead’s personal, semiautobiographical novel might not even bother to try his zombie novel, and fans of his zombie novel might not think his gigantic examination of the American myth of John Henry is for them. We expect the same things out of our novelists over and over again, and Whitehead has never been able to deliver that kind of dumb repetitive pleasure.

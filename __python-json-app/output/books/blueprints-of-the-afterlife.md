@@ -1,8 +1,8 @@
 +++
 index = "-JwIRudhn1X_uArqg7rj"
-_sort_create_date = 1439140380
-_sort_last_updated = 1439140860
-_sort_publish_date = 1439140380
+sort_create_date = 1439140380
+sort_last_updated = 1439140860
+sort_publish_date = 1439140380
 create_date = "2015-08-09T10:13:00-07:00"
 publish_date = "2015-08-09T10:13:00-07:00"
 date = "2015-08-09T10:13:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Izvr0PAifoHw3ewp5AwqAmQW7is3uKfmhNYc03XXuVfDbrKk0AVubhp1gpcYuvo8yn5J38pEcJetmBQIxupy53d2RRaX"
 url = "/webhook-uploads/1439140390891/content%3Fid%3DQeXyAAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 11193
 
 review_relationship = ["reviews/picking-wires-from-a-bowl-of-noodles"]
-author_relationship = ["authors/ryan-boudinot"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

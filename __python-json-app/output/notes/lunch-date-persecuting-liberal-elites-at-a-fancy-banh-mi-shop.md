@@ -1,8 +1,8 @@
 +++
 index = "-Kh_Gqu41Dzos-aFFnjm"
-_sort_create_date = 1492052820
-_sort_last_updated = 1492186800
-_sort_publish_date = 1492455240
+sort_create_date = 1492052820
+sort_last_updated = 1492186800
+sort_publish_date = 1492455240
 create_date = "2017-04-12T20:07:00-07:00"
 publish_date = "2017-04-17T11:54:00-07:00"
 date = "2017-04-17T11:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492052525079/list
 twitterauto = "Thomas Frank reads from Listen Liberal at @THSEA on Tuesday, April 18th. We took the book out for a sandwich."
 facebookauto = "Thomas Frank reads from Listen Liberal at Town Hall Seattle on Tuesday, April 18th. We took the book out for a sandwich."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date", "tags/town-hall-seattle"]
-authors_notes = ""
+notes_about = ""
 books = ["books/listen-liberal"]
 +++
 <p class="image-left">![](/webhook-uploads/1492052801885/listenliberal250.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KDezx4g1iXOSrMPjxU4"
-_sort_create_date = 1458862800
-_sort_last_updated = 1458863460
-_sort_publish_date = 1459184340
+sort_create_date = 1458862800
+sort_last_updated = 1458863460
+sort_publish_date = 1459184340
 create_date = "2016-03-24T16:40:00-07:00"
 publish_date = "2016-03-28T09:59:00-07:00"
 date = "2016-03-28T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458862701179/The%
 twitterauto = "We asked school librarians what books the kids are into."
 facebookauto = "A pair of excellent school librarians tell us what the kids are reading these days."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/libraries", "tags/librarians"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 To celebrate the last week of our [monthlong Seattle school library tour](http://seattlereviewofbooks.com/notes/2016/03/21/heres-what-you-can-do-to-fight-the-inequality-in-seattle-public-schools-libraries/), we thought we’d ask a pair of librarians to share in their own words what books their students are reading right now. 

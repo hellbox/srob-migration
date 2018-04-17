@@ -1,8 +1,8 @@
 +++
 index = "-K1XPuYydeYz0_dbAoCz"
-_sort_create_date = 1445833920
-_sort_last_updated = 1445834880
-_sort_publish_date = 1445875200
+sort_create_date = 1445833920
+sort_last_updated = 1445834880
+sort_publish_date = 1445875200
 create_date = "2015-10-25T21:32:00-07:00"
 publish_date = "2015-10-26T09:00:00-07:00"
 date = "2015-10-26T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/seattle-public-library", "tags/libraries", "tags/marcellus-turner"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Today we're dedicating the _Seattle Review of Books_ to the Seattle Public Library, and City Librarian Marcellus Turner's proposed re-branding. We even published Paul's normal [Monday Week in Readings](http://seattlereviewofbooks.com/notes/2015/10/26/your-week-in-readings-the-best-events-from-october-26th-to-november-1st/) post last night, to keep our focus.

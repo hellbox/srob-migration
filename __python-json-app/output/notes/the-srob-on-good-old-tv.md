@@ -1,8 +1,8 @@
 +++
 index = "-K2y3KJkZNQto8Wh5fo5"
-_sort_create_date = 1447371540
-_sort_last_updated = 1447372080
-_sort_publish_date = 1447372080
+sort_create_date = 1447371540
+sort_last_updated = 1447372080
+sort_publish_date = 1447372080
 create_date = "2015-11-12T15:39:00-08:00"
 publish_date = "2015-11-12T15:48:00-08:00"
 date = "2015-11-12T15:48:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447371205636/srob
 twitterauto = "Did you see our own @paulconstant on @nbcnews last week? "
 facebookauto = "Paul Constant was on national TV last week talking about the Amazon bookstore. Did you see him?"
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-review-of-books", "tags/paul-constant", "tags/nbc-news", "tags/news"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you were watching NBC News last week you have may have noticed a segment about the Amazon bookstore opening in Seattle. In that clip, you may have seen our own Paul Constant giving his (our, really) opinion on the matter. 

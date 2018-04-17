@@ -1,8 +1,8 @@
 +++
 index = "-KnH2Wz7vRiIf4zoU-Jr"
-_sort_create_date = 1498172760
-_sort_last_updated = 1498172760
-_sort_publish_date = 1498237260
+sort_create_date = 1498172760
+sort_last_updated = 1498172760
+sort_publish_date = 1498237260
 create_date = "2017-06-22T16:06:00-07:00"
 publish_date = "2017-06-23T10:01:00-07:00"
 date = "2017-06-23T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Help Desk: I ruined a friend's treasured book. Why don't I feel guilty about it?"
 facebookauto = "Say a friend loans you a book. Say you accidentally ruin the book. Say you find out the book was inscribed by a now-dead author. What do you do?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

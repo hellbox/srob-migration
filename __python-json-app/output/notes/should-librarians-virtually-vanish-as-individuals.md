@@ -1,8 +1,8 @@
 +++
 index = "-Kn0MtFix7cNJfmsqjJQ"
-_sort_create_date = 1497892860
-_sort_last_updated = 1497905880
-_sort_publish_date = 1497898260
+sort_create_date = 1497892860
+sort_last_updated = 1497905880
+sort_publish_date = 1497898260
 create_date = "2017-06-19T10:21:00-07:00"
 publish_date = "2017-06-19T11:51:00-07:00"
 date = "2017-06-19T11:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Is it possible for librarians to be apolitical? Should they aspire to \"virtually vanish\" as individuals?"
 facebookauto = "Is it possible for librarians to be apolitical? Should they aspire to \"virtually vanish\" as individuals?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/librarians"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 At [Literary Hub, Stacie Williams](http://lithub.com/librarians-in-the-21st-century-it-is-becoming-impossible-to-remain-neutral/) writes about what it means to be a librarian: 

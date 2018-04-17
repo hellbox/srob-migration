@@ -1,8 +1,8 @@
 +++
 index = "-KFPk9JKo_Gi-vbl0vy_"
-_sort_create_date = 1460737680
-_sort_last_updated = 1460737680
-_sort_publish_date = 1460739540
+sort_create_date = 1460737680
+sort_last_updated = 1460737680
+sort_publish_date = 1460739540
 create_date = "2016-04-15T09:28:00-07:00"
 publish_date = "2016-04-15T09:59:00-07:00"
 date = "2016-04-15T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "When someone you love dies, what do you do with their library?"
 facebookauto = "The latest letter to our advice columnist begins, \"My husband died. It was a few years ago, so the shock is over and I'm used to the idea of living my life on my own \u2014 I keep busy and have lots of friends and hobbies. But his library, I just can't face.\""
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

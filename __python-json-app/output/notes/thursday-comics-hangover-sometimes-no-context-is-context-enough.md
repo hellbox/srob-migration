@@ -1,8 +1,8 @@
 +++
 index = "-K8XoAaIQoT1xjzy1UO1"
-_sort_create_date = 1453356780
-_sort_last_updated = 1453357140
-_sort_publish_date = 1453399260
+sort_create_date = 1453356780
+sort_last_updated = 1453357140
+sort_publish_date = 1453399260
 create_date = "2016-01-20T22:13:00-08:00"
 publish_date = "2016-01-21T10:01:00-08:00"
 date = "2016-01-21T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453356478910/Amaz
 twitterauto = "These short stories are so good you don't need context."
 facebookauto = "The thing about visiting comic book stores is that you often have no idea what the hell you're buying. Sometimes, that's okay."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Recently, I visited a comic book store with a friend. She reads all kinds of graphic novels and collected comics, but she’d never spent more than a few minutes in a comic shop. Immediately, it became clear that for people who haven’t spent their whole lives in comic shops, there’s a bit of a learning curve to browsing. She picked up a comic and turned it over, looking for an explanatory blurb, like the one you find on collected comics. Of course, there are no blurbs on monthly comics. Aside from the cover image, there’s no indication at all what the comic is about.

@@ -1,8 +1,8 @@
 +++
 index = "-JxrQgUumGsOFn7sdgPV"
-_sort_create_date = 1440817740
-_sort_last_updated = 1440817860
-_sort_publish_date = 1441040040
+sort_create_date = 1440817740
+sort_last_updated = 1440817860
+sort_publish_date = 1441040040
 create_date = "2015-08-28T20:09:00-07:00"
 publish_date = "2015-08-31T09:54:00-07:00"
 date = "2015-08-31T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings begins with a @RedHenPress celebration @elliottbaybook tonight. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/elliott-bay-book-company", "tags/third-place-books-lake-forest-park", "tags/third-place-books-ravenna", "tags/adas-technical-books", "tags/hugo-house", "tags/university-book-store"]
-authors_notes = ["authors/elissa-washuta"]
+notes_about = ""
 books = ""
 +++
 **MONDAY** Our week begins at [Elliott Bay Book Company](http://www.elliottbaybook.com/event/tom-janikowski-elissa-washuta-amaranth-borsuk-patrick-milan), where the wonderful independent publisher Red Hen Press presents a group reading with Tom Janikowski,Amaranth Borsuk, and Patrick Milan. They’ll all read from their most recent titles. But this reading also features local author Elissa Washuta, author of *My Body is a Book of Rules* and, most recently,  *Starvation Mode*. (You can [read my review of the latter right here](http://seattlereviewofbooks.com/reviews/the-perpetual-naked-lunch-of-starvation-mode/).) A reading from Washuta alone is reason to show up, but tonight you’ll get to see three other writers and support a fantastic small press. 

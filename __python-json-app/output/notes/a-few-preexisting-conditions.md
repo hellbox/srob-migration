@@ -1,8 +1,8 @@
 +++
 index = "-L1nFK5mjlF2pyVKI4WM"
-_sort_create_date = 1514835900
-_sort_last_updated = 1514846040
-_sort_publish_date = 1514915700
+sort_create_date = 1514835900
+sort_last_updated = 1514846040
+sort_publish_date = 1514915700
 create_date = "2018-01-01T11:45:00-08:00"
 publish_date = "2018-01-02T09:55:00-08:00"
 date = "2018-01-02T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1514836554478/Scre
 twitterauto = "Kevin Craft, our Poet in Residence for January, kicks the month and the year off in a big way."
 facebookauto = "Kevin Craft, our Poet in Residence for January, kicks the month and the year off in a big way."
 make_image_tweet = "False"
-byline = ["writers/kevin-craft"]
+notes_byline = ["writers/kevin-craft"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We drank too much.<br>

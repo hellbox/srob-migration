@@ -1,8 +1,8 @@
 +++
 index = "-K8_-bNG-nU77Ybu0O3A"
-_sort_create_date = 1453393560
-_sort_last_updated = 1453393680
-_sort_publish_date = 1453410000
+sort_create_date = 1453393560
+sort_last_updated = 1453393680
+sort_publish_date = 1453410000
 create_date = "2016-01-21T08:26:00-08:00"
 publish_date = "2016-01-21T13:00:00-08:00"
 date = "2016-01-21T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453393482218/SRoB
 twitterauto = "For Portrait Gallery this week, @studiochristine painted poet @raulralvarez"
 facebookauto = "Poet Raul Alvarez is Christine Marie Larsen's subject in this week's Portrait Gallery. He's appearing Sunday at Fred Wildlife Refuge."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/raul-alvarez"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

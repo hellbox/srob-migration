@@ -1,8 +1,8 @@
 +++
 index = "-KAWMz3O6WWiV1JrQa7X"
-_sort_create_date = 1455480060
-_sort_last_updated = 1455480120
-_sort_publish_date = 1455480060
+sort_create_date = 1455480060
+sort_last_updated = 1455480120
+sort_publish_date = 1455480060
 create_date = "2016-02-14T12:01:00-08:00"
 publish_date = "2016-02-14T12:01:00-08:00"
 date = "2016-02-14T12:01:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/z-nknNymiiIav6MISke5t3U7TVdSEbLiKOu3fQpWe_hb8TtmC_RNkiejRvwLGaOR11ERaXZ2fVQtxSJU41YF7P5SjKk"
 url = "/webhook-uploads/1455480106598/content%3Fid%3D5s7esgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12263
 
 review_relationship = ""
-author_relationship = ["authors/christopher-carter-sanderson"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-too-brief-chronicle-of-judah-lowe"]
 notes_relationship = ["notes/the-art-that-comes-from-restriction"]
 +++

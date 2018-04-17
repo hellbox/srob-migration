@@ -1,8 +1,8 @@
 +++
 index = "-KyUdG3roTbWaj0ycYBw"
-_sort_create_date = 1510211880
-_sort_last_updated = 1510211880
-_sort_publish_date = 1510250160
+sort_create_date = 1510211880
+sort_last_updated = 1510211880
+sort_publish_date = 1510250160
 create_date = "2017-11-08T23:18:00-08:00"
 publish_date = "2017-11-09T09:56:00-08:00"
 date = "2017-11-09T09:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510211820347/Scre
 twitterauto = "You can't get much more mainstream than this comic's \"special zine issue.\""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/thick-as-thieves"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The newest issue of Marvel's *The Unbeatable Squirrel Girl* is billed as a "special 'zine' issue," which immediately grabbed my attention. I've always been a fan of alternative sensibilities applied to superhero comics — the [*Coober Skeber* "Marvel Benefit Issue"](http://www.againwiththecomics.com/2010/02/coober-skeber-lends-hand.html) is one of my all-time favorites, and [DC's *Bizarro Comics* trade paperback](http://www.dccomics.com/graphic-novels/bizarro-comics-0) is a lot of fun, too — and while I haven't read that many Squirrel Girl comics, the character is an appealing meta-take on the superhero genre, and I'd been wanting to read more.

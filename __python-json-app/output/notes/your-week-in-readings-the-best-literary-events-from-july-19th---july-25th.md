@@ -1,8 +1,8 @@
 +++
 index = "-KouIyMVNFXiLDWu_KLx"
-_sort_create_date = 1499921880
-_sort_last_updated = 1499964240
-_sort_publish_date = 1500489960
+sort_create_date = 1499921880
+sort_last_updated = 1499964240
+sort_publish_date = 1500489960
 create_date = "2017-07-12T21:58:00-07:00"
 publish_date = "2017-07-19T11:46:00-07:00"
 date = "2017-07-19T11:46:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499921801175/arab
 twitterauto = "Your week in readings goes from Venus to the Lake Washington Ship Canal and back!"
 facebookauto = "Your week in readings goes from Venus to the Lake Washington Ship Canal and back!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday July 19th: TUF Zine Release Party**</h5></p> 

@@ -1,8 +1,8 @@
 +++
 index = "-KWlTd--x20kHxGNx1z1"
-_sort_create_date = 1479372600
-_sort_last_updated = 1479372600
-_sort_publish_date = 1479406800
+sort_create_date = 1479372600
+sort_last_updated = 1479372600
+sort_publish_date = 1479406800
 create_date = "2016-11-17T00:50:00-08:00"
 publish_date = "2016-11-17T10:20:00-08:00"
 date = "2016-11-17T10:20:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479372482545/cosp
 twitterauto = "Dash Shaw's comic Cosplayers provides a nuanced look at nerd culture in the year 2016."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics", "tags/nerd"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1479372482545/cosplayers.jpg)</p>

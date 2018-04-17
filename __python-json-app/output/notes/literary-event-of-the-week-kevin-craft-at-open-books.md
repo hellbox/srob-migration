@@ -1,8 +1,8 @@
 +++
 index = "-KeLSXXkF6DdYhUjISoi"
-_sort_create_date = 1488582960
-_sort_last_updated = 1488583140
-_sort_publish_date = 1488995820
+sort_create_date = 1488582960
+sort_last_updated = 1488583140
+sort_publish_date = 1488995820
 create_date = "2017-03-03T15:16:00-08:00"
 publish_date = "2017-03-08T09:57:00-08:00"
 date = "2017-03-08T09:57:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488582827950/vagr
 twitterauto = "Our event of the week is Kevin Craft's book launch party @openpoetrybooks on Friday."
 facebookauto = "Kevin Craft launches his new book into the word at Open Books on Friday. You'll want to be there."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/open-books", "tags/poetry-northwest"]
-authors_notes = ["authors/kevin-craft"]
+notes_about = ""
 books = ""
 +++
 Kevin Craft is one of the hardest-working people in Seattle literature. As a teacher, he works on literary programs at Everett Community College and University of Washington. As an editor, he ran *Poetry Northwest* magazine for seven years and has compiled five anthologies. As a publisher he just built a new press, Poetry Northwest Editions, that will launch with a new collection from Sierra Nelson this year. And as a writer, he’s..well, he’s published and performed a lot of poems in a lot of places, but he actually only produced one collection to his name, and that was published over a decade ago. Craft has been so tirelessly promoting the works of others for so long that his own work has received short shrift.

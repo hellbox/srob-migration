@@ -1,8 +1,8 @@
 +++
 index = "-KtgLMuyM8BiyHpWOof8"
-_sort_create_date = 1505056320
-_sort_last_updated = 1505067720
-_sort_publish_date = 1505061000
+sort_create_date = 1505056320
+sort_last_updated = 1505067720
+sort_publish_date = 1505061000
 create_date = "2017-09-10T08:12:00-07:00"
 publish_date = "2017-09-10T09:30:00-07:00"
 date = "2017-09-10T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505057320141/Scre
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

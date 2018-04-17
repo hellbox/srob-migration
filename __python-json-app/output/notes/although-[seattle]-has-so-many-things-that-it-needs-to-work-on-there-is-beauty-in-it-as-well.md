@@ -1,8 +1,8 @@
 +++
 index = "-L5VqgikgJOqdOoWAImS"
-_sort_create_date = 1518822120
-_sort_last_updated = 1519172160
-_sort_publish_date = 1519235640
+sort_create_date = 1518822120
+sort_last_updated = 1519172160
+sort_publish_date = 1519235640
 create_date = "2018-02-16T15:02:00-08:00"
 publish_date = "2018-02-21T09:54:00-08:00"
 date = "2018-02-21T09:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our interview with Azura Tjabji might just be the most inspiring thing you'll read this week."
 facebookauto = "Our interview with Azura Tjabji might just be the most inspiring thing you'll read this week."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/slam-poetry"]
-authors_notes = ["authors/azura-tyabji"]
+notes_about = ""
 books = ""
 +++
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YTVFoyupm34" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

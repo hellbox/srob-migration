@@ -1,8 +1,8 @@
 +++
 index = "-L42ND-0ebMCRMWUdbw0"
-_sort_create_date = 1517253840
-_sort_last_updated = 1517277960
-_sort_publish_date = 1517334900
+sort_create_date = 1517253840
+sort_last_updated = 1517277960
+sort_publish_date = 1517334900
 create_date = "2018-01-29T11:24:00-08:00"
 publish_date = "2018-01-30T09:55:00-08:00"
 date = "2018-01-30T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517254684183/Scre
 twitterauto = "Our last from January Poet in Residence, Kevin Craft, is titled \"Hibernation, Warming\""
 facebookauto = "Our last from January Poet in Residence, Kevin Craft, is titled \"Hibernation, Warming\""
 make_image_tweet = "False"
-byline = ["writers/kevin-craft"]
+notes_byline = ["writers/kevin-craft"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Wind kicks a few cups down the alley.<br>

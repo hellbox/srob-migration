@@ -1,8 +1,8 @@
 +++
 index = "-K7RvRwMobCIMU-z4yXI"
-_sort_create_date = 1452184260
-_sort_last_updated = 1452313140
-_sort_publish_date = 1452276000
+sort_create_date = 1452184260
+sort_last_updated = 1452313140
+sort_publish_date = 1452276000
 create_date = "2016-01-07T08:31:00-08:00"
 publish_date = "2016-01-08T10:00:00-08:00"
 date = "2016-01-08T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Announcing the Seattle Review of Books @kickstarter fund. Let's back some awesome projects this year. "
 facebookauto = "Announcing the Seattle Review of Books Kickstarter fund. Let's spend this year backing some cool projects, yes? "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Each week in 2016 we are going to invest $20 in a Kickstarter project. On Saturdays, starting tomorrow January 9, we'll be reporting on the Kickstarter we back, and how the fund is going. 

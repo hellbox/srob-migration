@@ -1,8 +1,8 @@
 +++
 index = "-JxbwovpAosS18kr7TZG"
-_sort_create_date = 1440558000
-_sort_last_updated = 1440562260
-_sort_publish_date = 1440608400
+sort_create_date = 1440558000
+sort_last_updated = 1440562260
+sort_publish_date = 1440608400
 create_date = "2015-08-25T20:00:00-07:00"
 publish_date = "2015-08-26T10:00:00-07:00"
 date = "2015-08-26T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/bookstore-of-the-month"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Our bookstore of the month for August is [Mercer Street Books](http://seattlereviewofbooks.com/notes/2015/08/05/meet-mercer-street-books-our-first-bookstore-of-the-month/). You may have read Paul's [first](http://seattlereviewofbooks.com/notes/2015/08/05/meet-mercer-street-books-our-first-bookstore-of-the-month/) [three](http://seattlereviewofbooks.com/notes/2015/08/12/everything-has-its-place-at-mercer-street-books/) [pieces](http://seattlereviewofbooks.com/notes/2015/08/19/every-used-book-tells-at-least-two-stories/) on the store, from the previous Wednesdays of this month. He mentioned that owner Debbie Sarrow kindly agreed to be the mail-drop for _SRoB_, and to the cynical mind that might explain why we picked Mercer Street Books as our first pick: a little quid pro quo, right? 

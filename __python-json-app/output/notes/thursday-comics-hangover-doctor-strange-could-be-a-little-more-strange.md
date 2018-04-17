@@ -1,8 +1,8 @@
 +++
 index = "-KVdAJdVB0qLB4hWKMBF"
-_sort_create_date = 1478159580
-_sort_last_updated = 1478159580
-_sort_publish_date = 1478191920
+sort_create_date = 1478159580
+sort_last_updated = 1478159580
+sort_publish_date = 1478191920
 create_date = "2016-11-03T00:53:00-07:00"
 publish_date = "2016-11-03T09:52:00-07:00"
 date = "2016-11-03T09:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Does Doctor Strange (the movie) capture the real weirdness of Doctor Strange (the comic)?"
 facebookauto = "Does Doctor Strange (the movie) capture the real weirdness of Doctor Strange (the comic)?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/doctor-strange"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1478159128865/Screen%20Shot%202016-11-02%20at%2011.25.32%20PM.png)</p>

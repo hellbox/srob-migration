@@ -1,8 +1,8 @@
 +++
 index = "-KLNsNrh8y_PmzAS5L3a"
-_sort_create_date = 1467148740
-_sort_last_updated = 1467220860
-_sort_publish_date = 1467228540
+sort_create_date = 1467148740
+sort_last_updated = 1467220860
+sort_publish_date = 1467228540
 create_date = "2016-06-28T14:19:00-07:00"
 publish_date = "2016-06-29T12:29:00-07:00"
 date = "2016-06-29T12:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our book news roundup features a thoughtful essay about plagiarism and working \"for exposure.\""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/seth-goodkind"]
+notes_about = ""
 books = ""
 +++
 * Samantha Pak at the Seattle Globalist has written [a great report on diversity in Seattle's bookstore scene](http://www.seattleglobalist.com/2016/06/27/seattle-bookstores-tackle-literatures-lack-of-diversity/52964). It's a must-read.

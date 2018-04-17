@@ -1,8 +1,8 @@
 +++
 index = "-KCm4tal4xRJooGlU4he"
-_sort_create_date = 1457908020
-_sort_last_updated = 1457925360
-_sort_publish_date = 1457982060
+sort_create_date = 1457908020
+sort_last_updated = 1457925360
+sort_publish_date = 1457982060
 create_date = "2016-03-13T15:27:00-07:00"
 publish_date = "2016-03-14T12:01:00-07:00"
 date = "2016-03-14T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "And everything a scenic view"
 dek = "Lia Purpura's poetry is all about looking \u2014\u00a0the physical act of seeing, yes, but also the deeper inquiry into complication and discomfort."
 facebookauto = "Lia Purpura reads tonight at Elliott Bay Book Company. Anne McDuffie explains why it's the only ticket in town."
 twitterauto = "Lia Purpura reads tonight @elliottbaybooks. @anne_mcduffie explains why it's the only ticket in town."
-byline = ["writers/anne-mcduffie"]
+reviews_byline = ["writers/anne-mcduffie"]
 books_in_this_review = ["books/it-shouldnt-have-been-beautiful"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/lia-purpura"]
+reviews_about = ""
 +++
 
 <blockquote><p class=”noindent”>…Look, a cat killed a cardinal</p>

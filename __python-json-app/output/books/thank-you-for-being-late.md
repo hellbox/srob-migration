@@ -1,8 +1,8 @@
 +++
 index = "-KYX7a-UZO1VY4b7r5Jc"
-_sort_create_date = 1481262600
-_sort_last_updated = 1481262600
-_sort_publish_date = 1481262600
+sort_create_date = 1481262600
+sort_last_updated = 1481262600
+sort_publish_date = 1481262600
 create_date = "2016-12-08T21:50:00-08:00"
 publish_date = "2016-12-08T21:50:00-08:00"
 date = "2016-12-08T21:50:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/drm3u_91Dca4CxZ6KkL3eDsVvrYzce4dGBQyArb-OZp9f19Leet4oNeCYpg4lAkYeMSIU5mgUFI9pD6MJHeyDGyMEHNSQw"
 url = "/webhook-uploads/1481262583923/late.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 33180
 
 review_relationship = ["reviews/blinded-by-the-supernova"]
-author_relationship = ["authors/thomas-friedman"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

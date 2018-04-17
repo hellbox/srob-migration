@@ -1,8 +1,8 @@
 +++
 index = "-KQxNSPjpxXYYSmZhvXD"
-_sort_create_date = 1473129840
-_sort_last_updated = 1473129840
-_sort_publish_date = 1473129840
+sort_create_date = 1473129840
+sort_last_updated = 1473129840
+sort_publish_date = 1473129840
 create_date = "2016-09-05T19:44:00-07:00"
 publish_date = "2016-09-05T19:44:00-07:00"
 date = "2016-09-05T19:44:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/D8EPYIBJFPCKsRicqwIRvbhtNvHwa5MI3IX9GbazVbGJuVBpOoyG0eZWf4ytgtbNu1TuPlsdyS1sAEFfjAIHbu7RoQhj"
 url = "/webhook-uploads/1473129787192/turk.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 37609
 
 review_relationship = ["reviews/far-from-the-tree"]
-author_relationship = ["authors/matt-gross"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

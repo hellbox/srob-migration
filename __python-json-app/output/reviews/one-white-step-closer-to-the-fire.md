@@ -1,8 +1,8 @@
 +++
 index = "-K0PGAZ0f14ztOwkQvdY"
-_sort_create_date = 1444623420
-_sort_last_updated = 1444656240
-_sort_publish_date = 1444674600
+sort_create_date = 1444623420
+sort_last_updated = 1444656240
+sort_publish_date = 1444674600
 create_date = "2015-10-11T21:17:00-07:00"
 publish_date = "2015-10-12T11:30:00-07:00"
 date = "2015-10-12T11:30:00-07:00"
@@ -13,10 +13,10 @@ title = "One white step closer to the fire"
 dek = "Seattle poet and writer Lola E. Peters penned a personal, and moving, book about being black in America."
 facebookauto = "A new review is up -- Martin McClellan looks at a thin powerful book by Lola E. Peters titled \"The Truth About White People\""
 twitterauto = "Today @hellbox looks at a thin powerful book called \"The Truth About White People\" by @lepetersseattle"
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/the-truth-about-white-people"]
 tags_reviews = ["tags/race", "tags/black-lives-matter"]
-authors_reviews = ""
+reviews_about = ""
 +++
 
 Having a conversation with white people about race — specifically, about black people in America, inspired, say, by the shooting of Michael Brown or Ta-Nehisi Coates' [essay on reparations](http://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/) — is easy until you get to one of _those_ words. *Privilege*, say, or *supremacy*, or *institutional*, or, god forbid, *reparations*. Those words are hard because white people hear them differently than minorities. White people hear "privilege" and think "this person wants me to give up power." Black people hear "privilege" and think "this person is describing the world as it is." The gulf between these thoughts is large. It will take white people listening to black people, and believing them when they tell us of their experiences, for that gulf to be closed.  

@@ -1,8 +1,8 @@
 +++
 index = "-KDvDpzw3vMQ965y97JY"
-_sort_create_date = 1459135140
-_sort_last_updated = 1459188900
-_sort_publish_date = 1459196280
+sort_create_date = 1459135140
+sort_last_updated = 1459188900
+sort_publish_date = 1459196280
 create_date = "2016-03-27T20:19:00-07:00"
 publish_date = "2016-03-28T13:18:00-07:00"
 date = "2016-03-28T13:18:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup includes the NRA, e-books and the literacy crisis, and bookish fashions."
 facebookauto = ""
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Are e-books the solution to our education crisis? Not so fast, says [Juanita Giles at the *Washington Post*](https://www.washingtonpost.com/opinions/e-books-are-not-the-answer-to-a-literacy-crisis/2016/03/25/3d093152-f112-11e5-a61f-e9c95c06edca_story.html):

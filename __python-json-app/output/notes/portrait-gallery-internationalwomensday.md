@@ -1,8 +1,8 @@
 +++
 index = "-L75Qi_DKI7GHGEr5KIO"
-_sort_create_date = 1520526300
-_sort_last_updated = 1520527740
-_sort_publish_date = 1520546400
+sort_create_date = 1520526300
+sort_last_updated = 1520527740
+sort_publish_date = 1520546400
 create_date = "2018-03-08T08:25:00-08:00"
 publish_date = "2018-03-08T14:00:00-08:00"
 date = "2018-03-08T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520527712464/Scre
 twitterauto = "For #InternationalWomensDay, the women painted by @studiochristine"
 facebookauto = "Portrait Gallery celebrates #InternationalWomensDay with a look back at all the women Christine Marie Larsen has painted on our pages"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">For <a href="https://twitter.com/search?q=%23InternationalWomensDay&src=tyah">#InternationalWomensDay</a>, a collection of all the amazing, diverse, talented, inspiring women that have run in <a href="http://www.seattlereviewofbooks.com/tags/portrait-gallery">Portrait Gallery</a> over the past few years.<br><br>Click any face to see the painting bigger, with more information about the featured writer.

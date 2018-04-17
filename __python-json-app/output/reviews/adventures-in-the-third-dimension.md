@@ -1,8 +1,8 @@
 +++
 index = "-KxktFdTP_aN37Q9MHrs"
-_sort_create_date = 1509427560
-_sort_last_updated = 1509469800
-_sort_publish_date = 1509477840
+sort_create_date = 1509427560
+sort_last_updated = 1509469800
+sort_publish_date = 1509477840
 create_date = "2017-10-30T22:26:00-07:00"
 publish_date = "2017-10-31T12:24:00-07:00"
 date = "2017-10-31T12:24:00-07:00"
@@ -13,10 +13,10 @@ title = "Adventures in the third dimension"
 dek = "Mita Mahato debuts her first book of poetry comics at Short Run this year. In the book, she finally breaks free from one of the longest-lasting comics constraints."
 facebookauto = "These comics break a long-standing blockade and pierce into the third dimension."
 twitterauto = "These comics break a long-standing blockade and pierce into the third dimension."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/in-between"]
 tags_reviews = ["tags/minicomics", "tags/short-run"]
-authors_reviews = ["authors/mita-mahato"]
+reviews_about = ""
 +++
 
 Ever since the dawn of comics, cartoonists have tried to break free from the bounds of the page. Those cartoonists have discovered that comics grant them mastery over two dimensions, but they are powerless in the third dimension: you can do anything with width and height in comics, but it's impossible to add depth.

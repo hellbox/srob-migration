@@ -1,8 +1,8 @@
 +++
 index = "-L-dATFIcYR2R0_zEIpo"
-_sort_create_date = 1512519360
-_sort_last_updated = 1512519360
-_sort_publish_date = 1513792500
+sort_create_date = 1512519360
+sort_last_updated = 1512519360
+sort_publish_date = 1513792500
 create_date = "2017-12-05T16:16:00-08:00"
 publish_date = "2017-12-20T09:55:00-08:00"
 date = "2017-12-20T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512518430123/loui
 twitterauto = "We asked Jessixa Bagley to recommend a favorite book for holiday gift-giving. Here's what she picked for you:"
 facebookauto = "We asked Jessixa Bagley to recommend a favorite book for holiday gift-giving. Here's what she picked for you:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/holidays"]
-authors_notes = ["authors/jessixa-bagley"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Wednesday between Thanksgiving and Christmas, we're asking some of our favorite Seattle authors to recommend the books they're most excited to give as gifts this holiday. Our fourth author is childrens' book author and cartoonist Jessixa Bagley.</p>

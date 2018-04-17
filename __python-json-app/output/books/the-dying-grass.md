@@ -1,8 +1,8 @@
 +++
 index = "-KBnBYdee61smRFJzVHm"
-_sort_create_date = 1456852800
-_sort_last_updated = 1456977300
-_sort_publish_date = 1456852800
+sort_create_date = 1456852800
+sort_last_updated = 1456977300
+sort_publish_date = 1456852800
 create_date = "2016-03-01T09:20:00-08:00"
 publish_date = "2016-03-01T09:20:00-08:00"
 date = "2016-03-01T09:20:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/lVbzSCyRWbIkS1i_6nWHZt9Uaf3G7mA3yRDAK85gblR5HlNo4tfSkGVLLJdojVCjbKmIWAeyysLS8rq0jmDNhOseoRx5"
 url = "/webhook-uploads/1456852842352/content%3Fid%3DmkCojgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 11504
 
 review_relationship = ["reviews/the-writer-we-deserve"]
-author_relationship = ["authors/william-t-vollmann"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

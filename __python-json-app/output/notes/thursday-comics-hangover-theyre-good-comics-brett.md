@@ -1,8 +1,8 @@
 +++
 index = "-L2-9EEvoK06GAq33omr"
-_sort_create_date = 1515052380
-_sort_last_updated = 1515087120
-_sort_publish_date = 1515092400
+sort_create_date = 1515052380
+sort_last_updated = 1515087120
+sort_publish_date = 1515092400
 create_date = "2018-01-03T23:53:00-08:00"
 publish_date = "2018-01-04T11:00:00-08:00"
 date = "2018-01-04T11:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "@BrettHamil may not be the world's best cartoonist, but his cartoons are indisputably funny."
 facebookauto = "Brett Hamil may not be the world's best cartoonist, but his cartoons are indisputably funny."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/brett-hamil"]
+notes_about = ""
 books = ""
 +++
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m convinced the telecommunications network is doomed to collapse so I started making zines again! You can buy one and have it delivered to your mailbox. Old skool! <a href="https://twitter.com/hashtag/zine?src=hash&amp;ref_src=twsrc%5Etfw">#zine</a> <a href="https://twitter.com/hashtag/comix?src=hash&amp;ref_src=twsrc%5Etfw">#comix</a> <a href="https://twitter.com/hashtag/cartoon?src=hash&amp;ref_src=twsrc%5Etfw">#cartoon</a> <a href="https://twitter.com/hashtag/drawing?src=hash&amp;ref_src=twsrc%5Etfw">#drawing</a> <a href="https://t.co/mPuggYQn16">pic.twitter.com/mPuggYQn16</a></p>&mdash; Brett Hamil (@BrettHamil) <a href="https://twitter.com/BrettHamil/status/942800056528146432?ref_src=twsrc%5Etfw">December 18, 2017</a></blockquote>

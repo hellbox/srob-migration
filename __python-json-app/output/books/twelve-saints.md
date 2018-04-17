@@ -1,8 +1,8 @@
 +++
 index = "-K25_KuuF_LswAJKE_rk"
-_sort_create_date = 1446440640
-_sort_last_updated = 1446440640
-_sort_publish_date = 1446440640
+sort_create_date = 1446440640
+sort_last_updated = 1446440640
+sort_publish_date = 1446440640
 create_date = "2015-11-01T21:04:00-08:00"
 publish_date = "2015-11-01T21:04:00-08:00"
 date = "2015-11-01T21:04:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BkvoGzZdmW38YmTw_zYpBbdITC4sfJvo1mxI2Gs3-4CKJpfylk7JeU0u5xfM3Jjkxrwj-bUivuIae2ai8xtIvULftjzf"
 url = "/webhook-uploads/1446440542830/Twelve-Saints-Cover-1.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 984462
 
 review_relationship = ""
-author_relationship = ["authors/nia-michaels", "authors/knox-gardner"]
+books_author = ""
 sponsorships_book = ["sponsorships/purchase-twelve-saints"]
 notes_relationship = ["notes/twelve-saints-is-poetry-and-art-in-collaboration", "notes/one-day-left-to-check-out-twelve-saints", "notes/collage-and-poetry-together"]
 +++

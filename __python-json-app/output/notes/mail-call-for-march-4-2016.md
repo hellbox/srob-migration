@@ -1,8 +1,8 @@
 +++
 index = "-KC4IbCZGVEKwMfYQAtU"
-_sort_create_date = 1457156640
-_sort_last_updated = 1457156640
-_sort_publish_date = 1457156640
+sort_create_date = 1457156640
+sort_last_updated = 1457156640
+sort_publish_date = 1457156640
 create_date = "2016-03-04T21:44:00-08:00"
 publish_date = "2016-03-04T21:44:00-08:00"
 date = "2016-03-04T21:44:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457156638286/IMG_
 twitterauto = "A modest Friday night Mail Call for you all."
 facebookauto = ""
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1457156638286/IMG_4784.jpg)</p>

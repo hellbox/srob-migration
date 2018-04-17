@@ -1,8 +1,8 @@
 +++
 index = "-KHFzsIPZmaNYfQVU3BC"
-_sort_create_date = 1462721520
-_sort_last_updated = 1462826940
-_sort_publish_date = 1462723200
+sort_create_date = 1462721520
+sort_last_updated = 1462826940
+sort_publish_date = 1462723200
 create_date = "2016-05-08T08:32:00-07:00"
 publish_date = "2016-05-08T09:00:00-07:00"
 date = "2016-05-08T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post! With pieces by @igalvin, @nappy_techie, and more."
 facebookauto = "The terrors of OxyContin from the inside, Joan Didion, a remembrance of the Hugo House building, and being gaslighted by supposedly helpful rhetoric in the tech industry. It's the Sunday Post. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/sarah-galvin", "authors/joan-didion"]
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://static.latimes.com/oxycontin-part1/" title="None">‘You Want A Description Of Hell?’ Oxycontin’s 12-hour Problem</a></h5>

@@ -1,8 +1,8 @@
 +++
 index = "-KADlMv7KVrf2ZssMSnq"
-_sort_create_date = 1455167940
-_sort_last_updated = 1455220500
-_sort_publish_date = 1455220860
+sort_create_date = 1455167940
+sort_last_updated = 1455220500
+sort_publish_date = 1455220860
 create_date = "2016-02-10T21:19:00-08:00"
 publish_date = "2016-02-11T12:01:00-08:00"
 date = "2016-02-11T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@GWillowWilson, @accidentaltheo, and @tvandeusen make appearances in today's book news roundup."
 facebookauto = "Here's what's going on in Seattle book news today, with a few extra links thrown in for good measure:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/lesley-hazleton", "authors/g-willow-wilson"]
+notes_about = ""
 books = ["books/ms-marvel"]
 +++
 * Mary Ann Gwinn [at the *Seattle Times* offers an in-depth preview](http://www.seattletimes.com/entertainment/books/seward-park-meet-your-new-bookstore/) of Third Place Books' new Seward Park store, which will open in late April.

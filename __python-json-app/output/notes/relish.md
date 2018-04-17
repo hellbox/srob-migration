@@ -1,8 +1,8 @@
 +++
 index = "-L-Zp6tiMSELpzQabjac"
-_sort_create_date = 1512446400
-_sort_last_updated = 1512449220
-_sort_publish_date = 1512496500
+sort_create_date = 1512446400
+sort_last_updated = 1512449220
+sort_publish_date = 1512496500
 create_date = "2017-12-04T20:00:00-08:00"
 publish_date = "2017-12-05T09:55:00-08:00"
 date = "2017-12-05T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512448464798/Scre
 twitterauto = "Our first from December Poet in Residence @writer_sejones is called \"Relish\""
 facebookauto = "Our first from December Poet in Residence @writer_sejones is called \"Relish\""
 make_image_tweet = "False"
-byline = ["writers/sarah-jones"]
+notes_byline = ["writers/sarah-jones"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 It’s summer in Sanger, California,<br>

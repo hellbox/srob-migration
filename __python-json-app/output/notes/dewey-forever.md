@@ -1,8 +1,8 @@
 +++
 index = "-KJWmJyggyDyd1X8vE09"
-_sort_create_date = 1465150680
-_sort_last_updated = 1465150740
-_sort_publish_date = 1465244280
+sort_create_date = 1465150680
+sort_last_updated = 1465150740
+sort_publish_date = 1465244280
 create_date = "2016-06-05T11:18:00-07:00"
 publish_date = "2016-06-06T13:18:00-07:00"
 date = "2016-06-06T13:18:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "One library answers the question: \"Do we Dewey or do we not Dewey?\""
 facebookauto = "One library answers the question: \"Do we Dewey or do we not Dewey?\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/libraries", "tags/librarians"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This [Albany *Times Union* interview with a local librarian named Lauren Cardinal](http://blog.timesunion.com/scottj/lauren-cardinal-a-home-grown-librarian/203/) has a very interesting aside:

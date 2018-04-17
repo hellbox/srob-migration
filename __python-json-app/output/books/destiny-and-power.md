@@ -1,8 +1,8 @@
 +++
 index = "-K4L3hJx6rPQSgMN0qTX"
-_sort_create_date = 1448848020
-_sort_last_updated = 1448848020
-_sort_publish_date = 1448848020
+sort_create_date = 1448848020
+sort_last_updated = 1448848020
+sort_publish_date = 1448848020
 create_date = "2015-11-29T17:47:00-08:00"
 publish_date = "2015-11-29T17:47:00-08:00"
 date = "2015-11-29T17:47:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/3aWj9sUeRu2A1-9nu4M_WDaG1f8TM_Lda8dRxAne81punBAJPuSUefbFJ7S2USqWC5s3PEZdL71cfhM0mMCvpMLg-wo"
 url = "/webhook-uploads/1448847993266/9781400067657.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 20118
 
 review_relationship = ["reviews/the-road-to-donald-trump-is-paved-with-decency"]
-author_relationship = ["authors/jon-meacham"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

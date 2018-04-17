@@ -1,8 +1,8 @@
 +++
 index = "-KHheznMLkbnNPRb4RZt"
-_sort_create_date = 1463202600
-_sort_last_updated = 1463202600
-_sort_publish_date = 1463516340
+sort_create_date = 1463202600
+sort_last_updated = 1463202600
+sort_publish_date = 1463516340
 create_date = "2016-05-13T22:10:00-07:00"
 publish_date = "2016-05-17T13:19:00-07:00"
 date = "2016-05-17T13:19:00-07:00"
@@ -13,10 +13,10 @@ title = "Your Wonderland is a body"
 dek = "Spokane writer Sam Ligon writes short stories about pies, love, and goats. Why? Who knows?"
 facebookauto = "In Sam Ligon's new story collection, a talking goat teaches a pair of teenagers about sex."
 twitterauto = "In Sam Ligon's new story collection, a talking goat teaches a pair of teenagers about sex."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/wonderland"]
 tags_reviews = ["tags/short-stories"]
-authors_reviews = ["authors/sam-ligon"]
+reviews_about = ""
 +++
 
 One of the pleasures of a short story collection is finding the threads that connect the stories. Even if they don’t share characters, or a common continuity, the stories all spring from the same churning subconscious, and so they always carry some DNA-deep similarities. On the surface, the stories in Spokane author Sam Ligon’s *Wonderland* don’t have much in common: one or two are steeped in realism, another is a retelling of a nursery rhyme, a couple read like longish dirty jokes. 

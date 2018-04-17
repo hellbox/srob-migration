@@ -1,8 +1,8 @@
 +++
 index = "-KejIwKiVm0k7XKQMd4e"
-_sort_create_date = 1488999900
-_sort_last_updated = 1489001220
-_sort_publish_date = 1489096800
+sort_create_date = 1488999900
+sort_last_updated = 1489001220
+sort_publish_date = 1489096800
 create_date = "2017-03-08T11:05:00-08:00"
 publish_date = "2017-03-09T14:00:00-08:00"
 date = "2017-03-09T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488999895299/SRoB
 twitterauto = "It's @melissafebos for this week's #Portrait Gallery #illustration by @studiochristine"
 facebookauto = "Portrait Gallery: Melissa Febos"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/melissa-febos"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

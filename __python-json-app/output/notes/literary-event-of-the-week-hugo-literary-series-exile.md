@@ -1,8 +1,8 @@
 +++
 index = "-Kcb-h1rLbjvadT6aopB"
-_sort_create_date = 1486713180
-_sort_last_updated = 1486713180
-_sort_publish_date = 1487181120
+sort_create_date = 1486713180
+sort_last_updated = 1486713180
+sort_publish_date = 1487181120
 create_date = "2017-02-09T23:53:00-08:00"
 publish_date = "2017-02-15T09:52:00-08:00"
 date = "2017-02-15T09:52:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482277337624/turn
 twitterauto = "This Friday, @HugoHouse throws an especially timely reading about life in exile."
 facebookauto = "This Friday, Hugo House throws an especially timely reading about life in exile."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/hugo-house", "tags/seattle-reads"]
-authors_notes = ["authors/megan-kruse"]
+notes_about = ""
 books = ["books/call-me-home"]
 +++
 Hugo House management plans the themes for their Literary Series events months in advance. They have to give the participating three writers and one musical act plenty of time to come up with new work incorporating their prompts. So it’s not like the theme of this Friday’s Literary Series event, “Exile,” was chosen as a response to the chaos unleashed by President Trump’s Muslim ban. It’s just — well, “a happy accident” isn’t the right term, obviously. More like, the dread that was floating around in the back of everyone’s minds as Republican presidential candidate Donald Trump coaxed throbbing waves of xenophobia from his base happened to be more relevant to 2017 than many of us ever expected.

@@ -1,8 +1,8 @@
 +++
 index = "-KlAjh8T4NOilJMoZqRX"
-_sort_create_date = 1495919400
-_sort_last_updated = 1495989540
-_sort_publish_date = 1495989540
+sort_create_date = 1495919400
+sort_last_updated = 1495989540
+sort_publish_date = 1495989540
 create_date = "2017-05-27T14:10:00-07:00"
 publish_date = "2017-05-28T09:39:00-07:00"
 date = "2017-05-28T09:39:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Turning Jared Kushner to stone & more wishful thinking in the Sunday Post."
 facebookauto = "Turning Jared Kushner to stone & more wishful thinking in the Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

@@ -1,8 +1,8 @@
 +++
 index = "-L88QNjI4qWV6iDoHwKJ"
-_sort_create_date = 1521650280
-_sort_last_updated = 1521650280
-_sort_publish_date = 1521661080
+sort_create_date = 1521650280
+sort_last_updated = 1521650280
+sort_publish_date = 1521661080
 create_date = "2018-03-21T09:38:00-07:00"
 publish_date = "2018-03-21T12:38:00-07:00"
 date = "2018-03-21T12:38:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The good folks @lithub interviewed @paulconstant about the tawdry secrets of the book-critic lifestyle."
 facebookauto = "Literary Hub interviewed our cofounder Paul Constant about misconceptions people have about book critics. He has some opinions about negative book reviews."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/conflict-of-interest"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [Over at Literary Hub](http://bookmarks.reviews/), the Book Marks team interviewed me for their "Secrets of the Book Critics" series about literary criticism, why I couldn't read fiction for a year after Donald Trump was elected, and much more:

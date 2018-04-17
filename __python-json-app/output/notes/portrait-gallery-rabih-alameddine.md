@@ -1,8 +1,8 @@
 +++
 index = "-KXvw6By6C_hU-HstkwJ"
-_sort_create_date = 1480621800
-_sort_last_updated = 1481234640
-_sort_publish_date = 1481234400
+sort_create_date = 1480621800
+sort_last_updated = 1481234640
+sort_publish_date = 1481234400
 create_date = "2016-12-01T11:50:00-08:00"
 publish_date = "2016-12-08T14:00:00-08:00"
 date = "2016-12-08T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481147382724/SRoB
 twitterauto = "Here is @rabihalameddine painted by @studiochristine for this week's #portrait gallery #illustration"
 facebookauto = "Portrait Gallery: Rabih Alameddine"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/rabih-alameddine"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-K9_noHvrBY6LcnrWOZO"
-_sort_create_date = 1454480760
-_sort_last_updated = 1454481240
-_sort_publish_date = 1454522460
+sort_create_date = 1454480760
+sort_last_updated = 1454481240
+sort_publish_date = 1454522460
 create_date = "2016-02-02T22:26:00-08:00"
 publish_date = "2016-02-03T10:01:00-08:00"
 date = "2016-02-03T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Hooray for @ubookstorereads, our February Bookstore of the Month!"
 facebookauto = "Our February Bookstore of the Month is the oldest bookstore in Seattle. Can you guess who that is? (No fair peeking below!)"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Quick: what’s the oldest bookstore in Seattle? Generally when you ask a Seattleite that question, they break into a blank stare for a moment and then respond, “uh, Elliott Bay?” But no. Elliott Bay Book Company turns an impressive 43 years old this year. But our February bookstore of the month, [University Book Store](http://www.bookstore.washington.edu/home/home.taf?), celebrated its 116th birthday last month. 116 years! You’d be hard-pressed to find *anything* in Seattle that old. University Book Store has seen the World’s Fair come and go; it was here before the Alaskan Way Viaduct, and it will be here after the Alaskan Way Viaduct. It’s survived booms and busts and earthquakes and chain bookstores and online bookselling.

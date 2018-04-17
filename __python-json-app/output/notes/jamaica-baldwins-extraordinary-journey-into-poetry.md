@@ -1,8 +1,8 @@
 +++
 index = "-Kfc0v-j9oYPp_AtZNDk"
-_sort_create_date = 1489951500
-_sort_last_updated = 1489981740
-_sort_publish_date = 1490029260
+sort_create_date = 1489951500
+sort_last_updated = 1489981740
+sort_publish_date = 1490029260
 create_date = "2017-03-19T12:25:00-07:00"
 publish_date = "2017-03-20T10:01:00-07:00"
 date = "2017-03-20T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@jamaicabaldwin came to poetry late, but luckily for us she's a fast learner."
 facebookauto = "We talked with poet Jamaica Baldwin about her journey as a poet. It began a few years ago with a cancer diagnosis, and she's been learning ever since."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/jamaica-baldwin", "authors/maged-zaher", "authors/quenton-baker", "authors/kwame-dawes"]
+notes_about = ""
 books = ""
 +++
 One day, Jamaica Baldwin’s name just started popping up everywhere in Seattle literary circles. Two years ago, I had never seen her name before. Then from out of the blue in January of 2016 came this tweet from Kwame Dawes:

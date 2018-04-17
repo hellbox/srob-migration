@@ -1,8 +1,8 @@
 +++
 index = "-K8NNSnCu6oQwYjHIxi1"
-_sort_create_date = 1453181700
-_sort_last_updated = 1453223640
-_sort_publish_date = 1453226100
+sort_create_date = 1453181700
+sort_last_updated = 1453223640
+sort_publish_date = 1453226100
 create_date = "2016-01-18T21:35:00-08:00"
 publish_date = "2016-01-19T09:55:00-08:00"
 date = "2016-01-19T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Tuesday poem today is three short pieces from Maged Zaher. "
 facebookauto = "Three short poems from Maged Zaher today are our Tuesday Poem. "
 make_image_tweet = "False"
-byline = ["writers/maged-zaher"]
+notes_byline = ["writers/maged-zaher"]
 tags_notes = ["tags/tuesday-poem", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 disturbed bodies<br>

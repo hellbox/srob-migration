@@ -1,8 +1,8 @@
 +++
 index = "-L3fliyYWJyud2hhfwGP"
-_sort_create_date = 1516857900
-_sort_last_updated = 1516991520
-_sort_publish_date = 1517004000
+sort_create_date = 1516857900
+sort_last_updated = 1516991520
+sort_publish_date = 1517004000
 create_date = "2018-01-24T21:25:00-08:00"
 publish_date = "2018-01-26T14:00:00-08:00"
 date = "2018-01-26T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "January's wrap-up of Clare Johnson's Post-it note posts on our Instagram"
 facebookauto = "January's wrap-up of Clare Johnson's Post-it note posts on our Instagram"
 make_image_tweet = "False"
-byline = ["writers/clare-johnson"]
+notes_byline = ["writers/clare-johnson"]
 tags_notes = ["tags/post-it-note-project"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Over on <a href="https://www.instagram.com/seattlereviewof/">our Instagram page</a>, we’re posting a weekly installation from Clare Johnson’s Post-it Note Project, a long running daily project. Here’s her wrap-up and statement from January's posts.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KYKpqo5Bn10sPPKVeGS"
-_sort_create_date = 1481056380
-_sort_last_updated = 1481060160
-_sort_publish_date = 1481061600
+sort_create_date = 1481056380
+sort_last_updated = 1481060160
+sort_publish_date = 1481061600
 create_date = "2016-12-06T12:33:00-08:00"
 publish_date = "2016-12-06T14:00:00-08:00"
 date = "2016-12-06T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "About that \"censorship\" issue with @ABRAMSbooks"
 facebookauto = "About that \"censorship\" issue with Abrams Books."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/censorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Abrams published a satire title for adults called _Bad Little Children's Book_, under the pseudonym Arthur C Gackley. It's a stupid work of faux covers that trade on 50s and 60s era children's book painting styles, mixed with inappropriate messages. You've seen this kind of humor before &mdash; it supposedly pokes holes in societal norms, and, according to the marketing department, is "edgy, politically incorrect parodies that speak to the bad little kid in all of us". Needless to say, the social depths of the humor are akin to drawing a dildo in one of the Family Circus kid's hands.

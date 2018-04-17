@@ -1,8 +1,8 @@
 +++
 index = "-L9hYFNmF9eYFj3rwBwg"
-_sort_create_date = 1523330100
-_sort_last_updated = 1523330640
-_sort_publish_date = 1524585300
+sort_create_date = 1523330100
+sort_last_updated = 1523330640
+sort_publish_date = 1524585300
 create_date = "2018-04-09T20:15:00-07:00"
 publish_date = "2018-04-24T08:55:00-07:00"
 date = "2018-04-24T08:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523330670295/Scre
 twitterauto = "The final piece by April Poet in Residence @buddy_and_buddy is titled \"Conversation\""
 facebookauto = "The final piece by April Poet in Residence Jeanine Walker is titled \"Conversation\""
 make_image_tweet = "False"
-byline = ["writers/jeanine-walker"]
+notes_byline = ["writers/jeanine-walker"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The rain pinched the glass<br>

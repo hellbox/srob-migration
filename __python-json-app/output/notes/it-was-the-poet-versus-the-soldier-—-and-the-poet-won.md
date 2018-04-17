@@ -1,8 +1,8 @@
 +++
 index = "-K3Bx75zHHamzemXDLmh"
-_sort_create_date = 1447621320
-_sort_last_updated = 1447657020
-_sort_publish_date = 1447710300
+sort_create_date = 1447621320
+sort_last_updated = 1447657020
+sort_publish_date = 1447710300
 create_date = "2015-11-15T13:02:00-08:00"
 publish_date = "2015-11-16T13:45:00-08:00"
 date = "2015-11-16T13:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you lost many tense hours worrying about international affairs over the weekend, [this *New York Times* story](http://www.nytimes.com/2015/11/15/world/asia/a-poets-election-victory-over-a-former-general-speaks-of-a-new-myanmar.html?_r=0) about the election in Myanmar is a welcome reminder that sometimes good things do happen.

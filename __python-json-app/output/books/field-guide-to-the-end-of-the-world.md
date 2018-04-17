@@ -1,8 +1,8 @@
 +++
 index = "-KTfexEksF6TpEPKhYyE"
-_sort_create_date = 1476053940
-_sort_last_updated = 1476053940
-_sort_publish_date = 1476053940
+sort_create_date = 1476053940
+sort_last_updated = 1476053940
+sort_publish_date = 1476053940
 create_date = "2016-10-09T15:59:00-07:00"
 publish_date = "2016-10-09T15:59:00-07:00"
 date = "2016-10-09T15:59:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6rCH7_wGCqvshkLzc1FY0UY3BW50CM2wfOCNVLFFTfxIBxpyUkDy-Jd2G4hf2NEocXZpxeyX5wgFcbG_Rr05EVZzTTFw"
 url = "/webhook-uploads/1476053872405/Field-Guide-medium.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 435813
 
 review_relationship = ["reviews/and-i-feel-fine"]
-author_relationship = ["authors/jeannine-hall-gailey"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

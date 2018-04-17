@@ -1,8 +1,8 @@
 +++
 index = "-KsvsJcYVoM8anAvtrDe"
-_sort_create_date = 1504243140
-_sort_last_updated = 1504243200
-_sort_publish_date = 1504243140
+sort_create_date = 1504243140
+sort_last_updated = 1504243200
+sort_publish_date = 1504243140
 create_date = "2017-08-31T22:19:00-07:00"
 publish_date = "2017-08-31T22:19:00-07:00"
 date = "2017-08-31T22:19:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Architecture"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/z_len0MhCmC1dJsB5vMVU8MNGN1n2Z8tVOeE0zXzxGNlnU1TQmKKVeI1b9XbvfrmYcsgMx4U8Z3ibsGy06UBE_IAIeCx"
 url = "/webhook-uploads/1504243173279/content%3Fid%3DqtO1DQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 11318
 
 review_relationship = ["reviews/we-built-this-city"]
-author_relationship = ["authors/charles-r-wolfe"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

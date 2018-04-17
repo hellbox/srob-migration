@@ -1,8 +1,8 @@
 +++
 index = "-KE2GKfCGPx-AyXelWkL"
-_sort_create_date = 1459269960
-_sort_last_updated = 1459269960
-_sort_publish_date = 1459277940
+sort_create_date = 1459269960
+sort_last_updated = 1459269960
+sort_publish_date = 1459277940
 create_date = "2016-03-29T09:46:00-07:00"
 publish_date = "2016-03-29T11:59:00-07:00"
 date = "2016-03-29T11:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "If you must buy books online, do it from @Powells\u2014and get 30% off your entire purchase."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/powells"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Powells.com is having a big sale today and tomorrow: [take 30% off your entire purchase](http://www.powells.com/thanks-2016) when you enter the code "THANKS2016" at checkout before midnight on March 30th. You should absolutely visit and buy from your local independent bookstores first, but if there are any big purchases you've been saving up for, this would be a good way to get a solid deal right now.

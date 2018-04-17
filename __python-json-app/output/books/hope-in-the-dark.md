@@ -1,8 +1,8 @@
 +++
 index = "-KbxzV6AtQKQNcQVbiXD"
-_sort_create_date = 1486024980
-_sort_last_updated = 1486025040
-_sort_publish_date = 1486024980
+sort_create_date = 1486024980
+sort_last_updated = 1486025040
+sort_publish_date = 1486024980
 create_date = "2017-02-02T00:43:00-08:00"
 publish_date = "2017-02-02T00:43:00-08:00"
 date = "2017-02-02T00:43:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["History"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/nJP-guesb-y_lAEDQb3GMnhr0_NfN8DQbH715TgVGROje_7caFx_1evFRWkM5773zBIYgYUky7PD972ptaXBsgDHbhfr"
 url = "/webhook-uploads/1486024998435/content%3Fid%3D2ptDrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12458
 
 review_relationship = ["reviews/finding-each-other-in-the-dark"]
-author_relationship = ["authors/rebecca-solnit"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KnDcEy4Gsmy9J_zmxsu"
-_sort_create_date = 1498115220
-_sort_last_updated = 1498115760
-_sort_publish_date = 1498150800
+sort_create_date = 1498115220
+sort_last_updated = 1498115760
+sort_publish_date = 1498150800
 create_date = "2017-06-22T00:07:00-07:00"
 publish_date = "2017-06-22T10:00:00-07:00"
 date = "2017-06-22T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In this week's comics column, a fan takes issue with a negative review by Paul Constant."
 facebookauto = "In this week's comics column, a fan takes issue with Paul Constant's recent negative review of a Fantagraphics book."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">The following is an email we received from a reader named Joaquin de la Puente:</p>

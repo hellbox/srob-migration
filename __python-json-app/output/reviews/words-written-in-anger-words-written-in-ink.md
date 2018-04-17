@@ -1,8 +1,8 @@
 +++
 index = "-L-cFdigVm-5K-sTfsd5"
-_sort_create_date = 1512503880
-_sort_last_updated = 1512586620
-_sort_publish_date = 1512590400
+sort_create_date = 1512503880
+sort_last_updated = 1512586620
+sort_publish_date = 1512590400
 create_date = "2017-12-05T11:58:00-08:00"
 publish_date = "2017-12-06T12:00:00-08:00"
 date = "2017-12-06T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Words written in anger, words written in ink"
 dek = "The hot takes said Ta-Nehisi Coates's reporting on the Obama presidency aids and abets white supremacy. Robert Lashley found something different in the words written on the page."
 facebookauto = "Robert Lashley finds a complex, brilliant book behind the hot takes on Ta-Nehisi Coates's We Were Eight Years in Power. "
 twitterauto = "Robert Lashley finds a complex, brilliant book behind the hot takes on @tanehisicoates's We Were Eight Years in Power"
-byline = ["writers/robert-lashley"]
+reviews_byline = ["writers/robert-lashley"]
 books_in_this_review = ["books/we-were-eight-years-in-power"]
 tags_reviews = ""
-authors_reviews = ["authors/ta-nehisi-coates"]
+reviews_about = ""
 +++
 
 <p>Ta-Nehisi Coates's <em>We Were Eight Years in Power</em> is a pensive, complex book. Interlacing memoir and essay, Coates reports on America after Barack Obama's presidency with nuance and emotional weight. This the best work I have read from him.</p>

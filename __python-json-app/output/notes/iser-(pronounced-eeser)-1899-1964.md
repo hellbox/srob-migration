@@ -1,8 +1,8 @@
 +++
 index = "-KtAGGJaV85BJ7I1lDbY"
-_sort_create_date = 1504501320
-_sort_last_updated = 1505966460
-_sort_publish_date = 1506444900
+sort_create_date = 1504501320
+sort_last_updated = 1505966460
+sort_publish_date = 1506444900
 create_date = "2017-09-03T22:02:00-07:00"
 publish_date = "2017-09-26T09:55:00-07:00"
 date = "2017-09-26T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504502009214/Scre
 twitterauto = "Our final work by September Poet in Residence @estherhelfgott starts \"He died on August 15, 1964,\" "
 facebookauto = "Our final work by September Poet in Residence Esther Altshul Helfgott starts \"He died on August 15, 1964,\" "
 make_image_tweet = "False"
-byline = ["writers/esther-altshul-helfgott"]
+notes_byline = ["writers/esther-altshul-helfgott"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 He died on August 15, 1964,<br>

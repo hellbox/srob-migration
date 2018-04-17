@@ -1,8 +1,8 @@
 +++
 index = "-K_m6F_l1EehoQCtJ90Y"
-_sort_create_date = 1483678200
-_sort_last_updated = 1484259900
-_sort_publish_date = 1484251200
+sort_create_date = 1483678200
+sort_last_updated = 1484259900
+sort_publish_date = 1484251200
 create_date = "2017-01-05T20:50:00-08:00"
 publish_date = "2017-01-12T12:00:00-08:00"
 date = "2017-01-12T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's @nisishawl time! Dystopia vs. Utopia, upcoming cons, and great SFFH books in this Future Alternative Past.\n"
 facebookauto = "It's Nisi Shawl time! Dystopia vs. Utopia, upcoming cons, and great SFFH books in this Future Alternative Past.\n"
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>Unreality show</h5>

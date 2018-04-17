@@ -1,8 +1,8 @@
 +++
 index = "-Kd-NHUS9zWKdYnicPXQ"
-_sort_create_date = 1487138760
-_sort_last_updated = 1487138760
-_sort_publish_date = 1487793960
+sort_create_date = 1487138760
+sort_last_updated = 1487138760
+sort_publish_date = 1487793960
 create_date = "2017-02-14T22:06:00-08:00"
 publish_date = "2017-02-22T12:06:00-08:00"
 date = "2017-02-22T12:06:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings begins with zombies and then gets livelier."
 facebookauto = "Your week in readings begins with zombies and then gets livelier."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/hugo-house"]
-authors_notes = ["authors/mattilda-bernstein-sycamore"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1487138643677/burningworld.jpeg)</p>

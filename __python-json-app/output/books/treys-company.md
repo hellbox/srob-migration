@@ -1,8 +1,8 @@
 +++
 index = "-Kn88o8XsKAQEZQHu638"
-_sort_create_date = 1498023360
-_sort_last_updated = 1498024560
-_sort_publish_date = 1498023360
+sort_create_date = 1498023360
+sort_last_updated = 1498024560
+sort_publish_date = 1498023360
 create_date = "2017-06-20T22:36:00-07:00"
 publish_date = "2017-06-20T22:36:00-07:00"
 date = "2017-06-20T22:36:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/LJQeVunQwq6z4Qd4ULi9poCQdgW022FIm2jqAQw-nS6F-4yPGvYLUS1z5e6wyl2ozakgtxIMzCavpeiqqKmVCVMYDro7"
 url = "/webhook-uploads/1498024605625/Trey's%20Company%20-%20cover%202.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 115723
 
 review_relationship = ""
-author_relationship = ["authors/frank-murtaugh"]
+books_author = ""
 sponsorships_book = ["sponsorships/treys-company"]
 notes_relationship = ["notes/this-summer-brought-to-you-courtesy-of-"]
 +++

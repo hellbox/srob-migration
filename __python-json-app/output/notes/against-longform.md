@@ -1,8 +1,8 @@
 +++
 index = "-KAunn8SXDaCorLz1fah"
-_sort_create_date = 1455906780
-_sort_last_updated = 1455906780
-_sort_publish_date = 1455911580
+sort_create_date = 1455906780
+sort_last_updated = 1455906780
+sort_publish_date = 1455911580
 create_date = "2016-02-19T10:33:00-08:00"
 publish_date = "2016-02-19T11:53:00-08:00"
 date = "2016-02-19T11:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The internet is fighting over whether longform storytelling is necessary or not. Here's what @paulconstant thinks."
 facebookauto = "The internet is fighting over whether longform storytelling is necessary or not. Here's where we think people should be putting that energy instead:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/longform", "tags/internet"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Alex Balk [at The Awl published a brief post](http://www.theawl.com/2016/02/words-bad-2) against longform nonfiction storytelling. Here's a quote from the piece, which I think gets the point across with even more brevity: "Are there some stories so intricate that they actually demand tens of thousands of words to tell them? Sure. Maybe six or seven a year. Everything else you read is padding or awards-bait."

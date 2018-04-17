@@ -1,8 +1,8 @@
 +++
 index = "-L23ZkG3vsfMEEQhs60f"
-_sort_create_date = 1515126420
-_sort_last_updated = 1515127200
-_sort_publish_date = 1516046100
+sort_create_date = 1515126420
+sort_last_updated = 1515127200
+sort_publish_date = 1516046100
 create_date = "2018-01-04T20:27:00-08:00"
 publish_date = "2018-01-15T11:55:00-08:00"
 date = "2018-01-15T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515125862573/iron
 twitterauto = "Your Week in Readings includes a lot of sci-fi and a fresh start for the Chain Letter series."
 facebookauto = "Your Week in Readings includes a lot of sci-fi and a fresh start for the Chain Letter series."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, January 15:  *The Silence of Our Friends* Reading**</h5></p>

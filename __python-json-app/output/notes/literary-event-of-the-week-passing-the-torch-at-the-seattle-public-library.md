@@ -1,8 +1,8 @@
 +++
 index = "-L3WTMO6Tzq6HNorDTe1"
-_sort_create_date = 1516685040
-_sort_last_updated = 1516685040
-_sort_publish_date = 1517248500
+sort_create_date = 1516685040
+sort_last_updated = 1516685040
+sort_publish_date = 1517248500
 create_date = "2018-01-22T21:24:00-08:00"
 publish_date = "2018-01-29T09:55:00-08:00"
 date = "2018-01-29T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1500614449497/
 twitterauto = "You're having a bad time, probably. Why not go to a nice event for a change?"
 facebookauto = "You're having a bad time, probably. Why not go to a nice event for a change?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/tod-marshall", "authors/claudia-castro-luna", "authors/anastacia-renee", "authors/quenton-baker"]
+notes_about = ""
 books = ["books/wa-129"]
 +++
 Here we are at the end of January and 2018 is already shaping up to be a long year. Everything under the sun is either a disaster or a distraction from a disaster. We’re learning the horrible truth behind the legends that the media has printed for decades, and we’re realizing that nobody has any goddamn clue what’s going on.

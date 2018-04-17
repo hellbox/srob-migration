@@ -1,8 +1,8 @@
 +++
 index = "-KZPhN0QfreU3o2z0MA4"
-_sort_create_date = 1482211800
-_sort_last_updated = 1482211920
-_sort_publish_date = 1482255000
+sort_create_date = 1482211800
+sort_last_updated = 1482211920
+sort_publish_date = 1482255000
 create_date = "2016-12-19T21:30:00-08:00"
 publish_date = "2016-12-20T09:30:00-08:00"
 date = "2016-12-20T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This week's poem from Lucia Perillo is titled \"Pharaoh\"."
 facebookauto = "This week's poem from Lucia Perillo is titled \"Pharaoh\"."
 make_image_tweet = "False"
-byline = ["writers/lucia-perillo"]
+notes_byline = ["writers/lucia-perillo"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In the saltwater aquarium at the pain clinic<br>

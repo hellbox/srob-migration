@@ -1,8 +1,8 @@
 +++
 index = "-Kkt5OioPVKSKrxwwpBZ"
-_sort_create_date = 1495606560
-_sort_last_updated = 1495744080
-_sort_publish_date = 1495731600
+sort_create_date = 1495606560
+sort_last_updated = 1495744080
+sort_publish_date = 1495731600
 create_date = "2017-05-23T23:16:00-07:00"
 publish_date = "2017-05-25T10:00:00-07:00"
 date = "2017-05-25T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495606462750/rise
 twitterauto = "Roll the dice to see if  you'll enjoy this biography of the inventor of Dungeons & Dragons."
 facebookauto = "Roll the dice to see if  you'll enjoy this biography of the inventor of Dungeons & Dragons."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/dungeons-&amp;-dragons", "tags/biography"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1495606462750/riseofthedungeonmaster.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KiWSrAFjJyD93S3PZT_"
-_sort_create_date = 1493062560
-_sort_last_updated = 1493062560
-_sort_publish_date = 1493062560
+sort_create_date = 1493062560
+sort_last_updated = 1493062560
+sort_publish_date = 1493062560
 create_date = "2017-04-24T12:36:00-07:00"
 publish_date = "2017-04-24T12:36:00-07:00"
 date = "2017-04-24T12:36:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The author of the highly influential book *Zen and the Art of Motorcycle Maintenance* has died at age 88, [reports Nick Moran](http://www.themillions.com/2017/04/robert-m-pirsig-dead-88.html) at the Millions.

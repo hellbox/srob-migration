@@ -1,8 +1,8 @@
 +++
 index = "-Jys-9Zi8_2-boqIj8yR"
-_sort_create_date = 1441901040
-_sort_last_updated = 1441901040
-_sort_publish_date = 1441901040
+sort_create_date = 1441901040
+sort_last_updated = 1441901040
+sort_publish_date = 1441901040
 create_date = "2015-09-10T09:04:00-07:00"
 publish_date = "2015-09-10T09:04:00-07:00"
 date = "2015-09-10T09:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Poets get very territorial, and that's too bad; that's a waste of time.\""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/ursula-k-le-guin"]
+notes_about = ""
 books = ""
 +++
 For *Interview* magazine, [Choire Sicha interviewed Ursula K. Le Guin](http://www.interviewmagazine.com/culture/ursula-k-le-guin#_), and it's exactly as delightful as you hope it would be. They discuss editing, the book business, fans, and her big problem with poets. ("Poets get very territorial, and that's too bad; that's a waste of time.")

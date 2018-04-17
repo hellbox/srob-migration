@@ -1,8 +1,8 @@
 +++
 index = "-K-GxHRDQodzcS4ww2ag"
-_sort_create_date = 1443410280
-_sort_last_updated = 1443410760
-_sort_publish_date = 1443466320
+sort_create_date = 1443410280
+sort_last_updated = 1443410760
+sort_publish_date = 1443466320
 create_date = "2015-09-27T20:18:00-07:00"
 publish_date = "2015-09-28T11:52:00-07:00"
 date = "2015-09-28T11:52:00-07:00"
@@ -13,10 +13,10 @@ title = "A real American hero"
 dek = "Edward Snowden's revelations changed the world, but we as a nation have done almost nothing to solve the problem of NSA wiretapping.. In a biography of Snowden, cartoonist Ted Rall argues that our inaction is letting a hero down."
 facebookauto = "A new comic book biography argues that Edward Snowden is an American hero and wonders why we're not acting on the revelations he gave us."
 twitterauto = "Cartoonist Ted Rall's latest book is a biography of a real American hero: Edward Snowden."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/snowden"]
 tags_reviews = ["tags/comics", "tags/biography"]
-authors_reviews = ["authors/ted-rall"]
+reviews_about = ""
 +++
 
 Let’s make one thing perfectly clear as we begin: Edward Snowden is an American hero. You may feel differently about the subject of Edward Snowden  than I do. If so, I’m going to advise you that you’re perfectly welcome to read the rest of this book review, but it’s probably going to make you mad. I’m probably not going to change your mind and you’re probably not going to change mine. 

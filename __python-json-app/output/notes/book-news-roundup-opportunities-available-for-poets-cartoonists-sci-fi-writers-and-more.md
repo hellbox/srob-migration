@@ -1,8 +1,8 @@
 +++
 index = "-L4MmCyON2baT--hqpUp"
-_sort_create_date = 1517596200
-_sort_last_updated = 1517597940
-_sort_publish_date = 1517598060
+sort_create_date = 1517596200
+sort_last_updated = 1517597940
+sort_publish_date = 1517598060
 create_date = "2018-02-02T10:30:00-08:00"
 publish_date = "2018-02-02T11:01:00-08:00"
 date = "2018-02-02T11:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517594786825/Brav
 twitterauto = "Today's Book News Roundup is a doozy, packed with scholarships, prizes, and residencies."
 facebookauto = "Today's Book News Roundup is a doozy, packed with scholarships, prizes, and residencies"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run", "tags/clarion-west", "tags/seattle-arts-and-lectures"]
-authors_notes = ["authors/brett-hamil", "authors/george-rr-martin"]
+notes_about = ""
 books = ""
 +++
 * Paul Tumey at the *Comics Journal* wrote [a lovely, detailed remembrance of Seattle cartoonist Mark Campos](http://www.tcj.com/mark-campos-1962-2018-seattles-unsung-comics-master-remembered/), who passed away in January. Campos was an incredibly supportive cartoonist, reader, and friend. I can't quite bring myself to accept that I won't bump into him at the next Short Run. He was devoted to cartooning, and to Seattle, and to all his many friends. I'll miss Mark very much, and Tumey's piece is a good and fitting tribute to his life.

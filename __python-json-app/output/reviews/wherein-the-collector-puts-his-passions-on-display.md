@@ -1,8 +1,8 @@
 +++
 index = "-KGIM3vqLVXIs4aeaId9"
-_sort_create_date = 1461687420
-_sort_last_updated = 1464534420
-_sort_publish_date = 1461956400
+sort_create_date = 1461687420
+sort_last_updated = 1464534420
+sort_publish_date = 1461956400
 create_date = "2016-04-26T09:17:00-07:00"
 publish_date = "2016-04-29T12:00:00-07:00"
 date = "2016-04-29T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Wherein the collector puts his passions on display"
 dek = "Ricky Jay is many things: magician, actor, historian of magical lore. He is also a collector, and in his new book, he opens the flat-files in his archive to share a few tidbits. "
 facebookauto = "Why do collectors collect? If they're like Ricky Jay, perhaps they do so to share their collections with you, as he has done, in his latest book."
 twitterauto = "Why do collectors collect? If they're like Ricky Jay, perhaps to share the obscurities with you."
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/matthias-buchinger"]
 tags_reviews = ["tags/magic", "tags/ephemera", "tags/history"]
-authors_reviews = ["authors/ricky-jay", "authors/susan-sontag"]
+reviews_about = ""
 +++
 
 Ricky Jay is a collector. If you've followed his career, even in periphery, you know that his magic, his acting, his public masquerade are but spokes on the hub of his true passion: the acquisition, study, and understanding of rare magical and performatory tomes, ephemera, and lore. Mr. Jay is a scholar of such, but he is not an academic or bound to an institution apart from one of his own making. He is an unique university, with a lone tenured professor, a single student, and — thankfully for us — a rather robust publication department.

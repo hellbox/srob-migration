@@ -1,8 +1,8 @@
 +++
 index = "-K0NT4RJy410HA64hcFx"
-_sort_create_date = 1444593240
-_sort_last_updated = 1444593420
-_sort_publish_date = 1444593240
+sort_create_date = 1444593240
+sort_last_updated = 1444593420
+sort_publish_date = 1444593240
 create_date = "2015-10-11T12:54:00-07:00"
 publish_date = "2015-10-11T12:54:00-07:00"
 date = "2015-10-11T12:54:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/16Gm7dd77KczPAQAzrVnO72EndDPdpAeTZnwHDVsj2nCA_Vi-QrFdDDmFYhDc6oDmlA3nrL8Y3Zs4kwQaS4qdXGnOY-fPQ"
 url = "/webhook-uploads/1444593291698/content%3Fid%3D_sCxoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 15227
 
 review_relationship = ""
-author_relationship = ["authors/gg-silverman"]
+books_author = ""
 sponsorships_book = ["sponsorships/vegan-teenage-zombie-huntress"]
 notes_relationship = ["notes/have-you-looked-at-vegan-teenage-zombie-huntress-yet"]
 +++

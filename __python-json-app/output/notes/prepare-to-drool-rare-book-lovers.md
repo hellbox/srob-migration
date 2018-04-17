@@ -1,8 +1,8 @@
 +++
 index = "-K9Q8AnI2tzNHmOytFl8"
-_sort_create_date = 1454301780
-_sort_last_updated = 1454301780
-_sort_publish_date = 1454361120
+sort_create_date = 1454301780
+sort_last_updated = 1454301780
+sort_publish_date = 1454361120
 create_date = "2016-01-31T20:43:00-08:00"
 publish_date = "2016-02-01T13:12:00-08:00"
 date = "2016-02-01T13:12:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Anybody got a spare $24,000 laying around? Here's where you ought to spend it."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/used-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This [gorgeous Bloomberg tour of New York's rare book shops](http://www.bloomberg.com/news/photo-essays/2016-01-29/rare-bookshops-in-manhattan-photos-of-vintage-treasures) is to be savored. My favorite part is the painting that became the cover of *A Separate Peace*.

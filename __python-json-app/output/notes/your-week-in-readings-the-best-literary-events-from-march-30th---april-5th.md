@@ -1,8 +1,8 @@
 +++
 index = "-KDfsaQUhmlzkr6psf1S"
-_sort_create_date = 1458877620
-_sort_last_updated = 1458877620
-_sort_publish_date = 1459356420
+sort_create_date = 1458877620
+sort_last_updated = 1458877620
+sort_publish_date = 1459356420
 create_date = "2016-03-24T20:47:00-07:00"
 publish_date = "2016-03-30T09:47:00-07:00"
 date = "2016-03-30T09:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458877102295/agno
 twitterauto = "Your week in readings begins tonight with a pair of international greats @elliottbaybooks."
 facebookauto = "Your week in readings includes books you can eat, a pair of well-respected literary authors, and an agnostic's manifesto."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle"]
-authors_notes = ["authors/lesley-hazleton"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday March 30: Naja Marie Aidt & Andrés Neuman**</h5></p>

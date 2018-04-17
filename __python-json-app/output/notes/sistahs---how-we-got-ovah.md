@@ -1,8 +1,8 @@
 +++
 index = "-KdOe6iC6E3anB-cAau2"
-_sort_create_date = 1487562840
-_sort_last_updated = 1487654040
-_sort_publish_date = 1487699700
+sort_create_date = 1487562840
+sort_last_updated = 1487654040
+sort_publish_date = 1487699700
 create_date = "2017-02-19T19:54:00-08:00"
 publish_date = "2017-02-21T09:55:00-08:00"
 date = "2017-02-21T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "JT Stewart's third set of poems from her month-long residency"
 facebookauto = "JT Stewart's third set of poems from her month-long residency"
 make_image_tweet = "False"
-byline = ["writers/jt-stewart"]
+notes_byline = ["writers/jt-stewart"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">"_If Black English isn't a language,<br>

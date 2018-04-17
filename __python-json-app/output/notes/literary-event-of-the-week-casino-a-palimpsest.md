@@ -1,8 +1,8 @@
 +++
 index = "-Kq14LWbdjHD-M28sasl"
-_sort_create_date = 1501126020
-_sort_last_updated = 1502474580
-_sort_publish_date = 1502297880
+sort_create_date = 1501126020
+sort_last_updated = 1502474580
+sort_publish_date = 1502297880
 create_date = "2017-07-26T20:27:00-07:00"
 publish_date = "2017-08-09T09:58:00-07:00"
 date = "2017-08-09T09:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501126746938/Scre
 twitterauto = "Your literary event of the week is a reclamation of the oldest gay bar in Seattle."
 facebookauto = "Your literary event of the week is a reclamation of the stories surrounding the oldest gay bar in Seattle."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/frye-art-museum"]
-authors_notes = ["authors/storme-webber"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1501126746938/Screen%20Shot%202017-07-26%20at%208.38.37%20PM.png)</p>

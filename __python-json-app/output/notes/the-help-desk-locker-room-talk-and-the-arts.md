@@ -1,8 +1,8 @@
 +++
 index = "-KZ7dLclCJootjuvB7rV"
-_sort_create_date = 1481908740
-_sort_last_updated = 1481908740
-_sort_publish_date = 1481918460
+sort_create_date = 1481908740
+sort_last_updated = 1481908740
+sort_publish_date = 1481918460
 create_date = "2016-12-16T09:19:00-08:00"
 publish_date = "2016-12-16T12:01:00-08:00"
 date = "2016-12-16T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What do you do when a man in power at an arts organization talks like a locker-room dirtbag?"
 facebookauto = "What do you do when a man in power at an arts organization talks like a locker-room dirtbag?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

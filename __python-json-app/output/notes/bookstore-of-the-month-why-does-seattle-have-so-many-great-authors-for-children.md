@@ -1,8 +1,8 @@
 +++
 index = "-KOmwQM8P49EdGJwAmyu"
-_sort_create_date = 1470807240
-_sort_last_updated = 1470807240
-_sort_publish_date = 1471280400
+sort_create_date = 1470807240
+sort_last_updated = 1470807240
+sort_publish_date = 1471280400
 create_date = "2016-08-09T22:34:00-07:00"
 publish_date = "2016-08-15T10:00:00-07:00"
 date = "2016-08-15T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470806859044/Brea
 twitterauto = "Find your new favorite Seattle-area children's author with the help of @secretgardenbooks."
 facebookauto = "Our visit with Secret Garden Books continues, as we talk about Seattle's amazing children's literature scene."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/secret-garden-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you’ve published a kids’ book and you live in Seattle, the odds are good that you’ve been to Secret Garden Books. Either you’ve stopped by and introduced yourself because you know they have a rapt audience of children who pay close attention to their recommendations, or they’ve hosted your book launch party. The fact is, though Seattle is home to many terrific bookstore sections for  young readers — Elliott Bay Book Company’s children’s section improved exponentially when the store moved from Pioneer Square to Capitol Hill; University Book Store has always had an incredibly diverse selection of titles and an adoring staff — Secret Garden is the city’s headquarters for children’s literature.

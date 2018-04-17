@@ -1,8 +1,8 @@
 +++
 index = "-KxEDMdx2KxcCDZkSUzX"
-_sort_create_date = 1508862660
-_sort_last_updated = 1508862660
-_sort_publish_date = 1508871660
+sort_create_date = 1508862660
+sort_last_updated = 1508862660
+sort_publish_date = 1508871660
 create_date = "2017-10-24T09:31:00-07:00"
 publish_date = "2017-10-24T12:01:00-07:00"
 date = "2017-10-24T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **Tweet #1**: Here's the beginning of an important thread about why libraries matter now more than ever:

@@ -1,8 +1,8 @@
 +++
 index = "-KrEUCE8bJSdNKLBoS5-"
-_sort_create_date = 1502424600
-_sort_last_updated = 1503355020
-_sort_publish_date = 1503507300
+sort_create_date = 1502424600
+sort_last_updated = 1503355020
+sort_publish_date = 1503507300
 create_date = "2017-08-10T21:10:00-07:00"
 publish_date = "2017-08-23T09:55:00-07:00"
 date = "2017-08-23T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502039966861/1883
 twitterauto = "This week, celebrate Seattle's authors of color at the Seattle Urban Book Expo!"
 facebookauto = "This week, celebrate Seattle's authors of color at the Seattle Urban Book Expo!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/seattle-urban-book-expo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1502039966861/18836045_1909417625967097_8071879833317711667_n.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-Kt3c89B863HwFUboYVS"
-_sort_create_date = 1504389900
-_sort_last_updated = 1505144880
-_sort_publish_date = 1505149200
+sort_create_date = 1504389900
+sort_last_updated = 1505144880
+sort_publish_date = 1505149200
 create_date = "2017-09-02T15:05:00-07:00"
 publish_date = "2017-09-11T10:00:00-07:00"
 date = "2017-09-11T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"The truth always matters\": @O_Waite interviews @RoseLerner on  researching historical romance"
 facebookauto = "New columnist Olivia Waite interviews author Rose Lerner about researching historical romance, from addressing social issues to where to lace (and unlace) a corset."
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/rose-lerner"]
+notes_about = ""
 books = ["books/a-taste-of-honey"]
 +++
 <p class="intro">Writing a historical romance novel involves a staggering amount of research. How corsets work, where to throw away that apple core, what kind of naughty words people would use to describe what they&#8217;ve done with or to their lovers. We all do the work, but few of us do it as thoroughly as Rose Lerner, whose vivid Lively St. Lemeston books center around the people and events of one small English town. The latest novella in the series, <a href="http://www.roselerner.com/bookshelf/tasteofhoney.html"><em>A Taste of Honey</em></a> comes out September 12th. This interview has been lightly edited.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KU5KvBpAU9hq9LLFi4Z"
-_sort_create_date = 1476501360
-_sort_last_updated = 1482567180
-_sort_publish_date = 1476549000
+sort_create_date = 1476501360
+sort_last_updated = 1482567180
+sort_publish_date = 1476549000
 create_date = "2016-10-14T20:16:00-07:00"
 publish_date = "2016-10-15T09:30:00-07:00"
 date = "2016-10-15T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476501371115/0bac
 twitterauto = "The Kickstarter Fund backs @northwestpress's \"Dangerous Women\""
 facebookauto = "The Kickstarter Fund backs Northwest Press's \"Dangerous Women\""
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week, the _Seattle Review of Books_ backs a Kickstarter, and writes up why we picked that particular project. <a href="http://seattlereviewofbooks.com/notes/2016/01/08/announcing-the-seattle-review-of-books-kickstarter-fund/" title="The Seattle Review of Books - Announcing the Seattle Review of Books Kickstarter Fund">Read more about the project here</a>. Suggest a project by writing to _kickstarter_ at this domain, or by <a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">using our contact form</a>.<p>

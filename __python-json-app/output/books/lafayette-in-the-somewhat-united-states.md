@@ -1,8 +1,8 @@
 +++
 index = "-K1h-8559RkTz_PNpJR8"
-_sort_create_date = 1446011460
-_sort_last_updated = 1446011580
-_sort_publish_date = 1446011460
+sort_create_date = 1446011460
+sort_last_updated = 1446011580
+sort_publish_date = 1446011460
 create_date = "2015-10-27T22:51:00-07:00"
 publish_date = "2015-10-27T22:51:00-07:00"
 date = "2015-10-27T22:51:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/vNFwtyRRiPs3v_-Dl7oHyEo1WfLKGGY4PpEdijLXKCz29bDKMOG6I0ydswMNd_eSguAzJXtLWDsHVNsBIMs-INVke0o1"
 url = "/webhook-uploads/1446011506520/content%3Fid%3DrX_wrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 49028
 
 review_relationship = ["reviews/not-so-living-history"]
-author_relationship = ["authors/sarah-vowell"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

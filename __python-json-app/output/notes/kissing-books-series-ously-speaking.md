@@ -1,8 +1,8 @@
 +++
 index = "-L2--UQYDWoAao6uaMt6"
-_sort_create_date = 1515049800
-_sort_last_updated = 1515050160
-_sort_publish_date = 1515096000
+sort_create_date = 1515049800
+sort_last_updated = 1515050160
+sort_publish_date = 1515096000
 create_date = "2018-01-03T23:10:00-08:00"
 publish_date = "2018-01-04T12:00:00-08:00"
 date = "2018-01-04T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515050014826/wron
 twitterauto = "The first Kissing Books of the year is here! Join @O_Waite as she looks through some series."
 facebookauto = "The first Kissing Books of the year is here! Join Olivia Waite as she looks through some series."
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/kissing-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">New Column! Every month, Olivia Waite pulls back the covers, revealing the very best in new, and classic, romance. We're extending a hand to you. Won't you take it?</p>

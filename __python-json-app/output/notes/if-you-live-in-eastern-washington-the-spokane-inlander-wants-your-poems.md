@@ -1,8 +1,8 @@
 +++
 index = "-KTRaLpsQ18SW7IYw2D0"
-_sort_create_date = 1475801040
-_sort_last_updated = 1475801040
-_sort_publish_date = 1475869440
+sort_create_date = 1475801040
+sort_last_updated = 1475801040
+sort_publish_date = 1475869440
 create_date = "2016-10-06T17:44:00-07:00"
 publish_date = "2016-10-07T12:44:00-07:00"
 date = "2016-10-07T12:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "If you're an eastern Washington poet, submit your work for @TheInlander's upcoming poetry issue."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I'm thrilled to hear that the great Spokane alternative weekly the *Inlander* — which, full disclosure, [publishes my writing](http://www.inlander.com/spokane/ArticleArchives?author=2523577) sometimes — is [planning a poetry issue](http://www.inlander.com/Bloglander/archives/2016/10/05/submit-your-creative-verses-for-the-inlanders-first-poetry-issue). And if you live in eastern Washington, they want you to send your poetry to them sometime before November 20th. They will publish roughly a dozen poems, with each poet receiving $40 for their work. Many thanks to the *Inlander* for supporting local poetry; I can't wait to read this issue.

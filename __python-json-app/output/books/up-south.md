@@ -1,8 +1,8 @@
 +++
 index = "-KgXVdao3yy5iJnss4Pr"
-_sort_create_date = 1490932620
-_sort_last_updated = 1490933220
-_sort_publish_date = 1490932620
+sort_create_date = 1490932620
+sort_last_updated = 1490933220
+sort_publish_date = 1490932620
 create_date = "2017-03-30T20:57:00-07:00"
 publish_date = "2017-03-30T20:57:00-07:00"
 date = "2017-03-30T20:57:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "poetry"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dftmIDxgs1TczLUAOJxI-19jurIC34KlKiNAFdHZ5C1sfZtWUGYtzzF7_2El2SkgDP4bH-C9i7lxcUxD91guB8bg7h5IqA"
 url = "/webhook-uploads/1490932550540/up%20south.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 42031
 
 review_relationship = ["reviews/finding-his-voice"]
-author_relationship = ["authors/robert-lashley"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

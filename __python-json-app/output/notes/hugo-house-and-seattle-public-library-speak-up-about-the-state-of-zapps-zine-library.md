@@ -1,8 +1,8 @@
 +++
 index = "-Kfn4fIiIkVWNeDsrKDq"
-_sort_create_date = 1490137020
-_sort_last_updated = 1490137020
-_sort_publish_date = 1490137020
+sort_create_date = 1490137020
+sort_last_updated = 1490137020
+sort_publish_date = 1490137020
 create_date = "2017-03-21T15:57:00-07:00"
 publish_date = "2017-03-21T15:57:00-07:00"
 date = "2017-03-21T15:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We talked with the Hugo House and Seattle Public Library about the state of ZAPP's zine library."
 facebookauto = "We talked with the Hugo House and Seattle Public Library about the state of ZAPP's zine library. Here's what they had to say:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/zapp", "tags/seattle-public-library", "tags/hugo-house", "tags/tree-swenson"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Tree Swenson, the executive director at Hugo House, wants to make it clear that the Zine Archive and Publishing Project library was not sold to the Seattle Public Library. She notes that ZAPP managing director Graham Isaac amended [ZAPP’s original statement to reflect that fact](http://www.seattlereviewofbooks.com/notes/2017/03/21/heres-zapps-official-statement-it-is-important-that-we-make-it-clear-we-did-not-give-up-the-archive-it-was-taken-from-us/). Not only that, Swenson adds, but “we haven’t signed anything with the library. There’s nothing that has been signed.”

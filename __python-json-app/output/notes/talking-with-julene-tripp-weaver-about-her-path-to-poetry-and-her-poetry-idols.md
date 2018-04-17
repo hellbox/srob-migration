@@ -1,8 +1,8 @@
 +++
 index = "-L84m3nnxeJWDX5Nma8Z"
-_sort_create_date = 1521589140
-_sort_last_updated = 1521658500
-_sort_publish_date = 1521651540
+sort_create_date = 1521589140
+sort_last_updated = 1521658500
+sort_publish_date = 1521651540
 create_date = "2018-03-20T16:39:00-07:00"
 publish_date = "2018-03-21T09:59:00-07:00"
 date = "2018-03-21T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521589055074/trut
 twitterauto = "We talked with poet Julene Tripp Weaver about the long road to being an overnight success."
 facebookauto = "We talked with our March 2018 Poet in Residence, Julene Tripp Weaver, about the long road to being an overnight success."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/poetry"]
-authors_notes = ["authors/julene-tripp-weaver"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1521589055074/truthbebold.png)</p><p class="intro">Our March Poet in Residence, Julene Tripp Weaver, is right now having a moment. This month, she's reading multiple times all over the region and her most recent poetry collection, *Truth be bold — Serenading life & death in the age of AIDS*  was nominated for a Lambda Award. She's squeezing more activity into the month of March than most poets in Seattle manage to do in a year. But Weaver isn't an overnight success; she's been quietly putting out and reading quality work in Seattle for a couple of decades, and she'll keep writing and reading even when the spotlight moves to another poet for a while. Weaver was gracious enough to make some time to talk with us about her career, her moment, and what's next.</p>

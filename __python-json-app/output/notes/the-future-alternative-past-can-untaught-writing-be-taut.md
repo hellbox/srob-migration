@@ -1,8 +1,8 @@
 +++
 index = "-Kf9ge6wSGlz3eGuHCsR"
-_sort_create_date = 1489459380
-_sort_last_updated = 1489558200
-_sort_publish_date = 1489690800
+sort_create_date = 1489459380
+sort_last_updated = 1489558200
+sort_publish_date = 1489690800
 create_date = "2017-03-13T19:43:00-07:00"
 publish_date = "2017-03-16T12:00:00-07:00"
 date = "2017-03-16T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This month, @nisishawl looks at @scalzi, @cynthia_ward, and if SFFH writing can be taught"
 facebookauto = "This month Nisi Shawl looks at John Scalzi, Cynthia Ward, and if SFFH writing can be taught. "
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. <a href="http://www.seattlereviewofbooks.com/tags/the-future-alternative-past">Read past columns here</a></p>

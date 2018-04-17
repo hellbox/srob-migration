@@ -1,8 +1,8 @@
 +++
 index = "-KaozRphVxrjCWmkFfek"
-_sort_create_date = 1484800200
-_sort_last_updated = 1484860500
-_sort_publish_date = 1484848620
+sort_create_date = 1484800200
+sort_last_updated = 1484860500
+sort_publish_date = 1484848620
 create_date = "2017-01-18T20:30:00-08:00"
 publish_date = "2017-01-19T09:57:00-08:00"
 date = "2017-01-19T09:57:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle had no new comics yesterday because comics distribution is a dumb and horrible business."
 facebookauto = "Seattle had no new comic books yesterday because comics distribution is a dumb and horrible business."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Not everyone realizes this, but every single comics store in the United States uses the exact same distributor: [Diamond Comics Distributors](http://www.diamondcomics.com/Home/1/1/3/103). The collected graphic novels can be purchased directly through the publishers or through book distributors, but if you want to sell the staple-bound monthly so-called "floppies," you have to go through Diamond. There is no alternative. Diamond's last competitor, a distributor called Heroes World, was [bought by Marvel Comics and then collapsed](https://en.wikipedia.org/wiki/Heroes_World_Distribution) in the mid-1990s.

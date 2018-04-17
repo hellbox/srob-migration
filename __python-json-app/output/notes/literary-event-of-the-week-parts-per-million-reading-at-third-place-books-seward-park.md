@@ -1,8 +1,8 @@
 +++
 index = "-L9OF9d6t7106ib6S_dx"
-_sort_create_date = 1522989540
-_sort_last_updated = 1522989840
-_sort_publish_date = 1523292900
+sort_create_date = 1522989540
+sort_last_updated = 1522989840
+sort_publish_date = 1523292900
 create_date = "2018-04-05T21:39:00-07:00"
 publish_date = "2018-04-09T09:55:00-07:00"
 date = "2018-04-09T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522989369196/part
 twitterauto = "Our Literary Event of the Week is a novel set in the dark ages of American activism."
 facebookauto = "Our Literary Event of the Week is a novel set in the dark ages of American activism."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/third-place-books-seward-park"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Portland author Julia Stoops started writing her debut novel *Parts Per Million* in 2002, when liberal America was trying in vain to keep President George W. Bush from going to war with Iraq. It's hard to recall now, after Occupy and Black Lives Matter and the Women's March and the March for our Lives, but 2002 made activism feel like a fool's errand. It seemed - to me, anyway, and to many of my friends - that the age of protest had passed, and that the people were powerless in the face of such relentless evil.

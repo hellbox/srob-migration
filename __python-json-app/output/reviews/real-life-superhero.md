@@ -1,8 +1,8 @@
 +++
 index = "-KGZ1m2Ej1YRoNAF3BdJ"
-_sort_create_date = 1461967320
-_sort_last_updated = 1461974580
-_sort_publish_date = 1462307400
+sort_create_date = 1461967320
+sort_last_updated = 1461974580
+sort_publish_date = 1462307400
 create_date = "2016-04-29T15:02:00-07:00"
 publish_date = "2016-05-03T13:30:00-07:00"
 date = "2016-05-03T13:30:00-07:00"
@@ -13,10 +13,10 @@ title = "Real life superhero"
 dek = "What Seattle author G. Willow Wilson has done with her run on the Ms. Marvel comic is something remarkable: she's telling a deeply personal story using corporate superhero comics as a medium."
 facebookauto = "Free Comic Book Day is this Saturday! Go get your free comics. And if you're looking for a comic to buy, may we suggest Ms. Marvel by G. Willow Wilson?"
 twitterauto = "In praise of @GWillowWilson's Ms. Marvel series \u2014 a deeply personal corporate superhero comic."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/ms-marvel-volume-1-no-normal", "books/ms-marvel-volume-2-generation-why", "books/ms-marvel-volume-3-crushed", "books/ms-marvel-volume-4-last-days", "books/ms-marvel-volume-5-super-famous"]
 tags_reviews = ["tags/comics"]
-authors_reviews = ["authors/g-willow-wilson", "authors/adrian-alphona", "authors/takeshi-miyazawa", "authors/jacob-wyatt"]
+reviews_about = ""
 +++
 
 The fifteenth annual Free Comic Book Day (FCBD) is this coming Saturday. If you’ve never heard of FCBD before, that’s terrific — you just identified yourself as FCBD’s target audience. It’s exactly what it sounds like: you can wander into your nearest comic book store (find the address at freecomicbookday.com) and walk out with a handful of free comic books, no strings attached.

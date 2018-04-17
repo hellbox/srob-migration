@@ -1,8 +1,8 @@
 +++
 index = "-KOn4rdfqAZ-Y7Pp4y0u"
-_sort_create_date = 1470809700
-_sort_last_updated = 1471418880
-_sort_publish_date = 1471456800
+sort_create_date = 1470809700
+sort_last_updated = 1471418880
+sort_publish_date = 1471456800
 create_date = "2016-08-09T23:15:00-07:00"
 publish_date = "2016-08-17T11:00:00-07:00"
 date = "2016-08-17T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470809472551/nece
 twitterauto = "Here are all the literary events you need to know about this week."
 facebookauto = "Your week in literary events includes an adult coloring book, a celebration of American revolution, and a barbecue."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday August 17: *Reporting the Oregon Story* **</h5></p> 

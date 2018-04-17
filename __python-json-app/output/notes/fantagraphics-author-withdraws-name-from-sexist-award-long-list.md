@@ -1,8 +1,8 @@
 +++
 index = "-K7JM0xyYho-RrY3ankj"
-_sort_create_date = 1452040500
-_sort_last_updated = 1452143400
-_sort_publish_date = 1452040500
+sort_create_date = 1452040500
+sort_last_updated = 1452143400
+sort_publish_date = 1452040500
 create_date = "2016-01-05T16:35:00-08:00"
 publish_date = "2016-01-05T16:35:00-08:00"
 date = "2016-01-05T16:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452040218673/1218
 twitterauto = "We're very glad that @fantagraphics and Dan Clowes are taking a stand against this sexist French comics award!"
 facebookauto = "The long list for a prestigious French comics award was released this morning. Of the 30 comics creators, absolutely no women were included. Thankfully, Seattle comics publisher Fantagraphics is doing something about it."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics", "tags/awards", "tags/feminism"]
-authors_notes = ["authors/dan-clowes"]
+notes_about = ""
 books = ""
 +++
 This morning, [the comics internet blew up](http://robot6.comicbookresources.com/2016/01/angouleme-grand-prixs-male-only-long-list-sparks-call-for-boycott/) when the long list for this year's prestigious French comics award, the Grand Prix d’Angouleme, was announced. The list of 30 candidates did not include one single female cartoonist. And in case your first instinct was to mansplain this fact away — "durr, but maybe no woman produced a comic worthy of awards this year," I can hear the gamergate crowd grumbling, as [though](https://www.drawnandquarterly.com/step-aside-pops) that [made](https://imagecomics.com/comics/series/bitch-planet) any [sense](http://marvel.com/comics/creators/10329/g_willow_wilson) at [all](http://gingerhaze.com/NIMONA) — you should bear in mind that in the Grand Prix's 43 years, **only one woman has ever won the award**. This is unacceptable. French group BD Egalite responded to the shortlist announcement by calling for a boycott.

@@ -1,8 +1,8 @@
 +++
 index = "-L2Yi6GD5yHae36OAmu6"
-_sort_create_date = 1515648960
-_sort_last_updated = 1516254000
-_sort_publish_date = 1515700800
+sort_create_date = 1515648960
+sort_last_updated = 1516254000
+sort_publish_date = 1515700800
 create_date = "2018-01-10T21:36:00-08:00"
 publish_date = "2018-01-11T12:00:00-08:00"
 date = "2018-01-11T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515649276125/3385
 twitterauto = "Music in SFFH, plus reviews of @Marie_Lu, @Harkaway, and more in @nisishawl's Future Alternative Past this mont. "
 facebookauto = "Music in SFFH, plus reviews of Marie Lu, Nick Harkaway, Alastair Reynold, and more in this month's Future Alternative Past, by Nisi Shawl."
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ["authors/nnedi-okorafor", "authors/grace-dillon", "authors/wanuri-kahiu", "authors/marie-lu", "authors/nick-harkaway", "authors/alastair-reynolds"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. You can also look through the [archives of the column](http://www.seattlereviewofbooks.com/tags/the-future-alternative-past).</p>

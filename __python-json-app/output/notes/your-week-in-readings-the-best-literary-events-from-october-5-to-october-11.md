@@ -1,8 +1,8 @@
 +++
 index = "-K-fEhbreO-0U-IIeAEY"
-_sort_create_date = 1443834540
-_sort_last_updated = 1443834540
-_sort_publish_date = 1444063500
+sort_create_date = 1443834540
+sort_last_updated = 1443834540
+sort_publish_date = 1444063500
 create_date = "2015-10-02T18:09:00-07:00"
 publish_date = "2015-10-05T09:45:00-07:00"
 date = "2015-10-05T09:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443833996106/1-ps
 twitterauto = "Your week in readings begins with a fascinating book inspired by a homophobic slur in the Catcher in the Rye."
 facebookauto = "Any week with sci-fi novelists, Geek Girl Con, Amitav Ghosh, and a spoken-word story featuring Seattle as the protagonist is a great week in our book."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/university-book-store", "tags/town-hall-seattle", "tags/mercer-street-books", "tags/poetry"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ["books/best-american-poetry-2015"]
 +++
 **MONDAY**  Your week begins with a weird, wonderful mashup of fiction and poetry at [University Book Store](http://www2.bookstore.washington.edu/_events/events_cal.taf?evmonth=10&evyear=2015&eventid=2015051212183100&pre=20151001&pst=20151010), where poet **Dennis Milam Bensie** reads from his book *Flit*.The description for the event begins “Used twenty-one times in *The Catcher in the Rye*, the word "flit" was introduced by J.D. Salinger as a term for a homosexual man in 1951.” This book mashes up Salinger’s classic and 40 other works of fiction that use homophobic slurs to create a new narrative.

@@ -1,8 +1,8 @@
 +++
 index = "-Kq9FvnN5taGMSm5qekf"
-_sort_create_date = 1501263240
-_sort_last_updated = 1501265040
-_sort_publish_date = 1501263240
+sort_create_date = 1501263240
+sort_last_updated = 1501265040
+sort_publish_date = 1501263240
 create_date = "2017-07-28T10:34:00-07:00"
 publish_date = "2017-07-28T10:34:00-07:00"
 date = "2017-07-28T10:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Don't stampede or anything, but all books are 25% off @ubookstorereads this weekend."
 facebookauto = "Don't stampede or anything, but all books are 25 percent off at University Book Store this weekend."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/university-book-store"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 From UBS bookseller Caitlin:

@@ -1,8 +1,8 @@
 +++
 index = "-Kdx39zJz3UiVU6IuBc8"
-_sort_create_date = 1488156900
-_sort_last_updated = 1488379740
-_sort_publish_date = 1488304500
+sort_create_date = 1488156900
+sort_last_updated = 1488379740
+sort_publish_date = 1488304500
 create_date = "2017-02-26T16:55:00-08:00"
 publish_date = "2017-02-28T09:55:00-08:00"
 date = "2017-02-28T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our final set of poems by February Poet in Residence, JT Stewart"
 facebookauto = "Our final set of poems by February Poet in Residence, JT Stewart"
 make_image_tweet = "False"
-byline = ["writers/jt-stewart"]
+notes_byline = ["writers/jt-stewart"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">"Emancipate us from mental slavery..."<br>

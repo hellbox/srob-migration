@@ -1,8 +1,8 @@
 +++
 index = "-KXo8akxERnWERJ0meJV"
-_sort_create_date = 1480491120
-_sort_last_updated = 1480622940
-_sort_publish_date = 1481056320
+sort_create_date = 1480491120
+sort_last_updated = 1480622940
+sort_publish_date = 1481056320
 create_date = "2016-11-29T23:32:00-08:00"
 publish_date = "2016-12-06T12:32:00-08:00"
 date = "2016-12-06T12:32:00-08:00"
@@ -13,10 +13,10 @@ title = "You are God\u2019s crash test dummy"
 dek = "While reading a short story collection about being utterly destroyed by forces beyond your control, Paul Constant realizes that Donald Trump has forever changed the way he reads."
 facebookauto = "Local author Matthew Simmons's new short story collection is primal and elemental and full of angry gods screwing over vulnerable humans. It's pretty much the perfect book for America right now."
 twitterauto = "We love @matthewjsimmons's new book, and we hate that @RealDonaldTrump has affected our reading of it."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-in-betweens"]
 tags_reviews = ["tags/short-stories", "tags/fiction"]
-authors_reviews = ["authors/matthew-simmons"]
+reviews_about = ""
 +++
 
 One of the things that I hate most about Donald Trump is that he’s completely and irrevocably changed the way that I read. Like 9/11 or the election of Barack Obama, Donald Trump’s presidency has altered the tenor and tone of entire books for me. I’ll never again be able to read a presidential biography, for example, without the specter of Trump lingering just beyond the last few pages of the book, like the punchline to a bad fart joke. Satirical novels about reality television and dystopian fictions about the collapse of America will leave a metallic taste in my mouth, probably from all the tongue-biting I’ll have to do.

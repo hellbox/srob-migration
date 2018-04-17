@@ -1,8 +1,8 @@
 +++
 index = "-KtEuYqYpJ2qLAwq95s4"
-_sort_create_date = 1504579260
-_sort_last_updated = 1504638300
-_sort_publish_date = 1504640460
+sort_create_date = 1504579260
+sort_last_updated = 1504638300
+sort_publish_date = 1504640460
 create_date = "2017-09-04T19:41:00-07:00"
 publish_date = "2017-09-05T12:41:00-07:00"
 date = "2017-09-05T12:41:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We went to the new Amazon-run Whole Foods. The big grocery chains are in trouble."
 facebookauto = "We went to the new Amazon-run Whole Foods. The big grocery chains are in trouble."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon", "tags/amazon-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 ...a few thoughts that weren't necessarily pertinent to [today's Lunch Date column](http://www.seattlereviewofbooks.com/notes/2017/09/05/lunch-date-taking-a-naomi-klein-book-to-the-new-veggie-burger-bar-at-amazon-whole-foods/) that I still wanted to collect:

@@ -1,8 +1,8 @@
 +++
 index = "-L9JPzC8Ml_xrjB1sSzA"
-_sort_create_date = 1522908480
-_sort_last_updated = 1522943580
-_sort_publish_date = 1522951680
+sort_create_date = 1522908480
+sort_last_updated = 1522943580
+sort_publish_date = 1522951680
 create_date = "2018-04-04T23:08:00-07:00"
 publish_date = "2018-04-05T11:08:00-07:00"
 date = "2018-04-05T11:08:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522908229867/oldw
 twitterauto = "A new series takes one of the ugliest, most cynical dystopian comics and turns it on its head."
 facebookauto = "A new series takes one of the ugliest, most cynical dystopian comics and turns it on its head."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I have [written before](http://www.seattlereviewofbooks.com/notes/2017/08/24/thursday-comics-hangover-dumbforgiven/) about how much I detest Mark Millar's *Old Man Logan* story. It's the worst of modern superhero comics: cynical, try-hard, a crass rip-off of a significant pop cultural icon (Millar should have to pay royalty checks to Clint Eastwood for what he did to *Unforgiven*.) Somehow the series, which imagined Wolverine living in a dystopian future in which the Hulk breeds with his cousin to father a posse of inbred hulkbillies, managed to inspire Hugh Jackman's final Wolverine movie, *Logan* - a film with all the heart and thoughtfulness that the original series lacked. But that's the only good thing to ever come out of *Old Man Logan*

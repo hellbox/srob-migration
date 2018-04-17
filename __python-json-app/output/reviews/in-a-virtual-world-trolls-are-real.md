@@ -1,8 +1,8 @@
 +++
 index = "-L5Fyisn8omCQHOqKNB_"
-_sort_create_date = 1518555780
-_sort_last_updated = 1518639360
-_sort_publish_date = 1518639360
+sort_create_date = 1518555780
+sort_last_updated = 1518639360
+sort_publish_date = 1518639360
 create_date = "2018-02-13T13:03:00-08:00"
 publish_date = "2018-02-14T12:16:00-08:00"
 date = "2018-02-14T12:16:00-08:00"
@@ -13,10 +13,10 @@ title = "In a virtual world, trolls are real"
 dek = "After Gamergate \u2014 correction, a petty, dangerous ex-boyfriend \u2014 unbuilt her life, Zo\u00eb Quinn used her game-designer smarts to turn the tables on online harassers. It's time for the rest of us to do the same. "
 facebookauto = "Zo\u00eb Quinn's Crash Override was a call to action. Are we listening? asks Pam Mandel."
 twitterauto = "In Crash Override, @UnburntWitch issued a call to action. Are we listening? asks @nerdseyeview."
-byline = ["writers/pam-mandel"]
+reviews_byline = ["writers/pam-mandel"]
 books_in_this_review = ["books/crash-override"]
 tags_reviews = ""
-authors_reviews = ["authors/zo\u00eb-quinn"]
+reviews_about = ""
 +++
 
 In 2008 I opened a Twitter account. I was driving from Seattle to Chicago with two friends for a social media conference; we used Twitter to communicate our location, to meet strangers along the way, to get ideas about where to stop and what to do once we’d stopped there. A friend joined Twitter while I was on the road. He’d been following my 140-character-count updates for much of the journey, but he really wanted to tweet back: It was essential I not miss a particular roadside attraction.

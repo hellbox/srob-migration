@@ -1,8 +1,8 @@
 +++
 index = "-Jy-vN5on25uWu-XkzHO"
-_sort_create_date = 1440977040
-_sort_last_updated = 1441398060
-_sort_publish_date = 1440977040
+sort_create_date = 1440977040
+sort_last_updated = 1441398060
+sort_publish_date = 1440977040
 create_date = "2015-08-30T16:24:00-07:00"
 publish_date = "2015-08-30T16:24:00-07:00"
 date = "2015-08-30T16:24:00-07:00"
@@ -20,6 +20,6 @@ time_description = "
 end_time = ""
 enddate = ""
 is_sponsorship = true
-authors = ["authors/priscilla-long"]
+authors = ""
 sponsorship_event = ""
 venues = ""

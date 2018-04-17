@@ -1,8 +1,8 @@
 +++
 index = "-KN_XIFPhtIiFaulz8ip"
-_sort_create_date = 1469508540
-_sort_last_updated = 1469508840
-_sort_publish_date = 1469563200
+sort_create_date = 1469508540
+sort_last_updated = 1469508840
+sort_publish_date = 1469563200
 create_date = "2016-07-25T21:49:00-07:00"
 publish_date = "2016-07-26T13:00:00-07:00"
 date = "2016-07-26T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @SeaArtsLectures is back with their amazing 2016/17 Season. "
 facebookauto = "Sponsor Seattle Arts & Lectures is back with their amazing 2016/17 Season"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor Seattle Arts &amp; Lectures is back to promote the amazing 2016/17 Season, especially the Literary Arts Series. Seriously, let's just list the people they're bringing your favorite stage in town: Ann Patchett, Timothy Egan, Helen Macdonald, Ben Fountain, Bryan Stevenson, and Helen Oyeyemi. 

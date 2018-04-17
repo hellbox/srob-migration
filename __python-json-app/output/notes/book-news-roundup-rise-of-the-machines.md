@@ -1,8 +1,8 @@
 +++
 index = "-L7Xdp6OoU5t3LknBMR2"
-_sort_create_date = 1520999760
-_sort_last_updated = 1520999760
-_sort_publish_date = 1521057360
+sort_create_date = 1520999760
+sort_last_updated = 1520999760
+sort_publish_date = 1521057360
 create_date = "2018-03-13T20:56:00-07:00"
 publish_date = "2018-03-14T12:56:00-07:00"
 date = "2018-03-14T12:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Are you ready for the world's first robot-operated bookstore?"
 facebookauto = "Are you ready for the world's first robot-operated bookstore?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/sherman-alexie", "authors/e-lily-yu"]
+notes_about = ""
 books = ""
 +++
 * At *Yes Magazine*, [Jacqueline Keeler has written](http://www.yesmagazine.org/peace-justice/why-reading-sherman-alexie-was-never-enough-20180312) an excellent story that offers some background and some wider context into the [allegations surrounding Sherman Alexie](http://www.seattlereviewofbooks.com/notes/2018/03/06/finding-my-way-through-the-troubling-sherman-alexie-stories/). The piece is titled "Why Reading Sherman Alexie Was Never Enough: As the #MeToo spotlight moves to Indian Country, epidemic violence against Native women meets tokenism in publishing," and it's absolutely worth your time.

@@ -1,8 +1,8 @@
 +++
 index = "-Ks1vRPV7dBDSCaGDqgl"
-_sort_create_date = 1503287640
-_sort_last_updated = 1503287640
-_sort_publish_date = 1503341640
+sort_create_date = 1503287640
+sort_last_updated = 1503287640
+sort_publish_date = 1503341640
 create_date = "2017-08-20T20:54:00-07:00"
 publish_date = "2017-08-21T11:54:00-07:00"
 date = "2017-08-21T11:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Why is @amazon still advertising on Breitbart?"
 facebookauto = "Over 2,500 advertisers have joined a boycott against Steve Bannon's news outlet Breitbart. Amazon is one of a handful of advertisers left. Why is Amazon still giving Breitbart money?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ["books/devils-bargain"]
 +++
 Now that former White House senior advisor Steve Bannon is [back in charge of hyperconservative news outlet Breitbart](http://www.seattlereviewofbooks.com/reviews/the-devil-eats-his-own-tail/), it's vitally important to note that Amazon is one of the last remaining mainstream advertisers on Breitbart. 

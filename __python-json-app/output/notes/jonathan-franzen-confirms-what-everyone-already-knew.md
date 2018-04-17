@@ -1,8 +1,8 @@
 +++
 index = "-KO5yaqQEJrUXTOm_jFm"
-_sort_create_date = 1470069600
-_sort_last_updated = 1470081600
-_sort_publish_date = 1470080700
+sort_create_date = 1470069600
+sort_last_updated = 1470081600
+sort_publish_date = 1470080700
 create_date = "2016-08-01T09:40:00-07:00"
 publish_date = "2016-08-01T12:45:00-07:00"
 date = "2016-08-01T12:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Jonathan Franzen, please stop. Just stop, Jonathan Franzen. Please."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/race"]
-authors_notes = ["authors/jonathan-franzen"]
+notes_about = ""
 books = ""
 +++
 *Slate*'s Isaac Chotiner asks Jonathan Franzen if he's ever considered writing a book about race:

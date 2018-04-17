@@ -1,8 +1,8 @@
 +++
 index = "-K99l8ETLWY6mkraq1QJ"
-_sort_create_date = 1454027040
-_sort_last_updated = 1454091000
-_sort_publish_date = 1454091000
+sort_create_date = 1454027040
+sort_last_updated = 1454091000
+sort_publish_date = 1454091000
 create_date = "2016-01-28T16:24:00-08:00"
 publish_date = "2016-01-29T10:10:00-08:00"
 date = "2016-01-29T10:10:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454026468632/scar
 twitterauto = "Hey! @ScarecrowVideo's throwing a fundraising book fair! "
 facebookauto = "In today's Book News Roundup: Scarecrow Video is throwing a fundraising book fair, a classic David Bowie pro-literacy poster is available for sale again, and Octavia Butler's notebook is incredible."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/scarecrow-video", "tags/adaptation", "tags/david-bowie", "tags/new-york-times", "tags/book-news-roundup"]
-authors_notes = ["authors/david-shields", "authors/octavia-butler"]
+notes_about = ""
 books = ""
 +++
 * Scarecrow Video, the best damn video store in the whole damn world, announced yesterday that they're running a fundraiser book fair through the Northgate Barnes & Noble. Between February 20th and February 27th, a portion of the sales from every customer who presents code 11800976 when they buy books in store or online will be donated to Scarecrow. To celebrate the book fair, I'm giving a talk about books and adaptations titled "The Book Was Better but the Movie Was Shorter" on Saturday, February 20 at 1 pm. It's free. You should come. Scarecrow also made ths gorgeous poster to celebrate:

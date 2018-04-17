@@ -1,8 +1,8 @@
 +++
 index = "-KS4kceBHLl4RCqr-t54"
-_sort_create_date = 1474344120
-_sort_last_updated = 1474430400
-_sort_publish_date = 1474484400
+sort_create_date = 1474344120
+sort_last_updated = 1474430400
+sort_publish_date = 1474484400
 create_date = "2016-09-19T21:02:00-07:00"
 publish_date = "2016-09-21T12:00:00-07:00"
 date = "2016-09-21T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Feminism a la carte"
 dek = "Two indie feminists come at commerce, advertising, and how to best love media from different angles. "
 facebookauto = "Feminism a la carte: Amy R Peloff looks at Andi Zeisler and Kameron Hurley's books. "
 twitterauto = "Feminism a la carte: @AmyRPeloff looks at @andizeisler and @KameronHurley's books. "
-byline = ["writers/amy-r-peloff"]
+reviews_byline = ["writers/amy-r-peloff"]
 books_in_this_review = ["books/the-geek-feminist-revolution", "books/we-were-feminists-once"]
 tags_reviews = ["tags/feminism", "tags/gender-roles"]
-authors_reviews = ["authors/andi-zeisler", "authors/kameron-hurley"]
+reviews_about = ""
 +++
 
 It feels like these are end times that we are living in. Black men are being murdered by police with impunity. Nationalist movements reminiscent of pre-WWII era fascism are cropping up all over the world. And we have somehow all become willing participants in a surveillance state, happily carrying around devices that track our every movement, and enable us to share intimate details for the state and corporations to monitor and mine. The dystopian futures imagined by George Orwell, Margaret Atwood, Suzanne Collins, and hundreds of other writers of science fiction and fantasy feel more and more familiar with each passing day. 

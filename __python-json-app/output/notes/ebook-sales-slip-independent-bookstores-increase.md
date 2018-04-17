@@ -1,8 +1,8 @@
 +++
 index = "-JzvF-dem5qJUXwGejS5"
-_sort_create_date = 1443029280
-_sort_last_updated = 1443029340
-_sort_publish_date = 1443030540
+sort_create_date = 1443029280
+sort_last_updated = 1443029340
+sort_publish_date = 1443030540
 create_date = "2015-09-23T10:28:00-07:00"
 publish_date = "2015-09-23T10:49:00-07:00"
 date = "2015-09-23T10:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "E-book sales declined over the past 5 months. 302 new bookstores opened over the last 5 years. Books win."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/e-books", "tags/independent-bookstores"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Alexandra Alter [at the *New York Times* reports](http://www.nytimes.com/2015/09/23/business/media/the-plot-twist-e-book-sales-slip-and-print-is-far-from-dead.html?smprod=nytcore-iphone&smid=nytcore-iphone-share&_r=0) that e-book sales have slipped for the first time in recent memory.

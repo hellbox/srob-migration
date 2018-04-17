@@ -1,8 +1,8 @@
 +++
 index = "-KX-GhwSq35cSqPzVX8b"
-_sort_create_date = 1479620820
-_sort_last_updated = 1479748920
-_sort_publish_date = 1479751020
+sort_create_date = 1479620820
+sort_last_updated = 1479748920
+sort_publish_date = 1479751020
 create_date = "2016-11-19T21:47:00-08:00"
 publish_date = "2016-11-21T09:57:00-08:00"
 date = "2016-11-21T09:57:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479620688833/ebbc
 twitterauto = "It's the people who make @elliottbaybooks, our November Bookstore of the Month, great."
 facebookauto = "It's the people who make our November Bookstore of the Month great. Meet the staff of Elliott Bay Book Company."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/sherman-alexie", "authors/david-sedaris"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1479620688833/ebbco.JPG)</p>

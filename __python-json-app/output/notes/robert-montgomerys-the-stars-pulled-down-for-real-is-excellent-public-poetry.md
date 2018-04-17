@@ -1,8 +1,8 @@
 +++
 index = "-Jy6eYrI3h3xcAmKJdQd"
-_sort_create_date = 1441090080
-_sort_last_updated = 1441092060
-_sort_publish_date = 1441126440
+sort_create_date = 1441090080
+sort_last_updated = 1441092060
+sort_publish_date = 1441126440
 create_date = "2015-08-31T23:48:00-07:00"
 publish_date = "2015-09-01T09:54:00-07:00"
 date = "2015-09-01T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "You have just five days left to appreciate the gorgeous sci-fi poem installed on Denny Way."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/public-art", "tags/the-stars-pulled-down-for-real"]
-authors_notes = ["authors/robert-montgomery"]
+notes_about = ""
 books = ""
 +++
 Every Tuesday morning, we present a poem for you to enjoy, but this week we're going to do something a little different. I want to call a piece of public art to your attention. [Robert Montgomery's poem "The Stars Pulled Down for Real" is the latest site-specific artwork at *All Rise*](http://www.allriseseattle.org/robertmontgomery/), the public art space located between Denny and John, down in the Denny Triangle. *All Rise*'s website explains Montgomery's work as "confront[ing] a post-utopian current while echoing a full, at times romantic, chronology of a land divided, shaped, and built ever-upward." 

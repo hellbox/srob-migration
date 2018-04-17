@@ -1,8 +1,8 @@
 +++
 index = "-JuCh8eHY-XqirCdLaCa"
-_sort_create_date = 1436896440
-_sort_last_updated = 1436896440
-_sort_publish_date = 1436896440
+sort_create_date = 1436896440
+sort_last_updated = 1436896440
+sort_publish_date = 1436896440
 create_date = "2015-07-14T10:54:00-07:00"
 publish_date = "2015-07-14T10:54:00-07:00"
 date = "2015-07-14T10:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/go-set-a-watchman"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 OMG, this headline: "**Harper Lee Announces Third Novel, ‘My Excellent Caretaker Deserves My Entire Fortune**.’" So cruel, so funny.

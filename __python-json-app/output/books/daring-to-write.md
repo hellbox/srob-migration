@@ -1,8 +1,8 @@
 +++
 index = "-KJ44GU3DWJgXng3qa3d"
-_sort_create_date = 1464669060
-_sort_last_updated = 1464810000
-_sort_publish_date = 1464669060
+sort_create_date = 1464669060
+sort_last_updated = 1464810000
+sort_publish_date = 1464669060
 create_date = "2016-05-30T21:31:00-07:00"
 publish_date = "2016-05-30T21:31:00-07:00"
 date = "2016-05-30T21:31:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2R3jrli59HFVHuf8-4HMivFZLLjtycg43C04BrCZ-MpOTOC70uWgvL65Cei6n9USbIki5gwML85rCAuk2U5KhvLtVSCm"
 url = "/webhook-uploads/1464669027186/7142324uPnL.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 175141
 
 review_relationship = ["reviews/sancocho"]
-author_relationship = ["authors/erika-m-martinez"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

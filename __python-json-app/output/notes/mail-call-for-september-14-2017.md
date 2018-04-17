@@ -1,8 +1,8 @@
 +++
 index = "-Ku2eS5lFzlZeIGKhSE-"
-_sort_create_date = 1505447460
-_sort_last_updated = 1505447460
-_sort_publish_date = 1505447460
+sort_create_date = 1505447460
+sort_last_updated = 1505447460
+sort_publish_date = 1505447460
 create_date = "2017-09-14T20:51:00-07:00"
 publish_date = "2017-09-14T20:51:00-07:00"
 date = "2017-09-14T20:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505447450063/IMG_
 twitterauto = "Mail Call! Two fat stacks of some amazing looking books"
 facebookauto = "Mail Call! Two fat stacks of some amazing looking books"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1505447450063/IMG_0002.jpg)</p>

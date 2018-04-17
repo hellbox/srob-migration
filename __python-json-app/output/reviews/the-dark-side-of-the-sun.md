@@ -1,8 +1,8 @@
 +++
 index = "-L4dtdETo7fho_NecqRH"
-_sort_create_date = 1517900160
-_sort_last_updated = 1517939220
-_sort_publish_date = 1517946900
+sort_create_date = 1517900160
+sort_last_updated = 1517939220
+sort_publish_date = 1517946900
 create_date = "2018-02-05T22:56:00-08:00"
 publish_date = "2018-02-06T11:55:00-08:00"
 date = "2018-02-06T11:55:00-08:00"
@@ -12,10 +12,10 @@ name = "The dark side of the sun"
 title = "The dark side of the sun"
 dek = "Tonight, Seattle author Ross McMeekin reads from his brand-new noir thriller, The Hummingbirds. It's a book that seems aware of the genre conventions that came before it, while still falling prey to the occasional oft-repeated cliche."
 twitterauto = ""
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-hummingbirds"]
 tags_reviews = ["tags/novel", "tags/noir"]
-authors_reviews = ["authors/ross-mcmeekin"]
+reviews_about = ""
 +++
 
 Seattle author Ross McMeekin is probably best known as the founder and editor of [*Spartan*](https://spartanlit.com/), the minimalist literary journal. *Spartan* has, over the course of a few years, become one of the more influential literary forces in the Seattle area; it’s rare to find a group reading in the city, for example, that does not include a *Spartan* author on the bill.

@@ -1,8 +1,8 @@
 +++
 index = "-KTIZeK62heN2ZrkvsGm"
-_sort_create_date = 1475649600
-_sort_last_updated = 1475649660
-_sort_publish_date = 1475649600
+sort_create_date = 1475649600
+sort_last_updated = 1475649660
+sort_publish_date = 1475649600
 create_date = "2016-10-04T23:40:00-07:00"
 publish_date = "2016-10-04T23:40:00-07:00"
 date = "2016-10-04T23:40:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Travel"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QMiU1oKUXJK9Hj97QraJWp9iGLtQ7FPXduQn0QLP0UOTzkTFbyrKCXOKaMKHZSeUlaEN7qp8lw9jp9q-vyzA05GFLTXuzg"
 url = "/webhook-uploads/1475649643458/content%3Fid%3DNVczDAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 9820
 
 review_relationship = ["reviews/traveled-the-world-and-the-seven-seas"]
-author_relationship = ["authors/joshua-foer"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

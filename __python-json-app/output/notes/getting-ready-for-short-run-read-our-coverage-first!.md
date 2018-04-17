@@ -1,8 +1,8 @@
 +++
 index = "-Ky2BaSC_HrTSjk9Vr0j"
-_sort_create_date = 1509734640
-_sort_last_updated = 1509736020
-_sort_publish_date = 1509739200
+sort_create_date = 1509734640
+sort_last_updated = 1509736020
+sort_publish_date = 1509739200
 create_date = "2017-11-03T11:44:00-07:00"
 publish_date = "2017-11-03T13:00:00-07:00"
 date = "2017-11-03T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509078913028/shor
 twitterauto = "Here's all of our @shortrunseattle coverage in one handy spot."
 facebookauto = "Here's all of our Short Run coverage in one handy spot. See you tomorrow!"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run"]
-authors_notes = ["authors/julia-wertz", "authors/mita-mahato", "authors/emil-ferris"]
+notes_about = ""
 books = ["books/tenements-towers-&-trash", "books/in-between"]
 +++
 <p class="image">![](/webhook-uploads/1509078913028/shortrun.jpg)</p>

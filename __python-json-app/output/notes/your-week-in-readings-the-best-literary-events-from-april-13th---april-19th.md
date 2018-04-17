@@ -1,8 +1,8 @@
 +++
 index = "-KEsGgnZwrWbe6yDH_X-"
-_sort_create_date = 1460159280
-_sort_last_updated = 1460159400
-_sort_publish_date = 1460566080
+sort_create_date = 1460159280
+sort_last_updated = 1460159400
+sort_publish_date = 1460566080
 create_date = "2016-04-08T16:48:00-07:00"
 publish_date = "2016-04-13T09:48:00-07:00"
 date = "2016-04-13T09:48:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460159095617/51Sq
 twitterauto = "Your week in readings begins with this memoir about being a woman in the sciences at Town Hall tonight."
 facebookauto = "Your week in readings begins with a memoir about being a woman in the sciences at Town Hall tonight."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/hugo-house"]
-authors_notes = ["authors/claire-vaye-watkins"]
+notes_about = ""
 books = ["books/gold-fame-citrus"]
 +++
 <p class="noindent"><h5>**Wednesday April 13: Hope Jahren  **</h5></p>

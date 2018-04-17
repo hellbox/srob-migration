@@ -1,8 +1,8 @@
 +++
 index = "-KzAa2NN1SIA3gp4Ja1c"
-_sort_create_date = 1510949220
-_sort_last_updated = 1511054400
-_sort_publish_date = 1511211600
+sort_create_date = 1510949220
+sort_last_updated = 1511054400
+sort_publish_date = 1511211600
 create_date = "2017-11-17T12:07:00-08:00"
 publish_date = "2017-11-20T13:00:00-08:00"
 date = "2017-11-20T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1510949205714/Ste
 twitterauto = "Grimdark fans, don't miss the sample chapter from sponsor Allan Batchelder's epic Steel, Blood & Fire!"
 facebookauto = "Grimdark fans, don't miss the sample chapter from sponsor Allan Batchelder's epic Steel, Blood & Fire!"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/allan-batchelder"]
+notes_about = ""
 books = ["books/steel-blood-&-fire"]
 +++
 <p class="image-left">![](/webhook-uploads/1510949188255/Steel%20Blood%20and%20Fire_150.jpeg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KqzyHBo-Yv0SiePDuJR"
-_sort_create_date = 1502164320
-_sort_last_updated = 1502164320
-_sort_publish_date = 1502164320
+sort_create_date = 1502164320
+sort_last_updated = 1502164320
+sort_publish_date = 1502164320
 create_date = "2017-08-07T20:52:00-07:00"
 publish_date = "2017-08-07T20:52:00-07:00"
 date = "2017-08-07T20:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "And the finalists for the 2017 Washington State Book Awards are..."
 facebookauto = "And the finalists for the 2017 Washington State Book Awards are..."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/lindy-west", "authors/eli-sanders", "authors/matt-ruff", "authors/don-mee-choi"]
+notes_about = ""
 books = ["books/shrill", "books/while-the-city-slept", "books/lovecraft-country"]
 +++
 Seattle Public Library [announced the finalists](http://www.spl.org/about-the-library/library-news-releases/wsba-2017-finalists-87) for this year's Washington State Book Awards. The list is very long, but some noteworthy finalists include:

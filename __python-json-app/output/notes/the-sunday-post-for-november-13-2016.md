@@ -1,8 +1,8 @@
 +++
 index = "-KWTi2yPCpLVYeOTEv9y"
-_sort_create_date = 1479057840
-_sort_last_updated = 1479057840
-_sort_publish_date = 1479058200
+sort_create_date = 1479057840
+sort_last_updated = 1479057840
+sort_publish_date = 1479058200
 create_date = "2016-11-13T09:24:00-08:00"
 publish_date = "2016-11-13T09:30:00-08:00"
 date = "2016-11-13T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post looks at....well. We all know what the Sunday Post is gonna talk about this week. No way around it."
 facebookauto = "The Sunday Post looks at....well. We all know what the Sunday Post is gonna talk about this week. No way around it."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.nytimes.com/2016/11/11/magazine/a-time-for-refusal.html" title="None">A Time for Refusal</a></h5>

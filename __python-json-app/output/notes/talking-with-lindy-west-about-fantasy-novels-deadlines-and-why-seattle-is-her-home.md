@@ -1,8 +1,8 @@
 +++
 index = "-KI0qCipjN5nrEhOpzAd"
-_sort_create_date = 1463541060
-_sort_last_updated = 1463610060
-_sort_publish_date = 1463597880
+sort_create_date = 1463541060
+sort_last_updated = 1463610060
+sort_publish_date = 1463597880
 create_date = "2016-05-17T20:11:00-07:00"
 publish_date = "2016-05-18T11:58:00-07:00"
 date = "2016-05-18T11:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463601235462/01cf
 twitterauto = "Talking with @thelindywest about deadlines and her love of fantasy novels."
 facebookauto = "We talked with Lindy West about her relationship to deadlines, her love of fantasy novels, and why she loves Seattle."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/memoir", "tags/feminism", "tags/the-stranger", "tags/fantasy"]
-authors_notes = ["authors/lindy-west"]
+notes_about = ""
 books = ["books/shrill"]
 +++
 <p class="image-left">![](/webhook-uploads/1463601235462/01cf47266a74d15fcb8855d55e7aa836.jpg)</p>

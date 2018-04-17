@@ -1,8 +1,8 @@
 +++
 index = "-K2Dmn2HrIztN2C_Vyjp"
-_sort_create_date = 1446578400
-_sort_last_updated = 1446581280
-_sort_publish_date = 1446579000
+sort_create_date = 1446578400
+sort_last_updated = 1446581280
+sort_publish_date = 1446579000
 create_date = "2015-11-03T11:20:00-08:00"
 publish_date = "2015-11-03T11:30:00-08:00"
 date = "2015-11-03T11:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/non-fiction"]
-authors_notes = ["authors/ari-berman"]
+notes_about = ""
 books = ["books/give-us-the-ballot"]
 +++
 *The Nation* contributing writer [Ari Berman](http://www.thenation.com/authors/ari-berman/)’s excellent new book *Give Us the Ballot* tracks the history of voting rights in America from the 1950s to today. No less a civil rights giant than Congressman John Lewis [calls Berman’s history](https://www.washingtonpost.com/opinions/john-lewis-how-we-won-and-are-losing-the-right-to-vote/2015/09/10/5f77e644-50bc-11e5-933e-7d06c647a395_story.html) a “must-read” that “should become a primer for every American” on the topic of voting equality. (Lewis, of course, figures heavily into *Ballot*’s narrative.) This Friday, Berman [appears in conversation with Supreme Court Justice Steven Gonzalez at Town Hall](https://townhallseattle.org/event/ari-berman-with-justice-steven-gonzalez/) to talk about the state of voting rights nationally and in Washington State. 

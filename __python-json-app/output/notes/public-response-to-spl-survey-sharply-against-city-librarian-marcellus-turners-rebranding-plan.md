@@ -1,8 +1,8 @@
 +++
 index = "-K17RCuXLCegwOj1P7qe"
-_sort_create_date = 1445398080
-_sort_last_updated = 1445451600
-_sort_publish_date = 1445446800
+sort_create_date = 1445398080
+sort_last_updated = 1445451600
+sort_publish_date = 1445446800
 create_date = "2015-10-20T20:28:00-07:00"
 publish_date = "2015-10-21T10:00:00-07:00"
 date = "2015-10-21T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/laurel-holliday"]
+notes_byline = ["writers/laurel-holliday"]
 tags_notes = ["tags/seattle-public-library", "tags/marcellus-turner", "tags/city-librarian"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Over 14,000 people recently took a [Seattle Public Library](https://www.spl.org "Home | The Seattle Public Library") survey about a "branding initiative" that would change the face of the library and cost well over a million dollars, according to SPL Communications Director Andra Addison. Advised by heavy-hitter [Hornall Anderson](http://www.hornallanderson.com), City Librarian Marcellus Turner is spearheading a campaign to rename the library and replace its familiar logo, all in an effort to more clearly project the image described in this "brand statement":

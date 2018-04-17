@@ -1,8 +1,8 @@
 +++
 index = "-KeBXow8DFzJtwT5CIw3"
-_sort_create_date = 1488416580
-_sort_last_updated = 1488518760
-_sort_publish_date = 1488571380
+sort_create_date = 1488416580
+sort_last_updated = 1488518760
+sort_publish_date = 1488571380
 create_date = "2017-03-01T17:03:00-08:00"
 publish_date = "2017-03-03T12:03:00-08:00"
 date = "2017-03-03T12:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Book News Roundup features great opportunities from @SeattleArts, @shortrunseattle, & @Crosscut."
 facebookauto = "Our Book News Roundup features a fun book swap happening tomorrow and some neat opportunities for writers."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/civic-poet", "tags/short-run", "tags/crosscut", "tags/seattle-public-library", "tags/barnes-&amp;-noble"]
-authors_notes = ["authors/claudia-castro-luna"]
+notes_about = ""
 books = ["books/this-city"]
 +++
 **Today's Book News Roundup begins with three neat local opportunities**:

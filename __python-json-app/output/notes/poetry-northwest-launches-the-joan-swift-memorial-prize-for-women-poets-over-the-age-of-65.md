@@ -1,8 +1,8 @@
 +++
 index = "-KxmwCwf8wUmJxke3aTN"
-_sort_create_date = 1509461880
-_sort_last_updated = 1509467460
-_sort_publish_date = 1509472800
+sort_create_date = 1509461880
+sort_last_updated = 1509467460
+sort_publish_date = 1509472800
 create_date = "2017-10-31T07:58:00-07:00"
 publish_date = "2017-10-31T11:00:00-07:00"
 date = "2017-10-31T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "https://i0.wp.com/www.poetrynw.org/wp-content/uploads/2017/09/unna
 twitterauto = "Women poets over 65! @poetrynw is launching a new prize, in honor of Joan Swift. "
 facebookauto = "Women poets over 65! Poetry Northwest is launching a new prize, in honor of Joan Swift. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/poetry", "tags/poetry-northwest"]
-authors_notes = ["authors/joan-swift"]
+notes_about = ""
 books = ""
 +++
 [_Poetry Northwest_](http://www.poetrynw.org/) is [announcing a new prize, in honor of poet Joan Swift](http://www.poetrynw.org/joan-swift-memorial-prize/), who [passed away](http://www.seattlereviewofbooks.com/notes/2017/03/17/a-sad-day-for-northwest-poetry-joan-swift-has-died/) earlier this year at the age of 90. 

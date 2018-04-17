@@ -1,8 +1,8 @@
 +++
 index = "-Kl-x1DLnGI7wd-U5TqS"
-_sort_create_date = 1495738320
-_sort_last_updated = 1495738560
-_sort_publish_date = 1495746000
+sort_create_date = 1495738320
+sort_last_updated = 1495738560
+sort_publish_date = 1495746000
 create_date = "2017-05-25T11:52:00-07:00"
 publish_date = "2017-05-25T14:00:00-07:00"
 date = "2017-05-25T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495737981609/SRoB
 twitterauto = "Portrait Gallery: Poet Gary Copeland Lilley @LilleyGary painted by @studiochristine reads @openpoetrybooks Friday "
 facebookauto = "Portrait Gallery: Poet Gary Copeland Lilley painted by Christine Marie Larsen. Copeland will be reading at Open Books Friday night with Robert Lashley."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/gary-copeland-lilley"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KiDoAefds0qKVDofwwA"
-_sort_create_date = 1492749660
-_sort_last_updated = 1492749660
-_sort_publish_date = 1493225700
+sort_create_date = 1492749660
+sort_last_updated = 1492749660
+sort_publish_date = 1493225700
 create_date = "2017-04-20T21:41:00-07:00"
 publish_date = "2017-04-26T09:55:00-07:00"
 date = "2017-04-26T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492749331191/Scre
 twitterauto = "This Saturday is Seattle Independent Bookstore Day! Here are our picks for best way to spend your day:"
 facebookauto = "This Saturday is Seattle Independent Bookstore Day! Here are our picks for best way to spend your day:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/independent-bookstores", "tags/elliott-bay-book-company", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/university-book-store"]
-authors_notes = ["authors/ellen-forney", "authors/marie-hausauer", "authors/david-lasky", "authors/kelly-froh", "authors/megan-kelso", "authors/simon-hanselmann", "authors/mita-mahato", "authors/colleen-frakes"]
+notes_about = ""
 books = ""
 +++
 This Saturday, April 29th, 23 area bookshops will be taking part in the third annual Seattle Independent Bookstore Day. You — being the discerning lover of literature and an ardent supporter of local businesses staffed by real, live humans that you are — don’t need me to tell you why independent bookstores are the motherfucking cultural glue that holds our entire city together. So you’ll obviously want to head out to your two or three favorite bookstores to buy a book or two, say hi, and enjoy some special events.

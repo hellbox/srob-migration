@@ -1,8 +1,8 @@
 +++
 index = "-KxvJqMWW_5qWnhLukfb"
-_sort_create_date = 1509602580
-_sort_last_updated = 1509602580
-_sort_publish_date = 1509643800
+sort_create_date = 1509602580
+sort_last_updated = 1509602580
+sort_publish_date = 1509643800
 create_date = "2017-11-01T23:03:00-07:00"
 publish_date = "2017-11-02T10:30:00-07:00"
 date = "2017-11-02T10:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509601934513/Tong
 twitterauto = "Anders Nilsen is a special guest @shortrunseattle. His latest comic is a creation myth set in a ruined Middle East."
 facebookauto = "Anders Nilsen is a special guest at this year's Short Run Seattle. His latest comic is a creation myth set in a ruined Middle East."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 ![](/webhook-uploads/1509601934513/Tongues%2BFC.jpeg)

@@ -1,8 +1,8 @@
 +++
 index = "-JyOLLDMz3NizUczhL1y"
-_sort_create_date = 1441386780
-_sort_last_updated = 1441386780
-_sort_publish_date = 1441386780
+sort_create_date = 1441386780
+sort_last_updated = 1441386780
+sort_publish_date = 1441386780
 create_date = "2015-09-04T10:13:00-07:00"
 publish_date = "2015-09-04T10:13:00-07:00"
 date = "2015-09-04T10:13:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Got questions about about life, reading, or reading life? Ask @ciennam anything at advice@seattlereviewofbooks.com"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Our literary advice columnist, [Cienna Madrid](http://seattlereviewofbooks.com/writers/cienna-madrid/), is taking a vacation for Labor Day weekend. She advises you do the same. 

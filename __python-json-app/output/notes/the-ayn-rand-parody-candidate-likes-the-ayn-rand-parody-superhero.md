@@ -1,8 +1,8 @@
 +++
 index = "-JvCwiDVcp2WPcl-aXbD"
-_sort_create_date = 1437974280
-_sort_last_updated = 1440222360
-_sort_publish_date = 1437974280
+sort_create_date = 1437974280
+sort_last_updated = 1440222360
+sort_publish_date = 1437974280
 create_date = "2015-07-26T22:18:00-07:00"
 publish_date = "2015-07-26T22:18:00-07:00"
 date = "2015-07-26T22:18:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/ayn-rand", "tags/ted-cruz"]
-authors_notes = ["authors/alan-moore"]
+notes_about = ""
 books = ["books/watchmen"]
 +++
 This made the rounds on Twitter today:

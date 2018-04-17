@@ -1,8 +1,8 @@
 +++
 index = "-JxH__2rWpYhMP0efy_w"
-_sort_create_date = 1440199620
-_sort_last_updated = 1440199620
-_sort_publish_date = 1440199620
+sort_create_date = 1440199620
+sort_last_updated = 1440199620
+sort_publish_date = 1440199620
 create_date = "2015-08-21T16:27:00-07:00"
 publish_date = "2015-08-21T16:27:00-07:00"
 date = "2015-08-21T16:27:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Art"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/obx2XvwNFRsEN10vzxJaBnVVWYIft7-23irK7p5BtsyQSlOJqn9mQjrc8cK_0XIvQz6BG8GRoeZOnrH7m-mnAcfHb3E8Ow"
 url = "/webhook-uploads/1440199626240/content%3Fid%3DosDJnQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7912
 
 review_relationship = ["reviews/a-cruel-mistress"]
-author_relationship = ["authors/maggie-nelson"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-kind-of-genius-you-cant-ignore"]
 +++

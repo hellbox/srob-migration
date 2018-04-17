@@ -1,8 +1,8 @@
 +++
 index = "-KGQF_Sjiu-5YAF0o_UX"
-_sort_create_date = 1461819900
-_sort_last_updated = 1461819900
-_sort_publish_date = 1461863100
+sort_create_date = 1461819900
+sort_last_updated = 1461819900
+sort_publish_date = 1461863100
 create_date = "2016-04-27T22:05:00-07:00"
 publish_date = "2016-04-28T10:05:00-07:00"
 date = "2016-04-28T10:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461819524631/batm
 twitterauto = "Man, superhero comics are pretty weird."
 facebookauto = "Superhero comics are impossibly self-referential and obsessed with meta-narratives. Of course, that doesn't necessarily mean they're bad."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/dc-comics", "tags/marvel-comics", "tags/batman"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Superhero comics are supremely weird.  What started out as a simple formula — every issue features a fight by page seven, a little bit of soap opera, and the beginning, middle, and end of a battle between good and evil — has now become a weirdly self-reflexive vocabulary that pretty much is only used to describe itself. Even as superhero movies have become the most popular genre at the multiplex, it’s hard to understand modern superhero comics without comparing them against years of knowledge of the genre. 

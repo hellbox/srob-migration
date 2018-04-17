@@ -1,8 +1,8 @@
 +++
 index = "-KcLqqEEvetpgWnw6cxj"
-_sort_create_date = 1486442160
-_sort_last_updated = 1486491600
-_sort_publish_date = 1486497300
+sort_create_date = 1486442160
+sort_last_updated = 1486491600
+sort_publish_date = 1486497300
 create_date = "2017-02-06T20:36:00-08:00"
 publish_date = "2017-02-07T11:55:00-08:00"
 date = "2017-02-07T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Now playing @SIFFNews: a literary documentary about the brilliance and heartbreak of James Baldwin."
 facebookauto = "Now playing at the Egyptian: a literary documentary about the brilliance and heartbreak of James Baldwin."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/race", "tags/documentary", "tags/siff"]
-authors_notes = ["authors/james-baldwin"]
+notes_about = ""
 books = ""
 +++
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t_JEkBN5tWo?rel=0" frameborder="0" allowfullscreen></iframe>

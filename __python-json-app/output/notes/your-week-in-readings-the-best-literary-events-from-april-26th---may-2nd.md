@@ -1,8 +1,8 @@
 +++
 index = "-Ki3nbcmi4CIcNhLX_Qk"
-_sort_create_date = 1492581720
-_sort_last_updated = 1492581720
-_sort_publish_date = 1493233320
+sort_create_date = 1492581720
+sort_last_updated = 1492581720
+sort_publish_date = 1493233320
 create_date = "2017-04-18T23:02:00-07:00"
 publish_date = "2017-04-26T12:02:00-07:00"
 date = "2017-04-26T12:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492581592443/edib
 twitterauto = "Your week in readings delivers an edible city, life on Mars, and a Republican."
 facebookauto = "Your week in readings delivers an edible city, life on Mars, and a Republican."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/jamaica-baldwin", "authors/elisa-chavez", "authors/anastacia-renee", "authors/kevin-emerson"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1492581592443/ediblecity.jpeg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-Kze_OyUc9bDEco63wN5"
-_sort_create_date = 1511469180
-_sort_last_updated = 1511478420
-_sort_publish_date = 1511474400
+sort_create_date = 1511469180
+sort_last_updated = 1511478420
+sort_publish_date = 1511474400
 create_date = "2017-11-23T12:33:00-08:00"
 publish_date = "2017-11-23T14:00:00-08:00"
 date = "2017-11-23T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511468942362/SRoB
 twitterauto = "Portrait Gallery: @GillianGaar + Shabazz Palaces Friday @Fantagraphics! #JimiHendrix #illustration: @studiochristine"
 facebookauto = "Portrait Gallery: Gillian Gaar by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

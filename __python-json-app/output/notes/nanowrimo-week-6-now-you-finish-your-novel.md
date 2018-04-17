@@ -1,8 +1,8 @@
 +++
 index = "-K4i8yX2PYUBEI3o1MTr"
-_sort_create_date = 1449252060
-_sort_last_updated = 1449265140
-_sort_publish_date = 1449259200
+sort_create_date = 1449252060
+sort_last_updated = 1449265140
+sort_publish_date = 1449259200
 create_date = "2015-12-04T10:01:00-08:00"
 publish_date = "2015-12-04T12:00:00-08:00"
 date = "2015-12-04T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's the @NaNoWriMo wrap-up! Learn Maria Semple's secret for drafting your novel. "
 facebookauto = "It's the @NaNoWriMo wrap-up! Learn Maria Semple's secret for drafting your novel. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/nanowrimo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Even if you made 50,000 words and finished NaNoWriMo, your novel isn't finished yet. You knew this already, right? You know what the haters say: that NaNoWriMo unleashes thousands of terrible novels into the world. It's as if some evil force were holding those poor people captive, forcing them to read every cliched phrase that comes in front of their eyeballs. It's as if they have no taste.

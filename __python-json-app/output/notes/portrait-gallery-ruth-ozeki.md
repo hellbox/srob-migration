@@ -1,8 +1,8 @@
 +++
 index = "-L5zAqpVGSZyKtcK4OZd"
-_sort_create_date = 1519330980
-_sort_last_updated = 1519331700
-_sort_publish_date = 1519336800
+sort_create_date = 1519330980
+sort_last_updated = 1519331700
+sort_publish_date = 1519336800
 create_date = "2018-02-22T12:23:00-08:00"
 publish_date = "2018-02-22T14:00:00-08:00"
 date = "2018-02-22T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1519330337427/
 twitterauto = "Portrait Gallery: @ozekiland #WordWorks #Meditation for Writers Fri 2/23 7pm @WA_Hall #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Ruth Ozeki by Christine Marie Larsen. Friday at Washington Hall. \"Meditation for Writers\""
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

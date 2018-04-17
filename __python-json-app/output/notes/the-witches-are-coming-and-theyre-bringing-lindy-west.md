@@ -1,8 +1,8 @@
 +++
 index = "-L9NVi5X6VImDsGK_cMy"
-_sort_create_date = 1522977120
-_sort_last_updated = 1522978020
-_sort_publish_date = 1523304000
+sort_create_date = 1522977120
+sort_last_updated = 1522978020
+sort_publish_date = 1523304000
 create_date = "2018-04-05T18:12:00-07:00"
 publish_date = "2018-04-09T13:00:00-07:00"
 date = "2018-04-09T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1522977297872/
 twitterauto = "Clear your calendar on April 15, and get to Benaroya to see Lindy West!"
 facebookauto = "Clear your calendar on April 15, and get to Benaroya to see Lindy West."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/lindy-west"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1522977274777/Lindy%20West_150.jpeg)</p>Here's what Lindy West had to say on Facebook about her April 15 show at Benaroya Hall: *Huge news! I'm speaking at Benaroya Hall! All by myself! For a long time! WITH A HUMOROUS SLIDESHOW!*

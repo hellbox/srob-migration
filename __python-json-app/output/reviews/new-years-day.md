@@ -1,8 +1,8 @@
 +++
 index = "-K6_XsNsvSqPCPivRG-r"
-_sort_create_date = 1451255100
-_sort_last_updated = 1451255100
-_sort_publish_date = 1451671320
+sort_create_date = 1451255100
+sort_last_updated = 1451255100
+sort_publish_date = 1451671320
 create_date = "2015-12-27T14:25:00-08:00"
 publish_date = "2016-01-01T10:02:00-08:00"
 date = "2016-01-01T10:02:00-08:00"
@@ -13,10 +13,10 @@ title = "New Years Day"
 dek = "The first day of the year is a weird holiday \u2014 part future, part past. Noy Holland's new novel Bird demonstrates the problem with giving the past too much power."
 facebookauto = "The first day of the year is a weird holiday \u2014 part future, part past. Noy Holland's new novel Bird demonstrates the problem with giving the past too much power."
 twitterauto = "Noy Holland's new novel Bird demonstrates the problem with giving the past too much power."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/bird"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/noy-holland"]
+reviews_about = ""
 +++
 
 After Thanksgiving, New Years Day is my favorite holiday. Unlike the gifts of Christmas or the costumes of Halloween, New Year’s Day brings with it no obligations. You’re just supposed to relax, and not work, and think about the year that just ended and the year that just began. If you’re hungover, maybe the day is about regret. If you’ve made a series of resolutions, maybe it’s about hope. But it’s a day that is profoundly uninterested in itself. There is no present-day New Years Day. It’s a 24-hour frame in which the past and the present collide and come to life, before work and life intrude and drag us back into the now, where we spend the rest of our lives.

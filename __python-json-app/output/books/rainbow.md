@@ -1,8 +1,8 @@
 +++
 index = "-KtKU-wHyw-jkCkaq7i-"
-_sort_create_date = 1504672740
-_sort_last_updated = 1505508000
-_sort_publish_date = 1505492400
+sort_create_date = 1504672740
+sort_last_updated = 1505508000
+sort_publish_date = 1505492400
 create_date = "2017-09-05T21:39:00-07:00"
 publish_date = "2017-09-15T09:20:00-07:00"
 date = "2017-09-15T09:20:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/wa6kmktZZapK30HUeBMeT64EVevXnXPcLXZT4xPfoFPU2vFihuzTKTyenQ1wp6y8YKMNHTyHXy1d4SfQFiqitxPEt0GVmQ"
 url = "/webhook-uploads/1504672716632/Kesha_-_Rainbow_(Official_Album_Cover).png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 39736
 
 review_relationship = ["reviews/the-transmogrification-of-kesha-rose-sebert"]
-author_relationship = ["authors/kesha"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

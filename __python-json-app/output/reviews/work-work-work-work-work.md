@@ -1,8 +1,8 @@
 +++
 index = "-KX-EO2HpIY8bS-rjYNc"
-_sort_create_date = 1479620220
-_sort_last_updated = 1479763860
-_sort_publish_date = 1479848040
+sort_create_date = 1479620220
+sort_last_updated = 1479763860
+sort_publish_date = 1479848040
 create_date = "2016-11-19T21:37:00-08:00"
 publish_date = "2016-11-22T12:54:00-08:00"
 date = "2016-11-22T12:54:00-08:00"
@@ -13,10 +13,10 @@ title = "Work work work work work"
 dek = "Is it possible to sell your soul on a temporary basis?  A Seattle memoirist tells all about working at Microsoft, Amazon, and Expedia in the temp economy."
 facebookauto = "The nature of work has changed. Companies like Expedia, Amazon, and Microsoft are hiring people without the promise of benefits and a retirement plan. One Seattle memoirist explains what the new normal is like for him."
 twitterauto = "A Seattle memoirist tells all about working at Microsoft, Expedia, and Amazon."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/now-for-the-disappointing-part"]
 tags_reviews = ["tags/memoir", "tags/non-fiction"]
-authors_reviews = ["authors/steven-barker"]
+reviews_about = ""
 +++
 
 The nature of work has changed significantly in the last 50 years, and it’s frankly kind of amazing that there’s not rioting in the streets over it. Think about it: at one point in American history, employers were expected to offer full-time jobs with benefits and a retirement program. Fewer and fewer Americans ever enjoy that kind of a relationship, and the rush into piecework only gains speed with the passage of time. Part time work, gig economy work, and temp work all have drastically reshaped the role of employer and employee, and as benefits have disappeared, wages haven’t increased to make up for the lack of health care, pensions, and even vacation that used to be a standard part of the contract.

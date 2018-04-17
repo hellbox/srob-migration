@@ -1,8 +1,8 @@
 +++
 index = "-KxBsIky0hS1SYI1awiP"
-_sort_create_date = 1508823300
-_sort_last_updated = 1510090680
-_sort_publish_date = 1509998100
+sort_create_date = 1508823300
+sort_last_updated = 1510090680
+sort_publish_date = 1509998100
 create_date = "2017-10-23T22:35:00-07:00"
 publish_date = "2017-11-06T11:55:00-08:00"
 date = "2017-11-06T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508823248914/imag
 twitterauto = "There's all kinds of neat stuff happening this week, including art and a radio show."
 facebookauto = "There's all kinds of neat stuff happening this week, including art and a radio show."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/clare-johnson"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, November 6th:  Patty Schemel**</h5></p>

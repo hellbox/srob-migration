@@ -1,8 +1,8 @@
 +++
 index = "-KX-B6ku8DJuxR294gp0"
-_sort_create_date = 1479619380
-_sort_last_updated = 1479619740
-_sort_publish_date = 1479663000
+sort_create_date = 1479619380
+sort_last_updated = 1479619740
+sort_publish_date = 1479663000
 create_date = "2016-11-19T21:23:00-08:00"
 publish_date = "2016-11-20T09:30:00-08:00"
 date = "2016-11-20T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In the Sunday Post: Obama, Trump, T Bone Burnett, and whistleblowers with powerful families. "
 facebookauto = "In the Sunday Post: Obama, Trump, T Bone Burnett, and whistleblowers with powerful families. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.newyorker.com/magazine/2016/11/28/obama-reckons-with-a-trump-presidency?mbid=social_twitter&amp;utm_content=buffer2a0dc&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" title="Obama Reckons with a Trump Presidency - The New Yorker">Obama Reckons With a Trump Presidency</a></h5>

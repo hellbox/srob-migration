@@ -1,8 +1,8 @@
 +++
 index = "-Ke66Nqip7yw3MNyPRW2"
-_sort_create_date = 1488325500
-_sort_last_updated = 1488325500
-_sort_publish_date = 1488325500
+sort_create_date = 1488325500
+sort_last_updated = 1488325500
+sort_publish_date = 1488325500
 create_date = "2017-02-28T15:45:00-08:00"
 publish_date = "2017-02-28T15:45:00-08:00"
 date = "2017-02-28T15:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We've got a good deal on two upcoming sponsorships \u2014 and maybe you'll want to try something new with us?"
 facebookauto = "We've got a good deal on two upcoming sponsorships \u2014 and maybe you'll want to try something new with us?"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We've got two open sponsorships in March we'd love to get into your hands. We've discounted them — $50 off for next week, March 6 - March 12, and $25 off for the week after, March 13 - March 19. [Grab 'em quick](http://www.seattlereviewofbooks.com/sponsor/book/)!

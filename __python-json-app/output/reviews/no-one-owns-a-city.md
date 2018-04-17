@@ -1,8 +1,8 @@
 +++
 index = "-KgT2gdZkWXoALxN3ih8"
-_sort_create_date = 1490857920
-_sort_last_updated = 1490891880
-_sort_publish_date = 1490893260
+sort_create_date = 1490857920
+sort_last_updated = 1490891880
+sort_publish_date = 1490893260
 create_date = "2017-03-30T00:12:00-07:00"
 publish_date = "2017-03-30T10:01:00-07:00"
 date = "2017-03-30T10:01:00-07:00"
@@ -13,10 +13,10 @@ title = "No one owns a city"
 dek = "Next Tuesday, Faith Erin Hicks debuts the second book in her impressive Nameless City trilogy at Elliott Bay Book Company. Her books draw you in with their easy kinetic energy, and they keep you impressed with their nuanced political intrigue."
 facebookauto = "Faith Erin Hicks reads at Elliott Bay Book Company next Tuesday. We're crazy about her Nameless City books."
 twitterauto = "We love the Nameless City books by @FaithErinHicks. She reads @ElliottBayBooks on Tuesday."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-nameless-city", "books/the-stone-heart"]
 tags_reviews = ["tags/thursday-comics-hangover"]
-authors_reviews = ["authors/faith-erin-hicks"]
+reviews_about = ""
 +++
 
 When you watch a movie, you’re handing over a remarkable amount of control over to the artists who made the film: the movie starts, the narrative unspools at its own pace, and then it’s over. You can’t really get through a movie’s story any quicker than its director intended without fast-forwarding or skipping or taking some other drastic action that breaks the art.

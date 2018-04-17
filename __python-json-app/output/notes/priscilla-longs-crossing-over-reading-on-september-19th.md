@@ -1,8 +1,8 @@
 +++
 index = "-JycSPvu1N303FmZ9kRA"
-_sort_create_date = 1441640280
-_sort_last_updated = 1441640400
-_sort_publish_date = 1441656000
+sort_create_date = 1441640280
+sort_last_updated = 1441640400
+sort_publish_date = 1441656000
 create_date = "2015-09-07T08:38:00-07:00"
 publish_date = "2015-09-07T13:00:00-07:00"
 date = "2015-09-07T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Mark Sept 19th on your calendar. This week's sponsor Priscilla Long has a book launch and reading at @ElliottBayBooks"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/priscilla-long"]
+notes_about = ""
 books = ""
 +++
 Our sponsor this week is [Priscilla Long](http://www.priscillalong.com "Home - Priscilla Long"). You may know her from her fanastic work [_The Writer's Portable Mentor_](http://www.indiebound.org/book/9780984242108 "The Writer's Portable Mentor | IndieBound"). Her new poetry collection _Crossing Over_ is being released, and she'd like you to join her at Elliot Bay Books on September 19th at 7pm for her book launch and inaugural reading. 

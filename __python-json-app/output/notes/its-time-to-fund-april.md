@@ -1,8 +1,8 @@
 +++
 index = "-K-bKn5C_dm2K-BfqyvR"
-_sort_create_date = 1443769020
-_sort_last_updated = 1443807120
-_sort_publish_date = 1443807120
+sort_create_date = 1443769020
+sort_last_updated = 1443807120
+sort_publish_date = 1443807120
 create_date = "2015-10-01T23:57:00-07:00"
 publish_date = "2015-10-02T10:32:00-07:00"
 date = "2015-10-02T10:32:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443768835080/czsd
 twitterauto = "The APRIL Festival is throwing a pledge drive. Can you spare ten bucks? Why not support local literature?"
 facebookauto = "The APRIL Festival is throwing a pledge drive, complete with tote bags. This is your chance to support independent literature in Seattle."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/april"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The APRIL Festival — it stands for Authors, Publishers, and Readers of Independent Literature — just [launched a fundraising drive](https://www.indiegogo.com/projects/april-2016#/) for their 2016 festival. A tremendous cast of local literary all-stars has put together a video for the project:

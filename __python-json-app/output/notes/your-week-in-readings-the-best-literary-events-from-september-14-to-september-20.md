@@ -1,8 +1,8 @@
 +++
 index = "-JyuW-L51r4RTkceQely"
-_sort_create_date = 1441943220
-_sort_last_updated = 1442247900
-_sort_publish_date = 1442249220
+sort_create_date = 1441943220
+sort_last_updated = 1442247900
+sort_publish_date = 1442249220
 create_date = "2015-09-10T20:47:00-07:00"
 publish_date = "2015-09-14T09:47:00-07:00"
 date = "2015-09-14T09:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings begins tonight with Salman Rushdie and ends with a Buddhist-themed reading on Sunday."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/gallery-1412", "tags/seattle-public-library", "tags/seattle-first-baptist-church", "tags/town-hall-seattle"]
-authors_notes = ["authors/kate-lebo"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">The *Seattle Review of Books* recommends one literary event for every day of the week. As always, we aspire to a nice mix of national and local authors in a variety of venues. This week, we’re following the suggestion of one [Jeff Youngstrom](https://twitter.com/jeffy/status/641331492690481153), who wants us to bold the author names in this post. What do you think? Helpful? Not helpful? If you have any suggestions, we’d love to hear them. You can always hit us up on [Twitter](https://twitter.com/seattlereviewof) [or email](http://seattlereviewofbooks.com/about/).</p>

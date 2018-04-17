@@ -1,8 +1,8 @@
 +++
 index = "-KECVYvc7Mpj5ozP9ZD7"
-_sort_create_date = 1459441740
-_sort_last_updated = 1459441740
-_sort_publish_date = 1459450800
+sort_create_date = 1459441740
+sort_last_updated = 1459441740
+sort_publish_date = 1459450800
 create_date = "2016-03-31T09:29:00-07:00"
 publish_date = "2016-03-31T12:00:00-07:00"
 date = "2016-03-31T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're looking for a Public Diversity Editor. Can you spread the word and help us find one?"
 facebookauto = "We're searching for a Public Diversity Editor. Can you please help us find one?"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/diversity", "tags/public-diversity-editor"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The _Seattle Review of Books_ is looking for a freelance Public Diversity Editor. Since that's a term we just made up, we should probably explain what it is. 

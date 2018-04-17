@@ -1,8 +1,8 @@
 +++
 index = "-KBBbrFvbbDAcIi8IoDP"
-_sort_create_date = 1456205640
-_sort_last_updated = 1456206120
-_sort_publish_date = 1456250100
+sort_create_date = 1456205640
+sort_last_updated = 1456206120
+sort_publish_date = 1456250100
 create_date = "2016-02-22T21:34:00-08:00"
 publish_date = "2016-02-23T09:55:00-08:00"
 date = "2016-02-23T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456205933713/Scre
 twitterauto = "Our Tuesday Poem by @jrkjrkjrkjrkjrk starts like this:"
 facebookauto = "Our Tuesday Poet is Jessie Knoles, and her poem is called Star Lab."
 make_image_tweet = "True"
-byline = ["writers/jessie-knoles"]
+notes_byline = ["writers/jessie-knoles"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 moon’s waning crescent like<br>

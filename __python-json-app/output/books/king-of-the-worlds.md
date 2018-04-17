@@ -1,8 +1,8 @@
 +++
 index = "-KJ9b9TpmYP-c-L64TUM"
-_sort_create_date = 1464761880
-_sort_last_updated = 1464762240
-_sort_publish_date = 1464761880
+sort_create_date = 1464761880
+sort_last_updated = 1464762240
+sort_publish_date = 1464761880
 create_date = "2016-05-31T23:18:00-07:00"
 publish_date = "2016-05-31T23:18:00-07:00"
 date = "2016-05-31T23:18:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Y2Mgujo0tSwpsTwcVoOayrWa7zkfHcd9DaRm7hmOHq9MbsgU_z8RSuQBRy5v36vXwW-7wFDbBnjIccSUSEuFDA9htxs"
 url = "/webhook-uploads/1464761885722/content%3Fid%3Dbz7_sgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7317
 
 review_relationship = ["reviews/the-final-frontier"]
-author_relationship = ["authors/m-thomas-gammarino"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/every-teleportation-is-a-little-death-talking-with-m-thomas-gammarino-about-sci-fi-book-design-and-epistemology"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-K8jOqm_G6ge0xr-CH9n"
-_sort_create_date = 1453567980
-_sort_last_updated = 1482564840
-_sort_publish_date = 1453568400
+sort_create_date = 1453567980
+sort_last_updated = 1482564840
+sort_publish_date = 1453568400
 create_date = "2016-01-23T08:53:00-08:00"
 publish_date = "2016-01-23T09:00:00-08:00"
 date = "2016-01-23T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453567953568/phot
 twitterauto = "Get in on the great deal from @Microcosmmm, our Kickstarter Fund #3"
 facebookauto = "Microcosm Publishing is throwing a Kickstarter, and my goodness do they have a good bundle for you. This is worth checking out, and they are who we put our money into for our Kickstarter Fund project #3."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week, the _Seattle Review of Books_ backs a Kickstarter, and writes up why we picked that particular project. <a href="http://seattlereviewofbooks.com/notes/2016/01/08/announcing-the-seattle-review-of-books-kickstarter-fund/" title="The Seattle Review of Books - Announcing the Seattle Review of Books Kickstarter Fund">Read more about the project here</a>. Suggest a project by writing to _kickstarter_ at this domain, or by <a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">using our contact form</a>.<p>

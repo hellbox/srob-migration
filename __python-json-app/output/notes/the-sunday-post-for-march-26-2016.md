@@ -1,8 +1,8 @@
 +++
 index = "-KDqnclMoF3Ytd1IEj3k"
-_sort_create_date = 1459060860
-_sort_last_updated = 1459061520
-_sort_publish_date = 1459094400
+sort_create_date = 1459060860
+sort_last_updated = 1459061520
+sort_publish_date = 1459094400
 create_date = "2016-03-26T23:41:00-07:00"
 publish_date = "2016-03-27T09:00:00-07:00"
 date = "2016-03-27T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The drug wars, historical fiction, honesty on social media, and @summerbrennan's book tour, in The Sunday Post."
 facebookauto = "The drug wars, historical fiction, Feminism and Playboy, honesty in transit social media, and a book tour."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="https://harpers.org/archive/2016/04/legalize-it-all/" title="[Report] | Legalize It All, by Dan Baum | Harper&amp;#039;s Magazine">Legalize It All</a></h5>

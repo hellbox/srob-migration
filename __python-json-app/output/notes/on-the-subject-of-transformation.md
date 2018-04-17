@@ -1,8 +1,8 @@
 +++
 index = "-KrZ4O6iXCUZdVmDI2SN"
-_sort_create_date = 1502770200
-_sort_last_updated = 1503414480
-_sort_publish_date = 1503420900
+sort_create_date = 1502770200
+sort_last_updated = 1503414480
+sort_publish_date = 1503420900
 create_date = "2017-08-14T21:10:00-07:00"
 publish_date = "2017-08-22T09:55:00-07:00"
 date = "2017-08-22T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503414378189/Scre
 twitterauto = "\"On the Subject of Transformation\" is the latest from August Poet in Residence @d_arrindell"
 facebookauto = "August Poet in Residence Daemond Arrindell latest is \"On the Subject of Transformation\""
 make_image_tweet = "False"
-byline = ["writers/daemond-arrindell"]
+notes_byline = ["writers/daemond-arrindell"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last night I became a flock of birds on the eve of their descent.

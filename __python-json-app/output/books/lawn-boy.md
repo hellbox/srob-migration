@@ -1,8 +1,8 @@
 +++
 index = "-L9D_sSGJeB8CeeBmvnd"
-_sort_create_date = 1522810680
-_sort_last_updated = 1522810740
-_sort_publish_date = 1522810680
+sort_create_date = 1522810680
+sort_last_updated = 1522810740
+sort_publish_date = 1522810680
 create_date = "2018-04-03T19:58:00-07:00"
 publish_date = "2018-04-03T19:58:00-07:00"
 date = "2018-04-03T19:58:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/wg-gB0KvsoHZN5wRq9AN4Qct_WTzM1n8_vy0karGCGNmoFQVLdPZqJfaKryakXUhRDpkCSNT7E0oJMJjD-Tm4nA_yL5YlQ"
 url = "/webhook-uploads/1522810717321/content%3Fid%3DI51ODwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12254
 
 review_relationship = ["reviews/the-goddamn-great-american-landscaping-novel"]
-author_relationship = ["authors/jonathan-evison"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

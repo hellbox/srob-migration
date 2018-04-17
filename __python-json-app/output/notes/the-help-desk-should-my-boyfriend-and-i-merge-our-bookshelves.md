@@ -1,8 +1,8 @@
 +++
 index = "-K4-GHchX4u1nMZkG5IU"
-_sort_create_date = 1448482200
-_sort_last_updated = 1448482200
-_sort_publish_date = 1448655000
+sort_create_date = 1448482200
+sort_last_updated = 1448482200
+sort_publish_date = 1448655000
 create_date = "2015-11-25T12:10:00-08:00"
 publish_date = "2015-11-27T12:10:00-08:00"
 date = "2015-11-27T12:10:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Can book collections stay single in monogamous relationships? Is it OK to NOT merge bookshelves with a lover?"
 facebookauto = "When you're moving in with your boyfriend, is it okay to tell him you don't want to merge your bookshelves? Our advice columnist has opinions."
 make_image_tweet = ""
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ["authors/ayn-rand"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Well, except for this Friday because it's Thanksgiving weekend and Cienna's probably drunk somewhere. We didn't want to leave you hanging, dear reader, so we thought we'd republish the very first Help Desk column from way back in July, in case you didn't read it. Next week, Help Desk will return. Do you have questions for Cienna? Send them to* advice@seattlereviewofbooks.com.</p>

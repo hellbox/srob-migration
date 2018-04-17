@@ -1,8 +1,8 @@
 +++
 index = "-KXYM5ndOfoDDAqSX8DP"
-_sort_create_date = 1480209480
-_sort_last_updated = 1480260480
-_sort_publish_date = 1480266000
+sort_create_date = 1480209480
+sort_last_updated = 1480260480
+sort_publish_date = 1480266000
 create_date = "2016-11-26T17:18:00-08:00"
 publish_date = "2016-11-27T09:00:00-08:00"
 date = "2016-11-27T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post, from @despra, has screen horror, nearly-blind chefs, the Decameron, and Margaret Hamilton <3."
 facebookauto = "The Sunday Post has screen horror, nearly-blind chefs, the Decameron, and Margaret Hamilton <3."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.gq.com/story/sean-brock-husk-breaking-himself-moty" title="How Visionary Chef Sean Brock Nearly Went Blind - GQ">How Visionary Chef Sean Brock Nearly Went Blind</a></h5>

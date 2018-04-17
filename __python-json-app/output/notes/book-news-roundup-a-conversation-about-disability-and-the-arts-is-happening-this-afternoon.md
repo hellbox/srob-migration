@@ -1,8 +1,8 @@
 +++
 index = "-KHcyS92R9nbqJvNPupj"
-_sort_create_date = 1463123820
-_sort_last_updated = 1463157000
-_sort_publish_date = 1463166960
+sort_create_date = 1463123820
+sort_last_updated = 1463157000
+sort_publish_date = 1463166960
 create_date = "2016-05-13T00:17:00-07:00"
 publish_date = "2016-05-13T12:16:00-07:00"
 date = "2016-05-13T12:16:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup includes a late invitation to join a conversation on disability and the arts."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/nicola-griffith", "authors/chester-brown"]
+notes_about = ""
 books = ["books/mary-wept-over-the-feet-of-jesus"]
 +++
 * Sorry for the late notice, but [today at 4:30 pm](https://www.facebook.com/events/607068906114933/), Seattle author Nicola Griffith will join Riva Lehrer to discus disabilities in arts and culture. [Griffith is a *SRoB* favorite](http://seattlereviewofbooks.com/notes/2015/07/27/talking-with-nicola-griffith-about-the-importance-of-counting-womens-stories/), and disabilities and the arts are not discussed very often in this town. So if you're free this afternoon, you should head up to the Odegaard Undergraduate Library for this event.

@@ -1,8 +1,8 @@
 +++
 index = "-KrYDjEX_aMKcNgScEKB"
-_sort_create_date = 1502755860
-_sort_last_updated = 1502755860
-_sort_publish_date = 1502822400
+sort_create_date = 1502755860
+sort_last_updated = 1502755860
+sort_publish_date = 1502822400
 create_date = "2017-08-14T17:11:00-07:00"
 publish_date = "2017-08-15T11:40:00-07:00"
 date = "2017-08-15T11:40:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "An idea for sci-fi writers: Give us a novel where humanity finally does away with Nazism once and for all."
 facebookauto = "Science fiction always skips ahead to the fascist-free future where racism is no longer an issue. Some sci-fi author should write a novel about how that happens."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/racism"]
-authors_notes = ["authors/neal-stephenson"]
+notes_about = ""
 books = ["books/seveneves"]
 +++
 Nazism is on the rise in America, even though the generation that fought Nazis is still alive. I can’t be the only person who’s wondered if humanity is destined to repeat this resurgence of racists and white nationalists every 60 to 80 years, when the memory of the last battle has grown sufficiently dim. 

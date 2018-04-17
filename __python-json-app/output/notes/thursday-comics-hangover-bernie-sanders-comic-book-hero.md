@@ -1,8 +1,8 @@
 +++
 index = "-K9exuZrgMr--kBc4Y9t"
-_sort_create_date = 1454567280
-_sort_last_updated = 1454605740
-_sort_publish_date = 1454608800
+sort_create_date = 1454567280
+sort_last_updated = 1454605740
+sort_publish_date = 1454608800
 create_date = "2016-02-03T22:28:00-08:00"
 publish_date = "2016-02-04T10:00:00-08:00"
 date = "2016-02-04T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454566355452/Bern
 twitterauto = "Will Ted Rall's Bernie Sanders biography make you feel the bern?"
 facebookauto = "Ted Rall's latest book is a biography of Bernie Sanders. Will it make you feel the bern?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/town-hall-seattle"]
-authors_notes = ["authors/ted-rall"]
+notes_about = ""
 books = ["books/bernie", "books/snowden"]
 +++
 Last year, cartoonist Ted Rall visited Seattle with *Snowden*, a comic book biography of Edward Snowden. (I [reviewed *Snowden*](http://seattlereviewofbooks.com/reviews/a-real-american-hero/) and interviewed Rall onstage at Town Hall.) Only a half-year later, Rall’s back, and [reading at Town Hall tonight](https://townhallseattle.org/event/ted-rall-2/) from his brand-new Bernie Sanders biography, *Bernie*.

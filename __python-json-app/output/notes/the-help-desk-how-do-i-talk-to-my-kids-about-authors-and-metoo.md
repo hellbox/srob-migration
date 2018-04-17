@@ -1,8 +1,8 @@
 +++
 index = "-L7B-3Xf1izNXyxsqGVf"
-_sort_create_date = 1520619720
-_sort_last_updated = 1520624100
-_sort_publish_date = 1520625300
+sort_create_date = 1520619720
+sort_last_updated = 1520624100
+sort_publish_date = 1520625300
 create_date = "2018-03-09T10:22:00-08:00"
 publish_date = "2018-03-09T11:55:00-08:00"
 date = "2018-03-09T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520619741798/alic
 twitterauto = "Dear @ciennam: How do I talk to my kids about authors and #MeToo?"
 facebookauto = "Dear Cienna: How do I talk to my kids about authors and #MeToo?"
 make_image_tweet = "True"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/metoo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

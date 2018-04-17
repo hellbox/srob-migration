@@ -1,8 +1,8 @@
 +++
 index = "-KNL24m9ue25ye-0VF9P"
-_sort_create_date = 1469248680
-_sort_last_updated = 1469508120
-_sort_publish_date = 1469638800
+sort_create_date = 1469248680
+sort_last_updated = 1469508120
+sort_publish_date = 1469638800
 create_date = "2016-07-22T21:38:00-07:00"
 publish_date = "2016-07-27T10:00:00-07:00"
 date = "2016-07-27T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469248510853/harr
 twitterauto = "It's time, once more, for midnight Harry Potter book release parties."
 facebookauto = "It's time, once more, for midnight Harry Potter book release parties."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/elliott-bay-book-company", "tags/university-book-store", "tags/amazon"]
-authors_notes = ["authors/jk-rowling"]
+notes_about = ""
 books = ""
 +++
 Of course, there was no such thing as a midnight Harry Potter party when the first book in J.K. Rowling’s Harry Potter series was released in the United States back in 1998. I was a bookseller at a Borders when *Harry Potter and the Sorcerer’s Stone* debuted, and the books gradually gained attention thanks to a word-of-mouth campaign spurred by the book’s popularity in Britain and a succession of breathless media reports ranging from newspapers to NPR to daytime talk shows. 

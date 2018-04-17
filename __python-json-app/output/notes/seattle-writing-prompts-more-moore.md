@@ -1,8 +1,8 @@
 +++
 index = "-KazkyleRo7Pbe0GGgVH"
-_sort_create_date = 1484980980
-_sort_last_updated = 1487437920
-_sort_publish_date = 1485018000
+sort_create_date = 1484980980
+sort_last_updated = 1487437920
+sort_publish_date = 1485018000
 create_date = "2017-01-20T22:43:00-08:00"
 publish_date = "2017-01-21T09:00:00-08:00"
 date = "2017-01-21T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484980974098/IMG_
 twitterauto = "Seattle Writing Prompts drops by the Moore Theater."
 facebookauto = "Seattle Writing Prompts drops by the Moore Theater."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-writing-prompts"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><a href="http://www.seattlereviewofbooks.com/tags/seattle-writing-prompts" title="The Seattle Review of Books">Seattle Writing Prompts</a> are intended to spark ideas for your writing, based on locations and stories of Seattle. Write something inspired by a prompt? [Send it to us](http://seattlereviewofbooks.com/about)! We're looking to publish writing sparked by prompts.</p>

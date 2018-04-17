@@ -1,8 +1,8 @@
 +++
 index = "-KB1DQPRcL-u3CcJ79Vy"
-_sort_create_date = 1456031220
-_sort_last_updated = 1456031400
-_sort_publish_date = 1456031220
+sort_create_date = 1456031220
+sort_last_updated = 1456031400
+sort_publish_date = 1456031220
 create_date = "2016-02-20T21:07:00-08:00"
 publish_date = "2016-02-20T21:07:00-08:00"
 date = "2016-02-20T21:07:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/J4Rz-2UZRG0vRn26vNN26VPM1NNWhKzeWhLAv5JbbIzDumoGN-WYpHl3zngbKiyrJpw1u2PL6QpZjRL-WmTsA5NU5k4"
 url = "/webhook-uploads/1456031249412/content%3Fid%3DiYOJoAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10817
 
 review_relationship = ""
-author_relationship = ["authors/esther-altshul-helfgott"]
+books_author = ""
 sponsorships_book = ["sponsorships/listening-to-mozart"]
 notes_relationship = ""
 +++

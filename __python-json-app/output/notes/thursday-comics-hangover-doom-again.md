@@ -1,8 +1,8 @@
 +++
 index = "-KS4tsrGtAl89-iKyN5n"
-_sort_create_date = 1474346580
-_sort_last_updated = 1474346580
-_sort_publish_date = 1474563660
+sort_create_date = 1474346580
+sort_last_updated = 1474346580
+sort_publish_date = 1474563660
 create_date = "2016-09-19T21:43:00-07:00"
 publish_date = "2016-09-22T10:01:00-07:00"
 date = "2016-09-22T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We fell in love at first sight with the art in Doom Patrol #1. We're not so sure about the story."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/dc-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sometimes you just fall in love with an artist’s work at first sight. That was what it was like for me reading the first issue of DC’s new *Doom Patrol*, which was published last week. I don’t know where Nick Derington comes from, but that two-page spread he drew that opens the issue, with a long, narrow panel of protagonist Casey Brinke driving an ambulance, is this kind of a moment for me. Derington has everything I love in an artist: simple lines, fine details, expressive facial expressions. This is the same kind of feeling that hit me when I first saw Marcos Martin’s art, for instance: pure love.

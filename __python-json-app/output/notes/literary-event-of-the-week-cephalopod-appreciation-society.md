@@ -1,8 +1,8 @@
 +++
 index = "-KrETBnaHcwJd0QvcsFZ"
-_sort_create_date = 1502424360
-_sort_last_updated = 1502424360
-_sort_publish_date = 1502901900
+sort_create_date = 1502424360
+sort_last_updated = 1502424360
+sort_publish_date = 1502901900
 create_date = "2017-08-10T21:06:00-07:00"
 publish_date = "2017-08-16T09:45:00-07:00"
 date = "2017-08-16T09:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502424301715/ceph
 twitterauto = "This weekend, go join a poet in her quest to celebrate everything having to do with cephalopods."
 facebookauto = "This weekend, go join a poet in her quest to celebrate everything having to do with cephalopods."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/sierra-nelson"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1502424301715/cephalopod.jpg)</p>

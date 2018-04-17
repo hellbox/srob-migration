@@ -1,8 +1,8 @@
 +++
 index = "-KR7Ek0Z4e58rOdQkRCI"
-_sort_create_date = 1473312120
-_sort_last_updated = 1473312360
-_sort_publish_date = 1473354000
+sort_create_date = 1473312120
+sort_last_updated = 1473312360
+sort_publish_date = 1473354000
 create_date = "2016-09-07T22:22:00-07:00"
 publish_date = "2016-09-08T10:00:00-07:00"
 date = "2016-09-08T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our response to our Public Diversity Editor's first report. "
 facebookauto = "Our response to our Public Diversity Editor's first report. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/diversity-editor-reports"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Yesterday we [published our first report](http://www.seattlereviewofbooks.com/notes/2016/09/07/public-diversity-editor-report-1-september-2016/) from our Public Diversity Editor, Vanessa Willoughby. As promised, we published it with minimal stylistic editing, all of which Vanessa approved before publication. 

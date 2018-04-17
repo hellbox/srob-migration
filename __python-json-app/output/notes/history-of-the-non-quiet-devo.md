@@ -1,8 +1,8 @@
 +++
 index = "-KHLNkTBqQbTtLqet1er"
-_sort_create_date = 1462811940
-_sort_last_updated = 1462887480
-_sort_publish_date = 1462899300
+sort_create_date = 1462811940
+sort_last_updated = 1462887480
+sort_publish_date = 1462899300
 create_date = "2016-05-09T09:39:00-07:00"
 publish_date = "2016-05-10T09:55:00-07:00"
 date = "2016-05-10T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"History of the non-quiet Devo\" by Jason Whitmarsh is our Tuesday Poem."
 facebookauto = "\"History of the non-quiet Devo\" by Jason Whitmarsh is our Tuesday Poem."
 make_image_tweet = "False"
-byline = ["writers/jason-whitmarsh"]
+notes_byline = ["writers/jason-whitmarsh"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="prose-poem">Of the thousands of Devos, it was not so difficult to pick the ones that would make music.</p>

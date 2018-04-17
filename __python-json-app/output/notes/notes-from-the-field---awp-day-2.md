@@ -1,8 +1,8 @@
 +++
 index = "-KEMm9PoUyaOdQfY8Srv"
-_sort_create_date = 1459614120
-_sort_last_updated = 1459614960
-_sort_publish_date = 1459620000
+sort_create_date = 1459614120
+sort_last_updated = 1459614960
+sort_publish_date = 1459620000
 create_date = "2016-04-02T09:22:00-07:00"
 publish_date = "2016-04-02T11:00:00-07:00"
 date = "2016-04-02T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Men in hot tubs, trigger warnings, and some of the best readings at #AWP16, from our correspondent @RachelLaKessler."
 facebookauto = "Men in hot tubs, trigger warnings, and some of the best readings at #AWP16, from our correspondent Rachel Kessler."
 make_image_tweet = "False"
-byline = ["writers/rachel-kessler"]
+notes_byline = ["writers/rachel-kessler"]
 tags_notes = ["tags/notes-from-the-field"]
-authors_notes = ["authors/natalie-diaz", "authors/danez-smith", "authors/willie-fitzgerald", "authors/cheryl-strayed", "authors/eileen-myles", "authors/tc-tolbert", "authors/christopher-soto", "authors/junot-diaz", "authors/geoff-dyer", "authors/leslie-jamison", "authors/maggie-nelson", "authors/douglas-kearny", "authors/robin-coste-lewis", "authors/gregory-pardlo", "authors/daemond-arrindell"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Correspondant Rachel Kessler agreed to be our eyes-on-the-ground at the AWP festival this year. Join us for her daily updates as the conference unfolds.</p>

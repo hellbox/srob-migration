@@ -1,8 +1,8 @@
 +++
 index = "-K8eeVJnaIHHTc-bwV90"
-_sort_create_date = 1453488420
-_sort_last_updated = 1453488420
-_sort_publish_date = 1453492800
+sort_create_date = 1453488420
+sort_last_updated = 1453488420
+sort_publish_date = 1453492800
 create_date = "2016-01-22T10:47:00-08:00"
 publish_date = "2016-01-22T12:00:00-08:00"
 date = "2016-01-22T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What do you do if you meet a favorite author and they turn out to suck? Should you stop meeting your idols?"
 facebookauto = "Dear Cienna: Once, I met an author I loved and it was a total letdown. She was narcissistic and bored by all the people who came out to hear her read, and I disliked her so much it made my skin crawl. Now I can't enjoy her books because it reminds me of how unpleasant she was. Should I bother going to readings anymore? I don't want to lose any more favorite authors, and the risk of them being jerks is scaring me away."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

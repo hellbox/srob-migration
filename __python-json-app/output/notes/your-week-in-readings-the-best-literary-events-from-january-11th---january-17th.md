@@ -1,8 +1,8 @@
 +++
 index = "-K_fxINDV0Y6ELHA04-P"
-_sort_create_date = 1483574940
-_sort_last_updated = 1483575120
-_sort_publish_date = 1484164860
+sort_create_date = 1483574940
+sort_last_updated = 1483575120
+sort_publish_date = 1484164860
 create_date = "2017-01-04T16:09:00-08:00"
 publish_date = "2017-01-11T12:01:00-08:00"
 date = "2017-01-11T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483574781150/NHNT
 twitterauto = "Writers resist Trump @THSEA in our weekly look at the best events in Seattle. "
 facebookauto = "This week in readings: writers resist Trump, writers celebrate new books, writers read at the Egyptian Theatre, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/cat-rambo", "authors/g-willow-wilson", "authors/jess-walter", "authors/tod-marshall"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1483574781150/NHNTcover-300x211.jpg)</p>

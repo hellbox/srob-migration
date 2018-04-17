@@ -1,8 +1,8 @@
 +++
 index = "-KAWwn5y6LQ1PBGfxC2B"
-_sort_create_date = 1455489720
-_sort_last_updated = 1455489720
-_sort_publish_date = 1455572520
+sort_create_date = 1455489720
+sort_last_updated = 1455489720
+sort_publish_date = 1455572520
 create_date = "2016-02-14T14:42:00-08:00"
 publish_date = "2016-02-15T13:42:00-08:00"
 date = "2016-02-15T13:42:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Is \u201cwhat goes around comes around\u201d really the \u201cimmaculate conception of clich\u00e9s?\""
 facebookauto = "On Friday night, the Hugo House asked four artists to respond to the cliche \"what goes around comes around.\" Three of the artists were successful."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ["authors/peter-mountford", "authors/sierra-nelson", "authors/heidi-julavits"]
+notes_about = ""
 books = ""
 +++
 In his introduction to the Hugo House’s Lit Series event on Friday night, event programmer Peter Mountford called “what goes around comes around” the “immaculate conception of clichés.” Most clichés, he said, have very clear, recognizable origins, but “what goes around comes around” has existed for as long as language has existed, and it can’t be broken down into any simpler parts. It’s one of the clearest, simplest concepts that exists in written language.

@@ -1,8 +1,8 @@
 +++
 index = "-JxDpiUEa92W9xbALKQG"
-_sort_create_date = 1440136740
-_sort_last_updated = 1440138600
-_sort_publish_date = 1440136740
+sort_create_date = 1440136740
+sort_last_updated = 1440138600
+sort_publish_date = 1440136740
 create_date = "2015-08-20T22:59:00-07:00"
 publish_date = "2015-08-20T22:59:00-07:00"
 date = "2015-08-20T22:59:00-07:00"
@@ -11,15 +11,18 @@ preview_url = "f955a63d-60ce-1a40-e222-7dd4474e1a22"
 byline = "Sharma Shields"
 title = "Sharma Shields"
 alphabetize_by = "shields"
+is_draft = "false"
+is_seattle_pnw_writer = ""
+written_about = ""
+books_author = ""
+reviews_about = ""
+notes_about = ""
+sponsorships_author = ""
 email = "kkshields@gmail.com"
 twitter = "SharmaShields"
 website = "http://sharmashields.com/"
 bio = "Author of *Favorite Monster: Stories* and *The Sasquatch Hunter's Almanac*.\n"
-gender = "Female"
-ethnicity = "Caucasian"
-underrepresented = ""
-reviews_by = ["reviews/bureaucracy-now"]
+reviews_byline = ["reviews/bureaucracy-now"]
 notes_byline = ["notes/heroes-of-weirdness-in-honor-of-katherine-dunn"]
-written_about = ""
-+++
+books_translator = ""+++
 

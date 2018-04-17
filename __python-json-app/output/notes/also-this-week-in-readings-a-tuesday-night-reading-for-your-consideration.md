@@ -1,8 +1,8 @@
 +++
 index = "-K28ZBILdkOI8fL8W28p"
-_sort_create_date = 1446490680
-_sort_last_updated = 1446490680
-_sort_publish_date = 1446500700
+sort_create_date = 1446490680
+sort_last_updated = 1446490680
+sort_publish_date = 1446500700
 create_date = "2015-11-02T10:58:00-08:00"
 publish_date = "2015-11-02T13:45:00-08:00"
 date = "2015-11-02T13:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/karen-finneyfrock", "authors/corinne-manning"]
+notes_about = ""
 books = ""
 +++
 In [this morning's post](http://seattlereviewofbooks.com/notes/2015/11/02/your-week-in-readings-the-best-literary-events-from-november-2nd-8th/), I said there were way too many great events going on this week. I stand by that statement. Somehow, it escaped my attention that [Seattle Arts and Lectures is hosting a Local Voices reading tomorrow night at Hugo House](https://www.facebook.com/events/1609716022631063/). No offense to Marion Nestle, who will undoubtedly put on a great reading at Town Hall tomorrow night and who is very knowledgeable about the scourge that is Big Soda, but the Local Voices reading should obviously have been the event of the night. I mean, look at this lineup:

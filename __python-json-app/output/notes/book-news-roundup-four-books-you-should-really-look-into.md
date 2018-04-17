@@ -1,8 +1,8 @@
 +++
 index = "-KYX5iOCzeFXh7RUWouO"
-_sort_create_date = 1481262120
-_sort_last_updated = 1481306040
-_sort_publish_date = 1481306040
+sort_create_date = 1481262120
+sort_last_updated = 1481306040
+sort_publish_date = 1481306040
 create_date = "2016-12-08T21:42:00-08:00"
 publish_date = "2016-12-09T09:54:00-08:00"
 date = "2016-12-09T09:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today brings news about @DonnaMiscolta, @accidentaltheo, & @Fearless_Ideas"
 facebookauto = "Here are four books you should buy from a local independent bookstore this weekend."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bureau-of-fearless-ideas"]
-authors_notes = ["authors/lesley-hazleton", "authors/donna-miscolta", "authors/david-schmader", "authors/peter-mountford", "authors/megan-kelso"]
+notes_about = ""
 books = ["books/agnostic", "books/hola-and-goodbye"]
 +++
 * The Greater Seattle Bureau of Fearless of Ideas has published the newest edition of their annual anthology, *What to Read in the Rain*. This year's book has a terrific cover illustrated by David Lasky, and it contains pieces by Northwest writers including Tom Robbins, Peter Mountford, Megan Kelso, and David Schmader. It's $15, it supports the BFI, and you can buy it in person at the Greenwood Space Travel Supply Company [or online](http://www.greenwoodspacetravelsupply.com/item/what-to-read-in-the-rain-1).

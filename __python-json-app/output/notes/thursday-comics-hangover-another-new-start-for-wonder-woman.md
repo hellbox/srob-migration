@@ -1,8 +1,8 @@
 +++
 index = "-KXtWHsfZ609pOA-dfK5"
-_sort_create_date = 1480581240
-_sort_last_updated = 1480581240
-_sort_publish_date = 1480621500
+sort_create_date = 1480581240
+sort_last_updated = 1480581240
+sort_publish_date = 1480621500
 create_date = "2016-12-01T00:34:00-08:00"
 publish_date = "2016-12-01T11:45:00-08:00"
 date = "2016-12-01T11:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Finally, a Wonder Woman comic you can give to a girl who's looking for a superhero to love."
 facebookauto = "Finally, a Wonder Woman comic you can give to a girl who's looking for a superhero to love."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/wonder-woman"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The big problem with Wonder Woman, the reason why the character has had a hard time taking hold, is that DC Comics keeps restarting her from scratch. I can't keep track of how many times I've seen the Wonder Woman character rebooted and relaunched. Sure, other DC mainstays like Batman and Superman tend to wallow in retellings of their origin stories, but those stories never seem to change as much as Wonder Woman's. 

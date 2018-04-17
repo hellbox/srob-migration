@@ -1,8 +1,8 @@
 +++
 index = "-KmeWgl0DZNDLsCtTANS"
-_sort_create_date = 1497509520
-_sort_last_updated = 1497509580
-_sort_publish_date = 1497509520
+sort_create_date = 1497509520
+sort_last_updated = 1497509580
+sort_publish_date = 1497509520
 create_date = "2017-06-14T23:52:00-07:00"
 publish_date = "2017-06-14T23:52:00-07:00"
 date = "2017-06-14T23:52:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/vgK3Djb9tfMFZtqKK9fqwNlS_ESm_M3BSxGJvIaH-g-IUz-frsCQ9BeF8VsqVog7mMeFkXhe7AE-A5OkIsxM0fR8MaA"
 url = "/webhook-uploads/1497509480561/b1b286db3df9c170da6994ae8e51faaf.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 75683
 
 review_relationship = ["reviews/myself-my-self"]
-author_relationship = ["authors/doug-nufer"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/from-constraint-comes-a-new-small-poetry-book"]
 +++

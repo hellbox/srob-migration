@@ -1,8 +1,8 @@
 +++
 index = "-KDRTcrYXjw652vsCGoJ"
-_sort_create_date = 1458619140
-_sort_last_updated = 1458876120
-_sort_publish_date = 1458846000
+sort_create_date = 1458619140
+sort_last_updated = 1458876120
+sort_publish_date = 1458846000
 create_date = "2016-03-21T20:59:00-07:00"
 publish_date = "2016-03-24T12:00:00-07:00"
 date = "2016-03-24T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Written under the influence"
 dek = "Clare Vaye Watkins wrote an essay that questioned her motivation for writing this book that we now review."
 facebookauto = "If you listened and appreciated what Claire Vaye Watkins said in \"On Pandering\", then how does it change your reading of her novel?"
 twitterauto = "If you appreciated what @clairevaye said in \"On Pandering\", how does it change your reading of her novel?"
-byline = ["writers/john-englehardt"]
+reviews_byline = ["writers/john-englehardt"]
 books_in_this_review = ["books/gold-fame-citrus"]
 tags_reviews = ""
-authors_reviews = ["authors/claire-vaye-watkins"]
+reviews_about = ""
 +++
 
 In an essay called “<a href="https://www.tinhouse.com/blog/41314/on-pandering.html" title="On Pandering | Tin House">On Pandering</a>,” author Claire Vaye Watkins claims that, for her entire career, she has been unconsciously assimilating the values of the prejudiced, male-dominated literary community. “I wanted to write something Cormac McCarthy would like,” she says, “something Thomas Pynchon would come out of hiding to endorse, something David Foster Wallace would blurb from beyond the grave.” This is coming from the author of the award winning story collection _Battleborn_, which takes the following as its subjects: young parents embracing the idea of having a child, teenage girls navigating sexual abuse, foreigners in Nevada brothels, gold prospectors, and the Manson Family commune. For those of us who have read her work, Watkins’ claim might come as a surprise, but that’s exactly her point &mdash; the patriarchal frameworks that shape us are so pervasive that they are nearly impossible to see. “On Pandering” is a braided essay that connects this male-centric blindness to the cultural lagoons of college towns, to our negative value judgments of “domestic” or “sentimental” fiction, to our repeated use of the word “unflinching” as a literary compliment, and to an exchange that every female in an MFA program has probably had: an established male writer comes to Watkins’ program, publicly dismisses her as an impish drunk girl, then lauds her equally successful, equally serious male counterparts. 

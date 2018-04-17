@@ -1,8 +1,8 @@
 +++
 index = "-K5sqnZCBjXtm28yu_jR"
-_sort_create_date = 1450505340
-_sort_last_updated = 1450505640
-_sort_publish_date = 1450544400
+sort_create_date = 1450505340
+sort_last_updated = 1450505640
+sort_publish_date = 1450544400
 create_date = "2015-12-18T22:09:00-08:00"
 publish_date = "2015-12-19T09:00:00-08:00"
 date = "2015-12-19T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's the third-to-last @rahawahaile short story wrap up! Starring, @lmillernpr, @chelsea_l_w, and many others."
 facebookauto = "Rahawa Haile is ending her Short Story of the Day project at the end of the year, and that means we're stopping our coverage of it soon. Here's our third-to-last wrap-up -- two more to go, and then Saturday is going to bring you a new treat. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the _SRoB_ Rahawa Haile tweets a short story. She gave us permission to collect them every week. She's archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a>.</p>

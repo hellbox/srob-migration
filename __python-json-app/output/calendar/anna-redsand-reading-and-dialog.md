@@ -1,8 +1,8 @@
 +++
 index = "-KXSsINkqk-GBxfCMShb"
-_sort_create_date = 1480117500
-_sort_last_updated = 1480117500
-_sort_publish_date = 1480117500
+sort_create_date = 1480117500
+sort_last_updated = 1480117500
+sort_publish_date = 1480117500
 create_date = "2016-11-25T15:45:00-08:00"
 publish_date = "2016-11-25T15:45:00-08:00"
 date = "2016-11-25T15:45:00-08:00"
@@ -20,6 +20,6 @@ time_description = "
 end_time = ""
 enddate = ""
 is_sponsorship = true
-authors = ["authors/anna-redsand"]
+authors = ""
 sponsorship_event = ""
 venues = ""

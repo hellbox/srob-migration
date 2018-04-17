@@ -1,8 +1,8 @@
 +++
 index = "-L2MHb_alY8Ss9vAwYqe"
-_sort_create_date = 1515440460
-_sort_last_updated = 1515440460
-_sort_publish_date = 1515440460
+sort_create_date = 1515440460
+sort_last_updated = 1515440460
+sort_publish_date = 1515440460
 create_date = "2018-01-08T11:41:00-08:00"
 publish_date = "2018-01-08T11:41:00-08:00"
 date = "2018-01-08T11:41:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\u201cA man who is his own lawyer has a fool for his client.\u201d"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 

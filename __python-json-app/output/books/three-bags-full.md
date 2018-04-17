@@ -1,8 +1,8 @@
 +++
 index = "-JyjxeP-hWwefQC82Ycd"
-_sort_create_date = 1441766220
-_sort_last_updated = 1441766340
-_sort_publish_date = 1441766220
+sort_create_date = 1441766220
+sort_last_updated = 1441766340
+sort_publish_date = 1441766220
 create_date = "2015-09-08T19:37:00-07:00"
 publish_date = "2015-09-08T19:37:00-07:00"
 date = "2015-09-08T19:37:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uzaMCynQXGxuThSy-fQFQNFYRGbtTIHuVHMn_LRiHlhHj5VCrD9EZPo3eb6B_qHE6VfE6Y6apGB8cNrHMZ_ooKTIhDKJ"
 url = "/webhook-uploads/1441766220272/content%3Fid%3D6RwjrmPGj0kC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 18720
 
 review_relationship = ""
-author_relationship = ["authors/leonie-swann"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-recommendation-engine"]
 +++

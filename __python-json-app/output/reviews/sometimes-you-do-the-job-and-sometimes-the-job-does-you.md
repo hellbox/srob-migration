@@ -1,8 +1,8 @@
 +++
 index = "-JvNLxsPiWQJkz-04ita"
-_sort_create_date = 1438148940
-_sort_last_updated = 1438148940
-_sort_publish_date = 1438188540
+sort_create_date = 1438148940
+sort_last_updated = 1438148940
+sort_publish_date = 1438188540
 create_date = "2015-07-28T22:49:00-07:00"
 publish_date = "2015-07-29T09:49:00-07:00"
 date = "2015-07-29T09:49:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "59ba819f-4501-1017-46de-2bd10d4dd124"
 name = "Sometimes you do the job and sometimes the job does you"
 title = "Sometimes you do the job and sometimes the job does you"
 dek = "Seattle cartoonist Kelly Froh's \"Tales from Amazon\" minicomics are friendly like a handwritten letter, but they're all about bad behavior in the workplace."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/tales-from-amazon-1-3"]
 tags_reviews = ["tags/comics", "tags/amazon"]
-authors_reviews = ["authors/kelly-froh"]
+reviews_about = ""
 +++
 
 Webcomics are great, but minicomics are satisfying in a way that webcomics will never be able to duplicate. A hand-folded minicomic, especially one still warm from the photocopier, is as intimate and organic as a handwritten letter from a good friend. You can understand why cartoonists made the move from minicomics to webcomics — unlimited distribution, no paper cuts — but you can also understand why some artists still prefer working with ink and paper. It’s more than a medium — it’s part of the artistic statement, a central piece of the reading experience.

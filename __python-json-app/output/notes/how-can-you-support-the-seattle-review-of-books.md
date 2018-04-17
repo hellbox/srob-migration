@@ -1,8 +1,8 @@
 +++
 index = "-KbJ6mIqe1SzbA-TmN9G"
-_sort_create_date = 1485322500
-_sort_last_updated = 1485324540
-_sort_publish_date = 1485370800
+sort_create_date = 1485322500
+sort_last_updated = 1485324540
+sort_publish_date = 1485370800
 create_date = "2017-01-24T21:35:00-08:00"
 publish_date = "2017-01-25T11:00:00-08:00"
 date = "2017-01-25T11:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Do you want to support us? Here's a very simple way!"
 facebookauto = "Do you want to support us? Here's a very simple way!"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We get asked this a lot, and it is the nicest, most heartening compliment we can think of. We are not a non-profit, so we don't ask for your money. We're not interested in a Patreon or GoFundMe page. In fact, the best way for you to support us to be slightly selfish and take a bit of time for yourself each week. How?

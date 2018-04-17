@@ -1,8 +1,8 @@
 +++
 index = "-KilSieeMsDD-d8IXmeQ"
-_sort_create_date = 1493331000
-_sort_last_updated = 1493824980
-_sort_publish_date = 1493657940
+sort_create_date = 1493331000
+sort_last_updated = 1493824980
+sort_publish_date = 1493657940
 create_date = "2017-04-27T15:10:00-07:00"
 publish_date = "2017-05-01T09:59:00-07:00"
 date = "2017-05-01T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493330871117/comi
 twitterauto = "We talked with @ComicsDungeon president Scott Tomlin about his new comics literacy project."
 facebookauto = "Just in time for Free Comic Book Day, we talked with Comics Dungeon president Scott Tomlin about his new nonprofit comics literacy project."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/comics-dungeon", "tags/comics-for-community-compassion-and-culture"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">This Saturday, every comic book store in the greater Seattle Area will celebrate [Free Comic Book Day](http://www.freecomicbookday.com/), an industry-specific holiday. FCBD is exactly what it sounds like: stores give away free comics — traditionally samplers of new and upcoming series that publishers would like to promote to new readers — to anyone who visits.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KG7yjbckPpXotWrOc4y"
-_sort_create_date = 1461513240
-_sort_last_updated = 1461513600
-_sort_publish_date = 1461513600
+sort_create_date = 1461513240
+sort_last_updated = 1461513600
+sort_publish_date = 1461513600
 create_date = "2016-04-24T08:54:00-07:00"
 publish_date = "2016-04-24T09:00:00-07:00"
 date = "2016-04-24T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post today has pieces from @joshuabrustein, @danpiepenbring, and @vpostrel"
 facebookauto = "The history of Alexa, naked bookplates, and high-tech high-fashion, today on the Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.bloomberg.com/features/2016-amazon-echo/" title="The Real Story of How Amazon Built the Echo">The Real Story of How Amazon Built the Echo</a></h5>

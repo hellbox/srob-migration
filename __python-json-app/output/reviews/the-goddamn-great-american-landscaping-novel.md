@@ -1,8 +1,8 @@
 +++
 index = "-L9Dbir5mSm1badxsbj4"
-_sort_create_date = 1522811160
-_sort_last_updated = 1523301480
-_sort_publish_date = 1523473260
+sort_create_date = 1522811160
+sort_last_updated = 1523301480
+sort_publish_date = 1523473260
 create_date = "2018-04-03T20:06:00-07:00"
 publish_date = "2018-04-11T12:01:00-07:00"
 date = "2018-04-11T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "\"...the goddamn Great American Landscaping Novel\""
 dek = "Jonathan Evison reads from his new novel, Lawn Boy, tonight at University Book Store. It's a book that draws a line in the class war and lands squarely on the side of America's blue-collar workers."
 facebookauto = "Jonathan Evison reads at University Book Store tonight. His new novel Lawn Boy is a salvo in the class war."
 twitterauto = "Jonathan Evison reads @ubookstorereads tonight. His new novel Lawn Boy is a salvo in the class war."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/lawn-boy"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/jonathan-evison"]
+reviews_about = ""
 +++
 
 Novels are economic artifacts. Some of the greatest novels of all time - books by Dickens, Steinbeck, and Allison come immediately to mind -were lauded because the authors wrote beautifully and knowingly about the lives of poor people. But walk around a bookstore reading dust jackets today and you'll see that an overwhelming majority of the novels that land on bestseller lists are about the middle class and the upper middle class. Somewhere along the way, novelists forgot about poverty.

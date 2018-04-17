@@ -1,8 +1,8 @@
 +++
 index = "-K5qFLQlVVRqNeuKeBkg"
-_sort_create_date = 1450461660
-_sort_last_updated = 1450461660
-_sort_publish_date = 1450461660
+sort_create_date = 1450461660
+sort_last_updated = 1450461660
+sort_publish_date = 1450461660
 create_date = "2015-12-18T10:01:00-08:00"
 publish_date = "2015-12-18T10:01:00-08:00"
 date = "2015-12-18T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What do you do if your granddad leaves you a bunch of great books, but they're incredibly smelly?"
 facebookauto = "A question for our advice columnist: granddad left me some books when he died. Granddad was a smoker. Those books smell like hell. What should I do with them?"
 make_image_tweet = ""
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

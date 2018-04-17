@@ -1,8 +1,8 @@
 +++
 index = "-KaUSigvJJr3gTDUok9L"
-_sort_create_date = 1484439060
-_sort_last_updated = 1484500140
-_sort_publish_date = 1484501400
+sort_create_date = 1484439060
+sort_last_updated = 1484500140
+sort_publish_date = 1484501400
 create_date = "2017-01-14T16:11:00-08:00"
 publish_date = "2017-01-15T09:30:00-08:00"
 date = "2017-01-15T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Living in isolation, the known great bard, how to get your attention back, and more, in the Sunday Post "
 facebookauto = "Living in isolation, the known great bard, how to get your attention back, and more, in the Sunday Post "
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.newyorker.com/magazine/2017/01/16/how-albert-woodfox-survived-solitary" title="How Albert Woodfox survived solitary - The New Yorker">How Albert Woodfox survived solitary</a></h5>

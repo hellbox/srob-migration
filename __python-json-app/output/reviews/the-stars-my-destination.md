@@ -1,8 +1,8 @@
 +++
 index = "-KeLXUYrIPPbgucaEdxn"
-_sort_create_date = 1488584280
-_sort_last_updated = 1488584280
-_sort_publish_date = 1488919080
+sort_create_date = 1488584280
+sort_last_updated = 1488584280
+sort_publish_date = 1488919080
 create_date = "2017-03-03T15:38:00-08:00"
 publish_date = "2017-03-07T12:38:00-08:00"
 date = "2017-03-07T12:38:00-08:00"
@@ -13,10 +13,10 @@ title = "The stars my destination"
 dek = "Young adult author Kevin Emerson's latest book is a sci-fi spectacle about a young man trying to save his family from an exploding sun. It's just might point to a happy new Northwest trend in science fiction."
 facebookauto = "Seattle author Kevin Emerson's latest novel continues in a modern Northwest sci-fi tradition."
 twitterauto = "Seattle author @kcemerson's latest novel for young readers is a sci-fi epic about an exploding sun."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/last-day-on-mars"]
 tags_reviews = ["tags/science-fiction", "tags/young-adult"]
-authors_reviews = ["authors/kevin-emerson", "authors/neal-stephenson"]
+reviews_about = ""
 +++
 
 It seems that nearly every page of Seattle author Kevin Emerson’s young adult science fiction novel *Last Day on Mars* has a blinking light on it. Since the book takes place on a Mars colony in the far-flung year of 2213, most of the lights are on console panels or spacefaring equipment. There are some signal lights, too, and a few twinkling stars. But the book is really about one giant blinking light: the sun, billions of years ahead of schedule, is about to go supernova and then collapse, rendering our solar system inhospitable. 

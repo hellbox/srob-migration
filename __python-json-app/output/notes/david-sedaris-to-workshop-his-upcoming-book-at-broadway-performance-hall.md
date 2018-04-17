@@ -1,8 +1,8 @@
 +++
 index = "-KWlSfXjK3IAFnYRWeZg"
-_sort_create_date = 1479372300
-_sort_last_updated = 1483290780
-_sort_publish_date = 1479402900
+sort_create_date = 1479372300
+sort_last_updated = 1483290780
+sort_publish_date = 1479402900
 create_date = "2016-11-17T00:45:00-08:00"
 publish_date = "2016-11-17T09:15:00-08:00"
 date = "2016-11-17T09:15:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "David Sedaris will workshop his upcoming book for a week in Seattle this January."
 facebookauto = "Did you know that every time David Sedaris is about to release a new book, he reads the manuscript in a weeklong \"workshop\" session? And did you know that he chose Seattle as the city where he's going to workshop his next book? Buy tickets now for the week of January 14th."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/david-sedaris"]
-authors_notes = ["authors/david-sedaris"]
+notes_about = ""
 books = ""
 +++
 If you ever attend a David Sedaris reading, I suggest you watch him closely. You’ll see that as he reads, he keeps a pencil in his hand and he makes notations on the text. Sometimes if you pay close attention to his hands, you can see him cross out a word that he stumbles on, or add a word when an improvisation works particularly well. When you attend a Sedaris reading, you’re not just watching a performance — you’re taking part in an editing session. Even if the pieces were published in the *New Yorker* or in books, he still works on them; refining, polishing, making them better. It’s fascinating to watch.

@@ -1,8 +1,8 @@
 +++
 index = "-KiVc_DO0U36cEFgBeLm"
-_sort_create_date = 1493048640
-_sort_last_updated = 1493048940
-_sort_publish_date = 1493064000
+sort_create_date = 1493048640
+sort_last_updated = 1493048940
+sort_publish_date = 1493064000
 create_date = "2017-04-24T08:44:00-07:00"
 publish_date = "2017-04-24T13:00:00-07:00"
 date = "2017-04-24T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493048554187/Seat
 twitterauto = "Sponsor @sasquatchbooks is thirty, and they're here to say \"Thank You, Seattle!\""
 facebookauto = "Sponsor Sasquatch Books is thirty, and they're here to say \"Thank You, Seattle!\""
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1493048538296/SeattleReivewofBooks%20Graphic%201%20small.jpg)</p>

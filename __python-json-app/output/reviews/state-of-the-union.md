@@ -1,8 +1,8 @@
 +++
 index = "-K-2ApKFtKZgob5a4yD9"
-_sort_create_date = 1443162420
-_sort_last_updated = 1443201360
-_sort_publish_date = 1443207420
+sort_create_date = 1443162420
+sort_last_updated = 1443201360
+sort_publish_date = 1443207420
 create_date = "2015-09-24T23:27:00-07:00"
 publish_date = "2015-09-25T11:57:00-07:00"
 date = "2015-09-25T11:57:00-07:00"
@@ -13,10 +13,10 @@ title = "State of the union"
 dek = "Seattle author Adam Rakunas did something very interesting with his sci-fi noir novel: he made his main character a labor organizer. That installed his book into a long (but largely forgotten) tradition of fiction about unions."
 facebookauto = "The most subversive thing about Seattle science fiction author Adam Rakunas's new novel is that the main character is a labor organizer. Will mankind still need unions when we get to outer space?"
 twitterauto = ".@rakdaddy's new sci-fi novel from @angryrobotbooks is about a labor organizer in outer space. That's a big deal."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/windswept", "books/the-land-of-plenty"]
 tags_reviews = ["tags/science-fiction", "tags/labor"]
-authors_reviews = ["authors/adam-rakunas"]
+reviews_about = ""
 +++
 
 At one time not so very long ago, American literature was rich with fiction about unions. Robert Cantwell’s Aberdeen-set novel *Land of Plenty*, which was recently revived by Jess Walter for local publisher Pharos Editions, is a good example of the genre. It makes sense that labor would mesh well with fiction; whenever you get a lot of people together in pursuit of a common goal, all sorts of interesting things happen. Then you have the dynamics of workers versus owners, the class issues, the drama of a strike. And writers love to write about work, too, because it provides an opportunity for them to lose themselves in research — think of those huge swaths of *Moby Dick* that lose themselves in the incantations of whaling life, and you’ll recognize an author who fell in love with his subject.

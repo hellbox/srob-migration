@@ -1,8 +1,8 @@
 +++
 index = "-JwtfTFux9r-2bAjEzw3"
-_sort_create_date = 1439781720
-_sort_last_updated = 1439831400
-_sort_publish_date = 1439781720
+sort_create_date = 1439781720
+sort_last_updated = 1439831400
+sort_publish_date = 1439781720
 create_date = "2015-08-16T20:22:00-07:00"
 publish_date = "2015-08-16T20:22:00-07:00"
 date = "2015-08-16T20:22:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Our thanks to sponsor Darin Bradley for his support over the past week. One reviewer said this about his novel _Chimpanzee_ “So if you took _Twelve Monkeys_, add _The Time Traveler’s Wife_ but subtract the time-travel, multiply by 1984, factor in _Strange Days_ and divide by _Fight Club_, you get _Chimpanzee_.”

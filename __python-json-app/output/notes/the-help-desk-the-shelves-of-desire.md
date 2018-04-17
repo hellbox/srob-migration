@@ -1,8 +1,8 @@
 +++
 index = "-Kq6WBVJZcOZ7GmOHIHX"
-_sort_create_date = 1501217160
-_sort_last_updated = 1501218480
-_sort_publish_date = 1501260360
+sort_create_date = 1501217160
+sort_last_updated = 1501218480
+sort_publish_date = 1501260360
 create_date = "2017-07-27T21:46:00-07:00"
 publish_date = "2017-07-28T09:46:00-07:00"
 date = "2017-07-28T09:46:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Are you ethically required to share bookshelves with your partner?"
 facebookauto = "Are you ethically required to share bookshelves with your partner?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Cienna Madrid is on vacation this week. Since this week is the [second anniversary of the *Seattle Review of Books*](http://www.seattlereviewofbooks.com/notes/2017/07/27/happy-birthday-seattle-review-of-books-an-interview-with-the-co-founders/), we're re-publishing her very first Help Desk column from the site's launch week in 2015. As always, you can send your own literary etiquette questions to advice@seattlereviewofbooks.com.</p>

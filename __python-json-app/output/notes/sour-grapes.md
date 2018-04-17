@@ -1,8 +1,8 @@
 +++
 index = "-KlMV1S_n1OT8WNcRs5q"
-_sort_create_date = 1496116620
-_sort_last_updated = 1496180280
-_sort_publish_date = 1496169000
+sort_create_date = 1496116620
+sort_last_updated = 1496180280
+sort_publish_date = 1496169000
 create_date = "2017-05-29T20:57:00-07:00"
 publish_date = "2017-05-30T11:30:00-07:00"
 date = "2017-05-30T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496116115705/IMG_
 twitterauto = "Charles Dickens meets Ivanka Trump on the shores of Lake Washington."
 facebookauto = "Charles Dickens meets Ivanka Trump on the shores of Lake Washington."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump", "tags/audio-books"]
-authors_notes = ["authors/charles-dickens"]
+notes_about = ""
 books = ""
 +++
 ![](/webhook-uploads/1496116115705/IMG_1041.JPG)

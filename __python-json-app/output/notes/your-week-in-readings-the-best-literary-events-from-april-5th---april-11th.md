@@ -1,8 +1,8 @@
 +++
 index = "-KgXQgBOYMR5h9Daislh"
-_sort_create_date = 1490931300
-_sort_last_updated = 1491593880
-_sort_publish_date = 1491418140
+sort_create_date = 1490931300
+sort_last_updated = 1491593880
+sort_publish_date = 1491418140
 create_date = "2017-03-30T20:35:00-07:00"
 publish_date = "2017-04-05T11:49:00-07:00"
 date = "2017-04-05T11:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490931176670/Ghos
 twitterauto = "Your week in readings includes two @HugoHouse events and @SeattleGhosts."
 facebookauto = "This week brings you a couple of big Hugo House events and a big party to celebrate the Ghosts of Seattle Past book launch."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday April 5th: Reading Through It: *What We Do Now* **</h5></p> 

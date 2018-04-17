@@ -1,8 +1,8 @@
 +++
 index = "-KYlAQbc8-4rvXrHU7gY"
-_sort_create_date = 1481515020
-_sort_last_updated = 1515613380
-_sort_publish_date = 1481515020
+sort_create_date = 1481515020
+sort_last_updated = 1515613380
+sort_publish_date = 1481515020
 create_date = "2016-12-11T19:57:00-08:00"
 publish_date = "2016-12-11T19:57:00-08:00"
 date = "2016-12-11T19:57:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2ChD73jnQJCIba302yw85axoH6TPw_Z2p64tL2Qtz3m_RcrctxIQkj0l1i5DMi7uB5vp3BZ0rajgThstw_wCGgDpbIWX"
 url = "/webhook-uploads/1515087578822/Empty%20Bottle%20of%20Smoke_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 10609
 
 review_relationship = ""
-author_relationship = ["authors/conon-parks"]
+books_author = ""
 sponsorships_book = ["sponsorships/empty-bottle-of-smoke-12--2016"]
 notes_relationship = ["notes/the-paranoid-genie-in-the-bottle", "notes/a-bizarre-trek-though-a-bizarre-world"]
 +++

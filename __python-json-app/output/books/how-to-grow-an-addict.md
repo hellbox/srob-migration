@@ -1,8 +1,8 @@
 +++
 index = "-KO20Sjn8nCLFLh5lyMx"
-_sort_create_date = 1470003240
-_sort_last_updated = 1470003540
-_sort_publish_date = 1470003240
+sort_create_date = 1470003240
+sort_last_updated = 1470003540
+sort_publish_date = 1470003240
 create_date = "2016-07-31T15:14:00-07:00"
 publish_date = "2016-07-31T15:14:00-07:00"
 date = "2016-07-31T15:14:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/7C3c0egH2zwUq569oA5b8CsLWEcNAuzMLk9RvtTG07fF8Czs5cFm5tw-DyeAvEj6rbX5-tMtIcR0poSEBip0FB_VNSOz"
 url = "/webhook-uploads/1470003272157/content%3Fid%3Dcg8jrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 13861
 
 review_relationship = ""
-author_relationship = ["authors/ja-wright"]
+books_author = ""
 sponsorships_book = ["sponsorships/how-to-grow-an-addict"]
 notes_relationship = ["notes/a-how-to-in-making-sure-your-child-becomes-an-addict"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KoLSNs-RhWls_8nTeCf"
-_sort_create_date = 1499320380
-_sort_last_updated = 1499320380
-_sort_publish_date = 1499320380
+sort_create_date = 1499320380
+sort_last_updated = 1499320380
+sort_publish_date = 1499320380
 create_date = "2017-07-05T22:53:00-07:00"
 publish_date = "2017-07-05T22:53:00-07:00"
 date = "2017-07-05T22:53:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/37Wwe3XHFgzvPWsYRMVWp7qAOyAmppYMWuuU1LnzPrYOKNrfKCnybbXG1YUgyiBK3naWZUi55fdz-4WQEdx1JKESLJu4"
 url = "/webhook-uploads/1499320251908/darkmoney.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 52778
 
 review_relationship = ["reviews/enemies-of-the-state"]
-author_relationship = ["authors/jane-mayer"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

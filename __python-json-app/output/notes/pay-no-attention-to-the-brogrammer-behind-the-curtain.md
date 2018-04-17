@@ -1,8 +1,8 @@
 +++
 index = "-L2--9hhyezjFToIqfFg"
-_sort_create_date = 1515049740
-_sort_last_updated = 1515049740
-_sort_publish_date = 1515088380
+sort_create_date = 1515049740
+sort_last_updated = 1515049740
+sort_publish_date = 1515088380
 create_date = "2018-01-03T23:09:00-08:00"
 publish_date = "2018-01-04T09:53:00-08:00"
 date = "2018-01-04T09:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A computer is just a tool, and like any tool, it can be used in service of prejudice."
 facebookauto = "A computer is just a tool, and like any tool, it can be used in service of prejudice."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 At the beginning of last night's [Reading Through It Book Club](https://www.facebook.com/groups/readingthroughit/) at Third Place Books Seward Park, one of the members of the book club had to ask a question that really should have been answered in the text: What, exactly, is an algorithm? Given that Cathy O'Neil's *Weapons of Math Destruction* — is subtitled "*How Big Data Increases Inequality and Threatens Democracy*", you'd think that an explanation of what, exactly, an algorithm is would be addressed in the book. But it wasn't.

@@ -1,8 +1,8 @@
 +++
 index = "-KjOat_CSIIUUg4ZxF-M"
-_sort_create_date = 1494004500
-_sort_last_updated = 1494004500
-_sort_publish_date = 1494009000
+sort_create_date = 1494004500
+sort_last_updated = 1494004500
+sort_publish_date = 1494009000
 create_date = "2017-05-05T10:15:00-07:00"
 publish_date = "2017-05-05T11:30:00-07:00"
 date = "2017-05-05T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494004465888/Cath
 twitterauto = "In this week's Help Desk, a tourist wants to know the best and worst parts of literary Seattle."
 facebookauto = "In this week's Help Desk, a tourist wants to know the best and worst parts of literary Seattle."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

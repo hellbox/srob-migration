@@ -1,8 +1,8 @@
 +++
 index = "-KlWpxTAj-sRKlSoYY1M"
-_sort_create_date = 1496290140
-_sort_last_updated = 1496290140
-_sort_publish_date = 1496290140
+sort_create_date = 1496290140
+sort_last_updated = 1496290140
+sort_publish_date = 1496290140
 create_date = "2017-05-31T21:09:00-07:00"
 publish_date = "2017-05-31T21:09:00-07:00"
 date = "2017-05-31T21:09:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/n-Z2BgJ1arIy2ICEgf0MrJ80QvvovB_eh-4sWBgZPteeqsi3rrbMzh85s3GtgpLQ-Igr9O0bIJTP96_6bb7gIypR9rQ8"
 url = "/webhook-uploads/1496290010886/BiographiesofOrdinaryPeople1.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 268398
 
 review_relationship = ""
-author_relationship = ["authors/nicole-dieker"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-biographies-of-ordinary-people", "sponsorships/the-biographies-of-ordinary-people-vol-1"]
 notes_relationship = ["notes/ordinary-lives-told-with-extraordinary-heart"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KPTm-rM_slDmk0aetTS"
-_sort_create_date = 1471542720
-_sort_last_updated = 1471542720
-_sort_publish_date = 1471542720
+sort_create_date = 1471542720
+sort_last_updated = 1471542720
+sort_publish_date = 1471542720
 create_date = "2016-08-18T10:52:00-07:00"
 publish_date = "2016-08-18T10:52:00-07:00"
 date = "2016-08-18T10:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Gawker.com is shutting down. Here's the book you should read about Gawker."
 facebookauto = "Gawker.com is shutting down. Here's the book you should read about Gawker."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/gawker", "tags/media"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This morning, Gawker.com — the popular news site that started as a publishing industry gossip blog — confirmed rumors that it will [shut down next week](http://gawker.com/gawker-com-to-end-operations-next-week-1785455712). This would be a great time to read Brian Abrams's ebook *Gawker: An Oral History*, which was published last summer. I [reviewed that book when it was released last year](http://www.seattlereviewofbooks.com/reviews/who-gawks-at-the-gawkers/).

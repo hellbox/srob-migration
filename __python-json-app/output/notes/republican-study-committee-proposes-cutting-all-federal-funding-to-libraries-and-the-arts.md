@@ -1,8 +1,8 @@
 +++
 index = "-KbDm9dXl0lvbPdmONls"
-_sort_create_date = 1485232920
-_sort_last_updated = 1485232920
-_sort_publish_date = 1485286320
+sort_create_date = 1485232920
+sort_last_updated = 1485232920
+sort_publish_date = 1485286320
 create_date = "2017-01-23T20:42:00-08:00"
 publish_date = "2017-01-24T11:32:00-08:00"
 date = "2017-01-24T11:32:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485232613819/paul
 twitterauto = "A proposed Republican budget cuts all federal funding for libraries."
 facebookauto = "A proposed Republican budget cuts all federal funding for libraries and the arts."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1485232613819/paulryan.jpg)</p>

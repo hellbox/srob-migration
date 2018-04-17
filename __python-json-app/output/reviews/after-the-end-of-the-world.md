@@ -1,8 +1,8 @@
 +++
 index = "-KUp08ttqkdnN7LO_sbP"
-_sort_create_date = 1477284480
-_sort_last_updated = 1477591740
-_sort_publish_date = 1477508460
+sort_create_date = 1477284480
+sort_last_updated = 1477591740
+sort_publish_date = 1477508460
 create_date = "2016-10-23T21:48:00-07:00"
 publish_date = "2016-10-26T12:01:00-07:00"
 date = "2016-10-26T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "After the end of the world"
 dek = "In Michelle Tea's latest memoir/novel hybrid, her years as a queer literary youth icon have caught up with her."
 facebookauto = "Michelle Tea's latest book is a novel/memoir hybrid set in a post-apocalyptic San Francisco in the summer of 1999. "
 twitterauto = "Michelle Tea has always been a queer icon/sex symbol. Her latest novel/memoir hybrid tackles that idea head-on."
-byline = ["writers/sarah-galvin"]
+reviews_byline = ["writers/sarah-galvin"]
 books_in_this_review = ["books/black-wave"]
 tags_reviews = ["tags/memoir", "tags/novel"]
-authors_reviews = ["authors/michelle-tea"]
+reviews_about = ""
 +++
 
 In high school, Michelle Tea’s memoir/novels *Valencia* and *The Chelsea Whistle* flooded my virgin imagination with hope and lust for the adventures I had to look forward to as an adult queer. I particularly remember her description of one relatively understated float in her parade of lovers and/or lovers of a woman she was seeing (that it’s hard to remember which should evoke the grandeur of the parade.)  She wrote that she saw the sleeping woman’s mousy brown head poking out from under a blanket, and couldn’t recall when the sight had become a common occurrence. I couldn’t *imagine* not remembering the appearance of a naked woman in my bed. To me at 16, Michelle Tea sounded like some sort of sex millionaire. I would have preferred her wealth to actual money.

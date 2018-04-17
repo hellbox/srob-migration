@@ -1,8 +1,8 @@
 +++
 index = "-K9nI6bVMeKWIsziAfoV"
-_sort_create_date = 1454707020
-_sort_last_updated = 1454707200
-_sort_publish_date = 1454952900
+sort_create_date = 1454707020
+sort_last_updated = 1454707200
+sort_publish_date = 1454952900
 create_date = "2016-02-05T13:17:00-08:00"
 publish_date = "2016-02-08T09:35:00-08:00"
 date = "2016-02-08T09:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454706692324/Scre
 twitterauto = "Your week in readings kicks off with @HugoHouse's literary fortune-telling exhibition at the Sorrento."
 facebookauto = "Your week in readings include a literary fortune-telling exhibition at the Sorrento, a women-only period-themed reading event, and an appearance from Life of Pi author Yann Martel."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/stacey-levine", "authors/sierra-nelson"]
+notes_about = ""
 books = ""
 +++
 **MONDAY** Kick your week off right, with the very first “Ask the Oracle” event at the [Sorrento Hotel](https://www.facebook.com/events/1734103493484915/). This is a new fortune-telling themed reading series from the Hugo House, and it’s got a great gimmick: audience members anonymously ask questions about their futures. The authors find answers to those questions in their books. Hugo House supplied a sample Q&A in the promotional materials:

@@ -1,8 +1,8 @@
 +++
 index = "-KnDJnb3VWx2eYOHhMve"
-_sort_create_date = 1498110120
-_sort_last_updated = 1498148580
-_sort_publish_date = 1498147200
+sort_create_date = 1498110120
+sort_last_updated = 1498148580
+sort_publish_date = 1498147200
 create_date = "2017-06-21T22:42:00-07:00"
 publish_date = "2017-06-22T09:00:00-07:00"
 date = "2017-06-22T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We can't stop investigating this poetry-centric map of Seattle."
 facebookauto = "We can't stop investigating this poetry-centric map of Seattle."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/civic-poet"]
-authors_notes = ["authors/claudia-castro-luna", "authors/richard-hugo", "authors/denise-levertov", "authors/julene-tripp-weaver", "authors/elizabeth-austen", "authors/lena-khalaf-tuffaha-"]
+notes_about = ""
 books = ""
 +++
 Yesterday, Seattle's outgoing Civic Poet, Claudia Castro Luna, announced the publication of her [Seattle Poetic Grid](http://seattlepoeticgrid.com/). It's a map of the city, with site-specific poems interlaid over it. I encourage you to go check it out; there's lots of good stuff there, from classic seattle poems by Richard Hugo and Denise Levertov to newer poems by Julene Tripp Weaver (about University Village, of all places) and Elizabeth Austen and Lena Khalaf Tuffahha.

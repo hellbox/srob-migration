@@ -1,8 +1,8 @@
 +++
 index = "-KBeBoAHhKevVmEhsnDI"
-_sort_create_date = 1456701900
-_sort_last_updated = 1456861560
-_sort_publish_date = 1457034960
+sort_create_date = 1456701900
+sort_last_updated = 1456861560
+sort_publish_date = 1457034960
 create_date = "2016-02-28T15:25:00-08:00"
 publish_date = "2016-03-03T11:56:00-08:00"
 date = "2016-03-03T11:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456701685299/theh
 twitterauto = "We took a French novel about a heart transplant to an Indian restaurant in Renton."
 facebookauto = "We took a French novel about a heart transplant to Renton for curry and naan. Here's how that went:"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date"]
-authors_notes = ["authors/maylis-de-kerangal"]
+notes_about = ""
 books = ["books/the-heart"]
 +++
 <p class="image-left">![](/webhook-uploads/1456701685299/theheart.jpg)</p>*(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)*

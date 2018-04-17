@@ -1,8 +1,8 @@
 +++
 index = "-KMvscpuumiOHrC2Pn1e"
-_sort_create_date = 1468809720
-_sort_last_updated = 1468809720
-_sort_publish_date = 1468872060
+sort_create_date = 1468809720
+sort_last_updated = 1468809720
+sort_publish_date = 1468872060
 create_date = "2016-07-17T19:42:00-07:00"
 publish_date = "2016-07-18T13:01:00-07:00"
 date = "2016-07-18T13:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Romance books make up 5 percent of print book sales and...how much of e-book sales?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/romance"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 These are some stunning numbers.

@@ -1,8 +1,8 @@
 +++
 index = "-K7NUnDhvmFJQ2KyV-qk"
-_sort_create_date = 1452109920
-_sort_last_updated = 1452109920
-_sort_publish_date = 1452114900
+sort_create_date = 1452109920
+sort_last_updated = 1452109920
+sort_publish_date = 1452114900
 create_date = "2016-01-06T11:52:00-08:00"
 publish_date = "2016-01-06T13:15:00-08:00"
 date = "2016-01-06T13:15:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452109705843/imag
 twitterauto = "Wait, which Republican presidential candidate believes the government should be spying on libraries?"
 facebookauto = "A Republican presidential candidate believes the government should be spying on libraries. Just let that roll around in your head for a little bit."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/2016", "tags/ben-carson"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1452109705843/images.jpg)</p>Brian Tashman [at Right Wing Watch says](http://www.rightwingwatch.org/content/ben-carson-government-should-spy-classrooms-and-libraries):

@@ -1,8 +1,8 @@
 +++
 index = "-KqsaPPjWT45ZTNKiIbh"
-_sort_create_date = 1502040660
-_sort_last_updated = 1502433600
-_sort_publish_date = 1502125200
+sort_create_date = 1502040660
+sort_last_updated = 1502433600
+sort_publish_date = 1502125200
 create_date = "2017-08-06T10:31:00-07:00"
 publish_date = "2017-08-07T10:00:00-07:00"
 date = "2017-08-07T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502039721707/51K4
 twitterauto = "Meet J.L. Cheatham II, the author behind the Seattle Urban Book Expo."
 facebookauto = "We talked with J.L. Cheatham II, the author who created the Seattle Urban Book Expo."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/seattle-urban-book-expo", "tags/barnes-&amp;-noble"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1502039721707/51K4ZDZyrZL._SX398_BO1%2C204%2C203%2C200_.jpg)</p>

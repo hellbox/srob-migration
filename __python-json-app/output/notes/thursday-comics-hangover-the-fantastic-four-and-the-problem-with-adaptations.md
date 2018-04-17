@@ -1,8 +1,8 @@
 +++
 index = "-Jw14Y_W0vewXu9FXUe4"
-_sort_create_date = 1438849020
-_sort_last_updated = 1438898640
-_sort_publish_date = 1438880820
+sort_create_date = 1438849020
+sort_last_updated = 1438898640
+sort_publish_date = 1438880820
 create_date = "2015-08-06T01:17:00-07:00"
 publish_date = "2015-08-06T10:07:00-07:00"
 date = "2015-08-06T10:07:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/fantastic-four", "tags/adaptation"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Usually, this column is about new comics I bought on Wednesday. But last night I went to a press screening for the *Fantastic Four* movie that opens tomorrow, and I want to talk about that for a bit instead. (If you're looking for a straight-up movie review, you can [read my review at *Prairie Dog*](http://www.prairiedogmag.com/the-new-fantastic-four-movie-is-the-worst-fantastic-four-movie-yet/).)

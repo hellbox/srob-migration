@@ -1,8 +1,8 @@
 +++
 index = "-KmDFYrohL72QqpyXlCu"
-_sort_create_date = 1497035280
-_sort_last_updated = 1497035340
-_sort_publish_date = 1497035280
+sort_create_date = 1497035280
+sort_last_updated = 1497035340
+sort_publish_date = 1497035280
 create_date = "2017-06-09T12:08:00-07:00"
 publish_date = "2017-06-09T12:08:00-07:00"
 date = "2017-06-09T12:08:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/71lL2d4YeooDCfIx3xn0dgv-3bnENH_QgE8WsZG6g7D2GW7VehlmCa7K8MWCzTrjacFQQNbMCTvr22lQxDopfgZn-c4"
 url = "/webhook-uploads/1497035324232/content%3Fid%3DcrsavgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 8060
 
 review_relationship = ["reviews/stitch-by-stitch-by-broken-stitch"]
-author_relationship = ["authors/sherman-alexie"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/in-the-recording-studio-with-sherman-alexie", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels", "notes/citing-a-need-to-take-a-big-step-back-and-do-most-of-my-grieving-in-private-sherman-alexie-postpones-book-tour", "notes/literary-event-of-the-week-absolutely-true-diary-of-a-part-time-indian-reissue-release-party", "notes/john-smelcer-wants-to-sing-like-sherman-alexie-but-he-sounds-more-like-a-cat-in-heat", "notes/sherman-alexie-jennifer-egan-win-carnegie-medals-for-literary-excellence"]
 +++

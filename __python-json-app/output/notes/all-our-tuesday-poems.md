@@ -1,8 +1,8 @@
 +++
 index = "-KSddECYCSnmE0YBmPxS"
-_sort_create_date = 1474946160
-_sort_last_updated = 1474993860
-_sort_publish_date = 1474995300
+sort_create_date = 1474946160
+sort_last_updated = 1474993860
+sort_publish_date = 1474995300
 create_date = "2016-09-26T20:16:00-07:00"
 publish_date = "2016-09-27T09:55:00-07:00"
 date = "2016-09-27T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Let's take a moment to look back at some of the amazing poets we've published this past year."
 facebookauto = "Let's take a moment to look back at some of the amazing poets we've published this past year."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 For over a year now we've been publishing poems by local writers every Tuesday (you can see them all on the [archive page](http://www.seattlereviewofbooks.com/tags/tuesday-poem/)). Each poet recommends the next in a chain that has led us through some of the most fascinating corners of the Northwest poetry scene. 

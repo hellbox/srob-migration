@@ -1,8 +1,8 @@
 +++
 index = "-KpYchI8-4iZONO4ZtGS"
-_sort_create_date = 1500615180
-_sort_last_updated = 1500696000
-_sort_publish_date = 1501010100
+sort_create_date = 1500615180
+sort_last_updated = 1500696000
+sort_publish_date = 1501010100
 create_date = "2017-07-20T22:33:00-07:00"
 publish_date = "2017-07-25T12:15:00-07:00"
 date = "2017-07-25T12:15:00-07:00"
@@ -13,10 +13,10 @@ title = "We the poems"
 dek = "Government-sponsored poets are defining Seattle and Washington State. You couldn't ask for a better investment of your tax dollars.\n"
 facebookauto = "Should your hard-earned tax dollars go toward poets and poetry? God, yes!"
 twitterauto = "Should your hard-earned tax dollars go toward poets and poetry? God, yes!"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/wa-129"]
 tags_reviews = ["tags/poetry", "tags/poet-laureate", "tags/civic-poet"]
-authors_reviews = ["authors/tod-marshall", "authors/claudia-castro-luna", "authors/sherman-alexie", "authors/theodore-roethke"]
+reviews_about = ""
 +++
 
 Every so often some jackass from a conservative outlet will point to government expenditure on poets as a sign that spending is out of control. Two years ago, for example, KIRO ran a story headlined “City will pay poet $10K to hold performances, workshops” that seemed to be designed to whip commenters into an uproar.  In terms of state and city budgets, the numbers we’re talking about aren’t even big enough to count as pocket change: the Washington state Poet Laureate position receives a $20,000 annual stipend from the state (though mostly that money comes from grants and not taxes) and Seattle’s Civic Poet earns that aforementioned $10,000 for a two-year stint. But angry mediocre white guys gotta whine about something, and state-sponsored poetry seems as good a target as any. 

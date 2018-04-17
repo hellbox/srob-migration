@@ -1,8 +1,8 @@
 +++
 index = "-KoQez9zkAXdDD-DZfoT"
-_sort_create_date = 1499407800
-_sort_last_updated = 1499742960
-_sort_publish_date = 1499800800
+sort_create_date = 1499407800
+sort_last_updated = 1499742960
+sort_publish_date = 1499800800
 create_date = "2017-07-06T23:10:00-07:00"
 publish_date = "2017-07-11T12:20:00-07:00"
 date = "2017-07-11T12:20:00-07:00"
@@ -13,10 +13,10 @@ title = "These comics grab back"
 dek = "A website about consent and sexual assault lands on bookshelves in a small-but-powerful anthology."
 facebookauto = "A new comics anthology redefines our ideas about consent and sexual assault."
 twitterauto = "A new comics anthology redefines our ideas about consent and sexual assault."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/grab-back-comics"]
 tags_reviews = ["tags/grab-back-comics"]
-authors_reviews = ["authors/erma-blood", "authors/various"]
+reviews_about = ""
 +++
 
 The Seattle-area cartoonist behind *Grab Back Comics*, an industrious woman using the pseudonym “Erma Blood,” says that her site was born in those early, helpless days just after the 2016 presidential election. Blood took her wife on a vacation to celebrate their first wedding anniversary “and it was very sweet,” she says. “But my experience of the coverage of sexual assaults and harassment during the election had really taken a toll.” 

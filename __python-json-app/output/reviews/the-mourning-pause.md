@@ -1,8 +1,8 @@
 +++
 index = "-L--rfDnk3gVB--_786x"
-_sort_create_date = 1511843040
-_sort_last_updated = 1512021720
-_sort_publish_date = 1512072000
+sort_create_date = 1511843040
+sort_last_updated = 1512021720
+sort_publish_date = 1512072000
 create_date = "2017-11-27T20:24:00-08:00"
 publish_date = "2017-11-30T12:00:00-08:00"
 date = "2017-11-30T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "The mourning pause"
 dek = "Eileen Myles named Afterglow a \"dog memoir\"; if you're surprised that it's more rich and dark and complicated than that, you haven't read Eileen Myles."
 facebookauto = "Sophia Shalmiyev reviewed Eileen Myles' Afterglow for us, in a fabulous cascade of images, words, and insight."
 twitterauto = "Sophia Shalmiyev reviewed Eileen Myles' Afterglow for us, in a fabulous cascade of images, words, and insight."
-byline = ["writers/sophia-shalmiyev"]
+reviews_byline = ["writers/sophia-shalmiyev"]
 books_in_this_review = ["books/afterglow"]
 tags_reviews = ""
-authors_reviews = ["authors/eileen-myles"]
+reviews_about = ""
 +++
 
 Our manic relationship to memoir has already circled through many shame spirals in this reality-hungry culture, and the dog memoir genre — from the stirring _Hachikoto_ books to the feel-good _Marley and Me_ franchise — is so oversaturated that every purchase comes with complimentary eye-rolls. Jill Abramson, of _The New York Times_, was slaughtered in reviews of _The Puppy Diaries_, partially because she expressed her fantasy of sharing monumental bylines with her canine partner, Scout.

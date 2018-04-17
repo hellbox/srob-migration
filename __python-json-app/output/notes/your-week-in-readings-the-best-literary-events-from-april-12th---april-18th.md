@@ -1,8 +1,8 @@
 +++
 index = "-Kh0lgN_HcxyBOcFYCU3"
-_sort_create_date = 1491457140
-_sort_last_updated = 1491457140
-_sort_publish_date = 1492023600
+sort_create_date = 1491457140
+sort_last_updated = 1491457140
+sort_publish_date = 1492023600
 create_date = "2017-04-05T22:39:00-07:00"
 publish_date = "2017-04-12T12:00:00-07:00"
 date = "2017-04-12T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1491456895237/kraz
 twitterauto = "Your week in readings includes a comic biography and two great political events."
 facebookauto = "Your week in readings includes a comic biography and two great political events."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/ej-koh", "authors/quenton-baker"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1491456895237/krazy.jpg)</p>

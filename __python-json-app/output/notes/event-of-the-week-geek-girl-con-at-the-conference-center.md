@@ -1,8 +1,8 @@
 +++
 index = "-KufIZehWmxS24fp7CWv"
-_sort_create_date = 1506112560
-_sort_last_updated = 1506112560
-_sort_publish_date = 1506531600
+sort_create_date = 1506112560
+sort_last_updated = 1506112560
+sort_publish_date = 1506531600
 create_date = "2017-09-22T13:36:00-07:00"
 publish_date = "2017-09-27T10:00:00-07:00"
 date = "2017-09-27T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"I want to be clear: the idea of 'reverse racism' is bunk.\" Why @GeekGirlCon matters now more than ever."
 facebookauto = "\"I want to be clear: the idea of 'reverse racism' is bunk.\" Why Geek Girl Con matters now more than ever."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1506112082057/PO14408750-front-cu-300x300.png)</p>

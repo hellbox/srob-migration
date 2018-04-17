@@ -1,8 +1,8 @@
 +++
 index = "-KaYsfN87ZwwsyGrvx_6"
-_sort_create_date = 1484513220
-_sort_last_updated = 1484513220
-_sort_publish_date = 1484683260
+sort_create_date = 1484513220
+sort_last_updated = 1484513220
+sort_publish_date = 1484683260
 create_date = "2017-01-15T12:47:00-08:00"
 publish_date = "2017-01-17T12:01:00-08:00"
 date = "2017-01-17T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484512941604/pate
 twitterauto = "Paterson is a movie that celebrates reading and writing and life and public transit."
 facebookauto = "Paterson is a movie that celebrates reading and writing and life and public transit. You should see it while it's in theaters."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/movies", "tags/adaptation", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1484512941604/paterson.jpeg)</p>

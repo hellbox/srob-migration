@@ -1,8 +1,8 @@
 +++
 index = "-L2D-U4Zw72EtPkTgE2Y"
-_sort_create_date = 1515284700
-_sort_last_updated = 1515284700
-_sort_publish_date = 1515344400
+sort_create_date = 1515284700
+sort_last_updated = 1515284700
+sort_publish_date = 1515344400
 create_date = "2018-01-06T16:25:00-08:00"
 publish_date = "2018-01-07T09:00:00-08:00"
 date = "2018-01-07T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Feeling investigative? Check out this week's articles on garbage wars, homeless relocation, and @DHWallace's mother."
 facebookauto = "Feeling investigative? Check out this week's articles on New York's garbage wars, homeless relocation, and novelist Daniel Wallace's mother."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

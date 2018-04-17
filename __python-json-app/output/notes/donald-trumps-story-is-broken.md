@@ -1,8 +1,8 @@
 +++
 index = "-KNGmTreb6j4SDLu8lQG"
-_sort_create_date = 1469177220
-_sort_last_updated = 1469213880
-_sort_publish_date = 1469213880
+sort_create_date = 1469177220
+sort_last_updated = 1469213880
+sort_publish_date = 1469213880
 create_date = "2016-07-22T01:47:00-07:00"
 publish_date = "2016-07-22T11:58:00-07:00"
 date = "2016-07-22T11:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469176436339/Scre
 twitterauto = "The #RNCinCLE was a big, weeklong story. But what kind of story was it?"
 facebookauto = "The Republican National Convention was a big, weeklong story. But what kind of story was it?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1469176436339/Screen%20Shot%202016-07-22%20at%201.32.20%20AM.png)</p>

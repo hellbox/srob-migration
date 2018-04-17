@@ -1,8 +1,8 @@
 +++
 index = "-K-bNI7Kbcb4qLrIdFYH"
-_sort_create_date = 1443769680
-_sort_last_updated = 1443769680
-_sort_publish_date = 1443812880
+sort_create_date = 1443769680
+sort_last_updated = 1443769680
+sort_publish_date = 1443812880
 create_date = "2015-10-02T00:08:00-07:00"
 publish_date = "2015-10-02T12:08:00-07:00"
 date = "2015-10-02T12:08:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "When Jonathan Raban shows up for a reading, you'd damn well better show up too."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/frye-art-museum"]
-authors_notes = ["authors/jonathan-raban"]
+notes_about = ""
 books = ""
 +++
 Jonathan Raban is the closest thing the Seattle literary scene has to a *paterfamilias*. His brilliant, incisive writing taught us how to think about the city around us, and he's influenced countless local writers from Lesley Hazleton to Charles Mudede.

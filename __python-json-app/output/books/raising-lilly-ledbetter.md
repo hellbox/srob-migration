@@ -1,8 +1,8 @@
 +++
 index = "-JyM8pYx-L-its7wpVue"
-_sort_create_date = 1441349940
-_sort_last_updated = 1441350060
-_sort_publish_date = 1441349940
+sort_create_date = 1441349940
+sort_last_updated = 1441350060
+sort_publish_date = 1441349940
 create_date = "2015-09-03T23:59:00-07:00"
 publish_date = "2015-09-03T23:59:00-07:00"
 date = "2015-09-03T23:59:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Poetry"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/zA1EyCtmJ0yM3S8bpO8SDRZJssXd2GNhxlEgM2-1wiK-ui8XrIaxRJmaamOIf5mM1eFenvPCH86q9zLWof7QXYYAnXWd"
 url = "/webhook-uploads/1441349981847/content%3Fid%3DpnPbrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 26990
 
 review_relationship = ["reviews/the-ballad-of-rosie-the-riveter"]
-author_relationship = ["authors/carolyne-wright"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-events-from-september-28th-to-october-4th", "notes/two-more-events-to-keep-in-mind-trivia-for-a-cause-and-raising-lily-ledbetter"]
 +++

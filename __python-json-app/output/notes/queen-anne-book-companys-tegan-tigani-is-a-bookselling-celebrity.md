@@ -1,8 +1,8 @@
 +++
 index = "-KIQzUIe-VmMYGqZuJg2"
-_sort_create_date = 1463979720
-_sort_last_updated = 1463979720
-_sort_publish_date = 1464022860
+sort_create_date = 1463979720
+sort_last_updated = 1463979720
+sort_publish_date = 1464022860
 create_date = "2016-05-22T22:02:00-07:00"
 publish_date = "2016-05-23T10:01:00-07:00"
 date = "2016-05-23T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463979210041/elep
 twitterauto = "What's @queenannebookco superstar bookseller @ttigani been recommending lately?"
 facebookauto = "We interviewed superstar Queen Anne Book Company bookseller Tegan Tigani about what she's been recommending lately."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/queen-anne-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A few Seattle-area booksellers have achieved celebrity status. They’re the names that PR people from New York publishers casually drop when they discuss the Seattle market, the booksellers that other booksellers look to for recommendations, the superstars who represent regional booksellers on panels and in organizations. Queen Anne Book Company bookseller Tegan Tigani is absolutely one of those celebrity booksellers. (If you need any more proof of her celebrity status, consider that [Montana author Shann Ray recently waxed rhapsodic]( http://seattlereviewofbooks.com/notes/2016/05/06/talking-with-shann-ray-about-forgiveness-masculinity-and-the-violence-of-western-literature/) on the cadence of her name in the middle of an onstage interview.)

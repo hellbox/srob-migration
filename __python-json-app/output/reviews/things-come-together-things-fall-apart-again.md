@@ -1,8 +1,8 @@
 +++
 index = "-KOIfYPppmfO02JZOKUh"
-_sort_create_date = 1470282720
-_sort_last_updated = 1470282780
-_sort_publish_date = 1470337140
+sort_create_date = 1470282720
+sort_last_updated = 1470282780
+sort_publish_date = 1470337140
 create_date = "2016-08-03T20:52:00-07:00"
 publish_date = "2016-08-04T11:59:00-07:00"
 date = "2016-08-04T11:59:00-07:00"
@@ -13,10 +13,10 @@ title = "Things come together, things fall apart again"
 dek = "Nigerian author Chigozie Obioma's novel builds on the foundation established by Chinua Achebe's seminal Things Fall Apart. Can it climb out from the shadow of Achebe's famous work?"
 facebookauto = "If Things Fall Apart is all you know about Nigerian literature, have we got a book for you."
 twitterauto = "If Things Fall Apart is all you know about Nigerian literature, have we got a book for you."
-byline = ["writers/rebecca-garcia-moreno"]
+reviews_byline = ["writers/rebecca-garcia-moreno"]
 books_in_this_review = ["books/the-fishermen"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/chigozie-obioma"]
+reviews_about = ""
 +++
 
 The first time I read *Things Fall Apart* it was a rushed high school read, just another item in a long list of assignments. The second time, in a compelling college class about postcolonial literature, we deliberately dissected every chapter, line, and Igbo word. In a different English class about trauma, we read Chimamanda Ngozi Adichie’s *Half of a Yellow Sun*, which paints a wild, tragic portrait of the Nigerian civil war from 1967-1970. These two novels thread together key moments in Nigeria’s history, and Chigozie Obioma’s *The Fishermen*, published in 2015, adds a stitch to their conversation. His writing seemed familiar to me, echoing the incorporation of Igbo vocabulary and customs in *Things Fall Apart*, and even employing a similar structure. Obioma develops an in-depth portrayal of four brothers and their family in the face of jarring changes—betrayals, deaths, and politics. These novels serve as markers of Nigerian history and literature, opening a floor-to-ceiling window to the country that experiences so much so fast. 

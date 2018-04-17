@@ -1,8 +1,8 @@
 +++
 index = "-JvIeoly32HBt97OvAtw"
-_sort_create_date = 1438070280
-_sort_last_updated = 1438070280
-_sort_publish_date = 1438110000
+sort_create_date = 1438070280
+sort_last_updated = 1438070280
+sort_publish_date = 1438110000
 create_date = "2015-07-28T00:58:00-07:00"
 publish_date = "2015-07-28T12:00:00-07:00"
 date = "2015-07-28T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/michael-moorcock"]
+notes_about = ""
 books = ""
 +++
 The *New Statesman* interview with sci-fi great Michael Moorcock is absolutely worth reading, if just for all the punches thrown. Some quoteworthy moments:

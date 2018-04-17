@@ -1,8 +1,8 @@
 +++
 index = "-Kr33P3VUyCzSYsylEy6"
-_sort_create_date = 1502233020
-_sort_last_updated = 1502245920
-_sort_publish_date = 1502823600
+sort_create_date = 1502233020
+sort_last_updated = 1502245920
+sort_publish_date = 1502823600
 create_date = "2017-08-08T15:57:00-07:00"
 publish_date = "2017-08-15T12:00:00-07:00"
 date = "2017-08-15T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Unstacking the deck"
 dek = "It's comforting to blame the 1 percent for economic inequity in the US. But surprise \u2014 the enemy is us."
 facebookauto = "Reviewing Richard Reeves's Dream Hoarders, Nick Cassella has a wake-up call for the next 19 percent."
 twitterauto = "Reviewing @RichardvReeves's Dream Hoarders, @Nick_Cassella has a wake-up call for the next 19%."
-byline = ["writers/nick-cassella"]
+reviews_byline = ["writers/nick-cassella"]
 books_in_this_review = ["books/dream-hoarders"]
 tags_reviews = ""
-authors_reviews = ["authors/richard-reeves"]
+reviews_about = ""
 +++
 
 When I called my Dad to tell him I had less than $100 in my bank account, he was understandably frustrated. Here he was subsidizing his son’s second internship in Washington DC — an _unpaid_ one at that. He never had to intern in the 1980s. He spent his summers working in the back of kitchens, graduated from college and then got a middle-class job. He most likely anticipated that I would follow a similar order. Rinse and repeat. 

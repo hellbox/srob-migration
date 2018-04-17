@@ -1,8 +1,8 @@
 +++
 index = "-K3TjohKKX2RB8iTlv1h"
-_sort_create_date = 1447919820
-_sort_last_updated = 1447919820
-_sort_publish_date = 1447970220
+sort_create_date = 1447919820
+sort_last_updated = 1447919820
+sort_publish_date = 1447970220
 create_date = "2015-11-18T23:57:00-08:00"
 publish_date = "2015-11-19T13:57:00-08:00"
 date = "2015-11-19T13:57:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/artist-trust"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you're a writer, you should [apply for an Artist Trust Fellowship](http://artisttrust.org/index.php/for-artists/money#fellowships) in the Literary Arts category. The deadline is January 11th.

@@ -1,8 +1,8 @@
 +++
 index = "-L2YkQqN5P35hBIanR2i"
-_sort_create_date = 1515649560
-_sort_last_updated = 1515649560
-_sort_publish_date = 1515693300
+sort_create_date = 1515649560
+sort_last_updated = 1515649560
+sort_publish_date = 1515693300
 create_date = "2018-01-10T21:46:00-08:00"
 publish_date = "2018-01-11T09:55:00-08:00"
 date = "2018-01-11T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515649489048/snag
 twitterauto = "Folks, the Snaggletooth comic is really good."
 facebookauto = "Folks, the Snaggletooth comic is really good."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Friends, I'm going to make a bold announcement: It is quite possible that the best new series of 2018 from one of the big two "mainstream" comics publishers has already made its debut. The book in question was published last Wednesday — the first new comics day of the year — and I can't stop thinking about it. 

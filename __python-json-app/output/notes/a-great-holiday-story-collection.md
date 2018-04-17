@@ -1,8 +1,8 @@
 +++
 index = "-K3GMZJvQ3GBPqwdE3DM"
-_sort_create_date = 1447695360
-_sort_last_updated = 1447695360
-_sort_publish_date = 1447707600
+sort_create_date = 1447695360
+sort_last_updated = 1447695360
+sort_publish_date = 1447707600
 create_date = "2015-11-16T09:36:00-08:00"
 publish_date = "2015-11-16T13:00:00-08:00"
 date = "2015-11-16T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Grey Sun Press is our sponsor this week, with a completely engaging book of cross-genre holiday stories."
 facebookauto = "Our sponsor this week is Grey Sun Press. They've published a fantastic collection of cross-genre holiday stories called \"Joy to the Worlds\". "
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/janine-a-southard", "authors/maia-chance", "authors/g-clemens", "authors/raven-oak"]
+notes_about = ""
 books = ["books/joy-to-the-worlds"]
 +++
 You may or may not be ready for the holidays, but it's [never the wrong time to read a great collection of themed stories](http://seattlereviewofbooks.com/sponsor/). This week's sponsor Grey Sun Press offers just that with _Joy to the Worlds: Mysterious Speculative Fiction for the Holidays_. 

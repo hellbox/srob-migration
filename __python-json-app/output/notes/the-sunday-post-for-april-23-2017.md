@@ -1,8 +1,8 @@
 +++
 index = "-KiM2q_cQXKneUDEcShr"
-_sort_create_date = 1492888020
-_sort_last_updated = 1492901280
-_sort_publish_date = 1492963200
+sort_create_date = 1492888020
+sort_last_updated = 1492901280
+sort_publish_date = 1492963200
 create_date = "2017-04-22T12:07:00-07:00"
 publish_date = "2017-04-23T09:00:00-07:00"
 date = "2017-04-23T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Real science, false gods, how to read, and the last word on Rachel Dolezal: the Sunday Post is up!"
 facebookauto = "Real science, false gods, how to read, and the last word on Rachel Dolezal: the Sunday Post is up!"
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

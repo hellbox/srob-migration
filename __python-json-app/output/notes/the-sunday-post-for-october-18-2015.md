@@ -1,8 +1,8 @@
 +++
 index = "-K0tQAqhlrMRhws_MQCA"
-_sort_create_date = 1445146140
-_sort_last_updated = 1445206560
-_sort_publish_date = 1445184000
+sort_create_date = 1445146140
+sort_last_updated = 1445206560
+sort_publish_date = 1445184000
 create_date = "2015-10-17T22:29:00-07:00"
 publish_date = "2015-10-18T09:00:00-07:00"
 date = "2015-10-18T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post this week has pieces by @kathrynschulz, @mfortki, @meaghano, and @Jo_Livingstone"
 facebookauto = "Thoreau bashing, made-up languages, apologies, and the nature of reality. All in today's Sunday Post."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Pond Scum: Henry David Thoreau’s moral myopia.](http://www.newyorker.com/magazine/2015/10/19/pond-scum "Why Do We Love Henry David Thoreau? - The New Yorker")</h5>

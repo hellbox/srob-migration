@@ -1,8 +1,8 @@
 +++
 index = "-KMgiireBRpUWQA7_99t"
-_sort_create_date = 1468555500
-_sort_last_updated = 1468555500
-_sort_publish_date = 1468555500
+sort_create_date = 1468555500
+sort_last_updated = 1468555500
+sort_publish_date = 1468555500
 create_date = "2016-07-14T21:05:00-07:00"
 publish_date = "2016-07-14T21:05:00-07:00"
 date = "2016-07-14T21:05:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/l-DeSzpZ2vWByGcODWJYtlp4SzNhQpZRPQpXCuFy73dZr35RPIioQnuoMRn24aBfwgvI8TVCUsXPcBMOTAm0lIczI8wV"
 url = "/webhook-uploads/1468555330747/prettymuchdead.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 52563
 
 review_relationship = ["reviews/the-skin-of-the-unconscious-ripped-open"]
-author_relationship = ["authors/daphne-gotlieb"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

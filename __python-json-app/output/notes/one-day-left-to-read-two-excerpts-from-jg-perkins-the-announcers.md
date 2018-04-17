@@ -1,8 +1,8 @@
 +++
 index = "-Jy3bSeg3HdBzSRuxOjd"
-_sort_create_date = 1441038960
-_sort_last_updated = 1441038960
-_sort_publish_date = 1441483200
+sort_create_date = 1441038960
+sort_last_updated = 1441038960
+sort_publish_date = 1441483200
 create_date = "2015-08-31T09:36:00-07:00"
 publish_date = "2015-09-05T13:00:00-07:00"
 date = "2015-09-05T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "One day left to read two excerpts from J.G. Perkins' The Announcers. Our thanks to Chatwin Books for their support."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Through Sunday, our sponsor Chatwin Books is allowing us run the introduction and a full chapter from J.G. Perkins' _The Announcers_. 

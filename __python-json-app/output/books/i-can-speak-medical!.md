@@ -1,8 +1,8 @@
 +++
 index = "-KRJl1TUUPrHTkqbRZf6"
-_sort_create_date = 1473522180
-_sort_last_updated = 1473522180
-_sort_publish_date = 1473522180
+sort_create_date = 1473522180
+sort_last_updated = 1473522180
+sort_publish_date = 1473522180
 create_date = "2016-09-10T08:43:00-07:00"
 publish_date = "2016-09-10T08:43:00-07:00"
 date = "2016-09-10T08:43:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6wzeUheajdIOnt9vljGKAJRWSTJgRonm__xk8sry2_iMJXbQ0Yi-l6OCjYJcvIVF6E9pDNvrUa5Evy5Gdl_CEy_i-K3o"
 url = "/webhook-uploads/1473522174520/FullSizeRender-16.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 123775
 
 review_relationship = ""
-author_relationship = ["authors/barbara-e-geary"]
+books_author = ""
 sponsorships_book = ["sponsorships/i-can-speak-medical!"]
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KKpPV28n68IOTgf85u3"
-_sort_create_date = 1466553720
-_sort_last_updated = 1466553720
-_sort_publish_date = 1467223260
+sort_create_date = 1466553720
+sort_last_updated = 1466553720
+sort_publish_date = 1467223260
 create_date = "2016-06-21T17:02:00-07:00"
 publish_date = "2016-06-29T11:01:00-07:00"
 date = "2016-06-29T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466553521887/star
 twitterauto = "Your week in readings kicks off tonight with a reading from @descooper and Tara Conklin!"
 facebookauto = "Your week in readings includes a cookbook, a conversation about race and gender, a prolific sci-fi author, and a series of recommended short books for the 4th of July weekend."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/elliott-bay-book-company", "tags/university-book-store", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday June 29: *Know the Mother* Reading

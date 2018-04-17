@@ -1,8 +1,8 @@
 +++
 index = "-KZbev0WvTonMSyJ1GiF"
-_sort_create_date = 1482429240
-_sort_last_updated = 1483034280
-_sort_publish_date = 1483033800
+sort_create_date = 1482429240
+sort_last_updated = 1483034280
+sort_publish_date = 1483033800
 create_date = "2016-12-22T09:54:00-08:00"
 publish_date = "2016-12-29T09:50:00-08:00"
 date = "2016-12-29T09:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482429117039/MsMa
 twitterauto = "Hey DC & Marvel: We want more superhero comics like this in 2017, please."
 facebookauto = "Hey DC and Marvel: We want more superhero comics like this in 2017, please."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ""
 +++
 By the end of 2016, I found myself completely disillusioned by corporate comics. Marvel Comics seem to be a neverending morass of recycled events and weird brand management choices. A few DC Comics titles are promising, but it seems as though getting comfortable there might be a mistake since the entire line will likely be rebooted as soon as sales drop low enough. These things happen in cycles, of course. A few years ago, Marvel was producing a bunch of work that transcended corporate dictates, and DC has had its moments over the last decade, too. I have faith that soon someone will break the cycle and make something worth reading again.

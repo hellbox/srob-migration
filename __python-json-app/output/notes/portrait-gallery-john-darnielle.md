@@ -1,8 +1,8 @@
 +++
 index = "-Kd2X7ZBPQ_5_RNZ4w5i"
-_sort_create_date = 1487191680
-_sort_last_updated = 1487191680
-_sort_publish_date = 1487282400
+sort_create_date = 1487191680
+sort_last_updated = 1487191680
+sort_publish_date = 1487282400
 create_date = "2017-02-15T12:48:00-08:00"
 publish_date = "2017-02-16T14:00:00-08:00"
 date = "2017-02-16T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487191489676/SRoB
 twitterauto = "Portrait Gallery: John Darnielle @mountain_goats painted by @studiochristine"
 facebookauto = "Portrait Gallery: John Darnielle"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/john-darnielle"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

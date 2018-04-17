@@ -1,8 +1,8 @@
 +++
 index = "-KMelwgLUpa3gFriOHLG"
-_sort_create_date = 1468522800
-_sort_last_updated = 1468522800
-_sort_publish_date = 1468524600
+sort_create_date = 1468522800
+sort_last_updated = 1468522800
+sort_publish_date = 1468524600
 create_date = "2016-07-14T12:00:00-07:00"
 publish_date = "2016-07-14T12:30:00-07:00"
 date = "2016-07-14T12:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in book news: great news, insufferable news, and a wonderful profile of an underrated author."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Hooray for Dr. Carla D. Hayden! As of yesterday, she's officially the 20th Librarian of Congress and, [as Shelf Awareness notes](http://www.shelf-awareness.com/issue.html?issue=2795#m33181), she's "the first woman, and the first African American, to serve as chief executive of the Library of Congress."

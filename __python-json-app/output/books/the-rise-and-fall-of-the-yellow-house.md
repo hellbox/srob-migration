@@ -1,8 +1,8 @@
 +++
 index = "-KMgbnj3PzAkki7gZxUD"
-_sort_create_date = 1468553700
-_sort_last_updated = 1468553700
-_sort_publish_date = 1468553700
+sort_create_date = 1468553700
+sort_last_updated = 1468553700
+sort_publish_date = 1468553700
 create_date = "2016-07-14T20:35:00-07:00"
 publish_date = "2016-07-14T20:35:00-07:00"
 date = "2016-07-14T20:35:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dGEQQAJ5jlZhnJVouKzh3siRy7UDAojzDRDmEuUT8J0VEcX3XkFcUHlgCmmd855venCgsiG9P_5SAjzlNHYpO9Xfh20"
 url = "/webhook-uploads/1468553643676/Yellow-House-web.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 214780
 
 review_relationship = ""
-author_relationship = ["authors/john-whittier-treat"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-rise-and-fall-of-the-yellow-house"]
 notes_relationship = ""
 +++

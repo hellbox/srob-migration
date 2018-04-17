@@ -1,8 +1,8 @@
 +++
 index = "-KCOe5YA8nHG3R7bJxUl"
-_sort_create_date = 1457498100
-_sort_last_updated = 1458060600
-_sort_publish_date = 1458060900
+sort_create_date = 1457498100
+sort_last_updated = 1458060600
+sort_publish_date = 1458060900
 create_date = "2016-03-08T20:35:00-08:00"
 publish_date = "2016-03-15T09:55:00-07:00"
 date = "2016-03-15T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Hunger Rites\" by @Sherman_Alexie is our Tuesday Poem. First line: \"I need bread for breakfast, lunch, and dinner.\""
 facebookauto = "Our Tuesday Poet is Sherman Alexie, with a new poem titled \"Hunger Rites\". First line: \"I need bread for breakfast, lunch, and dinner.\""
 make_image_tweet = "False"
-byline = ["writers/sherman-alexie"]
+notes_byline = ["writers/sherman-alexie"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I need bread for breakfast, lunch, and dinner.<br>

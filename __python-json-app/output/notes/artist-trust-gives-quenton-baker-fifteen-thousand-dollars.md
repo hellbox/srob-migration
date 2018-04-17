@@ -1,8 +1,8 @@
 +++
 index = "-KTrZRSGgdQesTsXmPIO"
-_sort_create_date = 1476253560
-_sort_last_updated = 1476253620
-_sort_publish_date = 1476300300
+sort_create_date = 1476253560
+sort_last_updated = 1476253620
+sort_publish_date = 1476300300
 create_date = "2016-10-11T23:26:00-07:00"
 publish_date = "2016-10-12T12:25:00-07:00"
 date = "2016-10-12T12:25:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations on winning that $15,000 @artisttrust prize, Quenton Baker!"
 facebookauto = "Artist Trust just gave $15,000 to Seattle poet and teacher Quenton Baker. This is great news."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/artist-trust"]
-authors_notes = ["authors/quenton-baker"]
+notes_about = ""
 books = ""
 +++
  

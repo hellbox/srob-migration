@@ -1,8 +1,8 @@
 +++
 index = "-Kt3WM3wxItM3hGUpfGB"
-_sort_create_date = 1504388640
-_sort_last_updated = 1504388640
-_sort_publish_date = 1504388640
+sort_create_date = 1504388640
+sort_last_updated = 1504388640
+sort_publish_date = 1504388640
 create_date = "2017-09-02T14:44:00-07:00"
 publish_date = "2017-09-02T14:44:00-07:00"
 date = "2017-09-02T14:44:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/P5_kTcpiXU87AgpBtKj5m_kj4VzhD2DbmIl74RKhtJ8wyWmzPyNTjGQnsy1y1mCtXC1S6ln3iDLLJJ8iY5lE1OUdWczaTg"
 url = "/webhook-uploads/1504388550080/Taste%20of%20Honey_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 35319
 
 review_relationship = ""
-author_relationship = ["authors/rose-lerner"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/never-trust-aaron-burr-and-other-research-tips-from-a-historical-romance-author"]
 +++

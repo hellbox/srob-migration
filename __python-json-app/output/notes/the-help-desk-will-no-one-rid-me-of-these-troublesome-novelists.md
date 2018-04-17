@@ -1,8 +1,8 @@
 +++
 index = "-KUcPKYotgQjQeBXQCwI"
-_sort_create_date = 1477072980
-_sort_last_updated = 1477072980
-_sort_publish_date = 1477074660
+sort_create_date = 1477072980
+sort_last_updated = 1477072980
+sort_publish_date = 1477074660
 create_date = "2016-10-21T11:03:00-07:00"
 publish_date = "2016-10-21T11:31:00-07:00"
 date = "2016-10-21T11:31:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Is National Novel Writing Month an insult to novelists? @ciennam has opinions."
 facebookauto = "Steve is annoyed by all the NaNoWriMo novelists who take over his coffee shop. Does Cienna Madrid have any advice for him?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/nanowrimo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

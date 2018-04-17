@@ -1,8 +1,8 @@
 +++
 index = "-K3Qre86tl7iweswNsW4"
-_sort_create_date = 1447871520
-_sort_last_updated = 1447871520
-_sort_publish_date = 1447871520
+sort_create_date = 1447871520
+sort_last_updated = 1447871520
+sort_publish_date = 1447871520
 create_date = "2015-11-18T10:32:00-08:00"
 publish_date = "2015-11-18T10:32:00-08:00"
 date = "2015-11-18T10:32:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/magazine"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <blockquote>The December issue of *Details* magazine will be its last, making the men’s fashion title the latest casualty of the declining print advertising market.</blockquote>

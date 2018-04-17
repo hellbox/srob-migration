@@ -1,8 +1,8 @@
 +++
 index = "-KhnAK2TdS06fqsuoacI"
-_sort_create_date = 1492285980
-_sort_last_updated = 1492287420
-_sort_publish_date = 1492358400
+sort_create_date = 1492285980
+sort_last_updated = 1492287420
+sort_publish_date = 1492358400
 create_date = "2017-04-15T12:53:00-07:00"
 publish_date = "2017-04-16T09:00:00-07:00"
 date = "2017-04-16T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post hiked the Appalachian Trail, listened to S-Town, and resolved good v. evil so you don't have to."
 facebookauto = "The Sunday Post hiked the Appalachian Trail, listened to S-Town, and resolved good v. evil so you don't have to."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

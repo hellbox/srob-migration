@@ -1,8 +1,8 @@
 +++
 index = "-KXfzyLHq2SA4qeqnRpl"
-_sort_create_date = 1480354380
-_sort_last_updated = 1480354620
-_sort_publish_date = 1480366800
+sort_create_date = 1480354380
+sort_last_updated = 1480354620
+sort_publish_date = 1480366800
 create_date = "2016-11-28T09:33:00-08:00"
 publish_date = "2016-11-28T13:00:00-08:00"
 date = "2016-11-28T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480354291110/silv
 twitterauto = "Sponsor @annaredsand is coming to Seattle on December 3rd. More details, and book excerpt, here:"
 facebookauto = "Sponsor Anna Redsand is coming to Seattle on December 3rd! More details, and book excerpt, on our Sponsor's page this week."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1480354415739/silver-cup-cover.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KawtwJBUysT6u35nvpH"
-_sort_create_date = 1484932980
-_sort_last_updated = 1484932980
-_sort_publish_date = 1484935260
+sort_create_date = 1484932980
+sort_last_updated = 1484932980
+sort_publish_date = 1484935260
 create_date = "2017-01-20T09:23:00-08:00"
 publish_date = "2017-01-20T10:01:00-08:00"
 date = "2017-01-20T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A reader writes to @ciennam: I can't seem to stop trolling a local writer.  How do I stop being a troll?"
 facebookauto = "In our advice column this week, a writer asks Cienna Madrid for help: he can't seem to stop trolling a local writer. How can he stop trolling? Should he stop trolling?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/troll"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

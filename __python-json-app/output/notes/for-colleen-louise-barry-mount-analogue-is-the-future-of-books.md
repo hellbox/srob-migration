@@ -1,8 +1,8 @@
 +++
 index = "-Kg_hPGAm8POKTbK8FUR"
-_sort_create_date = 1490986260
-_sort_last_updated = 1490986260
-_sort_publish_date = 1491238260
+sort_create_date = 1490986260
+sort_last_updated = 1490986260
+sort_publish_date = 1491238260
 create_date = "2017-03-31T11:51:00-07:00"
 publish_date = "2017-04-03T09:51:00-07:00"
 date = "2017-04-03T09:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We interviewed @mount0analogue publisher Colleen Louise Barry about the future of books."
 facebookauto = "We interviewed Mount Analogue publisher Colleen Louise Barry about the future of books."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/mount-analogue", "tags/independent-publishing", "tags/future-of-books"]
-authors_notes = ["authors/colleen-louise-barry"]
+notes_about = ""
 books = ""
 +++
 Colleen Louise Barry publishes weird and wonderful books under the name [Mount Analogue](http://www.mount-analogue.com/). It’s not just the name of her press so much as a pseudonym; the names “Mount Analogue” and “Colleen Louise Barry” are basically synonymous, the way “Nine Inch Nails” and “Trent Reznor” can be swapped out interchangeably.

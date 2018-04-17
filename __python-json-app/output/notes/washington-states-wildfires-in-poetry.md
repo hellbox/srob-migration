@@ -1,8 +1,8 @@
 +++
 index = "-Jy4C9dkINSS7VA7cunM"
-_sort_create_date = 1441048860
-_sort_last_updated = 1441049400
-_sort_publish_date = 1441059600
+sort_create_date = 1441048860
+sort_last_updated = 1441049400
+sort_publish_date = 1441059600
 create_date = "2015-08-31T12:21:00-07:00"
 publish_date = "2015-08-31T15:20:00-07:00"
 date = "2015-08-31T15:20:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Washington Poet Laureate @EAustenPoet is publishing poetry about wildfires. Here's why that's important."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poet-laureate", "tags/wildfire"]
-authors_notes = ["authors/elizabeth-austen", "authors/kelli-russell-agodon", "authors/william-stafford"]
+notes_about = ""
 books = ""
 +++
 Even though Seattle is happily back to its normal grey drizzle, we can't forget that the eastern half of Washington is currently battling the worst wildfires in state history. We've already looked at how [booksellers are surviving](http://seattlereviewofbooks.com/notes/2015/08/28/washington-bookstores-survive-wildfires/) the fires, but here's a project that's worthy of your attention: every other day, Washington state Poet Laureate Elizabeth Austen will [publish a poem](http://wapoetlaureate.org/) relating to the wildfires. Yesterday, she published a beautiful poem by William Stafford about the Tillamook Burn. Last week, she ran [a poem called "Endless Summer"](http://wapoetlaureate.org/2015/08/28/endless-summer-by-kelli-russell-agodon/) by *SRoB* contributor [Kelli Russell Agodon](http://seattlereviewofbooks.com/writers/kelli-russell-agodon/).

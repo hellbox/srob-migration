@@ -1,8 +1,8 @@
 +++
 index = "-Kx9QW4xptfWZ5RIfBA7"
-_sort_create_date = 1508782200
-_sort_last_updated = 1508782200
-_sort_publish_date = 1508782200
+sort_create_date = 1508782200
+sort_last_updated = 1508782200
+sort_publish_date = 1508782200
 create_date = "2017-10-23T11:10:00-07:00"
 publish_date = "2017-10-23T11:10:00-07:00"
 date = "2017-10-23T11:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to all the 2017 @artisttrust GAP winners!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/artist-trust"]
-authors_notes = ["authors/sarah-mangold", "authors/eroyn-franklin"]
+notes_about = ""
 books = ""
 +++
 This morning, local arts organization Artist Trust [announced the recipients of their Grants for Artist Projects (GAP)](http://artisttrust.org/index.php/news/press-release/artist_trust_announces_2017_grants_for_artist_projects_gap_award_recipients). The 61 GAP recipients will (with two exceptions) receive $1500 to complete or further the work on projects that are currently in process. (One of the artists will receive a special $2000 grant, and another artist will receive a retreat in Port Townsend with an additional $500 stipend.) The award is intended to benefit "emerging to established artists of all disciplines across Washington State."

@@ -1,8 +1,8 @@
 +++
 index = "-KMgkpzqeuGJ73eMm7VE"
-_sort_create_date = 1468556040
-_sort_last_updated = 1468860420
-_sort_publish_date = 1468868460
+sort_create_date = 1468556040
+sort_last_updated = 1468860420
+sort_publish_date = 1468868460
 create_date = "2016-07-14T21:14:00-07:00"
 publish_date = "2016-07-18T12:01:00-07:00"
 date = "2016-07-18T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "The skin of the unconscious, ripped open"
 dek = "Sometimes when you love a city, you have to leave it. And vice versa."
 facebookauto = "\"For better or worse \u2014 and I would say for better, and worse \u2014 there\u2019s only one city that\u2019s truly felt like home to me, and that\u2019s San Francisco,\" begins this review of Daphne Gottlieb's Pretty Much Dead."
 twitterauto = ".@mbsycamore calls Pretty Much Dead \"a wrecking ball inside a cry for help inside a wrecking ball.\""
-byline = ["writers/mattilda-bernstein-sycamore"]
+reviews_byline = ["writers/mattilda-bernstein-sycamore"]
 books_in_this_review = ["books/pretty-much-dead"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/daphne-gotlieb"]
+reviews_about = ""
 +++
 
 For better or worse — and I would say for better, and worse — there’s only one city that’s truly felt like home to me, and that’s San Francisco. The first time it felt this way was in 1994, and that had a lot to do with JoAnne. We taught each other to breathe and to chew, basic survival skills that we didn’t have because we had to survive, I’m quoting my first novel here, so you see how fiction can offer the truth, I don’t have to use quotation marks because I wrote it. 

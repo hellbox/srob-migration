@@ -1,8 +1,8 @@
 +++
 index = "-KFW_9lgWsIzmQj2wXvJ"
-_sort_create_date = 1460852220
-_sort_last_updated = 1460852220
-_sort_publish_date = 1460852220
+sort_create_date = 1460852220
+sort_last_updated = 1460852220
+sort_publish_date = 1460852220
 create_date = "2016-04-16T17:17:00-07:00"
 publish_date = "2016-04-16T17:17:00-07:00"
 date = "2016-04-16T17:17:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NydfNoVUahdM5015V9dJqxek8Sh1iaCrbWjMkqF7l2iqZuYdIjjjZI-HNmKAvOnSjdOKTUljzPLOs4imuUSiPLgEqZw"
 url = "/webhook-uploads/1460852097721/61pNSsS9tYL._SX324_BO1%2C204%2C203%2C200_.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 63144
 
 review_relationship = ["reviews/how-to-celebrate-a-calendrical-coincidence"]
-author_relationship = ["authors/multiple-authors"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

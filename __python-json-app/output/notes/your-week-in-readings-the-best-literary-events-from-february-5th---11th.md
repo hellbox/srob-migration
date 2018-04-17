@@ -1,8 +1,8 @@
 +++
 index = "-L4J5MMplaL_euITf_gv"
-_sort_create_date = 1517534400
-_sort_last_updated = 1517954100
-_sort_publish_date = 1517860560
+sort_create_date = 1517534400
+sort_last_updated = 1517954100
+sort_publish_date = 1517860560
 create_date = "2018-02-01T17:20:00-08:00"
 publish_date = "2018-02-05T11:56:00-08:00"
 date = "2018-02-05T11:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517534343982/humm
 twitterauto = "Your week of readings starts @SPLBuzz and continues with a book launch with @HugoHouse."
 facebookauto = "Here's one great literary event for every single day of this week!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, February 5: Thrilling Tales**</h5></p>

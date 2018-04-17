@@ -1,8 +1,8 @@
 +++
 index = "-KuSQ8FacNCBlhb8w5d8"
-_sort_create_date = 1505879640
-_sort_last_updated = 1505918280
-_sort_publish_date = 1506020400
+sort_create_date = 1505879640
+sort_last_updated = 1505918280
+sort_publish_date = 1506020400
 create_date = "2017-09-19T20:54:00-07:00"
 publish_date = "2017-09-21T12:00:00-07:00"
 date = "2017-09-21T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505879569835/Proo
 twitterauto = "Fall Crime! @daneetsteffens interviews @jajance, and reviews new books by @sophiehannahCB1, @atticalocke and others."
 facebookauto = "It's the first Criminal Fiction of Fall! Daneet Steffens interviews JA Jance, and reviews new books by Sophie Hanna, Attica Locke,  John le Carr\u00e9, and Andrea Camilleri."
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/denise-mina", "authors/steve-cavanagh", "authors/luca-veste", "authors/ian-rankin", "authors/eva-dolan", "authors/mark-billingham", "authors/sophie-hannah", "authors/stuart-neville", "authors/ja-jance"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

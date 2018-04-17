@@ -1,8 +1,8 @@
 +++
 index = "-L4A5zNa4nCmU2wz-0Po"
-_sort_create_date = 1517383560
-_sort_last_updated = 1517433960
-_sort_publish_date = 1517428560
+sort_create_date = 1517383560
+sort_last_updated = 1517433960
+sort_publish_date = 1517428560
 create_date = "2018-01-30T23:26:00-08:00"
 publish_date = "2018-01-31T11:56:00-08:00"
 date = "2018-01-31T11:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517381112897/sphe
 twitterauto = "We visited the Understory at Amazon's Spheres. It left us with some questions."
 facebookauto = "We visited the Understory at Amazon's Spheres. It left us with some questions."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1517381112897/spheres.JPG)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-K_rb2gAWELFtht1f99a"
-_sort_create_date = 1483770420
-_sort_last_updated = 1483803180
-_sort_publish_date = 1483808400
+sort_create_date = 1483770420
+sort_last_updated = 1483803180
+sort_publish_date = 1483808400
 create_date = "2017-01-06T22:27:00-08:00"
 publish_date = "2017-01-07T09:00:00-08:00"
 date = "2017-01-07T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Introducing (again): Seattle Writing Prompts"
 facebookauto = "Introducing (again): Seattle Writing Prompts"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-writing-prompts"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The humble writing prompt is such a great device. When you're stuck, as a writer, often times the perception is that there aren't any ideas, and that the world is bereft of good plots. 

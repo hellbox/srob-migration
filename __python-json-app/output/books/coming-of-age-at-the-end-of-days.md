@@ -1,8 +1,8 @@
 +++
 index = "-K0P5V1ik3u5oaMSiSRv"
-_sort_create_date = 1444620660
-_sort_last_updated = 1444620660
-_sort_publish_date = 1444620660
+sort_create_date = 1444620660
+sort_last_updated = 1444620660
+sort_publish_date = 1444620660
 create_date = "2015-10-11T20:31:00-07:00"
 publish_date = "2015-10-11T20:31:00-07:00"
 date = "2015-10-11T20:31:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/j8-a5_9pnZxXYQ0GDe6kPjPuFxPuwUYIqrYdSy93a4d0N-nGJPAhYpi_d-82XpKoAaFeXQftBmt7Vw3nAx2Vq5voMuGrjA"
 url = "/webhook-uploads/1444620664434/content%3Fid%3D2o7PoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12292
 
 review_relationship = ["reviews/teenage-wasteland"]
-author_relationship = ["authors/alice-laplante"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

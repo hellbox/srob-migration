@@ -1,8 +1,8 @@
 +++
 index = "-KL0R3V_oNieyZIIj4M8"
-_sort_create_date = 1466755440
-_sort_last_updated = 1466755440
-_sort_publish_date = 1467047040
+sort_create_date = 1466755440
+sort_last_updated = 1466755440
+sort_publish_date = 1467047040
 create_date = "2016-06-24T01:04:00-07:00"
 publish_date = "2016-06-27T10:04:00-07:00"
 date = "2016-06-27T10:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466755102281/conf
 twitterauto = "We all need booksellers to be matchmakers between people and books."
 facebookauto = "We all need booksellers to be matchmakers between people and books."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month"]
-authors_notes = ["authors/ann-leckie"]
+notes_about = ""
 books = ["books/ancillary-justice"]
 +++
 You can have the best-stocked bookstore in the world, but without booksellers it would be nearly useless. In fact, a bookstore exists in that space where the booksellers and literature intersect. We need them to direct us to books — classics, rarities, backlist, brand-new bestsellers — and explain why we should be interested in them.

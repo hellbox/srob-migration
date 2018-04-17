@@ -1,8 +1,8 @@
 +++
 index = "-Kql1amwOmDNnqhILMgT"
-_sort_create_date = 1501913820
-_sort_last_updated = 1501913820
-_sort_publish_date = 1502219760
+sort_create_date = 1501913820
+sort_last_updated = 1501913820
+sort_publish_date = 1502219760
 create_date = "2017-08-04T23:17:00-07:00"
 publish_date = "2017-08-08T12:16:00-07:00"
 date = "2017-08-08T12:16:00-07:00"
@@ -13,10 +13,10 @@ title = "The Second Coming"
 dek = "In 2013, Richard Chiem published a short story collection that was ahead of its time. Time\u2019s up.\n"
 facebookauto = "It's not very often you see a reissue of a book of short stories that feels more timely than its first publication. You Private Person is that kind of a book."
 twitterauto = "Sorry House has reissued @giganticanovel 's book of short stories. You have to read it now."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/you-private-person"]
 tags_reviews = ["tags/short-stories"]
-authors_reviews = ["authors/richard-chiem"]
+reviews_about = ""
 +++
 
 Almost exactly four years ago, I reviewed Seattle author Richard Chiem’s short story collection *You Private Person*. I request that you don’t look up the review. It’s not bad, exactly, but I clearly didn’t understand the book very well. I blabbed for a while, failed to find a point, and then concluded the review having said exactly nothing. (Pro tip: when a reviewer opens a piece raving about the beauty of an author’s sentences, that reviewer is probably pushing up against a deadline and can’t figure out what else to say.) It always bugged me a little that I couldn’t figure out how to get my arms around Chiem’s book.

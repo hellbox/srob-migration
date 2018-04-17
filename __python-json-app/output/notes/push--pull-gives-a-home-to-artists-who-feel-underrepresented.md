@@ -1,8 +1,8 @@
 +++
 index = "-K8SjjlRqhXhbUeDcwgt"
-_sort_create_date = 1453271700
-_sort_last_updated = 1453318920
-_sort_publish_date = 1453312800
+sort_create_date = 1453271700
+sort_last_updated = 1453318920
+sort_publish_date = 1453312800
 create_date = "2016-01-19T22:35:00-08:00"
 publish_date = "2016-01-20T10:00:00-08:00"
 date = "2016-01-20T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453271288934/Push
 twitterauto = "Why don't so-called \"fine artists\" respect cartoonists?"
 facebookauto = "Push/Pull, our January bookstore of the month, is providing a home for illustrators, who get short shrift in the so-called \"fine art\" world."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/push--pull"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1453271288934/Push%3APull%20fireplace.png)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L5G_uUMlgSUh6tIHKmW"
-_sort_create_date = 1518566040
-_sort_last_updated = 1518566040
-_sort_publish_date = 1518566040
+sort_create_date = 1518566040
+sort_last_updated = 1518566040
+sort_publish_date = 1518566040
 create_date = "2018-02-13T15:54:00-08:00"
 publish_date = "2018-02-13T15:54:00-08:00"
 date = "2018-02-13T15:54:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = "https://www.amazon.com/Not-Really-Emotion-Kevin-Marshall-ebook
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ZHCfeuCC_8GlVAGIekIElfWrtCsQ3yHXi-OxtBn6sIXydrvYB9G52wxcIQwmln6sfeig67ewJUlry1ggh9Z5VqOhf5U"
 url = "/webhook-uploads/1518566077395/Not%20Really%20an%20Emotion_cover_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 20254
 
 review_relationship = ""
-author_relationship = ["authors/kevin-marshall"]
+books_author = ""
 sponsorships_book = ["sponsorships/not-really-an-emotion"]
 notes_relationship = ["notes/not-really-a-comic-book"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-JwLO433S3oguxpIttM0"
-_sort_create_date = 1439189700
-_sort_last_updated = 1439190420
-_sort_publish_date = 1439491980
+sort_create_date = 1439189700
+sort_last_updated = 1439190420
+sort_publish_date = 1439491980
 create_date = "2015-08-09T23:55:00-07:00"
 publish_date = "2015-08-13T11:53:00-07:00"
 date = "2015-08-13T11:53:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "d5edd04f-56cc-4cf7-b403-4076283a36a8"
 name = "What's one more American death, give or take?"
 title = "What's one more American death, give or take?"
 dek = "A new history by James Neff documents the long-running battle between Bobby Kennedy and Jimmy Hoffa, two men with enormous personalities and a distinct loathing for one another."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/vendetta"]
 tags_reviews = ""
-authors_reviews = ["authors/james-neff"]
+reviews_about = ""
 +++
 
 *Vendetta*, the new book by *Seattle Times* writer James Neff, begins on the day that many have characterized as the moment when America lost its innocence. Attorney General Robert Kennedy has just enjoyed a picnic lunch on an unseasonably warm November day in Washington DC. Teamsters president Jimmy Hoffa is finishing a meal in a Miami restaurant. Both men are approached with news: President John F. Kennedy has been shot; he’s likely either dead or is about to die.

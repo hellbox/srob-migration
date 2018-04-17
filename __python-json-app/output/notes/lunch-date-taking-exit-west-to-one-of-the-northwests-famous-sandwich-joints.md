@@ -1,8 +1,8 @@
 +++
 index = "-KiTB4yyg5I8fT8cc1wI"
-_sort_create_date = 1493007600
-_sort_last_updated = 1493505900
-_sort_publish_date = 1493406060
+sort_create_date = 1493007600
+sort_last_updated = 1493505900
+sort_publish_date = 1493406060
 create_date = "2017-04-23T21:20:00-07:00"
 publish_date = "2017-04-28T12:01:00-07:00"
 date = "2017-04-28T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493006556700/IMG_
 twitterauto = "We took Exit West to one of the Northwest's most-loved sandwich places."
 facebookauto = "We took Exit West to one of the Northwest's most-loved sandwich places. One of these two things wound up disappointing us."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)*

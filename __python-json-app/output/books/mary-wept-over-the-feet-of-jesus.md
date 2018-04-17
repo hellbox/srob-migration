@@ -1,8 +1,8 @@
 +++
 index = "-KFN3NaDxSouPpcX5qnC"
-_sort_create_date = 1460692680
-_sort_last_updated = 1460692680
-_sort_publish_date = 1460692680
+sort_create_date = 1460692680
+sort_last_updated = 1460692680
+sort_publish_date = 1460692680
 create_date = "2016-04-14T20:58:00-07:00"
 publish_date = "2016-04-14T20:58:00-07:00"
 date = "2016-04-14T20:58:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/eknQiLK4kldBp4m_CMz52dokksE3gfw6l7ZQ4YORT1deGgSrHOBhmcYiTZvKYXpJjz9CUgqlRG40iwaH4jQCvXd7hJVblQ"
 url = "/webhook-uploads/1460692563692/marywept.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 30681
 
 review_relationship = ["reviews/theres-something-about-mary"]
-author_relationship = ["authors/chester-brown"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-a-conversation-about-disability-and-the-arts-is-happening-this-afternoon"]
 +++

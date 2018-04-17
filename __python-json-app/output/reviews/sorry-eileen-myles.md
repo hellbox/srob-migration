@@ -1,8 +1,8 @@
 +++
 index = "-K0PDEKkN_ZCdNPqn9p0"
-_sort_create_date = 1444622640
-_sort_last_updated = 1444717740
-_sort_publish_date = 1444761840
+sort_create_date = 1444622640
+sort_last_updated = 1444717740
+sort_publish_date = 1444761840
 create_date = "2015-10-11T21:04:00-07:00"
 publish_date = "2015-10-13T11:44:00-07:00"
 date = "2015-10-13T11:44:00-07:00"
@@ -13,10 +13,10 @@ title = "Sorry, Eileen Myles"
 dek = "Eileen Myles is one of our sharpest observational writers, and her poems contain the kind of contradictions that would break the brain of a lesser writer clean in two. Here's why she should be immortal."
 facebookauto = "Eileen Myles is one of our sharpest observational writers, and her poems contain the kind of contradictions that would break the brain of a lesser writer clean in two. Here's why she should be immortal."
 twitterauto = "Here's why we think @EileenMyles should roam the earth forever, writing poetry."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/sorry-tree", "books/snowflake--different-streets", "books/-the-importance-of-being-iceland"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/eileen-myles"]
+reviews_about = ""
 +++
 
 It’s the year 2018. In a press conference, NASA scientists have just announced a shocking new discovery. As part of their research into cryogenic sleep for deep-space flights, they have finally uncovered the secret of immortality. At that announcement, the press corps immediately respond with murmuring and more exciteable, goose-like noises, but as the sussuration begins to build into a straight-on frenzy, the lead scientist raises her hands. *Wait a minute*, she says to the assembled media. *Look*, she says. *There’s a catch*.

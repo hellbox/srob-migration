@@ -1,8 +1,8 @@
 +++
 index = "-K85w0BMyDC4xbQlGtER"
-_sort_create_date = 1452889080
-_sort_last_updated = 1452897300
-_sort_publish_date = 1452891600
+sort_create_date = 1452889080
+sort_last_updated = 1452897300
+sort_publish_date = 1452891600
 create_date = "2016-01-15T12:18:00-08:00"
 publish_date = "2016-01-15T13:00:00-08:00"
 date = "2016-01-15T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Making a book from absolute scratch."
 facebookauto = "Making a book from absolute scratch. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/handmade-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LPK9ZSRViSE?rel=0" frameborder="0" allowfullscreen></iframe>

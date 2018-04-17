@@ -1,8 +1,8 @@
 +++
 index = "-KGNq9VGy6iQn0zj_FCl"
-_sort_create_date = 1461779460
-_sort_last_updated = 1461779460
-_sort_publish_date = 1461789000
+sort_create_date = 1461779460
+sort_last_updated = 1461779460
+sort_publish_date = 1461789000
 create_date = "2016-04-27T10:51:00-07:00"
 publish_date = "2016-04-27T13:30:00-07:00"
 date = "2016-04-27T13:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Which Seattle-area independent bookstore are you?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/independent-bookstores"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 As part of the celebration for [Independent Bookstore Day](http://seattlereviewofbooks.com/notes/2016/04/27/event-of-the-week-independent-bookstore-day-on-saturday-april-30/) some industrious bookstore lovers have created an online quiz called "[Which Seattle-Area Bookstore Are You?](https://www.qzzr.com/c/quiz/204526/which-seattle-area-bookstore-are-you-926bce5d-f4a9-4d89-ad47-8d2ef0d18bcc)" I got Bainbridge Island's Eagle Harbor Company.

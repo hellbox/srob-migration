@@ -1,8 +1,8 @@
 +++
 index = "-KJcjUguR1Nk9S3hrmzS"
-_sort_create_date = 1465267380
-_sort_last_updated = 1465267500
-_sort_publish_date = 1465318500
+sort_create_date = 1465267380
+sort_last_updated = 1465267500
+sort_publish_date = 1465318500
 create_date = "2016-06-06T19:43:00-07:00"
 publish_date = "2016-06-07T09:55:00-07:00"
 date = "2016-06-07T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"fare well, feels. be gone\" is the first line of our Tuesday Poem, from @afrose_fatima."
 facebookauto = "\"fare well, feels. be gone\" is the first line of our Tuesday Poem, from afrose fatima ahmed."
 make_image_tweet = "False"
-byline = ["writers/afrose-fatima-ahmed"]
+notes_byline = ["writers/afrose-fatima-ahmed"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 fare well, feels. be gone<br>

@@ -1,8 +1,8 @@
 +++
 index = "-JyedH1bhX5kxjQ4vGvt"
-_sort_create_date = 1441676940
-_sort_last_updated = 1441736040
-_sort_publish_date = 1441738140
+sort_create_date = 1441676940
+sort_last_updated = 1441736040
+sort_publish_date = 1441738140
 create_date = "2015-09-07T18:49:00-07:00"
 publish_date = "2015-09-08T11:49:00-07:00"
 date = "2015-09-08T11:49:00-07:00"
@@ -12,10 +12,10 @@ name = "Heaven is a place on Earth"
 title = "Heaven is a place on Earth"
 dek = "The newest novel from Seattle author Jonathan Evison seems at first like a broad comedy about a 78-year-old woman on an Alaskan cruise. Then things start to get weird. And then things get dark. What the hell is going on here?"
 twitterauto = "Seattle author Jonathan Evison's new novel is set partly in the afterlife. It's a weird choice. Does it pay off?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/this-is-your-life-harriet-chance!"]
 tags_reviews = ""
-authors_reviews = ["authors/jonathan-evison"]
+reviews_about = ""
 +++
 
 Early in his new novel *This Is Your Life, Harriet Chance!*, Jonathan Evison makes an artistic decision that’s sure to divide his readership. It’s on page 14, at the beginning of the book’s fifth chapter, and there’s no way to talk around it, so here we go: Evison sets a scene in heaven, where Harriet Chance’s recently deceased husband, Bernard, gets a dressing-down from a bureaucrat named Charmichael for interfering with the world of the living. 

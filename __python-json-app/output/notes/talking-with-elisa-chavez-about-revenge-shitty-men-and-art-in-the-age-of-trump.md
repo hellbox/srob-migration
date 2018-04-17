@@ -1,8 +1,8 @@
 +++
 index = "-KazqhILISmB-rwYKpBC"
-_sort_create_date = 1484982480
-_sort_last_updated = 1484983200
-_sort_publish_date = 1485194460
+sort_create_date = 1484982480
+sort_last_updated = 1484983200
+sort_publish_date = 1485194460
 create_date = "2017-01-20T23:08:00-08:00"
 publish_date = "2017-01-23T10:01:00-08:00"
 date = "2017-01-23T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484982331530/maxr
 twitterauto = "We talked with @elisacatrina about her explosive poem \"Revenge.\""
 facebookauto = "We talked with Elisa Chavez about her explosive poem \"Revenge,\" the two times she went viral as a poet, and what she's working on next."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/donald-trump", "tags/gamergate"]
-authors_notes = ["authors/elisa-chavez"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Elisa Chavez’s poem [“Revenge”](http://www.seattlereviewofbooks.com/notes/2017/01/03/revenge/) was published on her Tumblr and then was republished by Seattle author Lesley Hazleton. We [read the poem on Hazleton’s blog](http://accidentaltheologist.com/?p=6059) and got permission from both Chavez and Hazleton to publish it on the *Seattle Review of Books*, and we made Chavez our very first Poet in Residence for the month of January. Then, the poem went absolutely nuts: this month, many tens of thousands of people have come to the *Seattle Review of Books* to read and share “Revenge” with their social networks. “Revenge” marks the second poem of Chavez’s to go viral; an earlier poem about Gamergate attracted the attention of dozens of internet trolls. We sat down with Chavez to discuss slam poetry, being a viral poet, and why art is more relevant now than ever.</p>

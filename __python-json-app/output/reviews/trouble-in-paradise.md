@@ -1,8 +1,8 @@
 +++
 index = "-Kgwb8UYanNWJJ_OlKjN"
-_sort_create_date = 1491370500
-_sort_last_updated = 1491455700
-_sort_publish_date = 1491503400
+sort_create_date = 1491370500
+sort_last_updated = 1491455700
+sort_publish_date = 1491503400
 create_date = "2017-04-04T22:35:00-07:00"
 publish_date = "2017-04-06T11:30:00-07:00"
 date = "2017-04-06T11:30:00-07:00"
@@ -13,10 +13,10 @@ title = "Trouble in paradise"
 dek = "For our Thursday comics column, we look at a book made up entirely of screenshots taken from episodes of The Bachelor and The Bachelorette. Is it comics? Is it poetry? Is it art? Is it a desperate howl from the inside of the human heart? Yes, yes, yes, and absolutely."
 facebookauto = "Here's a book made entirely from screenshots of Bachelor episodes. It might make you cry."
 twitterauto = "Here's a book made entirely from screenshots of Bachelor episodes. It might make you cry."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/final-rose"]
 tags_reviews = ["tags/thursday-comics-hangover"]
-authors_reviews = ["authors/halie-theoharides"]
+reviews_about = ""
 +++
 
 Mount Analogue publisher Colleen Louise Barry first encountered Halie Theoharides’s blog *Final Rose* as a fan. In [her interview with me](http://www.seattlereviewofbooks.com/notes/2017/04/03/for-colleen-louise-barry-mount-analogue-is-the-future-of-books/), Barry’s enthusiasm for the project was clear. *Final Rose*, she explained, was made up of “all of these screenshots [Theoharides] would take while she was watching *The Bachelor* and *The Bachelorette* with closed captioning on. She would take a screenshot whenever the text and the image on the screen were doing something interesting or disturbing or funny.”

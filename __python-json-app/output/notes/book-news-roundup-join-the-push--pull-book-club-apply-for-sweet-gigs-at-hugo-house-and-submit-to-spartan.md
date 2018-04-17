@@ -1,8 +1,8 @@
 +++
 index = "-L23qyB7DPSpdPRSajZH"
-_sort_create_date = 1515131220
-_sort_last_updated = 1515131820
-_sort_publish_date = 1515178860
+sort_create_date = 1515131220
+sort_last_updated = 1515131820
+sort_publish_date = 1515178860
 create_date = "2018-01-04T21:47:00-08:00"
 publish_date = "2018-01-05T11:01:00-08:00"
 date = "2018-01-05T11:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515130668545/twon
 twitterauto = "Join @PushPullSeattle's book club, apply for sweet gigs @HugoHouse, & submit to @Spartan_Lit."
 facebookauto = "Join the Push/Pull book club, apply for sweet gigs at Hugo House, and submit to Spartan"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/push--pull", "tags/hugo-house", "tags/spartan"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1515130668545/twonavels.jpeg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-Ke60G5UErPDGPWUmZMA"
-_sort_create_date = 1488323940
-_sort_last_updated = 1488323940
-_sort_publish_date = 1488323940
+sort_create_date = 1488323940
+sort_last_updated = 1488323940
+sort_publish_date = 1488323940
 create_date = "2017-02-28T15:19:00-08:00"
 publish_date = "2017-02-28T15:19:00-08:00"
 date = "2017-02-28T15:19:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "That's a lot of money for a presidential memoir."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/barack-obama"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *The Hill* [reports](http://thehill.com/homenews/news/321619-bidding-hits-60m-on-obamas-book-deal-report?amp): 

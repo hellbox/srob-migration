@@ -1,8 +1,8 @@
 +++
 index = "-KHLKba-CmDVz3X_iSVo"
-_sort_create_date = 1462811100
-_sort_last_updated = 1462811760
-_sort_publish_date = 1462824000
+sort_create_date = 1462811100
+sort_last_updated = 1462811760
+sort_publish_date = 1462824000
 create_date = "2016-05-09T09:25:00-07:00"
 publish_date = "2016-05-09T13:00:00-07:00"
 date = "2016-05-09T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're teaming up with @SeaArtsLectures to give away two tickets to see Annie Proulx!"
 facebookauto = "We're teaming up with Seattle Arts & Lectures to give away two tickets to see Annie Proulx! "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We're teaming with this week's sponsor <a href="http://www.lectures.org" title="Seattle Arts &amp;amp; Lectures">_Seattle Arts &amp; Lectures_</a> to give away tickets to see Annie Proulx talk on June 23rd, along with a copy of her upcoming book _Barkskins_. It's easy to enter &mdash; <a href="http://seattlereviewofbooks.com/sponsorships" title="The Seattle Review of Books - sponsorships">just head to our sponsor's page</a>, and click the link to join our mailing list.

@@ -1,8 +1,8 @@
 +++
 index = "-L0lxT3EU7Eyc613K8SE"
-_sort_create_date = 1513740420
-_sort_last_updated = 1513874040
-_sort_publish_date = 1513886400
+sort_create_date = 1513740420
+sort_last_updated = 1513874040
+sort_publish_date = 1513886400
 create_date = "2017-12-19T19:27:00-08:00"
 publish_date = "2017-12-21T12:00:00-08:00"
 date = "2017-12-21T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513741127015/The%
 twitterauto = "It's the end of the year for Criminal Fiction. @daneetsteffens brings the December books home. "
 facebookauto = "It's the end of the year for Criminal Fiction. Daneet Steffens brings the December books home. "
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/lawrence-block", "authors/garry-disher", "authors/peter-lovesey", "authors/joyce-carol-oates", "authors/jeffrey-deaver", "authors/nicholas-christopher", "authors/michael-connelly", "authors/lee-child", "authors/sarah-weinman"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

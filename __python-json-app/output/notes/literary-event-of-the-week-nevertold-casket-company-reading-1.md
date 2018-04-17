@@ -1,8 +1,8 @@
 +++
 index = "-KPMKbOjWyC2u12ATTm8"
-_sort_create_date = 1471417800
-_sort_last_updated = 1471417800
-_sort_publish_date = 1472058000
+sort_create_date = 1471417800
+sort_last_updated = 1471417800
+sort_publish_date = 1472058000
 create_date = "2016-08-17T00:10:00-07:00"
 publish_date = "2016-08-24T10:00:00-07:00"
 date = "2016-08-24T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our literary event of the week is a new reading series at Capitol Hill's best haunted shop."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/sarah-galvin", "authors/david-schmader", "authors/jenny-zhang"]
+notes_about = ""
 books = ["books/the-three-einsteins", "books/weed-the-users-guide"]
 +++
 The Nevertold Casket Co. looks kind of like the cursed junk shop from Gremlins—a store that proudly carries “haunted” merchandise which could add a conversation piece to your living room or rain down eternal torment on your household in the form of a vicious spirit of vengeance from feudal Japan. It is a shop, in other words, that is full of stories. The wax dummy of a baby covered in syphilis sores has to have an explanation behind it, right? And why the hell would someone mummify a baboon? Well, thereby hangs a tale, and that tale is part of what you’re buying at Nevertold.

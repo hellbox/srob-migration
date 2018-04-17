@@ -1,8 +1,8 @@
 +++
 index = "-K2uUWwpvkE_yNxPIwUQ"
-_sort_create_date = 1447311540
-_sort_last_updated = 1447360140
-_sort_publish_date = 1447360140
+sort_create_date = 1447311540
+sort_last_updated = 1447360140
+sort_publish_date = 1447360140
 create_date = "2015-11-11T22:59:00-08:00"
 publish_date = "2015-11-12T12:29:00-08:00"
 date = "2015-11-12T12:29:00-08:00"
@@ -13,10 +13,10 @@ title = "Living up to the best"
 dek = "Jonathan Lethem's Best American Comics 2015 might not be the best comics anthology out there, but it is certainly the best comics anthology edited by Jonathan Lethem this year."
 facebookauto = "This Sunday, the brilliant Jonathan Lethem reads at Fantagraphics Bookstore & Gallery in support of his new anthology, The Best American Comics 2015. How's the book? Depends how you define \"best.\""
 twitterauto = "Our review of Jonathan Lethem's Best American Comics 2015 keeps bumping against the word \"best.\""
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-best-american-comics-2015"]
 tags_reviews = ["tags/comics"]
-authors_reviews = ["authors/jonathan-lethem"]
+reviews_about = ""
 +++
 
 When you edit a book titled *The Best American Comics 2015*, you are almost certainly setting yourself up for failure. Surely Jonathan Lethem knew this when he signed on for the job. Worse yet, when he agreed to be the editor of the 2015 edition of *The Best American Comics*, he must have known he was immediately following Scott McCloud’s entry in the series, which is by far the best *Best American Comics* to ever see publication. (I think McCloud’s entry might be the best book in the entire Best American series of collections, full stop. It was so thoughtful and intelligent and big-hearted that it made other volumes feel perfunctory.)

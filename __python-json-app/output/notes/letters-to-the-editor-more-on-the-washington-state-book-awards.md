@@ -1,8 +1,8 @@
 +++
 index = "-KU35SSdIThMe-u4hcQg"
-_sort_create_date = 1476463800
-_sort_last_updated = 1476818940
-_sort_publish_date = 1476818940
+sort_create_date = 1476463800
+sort_last_updated = 1476818940
+sort_publish_date = 1476818940
 create_date = "2016-10-14T09:50:00-07:00"
 publish_date = "2016-10-18T12:29:00-07:00"
 date = "2016-10-18T12:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Poet, and Washington State Book Awards judge Linda Andrews, responds to our piece on the awards."
 facebookauto = "Poet, and Washington State Book Awards judge Linda Andrews, responds to our piece on the awards."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/letters-to-the-editor", "tags/washington-state-book-awards"]
-authors_notes = ["authors/carl-phillips", "authors/linda-andrews"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Editor's note: Poet [Linda Andrews](http://bluebegoniapress.com/catalogandrews-linda_268.html), author of _Escape of the Bird Women_, winner of the Washington State Book Award, and judge for 2014-2016, sent this letter to the editor in response to Susan Rich's article "[Why does Carl Phillips need the Washington State Book Award?](http://www.seattlereviewofbooks.com/notes/2016/09/19/why-does-carl-phillips-need-the-washington-state-book-award/)"*</p>

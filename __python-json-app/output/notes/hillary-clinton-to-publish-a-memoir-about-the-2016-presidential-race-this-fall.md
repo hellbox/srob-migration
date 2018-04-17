@@ -1,8 +1,8 @@
 +++
 index = "-Kq3tPA3RKUn-Lorh2pl"
-_sort_create_date = 1501173180
-_sort_last_updated = 1501173180
-_sort_publish_date = 1501173180
+sort_create_date = 1501173180
+sort_last_updated = 1501173180
+sort_publish_date = 1501173180
 create_date = "2017-07-27T09:33:00-07:00"
 publish_date = "2017-07-27T09:33:00-07:00"
 date = "2017-07-27T09:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501173129306/DFv1
 twitterauto = "Get ready for Hillary Clinton's memoir about the 2016 presidential campaign."
 facebookauto = "Get ready for Hillary Clinton's memoir about the 2016 presidential campaign."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/2016", "tags/hillary-clinton"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I'm not crazy about the title, but I like the cover a lot:

@@ -1,8 +1,8 @@
 +++
 index = "-Kuc5KamzyOJUal2RPMI"
-_sort_create_date = 1506058740
-_sort_last_updated = 1506641760
-_sort_publish_date = 1507744320
+sort_create_date = 1506058740
+sort_last_updated = 1506641760
+sort_publish_date = 1507744320
 create_date = "2017-09-21T22:39:00-07:00"
 publish_date = "2017-10-11T10:52:00-07:00"
 date = "2017-10-11T10:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506058767022/miss
 twitterauto = "Your Week in Readings includes bad science, a good writing class, and a talk about imagination."
 facebookauto = "Your Week in Readings includes bad science, a good writing class, and a talk about imagination."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1506058767022/misskopp.jpg)</p>

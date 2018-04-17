@@ -1,8 +1,8 @@
 +++
 index = "-KmMz0tv49OnhRri9a4g"
-_sort_create_date = 1497198480
-_sort_last_updated = 1497279420
-_sort_publish_date = 1497198480
+sort_create_date = 1497198480
+sort_last_updated = 1497279420
+sort_publish_date = 1497198480
 create_date = "2017-06-11T09:28:00-07:00"
 publish_date = "2017-06-11T09:28:00-07:00"
 date = "2017-06-11T09:28:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Self-Help"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/N3NhtybXystCNpwUfRnq95LZ5pZ2X8FUaQtuntPrALPZmFvcEFXxihpeZ5spAT4BxqcOa7yDK7atuAQKgY4qIixuvcBu"
 url = "/webhook-uploads/1497279441724/unnamed.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 125842
 
 review_relationship = ""
-author_relationship = ["authors/lori-tsugawa-whaley"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-courage-of-a-samurai", "sponsorships/the-courage-of-a-samurai"]
 notes_relationship = ["notes/modern-life-\u2014-guided-by-a-set-of-tested-principles"]
 +++

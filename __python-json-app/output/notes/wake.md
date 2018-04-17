@@ -1,8 +1,8 @@
 +++
 index = "-KJ3q3lm17zGC-Hm6vsd"
-_sort_create_date = 1464665100
-_sort_last_updated = 1464712920
-_sort_publish_date = 1464713700
+sort_create_date = 1464665100
+sort_last_updated = 1464712920
+sort_publish_date = 1464713700
 create_date = "2016-05-30T20:25:00-07:00"
 publish_date = "2016-05-31T09:55:00-07:00"
 date = "2016-05-31T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464712892528/Scre
 twitterauto = "Our powerful Tuesday Poem is by @mikokuro."
 facebookauto = "Our powerful Tuesday Poem is by Natasha Marin"
 make_image_tweet = "True"
-byline = ["writers/natasha-marin"]
+notes_byline = ["writers/natasha-marin"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <em>for missing First Nations women</em>

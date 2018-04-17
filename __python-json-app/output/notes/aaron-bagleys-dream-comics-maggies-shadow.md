@@ -1,8 +1,8 @@
 +++
 index = "-L2csbDOVftyw6XwPVVy"
-_sort_create_date = 1515735600
-_sort_last_updated = 1515735600
-_sort_publish_date = 1516384800
+sort_create_date = 1515735600
+sort_last_updated = 1515735600
+sort_publish_date = 1516384800
 create_date = "2018-01-11T21:40:00-08:00"
 publish_date = "2018-01-19T10:00:00-08:00"
 date = "2018-01-19T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515735597799/Magg
 twitterauto = "It's time for @aaronbaglady's Dream Comics!"
 facebookauto = "It's time for Aaron Bagley's Dream Comics!"
 make_image_tweet = "True"
-byline = ["writers/aaron-bagley"]
+notes_byline = ["writers/aaron-bagley"]
 tags_notes = ["tags/aaron-bagleys-dream-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image"><a href="/webhook-uploads/1515735398607/Maggie's%20Shadow%201.jpg" target="_blank">![](/webhook-uploads/1515735398607/Maggie's%20Shadow%201.jpg)</a></p>

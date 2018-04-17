@@ -1,8 +1,8 @@
 +++
 index = "-Kle1smZjuSXvXqdsTWi"
-_sort_create_date = 1496638740
-_sort_last_updated = 1496874000
-_sort_publish_date = 1496861940
+sort_create_date = 1496638740
+sort_last_updated = 1496874000
+sort_publish_date = 1496861940
 create_date = "2017-06-04T21:59:00-07:00"
 publish_date = "2017-06-07T11:59:00-07:00"
 date = "2017-06-07T11:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496427566388/manw
 twitterauto = "Your week in readings begins tonight @ThirdPlaceBooks Seward Park with a book about Vladimir Putin."
 facebookauto = "Your Week in Readings includes Neal Stephenson, a talk about health care, a(n unfortunately timely) book club discussion of Vladimir Putin, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/reading-through-it", "tags/chin-music-press"]
-authors_notes = ["authors/neal-stephenson"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1496427566388/manwithoutaface.jpg)</p>

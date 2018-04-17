@@ -1,8 +1,8 @@
 +++
 index = "-K5sbyTC9lhROGtZh1oP"
-_sort_create_date = 1450501440
-_sort_last_updated = 1450501440
-_sort_publish_date = 1450814580
+sort_create_date = 1450501440
+sort_last_updated = 1450501440
+sort_publish_date = 1450814580
 create_date = "2015-12-18T21:04:00-08:00"
 publish_date = "2015-12-22T12:03:00-08:00"
 date = "2015-12-22T12:03:00-08:00"
@@ -13,10 +13,10 @@ title = "Broken toys"
 dek = "Nelly Reifler's weird little novel about an anthropomorphic mouse and a sex-crazed Barbie doll feels like it taps into something primal. But is there a point to all the oddity, or is it just weird for weirdness's sake?"
 facebookauto = "A mouse hires Ken and Barbie to look into the kidnapping of his children. Then things get really weird."
 twitterauto = "A mouse hires Ken and Barbie to look into the kidnapping of his children. Then things get really weird."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/elect-h-mouse-state-judge"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/nelly-reifler"]
+reviews_about = ""
 +++
 
 The children of a candidate for a statewide position are kidnapped by a death cult. The candidate, not wanting a high-profile media investigation so close to election day, hires a pair of investigators to quietly bring his kids back. From there, things get ugly. 

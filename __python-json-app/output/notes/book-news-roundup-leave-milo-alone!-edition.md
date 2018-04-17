@@ -1,8 +1,8 @@
 +++
 index = "-Kd53HVoqzMFH9w4U-8E"
-_sort_create_date = 1487234160
-_sort_last_updated = 1487274000
-_sort_publish_date = 1487275260
+sort_create_date = 1487234160
+sort_last_updated = 1487274000
+sort_publish_date = 1487275260
 create_date = "2017-02-16T00:36:00-08:00"
 publish_date = "2017-02-16T12:01:00-08:00"
 date = "2017-02-16T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup asks if anyone remembers sex advice columnist Dr. Ruth."
 facebookauto = "Today's book news roundup asks if anyone remembers sex advice columnist Dr. Ruth."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/nerd", "tags/milo-yiannopoulos"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Jseattle [at Capitol Hill Seattle blog](http://www.seattlereviewofbooks.com/cms#/wh/content/notes) says that the Elliott Bay Book Company building is going up for sale:

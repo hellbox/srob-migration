@@ -1,8 +1,8 @@
 +++
 index = "-JvaaU7gdfHWzoy-2mpL"
-_sort_create_date = 1438387920
-_sort_last_updated = 1438530480
-_sort_publish_date = 1438707300
+sort_create_date = 1438387920
+sort_last_updated = 1438530480
+sort_publish_date = 1438707300
 create_date = "2015-07-31T17:12:00-07:00"
 publish_date = "2015-08-04T09:55:00-07:00"
 date = "2015-08-04T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/kelli-russell-agodon"]
+notes_byline = ["writers/kelli-russell-agodon"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 After I try to give you happiness<br>

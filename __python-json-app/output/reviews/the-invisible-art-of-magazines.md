@@ -1,8 +1,8 @@
 +++
 index = "-K0xfxtES6PyO_LFk3tK"
-_sort_create_date = 1445217660
-_sort_last_updated = 1445217660
-_sort_publish_date = 1445286960
+sort_create_date = 1445217660
+sort_last_updated = 1445217660
+sort_publish_date = 1445286960
 create_date = "2015-10-18T18:21:00-07:00"
 publish_date = "2015-10-19T13:36:00-07:00"
 date = "2015-10-19T13:36:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "990e9928-e94b-ea5c-1bb6-ecae4e6301a7"
 name = "The Invisible Art of Magazines"
 title = "The Invisible Art of Magazines"
 dek = "A star-studded new magazine \u2014 Haruki Murakami! Dave Eggers! Lydia Davis! Anne Carson! \u2014\u00a0has hit the scene. But is there a place for Freeman's, or has the time for magazines passed?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/freemans"]
 tags_reviews = ["tags/magazine"]
-authors_reviews = ["authors/john-freeman"]
+reviews_about = ""
 +++
 
 Magazines fill a very particular literary void. We read novels for their depth and substance, we read comics to be dazzled, we read poetry collections to be immersed in the brain of a person who sees the world differently than we do. But we read magazines when we want to hear a chorus of voices, when we want to travel, when we need to filter a large expanse of the world through a singular organizational perspective.

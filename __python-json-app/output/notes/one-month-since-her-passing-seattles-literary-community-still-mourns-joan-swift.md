@@ -1,8 +1,8 @@
 +++
 index = "-KhhQ236sZIfbCZFp68X"
-_sort_create_date = 1492189440
-_sort_last_updated = 1492792200
-_sort_publish_date = 1492448580
+sort_create_date = 1492189440
+sort_last_updated = 1492792200
+sort_publish_date = 1492448580
 create_date = "2017-04-14T10:04:00-07:00"
 publish_date = "2017-04-17T10:03:00-07:00"
 date = "2017-04-17T10:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492189188456/Tess
 twitterauto = "We talked with Tess Gallagher, Sherman Alexie and others about why they love Joan Swift."
 facebookauto = "We talked with Tess Gallagher, Sherman Alexie and others about why they love Joan Swift."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/poetry", "tags/death"]
-authors_notes = ["authors/joan-swift", "authors/tess-gallagher", "authors/sherman-alexie", "authors/esther-altshul-helfgott"]
+notes_about = ""
 books = ""
 +++
 When [news broke last month](http://www.seattlereviewofbooks.com/notes/2017/03/17/a-sad-day-for-northwest-poetry-joan-swift-has-died/) that Joan Swift had died, the Seattle literary community erupted in outpourings of grief.  A shared sensation spread quickly around Facebook that something momentous had passed with her. At 90 years old, Swift was well-loved by many generations of Seattle writers, and she provided a direct link to the history of Northwest literature. She was one of the last living writers to learn directly from Seattle poetry godfather Theodore Roethke, and she shepherded generations of writers out of anonymity and into maturity.

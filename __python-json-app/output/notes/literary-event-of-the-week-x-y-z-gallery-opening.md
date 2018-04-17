@@ -1,8 +1,8 @@
 +++
 index = "-Kq14KIYes0nmjX_dQ4B"
-_sort_create_date = 1501126020
-_sort_last_updated = 1501126020
-_sort_publish_date = 1501693140
+sort_create_date = 1501126020
+sort_last_updated = 1501126020
+sort_publish_date = 1501693140
 create_date = "2017-07-26T20:27:00-07:00"
 publish_date = "2017-08-02T09:59:00-07:00"
 date = "2017-08-02T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's not every day that a new literary venue opens in Seattle."
 facebookauto = "It's not every day that a new literary venue opens in Seattle. Come to the X Y Z Gallery opening party tomorrow night!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/mount-analogue", "tags/gramma-press"]
-authors_notes = ["authors/halie-theoharides", "authors/sarah-galvin", "authors/colleen-louise-barry"]
+notes_about = ""
 books = ["books/final-rose", "books/ugly-time"]
 +++
 <p class="image">![](/webhook-uploads/1501125571586/xyz.jpg)</p>

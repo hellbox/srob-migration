@@ -1,8 +1,8 @@
 +++
 index = "-K1Ihzgs2ZVQdwBNFNu6"
-_sort_create_date = 1445587320
-_sort_last_updated = 1445610000
-_sort_publish_date = 1445617800
+sort_create_date = 1445587320
+sort_last_updated = 1445610000
+sort_publish_date = 1445617800
 create_date = "2015-10-23T01:02:00-07:00"
 publish_date = "2015-10-23T09:30:00-07:00"
 date = "2015-10-23T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445586690837/poet
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lit-crawl"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1445586654343/ejkoh.jpg)</p>

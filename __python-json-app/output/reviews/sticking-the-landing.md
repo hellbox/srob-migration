@@ -1,8 +1,8 @@
 +++
 index = "-JsuzXLyH8grOkluDJ_o"
-_sort_create_date = 1435508760
-_sort_last_updated = 1437959460
-_sort_publish_date = 1435508760
+sort_create_date = 1435508760
+sort_last_updated = 1437959460
+sort_publish_date = 1435508760
 create_date = "2015-06-28T09:26:00-07:00"
 publish_date = "2015-06-28T09:26:00-07:00"
 date = "2015-06-28T09:26:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "4cfc67b9-2b99-360a-d2e5-b9fd2ecb1d73"
 name = "Sticking the landing"
 title = "Sticking the landing"
 dek = "Even Neal Stephenson has to acknowledge that \"Neal Stephenson has trouble ending his novels\" is a popular opinion. Does *Seveneves* end well? Is it even worth getting to the end?"
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/seveneves"]
 tags_reviews = ["tags/fiction", "tags/science-fiction", "tags/seattle-author"]
-authors_reviews = ["authors/neal-stephenson"]
+reviews_about = ""
 +++
 
 It is taken as accepted knowledge that Neal Stephenson writes dissatisfying endings to his books. I mentioned to an internet chat room I was reading *Seveneves*, and this was brought up four times by four separate people. For an insult, it lays bare a tremendous compliment: only a widely read author could inspire such a trope or cliche. It’s a signifier of prestige, in its own way.

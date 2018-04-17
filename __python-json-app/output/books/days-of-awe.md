@@ -1,8 +1,8 @@
 +++
 index = "-JxrUqHXndoYgxPHb0Fd"
-_sort_create_date = 1440818880
-_sort_last_updated = 1440818940
-_sort_publish_date = 1440818880
+sort_create_date = 1440818880
+sort_last_updated = 1440818940
+sort_publish_date = 1440818880
 create_date = "2015-08-28T20:28:00-07:00"
 publish_date = "2015-08-28T20:28:00-07:00"
 date = "2015-08-28T20:28:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Y0CJojasU-gPRrppP2tQg93Lb76p-uG_McdbrJvSMVOcUbolw9FKQlB_-QMQmwsgXcId0dsjVxTypR2v7fg_fCYBWSQ"
 url = "/webhook-uploads/1440818966234/9780307268129.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 17183
 
 review_relationship = ["reviews/the-women-problem"]
-author_relationship = ["authors/lauren-fox"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

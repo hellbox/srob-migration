@@ -1,8 +1,8 @@
 +++
 index = "-KsHzsQY5VIXB7Y5UN2j"
-_sort_create_date = 1503557280
-_sort_last_updated = 1503557280
-_sort_publish_date = 1505926020
+sort_create_date = 1503557280
+sort_last_updated = 1503557280
+sort_publish_date = 1505926020
 create_date = "2017-08-23T23:48:00-07:00"
 publish_date = "2017-09-20T09:47:00-07:00"
 date = "2017-09-20T09:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503557189211/less
 twitterauto = "Don't miss EJ Koh's reading @HugoHouse this week."
 facebookauto = "Don't miss EJ Koh's reading @HugoHouse this week."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/ej-koh"]
+notes_about = ""
 books = ""
 +++
 EJ Koh read her poem “South Korean Ferry Accident” to a room full of weary Bumbershoot attendees back in 2016. It’s a poem that begins with a bit of comedy: “Footage is released to the public: the captain/abandoning the ferry in his underwear.” Not only do we have an oafish captain forsaking the universal pledge to go down with the ship, but he’s jumping overboard in his underwear. It’s an image that brings pratfalls to mind, or a Benny Hill-style soundtrack.

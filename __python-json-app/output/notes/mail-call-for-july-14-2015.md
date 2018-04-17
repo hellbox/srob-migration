@@ -1,8 +1,8 @@
 +++
 index = "-JuEP9gjoG0vrvIaTSWJ"
-_sort_create_date = 1436925060
-_sort_last_updated = 1436993700
-_sort_publish_date = 1436925060
+sort_create_date = 1436925060
+sort_last_updated = 1436993700
+sort_publish_date = 1436925060
 create_date = "2015-07-14T18:51:00-07:00"
 publish_date = "2015-07-14T18:51:00-07:00"
 date = "2015-07-14T18:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![Ego, the game of live, by Frank Schirrmacher and Coming of Age at the End of Days by Alice LaPlante](/webhook-uploads/1436924964795/IMG_3677.jpg)</p>

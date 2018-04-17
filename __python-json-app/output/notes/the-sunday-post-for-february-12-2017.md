@@ -1,8 +1,8 @@
 +++
 index = "-Kcl2T-Esu5yESgh7Yqb"
-_sort_create_date = 1486881660
-_sort_last_updated = 1486918380
-_sort_publish_date = 1486920600
+sort_create_date = 1486881660
+sort_last_updated = 1486918380
+sort_publish_date = 1486920600
 create_date = "2017-02-11T22:41:00-08:00"
 publish_date = "2017-02-12T09:30:00-08:00"
 date = "2017-02-12T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "4,000 books, 50 shades, 12-year olds, shit-gibbons, and gator deaths, all in today\u2019s Sunday Post by @despra "
 facebookauto = "4,000 books, 50 shades, 12-year olds, shit-gibbons, and gator deaths, all in today\u2019s Sunday Post by Dawn McCarra Bass"
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 

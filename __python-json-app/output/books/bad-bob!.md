@@ -1,8 +1,8 @@
 +++
 index = "-KV3Pg-wviE68hq48tCC"
-_sort_create_date = 1477542840
-_sort_last_updated = 1477545060
-_sort_publish_date = 1477542840
+sort_create_date = 1477542840
+sort_last_updated = 1477545060
+sort_publish_date = 1477542840
 create_date = "2016-10-26T21:34:00-07:00"
 publish_date = "2016-10-26T21:34:00-07:00"
 date = "2016-10-26T21:34:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/anmGOudpmQEI39V-TbCtxf8z6BVH2BSuSUMKEj4Y6LVCh8i_LjZr5BtTAWleuzjuwyp6yNyv07J4Y5vx-1zHD_hYMsks"
 url = "/webhook-uploads/1477542778990/bad%20bob.gif"
@@ -33,7 +33,7 @@ type = "image/gif"
 size = 13048
 
 review_relationship = ["reviews/selling-mansions-in-heaven"]
-author_relationship = ["authors/jack-chick"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/letter-to-the-editor-if-laughing-at-jack-chick-is-wrong-i-dont-wanna-be-right"]
 +++

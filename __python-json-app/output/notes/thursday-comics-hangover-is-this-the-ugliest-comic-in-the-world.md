@@ -1,8 +1,8 @@
 +++
 index = "-Km5XV6X1ktAdCPp6Jpz"
-_sort_create_date = 1496905800
-_sort_last_updated = 1496941440
-_sort_publish_date = 1496948460
+sort_create_date = 1496905800
+sort_last_updated = 1496941440
+sort_publish_date = 1496948460
 create_date = "2017-06-08T00:10:00-07:00"
 publish_date = "2017-06-08T12:01:00-07:00"
 date = "2017-06-08T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496904000464/ATC_
 twitterauto = "Is this the ugliest comic book in the world?"
 facebookauto = "Is this the ugliest comic book in the world?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1496904000464/ATC_3_A_1_anders_cov.png)</p>

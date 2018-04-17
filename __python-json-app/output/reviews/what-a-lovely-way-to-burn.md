@@ -1,8 +1,8 @@
 +++
 index = "-K8Sod1l9bPNiJIrHfGO"
-_sort_create_date = 1453273020
-_sort_last_updated = 1453485420
-_sort_publish_date = 1453406160
+sort_create_date = 1453273020
+sort_last_updated = 1453485420
+sort_publish_date = 1453406160
 create_date = "2016-01-19T22:57:00-08:00"
 publish_date = "2016-01-21T11:56:00-08:00"
 date = "2016-01-21T11:56:00-08:00"
@@ -13,10 +13,10 @@ title = "What a lovely way to burn"
 dek = "A Finnish novel about a dystopian gender-centric society and an underground economy built around hot peppers offers a solution to the problem with apocalyptic fiction. Rather than ripping off the Hunger Games, authors, why  not try to be original for a change?"
 facebookauto = "A Finnish novel about a dystopian gender-centric society and an underground economy built around hot peppers offers a solution to the problem with apocalyptic fiction. Rather than ripping off the Hunger Games, authors, why  not try to be original for a change?"
 twitterauto = "We live in a dystopian future in which the publishing industry puts out way too many works of dystopian fiction."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-core-of-the-sun"]
 tags_reviews = ["tags/translation"]
-authors_reviews = ["authors/johanna-sinisalo"]
+reviews_about = ""
 +++
 
 We live in a dystopian future in which the publishing industry puts out way too many works of dystopian fiction. The shelves of bookstores — young adult sections most especially — are packed to bursting with futures in which teenagers are forced to do battle for the amusement of the wealthy one percent, or in which a grizzled band of people who have seen too many bad things are trying to make their way to the mythical land of California, or in which Donald Trump is on the verge of winning the Republican presidential nomination.

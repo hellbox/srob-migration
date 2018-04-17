@@ -1,8 +1,8 @@
 +++
 index = "-K6HPEhug7arBQhURFeC"
-_sort_create_date = 1450934040
-_sort_last_updated = 1450934040
-_sort_publish_date = 1451584860
+sort_create_date = 1450934040
+sort_last_updated = 1450934040
+sort_publish_date = 1451584860
 create_date = "2015-12-23T21:14:00-08:00"
 publish_date = "2015-12-31T10:01:00-08:00"
 date = "2015-12-31T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450933638915/cove
 twitterauto = "Seattle cartoonist Tom Van Deusen has published a comic book about loser named Tom Van Deusen."
 facebookauto = "A Seattle cartoonist named Tom Van Deusen has published a comic book about loser named Tom Van Deusen who suffers from a complete lack of self-awareness."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Seattle cartoonist Tom Van Deusen’s newest book, [*EAT EAT EAT*](http://poochiepress.storenvy.com/), is the latest entry in a long comics tradition: a humorous book about a feckless loser who doesn’t possess the self-awareness to realize that he is a feckless loser. It’s a somewhat proud (if self-loathing) lineage, stretching to Chris Ware and Ivan Brunetti from R. Crumb and Dan Clowes and on and on and on.

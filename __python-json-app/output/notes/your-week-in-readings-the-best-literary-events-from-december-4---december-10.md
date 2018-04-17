@@ -1,8 +1,8 @@
 +++
 index = "-L-ADIZqnX1R0TyR_vDf"
-_sort_create_date = 1512016740
-_sort_last_updated = 1512419100
-_sort_publish_date = 1512416700
+sort_create_date = 1512016740
+sort_last_updated = 1512419100
+sort_publish_date = 1512416700
 create_date = "2017-11-29T20:39:00-08:00"
 publish_date = "2017-12-04T11:45:00-08:00"
 date = "2017-12-04T11:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512016053944/anam
 twitterauto = "A birthday for @fantagraphics and a book launch for @ancawrites are this week's highlights."
 facebookauto = "A birthday for the Fantagraphics Bookstore and a book launch for Anca Szilagyi are this week's readings highlights."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/fantagraphics-bookstore-&amp;-gallery"]
-authors_notes = ["authors/anca-l-szil\u00e1gyi"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, December 4: Easy Speak Rainier Beach**</h5></p>

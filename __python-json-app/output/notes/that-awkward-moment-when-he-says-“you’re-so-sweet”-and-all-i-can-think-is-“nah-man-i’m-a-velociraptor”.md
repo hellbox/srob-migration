@@ -1,8 +1,8 @@
 +++
 index = "-Ka0BnVeyAIxGOYS0JvA"
-_sort_create_date = 1483931280
-_sort_last_updated = 1485238800
-_sort_publish_date = 1485280500
+sort_create_date = 1483931280
+sort_last_updated = 1485238800
+sort_publish_date = 1485280500
 create_date = "2017-01-08T19:08:00-08:00"
 publish_date = "2017-01-24T09:55:00-08:00"
 date = "2017-01-24T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our month of @elisacatrina continues with today's poem whose title is too long to print here"
 facebookauto = "Our month of Elisa Chavez continues with today's poem whose title is too long to print here"
 make_image_tweet = "False"
-byline = ["writers/elisa-chavez"]
+notes_byline = ["writers/elisa-chavez"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Velociraptors and I have faces for the movies.<br>

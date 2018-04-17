@@ -1,8 +1,8 @@
 +++
 index = "-KibVHA5efYNi3ckGYSC"
-_sort_create_date = 1493163900
-_sort_last_updated = 1493337540
-_sort_publish_date = 1493179260
+sort_create_date = 1493163900
+sort_last_updated = 1493337540
+sort_publish_date = 1493179260
 create_date = "2017-04-25T16:45:00-07:00"
 publish_date = "2017-04-25T21:01:00-07:00"
 date = "2017-04-25T21:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493163446661/cols
 twitterauto = "The 2017-2018 lineup of @SeaArtsLectures \u200fauthors looks incredible:"
 facebookauto = "The 2017-2018 lineup of @SeaArtsLectures \u200fauthors looks incredible:"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-arts-and-lectures"]
-authors_notes = ["authors/colson-whitehead"]
+notes_about = ""
 books = ""
 +++
 Tonight, Seattle Arts & Lectures announced the lineup of authors for their 2017-2018 season. This season will mark SAL’s 30th anniversary as one of Seattle’s guiding literary lights, and SAL curator Rebecca Hoogs has worked to assemble a slate of readers that calls back to some of SAL’s most successful events and forward to the future of literary arts.

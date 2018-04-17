@@ -1,8 +1,8 @@
 +++
 index = "-KYNTAPyqdBe8fNf_W25"
-_sort_create_date = 1481100540
-_sort_last_updated = 1481100540
-_sort_publish_date = 1481143680
+sort_create_date = 1481100540
+sort_last_updated = 1481100540
+sort_publish_date = 1481143680
 create_date = "2016-12-07T00:49:00-08:00"
 publish_date = "2016-12-07T12:48:00-08:00"
 date = "2016-12-07T12:48:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A plaque celebrating Seattle poet Denise Levertov has been installed in south Seattle."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/denise-levertov"]
+notes_about = ""
 books = ""
 +++
 The Seattle Poetics LAB notes that the new plaque honoring poet Denise Levertov, which [Martin told you about a couple months ago](http://www.seattlereviewofbooks.com/notes/2016/10/01/denise-levertov-plaque-kickstarter-fund-project-37/), has been installed at **5535 Seward Park Ave S**. [Learn more about Levertov here](http://lithub.com/denise-levertov/), and visit the plaque next time you're in south Seattle.

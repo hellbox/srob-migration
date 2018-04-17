@@ -1,8 +1,8 @@
 +++
 index = "-K90ZtgjKutAORVFJf7H"
-_sort_create_date = 1453872840
-_sort_last_updated = 1453875420
-_sort_publish_date = 1453929420
+sort_create_date = 1453872840
+sort_last_updated = 1453875420
+sort_publish_date = 1453929420
 create_date = "2016-01-26T21:34:00-08:00"
 publish_date = "2016-01-27T13:17:00-08:00"
 date = "2016-01-27T13:17:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In today's Book News Roundup: @mosslitmag, @misswashuta, @VillageBksBham, and a leech named after Amy Tan."
 facebookauto = "Our book news roundup includes an honor for Bellingham's wonderful Village Books, a new issue of literary magazine Moss, and a leech named after bestselling author Amy Tan."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/moss", "tags/diversity", "tags/weneeddiversebooks", "tags/village-books"]
-authors_notes = ["authors/elissa-washuta", "authors/amy-tan"]
+notes_about = ""
 books = ""
 +++
 * The fourth issue of online literary magazine *Moss* is [available for you to read](http://www.mosslit.com/vol02/issue04.html). Contents include an interview with [Elissa Washuta](http://seattlereviewofbooks.com/reviews/the-perpetual-naked-lunch-of-starvation-mode/) and a long short story by *Seattle Times* book critic Michael Upchurch. [It's free. Go read](http://www.mosslit.com/vol02/issue04.html#TheWidowerMuse).

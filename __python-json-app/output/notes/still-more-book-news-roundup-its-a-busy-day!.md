@@ -1,8 +1,8 @@
 +++
 index = "-KAg2qrnTeBTXUA86S3k"
-_sort_create_date = 1455659340
-_sort_last_updated = 1455659340
-_sort_publish_date = 1455659340
+sort_create_date = 1455659340
+sort_last_updated = 1455659340
+sort_publish_date = 1455659340
 create_date = "2016-02-16T13:49:00-08:00"
 publish_date = "2016-02-16T13:49:00-08:00"
 date = "2016-02-16T13:49:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're excited about free Sundays at the @henryartgallery and the temporary new home for @onereel_seattle!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/borders", "tags/one-reel", "tags/hugo-house", "tags/henry-art-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 After a long weekend, we're left with too much news for one single Book News Roundup to contain!

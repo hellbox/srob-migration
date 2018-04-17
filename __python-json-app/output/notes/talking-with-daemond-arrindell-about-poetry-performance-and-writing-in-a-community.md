@@ -1,8 +1,8 @@
 +++
 index = "-KsCc5_hdMK-GkUhwNW4"
-_sort_create_date = 1503467160
-_sort_last_updated = 1503468300
-_sort_publish_date = 1503939600
+sort_create_date = 1503467160
+sort_last_updated = 1503468300
+sort_publish_date = 1503939600
 create_date = "2017-08-22T22:46:00-07:00"
 publish_date = "2017-08-28T10:00:00-07:00"
 date = "2017-08-28T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503466958560/Daem
 twitterauto = "We talked with @d_arrindell about the inflection point between poetry and theater."
 facebookauto = "We talked with Daemond Arrindell about the connection between theater and poetry."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/jack-straw"]
-authors_notes = ["authors/daemond-arrindell"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Our August Poet in Residence, [Daemond Arrindell](http://www.seattlereviewofbooks.com/writers/daemond-arrindell/), is having a fantastic year. He co-authored the world premiere of a theatrical adaptation of T. Geronimo Johnson’s novel *Welcome to Braggsville* at Book-It Repertory Theatre earlier this year to universal acclaim. And he was [recently announced as the curator of the 2018 Jack Straw Writers program](http://www.jackstraw.org/programs/asp/2018_apps.shtml), which means he’ll select and guide a class of Seattle writers through the process of learning how to perform their writing more effectively. If you’d like to see Arrindell read, he’ll be performing at [Sandbox Radio](http://www.acttheatre.org/Tickets/OnStage/Eclipsed ) on August 28th, [Poetry Bridge](https://www.poetrybridgetimes.net/) in West Seattle next month. This interview has been lightly edited.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L6FK9tGJMIE5RzcyJQL"
-_sort_create_date = 1519619520
-_sort_last_updated = 1519619520
-_sort_publish_date = 1519619520
+sort_create_date = 1519619520
+sort_last_updated = 1519619520
+sort_publish_date = 1519619520
 create_date = "2018-02-25T20:32:00-08:00"
 publish_date = "2018-02-25T20:32:00-08:00"
 date = "2018-02-25T20:32:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/I5rpDiro8_cLVg7qUrXjgCPd2OMqxrFS6kGhiFAtoue_gavIGImKtltEnQ-wqV-2cDyYZdDY3hoViqsux0BCYrhA--s"
 url = "/webhook-uploads/1519619548005/A%20Time%20to%20Rise.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 35505
 
 review_relationship = ["reviews/let-us-be-part-of-the-change"]
-author_relationship = ["authors/rene-ciria-cruz", "authors/cindy-domingo", "authors/bruce-occena"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-Kz2PPEAhnznVLypymAu"
-_sort_create_date = 1510812000
-_sort_last_updated = 1510812000
-_sort_publish_date = 1511200740
+sort_create_date = 1510812000
+sort_last_updated = 1510812000
+sort_publish_date = 1511200740
 create_date = "2017-11-15T22:00:00-08:00"
 publish_date = "2017-11-20T09:59:00-08:00"
 date = "2017-11-20T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510811862209/rive
 twitterauto = "Who would dare to write a sequel to The Wind in the Willows? Find out this Tuesday!"
 facebookauto = "Who would dare to write a sequel to The Wind in the Willows? Find out this Tuesday!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Say you’re friends with a writer. Say one day your writer friend asks you to lunch. You ask what’s going on. She tells you, “I’m working on a book.” *A book*, you reply, *that’s great! What’s it about?*

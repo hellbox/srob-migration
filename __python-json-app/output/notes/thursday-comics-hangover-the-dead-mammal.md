@@ -1,8 +1,8 @@
 +++
 index = "-KYSi1ZwimCuLCKsT7jm"
-_sort_create_date = 1481188560
-_sort_last_updated = 1481189040
-_sort_publish_date = 1481223900
+sort_create_date = 1481188560
+sort_last_updated = 1481189040
+sort_publish_date = 1481223900
 create_date = "2016-12-08T01:16:00-08:00"
 publish_date = "2016-12-08T11:05:00-08:00"
 date = "2016-12-08T11:05:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "You probably hate raccoons. Here's a comic that might make you feel bad for them."
 facebookauto = "You probably hate raccoons. Marie Hausauer's newest comic might make you feel bad for them."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/push--pull", "tags/arcane-comics", "tags/fantagraphics-bookstore-&amp;-gallery"]
-authors_notes = ["authors/marie-hausauer"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1481188227713/raccoon.jpg)</p>

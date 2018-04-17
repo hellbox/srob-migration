@@ -1,8 +1,8 @@
 +++
 index = "-KTNekCZ_-1yPKciXQYm"
-_sort_create_date = 1475735100
-_sort_last_updated = 1475735400
-_sort_publish_date = 1475773260
+sort_create_date = 1475735100
+sort_last_updated = 1475735400
+sort_publish_date = 1475773260
 create_date = "2016-10-05T23:25:00-07:00"
 publish_date = "2016-10-06T10:01:00-07:00"
 date = "2016-10-06T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Because we're a classy book review outlet, we review Fart Magazine, the magazine all about farts."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/intruder", "tags/fart"]
-authors_notes = ["authors/marc-palm", "authors/seth-goodkind"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1475734959247/fart.jpg)</p>

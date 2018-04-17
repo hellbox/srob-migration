@@ -1,8 +1,8 @@
 +++
 index = "-K8LpLg0jFMSe4eipmux"
-_sort_create_date = 1453155720
-_sort_last_updated = 1453161840
-_sort_publish_date = 1453155720
+sort_create_date = 1453155720
+sort_last_updated = 1453161840
+sort_publish_date = 1453155720
 create_date = "2016-01-18T14:22:00-08:00"
 publish_date = "2016-01-18T14:22:00-08:00"
 date = "2016-01-18T14:22:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Orson Welles co-wrote a manuscript making fun of Ernest Hemingway and we'd like to read it."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/history"]
-authors_notes = ["authors/ernest-hemingway"]
+notes_about = ""
 books = ""
 +++
 Dalya Alberge writes at [*The Guardian*](http://www.theguardian.com/film/2016/jan/16/what-orson-welles-really-thought-about-ernest-hemingway) that a recently uncovered manuscript co-authored by Orson Welles reveals some truths about the friendship between Ernest Hemingway and Welles:

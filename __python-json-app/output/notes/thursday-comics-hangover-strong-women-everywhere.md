@@ -1,8 +1,8 @@
 +++
 index = "-Jx88N77CmylNMsEDaX_"
-_sort_create_date = 1440041220
-_sort_last_updated = 1440041460
-_sort_publish_date = 1440089820
+sort_create_date = 1440041220
+sort_last_updated = 1440041460
+sort_publish_date = 1440089820
 create_date = "2015-08-19T20:27:00-07:00"
 publish_date = "2015-08-20T09:57:00-07:00"
 date = "2015-08-20T09:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our weekly comics column discusses a comics book club for women, @BoomBoxComics's Giant Days, and a feminist rag."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/brandon-graham"]
-authors_notes = ""
+notes_about = ""
 books = ["books/bloody-pussy", "books/giant-days"]
 +++
 <p class="intro">Every comics fan knows Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country. Thursday Comics Hangover is a weekly column reviewing some of the new books that I pick up at [Phoenix Comics and Games](http://phoenixseattle.com/), my friendly neighborhood comic book store.</p>

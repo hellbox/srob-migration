@@ -1,8 +1,8 @@
 +++
 index = "-Jx5cIX5uL1tgLYf0GDj"
-_sort_create_date = 1439998980
-_sort_last_updated = 1439999160
-_sort_publish_date = 1439998980
+sort_create_date = 1439998980
+sort_last_updated = 1439999160
+sort_publish_date = 1439998980
 create_date = "2015-08-19T08:43:00-07:00"
 publish_date = "2015-08-19T08:43:00-07:00"
 date = "2015-08-19T08:43:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/lks5w5ma0emMggwnX4n_78ybycAxxoJykk9qpPnM-Z36MIt-5sw9p9L9mC1awuB2ijJv_0MW-Lf7Ve_niZtiTasATqnw9Q"
 url = "/webhook-uploads/1439998997596/Screen%20Shot%202015-08-19%20at%208.39.02%20AM.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 831541
 
 review_relationship = ""
-author_relationship = ["authors/robert-james-russell"]
+books_author = ""
 sponsorships_book = ["sponsorships/mesilla"]
 notes_relationship = ""
 +++

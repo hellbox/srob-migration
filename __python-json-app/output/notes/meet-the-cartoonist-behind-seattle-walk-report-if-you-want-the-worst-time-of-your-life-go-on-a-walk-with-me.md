@@ -1,8 +1,8 @@
 +++
 index = "-KwMjixIaRTkWtQ7LxHn"
-_sort_create_date = 1507931880
-_sort_last_updated = 1507931880
-_sort_publish_date = 1508173080
+sort_create_date = 1507931880
+sort_last_updated = 1507931880
+sort_publish_date = 1508173080
 create_date = "2017-10-13T14:58:00-07:00"
 publish_date = "2017-10-16T09:58:00-07:00"
 date = "2017-10-16T09:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507931653312/Scre
 twitterauto = "We talked with the anonymous cartoonist behind the Seattle Walk Report."
 facebookauto = "We talked with the anonymous cartoonist behind the hit Seattle Walk Report comics series on Instagram. She's pretty awesome."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/seattle-walk-report"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Last week, Seattle cartoonist DW recommended a cartoonist who [posts on Instagram under the pseudonym Seattle Walk Report](https://www.instagram.com/seattlewalkreport/). I’d never heard of her before, but when I looked her up I could easily understand why she was a favorite.</p>

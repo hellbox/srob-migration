@@ -1,8 +1,8 @@
 +++
 index = "-KyyhLCb-HjmezU1jUsm"
-_sort_create_date = 1510733040
-_sort_last_updated = 1510733040
-_sort_publish_date = 1510779840
+sort_create_date = 1510733040
+sort_last_updated = 1510733040
+sort_publish_date = 1510779840
 create_date = "2017-11-15T00:04:00-08:00"
 publish_date = "2017-11-15T13:04:00-08:00"
 date = "2017-11-15T13:04:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Zanadu Comics has been selling comics in downtown Seattle since 1975. It's closing next year."
 facebookauto = "Zanadu Comics has been selling comics in downtown Seattle since 1975. It's closing next year."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/zanadu-comics", "tags/death"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 One of Seattle's oldest comics shops is set to close. [Zanadu Comics posted on Facebook yesterday](https://www.facebook.com/zanaducomics/posts/1438853082878733):

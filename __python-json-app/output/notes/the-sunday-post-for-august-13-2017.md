@@ -1,8 +1,8 @@
 +++
 index = "-KrH_rU6PeCbhKRWBErn"
-_sort_create_date = 1502476680
-_sort_last_updated = 1502642760
-_sort_publish_date = 1502640000
+sort_create_date = 1502476680
+sort_last_updated = 1502642760
+sort_publish_date = 1502640000
 create_date = "2017-08-11T11:38:00-07:00"
 publish_date = "2017-08-13T09:00:00-07:00"
 date = "2017-08-13T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A few good reads for Sunday, including a takedown of Ready Player One and a peek under New York's feet."
 facebookauto = "A few good reads for Sunday, including a takedown of Ready Player One and a peek under New York's feet."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

@@ -1,8 +1,8 @@
 +++
 index = "-KL8TT7IFGBtRIjeUkif"
-_sort_create_date = 1466890260
-_sort_last_updated = 1466904900
-_sort_publish_date = 1466956800
+sort_create_date = 1466890260
+sort_last_updated = 1466904900
+sort_publish_date = 1466956800
 create_date = "2016-06-25T14:31:00-07:00"
 publish_date = "2016-06-26T09:00:00-07:00"
 date = "2016-06-26T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post: @PsychToday on #Brexit, female road trippers in lit, the quietest US inch, & how personalities change"
 facebookauto = "The Sunday Post covers the psychology behind Brexit, the lack of female road trippers in literature, the quietest square inch in the US, and how personalities aren't as unchanging as we thought. "
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://lithub.com/road-tripping-while-female/" title="Road Tripping While Female | Lit Hub">Road Tripping While Female</a></h5>

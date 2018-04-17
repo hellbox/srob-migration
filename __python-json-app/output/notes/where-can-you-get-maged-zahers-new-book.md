@@ -1,8 +1,8 @@
 +++
 index = "-KdgGQTsTUumyn-p12ey"
-_sort_create_date = 1487875140
-_sort_last_updated = 1487875440
-_sort_publish_date = 1487875140
+sort_create_date = 1487875140
+sort_last_updated = 1487875440
+sort_publish_date = 1487875140
 create_date = "2017-02-23T10:39:00-08:00"
 publish_date = "2017-02-23T10:39:00-08:00"
 date = "2017-02-23T10:39:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480478234236/opti
 twitterauto = "If you want a copy of Maged Zaher's newest book right now, you'll have to visit Pioneer Square."
 facebookauto = "If you want a copy of Maged Zaher's newest book right now, you'll have to visit Pioneer Square."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/arundel-books", "tags/chatwin-books"]
-authors_notes = ["authors/maged-zaher"]
+notes_about = ""
 books = ["books/opting-out"]
 +++
 This week, I reviewed Maged Zaher's [big new career-spanning collection, *Opting Out*](http://www.seattlereviewofbooks.com/reviews/the-seattle-globalist/). It's published by local press Chatwin Books, which is based out of Pioneer Square used bookstore Arundel Books. 

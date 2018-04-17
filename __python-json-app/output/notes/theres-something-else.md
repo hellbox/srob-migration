@@ -1,8 +1,8 @@
 +++
 index = "-KOhR0V0snKJt3mlv8_W"
-_sort_create_date = 1470714840
-_sort_last_updated = 1474947660
-_sort_publish_date = 1470761700
+sort_create_date = 1470714840
+sort_last_updated = 1474947660
+sort_publish_date = 1470761700
 create_date = "2016-08-08T20:54:00-07:00"
 publish_date = "2016-08-09T09:55:00-07:00"
 date = "2016-08-09T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/clare-johnson"]
+notes_byline = ["writers/clare-johnson"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1470715831721/01.jpg)</p>

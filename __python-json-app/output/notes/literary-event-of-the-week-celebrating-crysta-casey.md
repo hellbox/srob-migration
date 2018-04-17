@@ -1,8 +1,8 @@
 +++
 index = "-KouD7Gf8Rc88zz1qdmL"
-_sort_create_date = 1499920320
-_sort_last_updated = 1500696060
-_sort_publish_date = 1501088100
+sort_create_date = 1499920320
+sort_last_updated = 1500696060
+sort_publish_date = 1501088100
 create_date = "2017-07-12T21:32:00-07:00"
 publish_date = "2017-07-26T09:55:00-07:00"
 date = "2017-07-26T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499920234669/rule
 twitterauto = "Our literary event of the week celebrates the life and work of Crysta Casey."
 facebookauto = "Our literary event of the week celebrates the life and work of Crysta Casey."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Beloved Seattle-area poet Crysta Casey passed away in 2008, but her work is very much alive. Casey wrote poems about herself and her self: she wrote openly and with great energy about her schizophrenia, and her cancer journey. Her work was vital and personal and incredibly strong — there’s probably no greater indicator of the power of Casey’s writing than the fact that her dearest friends are still safeguarding and expanding her legacy. They’ve recorded her work and published it and read it at readings and done everything they can to keep it alive.

@@ -1,8 +1,8 @@
 +++
 index = "-Kz_krw1MvzNh5hFuSQV"
-_sort_create_date = 1511388300
-_sort_last_updated = 1511452860
-_sort_publish_date = 1511458200
+sort_create_date = 1511388300
+sort_last_updated = 1511452860
+sort_publish_date = 1511458200
 create_date = "2017-11-22T14:05:00-08:00"
 publish_date = "2017-11-23T09:30:00-08:00"
 date = "2017-11-23T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511452677332/DO2p
 twitterauto = "It's about what gets stuck in your head, our annual Thanksgiving essay, inspired by @shilparayisgod."
 facebookauto = "It's about what gets stuck in your head, our annual Thanksgiving essay, inspired by new music."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/thanksgiving-essay", "tags/secular-sermons"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The Pacific Northwest is home to many unique eccentrics, but there was one character who, if you encountered him, you never forgot. He went by the name Symptomatic Nerve Gas, and no, this is not some kind of sub-par Vonnegut fiction. He was a real man, a Korean War vet, apparently, or Viet Nam, perhaps, or maybe not a vet at all, depending on who you believe &mdash; the narratives are mixed and told in different ways depending on when you met and talked to him.

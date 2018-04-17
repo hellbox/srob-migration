@@ -1,8 +1,8 @@
 +++
 index = "-K9y6LjkR0fWwqBrpLzH"
-_sort_create_date = 1454888520
-_sort_last_updated = 1454892900
-_sort_publish_date = 1454888520
+sort_create_date = 1454888520
+sort_last_updated = 1454892900
+sort_publish_date = 1454888520
 create_date = "2016-02-07T15:42:00-08:00"
 publish_date = "2016-02-07T15:42:00-08:00"
 date = "2016-02-07T15:42:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["BIOGRAPHY & AUTOBIOGRAPHY"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HIqh_3hPck5P859umyN7j1oa-_Yohtm1IOZvYHikWeV9HPNYnjV_WJJk7bY6JB6dOXHy_Ly0sp3lRcgwtbwSD4uvwlRQ"
 url = "/webhook-uploads/1454888543515/content%3Fid%3DROGSoAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 29631
 
 review_relationship = ["reviews/time-out-of-joint"]
-author_relationship = ["authors/heidi-julavits"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

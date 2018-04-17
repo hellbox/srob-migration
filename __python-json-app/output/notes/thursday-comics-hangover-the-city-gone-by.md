@@ -1,8 +1,8 @@
 +++
 index = "-KUVySpO4AbHtgYeC-DX"
-_sort_create_date = 1476948240
-_sort_last_updated = 1476979920
-_sort_publish_date = 1476982860
+sort_create_date = 1476948240
+sort_last_updated = 1476979920
+sort_publish_date = 1476982860
 create_date = "2016-10-20T00:24:00-07:00"
 publish_date = "2016-10-20T10:01:00-07:00"
 date = "2016-10-20T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sometimes, you suddenly get the appeal of a cartoonist. This new reissue from @DandQ is a good example."
 facebookauto = "Sometimes, you suddenly understand the appeal of a cartoonist. you never fully grasped. This new reissue of Cheap Novelties from Drawn and Quarterly is a good example."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/drawn-&amp;-quarterly"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1476947865212/cheapnovelties_0.jpg)</p>

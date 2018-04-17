@@ -1,8 +1,8 @@
 +++
 index = "-KNDdVB4dMLe1HNiaHIB"
-_sort_create_date = 1469124540
-_sort_last_updated = 1469125080
-_sort_publish_date = 1469129400
+sort_create_date = 1469124540
+sort_last_updated = 1469125080
+sort_publish_date = 1469129400
 create_date = "2016-07-21T11:09:00-07:00"
 publish_date = "2016-07-21T12:30:00-07:00"
 date = "2016-07-21T12:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@MargotRobbie is bringing Seattle author @bymattruff's great novel Bad Monkeys to Hollywood"
 facebookauto = "Margot Robbie is bringing Seattle author Matt Ruff's novel Bad Monkeys to Hollywood"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/movies", "tags/adaptation"]
-authors_notes = ["authors/matt-ruff"]
+notes_about = ""
 books = ["books/lovecraft-country"]
 +++
 One of my favorite things about [Seattle novelist Matt Ruff](http://www.seattlereviewofbooks.com/notes/2016/02/18/talking-with-matt-ruff-about-science-fictions-racist-past/) is how his fans seem to be evenly split on their favorite book of his. Each of his books are so different from all the others that his fans have split into fiefdoms. Some prefer *Fool on the Hill*. Others have fallen hard for his newest, [*Lovecraft Country*](http://www.seattlereviewofbooks.com/reviews/caught-after-dark-in-lovecraft-country/). The one that's most satisfying for me is *Set This House in Order*.

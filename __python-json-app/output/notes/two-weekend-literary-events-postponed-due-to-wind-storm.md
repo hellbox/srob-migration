@@ -1,8 +1,8 @@
 +++
 index = "-KU40pUuQewVrD6ptY6a"
-_sort_create_date = 1476479340
-_sort_last_updated = 1476479340
-_sort_publish_date = 1476479340
+sort_create_date = 1476479340
+sort_last_updated = 1476479340
+sort_publish_date = 1476479340
 create_date = "2016-10-14T14:09:00-07:00"
 publish_date = "2016-10-14T14:09:00-07:00"
 date = "2016-10-14T14:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Two weekend events, at @elliottbaybooks and @openpoetrybooks, have been postponed. Details here:"
 facebookauto = "Two readings scheduled for this weekend have been postponed due to the big wind storm:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/elliott-bay-book-company", "tags/open-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Everybody in Seattle is freaking out about the promised weekend wind storm that has whipped Cliff Mass into one of his [rare meteorological lathers]( http://cliffmass.blogspot.com/2016/10/major-windstorm-tornadoes-and-much-more.html). *Seattle Review of Books* readers should know that two scheduled readings with local authors this weekend have been postponed due to weather: 

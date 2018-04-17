@@ -1,8 +1,8 @@
 +++
 index = "-KQZUT4gVUelbLrXtulW"
-_sort_create_date = 1472712240
-_sort_last_updated = 1473268800
-_sort_publish_date = 1473273000
+sort_create_date = 1472712240
+sort_last_updated = 1473268800
+sort_publish_date = 1473273000
 create_date = "2016-08-31T23:44:00-07:00"
 publish_date = "2016-09-07T11:30:00-07:00"
 date = "2016-09-07T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A celebrated Indian author is making her very first trip to the US this week."
 facebookauto = "A celebrated Indian author is making her very first trip to the US this week."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/elliott-bay-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 And so here we are, at the beginning of a shiny new fall. Fall is to the literary world what summer is to movie season: the season when the big names come out to play, when the big advertising budgets and media blitzes roll out. And every season, the books are accompanied with a certain amount of buzz—book chat, both positive and negative, from agents, librarians, and other literary folks with early access to review copies. 

@@ -1,8 +1,8 @@
 +++
 index = "-L7Gtp4QvrGJfyDmNcxu"
-_sort_create_date = 1520718780
-_sort_last_updated = 1520719560
-_sort_publish_date = 1520785800
+sort_create_date = 1520718780
+sort_last_updated = 1520719560
+sort_publish_date = 1520785800
 create_date = "2018-03-10T13:53:00-08:00"
 publish_date = "2018-03-11T09:30:00-07:00"
 date = "2018-03-11T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our picks for your Sunday reading include G. M. Tam\u00e1s, Lili Loofbourow, and Deborah Copaken, among others."
 facebookauto = "Our picks for your Sunday reading: G. M. Tam\u00e1s on the death of democracy, Lili Loofbourow on the male gaze, and Deborah Copaken's blow-by-blow experience of sexual harassment at the New York Observer, plus stories on the mathematics of happiness and the coming stinkbug armageddon."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

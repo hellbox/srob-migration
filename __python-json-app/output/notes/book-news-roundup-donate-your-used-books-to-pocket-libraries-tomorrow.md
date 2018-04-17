@@ -1,8 +1,8 @@
 +++
 index = "-KWq1CNmM-sEWHwqDcMr"
-_sort_create_date = 1479449040
-_sort_last_updated = 1479449040
-_sort_publish_date = 1479499380
+sort_create_date = 1479449040
+sort_last_updated = 1479449040
+sort_publish_date = 1479499380
 create_date = "2016-11-17T22:04:00-08:00"
 publish_date = "2016-11-18T12:03:00-08:00"
 date = "2016-11-18T12:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Get to know @Seattle7Writers' pocket library program."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-7-writers", "tags/graphic-novels", "tags/comics", "tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Tomorrow is the Seattle 7 Writers Holiday Bookfest, which I wrote about for [this week's Literary Event of the Week column](http://www.seattlereviewofbooks.com/notes/2016/11/16/literary-event-of-the-week-seattle-7-writers-bookfest/). This is a great event and you should go, for all the reasons I explained. However, I made one error in the column that I want to amend here: I wrote... "...And if you’d like to make your neighborhood a more literate place, feel free to bring some 'gently used books,' which Seattle 7 Writers will then distribute to little free libraries around the city." That is actually slightly wrong: Seattle 7 Writers will definitely accept your used books, but they will instead use them for their terrific [Pocket Library program](http://www.seattle7writers.org/pocket-libraries.html), which is even better than donating them to Little Free Libraries. Here's what the Pocket Libraries are, from their own website:

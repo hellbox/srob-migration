@@ -1,8 +1,8 @@
 +++
 index = "-KsM_yXrj_3spIJcQJyj"
-_sort_create_date = 1503634380
-_sort_last_updated = 1503681420
-_sort_publish_date = 1503679800
+sort_create_date = 1503634380
+sort_last_updated = 1503681420
+sort_publish_date = 1503679800
 create_date = "2017-08-24T21:13:00-07:00"
 publish_date = "2017-08-25T09:50:00-07:00"
 date = "2017-08-25T09:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Ugh. You don't want to work with your loser friend, but can you slag them? @ciennam sets you straight. "
 facebookauto = "Ugh. You don't want to work with your loser friend, but can you slag them? Cienna Madrid sets you straight. "
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna Madrid can help. Send your Help Desk Questions to advice@seattlereviewofbooks.com.</p>

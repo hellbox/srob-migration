@@ -1,8 +1,8 @@
 +++
 index = "-Kk9jI_JEsonXw_1KnJG"
-_sort_create_date = 1494828780
-_sort_last_updated = 1494828900
-_sort_publish_date = 1494878400
+sort_create_date = 1494828780
+sort_last_updated = 1494828900
+sort_publish_date = 1494878400
 create_date = "2017-05-14T23:13:00-07:00"
 publish_date = "2017-05-15T13:00:00-07:00"
 date = "2017-05-15T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494270703452/etiq
 twitterauto = "Sponsor @anne_mendel brings etiquette to barbarous future Portland. "
 facebookauto = "Sponsor Anne Mendel brings etiquette to barbarous future Portland. "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1494270703452/etiquette.jpg)</p>

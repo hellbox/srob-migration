@@ -1,8 +1,8 @@
 +++
 index = "-KfPqlKl22QieWqcH2mJ"
-_sort_create_date = 1489730460
-_sort_last_updated = 1490044560
-_sort_publish_date = 1490124600
+sort_create_date = 1489730460
+sort_last_updated = 1490044560
+sort_publish_date = 1490124600
 create_date = "2017-03-16T23:01:00-07:00"
 publish_date = "2017-03-21T12:30:00-07:00"
 date = "2017-03-21T12:30:00-07:00"
@@ -13,10 +13,10 @@ title = "A portrait, in black and white"
 dek = "Peter Bagge presents his newest book at Elliott Bay Book Company on Saturday, March 25th at 7 pm. It's a complex love letter to Zora Neale Hurston's complicated genius."
 facebookauto = "Tacoma cartoonist Peter Bagge's latest comic is a complex exploration of the life of Zora Neale Hurston."
 twitterauto = "Tacoma cartoonist Peter Bagge's latest comic is a complex exploration of the life of Zora Neale Hurston."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/fire!!-"]
 tags_reviews = ["tags/biography", "tags/comics"]
-authors_reviews = ["authors/peter-bagge"]
+reviews_about = ""
 +++
 
 Cartoonists don’t often get a chance at second acts. We expect comics artists to keep drawing the same immortal characters over and over until they grow old and die, like Charles Schulz; or until they retire from the business, like Gary Larson; or until they perfect their art and ascend to the literary heavens, like Lynda Barry.

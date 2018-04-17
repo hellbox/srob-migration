@@ -1,8 +1,8 @@
 +++
 index = "-Kwi4AKYCpi-eK_nF--i"
-_sort_create_date = 1508306580
-_sort_last_updated = 1508394000
-_sort_publish_date = 1508432400
+sort_create_date = 1508306580
+sort_last_updated = 1508394000
+sort_publish_date = 1508432400
 create_date = "2017-10-17T23:03:00-07:00"
 publish_date = "2017-10-19T10:00:00-07:00"
 date = "2017-10-19T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508306367405/the-
 twitterauto = "Women have always gotten short shrift in superhero comics. This book liberates them."
 facebookauto = "Women have always gotten short shrift in superhero comics. This book liberates them."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1508306367405/the-refrigerator-monologues-9781481459341_lg.jpg)</p>

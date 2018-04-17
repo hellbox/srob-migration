@@ -1,8 +1,8 @@
 +++
 index = "-Kq1PJ4JY4IEuMUIlcvi"
-_sort_create_date = 1501131480
-_sort_last_updated = 1501131480
-_sort_publish_date = 1501174680
+sort_create_date = 1501131480
+sort_last_updated = 1501131480
+sort_publish_date = 1501174680
 create_date = "2017-07-26T21:58:00-07:00"
 publish_date = "2017-07-27T09:58:00-07:00"
 date = "2017-07-27T09:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501131291016/blac
 twitterauto = "We're 16 issues into Ta-Nehisi Coates's Black Panther series. How is it?"
 facebookauto = "We're 16 issues into Ta-Nehisi Coates's Black Panther series. How is it?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/black-panther"]
-authors_notes = ["authors/ta-nehisi-coates"]
+notes_about = ""
 books = ""
 +++
 I have to admit something: [I loved the first issue of Ta-Nehisi Coates's *Black Panther*](http://www.seattlereviewofbooks.com/notes/2016/04/07/thursday-comics-hangover-everybodys-talking-about-the-black-panther/), but the series has largely lost my interest in the intervening year-and-a-half. That first issue was a perfect balance between pop-culture philosphy and superhero action, and Coates seemed to be attempting a more stylish version of a text-heavy style of comics writing that we haven't seen in mainstream comics since the 1980s.

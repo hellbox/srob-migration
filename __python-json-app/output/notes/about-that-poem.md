@@ -1,8 +1,8 @@
 +++
 index = "-JvtwUhACADeIYo0h-VH"
-_sort_create_date = 1438712460
-_sort_last_updated = 1438712460
-_sort_publish_date = 1438712460
+sort_create_date = 1438712460
+sort_last_updated = 1438712460
+sort_publish_date = 1438712460
 create_date = "2015-08-04T11:21:00-07:00"
 publish_date = "2015-08-04T11:21:00-07:00"
 date = "2015-08-04T11:21:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/kelli-russell-agodon"]
+notes_about = ""
 books = ""
 +++
 You may have noticed that we [published a wonderful poem by Kelli Russell Agodon](http://seattlereviewofbooks.com/notes/2015/08/04/argument-waltz-with-pessimistic-drowning/) this morning. It's the debut of a new *SRoB* feature: every Tuesday, we'll present a poem by a local poet. 

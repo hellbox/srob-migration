@@ -1,8 +1,8 @@
 +++
 index = "-Ku2e3Cufg-pQsMQdWhk"
-_sort_create_date = 1505447400
-_sort_last_updated = 1505447400
-_sort_publish_date = 1505494800
+sort_create_date = 1505447400
+sort_last_updated = 1505447400
+sort_publish_date = 1505494800
 create_date = "2017-09-14T20:50:00-07:00"
 publish_date = "2017-09-15T10:00:00-07:00"
 date = "2017-09-15T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A reader puts it to @ciennam: can we take boys who read serious books seriously?"
 facebookauto = "A reader puts it to Cienna Madrid: can we take boys who read serious books seriously?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><strong>Cienna Madrid's Summer cold has decided to stick around past the dog days. She's sick so we're rerunning this column from October of 2015. Our intrepid advice columnist will be back next week.</strong> <em>And please remember to keep sending your questions! Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Ask her at </em> advice@seattlereviewofbooks.com.</p>

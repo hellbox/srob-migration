@@ -1,8 +1,8 @@
 +++
 index = "-KU0QBe2P_wIcDatHXu_"
-_sort_create_date = 1476418860
-_sort_last_updated = 1476463920
-_sort_publish_date = 1476464520
+sort_create_date = 1476418860
+sort_last_updated = 1476463920
+sort_publish_date = 1476464520
 create_date = "2016-10-13T21:21:00-07:00"
 publish_date = "2016-10-14T10:02:00-07:00"
 date = "2016-10-14T10:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's the Karen Finneyfrock poem for America right now."
 facebookauto = "Karen Finneyfrock is speaking for the Statue of Liberty, and she's sick of our Trump-era B.S."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/kuow", "tags/poetry"]
-authors_notes = ["authors/karen-finneyfrock", "authors/elizabeth-austen"]
+notes_about = ""
 books = ""
 +++
 Well, it's been another banner week in the history of our great republic. The democratic process has never seemed so...well, uh. Yeah. 

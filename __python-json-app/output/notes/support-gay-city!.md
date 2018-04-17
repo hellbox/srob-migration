@@ -1,8 +1,8 @@
 +++
 index = "-KdWhP4ykgZYx3jadepv"
-_sort_create_date = 1487697960
-_sort_last_updated = 1487699940
-_sort_publish_date = 1487710800
+sort_create_date = 1487697960
+sort_last_updated = 1487699940
+sort_publish_date = 1487710800
 create_date = "2017-02-21T09:26:00-08:00"
 publish_date = "2017-02-21T13:00:00-08:00"
 date = "2017-02-21T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Hey @GayCitySeattle! Surprise! Our sponsorship slot this week was donated to help support you. "
 facebookauto = "Our sponsorship slot this week was donated to help support Gay City!"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1487698026587/Gay_City-2-little.jpg)</p>

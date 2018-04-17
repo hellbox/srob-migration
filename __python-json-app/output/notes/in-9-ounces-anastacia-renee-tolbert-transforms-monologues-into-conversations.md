@@ -1,8 +1,8 @@
 +++
 index = "-KPMCB0qcioBu7-Fx9RV"
-_sort_create_date = 1471415580
-_sort_last_updated = 1471462500
-_sort_publish_date = 1471461300
+sort_create_date = 1471415580
+sort_last_updated = 1471462500
+sort_publish_date = 1471461300
 create_date = "2016-08-16T23:33:00-07:00"
 publish_date = "2016-08-17T12:15:00-07:00"
 date = "2016-08-17T12:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A review of former @HugoHouse Writer-in-Residence Anastacia Renee Tolbert's one-woman show"
 facebookauto = "Last weekend, former Hugo House Writer-in-Residence Anastacia Renee Tolbert performed an enthralling one-woman show. Read more about her monologues and messages: "
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ""
-authors_notes = ["authors/anastacia-renee"]
+notes_about = ""
 books = ""
 +++
 Luna, Alice, and Saraphina fill the stage with both humor and anguish. Three friends living in the same building, they work on their downward dog together and help each other through life’s daily struggles. The performance in _9 Ounces_ presented the separate monologues of these three black women — each one an act and each role performed by [Anastacia Renee Tolbert](http://indigoa.wix.com/main), the Hugo House's current poet-in-residence. In part, the characters serve to represent the span of life and its various stages through their age differences: Luna is a kid, Alice an adult, and Saraphina a 91-year-old widow. Their unusual friendship also demonstrates Tolbert’s belief that generation gaps and age expectations shouldn’t dictate what we do or who we see. Tolbert donned each persona naturally and switched between them with ease, giving them distinct outfits, different voices, and unique mannerisms. Each character has the therapist-appointed task of talking to their reflection in the mirror (the audience). The result is a self-aware and brutally honest string of ideas and thoughts, sometimes expressing self-consciousness, sometimes criticizing society, and sometimes just trying to be okay. 

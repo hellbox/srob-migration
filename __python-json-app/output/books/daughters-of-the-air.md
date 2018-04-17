@@ -1,8 +1,8 @@
 +++
 index = "-L-P1FKMXGe20GGNmKvG"
-_sort_create_date = 1512265260
-_sort_last_updated = 1512265260
-_sort_publish_date = 1512265260
+sort_create_date = 1512265260
+sort_last_updated = 1512265260
+sort_publish_date = 1512265260
 create_date = "2017-12-02T17:41:00-08:00"
 publish_date = "2017-12-02T17:41:00-08:00"
 date = "2017-12-02T17:41:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kv-FdBZ6yJFyIQNHQoUfXhIRZ54peYx35jIqGi8a97pwlCZMzeLdF-goo3G4zJxJbVwVcdXf30aZkHFaxTCAvAtvsL-NmQ"
 url = "/webhook-uploads/1512265155948/daughtersoftheair.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 45888
 
 review_relationship = ["reviews/a-fairy-tale-of-new-york"]
-author_relationship = ["authors/anca-l-szil\u00e1gyi"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-16th---april-22nd"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-K7j4DK5loPy9GzjAKK3"
-_sort_create_date = 1452488820
-_sort_last_updated = 1452533880
-_sort_publish_date = 1452628860
+sort_create_date = 1452488820
+sort_last_updated = 1452533880
+sort_publish_date = 1452628860
 create_date = "2016-01-10T21:07:00-08:00"
 publish_date = "2016-01-12T12:01:00-08:00"
 date = "2016-01-12T12:01:00-08:00"
@@ -13,10 +13,10 @@ title = "Laid bear"
 dek = "The internet lost its collective mind over an 40 year-old Canadian novel featuring a woman having an erotic relationship with a bear. Why do bears and sex freak people out so much?"
 facebookauto = "Sure, they say you can't judge a book by its cover. But what about if the book is about a woman who has sexual relations with a bear?"
 twitterauto = "The internet lost its mind over a 40 year-old novel about a woman having an erotic relationship with a bear. "
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/bear"]
 tags_reviews = ["tags/erotica", "tags/novel"]
-authors_reviews = ["authors/marian-engel", "authors/margaret-atwood"]
+reviews_about = ""
 +++
 
 Let’s lay it out as simply as possible: Marian Engel’s *Bear* is a novel about a woman who has an erotic relationship with a bear. As you can imagine, this is the sort of premise that probably makes book cover artists lick their lips with anticipation.

@@ -1,8 +1,8 @@
 +++
 index = "-KXDOOUWjQiwXSJgPCBi"
-_sort_create_date = 1479857760
-_sort_last_updated = 1479857760
-_sort_publish_date = 1480535760
+sort_create_date = 1479857760
+sort_last_updated = 1479857760
+sort_publish_date = 1480535760
 create_date = "2016-11-22T15:36:00-08:00"
 publish_date = "2016-11-30T11:56:00-08:00"
 date = "2016-11-30T11:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479857659523/Moon
 twitterauto = "This week in readings brings Charles Johnson, Michael Chabon, and Thomas Friedman, plus lots more."
 facebookauto = "This week in readings brings Charles Johnson, Michael Chabon, and Thomas Friedman, plus a literary crawl in Rainier Valley and Urban Craft Uprising!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday November 30th: *My Old Man and the Mountain* Reading

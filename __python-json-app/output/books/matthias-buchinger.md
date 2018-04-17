@@ -1,8 +1,8 @@
 +++
 index = "-KGILk3luAIFhcAfbgkO"
-_sort_create_date = 1461687300
-_sort_last_updated = 1461687720
-_sort_publish_date = 1461687300
+sort_create_date = 1461687300
+sort_last_updated = 1461687720
+sort_publish_date = 1461687300
 create_date = "2016-04-26T09:15:00-07:00"
 publish_date = "2016-04-26T09:15:00-07:00"
 date = "2016-04-26T09:15:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/5smL91jaVjGTAZIb8DVGuW9hwdyjrqX2JJka2w2Ewr44oEHbDx6lgNGC9L0tjW6HDYgdEizuijtRXJobmklMHF3RM43L"
 url = "/webhook-uploads/1461687738245/814M37-O6TL.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 348807
 
 review_relationship = ["reviews/wherein-the-collector-puts-his-passions-on-display"]
-author_relationship = ["authors/ricky-jay"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

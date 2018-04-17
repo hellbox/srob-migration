@@ -1,8 +1,8 @@
 +++
 index = "-KVdC2yHPTjIbwx1eB0T"
-_sort_create_date = 1478160000
-_sort_last_updated = 1478160000
-_sort_publish_date = 1478199600
+sort_create_date = 1478160000
+sort_last_updated = 1478160000
+sort_publish_date = 1478199600
 create_date = "2016-11-03T01:00:00-07:00"
 publish_date = "2016-11-03T12:00:00-07:00"
 date = "2016-11-03T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Tonight is the launch party for Thick as Thieves, a new Seattle-area comics anthology."
 facebookauto = "Tonight is the launch party for Thick as Thieves, a new Seattle-area comics anthology inspired in part by the great comics that were part of Intruder."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/intruder", "tags/thick-as-thieves"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Tonight, as part of First Thursday Art Walk, the Brainfreeze art gallery — where the Lusty Lady used to be, across from the Seattle Art Museum on 1st Avenue, downtown — is [hosting a launch party for a brand-new free publication]( https://www.facebook.com/events/149881098807373/) that’s trying to fill the gap left by [the sadly defunct *Intruder* anthology comic]( http://www.seattlereviewofbooks.com/notes/2016/07/05/barging-right-on-in/). The debut issue of the new free quarterly comic *Thick as Thieves* looks almost exactly like an issue of *Intruder*, save for the fact that it’s only 8 pages rather than 16. The similarities with *Intruder* makes sense, as it was published at the same place (Pacific Publishing) and cofounder Simon Lazarus Vasta has told me he considers *Intruder* to be an influence.

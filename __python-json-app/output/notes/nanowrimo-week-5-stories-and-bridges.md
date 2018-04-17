@@ -1,8 +1,8 @@
 +++
 index = "-K497xYDX5FQ_jCcAEJG"
-_sort_create_date = 1448647800
-_sort_last_updated = 1448660760
-_sort_publish_date = 1448654400
+sort_create_date = 1448647800
+sort_last_updated = 1448660760
+sort_publish_date = 1448654400
 create_date = "2015-11-27T10:10:00-08:00"
 publish_date = "2015-11-27T12:00:00-08:00"
 date = "2015-11-27T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/nanowrimo", "tags/secular-sermons"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 You're at the point in your book where you're talking to yourself, aren't you? You're probably feeling a bit manic about the whole thing. It's an itch that runs away laughing every time you try to scratch it. You probably haven't bathed for the past 10,000 words. It's so close, that line. If you're on track, according to our recommendations, you should have about 45,900 words down right now. You are almost done.

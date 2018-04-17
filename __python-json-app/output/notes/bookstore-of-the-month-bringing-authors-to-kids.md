@@ -1,8 +1,8 @@
 +++
 index = "-KOawwMmRSeqv30LbLMp"
-_sort_create_date = 1470606060
-_sort_last_updated = 1470679680
-_sort_publish_date = 1470675600
+sort_create_date = 1470606060
+sort_last_updated = 1470679680
+sort_publish_date = 1470675600
 create_date = "2016-08-07T14:41:00-07:00"
 publish_date = "2016-08-08T10:00:00-07:00"
 date = "2016-08-08T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470605859783/bric
 twitterauto = "Did you know that @secretgardenbooks brings all kinds of authors to the kids of Seattle?"
 facebookauto = "Secret Garden Books hosts tons of readings. You're not allowed to attend many of them unless you're a kid."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/secret-garden-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1470605859783/brick.JPG)</p>

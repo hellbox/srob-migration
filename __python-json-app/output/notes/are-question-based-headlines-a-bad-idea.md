@@ -1,8 +1,8 @@
 +++
 index = "-KOsMUuTvEGVPTeGSA6R"
-_sort_create_date = 1470898200
-_sort_last_updated = 1470898200
-_sort_publish_date = 1470941400
+sort_create_date = 1470898200
+sort_last_updated = 1470898200
+sort_publish_date = 1470941400
 create_date = "2016-08-10T23:50:00-07:00"
 publish_date = "2016-08-11T11:50:00-07:00"
 date = "2016-08-11T11:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Funnily enough, a new study says people don't like clickbaity headlines."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/facebook"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Yes. [God, yes](https://www.journalism.co.uk/news/readers-perceive-question-based-headlines-more-negatively-study-shows/s2/a663096/).

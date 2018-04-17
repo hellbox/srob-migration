@@ -1,8 +1,8 @@
 +++
 index = "-KmAnqzQ8w6cPY7aI5Cv"
-_sort_create_date = 1496994240
-_sort_last_updated = 1497036420
-_sort_publish_date = 1497034860
+sort_create_date = 1496994240
+sort_last_updated = 1497036420
+sort_publish_date = 1497034860
 create_date = "2017-06-09T00:44:00-07:00"
 publish_date = "2017-06-09T12:01:00-07:00"
 date = "2017-06-09T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Audio books are booming, and so is Sherman Alexie. Check out today's Book News Roundup:"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/sherman-alexie", "authors/neal-stephenson", "authors/neil-gaiman"]
+notes_about = ""
 books = ""
 +++
 * [Brendan Kiley at the *Seattle Times*](http://www.seattletimes.com/entertainment/theater/city-announces-30-ideas-to-protect-arts-and-culture-spaces-from-high-rent-displacement/) writes about a new report from the city that offers "30 ideas — some already in play — to shelter artists and communities of color from rapid development and skyrocketing rents." You can [read a PDF of the report right here](http://www.seattle.gov/Documents/Departments/Arts/Downloads/Space/CULTURAL%20SPACE%20REPORT.pdf). If you're an artist or a lover of the arts who is concerned about livability in Seattle — in other words, if you're reading this site right now — it is your civic duty to read this report.

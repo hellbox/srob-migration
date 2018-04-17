@@ -1,8 +1,8 @@
 +++
 index = "-KUKNCaq8sbOnO6whlfP"
-_sort_create_date = 1476753660
-_sort_last_updated = 1476753660
-_sort_publish_date = 1476809700
+sort_create_date = 1476753660
+sort_last_updated = 1476753660
+sort_publish_date = 1476809700
 create_date = "2016-10-17T18:21:00-07:00"
 publish_date = "2016-10-18T09:55:00-07:00"
 date = "2016-10-18T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is \"Fir\" by Kris Hall"
 facebookauto = "Our Tuesday Poem is \"Fir\" by Kris Hall"
 make_image_tweet = "False"
-byline = ["writers/kris-hall"]
+notes_byline = ["writers/kris-hall"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Polygon tufts<br>

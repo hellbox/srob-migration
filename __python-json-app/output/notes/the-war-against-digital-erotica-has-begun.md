@@ -1,8 +1,8 @@
 +++
 index = "-L8n5TS3rYPxA20jwxMf"
-_sort_create_date = 1522349460
-_sort_last_updated = 1522349460
-_sort_publish_date = 1522349460
+sort_create_date = 1522349460
+sort_last_updated = 1522349460
+sort_publish_date = 1522349460
 create_date = "2018-03-29T11:51:00-07:00"
 publish_date = "2018-03-29T11:51:00-07:00"
 date = "2018-03-29T11:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It just got a lot harder to find erotic fiction online."
 facebookauto = "It just got a lot harder to find erotic fiction online."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/erotica", "tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Samantha Cole [writes at Motherboard](https://motherboard.vice.com/en_us/article/bjpjn4/amazon-erotica-best-seller-rankings-removed):

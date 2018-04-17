@@ -1,8 +1,8 @@
 +++
 index = "-KtU_ySFzuyLkB1fHum4"
-_sort_create_date = 1504842300
-_sort_last_updated = 1504842300
-_sort_publish_date = 1505806740
+sort_create_date = 1504842300
+sort_last_updated = 1504842300
+sort_publish_date = 1505806740
 create_date = "2017-09-07T20:45:00-07:00"
 publish_date = "2017-09-19T00:39:00-07:00"
 date = "2017-09-19T00:39:00-07:00"
@@ -13,10 +13,10 @@ title = "The line between \"you\" and \"me\""
 dek = "The latest book from Mount Analogue is a book, an art installation, and a friendship."
 facebookauto = "It's a book! It's an art installation! It's a friendship!"
 twitterauto = "It's a book! It's an art installation! It's a friendship!"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/fumetti-for-the-mothership"]
 tags_reviews = ["tags/mount-analogue"]
-authors_reviews = ["authors/colleen-louise-barry", "authors/stephanie-passantino"]
+reviews_about = ""
 +++
 
 It is a towering, temporary construct in the middle of publisher Mount Analogue’s Pioneer Square gallery/storefront. It resembles a child’s blanket fort: some white sheets hanging from the ceiling, adorned with glittering strands of tinsel and crinkled-up tinfoil and spritzes of brightly colored artificial flowers. The structure is surrounded by Mount Analogue’s usual décor — handmade books and ceramic cigarette packs and gloves with weird phrases sewn into them — and a large collection of potted plants. “Everything is walk-through-able,” Mount Analogue publisher Colleen Louise Barry tells me, encouraging me to get closer and investigate.

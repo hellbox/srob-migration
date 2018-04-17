@@ -1,8 +1,8 @@
 +++
 index = "-KWtxy4xDrnkX065R9im"
-_sort_create_date = 1479514980
-_sort_last_updated = 1479941220
-_sort_publish_date = 1479927660
+sort_create_date = 1479514980
+sort_last_updated = 1479941220
+sort_publish_date = 1479927660
 create_date = "2016-11-18T16:23:00-08:00"
 publish_date = "2016-11-23T11:01:00-08:00"
 date = "2016-11-23T11:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478911323621/hill
 twitterauto = "Here's your Thanksgiving week literary calendar. "
 facebookauto = "Here's your Thanksgiving week literary calendar."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1478911323621/hillbilly%20elegy.jpg)</p>

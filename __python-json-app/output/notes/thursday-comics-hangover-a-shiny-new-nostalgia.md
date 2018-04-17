@@ -1,8 +1,8 @@
 +++
 index = "-KsqjKIPKZczpg2OLqZv"
-_sort_create_date = 1504156920
-_sort_last_updated = 1504156920
-_sort_publish_date = 1504198500
+sort_create_date = 1504156920
+sort_last_updated = 1504156920
+sort_publish_date = 1504198500
 create_date = "2017-08-30T22:22:00-07:00"
 publish_date = "2017-08-31T09:55:00-07:00"
 date = "2017-08-31T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504156629114/palo
 twitterauto = "In which the youngest grumpy old man in comics finally grows up and acts his age."
 facebookauto = "In which the youngest grumpy old man in comics finally grows up and acts his age."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/drawn-&amp;-quarterly"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Even when he was getting started as a cartoonist, Seth’s comics were all about nostalgia. As a young man, his autobiographical comics depicted him as a disaffected dandy who yearned for a time before he was born — the art deco years of the 1930s. Seth spent his early middle age building a tribute to the nonexistent past that held his obsession, in the form of [a timeless cardboard city called *Dominion*]( http://www.prairiedogmag.com/2015-04-16/a-kingdom-of-cardboard-and-glue/) that he took on exhibition around his native Canada. 

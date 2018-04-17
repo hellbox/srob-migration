@@ -1,8 +1,8 @@
 +++
 index = "-KbE9aD9v6NDQ3mH6Gzg"
-_sort_create_date = 1485239340
-_sort_last_updated = 1485239340
-_sort_publish_date = 1485277260
+sort_create_date = 1485239340
+sort_last_updated = 1485239340
+sort_publish_date = 1485277260
 create_date = "2017-01-23T22:29:00-08:00"
 publish_date = "2017-01-24T09:01:00-08:00"
 date = "2017-01-24T09:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Upset with corporate presses for publishing Milo Yiannopoulos? Buy from independent presses instead!"
 facebookauto = "If you're upset with corporate presses for publishing Milo Yiannopoulos, maybe you should buy from independent presses instead."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/milo-yiannopoulos", "tags/simon-&amp;-schuster"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Carolyn Reidy, the CEO at Simon & Schuster, [released a letter](https://www.buzzfeed.com/jarrylee/milo-yiannopouloss-publisher-says-his-book-wont-include-hate?utm_term=.gekNODeOO#.is5Ry5Byy) in response to the uproar that followed the news that [a conservative imprint of S&S was publishing a book by white nationalist Milo Yiannopoulos](http://www.seattlereviewofbooks.com/notes/2016/12/29/simon-and-schuster-gives-a-quarter-million-dollars-to-white-supremacist-troll/). The response (published below) is several weeks too late and it doesn't actually address the issues that many have raised about the deal. 

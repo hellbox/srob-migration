@@ -1,8 +1,8 @@
 +++
 index = "-Kkkg1N1lbQAurIojJZ8"
-_sort_create_date = 1495465440
-_sort_last_updated = 1495465440
-_sort_publish_date = 1495483200
+sort_create_date = 1495465440
+sort_last_updated = 1495465440
+sort_publish_date = 1495483200
 create_date = "2017-05-22T08:04:00-07:00"
 publish_date = "2017-05-22T13:00:00-07:00"
 date = "2017-05-22T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494270703452/etiq
 twitterauto = "Sponsor @anne_mendel finds culture in post-collapse Portland."
 facebookauto = "Sponsor Anne Mendel finds culture in post-collapse Portland."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1494270703452/etiquette.jpg)</p>

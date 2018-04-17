@@ -1,8 +1,8 @@
 +++
 index = "-KvZrnncvJAF8nAecJRO"
-_sort_create_date = 1507078380
-_sort_last_updated = 1507078380
-_sort_publish_date = 1507122900
+sort_create_date = 1507078380
+sort_last_updated = 1507078380
+sort_publish_date = 1507122900
 create_date = "2017-10-03T17:53:00-07:00"
 publish_date = "2017-10-04T06:15:00-07:00"
 date = "2017-10-04T06:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507077563678/Scre
 twitterauto = "Big news for Seattle publishing: @penguinrandom has bought @SasquatchBooks."
 facebookauto = "Big news for Seattle publishing: Big New York publisher Penguin Random House has bought Seattle independent press Sasquatch Books. Click through to read the terms of the deal, and to read Sasquatch publisher Gary Luke's challenge for Seattle Review of Books readers."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/sasquatch"]
-authors_notes = ["authors/kate-lebo", "authors/sam-ligon"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1507077563678/Screen%20Shot%202017-10-03%20at%205.38.34%20PM.png)</p>

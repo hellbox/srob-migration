@@ -1,8 +1,8 @@
 +++
 index = "-JsiTCYBlFI9qnxPhbaQ"
-_sort_create_date = 1435299420
-_sort_last_updated = 1435299420
-_sort_publish_date = 1435299420
+sort_create_date = 1435299420
+sort_last_updated = 1435299420
+sort_publish_date = 1435299420
 create_date = "2015-06-25T23:17:00-07:00"
 publish_date = "2015-06-25T23:17:00-07:00"
 date = "2015-06-25T23:17:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4TKZYD1CvZqECKG-OZOX6fEMvmqvJ5CBnwtWX_HvSjfD_po_huHNvfygtWuGyjAJ_SCocJRjV_YoEVaDEbOL0iQ6x6Lt8w"
 url = "/webhook-uploads/1435299398877/9780142414934.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 16816
 
 review_relationship = ["reviews/traveling-light"]
-author_relationship = ["authors/john-green"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

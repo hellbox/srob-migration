@@ -1,8 +1,8 @@
 +++
 index = "-L0GQt_nK9qNz12ZDel8"
-_sort_create_date = 1513194720
-_sort_last_updated = 1513194720
-_sort_publish_date = 1513197000
+sort_create_date = 1513194720
+sort_last_updated = 1513194720
+sort_publish_date = 1513197000
 create_date = "2017-12-13T11:52:00-08:00"
 publish_date = "2017-12-13T12:30:00-08:00"
 date = "2017-12-13T12:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Tonight at 6:30 pm, Zanadu Comics is hosting its final discussion group."
 facebookauto = "Tonight at 6:30 pm, Zanadu Comics is hosting its final discussion group."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/zanadu-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 As [I reported last month](http://www.seattlereviewofbooks.com/notes/2017/11/15/zanadu-comics-to-close-in-january-2018/), Zanadu Comics, the second-oldest comics store in Seattle, is closing in January. Tonight, you'll have an opportunity to come start saying your goodbyes to the store. Zanadu employee Casey is hosting the final edition of Discussions from the Longtable, a comics conversation group, tonight at 6:30 pm. It promises to be an emotional time.

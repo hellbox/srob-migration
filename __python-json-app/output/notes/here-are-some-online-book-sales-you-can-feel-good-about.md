@@ -1,8 +1,8 @@
 +++
 index = "-K4-ATaMRuggB8H7Cbqs"
-_sort_create_date = 1448480700
-_sort_last_updated = 1448480700
-_sort_publish_date = 1448486700
+sort_create_date = 1448480700
+sort_last_updated = 1448480700
+sort_publish_date = 1448486700
 create_date = "2015-11-25T11:45:00-08:00"
 publish_date = "2015-11-25T13:25:00-08:00"
 date = "2015-11-25T13:25:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here are some online book sales you can feel good about, from @melvillehouse, @fantagraphics, and @DandQ."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Yesterday, [I told you about](http://seattlereviewofbooks.com/notes/2015/11/24/dont-forget-to-celebrate-small-business-saturday/) some local independent bookstores that you should visit on Small Business Saturday. But that doesn't mean you can't buy books online, too! Below are three big sales from independent publishers just in time for Thanksgiving-weekend consumer madness. Buying directly from these publishers will help pay for more great new books in the coming year.

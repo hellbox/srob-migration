@@ -1,8 +1,8 @@
 +++
 index = "-KYkCgLeJJ0xzLPVi1gG"
-_sort_create_date = 1481498820
-_sort_last_updated = 1481500020
-_sort_publish_date = 1481565540
+sort_create_date = 1481498820
+sort_last_updated = 1481500020
+sort_publish_date = 1481565540
 create_date = "2016-12-11T15:27:00-08:00"
 publish_date = "2016-12-12T09:59:00-08:00"
 date = "2016-12-12T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481498732643/Meli
 twitterauto = "We asked @UBookStoreReads bookseller Melissa what book she wanted for the holidays."
 facebookauto = "We asked University Book Store bookseller Melissa Barnes what book she wanted for the holidays."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/university-book-store"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *(Every Monday in December, we're asking a local bookseller which books they'd like to receive for a holiday gift. Our second bookseller is Melissa Barnes, who works at University Book Store. Melissa chose* [Ada Twist, Scientist](http://www4.bookstore.washington.edu/_trade/ShowTitleUBS2.taf?ActionArg=Title&ISBN=9781419721373&SKU=2071178&sdb=ALL), *by Andrea Beaty and David Roberts.)*

@@ -1,8 +1,8 @@
 +++
 index = "-JtvMzPwSIwpNQo5TOjv"
-_sort_create_date = 1436588940
-_sort_last_updated = 1436589360
-_sort_publish_date = 1436588940
+sort_create_date = 1436588940
+sort_last_updated = 1436589360
+sort_publish_date = 1436588940
 create_date = "2015-07-10T21:29:00-07:00"
 publish_date = "2015-07-10T21:29:00-07:00"
 date = "2015-07-10T21:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![ARCs and Previews for July 10](/webhook-uploads/1436588934903/IMG_3637.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-JudQFQAYxTW0yUDZw75"
-_sort_create_date = 1437361560
-_sort_last_updated = 1437950640
-_sort_publish_date = 1437415560
+sort_create_date = 1437361560
+sort_last_updated = 1437950640
+sort_publish_date = 1437415560
 create_date = "2015-07-19T20:06:00-07:00"
 publish_date = "2015-07-20T11:06:00-07:00"
 date = "2015-07-20T11:06:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "52ab5071-8d4c-94c9-0b3d-ab25aafdd5cb"
 name = "You, specifically, should be a feminist"
 title = "You, specifically, should be a feminist"
 dek = "Finding inspiration and comfort in Adichie's clear vision of why feminism is needed in our world."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/we-should-all-be-feminists", "books/americanah"]
 tags_reviews = ["tags/feminism"]
-authors_reviews = ["authors/chimamanda-ngozi-adichie"]
+reviews_about = ""
 +++
 
 Specificity is the key for understanding broader truths. It’s only when we really drill down on a subject that we uncover metaphors that apply to other situations. To a lazy thinker, a rock is just a rock. To a geologist, a rock is a gateway to understanding the world, a subject dense with hidden secrets that affect everything else on earth. 

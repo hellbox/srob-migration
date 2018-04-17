@@ -1,8 +1,8 @@
 +++
 index = "-K5NOm_OceYN7MSr1c6_"
-_sort_create_date = 1449960840
-_sort_last_updated = 1449961200
-_sort_publish_date = 1449960840
+sort_create_date = 1449960840
+sort_last_updated = 1449961200
+sort_publish_date = 1449960840
 create_date = "2015-12-12T14:54:00-08:00"
 publish_date = "2015-12-12T14:54:00-08:00"
 date = "2015-12-12T14:54:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ZlV9o1sOXjDVbOmEcHa5v7s5Ql_PZxFedNyoqiwt1sOEmi1BUyLul0NrP8_WF3qEkAYu-7o42BGP__gA8AI-YKdKQH6ojA"
 url = "/webhook-uploads/1449960875138/content%3Fid%3DH3EgrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 15236
 
 review_relationship = ""
-author_relationship = ["authors/eugene-m-babb"]
+books_author = ""
 sponsorships_book = ["sponsorships/grit-and-roses"]
 notes_relationship = ["notes/its-a-musicians-life", "notes/one-more-day-before-the-band-stops-playing"]
 +++

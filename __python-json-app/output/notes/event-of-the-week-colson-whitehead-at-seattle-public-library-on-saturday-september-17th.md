@@ -1,8 +1,8 @@
 +++
 index = "-KRAfQ01rU81SpHIFQK2"
-_sort_create_date = 1473369660
-_sort_last_updated = 1473369660
-_sort_publish_date = 1473872400
+sort_create_date = 1473369660
+sort_last_updated = 1473369660
+sort_publish_date = 1473872400
 create_date = "2016-09-08T14:21:00-07:00"
 publish_date = "2016-09-14T10:00:00-07:00"
 date = "2016-09-14T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473369605443/Scre
 twitterauto = "Our event of the week is the latest entry in the Big O's Book Club."
 facebookauto = "Colson Whitehead is ten thousand times the novelist Jonathan Franzen is. So why has it taken so long for most of America to wake up to that fact?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/colson-whitehead"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1473369605443/Screen%20Shot%202016-09-08%20at%202.16.32%20PM.png)</p>

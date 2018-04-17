@@ -1,8 +1,8 @@
 +++
 index = "-JxLv5ab5oLZd0LazT2Q"
-_sort_create_date = 1440272340
-_sort_last_updated = 1440523560
-_sort_publish_date = 1440527400
+sort_create_date = 1440272340
+sort_last_updated = 1440523560
+sort_publish_date = 1440527400
 create_date = "2015-08-22T12:39:00-07:00"
 publish_date = "2015-08-25T11:30:00-07:00"
 date = "2015-08-25T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A new Lunch Date! Martin takes @loriamay's book 'The Write Crowd' out for a Szechuan sandwich."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/lunch-date"]
-authors_notes = ""
+notes_about = ""
 books = ["books/the-write-crowd"]
 +++
 <p class="intro">(Once in a while, Paul takes a new book to lunch and gives it a half an hour or so to grab his attention. Lunch Date is his judgment on that speed-dating experience, but today, Martin decided it was time to jump in.)</p>

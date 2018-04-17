@@ -1,8 +1,8 @@
 +++
 index = "-Kwa38e1ph9yhbHwOfwK"
-_sort_create_date = 1508172120
-_sort_last_updated = 1508173800
-_sort_publish_date = 1508184000
+sort_create_date = 1508172120
+sort_last_updated = 1508173800
+sort_publish_date = 1508184000
 create_date = "2017-10-16T09:42:00-07:00"
 publish_date = "2017-10-16T13:00:00-07:00"
 date = "2017-10-16T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508172371252/Mary
 twitterauto = "Join sponsor @EntreRiosBooks October 21 for the launch of a new book by Seattle poet Melinda Mueller."
 facebookauto = "Join sponsor Entre R\u00edos Books October 21 for the launch of Mary's Dust,  a much-awaited new book by Seattle poet Melinda Mueller."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/melinda-mueller"]
+notes_about = ""
 books = ["books/marys-dust"]
 +++
 <p class="image-left">![](/webhook-uploads/1508172951919/Mary's%20Dust_150.jpeg)</p>

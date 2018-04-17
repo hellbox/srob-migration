@@ -1,8 +1,8 @@
 +++
 index = "-KE8aue0Y7Zc7d3g2A_K"
-_sort_create_date = 1459376280
-_sort_last_updated = 1459376280
-_sort_publish_date = 1459376280
+sort_create_date = 1459376280
+sort_last_updated = 1459376280
+sort_publish_date = 1459376280
 create_date = "2016-03-30T15:18:00-07:00"
 publish_date = "2016-03-30T15:18:00-07:00"
 date = "2016-03-30T15:18:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Jonathan Franzen will be on Celebrity Jeopardy! We'll be rooting for Louis CK."
 facebookauto = "Jonathan Franzen will be a guest on the celebrity edition of Jeopardy! We'll be rooting for Louis CK."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/jonathan-franzen"]
+notes_about = ""
 books = ""
 +++
 Novelist Jonathan Franzen [will be appearing](http://www.vulture.com/2016/03/louis-ck-jonathan-franzen-to-be-on-jeopardy.html) on Celebrity Jeopardy with a number of other luminaries including Louis CK, Anderson Cooper, Al Franken, Melissa Harris-Perry, Lara Logan, and Chuck Todd. If Louis CK cleans Jonathan Franzen's clock on *Jeopardy!*, I will die a happy man.

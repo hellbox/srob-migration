@@ -1,8 +1,8 @@
 +++
 index = "-KFgQ-raapQ0Y1oTLDY5"
-_sort_create_date = 1461034140
-_sort_last_updated = 1461071940
-_sort_publish_date = 1461092400
+sort_create_date = 1461034140
+sort_last_updated = 1461071940
+sort_publish_date = 1461092400
 create_date = "2016-04-18T19:49:00-07:00"
 publish_date = "2016-04-19T12:00:00-07:00"
 date = "2016-04-19T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Poking at death with a long stick"
 dek = "Abigail Thomas does brave work looking at the things nobody wants to look at. But why should the living want to read writing about death and loss?"
 facebookauto = "What is it about death? Bonnie J Rough pokes a long stick at Abigail Thomas' latest book, out in paperback tomorrow."
 twitterauto = "What is it about death? @BonnieJRough pokes a long stick at Abigail Thomas' latest book, out in paperback tomorrow."
-byline = ["writers/bonnie-j-rough"]
+reviews_byline = ["writers/bonnie-j-rough"]
 books_in_this_review = ["books/what-comes-next-and-how-to-like-it"]
 tags_reviews = ["tags/cancer", "tags/death"]
-authors_reviews = ["authors/abigail-thomas"]
+reviews_about = ""
 +++
 
 It’s a hateful job, delivering news of death: the fact of its very existence, its unexpected arrival, its sudden probability. It’s heavy enough just to describe how it feels for the whole idea to swirl in, like a loaded paintbrush tainting the water in a jar. In her latest memoir, _What Comes Next and How to_ _Like It_, released in paperback today, Abigail Thomas reluctantly and humanely shoulders the job, “just poking at death with a long stick to see what happens.” 

@@ -1,8 +1,8 @@
 +++
 index = "-KseSFV6MDYXuHRTM4EL"
-_sort_create_date = 1503950820
-_sort_last_updated = 1503950820
-_sort_publish_date = 1503950820
+sort_create_date = 1503950820
+sort_last_updated = 1503950820
+sort_publish_date = 1503950820
 create_date = "2017-08-28T13:07:00-07:00"
 publish_date = "2017-08-28T13:07:00-07:00"
 date = "2017-08-28T13:07:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "ALERT ALERT ALERT: Cate Blanchett has been spotted at the downtown branch of @SPLBuzz!"
 facebookauto = "ALERT ALERT ALERT: Cate Blanchett has been spotted at the downtown branch of the Seattle Public Library!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library"]
-authors_notes = ["authors/maria-semple"]
+notes_about = ""
 books = ["books/whered-you-go-bernadette"]
 +++
 It's not very often we post about celebrities here, but BuzzFeed editor Chris Geidner is on vacation in Seattle and he made a Very Important Celebrity Discovery at the central branch of the Seattle Public Library:

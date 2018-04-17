@@ -1,8 +1,8 @@
 +++
 index = "-Jypmp_-aoSJ73o9MTFt"
-_sort_create_date = 1441864020
-_sort_last_updated = 1441864200
-_sort_publish_date = 1441864020
+sort_create_date = 1441864020
+sort_last_updated = 1441864200
+sort_publish_date = 1441864020
 create_date = "2015-09-09T22:47:00-07:00"
 publish_date = "2015-09-09T22:47:00-07:00"
 date = "2015-09-09T22:47:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/3m_vRBQQDbUJsoA7Qnx7WH-QDu5awc-afPkRUC4zFF0ne9jbWdvKXpT-Bsq3HT6J-VnJSVTc5ui6P5YqEwvhGYRMRoo"
 url = "/webhook-uploads/1441864046110/content%3Fid%3DbkQ5rgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 34650
 
 review_relationship = ""
-author_relationship = ["authors/mark-taylor"]
+books_author = ""
 sponsorships_book = ["sponsorships/assassin-rabbit-from-the-dawn-of-time", "sponsorships/assassin-rabbit-from-the-dawn-of-time-"]
 notes_relationship = ["notes/thanks-to-mark-taylor-for-sponsoring-this-week!"]
 +++

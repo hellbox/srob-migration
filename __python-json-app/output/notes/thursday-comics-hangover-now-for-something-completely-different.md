@@ -1,8 +1,8 @@
 +++
 index = "-L-Anv5UHfhafFvDFxKn"
-_sort_create_date = 1512026640
-_sort_last_updated = 1512062700
-_sort_publish_date = 1512064860
+sort_create_date = 1512026640
+sort_last_updated = 1512062700
+sort_publish_date = 1512064860
 create_date = "2017-11-29T23:24:00-08:00"
 publish_date = "2017-11-30T10:01:00-08:00"
 date = "2017-11-30T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512026532140/now1
 twitterauto = "A new anthology from Fantagraphics fuses the best of magazine illustration with comics."
 facebookauto = "A new anthology from Fantagraphics fuses the best of magazine illustration with comics."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1512026532140/now1.png)</p>

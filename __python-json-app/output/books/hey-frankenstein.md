@@ -1,8 +1,8 @@
 +++
 index = "-K24UC7zsHzvt5Zf4zSQ"
-_sort_create_date = 1446422280
-_sort_last_updated = 1446475320
-_sort_publish_date = 1446422280
+sort_create_date = 1446422280
+sort_last_updated = 1446475320
+sort_publish_date = 1446422280
 create_date = "2015-11-01T15:58:00-08:00"
 publish_date = "2015-11-01T15:58:00-08:00"
 date = "2015-11-01T15:58:00-08:00"
@@ -23,11 +23,11 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 image = ""
 review_relationship = ["reviews/short-run-for-the-long-haul"]
-author_relationship = ["authors/margaret-ashford-trotter"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

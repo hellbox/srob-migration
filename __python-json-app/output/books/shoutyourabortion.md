@@ -1,8 +1,8 @@
 +++
 index = "-KLKrHnCU2FW0A-eByjv"
-_sort_create_date = 1467098100
-_sort_last_updated = 1467098100
-_sort_publish_date = 1467098100
+sort_create_date = 1467098100
+sort_last_updated = 1467098100
+sort_publish_date = 1467098100
 create_date = "2016-06-28T00:15:00-07:00"
 publish_date = "2016-06-28T00:15:00-07:00"
 date = "2016-06-28T00:15:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/TPD_tuE6sXXp3yB30nNJwL5wUs7YcNZhyxzgPWEKhwtWbKkCzbb2kAS6iELVAI9vH_4PEA2nnzfqXzsEZGUqk-EDS8Vg"
 url = "/webhook-uploads/1467097982958/shoutyourabortion.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 236885
 
 review_relationship = ["reviews/the-visible-women"]
-author_relationship = ["authors/various"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

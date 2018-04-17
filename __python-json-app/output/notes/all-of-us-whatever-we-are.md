@@ -1,8 +1,8 @@
 +++
 index = "-K2Vj-MtKlm-u8OZxXxz"
-_sort_create_date = 1446879420
-_sort_last_updated = 1447176600
-_sort_publish_date = 1447178100
+sort_create_date = 1446879420
+sort_last_updated = 1447176600
+sort_publish_date = 1447178100
 create_date = "2015-11-06T22:57:00-08:00"
 publish_date = "2015-11-10T09:55:00-08:00"
 date = "2015-11-10T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447176359664/Scre
 twitterauto = "Emily Bedard is our Tuesday poet. \"All of Us, Whatever We Are\" is about uncles, hunting, weather, and the chill."
 facebookauto = "Emily Bedard is our Tuesday poet. \"All of Us, Whatever We Are\" is a sensual thicket, a beautiful work for a crisp Seattle day. "
 make_image_tweet = ""
-byline = ["writers/emily-bedard"]
+notes_byline = ["writers/emily-bedard"]
 tags_notes = ["tags/poetry", "tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Remember the time you watched your uncle<br>

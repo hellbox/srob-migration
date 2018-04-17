@@ -1,8 +1,8 @@
 +++
 index = "-KqZYHJ8O_S6vh0B6Iyo"
-_sort_create_date = 1501704240
-_sort_last_updated = 1501704240
-_sort_publish_date = 1501704240
+sort_create_date = 1501704240
+sort_last_updated = 1501704240
+sort_publish_date = 1501704240
 create_date = "2017-08-02T13:04:00-07:00"
 publish_date = "2017-08-02T13:04:00-07:00"
 date = "2017-08-02T13:04:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bEBOfq7ZqTSFEND2-w4j-7P5rv3RpBnzLKsU_VIWYHvLXWKOw_83tR5g4p-m8lXZG220mkcVoNv8gEx04D6gWGivT6rc"
 url = "/webhook-uploads/1501704129518/The%20Art%20of%20Trapeze_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 155543
 
 review_relationship = ""
-author_relationship = ["authors/molly-mccord"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-art-of-trapeze"]
 notes_relationship = ["notes/with-the-greatest-of-ease"]
 +++

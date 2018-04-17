@@ -1,8 +1,8 @@
 +++
 index = "-KuWNmmkWY3W7MLzLjJV"
-_sort_create_date = 1505946180
-_sort_last_updated = 1505947560
-_sort_publish_date = 1506027600
+sort_create_date = 1505946180
+sort_last_updated = 1505947560
+sort_publish_date = 1506027600
 create_date = "2017-09-20T15:23:00-07:00"
 publish_date = "2017-09-21T14:00:00-07:00"
 date = "2017-09-21T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505944714914/SRoB
 twitterauto = "Portrait Gallery: The WA Nat'l Park Fund's Discovery Group Over the Top event 9/22. Support projects at Mt. Rainier."
 facebookauto = "The Washington National Park Fund's Discovery Group hosts their Over The Top fundraiser on Friday, September 22.  Hear presentations from experts in their fields on projects happening now in your national parks in Washington State. "
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KRp6DdQluPb3nTDddGi"
-_sort_create_date = 1474064820
-_sort_last_updated = 1474064820
-_sort_publish_date = 1474304460
+sort_create_date = 1474064820
+sort_last_updated = 1474064820
+sort_publish_date = 1474304460
 create_date = "2016-09-16T15:27:00-07:00"
 publish_date = "2016-09-19T10:01:00-07:00"
 date = "2016-09-19T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our September Bookstore of the Month might be small, but it's remarkably well-stocked."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/lion-heart-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Lion Heart Book Store houses an eclectic collection of volumes, keeping the shelves as interesting as their owner and visitors. The turnover is fast, too — titles come and go as everyone who visits finds something that intrigues them. The most popular books come from the fiction section, but people ask for a great variety of titles, editions, and genres. The mystery section is always well-stocked, with paperbacks stuffed into narrow shelves with no wiggle room. On the opposite wall of the store, by the entryway, is a scarce-but-growing children’s section. David is making the effort to start a Spanish section among the kids’ books, which further highlights his passion for people, for diversity and culture, and for being a part of something bigger.

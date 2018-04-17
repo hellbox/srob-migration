@@ -1,8 +1,8 @@
 +++
 index = "-Kd4bAxDfbGt_FmQMb-u"
-_sort_create_date = 1487226540
-_sort_last_updated = 1487226540
-_sort_publish_date = 1487268060
+sort_create_date = 1487226540
+sort_last_updated = 1487226540
+sort_publish_date = 1487268060
 create_date = "2017-02-15T22:29:00-08:00"
 publish_date = "2017-02-16T10:01:00-08:00"
 date = "2017-02-16T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487226148326/Noel
 twitterauto = "The first issue of the new free Seattle comic newspaper Thick as Thieves just hit the streets. Go find a copy."
 facebookauto = "The first issue of the new free Seattle comic newspaper Thick as Thieves just hit the streets. Go find a copy."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/thick-as-thieves", "tags/intruder"]
-authors_notes = ["authors/marie-hausauer"]
+notes_about = ""
 books = ""
 +++
 I couldn't make it out to the *Thick as Thieves* launch party last Sunday night at Brainfreeze in the old Lusty Lady building, but copies of the first official issue of *Thick as Thieves* have started to make their way through the city. You should pick one up.

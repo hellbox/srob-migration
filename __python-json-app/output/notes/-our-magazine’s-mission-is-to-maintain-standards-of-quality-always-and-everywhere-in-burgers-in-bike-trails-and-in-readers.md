@@ -1,8 +1,8 @@
 +++
 index = "-JunAZx1OEAaz0Ct_MOl"
-_sort_create_date = 1437525180
-_sort_last_updated = 1437525240
-_sort_publish_date = 1437597180
+sort_create_date = 1437525180
+sort_last_updated = 1437525240
+sort_publish_date = 1437597180
 create_date = "2015-07-21T17:33:00-07:00"
 publish_date = "2015-07-22T13:33:00-07:00"
 date = "2015-07-22T13:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/houstonia", "tags/racism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *Houstonia* magazine [responds perfectly](http://www.houstoniamag.com/articles/2015/7/20/the-case-of-the-missing-magazine-2015) to racist readers who complained about an advertisement depicting a mixed-race family. Sometimes the customer is not right. Sometimes the customer is a bigot. In times like that, it's okay to call them out on their bigotry, and to tell them they are not welcome to read the publication anymore. The quality of your readers definitely makes a statement about your publication. In fact, it says a lot more about your publication than the quantity of readers.

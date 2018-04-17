@@ -1,8 +1,8 @@
 +++
 index = "-KkN7dOfl3uGvbiX98Xd"
-_sort_create_date = 1495053480
-_sort_last_updated = 1495053480
-_sort_publish_date = 1495141200
+sort_create_date = 1495053480
+sort_last_updated = 1495053480
+sort_publish_date = 1495141200
 create_date = "2017-05-17T13:38:00-07:00"
 publish_date = "2017-05-18T14:00:00-07:00"
 date = "2017-05-18T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495052947043/SRoB
 twitterauto = "#Sci-fi Author @NisiShawl #illustration by @studiochristine / #Everfair Exhibit opens @PushPullSeattle tonight\n"
 facebookauto = "Portrait Gallery: Nisi Shawl painted by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery", "tags/push--pull-gallery"]
-authors_notes = ["authors/nisi-shawl"]
+notes_about = ""
 books = ["books/everfair"]
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

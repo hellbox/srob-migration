@@ -1,8 +1,8 @@
 +++
 index = "-L29LEL28cp_qzWkH3PO"
-_sort_create_date = 1515223260
-_sort_last_updated = 1515223560
-_sort_publish_date = 1515258000
+sort_create_date = 1515223260
+sort_last_updated = 1515223560
+sort_publish_date = 1515258000
 create_date = "2018-01-05T23:21:00-08:00"
 publish_date = "2018-01-06T09:00:00-08:00"
 date = "2018-01-06T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We've got a new column starting later today \u2014 here's the scoop. "
 facebookauto = "We've got a new column starting later today \u2014 here's the scoop. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-review-of-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Later this morning we'll be debuting a new Saturday column called _Whatcha Reading?_ We ask a notable and interesting figure to answer three questions:

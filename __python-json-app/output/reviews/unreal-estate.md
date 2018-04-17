@@ -1,8 +1,8 @@
 +++
 index = "-Kr4wRvH_YPoP-kUrBLY"
-_sort_create_date = 1502264520
-_sort_last_updated = 1502296620
-_sort_publish_date = 1502304060
+sort_create_date = 1502264520
+sort_last_updated = 1502296620
+sort_publish_date = 1502304060
 create_date = "2017-08-09T00:42:00-07:00"
 publish_date = "2017-08-09T11:41:00-07:00"
 date = "2017-08-09T11:41:00-07:00"
@@ -13,10 +13,10 @@ title = "Unreal estate"
 dek = "Tonight, Chicago novelist Jac Jemc reads at Elliott Bay Book Company. Her latest novel is a haunted house story that will keep you turning pages until you die from lack of sleep."
 facebookauto = "Every haunted house story is a story about a broken family.  Tonight, author Jac Jemc reads from her exemplary new horror novel at Elliott Bay Book Company."
 twitterauto = " Tonight, author Jac Jemc reads from her actually scary new haunted house novel at @elliottbaybooks. "
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-grip-of-it"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/jac-jemc"]
+reviews_about = ""
 +++
 
 Authors love to write haunted house novels because they’re all symbolism, and symbolism is fun to write. Why labor over a Cheeveresque, subtle examination of a typically unhappy suburban family when you can just have blood literally pouring from the walls of their home? The haunted house story combines America’s top three love affairs — real estate, dysfunctional families, and karmic retribution — into one sloppy orgy.

@@ -1,8 +1,8 @@
 +++
 index = "-KY_-XuqA4Qt1N7jl1Sy"
-_sort_create_date = 1481310840
-_sort_last_updated = 1481310840
-_sort_publish_date = 1481313360
+sort_create_date = 1481310840
+sort_last_updated = 1481310840
+sort_publish_date = 1481313360
 create_date = "2016-12-09T11:14:00-08:00"
 publish_date = "2016-12-09T11:56:00-08:00"
 date = "2016-12-09T11:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's evergreen advice from @ciennam: \"A fully employed liver is the moral compass of the heart.\" "
 facebookauto = "What do you do if two literary magazines agree to publish the same piece at the same time? Cienna Madrid's advice includes this perennially useful sentence: \"A fully employed liver is the moral compass of the heart.\" "
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

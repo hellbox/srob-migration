@@ -1,8 +1,8 @@
 +++
 index = "-KWBeyNM0sF_Nur6eSgw"
-_sort_create_date = 1478755080
-_sort_last_updated = 1478755080
-_sort_publish_date = 1478800860
+sort_create_date = 1478755080
+sort_last_updated = 1478755080
+sort_publish_date = 1478800860
 create_date = "2016-11-09T21:18:00-08:00"
 publish_date = "2016-11-10T10:01:00-08:00"
 date = "2016-11-10T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478754464069/coyo
 twitterauto = "Despite our election anxiety, we managed to pick up a stack of great comics at Short Run."
 facebookauto = "Despite our election anxiety, we managed to pick up a stack of great comics at Short Run."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/short-run"]
-authors_notes = ["authors/mita-mahato", "authors/kelly-froh", "authors/marc-palm", "authors/noel-franklin", "authors/david-lasky", "authors/greg-stump"]
+notes_about = ""
 books = ""
 +++
 Pre-election anxiety kept me from enjoying my Short Run Comix & Arts Festival to its fullest on Saturday. [Last year](http://www.seattlereviewofbooks.com/reviews/short-run-for-the-long-haul/), I wandered the floor for hours and talked to dozens of people. This year, I could only hang on the sidelines before diving into an aisle for a few minutes and then, overwhelmed by the crowds, retreating again. (Luckily, thousands of people were there to pick up my slack: it seemed as though there were even more attendees at this year’s Short Run than at last year’s, and social media seems to indicate that most of Short Run’s artists sold more books than any other year of the festival.) Because of my inability to mingle for very long, I came away from the festival with a very small stack of local comics. But it was one of the most satisfying hauls I’ve pulled away from any Seattle-area convention.

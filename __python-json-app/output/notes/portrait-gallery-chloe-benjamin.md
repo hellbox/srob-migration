@@ -1,8 +1,8 @@
 +++
 index = "-L2ame6fJm4vZAAC8zeN"
-_sort_create_date = 1515700500
-_sort_last_updated = 1515701580
-_sort_publish_date = 1515708000
+sort_create_date = 1515700500
+sort_last_updated = 1515701580
+sort_publish_date = 1515708000
 create_date = "2018-01-11T11:55:00-08:00"
 publish_date = "2018-01-11T14:00:00-08:00"
 date = "2018-01-11T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515699281741/SRoB
 twitterauto = "Portrait Gallery: @chloekbenjamin reads THE IMMORTALISTS tonight @ElliottBayBooks. #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Author Chloe Benjamin painted by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

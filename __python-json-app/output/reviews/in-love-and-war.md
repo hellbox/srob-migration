@@ -1,8 +1,8 @@
 +++
 index = "-KDM4fBSjON9xjtlVUt7"
-_sort_create_date = 1458528720
-_sort_last_updated = 1458530520
-_sort_publish_date = 1458672720
+sort_create_date = 1458528720
+sort_last_updated = 1458530520
+sort_publish_date = 1458672720
 create_date = "2016-03-20T19:52:00-07:00"
 publish_date = "2016-03-22T11:52:00-07:00"
 date = "2016-03-22T11:52:00-07:00"
@@ -13,10 +13,10 @@ title = "...in love and war"
 dek = "Maged Zaher is a poet of two worlds: gentrified Seattle and post-Arab Spring Egypt. But in his newest book, his poetry is changing, becoming something different. What's going on here?"
 facebookauto = "The poetry of Maged Zaher has always been about two worlds: Seattle and Egypt. But in a networked world, how far apart are Maged Zaher's worlds, really?"
 twitterauto = "The two worlds of one of Seattle's greatest poets are moving ever closer to each other."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-consequences-of-my-body"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/maged-zaher"]
+reviews_about = ""
 +++
 
 All poetry is political.

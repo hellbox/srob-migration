@@ -1,8 +1,8 @@
 +++
 index = "-KcFdce9bge4eAjAuN0c"
-_sort_create_date = 1486338000
-_sort_last_updated = 1486412580
-_sort_publish_date = 1486501260
+sort_create_date = 1486338000
+sort_last_updated = 1486412580
+sort_publish_date = 1486501260
 create_date = "2017-02-05T15:40:00-08:00"
 publish_date = "2017-02-07T13:01:00-08:00"
 date = "2017-02-07T13:01:00-08:00"
@@ -13,10 +13,10 @@ title = "All happy families are alike"
 dek = "Novels are amazing engines of social change, and Seattle author Laurie Frankel's latest is a generous, charming example of a good book that can do good."
 facebookauto = "Seattle author Laurie Frankel's latest novel is a big-hearted example of the novel as a social change agent."
 twitterauto = "Seattle author Laurie Frankel's latest novel is a big-hearted example of novel as social change agent."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/this-is-how-it-always-is"]
 tags_reviews = ["tags/novel", "tags/transgender"]
-authors_reviews = ["authors/laurie-frankel"]
+reviews_about = ""
 +++
 
 Novels are terrific engines of social change. No form of art is as effective at putting you inside the minds of other people; to read a novel, you must be willing and welcoming to someone else’s perspectives. Being a receptive reader is a state of grace that you never experience in, say, politics. It’s a place of possibility, an opportunity to create change in yourself. Harriet Beecher Stowe understood this, and Charles Dickens, and Harper Lee.

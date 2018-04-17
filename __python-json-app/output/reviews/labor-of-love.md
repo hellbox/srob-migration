@@ -1,8 +1,8 @@
 +++
 index = "-KK5_Mt9tllQ-HLEAL65"
-_sort_create_date = 1465768020
-_sort_last_updated = 1465768020
-_sort_publish_date = 1465935300
+sort_create_date = 1465768020
+sort_last_updated = 1465768020
+sort_publish_date = 1465935300
 create_date = "2016-06-12T14:47:00-07:00"
 publish_date = "2016-06-14T13:15:00-07:00"
 date = "2016-06-14T13:15:00-07:00"
@@ -13,10 +13,10 @@ title = "Labor of love"
 dek = "The second book in Adam Rakunas's Windswept series, Like a Boss, "
 facebookauto = "The second book in a sci-fi series about a labor organizer in outer space hits just the right blend of noir, technology, and human beings being total jerks to each other."
 twitterauto = "Like a Boss seamlessly combines rum and labor organizing and sci-fi technology."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/like-a-boss"]
 tags_reviews = ["tags/science-fiction"]
-authors_reviews = ["authors/adam-rakunas"]
+reviews_about = ""
 +++
 
 As highly socialized apes, we are fascinated by human interactions. We’re attuned to conflicts, and conflict resolution, and bargaining, and all manner of seduction. And we love to read about all those things in our fiction. Why, then, aren’t there more books about union organizers? People who organize labor see the gamut of human emotion: greed, hope, disappointment, rage. Their job is to get a large number of people to do something. It’s never an easy task, and it seems like ripe territory for a novelist.

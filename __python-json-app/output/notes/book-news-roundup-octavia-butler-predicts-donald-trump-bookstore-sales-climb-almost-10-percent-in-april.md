@@ -1,8 +1,8 @@
 +++
 index = "-KKN-WntzsEyqlt_Pu4t"
-_sort_create_date = 1466060340
-_sort_last_updated = 1466099700
-_sort_publish_date = 1466103540
+sort_create_date = 1466060340
+sort_last_updated = 1466099700
+sort_publish_date = 1466103540
 create_date = "2016-06-15T23:59:00-07:00"
 publish_date = "2016-06-16T11:59:00-07:00"
 date = "2016-06-16T11:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in book news: Octavia Butler predicted Donald Trump and bookstore sales climbed by a lot in April."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Happy [Bloomsday](http://lithub.com/its-bloomsday-all-over-the-world/)!

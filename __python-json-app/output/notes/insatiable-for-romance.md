@@ -1,8 +1,8 @@
 +++
 index = "-JtApvxODfT5pnzw17Zj"
-_sort_create_date = 1435791480
-_sort_last_updated = 1436218260
-_sort_publish_date = 1435791480
+sort_create_date = 1435791480
+sort_last_updated = 1436218260
+sort_publish_date = 1435791480
 create_date = "2015-07-01T15:58:00-07:00"
 publish_date = "2015-07-01T15:58:00-07:00"
 date = "2015-07-01T15:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/publishing", "tags/genre", "tags/romance"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On some whiteboard at <a href="https://www.scribd.com">Scribd</a>, there is a chart of the amount of reading a particular genre lover does, compared to the overall cost of keeping books of that genre stocked. 

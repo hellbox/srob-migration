@@ -1,8 +1,8 @@
 +++
 index = "-KbWUUaOxZNDlZpiA5Uw"
-_sort_create_date = 1485546840
-_sort_last_updated = 1485546840
-_sort_publish_date = 1485546840
+sort_create_date = 1485546840
+sort_last_updated = 1485546840
+sort_publish_date = 1485546840
 create_date = "2017-01-27T11:54:00-08:00"
 publish_date = "2017-01-27T11:54:00-08:00"
 date = "2017-01-27T11:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The New York Times is making a grave mistake by reducing their bestseller list coverage."
 facebookauto = "The New York Times is making a grave mistake by removing many of their bestseller lists."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/new-york-times", "tags/new-york-times-bestseller"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * We [told you yesterday](http://www.seattlereviewofbooks.com/notes/2017/01/26/the-new-york-times-bestseller-list-is-getting-downsized/) that the *New York Times* seems to be removing a number of categories from its popular bestseller list feature. Starting early in February, they won't be publishing bestseller lists for graphic novels, mass market paperbacks, and certain lists for middle readers and young adults. 

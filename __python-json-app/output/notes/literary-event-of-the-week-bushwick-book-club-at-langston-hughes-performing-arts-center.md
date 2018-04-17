@@ -1,8 +1,8 @@
 +++
 index = "-L4s-HFE-NfFRMrHBaXo"
-_sort_create_date = 1518136740
-_sort_last_updated = 1518136740
-_sort_publish_date = 1518458280
+sort_create_date = 1518136740
+sort_last_updated = 1518136740
+sort_publish_date = 1518458280
 create_date = "2018-02-08T16:39:00-08:00"
 publish_date = "2018-02-12T09:58:00-08:00"
 date = "2018-02-12T09:58:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518136686317/sowe
 twitterauto = "Our Event of the Week combines local musicians with Octavia Butler. "
 facebookauto = "Our Event of the Week combines local musicians with Octavia Butler. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/octavia-butler"]
+notes_about = ""
 books = ""
 +++
 At this point, you likely know the deal with the [Seattle branch of the Bushwick Book Club](http://thebushwickbookclubseattle.com/), right? They’ve been around for years, so odds are good you’ve encountered at least a listing for one of their events. If you’re new here, or if you haven’t been paying attention, here’s the deal: local musicians create all-new music in response to a book. The results obviously vary, depending on the book and the musicians who are participating. That’s how anthologies work! 

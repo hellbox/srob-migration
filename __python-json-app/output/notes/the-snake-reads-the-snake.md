@@ -1,8 +1,8 @@
 +++
 index = "-Kj4f46pwTz5hzCbt6if"
-_sort_create_date = 1493670000
-_sort_last_updated = 1493670000
-_sort_publish_date = 1493677200
+sort_create_date = 1493670000
+sort_last_updated = 1493670000
+sort_publish_date = 1493677200
 create_date = "2017-05-01T13:20:00-07:00"
 publish_date = "2017-05-01T15:20:00-07:00"
 date = "2017-05-01T15:20:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Back when he was just a presidential candidate, [I wrote about Donald Trump's love of the poem "The Snake."](http://www.seattlereviewofbooks.com/notes/2016/08/12/what-donald-trumps-favorite-poem-tells-us-about-donald-trump/). Over the weekend, President Trump [read the poem again](http://www.cnn.com/2017/05/01/politics/trump-the-snake/index.html). As Chris Cillizza points out, the poem has a very different meaning, now that Trump is Commander-in-Chief.

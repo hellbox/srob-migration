@@ -1,8 +1,8 @@
 +++
 index = "-JwL8SIk8RTj_pvZ7arD"
-_sort_create_date = 1439185620
-_sort_last_updated = 1439491080
-_sort_publish_date = 1439319120
+sort_create_date = 1439185620
+sort_last_updated = 1439491080
+sort_publish_date = 1439319120
 create_date = "2015-08-09T22:47:00-07:00"
 publish_date = "2015-08-11T11:52:00-07:00"
 date = "2015-08-11T11:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/exit-interview", "tags/hugo-house", "tags/spokane"]
-authors_notes = ["authors/kate-lebo"]
+notes_about = ""
 books = ["books/pie-school", "books/a-commonplace-book-of-pie"]
 +++
 <p class="intro">For many years if you attended a reading in Seattle, you'd have a pretty good chance of running into [Kate Lebo](http://katelebo.com/) there. The author of *Pie School: Lessons in Fruit, Flour, and Butter* and *A Commonplace Book of Pie*, Lebo is a poet and an essayist who's read on pretty much every stage in Seattle. But unlike a lot of writers who only show up when they're on the bill, she's always been a full participant in Seattle's literary scene, too. She goes to readings as an audience member and participates happily in group readings and festivals and the daily writing life of the city; all of which is a long way around saying that she always seemed like a lifer. So I was shocked when I heard that she'd moved out of town. Lebo was kind enough to agree to a conversation about why she left.</p>

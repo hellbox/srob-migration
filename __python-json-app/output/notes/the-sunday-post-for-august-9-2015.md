@@ -1,8 +1,8 @@
 +++
 index = "-JwGA2zVy3yvalP2zmSY"
-_sort_create_date = 1439102100
-_sort_last_updated = 1439145300
-_sort_publish_date = 1439136000
+sort_create_date = 1439102100
+sort_last_updated = 1439145300
+sort_publish_date = 1439136000
 create_date = "2015-08-08T23:35:00-07:00"
 publish_date = "2015-08-09T09:00:00-07:00"
 date = "2015-08-09T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post", "tags/iris-murdoch", "tags/catherine-nicols", "tags/agatha-christie", "tags/jeanne-rejaunier"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[How to spot whodunnit: academics crack Agatha Christie's code](http://www.theguardian.com/books/2015/aug/02/academics-unlock-formula-agatha-christies-mysteries)</h5>

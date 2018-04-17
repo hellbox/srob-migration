@@ -1,8 +1,8 @@
 +++
 index = "-KuIECpjmQ7D4jglyQmH"
-_sort_create_date = 1505708760
-_sort_last_updated = 1505923140
-_sort_publish_date = 1505930400
+sort_create_date = 1505708760
+sort_last_updated = 1505923140
+sort_publish_date = 1505930400
 create_date = "2017-09-17T21:26:00-07:00"
 publish_date = "2017-09-20T11:00:00-07:00"
 date = "2017-09-20T11:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Drawn from felt"
 dek = "Comic artist Kelly Froh looks at her experience reading a biography of a wonderful human being."
 facebookauto = "Seattle cartoonist Kelly Froh reviews a biography of Jim Henson that portrays the Muppet creator as \"a man who was balanced effortlessly and gracefully between the sacred and the silly.\""
 twitterauto = "Seattle comics treasure @kellyfroh writes a love letter to Jim Henson."
-byline = ["writers/kelly-froh"]
+reviews_byline = ["writers/kelly-froh"]
 books_in_this_review = ["books/jim-henson"]
 tags_reviews = ["tags/jim-henson", "tags/the-muppets"]
-authors_reviews = ["authors/brian-jay-jones"]
+reviews_about = ""
 +++
 
 <p class="image"><a href="http://seattlereviewofbooks.com/webhook-uploads/1505923139520/Henson-big.jpg" target="_blank">![](/webhook-uploads/1505708688607/froh-1.jpg)</a></p>

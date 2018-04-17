@@ -1,8 +1,8 @@
 +++
 index = "-K0oBL7d4ldhCmlRiZOR"
-_sort_create_date = 1445058360
-_sort_last_updated = 1445097900
-_sort_publish_date = 1445097600
+sort_create_date = 1445058360
+sort_last_updated = 1445097900
+sort_publish_date = 1445097600
 create_date = "2015-10-16T22:06:00-07:00"
 publish_date = "2015-10-17T09:00:00-07:00"
 date = "2015-10-17T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "https://pbs.twimg.com/media/CRAU6MgU8AAg1kb.jpg:large"
 twitterauto = "And @rahawahaile's shorts this week feature @kawikaguillermo, @meredithturits, @reemsofpaper, and @lethal_heroine"
 facebookauto = "Short story time! This week's collection of Rahawa Haile's Short Stories of the Day just went up. Not to spoil anything, but one story is a picture of her cat, FutureCat."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/short-story-of-the-day", "tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the SRoB Rahawa Haile tweets a short story. She gave us permission to collect them every week. She's archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a></p>

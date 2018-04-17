@@ -1,8 +1,8 @@
 +++
 index = "-KcBosujcJrMYqUdkMCS"
-_sort_create_date = 1486273860
-_sort_last_updated = 1486317360
-_sort_publish_date = 1486315800
+sort_create_date = 1486273860
+sort_last_updated = 1486317360
+sort_publish_date = 1486315800
 create_date = "2017-02-04T21:51:00-08:00"
 publish_date = "2017-02-05T09:30:00-08:00"
 date = "2017-02-05T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Pieces from @rahawahaile, @peterpomeranzev, @williefitz, and @HudsonGiles, in today's Sunday Post. "
 facebookauto = "Hiking the Appalachian Trail while black, the humor of fascists, schlubby Steve Bannon, and how #DeleteUber actually #ChangedUber, all in today's Sunday Post"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[How Black Books Lit My Way Along The Appalachian Trail](https://www.buzzfeed.com/rahawahaile/how-black-books-lit-my-way-along-the-appalachian-trail?utm_term=.bb78Dv57Vx#.okmpllM5rp)</h5>

@@ -1,8 +1,8 @@
 +++
 index = "-KY22fxSq3m3SItL3Kh8"
-_sort_create_date = 1480741260
-_sort_last_updated = 1482567540
-_sort_publish_date = 1480786200
+sort_create_date = 1480741260
+sort_last_updated = 1482567540
+sort_publish_date = 1480786200
 create_date = "2016-12-02T21:01:00-08:00"
 publish_date = "2016-12-03T09:30:00-08:00"
 date = "2016-12-03T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480741139874/4e03
 twitterauto = "The Kickstarter Fund backs @Fantastic_Mag and @nisishawl."
 facebookauto = "The Kickstarter Fund backs Fantastic Stories of the Imagination, and their exclusive people of color edition, edited by Nisi Shawl."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ["authors/nisi-shawl"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week, the _Seattle Review of Books_ backs a Kickstarter, and writes up why we picked that particular project. <a href="http://seattlereviewofbooks.com/notes/2016/01/08/announcing-the-seattle-review-of-books-kickstarter-fund/" title="The Seattle Review of Books - Announcing the Seattle Review of Books Kickstarter Fund">Read more about the project here</a>. Suggest a project by writing to _kickstarter_ at this domain, or by <a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">using our contact form</a>.<p>

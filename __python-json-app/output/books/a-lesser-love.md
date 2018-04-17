@@ -1,8 +1,8 @@
 +++
 index = "-KvB1kwE35JHOH5931mP"
-_sort_create_date = 1506661800
-_sort_last_updated = 1506661860
-_sort_publish_date = 1506661800
+sort_create_date = 1506661800
+sort_last_updated = 1506661860
+sort_publish_date = 1506661800
 create_date = "2017-09-28T22:10:00-07:00"
 publish_date = "2017-09-28T22:10:00-07:00"
 date = "2017-09-28T22:10:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Poetry"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NdxXZQyTxCnI_Ezr00MObP-MBe1-oySdJW0H1stwN4YfXsH8uTjtc8_WjLOmOS2AYj5UTvlewi37uYlm8pZZqdT_1Wc"
 url = "/webhook-uploads/1506661829754/content%3Fid%3D9q-PDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12052
 
 review_relationship = ["reviews/born-again-"]
-author_relationship = ["authors/ej-koh"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-ej-koh-about-translation-and-what-it-means-to-be-a-seattle-poet"]
 +++

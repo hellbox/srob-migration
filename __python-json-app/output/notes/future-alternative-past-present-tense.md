@@ -1,8 +1,8 @@
 +++
 index = "-Kr9Ar_I_ulfgZkuqUR4"
-_sort_create_date = 1502335680
-_sort_last_updated = 1502422080
-_sort_publish_date = 1502391600
+sort_create_date = 1502335680
+sort_last_updated = 1502422080
+sort_publish_date = 1502391600
 create_date = "2017-08-09T20:28:00-07:00"
 publish_date = "2017-08-10T12:00:00-07:00"
 date = "2017-08-10T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "As always, @NisiShawl delivers in her Future Alternative Past, featuring reviews of @VirtualTal & @danielwilsonpdx"
 facebookauto = "As always, Nisi Shawl delivers with her Future Alternative Past column, featuring reviews of Tal M. Klein & Daniel H. Wilson"
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ["authors/joe-abercrombie", "authors/daniel-h-wilson", "authors/tal-klein", "authors/usman-t-malik", "authors/ken-liu", "authors/nils-odlun", "authors/karen-lord", "authors/sofia-samatar"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. You can also look through the [archives of the column](http://www.seattlereviewofbooks.com/tags/the-future-alternative-past).</p>

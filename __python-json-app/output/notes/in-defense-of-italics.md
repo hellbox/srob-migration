@@ -1,8 +1,8 @@
 +++
 index = "-K8wdcwA49kv9TY_y049"
-_sort_create_date = 1453790220
-_sort_last_updated = 1453828860
-_sort_publish_date = 1453841640
+sort_create_date = 1453790220
+sort_last_updated = 1453828860
+sort_publish_date = 1453841640
 create_date = "2016-01-25T22:37:00-08:00"
 publish_date = "2016-01-26T12:54:00-08:00"
 date = "2016-01-26T12:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453790070429/Empi
 twitterauto = "How do you feel about books with long passages in italics? "
 facebookauto = "Dear people who don't read books with long passages in italics: sorry, but you're missing out."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/italics"]
-authors_notes = ["authors/richard-russo"]
+notes_about = ""
 books = ["books/empire-falls"]
 +++
 I first encountered this tweet while I was reading Johanna Sinisalo's wonderful [*The Core of the Sun*](http://seattlereviewofbooks.com/reviews/what-a-lovely-way-to-burn/):

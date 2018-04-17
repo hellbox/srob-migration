@@ -1,8 +1,8 @@
 +++
 index = "-KYvS3gQydgP80L27jtB"
-_sort_create_date = 1481687400
-_sort_last_updated = 1481687400
-_sort_publish_date = 1481749500
+sort_create_date = 1481687400
+sort_last_updated = 1481687400
+sort_publish_date = 1481749500
 create_date = "2016-12-13T19:50:00-08:00"
 publish_date = "2016-12-14T13:05:00-08:00"
 date = "2016-12-14T13:05:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A new essay says reading Fight Club in 2016 is a \"chilling\" experience."
 facebookauto = "A new essay says reading Fight Club in 2016 is a \"chilling\" experience that reveals where today's trolls, Trumpers, and Gamergaters were born."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/troll", "tags/donald-trump", "tags/reddit"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sam Jordison's [essay in the *Guardian*](https://www.theguardian.com/books/booksblog/2016/dec/13/fight-clubs-dark-fantasies-reality-chuck-palahniuk) about how *Fight Club* activated a generation of young white men and turned them into trolls, Trump fans, fascists, and Gamergaters is well worth your time:

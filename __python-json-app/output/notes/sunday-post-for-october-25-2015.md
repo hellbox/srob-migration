@@ -1,8 +1,8 @@
 +++
 index = "-K1SXTGJZcuKB-jlaNdt"
-_sort_create_date = 1445752020
-_sort_last_updated = 1445752140
-_sort_publish_date = 1445788800
+sort_create_date = 1445752020
+sort_last_updated = 1445752140
+sort_publish_date = 1445788800
 create_date = "2015-10-24T22:47:00-07:00"
 publish_date = "2015-10-25T09:00:00-07:00"
 date = "2015-10-25T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[My Writing Education: A Time Line](http://www.newyorker.com/books/page-turner/my-writing-education-a-timeline)</h5>

@@ -1,8 +1,8 @@
 +++
 index = "-KL46SQD3HP8LX3VNc7M"
-_sort_create_date = 1466817120
-_sort_last_updated = 1466817180
-_sort_publish_date = 1466817120
+sort_create_date = 1466817120
+sort_last_updated = 1466817180
+sort_publish_date = 1466817120
 create_date = "2016-06-24T18:12:00-07:00"
 publish_date = "2016-06-24T18:12:00-07:00"
 date = "2016-06-24T18:12:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466817122370/Full
 twitterauto = "Mail Call! A Friday night short stack."
 facebookauto = "Mail Call! A Friday night short stack. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1466817122370/FullSizeRender.jpg)</p>

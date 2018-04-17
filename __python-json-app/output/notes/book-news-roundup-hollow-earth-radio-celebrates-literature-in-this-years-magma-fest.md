@@ -1,8 +1,8 @@
 +++
 index = "-KBiTFL-vZXt8nfQJ12n"
-_sort_create_date = 1456773540
-_sort_last_updated = 1456774260
-_sort_publish_date = 1456783260
+sort_create_date = 1456773540
+sort_last_updated = 1456774260
+sort_publish_date = 1456783260
 create_date = "2016-02-29T11:19:00-08:00"
 publish_date = "2016-02-29T14:01:00-08:00"
 date = "2016-02-29T14:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This year's Magma Festival from @hollowearth includes some neat-sounding literary events."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/furnace", "tags/hollow-earth-radio", "tags/babel--salvage"]
-authors_notes = ["authors/mattilda-bernstein-sycamore"]
+notes_about = ""
 books = ""
 +++
 * Hollow Earth Radio has announced the lineup for this year's Magma Fest, their monthlong music festival. Why is this the top news item on a book-related website? Because they're hosting at least two book-centric events in this year's Magma Fest. On March 13th, Sara Century is presenting a [lecture on the history of LGBT characters in comics](https://www.facebook.com/events/796312913806897/) and Babel/Salvage is presenting the "[Glossophonic Showcase](https://www.facebook.com/events/561968787291416/)" on March 25th, featuring readings from Kreg Hasegawa, Lauren Ireland, Sue Landers, and experimental musicians.

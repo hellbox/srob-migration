@@ -1,8 +1,8 @@
 +++
 index = "-KyyYKxVZ5RX2GDBcOd6"
-_sort_create_date = 1510730400
-_sort_last_updated = 1510862520
-_sort_publish_date = 1510855260
+sort_create_date = 1510730400
+sort_last_updated = 1510862520
+sort_publish_date = 1510855260
 create_date = "2017-11-14T23:20:00-08:00"
 publish_date = "2017-11-16T10:01:00-08:00"
 date = "2017-11-16T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510730207652/just
 twitterauto = "That Justice League movie? Uhhhhhh, yeah, it's pretty bad."
 facebookauto = "That Justice League movie? Uhhhhhh, yeah, it's pretty bad."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/dc-comics", "tags/adaptation"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1510730207652/justiceleague.jpg)</p>

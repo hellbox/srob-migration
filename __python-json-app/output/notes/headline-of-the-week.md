@@ -1,8 +1,8 @@
 +++
 index = "-K1r_cc94AMiqUOwChGb"
-_sort_create_date = 1446189060
-_sort_last_updated = 1446222900
-_sort_publish_date = 1446235320
+sort_create_date = 1446189060
+sort_last_updated = 1446222900
+sort_publish_date = 1446235320
 create_date = "2015-10-30T00:11:00-07:00"
 publish_date = "2015-10-30T13:02:00-07:00"
 date = "2015-10-30T13:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 "[Gay-romance novelist accused of plagiarizing straight-romance novelist](http://www.washingtonpost.com/news/morning-mix/wp/2015/10/29/gay-romance-novelist-accused-of-plagiarizing-straight-romance-novelist/?postshare=2941446146929937)." I mention this story in part because plagiarism is always fascinating — in part because it's always unnecessary. Why steal someone else's words when there are all these free words floating around our heads all day? 

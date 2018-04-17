@@ -1,8 +1,8 @@
 +++
 index = "-L0rRcuGuwY0qZqT0A7A"
-_sort_create_date = 1513832460
-_sort_last_updated = 1513832460
-_sort_publish_date = 1513879140
+sort_create_date = 1513832460
+sort_last_updated = 1513832460
+sort_publish_date = 1513879140
 create_date = "2017-12-20T21:01:00-08:00"
 publish_date = "2017-12-21T09:59:00-08:00"
 date = "2017-12-21T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513830198165/Scre
 twitterauto = "Natalie Dupille's comics are fun, enthusiastic, and obsessed with making science fun."
 facebookauto = "Natalie Dupille's comics are fun, enthusiastic, and obsessed with making science fun."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/natalie-dupille"]
+notes_about = ""
 books = ""
 +++
 [Natalie Dupille](http://www.thefeministbakery.com/) works along a wide spectrum of cartooning. Her diary comics — as seen in her most recent collection, *October Diary* — are sketchy and minimalist. It's remarkable the information that Dupille's cartooning can convey in with so little. Look at this image from the cover of *October Diary*:

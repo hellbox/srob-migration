@@ -1,8 +1,8 @@
 +++
 index = "-K25wyHZzKNnnxAtpK91"
-_sort_create_date = 1446446880
-_sort_last_updated = 1446497820
-_sort_publish_date = 1446494160
+sort_create_date = 1446446880
+sort_last_updated = 1446497820
+sort_publish_date = 1446494160
 create_date = "2015-11-01T22:48:00-08:00"
 publish_date = "2015-11-02T11:56:00-08:00"
 date = "2015-11-02T11:56:00-08:00"
@@ -11,10 +11,10 @@ preview_url = "e133c921-b022-31f1-8c03-0907f187b47d"
 name = "Short Run for the long haul"
 title = "Short Run for the long haul"
 dek = "The Short Run Comix and Arts Festival seems to get bigger every year. Has it kept its independent edge? What were some of the standout books? Paul Constant runs down some of his festival highlights."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/hitched", "books/hey-frankenstein", "books/dana-scully-is-always-right", "books/sea", "books/the-ultimate-horatio-alger-novel", "books/ideas-for-short-comics", "books/georges-run", "books/coin-op-5", "books/louder", "books/the-important-business-ladies-guide-to-important-business-for-ladies"]
 tags_reviews = ""
-authors_reviews = ""
+reviews_about = ""
 +++
 
 <p class="image-hero">![](/webhook-uploads/1446445816356/IMG_57hp5s.jpg)</p>

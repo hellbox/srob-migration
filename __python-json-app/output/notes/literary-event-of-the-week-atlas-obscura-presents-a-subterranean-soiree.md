@@ -1,8 +1,8 @@
 +++
 index = "-KSjLEO-Q_2BXZ3vzJjP"
-_sort_create_date = 1475041860
-_sort_last_updated = 1475254800
-_sort_publish_date = 1475686860
+sort_create_date = 1475041860
+sort_last_updated = 1475254800
+sort_publish_date = 1475686860
 create_date = "2016-09-27T22:51:00-07:00"
 publish_date = "2016-10-05T10:01:00-07:00"
 date = "2016-10-05T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1475041706090/atla
 twitterauto = "Our Event of the Week is a book launch party with @atlasobscura under the streets of Seattle."
 facebookauto = "Come celebrate the new Seattle branch of Atlas Obscura with a book launch party under the streets of Seattle."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/atlas-obscura", "tags/seattle-center"]
-authors_notes = ["authors/shin-yu-pai"]
+notes_about = ""
 books = ""
 +++
 So far as travel resources go, the website Atlas Obscura isn’t stodgy like Frommer’s, and it’s not overly obsessed with shopping like Lonely Planet guides. Instead, it’s interested in bizarre destinations and singular geographical points of interest: on their site right now, you’ll find offers to visit Icelandic sorcerers who perform “evil-ridding” ceremonies and a map marking the homes of heroes of children’s literature including Beverly Cleary’s Portland-based Ramona Quimby. 

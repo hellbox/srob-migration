@@ -1,8 +1,8 @@
 +++
 index = "-Kas5qgaPwi_mI5kFsH8"
-_sort_create_date = 1484852520
-_sort_last_updated = 1484855160
-_sort_publish_date = 1484863200
+sort_create_date = 1484852520
+sort_last_updated = 1484855160
+sort_publish_date = 1484863200
 create_date = "2017-01-19T11:02:00-08:00"
 publish_date = "2017-01-19T14:00:00-08:00"
 date = "2017-01-19T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484852405585/SRoB
 twitterauto = "This week @studiochristine paints Betty MacDonald"
 facebookauto = "Portrait Gallery: Betty MacDonald"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/betty-macdonald"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

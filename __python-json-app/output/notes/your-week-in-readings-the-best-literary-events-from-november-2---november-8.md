@@ -1,8 +1,8 @@
 +++
 index = "-KVDyPDpvxIRU8HREQPD"
-_sort_create_date = 1477719960
-_sort_last_updated = 1477719960
-_sort_publish_date = 1478113260
+sort_create_date = 1477719960
+sort_last_updated = 1477719960
+sort_publish_date = 1478113260
 create_date = "2016-10-28T22:46:00-07:00"
 publish_date = "2016-11-02T12:01:00-07:00"
 date = "2016-11-02T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477719691678/ghos
 twitterauto = "Here's one great literary event for every day this week."
 facebookauto = "This week brings two literary festivals, a pair of group readings, and an election-day reading about ghosts fighting in World War II."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday November 2: Short Run International Comix Night**</h5></p> 

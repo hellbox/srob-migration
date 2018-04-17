@@ -1,8 +1,8 @@
 +++
 index = "-KNDfArtdSy_W5C5S1eh"
-_sort_create_date = 1469124960
-_sort_last_updated = 1469125800
-_sort_publish_date = 1469124960
+sort_create_date = 1469124960
+sort_last_updated = 1469125800
+sort_publish_date = 1469124960
 create_date = "2016-07-21T11:16:00-07:00"
 publish_date = "2016-07-21T11:16:00-07:00"
 date = "2016-07-21T11:16:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/twitter", "tags/poll", "tags/seattle-review-of-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We use a modified [Chicago](http://www.chicagomanualofstyle.org/home.html) style here on the _Seattle Review of Books_. Recently, editing a piece that used the term ‘ebook’ sparked a discussion over which was better: ‘e-book’ or ‘ebook’? To our eyes, ‘e-mail’ seems antiquated (we use ‘email’), but are electronic books different? They are more modern, after all. If we have to designated something as _electronic_, as opposed to analog, is the hyphen still necessary? 

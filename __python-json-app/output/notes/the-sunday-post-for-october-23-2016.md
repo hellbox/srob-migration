@@ -1,8 +1,8 @@
 +++
 index = "-KUlsRHc1h8q6U8fQ4F_"
-_sort_create_date = 1477231860
-_sort_last_updated = 1477232520
-_sort_publish_date = 1477240200
+sort_create_date = 1477231860
+sort_last_updated = 1477232520
+sort_publish_date = 1477240200
 create_date = "2016-10-23T07:11:00-07:00"
 publish_date = "2016-10-23T09:30:00-07:00"
 date = "2016-10-23T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Twitter abuse, mosquitoes, waiting for Mr. Trump, and a famous wedding portrait, all in today's Sunday Post."
 facebookauto = "The history of Twitter abuse, mosquitoes, waiting for Mr. Trump, and a famous wedding portrait, all in today's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="https://www.buzzfeed.com/charliewarzel/a-honeypot-for-assholes-inside-twitters-10-year-failure-to-s?utm_term=.mhAMllWNyM#.gsZbjjZamb" title="&amp;quot;A Honeypot For Assholes&amp;quot;: Inside Twitter&amp;rsquo;s 10-Year Failure To Stop Harassment - BuzzFeed News">“A Honeypot For Assholes”: Inside Twitter’s 10-Year Failure To Stop Harassment</a></h5>

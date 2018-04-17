@@ -1,8 +1,8 @@
 +++
 index = "-JxraKkzv1YZI4P2Uhic"
-_sort_create_date = 1440820560
-_sort_last_updated = 1440820920
-_sort_publish_date = 1440820560
+sort_create_date = 1440820560
+sort_last_updated = 1440820920
+sort_publish_date = 1440820560
 create_date = "2015-08-28T20:56:00-07:00"
 publish_date = "2015-08-28T20:56:00-07:00"
 date = "2015-08-28T20:56:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qlMesR6JZz3Usts7vrg8lDXe8ERM0_QFwRLkKp_2wovQCYuoJm6LClo_52aiMJoXNRYqRnrnTqQRFyyGjtL0hDmwONeXOg"
 url = "/webhook-uploads/1440820582872/content%3Fid%3DYsOhPwAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 9284
 
 review_relationship = ["reviews/pronouns-in-space"]
-author_relationship = ["authors/ursula-k-le-guin"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-JwiFMXKvbJ2wj8zPtxo"
-_sort_create_date = 1439590080
-_sort_last_updated = 1441209720
-_sort_publish_date = 1441220460
+sort_create_date = 1439590080
+sort_last_updated = 1441209720
+sort_publish_date = 1441220460
 create_date = "2015-08-14T15:08:00-07:00"
 publish_date = "2015-09-02T12:01:00-07:00"
 date = "2015-09-02T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "J.A. Jance on why she's happy to \"write the kinds of books that people buy in better bus depots everywhere.\""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/ja-jance"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1439589944468/jance.jpg)</p>

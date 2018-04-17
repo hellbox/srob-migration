@@ -1,8 +1,8 @@
 +++
 index = "-KUZ_ceMyV2OsGICFe4k"
-_sort_create_date = 1477008840
-_sort_last_updated = 1477009020
-_sort_publish_date = 1477508460
+sort_create_date = 1477008840
+sort_last_updated = 1477009020
+sort_publish_date = 1477508460
 create_date = "2016-10-20T17:14:00-07:00"
 publish_date = "2016-10-26T12:01:00-07:00"
 date = "2016-10-26T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your Week in Readings starts with a book about owls and includes free comics and a cemetery tour."
 facebookauto = "Your Week in Readings starts with a book about owls and includes free comics and a cemetery tour."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/secret-garden-books", "tags/open-books", "tags/seattle-obscura-society"]
-authors_notes = ["authors/maged-zaher"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1477008811147/owls.jpeg)</p>

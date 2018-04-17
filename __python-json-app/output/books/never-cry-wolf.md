@@ -1,8 +1,8 @@
 +++
 index = "-Jxc4UQ0n2jCEC8PoL5n"
-_sort_create_date = 1440560280
-_sort_last_updated = 1440560460
-_sort_publish_date = 1440560280
+sort_create_date = 1440560280
+sort_last_updated = 1440560460
+sort_publish_date = 1440560280
 create_date = "2015-08-25T20:38:00-07:00"
 publish_date = "2015-08-25T20:38:00-07:00"
 date = "2015-08-25T20:38:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Nature"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/PwEXdTBI8e9DH-Y1f3yZo9GxCIpYKEy0W71aOIITh0CADJBTvq1Wl8aEITD0VB53rFiq9zLpG2q2wnyHVX4nbrUb44Ff"
 url = "/webhook-uploads/1440560295360/content%3Fid%3DYbB-rgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 43831
 
 review_relationship = ["reviews/fun-food-and-fear-farley-mowat-and-the-lessons-of-never-cry-wolf"]
-author_relationship = ["authors/farley-mowat"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

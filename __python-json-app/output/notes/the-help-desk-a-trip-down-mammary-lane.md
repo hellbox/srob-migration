@@ -1,8 +1,8 @@
 +++
 index = "-KeKEgGrfbrU_fL2jbke"
-_sort_create_date = 1488562560
-_sort_last_updated = 1488564120
-_sort_publish_date = 1488564060
+sort_create_date = 1488562560
+sort_last_updated = 1488564120
+sort_publish_date = 1488564060
 create_date = "2017-03-03T09:36:00-08:00"
 publish_date = "2017-03-03T10:01:00-08:00"
 date = "2017-03-03T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Don't be a boob! Here's some important advice for men who write about breasts:"
 facebookauto = "Don't be a boob! Here's some important advice for men who write about breasts:"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/sexism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

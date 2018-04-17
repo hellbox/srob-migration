@@ -1,8 +1,8 @@
 +++
 index = "-KfjD3m0n20mtM8p2iUP"
-_sort_create_date = 1490072100
-_sort_last_updated = 1492442880
-_sort_publish_date = 1492534500
+sort_create_date = 1490072100
+sort_last_updated = 1492442880
+sort_publish_date = 1492534500
 create_date = "2017-03-20T21:55:00-07:00"
 publish_date = "2017-04-18T09:55:00-07:00"
 date = "2017-04-18T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our third poem from Joan Swift starts \"All the cell phone towers are pagodas\""
 facebookauto = "Our third poem from Joan Swift starts \"All the cell phone towers are pagodas\""
 make_image_tweet = "False"
-byline = ["writers/joan-swift"]
+notes_byline = ["writers/joan-swift"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 All the cell phone towers are pagodas<br>

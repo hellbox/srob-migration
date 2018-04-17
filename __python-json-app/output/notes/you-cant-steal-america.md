@@ -1,8 +1,8 @@
 +++
 index = "-KNpKKHR54ab0fAUIGQO"
-_sort_create_date = 1469773560
-_sort_last_updated = 1469812260
-_sort_publish_date = 1469817900
+sort_create_date = 1469773560
+sort_last_updated = 1469812260
+sort_publish_date = 1469817900
 create_date = "2016-07-28T23:26:00-07:00"
 publish_date = "2016-07-29T11:45:00-07:00"
 date = "2016-07-29T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469773352577/Scre
 twitterauto = "What kind of story did Hillary Clinton tell at the DNC this week?"
 facebookauto = "What kind of story did Hillary Clinton tell at the DNC this week?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/politics", "tags/hillary-clinton", "tags/donald-trump", "tags/barack-obama"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1469773352577/Screen%20Shot%202016-07-28%20at%2011.21.24%20PM.png)</p>

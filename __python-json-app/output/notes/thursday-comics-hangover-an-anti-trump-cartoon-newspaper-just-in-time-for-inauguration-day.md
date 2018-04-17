@@ -1,8 +1,8 @@
 +++
 index = "-K_hpQxiGR14bwPsrfji"
-_sort_create_date = 1483606440
-_sort_last_updated = 1483606440
-_sort_publish_date = 1483644840
+sort_create_date = 1483606440
+sort_last_updated = 1483606440
+sort_publish_date = 1483644840
 create_date = "2017-01-05T00:54:00-08:00"
 publish_date = "2017-01-05T11:34:00-08:00"
 date = "2017-01-05T11:34:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483606159841/resi
 twitterauto = "On Trump's inauguration day, protesters will hand out copies of a free newspaper full of comics by women."
 facebookauto = "On Donald Trump's inauguration day, protesters will hand out copies of a free newspaper full of comics by women."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/intruder"]
-authors_notes = ["authors/tatiana-gill"]
+notes_about = ""
 books = ""
 +++
 A free Brooklyn-based comics newspaper called *Smoke Signal* — the same magazine [that partially inspired Seattle's late, lamented *Intruder* comics paper](http://www.seattlereviewofbooks.com/notes/2016/07/05/barging-right-on-in/) — is publishing [a special anti-Trump comics paper called *Resist!*](http://www.resistsubmission.com/about.html) Published in time for Inauguration Day and with a print run of over 30,000 copies, *Resist!* ought to make a splash as one of the first artistic protests of President Trump. *Resist!* is edited by *Raw* co-founder Françoise Mouly and Nadja Spiegelman, and it seeks to publish (mostly women-produced) comics "on the theme of political resistance to the forces of intolerance."

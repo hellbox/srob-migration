@@ -1,8 +1,8 @@
 +++
 index = "-KNB13ADHCYGbCjs66R-"
-_sort_create_date = 1469080680
-_sort_last_updated = 1469080680
-_sort_publish_date = 1469120400
+sort_create_date = 1469080680
+sort_last_updated = 1469080680
+sort_publish_date = 1469120400
 create_date = "2016-07-20T22:58:00-07:00"
 publish_date = "2016-07-21T10:00:00-07:00"
 date = "2016-07-21T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469080396625/magi
 twitterauto = "Here's a comic that every Seattleite should read."
 facebookauto = "Tom Van Deusen's \"Bezos\" is a comic that every Seattleite should read."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/amazon", "tags/kindle"]
-authors_notes = ["authors/tom-van-deusen"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1469080396625/magicwhistle.jpg)</p>Sam Henderson’s [*Magic Whistle* comic]( http://magicwhistle.com/) recently transitioned from a one-cartoonist show to a humor anthology comic, and it’s very much been a delight. But you should know that the latest issue, number 3.2 — no, I have no idea what kind of numbering system he’s working on — opens with a comic that every Seattleite should read.

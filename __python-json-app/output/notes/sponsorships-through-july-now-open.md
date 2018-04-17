@@ -1,8 +1,8 @@
 +++
 index = "-K8fItAiL-vdae_O7kie"
-_sort_create_date = 1453499280
-_sort_last_updated = 1453499400
-_sort_publish_date = 1453499400
+sort_create_date = 1453499280
+sort_last_updated = 1453499400
+sort_publish_date = 1453499400
 create_date = "2016-01-22T13:48:00-08:00"
 publish_date = "2016-01-22T13:50:00-08:00"
 date = "2016-01-22T13:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We've just released the next block of sponsor opportunities on the site. Act fast -- we sold out the last block!"
 facebookauto = "We've just released the next block of sponsorship openings. Last time, we sold out completely. If you're thinking about partnering with us for some effective, inexpensive advertising, act fast!"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We’ve [just released our next block of sponsorships](http://seattlereviewofbooks.com/sponsor/book/), from February-July. A week of sponsoring the site is $150, currently. You get a prominent mention on each page, and a mention in our social media the Monday your sponsorship goes up, and also on Saturday, a day before it goes down. 

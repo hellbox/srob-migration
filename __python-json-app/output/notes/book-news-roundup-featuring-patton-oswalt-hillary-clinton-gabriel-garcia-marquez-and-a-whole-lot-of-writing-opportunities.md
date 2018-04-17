@@ -1,8 +1,8 @@
 +++
 index = "-KRAoPZXj_Kj1vJYpP2v"
-_sort_create_date = 1473372060
-_sort_last_updated = 1473372540
-_sort_publish_date = 1473447660
+sort_create_date = 1473372060
+sort_last_updated = 1473372540
+sort_publish_date = 1473447660
 create_date = "2016-09-08T15:01:00-07:00"
 publish_date = "2016-09-09T12:01:00-07:00"
 date = "2016-09-09T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473371026309/gabr
 twitterauto = "Today's Book News Roundup features @HillaryClinton, @pattonoswalt, and a bunch of writing opportunities."
 facebookauto = "Who's Hillary Clinton's favorite author? What famous author is now on Colombian money? Which Seattle-area magazine is offering a yearlong writer-in-residence position? These questions and more answered in today's Book News Roundup!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/donald-trump"]
-authors_notes = ["authors/patton-oswalt", "authors/david-lasky", "authors/eroyn-franklin"]
+notes_about = ""
 books = ""
 +++
 * Children's book author Jonathan Tweet debuts his new children's book about evolution, *Grandmother Fish* at Ada's Technical Books tomorrow morning. It's free; you should go! If you'd like to learn more about the book, our friends over at Nerdhole [published a podcast interview with Tweet](http://www.nerdhole.org/2016/09/06/episode-70-interview-with-jonathan-tweet/) that is absolutely worth your time.

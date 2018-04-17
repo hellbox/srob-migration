@@ -1,8 +1,8 @@
 +++
 index = "-Kuu6uNyExr1CkeuiB5k"
-_sort_create_date = 1506362220
-_sort_last_updated = 1506362520
-_sort_publish_date = 1506362220
+sort_create_date = 1506362220
+sort_last_updated = 1506362520
+sort_publish_date = 1506362220
 create_date = "2017-09-25T10:57:00-07:00"
 publish_date = "2017-09-25T10:57:00-07:00"
 date = "2017-09-25T10:57:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QL7gEejMc7lfunWuia2HyE2-6jH2i_yixAUHNgLMensfK2pWc-3QLhG3aSuHJyOfoSk5PAfj1EXqfj47FkvibxA9MGMZ"
 url = "/webhook-uploads/1506362065208/Imagine%20Wanting%20Only%20This_125.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 7286
 
 review_relationship = ["reviews/among-the-ruins"]
-author_relationship = ["authors/kristen-radtke"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-K3qHpeELeGnYEUctfrE"
-_sort_create_date = 1448314860
-_sort_last_updated = 1448314860
-_sort_publish_date = 1448314860
+sort_create_date = 1448314860
+sort_last_updated = 1448314860
+sort_publish_date = 1448314860
 create_date = "2015-11-23T13:41:00-08:00"
 publish_date = "2015-11-23T13:41:00-08:00"
 date = "2015-11-23T13:41:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Amazon's marketing team covered a New York City subway car in Nazi symbols."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon", "tags/marketing"]
-authors_notes = ["authors/philip-k-dick"]
+notes_about = ""
 books = ["books/the-man-in-the-high-castle"]
 +++
 Uh.

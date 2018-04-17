@@ -1,8 +1,8 @@
 +++
 index = "-JtV8a_QNgL4Qy0KlJ8L"
-_sort_create_date = 1436132520
-_sort_last_updated = 1436132520
-_sort_publish_date = 1436132520
+sort_create_date = 1436132520
+sort_last_updated = 1436132520
+sort_publish_date = 1436132520
 create_date = "2015-07-05T14:42:00-07:00"
 publish_date = "2015-07-05T14:42:00-07:00"
 date = "2015-07-05T14:42:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "Novel"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tsV1EZRSw3zX6gdxhayyxAYOyCP6iLrIFW7QP05wyEBL8U5kWfdpbD5LMY0PWfGQ6XyBhFdGUFvDzFwNI250K9wK3F2e"
 url = "/webhook-uploads/1436132520671/9780374228347.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 10334
 
 review_relationship = ["reviews/the-sound-of-one-mouth-talking"]
-author_relationship = ["authors/rachel-cusk"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

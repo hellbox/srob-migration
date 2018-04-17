@@ -1,8 +1,8 @@
 +++
 index = "-K8yqk936kKyu2UfYTHn"
-_sort_create_date = 1453827180
-_sort_last_updated = 1453829340
-_sort_publish_date = 1453838400
+sort_create_date = 1453827180
+sort_last_updated = 1453829340
+sort_publish_date = 1453838400
 create_date = "2016-01-26T08:53:00-08:00"
 publish_date = "2016-01-26T12:00:00-08:00"
 date = "2016-01-26T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Punk snot dead"
 dek = "What was it like in the Seattle punk scene in the early '80s? And why even look back? What's the difference between nostalgia and history? Andrew Hamlin looks at Desperate Times, a book about a magazine about a music town back when those in the town had to fight for every gig, and every scrap of recognition."
 facebookauto = "All of us have friends that tell us about how great Seattle was back in the day. But for those who weren't here, what was the music scene like? Andrew Hamlin takes us inside a book that covers a short-lived magazine from 1981 that covered the punk scene before it was even really a scene. "
 twitterauto = "Publishing on cheap newsprint, about Seattle punk rock in the 80s. A review of Desperate Times."
-byline = ["writers/andrew-hamlin"]
+reviews_byline = ["writers/andrew-hamlin"]
 books_in_this_review = ["books/desperate-times"]
 tags_reviews = ["tags/music", "tags/history", "tags/seattle", "tags/seattle-weekly", "tags/the-stranger"]
-authors_reviews = ["authors/maire-m-masco"]
+reviews_about = ""
 +++
 
 Maire M. Masco, publisher of Seattle's 1981 punk rock newspaper <em>Desperate Times</em>, had to consult her own copy to define “donut-holer” &mdash; an epithet from the first issue and a few more down the line. Masco for the record:

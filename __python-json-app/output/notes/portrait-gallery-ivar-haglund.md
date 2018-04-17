@@ -1,8 +1,8 @@
 +++
 index = "-K9i1wetJ2HkrPiHFQJq"
-_sort_create_date = 1454618940
-_sort_last_updated = 1454619240
-_sort_publish_date = 1454619600
+sort_create_date = 1454618940
+sort_last_updated = 1454619240
+sort_publish_date = 1454619600
 create_date = "2016-02-04T12:49:00-08:00"
 publish_date = "2016-02-04T13:00:00-08:00"
 date = "2016-02-04T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454618858610/SRoB
 twitterauto = "Keep Clam! It's Ivar Haglund for @studiochristine's Portrait Gallery."
 facebookauto = "The one, the only, the very Seattle Ivar Haglund, today's Portrait Gallery."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

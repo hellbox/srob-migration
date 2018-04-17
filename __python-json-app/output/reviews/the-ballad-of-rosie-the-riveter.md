@@ -1,8 +1,8 @@
 +++
 index = "-JyMCMm3f4ti7R7Dci_l"
-_sort_create_date = 1441350900
-_sort_last_updated = 1441351260
-_sort_publish_date = 1441385400
+sort_create_date = 1441350900
+sort_last_updated = 1441351260
+sort_publish_date = 1441385400
 create_date = "2015-09-04T00:15:00-07:00"
 publish_date = "2015-09-04T09:50:00-07:00"
 date = "2015-09-04T09:50:00-07:00"
@@ -12,10 +12,10 @@ name = "The ballad of Rosie the Riveter"
 title = "The ballad of Rosie the Riveter"
 dek = "Women write about work in a new poetry anthology. It's maybe the most political book you'll read all year. (This is a compliment)"
 twitterauto = "As we head into Labor Day weekend, you should spend some time reading this collection of women's work stories."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/raising-lilly-ledbetter"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/carolyne-wright"]
+reviews_about = ""
 +++
 
 As we teeter on the cusp of Labor Day weekend, it’s important to remember that women in America are still not an equal part of the workforce. [According to whitehouse.gov](https://www.whitehouse.gov/equal-pay/career), full-time working women still earn 78 cents for every dollar men earn, and a typical 25-year-old woman makes $5,000 less per year than a typical man of the same age. It’s interesting to note that those figures are from the same White House where President Obama signed his very first bill, the Lilly Ledbetter Fair Pay Act, into law in January of 2009. Nearly seven years later, wage inequality still exists and globally acknowledged worker rights like maternity leave and universal child care are still a fantasy.

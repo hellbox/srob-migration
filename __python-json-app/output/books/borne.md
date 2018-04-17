@@ -1,8 +1,8 @@
 +++
 index = "-L5f882Zxl79McuBBYgl"
-_sort_create_date = 1518995820
-_sort_last_updated = 1518995820
-_sort_publish_date = 1518995820
+sort_create_date = 1518995820
+sort_last_updated = 1518995820
+sort_publish_date = 1518995820
 create_date = "2018-02-18T15:17:00-08:00"
 publish_date = "2018-02-18T15:17:00-08:00"
 date = "2018-02-18T15:17:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/A3tdIetcp--rfmWArl5ADGpot_BXNimJDHlanVNZxvIxyiBzwcFnEMbnKk7_p-sSQA5u6dFRozQpfEpLToJ_sp8ylEc1Ug"
 url = "/webhook-uploads/1518995834696/Borne.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 35407
 
 review_relationship = ["reviews/the-beautiful-strange"]
-author_relationship = ["authors/jeff-vandermeer"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

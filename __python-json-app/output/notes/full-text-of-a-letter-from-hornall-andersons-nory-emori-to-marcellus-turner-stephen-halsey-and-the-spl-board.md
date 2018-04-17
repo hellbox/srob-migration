@@ -1,8 +1,8 @@
 +++
 index = "-K1fP67BjlylmXNTs0Ii"
-_sort_create_date = 1445984760
-_sort_last_updated = 1445986980
-_sort_publish_date = 1445985420
+sort_create_date = 1445984760
+sort_last_updated = 1445986980
+sort_publish_date = 1445985420
 create_date = "2015-10-27T15:26:00-07:00"
 publish_date = "2015-10-27T15:37:00-07:00"
 date = "2015-10-27T15:37:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/marcellus-turner", "tags/hornall-anderson", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">In her [interview with Marcellus Turner yesterday](http://seattlereviewofbooks.com/notes/2015/10/26/interview-with-seattle-public-library-city-librarian-marcellus-turner/), Laurel Holliday quoted Nory Emori from [Hornall Anderson](http://www.hornallanderson.com/). The quote was from a letter dated October 14, 2015 &dash; so, clearly a response to the lack of public support from the survey. We wanted to post the letter in full, so you can see what the arguments from the company driving the rebrand were. [The full letter, in Word format as provided by the library, is here](https://www.dropbox.com/s/pfwyy5x36bfgud1/TheSeattlePublicLibrary.docx?dl=0).</p>

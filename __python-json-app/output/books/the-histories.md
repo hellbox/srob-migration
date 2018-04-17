@@ -1,8 +1,8 @@
 +++
 index = "-Kis70BJ3ZsKvgHzq0hb"
-_sort_create_date = 1493442720
-_sort_last_updated = 1493442840
-_sort_publish_date = 1493442720
+sort_create_date = 1493442720
+sort_last_updated = 1493442840
+sort_publish_date = 1493442720
 create_date = "2017-04-28T22:12:00-07:00"
 publish_date = "2017-04-28T22:12:00-07:00"
 date = "2017-04-28T22:12:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Poetry"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/VtEEW8p2u3a0NQpu1Uvg6C_NFxzwhnhEbDKc-xo0ukEjgiD1p3Xn5-cJ8vJQ-EhtH1HdNw7GAF1poIP3IY5sK2QTHsAZ"
 url = "/webhook-uploads/1493442760082/content%3Fid%3DR5ZBvgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 6882
 
 review_relationship = ["reviews/stand-up-poetry"]
-author_relationship = ["authors/jason-whitmarsh"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

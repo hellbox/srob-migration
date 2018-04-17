@@ -1,8 +1,8 @@
 +++
 index = "-K7iDYSnugBLMUeD8_h0"
-_sort_create_date = 1452474480
-_sort_last_updated = 1452474600
-_sort_publish_date = 1452474480
+sort_create_date = 1452474480
+sort_last_updated = 1452474600
+sort_publish_date = 1452474480
 create_date = "2016-01-10T17:08:00-08:00"
 publish_date = "2016-01-10T17:08:00-08:00"
 date = "2016-01-10T17:08:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/aZxWUhgwV9qITRQVN8khFfq2rxA4Kro2QEJ_05TGrcK8fvEAj-18ABTpmgAt7W5djCWB427Qq5_2obOhryNbEz7qSEgk"
 url = "/webhook-uploads/1452474512515/content%3Fid%3DKnPboQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10085
 
 review_relationship = ["reviews/laid-bear"]
-author_relationship = ["authors/marian-engel"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

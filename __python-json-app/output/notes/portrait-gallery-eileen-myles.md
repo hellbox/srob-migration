@@ -1,8 +1,8 @@
 +++
 index = "-K0hX54L2Sn58bQab1ju"
-_sort_create_date = 1444946640
-_sort_last_updated = 1444946640
-_sort_publish_date = 1444946640
+sort_create_date = 1444946640
+sort_last_updated = 1444946640
+sort_publish_date = 1444946640
 create_date = "2015-10-15T15:04:00-07:00"
 publish_date = "2015-10-15T15:04:00-07:00"
 date = "2015-10-15T15:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444945740743/SRoB
 twitterauto = "The Portrait Gallery this week stars a dog named Honey, and next to her a human named @EileenMyles"
 facebookauto = "This week's Portrait Gallery stars a dog named Honey, and next to her a human named Eileen Myles."
 make_image_tweet = ""
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/eileen-myles"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

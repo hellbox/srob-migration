@@ -1,8 +1,8 @@
 +++
 index = "-KXEUH_MnQTKjcPoiXC9"
-_sort_create_date = 1479876060
-_sort_last_updated = 1479876060
-_sort_publish_date = 1479934860
+sort_create_date = 1479876060
+sort_last_updated = 1479876060
+sort_publish_date = 1479934860
 create_date = "2016-11-22T20:41:00-08:00"
 publish_date = "2016-11-23T13:01:00-08:00"
 date = "2016-11-23T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Make sure to visit @SecretGardenBks to pick up some books for local kids in need."
 facebookauto = "Secret Garden Books makes it easy for you to give a book to a Seattle-area kid who really needs one."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/secret-garden-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We got an email from Secret Garden Bookshop's Suzanne Perry explaining the Ballard bookshop's Christmas gift program, and it sounds like a damn good cause:

@@ -1,8 +1,8 @@
 +++
 index = "-L6DfEvBJsF0RuK4Lh9V"
-_sort_create_date = 1519590840
-_sort_last_updated = 1519592340
-_sort_publish_date = 1519590840
+sort_create_date = 1519590840
+sort_last_updated = 1519592340
+sort_publish_date = 1519590840
 create_date = "2018-02-25T12:34:00-08:00"
 publish_date = "2018-02-25T12:34:00-08:00"
 date = "2018-02-25T12:34:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jPib6fUbbDrdf3blYf5CM6v_OB_PiuLfkP21HPYLje2w3ZLLb8TSEXXx1FZ_xdyCF4XjeSVhmeMmWnbG9LwrCNW3niYk"
 url = "/webhook-uploads/1519591070006/The%20People%20Shall%20Continue_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 46810
 
 review_relationship = ["reviews/show-the-backlist-some-love!"]
-author_relationship = ["authors/simon-j-ortiz", "authors/sharol-graves"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

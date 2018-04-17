@@ -1,8 +1,8 @@
 +++
 index = "-KGobl7xREz2oBXGVRCe"
-_sort_create_date = 1462245420
-_sort_last_updated = 1462291440
-_sort_publish_date = 1462294500
+sort_create_date = 1462245420
+sort_last_updated = 1462291440
+sort_publish_date = 1462294500
 create_date = "2016-05-02T20:17:00-07:00"
 publish_date = "2016-05-03T09:55:00-07:00"
 date = "2016-05-03T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem today is from @rebeccahoogs, and the first line is: \"A winner, a swinger, a ringer.\""
 facebookauto = "OurasdfasdfOur Tuesday Poem today is from Rebecca Hoogs, and the first line is: \"A winner, a swinger, a ringer.\""
 make_image_tweet = "False"
-byline = ["writers/rebecca-hoogs"]
+notes_byline = ["writers/rebecca-hoogs"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A winner, a swinger, a ringer.<br>

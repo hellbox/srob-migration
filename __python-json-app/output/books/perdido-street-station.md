@@ -1,8 +1,8 @@
 +++
 index = "-L5f7Q8ExjYnDej5WTyh"
-_sort_create_date = 1518996660
-_sort_last_updated = 1518998460
-_sort_publish_date = 1518996660
+sort_create_date = 1518996660
+sort_last_updated = 1518998460
+sort_publish_date = 1518996660
 create_date = "2018-02-18T15:31:00-08:00"
 publish_date = "2018-02-18T15:31:00-08:00"
 date = "2018-02-18T15:31:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/sqJTkBshqKFGfhLnOvfCZ6oYEn7cjMvTwC3rgdilRE55ECAIPcrRFuIqQveD4l3AH73WtcVWVDW1B1tEs5OAs4fZzE4H"
 url = "/webhook-uploads/1518996693009/Perdido.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 36642
 
 review_relationship = ["reviews/the-beautiful-strange"]
-author_relationship = ["authors/china-mi\u00e9ville"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

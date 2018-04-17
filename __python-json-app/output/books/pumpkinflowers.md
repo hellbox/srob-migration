@@ -1,8 +1,8 @@
 +++
 index = "-Kcig6cpI0gGOGGzLzQ6"
-_sort_create_date = 1486842001
-_sort_last_updated = 1486842001
-_sort_publish_date = 1486842001
+sort_create_date = 1486842001
+sort_last_updated = 1486842001
+sort_publish_date = 1486842001
 create_date = "2017-02-11T19:40:01+00:00"
 publish_date = "2017-02-11T19:40:01+00:00"
 date = "2017-02-11T19:40:01+00:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ANwn0MUSHcBYdO-baRQla4m3McO8HFJE07-5myfrRq4Wn_Y_rxWtm6zWrl4PFJwU9X-qJ6CMzMWXaPaZsiuvTvxbBGx7"
 url = "/webhook-uploads/1486842001505/content%3Fid%3DAvnnCwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 11070
 
 review_relationship = ""
-author_relationship = ""
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

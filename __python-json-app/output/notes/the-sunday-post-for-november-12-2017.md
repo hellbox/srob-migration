@@ -1,8 +1,8 @@
 +++
 index = "-KyhnCe8zhw4GKiUxia5"
-_sort_create_date = 1510449360
-_sort_last_updated = 1510456380
-_sort_publish_date = 1510506000
+sort_create_date = 1510449360
+sort_last_updated = 1510456380
+sort_publish_date = 1510506000
 create_date = "2017-11-11T17:16:00-08:00"
 publish_date = "2017-11-12T09:00:00-08:00"
 date = "2017-11-12T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In the Sunday Post, women have the floor: essays by @PennyRed, @IjeomaOluo, @thebookslut, and @nora_s_brooks."
 facebookauto = "In the Sunday Post, women have the floor: essays by Laurie Penny, Ijeoma Oluo, Jessa Crispin, and Nora Brooks.</p>"
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that’s your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

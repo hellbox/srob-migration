@@ -1,8 +1,8 @@
 +++
 index = "-L7bmL7Mf-5Y6_Ek7JCE"
-_sort_create_date = 1521085920
-_sort_last_updated = 1521085920
-_sort_publish_date = 1521132720
+sort_create_date = 1521085920
+sort_last_updated = 1521085920
+sort_publish_date = 1521132720
 create_date = "2018-03-14T20:52:00-07:00"
 publish_date = "2018-03-15T09:52:00-07:00"
 date = "2018-03-15T09:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521085652314/DryC
 twitterauto = "This noir story set in Miami looks like it's drawn by Dan Clowes and it features a delight on every page."
 facebookauto = "This noir story set in Miami looks like it's drawn by Dan Clowes and it features a delight on every page."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I came late to cartoonist Rich Tommaso's work - the first comic of his that I read was the funny-animal Tintin pastiche *Spy Seal* - but I think I'm falling in love. His art is so clean, his storytelling so economical, that it seems like it's just a matter of time before one of the mainstream publishers shows up on his front lawn with a dump truck of money and forces him to start drawing Batman for a living. Tommaso is an artist who is so unique that the comics industry is bound to try to crush him into something they can more easily manipulate.

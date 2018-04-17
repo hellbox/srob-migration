@@ -1,8 +1,8 @@
 +++
 index = "-KxhaH7cdjo2yg2Ypxqk"
-_sort_create_date = 1509372240
-_sort_last_updated = 1510074660
-_sort_publish_date = 1510067040
+sort_create_date = 1509372240
+sort_last_updated = 1510074660
+sort_publish_date = 1510067040
 create_date = "2017-10-30T07:04:00-07:00"
 publish_date = "2017-11-07T07:04:00-08:00"
 date = "2017-11-07T07:04:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509372600321/Scre
 twitterauto = "Our November Poet in Residence is Emily Bedard, and we begin with her \"Finale\""
 facebookauto = "Our November Poet in Residence is Emily Bedard, and we begin with her \"Finale\""
 make_image_tweet = "False"
-byline = ["writers/emily-bedard"]
+notes_byline = ["writers/emily-bedard"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 It was hours and then the end is almost over.<br>

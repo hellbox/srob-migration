@@ -1,8 +1,8 @@
 +++
 index = "-KT7oz-pyBCnQJGb8ESh"
-_sort_create_date = 1475469360
-_sort_last_updated = 1475514780
-_sort_publish_date = 1475523360
+sort_create_date = 1475469360
+sort_last_updated = 1475514780
+sort_publish_date = 1475523360
 create_date = "2016-10-02T21:36:00-07:00"
 publish_date = "2016-10-03T12:36:00-07:00"
 date = "2016-10-03T12:36:00-07:00"
@@ -13,10 +13,10 @@ title = "The embedded cartoonist"
 dek = "Seattle cartoonist Sarah Glidden's new book follows two Seattle Globalist reporters through Iraq and Syria. After America broke a country into a million tiny pieces, can American journalists help put it back together again?"
 facebookauto = "Seattle cartoonist Sarah Glidden's new book is about some local reporters in Iraq, trying not to screw the country up any worse than we already screwed it up in the war."
 twitterauto = "Sarah Glidden's new book from @DandQ is about Seattle reporters in Iraq, trying not to screw anything up."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/rolling-blackouts"]
 tags_reviews = ["tags/comics", "tags/journalism"]
-authors_reviews = ["authors/sarah-glidden"]
+reviews_about = ""
 +++
 
 <p class="noindent"><h5> 1. Journalism is the pursuit of truth. </h5></p>

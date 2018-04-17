@@ -1,8 +1,8 @@
 +++
 index = "-K_zsC7aqylG5Bizjyzo"
-_sort_create_date = 1483909140
-_sort_last_updated = 1483909140
-_sort_publish_date = 1483984740
+sort_create_date = 1483909140
+sort_last_updated = 1483909140
+sort_publish_date = 1483984740
 create_date = "2017-01-08T12:59:00-08:00"
 publish_date = "2017-01-09T09:59:00-08:00"
 date = "2017-01-09T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482277337624/turn
 twitterauto = "We interviewed an @SPLBuzz librarian about how the library chose one book for all Seattle to read in 2017."
 facebookauto = "We interviewed Angela Gough from the Seattle Public Library about how the library chose one book for all Seattle to read in 2017."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-reads", "tags/stesha-brandon", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1482277337624/turnerhouse.gif)</p>

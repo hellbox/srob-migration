@@ -1,8 +1,8 @@
 +++
 index = "-Jy8myuPOi-EsaxWh7rI"
-_sort_create_date = 1441125840
-_sort_last_updated = 1441127580
-_sort_publish_date = 1441145640
+sort_create_date = 1441125840
+sort_last_updated = 1441127580
+sort_publish_date = 1441145640
 create_date = "2015-09-01T09:44:00-07:00"
 publish_date = "2015-09-01T15:14:00-07:00"
 date = "2015-09-01T15:14:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@GWillowWilson on motherhood in the arts: \"Paid leave, sick leave, maternity leave--you have zero of the above.\""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/feminism", "tags/motherhood"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ["books/ms-marvel", "books/alif-the-unseen"]
 +++
 Swapna Krishna at Panels has [collected some tweets](http://panels.net/2015/08/31/g-willow-wilson-motherhood-and-the-comics-industry/) by local novelist/comics writer G. Willow Wilson about motherhood and the business of art. Wilson, who's [responding to a popular essay by Amanda Palmer](https://medium.com/@amandapalmer/no-i-am-not-crowdfunding-this-baby-an-open-letter-to-a-worried-fan-9ca75cb0f938), explains that editors and publishers levy "a mommy tax" on writers and other artists. 

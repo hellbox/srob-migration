@@ -1,8 +1,8 @@
 +++
 index = "-KJM4Hf_SvpxC15yKPdU"
-_sort_create_date = 1464971100
-_sort_last_updated = 1464971280
-_sort_publish_date = 1464973260
+sort_create_date = 1464971100
+sort_last_updated = 1464971280
+sort_publish_date = 1464973260
 create_date = "2016-06-03T09:25:00-07:00"
 publish_date = "2016-06-03T10:01:00-07:00"
 date = "2016-06-03T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464970887414/fun-
 twitterauto = "Dear @ciennam: I can't figure out how to read comics. Should I keep trying, or can I give up?"
 facebookauto = "In today's literary advice column: If you just can't figure out how comic books are supposed to work, should you keep trying?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/comics"]
-authors_notes = ["authors/alison-bechdel"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

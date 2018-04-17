@@ -1,8 +1,8 @@
 +++
 index = "-K6ipyLi124pYlXUSrom"
-_sort_create_date = 1451411100
-_sort_last_updated = 1451411100
-_sort_publish_date = 1451421000
+sort_create_date = 1451411100
+sort_last_updated = 1451411100
+sort_publish_date = 1451421000
 create_date = "2015-12-29T09:45:00-08:00"
 publish_date = "2015-12-29T12:30:00-08:00"
 date = "2015-12-29T12:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "There's still time to sign up for our book reviewing course @HugoHouse!"
 facebookauto = "There's still time to sign up for the book reviewing class taught by Seattle Review of Books co-founders Martin McClellan and Paul Constant."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A quick reminder: you can [still sign up for the 6-week book reviewing class](https://hugohouse.org/store/class/the-you-review-of-books-paul-constant-and-martin-mcclellan/) that Martin McClellan and I are teaching at Hugo House. We intend to discuss the purpose of book reviews, what it takes to make a book review into something more than just a GoodReads blurb or a boring plot synopsis, and the many different forms a book review can take. We're also going to get into some very important ideas: why responding to art is necessary, how to become a better reader, and why books are so important. We're very excited about this class, and [we hope to see you there](https://hugohouse.org/store/class/the-you-review-of-books-paul-constant-and-martin-mcclellan/).

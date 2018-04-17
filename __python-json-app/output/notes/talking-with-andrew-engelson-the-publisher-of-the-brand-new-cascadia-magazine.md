@@ -1,8 +1,8 @@
 +++
 index = "-L3WX1K5WX4MTXx_TdUN"
-_sort_create_date = 1516686000
-_sort_last_updated = 1516686000
-_sort_publish_date = 1516816500
+sort_create_date = 1516686000
+sort_last_updated = 1516686000
+sort_publish_date = 1516816500
 create_date = "2018-01-22T21:40:00-08:00"
 publish_date = "2018-01-24T09:55:00-08:00"
 date = "2018-01-24T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516685843081/casc
 twitterauto = "We sat down with the publisher of the new @cascadiamag to discuss the state of magazine publishing."
 facebookauto = "We sat down with the publisher of the new Cascadia Magazine to discuss the state of magazine publishing."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/magazine", "tags/media"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1516685843081/cascadiamagtwitterbanner.jpg)</p>

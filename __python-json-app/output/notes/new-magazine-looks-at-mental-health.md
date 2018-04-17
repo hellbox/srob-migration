@@ -1,8 +1,8 @@
 +++
 index = "-KxBESmp7h72zREkUkN9"
-_sort_create_date = 1508812620
-_sort_last_updated = 1508854500
-_sort_publish_date = 1508868000
+sort_create_date = 1508812620
+sort_last_updated = 1508854500
+sort_publish_date = 1508868000
 create_date = "2017-10-23T19:37:00-07:00"
 publish_date = "2017-10-24T11:00:00-07:00"
 date = "2017-10-24T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508817230925/DMms
 twitterauto = "We talked to @anxymag's @bobbie about creating a print magazine focused on mental health. "
 facebookauto = "We talked to Anxy Magazine's Editor-in-Chief, Bobbie Johnson, about how they do what they do. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/magazines", "tags/anxy"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1508815248409/013757418df1e7d9cd8da10c100758f6_original.png)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L2W__mgPv1l1sRpKUsw"
-_sort_create_date = 1515613200
-_sort_last_updated = 1515615240
-_sort_publish_date = 1515613200
+sort_create_date = 1515613200
+sort_last_updated = 1515615240
+sort_publish_date = 1515613200
 create_date = "2018-01-10T11:40:00-08:00"
 publish_date = "2018-01-10T11:40:00-08:00"
 date = "2018-01-10T11:40:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ksjR19pwHS5pM9RJ19H0zhLnIbd3pg0elOkXr3St7dRNK-AWJqHJiepT9wPWOdOUHdQlZ3L2GNCq7VvLySyNtyX0MVvx"
 url = "/webhook-uploads/1515613121357/Some%20Kind%20of%20Ending_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 25953
 
 review_relationship = ""
-author_relationship = ["authors/conon-parks", "authors/mike-macneil", "authors/randy-jones"]
+books_author = ""
 sponsorships_book = ["sponsorships/some-kind-of-ending"]
 notes_relationship = ""
 +++

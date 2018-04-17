@@ -1,8 +1,8 @@
 +++
 index = "-Kx6dYnx4Mpjv0ZmR7tb"
-_sort_create_date = 1508735580
-_sort_last_updated = 1508735580
-_sort_publish_date = 1508783400
+sort_create_date = 1508735580
+sort_last_updated = 1508735580
+sort_publish_date = 1508783400
 create_date = "2017-10-22T22:13:00-07:00"
 publish_date = "2017-10-23T11:30:00-07:00"
 date = "2017-10-23T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/vida"]
-authors_notes = ["authors/nicola-griffith"]
+notes_about = ""
 books = ""
 +++
 Find out how your favorite literary publication did in the [first VIDA count of the Trump era](http://www.vidaweb.org/the-2016-vida-count/). (If you're unfamiliar with VIDA, it's an organization that counts the number of women — and now, nonbinary — authors in literary publications. One of our very first posts on the *Seattle Review of Books* was [an interview with author Nicola Griffith](http://www.seattlereviewofbooks.com/notes/2015/07/27/talking-with-nicola-griffith-about-the-importance-of-counting-womens-stories/) about the importance of counting women in media.)

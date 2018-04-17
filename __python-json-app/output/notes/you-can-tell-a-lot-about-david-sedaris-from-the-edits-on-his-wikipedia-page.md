@@ -1,8 +1,8 @@
 +++
 index = "-KzLu6nmVoa7J0jb6XQB"
-_sort_create_date = 1511139060
-_sort_last_updated = 1511220300
-_sort_publish_date = 1511215260
+sort_create_date = 1511139060
+sort_last_updated = 1511220300
+sort_publish_date = 1511215260
 create_date = "2017-11-19T16:51:00-08:00"
 publish_date = "2017-11-20T14:01:00-08:00"
 date = "2017-11-20T14:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511138861600/seda
 twitterauto = "You can tell a lot about David Sedaris based on the edits to his Wikipedia page."
 facebookauto = "\"What emerges from the Wikipedia edits is a kind of erasure portrait of David Sedaris, a biography constructed from deletions and errors.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/david-sedaris"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Last night at Benaroya Hall, I introduced David Sedaris for his annual reading. What follows is my prepared text.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KIKVRdPnLvMtexd6DQB"
-_sort_create_date = 1463870880
-_sort_last_updated = 1463870880
-_sort_publish_date = 1463870880
+sort_create_date = 1463870880
+sort_last_updated = 1463870880
+sort_publish_date = 1463870880
 create_date = "2016-05-21T15:48:00-07:00"
 publish_date = "2016-05-21T15:48:00-07:00"
 date = "2016-05-21T15:48:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/8AX5xjsg5r5s9on397BH7jM1GsXtbZf5DzGHnlfrCOIgiYzfaR5GIMO8y0nYBK8TQLpDytcJrLOcx5htCKUc-6H2cmqR"
 url = "/webhook-uploads/1463870858257/26192644.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 27149
 
 review_relationship = ["reviews/five-reviews-in-different-styles-of-rufi-thorpes-brilliant-new-novel"]
-author_relationship = ["authors/rufi-thorpe"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-rufi-thorpe-about-writing-and-her-latest-novel"]
 +++

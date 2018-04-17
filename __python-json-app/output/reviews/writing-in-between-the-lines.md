@@ -1,8 +1,8 @@
 +++
 index = "-KjzfbCH3b9xp26CWBUW"
-_sort_create_date = 1494643260
-_sort_last_updated = 1495517700
-_sort_publish_date = 1494963000
+sort_create_date = 1494643260
+sort_last_updated = 1495517700
+sort_publish_date = 1494963000
 create_date = "2017-05-12T19:41:00-07:00"
 publish_date = "2017-05-16T12:30:00-07:00"
 date = "2017-05-16T12:30:00-07:00"
@@ -13,10 +13,10 @@ title = "Writing in between the lines"
 dek = "The latest issue of local literary magazine PageBoy invites writers to write about writers they love."
 facebookauto = "The latest issue of PageBoy magazine invites local writers to write  honestly about writers they love, from Kafka to Wodehouse."
 twitterauto = "PageBoy's latest issue invites writers to write about writers."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/pageboy-"]
 tags_reviews = ""
-authors_reviews = ["authors/doug-nufer", "authors/anca-l-szil\u00e1gyi"]
+reviews_about = ""
 +++
 
 Nobody makes writing sound more romantic, important, and magical than a writer, and that’s why writing about writers is a writer’s favorite pastime. Visit any bookstore’s how-to-write section and you’ll find volume after volume that describes writing as an art and a craft and a calling and a sacred trust. A writer can make writing sound like the most important calling in the world, and the only thing writers love to do more than publicly praise the work of another writer is to talk shit about other writers in the bar after the reading.

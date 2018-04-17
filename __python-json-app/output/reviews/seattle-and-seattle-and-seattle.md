@@ -1,8 +1,8 @@
 +++
 index = "-JuU6VfBcPL3Fno0O1jz"
-_sort_create_date = 1437188580
-_sort_last_updated = 1437959040
-_sort_publish_date = 1437188580
+sort_create_date = 1437188580
+sort_last_updated = 1437959040
+sort_publish_date = 1437188580
 create_date = "2015-07-17T20:03:00-07:00"
 publish_date = "2015-07-17T20:03:00-07:00"
 date = "2015-07-17T20:03:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "fc195d96-7fcf-9eb1-b937-cb4ac8c0fa6d"
 name = "Seattle and Seattle and Seattle"
 title = "Seattle and Seattle and Seattle"
 dek = "In the 1980's Jack Lynch wrote a series of travelogue-by-detective-novels. His book *Seattle* is full of poetry, cliche, and an overhwelming feeling that the ideal Seattle is always hiding in the recent past."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/seattle"]
 tags_reviews = ["tags/seattle", "tags/mystery"]
-authors_reviews = ["authors/jack-lynch"]
+reviews_about = ""
 +++
 
 Private detective Peter Bragg is driving from Bellingham to Seattle. He’s working on a particularly tricky case — an old friend, an affable writer of boring technical articles, has had his life threatened for mysterious reasons — and at every turn Bragg’s past confronts him. He’s far away from his home in San Francisco, his ex-wife is putting the moves on him, and his own childhood keeps creeping into his peripheral vision. Bragg grew up in Phinney Ridge, right near the zoo, and he can’t stop thinking about what it means to be a Seattleite. 

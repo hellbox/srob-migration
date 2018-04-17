@@ -1,8 +1,8 @@
 +++
 index = "-KRftymqsejVVGqXM5hS"
-_sort_create_date = 1473910380
-_sort_last_updated = 1473910440
-_sort_publish_date = 1473910380
+sort_create_date = 1473910380
+sort_last_updated = 1473910440
+sort_publish_date = 1473910380
 create_date = "2016-09-14T20:33:00-07:00"
 publish_date = "2016-09-14T20:33:00-07:00"
 date = "2016-09-14T20:33:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/vd5CgE7l0CbaxzL0dQEiLXipIez5Yk0bOpNJc7VOKTf2UXHLxTDljYwCXStZaClKsLs9Y4sSLI5rM97f2pcpMbYSmpe4"
 url = "/webhook-uploads/1473910399396/content%3Fid%3Do9YbjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7696
 
 review_relationship = ""
-author_relationship = ["authors/tom-gauld"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-they-put-a-man-on-the-moon"]
 +++

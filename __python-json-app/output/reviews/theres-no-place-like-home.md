@@ -1,8 +1,8 @@
 +++
 index = "-KUodyDk-sWkr9EONVXf"
-_sort_create_date = 1477278420
-_sort_last_updated = 1477278420
-_sort_publish_date = 1477425960
+sort_create_date = 1477278420
+sort_last_updated = 1477278420
+sort_publish_date = 1477425960
 create_date = "2016-10-23T20:07:00-07:00"
 publish_date = "2016-10-25T13:06:00-07:00"
 date = "2016-10-25T13:06:00-07:00"
@@ -13,10 +13,10 @@ title = "There's No Place Like Home"
 dek = "This Thursday at Third Place Books Seward Park, the community will come together to celebrate the first print collection of writings that have appeared in the South Seattle Emerald. Here's why that's important"
 facebookauto = "This Thursday, the South Seattle Emerald will publish its first-ever print anthology. How is it?"
 twitterauto = "This Thursday, the @SoSeaEmerald will publish its first-ever print anthology. How is it?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/emerald-reflections"]
 tags_reviews = ["tags/seattle", "tags/nonfiction", "tags/poetry"]
-authors_reviews = ["authors/marcus-harrison-green"]
+reviews_about = ""
 +++
 
 I do not believe it is hyperbolic to say that a little piece of Seattle died on the day that the *Seattle Post-Intelligencer* stopped publishing a daily print edition. The *Seattle Times* publishes some wonderful journalism, but a single newspaper cannot accurately portray the entire soul of a city. In the years since the P-I print edition died, though, we have seen some significant online publications grow to fill that void. To name just three of those publications: the *Seattle Globalist* has tracked Seattle’s growth into a world-class city with world-sized problems, Seattlish has become a beautifully vulgar Bible for City Hall-watchers and Washington polcy wonks, and the *South Seattle Emerald* has given voice to the city’s south end.

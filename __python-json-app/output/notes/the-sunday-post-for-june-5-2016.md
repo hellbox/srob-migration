@@ -1,8 +1,8 @@
 +++
 index = "-KJWUwrRg_7RsB_yTHQZ"
-_sort_create_date = 1465145820
-_sort_last_updated = 1465146180
-_sort_publish_date = 1465146180
+sort_create_date = 1465145820
+sort_last_updated = 1465146180
+sort_publish_date = 1465146180
 create_date = "2016-06-05T09:57:00-07:00"
 publish_date = "2016-06-05T10:03:00-07:00"
 date = "2016-06-05T10:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Pieces by @alexanderchee, @slaskow, @vestal13 in the Sunday Post. "
 facebookauto = "The letter the victim read to the convicted Stanford rapist, the secret sign language of sawmill workers, a writer's father takes his family on the lam, and a young gay novelist works as a waiter in the house of William F. Buckley, all in today's Sunday Post. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/shawn-vestal"]
+notes_about = ""
 books = ""
 +++
 <h5><a href="https://www.buzzfeed.com/katiejmbaker/heres-the-powerful-letter-the-stanford-victim-read-to-her-ra?utm_term=.tuxajjYdya#.cvJaoonNEa" title="Here&amp;#39;s The Powerful Letter The Stanford Victim Read To Her Attacker - BuzzFeed News">Here Is The Powerful Letter The Stanford Victim Read Aloud To Her Attacker</a></h5>

@@ -1,8 +1,8 @@
 +++
 index = "-KxnmTY23ozBHcXcOZXe"
-_sort_create_date = 1509476100
-_sort_last_updated = 1509476460
-_sort_publish_date = 1509476460
+sort_create_date = 1509476100
+sort_last_updated = 1509476460
+sort_publish_date = 1509476460
 create_date = "2017-10-31T11:55:00-07:00"
 publish_date = "2017-10-31T12:01:00-07:00"
 date = "2017-10-31T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's @seacityoflit's announcement that Seattle is officially a UNESCO City of Literature."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-city-of-literature", "tags/unesco"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This is [a big goddamned day in Seattle history](http://www.seattlereviewofbooks.com/notes/2017/10/31/seattle-designated-a-unesco-city-of-literature-the-world-is-looking-at-seattle-as-a-cultural-leader/), and so for posterity I want to make sure Seattle City of Literature's announcement is in the public record.

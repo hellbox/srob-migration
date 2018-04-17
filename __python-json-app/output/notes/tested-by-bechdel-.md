@@ -1,8 +1,8 @@
 +++
 index = "-K12mcjkhPZRJASMIh7H"
-_sort_create_date = 1445320080
-_sort_last_updated = 1445320080
-_sort_publish_date = 1445364060
+sort_create_date = 1445320080
+sort_last_updated = 1445320080
+sort_publish_date = 1445364060
 create_date = "2015-10-19T22:48:00-07:00"
 publish_date = "2015-10-20T11:01:00-07:00"
 date = "2015-10-20T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/corinne-manning", "authors/alison-bechdel"]
+notes_about = ""
 books = ""
 +++
 As we have noted repeatedly, this Thursday is Lit Crawl Seattle. But it's also important to note that Alison Bechdel [will be reading at Town Hall in a sold-out edition](https://townhallseattle.org/event/an-evening-with-alison-bechdel/) of the 2015-2016 Seattle Arts and Lectures reading series. If you haven't yet read Bechdel's *Fun Home* or *Dykes to Watch Out For*, [this excellent essay by Seattle writer Corinne Manning at Literary Hub](http://lithub.com/myself-in-translation-on-the-genius-of-alison-bechdel/) explains her particular genius. 

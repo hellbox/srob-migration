@@ -1,8 +1,8 @@
 +++
 index = "-JuNX-jg3t-A8oNp5Lwy"
-_sort_create_date = 1437078120
-_sort_last_updated = 1437078120
-_sort_publish_date = 1437085320
+sort_create_date = 1437078120
+sort_last_updated = 1437078120
+sort_publish_date = 1437085320
 create_date = "2015-07-16T13:22:00-07:00"
 publish_date = "2015-07-16T15:22:00-07:00"
 date = "2015-07-16T15:22:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/marvel-comics", "tags/david-brothers", "tags/miles-morales"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Marvel Comics recently announced they were publishing hip-hop themed covers on all their books in October. This [launched a conversation](http://womenwriteaboutcomics.com/2015/07/15/marvel-announces-hip-hop-variants-for-october-still-does-not-care-about-black-people/) about the fact that Marvel doesn't hire people of color to write their books, which kind of makes this whole hip-hop cover thing smack of appropriation.

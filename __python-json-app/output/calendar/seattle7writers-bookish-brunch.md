@@ -1,8 +1,8 @@
 +++
 index = "-KIOOSOoeZKlWxC83vFP"
-_sort_create_date = 1463936160
-_sort_last_updated = 1463938980
-_sort_publish_date = 1463936160
+sort_create_date = 1463936160
+sort_last_updated = 1463938980
+sort_publish_date = 1463936160
 create_date = "2016-05-22T09:56:00-07:00"
 publish_date = "2016-05-22T09:56:00-07:00"
 date = "2016-05-22T09:56:00-07:00"
@@ -26,6 +26,6 @@ time_description = "
 end_time = "2016-05-22T13:00:00-07:00"
 enddate = ""
 is_sponsorship = true
-authors = ["authors/deb-caletti", "authors/steven-arntson", "authors/sean-beaudoin", "authors/misha-berson", "authors/waverly-fitzgerald", "authors/bridget-foley", "authors/laurie-frankel", "authors/bharti-kirchner", "authors/joan-leegant", "authors/clare-meeker", "authors/donna-miscolta", "authors/ingrid-thoft", "authors/jennie-shortridge", "authors/garth-stein"]
+authors = ""
 sponsorship_event = ""
 venues = ""

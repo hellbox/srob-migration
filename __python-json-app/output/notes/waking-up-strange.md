@@ -1,8 +1,8 @@
 +++
 index = "-JwV0GA_LuWhmsHdkMCq"
-_sort_create_date = 1439351220
-_sort_last_updated = 1439351280
-_sort_publish_date = 1439916900
+sort_create_date = 1439351220
+sort_last_updated = 1439351280
+sort_publish_date = 1439916900
 create_date = "2015-08-11T20:47:00-07:00"
 publish_date = "2015-08-18T09:55:00-07:00"
 date = "2015-08-18T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/kathleen-flenniken"]
+notes_byline = ["writers/kathleen-flenniken"]
 tags_notes = ["tags/tuesday-poem", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Don’t sleep in a parked car.<br>

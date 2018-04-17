@@ -1,8 +1,8 @@
 +++
 index = "-KA39sDOsAzSFramjOCs"
-_sort_create_date = 1454990100
-_sort_last_updated = 1455038100
-_sort_publish_date = 1455040500
+sort_create_date = 1454990100
+sort_last_updated = 1455038100
+sort_publish_date = 1455040500
 create_date = "2016-02-08T19:55:00-08:00"
 publish_date = "2016-02-09T09:55:00-08:00"
 date = "2016-02-09T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poet is Meredith Clark, with an excerpt from her longer work, \"Lyrebird\""
 facebookauto = "Our Tuesday Poet is Meredith Clark, with an excerpt from her longer work, \"Lyrebird\""
 make_image_tweet = "False"
-byline = ["writers/meredith-clark"]
+notes_byline = ["writers/meredith-clark"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="prose-poem">

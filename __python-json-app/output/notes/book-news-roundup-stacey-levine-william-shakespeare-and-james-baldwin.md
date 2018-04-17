@@ -1,8 +1,8 @@
 +++
 index = "-KmSct3BYLjuUtvJZPST"
-_sort_create_date = 1497293340
-_sort_last_updated = 1497319500
-_sort_publish_date = 1497376800
+sort_create_date = 1497293340
+sort_last_updated = 1497319500
+sort_publish_date = 1497376800
 create_date = "2017-06-12T11:49:00-07:00"
 publish_date = "2017-06-13T11:00:00-07:00"
 date = "2017-06-13T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes stories on Stacey Levine, James Baldwin, and William Shakespeare."
 facebookauto = "Today's Book News Roundup includes stories on Stacey Levine, James Baldwin, and William Shakespeare."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/stacey-levine", "authors/james-baldwin"]
+notes_about = ""
 books = ""
 +++
 * Brooklyn Rail published [a great interview with Seattle's own Stacey Levine](http://brooklynrail.org/2017/06/books/STACEY-LEVINE-with-Kristy-Eldredge):

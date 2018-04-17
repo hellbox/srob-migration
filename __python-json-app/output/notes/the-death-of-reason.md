@@ -1,8 +1,8 @@
 +++
 index = "-L734XrdjvMZfIPwgCzK"
-_sort_create_date = 1520486940
-_sort_last_updated = 1520523240
-_sort_publish_date = 1520884800
+sort_create_date = 1520486940
+sort_last_updated = 1520523240
+sort_publish_date = 1520884800
 create_date = "2018-03-07T21:29:00-08:00"
 publish_date = "2018-03-12T13:00:00-07:00"
 date = "2018-03-12T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1520486956451/
 twitterauto = "Stop by for speculative political satire from sponsor @JoePonepinto, then see him read @kingsbooks this Wednesday!"
 facebookauto = "Lighten your Monday with a little speculative political satire from sponsor Joe Ponepinto \u2014\u00a0then hear him read from his latest novel at King's Books in Tacoma in March or Elliott Bay Books in July. "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/joe-ponepinto"]
+notes_about = ""
 books = ["books/mr-neutron"]
 +++
 <p class="image-left">![](/webhook-uploads/1520487028843/Mr.%20Neutron_150.jpg)</p>

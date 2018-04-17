@@ -1,8 +1,8 @@
 +++
 index = "-K6ZOrzz7hASk3NgEdzh"
-_sort_create_date = 1451235960
-_sort_last_updated = 1451236260
-_sort_publish_date = 1451236260
+sort_create_date = 1451235960
+sort_last_updated = 1451236260
+sort_publish_date = 1451236260
 create_date = "2015-12-27T09:06:00-08:00"
 publish_date = "2015-12-27T09:11:00-08:00"
 date = "2015-12-27T09:11:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post time, with piece by: @ka_brooks, @hpmacd, @zunguzungu, and @toddalcott."
 facebookauto = "The Sunday Post looks at female friendship, a new conservatism, and -- yes, there is no escape -- that space opera movie. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.theawl.com/2015/09/good-luck-to-human-kind" title="The Darkness Before the Right - The Awl">The Darkness Before the Right</a></h5>

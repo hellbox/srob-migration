@@ -1,8 +1,8 @@
 +++
 index = "-KMAXeR3ZHpcpO9dbOzE"
-_sort_create_date = 1467998700
-_sort_last_updated = 1467998700
-_sort_publish_date = 1467998700
+sort_create_date = 1467998700
+sort_last_updated = 1467998700
+sort_publish_date = 1467998700
 create_date = "2016-07-08T10:25:00-07:00"
 publish_date = "2016-07-08T10:25:00-07:00"
 date = "2016-07-08T10:25:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "When an NPR affiliate stops running author interviews, should readers stop donating?"
 facebookauto = "When an NPR affiliate stops running author interviews, should readers stop donating?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/npr"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

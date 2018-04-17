@@ -1,8 +1,8 @@
 +++
 index = "-KkWndi1VUn9ZRAGfw-S"
-_sort_create_date = 1495215780
-_sort_last_updated = 1495215780
-_sort_publish_date = 1495219380
+sort_create_date = 1495215780
+sort_last_updated = 1495215780
+sort_publish_date = 1495219380
 create_date = "2017-05-19T10:43:00-07:00"
 publish_date = "2017-05-19T11:43:00-07:00"
 date = "2017-05-19T11:43:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495215611003/ever
 twitterauto = "A bookseller asks @ciennam: should my boss really be complaining about Amazon all the time?"
 facebookauto = "A bookseller asks our advice columnist: should my boss really be complaining about Amazon all the time?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/amazon", "tags/retail"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-JyprZiGSRsDl1eHNG4V"
-_sort_create_date = 1441865280
-_sort_last_updated = 1441865280
-_sort_publish_date = 1441865280
+sort_create_date = 1441865280
+sort_last_updated = 1441865280
+sort_publish_date = 1441865280
 create_date = "2015-09-09T23:08:00-07:00"
 publish_date = "2015-09-09T23:08:00-07:00"
 date = "2015-09-09T23:08:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ox5VJ6Yja6VdQWZ1CxkCf2iXn2lntFV_V4FvV1osXdCjcF2GpxsaGu22sd74SG1Cni5DUHwV6pm21IOHWfUxmmAtAKLF"
 url = "/webhook-uploads/1441865124430/9780761184997.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 38142
 
 review_relationship = ["reviews/upstairs-downstairs"]
-author_relationship = ["authors/leanne-brown"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

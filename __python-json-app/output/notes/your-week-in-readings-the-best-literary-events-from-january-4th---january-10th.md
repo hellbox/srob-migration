@@ -1,8 +1,8 @@
 +++
 index = "-K_Xp0qjHGo_oBibYegb"
-_sort_create_date = 1483421760
-_sort_last_updated = 1483574400
-_sort_publish_date = 1483559760
+sort_create_date = 1483421760
+sort_last_updated = 1483574400
+sort_publish_date = 1483559760
 create_date = "2017-01-02T21:36:00-08:00"
 publish_date = "2017-01-04T11:56:00-08:00"
 date = "2017-01-04T11:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483421508838/endo
 twitterauto = "Your first full week of readings in 2017 is packed full of fun stuff. Info here: "
 facebookauto = "Your first full week of readings in 2017 is packed full of fun stuff, including a conversation between David Schmader and Sarah Galvin, a reading from Quenton Baker, a biochemist with a book about fat, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/quenton-baker", "authors/corinne-manning"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday January 4th: Reading Through It: A Post-Election Book Club**</h5></p> 

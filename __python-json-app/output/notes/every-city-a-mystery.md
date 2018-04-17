@@ -1,8 +1,8 @@
 +++
 index = "-KzRlog4cRR5RIjxqv8a"
-_sort_create_date = 1511237520
-_sort_last_updated = 1511237520
-_sort_publish_date = 1511294460
+sort_create_date = 1511237520
+sort_last_updated = 1511237520
+sort_publish_date = 1511294460
 create_date = "2017-11-20T20:12:00-08:00"
 publish_date = "2017-11-21T12:01:00-08:00"
 date = "2017-11-21T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511237177313/cove
 twitterauto = "When someone is murdered in a city, the citizens all become participants."
 facebookauto = "When someone is murdered in a city, the citizens all become participants."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/novella"]
-authors_notes = ["authors/juan-carlos-reyes"]
+notes_about = ""
 books = ["books/a-summers-lynching"]
 +++
 <p class="image-left">![](/webhook-uploads/1511237177313/cover-test-11-top-line-edit.png)</p>

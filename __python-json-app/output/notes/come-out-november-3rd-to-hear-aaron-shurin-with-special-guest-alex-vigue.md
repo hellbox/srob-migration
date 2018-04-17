@@ -1,8 +1,8 @@
 +++
 index = "-Kwg5PrXhsDl0ZnboShr"
-_sort_create_date = 1508273400
-_sort_last_updated = 1508274720
-_sort_publish_date = 1509393600
+sort_create_date = 1508273400
+sort_last_updated = 1508274720
+sort_publish_date = 1509393600
 create_date = "2017-10-17T13:50:00-07:00"
 publish_date = "2017-10-30T13:00:00-07:00"
 date = "2017-10-30T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1508273236139/Shu
 twitterauto = "Join sponsor @EntreRiosBooks Nov. 3 to launch Flowers & Sky by Aaron Shurin, with special guest Alex Vigue!"
 facebookauto = "Join sponsor Entre R\u00edos Books this Friday at Open Books to celebrate the launch of Flower & Sky: Two Talks -- a new book by Aaron Shurin. Special guest Alex Vigue follows with a reading from his debut chapbook, The Man and the Myth. "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/aaron-shurin", "authors/alex-vigue"]
+notes_about = ""
 books = ["books/flowers-and-sky", "books/the-myth-of-man"]
 +++
 <p class="image-left">![](/webhook-uploads/1508273663667/Flowers%20%26%20Sky_150.jpeg)</p>

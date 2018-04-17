@@ -1,8 +1,8 @@
 +++
 index = "-KD1aZkR-0KnTa4E-oyN"
-_sort_create_date = 1458185040
-_sort_last_updated = 1458239640
-_sort_publish_date = 1458246240
+sort_create_date = 1458185040
+sort_last_updated = 1458239640
+sort_publish_date = 1458246240
 create_date = "2016-03-16T20:24:00-07:00"
 publish_date = "2016-03-17T13:24:00-07:00"
 date = "2016-03-17T13:24:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What have the Vis-a-Vis Society been up to lately? Find out in today's Book News Roundup!"
 facebookauto = "What have the Vis-a-Vis Society been up to lately? Find out in today's Book News Roundup!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/bookslut", "tags/vis-a-vis-society", "tags/dalkey-archive"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1458184913709/creativetarot.gif)</p> We've [already told you](http://seattlereviewofbooks.com/notes/2016/03/09/bookslut-is-shutting-down/) that Jessa Crispin is shutting down her book review and news site, Bookslut, after 14 years. This is very sad. The good news is that Crispin reads in Seattle tomorrow night from her new book, *The Creative Tarot*. She'll be [reading at University Book Store at 7 pm, and it's free](https://www2.bookstore.washington.edu/_events/events_cal.taf?evmonth=03&evyear=2016&eventid=2016021108384500). And meanwhile, over at the Rumpus, you should [read this interview with Crispin](http://therumpus.net/2016/03/the-rumpus-interview-with-jessa-crispin/) that, while recorded before the announcement of Bookslut's closure, certainly seems to offer some foreshadowing to the fact that Crispin is ready to move on:

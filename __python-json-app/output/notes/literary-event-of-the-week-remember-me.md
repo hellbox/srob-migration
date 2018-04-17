@@ -1,8 +1,8 @@
 +++
 index = "-KMBJASudrz8QH5g4WJF"
-_sort_create_date = 1468011660
-_sort_last_updated = 1468011780
-_sort_publish_date = 1468429260
+sort_create_date = 1468011660
+sort_last_updated = 1468011780
+sort_publish_date = 1468429260
 create_date = "2016-07-08T14:01:00-07:00"
 publish_date = "2016-07-13T10:01:00-07:00"
 date = "2016-07-13T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our event of the week is a never-ending poem that is a family tree and an ongoing conversation about identity."
 facebookauto = "Our event of the week is a never-ending poem that serves as a family tree and an ongoing conversation about identity."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Here’s a poem called “Red Lineage:”

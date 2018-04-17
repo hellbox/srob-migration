@@ -1,8 +1,8 @@
 +++
 index = "-KfcI2dB6kA5Zn6FBlPK"
-_sort_create_date = 1489956000
-_sort_last_updated = 1490222460
-_sort_publish_date = 1490201940
+sort_create_date = 1489956000
+sort_last_updated = 1490222460
+sort_publish_date = 1490201940
 create_date = "2017-03-19T13:40:00-07:00"
 publish_date = "2017-03-22T09:59:00-07:00"
 date = "2017-03-22T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Tonight, celebrate @Lit_Fix's 4th anniversary with @katkat_alcala @Laurie_Frankel & @Misterlashley!"
 facebookauto = "The Lit Fix reading series celebrates its fourth anniversary tonight. What's the secret for building a long-lasting reading series?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/lit-fix"]
-authors_notes = ["authors/robert-lashley", "authors/kathleen-alcala", "authors/corinne-manning", "authors/laurie-frankel"]
+notes_about = ""
 books = ""
 +++
 **UPDATE 3:39 PM**: We [received word](http://www.seattlereviewofbooks.com/notes/2017/03/22/tonights-lit-fix-reading-has-been-canceled/) that at the last minute, this edition of Lit Fix has been canceled. Apologies to all.

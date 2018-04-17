@@ -1,8 +1,8 @@
 +++
 index = "-KHYVQ5ot2JEW1xIdCHH"
-_sort_create_date = 1463032020
-_sort_last_updated = 1463062320
-_sort_publish_date = 1463072280
+sort_create_date = 1463032020
+sort_last_updated = 1463062320
+sort_publish_date = 1463072280
 create_date = "2016-05-11T22:47:00-07:00"
 publish_date = "2016-05-12T09:58:00-07:00"
 date = "2016-05-12T09:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463031485263/rena
 twitterauto = "Could this be the worst comic of 2016?"
 facebookauto = "A new comic promises class warfare, with a main character who murders the corrupt wealthy one percent. "
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/image-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The illustrations in the new comic from Kaare Andrews, *Renato Jones The One%*, resemble Frank Miller’s artwork — particularly from his *Dark Knight Returns* era. Throughout, you'll find chiaroscuro layouts and plenty of exaggerated, pinched facial expressions. Andrews has bitten Miller’s style in just about every way imaginable. But Andrews’s art, once you look deeper than the surface, doesn’t really have any life to it; his art resembles Miller’s without the years of hard labor that made Miller such an icon. It’s got all the pizzazz and energy of a pencil sketch on a piece of tracing paper. 

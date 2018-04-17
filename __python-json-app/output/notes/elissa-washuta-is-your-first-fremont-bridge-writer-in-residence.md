@@ -1,8 +1,8 @@
 +++
 index = "-KGJvgpz-yNTAHGzz4zu"
-_sort_create_date = 1461713760
-_sort_last_updated = 1461713760
-_sort_publish_date = 1461713760
+sort_create_date = 1461713760
+sort_last_updated = 1461713760
+sort_publish_date = 1461713760
 create_date = "2016-04-26T16:36:00-07:00"
 publish_date = "2016-04-26T16:36:00-07:00"
 date = "2016-04-26T16:36:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to @misswashuta, the new Fremont Bridge writer-in-residence!"
 facebookauto = "Congratulations to Elissa Washuta for landing the sweet Fremont Bridge writer-in-residence position."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fremont-bridge"]
-authors_notes = ["authors/elissa-washuta"]
+notes_about = ""
 books = ["books/starvation-mode"]
 +++
 On Facebook, Seattle author [Elissa Washuta](http://seattlereviewofbooks.com/authors/elissa-washuta/) writes, 

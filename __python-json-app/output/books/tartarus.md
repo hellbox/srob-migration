@@ -1,8 +1,8 @@
 +++
 index = "-Kgc50gt8C9dweWXWFM0"
-_sort_create_date = 1491026280
-_sort_last_updated = 1491026280
-_sort_publish_date = 1491026280
+sort_create_date = 1491026280
+sort_last_updated = 1491026280
+sort_publish_date = 1491026280
 create_date = "2017-03-31T22:58:00-07:00"
 publish_date = "2017-03-31T22:58:00-07:00"
 date = "2017-03-31T22:58:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Gyj03l6IGi8U_hPvegOPckugEq5TOedsvWIkk9m_MVKsKG3ZtCSU-hjAUuyxIPSqs2WFZb1a0E4TnBnmzEO1eb3mFtfN"
 url = "/webhook-uploads/1491026226553/cover.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 4599009
 
 review_relationship = ""
-author_relationship = ["authors/eric-andrews-katz"]
+books_author = ""
 sponsorships_book = ["sponsorships/tartarus"]
 notes_relationship = ""
 +++

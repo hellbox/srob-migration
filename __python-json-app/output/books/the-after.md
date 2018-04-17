@@ -1,8 +1,8 @@
 +++
 index = "-KSvr5ekrGwaQrH_mR12"
-_sort_create_date = 1475251800
-_sort_last_updated = 1475251800
-_sort_publish_date = 1475251800
+sort_create_date = 1475251800
+sort_last_updated = 1475251800
+sort_publish_date = 1475251800
 create_date = "2016-09-30T09:10:00-07:00"
 publish_date = "2016-09-30T09:10:00-07:00"
 date = "2016-09-30T09:10:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uYGwHa9IqQxJLOvIG-MtA-bKXb_XQR7gfou4WTGjjE-WpcZO7vLfohNRWiSNaKaZzHnR4xA5C-7EE5N0GyEQ-W5mntA"
 url = "/webhook-uploads/1475251777819/Screen%20Shot%202016-09-30%20at%209.08.37%20AM.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 970429
 
 review_relationship = ""
-author_relationship = ["authors/melinda-mueller"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-after"]
 notes_relationship = ""
 +++

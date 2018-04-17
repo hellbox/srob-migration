@@ -1,8 +1,8 @@
 +++
 index = "-KukYfnejgSrHG2yio5T"
-_sort_create_date = 1506200640
-_sort_last_updated = 1506201720
-_sort_publish_date = 1506268800
+sort_create_date = 1506200640
+sort_last_updated = 1506201720
+sort_publish_date = 1506268800
 create_date = "2017-09-23T14:04:00-07:00"
 publish_date = "2017-09-24T09:00:00-07:00"
 date = "2017-09-24T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Don't miss @pmcottrell, @LiberianGirl95, @jmccknight, and more in this week's Sunday Post."
 facebookauto = "Reality's getting slippery in the Sunday Post, with articles on Snopes.com, obsession, imaginary boyfriends, and the god in the machine."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

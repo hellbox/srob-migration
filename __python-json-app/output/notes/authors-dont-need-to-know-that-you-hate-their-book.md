@@ -1,8 +1,8 @@
 +++
 index = "-KktBno4NrQmAn4x-gWg"
-_sort_create_date = 1495608240
-_sort_last_updated = 1495608240
-_sort_publish_date = 1495648860
+sort_create_date = 1495608240
+sort_last_updated = 1495608240
+sort_publish_date = 1495648860
 create_date = "2017-05-23T23:44:00-07:00"
 publish_date = "2017-05-24T11:01:00-07:00"
 date = "2017-05-24T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your semi-regular reminder that authors are human beings, too."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/social-media"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 At [*The Guardian*](https://www.theguardian.com/books/booksblog/2017/may/22/when-tweeters-attack-why-do-readers-send-authors-their-bad-reviews?CMP=share_btn_tw), Danuta Kean wrote a very good post about people who feel compelled to tag writers on social media with their very negative book reviews:

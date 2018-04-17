@@ -1,8 +1,8 @@
 +++
 index = "-KBqXRmNGmcGr0EDLnO6"
-_sort_create_date = 1456908900
-_sort_last_updated = 1457113680
-_sort_publish_date = 1457114460
+sort_create_date = 1456908900
+sort_last_updated = 1457113680
+sort_publish_date = 1457114460
 create_date = "2016-03-02T00:55:00-08:00"
 publish_date = "2016-03-04T10:01:00-08:00"
 date = "2016-03-04T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A new documentary about romance novels arrives @nwfilmforum this weekend. Will you fall in love with it?"
 facebookauto = "Love Between the Covers is a new documentary playing at Northwest Film Forum this weekend. It investigates why romance fiction has never gotten the respect that other genres, like sci-fi or superhero comics, have enjoyed. Could it be sexism? Yeah, it might be sexism."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/movies", "tags/romance"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uwABHUXofhY?rel=0" frameborder="0" allowfullscreen></iframe>

@@ -1,8 +1,8 @@
 +++
 index = "-KYrC4Iatmg-KBLYaLBZ"
-_sort_create_date = 1481616120
-_sort_last_updated = 1481907120
-_sort_publish_date = 1481911320
+sort_create_date = 1481616120
+sort_last_updated = 1481907120
+sort_publish_date = 1481911320
 create_date = "2016-12-13T00:02:00-08:00"
 publish_date = "2016-12-16T10:02:00-08:00"
 date = "2016-12-16T10:02:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481615928610/norm
 twitterauto = "We took Warren Ellis's new novella out for brunch at Roxy's Diner."
 facebookauto = "We took Warren Ellis's new novella out for brunch at Roxy's Diner."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date", "tags/science-fiction"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1481615928610/normal.jpg)</p>

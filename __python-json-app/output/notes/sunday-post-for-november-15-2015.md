@@ -1,8 +1,8 @@
 +++
 index = "-K38ptd5E29uNubVqt8m"
-_sort_create_date = 1447569060
-_sort_last_updated = 1447624620
-_sort_publish_date = 1447606800
+sort_create_date = 1447569060
+sort_last_updated = 1447624620
+sort_publish_date = 1447606800
 create_date = "2015-11-14T22:31:00-08:00"
 publish_date = "2015-11-15T09:00:00-08:00"
 date = "2015-11-15T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post is up, four things from our feeds this week that we felt were notable. "
 facebookauto = "The Sunday Post is up. Four things from the feeds that we found notable."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Terror Strikes in Paris](http://www.newyorker.com/news/news-desk/terror-strikes-in-paris)</h5>

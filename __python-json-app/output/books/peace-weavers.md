@@ -1,8 +1,8 @@
 +++
 index = "-KnZa82DvRakgQ1zuS9S"
-_sort_create_date = 1498483800
-_sort_last_updated = 1498483920
-_sort_publish_date = 1498483800
+sort_create_date = 1498483800
+sort_last_updated = 1498483920
+sort_publish_date = 1498483800
 create_date = "2017-06-26T06:30:00-07:00"
 publish_date = "2017-06-26T06:30:00-07:00"
 date = "2017-06-26T06:30:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dZj54P2hojgS28OIb-9DZqT_q8_v2EryHATuJ6Gk07EVw9iBK_oYH57iYDtd8OHiV5MDZqK-UuK6DSbbOvsi4UCrS9E"
 url = "/webhook-uploads/1498483822121/content%3Fid%3DRC_3MAAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7515
 
 review_relationship = ""
-author_relationship = ["authors/candace-wellman"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/uncovering-the-true-stories-of-salish-native-women-and-intercultural-marriage"]
 +++

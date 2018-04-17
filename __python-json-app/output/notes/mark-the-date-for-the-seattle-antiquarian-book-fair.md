@@ -1,8 +1,8 @@
 +++
 index = "-KSbMKJgctg9e567zCDG"
-_sort_create_date = 1474907940
-_sort_last_updated = 1474907940
-_sort_publish_date = 1474920000
+sort_create_date = 1474907940
+sort_last_updated = 1474907940
+sort_publish_date = 1474920000
 create_date = "2016-09-26T09:39:00-07:00"
 publish_date = "2016-09-26T13:00:00-07:00"
 date = "2016-09-26T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1474303684221/unna
 twitterauto = "Our sponsor, the Seattle Antiquarian Book Fair is back, Oct 8th-9th. Mark the date! "
 facebookauto = "Our sponsor, the Seattle Antiquarian Book Fair is back, Oct 8th-9th. Mark the date! "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This week's sponsor The Seattle Antiquarian Book Fair is back, for their twenty-ninth annual show at Seattle Center, happening October 8th-9th. The fair is an amazing event, a place to see rare books, ephemera, maps, and collectibles. 

@@ -1,8 +1,8 @@
 +++
 index = "-K0PjyXTIJj1qLpP__AV"
-_sort_create_date = 1444631520
-_sort_last_updated = 1444631520
-_sort_publish_date = 1445289120
+sort_create_date = 1444631520
+sort_last_updated = 1444631520
+sort_publish_date = 1445289120
 create_date = "2015-10-11T23:32:00-07:00"
 publish_date = "2015-10-19T14:12:00-07:00"
 date = "2015-10-19T14:12:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's @litcrawlseattle itinerary features food writing, comics, and video games. What's not to love?"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lit-crawl", "tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">On Thursday, October 22nd, Lit Crawl Seattle is bringing you readings from more than 65 authors at 20 different venues. The [full schedule of events](http://litcrawl.org/seattle/2015-schedule) is a little bit daunting. How are you supposed to choose three readings out of this embarassment of riches? Let the *Seattle Review of Books* help! Here's our sixth suggested itinerary:</p>

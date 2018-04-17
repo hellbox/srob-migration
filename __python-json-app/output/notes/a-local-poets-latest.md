@@ -1,8 +1,8 @@
 +++
 index = "-K65CxiUB3qibpO3T17O"
-_sort_create_date = 1450729500
-_sort_last_updated = 1450729500
-_sort_publish_date = 1450731600
+sort_create_date = 1450729500
+sort_last_updated = 1450729500
+sort_publish_date = 1450731600
 create_date = "2015-12-21T12:25:00-08:00"
 publish_date = "2015-12-21T13:00:00-08:00"
 date = "2015-12-21T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our thanks to poet @PriscillaLong for her sponsorship this week"
 facebookauto = "Priscilla Long is our sponsor this week. Read three poems from her latest book, Crossing Over."
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/priscilla-long"]
+notes_about = ""
 books = ["books/crossing-over"]
 +++
 Priscilla Long is a return sponsor. Her recently published book _Crossing Over_ has found a very strong reception from the local poetry scene. 

@@ -1,8 +1,8 @@
 +++
 index = "-Km5L9cKYtT4SajmOAVe"
-_sort_create_date = 1496902560
-_sort_last_updated = 1496902800
-_sort_publish_date = 1496941260
+sort_create_date = 1496902560
+sort_last_updated = 1496902800
+sort_publish_date = 1496941260
 create_date = "2017-06-07T23:16:00-07:00"
 publish_date = "2017-06-08T10:01:00-07:00"
 date = "2017-06-08T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496427566388/manw
 twitterauto = "At our book club last night, people kept confusing Putin for Trump and vice versa."
 facebookauto = "At our book club last night, people kept confusing Vladimir Putin for Donald Trump, and vice versa."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it", "tags/donald-trump"]
-authors_notes = ["authors/masha-gessen"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1496427566388/manwithoutaface.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KOv13Lvl1hxo4Bbxh_V"
-_sort_create_date = 1470942900
-_sort_last_updated = 1470942900
-_sort_publish_date = 1470942900
+sort_create_date = 1470942900
+sort_last_updated = 1470942900
+sort_publish_date = 1470942900
 create_date = "2016-08-11T12:15:00-07:00"
 publish_date = "2016-08-11T12:15:00-07:00"
 date = "2016-08-11T12:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470942284478/unna
 twitterauto = "We can't wait for @ellen_forney's new book! (But we'll have to wait.)"
 facebookauto = "Fantagraphics is publishing a new book from Ellen Forney? Sign us up! "
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics"]
-authors_notes = ["authors/ellen-forney"]
+notes_about = ""
 books = ""
 +++
 What a terrific email to get on a Thursday afternoon: Fantagraphics Books just announced that they're publishing the next book from Seattle cartoonist Ellen Forney. With her debut full-length graphic novel, *Marbles*, Forney eloquently shared her story as a bipolar artist. *Rock Steady: Brilliant Advice From My Bipolar Life* will offer autobiographical anecdotes and observations about "how to overcome the hassle of meds, recognize red flags, and other tools from her own experience of 14 years of stability - all in comics form." 

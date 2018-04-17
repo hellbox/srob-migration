@@ -1,8 +1,8 @@
 +++
 index = "-KKl4ykyCJbobtVYxJoy"
-_sort_create_date = 1466481240
-_sort_last_updated = 1466520000
-_sort_publish_date = 1466541000
+sort_create_date = 1466481240
+sort_last_updated = 1466520000
+sort_publish_date = 1466541000
 create_date = "2016-06-20T20:54:00-07:00"
 publish_date = "2016-06-21T13:30:00-07:00"
 date = "2016-06-21T13:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "And then @kelliagodon interviewed @maggiesmithpoet and the editors of @WaxwingMag. What\u2019s it like to go viral?"
 facebookauto = "And then Kelli Russell Agodon interviewed Maggie Smith and the editors of Waxwing Magazine for us. What\u2019s it like to go viral?"
 make_image_tweet = "False"
-byline = ["writers/kelli-russell-agodon"]
+notes_byline = ["writers/kelli-russell-agodon"]
 tags_notes = ["tags/poetry"]
-authors_notes = ["authors/maggie-smith"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">After [looking into why poems go viral](http://seattlereviewofbooks.com/notes/2016/06/21/a-poet-explores-when-poems-go-viral/), Kelli Russell Agodon was not done. She wanted to talk to the people involved, too. Here's her interview with poet [Maggie Smith](https://twitter.com/maggiesmithpoet), and _Waxwing Magazine_ editors [Justin Bigos](https://twitter.com/JustinBigos), Erin Stalcup, and [W. Todd Kaneko](https://twitter.com/ToddKaneko).</p>

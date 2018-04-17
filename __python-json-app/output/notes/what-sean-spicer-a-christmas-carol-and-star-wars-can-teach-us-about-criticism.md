@@ -1,8 +1,8 @@
 +++
 index = "-L0hkv3JSE3AofM5mBHB"
-_sort_create_date = 1513669980
-_sort_last_updated = 1513706580
-_sort_publish_date = 1513713180
+sort_create_date = 1513669980
+sort_last_updated = 1513706580
+sort_publish_date = 1513713180
 create_date = "2017-12-18T23:53:00-08:00"
 publish_date = "2017-12-19T11:53:00-08:00"
 date = "2017-12-19T11:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513668901987/aspi
 twitterauto = "Before you use a work of fiction to advance your political agenda, make sure you're reflecting the text."
 facebookauto = "Before you use a work of fiction to advance your political agenda, make sure you're reflecting the text."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/star-wars"]
-authors_notes = ["authors/charles-dickens"]
+notes_about = ""
 books = ""
 +++
 Last week, Sean Spicer posted this unbelievably stupid commentary on Instagram:

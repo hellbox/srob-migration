@@ -1,8 +1,8 @@
 +++
 index = "-L2JSivo582bT39gFYeC"
-_sort_create_date = 1515393000
-_sort_last_updated = 1515393360
-_sort_publish_date = 1515614100
+sort_create_date = 1515393000
+sort_last_updated = 1515393360
+sort_publish_date = 1515614100
 create_date = "2018-01-07T22:30:00-08:00"
 publish_date = "2018-01-10T11:55:00-08:00"
 date = "2018-01-10T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515393007837/blac
 twitterauto = "\"Are you a white man?\""
 facebookauto = ""
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/natasha-marin"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1515393007837/blackimagination.jpeg)</p>

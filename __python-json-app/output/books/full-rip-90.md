@@ -1,8 +1,8 @@
 +++
 index = "-Ju7oCNEWGn2Suk2xQKy"
-_sort_create_date = 1436814600
-_sort_last_updated = 1436814600
-_sort_publish_date = 1436814600
+sort_create_date = 1436814600
+sort_last_updated = 1436814600
+sort_publish_date = 1436814600
 create_date = "2015-07-13T12:10:00-07:00"
 publish_date = "2015-07-13T12:10:00-07:00"
 date = "2015-07-13T12:10:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qs8-qQAyroBVywj365uoR5_O0AiTH6Iw2OgcCJ1zcUQA-FAWdehmHanI4xn8_6A4BOm4EZapipSaGZTJnTD3-nmug-dS"
 url = "/webhook-uploads/1436814608902/9781570619427.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 20333
 
 review_relationship = ""
-author_relationship = ["authors/sandi-doughton"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/a-bigger-look-at-the-really-big-one"]
 +++

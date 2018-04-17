@@ -1,8 +1,8 @@
 +++
 index = "-Jyjxq3cTEAErGSCEj5Y"
-_sort_create_date = 1441766220
-_sort_last_updated = 1441766280
-_sort_publish_date = 1441766220
+sort_create_date = 1441766220
+sort_last_updated = 1441766280
+sort_publish_date = 1441766220
 create_date = "2015-09-08T19:37:00-07:00"
 publish_date = "2015-09-08T19:37:00-07:00"
 date = "2015-09-08T19:37:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/MjCuyT9UvulrbvMhNgIzA8teBVnYyEJ3KIUeTjk--IklfTIU7mmQH6GWwuyR3MPE3t3erebo1XqaLwgprTrMw_tXAeIHgw"
 url = "/webhook-uploads/1441766268675/content%3Fid%3D8riBngEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10652
 
 review_relationship = ""
-author_relationship = ["authors/mark-haddon"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-recommendation-engine"]
 +++

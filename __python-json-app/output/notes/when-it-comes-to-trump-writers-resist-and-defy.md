@@ -1,8 +1,8 @@
 +++
 index = "-Ka0xKPmIE5HhYeeNUdm"
-_sort_create_date = 1483944000
-_sort_last_updated = 1483944000
-_sort_publish_date = 1484076600
+sort_create_date = 1483944000
+sort_last_updated = 1483944000
+sort_publish_date = 1484076600
 create_date = "2017-01-08T22:40:00-08:00"
 publish_date = "2017-01-10T11:30:00-08:00"
 date = "2017-01-10T11:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here are two readings @THSEA to help you get ready for Donald Trump's inauguration."
 facebookauto = "No, readings aren't the only thing you can do to get ready for Trump's inauguration. But they're a good start."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/town-hall-seattle"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I hope you'll keep a couple of events in mind as we approach President Trump's inauguration. At [Town Hall on Sunday, January 15th](http://townhall.strangertickets.com/events/39723606/writers-resist-a-celebration-of-free-speech?_ga=1.177824679.364931875.1436115723), Washington writers celebrate Martin Luther King Jr's birthday and celebrate free speech with an event called "Writers Resist." They'll read their own work and the work of great Americans like Susan B. Anthony, Malcolm X, Susan Sontag, and Thomas Paine. Some of the authors reading include:

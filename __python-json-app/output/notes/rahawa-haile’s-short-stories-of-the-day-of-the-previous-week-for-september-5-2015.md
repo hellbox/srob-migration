@@ -1,8 +1,8 @@
 +++
 index = "-JyQNNn1NayemId1fB24"
-_sort_create_date = 1441420860
-_sort_last_updated = 1441420860
-_sort_publish_date = 1441468800
+sort_create_date = 1441420860
+sort_last_updated = 1441420860
+sort_publish_date = 1441468800
 create_date = "2015-09-04T19:41:00-07:00"
 publish_date = "2015-09-05T09:00:00-07:00"
 date = "2015-09-05T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's @rahawahaile's short story collection time, this week featuring @kashanacauley, @vincentscarpa, and others."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the _SRoB_ <a href="https://twitter.com/rahawahaile" title="Rahawa Haile (@RahawaHaile) | Twitter">Rahawa Haile</a> tweets a short story. She gave us permission to collect them every week.</p>

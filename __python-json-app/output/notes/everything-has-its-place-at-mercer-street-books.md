@@ -1,8 +1,8 @@
 +++
 index = "-JwUC8AlpFHD4s3qWqW-"
-_sort_create_date = 1439337540
-_sort_last_updated = 1439337540
-_sort_publish_date = 1439398740
+sort_create_date = 1439337540
+sort_last_updated = 1439337540
+sort_publish_date = 1439398740
 create_date = "2015-08-11T16:59:00-07:00"
 publish_date = "2015-08-12T09:59:00-07:00"
 date = "2015-08-12T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/mercer-street-books", "tags/debbie-sarow", "tags/sidelines"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1439336646332/MercerStreetShelves.png)</p>

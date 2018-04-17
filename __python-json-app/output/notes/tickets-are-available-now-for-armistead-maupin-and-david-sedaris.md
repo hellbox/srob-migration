@@ -1,8 +1,8 @@
 +++
 index = "-Kvo9eLJitMjX_oV1XsJ"
-_sort_create_date = 1507334940
-_sort_last_updated = 1507579140
-_sort_publish_date = 1507575300
+sort_create_date = 1507334940
+sort_last_updated = 1507579140
+sort_publish_date = 1507575300
 create_date = "2017-10-06T17:09:00-07:00"
 publish_date = "2017-10-09T11:55:00-07:00"
 date = "2017-10-09T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507334947348/maup
 twitterauto = "Reminder: Tickets are available now for readings from Armistead Maupin and David Sedaris!"
 facebookauto = "Reminder: Tickets are available now for readings from Armistead Maupin and David Sedaris!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/benaroya-hall"]
-authors_notes = ["authors/david-sedaris"]
+notes_about = ""
 books = ""
 +++
 I'm taking part in a couple of upcoming readings at Benaroya Hall that you might want to consider attending. 

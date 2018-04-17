@@ -1,8 +1,8 @@
 +++
 index = "-KuQGqO7nLYvt2Lqqnkv"
-_sort_create_date = 1505843700
-_sort_last_updated = 1505843700
-_sort_publish_date = 1505848500
+sort_create_date = 1505843700
+sort_last_updated = 1505843700
+sort_publish_date = 1505848500
 create_date = "2017-09-19T10:55:00-07:00"
 publish_date = "2017-09-19T12:15:00-07:00"
 date = "2017-09-19T12:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Matthew Gault [at Motherboard writes](https://motherboard.vice.com/en_us/article/8x8gaa/pepe-the-frogs-creator-lawsuits-dmca-matt-furie-alt-right):

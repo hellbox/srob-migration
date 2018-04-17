@@ -1,8 +1,8 @@
 +++
 index = "-KB3dXEDmMTWFHARjTfM"
-_sort_create_date = 1456071900
-_sort_last_updated = 1456073460
-_sort_publish_date = 1456074000
+sort_create_date = 1456071900
+sort_last_updated = 1456073460
+sort_publish_date = 1456074000
 create_date = "2016-02-21T08:25:00-08:00"
 publish_date = "2016-02-21T09:00:00-08:00"
 date = "2016-02-21T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Five engrossing reads on the Sunday Post today, from @elspethreeve, @ftrain, @kmahaj, @sally_mcgrane & @pauledroberts"
 facebookauto = "Five engrossing reads today, from Tumblr teens to social networks of trees, from Amazon's data to Seattle's luxury skyscrapers. Plenty to get you through morning brunch (and afternoon coffee) in the Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[The Secret Lives of Tumblr Teens](https://newrepublic.com/article/129002/secret-lives-tumblr-teens "The Secret Lives of Tumblr Teens | New Republic")</h5>

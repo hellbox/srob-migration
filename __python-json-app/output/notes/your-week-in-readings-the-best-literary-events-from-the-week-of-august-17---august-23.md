@@ -1,8 +1,8 @@
 +++
 index = "-JwiWVhyHLwgnjGRnV98"
-_sort_create_date = 1439594580
-_sort_last_updated = 1439594580
-_sort_publish_date = 1439830440
+sort_create_date = 1439594580
+sort_last_updated = 1439594580
+sort_publish_date = 1439830440
 create_date = "2015-08-14T16:23:00-07:00"
 publish_date = "2015-08-17T09:54:00-07:00"
 date = "2015-08-17T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Looking for something to do? Here's the best literary event for every day of this week, from today through Sunday."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/university-book-store", "tags/gallery-1412", "tags/seattle-public-library", "tags/nerd-nite"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **MONDAY** Our week starts off with the August edition of [Nerd Nite at Lucid Jazz Lounge](https://www.facebook.com/events/906049242807646/). As with every Nerd Nite, this one features two very different speakers. First up, Marielle Saums will discuss the history of bananas. Then, electrical engineer Krunal Desai, who press materials inform us “bailed on the auto industry to work on spacecraft,” will discuss why modern cars are so difficult to fix but so easy to hack.

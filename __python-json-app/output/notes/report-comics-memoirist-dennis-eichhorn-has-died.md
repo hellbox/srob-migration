@@ -1,8 +1,8 @@
 +++
 index = "-K08JITQZ1v5EuKfOHEU"
-_sort_create_date = 1444339020
-_sort_last_updated = 1444339260
-_sort_publish_date = 1444339020
+sort_create_date = 1444339020
+sort_last_updated = 1444339260
+sort_publish_date = 1444339020
 create_date = "2015-10-08T14:17:00-07:00"
 publish_date = "2015-10-08T14:17:00-07:00"
 date = "2015-10-08T14:17:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Cartoonist J.R. Williams is reporting on Facebook that Northwestern comics memoirist Dennis Eichhorn has died."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comics"]
-authors_notes = ["authors/dennis-eichhorn", "authors/jr-williams"]
+notes_about = ""
 books = ""
 +++
 Cartoonist J.R. Williams [is reporting on Facebook](https://www.facebook.com/photo.php?fbid=10206397492190268&set=a.1901014439207.111658.1057064475&type=3&theater) that Northwestern autobiographical comics writer [Dennis Eichhorn](https://en.wikipedia.org/wiki/Dennis_Eichhorn) has passed away: 

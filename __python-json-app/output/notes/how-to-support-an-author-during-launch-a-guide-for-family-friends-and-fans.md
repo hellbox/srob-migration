@@ -1,8 +1,8 @@
 +++
 index = "-Ky-HTZotRk0j6LHrLCu"
-_sort_create_date = 1509685800
-_sort_last_updated = 1509686280
-_sort_publish_date = 1510254060
+sort_create_date = 1509685800
+sort_last_updated = 1509686280
+sort_publish_date = 1510254060
 create_date = "2017-11-02T22:10:00-07:00"
 publish_date = "2017-11-09T11:01:00-08:00"
 date = "2017-11-09T11:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509685412462/jade
 twitterauto = "So your friend is publishing a book. How can you help? @FondaJLee offers some tips."
 facebookauto = "So your friend is publishing a book. How can you help? Fonda Lee offers some tips."
 make_image_tweet = "False"
-byline = ["writers/fonda-lee"]
+notes_byline = ["writers/fonda-lee"]
 tags_notes = ["tags/writing", "tags/whyiwrite"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1509685804309/jade_city.jpg)</p>

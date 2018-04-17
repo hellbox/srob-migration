@@ -1,8 +1,8 @@
 +++
 index = "-Kn_gOvdx5RR7T_XG98A"
-_sort_create_date = 1498502220
-_sort_last_updated = 1498502640
-_sort_publish_date = 1498503300
+sort_create_date = 1498502220
+sort_last_updated = 1498502640
+sort_publish_date = 1498503300
 create_date = "2017-06-26T11:37:00-07:00"
 publish_date = "2017-06-26T11:55:00-07:00"
 date = "2017-06-26T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Someone is giving away $10,000 to a local fiction writer. Could you be that writer?"
 facebookauto = "Someone is giving away $10,000 to a local fiction writer. Could you be that writer?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/artist-trust", "tags/harry-potter", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Hey, Seattle writers! Please remember to apply for the LaSalle Storyteller Award, a fantastic $10,000 award from Artist Trust that goes to "an individual literary artist working in fiction." This is a lot of cash with very few strings attached, so it's one of the finer fiction prizes in the region. [More information at Artist Trust's site](http://artisttrust.org/index.php/for-artists/grants#gar_lasalle_storyteller_award).

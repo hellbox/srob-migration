@@ -1,8 +1,8 @@
 +++
 index = "-JsiT5jf5gblP1laDBK4"
-_sort_create_date = 1435299660
-_sort_last_updated = 1435299660
-_sort_publish_date = 1435299660
+sort_create_date = 1435299660
+sort_last_updated = 1435299660
+sort_publish_date = 1435299660
 create_date = "2015-06-25T23:21:00-07:00"
 publish_date = "2015-06-25T23:21:00-07:00"
 date = "2015-06-25T23:21:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/XXWL2fD7kcl4B7xHpaWJsp-P_4738lTcai41wiGFKLcW_viKXj7t-zXIkJcJwhVU44e9QHYwn6H7y8PQvl3ua1-MK84"
 url = "/webhook-uploads/1435299648905/9781451673210.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 14576
 
 review_relationship = ["reviews/traveling-light"]
-author_relationship = ["authors/patton-oswalt"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

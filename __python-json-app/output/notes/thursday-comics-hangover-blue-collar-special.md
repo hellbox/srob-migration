@@ -1,8 +1,8 @@
 +++
 index = "-KtFFvUyHbchLy7xumyu"
-_sort_create_date = 1504585140
-_sort_last_updated = 1504585140
-_sort_publish_date = 1505407740
+sort_create_date = 1504585140
+sort_last_updated = 1504585140
+sort_publish_date = 1505407740
 create_date = "2017-09-04T21:19:00-07:00"
 publish_date = "2017-09-14T09:49:00-07:00"
 date = "2017-09-14T09:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504585076563/cust
 twitterauto = "Comics have taken up the blue-collar stories that modern literary fiction has mostly abandoned."
 facebookauto = "Comics have taken up the blue-collar stories that modern literary fiction has mostly abandoned."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/drawn-&amp;-quarterly"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On Labor Day, [I argued that we need more blue-collar novelists](http://www.seattlereviewofbooks.com/notes/2017/09/04/a-labor-day-proposal-lets-create-more-blue-collar-novelists/). The thing that I didn't note in that essay is that there are plenty of contemporary blue-collar cartoonists — not because the comics industry is so forward-thinking but because the comics industry does such a poor job of compensating artists for their work. Unless they're a superstar name or someone who works on a number of different gigs simultaneously, the odds are good that your favorite cartoonist is either A) indepdendently wealthy or B) working multiple angles to make ends meet.

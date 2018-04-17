@@ -1,8 +1,8 @@
 +++
 index = "-KpTFVFRXjjdxOzSYcbX"
-_sort_create_date = 1500524940
-_sort_last_updated = 1500567420
-_sort_publish_date = 1500569940
+sort_create_date = 1500524940
+sort_last_updated = 1500567420
+sort_publish_date = 1500569940
 create_date = "2017-07-19T21:29:00-07:00"
 publish_date = "2017-07-20T09:59:00-07:00"
 date = "2017-07-20T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500524815082/geng
 twitterauto = "To celebrate  #SDCC2017, here are 7 comics we look forward to reading every month."
 facebookauto = "To celebrate San Diego Comic Con, here are seven comics we look forward to reading every month."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/g-willow-wilson", "authors/brian-k-vaughan"]
+notes_about = ""
 books = ""
 +++
 A considerable portion of Seattle’s comic book talent is in San Diego this week at the corporate pop cultural orgy known as San Diego Comic Con. It makes sense to take stock of comic culture at this time of year, because it’s the closest thing to a High Holy Days in the nerd calendar year. Look anywhere on the internet right now and you’ll probably find an equal share of breathless odes to SDCC and vicious takedowns of everything having to do with the crass commercialism of nerd culture. 

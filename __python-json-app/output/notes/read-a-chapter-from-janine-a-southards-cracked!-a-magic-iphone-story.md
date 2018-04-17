@@ -1,8 +1,8 @@
 +++
 index = "-JvnyF0GpzWcqQOFqGPL"
-_sort_create_date = 1438612200
-_sort_last_updated = 1438612260
-_sort_publish_date = 1438612260
+sort_create_date = 1438612200
+sort_last_updated = 1438612260
+sort_publish_date = 1438612260
 create_date = "2015-08-03T07:30:00-07:00"
 publish_date = "2015-08-03T07:31:00-07:00"
 date = "2015-08-03T07:31:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/janine-a-southard"]
+notes_about = ""
 books = ["books/cracked!-a-magic-iphone-story"]
 +++
 Our sincerest thanks to Janine A. Southard for sponsoring _The Seattle Review of Books_ this week. 

@@ -1,8 +1,8 @@
 +++
 index = "-KihiXdiJ_EJm4LrF4Jz"
-_sort_create_date = 1493268300
-_sort_last_updated = 1493270520
-_sort_publish_date = 1493318700
+sort_create_date = 1493268300
+sort_last_updated = 1493270520
+sort_publish_date = 1493318700
 create_date = "2017-04-26T21:45:00-07:00"
 publish_date = "2017-04-27T11:45:00-07:00"
 date = "2017-04-27T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/george-saunders"]
+notes_about = ""
 books = ""
 +++
 I don't know how *Clickhole* roped him into this, but I'm really glad that they did.

@@ -1,8 +1,8 @@
 +++
 index = "-KaQdveCNygSAnaNQ5lt"
-_sort_create_date = 1484375160
-_sort_last_updated = 1484375160
-_sort_publish_date = 1486580460
+sort_create_date = 1484375160
+sort_last_updated = 1484375160
+sort_publish_date = 1486580460
 create_date = "2017-01-13T22:26:00-08:00"
 publish_date = "2017-02-08T11:01:00-08:00"
 date = "2017-02-08T11:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484374933163/51yZ
 twitterauto = "Here are five books we can't wait to read this spring."
 facebookauto = "Here are five books by Seattle-area authors that we can't wait to read this spring."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/robert-lashley"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1484374933163/51yZ7I5xCmL._SX326_BO1%2C204%2C203%2C200_.jpg)</p>

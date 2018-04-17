@@ -1,8 +1,8 @@
 +++
 index = "-KSYDMsGhAL0SJWDGXzq"
-_sort_create_date = 1474838460
-_sort_last_updated = 1474838460
-_sort_publish_date = 1474838460
+sort_create_date = 1474838460
+sort_last_updated = 1474838460
+sort_publish_date = 1474838460
 create_date = "2016-09-25T14:21:00-07:00"
 publish_date = "2016-09-25T14:21:00-07:00"
 date = "2016-09-25T14:21:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DGc6N84YrXie-ERuc-F5IKwPjhwuoCwsesLD2rdXB68kXcNQTZFdjUQ79QhHfeJGasC0_fw54yxrh4vKK0awubVvxevC"
 url = "/webhook-uploads/1474838319193/cantidates.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 50814
 
 review_relationship = ["reviews/out-of-the-running"]
-author_relationship = ["authors/craig-tomashoff"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

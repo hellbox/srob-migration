@@ -1,8 +1,8 @@
 +++
 index = "-L80jDKt0xaFs54ijPX_"
-_sort_create_date = 1521521280
-_sort_last_updated = 1521521280
-_sort_publish_date = 1521521280
+sort_create_date = 1521521280
+sort_last_updated = 1521521280
+sort_publish_date = 1521521280
 create_date = "2018-03-19T21:48:00-07:00"
 publish_date = "2018-03-19T21:48:00-07:00"
 date = "2018-03-19T21:48:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HoBShGNc0zCjQDXw0k9RLIR3lvSdx0FDDM3vABisC33lwpQoUDbgIaVTmaGec6mhbZXL8mdR7F8MMyk7-mC3FtbqNvgA"
 url = "/webhook-uploads/1521521250849/bhopaldance.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 41953
 
 review_relationship = ["reviews/never-forget-never-forgive"]
-author_relationship = ["authors/jennifer-natalya-fink"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

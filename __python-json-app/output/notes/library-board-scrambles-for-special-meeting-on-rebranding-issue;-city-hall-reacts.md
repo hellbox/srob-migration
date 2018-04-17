@@ -1,8 +1,8 @@
 +++
 index = "-K1XFUG6oN5FP_a-jAue"
-_sort_create_date = 1445831220
-_sort_last_updated = 1445967960
-_sort_publish_date = 1445878740
+sort_create_date = 1445831220
+sort_last_updated = 1445967960
+sort_publish_date = 1445878740
 create_date = "2015-10-25T20:47:00-07:00"
 publish_date = "2015-10-26T09:59:00-07:00"
 date = "2015-10-26T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/laurel-holliday"]
+notes_byline = ["writers/laurel-holliday"]
 tags_notes = ["tags/seattle-public-library", "tags/libraries"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">_Update: 10:57am. Following the post is an email update from Seattle Public Library's Director of Communications, Andra Addison_.</p>

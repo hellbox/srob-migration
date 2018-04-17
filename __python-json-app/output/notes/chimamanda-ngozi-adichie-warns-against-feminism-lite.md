@@ -1,8 +1,8 @@
 +++
 index = "-KUoiEgjJpmWZtBT0PXC"
-_sort_create_date = 1477279500
-_sort_last_updated = 1477328400
-_sort_publish_date = 1477337460
+sort_create_date = 1477279500
+sort_last_updated = 1477328400
+sort_publish_date = 1477337460
 create_date = "2016-10-23T20:25:00-07:00"
 publish_date = "2016-10-24T12:31:00-07:00"
 date = "2016-10-24T12:31:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Unless you follow Chimamanda Ngozi Adichie on Facebook, you probably haven't read this essay."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/feminism"]
-authors_notes = ["authors/chimamanda-ngozi-adichie"]
+notes_about = ""
 books = ""
 +++
 Time was, you just had to keep your eye on a few New York publications in order to see if there was any new writing from the top authors in the country. Now, thankfully, there are infinitely more outlets available. Case in point: earlier this month, Chimamanda Ngozi Adichie published a great essay about the state of feminism on her Facebook page, and it's slowly been making the rounds ever since. It's kind of a bomb-throwing piece:

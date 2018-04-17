@@ -1,8 +1,8 @@
 +++
 index = "-K2AvNZwwQW74Bav4PgD"
-_sort_create_date = 1446530340
-_sort_last_updated = 1446580380
-_sort_publish_date = 1446573300
+sort_create_date = 1446530340
+sort_last_updated = 1446580380
+sort_publish_date = 1446573300
 create_date = "2015-11-02T21:59:00-08:00"
 publish_date = "2015-11-03T09:55:00-08:00"
 date = "2015-11-03T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Tuesday Poem is by Felicia Gonzolez: \"why a Cuban living in the NW isn\u2019t going to write about rain or salmon\""
 facebookauto = "Felicia Gonzolez is the author of our Tuesday Poem, titled \"why a Cuban living in the NW isn\u2019t going to write about rain or salmon\""
 make_image_tweet = ""
-byline = ["writers/felicia-gonzalez"]
+notes_byline = ["writers/felicia-gonzalez"]
 tags_notes = ["tags/tuesday-poem", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 right off &mdash; there’s already enough rain<br>

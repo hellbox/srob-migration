@@ -1,8 +1,8 @@
 +++
 index = "-KV1s1XC17Np0p4iRXda"
-_sort_create_date = 1477516980
-_sort_last_updated = 1477516980
-_sort_publish_date = 1477592580
+sort_create_date = 1477516980
+sort_last_updated = 1477516980
+sort_publish_date = 1477592580
 create_date = "2016-10-26T14:23:00-07:00"
 publish_date = "2016-10-27T11:23:00-07:00"
 date = "2016-10-27T11:23:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our co-founders will be taking part in events @THSEA and @PhinneyBooks tomorrow night. Join us!"
 facebookauto = "Need help with your ballot? Looking to mourn a great book as it's shipped off to the Valhalla of remaindered titles? The Seattle Review of Books has you covered on Friday night in two great events\u2014one at Town Hall, and the other at Phinney Books."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-review-of-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Tomorrow night, you'll have two opportunities to see the co-founders of the *Seattle Review of Books* in public events.

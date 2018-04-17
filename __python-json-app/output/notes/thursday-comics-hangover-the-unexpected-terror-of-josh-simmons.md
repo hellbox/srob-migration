@@ -1,8 +1,8 @@
 +++
 index = "-L9nMb54ZRZYo-wdkQUT"
-_sort_create_date = 1523427720
-_sort_last_updated = 1523427720
-_sort_publish_date = 1523552220
+sort_create_date = 1523427720
+sort_last_updated = 1523427720
+sort_publish_date = 1523552220
 create_date = "2018-04-10T23:22:00-07:00"
 publish_date = "2018-04-12T09:57:00-07:00"
 date = "2018-04-12T09:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523425624310/flay
 twitterauto = "This Saturday @FantaBookstore, immerse yourself in the creepy horror of Josh Simmons."
 facebookauto = "This Saturday at the Fantagraphics Bookstore and Gallery, the creepy horror of Josh Simmons will be unleashed on the world."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/tom-van-deusen", "authors/eroyn-franklin", "authors/ben-horak"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1523425624310/flayed-corpse-cover.png)</p>

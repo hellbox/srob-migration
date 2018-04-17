@@ -1,8 +1,8 @@
 +++
 index = "-JyKShCdnooG1qtACq8T"
-_sort_create_date = 1441321620
-_sort_last_updated = 1441321620
-_sort_publish_date = 1441321620
+sort_create_date = 1441321620
+sort_last_updated = 1441321620
+sort_publish_date = 1441321620
 create_date = "2015-09-03T16:07:00-07:00"
 publish_date = "2015-09-03T16:07:00-07:00"
 date = "2015-09-03T16:07:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're cautiously optimistic about the relaunch of the Evergreen Review from @orbooks."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/or-books", "tags/evergreen"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 John Oakes, the publisher of OR Books, [announced that](http://us2.campaign-archive2.com/?u=6180a1909cdc59a9df25c1a94&id=ef3139c48a) he's teaming up with novelist Dale Peck to relaunch the *Evergreen Review*, an influential literary magazine that Oakes describes as "a plugged-in toaster thrown into the placid pool of culture." *Evergreen* will reappear as a line of books republishing the best of past *Evergreen* authors (the debut books are by Marguerite Duras, Samuel Beckett and Kenzaburō Ōe) and also as [a relaunched magazine](http://www.evergreenreview.com/) that will be "free of charge in an online-only format," featuring "fiction, nonfiction, and poetry from an international array of new and established writers."

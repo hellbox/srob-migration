@@ -1,8 +1,8 @@
 +++
 index = "-KLV1QBGxzGgdV1wbWX3"
-_sort_create_date = 1467268800
-_sort_last_updated = 1467268800
-_sort_publish_date = 1467309660
+sort_create_date = 1467268800
+sort_last_updated = 1467268800
+sort_publish_date = 1467309660
 create_date = "2016-06-29T23:40:00-07:00"
 publish_date = "2016-06-30T11:01:00-07:00"
 date = "2016-06-30T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Beloved Seattle librarian @Nancy_Pearl will be publishing her debut novel next year."
 facebookauto = "Beloved Seattle librarian Nancy Pearl will be publishing her debut novel next year. Did anyone even know she was writing a novel? This is very exciting!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/novel"]
-authors_notes = ["authors/nancy-pearl"]
+notes_about = ""
 books = ""
 +++
 So far as I know, Seattle's most beloved librarian/action-figure-model has never even publicly talked about a desire to write fiction. According to [the announcement](http://www.victoriasanders.com/librarian-nancy-pearl-s-debut-novel-sold-to-touchstone), Pearl's debut novel, *George and Lizzie*, is about a married couple that has....

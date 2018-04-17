@@ -1,8 +1,8 @@
 +++
 index = "-L7DNWF4trjYmD0koGkM"
-_sort_create_date = 1520659680
-_sort_last_updated = 1520660280
-_sort_publish_date = 1520703000
+sort_create_date = 1520659680
+sort_last_updated = 1520660280
+sort_publish_date = 1520703000
 create_date = "2018-03-09T21:28:00-08:00"
 publish_date = "2018-03-10T09:30:00-08:00"
 date = "2018-03-10T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520659655808/mari
 twitterauto = "Hey there @mariskreizman, whatcha reading?"
 facebookauto = "Hey Maris Kreizman, whatcha reading?"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/whatcha-reading"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week we ask an interesting figure what they're digging into. Have ideas who we should reach out to? Let it fly: [info@seattlereviewofbooks.com](mailto:info@seattlereviewofbooks.com). Want to read more? Check out the [archives](http://www.seattlereviewofbooks.com/tags/whatcha-reading).</p>

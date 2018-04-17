@@ -1,8 +1,8 @@
 +++
 index = "-K2TBJR-fPodYsFHV_xb"
-_sort_create_date = 1446836760
-_sort_last_updated = 1446836880
-_sort_publish_date = 1446836760
+sort_create_date = 1446836760
+sort_last_updated = 1446836880
+sort_publish_date = 1446836760
 create_date = "2015-11-06T11:06:00-08:00"
 publish_date = "2015-11-06T11:06:00-08:00"
 date = "2015-11-06T11:06:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446836379087/imgr
 twitterauto = "In this week's Help Desk, @ciennam explains how pacifist book-lovers should protest Amazon's bookstore."
 facebookauto = "Our advice columnist tackles a question that's on a lot of book-lovers' minds this week: what is the most effective way to protest Amazon's new brick-and-mortar bookstore?"
 make_image_tweet = ""
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/amazon-books", "tags/pacifism", "tags/protest"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

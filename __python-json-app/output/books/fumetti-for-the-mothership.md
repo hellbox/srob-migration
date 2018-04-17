@@ -1,8 +1,8 @@
 +++
 index = "-KtUZSNsPmPW5J32hPAS"
-_sort_create_date = 1504841940
-_sort_last_updated = 1504841940
-_sort_publish_date = 1504841940
+sort_create_date = 1504841940
+sort_last_updated = 1504841940
+sort_publish_date = 1504841940
 create_date = "2017-09-07T20:39:00-07:00"
 publish_date = "2017-09-07T20:39:00-07:00"
 date = "2017-09-07T20:39:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cClydRTavQQExItXrCztRQIfBK2TASidQb392Sa76IEETshsN2rv617ba3SW2c49Ltk2Wqm4S6tKitfMOfujkOl5vAo"
 url = "/webhook-uploads/1504841739891/fumetti%2Bstill.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 596581
 
 review_relationship = ["reviews/the-line-between-you-and-me"]
-author_relationship = ["authors/colleen-louise-barry", "authors/stephanie-passantino"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

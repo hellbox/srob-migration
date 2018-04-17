@@ -1,8 +1,8 @@
 +++
 index = "-KRnp1lf0uiSXE3kWFgY"
-_sort_create_date = 1474043280
-_sort_last_updated = 1474050840
-_sort_publish_date = 1474046880
+sort_create_date = 1474043280
+sort_last_updated = 1474050840
+sort_publish_date = 1474046880
 create_date = "2016-09-16T09:28:00-07:00"
 publish_date = "2016-09-16T10:28:00-07:00"
 date = "2016-09-16T10:28:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This post was almost a tweetstorm. Support our writers in their choices to not tweetstorm by reading it."
 facebookauto = "This post was almost a tweetstorm. Support our writers in their choices to not tweetstorm by reading  it."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/politics", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 When I was young I worked at a vegetarian restaurant, The Morningtown, which ironically, opened on the day I was born. Ironic, because working there was kind of a birth of my adult self from my teenage self. I learned a lot.

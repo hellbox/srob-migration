@@ -1,8 +1,8 @@
 +++
 index = "-KRUyCrOvCzkxH7fFCBr"
-_sort_create_date = 1473710160
-_sort_last_updated = 1473710280
-_sort_publish_date = 1473710160
+sort_create_date = 1473710160
+sort_last_updated = 1473710280
+sort_publish_date = 1473710160
 create_date = "2016-09-12T12:56:00-07:00"
 publish_date = "2016-09-12T12:56:00-07:00"
 date = "2016-09-12T12:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor Barbara E Geary is showing her book \"I Can Speak Medical!\u201d, an introduction to the language of medicine."
 facebookauto = "Sponsor Barbara E Geary is here to show her book \"I Can Speak Medical!\", an introduction to the language of medicine. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor Barbara E Geary is here to introduce you to her book _I Can Speak Medical!_, a light and fun introduction to medical terms and speak. Geary was a professional registered nurse, and taught an Introduction to Medical Vocabulary class. She brings that expertise to her great book. 

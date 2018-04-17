@@ -1,8 +1,8 @@
 +++
 index = "-KWfR2iTjw7Da_3JPzL5"
-_sort_create_date = 1479271260
-_sort_last_updated = 1479361020
-_sort_publish_date = 1479412800
+sort_create_date = 1479271260
+sort_last_updated = 1479361020
+sort_publish_date = 1479412800
 create_date = "2016-11-15T20:41:00-08:00"
 publish_date = "2016-11-17T12:00:00-08:00"
 date = "2016-11-17T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We are thrilled to announce our new monthly column on SFFH by @nisishawl, the Future Alternative Past."
 facebookauto = "We are thrilled to announce our new monthly column on science fiction, fantasy, and horror, by Nisi Shawl, the Future Alternative Past."
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">New column! New Every month, Nisi Shawl is going to present us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. Welcome Nisi!</p>

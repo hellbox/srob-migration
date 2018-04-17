@@ -1,8 +1,8 @@
 +++
 index = "-L-ZqSlLWK5Gk1J00R91"
-_sort_create_date = 1512446760
-_sort_last_updated = 1514311800
-_sort_publish_date = 1513706100
+sort_create_date = 1512446760
+sort_last_updated = 1514311800
+sort_publish_date = 1513706100
 create_date = "2017-12-04T20:06:00-08:00"
 publish_date = "2017-12-19T09:55:00-08:00"
 date = "2017-12-19T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512449286494/Scre
 twitterauto = "This week's poem from Poet in Residence @writer_sejones is called \"Therapy\""
 facebookauto = "This week's poem from Poet in Residence Sarah Jones is called \"Therapy\""
 make_image_tweet = "False"
-byline = ["writers/sarah-jones"]
+notes_byline = ["writers/sarah-jones"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I tell my therapist that I do not want to cry<br>

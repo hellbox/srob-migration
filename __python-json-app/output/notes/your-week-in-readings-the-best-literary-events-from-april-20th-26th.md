@@ -1,8 +1,8 @@
 +++
 index = "-KFRN4n5RIIILxTLrApE"
-_sort_create_date = 1460764920
-_sort_last_updated = 1460933160
-_sort_publish_date = 1461170700
+sort_create_date = 1460764920
+sort_last_updated = 1460933160
+sort_publish_date = 1461170700
 create_date = "2016-04-15T17:02:00-07:00"
 publish_date = "2016-04-20T09:45:00-07:00"
 date = "2016-04-20T09:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460933036832/2016
 twitterauto = "Our picks for best literary events of the week are right here:"
 facebookauto = "Our picks for best literary events from April 20th-26th include a sci-fi thriller, a bunch of pot-themed happenings with David Schmader, and a big Fantagraphics comics party in Georgetown."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house", "tags/town-hall-seattle", "tags/queen-anne-book-company"]
-authors_notes = ["authors/david-schmader"]
+notes_about = ""
 books = ["books/weed-the-users-guide"]
 +++
 <p class="noindent"><h5>**Wednesday April 20: David Schmader  **</h5></p>

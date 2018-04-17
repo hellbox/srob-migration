@@ -1,8 +1,8 @@
 +++
 index = "-JwtSKlwAvm0ZYX6BQTx"
-_sort_create_date = 1439778000
-_sort_last_updated = 1439778060
-_sort_publish_date = 1439925000
+sort_create_date = 1439778000
+sort_last_updated = 1439778060
+sort_publish_date = 1439925000
 create_date = "2015-08-16T19:20:00-07:00"
 publish_date = "2015-08-18T12:10:00-07:00"
 date = "2015-08-18T12:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Is it possible for a book to be over-produced? Is there anywhere to get good Turkish food in Seattle? Yes and yes."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date"]
-authors_notes = ["authors/boots-riley"]
+notes_about = ""
 books = ["books/boots-riley"]
 +++
 <p class="intro">(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)</p>

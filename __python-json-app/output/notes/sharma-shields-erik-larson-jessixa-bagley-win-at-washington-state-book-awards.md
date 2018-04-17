@@ -1,8 +1,8 @@
 +++
 index = "-KTju3jRwGpbLwLx0816"
-_sort_create_date = 1476124980
-_sort_last_updated = 1476124980
-_sort_publish_date = 1476124980
+sort_create_date = 1476124980
+sort_last_updated = 1476124980
+sort_publish_date = 1476124980
 create_date = "2016-10-10T11:43:00-07:00"
 publish_date = "2016-10-10T11:43:00-07:00"
 date = "2016-10-10T11:43:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Erik Larson, Sharma Shields, and other writers won at the Washington State Book Awards this weekend."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/washington-state-book-awards"]
-authors_notes = ["authors/erik-larson", "authors/jessixa-bagley"]
+notes_about = ""
 books = ""
 +++
 Over the weekend, Spokane author Sharma Shields and Seattle authors Erik Larson and Jessixa Bagley won big at the Washington State Book Awards. St. Louis poet Carl Phillips, who was [born in Washington but has not lived in Washington state for decades](http://www.seattlereviewofbooks.com/notes/2016/09/19/why-does-carl-phillips-need-the-washington-state-book-award/), also won. (Here's hoping the Washington Center for the Book at the Seattle Public Library updates the rules to ensure to favor Washington writers in the future.) [Moira Macdonald at the *Seattle Times*](http://www.seattletimes.com/entertainment/books/dead-wake-sasquatch-hunters-almanac-top-washington-state-book-awards/) has a list of all the winners.

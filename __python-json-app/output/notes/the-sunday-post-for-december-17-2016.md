@@ -1,8 +1,8 @@
 +++
 index = "-KZEo1poo03iL3KE8s1m"
-_sort_create_date = 1482028980
-_sort_last_updated = 1482044940
-_sort_publish_date = 1482082200
+sort_create_date = 1482028980
+sort_last_updated = 1482044940
+sort_publish_date = 1482082200
 create_date = "2016-12-17T18:43:00-08:00"
 publish_date = "2016-12-18T09:30:00-08:00"
 date = "2016-12-18T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It\u2019s the Sunday Post holiday cheer edition! (If you consider climate change, economic theory, and birdsong cheerful)"
 facebookauto = "It\u2019s the Sunday Post holiday cheer edition! (If you consider climate change, economic theory, and birdsong cheerful)"
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="https://www.theatlantic.com/magazine/archive/2017/01/my-president-was-black/508793/" title="My President Was Black:

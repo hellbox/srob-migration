@@ -1,8 +1,8 @@
 +++
 index = "-KALlZTRqys7ENiHeqVC"
-_sort_create_date = 1455302220
-_sort_last_updated = 1455302280
-_sort_publish_date = 1455310980
+sort_create_date = 1455302220
+sort_last_updated = 1455302280
+sort_publish_date = 1455310980
 create_date = "2016-02-12T10:37:00-08:00"
 publish_date = "2016-02-12T13:03:00-08:00"
 date = "2016-02-12T13:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes #1000BlackGirlsBooks, a history of the Seattle Black Panthers, and more."
 facebookauto = "Today's Book News Roundup includes #1000BlackGirlsBooks, a history of the Seattle Black Panthers, and more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/1000blackgirlsbooks", "tags/seattle-public-library", "tags/education"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * We [told you a couple weeks ago](http://seattlereviewofbooks.com/notes/2016/01/27/book-news-roundup-the-diversity-in-publishing-edition/) about Marley Dias, the student who, "sick of reading about white boys and dogs," launched the #1000BlackGirlsBooks hashtag. Now, [according to Vox](http://www.vox.com/2016/2/12/10978772/marley-dias-1000blackgirlbooks-diversity), Dias's mission is complete: She has collected 1000 books featuring black girls as main characters, and is donating them to libraries in her school and to an elementary school in Jamaica. Here is Dias on *The Nightly Show with Larry Wilmore*, discussing her project:

@@ -1,8 +1,8 @@
 +++
 index = "-Jvyw62AoyycUO4Lba5q"
-_sort_create_date = 1438796220
-_sort_last_updated = 1440222180
-_sort_publish_date = 1438887840
+sort_create_date = 1438796220
+sort_last_updated = 1440222180
+sort_publish_date = 1438887840
 create_date = "2015-08-05T10:37:00-07:00"
 publish_date = "2015-08-06T12:04:00-07:00"
 date = "2015-08-06T12:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/instant-future", "tags/video-games"]
-authors_notes = ["authors/john-cheever", "authors/matthew-simmons"]
+notes_about = ""
 books = ""
 +++
 Matthew Simmons, the local author and publisher of Instant Future, an e-novella imprint of Future Tense Press, has figured out a way to re-enact an American short story classic in *Grand Theft Auto*:

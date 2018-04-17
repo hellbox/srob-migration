@@ -1,8 +1,8 @@
 +++
 index = "-KLrc3KnwL1KOCrEZMd8"
-_sort_create_date = 1467664560
-_sort_last_updated = 1467669840
-_sort_publish_date = 1467737700
+sort_create_date = 1467664560
+sort_last_updated = 1467669840
+sort_publish_date = 1467737700
 create_date = "2016-07-04T13:36:00-07:00"
 publish_date = "2016-07-05T09:55:00-07:00"
 date = "2016-07-05T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is \"The Blink Reflex\", by Rick Barot."
 facebookauto = "Our Tuesday Poem is \"The Blink Reflex\", by Rick Barot."
 make_image_tweet = "False"
-byline = ["writers/rick-barot"]
+notes_byline = ["writers/rick-barot"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I have this notion that if you live long enough,<br>

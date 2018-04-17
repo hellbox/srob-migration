@@ -1,8 +1,8 @@
 +++
 index = "-KwEGQlCwOvd4gFHj0zm"
-_sort_create_date = 1507789740
-_sort_last_updated = 1507789740
-_sort_publish_date = 1508267700
+sort_create_date = 1507789740
+sort_last_updated = 1507789740
+sort_publish_date = 1508267700
 create_date = "2017-10-11T23:29:00-07:00"
 publish_date = "2017-10-17T12:15:00-07:00"
 date = "2017-10-17T12:15:00-07:00"
@@ -13,10 +13,10 @@ title = "Going steady"
 dek = "Tara Atkinson's new book is about a nameless woman who dates faceless men."
 facebookauto = "Tara Atkinson's new book is a tragic comedy or a comic tragedy about boyfriends."
 twitterauto = "The new novella from @t_m_at is a tragic comedy or a comic tragedy about boyfriends."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/boyfriends"]
 tags_reviews = ["tags/fiction"]
-authors_reviews = ["authors/tara-atkinson"]
+reviews_about = ""
 +++
 
 “I have a boyfriend.”

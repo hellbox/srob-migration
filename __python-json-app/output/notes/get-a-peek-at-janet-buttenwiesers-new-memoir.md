@@ -1,8 +1,8 @@
 +++
 index = "-L7lAGj7OG7lyu6zuRLN"
-_sort_create_date = 1521243420
-_sort_last_updated = 1521244980
-_sort_publish_date = 1521489600
+sort_create_date = 1521243420
+sort_last_updated = 1521244980
+sort_publish_date = 1521489600
 create_date = "2018-03-16T16:37:00-07:00"
 publish_date = "2018-03-19T13:00:00-07:00"
 date = "2018-03-19T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1521243414306/
 twitterauto = "Check out sponsor @jabuttenwieser's memoir GUTS, then head to @ElliottBayBooks on March 31 to hear her read."
 facebookauto = "Check out the prologue to sponsor Janet Buttenwieser's memoir GUTS, then head to Elliott Bay Books on March 31 to hear her read."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ""
-authors_notes = ["authors/janet-buttenwieser"]
+notes_about = ""
 books = ["books/guts"]
 +++
 <p class="image-left">![](/webhook-uploads/1521243372974/GUTS_150.jpeg)</p>Published barely a month ago, local writer Janet Buttenwieser's memoir *GUTS* is perfectly in season. The story of her double loss — a significant hit to her health, the devastating loss of a friend — *GUTS* is about persistence, resilience, and renewal, a few things we all need right now. It's also about that most Seattle-y sport possible, the triathlon, and using physical endurance to endure emotional challenges. And it's a delight to read: clear, funny, self-reflective.

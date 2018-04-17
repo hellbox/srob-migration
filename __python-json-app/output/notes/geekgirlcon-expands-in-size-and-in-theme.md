@@ -1,8 +1,8 @@
 +++
 index = "-KBkR9YDyJMEeppoFPeK"
-_sort_create_date = 1456806600
-_sort_last_updated = 1456806600
-_sort_publish_date = 1456867740
+sort_create_date = 1456806600
+sort_last_updated = 1456806600
+sort_publish_date = 1456867740
 create_date = "2016-02-29T20:30:00-08:00"
 publish_date = "2016-03-01T13:29:00-08:00"
 date = "2016-03-01T13:29:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This year, @GeekGirlCon is expanding in a big way."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/geekgirlcon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 GeekGirlCon [announced that they're expanding their 2016 show](http://geekgirlcon.com/geekgirlcon-2016-more-space-for-every-geek-everybody/) to include the fourth floor of the Washington State Convention Center, which will give the sci-fi convention a lot more space for its programs and exhibitors. And the theme of this year's show is "Every Geek, Everybody," striking an inclusive tone for the bigger-than-ever show. GeekGirlCon takes place on October 8th and 9th this year; [you can buy tickets here](http://www.brownpapertickets.com/event/2426480z).

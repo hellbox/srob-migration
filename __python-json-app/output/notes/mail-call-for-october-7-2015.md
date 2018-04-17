@@ -1,8 +1,8 @@
 +++
 index = "-K03VD4iF-nI6fCh6F2g"
-_sort_create_date = 1444258260
-_sort_last_updated = 1444258260
-_sort_publish_date = 1444258260
+sort_create_date = 1444258260
+sort_last_updated = 1444258260
+sort_publish_date = 1444258260
 create_date = "2015-10-07T15:51:00-07:00"
 publish_date = "2015-10-07T15:51:00-07:00"
 date = "2015-10-07T15:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444258201957/IMG_
 twitterauto = ""
 facebookauto = "Some amazing picks in today's bursting-at-the-seems mail call."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1444258201957/IMG_0221.jpg)</p>

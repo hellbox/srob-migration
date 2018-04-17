@@ -1,8 +1,8 @@
 +++
 index = "-KK5lJbhsF9NhlrRemk2"
-_sort_create_date = 1465771140
-_sort_last_updated = 1465771260
-_sort_publish_date = 1465837140
+sort_create_date = 1465771140
+sort_last_updated = 1465771260
+sort_publish_date = 1465837140
 create_date = "2016-06-12T15:39:00-07:00"
 publish_date = "2016-06-13T09:59:00-07:00"
 date = "2016-06-13T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465770857811/TPBS
 twitterauto = "An interview with @ThirdPlaceBooks Seward Park manager Eric McDaniel."
 facebookauto = "Here's a talk with Third Place Books Seward Park manager Eric McDaniel about leaving room to grow in his new bookstore."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1465770857811/TPBSP4.JPG)</p>

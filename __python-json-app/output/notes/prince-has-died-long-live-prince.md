@@ -1,8 +1,8 @@
 +++
 index = "-KFtvW2grYobh96gMMmK"
-_sort_create_date = 1461260760
-_sort_last_updated = 1461260880
-_sort_publish_date = 1461260760
+sort_create_date = 1461260760
+sort_last_updated = 1461260880
+sort_publish_date = 1461260760
 create_date = "2016-04-21T10:46:00-07:00"
 publish_date = "2016-04-21T10:46:00-07:00"
 date = "2016-04-21T10:46:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Prince has died. Long live Prince."
 facebookauto = "Prince has died. Long live Prince."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/prince"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pop music superstar Prince has died at age 57 at his suburban Minneapolis estate, publicist says - AP, TMZ <a href="https://t.co/utQK8CSrUJ">https://t.co/utQK8CSrUJ</a></p>&mdash; Breaking News (@BreakingNews) <a href="https://twitter.com/BreakingNews/status/723197524627075072">April 21, 2016</a></blockquote>

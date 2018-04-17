@@ -1,8 +1,8 @@
 +++
 index = "-KufWhpFw7EC1yRla9Tg"
-_sort_create_date = 1506116280
-_sort_last_updated = 1506117720
-_sort_publish_date = 1506358620
+sort_create_date = 1506116280
+sort_last_updated = 1506117720
+sort_publish_date = 1506358620
 create_date = "2017-09-22T14:38:00-07:00"
 publish_date = "2017-09-25T09:57:00-07:00"
 date = "2017-09-25T09:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506115838899/worl
 twitterauto = "Franklin Foer reads @elliottbaybooks on Wednesday! We talked with him about the problem with Big Tech."
 facebookauto = "Franklin Foer reads at Elliott Bay Book Company on Wednesday. His book World Without Mind is the first essential book of the fall. We asked him why Big Tech is ruining thoughtfulness and consideration."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/amazon", "tags/google", "tags/facebook"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Franklin Foer’s *World Without Mind* is a must-read book of the fall season. Subtitled *The Existential Threat of Big Tech*, *World* is a full-frontal assault on the fallacious idea that the big four tech companies that shape our world — Google, Amazon, Facebook, and Apple — are benevolent firms that have the advancement of humanity in mind.</p>

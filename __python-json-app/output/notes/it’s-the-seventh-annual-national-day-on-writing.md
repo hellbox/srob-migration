@@ -1,8 +1,8 @@
 +++
 index = "-K169wW_CAmmbgAANL1W"
-_sort_create_date = 1445376780
-_sort_last_updated = 1445377560
-_sort_publish_date = 1445376780
+sort_create_date = 1445376780
+sort_last_updated = 1445377560
+sort_publish_date = 1445376780
 create_date = "2015-10-20T14:33:00-07:00"
 publish_date = "2015-10-20T14:33:00-07:00"
 date = "2015-10-20T14:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/writing", "tags/whyiwrite"]
-authors_notes = ["authors/cat-rambo", "authors/elise-blackwell"]
+notes_about = ""
 books = ""
 +++
 Every October 20th a coalition of partners like the _New York Times_, the [_National Writing Project_](http://www.nwp.org/cs/public/print/events/878?x-t=sites_eos.view), the [_National Council of Teachers of English_](http://www.ncte.org/dayonwriting), and the [_Teaching Channel_](https://www.teachingchannel.org/blog/2015/10/07/whyiwrite/) come together to encourage writing. They want you to hashtag: [#WhyIWrite](https://twitter.com/search?q=%23WhyIWrite&src=tyah). 

@@ -1,8 +1,8 @@
 +++
 index = "-KPMSMshu3UKxb0wraQ5"
-_sort_create_date = 1471419840
-_sort_last_updated = 1471419840
-_sort_publish_date = 1471464900
+sort_create_date = 1471419840
+sort_last_updated = 1471419840
+sort_publish_date = 1471464900
 create_date = "2016-08-17T00:44:00-07:00"
 publish_date = "2016-08-17T13:15:00-07:00"
 date = "2016-08-17T13:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Barnes & Noble and their CEO parted ways. Yes, again."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/barnes-&amp;-noble"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This is not the first time [this has happened](http://deadline.com/2016/08/barnes-noble-fires-ceo-ronald-boire-not-good-fit-1201804473/):

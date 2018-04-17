@@ -1,8 +1,8 @@
 +++
 index = "-Kfm_5Zf6GAmNRka6b5X"
-_sort_create_date = 1490128440
-_sort_last_updated = 1490131560
-_sort_publish_date = 1490128440
+sort_create_date = 1490128440
+sort_last_updated = 1490131560
+sort_publish_date = 1490128440
 create_date = "2017-03-21T13:34:00-07:00"
 publish_date = "2017-03-21T13:34:00-07:00"
 date = "2017-03-21T13:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "ZAPP 's statement: \"it is important that we make it clear: we did not give up the archive, it was taken from us.\""
 facebookauto = "ZAPP just issued a statement on their zine library collections: \"it is important that we make it clear: we did not give up the archive, it was taken from us.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/zapp", "tags/hugo-house", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Just got an email from the Zine Archive and Publishing Project's Managing Director, Graham Isaac [regarding ZAPP's closure](http://www.seattlereviewofbooks.com/notes/2017/03/21/zine-archive-publishing-project-to-fold-collection-to-go-to-seattle-public-library/). It's billed as an "Official PR statement." We're reprinting the statement in its entirety, using their bolds. There has been one update to the statement, which I detail below in an update on this post.

@@ -1,8 +1,8 @@
 +++
 index = "-Ko3tfm3aCSKre1x9itr"
-_sort_create_date = 1499025780
-_sort_last_updated = 1499274300
-_sort_publish_date = 1499288400
+sort_create_date = 1499025780
+sort_last_updated = 1499274300
+sort_publish_date = 1499288400
 create_date = "2017-07-02T13:03:00-07:00"
 publish_date = "2017-07-05T14:00:00-07:00"
 date = "2017-07-05T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Announcing a short story contest based on our column, Seattle Writing Prompts"
 facebookauto = "Announcing a short story contest based on our column, Seattle Writing Prompts"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/seattle-writing-prompts", "tags/seattle-writing-prompts-story-contest"]
-authors_notes = ["authors/matt-ruff"]
+notes_about = ""
 books = ""
 +++
 We're throwing a short story writing contest based on our column [Seattle Writing Prompts](http://www.seattlereviewofbooks.com/tags/seattle-writing-prompts "The Seattle Review of Books"). Better yet, it's being judged by [Matt Ruff](http://www.bymattruff.com "Author Matt Ruff&#8217;s home page"), author of six novels. His most recent, last year's [_Lovecraft Country_](http://www.seattlereviewofbooks.com/reviews/caught-after-dark-in-lovecraft-country/), is being turned into a [series on HBO, produced by Jordan Peele and JJ Abrams](http://www.seattlereviewofbooks.com/notes/2017/05/16/jordan-peele-signs-on-to-produce-matt-ruffs-lovecraft-country-as-a-tv-series/ "The Seattle Review of Books - Jordan Peele signs on to produce Matt Ruff&#39;s Lovecraft Country as a TV series"). The grand prize is $100 and publication here in the _Seattle Review of Books_, and an interview to appear the same week as your story.

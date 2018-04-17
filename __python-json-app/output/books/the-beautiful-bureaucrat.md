@@ -1,8 +1,8 @@
 +++
 index = "-JxDqJeDsP7DHSEvDjfe"
-_sort_create_date = 1440136860
-_sort_last_updated = 1440137040
-_sort_publish_date = 1440136860
+sort_create_date = 1440136860
+sort_last_updated = 1440137040
+sort_publish_date = 1440136860
 create_date = "2015-08-20T23:01:00-07:00"
 publish_date = "2015-08-20T23:01:00-07:00"
 date = "2015-08-20T23:01:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4sRhpVds24TKogRjb8o0N8yoUCfTOJjDGlHc0YHQfElx0sH8VGamElM4Z-dtxMrK31LMtABNsHwPuceujuDNuV-n1Fk"
 url = "/webhook-uploads/1440136905703/content%3Fid%3DBX8CCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 46410
 
 review_relationship = ["reviews/bureaucracy-now"]
-author_relationship = ["authors/helen-phillips"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

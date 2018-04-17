@@ -1,8 +1,8 @@
 +++
 index = "-K5HFp5786YvN8Lt445i"
-_sort_create_date = 1449857820
-_sort_last_updated = 1449857880
-_sort_publish_date = 1449857820
+sort_create_date = 1449857820
+sort_last_updated = 1449857880
+sort_publish_date = 1449857820
 create_date = "2015-12-11T10:17:00-08:00"
 publish_date = "2015-12-11T10:17:00-08:00"
 date = "2015-12-11T10:17:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449857695679/imag
 twitterauto = "Finally, @ciennam settles the books vs. movies argument, once and for all."
 facebookauto = "Our advice columnist answers the burning question: are movies ever better than books?"
 make_image_tweet = ""
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

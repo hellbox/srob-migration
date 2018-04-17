@@ -1,8 +1,8 @@
 +++
 index = "-L80h8oyNh4EUSQoYH2-"
-_sort_create_date = 1521520740
-_sort_last_updated = 1522086300
-_sort_publish_date = 1522094400
+sort_create_date = 1521520740
+sort_last_updated = 1522086300
+sort_publish_date = 1522094400
 create_date = "2018-03-19T21:39:00-07:00"
 publish_date = "2018-03-26T13:00:00-07:00"
 date = "2018-03-26T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1521520606356/
 twitterauto = "Join sponsor @uwlibraries on 5/2 for dinner with some of the PNW's most interesting writers & keynote by @Tedchiang!"
 facebookauto = "Join sponsor UW Libraries on May 2 for dinner with some of the PNW's most interesting writers \u2014\u00a0and a keynote by Ted Chiang! "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/ted-chiang"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1521520494674/Ted%20Chiang_150.jpg)</p>Every year the University of Washington Libraries host Literary Voices, a dinner to support the Libraries and this year, to provide scholarships for its student staff — a lovely idea and one from which we all benefit. Each year the keynote address is stunning; this year, the featured guest is Ted Chiang. Chiang's writing brought a kind of imagination back to hard science fiction that a lot of readers had stopped expecting, and he's applied the same lens, terrifyingly, to [the giants of tech](https://www.buzzfeed.com/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway?utm_term=.bu1EgJaa5B#.oeA21VOOAr). It's sure to be a fascinating speech.

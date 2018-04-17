@@ -1,8 +1,8 @@
 +++
 index = "-KG0YJnAbNLpVQxJz2bv"
-_sort_create_date = 1461388620
-_sort_last_updated = 1461895380
-_sort_publish_date = 1461776460
+sort_create_date = 1461388620
+sort_last_updated = 1461895380
+sort_publish_date = 1461776460
 create_date = "2016-04-22T22:17:00-07:00"
 publish_date = "2016-04-27T10:01:00-07:00"
 date = "2016-04-27T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461388377379/gunn
 twitterauto = "Here are all the best literary events int he week to come."
 facebookauto = "Your week in literary events features readings about weed, poetry, guns, and spoons as moat-building tools."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle", "tags/hugo-house"]
-authors_notes = ["authors/david-schmader"]
+notes_about = ""
 books = ["books/weed-the-users-guide"]
 +++
 <p class="noindent"><h5>**Wednesday April 27:  Local Voices**</h5></p>

@@ -1,8 +1,8 @@
 +++
 index = "-K1GAO6QLAdkpqITa9My"
-_sort_create_date = 1445544660
-_sort_last_updated = 1445551020
-_sort_publish_date = 1445547600
+sort_create_date = 1445544660
+sort_last_updated = 1445551020
+sort_publish_date = 1445547600
 create_date = "2015-10-22T13:11:00-07:00"
 publish_date = "2015-10-22T14:00:00-07:00"
 date = "2015-10-22T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445544211025/srob
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

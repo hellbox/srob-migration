@@ -1,8 +1,8 @@
 +++
 index = "-KHHDDOkSCawMUOnOIK7"
-_sort_create_date = 1462742040
-_sort_last_updated = 1462742340
-_sort_publish_date = 1462820100
+sort_create_date = 1462742040
+sort_last_updated = 1462742340
+sort_publish_date = 1462820100
 create_date = "2016-05-08T14:14:00-07:00"
 publish_date = "2016-05-09T11:55:00-07:00"
 date = "2016-05-09T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462740352256/2016
 twitterauto = "A recap of the big drunky @HugoHouse party on Saturday night."
 facebookauto = "We attended the Hugo House's Epilogue/Prologue party on Saturday, and we read what everyone wrote on the walls."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ["authors/david-lasky", "authors/greg-stump", "authors/sherman-alexie", "authors/stacey-levine", "authors/octavia-butler"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1462740352256/20160507_223856.jpg)</p>

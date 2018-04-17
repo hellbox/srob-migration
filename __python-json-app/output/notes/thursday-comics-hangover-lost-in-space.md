@@ -1,8 +1,8 @@
 +++
 index = "-KihTtKwhnyzFJYHKLRT"
-_sort_create_date = 1493264160
-_sort_last_updated = 1493264160
-_sort_publish_date = 1493312100
+sort_create_date = 1493264160
+sort_last_updated = 1493264160
+sort_publish_date = 1493312100
 create_date = "2017-04-26T20:36:00-07:00"
 publish_date = "2017-04-27T09:55:00-07:00"
 date = "2017-04-27T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493263416936/afar
 twitterauto = "Afar from @leiladelduca and @KitSeaton is comic book for young daydreamers."
 facebookauto = "\"This is the kind of book I wish I\u2019d found in a school library when I was 15,\" Paul Constant says of Leila Del Duca and Kit Seaton's YA space fantasy comic Afar."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Not so very long ago, if you were a kid and you wanted to read comics, you had a couple of choices: you could either read superhero comics, or you could read Archie comics. Now, the young adult comics scene is positively thriving. Teens can find realistic comics, fantasy comics, sci-fi comics, adventure comics, and romance comics in just about any comic book store.

@@ -1,8 +1,8 @@
 +++
 index = "-KawjgTbMHQx4PngBU20"
-_sort_create_date = 1484930280
-_sort_last_updated = 1484930700
-_sort_publish_date = 1484930700
+sort_create_date = 1484930280
+sort_last_updated = 1484930700
+sort_publish_date = 1484930700
 create_date = "2017-01-20T08:38:00-08:00"
 publish_date = "2017-01-20T08:45:00-08:00"
 date = "2017-01-20T08:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Using Duchamp as a coping metaphor"
 facebookauto = "Using Duchamp as a coping metaphor"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/politics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Marcel Duchamp’s great work, The Large Glass depicts an abstract scene. The full title: _The Bride Stripped Bare by her Bachelors, Even_. It’s conceptual and heady: “…nobody fully understands The Large Glass” says Duchamp’s biographer Calvin Tomkins.

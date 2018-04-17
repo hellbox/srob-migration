@@ -1,8 +1,8 @@
 +++
 index = "-KwI2FqFeLfLUO0s7bQE"
-_sort_create_date = 1507853100
-_sort_last_updated = 1508181120
-_sort_publish_date = 1508262900
+sort_create_date = 1507853100
+sort_last_updated = 1508181120
+sort_publish_date = 1508262900
 create_date = "2017-10-12T17:05:00-07:00"
 publish_date = "2017-10-17T10:55:00-07:00"
 date = "2017-10-17T10:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our second @litcrawlseattle itinerary is blessedly free of white dudes."
 facebookauto = "You say you're sick of the Trumps and Harvey Weinsteins of the world? Fear no more! Our second suggested Lit Crawl Seattle itinerary is blessedly free of white dudes."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lit-crawl"]
-authors_notes = ["authors/karen-finneyfrock", "authors/robert-lashley", "authors/sarah-galvin"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">This Thursday night is Lit Crawl, a bacchanalia of literary events spread over four courses across Capitol Hill, First Hill, and downtown. [You can find the full schedule here](http://litcrawl.org/seattle/2017-schedule), but we wanted to provide a few possible itineraries for people who have a hard time making up their minds. Come back tomorrow for the next itnerary. [Here's our first Itinerary from yesterday](http://www.seattlereviewofbooks.com/notes/2017/10/16/lit-crawl-itinerary-1-the-genre-walk/).</p>

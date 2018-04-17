@@ -1,8 +1,8 @@
 +++
 index = "-KnWRaw95dN7913u44Pz"
-_sort_create_date = 1498430940
-_sort_last_updated = 1498448400
-_sort_publish_date = 1498590600
+sort_create_date = 1498430940
+sort_last_updated = 1498448400
+sort_publish_date = 1498590600
 create_date = "2017-06-25T15:49:00-07:00"
 publish_date = "2017-06-27T12:10:00-07:00"
 date = "2017-06-27T12:10:00-07:00"
@@ -13,10 +13,10 @@ title = "Something fishy"
 dek = "A book about salmon in the Northwest makes a big splash, but you should probably throw it back."
 facebookauto = "This new book about salmon in the Northwest? You should probably throw it back."
 twitterauto = "This new book about salmon in the Northwest? You should probably throw it back."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/upstream"]
 tags_reviews = ""
-authors_reviews = ["authors/langdon-cook"]
+reviews_about = ""
 +++
 
 Mark Kurlansky’s non-fiction book about cod, titled *Cod*, is a critically praised bestseller that’s bordering on modern-classic status. It’s easy to forget that when *Cod* was released in 1997, nobody expected a book about a goddamned fish, of all things, to change the course of publishing. But *Cod* kicked off a craze of popular books devoted to the history of everyday objects — Kurlansky’s own *Salt* followed soon after *Cod*, and other books about screwdrivers and paper and rats tumbled down the pipeline. (It should be noted that all of these books owe a debt to John McPhee’s exquisite *Oranges*, which was published a full three decades before *Cod*.)

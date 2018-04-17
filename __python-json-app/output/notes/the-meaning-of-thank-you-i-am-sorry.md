@@ -1,8 +1,8 @@
 +++
 index = "-K4aYAXgPCj96KAIH2jl"
-_sort_create_date = 1449124440
-_sort_last_updated = 1449124620
-_sort_publish_date = 1449178320
+sort_create_date = 1449124440
+sort_last_updated = 1449124620
+sort_publish_date = 1449178320
 create_date = "2015-12-02T22:34:00-08:00"
 publish_date = "2015-12-03T13:32:00-08:00"
 date = "2015-12-03T13:32:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're big fans of @thisisEJKoh. After you read this interview, you'll be a big fan of hers, too."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry"]
-authors_notes = ["authors/ej-koh"]
+notes_about = ""
 books = ""
 +++
 We're big fans of Seattle poet [EJ Koh](http://seattlereviewofbooks.com/notes/2015/10/06/korean-war/), and we think you should be big fans of EJ Koh, too. If you need an introduction, you should read [this interview with Koh published in Hoctok](http://www.hoctok.com/ej-koh.html). I especially like that the interview is broken up with Koh's poetry; it's surprising that more literary interview outlets don't liberally intersperse their interviews with actual examples of the writers' work. Seeing an author's thoughts and words in such close proximity to each other provides a more immersive experience for the reader.

@@ -1,8 +1,8 @@
 +++
 index = "-K8a_U6fUST6tBg5uDx_"
-_sort_create_date = 1453420020
-_sort_last_updated = 1453420020
-_sort_publish_date = 1453420020
+sort_create_date = 1453420020
+sort_last_updated = 1453420020
+sort_publish_date = 1453420020
 create_date = "2016-01-21T15:47:00-08:00"
 publish_date = "2016-01-21T15:47:00-08:00"
 date = "2016-01-21T15:47:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447038388154/ifro
 twitterauto = "Amazon Books is hurting sales @ubookstorereads. This is terrible."
 facebookauto = "University Book Store says that Amazon Books is causing a negative impact on their sales. Here's why that's horrible."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon-books", "tags/university-book-store", "tags/university-village"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1447038388154/ifrobotsruledtheworld.png)</p>

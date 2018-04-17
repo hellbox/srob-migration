@@ -1,8 +1,8 @@
 +++
 index = "-K2mi1pJGG4Oj4K4YXnV"
-_sort_create_date = 1447181160
-_sort_last_updated = 1447181280
-_sort_publish_date = 1447191960
+sort_create_date = 1447181160
+sort_last_updated = 1447181280
+sort_publish_date = 1447191960
 create_date = "2015-11-10T10:46:00-08:00"
 publish_date = "2015-11-10T13:46:00-08:00"
 date = "2015-11-10T13:46:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = "An author hunted down a teenager who wrote a negative review of his book and hit her with a wine bottle. Tip for authors: Don't do that!"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/social-media", "tags/self-publishing"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 From [Jessica Roy at The Cut](http://nymag.com/thecut/2015/11/richard-brittain-assault.html), a horrific lede:

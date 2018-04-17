@@ -1,8 +1,8 @@
 +++
 index = "-JxLwrXN0r9CcSeBXhVx"
-_sort_create_date = 1440272820
-_sort_last_updated = 1440272820
-_sort_publish_date = 1440272820
+sort_create_date = 1440272820
+sort_last_updated = 1440272820
+sort_publish_date = 1440272820
 create_date = "2015-08-22T12:47:00-07:00"
 publish_date = "2015-08-22T12:47:00-07:00"
 date = "2015-08-22T12:47:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/PskWFHEC3Egjy2wSnsveU9PcAGMPFtxLG2caCtwPvi9JrxpNfSUNIHiEIwtci9P4JZGo6lAGlOEE7qhsJPGQsz80rsDSbQ"
 url = "/webhook-uploads/1440272704602/417DHLVOPvL._SX321_BO1%2C204%2C203%2C200_.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 31062
 
 review_relationship = ""
-author_relationship = ["authors/lori-a-may"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-szechuan-sandwiches-and-joining-the-community"]
 +++

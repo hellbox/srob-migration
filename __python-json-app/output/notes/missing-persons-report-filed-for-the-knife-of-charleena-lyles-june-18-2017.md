@@ -1,8 +1,8 @@
 +++
 index = "-L4ZTiPsjsAX8cBOqga9"
-_sort_create_date = 1517809200
-_sort_last_updated = 1517893080
-_sort_publish_date = 1517939700
+sort_create_date = 1517809200
+sort_last_updated = 1517893080
+sort_publish_date = 1517939700
 create_date = "2018-02-04T21:40:00-08:00"
 publish_date = "2018-02-06T09:55:00-08:00"
 date = "2018-02-06T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517890995429/Scre
 twitterauto = "The first poem by February Poet in Residence Azura Tyabji grapples with Charleena Lyles's fatal shooting."
 facebookauto = "The first poem by February Poet in Residence Azura Tyabji grapples with Charleena Lyles's fatal shooting."
 make_image_tweet = "False"
-byline = ["writers/azura-tyabji"]
+notes_byline = ["writers/azura-tyabji"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 police<br>

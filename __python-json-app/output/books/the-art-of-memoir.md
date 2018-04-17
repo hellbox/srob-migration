@@ -1,8 +1,8 @@
 +++
 index = "-JytR_RApeF0VbqbqjWO"
-_sort_create_date = 1441925280
-_sort_last_updated = 1441925640
-_sort_publish_date = 1441925280
+sort_create_date = 1441925280
+sort_last_updated = 1441925640
+sort_publish_date = 1441925280
 create_date = "2015-09-10T15:48:00-07:00"
 publish_date = "2015-09-10T15:48:00-07:00"
 date = "2015-09-10T15:48:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Literary Criticism"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/zNx5SVERCU_qZ5V8zfRAMFuDkiG4dpxYghf8Rkyuo8S85KYvriFE8x4krryIAjJe9rA6AkkD6HC1DPGtPK-g3A_ctSmPhA"
 url = "/webhook-uploads/1441925581997/51vsbCa7mKL._SX329_BO1%2C204%2C203%2C200_.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 31073
 
 review_relationship = ["reviews/intoxicating-and-irresistible-and-maybe-untrue"]
-author_relationship = ["authors/mary-karr"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

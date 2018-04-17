@@ -1,8 +1,8 @@
 +++
 index = "-KsgcphuTxhVOFkYvjrF"
-_sort_create_date = 1503987420
-_sort_last_updated = 1503987480
-_sort_publish_date = 1503987420
+sort_create_date = 1503987420
+sort_last_updated = 1503987480
+sort_publish_date = 1503987420
 create_date = "2017-08-28T23:17:00-07:00"
 publish_date = "2017-08-28T23:17:00-07:00"
 date = "2017-08-28T23:17:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/e75GOq5bvywqHk8UO2igg-KUUhJwVdli5HSBL8RnMV4Y6lr28r9dY7A4dn8lsB6GPzDwmXvvK6bismWnMSel8p1rbY4I"
 url = "/webhook-uploads/1503987455970/content%3Fid%3DGQx9vgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10715
 
 review_relationship = ["reviews/the-end-of-the-world-again"]
-author_relationship = ["authors/jennie-melamed"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-JzfW91Xgt-50hBmCDKs"
-_sort_create_date = 1442765340
-_sort_last_updated = 1442765700
-_sort_publish_date = 1442765700
+sort_create_date = 1442765340
+sort_last_updated = 1442765700
+sort_publish_date = 1442765700
 create_date = "2015-09-20T09:09:00-07:00"
 publish_date = "2015-09-20T09:15:00-07:00"
 date = "2015-09-20T09:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's the Sunday Post! With pieces by @kashhill, @alexanderchee, @scalzi, and this hot young poet @MargaretAtwood. "
 facebookauto = "Today's Sunday post: learn what young Margaret Atwood sounded like; bristle as Kashmir Hill forges a fake business from scratch; wonder at John Scalzi's logic on how many novels a year is too many to write; and what could be better than a piece about Elena Ferrante? How about piece on Elena Ferrante written by Alexander Chee. We've got one for you."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[I created a fake business and bought it an amazing online reputation](http://fusion.net/story/191773/i-created-a-fake-business-and-fooled-thousands-of-people-into-thinking-it-was-real/)</h5>

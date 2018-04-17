@@ -1,8 +1,8 @@
 +++
 index = "-JtGAT6OJaHcnoJ-6KZP"
-_sort_create_date = 1435881000
-_sort_last_updated = 1436218140
-_sort_publish_date = 1435942200
+sort_create_date = 1435881000
+sort_last_updated = 1436218140
+sort_publish_date = 1435942200
 create_date = "2015-07-02T16:50:00-07:00"
 publish_date = "2015-07-03T09:50:00-07:00"
 date = "2015-07-03T09:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/phinney-books"]
-authors_notes = ["authors/stanley-elkin", "authors/jim-dodge", "authors/tom-nissley"]
+notes_about = ""
 books = ["books/fup", "books/the-franchiser-"]
 +++
 A couple weeks ago, I visited the delightful Phinney Books for a reading. Customers at Phinney Books always have huge smiles plastered across their faces, and when you walk in, it's easy to understand why: from the categorization of books as either "TRUE" or "MADE UP" to the giant Ferris wheel along the wall of the kids' section, the whole store seems designed to maximize happiness in humans.

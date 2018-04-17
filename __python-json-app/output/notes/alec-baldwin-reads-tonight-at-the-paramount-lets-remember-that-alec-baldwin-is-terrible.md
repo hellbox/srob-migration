@@ -1,8 +1,8 @@
 +++
 index = "-Khh8whE6nT-Qz5p9IQ_"
-_sort_create_date = 1492184940
-_sort_last_updated = 1492186500
-_sort_publish_date = 1492195500
+sort_create_date = 1492184940
+sort_last_updated = 1492186500
+sort_publish_date = 1492195500
 create_date = "2017-04-14T08:49:00-07:00"
 publish_date = "2017-04-14T11:45:00-07:00"
 date = "2017-04-14T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492184848451/bald
 twitterauto = "Alec Baldwin's whining about errors in his memoir. Never trust writers who throw editors under the bus."
 facebookauto = "Alec Baldwin is complaining about errors in his memoir. Never trust a writer who throws his editor under the bus."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/celebrity", "tags/seattle-arts-and-lectures"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Alec Baldwin reads from his new memoir *Nevertheless* [at the Paramount tonight](https://www.lectures.org/season/special_events.php?id=467). It's sold out. 

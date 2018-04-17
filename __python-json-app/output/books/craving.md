@@ -1,8 +1,8 @@
 +++
 index = "-KqsGpe-0s0AsnD5FKxq"
-_sort_create_date = 1502035260
-_sort_last_updated = 1502050920
-_sort_publish_date = 1502048700
+sort_create_date = 1502035260
+sort_last_updated = 1502050920
+sort_publish_date = 1502048700
 create_date = "2017-08-06T09:01:00-07:00"
 publish_date = "2017-08-06T12:45:00-07:00"
 date = "2017-08-06T12:45:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-xgsQmPzpLjpjwNv_sSWTYdCwSDbzON_CI-qHY2MRJDGyNlTfnz0zkeqX6Ko8R6krfOvgzLy6inw3I6sJ5oxJ0OCalywWw"
 url = "/webhook-uploads/1502048726851/Craving_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 20180
 
 review_relationship = ["reviews/translation-is-not-kale"]
-author_relationship = ["authors/esther-gerritsen"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

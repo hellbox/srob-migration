@@ -1,8 +1,8 @@
 +++
 index = "-L3zpfMtda1dWTnSQmO2"
-_sort_create_date = 1517194440
-_sort_last_updated = 1517194440
-_sort_publish_date = 1517244840
+sort_create_date = 1517194440
+sort_last_updated = 1517194440
+sort_publish_date = 1517244840
 create_date = "2018-01-28T18:54:00-08:00"
 publish_date = "2018-01-29T08:54:00-08:00"
 date = "2018-01-29T08:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The King County Council wants more control over 4Culture. Tell them why that's a bad idea."
 facebookauto = "We like government! More government! But maybe we don't need more government oversight of our cultural grant programs?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/4culture"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 King County Council introduced an ordinance — Ordinance #2018-0086 — to give the Council more control over 4Culture, the county's cultural funding agency. The ordinance would allow the Council to fire the executive director of the organization, and to name a majority of 4Culture's board of directors. (You can [read more about it on 4Culture's own site](https://www.4culture.org/proposed-king-county-ordinance/).)

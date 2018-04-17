@@ -1,8 +1,8 @@
 +++
 index = "-KsGYrWIsOaI_GUqXkX7"
-_sort_create_date = 1503533160
-_sort_last_updated = 1503590580
-_sort_publish_date = 1503686700
+sort_create_date = 1503533160
+sort_last_updated = 1503590580
+sort_publish_date = 1503686700
 create_date = "2017-08-23T17:06:00-07:00"
 publish_date = "2017-08-25T11:45:00-07:00"
 date = "2017-08-25T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Don't forget the Anarchist Book Fair tomorrow at the Vera Project!"
 facebookauto = "Don't forget the Anarchist Book Fair tomorrow at the Vera Project!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Friends, I messed up. I failed to mention in this week's reading calendar that the [Seattle Anarchist Book Fair](http://seattleanarchistbookfair.net/) is **tomorrow, August 26th, from 10 am to 5 pm at the Vera Project in Seattle Center**. It features all kinds of neat organizations including Books to Prisoners, Left Bank Books, and the Social Justice Film Festival, and it's absolutely free. [Go check it out](http://seattleanarchistbookfair.net/), please.

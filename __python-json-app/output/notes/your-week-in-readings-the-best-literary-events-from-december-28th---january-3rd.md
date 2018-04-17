@@ -1,8 +1,8 @@
 +++
 index = "-KYXHxvyACho_UD3vtFm"
-_sort_create_date = 1481265360
-_sort_last_updated = 1482953700
-_sort_publish_date = 1482948060
+sort_create_date = 1481265360
+sort_last_updated = 1482953700
+sort_publish_date = 1482948060
 create_date = "2016-12-08T22:36:00-08:00"
 publish_date = "2016-12-28T10:01:00-08:00"
 date = "2016-12-28T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481265087707/play
 twitterauto = "Your week in readings includes a Joan Didion book club and a huge book sale."
 facebookauto = "Your week in readings includes a Joan Didion book club and a huge book sale."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1481265087707/playit.jpg)</p>

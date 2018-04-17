@@ -1,8 +1,8 @@
 +++
 index = "-KfKZ4-yOnsnmJjgM_A4"
-_sort_create_date = 1489641660
-_sort_last_updated = 1489679460
-_sort_publish_date = 1489683660
+sort_create_date = 1489641660
+sort_last_updated = 1489679460
+sort_publish_date = 1489683660
 create_date = "2017-03-15T22:21:00-07:00"
 publish_date = "2017-03-16T10:01:00-07:00"
 date = "2017-03-16T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489640872024/usav
 twitterauto = "If you're gonna go big with your superheroes, you might as well go ridiculous, too."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Every so often I'll read a corporate superhero comic that reminds me why I fell in love with the genre as a child. This week's *U.S.Avengers* #4 is that kind of a book.

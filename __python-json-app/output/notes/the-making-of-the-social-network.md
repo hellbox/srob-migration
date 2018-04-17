@@ -1,8 +1,8 @@
 +++
 index = "-KBkZWgTZ3xyKs2JtG8M"
-_sort_create_date = 1456808760
-_sort_last_updated = 1456863900
-_sort_publish_date = 1456869600
+sort_create_date = 1456808760
+sort_last_updated = 1456863900
+sort_publish_date = 1456869600
 create_date = "2016-02-29T21:06:00-08:00"
 publish_date = "2016-03-01T14:00:00-08:00"
 date = "2016-03-01T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "So many startups fail or get bought out and shut down. What chance does Litsy have?"
 facebookauto = "What does it take to make a great social app? Will Litsy be one?"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/litsy"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 There once was an app called called Readmill. For a brief time, it was the best literature reading and social app. You stored and read books there, like a Kindle (although, only in the open ePub format). You could highlight sections in the book, and your friends could like, or comment on the quotes. You could sum up the book at the end. It was rather like a well-designed GoodReads mashed-up with a Kindle app that cared deeply about typography. 

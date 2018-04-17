@@ -1,8 +1,8 @@
 +++
 index = "-KL5E_5i1hkNsk-oy-GI"
-_sort_create_date = 1466836020
-_sort_last_updated = 1482565980
-_sort_publish_date = 1466870400
+sort_create_date = 1466836020
+sort_last_updated = 1482565980
+sort_publish_date = 1466870400
 create_date = "2016-06-24T23:27:00-07:00"
 publish_date = "2016-06-25T09:00:00-07:00"
 date = "2016-06-25T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466836092783/bbf9
 twitterauto = "The Kickstarter Fund backs @vonnegutlibrary this week."
 facebookauto = "We back the Kurt Vonnegut Memorial Library this week with the Kickstarter Fund."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ["authors/kurt-vonnegut"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week, the _Seattle Review of Books_ backs a Kickstarter, and writes up why we picked that particular project. <a href="http://seattlereviewofbooks.com/notes/2016/01/08/announcing-the-seattle-review-of-books-kickstarter-fund/" title="The Seattle Review of Books - Announcing the Seattle Review of Books Kickstarter Fund">Read more about the project here</a>. Suggest a project by writing to _kickstarter_ at this domain, or by <a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">using our contact form</a>.<p>

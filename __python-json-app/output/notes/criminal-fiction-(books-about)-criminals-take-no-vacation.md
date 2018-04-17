@@ -1,8 +1,8 @@
 +++
 index = "-KsCDXmv3I2AIBGI4Wti"
-_sort_create_date = 1503460440
-_sort_last_updated = 1503589200
-_sort_publish_date = 1503601200
+sort_create_date = 1503460440
+sort_last_updated = 1503589200
+sort_publish_date = 1503601200
 create_date = "2017-08-22T20:54:00-07:00"
 publish_date = "2017-08-24T12:00:00-07:00"
 date = "2017-08-24T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503460438021/ruth
 twitterauto = "Criminal Fiction has an Interview with @RuthWareWriter, and reviews of @Benjamin_Percy, @kwei_quartey, @FeliciaMYap"
 facebookauto = "Daneet Steffen's Criminal Fiction interviews Ruth Ware, and has reviews of Benjamin Percy, Kwei Quartey, Felicia Yap, and Louise Penny. "
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/ruth-ware", "authors/benjamin-percy", "authors/louise-penny", "authors/kwei-quartey", "authors/felicia-yap"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

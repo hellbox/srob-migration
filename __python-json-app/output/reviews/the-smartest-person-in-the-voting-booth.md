@@ -1,8 +1,8 @@
 +++
 index = "-KVmkYkiJZS5uxRkP6A1"
-_sort_create_date = 1478320320
-_sort_last_updated = 1478543340
-_sort_publish_date = 1478548860
+sort_create_date = 1478320320
+sort_last_updated = 1478543340
+sort_publish_date = 1478548860
 create_date = "2016-11-04T21:32:00-07:00"
 publish_date = "2016-11-07T12:01:00-08:00"
 date = "2016-11-07T12:01:00-08:00"
@@ -13,10 +13,10 @@ title = "The smartest person in the voting booth"
 dek = "A new book makes a bold proposal: should we require voters to pass an intelligence test? What would that mean for democracy? And hey, when did we decide that democracy was the only way to run a government, anyway?"
 facebookauto = "A new book suggests that only smart Americans should be allowed to vote. To put it mildly, that raises some questions."
 twitterauto = "A new book suggests that only smart Americans should be allowed to vote. That raises some questions."
-byline = ["writers/nick-cassella"]
+reviews_byline = ["writers/nick-cassella"]
 books_in_this_review = ["books/against-democracy"]
 tags_reviews = ["tags/nonfiction", "tags/democracy", "tags/politics"]
-authors_reviews = ["authors/jason-brennan"]
+reviews_about = ""
 +++
 
 Democracy’s recent ubiquity is remarkably novel in human history. Yet even in its infancy we are unhesitatingly willing to crown it as the universal ideal of good and just government. To the critical mind, democracy’s virtues can appear overindulged.  

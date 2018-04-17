@@ -1,8 +1,8 @@
 +++
 index = "-KsqWo9wsNPedNRDRj5Y"
-_sort_create_date = 1504153380
-_sort_last_updated = 1504153380
-_sort_publish_date = 1505325720
+sort_create_date = 1504153380
+sort_last_updated = 1504153380
+sort_publish_date = 1505325720
 create_date = "2017-08-30T21:23:00-07:00"
 publish_date = "2017-09-13T11:02:00-07:00"
 date = "2017-09-13T11:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504153190125/Scre
 twitterauto = "Here are five Seattle books we're excited to read this fall."
 facebookauto = "Here are five books by Seattle authors we're excited to read this fall."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/bharti-kirchner", "authors/mita-mahato", "authors/ej-koh"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1504153190125/Screen%20Shot%202017-08-30%20at%209.18.58%20PM.png)</p>

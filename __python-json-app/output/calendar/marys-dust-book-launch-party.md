@@ -1,8 +1,8 @@
 +++
 index = "-KwVWJbVOiKJ1QRX2qkK"
-_sort_create_date = 1508079120
-_sort_last_updated = 1508130060
-_sort_publish_date = 1508079120
+sort_create_date = 1508079120
+sort_last_updated = 1508130060
+sort_publish_date = 1508079120
 create_date = "2017-10-15T07:52:00-07:00"
 publish_date = "2017-10-15T07:52:00-07:00"
 date = "2017-10-15T07:52:00-07:00"
@@ -26,6 +26,6 @@ time_description = "
 end_time = "2017-10-15T22:30:00-07:00"
 enddate = ""
 is_sponsorship = true
-authors = ["authors/melinda-mueller"]
+authors = ""
 sponsorship_event = ""
 venues = ""

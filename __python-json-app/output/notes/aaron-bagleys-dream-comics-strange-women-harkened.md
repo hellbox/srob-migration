@@ -1,8 +1,8 @@
 +++
 index = "-L6_2HiEvl08IWwAe0UD"
-_sort_create_date = 1519966260
-_sort_last_updated = 1519966260
-_sort_publish_date = 1521219600
+sort_create_date = 1519966260
+sort_last_updated = 1519966260
+sort_publish_date = 1521219600
 create_date = "2018-03-01T20:51:00-08:00"
 publish_date = "2018-03-16T10:00:00-07:00"
 date = "2018-03-16T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519963638656/Stra
 twitterauto = "It's time for @aaronbaglady's Dream Comics!"
 facebookauto = "It's time for Aaron Bagley's Dream Comics!\n"
 make_image_tweet = "True"
-byline = ["writers/aaron-bagley"]
+notes_byline = ["writers/aaron-bagley"]
 tags_notes = ["tags/aaron-bagleys-dream-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image"><a href="/webhook-uploads/1519963614603/Strange%20Women%20Harkened%201.jpg" target="_blank">![](/webhook-uploads/1519963614603/Strange%20Women%20Harkened%201.jpg)</a></p>

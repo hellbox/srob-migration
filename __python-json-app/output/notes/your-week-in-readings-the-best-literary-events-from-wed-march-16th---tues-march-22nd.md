@@ -1,8 +1,8 @@
 +++
 index = "-KCcOKSZNlmUj7ZaPHVI"
-_sort_create_date = 1457745360
-_sort_last_updated = 1457929860
-_sort_publish_date = 1458146700
+sort_create_date = 1457745360
+sort_last_updated = 1457929860
+sort_publish_date = 1458146700
 create_date = "2016-03-11T17:16:00-08:00"
 publish_date = "2016-03-16T09:45:00-07:00"
 date = "2016-03-16T09:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457744772909/51CX
 twitterauto = "Tonight, your week in readings heads to West Seattle to hear from our Civic Poet. "
 facebookauto = "Your week in literary events includes a fancy book expo, a competitive storytelling event, and a discussion about how to make cities into utopias."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house", "tags/april", "tags/brian-mcguigan", "tags/mayor-ed-murray", "tags/town-hall-seattle"]
-authors_notes = ["authors/ej-koh"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday March 16: WordsWest: Claudia Castro Luna and Oscar de la Paz**</h5></p>

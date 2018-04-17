@@ -1,8 +1,8 @@
 +++
 index = "-Keg4sSRgXdZUJ5H5LCv"
-_sort_create_date = 1488945900
-_sort_last_updated = 1488945900
-_sort_publish_date = 1489604040
+sort_create_date = 1488945900
+sort_last_updated = 1488945900
+sort_publish_date = 1489604040
 create_date = "2017-03-07T20:05:00-08:00"
 publish_date = "2017-03-15T11:54:00-07:00"
 date = "2017-03-15T11:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488945840274/rule
 twitterauto = "Your week in reading features @bymattruff, @DonnaMiscolta & @NisiShawl."
 facebookauto = "Lots of great Seattle authors in Your Week in Readings this week, including Matt Ruff, Nisi Shawl, Donna Miscolta, Claire Dederer, and Sarah Galvin."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/donna-miscolta", "authors/matt-ruff", "authors/nisi-shawl"]
+notes_about = ""
 books = ["books/lovecraft-country", "books/everfair"]
 +++
 <p class="noindent"><h5>**Wednesday March 15th: WordsWest: Resistance and Immigration**</h5></p> 

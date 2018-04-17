@@ -1,8 +1,8 @@
 +++
 index = "-KsgeDmev3EzLhXj6JkE"
-_sort_create_date = 1503987780
-_sort_last_updated = 1504130940
-_sort_publish_date = 1504639320
+sort_create_date = 1503987780
+sort_last_updated = 1504130940
+sort_publish_date = 1504639320
 create_date = "2017-08-28T23:23:00-07:00"
 publish_date = "2017-09-05T12:22:00-07:00"
 date = "2017-09-05T12:22:00-07:00"
@@ -13,10 +13,10 @@ title = "The end of the world, again"
 dek = "Every dystopian novel has a gimmick. What Seattle author Jennie Melamed's debut novel does right is it uses dystopia to stand in for the cycle of abuse."
 facebookauto = "Seattle author Jennie Melamed's debut novel is a dystopian novel that investigates abuse."
 twitterauto = "Seattle author Jennie Melamed's debut novel is a dystopian novel that investigates abuse."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/gather-the-daughters"]
 tags_reviews = ["tags/dystopia", "tags/donald-trump"]
-authors_reviews = ["authors/jennie-melamed"]
+reviews_about = ""
 +++
 
 Every dystopia needs a gimmick — some hook to distinguish it from the ever-expanding constellation of literary post-apocalypses. Seattle writer Jennie Melamed’s *Gather the Daughters* is a dystopian novel that remixes several pre-existing gimmicks into one. Melamed’s influences are right there in a blurb on the front cover of the book, as written by Helene Wecker, who calls it “An heir to the creations of Margaret Atwood and Shirley Jackson.” That’s about as succinct an observation as you can fit in a front-cover blurb. *Gather the Daughters* travels in a straight line through Atwood’s *The Handmaid’s Tale* and Jackson’s “The Lottery,” taking note of elements with a magpie’s eye as it proceeds.

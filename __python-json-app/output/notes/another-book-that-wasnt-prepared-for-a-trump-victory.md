@@ -1,8 +1,8 @@
 +++
 index = "-KZQKGf3dlsq_Y1YyVZ1"
-_sort_create_date = 1482222240
-_sort_last_updated = 1482247560
-_sort_publish_date = 1482262980
+sort_create_date = 1482222240
+sort_last_updated = 1482247560
+sort_publish_date = 1482262980
 create_date = "2016-12-20T00:24:00-08:00"
 publish_date = "2016-12-20T11:43:00-08:00"
 date = "2016-12-20T11:43:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482222022376/fiel
 twitterauto = "Remember back when people used to manipulate the truth? Now they just outright lie."
 facebookauto = "Remember back when people used to manipulate the truth? Now they just outright lie."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A little while ago, [I wrote about a new phenomenon](http://www.seattlereviewofbooks.com/reviews/you-are-gods-crash-test-dummy/): books that seem completely different now that Donald Trump is president-elect of the United States. Over the weekend, I found another title to add to the ever-growing list.

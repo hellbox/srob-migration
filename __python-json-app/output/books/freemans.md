@@ -1,8 +1,8 @@
 +++
 index = "-K0xdJbN_q0RMHrwKfyk"
-_sort_create_date = 1445216940
-_sort_last_updated = 1445267880
-_sort_publish_date = 1445216940
+sort_create_date = 1445216940
+sort_last_updated = 1445267880
+sort_publish_date = 1445216940
 create_date = "2015-10-18T18:09:00-07:00"
 publish_date = "2015-10-18T18:09:00-07:00"
 date = "2015-10-18T18:09:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "https://lh3.googleusercontent.com/OejSrbT5kqfOhbyVyFI1lgiHNM8mSYeYyNPTomQULgd6-iJ0m6JM8Eix-t4tNwOFI1af9nwdwgDAc2y--04F4OZXHKEUGQ"
 url = "/webhook-uploads/1445216880990/Freemans.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 13849
 
 review_relationship = ["reviews/the-invisible-art-of-magazines"]
-author_relationship = ["authors/john-freeman"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

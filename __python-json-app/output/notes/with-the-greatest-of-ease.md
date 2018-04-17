@@ -1,8 +1,8 @@
 +++
 index = "-KqZkVae0JMLN0D0k1VT"
-_sort_create_date = 1501707720
-_sort_last_updated = 1503153960
-_sort_publish_date = 1502740800
+sort_create_date = 1501707720
+sort_last_updated = 1503153960
+sort_publish_date = 1502740800
 create_date = "2017-08-02T14:02:00-07:00"
 publish_date = "2017-08-14T13:00:00-07:00"
 date = "2017-08-14T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501707668323/The%
 twitterauto = "If you've ever dreamed of packing it up and moving to another country, sponsor Molly McCord's memoir is for you."
 facebookauto = "If you've ever dreamed of packing it up and moving to another country (and who hasn't?), sponsor Molly McCord's memoir is for you."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/molly-mccord"]
+notes_about = ""
 books = ["books/the-art-of-trapeze"]
 +++
 <p class="image-left">![](/webhook-uploads/1501707668323/The%20Art%20of%20Trapeze_125.jpeg)</p>

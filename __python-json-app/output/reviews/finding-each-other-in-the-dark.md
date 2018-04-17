@@ -1,8 +1,8 @@
 +++
 index = "-Kby7dRXnKtX0m6rQB4R"
-_sort_create_date = 1486027380
-_sort_last_updated = 1486054860
-_sort_publish_date = 1486058400
+sort_create_date = 1486027380
+sort_last_updated = 1486054860
+sort_publish_date = 1486058400
 create_date = "2017-02-02T01:23:00-08:00"
 publish_date = "2017-02-02T10:00:00-08:00"
 date = "2017-02-02T10:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Finding each other in the dark"
 dek = "Last night, the Reading Through It Book Club got together to discuss Hope in the Dark. Here's what the meeting was like."
 facebookauto = "Last night, the Reading Through It Book Club got together to discuss Rebecca Solnit's great book Hope in the Dark. Here's what it was like:"
 twitterauto = "Last night, we gathered to discuss Hope in the Dark. Here's what it was like:"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/hope-in-the-dark"]
 tags_reviews = ["tags/donald-trump", "tags/reading-through-it", "tags/third-place-books-seward-park"]
-authors_reviews = ["authors/rebecca-solnit"]
+reviews_about = ""
 +++
 
 It’s easy to see why Rebecca Solnit’s book *Hope in the Dark* has become an independent bookstore bestseller in the months since Donald Trump won the election. After all, it’s a book written by one of our smartest cultural critics about finding hope in difficult political times. Readers know they can trust Solnit to not be too Pollyannaish in her conclusions about hope. She’s physically incapable of offering a bromide, or a cliché, or an unsupported premise. And *Hope in the Dark* is a slender book that offers an incredibly deep investigation into the idea of survival in dark political times.

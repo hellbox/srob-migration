@@ -1,8 +1,8 @@
 +++
 index = "-KkxrUb7lrNgwoT4v353"
-_sort_create_date = 1495686540
-_sort_last_updated = 1495743600
-_sort_publish_date = 1495738800
+sort_create_date = 1495686540
+sort_last_updated = 1495743600
+sort_publish_date = 1495738800
 create_date = "2017-05-24T21:29:00-07:00"
 publish_date = "2017-05-25T12:00:00-07:00"
 date = "2017-05-25T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495686806976/Sinc
 twitterauto = "Criminal Fiction: @daneetsteffens queries @dennis_lehane, and looks at new work from @ellygriffiths & @authorsteve "
 facebookauto = "Criminal Fiction: Daneet Steffens queries Dennis LeHane, and looks at new work from Elly Griffiths, Steve Hamilton and more."
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/cara-black", "authors/jill-dawson", "authors/paula-hawkins", "authors/elly-griffiths", "authors/neil-smith", "authors/steve-hamilton", "authors/dennis-lehane"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction).</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KddmYE2mRVwEc5BL1Mq"
-_sort_create_date = 1487833500
-_sort_last_updated = 1487833500
-_sort_publish_date = 1487966700
+sort_create_date = 1487833500
+sort_last_updated = 1487833500
+sort_publish_date = 1487966700
 create_date = "2017-02-22T23:05:00-08:00"
 publish_date = "2017-02-24T12:05:00-08:00"
 date = "2017-02-24T12:05:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Now is the time to speak up for @HugoHouse. Contact your state legislators!"
 facebookauto = "Now is the time to speak up for Hugo House. Contact your state legislators!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 By now, you've undoubtedly gotten into the practice of contacting your local representatives about issues that concern you. That's great! Now, our friends at Hugo House are asking that you momentarily set aside your Trump-related concerns so you can advocate for them.

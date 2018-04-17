@@ -1,8 +1,8 @@
 +++
 index = "-K9Y4OkQ150NPq3QPzG0"
-_sort_create_date = 1454435040
-_sort_last_updated = 1455555360
-_sort_publish_date = 1455566400
+sort_create_date = 1454435040
+sort_last_updated = 1455555360
+sort_publish_date = 1455566400
 create_date = "2016-02-02T09:44:00-08:00"
 publish_date = "2016-02-15T12:00:00-08:00"
 date = "2016-02-15T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Caught after dark in Lovecraft Country"
 dek = "Matt Ruff's new book Lovecraft Country turns old H.P.'s racism on its head. It's an ambitious work, attempting to use genre to undermine America's racism against African American people. Was he able to pull it off?"
 facebookauto = "Matt Ruff's new book Lovecraft Country turns old H.P.'s racism on its head. It's an ambitious work, attempting to use genre to undermine America's racism against African American people. Was he able to pull it off? Our review, by Edward Austin Hall, gets into it."
 twitterauto = "Tomorrow is release day for Lovecraft Country, @bymattruff's ambitious new novel. @edwardahall has our look inside."
-byline = ["writers/edward-austin-hall"]
+reviews_byline = ["writers/edward-austin-hall"]
 books_in_this_review = ["books/lovecraft-country"]
 tags_reviews = ["tags/reviews"]
-authors_reviews = ["authors/matt-ruff"]
+reviews_about = ""
 +++
 
 Matt Ruff had me a few pages into his new novel, _Lovecraft Country_, where one of its black characters ponders my own great childhood shame this way: “Tom Swift &hellip; which Earl had loved when he was young … embarrassed him now, both for the books’ depiction of Negroes and for the fact that as a boy he hadn’t noticed it &hellip;.” Because Ruff’s book has the mid-1950s as its setting, Earl almost certainly refers to the original series of Swift novels, which predate WWI and even have a white character use the expression “nigger in the woodpile.” I tried to read one of those books but stopped at that very phrase. My interest stemmed from the fierce appetite I had for the less-bigoted-but-still-dubious novels about Tom Swift Jr. (the earlier character’s son) that I read throughout my middle-school years.

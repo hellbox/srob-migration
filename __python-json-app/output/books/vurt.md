@@ -1,8 +1,8 @@
 +++
 index = "-L5f84VFHh1EuTd8tIyC"
-_sort_create_date = 1518996120
-_sort_last_updated = 1518997020
-_sort_publish_date = 1518996120
+sort_create_date = 1518996120
+sort_last_updated = 1518997020
+sort_publish_date = 1518996120
 create_date = "2018-02-18T15:22:00-08:00"
 publish_date = "2018-02-18T15:22:00-08:00"
 date = "2018-02-18T15:22:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ycT8ZFW8IQm-7J2Hjzpxxw_u5QwMwHRMk7kh9igJjhbpj_kP_sxSG4hk0I_URySkFPVjd1GSmdpDPQ8qNWWec751cAQ"
 url = "/webhook-uploads/1518996167549/Vurt.jpeg"
@@ -31,7 +31,7 @@ type = "image/jpeg"
 size = 15666
 
 review_relationship = ["reviews/the-beautiful-strange"]
-author_relationship = ["authors/jeff-noon"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-K5s_WR_GI9QRS4qgsTh"
-_sort_create_date = 1450500780
-_sort_last_updated = 1450500840
-_sort_publish_date = 1450500780
+sort_create_date = 1450500780
+sort_last_updated = 1450500840
+sort_publish_date = 1450500780
 create_date = "2015-12-18T20:53:00-08:00"
 publish_date = "2015-12-18T20:53:00-08:00"
 date = "2015-12-18T20:53:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WXXHj8V6Q1HQrVuJ7feEzVPi8o3DhAh-I7keaQoSOWoDQzAVmBuzGXgJsCWTT_0OWvkHCESZaBmH35p6Mk9Q5ngrejJOCA"
 url = "/webhook-uploads/1450500821605/content%3Fid%3DmaUcAAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12622
 
 review_relationship = ["reviews/broken-toys"]
-author_relationship = ["authors/nelly-reifler"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

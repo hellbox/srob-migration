@@ -1,8 +1,8 @@
 +++
 index = "-KjqFYvNkf1rWEuMEATL"
-_sort_create_date = 1494485160
-_sort_last_updated = 1494519540
-_sort_publish_date = 1494521160
+sort_create_date = 1494485160
+sort_last_updated = 1494519540
+sort_publish_date = 1494521160
 create_date = "2017-05-10T23:46:00-07:00"
 publish_date = "2017-05-11T09:46:00-07:00"
 date = "2017-05-11T09:46:00-07:00"
@@ -13,10 +13,10 @@ title = "It should exist, but it doesn't"
 dek = "A minicomic packed with recipes by Seattle-area cartoonists proves that a comics cookbook is the best idea for a book that hasn't been published yet."
 facebookauto = "Comics are perfect for recipes. Why, then, doesn't a comics cookbook exist?"
 twitterauto = "Are you listening publishers? Here's the best idea for a book that doesn't exist yet."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/northwest-cartoonists-cookbook"]
 tags_reviews = ["tags/thursday-comics-hangover", "tags/minicomics", "tags/comics", "tags/fantagraphics", "tags/cookbook"]
-authors_reviews = ["authors/colleen-frakes", "authors/tatiana-gill", "authors/david-lasky"]
+reviews_about = ""
 +++
 
 This book doesn’t exist, but it should. Imagine it: it’s a giant, full-color, hardcover affair — sturdy and substantial. The kind of book that forces a little grunt out of you when you pull it off the shelf. The kind of book that thuds onto a kitchen counter like an announcement, like a statement of purpose.

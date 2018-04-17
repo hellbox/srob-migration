@@ -1,8 +1,8 @@
 +++
 index = "-KJOsT7nlBkO1lzR9xVp"
-_sort_create_date = 1465018080
-_sort_last_updated = 1465018140
-_sort_publish_date = 1465403220
+sort_create_date = 1465018080
+sort_last_updated = 1465018140
+sort_publish_date = 1465403220
 create_date = "2016-06-03T22:28:00-07:00"
 publish_date = "2016-06-08T09:27:00-07:00"
 date = "2016-06-08T09:27:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465017901181/grap
 twitterauto = "In the beginning was our Event of the Week. And it was good."
 facebookauto = "Our Event of the Week is the opening night of the Graphic Masters show at Seattle Art Museum."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/seattle-art-museum", "tags/intruder", "tags/short-run"]
-authors_notes = ["authors/mita-mahato", "authors/kelly-froh", "authors/jim-woodring", "authors/colleen-frakes"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1465017901181/graphic-masters-crumb-630px.jpg)</p>

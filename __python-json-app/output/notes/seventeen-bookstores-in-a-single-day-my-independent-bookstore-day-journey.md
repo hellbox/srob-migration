@@ -1,8 +1,8 @@
 +++
 index = "-KGjpKqQzW9SE9M22ARY"
-_sort_create_date = 1462165080
-_sort_last_updated = 1462216200
-_sort_publish_date = 1462215480
+sort_create_date = 1462165080
+sort_last_updated = 1462216200
+sort_publish_date = 1462215480
 create_date = "2016-05-01T21:58:00-07:00"
 publish_date = "2016-05-02T11:58:00-07:00"
 date = "2016-05-02T11:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462164225125/inde
 twitterauto = "On Saturday, @seattlecourtney visited 17 bookstores in a single day. Here's what she saw:"
 facebookauto = "\"Seventeen bookstores, 120 miles, two ferries, at least a dozen bridges.\" Here's one reader's story of how she and her daughter celebrated Independent Bookstore Day."
 make_image_tweet = "False"
-byline = ["writers/courtney-hudak"]
+notes_byline = ["writers/courtney-hudak"]
 tags_notes = ["tags/open-books", "tags/elliott-bay-book-company", "tags/third-place-books-seward-park"]
-authors_notes = ["authors/chimamanda-ngozi-adichie"]
+notes_about = ""
 books = ["books/we-should-all-be-feminists"]
 +++
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/SeaBookstoreDay?src=hash">#SeaBookstoreDay</a> is our favorite holiday. ❤️💕❤️💕❤️💕📖📖📖 <a href="https://t.co/I0NBDcDUIJ">pic.twitter.com/I0NBDcDUIJ</a></p>&mdash; Courtney (@seattlecourtney) <a href="https://twitter.com/seattlecourtney/status/726576389432827904">May 1, 2016</a></blockquote>

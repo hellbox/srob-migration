@@ -1,8 +1,8 @@
 +++
 index = "-Kwf_qY9ygGklSWC0yXi"
-_sort_create_date = 1508264820
-_sort_last_updated = 1508272620
-_sort_publish_date = 1508264820
+sort_create_date = 1508264820
+sort_last_updated = 1508272620
+sort_publish_date = 1508264820
 create_date = "2017-10-17T11:27:00-07:00"
 publish_date = "2017-10-17T11:27:00-07:00"
 date = "2017-10-17T11:27:00-07:00"
@@ -26,6 +26,6 @@ time_description = "
 end_time = "2017-10-17T20:30:00-07:00"
 enddate = ""
 is_sponsorship = true
-authors = ["authors/aaron-shurin", "authors/alex-vigue"]
+authors = ""
 sponsorship_event = ""
 venues = ""

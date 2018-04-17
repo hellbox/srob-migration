@@ -1,8 +1,8 @@
 +++
 index = "-KYvgG3fQn1OHwpboNad"
-_sort_create_date = 1481691420
-_sort_last_updated = 1481691540
-_sort_publish_date = 1481691420
+sort_create_date = 1481691420
+sort_last_updated = 1481691540
+sort_publish_date = 1481691420
 create_date = "2016-12-13T20:57:00-08:00"
 publish_date = "2016-12-13T20:57:00-08:00"
 date = "2016-12-13T20:57:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Literary Criticism"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/E_pUQeUN2TR3ETsQRz1DHmScCUZkfRScLhh1NSAZaPFbyXe4VXfDV-TCSxyF-cLo45HagmfN_Tr0T148NDiNldqOspX4XQ"
 url = "/webhook-uploads/1481691434835/content%3Fid%3DgG8qjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 2967
 
 review_relationship = ["reviews/tourists-in-the-time-stream"]
-author_relationship = ["authors/james-gleick"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

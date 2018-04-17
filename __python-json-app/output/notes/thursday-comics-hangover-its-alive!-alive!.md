@@ -1,8 +1,8 @@
 +++
 index = "-KxLrdr6vqXFjncxeFY_"
-_sort_create_date = 1508990940
-_sort_last_updated = 1508992560
-_sort_publish_date = 1509037140
+sort_create_date = 1508990940
+sort_last_updated = 1508992560
+sort_publish_date = 1509037140
 create_date = "2017-10-25T21:09:00-07:00"
 publish_date = "2017-10-26T09:59:00-07:00"
 date = "2017-10-26T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508990668032/dest
 twitterauto = "Like Get Out & The Underground Railroad? This comic from @boomstudios is for you"
 facebookauto = "It takes guts to write a sequel to Frankenstein, but Victor LaValle isn't just some writer. He's one of the most underrated American writers."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Victor LaValle is one of the most underappreciated novelists in America today. His debut novel *The Ecstatic* was less a shaky first outing and more a spectacular announcement of a singular talent. His last three novels — *Big Machine*, *The Devil in Silver*, and *The Ballad of Black Tom* — have addressed America's complicated relationship with race through the lens of horror fiction. (And before you ask, LaValle began exploring this relationship years before *Get Out* was anything more than a figment of Jordan Peele's imagination.) When it comes to genre fiction, he's one of our most fearless adventurers.

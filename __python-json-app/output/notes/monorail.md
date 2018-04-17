@@ -1,8 +1,8 @@
 +++
 index = "-KYC9LBysVRCkca7X4tw"
-_sort_create_date = 1480910760
-_sort_last_updated = 1481046540
-_sort_publish_date = 1481046900
+sort_create_date = 1480910760
+sort_last_updated = 1481046540
+sort_publish_date = 1481046900
 create_date = "2016-12-04T20:06:00-08:00"
 publish_date = "2016-12-06T09:55:00-08:00"
 date = "2016-12-06T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Tuesdays in December we remember Lucia Perillo by publishing her work. Today's the first: \"Monorail\""
 facebookauto = "Tuesdays in December we remember Lucia Perillo by publishing her work. Today's the first: \"Monorail\""
 make_image_tweet = "False"
-byline = ["writers/lucia-perillo"]
+notes_byline = ["writers/lucia-perillo"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ["authors/lucia-perillo"]
+notes_about = ""
 books = ""
 +++
 _Seattle, at the old World's Fair_

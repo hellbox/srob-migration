@@ -1,8 +1,8 @@
 +++
 index = "-K3Jf6fnkUyUUVTuMeUs"
-_sort_create_date = 1447750800
-_sort_last_updated = 1447750800
-_sort_publish_date = 1447796100
+sort_create_date = 1447750800
+sort_last_updated = 1447750800
+sort_publish_date = 1447796100
 create_date = "2015-11-17T01:00:00-08:00"
 publish_date = "2015-11-17T13:35:00-08:00"
 date = "2015-11-17T13:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447750392266/UK-Q
 twitterauto = "The latest James Bond movie is a mess. How to fix it? Bring back Bond's literary spirit!"
 facebookauto = "The latest James Bond movie is a mess. How to fix it? Bring back Bond's literary spirit!"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/james-bond", "tags/movies"]
-authors_notes = ["authors/sebastian-faulks"]
+notes_about = ""
 books = ["books/devil-may-care"]
 +++
 <p class="image">![](/webhook-uploads/1447750392266/UK-Quad-Mono-72dpi.jpg)</p>

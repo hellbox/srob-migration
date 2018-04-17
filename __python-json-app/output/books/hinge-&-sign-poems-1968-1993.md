@@ -1,8 +1,8 @@
 +++
 index = "-KGSVngzyDmRw7YMVw5w"
-_sort_create_date = 1461857760
-_sort_last_updated = 1461857760
-_sort_publish_date = 1461857760
+sort_create_date = 1461857760
+sort_last_updated = 1461857760
+sort_publish_date = 1461857760
 create_date = "2016-04-28T08:36:00-07:00"
 publish_date = "2016-04-28T08:36:00-07:00"
 date = "2016-04-28T08:36:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/t-OV9YARHp2tqtFUplFtvfY81kPgsRvHB7y5OUcjiyMl1FrteYfP6cjilcdm4m8fLNNuxjqe4-Z_EeZ6qXhDesRvNFkQ"
 url = "/webhook-uploads/1461857687064/513F70gdTtL.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 65397
 
 review_relationship = ["reviews/what-she-thought-but-did-say"]
-author_relationship = ["authors/heather-mchugh"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

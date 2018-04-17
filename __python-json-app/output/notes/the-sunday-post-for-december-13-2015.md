@@ -1,8 +1,8 @@
 +++
 index = "-K5OzkQbeCw58yRM4fAS"
-_sort_create_date = 1449987600
-_sort_last_updated = 1449989040
-_sort_publish_date = 1450026000
+sort_create_date = 1449987600
+sort_last_updated = 1449989040
+sort_publish_date = 1450026000
 create_date = "2015-12-12T22:20:00-08:00"
 publish_date = "2015-12-13T09:00:00-08:00"
 date = "2015-12-13T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post this week has pieces by 2 linguists: @margalitfox & @arikaokrent! Also @waxpancake & @Greg_Lindsay"
 facebookauto = "The Sunday Post has two linguists (one who wrote a superb obituary, and the other who wrote about the Washington Post switching to a singular \"they\"), gendered language in poker, and remaking an Australian city. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Janet Wolfe, Gothamite on a First-Name Basis With Her Era, Dies at 101](http://www.nytimes.com/2015/12/08/nyregion/janet-wolfe-gleeful-gothamite-on-a-first-name-basis-with-her-era-dies-at-101.html?_r=0 "None")</h5>

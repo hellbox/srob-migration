@@ -1,8 +1,8 @@
 +++
 index = "-KVmsGdIZLhHsaxzVbNq"
-_sort_create_date = 1478322360
-_sort_last_updated = 1478322360
-_sort_publish_date = 1478721660
+sort_create_date = 1478322360
+sort_last_updated = 1478322360
+sort_publish_date = 1478721660
 create_date = "2016-11-04T22:06:00-07:00"
 publish_date = "2016-11-09T12:01:00-08:00"
 date = "2016-11-09T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings includes 4 (!) book launches and a very special Veteran's Day event."
 facebookauto = "This week brings four brand-new books being launched into the world, as well as science-minded books about astronomy and sex."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/sherman-alexie", "authors/donna-miscolta"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday November 9th: Sacred Breath**</h5></p> 

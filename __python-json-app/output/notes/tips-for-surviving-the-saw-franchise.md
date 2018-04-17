@@ -1,8 +1,8 @@
 +++
 index = "-Ka0BTP21bCoiW_di8BE"
-_sort_create_date = 1483931220
-_sort_last_updated = 1484667960
-_sort_publish_date = 1484675700
+sort_create_date = 1483931220
+sort_last_updated = 1484667960
+sort_publish_date = 1484675700
 create_date = "2017-01-08T19:07:00-08:00"
 publish_date = "2017-01-17T09:55:00-08:00"
 date = "2017-01-17T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Practical poetry, as our month of @elisacatrina continues: \"Tips for Surviving the Saw Franchise\""
 facebookauto = "Practical poetry, as our month of Elise Chavez continues: \"Tips for Surviving the Saw Franchise\""
 make_image_tweet = "False"
-byline = ["writers/elisa-chavez"]
+notes_byline = ["writers/elisa-chavez"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The only way out is not through (bone).<br>

@@ -1,8 +1,8 @@
 +++
 index = "-K-nMb-SbT0inCKFTSAs"
-_sort_create_date = 1443970800
-_sort_last_updated = 1443971220
-_sort_publish_date = 1444150500
+sort_create_date = 1443970800
+sort_last_updated = 1443971220
+sort_publish_date = 1444150500
 create_date = "2015-10-04T08:00:00-07:00"
 publish_date = "2015-10-06T09:55:00-07:00"
 date = "2015-10-06T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"You are the North and I am the South / My tanks aim for you. I shoot you a thousand times.\" @thisisEJKoh"
 facebookauto = "Our Tuesday poem by EJ Koh opens with this couplet:\n\nYou are the North and I am the South\nMy tanks aim for you. I shoot you a thousand times."
 make_image_tweet = ""
-byline = ["writers/ej-koh"]
+notes_byline = ["writers/ej-koh"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 You are the North and I am the South.<br> 

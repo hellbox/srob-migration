@@ -1,8 +1,8 @@
 +++
 index = "-K-MCvuiewgTFwkgEz9B"
-_sort_create_date = 1443498480
-_sort_last_updated = 1443499260
-_sort_publish_date = 1443553260
+sort_create_date = 1443498480
+sort_last_updated = 1443499260
+sort_publish_date = 1443553260
 create_date = "2015-09-28T20:48:00-07:00"
 publish_date = "2015-09-29T12:01:00-07:00"
 date = "2015-09-29T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443497974479/3_lo
 twitterauto = "Seattle Public Library knows the public is unhappy with their rebranding campaign. Here's your chance to be heard."
 facebookauto = "City Librarian Marcellus Turner has released a letter responding to public protestations of Seattle Public Library's rebranding campaign. Now that we know they're listening, let's make sure the library hears what we have to say."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Marcellus Turner, the City Librarian at Seattle Public Library, has [issued a letter](http://www.spl.org/about-the-library/leaders-and-organizations/city-librarian) responding to public criticism of the library's rebranding campaign, which [I wrote about last week](http://seattlereviewofbooks.com/notes/2015/09/21/help-seattle-public-library-remember-that-books-and-librarians-are-what-matter-most/). Turner writes that the rebranding has...

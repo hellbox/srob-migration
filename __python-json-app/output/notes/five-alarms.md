@@ -1,8 +1,8 @@
 +++
 index = "-KTlTKfcuJ5NGYKi5rsG"
-_sort_create_date = 1476151260
-_sort_last_updated = 1476202500
-_sort_publish_date = 1476204900
+sort_create_date = 1476151260
+sort_last_updated = 1476202500
+sort_publish_date = 1476204900
 create_date = "2016-10-10T19:01:00-07:00"
 publish_date = "2016-10-11T09:55:00-07:00"
 date = "2016-10-11T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem \"Five Alarms\", by @graisaac, looks at the Greenwood, after the explosion."
 facebookauto = "Our Tuesday Poem \"Five Alarms\", by Graham Isaac, looks at the Greenwood, after the explosion."
 make_image_tweet = "False"
-byline = ["writers/graham-isaac"]
+notes_byline = ["writers/graham-isaac"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Vancouver has an<br>

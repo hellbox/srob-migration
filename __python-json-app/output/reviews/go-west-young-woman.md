@@ -1,8 +1,8 @@
 +++
 index = "-KHqGEWsVStW0qQz7kGG"
-_sort_create_date = 1463346840
-_sort_last_updated = 1463425740
-_sort_publish_date = 1463425200
+sort_create_date = 1463346840
+sort_last_updated = 1463425740
+sort_publish_date = 1463425200
 create_date = "2016-05-15T14:14:00-07:00"
 publish_date = "2016-05-16T12:00:00-07:00"
 date = "2016-05-16T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Go West, young woman"
 dek = "Lindy West's new book is here! We called in another feminist veteran of anonymous internet male rage, Brianna Wu, to give us her take. "
 facebookauto = "Lindy West's new book is here! We asked Brianna Wu to write our review. "
 twitterauto = "We asked @Spacekatgal to review @thelindywest's new book \"Shrill\". "
-byline = ["writers/brianna-wu"]
+reviews_byline = ["writers/brianna-wu"]
 books_in_this_review = ["books/shrill"]
 tags_reviews = ["tags/feminism"]
-authors_reviews = ["authors/lindy-west"]
+reviews_about = ""
 +++
 
 Are you interested in Lindy West the person? Or are you interested in the feminist issues Lindy West frequently discusses, such as fat acceptance? That answer will tell you how much you’ll enjoy her new book _Shrill_. 

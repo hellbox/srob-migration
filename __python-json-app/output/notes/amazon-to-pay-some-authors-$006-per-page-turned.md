@@ -1,8 +1,8 @@
 +++
 index = "-JtFrglEyNP2xnVuPt0g"
-_sort_create_date = 1435875840
-_sort_last_updated = 1436218140
-_sort_publish_date = 1435875840
+sort_create_date = 1435875840
+sort_last_updated = 1436218140
+sort_publish_date = 1435875840
 create_date = "2015-07-02T15:24:00-07:00"
 publish_date = "2015-07-02T15:24:00-07:00"
 date = "2015-07-02T15:24:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon", "tags/indie-authors", "tags/royalties"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [This headline from Consumerist says it all](http://consumerist.com/2015/07/02/amazon-will-reportedly-pay-self-published-e-book-authors-006-per-page-read/): "**Amazon Will Reportedly Pay Self-Published E-Book Authors $.006 Per Page Read**."

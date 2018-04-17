@@ -1,8 +1,8 @@
 +++
 index = "-Jx82zwPZKIUvzTasmlZ"
-_sort_create_date = 1440039780
-_sort_last_updated = 1440039780
-_sort_publish_date = 1440039780
+sort_create_date = 1440039780
+sort_last_updated = 1440039780
+sort_publish_date = 1440039780
 create_date = "2015-08-19T20:03:00-07:00"
 publish_date = "2015-08-19T20:03:00-07:00"
 date = "2015-08-19T20:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1440039753349/IMG_
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ""
-authors_notes = ["authors/jonathan-franzen"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1440039753349/IMG_0155.jpg)</p>

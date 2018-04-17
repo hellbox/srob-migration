@@ -1,8 +1,8 @@
 +++
 index = "-K1N80ex3jcj-c8kZQez"
-_sort_create_date = 1445661480
-_sort_last_updated = 1445829300
-_sort_publish_date = 1445829300
+sort_create_date = 1445661480
+sort_last_updated = 1445829300
+sort_publish_date = 1445829300
 create_date = "2015-10-23T21:38:00-07:00"
 publish_date = "2015-10-25T20:15:00-07:00"
 date = "2015-10-25T20:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445660948900/shor
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run", "tags/adas-technical-books", "tags/university-book-store", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **MONDAY** [Ada’s Technical Books](http://www.seattletechnicalbooks.com/harvesting-space-greener-earthand-beyond-featuring-author-les-johnson) kicks off our week in events with  NASA scientist ** Les Johnson**, who will be discussing his book *Harvesting Space for a Greener Earth...And Beyond!* Press materials promise that Johnson will discuss “how we can use space resources to help solve energy and environmental problems on Earth while simultaneously putting in place the infrastructure to allow sustained exploration of Mars.” Now that you've seen *The Martian* and you're all stressed about what would happen if you get trapped on Mars by yourself, you should probably start preparing for just that eventuality.

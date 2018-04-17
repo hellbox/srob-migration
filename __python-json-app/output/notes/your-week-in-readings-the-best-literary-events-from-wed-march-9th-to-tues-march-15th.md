@@ -1,8 +1,8 @@
 +++
 index = "-KC3C_PYb0_MTiiYTkdk"
-_sort_create_date = 1457138280
-_sort_last_updated = 1457314740
-_sort_publish_date = 1457545740
+sort_create_date = 1457138280
+sort_last_updated = 1457314740
+sort_publish_date = 1457545740
 create_date = "2016-03-04T16:38:00-08:00"
 publish_date = "2016-03-09T09:49:00-08:00"
 date = "2016-03-09T09:49:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457137817282/pati
 twitterauto = "Introducing the new Your Week in Readings! What do you think of the new format?"
 facebookauto = "We're trying a new format for Your Week in Readings: more information, more opinions, one in-depth show preview per week. Let us know what you think!"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/hugo-house", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/april"]
-authors_notes = ["authors/dan-clowes"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday March 9: Beacon Bards**</h5></p>

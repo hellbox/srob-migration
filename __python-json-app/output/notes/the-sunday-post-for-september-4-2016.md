@@ -1,8 +1,8 @@
 +++
 index = "-KQoWld9sjMTUJxcuY7T"
-_sort_create_date = 1472981280
-_sort_last_updated = 1472981280
-_sort_publish_date = 1473004800
+sort_create_date = 1472981280
+sort_last_updated = 1472981280
+sort_publish_date = 1473004800
 create_date = "2016-09-04T02:28:00-07:00"
 publish_date = "2016-09-04T09:00:00-07:00"
 date = "2016-09-04T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "How @ATFHQ traces guns, @FoxNews women's revenge on #RogerAiles, Seattle's @TheOatmeal, & 2 great pieces on language"
 facebookauto = "Sunday Post: the inefficient system behind gun tracing, Fox News' Roger Ailes called out at last, Seattle's native The Oatmeal, & two more excellent pieces on language for your long weekend reading. "
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns" title="Inside the Federal Bureau Of Way Too Many Guns">Inside the Federal Bureau Of Way Too Many Guns</a></h5>

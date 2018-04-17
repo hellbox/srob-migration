@@ -1,8 +1,8 @@
 +++
 index = "-K3TaTMMdAvQyFB5vdaZ"
-_sort_create_date = 1447917360
-_sort_last_updated = 1447917420
-_sort_publish_date = 1447955580
+sort_create_date = 1447917360
+sort_last_updated = 1447917420
+sort_publish_date = 1447955580
 create_date = "2015-11-18T23:16:00-08:00"
 publish_date = "2015-11-19T09:53:00-08:00"
 date = "2015-11-19T09:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447916800302/msma
 twitterauto = "There are more comics about female superheroes out there right now than ever before. Here are three good ones:"
 facebookauto = "There are more comics about female superheroes out there right now than ever before. Even better, these comics are really well done."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/marvel-comics", "tags/thursday-comics-hangover"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ""
 +++
 In what could very possibly be some sort of a record, Marvel Comics this week published three first issues of three different series starring superheroes who are women. Even better, all three of them are great fun. They’re classic superhero comics; compelling stories about conflicted characters in outlandish situations.

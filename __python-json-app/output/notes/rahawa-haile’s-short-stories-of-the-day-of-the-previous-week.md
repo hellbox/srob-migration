@@ -1,8 +1,8 @@
 +++
 index = "-JvbaLafv000tXSO0Ynt"
-_sort_create_date = 1438404660
-_sort_last_updated = 1440220920
-_sort_publish_date = 1438448400
+sort_create_date = 1438404660
+sort_last_updated = 1440220920
+sort_publish_date = 1438448400
 create_date = "2015-07-31T21:51:00-07:00"
 publish_date = "2015-08-01T10:00:00-07:00"
 date = "2015-08-01T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's @rahawahaile's short stories of the day, of the previous week -- this week with a bonus interview from @knguyen"
 facebookauto = "Rahawa Haile\u2019s short stories of the day, of the previous week -- this week with a bonus interview!"
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/short-story-of-the-day", "tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
-authors_notes = ["authors/rahawa-haile"]
+notes_about = ""
 books = ""
 +++
 <p class="small">Every day, friend of the *SRoB* Rahawa Haile tweets a short story. She gave us permission to collect them every week.</p>

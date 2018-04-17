@@ -1,8 +1,8 @@
 +++
 index = "-KOYg0437mUr264pJK4Y"
-_sort_create_date = 1470551280
-_sort_last_updated = 1470551820
-_sort_publish_date = 1470585600
+sort_create_date = 1470551280
+sort_last_updated = 1470551820
+sort_publish_date = 1470585600
 create_date = "2016-08-06T23:28:00-07:00"
 publish_date = "2016-08-07T09:00:00-07:00"
 date = "2016-08-07T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post: the #DarienGap, @POTUS' piece in @glamourmag, the art of pol. speechwriting, & #HinsdalePO's 200th bday"
 facebookauto = "Check out this week's Sunday Post for an article about perilous journeys through a lawless jungle, Obama's feminist piece for Glamour, a celebration of the Postal Service's 200th birthday, and what makes a good political speech. "
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.outsideonline.com/2098801/skull-stake-darien-gap" title="A Terrifying Journey Through the World’s Most Dangerous Jungle">A Terrifying Journey Through the World’s Most Dangerous Jungle</a></h5>

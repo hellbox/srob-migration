@@ -1,8 +1,8 @@
 +++
 index = "-JwdIX4Y_r0xUIy-hmk6"
-_sort_create_date = 1439506980
-_sort_last_updated = 1439507100
-_sort_publish_date = 1439506980
+sort_create_date = 1439506980
+sort_last_updated = 1439507100
+sort_publish_date = 1439506980
 create_date = "2015-08-13T16:03:00-07:00"
 publish_date = "2015-08-13T16:03:00-07:00"
 date = "2015-08-13T16:03:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/q4oMSYfUWSo0AdVuqSxPfRefCJpg2RPsHoeGgvFPVscwP4i7Cckld4GGqQYsM4DZtd4XM3tc9vmgKiAy5qWlj7F9qs7L"
 url = "/webhook-uploads/1439507029689/content%3Fid%3Dp5LyrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 45046
 
 review_relationship = ["reviews/the-seattle-of-your-nightmares"]
-author_relationship = ["authors/ta-nehisi-coates"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/ta-nehisi-coates-to-write-black-panther-comic-book-for-marvel", "notes/ta-nehisi-coates-reads-in-seattle-tonight", "notes/the-problem-of-applause", "notes/the-2015-national-book-award-winners-are", "notes/thursday-comics-hangover-everybodys-talking-about-the-black-panther", "notes/thursday-comics-hangover-william-gibson-comes-to-comics", "notes/third-place-seward-park-is-our-june-bookstore-of-the-month", "notes/ta-nehisi-coatess-new-book-is-on-the-stands-in-bookstores-now"]
 +++

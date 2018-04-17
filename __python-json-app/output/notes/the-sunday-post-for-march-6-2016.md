@@ -1,8 +1,8 @@
 +++
 index = "-KCBxRS-zyRAJzWnRZQ2"
-_sort_create_date = 1457285040
-_sort_last_updated = 1457285220
-_sort_publish_date = 1457285400
+sort_create_date = 1457285040
+sort_last_updated = 1457285220
+sort_publish_date = 1457285400
 create_date = "2016-03-06T09:24:00-08:00"
 publish_date = "2016-03-06T09:30:00-08:00"
 date = "2016-03-06T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post has pieces by: @estherxlwang, @NerdGerhl,  and @HopeJahren"
 facebookauto = "Romance novels and race, a Seattle temperance union angel, the crap women in the sciences put up with, and Frank Miller from the perspective of a young girl comics fan -- all in this week's The Sunday Post"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Born a slave, Emma Ray was the saint of Seattle’s slums](http://features.crosscut.com/born-a-slave-emma-ray-was-the-saint-of-seattles-slums "Born a slave, Emma Ray was the saint of Seattle’s slums")</h5>

@@ -1,8 +1,8 @@
 +++
 index = "-KlbKbDlP-gMsFLpr2C5"
-_sort_create_date = 1496382300
-_sort_last_updated = 1496382300
-_sort_publish_date = 1496774700
+sort_create_date = 1496382300
+sort_last_updated = 1496382300
+sort_publish_date = 1496774700
 create_date = "2017-06-01T22:45:00-07:00"
 publish_date = "2017-06-06T11:45:00-07:00"
 date = "2017-06-06T11:45:00-07:00"
@@ -13,10 +13,10 @@ title = "Amazing grace"
 dek = "Tonight, Dr. Willie Parker reads at Town Hall from his memoir about being a Christian who provides abortions. His book is also a thoughtful exploration of spirituality."
 facebookauto = "Dr. Willie Parker reads at Town Hall Seattle tonight. His memoir is a moving account of spirituality and why he believes providing abortions is a moral imperative."
 twitterauto = "This memoir by an abortion provider is a stunningly beautiful tribute to Christianity."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/lifes-work"]
 tags_reviews = ["tags/memoir", "tags/abortion"]
-authors_reviews = ["authors/dr-willie-parker"]
+reviews_about = ""
 +++
 
 In the New Testament, Paul is single-minded about grace. He writes about grace relentlessly, until the word becomes a catchall for pretty much anything that is good and true in the world. Grace is God’s love. Grace is the power through which you are cleansed of sin. Grace is what gives you the will to get through another day, even though every cell in your body is telling you to stay in bed. Grace comes from within. Grace comes from without. It is unknowable and it is instantly recognizable. It  carries so much meaning that it seems almost meaningless.

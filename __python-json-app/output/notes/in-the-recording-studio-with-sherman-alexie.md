@@ -1,8 +1,8 @@
 +++
 index = "-KmNd8I4ohUXRRPTdlyI"
-_sort_create_date = 1497209520
-_sort_last_updated = 1497320880
-_sort_publish_date = 1497466860
+sort_create_date = 1497209520
+sort_last_updated = 1497320880
+sort_publish_date = 1497466860
 create_date = "2017-06-11T12:32:00-07:00"
 publish_date = "2017-06-14T12:01:00-07:00"
 date = "2017-06-14T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497208840590/sher
 twitterauto = "We were in the studio for the recording session for Sherman Alexie's new book. Here's what we saw:"
 facebookauto = "We were in the studio for the recording session for Sherman Alexie's new book. Here's what we saw:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/audio-books"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ["books/you-dont-have-to-say-you-love-me"]
 +++
 <p class="image">![](/webhook-uploads/1497208473102/shermanalexieinthestudio.JPG)</p>

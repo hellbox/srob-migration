@@ -1,8 +1,8 @@
 +++
 index = "-KMvpnV2KBxmoOUfqV-k"
-_sort_create_date = 1468809000
-_sort_last_updated = 1468809000
-_sort_publish_date = 1468861140
+sort_create_date = 1468809000
+sort_last_updated = 1468809000
+sort_publish_date = 1468861140
 create_date = "2016-07-17T19:30:00-07:00"
 publish_date = "2016-07-18T09:59:00-07:00"
 date = "2016-07-18T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468808814473/wing
 twitterauto = "Here's a fantasy novel that will deepen your love of reading."
 facebookauto = "A bookseller at Ravenna Third Place Books recommends a fantasy novel that will deepen your love of reading."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/third-place-books-ravenna", "tags/small-beer-press"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Monday in the month of July, we’ll talking to Seattle-area booksellers about the books they’re most excited to read this summer. </p>

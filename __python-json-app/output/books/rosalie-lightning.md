@@ -1,8 +1,8 @@
 +++
 index = "-K8wUDz7ElPdsmbBAgqS"
-_sort_create_date = 1453787460
-_sort_last_updated = 1453787640
-_sort_publish_date = 1453787460
+sort_create_date = 1453787460
+sort_last_updated = 1453787640
+sort_publish_date = 1453787460
 create_date = "2016-01-25T21:51:00-08:00"
 publish_date = "2016-01-25T21:51:00-08:00"
 date = "2016-01-25T21:51:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0b46oq0JXYUNYExrBl9HsrHXNtOOEvYVZ5Wb6Y3L1q0BEFIVHykb90ogBMQHZ7585oJYtebLyHHaR5ZfafgBiuLn8mp0"
 url = "/webhook-uploads/1453787507462/content%3Fid%3D5vo6CwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 8262
 
 review_relationship = ["reviews/a-rainbow-of-grief"]
-author_relationship = ["authors/tom-hart"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-cartoonist-noel-franklin-about-her-new-award-short-run-and-her-next-book", "notes/literary-event-of-the-week-short-run"]
 +++

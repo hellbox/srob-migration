@@ -1,8 +1,8 @@
 +++
 index = "-K-XMqOQ6NHqvc_MMlHc"
-_sort_create_date = 1443685680
-_sort_last_updated = 1443713340
-_sort_publish_date = 1443718860
+sort_create_date = 1443685680
+sort_last_updated = 1443713340
+sort_publish_date = 1443718860
 create_date = "2015-10-01T00:48:00-07:00"
 publish_date = "2015-10-01T10:01:00-07:00"
 date = "2015-10-01T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We can learn some important lessons from Seattle: City of Literature's failure to reflect Seattle's diversity."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/diversity"]
-authors_notes = ["authors/ryan-boudinot"]
+notes_about = ""
 books = ["books/seattle-city-of-literature"]
 +++
 As a co-founder of the *Seattle Review of Books*, I am proud to publish [Donna Miscolta’s piece about minority representation in the *Seattle: City of Literature*](http://seattlereviewofbooks.com/reviews/reflections-by-and-about-white-people/) anthology. This piece is a perfect example of why my partner Martin McClellan and I created this site: to engage in conversation with books and with the city, and to help bring compelling pieces of writing to an audience that cares passionately about books.

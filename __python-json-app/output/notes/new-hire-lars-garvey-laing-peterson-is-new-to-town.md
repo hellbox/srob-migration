@@ -1,8 +1,8 @@
 +++
 index = "-JxYQ6vOLZVMvVy0dSnA"
-_sort_create_date = 1440482040
-_sort_last_updated = 1440519180
-_sort_publish_date = 1440532800
+sort_create_date = 1440482040
+sort_last_updated = 1440519180
+sort_publish_date = 1440532800
 create_date = "2015-08-24T22:54:00-07:00"
 publish_date = "2015-08-25T13:00:00-07:00"
 date = "2015-08-25T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"A lot of my early hopes [about Seattle] have already come true.\" We interview an author who's new to town."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lars-garvey-laing-peterson", "tags/kristen-millares-young", "tags/brian-mcguigan", "tags/hugo-house", "tags/lit-crawl"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">For as long as Seattle has been a city, people have come to town and people have left town. Earlier this month, the *Seattle Review of Books* introduced a feature called [Exit Interview](http://seattlereviewofbooks.com/notes/2015/08/11/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane/), in which we talk with an author who recently left town about their Seattle experience. The natural pair to that feature is New Hire, an interview with an author who’s just arrived here. (If you have any suggestions for a subject of an upcoming Exit Interview or a New Hire, please [drop us a line](http://seattlereviewofbooks.com/about/).) Our first New Hire is Lars Garvey Laing-Peterson,

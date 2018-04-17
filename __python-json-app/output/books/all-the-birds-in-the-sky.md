@@ -1,8 +1,8 @@
 +++
 index = "-KG9ZReX1adk8aRe38mu"
-_sort_create_date = 1461539940
-_sort_last_updated = 1461687120
-_sort_publish_date = 1461539940
+sort_create_date = 1461539940
+sort_last_updated = 1461687120
+sort_publish_date = 1461539940
 create_date = "2016-04-24T16:19:00-07:00"
 publish_date = "2016-04-24T16:19:00-07:00"
 date = "2016-04-24T16:19:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["FICTION"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/RO6SYolU9cPKyr3BDCXtk4G1GyZc1tTqhNci3453UckXWha3skChOaLeu09ZloRL5GNSKJyrlGCek7D0Wll2O1SGXrUk"
 url = "/webhook-uploads/1461539947822/content%3Fid%3DAQlXrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10881
 
 review_relationship = ""
-author_relationship = ["authors/charlie-jane-anders"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-all-the-birds-in-the-sky"]
 +++

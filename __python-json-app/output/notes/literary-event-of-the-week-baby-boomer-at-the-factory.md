@@ -1,8 +1,8 @@
 +++
 index = "-L4NQxo7mnf8rzbbND-6"
-_sort_create_date = 1517607180
-_sort_last_updated = 1517607180
-_sort_publish_date = 1517853300
+sort_create_date = 1517607180
+sort_last_updated = 1517607180
+sort_publish_date = 1517853300
 create_date = "2018-02-02T13:33:00-08:00"
 publish_date = "2018-02-05T09:55:00-08:00"
 date = "2018-02-05T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517606897742/Haus
 twitterauto = "Our event of the week remixes found photo slides from the mid-20th century into something new."
 facebookauto = "Our event of the week remixes found photo slides from the mid-20th century into something new."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/marie-hausauer"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1517606897742/Hausauer.jpg)</p>

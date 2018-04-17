@@ -1,8 +1,8 @@
 +++
 index = "-K5Y7ag5sCg_iaW41AQ0"
-_sort_create_date = 1450140900
-_sort_last_updated = 1450403340
-_sort_publish_date = 1450207800
+sort_create_date = 1450140900
+sort_last_updated = 1450403340
+sort_publish_date = 1450207800
 create_date = "2015-12-14T16:55:00-08:00"
 publish_date = "2015-12-15T11:30:00-08:00"
 date = "2015-12-15T11:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Dear @artisttrust and @FryeArtMuseum and other award-givers: please stop giving money to David Shields."
 facebookauto = "David Shields takes up way too much attention as it is. Does he really need to be hoovering up $50,000 in awards money from the Frye Art Museum and Artist Trust, too?"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/frye-art-museum", "tags/artist-trust"]
-authors_notes = ["authors/david-shields"]
+notes_about = ""
 books = ""
 +++
 1.  **Congratulations to Seattle poet Storme Webber** for winning a [Frye Art Museum | Artist Trust Consortium 2015 James W. Ray Award](http://artisttrust.org/index.php/news/press-release/frye_art_museum_artist_trust_consortium_2015_james_w._ray_awards_announced). That $15,000 prize will undoubtedly go toward the creation of some exciting new writing that Webber will share in one of her many readings around town. That’s exactly what an award like this is for; it provides income to pillars of the community who work in fields (like, say, poetry) that don’t pay very well. 

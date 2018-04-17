@@ -1,8 +1,8 @@
 +++
 index = "-K52eCAXGpDLZCrp2IL-"
-_sort_create_date = 1449612840
-_sort_last_updated = 1449612840
-_sort_publish_date = 1449683040
+sort_create_date = 1449612840
+sort_last_updated = 1449612840
+sort_publish_date = 1449683040
 create_date = "2015-12-08T14:14:00-08:00"
 publish_date = "2015-12-09T09:44:00-08:00"
 date = "2015-12-09T09:44:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449611731764/cont
 twitterauto = "Letizia at @ubookstorereads recommends Sandra Cisneros's A House of My Own this holiday season."
 facebookauto = "University Book Store bookseller Letizia recommends Sandra Cisneros's A House of My Own for all the travelers and writers on your holiday shopping list."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/university-book-store"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Ask a thousand booksellers what you should buy as a gift for the holidays and you’ll get a thousand different answers. There’s no single perfect gift. But Letizia, a bookseller at University Book Store, is *really* excited about Sandra Cisneros’s book *A House of My Own*, and she thinks you should be, too.

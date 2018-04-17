@@ -1,8 +1,8 @@
 +++
 index = "-KjqDv0OGywipdLh5jgL"
-_sort_create_date = 1494484740
-_sort_last_updated = 1494484740
-_sort_publish_date = 1494484740
+sort_create_date = 1494484740
+sort_last_updated = 1494484740
+sort_publish_date = 1494484740
 create_date = "2017-05-10T23:39:00-07:00"
 publish_date = "2017-05-10T23:39:00-07:00"
 date = "2017-05-10T23:39:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qSpsXsDfjtRoh8M9rWMdo-lM95ByNnPQYyTwX3JtUfTAOT_H7u2-sd28ZMuSJ-Fe3ZIsTKWARa1JDnwkd7c69UyjE62iUg"
 url = "/webhook-uploads/1494484633162/ncc.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 89469
 
 review_relationship = ["reviews/it-should-exist-but-it-doesnt"]
-author_relationship = ["authors/various"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

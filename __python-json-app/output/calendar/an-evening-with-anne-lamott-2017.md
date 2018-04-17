@@ -1,8 +1,8 @@
 +++
 index = "-L1V4XNq4104_PDuOvbJ"
-_sort_create_date = 1514514240
-_sort_last_updated = 1522445880
-_sort_publish_date = 1514514240
+sort_create_date = 1514514240
+sort_last_updated = 1522445880
+sort_publish_date = 1514514240
 create_date = "2017-12-28T18:24:00-08:00"
 publish_date = "2017-12-28T18:24:00-08:00"
 date = "2017-12-28T18:24:00-08:00"
@@ -26,6 +26,6 @@ time_description = "
 end_time = "2017-12-28T21:00:00-08:00"
 enddate = ""
 is_sponsorship = true
-authors = ["authors/anne-lamott"]
+authors = ""
 sponsorship_event = ""
 venues = ""

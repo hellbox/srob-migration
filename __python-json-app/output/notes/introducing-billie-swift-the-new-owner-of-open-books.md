@@ -1,8 +1,8 @@
 +++
 index = "-KGLI7jYHQkt6GclhQy2"
-_sort_create_date = 1461736680
-_sort_last_updated = 1461737460
-_sort_publish_date = 1461783480
+sort_create_date = 1461736680
+sort_last_updated = 1461737460
+sort_publish_date = 1461783480
 create_date = "2016-04-26T22:58:00-07:00"
 publish_date = "2016-04-27T11:58:00-07:00"
 date = "2016-04-27T11:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461736249331/open
 twitterauto = "Here's our exclusive interview with new Open Books owner Billie Swift."
 facebookauto = "The new owner of Open Books, Billie Swift, sat down to chat with us about the future of everyone's favorite poetry-only bookstore."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/open-books", "tags/billie-swift"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1461736249331/openbookswhitman.jpg)</p>

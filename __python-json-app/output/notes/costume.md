@@ -1,8 +1,8 @@
 +++
 index = "-Kr-GywRmBnM2zNPbZMs"
-_sort_create_date = 1502169480
-_sort_last_updated = 1502206140
-_sort_publish_date = 1502211300
+sort_create_date = 1502169480
+sort_last_updated = 1502206140
+sort_publish_date = 1502211300
 create_date = "2017-08-07T22:18:00-07:00"
 publish_date = "2017-08-08T09:55:00-07:00"
 date = "2017-08-08T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our second poem by August Poet In Residence  @d_arrindell is titled \"Costume\""
 facebookauto = "Our second poem by August Poet In Residence  Daemond Arrindell is titled \"Costume\""
 make_image_tweet = "False"
-byline = ["writers/daemond-arrindell"]
+notes_byline = ["writers/daemond-arrindell"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I guess it’s easy to want to be&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;black,<br>

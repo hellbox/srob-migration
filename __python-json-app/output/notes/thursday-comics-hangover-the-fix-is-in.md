@@ -1,8 +1,8 @@
 +++
 index = "-KFH6j5m5E0vIqd6i0Dw"
-_sort_create_date = 1460592840
-_sort_last_updated = 1460592840
-_sort_publish_date = 1460652840
+sort_create_date = 1460592840
+sort_last_updated = 1460592840
+sort_publish_date = 1460652840
 create_date = "2016-04-13T17:14:00-07:00"
 publish_date = "2016-04-14T09:54:00-07:00"
 date = "2016-04-14T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460592332956/thef
 twitterauto = "If you like Elmore Leonard but wish he told more semen jokes, you might enjoy this heist comic."
 facebookauto = "If you like Elmore Leonard but wish he told more semen jokes, you might enjoy this heist comic."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/image-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last week’s big book news was obviously [the first issue of the *Black Panther* from Ta-Nehisi Coates and Brian Stelfreeze](http://seattlereviewofbooks.com/notes/2016/04/07/thursday-comics-hangover-everybodys-talking-about-the-black-panther/), but there was another debut that deserves your attention, too. Nick Spencer and Steve Lieber’s new series *The Fix* is a crime comic with relatively small stakes, but it’s entertaining as hell — funny, dirty, and charming all at once.

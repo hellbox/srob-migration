@@ -1,8 +1,8 @@
 +++
 index = "-KVY8_3KgwKVwuG4569r"
-_sort_create_date = 1478058420
-_sort_last_updated = 1478058420
-_sort_publish_date = 1478119620
+sort_create_date = 1478058420
+sort_last_updated = 1478058420
+sort_publish_date = 1478119620
 create_date = "2016-11-01T20:47:00-07:00"
 publish_date = "2016-11-02T13:47:00-07:00"
 date = "2016-11-02T13:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in book news: Amazon Books' weird discount strategy and two Seattle author profiles you have to read."
 facebookauto = "Our Book News Roundup features Amazon Books' weird discount strategy and two Seattle author profiles you have to read."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/amazon-books"]
-authors_notes = ["authors/elissa-washuta", "authors/ted-chiang"]
+notes_about = ""
 books = ""
 +++
 * Seattle-area writer Ted Chiang has long been one of the local sci-fi community's best-kept secrets. Just about every Seattle sci-fi writer worth their salt counts Chiang as one of their favorite writers, but his work has not garnered larger acclaim. That's all about to change: one of Chiang's short stories is about to be adapted into an upcoming film called *Arrival* starring Amy Adams that is attracting a lot of pre-release buzz.[The *Wall Street Journal* published](http://www.wsj.com/articles/a-new-story-in-sci-fi-writer-ted-chiangs-life-hollywood-1478015805) a great little profile of Chiang yesterday that you should read.

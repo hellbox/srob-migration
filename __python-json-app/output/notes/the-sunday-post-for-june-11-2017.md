@@ -1,8 +1,8 @@
 +++
 index = "-KmIiOGHJe3XlwwlxM1z"
-_sort_create_date = 1497127020
-_sort_last_updated = 1497127740
-_sort_publish_date = 1497196800
+sort_create_date = 1497127020
+sort_last_updated = 1497127740
+sort_publish_date = 1497196800
 create_date = "2017-06-10T13:37:00-07:00"
 publish_date = "2017-06-11T09:00:00-07:00"
 date = "2017-06-11T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Cowboys on Wall Street, spiders on the ceiling, & homeruns by @meehancrist @Rumaan & @DavidSedaris in the Sunday Post"
 facebookauto = "Cowboys on Wall Street, spiders on the ceiling, and wonderful writing by Meehan Crist, Rumaan Alam, and David Sedaris in the Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

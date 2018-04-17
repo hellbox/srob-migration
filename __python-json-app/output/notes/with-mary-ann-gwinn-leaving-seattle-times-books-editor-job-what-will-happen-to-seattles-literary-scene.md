@@ -1,8 +1,8 @@
 +++
 index = "-Ka-8flKgJ0O1QUuhABZ"
-_sort_create_date = 1483913700
-_sort_last_updated = 1483984740
-_sort_publish_date = 1483989000
+sort_create_date = 1483913700
+sort_last_updated = 1483984740
+sort_publish_date = 1483989000
 create_date = "2017-01-08T14:15:00-08:00"
 publish_date = "2017-01-09T11:10:00-08:00"
 date = "2017-01-09T11:10:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle Times books editor @gwinnma is stepping down, creating big questions for Seattle's literary scene."
 facebookauto = "What's going to happen with books coverage at the Seattle Times, now that books editor Mary Ann Gwinn has been bought out? And what does this mean for the future of Seattle's literary scene?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/media", "tags/seattle-times"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On Saturday, [Heidi Groover at *The Stranger* reported](http://www.thestranger.com/slog/2017/01/07/24787891/after-buyouts-and-layoffs-nearly-two-dozen-people-will-leave-the-seattle-times-newsroom) that *Seattle Times* book section editor Mary Ann Gwinn was accepting a buyout and leaving the paper. Gwinn is one of nearly two dozen reporters who are being laid off or bought out.

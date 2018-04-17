@@ -1,8 +1,8 @@
 +++
 index = "-K_LM-GySHib_eBFJBTA"
-_sort_create_date = 1483212540
-_sort_last_updated = 1483288200
-_sort_publish_date = 1483291800
+sort_create_date = 1483212540
+sort_last_updated = 1483288200
+sort_publish_date = 1483291800
 create_date = "2016-12-31T11:29:00-08:00"
 publish_date = "2017-01-01T09:30:00-08:00"
 date = "2017-01-01T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We hereby resolve to give you a great Sunday Post experience, starting right now."
 facebookauto = "We hereby resolve to give you a great Sunday Post experience, starting right now."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html" title="The Great A.I. Awakening - New York Times Magazine">The Great A.I. Awakening</a></h5>

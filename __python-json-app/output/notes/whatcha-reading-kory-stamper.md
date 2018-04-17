@@ -1,8 +1,8 @@
 +++
 index = "-L8B596Om5ETdxzwWaR4"
-_sort_create_date = 1521695100
-_sort_last_updated = 1521906780
-_sort_publish_date = 1521909000
+sort_create_date = 1521695100
+sort_last_updated = 1521906780
+sort_publish_date = 1521909000
 create_date = "2018-03-21T22:05:00-07:00"
 publish_date = "2018-03-24T09:30:00-07:00"
 date = "2018-03-24T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521695325248/kory
 twitterauto = "What does a lexicographer read for work and fun? Let @KoryStamper tell you!"
 facebookauto = "What does a lexicographer read for work and fun? Let Kory Stamper tell you all about it. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/whatcha-reading"]
-authors_notes = ["authors/michelle-mcnamara", "authors/philip-ball", "authors/hilary-mantel", "authors/deane-b-judd", "authors/lynne-murphy", "authors/vesper-stamper", "authors/douglas-adams", "authors/kory-stamper"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week we ask an interesting figure what they're digging into. Have ideas who we should reach out to? Let it fly: [info@seattlereviewofbooks.com](mailto:info@seattlereviewofbooks.com). Want to read more? Check out the [archives](http://www.seattlereviewofbooks.com/tags/whatcha-reading).</p>

@@ -1,8 +1,8 @@
 +++
 index = "-K1aVGHGDqpv7tHnKyO9"
-_sort_create_date = 1445902440
-_sort_last_updated = 1445971500
-_sort_publish_date = 1445971440
+sort_create_date = 1445902440
+sort_last_updated = 1445971500
+sort_publish_date = 1445971440
 create_date = "2015-10-26T16:34:00-07:00"
 publish_date = "2015-10-27T11:44:00-07:00"
 date = "2015-10-27T11:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/university-book-store"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We have already recommended the Literary Mixer at the Hideout as [tonight's must-attend book event](http://seattlereviewofbooks.com/notes/2015/10/26/your-week-in-readings-the-best-events-from-october-26th-to-november-1st/), and for good reason: I've attended this event on multiple occasions and it's always a lot of fun. But we're always happy to hear a second opinion, especially when it comes from a trusted source, like *SRoB* reader Aaron Brethorst, [who writes in on Twitter](https://twitter.com/aaronbrethorst/status/658507335627771905):

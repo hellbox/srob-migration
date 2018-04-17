@@ -1,8 +1,8 @@
 +++
 index = "-KxpsmAQYRfIU1erHhly"
-_sort_create_date = 1509511320
-_sort_last_updated = 1509597420
-_sort_publish_date = 1509649200
+sort_create_date = 1509511320
+sort_last_updated = 1509597420
+sort_publish_date = 1509649200
 create_date = "2017-10-31T21:42:00-07:00"
 publish_date = "2017-11-02T12:00:00-07:00"
 date = "2017-11-02T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509511745700/take
 twitterauto = "Let's settle it for good: is romance feminist? Kissing Books author @o_waite tackles the big question"
 facebookauto = "Let's settle it for good: is romance feminist? Kissing Books author Olivia Waite tackles the big question"
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/kissing-books"]
-authors_notes = ["authors/julie-garwood", "authors/pema-donyo", "authors/alexis-daria", "authors/rose-lerner", "authors/lorelei-brown", "authors/courtney-milan"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Olivia Waite pulls back the covers, revealing the very best in new, and classic, romance. We're extending a hand to you. Won't you take it? You can also peruse the [_Kissing Books_ historical archive](http://www.seattlereviewofbooks.com/tags/kissing-books/).</p>

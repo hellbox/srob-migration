@@ -1,8 +1,8 @@
 +++
 index = "-JsTJgXmnz-YYG0wbcfr"
-_sort_create_date = 1435027800
-_sort_last_updated = 1435028160
-_sort_publish_date = 1435027800
+sort_create_date = 1435027800
+sort_last_updated = 1435028160
+sort_publish_date = 1435027800
 create_date = "2015-06-22T19:50:00-07:00"
 publish_date = "2015-06-22T19:50:00-07:00"
 date = "2015-06-22T19:50:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/q_396Th6IrHgApWtdGIoOELN6lVnDmY-StBASYWd4ch7KU0l7ebfRR0MkEcTRf3o2uw0SVoafX_PdmAC6c2LanDRGdaD"
 url = "/webhook-uploads/1435027817951/content%3Fid%3DHhDIoAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10029
 
 review_relationship = ""
-author_relationship = ["authors/au\u00f0ur-ava-\u00f3lafsd\u00f3ttir"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-butterflies-in-november"]
 +++

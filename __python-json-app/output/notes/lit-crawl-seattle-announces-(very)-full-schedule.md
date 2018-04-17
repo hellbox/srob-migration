@@ -1,8 +1,8 @@
 +++
 index = "-JzMSimgCnl1cLLKbKAY"
-_sort_create_date = 1442428920
-_sort_last_updated = 1442428920
-_sort_publish_date = 1442428920
+sort_create_date = 1442428920
+sort_last_updated = 1442428920
+sort_publish_date = 1442428920
 create_date = "2015-09-16T11:42:00-07:00"
 publish_date = "2015-09-16T11:42:00-07:00"
 date = "2015-09-16T11:42:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Go luxuriate in the wonderful too-muchness that is the 2015 @LitCrawlSeattle schedule. "
 facebookauto = "The 2015 Lit Crawl schedule has been released, and it's ridiculously, gloriously overstuffed. Go take a few minutes to soak it all in. "
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lit-crawl", "tags/the-james-franco-review", "tags/spartan", "tags/hedgebrook"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Mark your calendars for Thursday, October 22nd — that's the date for Lit Crawl Seattle, the annual three-part literary pub crawl that happens all over downtown, Capitol Hill, and First Hill. Organizers at Lit Crawl just [announced their full schedule](http://litcrawl.org/seattle/2015-schedule) and it's ridiculously packed with local talent. There are scores of readers — somewhere in the neighborhood of 80 — and dozens of readings to suit just about every literary taste.

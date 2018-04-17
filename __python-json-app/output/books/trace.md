@@ -1,8 +1,8 @@
 +++
 index = "-KhXdF8lV3bG_NjG_kww"
-_sort_create_date = 1492008600
-_sort_last_updated = 1492008600
-_sort_publish_date = 1492008600
+sort_create_date = 1492008600
+sort_last_updated = 1492008600
+sort_publish_date = 1492008600
 create_date = "2017-04-12T07:50:00-07:00"
 publish_date = "2017-04-12T07:50:00-07:00"
 date = "2017-04-12T07:50:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/A-OC6-mwmkKOnb9KZJXm4RL_Met8ayYnxQ7inzw36QB7fuW8mSIygTpeQLWYoepcVvimE-qb_1IR-SxpO1Y_bXKiJsE"
 url = "/webhook-uploads/1492008546290/Trace-pen-finalist.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 67839
 
 review_relationship = ["reviews/where-and-when-history-happens"]
-author_relationship = ["authors/lauret-savoy"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

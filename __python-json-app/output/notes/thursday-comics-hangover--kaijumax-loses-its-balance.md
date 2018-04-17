@@ -1,8 +1,8 @@
 +++
 index = "-JvXfh28RL7UEkYGxVsS"
-_sort_create_date = 1438322160
-_sort_last_updated = 1438357500
-_sort_publish_date = 1438322100
+sort_create_date = 1438322160
+sort_last_updated = 1438357500
+sort_publish_date = 1438322100
 create_date = "2015-07-30T22:56:00-07:00"
 publish_date = "2015-07-30T22:55:00-07:00"
 date = "2015-07-30T22:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">(*Every comics fan knows that Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country.* Thursday Comics Hangover *is a weekly column reviewing some of the books I pick up at [Phoenix Comics and Games](http://phoenixseattle.com/), my friendly neighborhood comic book store.*)</p>

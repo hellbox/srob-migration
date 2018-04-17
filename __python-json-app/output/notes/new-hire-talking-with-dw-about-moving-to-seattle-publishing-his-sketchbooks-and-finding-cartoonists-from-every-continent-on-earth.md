@@ -1,8 +1,8 @@
 +++
 index = "-Kvo3sj0tSbo2ErM0gBw"
-_sort_create_date = 1507333440
-_sort_last_updated = 1507335360
-_sort_publish_date = 1507568100
+sort_create_date = 1507333440
+sort_last_updated = 1507335360
+sort_publish_date = 1507568100
 create_date = "2017-10-06T16:44:00-07:00"
 publish_date = "2017-10-09T09:55:00-07:00"
 date = "2017-10-09T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507331790428/Moun
 twitterauto = "We interviewed @fantagraphics cartoonist DW about why he chose to move to Seattle."
 facebookauto = "This Saturday, Fantagraphics hosts a launch party for a new book by a cartoonist named DW. We asked DW why he recently moved to Seattle. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/new-hire", "tags/intruder", "tags/fantagraphics"]
-authors_notes = ["authors/marc-palm", "authors/max-clotfelter", "authors/marie-hausauer", "authors/tom-van-deusen"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1507331790428/Mountebank-034-35.jpg)</p>

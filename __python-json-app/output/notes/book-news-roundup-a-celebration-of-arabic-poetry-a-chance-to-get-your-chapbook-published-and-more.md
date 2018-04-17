@@ -1,8 +1,8 @@
 +++
 index = "-KAcgT9Ati2LLOBP_P0C"
-_sort_create_date = 1455602880
-_sort_last_updated = 1455652560
-_sort_publish_date = 1455653280
+sort_create_date = 1455602880
+sort_last_updated = 1455652560
+sort_publish_date = 1455653280
 create_date = "2016-02-15T22:08:00-08:00"
 publish_date = "2016-02-16T12:08:00-08:00"
 date = "2016-02-16T12:08:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In today's Book News Roundup: a chapbook contest, a celebration of Arabic poetry, and more!"
 facebookauto = "In today's Book News Roundup: a chapbook contest, a celebration of Arabic poetry, and more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run", "tags/poetry", "tags/two-sylvias-press"]
-authors_notes = ["authors/kelly-froh"]
+notes_about = ""
 books = ""
 +++
 * Two Sylvias Press's [annual chapbook contest is now open for submissions](http://twosylviaspress.com/chapbook-prize.html). The reading fee is $15, but the payoff is pretty great: the winner gets $400 and 20 copies of their finished chapbook. A poem by the winner of 2014's chapbook contest, Cecilia Woloch, was [recently featured in the *New York Times Magazine*](http://seattlereviewofbooks.com/notes/2016/02/05/two-sylvias-press-poet-cecilia-woloch-in-the-new-york-times/).

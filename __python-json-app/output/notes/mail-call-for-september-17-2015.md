@@ -1,8 +1,8 @@
 +++
 index = "-JzTITQGGfR3Ivdiow8_"
-_sort_create_date = 1442543640
-_sort_last_updated = 1442543640
-_sort_publish_date = 1442543640
+sort_create_date = 1442543640
+sort_last_updated = 1442543640
+sort_publish_date = 1442543640
 create_date = "2015-09-17T19:34:00-07:00"
 publish_date = "2015-09-17T19:34:00-07:00"
 date = "2015-09-17T19:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1442543610274/IMG_
 twitterauto = "Mail call for a beautiful rainy day, heavy with comics"
 facebookauto = "Mail call in a well-watered Seattle, with some great comics in the mix"
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1442543610274/IMG_1192.jpg)</p>

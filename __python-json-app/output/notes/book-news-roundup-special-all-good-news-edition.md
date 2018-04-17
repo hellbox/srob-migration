@@ -1,8 +1,8 @@
 +++
 index = "-KBJOmUGJI3UoXf5B9hE"
-_sort_create_date = 1456336200
-_sort_last_updated = 1456336260
-_sort_publish_date = 1456346100
+sort_create_date = 1456336200
+sort_last_updated = 1456336260
+sort_publish_date = 1456346100
 create_date = "2016-02-24T09:50:00-08:00"
 publish_date = "2016-02-24T12:35:00-08:00"
 date = "2016-02-24T12:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to all the literary winners of the city's Civic Partnership grants!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/office-of-arts-and-culture", "tags/seattle-arts-and-lectures", "tags/april", "tags/hugo-house", "tags/small-beer-press"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Congratulations to the winners of the city's Civic Partner grants, which are selected by the Office of Arts and Culture. You can read more about the grants at [Capitol Hill Seattle](http://www.capitolhillseattle.com/2016/02/seattle-announces-1-8m-for-arts-groups/) and find [a list of all the recipients here](http://www.capitolhillseattle.com/2016/02/seattle-announces-1-8m-for-arts-groups/), but Seattle-area literary organizations recieving grant money includes APRIL, *Arcade* magazine, Book-It Repertory Theatre, Clarion West, Copper Canyon Press, Floating Bridge Press, Hedgebrook, Jack Straw Foundation, Lit Crawl Seattle, Hugo House, Seattle Arts and Lectures, The Raven Chronicles, and Town Hall Seattle. Grants range anywhere from a couple hundred bucks to tens of thousands of dollars.

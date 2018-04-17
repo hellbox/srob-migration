@@ -1,8 +1,8 @@
 +++
 index = "-KWZ3bl0rpMP2E3qHMvP"
-_sort_create_date = 1479147660
-_sort_last_updated = 1479149940
-_sort_publish_date = 1479151800
+sort_create_date = 1479147660
+sort_last_updated = 1479149940
+sort_publish_date = 1479151800
 create_date = "2016-11-14T10:21:00-08:00"
 publish_date = "2016-11-14T11:30:00-08:00"
 date = "2016-11-14T11:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A little post-election thought experiment pitting @JeffBezos against your local bookstore owner."
 facebookauto = "Here's a little post-election thought experiment pitting Jeff Bezos against your local bookstore owner."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon", "tags/jeff-bezos"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **Step 1**: Visit, send an email to, or call your local independent neighborhood bookstore. Talk to the store owner. Ask how they feel about the prospect of a President Trump.

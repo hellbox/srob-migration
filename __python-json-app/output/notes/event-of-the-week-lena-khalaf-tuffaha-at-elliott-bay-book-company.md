@@ -1,8 +1,8 @@
 +++
 index = "-Kh_0DjpcyecZ1X4rsey"
-_sort_create_date = 1492048440
-_sort_last_updated = 1492048620
-_sort_publish_date = 1492621200
+sort_create_date = 1492048440
+sort_last_updated = 1492048620
+sort_publish_date = 1492621200
 create_date = "2017-04-12T18:54:00-07:00"
 publish_date = "2017-04-19T10:00:00-07:00"
 date = "2017-04-19T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492048432516/wate
 twitterauto = "Our event of the week brings an excellent Redmond poet and translator to @elliottbaybooks."
 facebookauto = "Our event of the week brings an excellent Redmond poet and translator to Elliott Bay Book Company."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/lena-khalaf-tuffaha-"]
+notes_about = ""
 books = ["books/water-&amp;-salt"]
 +++
 It is probably no mistake that some of the best poets are translators. While translating poetry from one language into another is an impossible, thankless task — I’ve heard it described as performing open heart surgery with a chainsaw — it still teaches you to ask all the right questions. 

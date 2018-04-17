@@ -1,8 +1,8 @@
 +++
 index = "-KtAFu0paXTU_HPZyCpQ"
-_sort_create_date = 1504501260
-_sort_last_updated = 1505707740
-_sort_publish_date = 1505840100
+sort_create_date = 1504501260
+sort_last_updated = 1505707740
+sort_publish_date = 1505840100
 create_date = "2017-09-03T22:01:00-07:00"
 publish_date = "2017-09-19T09:55:00-07:00"
 date = "2017-09-19T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504501885432/Scre
 twitterauto = "\"Driving Home From Mother's House\" is our third from September Poet in Residence @estherhelfgott"
 facebookauto = "\"Driving Home From Mother's House\" is our third from September Poet in Residence Esther Altshul Helfgott"
 make_image_tweet = "False"
-byline = ["writers/esther-altshul-helfgott"]
+notes_byline = ["writers/esther-altshul-helfgott"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 As I drive through the bower<br>

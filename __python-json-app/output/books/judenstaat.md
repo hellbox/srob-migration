@@ -1,8 +1,8 @@
 +++
 index = "-KRnDLguDWuFFk5PEM78"
-_sort_create_date = 1474033140
-_sort_last_updated = 1474033320
-_sort_publish_date = 1474033140
+sort_create_date = 1474033140
+sort_last_updated = 1474033320
+sort_publish_date = 1474033140
 create_date = "2016-09-16T06:39:00-07:00"
 publish_date = "2016-09-16T06:39:00-07:00"
 date = "2016-09-16T06:39:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/LRz6c9S0P4f28xayuhMpk89QxDdkS01Tsib4KyetVWgTIA1z3fyWC0jhuX_rijISKn3E3ba4xfxPIzqQFXNwzLdMYwY4xg"
 url = "/webhook-uploads/1474033182992/content%3Fid%3DBmH_sgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 44995
 
 review_relationship = ["reviews/counterfactual-counterhistory-counter-memory"]
-author_relationship = ["authors/simone-zelitch"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

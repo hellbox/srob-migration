@@ -1,8 +1,8 @@
 +++
 index = "-KjzeStRoC7JhiJk4eQl"
-_sort_create_date = 1494642960
-_sort_last_updated = 1494643440
-_sort_publish_date = 1494642960
+sort_create_date = 1494642960
+sort_last_updated = 1494643440
+sort_publish_date = 1494642960
 create_date = "2017-05-12T19:36:00-07:00"
 publish_date = "2017-05-12T19:36:00-07:00"
 date = "2017-05-12T19:36:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "Literary Magazine"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/xJsv9YKHZWf5pC4I2gNltlq3nABGfwrKAo76LWAZuEbRianohDeb3lAuNJn1-jca976ebK3JRnjT32DNmPkKutY56D85uQ"
 url = "/webhook-uploads/1494642964420/IMG_0154.JPG"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 121992
 
 review_relationship = ["reviews/writing-in-between-the-lines"]
-author_relationship = ["authors/various"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

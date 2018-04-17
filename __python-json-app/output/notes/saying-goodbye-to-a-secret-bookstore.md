@@ -1,8 +1,8 @@
 +++
 index = "-Jw41fzO7127QFWcqjfP"
-_sort_create_date = 1438898580
-_sort_last_updated = 1438899240
-_sort_publish_date = 1438898700
+sort_create_date = 1438898580
+sort_last_updated = 1438899240
+sort_publish_date = 1438898700
 create_date = "2015-08-06T15:03:00-07:00"
 publish_date = "2015-08-06T15:05:00-07:00"
 date = "2015-08-06T15:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Brazenhead Books in Manhattan has closed. Most of us never went there &mdash; it was an illegal store. Access, and the address, were shared amongst insiders. “The secret was known to a small number of discreet patrons and shared strictly by word of mouth,” says Brian Patrick Eha, in a [bittersweet New Yorker article](http://www.newyorker.com/books/page-turner/saying-goodbye-to-a-secret-bookstore?mbid=rss) about the store, and its owner Michael Seidenberg.

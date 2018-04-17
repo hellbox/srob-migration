@@ -1,8 +1,8 @@
 +++
 index = "-KfXjHfE6qZLcJ5gpg9W"
-_sort_create_date = 1489862700
-_sort_last_updated = 1489862700
-_sort_publish_date = 1489878000
+sort_create_date = 1489862700
+sort_last_updated = 1489862700
+sort_publish_date = 1489878000
 create_date = "2017-03-18T11:45:00-07:00"
 publish_date = "2017-03-18T16:00:00-07:00"
 date = "2017-03-18T16:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489862662036/IMG_
 twitterauto = "Massive mail call! Three big stacks on the site. "
 facebookauto = "Massive mail call! Three big stacks on the site."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1489862662036/IMG_1132.jpg)</p>

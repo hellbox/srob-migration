@@ -1,8 +1,8 @@
 +++
 index = "-Jt4ua8gMBDr-ydP7JKH"
-_sort_create_date = 1435692060
-_sort_last_updated = 1435810260
-_sort_publish_date = 1435692060
+sort_create_date = 1435692060
+sort_last_updated = 1435810260
+sort_publish_date = 1435692060
 create_date = "2015-06-30T12:21:00-07:00"
 publish_date = "2015-06-30T12:21:00-07:00"
 date = "2015-06-30T12:21:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/robyn-jordan"]
+notes_about = ""
 books = ""
 +++
 You should read [Robyn Jordan's excellent comic](https://medium.com/bright/how-seattle-got-its-arts-groove-back-883392ada1de) about arts education in Seattle public schools. What a beautiful way to tell a positive story.

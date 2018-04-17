@@ -1,8 +1,8 @@
 +++
 index = "-KmDDyfZ3dP9D9pc-gBh"
-_sort_create_date = 1497034860
-_sort_last_updated = 1497477120
-_sort_publish_date = 1497459660
+sort_create_date = 1497034860
+sort_last_updated = 1497477120
+sort_publish_date = 1497459660
 create_date = "2017-06-09T12:01:00-07:00"
 publish_date = "2017-06-14T10:01:00-07:00"
 date = "2017-06-14T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497034728408/ET-R
 twitterauto = "This week, the Comics and Medicine conference comes to Seattle. Why should you care?"
 facebookauto = "Our literary event of the week is the Comics and Medicine Conference, a celebration of the intersection between comics and health."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comics-and-medicine-conference"]
-authors_notes = ["authors/tatiana-gill"]
+notes_about = ""
 books = ""
 +++
 ![](/webhook-uploads/1497034728408/ET-Russian-Commission-300-768x768.jpg)

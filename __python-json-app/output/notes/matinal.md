@@ -1,8 +1,8 @@
 +++
 index = "-K4Qc7lBGtYYxZ-Kxlbo"
-_sort_create_date = 1448941200
-_sort_last_updated = 1448946900
-_sort_publish_date = 1448992500
+sort_create_date = 1448941200
+sort_last_updated = 1448946900
+sort_publish_date = 1448992500
 create_date = "2015-11-30T19:40:00-08:00"
 publish_date = "2015-12-01T09:55:00-08:00"
 date = "2015-12-01T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, Matinal, is from Madeline DeFrees. "
 facebookauto = "Our Tuesday Poem, Matinal, is from Madeline DeFrees. "
 make_image_tweet = ""
-byline = ["writers/madeline-defrees"]
+notes_byline = ["writers/madeline-defrees"]
 tags_notes = ["tags/poetry", "tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Four-thirty, morning. Unearthly time<br>

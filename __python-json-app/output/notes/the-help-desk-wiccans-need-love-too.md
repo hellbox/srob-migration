@@ -1,8 +1,8 @@
 +++
 index = "-L2fNF9uABrVJ5ox0xQz"
-_sort_create_date = 1515777480
-_sort_last_updated = 1515777480
-_sort_publish_date = 1515786960
+sort_create_date = 1515777480
+sort_last_updated = 1515777480
+sort_publish_date = 1515786960
 create_date = "2018-01-12T09:18:00-08:00"
 publish_date = "2018-01-12T11:56:00-08:00"
 date = "2018-01-12T11:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Is your mom aware of the fantastic work the Satanic Temple has spearheaded lately?\""
 facebookauto = "\"Is [your mom] aware of the fantastic work the Satanic Temple has spearheaded lately?\""
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com. The following is an encore presentation of a Help Desk column from 2015. </p>

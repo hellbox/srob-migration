@@ -1,8 +1,8 @@
 +++
 index = "-KDWZSUkplCFgZ5yk_Yl"
-_sort_create_date = 1458704580
-_sort_last_updated = 1458704580
-_sort_publish_date = 1458704580
+sort_create_date = 1458704580
+sort_last_updated = 1458704580
+sort_publish_date = 1458704580
 create_date = "2016-03-22T20:43:00-07:00"
 publish_date = "2016-03-22T20:43:00-07:00"
 date = "2016-03-22T20:43:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458704539050/IMG_
 twitterauto = "Mail Call! Let's hear it: what looks good?"
 facebookauto = "Nothing like some new books on a Tuesday night to start the week off right."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1458704539050/IMG_4993.jpg)</p>

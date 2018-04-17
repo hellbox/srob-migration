@@ -1,8 +1,8 @@
 +++
 index = "-KFzLxctM5_cjJdov546"
-_sort_create_date = 1461351840
-_sort_last_updated = 1461351840
-_sort_publish_date = 1461351840
+sort_create_date = 1461351840
+sort_last_updated = 1461351840
+sort_publish_date = 1461351840
 create_date = "2016-04-22T12:04:00-07:00"
 publish_date = "2016-04-22T12:04:00-07:00"
 date = "2016-04-22T12:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461350894074/Good
 twitterauto = "Sexy librarian porn: Yea or nay?"
 facebookauto = "Is sexy librarian porn good for librarians or bad for librarians?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/porn", "tags/librarians", "tags/gary-herbert"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

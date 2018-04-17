@@ -1,8 +1,8 @@
 +++
 index = "-KWtzL_vnAHP0UHGNdAG"
-_sort_create_date = 1479515400
-_sort_last_updated = 1479515520
-_sort_publish_date = 1479923100
+sort_create_date = 1479515400
+sort_last_updated = 1479515520
+sort_publish_date = 1479923100
 create_date = "2016-11-18T16:30:00-08:00"
 publish_date = "2016-11-23T09:45:00-08:00"
 date = "2016-11-23T09:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479515296199/indi
 twitterauto = "This Saturday, a party bus full of Seattle writers is coming to a bookstore near you."
 facebookauto = "This Saturday, a party bus full of Seattle writers is coming to a bookstore near you."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/sherman-alexie", "authors/david-schmader", "authors/g-willow-wilson", "authors/donna-miscolta", "authors/jane-wong", "authors/quenton-baker", "authors/claudia-castro-luna"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1479515296199/indiesfirst.png)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KVRNNoDRZeHhOVUNypz"
-_sort_create_date = 1477944900
-_sort_last_updated = 1478007000
-_sort_publish_date = 1477945800
+sort_create_date = 1477944900
+sort_last_updated = 1478007000
+sort_publish_date = 1477945800
 create_date = "2016-10-31T13:15:00-07:00"
 publish_date = "2016-10-31T13:30:00-07:00"
 date = "2016-10-31T13:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477944859595/d224
 twitterauto = "Sponsor @UWAPress has come to show Ernestine Hayes' brilliant memoir."
 facebookauto = "Sponsor University of Washington Press has come to show Ernestine Hayes' brilliant memoir."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor University of Washington Press has given us permission to run an excerpt from Ernestine Hayes' _The Tao of Raven_. Make sure you [visit our sponsor's page to read it](http://www.seattlereviewofbooks.com/sponsorships).

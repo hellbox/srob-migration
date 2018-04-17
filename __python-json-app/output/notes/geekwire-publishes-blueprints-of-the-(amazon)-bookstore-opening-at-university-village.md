@@ -1,8 +1,8 @@
 +++
 index = "-K0TBHfzlCKoo3tOD1Mc"
-_sort_create_date = 1444689240
-_sort_last_updated = 1444689240
-_sort_publish_date = 1444689240
+sort_create_date = 1444689240
+sort_last_updated = 1444689240
+sort_publish_date = 1444689240
 create_date = "2015-10-12T15:34:00-07:00"
 publish_date = "2015-10-12T15:34:00-07:00"
 date = "2015-10-12T15:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Geekwire has published the blueprints of that rumored University Village Amazon bookstore."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon", "tags/university-village"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Since Shelf Awareness published the rumors that [Amazon is preparing to open a bookstore in University Village](http://seattlereviewofbooks.com/notes/2015/10/08/amazon-to-open-bookstore-in-university-village/), Geekwire has [done a little digging](http://www.geekwire.com/2015/amazons-bookstore-revealed-blueprints-provide-new-clues-about-mysterious-seattle-site/) into Seattle public records and uncovered blue prints for a space that "will **combine elements of an Apple store and a Barnes & Noble**, with areas for browsing books and checking out and buying new devices." It's a [huge space](http://www.geekwire.com/2015/amazons-bookstore-revealed-blueprints-provide-new-clues-about-mysterious-seattle-site/). 

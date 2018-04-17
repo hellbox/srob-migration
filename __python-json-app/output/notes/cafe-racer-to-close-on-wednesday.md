@@ -1,8 +1,8 @@
 +++
 index = "-Kwb6qtOZgiCQuDLaQrH"
-_sort_create_date = 1508189880
-_sort_last_updated = 1508189880
-_sort_publish_date = 1508189880
+sort_create_date = 1508189880
+sort_last_updated = 1508189880
+sort_publish_date = 1508189880
 create_date = "2017-10-16T14:38:00-07:00"
 publish_date = "2017-10-16T14:38:00-07:00"
 date = "2017-10-16T14:38:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Caf\u00e9 Racer, which has been the hub of Seattle's cartooning community, is set to close on Wednesday."
 facebookauto = "Caf\u00e9 Racer, which has been the hub of Seattle's cartooning community, is set to close on Wednesday."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This note was just posted on Roosevelt bar/coffee shop [Café Racer's Facebook page](https://www.facebook.com/CafeRacerSeattle/posts/10159439433700402):

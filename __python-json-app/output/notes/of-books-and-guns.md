@@ -1,8 +1,8 @@
 +++
 index = "-K9f1wapCJVAhqXkpaaw"
-_sort_create_date = 1454568600
-_sort_last_updated = 1454618760
-_sort_publish_date = 1454623200
+sort_create_date = 1454568600
+sort_last_updated = 1454618760
+sort_publish_date = 1454623200
 create_date = "2016-02-03T22:50:00-08:00"
 publish_date = "2016-02-04T14:00:00-08:00"
 date = "2016-02-04T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Books and guns shouldn't mix."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/guns", "tags/independent-bookstores"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Liam O'Brien at [Melville House looks at](http://www.mhpbooks.com/why-a-texas-bookstore-wants-you-to-bring-your-gun-shopping/) Texas booksellers who are trying to come to terms with the state's new open carry law. Many bookstores are banning guns:

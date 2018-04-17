@@ -1,8 +1,8 @@
 +++
 index = "-KnDAk2w-3lY7OgjoqjD"
-_sort_create_date = 1498107780
-_sort_last_updated = 1498250580
-_sort_publish_date = 1498246800
+sort_create_date = 1498107780
+sort_last_updated = 1498250580
+sort_publish_date = 1498246800
 create_date = "2017-06-21T22:03:00-07:00"
 publish_date = "2017-06-23T12:40:00-07:00"
 date = "2017-06-23T12:40:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498107109093/blan
 twitterauto = "Cate Blanchett brings a dozen manifestoes to life in her new movie @SIFFnews this weekend."
 facebookauto = "No actor on earth can inhabit a text like Cate Blanchett, and she's got some terrific writing to inhabit in her new movie Manifesto. Too bad her director keeps trying to get in the way."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/siff"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1498107109093/blanchett.jpg)</p>

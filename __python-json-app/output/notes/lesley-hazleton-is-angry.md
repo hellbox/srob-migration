@@ -1,8 +1,8 @@
 +++
 index = "-K61cKRWYZ1StVdWjcZA"
-_sort_create_date = 1450669320
-_sort_last_updated = 1450669440
-_sort_publish_date = 1450900980
+sort_create_date = 1450669320
+sort_last_updated = 1450669440
+sort_publish_date = 1450900980
 create_date = "2015-12-20T19:42:00-08:00"
 publish_date = "2015-12-23T12:03:00-08:00"
 date = "2015-12-23T12:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Please watch @accidentaltheo's talk about Trump, the shooting in Colorado Springs, and America."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/lesley-hazleton"]
+notes_about = ""
 books = ""
 +++
 "These are dark days in the United States," Seattle writer Lesley Hazleton said at an event called “[Love in a Time of Fear: Muslims and Christians as Good Neighbors](http://catacombchurches.org/2015/11/23/love-in-a-time-of-fear/)" in Lynnwood. Her talk is nine minutes long, and it's incredible. Please watch it:

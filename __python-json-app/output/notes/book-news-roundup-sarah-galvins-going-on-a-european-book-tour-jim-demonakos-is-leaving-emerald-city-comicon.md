@@ -1,8 +1,8 @@
 +++
 index = "-KiY8wlLCoXEwSwIeDNu"
-_sort_create_date = 1493090940
-_sort_last_updated = 1493138700
-_sort_publish_date = 1493146860
+sort_create_date = 1493090940
+sort_last_updated = 1493138700
+sort_publish_date = 1493146860
 create_date = "2017-04-24T20:29:00-07:00"
 publish_date = "2017-04-25T12:01:00-07:00"
 date = "2017-04-25T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Book News Roundup: Sarah Galvin is going on a European tour! Jim Demonakos just left Emerald City Comicon!"
 facebookauto = "How many Seattle writers have gone on a European tour? However large (or small) the number may be, you can add Sarah Galvin to the ranks. Plus: the founder of Emerald City Comicon is leaving the organization."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/amazon", "tags/emerald-city-comicon"]
-authors_notes = ["authors/sarah-galvin"]
+notes_about = ""
 books = ["books/ugly-time"]
 +++
 * You can add poet Sarah Galvin to the short list of Seattle authors who have gone on a European tour. Starting on Sunday, Galvin will be traveling to bookstores in Amsterdam, Krakow, Paris, Berlin, and Reykjavik in support of her terrific new collection out from Gramma Press, *Ugly Time*. If you know anyone in or near those cities, let them know by [sending them a link to the tour page](https://www.facebook.com/events/1284894781580376/).

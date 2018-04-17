@@ -1,8 +1,8 @@
 +++
 index = "-K_qJwSIeWH48uvHC2y-"
-_sort_create_date = 1483748880
-_sort_last_updated = 1483749360
-_sort_publish_date = 1484082900
+sort_create_date = 1483748880
+sort_last_updated = 1483749360
+sort_publish_date = 1484082900
 create_date = "2017-01-06T16:28:00-08:00"
 publish_date = "2017-01-10T13:15:00-08:00"
 date = "2017-01-10T13:15:00-08:00"
@@ -13,10 +13,10 @@ title = "How to Throw Yourself at the Ground and Miss"
 dek = "Nobody ever gave Seattle's Fantagraphics Books the respect it deserves. So Fantagraphics had to celebrate itself in a giant, gorgeous autobiography."
 facebookauto = "Seattle's own comics publisher Fantagraphics sings a song of itself. And that song is a doozy."
 twitterauto = "Seattle's own @fantagraphics sings a song of itself. And that song is a doozy."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/we-told-you-so"]
 tags_reviews = ["tags/fantagraphics", "tags/comics", "tags/nonfiction"]
-authors_reviews = ["authors/tom-spurgeon"]
+reviews_about = ""
 +++
 
 When a young man named Gary Groth established a magazine to address comics as a serious literary art form, he encountered one small problem: at the time — in the mid-1970s — there were no comics worthy of his criticism. So Groth decided to publish the books that he wanted to write about in his magazine. That was the beginning of Fantagraphics Books, the self-described “publisher of the world’s greatest cartoonists.”  The roster of cartoonists they’ve published over the last four decades— a seemingly never-ending list including Los Bros Hernandez, Chris Ware, Ellen Forney, Dan Clowes, and Lucy Knisley — renders that claim nearly impossible to dispute. And now, from their almost impossibly shitty offices on Lake City Way, Fantagraphics is inarguably the best American comics publisher. In retrospect, it seems like a foregone conclusion, like destiny.

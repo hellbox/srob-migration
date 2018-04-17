@@ -1,8 +1,8 @@
 +++
 index = "-KN_3MRUZnYGfST0Me60"
-_sort_create_date = 1469500680
-_sort_last_updated = 1469569320
-_sort_publish_date = 1469559600
+sort_create_date = 1469500680
+sort_last_updated = 1469569320
+sort_publish_date = 1469559600
 create_date = "2016-07-25T19:38:00-07:00"
 publish_date = "2016-07-26T12:00:00-07:00"
 date = "2016-07-26T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Technology killed bookstore chains. Can technology save indie bookstores? @glennf takes a look."
 facebookauto = "Technology killed bookstore chains. Can technology save indie bookstores? Glenn Fleishman looks into the matter for us. "
 make_image_tweet = "False"
-byline = ["writers/glenn-fleishman"]
+notes_byline = ["writers/glenn-fleishman"]
 tags_notes = ["tags/technology", "tags/independent-bookstores", "tags/future-of-books", "tags/book-business"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 It's great when the received narrative gets disrupted, and Oren Teicher, the CEO of the American Booksellers Association (ABA), has heard more than his share during his long tenure at the independent bookstore trade group, where he's been the boss since 2009 and in other positions before that. The story that is told, news cycle after news cycle, is that indies were always just about to be wiped off the face of the country because of a new challenge.

@@ -1,8 +1,8 @@
 +++
 index = "-KzS2FJ5nqhvmhzlLaoI"
-_sort_create_date = 1511242140
-_sort_last_updated = 1511734560
-_sort_publish_date = 1511805240
+sort_create_date = 1511242140
+sort_last_updated = 1511734560
+sort_publish_date = 1511805240
 create_date = "2017-11-20T21:29:00-08:00"
 publish_date = "2017-11-27T09:54:00-08:00"
 date = "2017-11-27T09:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511241850261/arte
 twitterauto = "You get to be a fly on the wall of this conversation between Neal Stephenson and Andy Weir."
 facebookauto = "You get to be a fly on the wall of this conversation between Neal Stephenson and Andy Weir."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/neal-stephenson"]
+notes_about = ""
 books = ["books/seveneves"]
 +++
 Andy Weir’s *The Martian* is a rare self-publishing success story. *The Martian* first began on a blog, in which Weir presented a series of problems relating to life on Mars followed with a cliffhanger, only to solve the cliffhanger in the next installment. And it must be said that *The Martian* is a ton of fun to read — basically, the dictionary definition of “page-turner.” Somehow, *The Martian* even defied the odds of adaptation, becoming a phenomenally watchable movie, too. 

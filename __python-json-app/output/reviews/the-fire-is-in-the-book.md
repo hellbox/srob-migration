@@ -1,8 +1,8 @@
 +++
 index = "-KelR9YAyGxKkkHhzZ-4"
-_sort_create_date = 1489035600
-_sort_last_updated = 1489557660
-_sort_publish_date = 1490209200
+sort_create_date = 1489035600
+sort_last_updated = 1489557660
+sort_publish_date = 1490209200
 create_date = "2017-03-08T21:00:00-08:00"
 publish_date = "2017-03-22T12:00:00-07:00"
 date = "2017-03-22T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "The fire is in the book"
 dek = "Donna Miscolta unpacks the powerful essays in Sayantani Dasgupta's Fire Girl"
 facebookauto = "SRoB regular Donna Miscolta unpacks the powerful essays in Sayantani Dasgupta's Fire Girl, from Two Sylvias Press"
 twitterauto = "SRoB regular @donnamiscolta unpacks the powerful essays in Sayantani Dasgupta's Fire Girl, from @twosylviaspress"
-byline = ["writers/donna-miscolta"]
+reviews_byline = ["writers/donna-miscolta"]
 books_in_this_review = ["books/fire-girl"]
 tags_reviews = ""
-authors_reviews = ""
+reviews_about = ""
 +++
 
 _She hurt a man’s ego and there was a war and terrible carnage._

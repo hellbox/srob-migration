@@ -1,8 +1,8 @@
 +++
 index = "-KGf7pfyGNCcweFCLgT0"
-_sort_create_date = 1462086300
-_sort_last_updated = 1462129260
-_sort_publish_date = 1462118400
+sort_create_date = 1462086300
+sort_last_updated = 1462129260
+sort_publish_date = 1462118400
 create_date = "2016-05-01T00:05:00-07:00"
 publish_date = "2016-05-01T09:00:00-07:00"
 date = "2016-05-01T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Pieces by @annawiener, @AmandaGefter, and @nicholas_seeley in the Sunday Post. Tech, brains, and noir, in that order."
 facebookauto = "On the inside of Silicon Valley, on the inside of your mind, and on the inside of noir as a genre, all in today's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/" title="Uncanny Valley | Issue 25 | n+1">Uncanny Valley</a></h5>

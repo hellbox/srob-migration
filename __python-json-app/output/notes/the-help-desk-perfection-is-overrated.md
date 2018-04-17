@@ -1,8 +1,8 @@
 +++
 index = "-KWsY0MOyE7t3KeDw7Me"
-_sort_create_date = 1479491160
-_sort_last_updated = 1479491520
-_sort_publish_date = 1479492060
+sort_create_date = 1479491160
+sort_last_updated = 1479491520
+sort_publish_date = 1479492060
 create_date = "2016-11-18T09:46:00-08:00"
 publish_date = "2016-11-18T10:01:00-08:00"
 date = "2016-11-18T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This week's @NaNoWriMo question: what do you do when you can't let go of a sentence until it's perfect?"
 facebookauto = "Our literary advice columnist tackles an important question: as a writer, what do you do when you can't let go of a sentence until it's absolutely perfect?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/nanowrimo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

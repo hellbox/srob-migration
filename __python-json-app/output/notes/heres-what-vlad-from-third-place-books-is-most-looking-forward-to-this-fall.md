@@ -1,8 +1,8 @@
 +++
 index = "-KNVGxHej7ChlGgi8tRC"
-_sort_create_date = 1469420340
-_sort_last_updated = 1469420340
-_sort_publish_date = 1469466060
+sort_create_date = 1469420340
+sort_last_updated = 1469420340
+sort_publish_date = 1469466060
 create_date = "2016-07-24T21:19:00-07:00"
 publish_date = "2016-07-25T10:01:00-07:00"
 date = "2016-07-25T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We asked @3rdplacepress to share a summer book pick & he gave us some fall books to look out for, too."
 facebookauto = "We asked Vlad from Third Place Books to share a summer book pick and he gave us some great-looking fall books to look out for, too."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/novel", "tags/south-seattle-emerald"]
-authors_notes = ["authors/danielle-dutton"]
+notes_about = ""
 books = ["books/margaret-the-first"]
 +++
 This month, I’ve been asking booksellers to name their summer reading picks. It’s been delightful. But the problem with asking booksellers about books they recommend for the summer is that most of them are likely already reading books that will be coming out this fall. Librarians and booksellers are often months ahead on the new-release front.

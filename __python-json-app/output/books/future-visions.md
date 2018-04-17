@@ -1,8 +1,8 @@
 +++
 index = "-K5-3ae9Xv7snDs43VVQ"
-_sort_create_date = 1449552660
-_sort_last_updated = 1450037520
-_sort_publish_date = 1449552660
+sort_create_date = 1449552660
+sort_last_updated = 1450037520
+sort_publish_date = 1449552660
 create_date = "2015-12-07T21:31:00-08:00"
 publish_date = "2015-12-07T21:31:00-08:00"
 date = "2015-12-07T21:31:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "Science Fiction"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BFIJ8j95lh8So_UZ9a_GpqZQJzCh7RRKswKNuBsD8urJJb7tomr_08lApkz_3vqNeZY3I484FNaC1aTz8ZNZBIijxGzi"
 url = "/webhook-uploads/1449552212163/27844376.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 26781
 
 review_relationship = ["reviews/windows-into-the-future"]
-author_relationship = ["authors/multiple-authors"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KGZHrNueoEEDFukkq5N"
-_sort_create_date = 1461971520
-_sort_last_updated = 1461971520
-_sort_publish_date = 1462379400
+sort_create_date = 1461971520
+sort_last_updated = 1461971520
+sort_publish_date = 1462379400
 create_date = "2016-04-29T16:12:00-07:00"
 publish_date = "2016-05-04T09:30:00-07:00"
 date = "2016-05-04T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461971418548/hugo
 twitterauto = "It's time to say goodbye (and hello) to the Hugo House."
 facebookauto = "The event of the week is Epilogue/Prologue, the big goodbye party for Hugo House's old space. Go and write on the walls, while the walls are still there."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/hugo-house"]
-authors_notes = ["authors/maria-semple", "authors/stacey-levine"]
+notes_about = ""
 books = ["books/whered-you-go-bernadette"]
 +++
 <p class="image">![](/webhook-uploads/1461971418548/hugo-house-logo.png)</p>

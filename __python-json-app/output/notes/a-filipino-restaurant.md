@@ -1,8 +1,8 @@
 +++
 index = "-KWaP788dVWx2kO-jye2"
-_sort_create_date = 1479186840
-_sort_last_updated = 1479220020
-_sort_publish_date = 1479232500
+sort_create_date = 1479186840
+sort_last_updated = 1479220020
+sort_publish_date = 1479232500
 create_date = "2016-11-14T21:14:00-08:00"
 publish_date = "2016-11-15T09:55:00-08:00"
 date = "2016-11-15T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, \"A Filipino Restaurant\", is from @ebobarton"
 facebookauto = "Our Tuesday Poem, \"A Filipino Restaurant\", is from Ebo Barton"
 make_image_tweet = "False"
-byline = ["writers/ebo-barton"]
+notes_byline = ["writers/ebo-barton"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A Filipino restaurant is bone marrow<br>

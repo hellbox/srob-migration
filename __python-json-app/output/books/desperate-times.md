@@ -1,8 +1,8 @@
 +++
 index = "-K8ypNzhmjpvb3MlvS49"
-_sort_create_date = 1453826820
-_sort_last_updated = 1453826820
-_sort_publish_date = 1453826820
+sort_create_date = 1453826820
+sort_last_updated = 1453826820
+sort_publish_date = 1453826820
 create_date = "2016-01-26T08:47:00-08:00"
 publish_date = "2016-01-26T08:47:00-08:00"
 date = "2016-01-26T08:47:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/IRsZtQ_-ddXGu6ywHhkml6UQmruxmhXmLlWZfEpmdmkOuVJYC-KudWOo4SXchp6VSjojQ6ifx2ST5oPYCaELVkzsdIIS"
 url = "/webhook-uploads/1453826795671/DTbookCover-606x786.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 205202
 
 review_relationship = ["reviews/punk-snot-dead"]
-author_relationship = ["authors/maire-m-masco"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

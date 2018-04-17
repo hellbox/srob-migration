@@ -1,8 +1,8 @@
 +++
 index = "-KMBGur9IEfatFjQMcLg"
-_sort_create_date = 1468011060
-_sort_last_updated = 1468011060
-_sort_publish_date = 1468432860
+sort_create_date = 1468011060
+sort_last_updated = 1468011060
+sort_publish_date = 1468432860
 create_date = "2016-07-08T13:51:00-07:00"
 publish_date = "2016-07-13T11:01:00-07:00"
 date = "2016-07-13T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your Week in Readings includes a Hollywood-friendly thriller and a super-cheap pop-up bookstore."
 facebookauto = "Your Week in Readings includes a Hollywood-friendly thriller, a super-cheap pop-up bookstore, and a book about why Scandinavians get it right."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/university-book-store"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday July 13: *HEX* Reading**</h5></p> 

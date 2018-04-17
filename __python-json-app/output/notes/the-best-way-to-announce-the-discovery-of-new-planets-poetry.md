@@ -1,8 +1,8 @@
 +++
 index = "-KddjDQUUExkgbJ7McZL"
-_sort_create_date = 1487832660
-_sort_last_updated = 1487832660
-_sort_publish_date = 1487875860
+sort_create_date = 1487832660
+sort_last_updated = 1487832660
+sort_publish_date = 1487875860
 create_date = "2017-02-22T22:51:00-08:00"
 publish_date = "2017-02-23T10:51:00-08:00"
 date = "2017-02-23T10:51:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "One of the astronomers who helped discover the 7 earth-like planets wrote an epic poem to celebrate."
 facebookauto = "One of the astronomers who helped discover the seven earth-like planets surrounding Trappist-1 wrote an epic poem to celebrate."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/science"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Like everyone else, you probably grew a little bit misty at the news that NASA discovered seven Earth-sized planets some 40 light years away from us. It's wondrous news, by which I mean it inspires wonder in us. 

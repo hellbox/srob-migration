@@ -1,8 +1,8 @@
 +++
 index = "-KmcV5eWEmKu0fA_nFQC"
-_sort_create_date = 1497475560
-_sort_last_updated = 1497475560
-_sort_publish_date = 1497560400
+sort_create_date = 1497475560
+sort_last_updated = 1497475560
+sort_publish_date = 1497560400
 create_date = "2017-06-14T14:26:00-07:00"
 publish_date = "2017-06-15T14:00:00-07:00"
 date = "2017-06-15T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497474946685/SRoB
 twitterauto = "Portrait Gallery: @SharmaShields #illustration by @studiochristine. Tonight @HugoHouse #WA State #writers & #poets"
 facebookauto = "Portrait Gallery: Sharma Shields painted by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/sharma-shields"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

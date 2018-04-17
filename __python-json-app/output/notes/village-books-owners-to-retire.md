@@ -1,8 +1,8 @@
 +++
 index = "-KX7DKFU1wgI6m1_jvE2"
-_sort_create_date = 1479754200
-_sort_last_updated = 1479754200
-_sort_publish_date = 1479754200
+sort_create_date = 1479754200
+sort_last_updated = 1479754200
+sort_publish_date = 1479754200
 create_date = "2016-11-21T10:50:00-08:00"
 publish_date = "2016-11-21T10:50:00-08:00"
 date = "2016-11-21T10:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sad Chuck & Dee Robinson of @VillageBksBham are stepping aside. Glad the store's in great hands."
 facebookauto = "Sad to hear Chuck and Dee Robinson of Village Books in Bellingham are stepping aside, but glad to hear the store's in great hands."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/village-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Shelf Awareness [has the scoop](http://www.shelf-awareness.com/issue.html?issue=2885#m34652) about a big change at Bellingham bookstore Village Books:

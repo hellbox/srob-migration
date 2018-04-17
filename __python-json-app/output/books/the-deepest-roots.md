@@ -1,8 +1,8 @@
 +++
 index = "-KTw-vA2HQbSLjEltDb6"
-_sort_create_date = 1476328140
-_sort_last_updated = 1476328140
-_sort_publish_date = 1476328140
+sort_create_date = 1476328140
+sort_last_updated = 1476328140
+sort_publish_date = 1476328140
 create_date = "2016-10-12T20:09:00-07:00"
 publish_date = "2016-10-12T20:09:00-07:00"
 date = "2016-10-12T20:09:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HF9QBsEkuSLCXVVtMw-IN8dJ_sz-2CeTiceHYFF8K6ppv1nAzKR53Qr5w00lCUI8iM1cbnzewWtcByVTU5UpcFQmQc9Vhw"
 url = "/webhook-uploads/1476328062422/DeepestRoots_Alcala.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 936594
 
 review_relationship = ""
-author_relationship = ["authors/kathleen-alcala"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-deepest-roots"]
 notes_relationship = ""
 +++

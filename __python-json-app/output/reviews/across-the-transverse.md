@@ -1,8 +1,8 @@
 +++
 index = "-KAey3APPw0fvBUdIfOy"
-_sort_create_date = 1455641040
-_sort_last_updated = 1455734520
-_sort_publish_date = 1455739200
+sort_create_date = 1455641040
+sort_last_updated = 1455734520
+sort_publish_date = 1455739200
 create_date = "2016-02-16T08:44:00-08:00"
 publish_date = "2016-02-17T12:00:00-08:00"
 date = "2016-02-17T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Across the transverse"
 dek = "Juliet Jacques documented her transition from male to female in a Guardian column, collected and expanded into a recent memoir. What does she have to tell us, in the modern day, about that transition?"
 facebookauto = "A review of Juliet Jacques' memoir, Trans, that documented her transition from male-to-female, and seeks to educate about what the experience is like in the modern age. "
 twitterauto = "A review, by @hellbox, of Juliet Jacques' memoir, Trans, recently published by @versobooks. "
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/trans"]
 tags_reviews = ["tags/transgender"]
-authors_reviews = ["authors/juliet-jacques"]
+reviews_about = ""
 +++
 
 <blockquote class="noline">"The hard part was sorting it all out. The hard part was taking a good look at everyone else and the way they looked at the world, which was a lot different than the way _I_ was looking the world." - Kate Bornstein, *Gender Outlaw*. </blockquote>

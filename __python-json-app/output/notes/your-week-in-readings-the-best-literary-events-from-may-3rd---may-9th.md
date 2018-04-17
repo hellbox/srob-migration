@@ -1,8 +1,8 @@
 +++
 index = "-Kihg2iqorKu4-IMKxh8"
-_sort_create_date = 1493267640
-_sort_last_updated = 1493267640
-_sort_publish_date = 1493837940
+sort_create_date = 1493267640
+sort_last_updated = 1493267640
+sort_publish_date = 1493837940
 create_date = "2017-04-26T21:34:00-07:00"
 publish_date = "2017-05-03T11:59:00-07:00"
 date = "2017-05-03T11:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493266767649/The-
 twitterauto = "Your week in readings begins tonight with a discussion of The Righteous Mind."
 facebookauto = "Your week in readings begins tonight with our book club. Come on down to Third Place Books Seward Park for a meaningful discussion of The Righteous Mind."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/seattle-reads", "tags/free-comic-book-day", "tags/pageboy"]
-authors_notes = ["authors/angela-flournoy", "authors/patricia-lockwood"]
+notes_about = ""
 books = ["books/the-turner-house", "books/priestdaddy"]
 +++
 <p class="image-left">![](/webhook-uploads/1493266767649/The-Righteous-Mind-Cover1.png)</p>

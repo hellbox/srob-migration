@@ -1,8 +1,8 @@
 +++
 index = "-KVmgNad-R22sMs76ba9"
-_sort_create_date = 1478319240
-_sort_last_updated = 1478319240
-_sort_publish_date = 1478319240
+sort_create_date = 1478319240
+sort_last_updated = 1478319240
+sort_publish_date = 1478319240
 create_date = "2016-11-04T21:14:00-07:00"
 publish_date = "2016-11-04T21:14:00-07:00"
 date = "2016-11-04T21:14:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Et-hQzXB_6psMiWK7SE7UJcrLkpwpq5_lGU0ot38vF9n2oHsIvCEWluARO3139p08cF_VHaxtvJKZRIaBVHDIOGhBgo"
 url = "/webhook-uploads/1478319175922/againstdemocracy.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 4686
 
 review_relationship = ["reviews/the-smartest-person-in-the-voting-booth"]
-author_relationship = ["authors/jason-brennan"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

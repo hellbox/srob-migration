@@ -1,8 +1,8 @@
 +++
 index = "-K8XUF-3wUhzxBlmTBAT"
-_sort_create_date = 1453351260
-_sort_last_updated = 1453351260
-_sort_publish_date = 1453351260
+sort_create_date = 1453351260
+sort_last_updated = 1453351260
+sort_publish_date = 1453351260
 create_date = "2016-01-20T20:41:00-08:00"
 publish_date = "2016-01-20T20:41:00-08:00"
 date = "2016-01-20T20:41:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453351223827/IMG_
 twitterauto = "Mail Call! Nobody gets that @irismurdoch but me, so don't even think about it."
 facebookauto = "Mail Call! That Iris Murdoch is mine, so just back way, friend. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1453351223827/IMG_4109.jpg)</p>

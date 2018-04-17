@@ -1,8 +1,8 @@
 +++
 index = "-L517fMt_TxLRDSKYMs9"
-_sort_create_date = 1518306720
-_sort_last_updated = 1518307920
-_sort_publish_date = 1518370200
+sort_create_date = 1518306720
+sort_last_updated = 1518307920
+sort_publish_date = 1518370200
 create_date = "2018-02-10T15:52:00-08:00"
 publish_date = "2018-02-11T09:30:00-08:00"
 date = "2018-02-11T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This week's Sunday picks courtesy of @TheBreadloaf, @lenizumas, @molly__o, and @edyong209!"
 facebookauto = "This week's Sunday picks: Kristen Peterson on working at a Vegas gas station, Leni Zumas on motherhood, Molly Osberg on health care and almost dying -- and Ed Yong on correcting gender bias in his own journalism. "
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class=“intro”>Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that’s your pleasure). Settle in for a while; we saved you a seat. You can also <a href=“http://www.seattlereviewofbooks.com/tags/the-sunday-post/“ title=“Sunday Post archives”>look through the archives.</a></p>

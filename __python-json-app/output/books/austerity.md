@@ -1,8 +1,8 @@
 +++
 index = "-JsiTHi_ilrdtvZYqufE"
-_sort_create_date = 1435299240
-_sort_last_updated = 1435299240
-_sort_publish_date = 1435299240
+sort_create_date = 1435299240
+sort_last_updated = 1435299240
+sort_publish_date = 1435299240
 create_date = "2015-06-25T23:14:00-07:00"
 publish_date = "2015-06-25T23:14:00-07:00"
 date = "2015-06-25T23:14:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/edoPxDZBBmv1Bj4w00L8pMqti_FvcPg9SBzPUIKyP7ybh_Xk-LW9skDgn7qG2JFjWib1sN_pdg_FTPrgeV-QhjU94OYV"
 url = "/webhook-uploads/1435299141007/9k%3D.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 19535
 
 review_relationship = ["reviews/traveling-light"]
-author_relationship = ["authors/kerry-anne-mendoza"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KfY7IMS-Kig6uwVjomu"
-_sort_create_date = 1489869240
-_sort_last_updated = 1489869600
-_sort_publish_date = 1489941000
+sort_create_date = 1489869240
+sort_last_updated = 1489869600
+sort_publish_date = 1489941000
 create_date = "2017-03-18T13:34:00-07:00"
 publish_date = "2017-03-19T09:30:00-07:00"
 date = "2017-03-19T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We hate clickbait but we want you to click: the Sunday Post has an identity crisis."
 facebookauto = "We hate clickbait but we want you to click: the Sunday Post has an identity crisis."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

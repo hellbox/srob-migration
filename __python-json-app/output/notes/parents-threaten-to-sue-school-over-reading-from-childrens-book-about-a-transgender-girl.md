@@ -1,8 +1,8 @@
 +++
 index = "-K4OzX6DTdPDVLCQa5Mm"
-_sort_create_date = 1448913780
-_sort_last_updated = 1448914020
-_sort_publish_date = 1448917380
+sort_create_date = 1448913780
+sort_last_updated = 1448914020
+sort_publish_date = 1448917380
 create_date = "2015-11-30T12:03:00-08:00"
 publish_date = "2015-11-30T13:03:00-08:00"
 date = "2015-11-30T13:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448913417137/9780
 twitterauto = "Some idiot parents threatened to sue to stop a reading from a book about a transgender girl."
 facebookauto = "Some idiot parents threatened to sue to stop a reading from a book about a transgender girl. Maybe this book ought to become a bestseller?"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/childrens-book", "tags/transgender"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Dianna Dilworth at [GalleyCat writes](http://www.adweek.com/galleycat/school-cancels-reading-after-parents-threaten-to-sue/113128):

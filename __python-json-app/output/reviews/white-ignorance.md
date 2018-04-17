@@ -1,8 +1,8 @@
 +++
 index = "-KxvCoKDag17GBlZy7rc"
-_sort_create_date = 1509600720
-_sort_last_updated = 1509604860
-_sort_publish_date = 1509641100
+sort_create_date = 1509600720
+sort_last_updated = 1509604860
+sort_publish_date = 1509641100
 create_date = "2017-11-01T22:32:00-07:00"
 publish_date = "2017-11-02T09:45:00-07:00"
 date = "2017-11-02T09:45:00-07:00"
@@ -13,10 +13,10 @@ title = "White ignorance"
 dek = "Carol Anderson's brilliant book thoroughly documents the long history of laws and policies white politicians have established to perpetuate their system of white supremacy. So why are white people just now learning about this?"
 facebookauto = "White Rage is an excellent book that documents the long history of white supremacy in America. Why are white people just now learning about this?"
 twitterauto = "Why are white people just now learning about the history of white supremacy in America?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/white-rage"]
 tags_reviews = ["tags/reading-through-it", "tags/third-place-books-seward-park"]
-authors_reviews = ["authors/carol-anderson"]
+reviews_about = ""
 +++
 
 It is incredibly difficult to explain one’s own ignorance to someone else. 

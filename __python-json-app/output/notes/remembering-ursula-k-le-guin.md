@@ -1,8 +1,8 @@
 +++
 index = "-L44VlGhN7hQBCOBksfu"
-_sort_create_date = 1517289660
-_sort_last_updated = 1517332260
-_sort_publish_date = 1517342400
+sort_create_date = 1517289660
+sort_last_updated = 1517332260
+sort_publish_date = 1517342400
 create_date = "2018-01-29T21:21:00-08:00"
 publish_date = "2018-01-30T12:00:00-08:00"
 date = "2018-01-30T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "https://pbs.twimg.com/profile_images/1226807203/UKLbyMWK-280x347_4
 twitterauto = "\"I had always admired the writer, but I seriously like the woman.\" \u2014 @nicolaz remembers @ursulaleguin"
 facebookauto = "\"I had always admired the writer, but I seriously like the woman.\" \u2014 Nicola Griffith remembers Ursula K. Le Guin"
 make_image_tweet = "False"
-byline = ["writers/nicola-griffith"]
+notes_byline = ["writers/nicola-griffith"]
 tags_notes = ""
-authors_notes = ["authors/ursula-k-le-guin"]
+notes_about = ""
 books = ""
 +++
 I met Ursula Le Guin in Atlanta. I was 31. _Ammonite_, my first novel, had been accepted for publication as a cheap mass-market paperback and I was trying to figure out how to get it some attention. So I went to Ursula's reading and book signing at a local bookshop and afterwards joined the line that inched closer and closer to her table, clutching one of her books. 

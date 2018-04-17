@@ -1,8 +1,8 @@
 +++
 index = "-K-XUcyXewyC6NPZ43t2"
-_sort_create_date = 1443687720
-_sort_last_updated = 1443687720
-_sort_publish_date = 1443724500
+sort_create_date = 1443687720
+sort_last_updated = 1443687720
+sort_publish_date = 1443724500
 create_date = "2015-10-01T01:22:00-07:00"
 publish_date = "2015-10-01T11:35:00-07:00"
 date = "2015-10-01T11:35:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443687640257/GODZ
 twitterauto = "Godzilla goes to Hell in the new comic book Godzilla in Hell. Yeah, it's pretty much exactly what you think it is."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/godzilla-in-hell"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Most licensed comics, let’s be honest, are terrible. Comics as merchandising spin-offs are usually afterthoughts, completely irrelevant to the movie or TV show that spawned them. Nothing happens in licensed comics, and somehow the approval of a fleet of corporate lawyers makes the officially licensed spin-offs feel even more like bad fan-fiction. They’re safe and boring and bland.

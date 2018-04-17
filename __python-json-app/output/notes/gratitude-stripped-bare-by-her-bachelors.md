@@ -1,8 +1,8 @@
 +++
 index = "-K40GyBd7sM1jex3Klyk"
-_sort_create_date = 1448499180
-_sort_last_updated = 1453055760
-_sort_publish_date = 1448557200
+sort_create_date = 1448499180
+sort_last_updated = 1453055760
+sort_publish_date = 1448557200
 create_date = "2015-11-25T16:53:00-08:00"
 publish_date = "2015-11-26T09:00:00-08:00"
 date = "2015-11-26T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Gratitude, stripped bare by her bachelors. "
 facebookauto = "Gratitude, stripped bare by her bachelors. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/thanksgiving-essay", "tags/holidays", "tags/secular-sermons"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 It is as if we're in competition to find the starkest horror. This world offers so many comers to the table, each one bloodier, more callous, more inhumane, more despicable than the rest. Some are small insults that strike us in a particular way.  Some are grand vistas of despair that we cannot comprehend _en masse_, and are represented for us by a single photograph, say of a suffering child, as we read the news. 

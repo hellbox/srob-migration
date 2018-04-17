@@ -1,8 +1,8 @@
 +++
 index = "-L-5_FC4J2MPw0fepBT1"
-_sort_create_date = 1511938860
-_sort_last_updated = 1511938860
-_sort_publish_date = 1511985660
+sort_create_date = 1511938860
+sort_last_updated = 1511938860
+sort_publish_date = 1511985660
 create_date = "2017-11-28T23:01:00-08:00"
 publish_date = "2017-11-29T12:01:00-08:00"
 date = "2017-11-29T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511938695153/Nois
 twitterauto = "Make no mistake: This video game is just as literary as a comic book."
 facebookauto = "Make no mistake: This video game is just as literary as a comic book."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/video-games"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1511938695153/Noise.JPG)</p>

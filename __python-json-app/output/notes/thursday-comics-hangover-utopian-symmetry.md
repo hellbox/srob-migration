@@ -1,8 +1,8 @@
 +++
 index = "-K5BZMdSNUq_2F7NElAg"
-_sort_create_date = 1449762300
-_sort_last_updated = 1449762300
-_sort_publish_date = 1449770100
+sort_create_date = 1449762300
+sort_last_updated = 1449762300
+sort_publish_date = 1449770100
 create_date = "2015-12-10T07:45:00-08:00"
 publish_date = "2015-12-10T09:55:00-08:00"
 date = "2015-12-10T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A new utopian sci-fi comic called Symmetry argues that perfection has its price."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In the back pages of the first issue of the new series *Symmetry*, writer Matt Hawkins admits he’s “gotten a bit sick of” dystopia’s omnipresence, and so he decided to try writing utopian fiction, instead. He read Sir Thomas More’s *Utopia* (“it’s boring as hell,” Hawkins tells his readers, urging them to “skim it”) and embarked on months of research, determining the four qualities of all utopias in fiction (ambition, creativity, diversity, and instruments of capital must be eliminated) and what he believes to be the four pillars of society (community, peace, harmony, and equality are required). Finally, *Symmetry* is his story of that utopia.

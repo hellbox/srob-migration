@@ -1,8 +1,8 @@
 +++
 index = "-K3T-HUn_vV0qaJx3d4n"
-_sort_create_date = 1447907340
-_sort_last_updated = 1448307480
-_sort_publish_date = 1448308800
+sort_create_date = 1447907340
+sort_last_updated = 1448307480
+sort_publish_date = 1448308800
 create_date = "2015-11-18T20:29:00-08:00"
 publish_date = "2015-11-23T12:00:00-08:00"
 date = "2015-11-23T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "The inventor, viewed in stereo"
 dek = "William Gruber invented the View-Master, which let millions of children see 3D stereo images. His daughter wrote a biography, but didn't flinch from the truth of the man, and why he was under investigation by the FBI."
 facebookauto = "William Gruber invented the View-Master, which let millions of children see 3D stereo images. His daughter wrote a biography, but didn't flinch from the truth of the man, and why he was under investigation by the FBI."
 twitterauto = "It's not all nostalgia when @GaelFC takes a look at a biography of the View-Master inventor."
-byline = ["writers/gael-fashingbauer-cooper"]
+reviews_byline = ["writers/gael-fashingbauer-cooper"]
 books_in_this_review = ["books/view-master"]
 tags_reviews = ["tags/toys", "tags/nazi", "tags/reviews", "tags/history", "tags/biography"]
-authors_reviews = ["authors/gretchen-jane-gruber-"]
+reviews_about = ""
 +++
 
 We all owned one. My 1970s-era View-Master was red plastic with white trim, and the reels my parents bought for it tended towards the G-rated and Disneyified   &mdash;  Cinderella, Bambi, maybe an occasional visitor from the Krofft Super Show. (Why _were_ those other sea monsters so mean to Sigmund?) 

@@ -1,8 +1,8 @@
 +++
 index = "-KSofrq_Z3ZSUReH4qPa"
-_sort_create_date = 1475131440
-_sort_last_updated = 1475131440
-_sort_publish_date = 1475174580
+sort_create_date = 1475131440
+sort_last_updated = 1475131440
+sort_publish_date = 1475174580
 create_date = "2016-09-28T23:44:00-07:00"
 publish_date = "2016-09-29T11:43:00-07:00"
 date = "2016-09-29T11:43:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our book news roundup features @shortrunseattle, @1jesswalter, @twosylviaspress, and much, much more."
 facebookauto = "Our book news roundup features the angriest feminist bookstore in all of Portland, the new Short Run schedule, a couple big prizes for writers, and an artificial intelligence that eats books."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run"]
-authors_notes = ["authors/sarah-glidden", "authors/david-lasky", "authors/jess-walter"]
+notes_about = ""
 books = ""
 +++
 * The Short Run Comix and Arts Festival has [unveiled their schedule of events](http://shortrun.org/short-run-full-schedule-oct-5-nov-10/), and it's a doozy. It begins next week at Elliott Bay Book Company with the launch party for Seattle cartoonist Sarah Glidden's brand-new book *Rolling Blackouts*. I'll be interviewing Glidden onstage about her book, which documents Glidden's travels through Turkey, Syria, and Iraq with several reporters from [the Seattle Globalist](http://www.seattleglobalist.com/). I hope to see you at Elliott Bay next week, and I hope you'll consider attending all the Short Run events over the next two months.

@@ -1,8 +1,8 @@
 +++
 index = "-KUu1leBzZMOfQE7RfYG"
-_sort_create_date = 1477368780
-_sort_last_updated = 1478037780
-_sort_publish_date = 1477594800
+sort_create_date = 1477368780
+sort_last_updated = 1478037780
+sort_publish_date = 1477594800
 create_date = "2016-10-24T21:13:00-07:00"
 publish_date = "2016-10-27T12:00:00-07:00"
 date = "2016-10-27T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's Criminal Fiction, or crime fiction column by @daneetsteffens. Some October surprises...."
 facebookauto = "It's Criminal Fiction, or crime fiction column by Daneet Steffens. Some October surprises...."
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/janet-rudolph", "authors/tana-french", "authors/rob-hart", "authors/graeme-macrae-burnet", "authors/steven-price", "authors/peter-may", "authors/elizabeth-george"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

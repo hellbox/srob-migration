@@ -1,8 +1,8 @@
 +++
 index = "-JussU5HwWX2TAjWz3zJ"
-_sort_create_date = 1437620880
-_sort_last_updated = 1437623040
-_sort_publish_date = 1437620880
+sort_create_date = 1437620880
+sort_last_updated = 1437623040
+sort_publish_date = 1437620880
 create_date = "2015-07-22T20:08:00-07:00"
 publish_date = "2015-07-22T20:08:00-07:00"
 date = "2015-07-22T20:08:00-07:00"
@@ -23,14 +23,14 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QTRznKTinzbfqNbF5S5Vrxnr5ws6FNx90aqhzHKhh3-Km75Y2uYJm-Ogq4CCSco74KdCa-lV1p_kzybnJvBUTHca3kvWFQ"
 url = "/webhook-uploads/1437620874288/Cracked-High-Resolution-188x300.jpg"
 width = 188
 height = 300
 review_relationship = ""
-author_relationship = ["authors/janine-a-southard"]
+books_author = ""
 sponsorships_book = ["sponsorships/cracked!-a-magic-iphone-story"]
 notes_relationship = ["notes/janine-a-southards-cracked!-a-magic-iphone-story", "notes/read-a-chapter-from-janine-a-southards-cracked!-a-magic-iphone-story", "notes/one-last-thanks-to-janine-a-southard"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-K3405XmS3qBTSHNnaOU"
-_sort_create_date = 1447488120
-_sort_last_updated = 1447488120
-_sort_publish_date = 1447695780
+sort_create_date = 1447488120
+sort_last_updated = 1447488120
+sort_publish_date = 1447695780
 create_date = "2015-11-14T00:02:00-08:00"
 publish_date = "2015-11-16T09:43:00-08:00"
 date = "2015-11-16T09:43:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447487791962/1862
 twitterauto = "Your week of literary events begins tonight with a biography of Lady Bird Johnson @THSEA."
 facebookauto = "Here's one great literary event for every day this week including biographies of Lady Bird Johnson and the inventor of Dungeons & Dragons, a holiday book fair, and an event featuring El Bibliobandido."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **MONDAY** Lyndon Johnson is perhaps the modern president who most lends himself to literary works. He’s appeared in Robert Caro’s ridiculously ambitious biographies, one of David Foster Wallace’s best short stories, and Robert Schenkkan’s incredible plays. But tonight, **Betty Boyd Caroli** looks at an under-appreciated side of the LBJ story in her book *Lady Bird and Lyndon*. Lady Bird Johnson could not have been a dull or unintelligent woman, but she’s gotten short shrift in most of the above-mentioned literary accounts. Caroli will be reading from the book at [Town Hall Seattle](http://www2.bookstore.washington.edu/_events/events_cal.taf?evmonth=11&evyear=2015&eventid=2015070816233800&pre=20151108&pst=20151124) tonight. 

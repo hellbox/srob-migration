@@ -1,8 +1,8 @@
 +++
 index = "-KIedjHxWHRCXLZYAqv-"
-_sort_create_date = 1464225660
-_sort_last_updated = 1464294840
-_sort_publish_date = 1464285600
+sort_create_date = 1464225660
+sort_last_updated = 1464294840
+sort_publish_date = 1464285600
 create_date = "2016-05-25T18:21:00-07:00"
 publish_date = "2016-05-26T11:00:00-07:00"
 date = "2016-05-26T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Step lively, indie authors, presses, and event-havers! We got us some sponsorships to move. Marked down! Great deals!"
 facebookauto = "Step lively, indie authors, presses, and event-havers! We got us some sponsorships to move. Marked down! Great deals to be had! Get 'em while they're hot!"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">**UPDATE**: Well, that was fast. We're sold out! If you're interested in a spot in our upcoming group of days, drop us a line on our [contact page](/about/), or mail us at _sponsorships @_ our domain.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-JxqUYtGLoMMUWKtPJKM"
-_sort_create_date = 1440802020
-_sort_last_updated = 1440802020
-_sort_publish_date = 1440802020
+sort_create_date = 1440802020
+sort_last_updated = 1440802020
+sort_publish_date = 1440802020
 create_date = "2015-08-28T15:47:00-07:00"
 publish_date = "2015-08-28T15:47:00-07:00"
 date = "2015-08-28T15:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "On her blog, Lesley Hazleton (@accidentaltheo) shared her abortion story to support @PPact. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/abortion", "tags/town-hall-seattle"]
-authors_notes = ["authors/lesley-hazleton"]
+notes_about = ""
 books = ""
 +++
 "Nearly every woman I know has either had an abortion or helped another woman get one," begins [the latest post on local author Lesley Hazleton's blog](http://accidentaltheologist.com/2015/08/27/my-abortion/). Hazleton is a brilliant writer, a fearless thinker, and a deeply compassionate human being, and in this post she puts all those qualities to the service of one important cause. Hazleton wants to "break the weird veil of shame and secrecy that still hangs over the decision" to have an abortion, "even when abortion is legal." She thinks it's important to "stand up and say 'Yes, sure, I had one.'" She continues: "So here’s the story of mine."

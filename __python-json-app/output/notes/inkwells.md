@@ -1,8 +1,8 @@
 +++
 index = "-K8wJCD5qxv69jXPRvUb"
-_sort_create_date = 1453784580
-_sort_last_updated = 1453785000
-_sort_publish_date = 1453830900
+sort_create_date = 1453784580
+sort_last_updated = 1453785000
+sort_publish_date = 1453830900
 create_date = "2016-01-25T21:03:00-08:00"
 publish_date = "2016-01-26T09:55:00-08:00"
 date = "2016-01-26T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/deborah-woodard"]
+notes_byline = ["writers/deborah-woodard"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 From the first day, the teacher wrote as she spoke. An inkwell was a hole<br>

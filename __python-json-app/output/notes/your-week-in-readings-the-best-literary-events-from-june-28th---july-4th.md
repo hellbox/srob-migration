@@ -1,8 +1,8 @@
 +++
 index = "-KnHBPjtnkwCLoZFaMvk"
-_sort_create_date = 1498175040
-_sort_last_updated = 1498175400
-_sort_publish_date = 1498676160
+sort_create_date = 1498175040
+sort_last_updated = 1498175400
+sort_publish_date = 1498676160
 create_date = "2017-06-22T16:44:00-07:00"
 publish_date = "2017-06-28T11:56:00-07:00"
 date = "2017-06-28T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498174995519/fate
 twitterauto = "Your week in readings features a book about a Tacoma trolley disaster and a beautiful poetic map of Seattle."
 facebookauto = "Your week in readings features a book about a Tacoma trolley disaster and a beautiful poetic map of Seattle."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday June 28th: Poetic Grid**</h5></p> 

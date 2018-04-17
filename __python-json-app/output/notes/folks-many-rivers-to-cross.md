@@ -1,8 +1,8 @@
 +++
 index = "-KcaQ9ddSY1Jc0M6FY_3"
-_sort_create_date = 1486703280
-_sort_last_updated = 1487047500
-_sort_publish_date = 1487094900
+sort_create_date = 1486703280
+sort_last_updated = 1487047500
+sort_publish_date = 1487094900
 create_date = "2017-02-09T21:08:00-08:00"
 publish_date = "2017-02-14T09:55:00-08:00"
 date = "2017-02-14T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/jt-stewart"]
+notes_byline = ["writers/jt-stewart"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">_Somewhere the sky<br>

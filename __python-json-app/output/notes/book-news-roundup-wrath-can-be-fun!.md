@@ -1,8 +1,8 @@
 +++
 index = "-L-e6jhXx4ABdQN13QlZ"
-_sort_create_date = 1512535140
-_sort_last_updated = 1512535140
-_sort_publish_date = 1512593760
+sort_create_date = 1512535140
+sort_last_updated = 1512535140
+sort_publish_date = 1512593760
 create_date = "2017-12-05T20:39:00-08:00"
 publish_date = "2017-12-06T12:56:00-08:00"
 date = "2017-12-06T12:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This year's @THSEA artists in residence will be doing some neat neighborhood outreach. Sign up now:"
 facebookauto = "This year's Town Hall Seattle artists in residence will be doing some neat neighborhood outreach. Sign up now:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/town-hall-seattle"]
-authors_notes = ["authors/joan-didion"]
+notes_about = ""
 books = ""
 +++
 * [Town Hall Seattle is looking](https://townhallseattle.org/in-residence/) for artists and scholars in residence. But because Town Hall (the building) is being renovated this year and Town Hall (the organization) is branching out into other neighborhoods, they're doing something a little different. Each of the four neighborhoods that Town Hall is using as home bases during their Inside/Out Program — Phinney/Greenwood; University District/Ravenna; Capitol Hill/Central District; Columbia City/Hillman City — will have its own artist in residence. Those residents will then program Town Hall events within their communities, in exchange for a $5000 stipdend. This is a once-in-a-lifetime kind of thing. Submit to Town Hall by December 10th, okay?

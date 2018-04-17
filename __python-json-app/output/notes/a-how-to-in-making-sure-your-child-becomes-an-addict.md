@@ -1,8 +1,8 @@
 +++
 index = "-KO5kzrdb06ERjtMglRp"
-_sort_create_date = 1470066060
-_sort_last_updated = 1470066180
-_sort_publish_date = 1470081600
+sort_create_date = 1470066060
+sort_last_updated = 1470066180
+sort_publish_date = 1470081600
 create_date = "2016-08-01T08:41:00-07:00"
 publish_date = "2016-08-01T13:00:00-07:00"
 date = "2016-08-01T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @jawright8 brings her stellar debut novel of addiction and recovery to our pages this week."
 facebookauto = "Sponsor JA Wright brings a moving and poignant novel about addiction and recovery to our sponsorship program this week. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/ja-wright"]
+notes_about = ""
 books = ["books/how-to-grow-an-addict"]
 +++
 Discovering new writers can be really hard. It's the reason we started our sponsorship program, and J.A. Wright is exactly the kind of writer we built it for. She's bringing her superbly wrought debut novel _How To Grow an Addict_ to our site this week. 

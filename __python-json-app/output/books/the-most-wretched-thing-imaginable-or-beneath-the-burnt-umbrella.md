@@ -1,8 +1,8 @@
 +++
 index = "-Kdw-axvG8lTXhwBT2Eu"
-_sort_create_date = 1488139200
-_sort_last_updated = 1488213900
-_sort_publish_date = 1488139200
+sort_create_date = 1488139200
+sort_last_updated = 1488213900
+sort_publish_date = 1488139200
 create_date = "2017-02-26T12:00:00-08:00"
 publish_date = "2017-02-26T12:00:00-08:00"
 date = "2017-02-26T12:00:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hOAEGD9oyMOQ3BToCa-3mI_Q6W2dZJuBdcrofFhF8ttuVcFEv4eiuc9IDd5jToUwrKRldgYOM8t1dgyFXmqZk5gKJbE"
 url = "/webhook-uploads/1488213912120/WretchedThing_RGB_300dpi_1000pxWide.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 514020
 
 review_relationship = ""
-author_relationship = ["authors/stephen-moles"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-most-wretched-thing-imaginable"]
 notes_relationship = ["notes/a-book-of-amazing-deadpan-surrealism"]
 +++

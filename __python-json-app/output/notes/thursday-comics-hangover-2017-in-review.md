@@ -1,8 +1,8 @@
 +++
 index = "-L0rpr_-kae5lhwPx88_"
-_sort_create_date = 1513839060
-_sort_last_updated = 1513839060
-_sort_publish_date = 1514484060
+sort_create_date = 1513839060
+sort_last_updated = 1513839060
+sort_publish_date = 1514484060
 create_date = "2017-12-20T22:51:00-08:00"
 publish_date = "2017-12-28T10:01:00-08:00"
 date = "2017-12-28T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here are some of the best comics made by Seattle cartoonists in 2017."
 facebookauto = "Here are some of the best comics made by Seattle cartoonists in 2017."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">I don't really have "favorite" books. I read too much, and I read too widely, to believe that any one book can encompass the totality of my tastes and reading experiences. Similarly, I think best-of lists are absolute bullshit. The only reason anyone ever made a list was because they wanted to start a fight. But here we are in the last week of the year, and I do think that some reflection is worthwhile. This week, I'll highlight some of the books by local authors that made my year in reading so memorable. Today, the focus is on comics.</p>

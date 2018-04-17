@@ -1,8 +1,8 @@
 +++
 index = "-K0wlFEmZB8ncPo3Bgsg"
-_sort_create_date = 1445202240
-_sort_last_updated = 1445396700
-_sort_publish_date = 1445366040
+sort_create_date = 1445202240
+sort_last_updated = 1445396700
+sort_publish_date = 1445366040
 create_date = "2015-10-18T14:04:00-07:00"
 publish_date = "2015-10-20T11:34:00-07:00"
 date = "2015-10-20T11:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445199242573/Shin
 twitterauto = "We talked with Shin Yu Pai, Redmond's Poet Laureate, about her plans to represent an entire city through poetry."
 facebookauto = "Shin Yu Pai is the new Poet Laureate of Redmond. We talked with her about her plans to represent an entire city through poetry."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poet-laureate", "tags/redmond"]
-authors_notes = ["authors/shin-yu-pai"]
+notes_about = ""
 books = ""
 +++
 <p class="image image-left">![Shin Yu Pai, reading at her *HEIRLOOM* exhibit in Carkeek Park earlier this year.](/webhook-uploads/1445203007597/Shin%20Yu%20Pai.jpg)</p>

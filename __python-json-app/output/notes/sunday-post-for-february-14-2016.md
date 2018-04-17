@@ -1,8 +1,8 @@
 +++
 index = "-KATapB3d_fUn9GFxCYq"
-_sort_create_date = 1455433620
-_sort_last_updated = 1455470340
-_sort_publish_date = 1455469200
+sort_create_date = 1455433620
+sort_last_updated = 1455470340
+sort_publish_date = 1455469200
 create_date = "2016-02-13T23:07:00-08:00"
 publish_date = "2016-02-14T09:00:00-08:00"
 date = "2016-02-14T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.telegraph.co.uk/content/dam/books/2016/02/09/valleydoll
 twitterauto = "Three stories you should miss, from @cecianasta, @MartinChilton, and @AbrahmL in today's Sunday Post. "
 facebookauto = "An interview with Samuel R. Delany, how Jacqueline Susann earned her best-seller status by grass-roots book selling, and a look at Wall Street's invasion of the West's water crises. A pretty thrilling Sunday Post, today."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/jacqueline-susann"]
+notes_about = ""
 books = ["books/valley-of-the-dolls"]
 +++
 <h5>[Samuel R. Delany Speaks](http://www.thenation.com/article/samuel-r-delany-speaks/)</h5>

@@ -1,8 +1,8 @@
 +++
 index = "-L7S_Oesw0QmRfM6y-Fi"
-_sort_create_date = 1520914740
-_sort_last_updated = 1520959920
-_sort_publish_date = 1520971260
+sort_create_date = 1520914740
+sort_last_updated = 1520959920
+sort_publish_date = 1520971260
 create_date = "2018-03-12T21:19:00-07:00"
 publish_date = "2018-03-13T13:01:00-07:00"
 date = "2018-03-13T13:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520914591618/trut
 twitterauto = "Our March Poet in Residence is doing two reading events this week \u2014 once with ice cream!"
 facebookauto = "Our March Poet in Residence is doing two reading events this week \u2014 once with ice cream!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry"]
-authors_notes = ["authors/julene-tripp-weaver"]
+notes_about = ""
 books = ""
 +++
 This week you have two chances to see our Poet in Residence, [Julene Tripp Weaver](http://www.seattlereviewofbooks.com/writers/julene-tripp-weaver/), read her poetry aloud.

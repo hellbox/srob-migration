@@ -1,8 +1,8 @@
 +++
 index = "-JtAvV7dg-oUBc7_ZXMy"
-_sort_create_date = 1435792920
-_sort_last_updated = 1436218200
-_sort_publish_date = 1435792920
+sort_create_date = 1435792920
+sort_last_updated = 1436218200
+sort_publish_date = 1435792920
 create_date = "2015-07-01T16:22:00-07:00"
 publish_date = "2015-07-01T16:22:00-07:00"
 date = "2015-07-01T16:22:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ["authors/jonathan-lethem", "authors/heidi-julavits", "authors/dinaw-mengestu", "authors/maggie-nelson", "authors/susan-orlean", "authors/maged-zaher", "authors/sierra-nelson", "authors/sarah-galvin", "authors/peter-mountford"]
+notes_about = ""
 books = ""
 +++
 The Hugo House has [announced its 2015-2016 season](http://hugohouse.org/upcoming-events/hugo-literary-series/), and [it's a stellar lineup](http://hugohouse.org/upcoming-events/word-works/), featuring terrific big-name writers like Jonathan Lethem, Heidi Julavits, Dinaw Mengestu, Maggie Nelson, and Susan Orlean paired with some of the best local writers in the business today, including Maged Zaher, Sarah Galvin, and Sierra Nelson. 

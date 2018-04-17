@@ -1,8 +1,8 @@
 +++
 index = "-Jv_eHgzy88uwmmA5qUp"
-_sort_create_date = 1438372140
-_sort_last_updated = 1440222240
-_sort_publish_date = 1438373700
+sort_create_date = 1438372140
+sort_last_updated = 1440222240
+sort_publish_date = 1438373700
 create_date = "2015-07-31T12:49:00-07:00"
 publish_date = "2015-07-31T13:15:00-07:00"
 date = "2015-07-31T13:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/time-magazine", "tags/weneeddiversebooks"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 People! Ask yourselves questions about your assumptions before you make best-of lists. Something like this, from *Time* magazine, is no longer acceptable in 2015:

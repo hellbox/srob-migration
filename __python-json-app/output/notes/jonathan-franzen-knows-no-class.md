@@ -1,8 +1,8 @@
 +++
 index = "-K0POfy2fTnrDcY3a9mD"
-_sort_create_date = 1444625640
-_sort_last_updated = 1444625640
-_sort_publish_date = 1444681380
+sort_create_date = 1444625640
+sort_last_updated = 1444625640
+sort_publish_date = 1444681380
 create_date = "2015-10-11T21:54:00-07:00"
 publish_date = "2015-10-12T13:23:00-07:00"
 date = "2015-10-12T13:23:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Take our very important Jonathan Franzen quiz."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/jonathan-franzen"]
+notes_about = ""
 books = ""
 +++
 Here's a fun exercise: guess which of these four quotes about money and class are actually from [the recent Jonathan Franzen profile in the *Financial Times*](http://www.ft.com/intl/cms/s/2/6a563a5a-6cde-11e5-8171-ba1968cf791a.html) and which of these quotes I made up to make Jonathan Franzen sound bad.

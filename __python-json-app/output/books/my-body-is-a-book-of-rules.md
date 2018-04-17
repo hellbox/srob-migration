@@ -1,8 +1,8 @@
 +++
 index = "-JtCK4o0OfV4H7_63hIn"
-_sort_create_date = 1435817100
-_sort_last_updated = 1435817220
-_sort_publish_date = 1435817100
+sort_create_date = 1435817100
+sort_last_updated = 1435817220
+sort_publish_date = 1435817100
 create_date = "2015-07-01T23:05:00-07:00"
 publish_date = "2015-07-01T23:05:00-07:00"
 date = "2015-07-01T23:05:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NzmBcBxdndm7OqMXtuHLUszjSMUi81O8mghsSd2gH8yrlfQloNZHXxah7UkaJfI6pmu7PqLiiUzKNYcr5qf8PExtT3Zw"
 url = "/webhook-uploads/1435817063273/9781597099691.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 17756
 
 review_relationship = ["reviews/the-perpetual-naked-lunch-of-starvation-mode", "reviews/short-run-i-second-that"]
-author_relationship = ["authors/elissa-washuta"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/washington-state-book-awards-finalists-announced", "notes/sometimes-our-writers-go-east", "notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award"]
 +++

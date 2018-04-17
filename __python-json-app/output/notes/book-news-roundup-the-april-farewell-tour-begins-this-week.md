@@ -1,8 +1,8 @@
 +++
 index = "-Kftva0HPKh7SA4rYg5v"
-_sort_create_date = 1490251800
-_sort_last_updated = 1490252280
-_sort_publish_date = 1490295000
+sort_create_date = 1490251800
+sort_last_updated = 1490252280
+sort_publish_date = 1490295000
 create_date = "2017-03-22T23:50:00-07:00"
 publish_date = "2017-03-23T11:50:00-07:00"
 date = "2017-03-23T11:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Book News Roundup pits traditional book reviews against Amazon reviews."
 facebookauto = "Our Book News Roundup pits traditional book reviews against Amazon reviews."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/april", "tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * I'm quoted in this very good short sendoff for the APRIL Festival in this month's *Seattle Met*, by Darren Davis:

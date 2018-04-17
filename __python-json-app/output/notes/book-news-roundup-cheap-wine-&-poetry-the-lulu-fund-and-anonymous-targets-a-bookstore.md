@@ -1,8 +1,8 @@
 +++
 index = "-KDg-o2txTf5GFCqhwcU"
-_sort_create_date = 1458879780
-_sort_last_updated = 1458921960
-_sort_publish_date = 1458974700
+sort_create_date = 1458879780
+sort_last_updated = 1458921960
+sort_publish_date = 1458974700
 create_date = "2016-03-24T21:23:00-07:00"
 publish_date = "2016-03-25T23:45:00-07:00"
 date = "2016-03-25T23:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup is about Cheap Wine & Poetry, the Lulu Fund, and Anonymous."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/cheap-wine-&amp;-poetry", "tags/hugo-house", "tags/anonymous"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * The lineup for the final Cheap Wine & Poetry at the Hugo House's current location [has been announced](https://hugohouse.org/event/cheap-wine-poetry-april-2016/). Sarah Galvin, Tara Hardy, Roberto Ascalon, and Michelle Peñaloza will be your readers at this historic event. This is the most consistently entertaining — and consistently crowded — poetry reading series in town, and [on April 7th](https://hugohouse.org/event/cheap-wine-poetry-april-2016/) it will say goodbye to the stage where it was born. What's next for Cheap Wine & Poetry and its sister series Cheap Beer & Prose? Will it end, or will it continue? If it continues, where will it take place? I've got no answers for you just yet, but stay tuned.

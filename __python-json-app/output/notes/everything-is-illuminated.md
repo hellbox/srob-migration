@@ -1,8 +1,8 @@
 +++
 index = "-JwOvq4nFHn96OC1oUtj"
-_sort_create_date = 1439249160
-_sort_last_updated = 1439249280
-_sort_publish_date = 1439249280
+sort_create_date = 1439249160
+sort_last_updated = 1439249280
+sort_publish_date = 1439249280
 create_date = "2015-08-10T16:26:00-07:00"
 publish_date = "2015-08-10T16:28:00-07:00"
 date = "2015-08-10T16:28:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bureau-of-fearless-ideas", "tags/illuminated-manuscripts"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We love Greenwood's literary tutoring center [The Bureau of Fearless Ideas](http://fearlessideas.org/about/about-bfi/) (formerly known as 826 Seattle) and we are big fans of [this Facebook post demonstrating a recent student experiment in creating illuminated manuscripts](https://www.facebook.com/media/set/?set=a.10153508339199890.1073741869.53145114889&type=3). It seems as though, with the general-interest acceptance of comic books, we're about due for an illuminated manuscript resurgence. Maybe one of these kids will lead the charge.

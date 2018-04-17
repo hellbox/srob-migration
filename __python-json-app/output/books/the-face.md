@@ -1,8 +1,8 @@
 +++
 index = "-KEoSg-DS2HvrZwoNGs5"
-_sort_create_date = 1460095320
-_sort_last_updated = 1460095680
-_sort_publish_date = 1460095320
+sort_create_date = 1460095320
+sort_last_updated = 1460095680
+sort_publish_date = 1460095320
 create_date = "2016-04-07T23:02:00-07:00"
 publish_date = "2016-04-07T23:02:00-07:00"
 date = "2016-04-07T23:02:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/xYAkYQPBA5aK_BRc2hzdDYr_JqSaos_8xeSjCcsLJ1jaSxQX1cHLKJ2yVSg2dQ3xeY0dn3U2tNf0d6chpF5ax-lBiAk_"
 url = "/webhook-uploads/1460095334668/content%3Fid%3DLKYiswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7667
 
 review_relationship = ["reviews/open-faced"]
-author_relationship = ["authors/ruth-ozeki"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

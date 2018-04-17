@@ -1,8 +1,8 @@
 +++
 index = "-Jwx0fXoy6Vq20t3Pqht"
-_sort_create_date = 1439837880
-_sort_last_updated = 1439837880
-_sort_publish_date = 1439843280
+sort_create_date = 1439837880
+sort_last_updated = 1439837880
+sort_publish_date = 1439843280
 create_date = "2015-08-17T11:58:00-07:00"
 publish_date = "2015-08-17T13:28:00-07:00"
 date = "2015-08-17T13:28:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to @fantagraphics author Ed Piskor! Now when will we finally get HATE: THE ANIMATED SERIES?"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics"]
-authors_notes = ["authors/ed-piskor", "authors/jim-woodring"]
+notes_about = ""
 books = ""
 +++
 Fantagraphics author Ed Piskor announced this morning [on Facebook](https://www.facebook.com/edpiskor/posts/10206648029095454) that the rights for his wonderful comic book about the history of hip hop, *Hip Hop Family Tree*, have been sold to Hollywood. Specifically, it's in development as an animated series, and Piskor assures his fans that it's "not one of those dime-a-dozen 'options' you hear about," meaning there's real progress underway.

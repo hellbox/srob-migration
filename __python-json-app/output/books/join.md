@@ -1,8 +1,8 @@
 +++
 index = "-KFSbrSGTah3P_iMV6wi"
-_sort_create_date = 1460785860
-_sort_last_updated = 1460785860
-_sort_publish_date = 1460785860
+sort_create_date = 1460785860
+sort_last_updated = 1460785860
+sort_publish_date = 1460785860
 create_date = "2016-04-15T22:51:00-07:00"
 publish_date = "2016-04-15T22:51:00-07:00"
 date = "2016-04-15T22:51:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/UA4iyatUQ7MRMAboYh-2Qkg_9CFsK9NaUUZT9UJHM00Z3zKCBrEsyFyL_C_lx5hn-TrBbfVUrJTOiBo4ocZ9ePe2dtqiDw"
 url = "/webhook-uploads/1460785866165/Join_Cover_1200px_wide.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 2126374
 
 review_relationship = ""
-author_relationship = ["authors/steve-toutonghi"]
+books_author = ""
 sponsorships_book = ["sponsorships/join", "sponsorships/join-now-in-paperback"]
 notes_relationship = ["notes/a-consciousness-with-five-heads"]
 +++

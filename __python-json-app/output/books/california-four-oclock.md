@@ -1,8 +1,8 @@
 +++
 index = "-KZrdeqcEIzweTaZzk2y"
-_sort_create_date = 1482697380
-_sort_last_updated = 1482697380
-_sort_publish_date = 1482697380
+sort_create_date = 1482697380
+sort_last_updated = 1482697380
+sort_publish_date = 1482697380
 create_date = "2016-12-25T12:23:00-08:00"
 publish_date = "2016-12-25T12:23:00-08:00"
 date = "2016-12-25T12:23:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uul5Nl4UGdf0nE4-zb0E5JHP1tLuE8bV79TGml-31OdstgxedR5EmPoYFuUxMunUdIpYwjJjCYcsdJ6CXFSmKxn84m0gLQ"
 url = "/webhook-uploads/1482697308137/california-four-oclock.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 965355
 
 review_relationship = ""
-author_relationship = ["authors/martin-mcclellan"]
+books_author = ""
 sponsorships_book = ["sponsorships/california-four-oclock"]
 notes_relationship = ""
 +++

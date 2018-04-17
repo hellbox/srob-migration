@@ -1,8 +1,8 @@
 +++
 index = "-KblMpMfZ19Ps0U0PC0S"
-_sort_create_date = 1485813240
-_sort_last_updated = 1485813780
-_sort_publish_date = 1485813240
+sort_create_date = 1485813240
+sort_last_updated = 1485813780
+sort_publish_date = 1485813240
 create_date = "2017-01-30T13:54:00-08:00"
 publish_date = "2017-01-30T13:54:00-08:00"
 date = "2017-01-30T13:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485813137802/neil
 twitterauto = "Our sponsor is bringing @neilhimself to @benaroyahall, there's less than 150 tickets left!"
 facebookauto = "Less than 150 tickets left to see Neil Gaiman at Benaroya Hall!"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/neil-gaiman"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1485813117720/neil-small.png)</p>

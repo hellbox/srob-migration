@@ -1,8 +1,8 @@
 +++
 index = "-L44URy4qOnCfqUwQ7FA"
-_sort_create_date = 1517290140
-_sort_last_updated = 1517332200
-_sort_publish_date = 1517290140
+sort_create_date = 1517290140
+sort_last_updated = 1517332200
+sort_publish_date = 1517290140
 create_date = "2018-01-29T21:29:00-08:00"
 publish_date = "2018-01-29T21:29:00-08:00"
 date = "2018-01-29T21:29:00-08:00"
@@ -11,15 +11,18 @@ preview_url = "3f5c1d20-a350-da6b-9b1a-1175893b0ec1"
 byline = "Nicola Griffith"
 title = "Nicola Griffith"
 alphabetize_by = "griffith"
+is_draft = "false"
+is_seattle_pnw_writer = ""
+written_about = ""
+books_author = ""
+reviews_about = ""
+notes_about = ""
+sponsorships_author = ""
 email = "nicola@nicolagriffith.com"
 twitter = "nicolaz"
 website = "https://nicolagriffith.com/blog/"
 bio = "British-American in Seattle. Writer (So Lucky, May 2018; Hild, 2013; both from FSG). Queer cripple with a PhD. Married to writer Kelley Eskridge."
-gender = "female"
-ethnicity = "white"
-underrepresented = ""
-reviews_by = ""
+reviews_byline = ""
 notes_byline = ["notes/remembering-ursula-k-le-guin"]
-written_about = ""
-+++
+books_translator = ""+++
 

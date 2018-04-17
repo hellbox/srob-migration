@@ -1,8 +1,8 @@
 +++
 index = "-L7S-voXGpbMu5QQ2FTg"
-_sort_create_date = 1520905200
-_sort_last_updated = 1520906880
-_sort_publish_date = 1520960100
+sort_create_date = 1520905200
+sort_last_updated = 1520906880
+sort_publish_date = 1520960100
 create_date = "2018-03-12T18:40:00-07:00"
 publish_date = "2018-03-13T09:55:00-07:00"
 date = "2018-03-13T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520906912005/Scre
 twitterauto = "Our second from @trippweavepoet is titled \"How I Came to this World\""
 facebookauto = "Our second from Julene Tripp Weaver is titled \"How I Came to this World\""
 make_image_tweet = "False"
-byline = ["writers/julene-tripp-weaver"]
+notes_byline = ["writers/julene-tripp-weaver"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <em>- after Gregory Pardlo</em>

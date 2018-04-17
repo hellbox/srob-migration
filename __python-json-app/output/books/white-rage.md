@@ -1,8 +1,8 @@
 +++
 index = "-KxvAPeS3zAz_gDFWM0d"
-_sort_create_date = 1509600060
-_sort_last_updated = 1509600180
-_sort_publish_date = 1509600060
+sort_create_date = 1509600060
+sort_last_updated = 1509600180
+sort_publish_date = 1509600060
 create_date = "2017-11-01T22:21:00-07:00"
 publish_date = "2017-11-01T22:21:00-07:00"
 date = "2017-11-01T22:21:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["History"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/XjuGbDdTya9NtHB0r0qVrjsnZO5EcKIKzt4RK-OrvUHkdJ3ANb4aEWlzB-ypAV06WLdNsq4PnAmt4HQNTpjSBpCMDu_A"
 url = "/webhook-uploads/1509600110697/content%3Fid%3DPwDBjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 8186
 
 review_relationship = ["reviews/white-ignorance"]
-author_relationship = ["authors/carol-anderson"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

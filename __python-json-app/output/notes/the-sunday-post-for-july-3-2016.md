@@ -1,8 +1,8 @@
 +++
 index = "-KLcapcopjp-Sq0xP5za"
-_sort_create_date = 1467412560
-_sort_last_updated = 1468743540
-_sort_publish_date = 1467561600
+sort_create_date = 1467412560
+sort_last_updated = 1468743540
+sort_publish_date = 1467561600
 create_date = "2016-07-01T15:36:00-07:00"
 publish_date = "2016-07-03T09:00:00-07:00"
 date = "2016-07-03T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post: #MobyDick's relevance today, #bibliotherapy, @nytimes on art as social privilege, and #Messi's miss"
 facebookauto = "The Sunday Post on why Moby Dick is still important today, bibliotherapy, art as social privilege, and the science behind Messi's penalty miss. "
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/ceridwen-dovey", "authors/pankaj-mishra", "authors/rivka-galchen"]
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://lithub.com/5-reasons-why-moby-dick-just-wont-die/" title="5 Reasons Why Moby-Dick Just Won’t Die | Lit Hub">5 Reasons Why Moby-Dick Just Won’t Die</a></h5>

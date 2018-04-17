@@ -1,8 +1,8 @@
 +++
 index = "-KymlxUBWWZyBujC1eEj"
-_sort_create_date = 1510532940
-_sort_last_updated = 1510533060
-_sort_publish_date = 1510532940
+sort_create_date = 1510532940
+sort_last_updated = 1510533060
+sort_publish_date = 1510532940
 create_date = "2017-11-12T16:29:00-08:00"
 publish_date = "2017-11-12T16:29:00-08:00"
 date = "2017-11-12T16:29:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = "https://www.amazon.com/Steel-Blood-Fire-Immortal-Treachery-ebo
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tx2Pd7yElb2WRhYnVRVNmSWgtUvv5HM6DYE0oGHc2YFCFFtErCCZtrCD74kTUT_1FnJdTLBENxJ44SuSJdS027A_Edb6"
 url = "/webhook-uploads/1510532745484/Steel%20Blood%20and%20Fire%20_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 135612
 
 review_relationship = ""
-author_relationship = ["authors/allan-batchelder"]
+books_author = ""
 sponsorships_book = ["sponsorships/steel-blood-&-fire"]
 notes_relationship = ["notes/in-a-world-of-betrayal-and-dark-magic"]
 +++

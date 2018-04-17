@@ -1,8 +1,8 @@
 +++
 index = "-KfjDCgbMrC0uDLNP9tT"
-_sort_create_date = 1490072160
-_sort_last_updated = 1493130840
-_sort_publish_date = 1493139300
+sort_create_date = 1490072160
+sort_last_updated = 1493130840
+sort_publish_date = 1493139300
 create_date = "2017-03-20T21:56:00-07:00"
 publish_date = "2017-04-25T09:55:00-07:00"
 date = "2017-04-25T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our final poem from April's Poet in Residence, Joan Swift is titled \"For Theodore Roethke\""
 facebookauto = "Our final poem from April's Poet in Residence, Joan Swift is titled \"For Theodore Roethke\""
 make_image_tweet = "False"
-byline = ["writers/joan-swift"]
+notes_byline = ["writers/joan-swift"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The poet who was my teacher said we must rewrite.<br>

@@ -1,8 +1,8 @@
 +++
 index = "-KKfkgmGCavvUlvPtYQI"
-_sort_create_date = 1466391720
-_sort_last_updated = 1466391720
-_sort_publish_date = 1466442060
+sort_create_date = 1466391720
+sort_last_updated = 1466391720
+sort_publish_date = 1466442060
 create_date = "2016-06-19T20:02:00-07:00"
 publish_date = "2016-06-20T10:01:00-07:00"
 date = "2016-06-20T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466391545599/ring
 twitterauto = "A new bookseller at @thirdplacebooks Seward Park is a lifelong book-lover. "
 facebookauto = "If you're looking for someone who's read deeply, widely, and smartly, there's a bookseller at Third Place Books Seward Park who you really should meet."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/third-place-books-seward-park"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last week, [Third Place Books Seward Park manager Eric McDaniel](http://seattlereviewofbooks.com/notes/2016/06/13/to-open-a-bookstore-you-have-to-leave-room-to-grow/) said he liked having a mix of experienced booksellers and relative novices on staff. At least one of those new booksellers, though, isn’t new to the world of books: though Seward Park is the only bookstore where she’s worked, Naomi possesses an impressive resume including stints as a manager of the circulation desk at Yale libraries, and as a humanities professor. She holds a PhD in comparative literature. 

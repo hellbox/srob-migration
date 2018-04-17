@@ -1,8 +1,8 @@
 +++
 index = "-KB56-aKlFuoj4CBqTOM"
-_sort_create_date = 1456096380
-_sort_last_updated = 1456173480
-_sort_publish_date = 1456163700
+sort_create_date = 1456096380
+sort_last_updated = 1456173480
+sort_publish_date = 1456163700
 create_date = "2016-02-21T15:13:00-08:00"
 publish_date = "2016-02-22T09:55:00-08:00"
 date = "2016-02-22T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456096014673/9781
 twitterauto = "Your week in readings kicks off at @ElliottBayBooks tonight, with @modaviau!"
 facebookauto = "Here are the best events happening every day this week, including a comics convention, an island book club, and a reading from the local branch of the African-American Writers Alliance."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/elliott-bay-book-company", "tags/hugo-house", "tags/seattle-public-library", "tags/african-american-writers-alliance"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1456096014673/9781250067494.jpg)</p>**MONDAY** [Elliott Bay Book Company](http://www.elliottbaybook.com/event/mo-daviau)  kicks off your Week in Readings. **Mo Daviau** reads from her debut novel, which is titled *Every Anxious Wave*. Kirkus described it as  a ”punk-rock-time-travel story for the ages.” It’s about a person who finds a time-warp in his closet, which he then leases out to people so they can go back in time and watch their favorite bands play.

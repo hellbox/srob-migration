@@ -1,8 +1,8 @@
 +++
 index = "-JxLf6XLfAGXcZavPFWO"
-_sort_create_date = 1440268140
-_sort_last_updated = 1440274260
-_sort_publish_date = 1440273600
+sort_create_date = 1440268140
+sort_last_updated = 1440274260
+sort_publish_date = 1440273600
 create_date = "2015-08-22T11:29:00-07:00"
 publish_date = "2015-08-22T13:00:00-07:00"
 date = "2015-08-22T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our thanks to @kelleyeskridge for her sponsorship. Come read full chapter from her book Solitaire for one more day."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/kelley-eskridge"]
+notes_about = ""
 books = ["books/solitaire"]
 +++
 [We're featuring a full chapter from Kelley Eskridge's novel _Solitaire_ this week](http://seattlereviewofbooks.com/sponsorships). You have thorugh tomorrow to read the whole first chapter. 

@@ -1,8 +1,8 @@
 +++
 index = "-KCBdECRcIT4KDYtimAe"
-_sort_create_date = 1457279760
-_sort_last_updated = 1457279760
-_sort_publish_date = 1457279760
+sort_create_date = 1457279760
+sort_last_updated = 1457279760
+sort_publish_date = 1457279760
 create_date = "2016-03-06T07:56:00-08:00"
 publish_date = "2016-03-06T07:56:00-08:00"
 date = "2016-03-06T07:56:00-08:00"
@@ -20,7 +20,7 @@ time_description = "
 end_time = "2016-03-06T20:30:00-08:00"
 enddate = ""
 is_sponsorship = true
-authors = ["authors/charlotte-riggle"]
+authors = ""
 sponsorship_event = ""
 venues = ""
 http://agoodbookcafe.com/purchase_tickets_or_event_books

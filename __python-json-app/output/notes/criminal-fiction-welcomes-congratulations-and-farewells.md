@@ -1,8 +1,8 @@
 +++
 index = "-L85pK0rbondspFFwa7J"
-_sort_create_date = 1521606780
-_sort_last_updated = 1521692940
-_sort_publish_date = 1521745200
+sort_create_date = 1521606780
+sort_last_updated = 1521692940
+sort_publish_date = 1521745200
 create_date = "2018-03-20T21:33:00-07:00"
 publish_date = "2018-03-22T12:00:00-07:00"
 date = "2018-03-22T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521607309462/Puni
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/eva-dolan", "authors/steve-cavanagh", "authors/jane-harper", "authors/charles-lenox", "authors/elizabeth-george", "authors/lisa-gardner", "authors/peter-temple", "authors/sarah-weinman"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

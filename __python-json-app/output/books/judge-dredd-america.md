@@ -1,8 +1,8 @@
 +++
 index = "-KOci9FR6z1i6RtQ5I87"
-_sort_create_date = 1470635700
-_sort_last_updated = 1470635940
-_sort_publish_date = 1470635700
+sort_create_date = 1470635700
+sort_last_updated = 1470635940
+sort_publish_date = 1470635700
 create_date = "2016-08-07T22:55:00-07:00"
 publish_date = "2016-08-07T22:55:00-07:00"
 date = "2016-08-07T22:55:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4NtnXk3FrkRhglGBc1D7jzPISfhTulGwGP8v71k5UvPf5l1PJj5gN7w5XSzp3Q-khv_4nDswrTJwi034c1ygsbA-SSPV"
 url = "/webhook-uploads/1470635745810/content%3Fid%3DOrj3oQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12081
 
 review_relationship = ["reviews/dredding-every-minute-of-it"]
-author_relationship = ["authors/john-wagner"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

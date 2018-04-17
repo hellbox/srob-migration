@@ -1,8 +1,8 @@
 +++
 index = "-KVwofGivw39q4bGUxeT"
-_sort_create_date = 1478489160
-_sort_last_updated = 1478489220
-_sort_publish_date = 1478489160
+sort_create_date = 1478489160
+sort_last_updated = 1478489220
+sort_publish_date = 1478489160
 create_date = "2016-11-06T19:26:00-08:00"
 publish_date = "2016-11-06T19:26:00-08:00"
 date = "2016-11-06T19:26:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Self-actualization (Psychology)"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/m9-DMzsom5Fhd-Hkv8VNjoJs932hY7jUk8Jf1xF6joBECNH8LhUX7F3Vdno_RVpZzF3FBAexpOMEdNCWz36-zn1B33Kotg"
 url = "/webhook-uploads/1478489190758/content%3Fid%3DIkQ-rgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 11946
 
 review_relationship = ["reviews/help-selfie"]
-author_relationship = ["authors/tara-mohr"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

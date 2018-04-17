@@ -1,8 +1,8 @@
 +++
 index = "-KlOrY8qjIW8EcI6aCdP"
-_sort_create_date = 1496156340
-_sort_last_updated = 1496156820
-_sort_publish_date = 1496163300
+sort_create_date = 1496156340
+sort_last_updated = 1496156820
+sort_publish_date = 1496163300
 create_date = "2017-05-30T07:59:00-07:00"
 publish_date = "2017-05-30T09:55:00-07:00"
 date = "2017-05-30T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our final piece from May Poet in Residence @Oliver_delaPaz, \"Diaspora Sonnet 18\""
 facebookauto = "Our final piece from May Poet in Residence Oliver de la Paz, \"Diaspora Sonnet 18\""
 make_image_tweet = "False"
-byline = ["writers/oliver-de-la-paz"]
+notes_byline = ["writers/oliver-de-la-paz"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The workers hum to wile away<br>

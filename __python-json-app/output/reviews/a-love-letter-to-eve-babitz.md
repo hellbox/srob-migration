@@ -1,8 +1,8 @@
 +++
 index = "-K3s3kAwbCmOoHJTGxe6"
-_sort_create_date = 1448344740
-_sort_last_updated = 1448386620
-_sort_publish_date = 1448395200
+sort_create_date = 1448344740
+sort_last_updated = 1448386620
+sort_publish_date = 1448395200
 create_date = "2015-11-23T21:59:00-08:00"
 publish_date = "2015-11-24T12:00:00-08:00"
 date = "2015-11-24T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "A love letter to Eve Babitz"
 dek = "Everybody who writes about Eve Babitz wants to either be inside her bubble of cool, or pop it. Martin just wants to show some love and appreciation for an under-appreciated writer."
 facebookauto = ""
 twitterauto = ""
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/eves-hollywood"]
 tags_reviews = ["tags/los-angeles", "tags/california", "tags/book-reviews"]
-authors_reviews = ["authors/eve-babitz"]
+reviews_about = ""
 +++
 
 Dear Eve &mdash;

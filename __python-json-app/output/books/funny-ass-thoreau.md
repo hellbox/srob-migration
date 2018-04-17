@@ -1,8 +1,8 @@
 +++
 index = "-KVw669C-CgYp2kVwRlK"
-_sort_create_date = 1478477220
-_sort_last_updated = 1478542200
-_sort_publish_date = 1478477220
+sort_create_date = 1478477220
+sort_last_updated = 1478542200
+sort_publish_date = 1478477220
 create_date = "2016-11-06T16:07:00-08:00"
 publish_date = "2016-11-06T16:07:00-08:00"
 date = "2016-11-06T16:07:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/d6FGsOpi33nBhQZYWun3eghMkk8ygO0fuOanIqd2sxcd_UenXJrMkUJvdyO7DdawSg2qNLXhcqaX4NZ1goWSLTpsPIEZ"
 url = "/webhook-uploads/1478477158976/9780989302388.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 2505763
 
 review_relationship = ""
-author_relationship = ["authors/m-allen-cunningham"]
+books_author = ""
 sponsorships_book = ["sponsorships/funny-ass-thoreau"]
 notes_relationship = ["notes/waitwho-was-really-funny-really"]
 +++

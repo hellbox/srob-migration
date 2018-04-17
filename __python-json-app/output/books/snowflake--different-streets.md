@@ -1,8 +1,8 @@
 +++
 index = "-K0P4iqEufMVRQoXJcdm"
-_sort_create_date = 1444620420
-_sort_last_updated = 1444620420
-_sort_publish_date = 1444620420
+sort_create_date = 1444620420
+sort_last_updated = 1444620420
+sort_publish_date = 1444620420
 create_date = "2015-10-11T20:27:00-07:00"
 publish_date = "2015-10-11T20:27:00-07:00"
 date = "2015-10-11T20:27:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "https://lh3.googleusercontent.com/aaXppdPmsso5xNbaetvp3MN6J4rjXj6-j6GNM3Kq4w1O4iMxpuyrwMyxLkQNoR9hU4bTx12VyURtsXmHf3475bnxZos"
 url = "/webhook-uploads/1444620431270/9781933517582.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 17032
 
 review_relationship = ["reviews/sorry-eileen-myles"]
-author_relationship = ["authors/eileen-myles"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

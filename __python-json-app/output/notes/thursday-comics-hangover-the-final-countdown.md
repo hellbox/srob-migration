@@ -1,8 +1,8 @@
 +++
 index = "-KBLzG1vmOvxtBUJjZA9"
-_sort_create_date = 1456379580
-_sort_last_updated = 1456418940
-_sort_publish_date = 1456422780
+sort_create_date = 1456379580
+sort_last_updated = 1456418940
+sort_publish_date = 1456422780
 create_date = "2016-02-24T21:53:00-08:00"
 publish_date = "2016-02-25T09:53:00-08:00"
 date = "2016-02-25T09:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "As Intruder prepares to disappear forever, it's getting more Intruder-ier than ever."
 facebookauto = "As Intruder prepares to disappear forever, it's getting more Intruder-ier than ever."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/intruder"]
-authors_notes = ["authors/marc-palm", "authors/seth-goodkind"]
+notes_about = ""
 books = ""
 +++
 Two more to go. The 18th issue of *Intruder*, Seattle’s free, invitation-only comics anthology, is available around town right now, which means only issues 19 and 20 are left before the whole operation folds. Everything seems more acute when a countdown timer’s running, of course, so it’s hard to say for sure, but this issue of *Intruder* certainly feels more…*Intruder*-ier than ever before: thicker, full of a wider variety of comics, even livelier than usual.

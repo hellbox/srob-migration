@@ -1,8 +1,8 @@
 +++
 index = "-JvaXfgCIT5oxFI-Ome2"
-_sort_create_date = 1438386900
-_sort_last_updated = 1438640580
-_sort_publish_date = 1438619940
+sort_create_date = 1438386900
+sort_last_updated = 1438640580
+sort_publish_date = 1438619940
 create_date = "2015-07-31T16:55:00-07:00"
 publish_date = "2015-08-03T09:39:00-07:00"
 date = "2015-08-03T09:39:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/university-book-store", "tags/hugo-house", "tags/adas-technical-books", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/seattle-public-library", "tags/the-book-larder"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **MONDAY** August can be a challenging month for readings in Seattle. Now that we’re in August, Town Hall is shuttered for a month for its yearly schedule of renovations — you can’t keep a place that old looking that good without a whole lot of TLC — and other readings series choke back on their offerings. So maybe it’s time to check in on some old faithful institutions, like Works in Progress, the [Hugo House](http://hugohouse.org/event/works-progress-30/)’s twice-monthly reading series. A lot of the local poets you love got their start at open mic nights like this. Maybe you’ll find your next favorite here. The event listing explains the idea behind the series: “Applause for all. No judgment. Some content not suitable for children or small animals. Listeners welcome.”

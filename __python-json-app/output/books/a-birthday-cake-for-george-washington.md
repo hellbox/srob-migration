@@ -1,8 +1,8 @@
 +++
 index = "-K8Latpx8GpPlHFimeF_"
-_sort_create_date = 1453151940
-_sort_last_updated = 1453152180
-_sort_publish_date = 1453151940
+sort_create_date = 1453151940
+sort_last_updated = 1453152180
+sort_publish_date = 1453151940
 create_date = "2016-01-18T13:19:00-08:00"
 publish_date = "2016-01-18T13:19:00-08:00"
 date = "2016-01-18T13:19:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["African Americans"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/i_PbinbT7lJeHHgC49E6HlcySLMdzmJZdbioLx0MT2fvEiHeUpVINGNpMjz2QURo4ER4nwu0GjCLc-RHNall9IFxkP4"
 url = "/webhook-uploads/1453151984079/content%3Fid%3DlNXDsgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 45049
 
 review_relationship = ["reviews/-\u201cthe-idea-of-freedom-might-be-too-great-a-temptation-for-them-to-resist"]
-author_relationship = ["authors/ramin-ganeshram"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/anti-censorship-group-alarmed-by-decision-to-pull-a-birthday-cake-for-george-washington"]
 +++

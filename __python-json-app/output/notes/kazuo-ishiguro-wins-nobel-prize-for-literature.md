@@ -1,8 +1,8 @@
 +++
 index = "-Kvh8rGRKlrcFnGrfptx"
-_sort_create_date = 1507217340
-_sort_last_updated = 1507217340
-_sort_publish_date = 1507217340
+sort_create_date = 1507217340
+sort_last_updated = 1507217340
+sort_publish_date = 1507217340
 create_date = "2017-10-05T08:29:00-07:00"
 publish_date = "2017-10-05T08:29:00-07:00"
 date = "2017-10-05T08:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507216928620/DLXo
 twitterauto = "Congratulations to Kazuo Ishiguro, the winner of the 2017 Nobel Prize for Literature!"
 facebookauto = "Congratulations to Kazuo Ishiguro, the winner of the 2017 Nobel Prize for Literature!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/nobel-prize"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1507216928620/DLXoJgNXcAEY_KU.jpg)</p>

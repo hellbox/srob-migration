@@ -1,8 +1,8 @@
 +++
 index = "-Kkg9N4mi2fJ5AOtfxUK"
-_sort_create_date = 1495389480
-_sort_last_updated = 1495428660
-_sort_publish_date = 1495479480
+sort_create_date = 1495389480
+sort_last_updated = 1495428660
+sort_publish_date = 1495479480
 create_date = "2017-05-21T10:58:00-07:00"
 publish_date = "2017-05-22T11:58:00-07:00"
 date = "2017-05-22T11:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495389178737/Scre
 twitterauto = "At @SIFFNews, you can watch a Ugandan action movie that comes with its own hype man."
 facebookauto = "The Ugandan micro-movie-studio Wakaliwood makes action movies that come with their own color commentary narrated over the top."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/siff", "tags/film"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1495389178737/Screen%20Shot%202017-05-21%20at%2010.21.24%20AM.png)</p>

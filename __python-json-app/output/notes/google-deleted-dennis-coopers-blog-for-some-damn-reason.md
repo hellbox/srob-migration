@@ -1,8 +1,8 @@
 +++
 index = "-KMQs7b1dBsUAS-iDsps"
-_sort_create_date = 1468272720
-_sort_last_updated = 1468272720
-_sort_publish_date = 1468272720
+sort_create_date = 1468272720
+sort_last_updated = 1468272720
+sort_publish_date = 1468272720
 create_date = "2016-07-11T14:32:00-07:00"
 publish_date = "2016-07-11T14:32:00-07:00"
 date = "2016-07-11T14:32:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Did Google delete Dennis Cooper's blog?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-blogs", "tags/google"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Tobias Carroll [at Vol. 1 Brooklyn](http://www.vol1brooklyn.com/2016/07/11/why-did-google-delete-dennis-coopers-blog/) writes that Dennis Cooper's lively blog has completely disappeared:

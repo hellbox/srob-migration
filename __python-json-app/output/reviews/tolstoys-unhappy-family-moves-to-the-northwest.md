@@ -1,8 +1,8 @@
 +++
 index = "-JuAIZt2OcAzBhtBhojM"
-_sort_create_date = 1436856240
-_sort_last_updated = 1437959100
-_sort_publish_date = 1436856240
+sort_create_date = 1436856240
+sort_last_updated = 1437959100
+sort_publish_date = 1436856240
 create_date = "2015-07-13T23:44:00-07:00"
 publish_date = "2015-07-13T23:44:00-07:00"
 date = "2015-07-13T23:44:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "b43fada4-a60e-5dc9-700d-cd63715d5c77"
 name = "Tolstoy's unhappy family moves to the Northwest"
 title = "Tolstoy's unhappy family moves to the Northwest"
 dek = "Raw, naked, and unadorned in its language, Kruse's *Call Me Home* takes us inside a violent family from multiple points of view."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/call-me-home"]
 tags_reviews = ["tags/leo-tolstoy", "tags/anna-karenina"]
-authors_reviews = ["authors/megan-kruse"]
+reviews_about = ""
 +++
 
 The famous opening sentence of *Anna Karenina* — "Happy families are all alike; each unhappy family is unhappy in its own way” — has been overused to the point of meaninglessness, like a word spoken aloud again and again until it becomes an oddity, stripped of its definition and reduced to a few ugly, alien syllables. The sentence is now a cliche that many people interpret as a license to spray their dysfunctional family history everywhere, in the form of memoir and Facebook post and standup routine. 

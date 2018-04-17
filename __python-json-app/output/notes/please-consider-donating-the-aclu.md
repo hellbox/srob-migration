@@ -1,8 +1,8 @@
 +++
 index = "-Kb8v7XYPJ3ZC1swSI7Q"
-_sort_create_date = 1485151380
-_sort_last_updated = 1485191580
-_sort_publish_date = 1485202380
+sort_create_date = 1485151380
+sort_last_updated = 1485191580
+sort_publish_date = 1485202380
 create_date = "2017-01-22T22:03:00-08:00"
 publish_date = "2017-01-23T12:13:00-08:00"
 date = "2017-01-23T12:13:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485151221232/aclu
 twitterauto = "We've donated our sponsorship slot this week to encourage you to donate to the @aclu. "
 facebookauto = "We've donated our sponsorship slot this week to encourage you to donate to the ACLU. "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1485151275069/aclu.png)</p>

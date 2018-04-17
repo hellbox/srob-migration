@@ -1,8 +1,8 @@
 +++
 index = "-KeA4A7aqcYAsuKGE5hA"
-_sort_create_date = 1488392040
-_sort_last_updated = 1488392040
-_sort_publish_date = 1488392040
+sort_create_date = 1488392040
+sort_last_updated = 1488392040
+sort_publish_date = 1488392040
 create_date = "2017-03-01T10:14:00-08:00"
 publish_date = "2017-03-01T10:14:00-08:00"
 date = "2017-03-01T10:14:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Memoirs from the Obamas are likely to be published by Penguin Random House in 2018."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/barack-obama"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We told you last night that [the bidding war for memoirs from Barack and Michelle Obama](http://www.seattlereviewofbooks.com/notes/2017/02/28/obama-memoirs-bidding-war-said-to-reach-60-million/) reached $60 million. Last night, [Penguin Random House announced](http://money.cnn.com/2017/02/28/media/obamas-book-deal/index.html?mc_cid=9fcd46efde&mc_eid=853038d1c1) that they won the rights to publish the books. They're expected to arrive in 2018. Penguin Random House's CEO promises to "make each of their books global publishing events of unprecedented scope and significance."

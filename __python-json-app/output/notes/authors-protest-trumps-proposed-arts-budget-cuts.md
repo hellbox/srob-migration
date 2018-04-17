@@ -1,8 +1,8 @@
 +++
 index = "-KfNm1j6P4db8mHK-GIU"
-_sort_create_date = 1489695660
-_sort_last_updated = 1489695660
-_sort_publish_date = 1489695660
+sort_create_date = 1489695660
+sort_last_updated = 1489695660
+sort_publish_date = 1489695660
 create_date = "2017-03-16T13:21:00-07:00"
 publish_date = "2017-03-16T13:21:00-07:00"
 date = "2017-03-16T13:21:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Join Neil Gaiman, Anne Tyler, and Art Spiegelman in their fight against Donald Trump's anti-art agenda."
 facebookauto = "Join Neil Gaiman, Anne Tyler, and Art Spiegelman in their fight against Donald Trump's anti-art agenda."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/pen-america"]
-authors_notes = ["authors/paul-auster"]
+notes_about = ""
 books = ""
 +++
 PEN America [notes that](https://pen.org/press-release/jasper-johns-rosanne-cash-hanya-yanagihara-200000-americans-call-congress-save-federal-arts-funding/) a number of organizations and authors are protesting Donald Trump's proposed budget, which cuts funding for the National Endowment for the Arts and the National Endowment for the Humanities.

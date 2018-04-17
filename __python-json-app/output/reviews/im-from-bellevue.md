@@ -1,8 +1,8 @@
 +++
 index = "-KUmGz-syZemwBOiIVT3"
-_sort_create_date = 1477238580
-_sort_last_updated = 1477370760
-_sort_publish_date = 1477335600
+sort_create_date = 1477238580
+sort_last_updated = 1477370760
+sort_publish_date = 1477335600
 create_date = "2016-10-23T09:03:00-07:00"
 publish_date = "2016-10-24T12:00:00-07:00"
 date = "2016-10-24T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "\"I'm from Bellevue\""
 dek = "Growing up in Bellevue, one writer lead the idyllic American life, until looking back on it years later and seeing the things not evident at the time."
 facebookauto = "A look at Bellevue, through the years, in its glory and its flaws, from an ex-resident."
 twitterauto = "A look at Bellevue, through the years, in its glory and its flaws, from an ex-resident."
-byline = ["writers/o-alan-weltzien"]
+reviews_byline = ["writers/o-alan-weltzien"]
 books_in_this_review = ["books/strawberry-days"]
 tags_reviews = ["tags/bellevue"]
-authors_reviews = ["authors/david-a-neiwert-"]
+reviews_about = ""
 +++
 
 One summer day, early in the 21st-century, I’m southbound on Bellevue’s NE 104th, approaching the NE 8th intersection, for generations the city’s main one. It takes me two traffic lights to get through, and as I wait I study the towers just to my left (“Bellevue Place”) and a range of other buildings ahead and to my right. Steel gleams in the diffused light through the usual cloud cover. I’ve ridden through here all my life, and driven it for over three decades, but I recognize nothing, only the slight downward slope as I pass through Kemperville down to Main Street. My Montana license plates mark me as a foreigner; this is my place yet I’m lost, a stranger in a strange land, no familiar sight cues greeting my eyes.

@@ -1,8 +1,8 @@
 +++
 index = "-K8w2F-qk5AcMRZY_5A2"
-_sort_create_date = 1453780140
-_sort_last_updated = 1453926720
-_sort_publish_date = 1453780140
+sort_create_date = 1453780140
+sort_last_updated = 1453926720
+sort_publish_date = 1453780140
 create_date = "2016-01-25T19:49:00-08:00"
 publish_date = "2016-01-25T19:49:00-08:00"
 date = "2016-01-25T19:49:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WNqm0lgxkBOiL2cmhjG3giQsaAbm0dP_H1JwkpN9pJjhZdSVJIBzUdZ7i1_kXNillp4vO9P0NQRi3noT5cdMUOGK_7wcPg"
 url = "/webhook-uploads/1453780172207/content%3Fid%3DY4tergEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 22944
 
 review_relationship = ["reviews/body-of-work"]
-author_relationship = ["authors/maggie-nelson"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/2016-national-book-critics-circle-awards-announced", "notes/the-kind-of-genius-you-cant-ignore"]
 +++

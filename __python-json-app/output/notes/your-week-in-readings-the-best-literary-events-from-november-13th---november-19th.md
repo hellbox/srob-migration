@@ -1,8 +1,8 @@
 +++
 index = "-KxBtJ3gYSgBa_hq2-oL"
-_sort_create_date = 1508823600
-_sort_last_updated = 1510600440
-_sort_publish_date = 1510602600
+sort_create_date = 1508823600
+sort_last_updated = 1510600440
+sort_publish_date = 1510602600
 create_date = "2017-10-23T22:40:00-07:00"
 publish_date = "2017-11-13T11:50:00-08:00"
 date = "2017-11-13T11:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508823505984/seda
 twitterauto = "Your week in readings covers sexism in tech and five up-and-coming sci-fi authors."
 facebookauto = "Your week in readings covers sexism in tech and five great up-and-coming sci-fi authors."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/david-sedaris"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, November 13th: *Jade City* and *This Mortal Coil* Reading **</h5></p>

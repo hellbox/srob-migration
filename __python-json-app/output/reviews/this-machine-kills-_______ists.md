@@ -1,8 +1,8 @@
 +++
 index = "-KI1Bv3lsW4OVHEAKEB-"
-_sort_create_date = 1463547000
-_sort_last_updated = 1463975460
-_sort_publish_date = 1463684400
+sort_create_date = 1463547000
+sort_last_updated = 1463975460
+sort_publish_date = 1463684400
 create_date = "2016-05-17T21:50:00-07:00"
 publish_date = "2016-05-19T12:00:00-07:00"
 date = "2016-05-19T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "This machine kills _______ists."
 dek = "Roll on, books about folk heroes. Andrew Matson goes straight to the heart of whether we should even be paying that much attention to these old dudes anymore."
 facebookauto = "Woody Guthrie. Greg Vandy and Daniel Person wrote about him and the songs he wrote for Washington. Music critic Andrew Matson reviews it for us."
 twitterauto = "Woody Guthrie. @Gregvandy & @danoperson wrote about him and WA for @Sasquatchbooks. @andrewmatson reviews it for us."
-byline = ["writers/andrew-matson"]
+reviews_byline = ["writers/andrew-matson"]
 books_in_this_review = ["books/26-songs-in-30-days"]
 tags_reviews = ["tags/music", "tags/criticism", "tags/music-criticism", "tags/woody-guthrie"]
-authors_reviews = ["authors/greg-vandy", "authors/daniel-person"]
+reviews_about = ""
 +++
 
 Going into this book, I was feeling extremely prejudiced against standard-issue American singer-songwriter guitar music. Especially traditional stuff. We’re inundated in Seattle. And Woody Guthrie: I get it. He was a socialist protest singer. He was down with the Popular Front in the 1940s. He called his guitar a machine. He meant for it to kill fascists. We would vote Woody Guthrie onto our city council if we could. The songs he wrote still currently catch hella burn at coffeeshops citywide, and on KEXP he’s always there, thanks to the Wilco/Billy Bragg “Mermaid Avenue” record from 18 years ago. That album is like dungarees Seattle won’t stop wearing. You can say you don’t love the sound of Guthrie’s folksy, bluesy, vernacular poetry music. People will ask, _Are you sure you get it??_

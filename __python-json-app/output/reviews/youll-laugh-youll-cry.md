@@ -1,8 +1,8 @@
 +++
 index = "-KiT1LKKHDLaXjEmDpUo"
-_sort_create_date = 1493005020
-_sort_last_updated = 1493179920
-_sort_publish_date = 1493229600
+sort_create_date = 1493005020
+sort_last_updated = 1493179920
+sort_publish_date = 1493229600
 create_date = "2017-04-23T20:37:00-07:00"
 publish_date = "2017-04-26T11:00:00-07:00"
 date = "2017-04-26T11:00:00-07:00"
@@ -13,10 +13,10 @@ title = "You'll laugh, you'll cry"
 dek = "Patricia Lockwood reads from her new memoir Priestdaddy at Elliott Bay Book Company next Wednesday, May 3rd. Does one of America's best poets have what it takes to be a memoirist?"
 facebookauto = "She's one of our best poets. Can Patricia Lockwood succeed as a memoirist, too?"
 twitterauto = "She's one of our best poets. Can @TriciaLockwood succeed as a memoirist, too?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/priestdaddy"]
 tags_reviews = ["tags/memoir", "tags/poetry"]
-authors_reviews = ["authors/patricia-lockwood"]
+reviews_about = ""
 +++
 
 Patricia Lockwood is one of the best poets working in America today. Plenty of critics try to diminish that standing by dinging Lockwood for successfully using the internet like an adult human in the year 2017. In the first sentence of her review of Lockwood’s new book, *Priestdaddy*, *Financial Times* critic Suzi Feay praises Lockwood backhandedly for “her zany mastery of Twitter.” James Parker in his *Atlantic* review of *Priestdaddy* sniffs that “Like Donald Trump, [Lockwood] does pretty well on Twitter.”

@@ -1,8 +1,8 @@
 +++
 index = "-KFSW6Ojpjfp4NiZ_2aY"
-_sort_create_date = 1460784060
-_sort_last_updated = 1460784420
-_sort_publish_date = 1460908800
+sort_create_date = 1460784060
+sort_last_updated = 1460784420
+sort_publish_date = 1460908800
 create_date = "2016-04-15T22:21:00-07:00"
 publish_date = "2016-04-17T09:00:00-07:00"
 date = "2016-04-17T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post, with pieces from @andyheisel, @kashhill, @joeloliphint, and more."
 facebookauto = "Good reading today, on the Sunday Post: men spanking women in movies, glitches in internet mapping, the Guardian's investigation into online comments, and a rare side-effect of a common nasal surgery that ends in tragedy. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://pictorial.jezebel.com/i-dont-know-whether-to-kiss-you-or-spank-you-a-half-ce-1769140132" title="&amp;#39;I Don&amp;#39;t Know Whether to Kiss You or Spank You&amp;#39;: A Half Century of Fear of an Unspanked Woman">'I Don't Know Whether to Kiss You or Spank You': A Half Century of Fear of an Unspanked Woman</a></h5> 

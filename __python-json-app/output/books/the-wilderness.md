@@ -1,8 +1,8 @@
 +++
 index = "-K7V9Iir7f77MDLcbp3C"
-_sort_create_date = 1452238500
-_sort_last_updated = 1452238560
-_sort_publish_date = 1452238500
+sort_create_date = 1452238500
+sort_last_updated = 1452238560
+sort_publish_date = 1452238500
 create_date = "2016-01-07T23:35:00-08:00"
 publish_date = "2016-01-07T23:35:00-08:00"
 date = "2016-01-07T23:35:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Political Science"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HnQ3xQENAAUE2cUOUv2xftcZLP85Q65Q0YebPgXuL_jKF2sCkvjj7_nKxvjX3-7F-OiloY0e6q1izQ6gU6J-FkvZqP4"
 url = "/webhook-uploads/1452238517978/content%3Fid%3D3cEhrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12846
 
 review_relationship = ["reviews/delicious-nothingness"]
-author_relationship = ["authors/mckay-coppins"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KhDeMNtyIkYx8GF-TVw"
-_sort_create_date = 1491673380
-_sort_last_updated = 1491673380
-_sort_publish_date = 1491673380
+sort_create_date = 1491673380
+sort_last_updated = 1491673380
+sort_publish_date = 1491673380
 create_date = "2017-04-08T10:43:00-07:00"
 publish_date = "2017-04-08T10:43:00-07:00"
 date = "2017-04-08T10:43:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/o5TwFzCSFXTH4LqLp2VXuu48ZO0QM4tAdzIfu6n1VvLL_iKULoyfN_fU_nBTbkyRUL5IdK4fa51HwgRYHVxykI5VxbI"
 url = "/webhook-uploads/1491673393215/aAste320SecD05R0lWBQ_full_JHeCover.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 733616
 
 review_relationship = ""
-author_relationship = ["authors/jeffrey-warren"]
+books_author = ""
 sponsorships_book = ["sponsorships/justifiable-homicide"]
 notes_relationship = ""
 +++

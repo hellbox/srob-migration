@@ -1,8 +1,8 @@
 +++
 index = "-JzLyXXBnmsS0dGBiN0Y"
-_sort_create_date = 1442420760
-_sort_last_updated = 1442420760
-_sort_publish_date = 1442420760
+sort_create_date = 1442420760
+sort_last_updated = 1442420760
+sort_publish_date = 1442420760
 create_date = "2015-09-16T09:26:00-07:00"
 publish_date = "2015-09-16T09:26:00-07:00"
 date = "2015-09-16T09:26:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Author @nicolaz calls the lack of women's voices in this year's Man Booker Prizes \"appalling.\" She's right."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/man-booker-prize"]
-authors_notes = ["authors/nicola-griffith"]
+notes_about = ""
 books = ""
 +++
 I was so excited to [report the Man Booker Shortlist names](http://seattlereviewofbooks.com/notes/2015/09/15/man-booker-prize-shortlist-announced/) (and the attendant Seattle connection) yesterday that I completely failed to [follow the advice of Seattle author Nicola Griffith](http://seattlereviewofbooks.com/notes/2015/07/27/talking-with-nicola-griffith-about-the-importance-of-counting-womens-stories/): I didn't count the number of women's voices on the list. Luckily, [Griffith *did* do a gender count](http://nicolagriffith.com/2015/09/16/man-booker-2015-shortlist-is-appalling/), and she finds the results to be "appalling." There are fewer women on the shortlist than usual, she says, and very few of the books are about the experiences of women.

@@ -1,8 +1,8 @@
 +++
 index = "-KRFgYQx9TcMGBilCrY6"
-_sort_create_date = 1473453840
-_sort_last_updated = 1473454080
-_sort_publish_date = 1473609600
+sort_create_date = 1473453840
+sort_last_updated = 1473454080
+sort_publish_date = 1473609600
 create_date = "2016-09-09T13:44:00-07:00"
 publish_date = "2016-09-11T09:00:00-07:00"
 date = "2016-09-11T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "An artist caught at sea, a parent trapped by spite,  people who refuse to believe hard truths: It\u2019s the Sunday Post."
 facebookauto = "An artist caught at sea, a parent trapped by spite, and people who refuse to believe hard truths, today on the Sunday Post. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Hello Sunday Post readers! Thanks to our intern Rebecca Garcia Moreno for handling your picks of Sunday reads over the Summer. She did a great job. Back now to your regularly scheduled recommenations....

@@ -1,8 +1,8 @@
 +++
 index = "-Kl6tGkBVWVEHh3MIIKa"
-_sort_create_date = 1495854780
-_sort_last_updated = 1496075700
-_sort_publish_date = 1496077260
+sort_create_date = 1495854780
+sort_last_updated = 1496075700
+sort_publish_date = 1496077260
 create_date = "2017-05-26T20:13:00-07:00"
 publish_date = "2017-05-29T10:01:00-07:00"
 date = "2017-05-29T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495853865827/oliv
 twitterauto = "We talked with @Oliver_delaPaz about missing Seattle and why poets need community."
 facebookauto = "We talked with Oliver de la Paz about missing Seattle, learning to love poetry from a Reader's Digest collection of Robert Penn Warren, and why poets need community."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/poetry", "tags/hugo-house", "tags/jack-straw"]
-authors_notes = ["authors/oliver-de-la-paz"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Our May poet-in-residence, [Oliver de la Paz](http://www.seattlereviewofbooks.com/writers/oliver-de-la-paz/), is the first *Seattle Review of Books*-published poet who does not currently live in the Pacific Northwest. We wanted to spotlight him because for well over a decade, he was one of the best-respected writers in town — one of those rare selfless authors who would show up as a sign of support at book launch parties even when he wasn’t scheduled to read. You always get the sense from his work and his enthusiasm that de la Paz is honored to be a part of a community that is greater than he is.</p>

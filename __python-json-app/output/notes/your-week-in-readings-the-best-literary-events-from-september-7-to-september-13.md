@@ -1,8 +1,8 @@
 +++
 index = "-JyKcsXYn8kEaC6fRIuF"
-_sort_create_date = 1441324560
-_sort_last_updated = 1441688340
-_sort_publish_date = 1441644900
+sort_create_date = 1441324560
+sort_last_updated = 1441688340
+sort_publish_date = 1441644900
 create_date = "2015-09-03T16:56:00-07:00"
 publish_date = "2015-09-07T09:55:00-07:00"
 date = "2015-09-07T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This week in literary events includes a rum-drunk reading from a sci-fi novel about a union organizer."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/hugo-house", "tags/elliott-bay-book-company", "tags/third-place-books-lake-forest-park", "tags/university-book-store"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **MONDAY** [Celebrate Labor Day at Bumbershoot](http://bumbershoot.com/words_and_ideas#!programmation=artist$writing-the-northwest-with-timothy-egan-brian-doyle-and-jamie-ford/714), where the Words & Ideas Stage hosts a discussion between local authors Timothy Egan and Jamie Ford, with moderation from Portland Magazine editor Brian Doyle. Egan, of course, is a *New York Times* contributor and the author of some fantastic non-fiction history books. Ford wrote the Seattle-set novel *Hotel on the Corner of Bitter and Sweet.*

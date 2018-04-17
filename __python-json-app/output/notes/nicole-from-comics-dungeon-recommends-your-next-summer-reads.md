@@ -1,8 +1,8 @@
 +++
 index = "-KMBn5lO1rljG-p33bUj"
-_sort_create_date = 1468019760
-_sort_last_updated = 1468019820
-_sort_publish_date = 1468256160
+sort_create_date = 1468019760
+sort_last_updated = 1468019820
+sort_publish_date = 1468256160
 create_date = "2016-07-08T16:16:00-07:00"
 publish_date = "2016-07-11T09:56:00-07:00"
 date = "2016-07-11T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468019452537/Powe
 twitterauto = "What is Nicole @ComicsDungeon recommending this summer?"
 facebookauto = "We asked Nicole Lamb at the Comics Dungeon to give us one great summer book recommendation. Instead, she offered up two."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comics", "tags/dc-comics", "tags/boom"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Monday remaining in the month of July, we’ll talking to Seattle-area booksellers about the books they’re most excited to read this summer. </p>

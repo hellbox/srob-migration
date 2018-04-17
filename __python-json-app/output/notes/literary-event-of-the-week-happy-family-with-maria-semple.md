@@ -1,8 +1,8 @@
 +++
 index = "-KJyOK6XU1OZ6Hl6TyJE"
-_sort_create_date = 1465630620
-_sort_last_updated = 1465630620
-_sort_publish_date = 1466010060
+sort_create_date = 1465630620
+sort_last_updated = 1465630620
+sort_publish_date = 1466010060
 create_date = "2016-06-11T00:37:00-07:00"
 publish_date = "2016-06-15T10:01:00-07:00"
 date = "2016-06-15T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1465630478046/hap
 twitterauto = "Our reading of the week is Tracy Barone and Maria Semple at the Seattle Public Library."
 facebookauto = "Tracy Barone, the author of Happy Family, will be joined by Maria Semple at the Seattle Public Library this week."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/maria-semple"]
+notes_about = ""
 books = ["books/whered-you-go-bernadette"]
 +++
 <p class="image-left">![](/webhook-uploads/1465630478046/happyfamily.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-Kan5vIpECIvfRAr4Vj0"
-_sort_create_date = 1484768640
-_sort_last_updated = 1484768640
-_sort_publish_date = 1484772240
+sort_create_date = 1484768640
+sort_last_updated = 1484768640
+sort_publish_date = 1484772240
 create_date = "2017-01-18T11:44:00-08:00"
 publish_date = "2017-01-18T12:44:00-08:00"
 date = "2017-01-18T12:44:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484768573223/arto
 twitterauto = "\"Our incoming president simply doesn't seem to enjoy reading.\""
 facebookauto = "\"It is time to come to terms with the fact that our incoming president simply doesn't seem to enjoy reading.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump", "tags/barack-obama"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On Snapchat, two reporters for [brand-new news start-up Axios](https://www.axios.com/), Mike Allen and Jim Vandehai, interviewed President-elect Trump about his favorite books. The resulting exchange is reminiscent of [Sarah Palin's most famous interview](https://www.youtube.com/watch?v=xRkWebP2Q0Y).

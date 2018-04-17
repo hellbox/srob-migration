@@ -1,8 +1,8 @@
 +++
 index = "-KyRyqnQtfZ2GfipRDPs"
-_sort_create_date = 1510167240
-_sort_last_updated = 1510167240
-_sort_publish_date = 1510170780
+sort_create_date = 1510167240
+sort_last_updated = 1510167240
+sort_publish_date = 1510170780
 create_date = "2017-11-08T10:54:00-08:00"
 publish_date = "2017-11-08T11:53:00-08:00"
 date = "2017-11-08T11:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This weekend, Friends of the @SPLBuzz are selling a ton of books. Take special note mystery-lovers:"
 facebookauto = "The Friends of the Seattle Public Library are throwing a big book sale on Saturday. Some of the books they're selling are from the late, lamented Seattle Mystery Bookshop's collection."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-mystery-bookshop"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you're a mystery fan, you're likely still stinging from the loss of Pioneer Square's Seattle Mystery Bookshop. But you should know that this Saturday you'll have an opportunity to find some great deals on mystery novels while also supporting the Friends of the Seattle Public Library.

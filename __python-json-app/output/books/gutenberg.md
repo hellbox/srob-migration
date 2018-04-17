@@ -1,8 +1,8 @@
 +++
 index = "-Jw_AXLuv43RKx-tzE9r"
-_sort_create_date = 1439437800
-_sort_last_updated = 1439743560
-_sort_publish_date = 1439437800
+sort_create_date = 1439437800
+sort_last_updated = 1439743560
+sort_publish_date = 1439437800
 create_date = "2015-08-12T20:50:00-07:00"
 publish_date = "2015-08-12T20:50:00-07:00"
 date = "2015-08-12T20:50:00-07:00"
@@ -23,14 +23,14 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0wwtA726nUFeOQlrWzvaI46i8eDwkh4Agolv0miKAVF2Bk3NC7VJfaJ4pF1-ZJXH7ScfljQx829ycVM1L9bhsH4EUgd0SA"
 url = "/webhook-uploads/1439437815846/517Z5RP5J2L._SX317_BO1%2C204%2C203%2C200_.jpg"
 width = 319
 height = 474
 review_relationship = ["reviews/omg-gutenberg"]
-author_relationship = ["authors/john-man"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

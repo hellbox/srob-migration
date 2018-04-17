@@ -1,8 +1,8 @@
 +++
 index = "-Ks_xB7Fuf0M_gBMo-KB"
-_sort_create_date = 1503875340
-_sort_last_updated = 1503876120
-_sort_publish_date = 1503875340
+sort_create_date = 1503875340
+sort_last_updated = 1503876120
+sort_publish_date = 1503875340
 create_date = "2017-08-27T16:09:00-07:00"
 publish_date = "2017-08-27T16:09:00-07:00"
 date = "2017-08-27T16:09:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4cuqZe3myQANIfeFvxCdwTVuPJn15nR_J4aROP9wxpJL9gbkILbpX9dquaHMWJE4iBbEjoU5Zin2mFV0uYRysUZLUBnv"
 url = "/webhook-uploads/1503875211468/Song%20of%20the%20Plains_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 87299
 
 review_relationship = ""
-author_relationship = ["authors/linda-joy-myers"]
+books_author = ""
 sponsorships_book = ["sponsorships/song-of-the-plains"]
 notes_relationship = ["notes/wide-open-spaces-tightly-knit-lives"]
 +++

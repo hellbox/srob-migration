@@ -1,8 +1,8 @@
 +++
 index = "-KTfrp9N3ZP1SAabEMop"
-_sort_create_date = 1476057300
-_sort_last_updated = 1506023220
-_sort_publish_date = 1476118500
+sort_create_date = 1476057300
+sort_last_updated = 1506023220
+sort_publish_date = 1476118500
 create_date = "2016-10-09T16:55:00-07:00"
 publish_date = "2016-10-10T09:55:00-07:00"
 date = "2016-10-10T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle is a relatively new city. Is it hard to find rare and antiquarian books here?"
 facebookauto = "Seattle is a relatively new city. Is it hard to find rare and antiquarian books here?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/louis-collins-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Our [October Bookstore of the Month](http://www.seattlereviewofbooks.com/_wh_previews/notes/5878691e-8f1c-7366-39c0-b6feee60015d/), Louis Collins Books, is in a bright blue building at the intersection of 12th and Denny. Collins has been selling books out of this building for decades, and he’s been in the book business for nearly 50 years. Since he does most of his business online, Louis Collins Books is only open for browsing by appointment. I’d urge you to make an appointment: it’s a beautiful space, completely taken over by used and rare books. But unlike the chaos of some used bookstores, everything in Louis Collins Books seems highly organized.

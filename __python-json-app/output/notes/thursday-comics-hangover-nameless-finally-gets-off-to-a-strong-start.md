@@ -1,8 +1,8 @@
 +++
 index = "-Jzy1BX8vL4ThWjF9iTt"
-_sort_create_date = 1443076020
-_sort_last_updated = 1443110100
-_sort_publish_date = 1443113700
+sort_create_date = 1443076020
+sort_last_updated = 1443110100
+sort_publish_date = 1443113700
 create_date = "2015-09-23T23:27:00-07:00"
 publish_date = "2015-09-24T09:55:00-07:00"
 date = "2015-09-24T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Maybe the fifth issue of Grant Morrison's astronaut horror comic Nameless should've been the first issue."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/comics", "tags/nameless"]
-authors_notes = ["authors/grant-morrison"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1443075313585/Nameless_01-1_362_557_s_c1.png)</p>Grant Morrison and Chris Burnham’s comic *Nameless* is on its fifth issue this week, but it wasn’t until this issue that the premise of the series really hit home for me: it’s *Armageddon*, only the asteroid is haunted.  That’s about as high concept as you can get, and if Morrison is nothing else, he’s fundamentally skilled at high concept. 

@@ -1,8 +1,8 @@
 +++
 index = "-K8LjNtLnUUdxtMece5F"
-_sort_create_date = 1453154160
-_sort_last_updated = 1453162500
-_sort_publish_date = 1453161660
+sort_create_date = 1453154160
+sort_last_updated = 1453162500
+sort_publish_date = 1453161660
 create_date = "2016-01-18T13:56:00-08:00"
 publish_date = "2016-01-18T16:01:00-08:00"
 date = "2016-01-18T16:01:00-08:00"
@@ -13,10 +13,10 @@ title = " \u201cThe idea of freedom might be too great a temptation for them to 
 dek = "Scholastic took the rare step of withdrawing a controversial children's book from publication after outrage about the depiction of George Washington's slaves started to spread across social media. Was this the right thing to do? And what does this say about America's tendency to whitewash our history?"
 facebookauto = "A new children's book was withdrawn by its publisher because of its controversial depiction of slavery. How bad was it? Were George Washington's slaves really happy to be there?"
 twitterauto = ".@bylisagold reviews a controversial children's book about slavery that was withdrawn by its own publisher."
-byline = ["writers/lisa-gold"]
+reviews_byline = ["writers/lisa-gold"]
 books_in_this_review = ["books/a-birthday-cake-for-george-washington"]
 tags_reviews = ["tags/childrens-book", "tags/history"]
-authors_reviews = ["authors/ramin-ganeshram"]
+reviews_about = ""
 +++
 
 A sudden flurry of outraged tweets and blog posts last week led me to *A Birthday Cake for George Washington*, written by Ramin Ganeshram and illustrated by Vanessa Brantley-Newton, which the publisher touted as “based on real events.” Set in 1790s Philadelphia, where George Washington was serving as America’s first president, the story is about Hercules, Washington’s slave-cook, and is narrated by his young daughter Delia. 

@@ -1,8 +1,8 @@
 +++
 index = "-KBcrrQ2URgM7GVjZVTH"
-_sort_create_date = 1456679640
-_sort_last_updated = 1456679820
-_sort_publish_date = 1456680600
+sort_create_date = 1456679640
+sort_last_updated = 1456679820
+sort_publish_date = 1456680600
 create_date = "2016-02-28T09:14:00-08:00"
 publish_date = "2016-02-28T09:30:00-08:00"
 date = "2016-02-28T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post, with pieces by @robinrendle, @jiatolentino, and @jennifer_dubois"
 facebookauto = "The Sunday Post looks at typography on the web, the choice between an MFA or a job with the CIA, and how we should feel about those rock stars of old, when they slept with underage girls."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="https://www.robinrendle.com/essays/new-web-typography/" title="The New Web Typography › Robin Rendle">The New Web Typography</a></h5>

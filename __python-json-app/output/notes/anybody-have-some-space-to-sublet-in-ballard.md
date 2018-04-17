@@ -1,8 +1,8 @@
 +++
 index = "-K5DH3eR7ztx9ouDeRE4"
-_sort_create_date = 1449791040
-_sort_last_updated = 1449791040
-_sort_publish_date = 1449791040
+sort_create_date = 1449791040
+sort_last_updated = 1449791040
+sort_publish_date = 1449791040
 create_date = "2015-12-10T15:44:00-08:00"
 publish_date = "2015-12-10T15:44:00-08:00"
 date = "2015-12-10T15:44:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In her report on Bauhaus's closures, @BJeanClement raises questions about the future of Twice Sold Tales Ballard."
 facebookauto = "The Bauhaus coffee chain seems to be closing down. What does that mean for the future of Twice Sold Tales in Ballard, which is subleasing from the Ballard Bauhaus?"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/twice-sold-tales"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Toward the end of Bethany Jean Clement's [*Seattle Times* scoop](http://www.seattletimes.com/life/food-drink/bauhaus-green-lake-closes-ballard-branch-reportedly-to-follow/) about the sudden and mysterious closure of the Bauhaus coffee mini-chain, there's this additional terrible news:

@@ -1,8 +1,8 @@
 +++
 index = "-KaQYiYcLSfRfMu8SEoA"
-_sort_create_date = 1484373540
-_sort_last_updated = 1484373780
-_sort_publish_date = 1484769540
+sort_create_date = 1484373540
+sort_last_updated = 1484373780
+sort_publish_date = 1484769540
 create_date = "2017-01-13T21:59:00-08:00"
 publish_date = "2017-01-18T11:59:00-08:00"
 date = "2017-01-18T11:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484373441050/look
 twitterauto = "Your week in readings includes books about Betty MacDonald, serial killers, and America."
 facebookauto = "Your week in readings includes books about Betty MacDonald, serial killers, and America."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday January 18th: WordsWest 22**</h5></p> 

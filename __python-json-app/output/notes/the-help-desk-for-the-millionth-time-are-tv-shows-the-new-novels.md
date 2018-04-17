@@ -1,8 +1,8 @@
 +++
 index = "-Kh8MuHKEsah-8yxTZsF"
-_sort_create_date = 1491584640
-_sort_last_updated = 1491584640
-_sort_publish_date = 1491584640
+sort_create_date = 1491584640
+sort_last_updated = 1491584640
+sort_publish_date = 1491584640
 create_date = "2017-04-07T10:04:00-07:00"
 publish_date = "2017-04-07T10:04:00-07:00"
 date = "2017-04-07T10:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Are novels the new TV shows? (Sigh.) No."
 facebookauto = "Are novels the new TV shows? (Sigh.) No."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

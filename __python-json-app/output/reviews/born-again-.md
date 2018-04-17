@@ -1,8 +1,8 @@
 +++
 index = "-KvB3yzzAEB540Ec6B4I"
-_sort_create_date = 1506662400
-_sort_last_updated = 1506712080
-_sort_publish_date = 1507058340
+sort_create_date = 1506662400
+sort_last_updated = 1506712080
+sort_publish_date = 1507058340
 create_date = "2017-09-28T22:20:00-07:00"
 publish_date = "2017-10-03T12:19:00-07:00"
 date = "2017-10-03T12:19:00-07:00"
@@ -13,10 +13,10 @@ title = "Born Again "
 dek = "EJ Koh\u2019s stellar debut collection starts in heaven, goes to war, and then finds love.\n"
 facebookauto = "EJ Koh's poems are about war and violence and heartbreak, but they shine with an intrinsic hope."
 twitterauto = "EJ Koh's poems are about war and heartbreak, but they shine with an intrinsic hope."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/a-lesser-love"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/ej-koh"]
+reviews_about = ""
 +++
 
 “There is a Korean belief that you are born/the parent of the one you hurt most,” writes EJ Koh in her debut poetry collection *A Lesser Love*. . It’s such a perfect idea that it hurts your heart just to think about it. 

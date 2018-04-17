@@ -1,8 +1,8 @@
 +++
 index = "-KQRcpZScIPrJRSe1XsD"
-_sort_create_date = 1472580480
-_sort_last_updated = 1472582340
-_sort_publish_date = 1472583660
+sort_create_date = 1472580480
+sort_last_updated = 1472582340
+sort_publish_date = 1472583660
 create_date = "2016-08-30T11:08:00-07:00"
 publish_date = "2016-08-30T12:01:00-07:00"
 date = "2016-08-30T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes a helpful tip for men who want to talk to women reading in public."
 facebookauto = "Today's Book News Roundup includes a helpful tip for men who want to talk to women reading in public."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/ej-koh", "authors/robert-lashley", "authors/sherman-alexie"]
+notes_about = ""
 books = ""
 +++
 * Just a reminder that we are very excited about [the *Seattle Review of Books* showcase happening at Bumbershoot this Sunday at 7:30 pm](http://www.seattlereviewofbooks.com/notes/2016/04/26/the-seattle-review-of-books-is-coming-to-bumbershoot/). We'll be presenting poets EJ Koh and Robert Lashley onstage with poet, novelist, short story author, and all-around Seattle literary lion Sherman Alexie. We hope to see you there.

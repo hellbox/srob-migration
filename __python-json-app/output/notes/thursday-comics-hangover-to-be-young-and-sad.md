@@ -1,8 +1,8 @@
 +++
 index = "-K95iNS2QHebl7gcF0pH"
-_sort_create_date = 1453959240
-_sort_last_updated = 1453959240
-_sort_publish_date = 1454003640
+sort_create_date = 1453959240
+sort_last_updated = 1453959240
+sort_publish_date = 1454003640
 create_date = "2016-01-27T21:34:00-08:00"
 publish_date = "2016-01-28T09:54:00-08:00"
 date = "2016-01-28T09:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The comic It's Okay to Be Sad Sometimes is about being sad, young, and desperately trying to figure it all out."
 facebookauto = "Elk Paauw's comic It's Okay to Be Sad Sometimes is about being sad, young, and desperately trying to figure it all out."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/comics"]
-authors_notes = ["authors/elk-paauw"]
+notes_about = ""
 books = ""
 +++
 Local cartoonist Elk Paauw’s minicomic *It’s Okay to Be Sad Sometimes* is a collection of short comics about sadness. Are all the sadnesses linked to a single cause? Maybe; it’s not entirely clear, though Paauw does allude to a breakup several times. In any case, the book works as a narrative about a single depression or as a thematic collection. 

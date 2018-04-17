@@ -1,8 +1,8 @@
 +++
 index = "-KSoWuvmFLbGp6hqJ8jS"
-_sort_create_date = 1475128800
-_sort_last_updated = 1475165160
-_sort_publish_date = 1475168400
+sort_create_date = 1475128800
+sort_last_updated = 1475165160
+sort_publish_date = 1475168400
 create_date = "2016-09-28T23:00:00-07:00"
 publish_date = "2016-09-29T10:00:00-07:00"
 date = "2016-09-29T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In less than a year, Marvel Comics has gone from a wildly exciting comics line to abysmal corporate dreck."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/marvel-comics"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ""
 +++
 I agree with [Ta-Nehisi Coates]( http://www.theatlantic.com/notes/2015/08/jonathan-hickmans-secret-wars/402508/) that Jonathan Hickman’s series *Secret Wars* was a high point for Marvel Comics — it was the culmination of a time in which Marvel seemed to be doing new things with its superhero comics, exploring old concepts with fresh eyes. At roughly this time last year, Marvel Comics felt as though it was humming with possibility; as Marvel's films came to dominate the blockbuster box office, the comics division seemed ready to move forward into a new age.

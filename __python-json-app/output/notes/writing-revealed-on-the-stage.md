@@ -1,8 +1,8 @@
 +++
 index = "-KPn5y7dOlMYwi3_A1FI"
-_sort_create_date = 1471883760
-_sort_last_updated = 1471883760
-_sort_publish_date = 1471896000
+sort_create_date = 1471883760
+sort_last_updated = 1471883760
+sort_publish_date = 1471896000
 create_date = "2016-08-22T09:36:00-07:00"
 publish_date = "2016-08-22T13:00:00-07:00"
 date = "2016-08-22T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "So happy to have @hugohouse back as a sponsor! Learn about these two new amazing series they're staging."
 facebookauto = "Hugo House is back this week, highlighting two amazing series they're staging."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor Hugo House is here to let you know about two upcoming event series, both of which are tremendously awesome. First: Word Works: writers on writing. Six writers talkinga bout their process and skills, each focused on a particular part of writing. Second: Hugo Literary Series, where writers and musicians are given a theme or prompt, and debut original work based around that prompt live in front of an audience. 

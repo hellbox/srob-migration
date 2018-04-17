@@ -1,8 +1,8 @@
 +++
 index = "-Km978IkSjqH8bSvtut2"
-_sort_create_date = 1496965980
-_sort_last_updated = 1497824400
-_sort_publish_date = 1498071600
+sort_create_date = 1496965980
+sort_last_updated = 1497824400
+sort_publish_date = 1498071600
 create_date = "2017-06-08T16:53:00-07:00"
 publish_date = "2017-06-21T12:00:00-07:00"
 date = "2017-06-21T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497824132996/klei
 twitterauto = "Your week in readings includes discussions about women in science and a shooting at the Twilight Exit."
 facebookauto = "Your week in readings includes discussions about women in science and a shooting at the Twilight Exit."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/doug-nufer", "authors/anca-l-szil\u00e1gyi"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday June 21st: Life After Death**</h5></p> 

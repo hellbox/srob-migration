@@ -1,8 +1,8 @@
 +++
 index = "-K1eiwRT_Mz2LI6Q431i"
-_sort_create_date = 1445973420
-_sort_last_updated = 1445973420
-_sort_publish_date = 1445978340
+sort_create_date = 1445973420
+sort_last_updated = 1445973420
+sort_publish_date = 1445978340
 create_date = "2015-10-27T12:17:00-07:00"
 publish_date = "2015-10-27T13:39:00-07:00"
 date = "2015-10-27T13:39:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/jack-straw"]
-authors_notes = ["authors/shin-yu-pai"]
+notes_about = ""
 books = ""
 +++
 This Friday is your last chance to apply for the [Jack Straw Writers Program](http://jackstraw.org/programs/asp/2016/WP2016_application.shtml), which this year is being curated by awesome Seattle poet and novelist Karen Finneyfrock. It's a great opportunity for writers at the beginning of their career:

@@ -1,8 +1,8 @@
 +++
 index = "-K0P4KEvmxYs-98o5Qpw"
-_sort_create_date = 1444620300
-_sort_last_updated = 1444620300
-_sort_publish_date = 1444620300
+sort_create_date = 1444620300
+sort_last_updated = 1444620300
+sort_publish_date = 1444620300
 create_date = "2015-10-11T20:25:00-07:00"
 publish_date = "2015-10-11T20:25:00-07:00"
 date = "2015-10-11T20:25:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "https://lh3.googleusercontent.com/v-k4prPCqLz5lq1Zubx05tHjOycCTEWkC7alZUPEhmCjSVLOGcgqEkwOZsqAeTLKsjWiawfl7FtgOSE39ud6NLtrnWGd"
 url = "/webhook-uploads/1444620312293/9781933517209.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 25698
 
 review_relationship = ["reviews/sorry-eileen-myles"]
-author_relationship = ["authors/eileen-myles"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-lit-crawl"]
 +++

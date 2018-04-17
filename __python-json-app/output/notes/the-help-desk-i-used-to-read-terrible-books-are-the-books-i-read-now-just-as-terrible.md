@@ -1,8 +1,8 @@
 +++
 index = "-KmClSAlqDJJxYu-k9K-"
-_sort_create_date = 1497027120
-_sort_last_updated = 1497027120
-_sort_publish_date = 1497027120
+sort_create_date = 1497027120
+sort_last_updated = 1497027120
+sort_publish_date = 1497027120
 create_date = "2017-06-09T09:52:00-07:00"
 publish_date = "2017-06-09T09:52:00-07:00"
 date = "2017-06-09T09:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497026663097/Figh
 twitterauto = "You used to read really embarrassing books. What if the books you read now are just as embarrassing?"
 facebookauto = "You probably used to read really embarrassing books. Here's a horrifying thought: what if the books you read now are just as embarrassing? Cienna Madrid investigates."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ["authors/tom-robbins", "authors/chuck-palahniuk", "authors/jack-kerouac", "authors/ayn-rand"]
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

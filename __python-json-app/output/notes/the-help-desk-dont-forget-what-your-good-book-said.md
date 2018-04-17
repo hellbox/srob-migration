@@ -1,8 +1,8 @@
 +++
 index = "-KwLlzVRMrVtTht8QSJ6"
-_sort_create_date = 1507915680
-_sort_last_updated = 1507915680
-_sort_publish_date = 1507921200
+sort_create_date = 1507915680
+sort_last_updated = 1507915680
+sort_publish_date = 1507921200
 create_date = "2017-10-13T10:28:00-07:00"
 publish_date = "2017-10-13T12:00:00-07:00"
 date = "2017-10-13T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "https://upload.wikimedia.org/wikipedia/commons/e/ee/Creedence_Clea
 twitterauto = ""
 facebookauto = "Cienna Madrid goes way down south to deal with classic rock in bookstores. "
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna Madrid can help. Send your Help Desk Questions to advice@seattlereviewofbooks.com.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KL07RhIPKhnd_Kmfy5r"
-_sort_create_date = 1466750280
-_sort_last_updated = 1467223140
-_sort_publish_date = 1466750280
+sort_create_date = 1466750280
+sort_last_updated = 1467223140
+sort_publish_date = 1466750280
 create_date = "2016-06-23T23:38:00-07:00"
 publish_date = "2016-06-23T23:38:00-07:00"
 date = "2016-06-23T23:38:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/7Rfs76l4OT--xBcBXXobP5oUlkmwTNiMqcr6bhzlBOsNrl0MQduifp8x8EgrrfbO65VSXFYNPpTg-H53m2QVmNM-ItE"
 url = "/webhook-uploads/1466750214466/multitude.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 50416
 
 review_relationship = ["reviews/the-poet-next-door"]
-author_relationship = ["authors/hannah-faith-notess"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017"]
 +++

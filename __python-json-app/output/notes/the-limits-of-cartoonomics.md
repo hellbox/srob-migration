@@ -1,8 +1,8 @@
 +++
 index = "-L4oDZkvhsmQ7Kpkw63k"
-_sort_create_date = 1518073380
-_sort_last_updated = 1518111360
-_sort_publish_date = 1518112860
+sort_create_date = 1518073380
+sort_last_updated = 1518111360
+sort_publish_date = 1518112860
 create_date = "2018-02-07T23:03:00-08:00"
 publish_date = "2018-02-08T10:01:00-08:00"
 date = "2018-02-08T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518073041341/Econ
 twitterauto = "Can a cartoon book about economics change the way Democratic politicians speak to ordinary people>"
 facebookauto = "Can a cartoon book about economics change the way Democratic politicians speak to ordinary people>"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1518073041341/Economics-in-Wonderland-REICH_0hfl-2q.png)</p>

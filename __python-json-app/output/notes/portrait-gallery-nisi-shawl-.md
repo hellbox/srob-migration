@@ -1,8 +1,8 @@
 +++
 index = "-L-ClXzWdS7WZflyC34t"
-_sort_create_date = 1512059580
-_sort_last_updated = 1512059580
-_sort_publish_date = 1512079200
+sort_create_date = 1512059580
+sort_last_updated = 1512059580
+sort_publish_date = 1512079200
 create_date = "2017-11-30T08:33:00-08:00"
 publish_date = "2017-11-30T14:00:00-08:00"
 date = "2017-11-30T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512058702171/SRoB
 twitterauto = "Portrait Gallery: @NisiShawl leads Healing Histories writing class @SPLBuzz #SeattleWrites Saturday @studiochristine"
 facebookauto = "Portrait Gallery: Nisi Shawl teaches a free writing course this Saturday at the Greenlake Branch of the Seattle Public Library illustrated by Christine Marie Larsen."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/nisi-shawl"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

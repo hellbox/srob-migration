@@ -1,8 +1,8 @@
 +++
 index = "-K0ZPVgV7crehtOObFwj"
-_sort_create_date = 1444793640
-_sort_last_updated = 1444793640
-_sort_publish_date = 1444793640
+sort_create_date = 1444793640
+sort_last_updated = 1444793640
+sort_publish_date = 1444793640
 create_date = "2015-10-13T20:34:00-07:00"
 publish_date = "2015-10-13T20:34:00-07:00"
 date = "2015-10-13T20:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444793504078/IMG_
 twitterauto = "Mail Call for Tuesday -- and look! Seattle writer @bymattruff's latest is in there."
 facebookauto = "Tuesday evening mail call! Matt Ruff's newest, and some other jewels. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1444793504078/IMG_0384.jpg)</p>

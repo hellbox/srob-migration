@@ -1,8 +1,8 @@
 +++
 index = "-KCTrLfapcwOs2xYrmmA"
-_sort_create_date = 1457585460
-_sort_last_updated = 1457585460
-_sort_publish_date = 1457632260
+sort_create_date = 1457585460
+sort_last_updated = 1457585460
+sort_publish_date = 1457632260
 create_date = "2016-03-09T20:51:00-08:00"
 publish_date = "2016-03-10T09:51:00-08:00"
 date = "2016-03-10T09:51:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457584904656/Mock
 twitterauto = "We're loving the mix of medicine and espionage in @ChelseaCain's Mockingbird."
 facebookauto = ""
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics"]
-authors_notes = ["authors/chelsea-cain"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1457584904656/Mockingbird.jpg)</p>The first issue of novelist Chelsea Cain’s new *Mockingbird* series was published yesterday, and speaking on a strictly anecdotally basis the book seems to be garnering interest — late yesterday afternoon, [Phoenix Comics](http://phoenixseattle.com/) was down to its last two copies. Which, considering this is a character who previously was best-known as a member of the West Coast Avengers, is some sort of a feat. The Mockingbird character — a SHIELD spy named Bobbi Morse — has recently earned some new attention thanks to Adrianne Palicki’s portrayal of her in the TV show *Marvel’s Agents of SHIELD*. (The internet verdict on Pailicki’s performance seems to be positive; I bailed on SHIELD early in its abominable first season, so I wouldn’t know.)

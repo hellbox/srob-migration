@@ -1,8 +1,8 @@
 +++
 index = "-KPRN64rEwrhAi9IWPCG"
-_sort_create_date = 1471502340
-_sort_last_updated = 1471502700
-_sort_publish_date = 1471546380
+sort_create_date = 1471502340
+sort_last_updated = 1471502700
+sort_publish_date = 1471546380
 create_date = "2016-08-17T23:39:00-07:00"
 publish_date = "2016-08-18T11:53:00-07:00"
 date = "2016-08-18T11:53:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The New York Times is consolidating its book coverage. Here's why that's a shame:"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/new-york-times", "tags/book-reviews"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 M.A.Orthofer [at the Literary Saloon](http://www.complete-review.com/saloon/archive/201608b.htm#wu1) notes that the *New York Times* has consolidated all of its book review coverage — in the daily paper and in the *The New York Times Book Review* — under the purview of Pamela Paul. It's perhaps easy to bemoan every new change in the world of journalism as a mistake, but, uh, I think this is a mistake. 

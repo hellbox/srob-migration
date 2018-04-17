@@ -1,8 +1,8 @@
 +++
 index = "-Jx3BRAbWlIJb_J2V2tK"
-_sort_create_date = 1439958120
-_sort_last_updated = 1440199560
-_sort_publish_date = 1439958120
+sort_create_date = 1439958120
+sort_last_updated = 1440199560
+sort_publish_date = 1439958120
 create_date = "2015-08-18T21:22:00-07:00"
 publish_date = "2015-08-18T21:22:00-07:00"
 date = "2015-08-18T21:22:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/C-BTyqveBFefbznnKyZM89tWl89Vp4hX07E2yX1oQlkIIsyOp18N3MF5BiyyJVqkVJox_CBcy6RNhN9Fp-ou0gzwkag"
 url = "/webhook-uploads/1439958155421/content%3Fid%3DU3C9oAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 13701
 
 review_relationship = ["reviews/a-cruel-mistress"]
-author_relationship = ["authors/jill-alexander-essbaum"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

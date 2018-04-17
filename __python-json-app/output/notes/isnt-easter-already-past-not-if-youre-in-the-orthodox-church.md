@@ -1,8 +1,8 @@
 +++
 index = "-KF5BhRBEvNIvIh_II_j"
-_sort_create_date = 1460392860
-_sort_last_updated = 1460406000
-_sort_publish_date = 1460404800
+sort_create_date = 1460392860
+sort_last_updated = 1460406000
+sort_publish_date = 1460404800
 create_date = "2016-04-11T09:41:00-07:00"
 publish_date = "2016-04-11T13:00:00-07:00"
 date = "2016-04-11T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor Charlotte Riggle is back to show her book about Easter in the Orthodox church \u2014 this year on May 1st."
 facebookauto = "Sponsor Charlotte Riggle is back to show her book about Pascha, the Orthodox Easter -- this year, it's being celebrated on May 1st."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/charlotte-riggle"]
+notes_about = ""
 books = ["books/catherines-pascha"]
 +++
 If you're in the Orthodox church, Easter is still ahead, on May 1st this year. We're welcoming back sponsor Charlotte Riggle, whose children's book _Catherine's Pascha_ follows a little girl's quest to stay awake for the overnight Pascha, or Easter, service. 

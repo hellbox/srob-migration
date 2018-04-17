@@ -1,8 +1,8 @@
 +++
 index = "-KMyusC1zrq_jPqvImqB"
-_sort_create_date = 1468860660
-_sort_last_updated = 1468860780
-_sort_publish_date = 1468872000
+sort_create_date = 1468860660
+sort_last_updated = 1468860780
+sort_publish_date = 1468872000
 create_date = "2016-07-18T09:51:00-07:00"
 publish_date = "2016-07-18T13:00:00-07:00"
 date = "2016-07-18T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @johnwtreat's novel takes you inside being young, gay, and fighting for love and your life in 1983 Seattle."
 facebookauto = "Sponsor John Whittier Treat's novel shows you what it was like to be young, gay, and fighting for love and your life in 1983 Seattle. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor <a href="http://www.johntreat.com" title="Home - John Whittier Treat">John Whittier Treat</a>'s novel _The Rise and Fall of Yellow House_ was a 2015 Lambda Literary Award finalist for best Gay Novel, and he's here to show an excerpt and make sure you're aware of the book. It's 1983, and Jeff has fled New York, and the beginning of the AIDS crisis, to Seattle and here meets Henry, who is fighting his own demons. Their love, and the middle-aged divorcee Nan who has opened her house to gay men in crisis, form the center of this moving work.

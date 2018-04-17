@@ -1,8 +1,8 @@
 +++
 index = "-KpMbPYl8TPmcUUAD_Gf"
-_sort_create_date = 1500413520
-_sort_last_updated = 1500415920
-_sort_publish_date = 1500494460
+sort_create_date = 1500413520
+sort_last_updated = 1500415920
+sort_publish_date = 1500494460
 create_date = "2017-07-18T14:32:00-07:00"
 publish_date = "2017-07-19T13:01:00-07:00"
 date = "2017-07-19T13:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500413201029/brag
 twitterauto = "Not to brag, but we've read a lot of guilty pleasures."
 facebookauto = "Today in Book News Roundup: A new movie about Wonder Woman, a couple of wonderful local reviews, and a bad misreading of Jane Austen."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Don't forget that the deadline to apply for a table at this year's Short Run Comix & Arts Festival is July 31st. The organizers this year are eager to include the literary arts, so even if you're "just" a writer and not an artist or cartoonist, [you should consider applying](https://docs.google.com/forms/d/e/1FAIpQLSeks10GN1fuW7fcBGEDbVhqMSJoaesD1CCjlkaaASn3poBLeA/viewform?c=0&w=1).

@@ -1,8 +1,8 @@
 +++
 index = "-KakNi4ZVX8UjzNS_dBl"
-_sort_create_date = 1484722980
-_sort_last_updated = 1484723220
-_sort_publish_date = 1484766120
+sort_create_date = 1484722980
+sort_last_updated = 1484723220
+sort_publish_date = 1484766120
 create_date = "2017-01-17T23:03:00-08:00"
 publish_date = "2017-01-18T11:02:00-08:00"
 date = "2017-01-18T11:02:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's where to pick up your copies of the Resist! anti-Trump comics newspaper this weekend:"
 facebookauto = "Here's where to pick up your copies of the Resist! anti-Trump comics newspaper this weekend:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/writers-resist", "tags/donald-trump"]
-authors_notes = ["authors/tatiana-gill"]
+notes_about = ""
 books = ""
 +++
 I [told you about the Brooklyn-based comics magazine *Resist!*](http://www.seattlereviewofbooks.com/notes/2017/01/05/thursday-comics-hangover-an-anti-trump-cartoon-newspaper-just-in-time-for-inauguration-day/), which features anti-Trump comics by cartoonists from Seattle and around the country. 

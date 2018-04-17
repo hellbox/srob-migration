@@ -1,8 +1,8 @@
 +++
 index = "-KOsH3cy4BH4s05AtB7T"
-_sort_create_date = 1470896760
-_sort_last_updated = 1470897240
-_sort_publish_date = 1471028400
+sort_create_date = 1470896760
+sort_last_updated = 1470897240
+sort_publish_date = 1471028400
 create_date = "2016-08-10T23:26:00-07:00"
 publish_date = "2016-08-12T12:00:00-07:00"
 date = "2016-08-12T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Donald Trump likes to cap off his speeches by reading a poem. What does that poem have to teach us?"
 facebookauto = "Donald Trump likes to cap off his speeches by reading a poem. What does that poem have to teach us?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1470896417762/make.png)</p>

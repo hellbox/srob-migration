@@ -1,8 +1,8 @@
 +++
 index = "-KXy5DqPdgPEH81Y_F58"
-_sort_create_date = 1480658040
-_sort_last_updated = 1480695240
-_sort_publish_date = 1480708800
+sort_create_date = 1480658040
+sort_last_updated = 1480695240
+sort_publish_date = 1480708800
 create_date = "2016-12-01T21:54:00-08:00"
 publish_date = "2016-12-02T12:00:00-08:00"
 date = "2016-12-02T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The @parisreview has redesigned their site, so we found a few of our favorite interviews. "
 facebookauto = "The Paris Review has redesigned their site, so we found a few of our favorite interviews. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-paris-review"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 "If you fear change, you’ll be horrified to learn that this new site is more than just a cosmetic improvement," is how they put it, before informing us that they are releasing their complete digital archive. Every single piece from their archive is available. Like _The New Yorker_, or _Harper's_, it comes at a price: a subscription to the magazine. 

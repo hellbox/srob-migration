@@ -1,8 +1,8 @@
 +++
 index = "-JwAvWQGzbsoxOSsyRB5"
-_sort_create_date = 1439014800
-_sort_last_updated = 1439014800
-_sort_publish_date = 1439014800
+sort_create_date = 1439014800
+sort_last_updated = 1439014800
+sort_publish_date = 1439014800
 create_date = "2015-08-07T23:20:00-07:00"
 publish_date = "2015-08-07T23:20:00-07:00"
 date = "2015-08-07T23:20:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/b6klVU7tQEcNQPPOxzLDDk0uj_lKlSi1unhgm9E5I1ZLXLn6PG76tJ-892qER2-ht1FBpdA7lcisAcyvX1pqxkXE6no"
 url = "/webhook-uploads/1439014766179/9780307592439.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 23952
 
 review_relationship = ["reviews/although-of-course-you-end-up-being-played-by-jesse-eisenberg-in-the-movie"]
-author_relationship = ["authors/david-lipsky"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

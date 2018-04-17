@@ -1,8 +1,8 @@
 +++
 index = "-KcyAS5938H02UfLhYXB"
-_sort_create_date = 1487101860
-_sort_last_updated = 1487101860
-_sort_publish_date = 1487101860
+sort_create_date = 1487101860
+sort_last_updated = 1487101860
+sort_publish_date = 1487101860
 create_date = "2017-02-14T11:51:00-08:00"
 publish_date = "2017-02-14T11:51:00-08:00"
 date = "2017-02-14T11:51:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487101660458/Scre
 twitterauto = "It's time to admit it: Those \"rogue White House\" Twitter accounts are bogus. Support real journalism instead."
 facebookauto = "It's time to admit it: Those \"rogue White House\" Twitter accounts are bogus. Support real journalism instead."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/twitter", "tags/journalism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1487101660458/Screen%20Shot%202017-02-14%20at%2011.01.28%20AM.png)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KxBtqWbQAc3p9r24ESw"
-_sort_create_date = 1508823720
-_sort_last_updated = 1511366820
-_sort_publish_date = 1511207640
+sort_create_date = 1508823720
+sort_last_updated = 1511366820
+sort_publish_date = 1511207640
 create_date = "2017-10-23T22:42:00-07:00"
 publish_date = "2017-11-20T11:54:00-08:00"
 date = "2017-11-20T11:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508985850971/shab
 twitterauto = "Just because it's Thanksgiving week doesn't mean you can stop going to readings."
 facebookauto = "Just because it's Thanksgiving week doesn't mean you can stop going to readings."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, November 20th:  Columbia/Hillman Community Check-In**</h5></p>

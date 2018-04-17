@@ -1,8 +1,8 @@
 +++
 index = "-K1-wwUsE53umgQwM5t1"
-_sort_create_date = 1445272440
-_sort_last_updated = 1445272440
-_sort_publish_date = 1445284800
+sort_create_date = 1445272440
+sort_last_updated = 1445272440
+sort_publish_date = 1445284800
 create_date = "2015-10-19T09:34:00-07:00"
 publish_date = "2015-10-19T13:00:00-07:00"
 date = "2015-10-19T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We love titles that tell you what you're in for (look at ours!). This week's sponsor G.G. Silverman hit the nail on the head with her book _Vegan Teenage Zombie Huntress_. The first two chapters , which we [published on our sponsorships](http://seattlereviewofbooks.com/sponsorships) page, left us wanting more — and we think you'll love them too. Give it a read. 

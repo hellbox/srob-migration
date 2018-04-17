@@ -1,8 +1,8 @@
 +++
 index = "-K-WPmJXlj2Qg3brd0bN"
-_sort_create_date = 1443669660
-_sort_last_updated = 1443669720
-_sort_publish_date = 1443669660
+sort_create_date = 1443669660
+sort_last_updated = 1443669720
+sort_publish_date = 1443669660
 create_date = "2015-09-30T20:21:00-07:00"
 publish_date = "2015-09-30T20:21:00-07:00"
 date = "2015-09-30T20:21:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Literary Criticism"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/J6Oglmee2KUDuI8hz4MJ2R0UGh5U7blrgXAjRA1oH1kki_umKhHwNwPAXLaoLF2FW1qD_ToiqLwaKnaK-JZ6ZLbvNEr_kw"
 url = "/webhook-uploads/1443669680773/content%3Fid%3DCAHOrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 14343
 
 review_relationship = ["reviews/reflections-by-and-about-white-people"]
-author_relationship = ["authors/ryan-boudinot"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/on-diversity-criticism-and-seattle-city-of-literature", "notes/letters-to-the-editor-on-representation-in-seattle-city-of-literature"]
 +++

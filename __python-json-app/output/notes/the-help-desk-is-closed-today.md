@@ -1,8 +1,8 @@
 +++
 index = "-KetKycpw6oBPXX8m8_p"
-_sort_create_date = 1489168200
-_sort_last_updated = 1489168200
-_sort_publish_date = 1489168200
+sort_create_date = 1489168200
+sort_last_updated = 1489168200
+sort_publish_date = 1489168200
 create_date = "2017-03-10T09:50:00-08:00"
 publish_date = "2017-03-10T09:50:00-08:00"
 date = "2017-03-10T09:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Cienna Madrid is out sick today. Instead, we offer [nearly two years of (still perfectly sound) literary-themed advice from our archives for your perusal](http://www.seattlereviewofbooks.com/tags/the-help-desk/).

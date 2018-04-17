@@ -1,8 +1,8 @@
 +++
 index = "-KetcDCOFznvfN6PdEoe"
-_sort_create_date = 1489173000
-_sort_last_updated = 1489173000
-_sort_publish_date = 1489175100
+sort_create_date = 1489173000
+sort_last_updated = 1489173000
+sort_publish_date = 1489175100
 create_date = "2017-03-10T11:10:00-08:00"
 publish_date = "2017-03-10T11:45:00-08:00"
 date = "2017-03-10T11:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/dystopia"]
-authors_notes = ["authors/margaret-atwood"]
+notes_about = ""
 books = ""
 +++
 Emily Temple at Lithub [interviewed Margaret Atwood](http://lithub.com/margaret-atwood-on-what-its-like-to-watch-her-own-dystopia-come-true/), in part, about what it feels like to write a dystopia and then see that dystopia unfold in real life.

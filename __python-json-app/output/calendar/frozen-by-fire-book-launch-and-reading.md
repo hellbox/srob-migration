@@ -1,8 +1,8 @@
 +++
 index = "-K2bulMjxtMd15Pt_zrY"
-_sort_create_date = 1446999900
-_sort_last_updated = 1446999900
-_sort_publish_date = 1446999900
+sort_create_date = 1446999900
+sort_last_updated = 1446999900
+sort_publish_date = 1446999900
 create_date = "2015-11-08T08:25:00-08:00"
 publish_date = "2015-11-08T08:25:00-08:00"
 date = "2015-11-08T08:25:00-08:00"
@@ -20,6 +20,6 @@ time_description = "
 end_time = ""
 enddate = ""
 is_sponsorship = true
-authors = ["authors/donald-kentop"]
+authors = ""
 sponsorship_event = ""
 venues = ""

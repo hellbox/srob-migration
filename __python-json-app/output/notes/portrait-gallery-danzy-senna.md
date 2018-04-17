@@ -1,8 +1,8 @@
 +++
 index = "-KqFMrkEYSDLmnCxqzyH"
-_sort_create_date = 1501365720
-_sort_last_updated = 1501369860
-_sort_publish_date = 1502398800
+sort_create_date = 1501365720
+sort_last_updated = 1501369860
+sort_publish_date = 1502398800
 create_date = "2017-07-29T15:02:00-07:00"
 publish_date = "2017-08-10T14:00:00-07:00"
 date = "2017-08-10T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501365380932/SRoB
 twitterauto = "Portrait Gallery: Author Danzy Senna #illustration by @studiochristine. Reading \"New People\" Aug 14 @ElliottBayBooks"
 facebookauto = "Portrait Gallery: Danzy Senna reads Monday, August 14th at Elliott Bay Book Company. Illustration by Christine Marie Larsen."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/danzy-senna"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

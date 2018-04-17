@@ -1,8 +1,8 @@
 +++
 index = "-K3Nx4d6E1ShiGpr3tfa"
-_sort_create_date = 1447822620
-_sort_last_updated = 1447822620
-_sort_publish_date = 1447882440
+sort_create_date = 1447822620
+sort_last_updated = 1447822620
+sort_publish_date = 1447882440
 create_date = "2015-11-17T20:57:00-08:00"
 publish_date = "2015-11-18T13:34:00-08:00"
 date = "2015-11-18T13:34:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1447822477584/PAT
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics", "tags/comics"]
-authors_notes = ["authors/dan-clowes"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1447822477584/PATIENCE_FC_Colors-.png)</p>

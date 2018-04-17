@@ -1,8 +1,8 @@
 +++
 index = "-KnHB-lfe3BYoD4QOaTw"
-_sort_create_date = 1498174980
-_sort_last_updated = 1498441440
-_sort_publish_date = 1499281080
+sort_create_date = 1498174980
+sort_last_updated = 1498441440
+sort_publish_date = 1499281080
 create_date = "2017-06-22T16:43:00-07:00"
 publish_date = "2017-07-05T11:58:00-07:00"
 date = "2017-07-05T11:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498174821466/oath
 twitterauto = "Your week in readings includes a novel about a sentient dog-people and a biography of Dave Niehaus."
 facebookauto = "Your week in readings includes a novel about a sentient dog-people and a biography of Dave Niehaus."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/reading-through-it"]
-authors_notes = ["authors/sarah-galvin"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday July 5th: Reading Through It: *Dark Money***</h5></p> 

@@ -1,8 +1,8 @@
 +++
 index = "-KahsLMU-I-_V8CdiB-Y"
-_sort_create_date = 1484680920
-_sort_last_updated = 1484700060
-_sort_publish_date = 1484686800
+sort_create_date = 1484680920
+sort_last_updated = 1484700060
+sort_publish_date = 1484686800
 create_date = "2017-01-17T11:22:00-08:00"
 publish_date = "2017-01-17T13:00:00-08:00"
 date = "2017-01-17T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484681274775/mine
 twitterauto = "Sponsor @mineralschool is going to be at @splbuzz to talk residencies in a few weeks"
 facebookauto = "Sponsor Mineral School is going to be at the Seattle Public Library to talk residencies in a few weeks"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1484681257891/mineral-school-small.jpg)</p>

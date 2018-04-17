@@ -1,8 +1,8 @@
 +++
 index = "-KsBQkbyAl_mcinRObyz"
-_sort_create_date = 1503447120
-_sort_last_updated = 1503447360
-_sort_publish_date = 1503511920
+sort_create_date = 1503447120
+sort_last_updated = 1503447360
+sort_publish_date = 1503511920
 create_date = "2017-08-22T17:12:00-07:00"
 publish_date = "2017-08-23T11:12:00-07:00"
 date = "2017-08-23T11:12:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Go sign up for your fall @HugoHouse classes right now."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ["authors/anca-l-szil\u00e1gyi"]
+notes_about = ""
 books = ""
 +++
 The Hugo House just made their [slate of fall classes](https://hugohouse.org/classes/course-catalog/) available to non-members. There's a lot of great stuff there, but here are a couple of classes to keep in mind from people who have published here at the *Seattle Review of Books*.

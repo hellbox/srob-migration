@@ -1,8 +1,8 @@
 +++
 index = "-KTIaP2x6TcMSy-w_jW_"
-_sort_create_date = 1475650080
-_sort_last_updated = 1475735760
-_sort_publish_date = 1475779680
+sort_create_date = 1475650080
+sort_last_updated = 1475735760
+sort_publish_date = 1475779680
 create_date = "2016-10-04T23:48:00-07:00"
 publish_date = "2016-10-06T11:48:00-07:00"
 date = "2016-10-06T11:48:00-07:00"
@@ -13,10 +13,10 @@ title = "Traveled the world and the seven seas"
 dek = "Atlas Obscura's new book is a compulsively readable travel guide to some of the world's strangest locations, from Galileo's Middle Finger to a pair of Necropants."
 facebookauto = "Atlas Obscura is a catalog of the world's strangest locations, experiences, and destinations."
 twitterauto = "Atlas Obscura's new book is a compulsively readable travel guide to the world's strangest places."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/atlas-obscura"]
 tags_reviews = ["tags/travel-essays"]
-authors_reviews = ["authors/joshua-foer"]
+reviews_about = ""
 +++
 
 The J. Peterman catalog is a seminal 1990s artifact. The catalogs, which featured expensive vintage-style clothing from far-flung locales rendered in hand-drawn illustrations, were best known for their overwritten catalog copy. The text had an upscale, worldly air, and it almost always skittered on the line of self-parody, relaying adventures in foreign lands with language that was at once self-important and wildly entertaining, overblown and amusing. 

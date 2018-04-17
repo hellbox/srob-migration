@@ -1,8 +1,8 @@
 +++
 index = "-L8_sPT4Jk2cE3rKCO0c"
-_sort_create_date = 1522127700
-_sort_last_updated = 1522171500
-_sort_publish_date = 1522176900
+sort_create_date = 1522127700
+sort_last_updated = 1522171500
+sort_publish_date = 1522176900
 create_date = "2018-03-26T22:15:00-07:00"
 publish_date = "2018-03-27T11:55:00-07:00"
 date = "2018-03-27T11:55:00-07:00"
@@ -13,10 +13,10 @@ title = "Would you rather"
 dek = "You put humor in my poetry book! You put poetry in my humor book! Hey, wait a minute..."
 facebookauto = "In which Elissa Ball happily blurs the line between poetry and comedy."
 twitterauto = "In which @ElissaBall happily blurs the line between poetry and comedy."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/more-or-less"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/elissa-ball"]
+reviews_about = ""
 +++
 
 Visit any bookstore and you'll see that a whole spectrum of once-viable books are no longer considered desirable. It's virtually impossible, for instance, to give away a set of old encyclopedias. The "…for Dummies" series of books about outdated computer programs are literally not worth the paper and ink they're printed on. And very few people have any interest in antique buying guides.

@@ -1,8 +1,8 @@
 +++
 index = "-JuJki3ronZLvKN-9Bfl"
-_sort_create_date = 1437014820
-_sort_last_updated = 1437016440
-_sort_publish_date = 1437014820
+sort_create_date = 1437014820
+sort_last_updated = 1437016440
+sort_publish_date = 1437014820
 create_date = "2015-07-15T19:47:00-07:00"
 publish_date = "2015-07-15T19:47:00-07:00"
 date = "2015-07-15T19:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![Mail call for July 15, 2015](/webhook-uploads/1437014861434/IMG_3686.jpg)</p>

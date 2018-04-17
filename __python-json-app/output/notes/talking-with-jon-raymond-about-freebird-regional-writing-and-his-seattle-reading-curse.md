@@ -1,8 +1,8 @@
 +++
 index = "-KbXf5v1AulQbH_snuqN"
-_sort_create_date = 1485566640
-_sort_last_updated = 1485566820
-_sort_publish_date = 1485798300
+sort_create_date = 1485566640
+sort_last_updated = 1485566820
+sort_publish_date = 1485798300
 create_date = "2017-01-27T17:24:00-08:00"
 publish_date = "2017-01-30T09:45:00-08:00"
 date = "2017-01-30T09:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484928982289/free
 twitterauto = "Jon Raymond reads @ubookstorereads tonight. He has not had good luck with Seattle readings in the past:"
 facebookauto = "Jon Raymond talked to us about why every reading he's done in Seattle so far has been awkward, sad, or just plain uncomfortable. He reads at University Book Store tonight. We should show up to make his reading good, Seattle."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/university-book-store", "tags/regional", "tags/bumbershoot"]
-authors_notes = ["authors/jon-raymond"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Nobody writes about the Northwest like Jon Raymond. From his gorgeous short stories— *Livability* is one of the finest books about the region to be published in the last two decades —to screenplays for films like *Old Joy* and *Wendy and Lucy* to novels like *Rain Dragon*, he’s perfected the art of writing about the lush vividness of Northwest nature, the peculiar mannerisms of Northwest people, and the sprawling wet-concrete grace of Northwestern cities.</p>

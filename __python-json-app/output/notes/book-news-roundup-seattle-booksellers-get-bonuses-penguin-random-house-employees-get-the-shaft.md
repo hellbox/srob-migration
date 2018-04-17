@@ -1,8 +1,8 @@
 +++
 index = "-KZQE9-ca96DchTF_IPp"
-_sort_create_date = 1482220620
-_sort_last_updated = 1482247800
-_sort_publish_date = 1482265800
+sort_create_date = 1482220620
+sort_last_updated = 1482247800
+sort_publish_date = 1482265800
 create_date = "2016-12-19T23:57:00-08:00"
 publish_date = "2016-12-20T12:30:00-08:00"
 date = "2016-12-20T12:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle booksellers got bonuses this year, but Penguin Random House union workers got the shaft."
 facebookauto = "Seattle booksellers got bonuses this year, but Penguin Random House union workers got the shaft."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/labor"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Mary Ann Gwinn at the *Seattle Times* says that seven local booksellers from University Book Store, Third Place Books, Elliott Bay Book Company, Liberty Bay Books, Village Books, and Eagle Harbor Book Company have [won "bookseller bonuses" from ridiculously wealthy author James Patterson](http://www.seattletimes.com/entertainment/books/seven-washington-state-booksellers-get-james-patterson-holiday-bonuses/).

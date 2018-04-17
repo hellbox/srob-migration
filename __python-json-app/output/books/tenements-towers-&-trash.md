@@ -1,8 +1,8 @@
 +++
 index = "-Kxks8i7sOAfXj6BZ8Xu"
-_sort_create_date = 1509427260
-_sort_last_updated = 1509427320
-_sort_publish_date = 1509427260
+sort_create_date = 1509427260
+sort_last_updated = 1509427320
+sort_publish_date = 1509427260
 create_date = "2017-10-30T22:21:00-07:00"
 publish_date = "2017-10-30T22:21:00-07:00"
 date = "2017-10-30T22:21:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4bIhGTepVZEM1Q68dK5BTxbFHU02q6iTBVVjdl1CPKPerf46CRweKsgVQmQJTZf7Y1CpHHSFkHwO8OYF99K8KJG66HObCw"
 url = "/webhook-uploads/1509427288416/content%3Fid%3D3ceFAQAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7629
 
 review_relationship = ["reviews/a-city-of-one"]
-author_relationship = ["authors/julia-wertz"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/getting-ready-for-short-run-read-our-coverage-first!"]
 +++

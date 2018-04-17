@@ -1,8 +1,8 @@
 +++
 index = "-Kcay5NurfBof_yNPgxO"
-_sort_create_date = 1486712460
-_sort_last_updated = 1486712760
-_sort_publish_date = 1487188860
+sort_create_date = 1486712460
+sort_last_updated = 1486712760
+sort_publish_date = 1487188860
 create_date = "2017-02-09T23:41:00-08:00"
 publish_date = "2017-02-15T12:01:00-08:00"
 date = "2017-02-15T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486712174205/guin
 twitterauto = "So many great events this week, including @PeterMountford and @mountain_goats!"
 facebookauto = "So many great events this week, including events with Peter Mountford, a new series out of Vermillion, and John Darnielle's new book."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ["authors/elissa-washuta", "authors/anca-l-szil\u00e1gyi", "authors/peter-mountford", "authors/sonora-jha"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday February 15th: WordsWest**</h5></p> 

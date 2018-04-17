@@ -1,8 +1,8 @@
 +++
 index = "-KYqZ7TgqnCRh5IQ_sBk"
-_sort_create_date = 1481605380
-_sort_last_updated = 1481606400
-_sort_publish_date = 1481651700
+sort_create_date = 1481605380
+sort_last_updated = 1481606400
+sort_publish_date = 1481651700
 create_date = "2016-12-12T21:03:00-08:00"
 publish_date = "2016-12-13T09:55:00-08:00"
 date = "2016-12-13T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're publishing Lucia Perillo poems every Tuesday in December. Here's our second: \"Dona\""
 facebookauto = "We're publishing Lucia Perillo poems every Tuesday in December. Here's our second: \"Dona\""
 make_image_tweet = "False"
-byline = ["writers/lucia-perillo"]
+notes_byline = ["writers/lucia-perillo"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Many of the Girl Scout songs<br>

@@ -1,8 +1,8 @@
 +++
 index = "-KB5DELJGYDZ3OJ53_SE"
-_sort_create_date = 1456098300
-_sort_last_updated = 1456098600
-_sort_publish_date = 1456171020
+sort_create_date = 1456098300
+sort_last_updated = 1456098600
+sort_publish_date = 1456171020
 create_date = "2016-02-21T15:45:00-08:00"
 publish_date = "2016-02-22T11:57:00-08:00"
 date = "2016-02-22T11:57:00-08:00"
@@ -12,10 +12,10 @@ name = "The book was better, but the movie was shorter"
 title = "The book was better, but the movie was shorter"
 dek = "The Scarlet Letter has been adapted to film well over a dozen times. Most of those adaptations are very bad. Why is it so hard to make a good movie out of a good book?"
 facebookauto = ""
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-scarlet-letter-a-romance"]
 tags_reviews = ["tags/novel", "tags/movies", "tags/adaptation"]
-authors_reviews = ["authors/nathaniel-hawthorne"]
+reviews_about = ""
 +++
 
 You probably haven’t read *The Scarlet Letter* since you were in high school. That’s understandable. Most people recall *The Scarlet Letter* as an arduous reading experience. This is because *The Scarlet Letter* is not a book that should be given to teenagers. Its themes — of responsibility to the community, of the simultaneous importance and uselessness of personal reputation, of id and ego — are way too sincere and nuanced for any hormone-addled teenager to understand. This is a book for adults.

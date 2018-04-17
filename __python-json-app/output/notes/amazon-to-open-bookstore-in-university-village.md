@@ -1,8 +1,8 @@
 +++
 index = "-K07ZhBZQs7xLPuIJnk2"
-_sort_create_date = 1444326540
-_sort_last_updated = 1444328760
-_sort_publish_date = 1444326540
+sort_create_date = 1444326540
+sort_last_updated = 1444328760
+sort_publish_date = 1444326540
 create_date = "2015-10-08T10:49:00-07:00"
 publish_date = "2015-10-08T10:49:00-07:00"
 date = "2015-10-08T10:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444326262698/url.
 twitterauto = "This morning, @ShelfAwareness broke the news that Amazon could be opening a bookstore at University Village."
 facebookauto = "Shelf Awareness is reporting that Amazon is quite possibly about to open a brick-and-mortar bookstore at University Village. Local booksellers have been approached with mysterious job offers. What will this mean for Seattle's literary culture? The speculation starts now."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon", "tags/independent-bookstores"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 For as long as I’ve been covering Amazon’s growth, rumors have circulated about the online retailer opening a brick-and-mortar store that serves as a kind of showroom. But I’ve never seen a report as well-researched and as compelling as [this Shelf Awareness story](http://www.shelf-awareness.com/issue.html?issue=2609#m30086) suggesting that **Amazon is in the process of opening a bookstore in University Village**, where Blue C Sushi used to be. And this rumor suggests that it’s specifically _a bookstore_, and not just a place to buy Amazon’s tablets and hardware, as all the previous rumors have indicated. In fact, Shelf Awareness reports that Amazon has approached area booksellers with offers of starting pay that no local independent bookstore could likely match. You really should [go read the whole report](http://www.shelf-awareness.com/issue.html?issue=2609#m30086); it’s a terrific scoop, and well-reported.

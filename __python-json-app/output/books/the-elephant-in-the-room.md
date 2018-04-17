@@ -1,8 +1,8 @@
 +++
 index = "-KVOI6S3pq4As2U7TFqR"
-_sort_create_date = 1477893180
-_sort_last_updated = 1477893180
-_sort_publish_date = 1477893180
+sort_create_date = 1477893180
+sort_last_updated = 1477893180
+sort_publish_date = 1477893180
 create_date = "2016-10-30T22:53:00-07:00"
 publish_date = "2016-10-30T22:53:00-07:00"
 date = "2016-10-30T22:53:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/b2n0v7hDn7fi1RTfrSpj1dB7OoCmFws4LVeVfzhh9RYowrRh0D51sX--56ei43OmPstvCmnYSN6VtqBcYcMkMd43RL4r"
 url = "/webhook-uploads/1477893071442/elephantintheroom.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 45104
 
 review_relationship = ["reviews/he-who-should-not-be-named"]
-author_relationship = ["authors/jon-ronson"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

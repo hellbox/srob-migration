@@ -1,8 +1,8 @@
 +++
 index = "-KOrFrNBzvRw0aYwEjON"
-_sort_create_date = 1470879720
-_sort_last_updated = 1470887580
-_sort_publish_date = 1470949200
+sort_create_date = 1470879720
+sort_last_updated = 1470887580
+sort_publish_date = 1470949200
 create_date = "2016-08-10T18:42:00-07:00"
 publish_date = "2016-08-11T14:00:00-07:00"
 date = "2016-08-11T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = " http://seattlereviewofbooks.com/webhook-uploads/1463631179034/SRo
 twitterauto = "Bringing back @studiochristine's portrait of @Sherman_Alexie, reading @queenannebookco Sun.!"
 facebookauto = "Throwing it back to Sherman Alexie in anticipation of his reading this Sunday at Queen Anne Book Co.!"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

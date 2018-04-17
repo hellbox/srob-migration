@@ -1,8 +1,8 @@
 +++
 index = "-JyptzHWGkah3EfwkeWK"
-_sort_create_date = 1441865880
-_sort_last_updated = 1441914120
-_sort_publish_date = 1441910340
+sort_create_date = 1441865880
+sort_last_updated = 1441914120
+sort_publish_date = 1441910340
 create_date = "2015-09-09T23:18:00-07:00"
 publish_date = "2015-09-10T11:39:00-07:00"
 date = "2015-09-10T11:39:00-07:00"
@@ -12,10 +12,10 @@ name = "Upstairs, downstairs"
 title = "Upstairs, downstairs"
 dek = "Leanne Brown's book about eating well on four dollars a day went from a thesis to a free download to a Reddit sensation to a New York Times bestseller in less than two years. Can a cookbook change the world?"
 twitterauto = ".@leelb, not Jonathan Franzen, was the most world-changing author reading @THSEA last night. "
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/good-and-cheap"]
 tags_reviews = ["tags/town-hall-seattle"]
-authors_reviews = ["authors/leanne-brown"]
+reviews_about = ""
 +++
 
 Last night, Town Hall hosted Jonathan Franzen in their upstairs Great Hall. You can tell a Franzen crowd from three blocks away — lots of corduroy jackets and elbow patches. That woman yelling at the parking lot attendant because it’ll cost her $8 to park her fancy car in the lot behind Town Hall? Total Franzen person. The miserable-looking bald man in a suit dragging his wife up the sidewalk as she staggers behind him in her too-high heels? Yeah, they’re Franzen people. 

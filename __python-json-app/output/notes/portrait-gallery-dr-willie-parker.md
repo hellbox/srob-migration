@@ -1,8 +1,8 @@
 +++
 index = "-Kl_3XEtie8MpTk4LZIw"
-_sort_create_date = 1496344260
-_sort_last_updated = 1497674280
-_sort_publish_date = 1496350800
+sort_create_date = 1496344260
+sort_last_updated = 1497674280
+sort_publish_date = 1496350800
 create_date = "2017-06-01T12:11:00-07:00"
 publish_date = "2017-06-01T14:00:00-07:00"
 date = "2017-06-01T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496343511584/SRoB
 twitterauto = "An #illustration of @DrWillieParker by @studiochristine. Tues @THSEA presented by @ShoutYrAbortion #WomensRights "
 facebookauto = "Dr. Willie Parker illustration by Christine Marie Larsen in celebration of his new book \"Life's Work: A Moral Argument for Choice\""
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/dr-willie-parker"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

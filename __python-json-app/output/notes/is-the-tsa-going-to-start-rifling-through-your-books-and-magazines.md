@@ -1,8 +1,8 @@
 +++
 index = "-KlbZ8rp_znI4EaqX5mD"
-_sort_create_date = 1496386140
-_sort_last_updated = 1496386140
-_sort_publish_date = 1496429340
+sort_create_date = 1496386140
+sort_last_updated = 1496386140
+sort_publish_date = 1496429340
 create_date = "2017-06-01T23:49:00-07:00"
 publish_date = "2017-06-02T11:49:00-07:00"
 date = "2017-06-02T11:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496385541467/osam
 twitterauto = "Is the TSA going to start rifling through your books and magazines?"
 facebookauto = "Is the TSA going to start rifling through your books and magazines?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/tsa"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The (fabulously named) [Robert A. Cronkleton at the *Kansas City Star* wrote at the beginning of May](http://www.kansascity.com/news/local/article148384019.html):

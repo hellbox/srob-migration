@@ -1,8 +1,8 @@
 +++
 index = "-KyK1_4z1Qzzy6a22osI"
-_sort_create_date = 1510033980
-_sort_last_updated = 1510034280
-_sort_publish_date = 1510595580
+sort_create_date = 1510033980
+sort_last_updated = 1510034280
+sort_publish_date = 1510595580
 create_date = "2017-11-06T21:53:00-08:00"
 publish_date = "2017-11-13T09:53:00-08:00"
 date = "2017-11-13T09:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510033884732/PieA
 twitterauto = "Get your carbs and booze on at the Pie and Whiskey reading at Washington Hall."
 facebookauto = "Get your carbs and booze on at the Pie and Whiskey reading at Washington Hall on Wednesday."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/kate-lebo", "authors/sam-ligon", "authors/jess-walter", "authors/ed-skoog"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1510033884732/PieAndWhiskey-nonames-square.jpg)</p>

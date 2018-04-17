@@ -1,8 +1,8 @@
 +++
 index = "-KUu5yy3snrxS8nAMDPw"
-_sort_create_date = 1477369860
-_sort_last_updated = 1477370280
-_sort_publish_date = 1477420200
+sort_create_date = 1477369860
+sort_last_updated = 1477370280
+sort_publish_date = 1477420200
 create_date = "2016-10-24T21:31:00-07:00"
 publish_date = "2016-10-25T11:30:00-07:00"
 date = "2016-10-25T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "#JournalismSoWhite happens tonight at @THSEA, so we're recalling our own diversity report by @book_nerd212"
 facebookauto = "#JournalismSoWhite happens tonight at Town Hall Seattle, so we're recalling our own diversity report by our Public Diversity Editor, Vanessa Willoughby."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/diversity"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In advance of tonight's [#JournalismSoWhite](https://townhallseattle.org/event/journalismsowhite/) event at Town Hall, we wanted to recall our own diversity reports, written by our Public Diversity Editor, Vanessa Willoughby. 

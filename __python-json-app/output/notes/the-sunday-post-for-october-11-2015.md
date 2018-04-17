@@ -1,8 +1,8 @@
 +++
 index = "-K0M_0i-WxnBnHl7i_l_"
-_sort_create_date = 1444578300
-_sort_last_updated = 1444578300
-_sort_publish_date = 1444579200
+sort_create_date = 1444578300
+sort_last_updated = 1444578300
+sort_publish_date = 1444579200
 create_date = "2015-10-11T08:45:00-07:00"
 publish_date = "2015-10-11T09:00:00-07:00"
 date = "2015-10-11T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This week's Sunday Post has work by @mariskreizman, @samstecky, @imontheradio, and Micheal Lewis"
 facebookauto = "Today's Sunday Post wraps up some interesting pieces from the previous week, such as Maris Kreizman on landlines, Sam Stecky on the Chicago Sun-Times network, Stephanie Foo on diversity in public radio, and Michael Lewis with a long look at Tom Wolfe."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[What To Do If Your Workplace Is Too White](http://transom.org/2015/stephanie-foo/)</h5>

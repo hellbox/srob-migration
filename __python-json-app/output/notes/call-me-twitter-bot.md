@@ -1,8 +1,8 @@
 +++
 index = "-L0hqpG-04j_sXfg9wIo"
-_sort_create_date = 1513671540
-_sort_last_updated = 1513690620
-_sort_publish_date = 1513803540
+sort_create_date = 1513671540
+sort_last_updated = 1513690620
+sort_publish_date = 1513803540
 create_date = "2017-12-19T00:19:00-08:00"
 publish_date = "2017-12-20T12:59:00-08:00"
 date = "2017-12-20T12:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Some days, only Herman Melville can interpret the news correctly."
 facebookauto = "Some days, only Herman Melville can interpret the news correctly."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/twitter"]
-authors_notes = ["authors/herman-melville"]
+notes_about = ""
 books = ["books/moby-dick"]
 +++
 Are you following the *Moby Dick* bot on Twitter? It frequently posts random tweet-sized quotes from the text of *Moby Dick*, and sometimes it feels eerily appropriate for the day and time. Or maybe it's just that every tweet seems appropriate for the Trump administration. 

@@ -1,8 +1,8 @@
 +++
 index = "-KmO16yU8Vt5pJL3Fzir"
-_sort_create_date = 1497216060
-_sort_last_updated = 1497840480
-_sort_publish_date = 1497891600
+sort_create_date = 1497216060
+sort_last_updated = 1497840480
+sort_publish_date = 1497891600
 create_date = "2017-06-11T14:21:00-07:00"
 publish_date = "2017-06-19T10:00:00-07:00"
 date = "2017-06-19T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497215863374/char
 twitterauto = "We talked with Charles Johnson about @Seattle7Writers writers and community."
 facebookauto = "\"It really is a network, as Martin Luther King would say, a network of mutuality, that brings a book into being.\" We talked with Charles Johnson about writers and community."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/charles-johnson", "authors/garth-stein"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1497215863374/charlesjohnson.jpg)</p>

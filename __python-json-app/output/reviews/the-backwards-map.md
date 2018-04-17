@@ -1,8 +1,8 @@
 +++
 index = "-KgwbtLT19mU5S5SZZFl"
-_sort_create_date = 1491370740
-_sort_last_updated = 1491371520
-_sort_publish_date = 1491415260
+sort_create_date = 1491370740
+sort_last_updated = 1491371520
+sort_publish_date = 1491415260
 create_date = "2017-04-04T22:39:00-07:00"
 publish_date = "2017-04-05T11:01:00-07:00"
 date = "2017-04-05T11:01:00-07:00"
@@ -13,10 +13,10 @@ title = "The backwards map"
 dek = "Your eyes might resist the idea of reading Ted Powers's poems in the normal way. That's perfectly okay. These poems reveal themselves to you by turning inside out."
 facebookauto = "You can't just barge into a Ted Powers poem. You've gotta turn it inside out first."
 twitterauto = "You can't just barge into a Ted Powers poem. You've gotta turn it inside out first."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/manners"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/ted-powers"]
+reviews_about = ""
 +++
 
 You might find it hard to keep your footing if you charge at the poems in Ted Powers’s new collection *Manners* in the conventional way. Breaking into the first line and barreling straight down to the bottom doesn’t work. If you read these poems from beginning to end, it’s easy to get lost and turned around, until you start chasing after yourself in a recursive loop.

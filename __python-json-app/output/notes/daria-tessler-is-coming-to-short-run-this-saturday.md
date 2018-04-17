@@ -1,8 +1,8 @@
 +++
 index = "-KxRJ5RNUut0AgqbH52h"
-_sort_create_date = 1509082260
-_sort_last_updated = 1509082920
-_sort_publish_date = 1509732060
+sort_create_date = 1509082260
+sort_last_updated = 1509082920
+sort_publish_date = 1509732060
 create_date = "2017-10-26T22:31:00-07:00"
 publish_date = "2017-11-03T11:01:00-07:00"
 date = "2017-11-03T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509082076908/musi
 twitterauto = "We talked with Daria Tessler about the work she's bringing to @shortrunseattle."
 facebookauto = "We talked with Daria Tessler about the work she's bringing to Short Run Seattle this year."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Portland illustrator and cartoonist [Daria Tessler](http://www.animalsleepstories.com/) is coming to the Short Run Comix & Arts Festival for the second time this year. She makes beautiful illustrations that feel like a blend of children’s book illustrations and 1970s countercultural comics. You can find her booth in the show and she’ll also be performing in *The Midnight Variety Hour*, described as an “active participatory performance” at the Vera Project at noon.</p>

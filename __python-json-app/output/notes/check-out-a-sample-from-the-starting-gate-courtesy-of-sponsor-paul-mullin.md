@@ -1,8 +1,8 @@
 +++
 index = "-KzpnhaAfA-FOAm00H4R"
-_sort_create_date = 1511657460
-_sort_last_updated = 1511721780
-_sort_publish_date = 1511816400
+sort_create_date = 1511657460
+sort_last_updated = 1511721780
+sort_publish_date = 1511816400
 create_date = "2017-11-25T16:51:00-08:00"
 publish_date = "2017-11-27T13:00:00-08:00"
 date = "2017-11-27T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1511657427009/
 twitterauto = "This week's excerpt is up! Check out a sample chapter from sponsor Paul Mullin's memoir, The Starting Gate."
 facebookauto = "This week's excerpt is up! Check out a sample chapter from sponsor Paul Mullin's memoir, The Starting Gate. "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/paul-mullin"]
+notes_about = ""
 books = ["books/the-starting-gate"]
 +++
 <p class="image-left">![](/webhook-uploads/1511657631741/The%20Starting%20Gate_150.jpeg)</p>

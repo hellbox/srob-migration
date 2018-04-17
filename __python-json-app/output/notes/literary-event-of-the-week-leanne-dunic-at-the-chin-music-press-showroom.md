@@ -1,8 +1,8 @@
 +++
 index = "-KldylNij4gc_SXHUgfk"
-_sort_create_date = 1496426640
-_sort_last_updated = 1496502300
-_sort_publish_date = 1496854500
+sort_create_date = 1496426640
+sort_last_updated = 1496502300
+sort_publish_date = 1496854500
 create_date = "2017-06-02T11:04:00-07:00"
 publish_date = "2017-06-07T09:55:00-07:00"
 date = "2017-06-07T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496426530506/comi
 twitterauto = "Seattle publisher @Chinmusicpress hosts an event in their Pike Place showroom this Saturday."
 facebookauto = "Seattle publisher Chin Music Press hosts an event in their Pike Place showroom this Saturday. It's our Event of the Week!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/chin-music-press"]
-authors_notes = ["authors/anca-l-szil\u00e1gyi"]
+notes_about = ""
 books = ""
 +++
 Buried in the belly of Pike Place Market, Chin Music Press’s showroom might just be the best-kept secret of a bookstore in Seattle. It’s a dreamy little shop, carrying just a few dozen titles, almost entirely all published by the local press. You’ll know a Chin Music title when you see one: it’s usually the gorgeous hardcover in the front of the bookstore that you just can’t keep yourself from touching. Publisher Bruce Rutledge seems obsessive about making the design of every Chin Music title as stately as possible. 

@@ -1,8 +1,8 @@
 +++
 index = "-Jy0oJXOTg8GVD4t1LUk"
-_sort_create_date = 1440991980
-_sort_last_updated = 1440991980
-_sort_publish_date = 1441132380
+sort_create_date = 1440991980
+sort_last_updated = 1440991980
+sort_publish_date = 1441132380
 create_date = "2015-08-30T20:33:00-07:00"
 publish_date = "2015-09-01T11:33:00-07:00"
 date = "2015-09-01T11:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We took what might be the world's worst novel to lunch."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)</p>

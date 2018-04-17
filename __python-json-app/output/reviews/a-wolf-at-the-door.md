@@ -1,8 +1,8 @@
 +++
 index = "-L6KktDw2zg8YSR_EKNK"
-_sort_create_date = 1519709760
-_sort_last_updated = 1520455020
-_sort_publish_date = 1521658800
+sort_create_date = 1519709760
+sort_last_updated = 1520455020
+sort_publish_date = 1521658800
 create_date = "2018-02-26T21:36:00-08:00"
 publish_date = "2018-03-21T12:00:00-07:00"
 date = "2018-03-21T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "A wolf at the door"
 dek = "In Calling a Wolf a Wolf, Kaveh Akbar asks us to \"to fold the darkest and twistiest parts of ourselves into the larger experiment of humanity,\" says Dujie Tahat."
 facebookauto = "In an era of empty words, some language still has power, says Dujie Tahat reviewing Kaveh Akbar."
 twitterauto = "In an era of empty words, some language still has power, says @DujieTahat reviewing @KavehAkbar."
-byline = ["writers/dujie-tahat"]
+reviews_byline = ["writers/dujie-tahat"]
 books_in_this_review = ["books/calling-a-wolf-a-wolf"]
 tags_reviews = ""
-authors_reviews = ["authors/kaveh-akbar"]
+reviews_about = ""
 +++
 
 _"I am less horrible than I could be&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I’ve never set a house on fire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;never thrown a firstborn off a bridge still my whole life I answered every cry for help with a pour&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with a turning away&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’ve given this coldness many names&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;thinking if it had a name it would have a solution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thinking if I called a wolf a wolf I might dull its fangs"_

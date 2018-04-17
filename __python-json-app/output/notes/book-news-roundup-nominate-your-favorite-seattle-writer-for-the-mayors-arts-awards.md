@@ -1,8 +1,8 @@
 +++
 index = "-KkOe9mUJZC2y_3APAr1"
-_sort_create_date = 1495079100
-_sort_last_updated = 1495079460
-_sort_publish_date = 1495133040
+sort_create_date = 1495079100
+sort_last_updated = 1495079460
+sort_publish_date = 1495133040
 create_date = "2017-05-17T20:45:00-07:00"
 publish_date = "2017-05-18T11:44:00-07:00"
 date = "2017-05-18T11:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Now is the time to nominate your favorite Seattle author for the Mayor's Arts Awards."
 facebookauto = "If you're a poet, you should apply to be the new Washington State Poet Laureate. If you love a Seattle writer, you should nominate them for the Mayor's Arts Awards."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/office-of-arts-and-culture", "tags/fantagraphics", "tags/scarecrow-video"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ""
 +++
 * There's still time to nominate a Seattle writer you love for the Mayor's Arts Awards! You have until May 25th to "recognize the accomplishments of artists, arts and cultural organizations and community members committed to enriching their communities through the arts." All you have to do is [head over here and fill out the form](https://www.surveymonkey.com/r/7BJVQWJ).

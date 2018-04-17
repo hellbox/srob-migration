@@ -1,8 +1,8 @@
 +++
 index = "-K_XbuVMLdSAjSEPZULY"
-_sort_create_date = 1483418340
-_sort_last_updated = 1483467240
-_sort_publish_date = 1483470360
+sort_create_date = 1483418340
+sort_last_updated = 1483467240
+sort_publish_date = 1483470360
 create_date = "2017-01-02T20:39:00-08:00"
 publish_date = "2017-01-03T11:06:00-08:00"
 date = "2017-01-03T11:06:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483417372307/Scre
 twitterauto = "In the last 2 days, Sherman Alexie, Lindy West, and Ta-Nehisi Coates have all left Twitter. What's going on?"
 facebookauto = "In the last two days, Sherman Alexie, Lindy West, and Ta-Nehisi Coates have all left Twitter. Is 2017 the year when writers get off Twitter and get back to work?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/twitter", "tags/social-media"]
-authors_notes = ["authors/sherman-alexie", "authors/ta-nehisi-coates", "authors/lindy-west"]
+notes_about = ""
 books = ""
 +++
 On January 1st, Sherman Alexie announced in a Twitter post that he was leaving Twitter. The tweet read, in its entirety:

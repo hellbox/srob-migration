@@ -1,8 +1,8 @@
 +++
 index = "-KN2zNA81_D5XMQutJgp"
-_sort_create_date = 1468945740
-_sort_last_updated = 1468945800
-_sort_publish_date = 1468945740
+sort_create_date = 1468945740
+sort_last_updated = 1468945800
+sort_publish_date = 1468945740
 create_date = "2016-07-19T09:29:00-07:00"
 publish_date = "2016-07-19T09:29:00-07:00"
 date = "2016-07-19T09:29:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DqUs8YP2IEXhkq5H-HFSztT9fYMuo37rLain66voogqoNbHwRB6Vr2Nhx8TjgMeTBrmDC7_s4zvwdZXXxfobSyyzTwiS"
 url = "/webhook-uploads/1468945846915/51gi-diZNHL.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 50055
 
 review_relationship = ["reviews/the-one-where-we-talk-about-books-and-sitcoms"]
-author_relationship = ["authors/diane-williams"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

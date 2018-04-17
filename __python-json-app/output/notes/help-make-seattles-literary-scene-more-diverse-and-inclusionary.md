@@ -1,8 +1,8 @@
 +++
 index = "-KRkAuZ0hMKqgeVmZOIg"
-_sort_create_date = 1473982200
-_sort_last_updated = 1473982200
-_sort_publish_date = 1474052520
+sort_create_date = 1473982200
+sort_last_updated = 1473982200
+sort_publish_date = 1474052520
 create_date = "2016-09-15T16:30:00-07:00"
 publish_date = "2016-09-16T12:02:00-07:00"
 date = "2016-09-16T12:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "RSVP now for @seacityoflit's free class on racial equity in the literary arts."
 facebookauto = "Seattle City of Literature is hosting a free class on racial equity in the literary arts. This is how you can RSVP."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-city-of-literature", "tags/race"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In case you couldn't tell from our [diversity reports](http://www.seattlereviewofbooks.com/notes/2016/09/07/public-diversity-editor-report-1-september-2016/) or our thoughts on [the current discussion on cultural appropriation in fiction](http://www.seattlereviewofbooks.com/notes/2016/09/14/on-lionel-shriver-and-cultural-appropriation-in-fiction/), we take issues of diversity seriously here at the *Seattle Review of Books*. We don't always get it right, but we try. And we think it's always important for Seattle's literary community to keep issues of diversity in mind. 

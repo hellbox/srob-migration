@@ -1,8 +1,8 @@
 +++
 index = "-K15BHBrBjN_l7YKhoR1"
-_sort_create_date = 1445360340
-_sort_last_updated = 1445360340
-_sort_publish_date = 1445371140
+sort_create_date = 1445360340
+sort_last_updated = 1445360340
+sort_publish_date = 1445371140
 create_date = "2015-10-20T09:59:00-07:00"
 publish_date = "2015-10-20T12:59:00-07:00"
 date = "2015-10-20T12:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This is [welcome news](http://createsend.com/t/y-3CD7BF66712FA53C): "New York Review Books is pleased to announce **New York Review Comics**, a new series of books at the union of art and literature." They're going to present work that has never been translated into English, as well as revivals of work by cartoonists Mark Beyer and Glen Baxter. Always good to see literary comics get some love; Fantagraphics can't do all this work by themselves.

@@ -1,8 +1,8 @@
 +++
 index = "-KiGaoYYJBFTqRsUIet8"
-_sort_create_date = 1492796520
-_sort_last_updated = 1492796520
-_sort_publish_date = 1492797660
+sort_create_date = 1492796520
+sort_last_updated = 1492796520
+sort_publish_date = 1492797660
 create_date = "2017-04-21T10:42:00-07:00"
 publish_date = "2017-04-21T11:01:00-07:00"
 date = "2017-04-21T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492796343274/Scre
 twitterauto = "Last night, some asshole broke into @Phoenix_Comics. Maybe buy some comics or games from them this weekend?"
 facebookauto = "Last night, some asshole broke into Phoenix Comics and Games on Broadway. Maybe buy some comics or games from them this weekend?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/phoenix-comics-and-games", "tags/crime"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On [their Facebook page](https://www.facebook.com/PhoenixSeattle/photos/a.252172841574386.1073741826.240420186082985/715492061909126/?type=3&theater), someone on the Phoenix Comics staff writes:

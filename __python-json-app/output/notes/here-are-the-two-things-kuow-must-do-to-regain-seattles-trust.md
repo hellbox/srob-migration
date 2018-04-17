@@ -1,8 +1,8 @@
 +++
 index = "-KurqBAJf5VFk68T5sKQ"
-_sort_create_date = 1506322980
-_sort_last_updated = 1506368280
-_sort_publish_date = 1506368280
+sort_create_date = 1506322980
+sort_last_updated = 1506368280
+sort_publish_date = 1506368280
 create_date = "2017-09-25T00:03:00-07:00"
 publish_date = "2017-09-25T12:38:00-07:00"
 date = "2017-09-25T12:38:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506053229586/kuow
 twitterauto = "Here are the two things @KUOW must do to regain Seattle's trust"
 facebookauto = "All we want from KUOW is this: don't give a platform to Nazis, and apologize to groups who they imperiled with their reckless coverage. Is that really so hard?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/kuow"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Many people have asked me what I thought about [KUOW reporter Bill Radke's response to the uproar over their interview with the Nazi](http://kuow.org/post/bill-radke-i-have-some-big-regrets-about-interview). I've seen his comments described as "heartfelt," and I guess that's true. He seemed to be very emotional over the whole thing, and he acknowledged that he made some mistakes.

@@ -1,8 +1,8 @@
 +++
 index = "-K2xInODgXn3aPy6QLFN"
-_sort_create_date = 1447358820
-_sort_last_updated = 1447358820
-_sort_publish_date = 1447358820
+sort_create_date = 1447358820
+sort_last_updated = 1447358820
+sort_publish_date = 1447358820
 create_date = "2015-11-12T12:07:00-08:00"
 publish_date = "2015-11-12T12:07:00-08:00"
 date = "2015-11-12T12:07:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're so excited to cosponsor @APRILfestSEA's first writing contest! Read all about it right here:"
 facebookauto = "We're excited to be judges in the APRIL Festival's very first writing contest! You should enter; the winner gets $100, publication on the Seattle Review of Books, and a reading slot in the 2016 APRIL Festival."
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/april"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This morning, the [APRIL Festival announced something fun](http://www.aprilfestival.com/contest/): their first-ever writing contest! And the *Seattle Review of Books* is coming along for the ride:

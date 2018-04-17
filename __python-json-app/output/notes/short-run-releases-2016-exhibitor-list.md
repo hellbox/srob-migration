@@ -1,8 +1,8 @@
 +++
 index = "-KNhTMll16E1Vi-s1Sti"
-_sort_create_date = 1469641740
-_sort_last_updated = 1469641740
-_sort_publish_date = 1469641740
+sort_create_date = 1469641740
+sort_last_updated = 1469641740
+sort_publish_date = 1469641740
 create_date = "2016-07-27T10:49:00-07:00"
 publish_date = "2016-07-27T10:49:00-07:00"
 date = "2016-07-27T10:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "So @shortrunseattle just released their exhibitor list and it's awesome. November 5th, Seattle Center."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Get a load of [all the small presses and cartoonists](http://shortrun.org/exhibitor-list-2016/) who'll be presenting at this year's Short Run Festival at the Seattle Center. November 5th can't get here soon enough.

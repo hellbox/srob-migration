@@ -1,8 +1,8 @@
 +++
 index = "-Jw-e-nrxXOkgEkioo8C"
-_sort_create_date = 1438825020
-_sort_last_updated = 1438885020
-_sort_publish_date = 1438825020
+sort_create_date = 1438825020
+sort_last_updated = 1438885020
+sort_publish_date = 1438825020
 create_date = "2015-08-05T18:37:00-07:00"
 publish_date = "2015-08-05T18:37:00-07:00"
 date = "2015-08-05T18:37:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1438824698441/IMG_
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call", "tags/mercer-street-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Lots of books arrived after our launch last week. See anything in this haul you'd like us to look at?

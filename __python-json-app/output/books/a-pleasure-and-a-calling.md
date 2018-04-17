@@ -1,8 +1,8 @@
 +++
 index = "-JsiSqSN400w7_jji67B"
-_sort_create_date = 1435300140
-_sort_last_updated = 1435300140
-_sort_publish_date = 1435300140
+sort_create_date = 1435300140
+sort_last_updated = 1435300140
+sort_publish_date = 1435300140
 create_date = "2015-06-25T23:29:00-07:00"
 publish_date = "2015-06-25T23:29:00-07:00"
 date = "2015-06-25T23:29:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/yjZskU1-DZ-5h2goXvUTzLe9evW7haeEUWO1ZvphM8ZdriDIyq_1YbAWbWwpm2GlZz0u0k73kpSAE_Mybr65DXylFICWcg"
 url = "/webhook-uploads/1435300094139/9781250060631.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 22603
 
 review_relationship = ["reviews/traveling-light"]
-author_relationship = ["authors/phil-hogan"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KTtp2bPfkSEqqpmdUli"
-_sort_create_date = 1476291420
-_sort_last_updated = 1476292260
-_sort_publish_date = 1476902700
+sort_create_date = 1476291420
+sort_last_updated = 1476292260
+sort_publish_date = 1476902700
 create_date = "2016-10-12T09:57:00-07:00"
 publish_date = "2016-10-19T11:45:00-07:00"
 date = "2016-10-19T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here are the best literary events for the next week of your life."
 facebookauto = "This week in readings brings novelists, poetry debut parties, new comics, and a discussion of how white Seattle's journalism scene is."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday October 19th: Margin Shift**</h5></p> 

@@ -1,8 +1,8 @@
 +++
 index = "-KPMOe2YWQLZ8aR13TUg"
-_sort_create_date = 1471418880
-_sort_last_updated = 1471418880
-_sort_publish_date = 1472061600
+sort_create_date = 1471418880
+sort_last_updated = 1471418880
+sort_publish_date = 1472061600
 create_date = "2016-08-17T00:28:00-07:00"
 publish_date = "2016-08-24T11:00:00-07:00"
 date = "2016-08-24T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445204810501/htun
 twitterauto = "This week, try Dungeons & Dragons, drinking with sci-fi authors, and more."
 facebookauto = "This week in literary events: a chance to try Dungeons & Dragons, a swashbuckling sci-fi reading at a bar, an anthology of journalism featuring great Seattle non-fiction authors, and more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run", "tags/elliott-bay-book-company", "tags/folio-seattle"]
-authors_notes = ["authors/sarah-glidden"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday August 24: *D&D* Encounters!**</h5></p> 

@@ -1,8 +1,8 @@
 +++
 index = "-JwEZVBG9IsBnHm5TsMx"
-_sort_create_date = 1439075220
-_sort_last_updated = 1439142900
-_sort_publish_date = 1439075220
+sort_create_date = 1439075220
+sort_last_updated = 1439142900
+sort_publish_date = 1439075220
 create_date = "2015-08-08T16:07:00-07:00"
 publish_date = "2015-08-08T16:07:00-07:00"
 date = "2015-08-08T16:07:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dOPyE5arj5A3Fc_lJizx7Tnh3ejjpNjd4oh4ZogDiWDsFIaB0_k5ErpVxNfiCCBffjaxsxxVvSryLbK-6JzUuPJofs543Q"
 url = "/webhook-uploads/1439100910463/9781630230142.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 6865759
 
 review_relationship = ""
-author_relationship = ["authors/darin-bradley"]
+books_author = ""
 sponsorships_book = ["sponsorships/chimpanzee"]
 notes_relationship = ""
 +++

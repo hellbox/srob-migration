@@ -1,8 +1,8 @@
 +++
 index = "-KFgRdwJ-5mk8vEWRJM0"
-_sort_create_date = 1461034560
-_sort_last_updated = 1461124680
-_sort_publish_date = 1461084900
+sort_create_date = 1461034560
+sort_last_updated = 1461124680
+sort_publish_date = 1461084900
 create_date = "2016-04-18T19:56:00-07:00"
 publish_date = "2016-04-19T09:55:00-07:00"
 date = "2016-04-19T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, \"The Quick\", is by @bill_carty"
 facebookauto = "Bill Carty is out poet today, with his work \"The Quick\""
 make_image_tweet = "False"
-byline = ["writers/bill-carty"]
+notes_byline = ["writers/bill-carty"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Taking my knife to the sharpener

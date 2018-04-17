@@ -1,8 +1,8 @@
 +++
 index = "-KKvS6mSUILQY3SXkNBM"
-_sort_create_date = 1466655060
-_sort_last_updated = 1466659020
-_sort_publish_date = 1466708400
+sort_create_date = 1466655060
+sort_last_updated = 1466659020
+sort_publish_date = 1466708400
 create_date = "2016-06-22T21:11:00-07:00"
 publish_date = "2016-06-23T12:00:00-07:00"
 date = "2016-06-23T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Meet our first intern, Rebecca Garcia Moreno!"
 facebookauto = "Meet our first intern, Rebecca Garcia Moreno!"
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">**Editor’s note**: We’re thrilled to announce that the *Seattle Review of Books* has taken on our first intern! You’ll be seeing Rebecca around the site quite a bit over the course of the summer, and so we thought an introduction might be in order.</p>

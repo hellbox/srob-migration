@@ -1,8 +1,8 @@
 +++
 index = "-KW9yplCA2YKplOavwaC"
-_sort_create_date = 1478726700
-_sort_last_updated = 1478727240
-_sort_publish_date = 1478727300
+sort_create_date = 1478726700
+sort_last_updated = 1478727240
+sort_publish_date = 1478727300
 create_date = "2016-11-09T13:25:00-08:00"
 publish_date = "2016-11-09T13:35:00-08:00"
 date = "2016-11-09T13:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "An alternative for our calendar pick on Thursday: @priscillalong at @ElliottBayBooks"
 facebookauto = "Another option for Thursday night: Priscilla Long"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/readings"]
-authors_notes = ["authors/priscilla-long"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1478727142699/unnamed.jpg)</p> 

@@ -1,8 +1,8 @@
 +++
 index = "-L-xNmgvK2BPyRtjUulv"
-_sort_create_date = 1512858360
-_sort_last_updated = 1512891840
-_sort_publish_date = 1512925200
+sort_create_date = 1512858360
+sort_last_updated = 1512891840
+sort_publish_date = 1512925200
 create_date = "2017-12-09T14:26:00-08:00"
 publish_date = "2017-12-10T09:00:00-08:00"
 date = "2017-12-10T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post ranges wide this week, from Libya's slave auctions to the hummingbird's tongue."
 facebookauto = "The Sunday Post ranges wide this week, from Libya's slave auctions to the hummingbird's tongue."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

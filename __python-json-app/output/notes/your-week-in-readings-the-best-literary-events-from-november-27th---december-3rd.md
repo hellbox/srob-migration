@@ -1,8 +1,8 @@
 +++
 index = "-KxBuXDHoZLdYydSEm0P"
-_sort_create_date = 1508823900
-_sort_last_updated = 1511815560
-_sort_publish_date = 1511811900
+sort_create_date = 1508823900
+sort_last_updated = 1511815560
+sort_publish_date = 1511811900
 create_date = "2017-10-23T22:45:00-07:00"
 publish_date = "2017-11-27T11:45:00-08:00"
 date = "2017-11-27T11:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508823825503/obam
 twitterauto = "Your week in readings begins with Obama and continues through a moon-based poetry reading."
 facebookauto = "Your week in readings begins with Obama and continues through a moon-based poetry reading."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1508823825503/obamaintimateportrait.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KryCZ27PTf7zjfirdmr"
-_sort_create_date = 1503208500
-_sort_last_updated = 1503247740
-_sort_publish_date = 1503244800
+sort_create_date = 1503208500
+sort_last_updated = 1503247740
+sort_publish_date = 1503244800
 create_date = "2017-08-19T22:55:00-07:00"
 publish_date = "2017-08-20T09:00:00-07:00"
 date = "2017-08-20T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post: Dillard on eclipses, @proseb4bros on white theft of food, @blakersdozen on Charlottesville, and more.  "
 facebookauto = "The Sunday Post has vintage Annie Dillard on eclipses, Lauren Michele Jackson on white appropriation of black foods, Blake Montgomery with a true vision on what happened in Charlottesville, and an open letter Micheal Chabon and Ayelet Waldman have written to Jews who may support Trump. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="https://www.theatlantic.com/science/archive/2017/08/annie-dillards-total-eclipse/536148/" title="Annie Dillard&amp;#39;s Classic Essay &amp;#39;Total Eclipse&amp;#39; - The Atlantic">Annie Dillard's Classic Essay: 'Total Eclipse'</a></h5>

@@ -1,8 +1,8 @@
 +++
 index = "-KxVMPLtg6gJvh7sSSz6"
-_sort_create_date = 1509150240
-_sort_last_updated = 1509655800
-_sort_publish_date = 1510084500
+sort_create_date = 1509150240
+sort_last_updated = 1509655800
+sort_publish_date = 1510084500
 create_date = "2017-10-27T17:24:00-07:00"
 publish_date = "2017-11-07T11:55:00-08:00"
 date = "2017-11-07T11:55:00-08:00"
@@ -13,10 +13,10 @@ title = "Knowing and doing and the passive sin of hipster privilege"
 dek = "John Hodgman reads from his new book Vacationland at the Neptune on Friday, November 11th. His new book desperately wants you to know that he's rich and he's white and he's famous and he feels very, very bad about it."
 facebookauto = "John Hodgman reads in Seattle on Friday. His new book is funny, smart, and also packed with hipster privilege."
 twitterauto = "John Hodgman reads in Seattle on Friday. His new book is funny, smart, and also packed with hipster privilege."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/vacationland"]
 tags_reviews = ["tags/memoir", "tags/race"]
-authors_reviews = ["authors/john-hodgman"]
+reviews_about = ""
 +++
 
 A few weeks ago, actor Charlene Yi [told a story about comedian David Cross]( https://www.huffingtonpost.com/entry/david-cross-responded-to-charlyne-yi-like-so-many-white-men-do_us_59e780d7e4b08f9f9edc33d2). She recalled on social media that the first time she met Cross, a decade ago, he said several racist comments to her. Yi was offended, but Cross at that time was a popular celebrity, and she felt too powerless to respond.

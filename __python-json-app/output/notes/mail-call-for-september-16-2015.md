@@ -1,8 +1,8 @@
 +++
 index = "-JzOEzBXA6fgHFZ0FiBV"
-_sort_create_date = 1442458860
-_sort_last_updated = 1442458860
-_sort_publish_date = 1442458860
+sort_create_date = 1442458860
+sort_last_updated = 1442458860
+sort_publish_date = 1442458860
 create_date = "2015-09-16T20:01:00-07:00"
 publish_date = "2015-09-16T20:01:00-07:00"
 date = "2015-09-16T20:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1442458835357/IMG_
 twitterauto = "Mail call! Three books on the third day of the week."
 facebookauto = "Three books in our Wednesday night Mail call."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1442458835357/IMG_0949-1.JPG)</p>

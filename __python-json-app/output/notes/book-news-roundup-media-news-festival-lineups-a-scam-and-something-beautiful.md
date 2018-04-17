@@ -1,8 +1,8 @@
 +++
 index = "-Kw2U6ZokRUJ3_mK-IOM"
-_sort_create_date = 1507591980
-_sort_last_updated = 1507600740
-_sort_publish_date = 1507660380
+sort_create_date = 1507591980
+sort_last_updated = 1507600740
+sort_publish_date = 1507660380
 create_date = "2017-10-09T16:33:00-07:00"
 publish_date = "2017-10-10T11:33:00-07:00"
 date = "2017-10-10T11:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Read the full lineups of Lit Crawl and Short Run in today's Book News Roundup!"
 facebookauto = "Read the full lineups of Lit Crawl and Short Run in today's Book News Roundup!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/short-run", "tags/lit-crawl"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Seattle Media news, part one: Capitol Hill Seattle blog, which went on a hiatus last year, is now [up and running again](http://www.capitolhillseattle.com/2017/10/chs-sabbatical-were-back/), with a staff and everything! (Joining CHS founder Justin Carder are photographer Alex Garland and great Seattle reporter Kelsey Hamlin.) CHS is looking for 2000 subscribers to put a few dollars a month into their Patreon account to pay for the work they do.

@@ -1,8 +1,8 @@
 +++
 index = "-Kqac7aBo4tg629TqD41"
-_sort_create_date = 1501739100
-_sort_last_updated = 1501776300
-_sort_publish_date = 1501782300
+sort_create_date = 1501739100
+sort_last_updated = 1501776300
+sort_publish_date = 1501782300
 create_date = "2017-08-02T22:45:00-07:00"
 publish_date = "2017-08-03T10:45:00-07:00"
 date = "2017-08-03T10:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501738934755/sexc
 twitterauto = "This melancholy comic is for mature readers in more ways than one."
 facebookauto = "This melancholy comic is for mature readers in more ways than one."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Aside from Charles Schulz's *Peanuts*, American comics aren't great at melancholy. I've read plenty of depressing comics, and many upbeat comics, but the gentle downward slope of melancholy seems too subtle for most American cartoonists to capture.

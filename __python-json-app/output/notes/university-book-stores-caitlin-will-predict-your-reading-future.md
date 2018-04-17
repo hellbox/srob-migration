@@ -1,8 +1,8 @@
 +++
 index = "-KAhxQKwJjXqLaO1JEyA"
-_sort_create_date = 1455691200
-_sort_last_updated = 1455691500
-_sort_publish_date = 1455732000
+sort_create_date = 1455691200
+sort_last_updated = 1455691500
+sort_publish_date = 1455732000
 create_date = "2016-02-16T22:40:00-08:00"
 publish_date = "2016-02-17T10:00:00-08:00"
 date = "2016-02-17T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455690541403/cont
 twitterauto = "An interview with @ubookstorereads bookseller @Cait_onthe_Luce."
 facebookauto = "University Book Store bookseller Caitlin can tell you what you'll be reading weeks from now."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/university-book-store", "tags/barnes-&amp;-noble"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The thing you realize within a few seconds of talking to [University Book Store](http://seattlereviewofbooks.com/notes/2016/02/03/join-us-in-celebrating-our-february-bookstore-of-the-month-university-book-store/)’s [Caitlin](https://twitter.com/Cait_onthe_Luce) is that she reads a lot. Like, a *lot*. She estimates she plows through about five books a week, on average. “I read fast,” she admits. “Partly because when I was in college, I would do theater, and I would also have to read James Fenimore Cooper or *Moby Dick*” for class assignments. Every time I see Caitlin, she’s gushing about some book that just came out, or that is about to come out, or that will be out in a month or two. Few booksellers in the city are as capable at forecasting the near-future of books as she is; talking to her is a window into your immediate reading future.

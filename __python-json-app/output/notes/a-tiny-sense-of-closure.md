@@ -1,8 +1,8 @@
 +++
 index = "-K7jB9ZY2kRIjVEvOpcF"
-_sort_create_date = 1452490620
-_sort_last_updated = 1452533940
-_sort_publish_date = 1452542520
+sort_create_date = 1452490620
+sort_last_updated = 1452533940
+sort_publish_date = 1452542520
 create_date = "2016-01-10T21:37:00-08:00"
 publish_date = "2016-01-11T12:02:00-08:00"
 date = "2016-01-11T12:02:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Say it ain't so, @1JessWalter & @Sherman_Alexie: please don't stop doing A Tiny Sense of Accomplishment!"
 facebookauto = "Jess Walter seems to have confirmed that his podcast with Sherman Alexie, A Tiny Sense of Accomplishment, is more or less over. This would be incredibly sad."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/podcast"]
-authors_notes = ["authors/sherman-alexie", "authors/jess-walter"]
+notes_about = ""
 books = ""
 +++
 Saturday, Spokane author Jess Walter quietly dropped a bomb on Twitter. He was asked about the podcast that he and Sherman Alexie started, [*A Tiny Sense of Accomplishment*](http://www.infiniteguest.org/tiny-sense/), which has not released any new episodes since October of 2015:

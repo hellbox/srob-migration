@@ -1,8 +1,8 @@
 +++
 index = "-KYqpBLI4_jN2cCzAZ2I"
-_sort_create_date = 1481609880
-_sort_last_updated = 1481610120
-_sort_publish_date = 1481824860
+sort_create_date = 1481609880
+sort_last_updated = 1481610120
+sort_publish_date = 1481824860
 create_date = "2016-12-12T22:18:00-08:00"
 publish_date = "2016-12-15T10:01:00-08:00"
 date = "2016-12-15T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Rarely has a book about books felt so un-literary."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *One Week in the Library* comes in a format that doesn’t get enough play in comics shops: a ten dollar “graphic novella” that tells a single story from beginning to end. It’s a great format — not quite long enough to be a full-sized graphic novel, but longer than your standard monthly comics issue. More cartoonists should work at this size; it’s a great length for the medium.

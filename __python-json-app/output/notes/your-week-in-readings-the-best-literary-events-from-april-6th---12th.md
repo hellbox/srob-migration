@@ -1,8 +1,8 @@
 +++
 index = "-KEJ-WmQhUNGYEZx2pUL"
-_sort_create_date = 1459550820
-_sort_last_updated = 1459964820
-_sort_publish_date = 1459961160
+sort_create_date = 1459550820
+sort_last_updated = 1459964820
+sort_publish_date = 1459961160
 create_date = "2016-04-01T15:47:00-07:00"
 publish_date = "2016-04-06T09:46:00-07:00"
 date = "2016-04-06T09:46:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings includes a local comic book show, a celebration of Greenwood, and more."
 facebookauto = "Your week in readings includes a local comic book show, a celebration of Greenwood, and more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle", "tags/emerald-city-comicon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday April 6: Lit Fix**</h5></p>

@@ -1,8 +1,8 @@
 +++
 index = "-K0wrz7UetOysg9EqA35"
-_sort_create_date = 1445204040
-_sort_last_updated = 1445204040
-_sort_publish_date = 1445204040
+sort_create_date = 1445204040
+sort_last_updated = 1445204040
+sort_publish_date = 1445204040
 create_date = "2015-10-18T14:34:00-07:00"
 publish_date = "2015-10-18T14:34:00-07:00"
 date = "2015-10-18T14:34:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/D2hTPE4mMfJpuIYQFQwM3-53Qv6OiIfofGi9QcvwwnoHoiwr_1BFFKvuAcABYthvU6I8cij8wt4W3dP-xr3P7dVZ-5Uw_w"
 url = "/webhook-uploads/1445204016749/htunderisraelcover11.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 159790
 
 review_relationship = ""
-author_relationship = ["authors/sarah-glidden"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/new-hire-sarah-glidden-doesnt-believe-in-the-seattle-freeze"]
 +++

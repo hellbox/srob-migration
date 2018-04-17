@@ -1,8 +1,8 @@
 +++
 index = "-KSfnILtsqnPVhWga8Fo"
-_sort_create_date = 1474982340
-_sort_last_updated = 1474982400
-_sort_publish_date = 1474982340
+sort_create_date = 1474982340
+sort_last_updated = 1474982400
+sort_publish_date = 1474982340
 create_date = "2016-09-27T06:19:00-07:00"
 publish_date = "2016-09-27T06:19:00-07:00"
 date = "2016-09-27T06:19:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Social Science"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9oU6ORYhXlufpWo2NTGY_kZE_vtBjvuGyqi96lmRw2lqGWWXUO9-k0I_PIOv8fynmCegNREMg79MSjNMCTxVGiWBIHMW"
 url = "/webhook-uploads/1474982392449/content%3Fid%3DVA8KjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 9527
 
 review_relationship = ["reviews/sharing-the-last-of-our-food"]
-author_relationship = ["authors/sebastian-junger"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

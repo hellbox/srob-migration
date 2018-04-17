@@ -1,8 +1,8 @@
 +++
 index = "-KJaHtagjOmkOcrHBEL1"
-_sort_create_date = 1465226280
-_sort_last_updated = 1465226460
-_sort_publish_date = 1465243200
+sort_create_date = 1465226280
+sort_last_updated = 1465226460
+sort_publish_date = 1465243200
 create_date = "2016-06-06T08:18:00-07:00"
 publish_date = "2016-06-06T13:00:00-07:00"
 date = "2016-06-06T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @hugohouse is in the new house, and has a big Write-O-Rama coming up!"
 facebookauto = "Sponsor Hugo House is in the new house, and has a big Write-O-Rama coming up!"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 How excited are we to have Hugo House as a sponsor? More than you can know. Unless you've taken a Hugo House class, or been to a reading there, or met with one of their writers in residence, or gone to a one-day workshop, or....well, if you know Hugo House, you know why they're excited. 

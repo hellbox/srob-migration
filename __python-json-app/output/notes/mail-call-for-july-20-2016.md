@@ -1,8 +1,8 @@
 +++
 index = "-KNAJpnsgJ2XEdttZf1Y"
-_sort_create_date = 1469068800
-_sort_last_updated = 1469068800
-_sort_publish_date = 1469068800
+sort_create_date = 1469068800
+sort_last_updated = 1469068800
+sort_publish_date = 1469068800
 create_date = "2016-07-20T19:40:00-07:00"
 publish_date = "2016-07-20T19:40:00-07:00"
 date = "2016-07-20T19:40:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469068797502/mail
 twitterauto = "Mail Call!"
 facebookauto = "Mail Call!"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1469068797502/mail-call-2.jpg)</p>

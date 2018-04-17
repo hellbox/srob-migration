@@ -1,8 +1,8 @@
 +++
 index = "-Jy4EDIKVV-kRZ-FSR1B"
-_sort_create_date = 1441049400
-_sort_last_updated = 1441049400
-_sort_publish_date = 1441052940
+sort_create_date = 1441049400
+sort_last_updated = 1441049400
+sort_publish_date = 1441052940
 create_date = "2015-08-31T12:30:00-07:00"
 publish_date = "2015-08-31T13:29:00-07:00"
 date = "2015-08-31T13:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Please don't read that awful, dumb Guardian story on Terry Pratchett that's making the rounds."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/clickbait"]
-authors_notes = ["authors/terry-pratchett"]
+notes_about = ""
 books = ["books/mort", "books/the-colour-of-magic"]
 +++
 Some asshole at the *Guardian* who has never read one of Terry Pratchett's novels thinks Terry Pratchett is overrated. Yep, it's the same old boring "serious literature" conversation, with an added smear on a recently deceased author for good measure. 

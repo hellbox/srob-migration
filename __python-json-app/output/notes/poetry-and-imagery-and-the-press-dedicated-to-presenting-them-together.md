@@ -1,8 +1,8 @@
 +++
 index = "-KTAQ6uZu_FUmY8efyWh"
-_sort_create_date = 1475512920
-_sort_last_updated = 1475517120
-_sort_publish_date = 1475524800
+sort_create_date = 1475512920
+sort_last_updated = 1475517120
+sort_publish_date = 1475524800
 create_date = "2016-10-03T09:42:00-07:00"
 publish_date = "2016-10-03T13:00:00-07:00"
 date = "2016-10-03T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1475512901579/unna
 twitterauto = "Our sponsor @EntreRiosBooks is back to show a new incredible work. "
 facebookauto = "Our sponsor this week is Entre Rios press, back with a fantastic new book of poetry and imagery. Join them for their book launch party this Saturday: https://www.facebook.com/events/1657034167958917/"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Entre Ríos Books has a new book coming out, and they're here to make sure you know about it. _The After_ is a single poem by Melinda Mueller, with artwork by Karinna Gomez. The book comes with a CD from the jazz duo Syrinx Effect, and includes a reading of the book by the poet.

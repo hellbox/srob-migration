@@ -1,8 +1,8 @@
 +++
 index = "-KCmE50pz5LkBep1NYXK"
-_sort_create_date = 1457910420
-_sort_last_updated = 1457910420
-_sort_publish_date = 1457987400
+sort_create_date = 1457910420
+sort_last_updated = 1457910420
+sort_publish_date = 1457987400
 create_date = "2016-03-13T16:07:00-07:00"
 publish_date = "2016-03-14T13:30:00-07:00"
 date = "2016-03-14T13:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Ever wonder what Nancy Pearl's ice cream would taste like?"
 facebookauto = "Ever wonder what Nancy Pearl's ice cream would taste like?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/nancy-pearl", "tags/mein-kampf"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Seattle ice creamery Full Tilt debuts a Nancy Pearl-themed ice cream on April 10th, [reports *Seattle Metropolitan*](http://www.seattlemet.com/articles/2016/3/11/full-tilt-gives-librarian-nancy-pearl-her-own-ice-cream-flavor). What does Nancy Pearl ice cream taste like? It's peanut butter with a fudge swirl.

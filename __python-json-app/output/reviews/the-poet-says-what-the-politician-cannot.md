@@ -1,8 +1,8 @@
 +++
 index = "-KTSwhspOQrLT30_OANF"
-_sort_create_date = 1475823720
-_sort_last_updated = 1475823960
-_sort_publish_date = 1476216060
+sort_create_date = 1475823720
+sort_last_updated = 1475823960
+sort_publish_date = 1476216060
 create_date = "2016-10-07T00:02:00-07:00"
 publish_date = "2016-10-11T13:01:00-07:00"
 date = "2016-10-11T13:01:00-07:00"
@@ -13,10 +13,10 @@ title = "The poet says what the politician cannot"
 dek = "It would be easy for Claudia Castro Luna to write fluffy poems that make us feel good about Seattle. Thankfully, she doesn't do that."
 facebookauto = "The poems in Claudia Castro Luna's chapbook This City are interested in having a conversation with Seattle, with making the city better than it is."
 twitterauto = "Seattle's first Civic Poet is writing poems that engage with the idea of Seattle."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/this-city"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/claudia-castro-luna"]
+reviews_about = ""
 +++
 
 If you’ve attended a meeting of the Seattle City Council over the last few months — as part of the [#BlocktheBunker](https://blockthebunker.org/) movement, say, or as a worker fighting for [secure scheduling](http://www.kiro7.com/news/local/seattle-city-council-to-take-final-vote-on-secure-scheduling-law/447482478) — odds are good you’ve heard at least one poet read their work aloud. As part of her role as Seattle’s very first Civic Poet, Claudia Castro Luna curates the poetry readings that open City Council meetings. To many who attend council meetings on official business, this is probably just a bit of pointless civic nonsense to tolerate, some grandstanding to keep the arts community placated.

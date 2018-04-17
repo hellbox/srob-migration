@@ -1,8 +1,8 @@
 +++
 index = "-KBGoy9G0JNSR4VvHC2w"
-_sort_create_date = 1456293000
-_sort_last_updated = 1456293120
-_sort_publish_date = 1456293000
+sort_create_date = 1456293000
+sort_last_updated = 1456293120
+sort_publish_date = 1456293000
 create_date = "2016-02-23T21:50:00-08:00"
 publish_date = "2016-02-23T21:50:00-08:00"
 date = "2016-02-23T21:50:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/5biaWSxbKkYHd2OI1sh24OPePT4ZEbJRoeobBYTADE3iNVMW0Na-x4VIlCmWSPzuAyQpAxrvyHIM-BwXTYYH71mFsYzQ"
 url = "/webhook-uploads/1456293010919/content%3Fid%3D8KD-jgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 8559
 
 review_relationship = ""
-author_relationship = ["authors/julie-manthey"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-magic-of-cape-disappointment"]
 notes_relationship = ""
 +++

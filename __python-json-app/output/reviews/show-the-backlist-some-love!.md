@@ -1,8 +1,8 @@
 +++
 index = "-L6CsVQp8B-aFfpZglwa"
-_sort_create_date = 1519577580
-_sort_last_updated = 1519623360
-_sort_publish_date = 1519761600
+sort_create_date = 1519577580
+sort_last_updated = 1519623360
+sort_publish_date = 1519761600
 create_date = "2018-02-25T08:53:00-08:00"
 publish_date = "2018-02-27T12:00:00-08:00"
 date = "2018-02-27T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Show the backlist some love!"
 dek = "Debbie Reese, of American Indians in Children's Literature, writes for us about how awards and best-of lists privilege the new -- at a high cost to books that represent diversity for kids from diverse backgrounds."
 facebookauto = "We know who wins awards for children's books, but who loses? Non-White kids, says Debbie Reese."
 twitterauto = "We know who wins awards for children's books, but who loses? Non-White kids, says @debreese."
-byline = ["writers/debbie-reese"]
+reviews_byline = ["writers/debbie-reese"]
 books_in_this_review = ["books/the-people-shall-continue", "books/the-girl-who-loved-wild-horses"]
 tags_reviews = ""
-authors_reviews = ["authors/simon-j-ortiz", "authors/paul-goble"]
+reviews_about = ""
 +++
 
 <p>For the first month of the year, those interested in children’s literature speculate frantically about which books will win the American Library Association’s book awards. And when the winners are announced, sales go up. Before Kelly Barnhill’s <em>The Girl Who Drank the Moon</em> received the 2017 Newbery Medal, its sales were 17,484. After it won, <a href="http://www.slj.com/2018/02/books-media/caldecott-newbery-medals-translate-bigger-short-term-sales/">the number shot up to 56,653</a> — a 324% shift. The same goes for the year-end lists produced by organizations and book lovers to promote the “best” children’s or young adult books published that year. Across the country, librarians and booksellers will study the “best of” lists and the lists of award winners and add multiple copies of them to their shelves. Displays of these books will spring up in libraries and bookstores everywhere. Book lovers will scour the lists and fill their library requests and their shopping baskets.</p>

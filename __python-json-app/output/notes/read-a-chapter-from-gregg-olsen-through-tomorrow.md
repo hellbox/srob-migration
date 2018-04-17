@@ -1,8 +1,8 @@
 +++
 index = "-K5JwrrFRJ-sjXyNPN8v"
-_sort_create_date = 1449902940
-_sort_last_updated = 1449903060
-_sort_publish_date = 1449954000
+sort_create_date = 1449902940
+sort_last_updated = 1449903060
+sort_publish_date = 1449954000
 create_date = "2015-12-11T22:49:00-08:00"
 publish_date = "2015-12-12T13:00:00-08:00"
 date = "2015-12-12T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We've been thrilled to count @Gregg_Olsen as a sponsor. Read a chapter from Now That She's Gone through Sunday."
 facebookauto = "Mystery writer Gregg Olsen is our sponsor this week, and we think the first chapter from his work Now That She's Gone is just fantastic. Take a look, see if you agree. "
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/gregg-olsen"]
+notes_about = ""
 books = ["books/now-that-shes-gone"]
 +++
 We [have a chapter from _Now That She's Gone_](http://seattlereviewofbooks.com/sponsorships "The Seattle Review of Books - sponsorships"), by sponsor Gregg Olsen, for one more day. Be sure to take a look &mdash; you might just get hooked.

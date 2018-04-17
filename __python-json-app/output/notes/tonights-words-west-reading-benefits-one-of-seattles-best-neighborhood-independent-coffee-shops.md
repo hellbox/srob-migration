@@ -1,8 +1,8 @@
 +++
 index = "-L30iZ0e-YT3OHsLdf95"
-_sort_create_date = 1516152420
-_sort_last_updated = 1516152420
-_sort_publish_date = 1516211640
+sort_create_date = 1516152420
+sort_last_updated = 1516152420
+sort_publish_date = 1516211640
 create_date = "2018-01-16T17:27:00-08:00"
 publish_date = "2018-01-17T09:54:00-08:00"
 date = "2018-01-17T09:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516151955697/CP_w
 twitterauto = "Tonight's reading with @Nancy_Pearl benefits one of Seattle's best indie coffee houses."
 facebookauto = "Tonight's Words West reading with Nancy Pearl benefits the C&P Coffee Company, which might be forced out of its home due to soaring real estate prices."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/west-seattle"]
-authors_notes = ["authors/nancy-pearl"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1516151955697/CP_website_212.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-K3E8MFM3DI_o9Cl8O0B"
-_sort_create_date = 1447658040
-_sort_last_updated = 1447658040
-_sort_publish_date = 1447703040
+sort_create_date = 1447658040
+sort_last_updated = 1447658040
+sort_publish_date = 1447703040
 create_date = "2015-11-15T23:14:00-08:00"
 publish_date = "2015-11-16T11:44:00-08:00"
 date = "2015-11-16T11:44:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447657658552/seda
 twitterauto = "If David Sedaris talks about the hypothetical death of your pet, you probably shouldn't take it personally."
 facebookauto = "Paul Constant introduced David Sedaris last night by reading a blog post titled \u201cMy Co-Worker Karen Had a Bad Encounter With Funny Man David Sedaris.\u201d"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/benaroya-hall"]
-authors_notes = ["authors/david-sedaris"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Last night, I had the pleasure of introducing David Sedaris at a sold-out reading at Benaroya Hall. This is the seventh time I've introduced Sedaris, and it's always a thrill. The best part of introducing David Sedaris is you get to hear him read after the introduction is done; he's simply the best reader I've ever seen. He'll be back in town next year on November 16th; I'll let you know when tickets go on sale. Here's my introduction from last night.</p>

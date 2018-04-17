@@ -1,8 +1,8 @@
 +++
 index = "-KKg6p1zYnBAqiKsZbRm"
-_sort_create_date = 1466397780
-_sort_last_updated = 1466398140
-_sort_publish_date = 1466452800
+sort_create_date = 1466397780
+sort_last_updated = 1466398140
+sort_publish_date = 1466452800
 create_date = "2016-06-19T21:43:00-07:00"
 publish_date = "2016-06-20T13:00:00-07:00"
 date = "2016-06-20T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @entreriosbooks is back, on the two-hundredth anniversary of a famous week, to talk about Shelley."
 facebookauto = "Sponsor Entre Rios Books is back, on the two-hundredth anniversary of a famous week, to talk about Shelley."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/percy-bysshe-shelley"]
+notes_about = ""
 books = ""
 +++
 Sponsor Entre Rios books is back. Did you know it's been two hundred years, this week, since Mary Shelley, Lord Byron, Claire Clairmont, and Percy Bysshe Shelley met at Lake Geneva, and spun the stories that would turn into Dracula and Frankenstein? 

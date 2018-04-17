@@ -1,8 +1,8 @@
 +++
 index = "-KYqvgnPjwVEvJifzXR0"
-_sort_create_date = 1481611560
-_sort_last_updated = 1481653500
-_sort_publish_date = 1481660400
+sort_create_date = 1481611560
+sort_last_updated = 1481653500
+sort_publish_date = 1481660400
 create_date = "2016-12-12T22:46:00-08:00"
 publish_date = "2016-12-13T12:20:00-08:00"
 date = "2016-12-13T12:20:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Two un=produced screenplays about Stephen King won awards yesterday."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/stephen-king"]
+notes_about = ""
 books = ""
 +++
 This year's Black List Awards, which celebrate the greatest unproduced screenplays, were announced yesterday. Coincidentally, two Black List winners share a very interesting muse. Here's a description of Kathy Charles's screenplay *The Kings of Maine*:

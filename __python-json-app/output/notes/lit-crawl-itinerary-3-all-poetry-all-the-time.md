@@ -1,8 +1,8 @@
 +++
 index = "-KwJFj5jfxrEpOv87CGy"
-_sort_create_date = 1507873440
-_sort_last_updated = 1508348160
-_sort_publish_date = 1508349660
+sort_create_date = 1507873440
+sort_last_updated = 1508348160
+sort_publish_date = 1508349660
 create_date = "2017-10-12T22:44:00-07:00"
 publish_date = "2017-10-18T11:01:00-07:00"
 date = "2017-10-18T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's @SeattleLitCrawl itinerary is all poetry, all the time."
 facebookauto = "Today's Seattle Lit Crawl itinerary is all poetry, all the time."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lit-crawl"]
-authors_notes = ["authors/quenton-baker", "authors/laura-da", "authors/shin-yu-pai", "authors/claudia-castro-luna"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Tomorrow night is Lit Crawl, a bacchanalia of literary events spread over four courses across Capitol Hill, First Hill, and downtown. [You can find the full schedule here](http://litcrawl.org/seattle/2017-schedule), but we wanted to provide a few possible itineraries for people who have a hard time making up their minds. Come back tomorrow for the next itnerary. [Here's yesterday's itinerary.](http://www.seattlereviewofbooks.com/notes/2017/10/17/lit-crawl-itinerary-2-no-white-dudes/)</p>

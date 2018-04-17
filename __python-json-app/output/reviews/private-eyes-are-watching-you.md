@@ -1,8 +1,8 @@
 +++
 index = "-KQ-4uA-A9Jvci5wih4J"
-_sort_create_date = 1472101560
-_sort_last_updated = 1472101560
-_sort_publish_date = 1472236560
+sort_create_date = 1472101560
+sort_last_updated = 1472101560
+sort_publish_date = 1472236560
 create_date = "2016-08-24T22:06:00-07:00"
 publish_date = "2016-08-26T11:36:00-07:00"
 date = "2016-08-26T11:36:00-07:00"
@@ -13,10 +13,10 @@ title = "Private eyes are watching you"
 dek = "In 1980, Sophie Calle chose a man almost at random and stalked him. She turned her photos and observations into a book. How would this play on Instagram?"
 facebookauto = "What's a little light stalking between complete strangers? Who hasn't followed a man chosen at random to Venice, photographed him, and then published those photos and observations in a book? It can't just be us, right?"
 twitterauto = "In 1980, a woman chose a man at random and stalked him. Now her story is a book from @sigliopress."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/suite-v\u00e9nitienne"]
 tags_reviews = ["tags/art", "tags/nonfiction"]
-authors_reviews = ["authors/sophie-calle"]
+reviews_about = ""
 +++
 
 In the beginning of *Suite Vénitienne*, Sophie Calle writes that for some unknown reason, she started choosing strangers at random on the street and following them without their knowledge. She’d take photos of them and write little notations tracking their movements. Then, her little game escalated:

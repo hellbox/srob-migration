@@ -1,8 +1,8 @@
 +++
 index = "-K3Y4lczQY177cb3Z6IN"
-_sort_create_date = 1447992660
-_sort_last_updated = 1447992660
-_sort_publish_date = 1448913660
+sort_create_date = 1447992660
+sort_last_updated = 1447992660
+sort_publish_date = 1448913660
 create_date = "2015-11-19T20:11:00-08:00"
 publish_date = "2015-11-30T12:01:00-08:00"
 date = "2015-11-30T12:01:00-08:00"
@@ -13,10 +13,10 @@ title = "The publishers' dilemma"
 dek = "We live in an age where anyone can publish a book in a matter of minutes. Why, then, do we need publishers?"
 facebookauto = "A new book by Roberto Calasso explains why, in an age of Twitter and e-books, we still need publishers to bring us quality literature."
 twitterauto = "We live in an age where anyone can publish a book in a matter of minutes. Why, then, do we need publishers?"
-byline = ["writers/willie-fitzgerald"]
+reviews_byline = ["writers/willie-fitzgerald"]
 books_in_this_review = ["books/the-art-of-the-publisher", "books/citizen"]
 tags_reviews = ["tags/publishing"]
-authors_reviews = ["authors/roberto-calasso", "authors/claudia-rankine"]
+reviews_about = ""
 +++
 
 As the co-founder of this site [put it in September](https://www.youtube.com/watch?v=dCnX-GHkMpg), we are living in a golden age of publishing. Social media, the Espresso Book Machine and yes, even Amazon’s e-book arm have collapsed the distance between writer and audience, and in some cases entirely circumvented the need for traditional publishers. 

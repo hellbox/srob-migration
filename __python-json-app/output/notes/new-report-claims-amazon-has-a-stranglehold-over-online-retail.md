@@ -1,8 +1,8 @@
 +++
 index = "-KXnXcpgfBH4cyb1KtpQ"
-_sort_create_date = 1480480920
-_sort_last_updated = 1480480920
-_sort_publish_date = 1480540920
+sort_create_date = 1480480920
+sort_last_updated = 1480480920
+sort_publish_date = 1480540920
 create_date = "2016-11-29T20:42:00-08:00"
 publish_date = "2016-11-30T13:22:00-08:00"
 date = "2016-11-30T13:22:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A new report claims that Amazon captures \"nearly $1 in every $2 that Americans spend online.\""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon", "tags/retail"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The Institute for Local Self-Reliance "estimates that **Amazon is now capturing nearly $1 in every $2 that Americans spend online**."

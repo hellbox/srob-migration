@@ -1,8 +1,8 @@
 +++
 index = "-K9QL39rCC3FqSGkwqF0"
-_sort_create_date = 1454305140
-_sort_last_updated = 1458877560
-_sort_publish_date = 1454305140
+sort_create_date = 1454305140
+sort_last_updated = 1458877560
+sort_publish_date = 1454305140
 create_date = "2016-01-31T21:39:00-08:00"
 publish_date = "2016-01-31T21:39:00-08:00"
 date = "2016-01-31T21:39:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uHVI9HXmnBd2gji6mkyQzKfcBKJ4PRZ1fwBDrS55gekoeKLd6hITy-H9VVYYzdbl4uxXCCiuoLvsjZ-3Pwc4FEm89zV-rw"
 url = "/webhook-uploads/1458877592054/Popular%20Songs%20Percy%20Bysshe%20Shelley.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 295462
 
 review_relationship = ""
-author_relationship = ["authors/percy-bysshe-shelley"]
+books_author = ""
 sponsorships_book = ["sponsorships/popular-songs-the-political-poems-of-1819-1820"]
 notes_relationship = ""
 +++

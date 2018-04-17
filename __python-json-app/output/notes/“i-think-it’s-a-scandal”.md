@@ -1,8 +1,8 @@
 +++
 index = "-KHHXtqh6kiGLsK6Stwg"
-_sort_create_date = 1462747500
-_sort_last_updated = 1462747500
-_sort_publish_date = 1462825680
+sort_create_date = 1462747500
+sort_last_updated = 1462747500
+sort_publish_date = 1462825680
 create_date = "2016-05-08T15:45:00-07:00"
 publish_date = "2016-05-09T13:28:00-07:00"
 date = "2016-05-09T13:28:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Many thanks to the @seattletimes for writing about the wealth disparities in Seattle's school libraries."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/libraries"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Paige Cornwell at the *Seattle Times* wrote about how Seattle Public Schools doesn't fund its libraries.

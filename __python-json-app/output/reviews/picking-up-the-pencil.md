@@ -1,8 +1,8 @@
 +++
 index = "-L6tnl7h8qvlbguCyYIC"
-_sort_create_date = 1520314500
-_sort_last_updated = 1520403900
-_sort_publish_date = 1520452800
+sort_create_date = 1520314500
+sort_last_updated = 1520403900
+sort_publish_date = 1520452800
 create_date = "2018-03-05T21:35:00-08:00"
 publish_date = "2018-03-07T12:00:00-08:00"
 date = "2018-03-07T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Picking up the pencil"
 dek = "Artist and illustrator Laura Knetzger tries the famous 12-week course in creativity to see how well it works."
 facebookauto = "The Artist's Way? Is that the only way to do it? Laura Knetzger explores in this great review in comic form."
 twitterauto = "The Artist's Way? Is that the only way to do it? @lauraknetzger explores in this great review in comic form."
-byline = ["writers/laura-knetzger"]
+reviews_byline = ["writers/laura-knetzger"]
 books_in_this_review = ["books/the-artists-way"]
 tags_reviews = ["tags/illustration"]
-authors_reviews = ["authors/julia-cameron"]
+reviews_about = ""
 +++
 
 <p class="image"><a href="/webhook-uploads/1520314169250/ArtistsWay%2001.png" target="_blank">![](/webhook-uploads/1520314169250/ArtistsWay%2001.png)</a></p>

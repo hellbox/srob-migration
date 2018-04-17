@@ -1,8 +1,8 @@
 +++
 index = "-KJEh5N_f2QYf-voyowc"
-_sort_create_date = 1464847320
-_sort_last_updated = 1465241160
-_sort_publish_date = 1465239660
+sort_create_date = 1464847320
+sort_last_updated = 1465241160
+sort_publish_date = 1465239660
 create_date = "2016-06-01T23:02:00-07:00"
 publish_date = "2016-06-06T12:01:00-07:00"
 date = "2016-06-06T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "The one-sided deal"
 dek = "There is an agreement between every author and reader. By abandoning English for Italian, Jhumpa Lahiri has violated that agreement. Is that an okay thing to do?"
 facebookauto = "When Jhumpa Lahiri announced that she was only writing in Italian from now on, she was abandoning her fans. Is that an okay thing to do?"
 twitterauto = "Jhumpa Lahiri announced she was only writing in Italian from now on. Does that violate the author-reader contract?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/in-other-words"]
 tags_reviews = ["tags/translation", "tags/essays"]
-authors_reviews = ["authors/jhumpa-lahiri"]
+reviews_about = ""
 +++
 
 For many years, I had an agreement with Jhumpa Lahiri. Well, it wasn’t so much an agreement because she never agreed to it. In any case, it went like this: for as long as Lahiri would write fiction and novels, I would read them. In my mind, Lahiri was embarking down the road to a long and fulfilling career, like a Philip Roth or a John Updike, and I was prepared to read all her new books as they came out, to expand my understanding of her writing one book at a time.

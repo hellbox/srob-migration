@@ -1,8 +1,8 @@
 +++
 index = "-KfinFsvvhNzybyMRtkU"
-_sort_create_date = 1490065080
-_sort_last_updated = 1490066400
-_sort_publish_date = 1490119800
+sort_create_date = 1490065080
+sort_last_updated = 1490066400
+sort_publish_date = 1490119800
 create_date = "2017-03-20T19:58:00-07:00"
 publish_date = "2017-03-21T11:10:00-07:00"
 date = "2017-03-21T11:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490064449353/tamb
 twitterauto = "Today's book news roundup features Kafka, Jeffrey Tambor, and Cory Doctorow."
 facebookauto = "If you're a Jeffrey Tambor fan, you should know that he's coming to Seattle. If you're not a Jeffrey Tambor fan, you should watch something with Jeffrey Tambor in it."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/amazon", "tags/retail", "tags/e-books", "tags/future-of-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * If you're looking for a fun way to support the Short Run Comix & Art Festival, you should consider [joining their Mini-comics club](http://shortrun.org/join-our-mini-comics-club/), which supports the festival's micropress. 

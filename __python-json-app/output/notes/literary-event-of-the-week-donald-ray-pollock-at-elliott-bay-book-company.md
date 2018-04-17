@@ -1,8 +1,8 @@
 +++
 index = "-KMl0_ozWGeLLNXzZl-S"
-_sort_create_date = 1468627560
-_sort_last_updated = 1468627560
-_sort_publish_date = 1469034000
+sort_create_date = 1468627560
+sort_last_updated = 1468627560
+sort_publish_date = 1469034000
 create_date = "2016-07-15T17:06:00-07:00"
 publish_date = "2016-07-20T10:00:00-07:00"
 date = "2016-07-20T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468627361847/heav
 twitterauto = "Our Event of the Week is Donald Ray Pollock reading @elliottbaybooks on July 25th."
 facebookauto = "Donald Ray Pollock reads at Elliott Bay Book Company on July 25th. He says the secret to writing is just to keep your butt in the seat until you finally write something."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/donald-ray-pollock"]
+notes_about = ""
 books = ""
 +++
 You can pinpoint the origins of Donald Ray Pollock’s literary genius directly to a town in Ohio called Knockemstiff. Pollock was born and raised there, and he worked in a nearby paper mill for three decades. With a population just under 60,000, Knockemstiff is the kind of town that you don’t typically find in contemporary American literary fiction; half-rotten by meth, starved for hope, and entirely broke, it’s about as far away from the world presented in Jonathan Franzen’s novels as you can imagine.

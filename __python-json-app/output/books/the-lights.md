@@ -1,8 +1,8 @@
 +++
 index = "-Kj07Yf0I44GEjobzW6R"
-_sort_create_date = 1493593860
-_sort_last_updated = 1493593920
-_sort_publish_date = 1493593860
+sort_create_date = 1493593860
+sort_last_updated = 1493593920
+sort_publish_date = 1493593860
 create_date = "2017-04-30T16:11:00-07:00"
 publish_date = "2017-04-30T16:11:00-07:00"
 date = "2017-04-30T16:11:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oQNj1m3yDOlsadPnXgjRnzcf4fr-SaDwe7H7NHP8R0VOnu4_DB6xCYyuluuTZdF8kPWDkxUBcq2jgG668epObm7i23m-"
 url = "/webhook-uploads/1493593531131/51SVn6PIcuL._SX321_BO1%2C204%2C203%2C200_.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 42012
 
 review_relationship = ""
-author_relationship = ["authors/brian-mcgreevy"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-lights-a-novel"]
 notes_relationship = ""
 +++

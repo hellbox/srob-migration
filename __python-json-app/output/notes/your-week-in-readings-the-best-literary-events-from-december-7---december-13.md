@@ -1,8 +1,8 @@
 +++
 index = "-KXnKSZ_YLNQGYTLfNvO"
-_sort_create_date = 1480477440
-_sort_last_updated = 1480622580
-_sort_publish_date = 1481140860
+sort_create_date = 1480477440
+sort_last_updated = 1480622580
+sort_publish_date = 1481140860
 create_date = "2016-11-29T19:44:00-08:00"
 publish_date = "2016-12-07T12:01:00-08:00"
 date = "2016-12-07T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480477044692/told
 twitterauto = "Your week in reading includes histories of Pearl Harbor and @fantagraphics, plus @rabihalameddine! "
 facebookauto = "Your Week in Readings features our first book club discussion, books about Pearl Harbor and Fantagraphics Books, as well as a reading from Rabih Alameddine and much, much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/arundel-books", "tags/fantagraphics"]
-authors_notes = ["authors/maged-zaher"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday December 7th: Reading Through It: A Post-Election Book Club**</h5></p> 

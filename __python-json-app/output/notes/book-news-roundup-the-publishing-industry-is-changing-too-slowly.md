@@ -1,8 +1,8 @@
 +++
 index = "-KS4y5vg20Y4RNmHZ8nk"
-_sort_create_date = 1474347660
-_sort_last_updated = 1474347900
-_sort_publish_date = 1474398060
+sort_create_date = 1474347660
+sort_last_updated = 1474347900
+sort_publish_date = 1474398060
 create_date = "2016-09-19T22:01:00-07:00"
 publish_date = "2016-09-20T12:01:00-07:00"
 date = "2016-09-20T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Book News Roundup brings a couple of neat Seattle events and some bad news about the publishing industry."
 facebookauto = "We have news of a couple neat Seattle events and some bad news about the publishing industry in today's Book News Roundup."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/bureau-of-fearless-ideas"]
-authors_notes = ["authors/tod-marshall"]
+notes_about = ""
 books = ""
 +++
 * [Flavorwire reports on](http://flavorwire.com/589711/publishing-makes-little-progress-in-diversity-remains-extremely-white) a *Publishers Weekly* report on the publishing industry. The bottom line: "Publishing Makes 'Little Progress' in Diversity, Remains Extremely White." This is not good enough.

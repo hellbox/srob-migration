@@ -1,8 +1,8 @@
 +++
 index = "-KfrXqI8rk7YUGHxdBeZ"
-_sort_create_date = 1490211780
-_sort_last_updated = 1490211960
-_sort_publish_date = 1490302800
+sort_create_date = 1490211780
+sort_last_updated = 1490211960
+sort_publish_date = 1490302800
 create_date = "2017-03-22T12:43:00-07:00"
 publish_date = "2017-03-23T14:00:00-07:00"
 date = "2017-03-23T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1490211698569/
 twitterauto = "Portrait Gallery: Elif Batuman @bananakarenina #illustration painted by @studiochristine"
 facebookauto = "Portrait Gallery: Elif Batuman painted by Christine Marie Larsen. Reading Friday, March 24th at Elliott Bay Books."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/elif-batuman"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

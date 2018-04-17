@@ -1,8 +1,8 @@
 +++
 index = "-JzOwSEkYpsTmwjyjX5y"
-_sort_create_date = 1442470500
-_sort_last_updated = 1442471280
-_sort_publish_date = 1442509260
+sort_create_date = 1442470500
+sort_last_updated = 1442471280
+sort_publish_date = 1442509260
 create_date = "2015-09-16T23:15:00-07:00"
 publish_date = "2015-09-17T10:01:00-07:00"
 date = "2015-09-17T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Reading @Andrew_MacLean's \"Head Lopper\" is like falling in love with comics all over again. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/phoenix-comics-and-games", "tags/head-lopper"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1442470012748/Lopper01.jpg)</p><p class="intro">(*Every comics fan knows that Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country.* Thursday Comics Hangover *is a weekly column reviewing some of the books I pick up at [Phoenix Comics and Games](http://phoenixseattle.com/), my friendly neighborhood comic book store.*)</p>

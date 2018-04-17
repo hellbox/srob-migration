@@ -1,8 +1,8 @@
 +++
 index = "-JtegitL6nxijx1UaKpk"
-_sort_create_date = 1436309160
-_sort_last_updated = 1436389140
-_sort_publish_date = 1436374920
+sort_create_date = 1436309160
+sort_last_updated = 1436389140
+sort_publish_date = 1436374920
 create_date = "2015-07-07T15:46:00-07:00"
 publish_date = "2015-07-08T10:02:00-07:00"
 date = "2015-07-08T10:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/laura-hudson", "tags/nerd"]
-authors_notes = ["authors/ernest-cline"]
+notes_about = ""
 books = ["books/armada", "books/ready-player-one"]
 +++
 I reviewed Ernest Cline's sci-fi novel *Ready Player One* on its release. I didn't like it. The book's boundless nostalgia for 80s nerd culture unsettled me on a deep level; hating the book kind of felt like self-loathing. In retrospect, I admit that my review of the book wasn't very good — I couldn't convey what I disliked about *Ready Player One* because I was wrestling with the issue of my generation's nostalgia on a personal level. So I'm thrilled to see [Laura Hudson's excellent review of Cline's second novel, *Armada*](http://www.slate.com/articles/arts/books/2015/07/armada_by_ernest_cline_follow_up_to_ready_player_one_reviewed.single.html), because she exactly articulates my problem with Cline's writing in specific, and with my generation's propensity for nerd nostalgia in general. Feast your eyes:

@@ -1,8 +1,8 @@
 +++
 index = "-Ju7zP7A4BuhS00gZiTO"
-_sort_create_date = 1436817360
-_sort_last_updated = 1436817360
-_sort_publish_date = 1436817360
+sort_create_date = 1436817360
+sort_last_updated = 1436817360
+sort_publish_date = 1436817360
 create_date = "2015-07-13T12:56:00-07:00"
 publish_date = "2015-07-13T12:56:00-07:00"
 date = "2015-07-13T12:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/new-york-times-bestseller", "tags/ted-cruz", "tags/mark-driscoll"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Republican presidential candidate/human idea toilet Ted Cruz just published a new memoir to promote his presidential campaign. The *New York Times* refused to put the book on its bestseller list, saying its sales numbers were inflated due to "strategic bulk purchases." Now Amazon and the book's publisher, Harper Collins, are [both defending Cruz](http://www.politico.com/blogs/media/2015/07/amazon-no-evidence-of-bulk-sales-for-ted-cruz-book-210374.html), saying they see no sign of bulk purchases. 

@@ -1,8 +1,8 @@
 +++
 index = "-KPmxDGoC6HqxHL_-1i2"
-_sort_create_date = 1471881180
-_sort_last_updated = 1471888740
-_sort_publish_date = 1471892400
+sort_create_date = 1471881180
+sort_last_updated = 1471888740
+sort_publish_date = 1471892400
 create_date = "2016-08-22T08:53:00-07:00"
 publish_date = "2016-08-22T12:00:00-07:00"
 date = "2016-08-22T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1471881146631/9780
 twitterauto = "Lunch date takes @helytimes to @ilcorvopasta"
 facebookauto = "For a Lunch Date, Martin takes Steve Hely's latest to Il Corvo for some pasta ."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/lunch-date"]
-authors_notes = ["authors/steve-hely"]
+notes_about = ""
 books = ""
 +++
 *(Once in a while, we take a new book out to lunch and give it a half an hour or so to grab our attention. **Lunch Date** is our judgment on that speed-dating experience.)*

@@ -1,8 +1,8 @@
 +++
 index = "-KCJLeAYQR1DJadBpkfs"
-_sort_create_date = 1457409120
-_sort_last_updated = 1457466480
-_sort_publish_date = 1457459700
+sort_create_date = 1457409120
+sort_last_updated = 1457466480
+sort_publish_date = 1457459700
 create_date = "2016-03-07T19:52:00-08:00"
 publish_date = "2016-03-08T09:55:00-08:00"
 date = "2016-03-08T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457454564750/Scre
 twitterauto = "The Tuesday Poem today is from Sierra Golden, titled Triangulation"
 facebookauto = "The Tuesday Poem today is from Sierra Golden, titled Triangulation"
 make_image_tweet = "True"
-byline = ["writers/sierra-golden"]
+notes_byline = ["writers/sierra-golden"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 She squishes through fish, salmon stacked up to the door,<br>

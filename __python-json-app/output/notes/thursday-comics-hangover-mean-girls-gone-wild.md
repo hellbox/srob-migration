@@ -1,8 +1,8 @@
 +++
 index = "-KADfNwRB9OQKJWM6WwN"
-_sort_create_date = 1455166380
-_sort_last_updated = 1455166380
-_sort_publish_date = 1455213180
+sort_create_date = 1455166380
+sort_last_updated = 1455166380
+sort_publish_date = 1455213180
 create_date = "2016-02-10T20:53:00-08:00"
 publish_date = "2016-02-11T09:53:00-08:00"
 date = "2016-02-11T09:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455166054184/Mean
 twitterauto = "Mean Girls Club is a gorgeous punk rock comic book."
 facebookauto = "\"They torture innocent people. They take fistfuls of pills and slap each other with fishes and punch well-meaning nurses right in the jaw. And then the mayhem really starts.\""
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Some of the best comics-minded thinkers — Grant Morrison, Kieron Gillen, Kelly Sue DeConnick — love to talk about comic books in musical metaphors. It’s an apt comparison; sometimes going to the comic book store and picking up a few comics is reminiscent of visiting the record store and walking out with a bag full of singles. They’re tiny bursts of art in an eminently consumable, commercial format, and they have their own aura of cool about them.

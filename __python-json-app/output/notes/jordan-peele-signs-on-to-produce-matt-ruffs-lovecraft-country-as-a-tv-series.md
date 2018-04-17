@@ -1,8 +1,8 @@
 +++
 index = "-KkITh2gQhJy6SINwmmx"
-_sort_create_date = 1494975420
-_sort_last_updated = 1494976560
-_sort_publish_date = 1494975420
+sort_create_date = 1494975420
+sort_last_updated = 1494976560
+sort_publish_date = 1494975420
 create_date = "2017-05-16T15:57:00-07:00"
 publish_date = "2017-05-16T15:57:00-07:00"
 date = "2017-05-16T15:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle author @bymattruff's book Lovecraft Country is being adapted for HBO by Jordan Peele!"
 facebookauto = "Big news: Seattle novelist Matt Ruff's most recent novel Lovecraft Country is being adapted for HBO by none other than Get Out director Jordan Peele!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/adaptation"]
-authors_notes = ["authors/matt-ruff"]
+notes_about = ""
 books = ["books/lovecraft-country"]
 +++
 Seattle novelist Matt Ruff's excellent novel [*Lovecraft Country*](http://www.seattlereviewofbooks.com/notes/2016/02/18/talking-with-matt-ruff-about-science-fictions-racist-past/) started its life as a pitch for a television show. Now, [the *Hollywood Reporter* says the cycle is complete](http://www.hollywoodreporter.com/live-feed/hbo-orders-jordan-peelea-drama-lovecraft-country-bad-robot-1004446?utm_source=twitter), as *Lovecraft Country* (the novel) is heading to HBO. And *Get Out* director Jordan Peele is producing it, along with J.J. Abrams' Bad Robot production company:

@@ -1,8 +1,8 @@
 +++
 index = "-KYC-yah7Z_dVCi0VCjc"
-_sort_create_date = 1480908300
-_sort_last_updated = 1480908300
-_sort_publish_date = 1480908300
+sort_create_date = 1480908300
+sort_last_updated = 1480908300
+sort_publish_date = 1480908300
 create_date = "2016-12-04T19:25:00-08:00"
 publish_date = "2016-12-04T19:25:00-08:00"
 date = "2016-12-04T19:25:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kn7C72tfSubi3iCw0G9LcNldqwv_whcxHWHoWfNNrLPqg3A2YAXsZaJVHfwROzol3jIRdvoFvptyww2O_Y8R0uYl_7w"
 url = "/webhook-uploads/1480908213468/My%20Dear%20Wife%20Cover.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 190081
 
 review_relationship = ""
-author_relationship = ["authors/nick-k-adams"]
+books_author = ""
 sponsorships_book = ["sponsorships/my-dear-wife-and-children"]
 notes_relationship = ""
 +++

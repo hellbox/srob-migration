@@ -1,8 +1,8 @@
 +++
 index = "-K9NZsqGXt1H2Hn413tf"
-_sort_create_date = 1454258700
-_sort_last_updated = 1454262120
-_sort_publish_date = 1454259600
+sort_create_date = 1454258700
+sort_last_updated = 1454262120
+sort_publish_date = 1454259600
 create_date = "2016-01-31T08:45:00-08:00"
 publish_date = "2016-01-31T09:00:00-08:00"
 date = "2016-01-31T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Tech futures, a girl named Molly, British children\u2019s books, and Junot Diaz? A Sunday stroll of words. "
 facebookauto = "Techno-libertarian-utopianism, teenage aspiring politicians, Junot Diaz, and a challenge to American children's book authors. Just another Sunday Post, now arriving at platform 1/31th."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/junot-diaz", "authors/steven-johnson"]
+notes_about = ""
 books = ["books/the-brief-wondrous-life-of-oscar-wao"]
 +++
 <h5>[Maximum Wage: Is technological progress dependent on extreme inequality?](https://howwegettonext.com/maximum-wage-3e21048fc107#.l42rwltna)</h5>

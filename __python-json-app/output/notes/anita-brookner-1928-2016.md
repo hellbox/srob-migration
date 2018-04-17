@@ -1,8 +1,8 @@
 +++
 index = "-KCrPH7cvTjaNwkUwunI"
-_sort_create_date = 1457997240
-_sort_last_updated = 1457997240
-_sort_publish_date = 1457997240
+sort_create_date = 1457997240
+sort_last_updated = 1457997240
+sort_publish_date = 1457997240
 create_date = "2016-03-14T16:14:00-07:00"
 publish_date = "2016-03-14T16:14:00-07:00"
 date = "2016-03-14T16:14:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "British novelist Anita Brookner has died, the BBC reports."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/death"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The Booker-winning author of novels including *Hotel du Lac*, *Altered States*, and *The Rules of Engagement* [died at the age of 87](http://www.bbc.com/news/uk-35808651?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central). Brookner had the kind of career to which most novelists should aspire: long, productive, and meaningful. You could choose any one of her books at random and be assured that you're about to read a stylistically powerful, satisfying novel. That's the best kind of legacy.

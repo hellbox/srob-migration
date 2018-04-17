@@ -1,8 +1,8 @@
 +++
 index = "-KQ-2BCHVI8teMpwVYYK"
-_sort_create_date = 1472100840
-_sort_last_updated = 1472100840
-_sort_publish_date = 1472100840
+sort_create_date = 1472100840
+sort_last_updated = 1472100840
+sort_publish_date = 1472100840
 create_date = "2016-08-24T21:54:00-07:00"
 publish_date = "2016-08-24T21:54:00-07:00"
 date = "2016-08-24T21:54:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "art"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ocLzw1U3RGMn_6a0iVDsxPjX4LfiT59_fvBxG-V3q4x7NGZytzxB8VDfdstOFReJvk9UXzqZH9t7dCS1dAaDP81HgM03"
 url = "/webhook-uploads/1472100743749/suitevenitienne.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 9944
 
 review_relationship = ["reviews/private-eyes-are-watching-you"]
-author_relationship = ["authors/sophie-calle"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

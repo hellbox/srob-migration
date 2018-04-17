@@ -1,8 +1,8 @@
 +++
 index = "-KMWH_tr9teQFNq1I2b0"
-_sort_create_date = 1468363560
-_sort_last_updated = 1468363560
-_sort_publish_date = 1468439640
+sort_create_date = 1468363560
+sort_last_updated = 1468363560
+sort_publish_date = 1468439640
 create_date = "2016-07-12T15:46:00-07:00"
 publish_date = "2016-07-13T12:54:00-07:00"
 date = "2016-07-13T12:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Is there such a thing as too many Little Free Libraries? If so, is Seattle getting close to over-saturation?"
 facebookauto = "Is there such a thing as too many Little Free Libraries? If so, is Seattle getting close to over-saturation?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/little-free-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Jason Weisberger [writes about](http://boingboing.net/2016/07/12/vandals-wage-war-on-san-franci.html) a San Francisco Little Free Library that was targeted by some vandals. This is, of course, outrageous and I'm glad they keep putting the Library back up.

@@ -1,8 +1,8 @@
 +++
 index = "-K7Do4vtGJgVec9IbLmg"
-_sort_create_date = 1451947440
-_sort_last_updated = 1451947440
-_sort_publish_date = 1451947440
+sort_create_date = 1451947440
+sort_last_updated = 1451947440
+sort_publish_date = 1451947440
 create_date = "2016-01-04T14:44:00-08:00"
 publish_date = "2016-01-04T14:44:00-08:00"
 date = "2016-01-04T14:44:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "If you have ideas about the future of books, you should think about attending the @codexhackathon this weekend."
 facebookauto = "The CODEX Hackathon is happening in Cambridge next weekend, and it's a great way to help make the future of books and reading."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/future-of-books", "tags/e-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Heading east for the [American Library Association Midwinter meeting](http://2016.alamidwinter.org) in Boston? Are you interested in the future of books and reading? Check out the [CODEX hackathon](http://codexhackathon.com) over at the MIT Media Lab January 8-10. 

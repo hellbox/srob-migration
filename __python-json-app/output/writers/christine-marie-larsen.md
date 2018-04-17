@@ -1,8 +1,8 @@
 +++
 index = "-JzqgNYQbcUsPfCrr5J5"
-_sort_create_date = 1442952840
-_sort_last_updated = 1442952840
-_sort_publish_date = 1442952840
+sort_create_date = 1442952840
+sort_last_updated = 1442952840
+sort_publish_date = 1442952840
 create_date = "2015-09-22T13:14:00-07:00"
 publish_date = "2015-09-22T13:14:00-07:00"
 date = "2015-09-22T13:14:00-07:00"
@@ -11,15 +11,18 @@ preview_url = "ed64c5f4-1068-eaec-dbf6-5434f77e145e"
 byline = "Christine Marie Larsen"
 title = "Christine Marie Larsen"
 alphabetize_by = "larsen"
+is_draft = "false"
+is_seattle_pnw_writer = ""
+written_about = ""
+books_author = ""
+reviews_about = ""
+notes_about = ""
+sponsorships_author = ""
 email = "christine@christinelarsen.com"
 twitter = "studiochristine"
 website = "http://www.christinelarsen.com"
 bio = "Illustrator of images zingy, raucous, sweet, sly, serious, & occasionally snarky. Loves robots, accordions, music, birds, geeky stuff, old movies, science, technology, snacks, roller boogie & the mighty NW. "
-gender = "female"
-ethnicity = "caucasian"
-underrepresented = ""
-reviews_by = ""
+reviews_byline = ""
 notes_byline = ["notes/portrait-gallery-kate-beaton", "notes/portrait-gallery-charles-mudede", "notes/portrait-gallery-anastacia-renee-tolbert-", "notes/portrait-gallery-amitav-ghosh", "notes/portrait-gallery-eileen-myles", "notes/portrait-gallery-g-willow-wilson", "notes/portrait-gallery-harriet-angeline-powers", "notes/portrait-gallery-gloria-steinem", "notes/portrait-gallery-salim-ali", "notes/portrait-gallery-patti-smith", "notes/portrait-gallery-ellen-swallow-richards", "notes/portrait-gallery-nancy-pearl", "notes/portrait-gallery-sarah-galvin", "notes/portrait-gallery-ru-freeman", "notes/portrait-gallery-red-pine", "notes/portrait-gallery-raul-alvarez", "notes/portrait-gallery-nichelle-nichols", "notes/portrait-gallery-ivar-haglund", "notes/portrait-gallery-judy-blume", "notes/portrait-gallery-ej-koh", "notes/portrait-gallery-susan-orlean", "notes/tonight!-diversity-in-childrens-book-illustration-and-writing-free-for-librarians", "notes/portrait-gallery-mal-defleur", "notes/portrait-gallery-maged-zaher", "notes/portrait-gallery-lesley-hazleton", "notes/portrait-gallery-sonny-liew", "notes/portrait-gallery-nancy-rawles", "notes/portrait-gallery-heather-mchugh", "notes/portrait-gallery-nellie-bly", "notes/portrait-gallery-sherman-alexie", "notes/portrait-gallery-lindy-west", "notes/portrait-gallery-andi-zeisler", "notes/portrait-gallery---mattilda-bernstein-sycamore", "notes/the-portrait-gallery---jay-newton-small", "notes/portrait-gallery---terry-mcmillan", "notes/the-portrait-gallery---koon-woon", "notes/the-portrait-gallery---octavia-butler", "notes/portrait-gallery---ursula-k-le-guin", "notes/portrait-gallery---natasha-marin", "notes/portrait-gallery---carla-hayden", "notes/portrait-gallery---claudia-castro-luna", "notes/portrait-gallery---sherman-alexie", "notes/portrait-gallery---sarah-galvin", "notes/portrait-gallery-robert-lashley", "notes/portrait-gallery-peter-ho-davies", "notes/portrait-gallery-clark-humphrey", "notes/portrait-gallery-frederica-jansz", "notes/portrait-gallery-luvvie-ajayi", "notes/portrait-gallery-casandra-lopez", "notes/portrait-gallery-arthur-rimbaud", "notes/portrait-gallery-bruce-lee", "notes/portrait-gallery-alexander-chee", "notes/portrait-gallery-donna-miscolta", "notes/portrait-gallery-michelle-tea", "notes/portrait-gallery-charles-johnson", "notes/portrait-gallery-rabih-alameddine", "notes/portrait-gallery-luzviminda-uruzi-\u201clulu\u201d-carpenter", "notes/portrait-gallery-jessica-bennett", "notes/portrait-gallery-books", "notes/portrait-gallery-shirley-jackson", "notes/portrait-gallery-elissa-washuta", "notes/portrait-gallery-betty-macdonald", "notes/portrait-gallery-protest-signs", "notes/portrait-gallery-barbara-earl-thomas", "notes/portrait-gallery-chimamanda-ngozi-adichie", "notes/portrait-gallery-john-darnielle", "notes/portrait-gallery-quenton-baker", "notes/portrait-gallery-theodor-seuss-geisel", "notes/portrait-gallery-melissa-febos", "notes/portrait-gallery-mohsin-hamid", "notes/portrait-gallery-elif-batuman", "notes/portrait-gallery-faith-erin-hicks", "notes/portrait-gallery-kaitlyn-greenidge", "notes/portrait-gallery-rupert-reyes", "notes/portrait-gallery-elisa-chavez", "notes/portrait-gallery-angela-flournoy", "notes/portrait-gallery-claire-dederer", "notes/portrait-gallery-nisi-shawl", "notes/portrait-gallery-gary-copeland-lilley", "notes/portrait-gallery-dr-willie-parker", "notes/portrait-gallery-neal-stephenson", "notes/portrait-gallery-sharma-shields", "notes/portrait-gallery-octavia-butler", "notes/portrait-gallery-reading-with-rover", "notes/portrait-gallery-tommy-pico", "notes/portrait-gallery-daniel-jos\u00e9-older", "notes/portrait-gallery-anastacia-rene\u00e9", "notes/portrait-gallery-inara-verzemnieks", "notes/portrait-gallery-jim-ziskin", "notes/portrait-gallery-danzy-senna", "notes/portrait-gallery-anne-christine-d\u2019adesky", "notes/portrait-gallery-barrett-martin", "notes/portrait-gallery-nancy-pearl-(redux)", "notes/portrait-gallery-kelly-link", "notes/portrait-gallery-jamie-ford", "notes/portrait-gallery-washington-national-parks-fund", "notes/portrait-gallery-maria-alyokhina", "notes/portrait-gallery-caitlin-doughty", "notes/portrait-gallery-martha-brokenbrough", "notes/portrait-gallery-g-willow-wilson-(redux)", "notes/portrait-gallery-nikki-giovanni", "notes/portrait-gallery-emil-ferris", "notes/portrait-gallery-jeffrey-eugenides", "notes/portrait-gallery-sara-wachter-boettcher", "notes/portrait-gallery-gillian-gaar", "notes/portrait-gallery-nisi-shawl-", "notes/natalie-diaz", "notes/portrait-gallery-mita-mahato", "notes/portrait-gallery-happy-holidays", "notes/portrait-gallery-happy-birthday-nichelle!", "notes/portrait-gallery-david-sedaris", "notes/portrait-gallery-chloe-benjamin", "notes/portrait-gallery-carmen-maria-machado", "notes/portrait-gallery-farewell-ursula-k-le-guin", "notes/portrait-gallery-typewriter", "notes/portrait-gallery-langston-hughes", "notes/portrait-gallery-octavia-at-the-pond", "notes/portrait-gallery-ruth-ozeki", "notes/portrait-gallery-tyehimba-jess", "notes/portrait-gallery-internationalwomensday", "notes/portrait-gallery-annette-gordon-reed", "notes/portrait-gallery-spelling-bee", "notes/portrait-gallery-charles-johnson-", "notes/portrait-gallery-infinite-potential"]
-written_about = ""
-+++
+books_translator = ""+++
 

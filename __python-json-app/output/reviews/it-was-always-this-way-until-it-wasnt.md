@@ -1,8 +1,8 @@
 +++
 index = "-KnrovHzmz2ovx1dQay3"
-_sort_create_date = 1498806420
-_sort_last_updated = 1499281380
-_sort_publish_date = 1499195220
+sort_create_date = 1498806420
+sort_last_updated = 1499281380
+sort_publish_date = 1499195220
 create_date = "2017-06-30T00:07:00-07:00"
 publish_date = "2017-07-04T12:07:00-07:00"
 date = "2017-07-04T12:07:00-07:00"
@@ -13,10 +13,10 @@ title = "It was always this way, until it wasn't"
 dek = "This 4th of July, read a book that gets to the real heart of America's problem by examining eight years in the life of Speaker Paul Ryan's Wisconsin hometown."
 facebookauto = "Happy 4th of July! Here's a book about how the American Dream failed you."
 twitterauto = "Happy 4th of July! Here's a book about how the American Dream failed you."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/janesville"]
 tags_reviews = ""
-authors_reviews = ["authors/amy-goldstein"]
+reviews_about = ""
 +++
 
 I’m in southern California.

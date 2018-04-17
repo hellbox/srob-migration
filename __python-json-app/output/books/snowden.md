@@ -1,8 +1,8 @@
 +++
 index = "-K-Gpr_1HwIUUZWjcJhg"
-_sort_create_date = 1443408300
-_sort_last_updated = 1443408420
-_sort_publish_date = 1443408300
+sort_create_date = 1443408300
+sort_last_updated = 1443408420
+sort_publish_date = 1443408300
 create_date = "2015-09-27T19:45:00-07:00"
 publish_date = "2015-09-27T19:45:00-07:00"
 date = "2015-09-27T19:45:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-7ooyakJF_1JCigULoKfrh-fk5eHwEyOQ-MMaJ5qlfdsxLK69cRvOckqOJAj-9ZfyCQD4aTjUI9PEHwblkXV0vlQ5YDY"
 url = "/webhook-uploads/1443408344820/content%3Fid%3DJAnSrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 11115
 
 review_relationship = ["reviews/a-real-american-hero"]
-author_relationship = ["authors/ted-rall"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-bernie-sanders-comic-book-hero", "notes/help-ted-rall-fight-the-la-times"]
 +++

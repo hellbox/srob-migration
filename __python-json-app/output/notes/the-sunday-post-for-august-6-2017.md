@@ -1,8 +1,8 @@
 +++
 index = "-KqoVtzQ5i1TLb7-64Pl"
-_sort_create_date = 1501972080
-_sort_last_updated = 1501976460
-_sort_publish_date = 1502035200
+sort_create_date = 1501972080
+sort_last_updated = 1501976460
+sort_publish_date = 1502035200
 create_date = "2017-08-05T15:28:00-07:00"
 publish_date = "2017-08-06T09:00:00-07:00"
 date = "2017-08-06T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A woman's take on women's soccer, the Washington Post takes on rich people, & the mysteries of the ISBN revealed!"
 facebookauto = "In this week's Sunday Post, Georgia Cloepfil takes on women's soccer, the Washington Post takes on rich people, and the mysteries of the ISBN are revealed!"
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

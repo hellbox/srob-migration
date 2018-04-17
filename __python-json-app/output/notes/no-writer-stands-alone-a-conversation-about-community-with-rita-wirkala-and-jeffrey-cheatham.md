@@ -1,8 +1,8 @@
 +++
 index = "-L4wgOhdp-l1pXgbYpgL"
-_sort_create_date = 1518215460
-_sort_last_updated = 1518216180
-_sort_publish_date = 1518630300
+sort_create_date = 1518215460
+sort_last_updated = 1518216180
+sort_publish_date = 1518630300
 create_date = "2018-02-09T14:31:00-08:00"
 publish_date = "2018-02-14T09:45:00-08:00"
 date = "2018-02-14T09:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We talked with Seattle authors Rita Wirkala and Jeffrey Cheatham about creating community."
 facebookauto = "We talked with Seattle authors Rita Wirkala and Jeffrey Cheatham about creating community."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/rita-wirkala", "authors/jl-cheatham-ii"]
+notes_about = ""
 books = ""
 +++
 A little over a week ago, I moderated a panel on DIY culture for [Literary Career Day at the Seattle Public Library](http://www.spl.org/locations/central-library/cen-events-at-the-central-library?trumbaEmbed=view%3Devent%26eventid%3D126388054) downtown. The panel conversation was between myself, author Jeffrey Cheatham of [the Seattle Urban Book Expo](http://www.seattlereviewofbooks.com/notes/2017/08/23/literary-event-of-the-week-seattle-urban-book-expo-at-washington-hall/), and poet Rita Wirkala of [Seattle Escribe]( http://www.seattleescribe.org/), but many of the dozens of young aspiring authors in the room took part in the conversation, which covered a wide array of topics. 

@@ -1,8 +1,8 @@
 +++
 index = "-KhwUgsLDOaN1yAIHPRq"
-_sort_create_date = 1492442280
-_sort_last_updated = 1492442580
-_sort_publish_date = 1492459200
+sort_create_date = 1492442280
+sort_last_updated = 1492442580
+sort_publish_date = 1492459200
 create_date = "2017-04-17T08:18:00-07:00"
 publish_date = "2017-04-17T13:00:00-07:00"
 date = "2017-04-17T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492442358873/9780
 twitterauto = "Sponsor @ThirdPlaceBooks is hosting @LairdHunt on Tuesday the 25th."
 facebookauto = "Join sponsor Third Place Books for an appearance by author Laird Hunt, on Tuesday the 25th."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1492442327864/evening-road-small.jpeg)</p>

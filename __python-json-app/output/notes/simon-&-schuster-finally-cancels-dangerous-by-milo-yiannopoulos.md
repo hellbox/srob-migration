@@ -1,8 +1,8 @@
 +++
 index = "-KdTCa_CwLl9SbJP52BK"
-_sort_create_date = 1487639280
-_sort_last_updated = 1487639280
-_sort_publish_date = 1487639280
+sort_create_date = 1487639280
+sort_last_updated = 1487639280
+sort_publish_date = 1487639280
 create_date = "2017-02-20T17:08:00-08:00"
 publish_date = "2017-02-20T17:08:00-08:00"
 date = "2017-02-20T17:08:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Publishing Milo Yiannopoulos's book was never about free speech for @simonschuster."
 facebookauto = "Milo Yiannopoulos's book was never about free speech for Simon & Schuster. It was only about one thing"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/milo-yiannopoulos", "tags/simon-&amp;-schuster"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 So it turns out that Simon & Schuster's "free speech" defense of Yiannopoulos was total bullshit. When people complained about Yiannopoulos's racism and sexim, Simon & Schuster was high on the free speech horse. But now that video has emerged of Yiannopoulos exercising his free speech about pedophilia, Simon & Schuster runs away. 

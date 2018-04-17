@@ -1,8 +1,8 @@
 +++
 index = "-KL00E3cTlcH8IsNC-2F"
-_sort_create_date = 1466748420
-_sort_last_updated = 1466790720
-_sort_publish_date = 1466798820
+sort_create_date = 1466748420
+sort_last_updated = 1466790720
+sort_publish_date = 1466798820
 create_date = "2016-06-23T23:07:00-07:00"
 publish_date = "2016-06-24T13:07:00-07:00"
 date = "2016-06-24T13:07:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The viral article about working at Barnes & Noble isn't an accurate representation of bookselling."
 facebookauto = "The article about working at Barnes & Noble that went viral yesterday isn't an accurate representation of bookselling."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/barnes-&amp;-noble"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I worked in bookstores for a dozen years — at a chain store for four years and at an independent shop for eight — and I have to say [this *Publishers Weekly* essay by Wendy Werris that went viral yesterday]( http://publishersweekly.com/pw/by-topic/columns-and-blogs/soapbox/article/70541-my-very-rough-two-weeks-working-for-barnes-noble.html) about her two weeks working at Barnes & Noble brings back a lot of bad memories. My bad memories aren’t of working at bookstores, mind you. They’re of people like Wendy Werris.

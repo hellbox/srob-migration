@@ -1,8 +1,8 @@
 +++
 index = "-KzG2bhDGrr3Gj3Imjy_"
-_sort_create_date = 1511040900
-_sort_last_updated = 1511071920
-_sort_publish_date = 1511110800
+sort_create_date = 1511040900
+sort_last_updated = 1511071920
+sort_publish_date = 1511110800
 create_date = "2017-11-18T13:35:00-08:00"
 publish_date = "2017-11-19T09:00:00-08:00"
 date = "2017-11-19T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Why journalists are awesome, Lidia Yuknavitch on leaving Florida, and bumblers unmasked in this week's Sunday Post."
 facebookauto = "Why journalists are awesome, Lidia Yuknavitch on leaving Florida, and bumblers unmasked in this week's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that’s your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

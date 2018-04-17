@@ -1,8 +1,8 @@
 +++
 index = "-KMwIZYejJK9dIrdIghX"
-_sort_create_date = 1468816800
-_sort_last_updated = 1468816980
-_sort_publish_date = 1468947300
+sort_create_date = 1468816800
+sort_last_updated = 1468816980
+sort_publish_date = 1468947300
 create_date = "2016-07-17T21:40:00-07:00"
 publish_date = "2016-07-19T09:55:00-07:00"
 date = "2016-07-19T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is by Billie Swift: Roof Deck with Child"
 facebookauto = "Our Tuesday Poem is by Billie Swift: Roof Deck with Child"
 make_image_tweet = "False"
-byline = ["writers/billie-swift"]
+notes_byline = ["writers/billie-swift"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We’re on a roof taking in the view. You<br>

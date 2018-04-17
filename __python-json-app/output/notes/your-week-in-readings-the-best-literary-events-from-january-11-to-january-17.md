@@ -1,8 +1,8 @@
 +++
 index = "-K7Z0WU8Kb6djd9uDDBu"
-_sort_create_date = 1452303300
-_sort_last_updated = 1452543240
-_sort_publish_date = 1452533700
+sort_create_date = 1452303300
+sort_last_updated = 1452543240
+sort_publish_date = 1452533700
 create_date = "2016-01-08T17:35:00-08:00"
 publish_date = "2016-01-11T09:35:00-08:00"
 date = "2016-01-11T09:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452303099566/17fc
 twitterauto = "Your week in readings begins with @EAustenPoet reading @SPLBUZZ"
 facebookauto = "This weeks literary events include civic activism, Black Lives Matter, and a heavy dose of poetry. "
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/poet-laureate", "tags/margin-shift"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **MONDAY** Your week of civic activism, Black Lives Matter, and a heavy dose of poetry begins at the [Fremont branch of the Seattle Public Library](http://www.spl.org/locations/fremont-branch/fre-events-at-this-branch?trumbaEmbed=eventid%3D117489919%26view%3Devent%26-childview%3D) with Floating Bridge Press's quarterly reading series An Evening of Poetry. This is **Elizabeth Austen**’s last Seattle-area appearance in her capacity as Washington’s poet laureate. ([Read about our new poet laureate here](http://seattlereviewofbooks.com/notes/2016/01/07/spokane-poet-tod-marshall-is-washingtons-new-poet-laureate/).) Go and show her some love for all the hard work she’s put in as the public face of poetry. Other readers include **Angela Belcaster and Von Thompson**. 

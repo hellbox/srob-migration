@@ -1,8 +1,8 @@
 +++
 index = "-K2jstgkhFAaXLwQ9-PQ"
-_sort_create_date = 1447133640
-_sort_last_updated = 1447133700
-_sort_publish_date = 1447133640
+sort_create_date = 1447133640
+sort_last_updated = 1447133700
+sort_publish_date = 1447133640
 create_date = "2015-11-09T21:34:00-08:00"
 publish_date = "2015-11-09T21:34:00-08:00"
 date = "2015-11-09T21:34:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WZofMQ_lDy4T1jxZXoFeRKdYWhg188R-5ySZilQtI-n2l4DPxoFHFVHOxY9Jss1lfZ9_ajV4W3f4g3lBqZNOWziv0_IKoA"
 url = "/webhook-uploads/1447133573721/plus.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 925783
 
 review_relationship = ["reviews/drink-to-forget-ink-to-remember"]
-author_relationship = ["authors/tatiana-gill"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

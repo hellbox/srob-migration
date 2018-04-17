@@ -1,8 +1,8 @@
 +++
 index = "-KsgGjCtQNeRx2f7vzqX"
-_sort_create_date = 1503981360
-_sort_last_updated = 1504499220
-_sort_publish_date = 1504035900
+sort_create_date = 1503981360
+sort_last_updated = 1504499220
+sort_publish_date = 1504035900
 create_date = "2017-08-28T21:36:00-07:00"
 publish_date = "2017-08-29T12:45:00-07:00"
 date = "2017-08-29T12:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503981449727/1883
 twitterauto = "Writer @DonnaMiscolta found community (and a few missing faces) at the Seattle Urban Book Expo"
 facebookauto = "Donna Miscolta dropped by the Seattle Urban Book Expo and "
 make_image_tweet = "False"
-byline = ["writers/donna-miscolta"]
+notes_byline = ["writers/donna-miscolta"]
 tags_notes = ["tags/seattle-urban-book-expo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1503981517916/18836045_1909417625967097_8071879833317711667_n.jpg)</p>

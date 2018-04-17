@@ -1,8 +1,8 @@
 +++
 index = "-L23_M0WniX1lXf2oSkb"
-_sort_create_date = 1515126600
-_sort_last_updated = 1515126600
-_sort_publish_date = 1517255760
+sort_create_date = 1515126600
+sort_last_updated = 1515126600
+sort_publish_date = 1517255760
 create_date = "2018-01-04T20:30:00-08:00"
 publish_date = "2018-01-29T11:56:00-08:00"
 date = "2018-01-29T11:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515126158105/nast
 twitterauto = "This week in readings includes a class on dismantling racism and a reading of Nasty Women."
 facebookauto = "This week in readings includes a class on dismantling racism and a reading of Nasty Women."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, January 29: *It’s Even Worse Than You Think* Reading**</h5></p>

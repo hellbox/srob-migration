@@ -1,8 +1,8 @@
 +++
 index = "-KEoY9-YP2aciiLS6zdQ"
-_sort_create_date = 1460096760
-_sort_last_updated = 1460688420
-_sort_publish_date = 1461264180
+sort_create_date = 1460096760
+sort_last_updated = 1460688420
+sort_publish_date = 1461264180
 create_date = "2016-04-07T23:26:00-07:00"
 publish_date = "2016-04-21T11:43:00-07:00"
 date = "2016-04-21T11:43:00-07:00"
@@ -13,10 +13,10 @@ title = "Open faced"
 dek = "The Face is a new series of books in which authors write about their own faces. Does that premise make you feel a little uncomfortable? Good; that's the point."
 facebookauto = "A new series of book-length essays invites authors to write at length about their own faces. Is this a narcissistic idea, a good idea, or a weird idea? Or all three?"
 twitterauto = "A new series of book-length essays from @RestlessBooks invites authors to write about their own faces."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-face", "books/the-face", "books/the-face"]
 tags_reviews = ["tags/non-fiction"]
-authors_reviews = ["authors/ruth-ozeki", "authors/chris-abani", "authors/tash-aw"]
+reviews_about = ""
 +++
 
 *The Face* is a new series of book-length essays centered around an interesting theme: in each volume, an author writes about their own face. It’s an idea that at once seems expansive as the horizon and as claustrophobic as a broom closet. When meeting strangers, we look to their face for hints of inner character, but we also chastise people for being too narcissistic if they seem overly obsessed with their own appearance. And as Scott McCloud noted in *Understanding Comics*, we pay close attention to everyone else’s faces while in conversation, while at the same time we maintain a vague, cartoonish understanding of what our own faces look like. All of which is a long way of saying we have weird relationships with our faces.

@@ -1,8 +1,8 @@
 +++
 index = "-KwfYVBs4AE-fEqNuC78"
-_sort_create_date = 1508264220
-_sort_last_updated = 1508264220
-_sort_publish_date = 1508264220
+sort_create_date = 1508264220
+sort_last_updated = 1508264220
+sort_publish_date = 1508264220
 create_date = "2017-10-17T11:17:00-07:00"
 publish_date = "2017-10-17T11:17:00-07:00"
 date = "2017-10-17T11:17:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jP-3a1bseIQYd_JMxAgFPGdybq_mq6M6D_zNBLDalKEDObpLpGoBfI2EEwr7ngjlg9uIakGeMJWC7rf-gljUmR0U3le3"
 url = "/webhook-uploads/1508264040121/Myth%20of%20Man_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 20431
 
 review_relationship = ""
-author_relationship = ["authors/alex-vigue"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/come-out-november-3rd-to-hear-aaron-shurin-with-special-guest-alex-vigue"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-L1ZRK8NVj6xb7Qh6TVa"
-_sort_create_date = 1514587320
-_sort_last_updated = 1514588460
-_sort_publish_date = 1514840400
+sort_create_date = 1514587320
+sort_last_updated = 1514588460
+sort_publish_date = 1514840400
 create_date = "2017-12-29T14:42:00-08:00"
 publish_date = "2018-01-01T13:00:00-08:00"
 date = "2018-01-01T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1514587739910/
 twitterauto = "Sponsor Northwest Associated Arts is back to make sure you don't miss Anne Lamott in April at Benaroya Hall!"
 facebookauto = "Sponsor Northwest Associated Arts is back to make sure you don't miss Anne Lamott in April at Benaroya Hall."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/anne-lamott"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1514587295822/Anne%20Lamott_150.jpeg)</p>

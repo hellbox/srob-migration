@@ -1,8 +1,8 @@
 +++
 index = "-KIfkNaZPwMyVsD1yV6W"
-_sort_create_date = 1464244200
-_sort_last_updated = 1464244200
-_sort_publish_date = 1464289140
+sort_create_date = 1464244200
+sort_last_updated = 1464244200
+sort_publish_date = 1464289140
 create_date = "2016-05-25T23:30:00-07:00"
 publish_date = "2016-05-26T11:59:00-07:00"
 date = "2016-05-26T11:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463601235462/01cf
 twitterauto = "Last night @THSEA, @thelindywest talked about writing her book in \"a bat-haunted cabin in Maine.\""
 facebookauto = "Lindy West wrote her book, Shrill, in \"a bat-haunted cabin in Maine.\" She also said she's finally come to realize that a lot of her process is \"me in my underwear at five AM eating Swedish fish and crying.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/town-hall-seattle"]
-authors_notes = ["authors/lindy-west"]
+notes_about = ""
 books = ["books/shrill"]
 +++
 <p class="image-left">![](/webhook-uploads/1463601235462/01cf47266a74d15fcb8855d55e7aa836.jpg)</p>

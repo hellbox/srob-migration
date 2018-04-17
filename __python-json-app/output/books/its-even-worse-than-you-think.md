@@ -1,8 +1,8 @@
 +++
 index = "-L3QD26HHV3t8APOvFRG"
-_sort_create_date = 1516580100
-_sort_last_updated = 1516583520
-_sort_publish_date = 1516580100
+sort_create_date = 1516580100
+sort_last_updated = 1516583520
+sort_publish_date = 1516580100
 create_date = "2018-01-21T16:15:00-08:00"
 publish_date = "2018-01-21T16:15:00-08:00"
 date = "2018-01-21T16:15:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Political Science"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qg6iBSTD2RoWdXJvBD0bm-4SheOYWfXvohYFxWOWs3CIipHcHC60TMGDov8oYhDfmdnYSH2uCZLMr2fmLsoczCumVpQ"
 url = "/webhook-uploads/1516583541208/worse.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 8663
 
 review_relationship = ["reviews/how-bad-is-it"]
-author_relationship = ["authors/david-cay-johnston"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

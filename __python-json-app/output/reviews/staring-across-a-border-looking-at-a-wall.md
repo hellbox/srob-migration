@@ -1,8 +1,8 @@
 +++
 index = "-KCOkL3qiGm5LOLClZfE"
-_sort_create_date = 1457499720
-_sort_last_updated = 1457637180
-_sort_publish_date = 1457640000
+sort_create_date = 1457499720
+sort_last_updated = 1457637180
+sort_publish_date = 1457640000
 create_date = "2016-03-08T21:02:00-08:00"
 publish_date = "2016-03-10T12:00:00-08:00"
 date = "2016-03-10T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Staring across a border, looking at a wall"
 dek = "With politicians mouthing off about the border, what if we listened to stories from people who live there?"
 facebookauto = "Ito Romo writes about life on the border in Texas. Donna Miscolta looks in his works and sees humanity."
 twitterauto = "Instead of building a wall today, see what @DonnaMiscolta has to say about @omoroti's \"The Border is Burning\""
-byline = ["writers/donna-miscolta"]
+reviews_byline = ["writers/donna-miscolta"]
 books_in_this_review = ["books/the-border-is-burning"]
 tags_reviews = ["tags/donald-trump", "tags/mexico"]
-authors_reviews = ["authors/ito-romo"]
+reviews_about = ""
 +++
 
 Donald Trump wants to build a wall and make Mexico pay for it. It will be a beauty. He builds nice fences. Fences are easy. Will Donald’s beautiful wall replace the billions of dollars of fencing that has already been erected along parts of the 1,933-mile border interspersed with a "virtual" fence of cameras and sensors?  Or will it merely fill in the gaps, some of which experts have already determined to be hazardous to workers, environmentally devastating, or prohibitively expensive? 

@@ -1,8 +1,8 @@
 +++
 index = "-KDVXT5rfHcxDE_w9ADr"
-_sort_create_date = 1458687300
-_sort_last_updated = 1458687300
-_sort_publish_date = 1458758700
+sort_create_date = 1458687300
+sort_last_updated = 1458687300
+sort_publish_date = 1458758700
 create_date = "2016-03-22T15:55:00-07:00"
 publish_date = "2016-03-23T11:45:00-07:00"
 date = "2016-03-23T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Not a drone.\" Wonderful! Thanks for clarifying, @ThirdPlaceBooks!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/third-place-books-ravenna", "tags/third-place-books-lake-forest-park", "tags/amazon", "tags/drones"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Third Place Books' fancy new van includes some nice shade thrown at Amazon on the back door:

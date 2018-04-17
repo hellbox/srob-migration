@@ -1,8 +1,8 @@
 +++
 index = "-Kwd-tFeKkfZY22dF6NB"
-_sort_create_date = 1508221620
-_sort_last_updated = 1508259300
-_sort_publish_date = 1508270580
+sort_create_date = 1508221620
+sort_last_updated = 1508259300
+sort_publish_date = 1508270580
 create_date = "2017-10-16T23:27:00-07:00"
 publish_date = "2017-10-17T13:03:00-07:00"
 date = "2017-10-17T13:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508221496602/logi
 twitterauto = "So @ArmisteadMaupin can still tell a dirty joke with the best of them."
 facebookauto = "So Armistead Maupin can still tell a dirty joke with the best of them."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/benaroya-hall"]
-authors_notes = ["authors/armistead-maupin"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1508221496602/logicalfamily.jpg)</p>

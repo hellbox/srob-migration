@@ -1,8 +1,8 @@
 +++
 index = "-L4J6DIFsR4iZO2BmnBr"
-_sort_create_date = 1517534580
-_sort_last_updated = 1519409220
-_sort_publish_date = 1519675140
+sort_create_date = 1517534580
+sort_last_updated = 1519409220
+sort_publish_date = 1519675140
 create_date = "2018-02-01T17:23:00-08:00"
 publish_date = "2018-02-26T11:59:00-08:00"
 date = "2018-02-26T11:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517534604364/bad%
 twitterauto = "Your week in readings starts in pajamas and ends with tax assistance."
 facebookauto = "Your week in readings starts in pajamas and ends with tax assistance."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, February 26:  Family Story Time**</h5></p>

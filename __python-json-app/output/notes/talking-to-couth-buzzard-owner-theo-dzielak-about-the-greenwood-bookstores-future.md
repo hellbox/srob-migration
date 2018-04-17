@@ -1,8 +1,8 @@
 +++
 index = "-L6yiKbfZDB_0gKi6_oF"
-_sort_create_date = 1520397000
-_sort_last_updated = 1520397000
-_sort_publish_date = 1520445240
+sort_create_date = 1520397000
+sort_last_updated = 1520397000
+sort_publish_date = 1520445240
 create_date = "2018-03-06T20:30:00-08:00"
 publish_date = "2018-03-07T09:54:00-08:00"
 date = "2018-03-07T09:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520396415095/buzz
 twitterauto = "We talked with Couth Buzzard owner Theo Dzielak about his bookstore's future."
 facebookauto = "We talked with Couth Buzzard owner Theo Dzielak about his bookstore's future."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/couth-buzzard"]
-authors_notes = ["authors/ursula-k-le-guin"]
+notes_about = ""
 books = ""
 +++
 Last week, Greenwood bookstore Couth Buzzard [launched a GoFundMe campaign](https://www.gofundme.com/FriendsOfCouthBuzzardBooks) to raise $9,500 in order to keep the store going. Owner Theo Dzielak announced that the store needed the money to address "sharp increases in rent, license fees and taxes, supporting our employees with fair wages, the effects of new health and environmental regulations, the ongoing need to repair and replace aging equipment, and many other costs." 

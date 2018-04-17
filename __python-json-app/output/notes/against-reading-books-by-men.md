@@ -1,8 +1,8 @@
 +++
 index = "-KBEivPWxDozg5oVPZK5"
-_sort_create_date = 1456257840
-_sort_last_updated = 1456260240
-_sort_publish_date = 1456263780
+sort_create_date = 1456257840
+sort_last_updated = 1456260240
+sort_publish_date = 1456263780
 create_date = "2016-02-23T12:04:00-08:00"
 publish_date = "2016-02-23T13:43:00-08:00"
 date = "2016-02-23T13:43:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "One reviewer has vowed to stop reading and reviewing books written by men. That's important."
 facebookauto = "One reviewer has vowed to stop reading and reviewing books written by men. That's important."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/feminism", "tags/representation", "tags/vida"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Eva Jurczyk writes at [The Awl](http://www.theawl.com/2016/02/no-more-books-by-men):

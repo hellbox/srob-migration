@@ -1,8 +1,8 @@
 +++
 index = "-KQxRkxXy-XbKqkK2vmF"
-_sort_create_date = 1473130980
-_sort_last_updated = 1473131040
-_sort_publish_date = 1473188460
+sort_create_date = 1473130980
+sort_last_updated = 1473131040
+sort_publish_date = 1473188460
 create_date = "2016-09-05T20:03:00-07:00"
 publish_date = "2016-09-06T12:01:00-07:00"
 date = "2016-09-06T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Far from the tree"
 dek = "Everybody likes to get lost in a good travel essay every now and again. But when a straight white male is writing the essay, women and minorities can sometimes feel left out."
 facebookauto = "In travel essays, some straight white male authors are oblivious to their own privilege. For readers who are not straight white guys, that can sometimes make travel writing feel alienating, rather than invigorating."
 twitterauto = "In travel essays, some straight white male authors are oblivious to their own privilege."
-byline = ["writers/rebecca-garcia-moreno"]
+reviews_byline = ["writers/rebecca-garcia-moreno"]
 books_in_this_review = ["books/the-turk-who-loved-apples"]
 tags_reviews = ["tags/travel-essays"]
-authors_reviews = ["authors/matt-gross"]
+reviews_about = ""
 +++
 
 Getting paid to travel, eat, and write seems like nothing short of the perfect job. Matt Gross, a foodie and born adventurer, held this job for years, immersing himself repeatedly in cultures all over the globe. Having written the Frugal Traveler column in the *New York Times*  for several years, he has perfected the art of conveying a sense of place. The premise of his column was simple: travel somewhere, stick to a budget, and give readers tips on how to best experience the destination while living frugally. Considering the chaos of the ensuing round-the-world travels and cross-country road trips, Gross organized his new travel memoir — *The Turk Who Loved Apples* — rather spectacularly. With his post-grad year in Vietnam as the trunk, the rest of his tales branch out into a fascinating canopy of unique experiences and travel wisdom.

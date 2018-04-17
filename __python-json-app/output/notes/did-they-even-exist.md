@@ -1,8 +1,8 @@
 +++
 index = "-KX3x_r_RNf2M-eaKJmD"
-_sort_create_date = 1479699480
-_sort_last_updated = 1479699840
-_sort_publish_date = 1479837300
+sort_create_date = 1479699480
+sort_last_updated = 1479699840
+sort_publish_date = 1479837300
 create_date = "2016-11-20T19:38:00-08:00"
 publish_date = "2016-11-22T09:55:00-08:00"
 date = "2016-11-22T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, by Carlynn Newhouse, packs a serious punch. "
 facebookauto = "Our Tuesday Poem, by Carlynn Newhouse, packs a serious punch. "
 make_image_tweet = "False"
-byline = ["writers/carlynn-newhouse"]
+notes_byline = ["writers/carlynn-newhouse"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If a tree falls in the woods<br>

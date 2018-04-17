@@ -1,8 +1,8 @@
 +++
 index = "-KuVRjWXEisQ3v_i_OhQ"
-_sort_create_date = 1505931120
-_sort_last_updated = 1505931120
-_sort_publish_date = 1505931120
+sort_create_date = 1505931120
+sort_last_updated = 1505931120
+sort_publish_date = 1505931120
 create_date = "2017-09-20T11:12:00-07:00"
 publish_date = "2017-09-20T11:12:00-07:00"
 date = "2017-09-20T11:12:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/V-nokIwJ9_y__bMKWQ-eQOycUAgtrlZkdYGJWWBjyB_-bHR_9_NXvjMVfnYWIFh4lX825oyz4A3nAocrTUb5lAaFFEcmHg"
 url = "/webhook-uploads/1505930754151/Lolas%20House_125.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 10617
 
 review_relationship = ["reviews/the-language-of-justice"]
-author_relationship = ["authors/m-evelina-galang"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

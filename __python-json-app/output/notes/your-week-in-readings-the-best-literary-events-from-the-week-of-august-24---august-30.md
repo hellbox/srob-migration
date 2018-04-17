@@ -1,8 +1,8 @@
 +++
 index = "-JxHUbk3BE_SMipz4Apl"
-_sort_create_date = 1440198060
-_sort_last_updated = 1440436140
-_sort_publish_date = 1440435600
+sort_create_date = 1440198060
+sort_last_updated = 1440436140
+sort_publish_date = 1440435600
 create_date = "2015-08-21T16:01:00-07:00"
 publish_date = "2015-08-24T10:00:00-07:00"
 date = "2015-08-24T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/third-place-books-lake-forest-park", "tags/seattle-public-library", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/phinney-books", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **MONDAY** [Elliott Bay Book Company and the Hedgebrook writing colony](http://www.elliottbaybook.com/event/parnaz-foroutan) join forces to bring novelist Parnaz Foroutan to Seattle to read from her novel *The Girl from the Garden*, an Iranian family drama. Gloria Steinem gives this one a rousing blurb: “A  powerful and moving novel about the devastating choices women face when their worth is tied to their wombs but not themselves. Parnaz Foroutan takes the timeless themes of love, honor, sacrifice, and betrayal, and makes them new.”

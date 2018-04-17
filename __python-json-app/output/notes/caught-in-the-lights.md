@@ -1,8 +1,8 @@
 +++
 index = "-Kj3Mc4OIUxQKH8F4XRF"
-_sort_create_date = 1493648160
-_sort_last_updated = 1493648460
-_sort_publish_date = 1493668800
+sort_create_date = 1493648160
+sort_last_updated = 1493648460
+sort_publish_date = 1493668800
 create_date = "2017-05-01T07:16:00-07:00"
 publish_date = "2017-05-01T13:00:00-07:00"
 date = "2017-05-01T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493648039501/51SV
 twitterauto = "Get ready for sponsor @literaltiger's new novel, The Lights"
 facebookauto = "Get ready for sponsor Brian McGreevy's new novel, The Lights"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1493648091962/51SVn6PIcuL.small.jpg)</p>

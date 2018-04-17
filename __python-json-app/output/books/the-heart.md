@@ -1,8 +1,8 @@
 +++
 index = "-KBeAKZwsZmJQLBwXsXM"
-_sort_create_date = 1456701480
-_sort_last_updated = 1456701540
-_sort_publish_date = 1456701480
+sort_create_date = 1456701480
+sort_last_updated = 1456701540
+sort_publish_date = 1456701480
 create_date = "2016-02-28T15:18:00-08:00"
 publish_date = "2016-02-28T15:18:00-08:00"
 date = "2016-02-28T15:18:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jwWuTOuqPIZF2FB6aNCtuIY-JG2DMulT1IFj0J2bycrWDRJKvCdoD-IT6ijycghNlvvAuU40bwkQNilfjIMrv-ZWM_ZrWA"
 url = "/webhook-uploads/1456701526686/content%3Fid%3DT_k6CwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 14120
 
 review_relationship = ""
-author_relationship = ""
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-taking-the-heart-to-renton"]
 +++

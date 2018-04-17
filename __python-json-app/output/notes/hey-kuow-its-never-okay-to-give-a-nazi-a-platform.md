@@ -1,8 +1,8 @@
 +++
 index = "-Kubnu2OM2XV44Qj_i26"
-_sort_create_date = 1506053940
-_sort_last_updated = 1506054960
-_sort_publish_date = 1506054960
+sort_create_date = 1506053940
+sort_last_updated = 1506054960
+sort_publish_date = 1506054960
 create_date = "2017-09-21T21:19:00-07:00"
 publish_date = "2017-09-21T21:36:00-07:00"
 date = "2017-09-21T21:36:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506053229586/kuow
 twitterauto = "Yesterday, @KUOW gave a platform to a Nazi. It's up to all of us to let them know that's not ok."
 facebookauto = "Yesterday, KUOW gave a platform to a Nazi. It's up to all of us to let them know that's not ok."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/kuow"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On Wednesday's edition of the daily news show *The Record*, KUOW reporter Bill Radke interviewed the man who was [punched out for wearing a Nazi armband in downtown Seattle over the weekend](https://www.buzzfeed.com/ryanhatesthis/antifascists-used-twitter-to-find-a-neo-nazi-walking-around?utm_term=.fbWDJR3JJ#.is5Ry5Byy). (For reasons that will hopefully be clear in a moment, I refuse to link to the interview. And for purposes of clarity, I am going to refer to the man who was interviewed as "the Nazi," not "the man wearing the Nazi armband." You cannot ironically dip your toe into Nazism. There are no half-Nazis in the world. If you wear a Nazi armband in a public place, you are a Nazi.) 

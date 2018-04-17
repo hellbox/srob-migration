@@ -1,8 +1,8 @@
 +++
 index = "-KsGQtjz8Z9omyBvZIxt"
-_sort_create_date = 1503531060
-_sort_last_updated = 1503532560
-_sort_publish_date = 1503593400
+sort_create_date = 1503531060
+sort_last_updated = 1503532560
+sort_publish_date = 1503593400
 create_date = "2017-08-23T16:31:00-07:00"
 publish_date = "2017-08-24T09:50:00-07:00"
 date = "2017-08-24T09:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503530817348/oldm
 twitterauto = "Why would Netflix pay tens of millions to a comics writer who's never had an original idea in his life?"
 facebookauto = "Why would Netflix pay tens of millions of dollars to a comics writer who's never had an original idea in his life?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <iframe style="border: solid 1px #dedede;"  src="http://app.stitcher.com/splayer/f/17823/51201498" width="220" height="150" frameborder="0" scrolling="no"></iframe>

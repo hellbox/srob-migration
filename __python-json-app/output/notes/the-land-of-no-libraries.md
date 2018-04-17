@@ -1,8 +1,8 @@
 +++
 index = "-Kk9EhKLNEBxoKpeorbw"
-_sort_create_date = 1494820500
-_sort_last_updated = 1494820500
-_sort_publish_date = 1494874440
+sort_create_date = 1494820500
+sort_last_updated = 1494820500
+sort_publish_date = 1494874440
 create_date = "2017-05-14T20:55:00-07:00"
 publish_date = "2017-05-15T11:54:00-07:00"
 date = "2017-05-15T11:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Libraries are closing in America. Voters are saying no to supporting the arts. What's going on?"
 facebookauto = "Libraries are closing in America. Voters are saying no to supporting the arts. What's going on?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/libraries"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 You simply must read [this *New York Times* story](https://www.nytimes.com/2017/05/13/us/anti-tax-fervor-roseburg-oregon-.html) about a community in Oregon that voted to kill its libraries.

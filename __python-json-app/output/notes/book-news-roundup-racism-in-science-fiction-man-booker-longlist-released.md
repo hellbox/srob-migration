@@ -1,8 +1,8 @@
 +++
 index = "-KNkDC9Tm2NHrsBs9AD1"
-_sort_create_date = 1469687820
-_sort_last_updated = 1469732580
-_sort_publish_date = 1469732100
+sort_create_date = 1469687820
+sort_last_updated = 1469732580
+sort_publish_date = 1469732100
 create_date = "2016-07-27T23:37:00-07:00"
 publish_date = "2016-07-28T11:55:00-07:00"
 date = "2016-07-28T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This study of racism in science fiction is an absolute must-read."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/man-booker-prize", "tags/race"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * On [their Facebook page](https://www.facebook.com/permalink.php?story_fbid=1103515506384260&id=248832461852573), the Seattle Antiquarian Book Fair reports:

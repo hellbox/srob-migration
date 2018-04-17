@@ -1,8 +1,8 @@
 +++
 index = "-KZUojPKYA4tOhSya8DC"
-_sort_create_date = 1482297600
-_sort_last_updated = 1482298200
-_sort_publish_date = 1482429720
+sort_create_date = 1482297600
+sort_last_updated = 1482298200
+sort_publish_date = 1482429720
 create_date = "2016-12-20T21:20:00-08:00"
 publish_date = "2016-12-22T10:02:00-08:00"
 date = "2016-12-22T10:02:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482297338096/100n
 twitterauto = "This week's comics column is about a book that demonstrates how women use stories to save their lives."
 facebookauto = "This week's comics column is about a book that demonstrates how women use stories to save their lives."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last week, [I was thoroughly disappointed]( http://www.seattlereviewofbooks.com/notes/2016/12/15/thursday-comics-hangover-a-library-full-of-empty-books/) by a comic book that was supposedly about the enduring power of stories. This week, I’m entirely enchanted by a comic that demonstrates the empowering endurance of stories. Isabel Greenberg’s hardcover comic *The One Hundred Nights of Hero* is a story about stories wrapped in other stories, including a Scheherazade scenario in which a woman must tell a story so compelling that it distracts a lecherous man from advancing on her, night after night. 

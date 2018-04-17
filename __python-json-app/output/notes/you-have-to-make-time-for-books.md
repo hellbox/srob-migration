@@ -1,8 +1,8 @@
 +++
 index = "-JzSHQ9kdXaUiFeDrRId"
-_sort_create_date = 1442526600
-_sort_last_updated = 1442526600
-_sort_publish_date = 1442526600
+sort_create_date = 1442526600
+sort_last_updated = 1442526600
+sort_publish_date = 1442526600
 create_date = "2015-09-17T14:50:00-07:00"
 publish_date = "2015-09-17T14:50:00-07:00"
 date = "2015-09-17T14:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Want to read more? There's only one way to do it: make time in life for the things that you really value."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 People ask me all the time how I read so much. They usually don't like my answer: I don't watch as much TV as the typical person, and I don't play video games. There's no easy quick-fix, besides the fact that **you have to make time in life for the things that you really value**.

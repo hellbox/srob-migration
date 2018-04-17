@@ -1,8 +1,8 @@
 +++
 index = "-KQZTTSVvg1OKm2_LxOC"
-_sort_create_date = 1472712000
-_sort_last_updated = 1473268920
-_sort_publish_date = 1473276900
+sort_create_date = 1472712000
+sort_last_updated = 1473268920
+sort_publish_date = 1473276900
 create_date = "2016-08-31T23:40:00-07:00"
 publish_date = "2016-09-07T12:35:00-07:00"
 date = "2016-09-07T12:35:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings includes #ShoutYourAbortion, an esoteric book conference, and much more."
 facebookauto = "Your fall is kicking off in style, with a call to smash the patriarchy, a celebration of esoteric books, a talk about Chinatown, a discussion of Seattle's geological facelift, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/elliott-bay-book-company", "tags/university-book-store"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1472711882250/seeingthelight.jpg)</p><p class="noindent"><h5>**Wednesday September 7th: *Seeing the Light: Four Decades in Chinatown* **</h5></p> 

@@ -1,8 +1,8 @@
 +++
 index = "-K90Td7nFlYwnWFEK8lB"
-_sort_create_date = 1453871220
-_sort_last_updated = 1453871220
-_sort_publish_date = 1453924620
+sort_create_date = 1453871220
+sort_last_updated = 1453871220
+sort_publish_date = 1453924620
 create_date = "2016-01-26T21:07:00-08:00"
 publish_date = "2016-01-27T11:57:00-08:00"
 date = "2016-01-27T11:57:00-08:00"
@@ -13,10 +13,10 @@ title = "Body of work"
 dek = "Is pregnancy inherently heteronormative? Can writers like Maggie Nelson and Jen Graves help us push through some of our assumptions about gender and motherhood and art?"
 facebookauto = "Is pregnancy inherently heteronormative? Can writers like Maggie Nelson and Jen Graves help us push through some of our assumptions about gender and motherhood and art?"
 twitterauto = "What can the work of Maggie Nelson and @JenGraves teach us about gender and motherhood and art?"
-byline = ["writers/cate-mcgehee"]
+reviews_byline = ["writers/cate-mcgehee"]
 books_in_this_review = ["books/the-argonauts"]
 tags_reviews = ["tags/feminism", "tags/transgender", "tags/gender-roles"]
-authors_reviews = ["authors/maggie-nelson", "authors/jen-graves"]
+reviews_about = ""
 +++
 
 In *The Argonauts*, Maggie Nelson seeks to clear things up by muddling them, by sweeping a careful hand through our delicate Manichean constructs of what’s gay, trans, queer, female, and more. In a mixture of memoir and critical meditation, Nelson recounts her relationship with her partner Harry Dodge, her efforts to become pregnant, and the birth of her son, Iggy, using the quotidian tools of family-building to pick apart our words and notions.

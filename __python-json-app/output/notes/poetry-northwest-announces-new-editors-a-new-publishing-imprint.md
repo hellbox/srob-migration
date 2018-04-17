@@ -1,8 +1,8 @@
 +++
 index = "-KD7OsegiAh8f7PJFWAt"
-_sort_create_date = 1458282360
-_sort_last_updated = 1458577320
-_sort_publish_date = 1458322200
+sort_create_date = 1458282360
+sort_last_updated = 1458577320
+sort_publish_date = 1458322200
 create_date = "2016-03-17T23:26:00-07:00"
 publish_date = "2016-03-18T10:30:00-07:00"
 date = "2016-03-18T10:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458282008941/ponw
 twitterauto = "Exciting news from @poetrynw today: new editors and a new publishing arm!"
 facebookauto = "Exciting news at Poetry Northwest magazine: Kevin Craft is stepping down, three new editors are stepping up, and Craft is launching a new book publishing division!"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry-northwest"]
-authors_notes = ["authors/sierra-nelson", "authors/kelly-froh"]
+notes_about = ""
 books = ""
 +++
 We just received some exciting news from *Poetry Northwest*, the longest-running poetry magazine in the Pacific Northwest. There are three huge announcements, so let's tease them out in order.

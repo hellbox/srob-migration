@@ -1,8 +1,8 @@
 +++
 index = "-KZdRexVHTq8x5U6M2e_"
-_sort_create_date = 1482459060
-_sort_last_updated = 1482459060
-_sort_publish_date = 1482459060
+sort_create_date = 1482459060
+sort_last_updated = 1482459060
+sort_publish_date = 1482459060
 create_date = "2016-12-22T18:11:00-08:00"
 publish_date = "2016-12-22T18:11:00-08:00"
 date = "2016-12-22T18:11:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "biography"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pfmr4po3O9AAX437GJQwYVvnKUCIeR40fUam2gY4AmcJRq4P-RTlytm943fi61WiFtY36S5asMJZ9rLrHWeRQ8j7Ev8"
 url = "/webhook-uploads/1482459018838/2849f99e918759430f94afcb3fe5253e.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 39417
 
 review_relationship = ""
-author_relationship = ["authors/leslie-bennetts"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/journey-to-the-heart-of-the-ultimate-mean-girl"]
 +++

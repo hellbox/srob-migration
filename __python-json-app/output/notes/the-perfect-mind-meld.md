@@ -1,8 +1,8 @@
 +++
 index = "-KFeFBa3v-EiPnKwFgJd"
-_sort_create_date = 1460997720
-_sort_last_updated = 1460997720
-_sort_publish_date = 1461009600
+sort_create_date = 1460997720
+sort_last_updated = 1460997720
+sort_publish_date = 1461009600
 create_date = "2016-04-18T09:42:00-07:00"
 publish_date = "2016-04-18T13:00:00-07:00"
 date = "2016-04-18T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @stevetoutonghi's book \"Join\" imagines a future where many minds make up a single consciousness."
 facebookauto = "Sponsor Steve Toutonghi's book \"Join\" imagines a future where many minds make up a single consciousness. This one is really great."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Imagine your mind connected with others in such an intimate, seamless way that you became one person with many bodies. This is the basis of sponsor Steve Toutonghi's exciting new Science Fiction thriller _Join_. We've <a href="http://seattlereviewofbooks.com/sponsorships" title="The Seattle Review of Books - sponsorships">got the first chapter on our sponsor's page</a>, and there's no way we're gonna stop reading there — and we bet you'll be just like us.

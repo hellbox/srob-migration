@@ -1,8 +1,8 @@
 +++
 index = "-JtkSXGtb5KRD0pFfLdR"
-_sort_create_date = 1436405820
-_sort_last_updated = 1436589360
-_sort_publish_date = 1436405820
+sort_create_date = 1436405820
+sort_last_updated = 1436589360
+sort_publish_date = 1436405820
 create_date = "2015-07-08T18:37:00-07:00"
 publish_date = "2015-07-08T18:37:00-07:00"
 date = "2015-07-08T18:37:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![ARCS and review copies](/webhook-uploads/1436405793031/2015-07-08-arcs.jpg)</p>

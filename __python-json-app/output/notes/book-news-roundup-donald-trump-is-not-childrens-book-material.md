@@ -1,8 +1,8 @@
 +++
 index = "-KrdG6uCBYm2SBdt_Ccs"
-_sort_create_date = 1502857140
-_sort_last_updated = 1502857500
-_sort_publish_date = 1502907540
+sort_create_date = 1502857140
+sort_last_updated = 1502857500
+sort_publish_date = 1502907540
 create_date = "2017-08-15T21:19:00-07:00"
 publish_date = "2017-08-16T11:19:00-07:00"
 date = "2017-08-16T11:19:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in Book News Roundup: Sorry, there's some Trump in here."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/donald-trump"]
-authors_notes = ["authors/daemond-arrindell"]
+notes_about = ""
 books = ""
 +++
 * Seattle poet (and the current [poet in residence here at the *Seattle Review of Books*](http://www.seattlereviewofbooks.com/writers/daemond-arrindell/)) Daemond Arrindell is the curator for the 2018 Jack Straw Writers program. That means Arrindell will choose the writers who take part in the program, and he'll take a leadership role as the writers learn how to share their work as spoken word and in recordings. Jack Straw is taking applications for the program through November 1st. [You can apply right here](http://www.jackstraw.org/programs/asp/2018_apps.shtml).

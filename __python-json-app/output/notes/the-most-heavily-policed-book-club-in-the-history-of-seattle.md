@@ -1,8 +1,8 @@
 +++
 index = "-KMSBJK848WQSCToIcDU"
-_sort_create_date = 1468294800
-_sort_last_updated = 1468295700
-_sort_publish_date = 1468348800
+sort_create_date = 1468294800
+sort_last_updated = 1468295700
+sort_publish_date = 1468348800
 create_date = "2016-07-11T20:40:00-07:00"
 publish_date = "2016-07-12T11:40:00-07:00"
 date = "2016-07-12T11:40:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What kind of book club brings dozens of police to a library in the afternoon? "
 facebookauto = "What kind of book club brings dozens of police to a library in the afternoon? "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-police-department", "tags/seattle-black-book-club"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Comedian and activist Brett Hamil notes that the Seattle Police Department came out for a discussion at the Beacon Hill Library:

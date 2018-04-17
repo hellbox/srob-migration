@@ -1,8 +1,8 @@
 +++
 index = "-KgXf1wAr6B3Ux1EcK8K"
-_sort_create_date = 1490935320
-_sort_last_updated = 1491238020
-_sort_publish_date = 1491330180
+sort_create_date = 1490935320
+sort_last_updated = 1491238020
+sort_publish_date = 1491330180
 create_date = "2017-03-30T21:42:00-07:00"
 publish_date = "2017-04-04T11:23:00-07:00"
 date = "2017-04-04T11:23:00-07:00"
@@ -13,10 +13,10 @@ title = "One of a kind"
 dek = "A new erasure series from Mount Analogue Press will be posted at Open Books for the month of April. They are unlike any other books in the world \u2014\u00a0literally."
 facebookauto = "A new erasure series at Open Books is unique in every sense of the world."
 twitterauto = "A new erasure series @openpoetrybooks is unique in every sense of the world."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/everyday-eros", "books/as-a-man-thinketh", "books/mar"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/andrew-s-mcalpine", "authors/caroline-crew", "authors/catherine-bresner"]
+reviews_about = ""
 +++
 
 We think of books not as commodities but as symbols of individuality. But centuries before the Industrial Revolution, printing presses were mass-producing books. In fact, books are the first item that we mass-produced as a species, and we’ve gotten really good at making sure that every copy of a specific book is exactly the same as every other copy.

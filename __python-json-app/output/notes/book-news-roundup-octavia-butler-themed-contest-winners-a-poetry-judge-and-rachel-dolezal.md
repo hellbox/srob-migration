@@ -1,8 +1,8 @@
 +++
 index = "-KFB7KdscYbC8TYb-U_s"
-_sort_create_date = 1460492340
-_sort_last_updated = 1460503500
-_sort_publish_date = 1460574060
+sort_create_date = 1460492340
+sort_last_updated = 1460503500
+sort_publish_date = 1460574060
 create_date = "2016-04-12T13:19:00-07:00"
 publish_date = "2016-04-13T12:01:00-07:00"
 date = "2016-04-13T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Read the winners of an Octavia Butler-themed writing contest in today's Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house", "tags/seattle-public-library"]
-authors_notes = ["authors/octavia-butler"]
+notes_about = ""
 books = ""
 +++
 * Seattle author Nisi Shawl announced the winners of the Seattle Public Library's Octavia Butler-themed flash fiction contest. The winners are MB Austin, Steve Arntson, and Geetanjali Dighe. You can read all their stories, and all the honorable mention stories, for free [on Seattle Public Library's website](http://www.spl.org/audiences/adults/seattle-writes/door-to-a-pink-universe).

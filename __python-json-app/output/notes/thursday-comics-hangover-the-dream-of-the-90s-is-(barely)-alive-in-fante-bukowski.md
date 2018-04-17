@@ -1,8 +1,8 @@
 +++
 index = "-KwBjLen5Yau8gNsKLU3"
-_sort_create_date = 1507747260
-_sort_last_updated = 1507783740
-_sort_publish_date = 1507827300
+sort_create_date = 1507747260
+sort_last_updated = 1507783740
+sort_publish_date = 1507827300
 create_date = "2017-10-11T11:41:00-07:00"
 publish_date = "2017-10-12T09:55:00-07:00"
 date = "2017-10-12T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507746609198/Fant
 twitterauto = "Remember the 1990s? Boy, this comic sure does."
 facebookauto = "Remember the 1990s? Boy, this comic sure does."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics-bookstore-&amp;-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In the 1990s, a ton of male cartoonists made their careers by writing stories about schlubby men with huge egos. These self-important losers — from Buddy Bradley to Adrian Tomine's protagonists to Ivan Brunetti's self-portrayal — were important at the time: they poked necessary holes in the idea that the only stories worth telling were stories about straight white men of a certain age.

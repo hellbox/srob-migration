@@ -1,8 +1,8 @@
 +++
 index = "-KmDHhI7tzWNOMaeIA_8"
-_sort_create_date = 1497035880
-_sort_last_updated = 1497320340
-_sort_publish_date = 1497380460
+sort_create_date = 1497035880
+sort_last_updated = 1497320340
+sort_publish_date = 1497380460
 create_date = "2017-06-09T12:18:00-07:00"
 publish_date = "2017-06-13T12:01:00-07:00"
 date = "2017-06-13T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Stitch by stitch by broken stitch"
 dek = "When the world tries to kill Sherman Alexie, he just gets bigger and better."
 facebookauto = "Sherman Alexie's newest book is a memoir and a quilt and a narrative about a damaged brain."
 twitterauto = "Sherman Alexie's new book is a memoir and a quilt and a narrative about a damaged brain."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/you-dont-have-to-say-you-love-me"]
 tags_reviews = ["tags/memoir", "tags/poetry"]
-authors_reviews = ["authors/sherman-alexie"]
+reviews_about = ""
 +++
 
 Okay, look: you’ve probably had a bad couple of years and I don’t want to judge your emotional pain. But unless you’re one of the dozen or so music legends who died in 2016, the odds are good that Sherman Alexie has been having a worse time than you. 

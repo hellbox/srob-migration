@@ -1,8 +1,8 @@
 +++
 index = "-Kh5hcUmXvRgyXWzsU95"
-_sort_create_date = 1491540000
-_sort_last_updated = 1491540000
-_sort_publish_date = 1491590400
+sort_create_date = 1491540000
+sort_last_updated = 1491540000
+sort_publish_date = 1491590400
 create_date = "2017-04-06T21:40:00-07:00"
 publish_date = "2017-04-07T11:40:00-07:00"
 date = "2017-04-07T11:40:00-07:00"
@@ -13,10 +13,10 @@ title = "A colorful chorus of voices"
 dek = "In the final entry in our weeklong investigation of Mount Analogue's books, we investigate their line of political pamphlets. Somehow, the long-dead art of pamphleteering now feels more immediate and relevant than even magazines."
 facebookauto = "The ancient art of political pamphleteering has found a renewed purpose in the age of Trump."
 twitterauto = "The ancient art of political pamphleteering has found a renewed purpose in the age of Trump."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/political-pamphlet-series"]
 tags_reviews = ""
-authors_reviews = ["authors/various"]
+reviews_about = ""
 +++
 
 <p class="image-hero">![](/webhook-uploads/1491539563891/IMG_4245.JPG)</p>

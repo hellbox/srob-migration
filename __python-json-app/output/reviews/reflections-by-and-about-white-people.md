@@ -1,8 +1,8 @@
 +++
 index = "-K-X1ixhSN-fwadOdV6q"
-_sort_create_date = 1443680100
-_sort_last_updated = 1443707700
-_sort_publish_date = 1443715200
+sort_create_date = 1443680100
+sort_last_updated = 1443707700
+sort_publish_date = 1443715200
 create_date = "2015-09-30T23:15:00-07:00"
 publish_date = "2015-10-01T09:00:00-07:00"
 date = "2015-10-01T09:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Reflections by and about white people"
 dek = "Donna Miscolta looks at the new Seattle, City of Literature anthology, and finds it missing something important."
 facebookauto = "Donna Miscolta looks at the new Seattle, City of Literature anthology, and finds it missing something important."
 twitterauto = "Writer @DonnaMiscolta takes issue with the Seattle, City of Literature anthology being called \"comprehensive\""
-byline = ["writers/donna-miscolta"]
+reviews_byline = ["writers/donna-miscolta"]
 books_in_this_review = ["books/seattle-city-of-literature"]
 tags_reviews = ""
-authors_reviews = ["authors/ryan-boudinot"]
+reviews_about = ""
 +++
 
 Ryan Boudinot’s anthology _Seattle: City of Literature: Reflections from a Community of Writers_ was just released by Sasquatch Books and heralded in a _Seattle Met_ review with this subheading: “The new anthology is a comprehensive snapshot of Seattle’s community of writers, past and present.”

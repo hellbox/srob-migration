@@ -1,8 +1,8 @@
 +++
 index = "-L98dgquuodgyhkwjj2O"
-_sort_create_date = 1522727820
-_sort_last_updated = 1522781160
-_sort_publish_date = 1522785600
+sort_create_date = 1522727820
+sort_last_updated = 1522781160
+sort_publish_date = 1522785600
 create_date = "2018-04-02T20:57:00-07:00"
 publish_date = "2018-04-03T13:00:00-07:00"
 date = "2018-04-03T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's National Poetry Month: how about writing a poem each day during April?"
 facebookauto = "It's National Poetry Month: how about writing a poem each day during April?"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/poetry", "tags/national-poetry-month"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 April is National Poetry Month. While for many readers and lovers of poetry this means a bit more time than normal looking through the pages of your favorite chapbook, and lingering in the well-stocked poetry sections of Seattle's many indie bookstores (the best-stocked, of course, being the [store that is made up entirely of poetry](http://www.openpoetrybooks.com)), if you're a poet (or would like to become a poet), April offers you a compelling challenge: it's also National Poetry Writing Month.

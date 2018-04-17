@@ -1,8 +1,8 @@
 +++
 index = "-K2uMgW0gFhjTt94xSqG"
-_sort_create_date = 1447309500
-_sort_last_updated = 1447309740
-_sort_publish_date = 1447350900
+sort_create_date = 1447309500
+sort_last_updated = 1447309740
+sort_publish_date = 1447350900
 create_date = "2015-11-11T22:25:00-08:00"
 publish_date = "2015-11-12T09:55:00-08:00"
 date = "2015-11-12T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447308477075/STK6
 twitterauto = "A new comic tells Bible stories, only with nudity, cussing, and fighting. A LOT of nudity, cussing and fighting."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The nerd internet got very excited a few weeks ago when [the first trailer for the *Preacher* TV series was posted](https://www.youtube.com/watch?v=UNgI2sRzr8I) to YouTube. The trailer, to me, looked like a lot of hand-waving with very little substance, but then I’ve got conflicted feelings about *Preacher*. When I was a teenager, it was my favorite comic, a huge epic story — let’s be honest, a superhero story — about good and evil and, most importantly, sacrilege. 

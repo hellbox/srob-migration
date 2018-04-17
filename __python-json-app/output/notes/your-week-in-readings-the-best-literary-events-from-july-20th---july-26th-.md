@@ -1,8 +1,8 @@
 +++
 index = "-KMl3tnayhEFPYn7R9X-"
-_sort_create_date = 1468628400
-_sort_last_updated = 1468628400
-_sort_publish_date = 1469037600
+sort_create_date = 1468628400
+sort_last_updated = 1468628400
+sort_publish_date = 1469037600
 create_date = "2016-07-15T17:20:00-07:00"
 publish_date = "2016-07-20T11:00:00-07:00"
 date = "2016-07-20T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468628294529/youl
 twitterauto = "Your week in readings features an Inside Amy Schumer writer and a festival in Rainier Beach!"
 facebookauto = "Your week in readings will take you all around town, from a conversation between Lindy West and the head writer of Inside Amy Schumer to the Rainier BAAMFest to a celebration of an underrated sci-fi genius downtown."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/lindy-west"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday July 20: *Remembering Healing Celebrating* **</h5></p> 

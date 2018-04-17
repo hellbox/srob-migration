@@ -1,8 +1,8 @@
 +++
 index = "-L4EegJb8k5a73-Mk7_E"
-_sort_create_date = 1517460000
-_sort_last_updated = 1517506020
-_sort_publish_date = 1517507400
+sort_create_date = 1517460000
+sort_last_updated = 1517506020
+sort_publish_date = 1517507400
 create_date = "2018-01-31T20:40:00-08:00"
 publish_date = "2018-02-01T09:50:00-08:00"
 date = "2018-02-01T09:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517458292828/Milk
 twitterauto = "It's finally happened! Superhero crossover comics have become self-aware."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1517458292828/Milk-Wars-1.jpg)</p>

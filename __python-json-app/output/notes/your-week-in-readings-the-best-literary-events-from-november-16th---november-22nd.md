@@ -1,8 +1,8 @@
 +++
 index = "-KWGVNizFTcrXK1Eryc7"
-_sort_create_date = 1478836140
-_sort_last_updated = 1478836140
-_sort_publish_date = 1479326460
+sort_create_date = 1478836140
+sort_last_updated = 1478836140
+sort_publish_date = 1479326460
 create_date = "2016-11-10T19:49:00-08:00"
 publish_date = "2016-11-16T12:01:00-08:00"
 date = "2016-11-16T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478835469867/blac
 twitterauto = "This week, you'll want to attend readings by @TeaMichelle and @edskoog, among others."
 facebookauto = "Your week in readings include a reading by Ed Skoog, sci-fi and comics launch parties, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/michelle-tea", "authors/matthew-simmons"]
+notes_about = ""
 books = ["books/black-wave"]
 +++
 <p class="noindent"><h5>**Wednesday November 16th: WordsWest Literary Series**</h5></p> 

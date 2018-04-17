@@ -1,8 +1,8 @@
 +++
 index = "-L93lVqwQ0FcY3-ZTE2U"
-_sort_create_date = 1522645980
-_sort_last_updated = 1523333220
-_sort_publish_date = 1522774500
+sort_create_date = 1522645980
+sort_last_updated = 1523333220
+sort_publish_date = 1522774500
 create_date = "2018-04-01T22:13:00-07:00"
 publish_date = "2018-04-03T09:55:00-07:00"
 date = "2018-04-03T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522714101220/Scre
 twitterauto = "Our poet in residence for April. @buddy_and_buddy, delivers her first poem of the month today."
 facebookauto = "Our poet in residence for April. Jeanine Walker, delivers her first poem of the month today."
 make_image_tweet = "False"
-byline = ["writers/jeanine-walker"]
+notes_byline = ["writers/jeanine-walker"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a saw stirs up its loud whine<br>

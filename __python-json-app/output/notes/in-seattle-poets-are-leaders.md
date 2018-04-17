@@ -1,8 +1,8 @@
 +++
 index = "-KopdrE2UmvOEd9pY8Uq"
-_sort_create_date = 1499843700
-_sort_last_updated = 1499878800
-_sort_publish_date = 1499882400
+sort_create_date = 1499843700
+sort_last_updated = 1499878800
+sort_publish_date = 1499882400
 create_date = "2017-07-12T00:15:00-07:00"
 publish_date = "2017-07-12T11:00:00-07:00"
 date = "2017-07-12T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Mayoral candidate @NikkitaOliver performed spoken word to great acclaim. We love this city."
 facebookauto = "Mayoral candidate Nikkita Oliver performed spoken word to great acclaim last night. We love this city!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The *Seattle Review of Books* doesn't run endorsements, but when a writer runs for office, we notice. In case you missed it, mayoral candidate Nikkita Oliver dropped some verses at last night's Candidate Survivor event at Neumo's.

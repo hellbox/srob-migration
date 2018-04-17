@@ -1,8 +1,8 @@
 +++
 index = "-JvpMTZIa7C1becUbmTg"
-_sort_create_date = 1438635600
-_sort_last_updated = 1438645800
-_sort_publish_date = 1438635600
+sort_create_date = 1438635600
+sort_last_updated = 1438645800
+sort_publish_date = 1438635600
 create_date = "2015-08-03T14:00:00-07:00"
 publish_date = "2015-08-03T14:00:00-07:00"
 date = "2015-08-03T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://cosartbeat.wpengine.netdna-cdn.com/wp-content/uploads/2015/
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/civic-poet"]
-authors_notes = ["authors/claudia-castro-luna"]
+notes_about = ""
 books = ""
 +++
 The Office of Arts & Culture's Arts Beat blog [just announced](http://artbeat.seattle.gov/2015/08/03/mayor-announces-claudia-castro-luna-as-seattles-first-civic-poet/) the name of Seattle's new Civic Poet. What's a Civic Poet, you ask? OAC explains that the new role "serves as an ambassador for Seattle’s rich literary landscape and represents the city’s diverse cultural community," usually in the form of public appearances and workshops. It's a two-year appointment, and it pays $10,000. (Hooray for paying writers for their work!) Our newest Civic Poet is Claudia Castro Luna. OAC explains:

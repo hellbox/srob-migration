@@ -1,8 +1,8 @@
 +++
 index = "-L0LmMi_7w3O7JObEDw5"
-_sort_create_date = 1513284480
-_sort_last_updated = 1513294380
-_sort_publish_date = 1513288800
+sort_create_date = 1513284480
+sort_last_updated = 1513294380
+sort_publish_date = 1513288800
 create_date = "2017-12-14T12:48:00-08:00"
 publish_date = "2017-12-14T14:00:00-08:00"
 date = "2017-12-14T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513283753604/SRoB
 twitterauto = "Portrait Gallery: #comics #poet Mita Mahato Fri @ElliottBayBooks /@thisisEJKoh Jane Wong @Rotholtz /@studiochristine"
 facebookauto = "Portrait Gallery: Mita Mahato by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/mita-mahato"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

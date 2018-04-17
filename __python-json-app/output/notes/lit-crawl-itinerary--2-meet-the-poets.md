@@ -1,8 +1,8 @@
 +++
 index = "-K0P_I8OgLdbGpDMZe3m"
-_sort_create_date = 1444628700
-_sort_last_updated = 1444628700
-_sort_publish_date = 1444770060
+sort_create_date = 1444628700
+sort_last_updated = 1444628700
+sort_publish_date = 1444770060
 create_date = "2015-10-11T22:45:00-07:00"
 publish_date = "2015-10-13T14:01:00-07:00"
 date = "2015-10-13T14:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our second @litcrawlseattle itinerary reveals an excellent cross-section of local poetry."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/cheap-wine-&amp;-poetry", "tags/poetry-northwest", "tags/lit-crawl"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">On Thursday, October 22nd, Lit Crawl Seattle is bringing you readings from more than 65 authors at 20 different venues. The [full schedule of events](http://litcrawl.org/seattle/2015-schedule) is a little bit daunting. How are you supposed to choose three readings out of this embarassment of riches? Let the *Seattle Review of Books* help! Here's our second suggested itinerary:</p>

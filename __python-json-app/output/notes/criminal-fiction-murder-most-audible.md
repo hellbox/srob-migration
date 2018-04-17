@@ -1,8 +1,8 @@
 +++
 index = "-KnD8M8NRTl3zWm5raCp"
-_sort_create_date = 1498107120
-_sort_last_updated = 1498143660
-_sort_publish_date = 1498158000
+sort_create_date = 1498107120
+sort_last_updated = 1498143660
+sort_publish_date = 1498158000
 create_date = "2017-06-21T21:52:00-07:00"
 publish_date = "2017-06-22T12:00:00-07:00"
 date = "2017-06-22T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's Criminal Fiction, from @daneetsteffens: podcasts, four mini-reviews, and an interview with @jasonpinter"
 facebookauto = "It's Criminal Fiction time: this month, podcasts, four mini-reviews, and the Quintessential Interview with Jason Pinter"
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/anthony-horowitz", "authors/stuart-neville", "authors/mark-billingham", "authors/francine-mathews-soho", "authors/jason-pinter"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-Kww1xKXNUt-rwFd4Axm"
-_sort_create_date = 1508540880
-_sort_last_updated = 1508703480
-_sort_publish_date = 1508950800
+sort_create_date = 1508540880
+sort_last_updated = 1508703480
+sort_publish_date = 1508950800
 create_date = "2017-10-20T16:08:00-07:00"
 publish_date = "2017-10-25T10:00:00-07:00"
 date = "2017-10-25T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508540660272/unna
 twitterauto = "Our Event of the Week: a boyfriend-related celebration at Vermillion, starring ex-APRIL curator @t_m_at!"
 facebookauto = "Our Event of the Week is a boyfriend-related celebration at Vermillion, starring ex-APRIL curator Tara Atkinson!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/april"]
-authors_notes = ["authors/tara-atkinson", "authors/stacey-levine", "authors/willie-fitzgerald"]
+notes_about = ""
 books = ["books/boyfriends"]
 +++
 When Tara Atkinson lost her favorite bookstore, she decided to do something about it. After the ferociously independent Pilot Books closed down, Atkinson and her friends came together to create the APRIL (Authors, Publishers, and Readers of Independent Literature) Festival, which ran longer than Pilot Books and, arguably, made more of a mark on the city then the bookstore which inspired it. 

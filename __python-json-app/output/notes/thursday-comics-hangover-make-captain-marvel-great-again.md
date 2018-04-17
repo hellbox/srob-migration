@@ -1,8 +1,8 @@
 +++
 index = "-KNk78mfFbBsKJZaFZgg"
-_sort_create_date = 1469686200
-_sort_last_updated = 1469686200
-_sort_publish_date = 1469725200
+sort_create_date = 1469686200
+sort_last_updated = 1469686200
+sort_publish_date = 1469725200
 create_date = "2016-07-27T23:10:00-07:00"
 publish_date = "2016-07-28T10:00:00-07:00"
 date = "2016-07-28T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469685852204/capt
 twitterauto = "A schlubby middle-aged alt weekly writer gains unlimited power in @MarkWaid & @TomPeyer's Captain Kid."
 facebookauto = "A schlubby middle-aged alt weekly writer gains unlimited power in Mark Waid and Tom Peyer's new comic Captain Kid."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On his 45th birthday, Chris is on the cusp of a few different disasters, each one more mundane than the last. His mother died, so he’s moved in with his ailing father. His body seems to be falling apart all at once. He’s been the music editor at a starving alternative weekly (the latest issue is just 28 pages, which in alt-weekly terms is basically a death sentence) for at least two decades, so his employability is questionable at best. But he’s out for a celebratory beer with friends, and he feels grateful for his schlubby nondescript white-guy life. It could be the beginning of a Stephen King story, or an off-brand Springsteen ballad.

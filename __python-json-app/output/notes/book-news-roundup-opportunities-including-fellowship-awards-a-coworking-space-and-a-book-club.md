@@ -1,8 +1,8 @@
 +++
 index = "-L4gaJTmU0V3k5Tnmv2p"
-_sort_create_date = 1517945400
-_sort_last_updated = 1517947080
-_sort_publish_date = 1517949900
+sort_create_date = 1517945400
+sort_last_updated = 1517947080
+sort_publish_date = 1517949900
 create_date = "2018-02-06T11:30:00-08:00"
 publish_date = "2018-02-06T12:45:00-08:00"
 date = "2018-02-06T12:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517939475370/rtie
 twitterauto = "All the Book News that's fit to print, including fellowships, coworking spaces, and a book club."
 facebookauto = "All the Book News that's fit to print, including fellowships, coworking spaces, and a book club."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1517939475370/rtiecon.jpg)</p>

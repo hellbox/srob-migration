@@ -1,8 +1,8 @@
 +++
 index = "-KB98rFl3cD_Kwrc8N09"
-_sort_create_date = 1456164240
-_sort_last_updated = 1456164240
-_sort_publish_date = 1456174800
+sort_create_date = 1456164240
+sort_last_updated = 1456164240
+sort_publish_date = 1456174800
 create_date = "2016-02-22T10:04:00-08:00"
 publish_date = "2016-02-22T13:00:00-08:00"
 date = "2016-02-22T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @estherhelfgott wants you to be aware of an upcoming event mixing classical music and her poetry."
 facebookauto = "Esther Altshul Helfgott is back this week as a sponsor, and wants you to save the date March 6th -- she'll be appearing to read poetry from her book Listening to Mozart, with musicians who will be performing Mozart's music. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Seattle Poet and writer Esther Altshul Helfgott returns as this week's sponsor, and we're thrilled to have her. She's going to be appearing March 6th in an event featuring the music of Mozart intersersed with Esther reading from her book _Listening to Mozart: poems of Alzheimer's_. 

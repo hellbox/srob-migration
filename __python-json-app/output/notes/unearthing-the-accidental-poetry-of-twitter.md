@@ -1,8 +1,8 @@
 +++
 index = "-KN8NU93uHrmKT_VW6J3"
-_sort_create_date = 1469036220
-_sort_last_updated = 1469036340
-_sort_publish_date = 1469043420
+sort_create_date = 1469036220
+sort_last_updated = 1469036340
+sort_publish_date = 1469043420
 create_date = "2016-07-20T10:37:00-07:00"
 publish_date = "2016-07-20T12:37:00-07:00"
 date = "2016-07-20T12:37:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469035925439/Scre
 twitterauto = "Here's a website that will make (occasionally intelligible) poetry out of your Twitter feed."
 facebookauto = "Here's a website that will make (occasionally intelligible) poetry out of your Twitter feed."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/twitter", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This morning, APRIL Festival co-founder Willie Fitzgerald [introduced us to the idea](https://twitter.com/williefitz/status/755815194136186880) of [Poetweet, a website that searches your Twitter feed and turns it into a poem](http://poetweet.com.br/). (The site is a very clever promotion for the [B_arco Cultural Center in Brazil](http://barco.art.br/b_arco/).) I ran [the *Seattle Review of Books* Twitter feed](https://twitter.com/seattlereviewof) through, and here's what happened:

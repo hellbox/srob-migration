@@ -1,8 +1,8 @@
 +++
 index = "-KVLHo4H4Y7B5fAsoOdN"
-_sort_create_date = 1477842780
-_sort_last_updated = 1477843200
-_sort_publish_date = 1477845000
+sort_create_date = 1477842780
+sort_last_updated = 1477843200
+sort_publish_date = 1477845000
 create_date = "2016-10-30T08:53:00-07:00"
 publish_date = "2016-10-30T09:30:00-07:00"
 date = "2016-10-30T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Patient zero, crossing the border from both sides, and the virtues of milk chocolate, all on today's Sunday Post."
 facebookauto = "Patient zero, crossing the border from both sides, and the virtues of milk chocolate, all on today's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.motherjones.com/politics/2016/10/undercover-border-militia-immigration-bauer" title="I Went Undercover With a Border Militia. Here&amp;#039;s What I Saw. | Mother Jones">Undercover with a border militia</a></h5>

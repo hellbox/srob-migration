@@ -1,8 +1,8 @@
 +++
 index = "-K1rVv2lc8nBrPgsaiWT"
-_sort_create_date = 1446187860
-_sort_last_updated = 1446223080
-_sort_publish_date = 1446228540
+sort_create_date = 1446187860
+sort_last_updated = 1446223080
+sort_publish_date = 1446228540
 create_date = "2015-10-29T23:51:00-07:00"
 publish_date = "2015-10-30T11:09:00-07:00"
 date = "2015-10-30T11:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Tomorrow, the Short Run Comix & Arts Festival will be happening [at the Fisher Pavillion at Seattle Center from 11 am to 6 pm](http://www.shortrun.org/). If you're looking for a ridiculously long list of all the exhibitors at the show, [you can find that here](http://www.shortrun.org/exhibitors/). But the best way to go to Short Run is to **not have a plan**. Bring some cash and walk around. If you see something you like, buy it. I know it's super-scary, but try talking to strangers.

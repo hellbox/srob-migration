@@ -1,8 +1,8 @@
 +++
 index = "-KMjCnJ_ivWzfoIB_Upa"
-_sort_create_date = 1468597200
-_sort_last_updated = 1468597200
-_sort_publish_date = 1468602060
+sort_create_date = 1468597200
+sort_last_updated = 1468597200
+sort_publish_date = 1468602060
 create_date = "2016-07-15T08:40:00-07:00"
 publish_date = "2016-07-15T10:01:00-07:00"
 date = "2016-07-15T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Send literary complaints & passive-aggressive bookstore etiquette issues to advice@seattlereviewofbooks.com."
 facebookauto = "Our wonderful advice columnist, Cienna Madrid, is taking a much-needed vacation. In the meantime, please send your literary complaints, passive-aggressive bookstore etiquette issues, and library-related romance questions to advice@seattlereviewofbooks.com."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Cienna Madrid is on vacation this week, which means there is no new Help Desk. Please [peruse the Help Desk archives](http://www.seattlereviewofbooks.com/tags/the-help-desk/) for your advice fix; Cienna will return with a new column next week. 

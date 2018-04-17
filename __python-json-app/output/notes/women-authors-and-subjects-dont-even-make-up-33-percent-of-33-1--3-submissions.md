@@ -1,8 +1,8 @@
 +++
 index = "-JvSN6Sp7KxjvGavbmk9"
-_sort_create_date = 1438233120
-_sort_last_updated = 1438285080
-_sort_publish_date = 1438283520
+sort_create_date = 1438233120
+sort_last_updated = 1438285080
+sort_publish_date = 1438283520
 create_date = "2015-07-29T22:12:00-07:00"
 publish_date = "2015-07-30T12:12:00-07:00"
 date = "2015-07-30T12:12:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/33-1--3"]
-authors_notes = ["authors/nicola-griffith"]
+notes_about = ""
 books = ""
 +++
 The editors behind the excellent 33 1/3 series of books about albums have [published all the information](http://333sound.com/2015/07/29/open-call-2015-the-complete-list-of-albums-proposed-for-the-33-13-series/) collected during their recent open submission process. It's a fascinating look at why the new-arrivals tables at your local bookstore are still dominated by books by and about men.

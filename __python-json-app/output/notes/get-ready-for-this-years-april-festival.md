@@ -1,8 +1,8 @@
 +++
 index = "-K7UZRvtC_4RgcrifhHx"
-_sort_create_date = 1452228540
-_sort_last_updated = 1452228840
-_sort_publish_date = 1452228540
+sort_create_date = 1452228540
+sort_last_updated = 1452228840
+sort_publish_date = 1452228540
 create_date = "2016-01-07T20:49:00-08:00"
 publish_date = "2016-01-07T20:49:00-08:00"
 date = "2016-01-07T20:49:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452228152157/APRI
 twitterauto = "We are so excited for this year's @APRILfestSEA! "
 facebookauto = "It's time to get excited for the APRIL Festival, which features a metric ton of local talent, a fireside chat, a competitive event featuring a drag queen going head-to-head with writers, and much more."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/april"]
-authors_notes = ["authors/sarah-galvin", "authors/jenny-zhang", "authors/kelly-froh", "authors/ej-koh", "authors/maged-zaher", "authors/anastacia-renee", "authors/david-schmader"]
+notes_about = ""
 books = ""
 +++
 This afternoon, the APRIL Festival (it stands for Authors, Publishers, and Readers of Independent Literature) announced the schedule for their fifth annual celebration of small-press writing and reading, and it looks pretty goddamned spectacular. As previously announced, the writer-in-residence for this year’s APRIL is [Jenny Zhang](http://seattlereviewofbooks.com/notes/2015/11/11/jenny-zhang-is-the-april-festivals-next-writer-in-residence/), a [talented poet](http://www.jennybagel.com/) and [wonderful essayist](http://www.buzzfeed.com/jennybagel/they-pretend-to-be-us-while-pretending-we-dont-exist#.uazVaLZaa) out of Brooklyn. Zhang’s star is on the rise, and her role as writer-in-residence will undoubtedly give the festival some national prominence.

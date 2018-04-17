@@ -1,8 +1,8 @@
 +++
 index = "-Kuc5fZTLp9pYyajC1I9"
-_sort_create_date = 1506058860
-_sort_last_updated = 1508302740
-_sort_publish_date = 1508352900
+sort_create_date = 1506058860
+sort_last_updated = 1508302740
+sort_publish_date = 1508352900
 create_date = "2017-09-21T22:41:00-07:00"
 publish_date = "2017-10-18T11:55:00-07:00"
 date = "2017-10-18T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506058852264/reac
 twitterauto = "Your Week in Readings includes a kidnapping and a well-researched novel about a vivisectionist."
 facebookauto = "Your Week in Readings includes a kidnapping and a well-researched novel about a vivisectionist."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday, October 18: Translation Is a Mode**</h5></p>

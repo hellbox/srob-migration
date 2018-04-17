@@ -1,8 +1,8 @@
 +++
 index = "-KmAJCi23p34hcH2hyFO"
-_sort_create_date = 1496985900
-_sort_last_updated = 1496985900
-_sort_publish_date = 1496985900
+sort_create_date = 1496985900
+sort_last_updated = 1496985900
+sort_publish_date = 1496985900
 create_date = "2017-06-08T22:25:00-07:00"
 publish_date = "2017-06-08T22:25:00-07:00"
 date = "2017-06-08T22:25:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496985702473/IMG_
 twitterauto = ""
 facebookauto = "Mail Call! "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1496985702473/IMG_4044.JPG)</p>

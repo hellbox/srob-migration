@@ -1,8 +1,8 @@
 +++
 index = "-KGAZijKI7oEgGgGIyIb"
-_sort_create_date = 1461556800
-_sort_last_updated = 1461556800
-_sort_publish_date = 1461689700
+sort_create_date = 1461556800
+sort_last_updated = 1461556800
+sort_publish_date = 1461689700
 create_date = "2016-04-24T21:00:00-07:00"
 publish_date = "2016-04-26T09:55:00-07:00"
 date = "2016-04-26T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/kristen-steenbeeke"]
+notes_byline = ["writers/kristen-steenbeeke"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I’ve memorized the dark of my room now,<br>

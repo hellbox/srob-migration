@@ -1,8 +1,8 @@
 +++
 index = "-KGze6EWpFAiZOr_E66S"
-_sort_create_date = 1462430580
-_sort_last_updated = 1462471140
-_sort_publish_date = 1462474860
+sort_create_date = 1462430580
+sort_last_updated = 1462471140
+sort_publish_date = 1462474860
 create_date = "2016-05-04T23:43:00-07:00"
 publish_date = "2016-05-05T12:01:00-07:00"
 date = "2016-05-05T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Book News Roundup column brings news of a new reading series and a contest for young writers."
 facebookauto = "Our Book News Roundup column brings news of a new reading series and a contest for young writers."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/eli-sanders", "authors/karen-finneyfrock", "authors/mattilda-bernstein-sycamore"]
+notes_about = ""
 books = ["books/while-the-city-slept"]
 +++
 * Save the date: the Seward Park branch of Third Place Books will be having its grand opening party on May 21st and May 22nd. This is super-exciting! It's not every day (or even every year) you get to celebrate the grand opening of a new Seattle bookstore. You can (and should) [confirm that you'll be there on the Facebook invite](https://www.facebook.com/events/987986684649758/) for the weekend.

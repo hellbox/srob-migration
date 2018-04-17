@@ -1,8 +1,8 @@
 +++
 index = "-JsgDvQx2SPfAj3NaI7c"
-_sort_create_date = 1435300620
-_sort_last_updated = 1435329900
-_sort_publish_date = 1435300620
+sort_create_date = 1435300620
+sort_last_updated = 1435329900
+sort_publish_date = 1435300620
 create_date = "2015-06-25T23:37:00-07:00"
 publish_date = "2015-06-25T23:37:00-07:00"
 date = "2015-06-25T23:37:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/fwbc8vbU1xNU0prM11MfdrX_0_cvYSS5QqoEN27QCT2gT4aMuUS5MAWyotzNAQlxHIkxvgX9LpMjRuZ5fsUdNyh_q0SNLQ"
 url = "/webhook-uploads/1435300570961/9780316204262.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 16936
 
 review_relationship = ""
-author_relationship = ["authors/maria-semple"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/whatd-you-say-bernadette", "notes/event-of-the-week-epilogue--prologue-at-hugo-house", "notes/literary-event-of-the-week-happy-family-with-maria-semple", "notes/cate-blanchett-spotted-at-downtown-seattle-public-library"]
 +++

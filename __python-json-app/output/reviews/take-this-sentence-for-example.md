@@ -1,8 +1,8 @@
 +++
 index = "-L9fefrn47pUEG6KCAOe"
-_sort_create_date = 1523298480
-_sort_last_updated = 1523390880
-_sort_publish_date = 1523386860
+sort_create_date = 1523298480
+sort_last_updated = 1523390880
+sort_publish_date = 1523386860
 create_date = "2018-04-09T11:28:00-07:00"
 publish_date = "2018-04-10T12:01:00-07:00"
 date = "2018-04-10T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Take this sentence, for example"
 dek = "Jez Burrows created a book of stories made up of example sentences from dictionaries, and in doing so, created a new form of wordplay and entertainment. "
 facebookauto = "In Dictionary Stories, Jez Burrows has created a novel form of crafting stories."
 twitterauto = "In Dictionary Stories, @jezburrows has created a novel form of crafting stories. "
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/dictionary-stories"]
 tags_reviews = ""
-authors_reviews = ["authors/jez-burrows"]
+reviews_about = ""
 +++
 
 Good writing elicits a feeling that the words on the page were always meant to be. Like a film, say, where you don't see the thousands of hours and hundreds of people sweating over the details to make a product that feels effortless when projected. Both the writing and film share a secret: they are more than the sum of their parts, but they are made of only of their parts. Sentences are made from words, and words are formed to capture meaning, nuanced or blunt, ironic or earnest, capricious or solemn. 

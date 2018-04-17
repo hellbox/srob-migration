@@ -1,8 +1,8 @@
 +++
 index = "-KFmEOkuwkAZgjZDXdvq"
-_sort_create_date = 1461131760
-_sort_last_updated = 1461131760
-_sort_publish_date = 1461178560
+sort_create_date = 1461131760
+sort_last_updated = 1461131760
+sort_publish_date = 1461178560
 create_date = "2016-04-19T22:56:00-07:00"
 publish_date = "2016-04-20T11:56:00-07:00"
 date = "2016-04-20T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We asked comics professionals, fans, and vendors to rate their Emerald City Comicon experience. How was it?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/emerald-city-comicon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last week, I asked people to [share their experience](http://seattlereviewofbooks.com/notes/2016/04/11/growing-pains-for-emerald-city-comicon/) with this year's Emerald City Comicon. Over the last few days, I've heard from local cartoonists, from comics professionals, and from people who attended the show as fans. From those conversations, a pattern has emerged.

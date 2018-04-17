@@ -1,8 +1,8 @@
 +++
 index = "-Ki3bLs5CGVAA9pZW4T5"
-_sort_create_date = 1492578540
-_sort_last_updated = 1492578540
-_sort_publish_date = 1492578540
+sort_create_date = 1492578540
+sort_last_updated = 1492578540
+sort_publish_date = 1492578540
 create_date = "2017-04-18T22:09:00-07:00"
 publish_date = "2017-04-18T22:09:00-07:00"
 date = "2017-04-18T22:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1492578482098/IMG
 twitterauto = ""
 facebookauto = "A massive Mail Call!"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Buckle in, folks. This one's a doozy:

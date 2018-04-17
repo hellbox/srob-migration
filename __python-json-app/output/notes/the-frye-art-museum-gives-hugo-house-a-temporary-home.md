@@ -1,8 +1,8 @@
 +++
 index = "-K7FMULzTmvuELhJs8LU"
-_sort_create_date = 1451973480
-_sort_last_updated = 1451974080
-_sort_publish_date = 1452027660
+sort_create_date = 1451973480
+sort_last_updated = 1451974080
+sort_publish_date = 1452027660
 create_date = "2016-01-04T21:58:00-08:00"
 publish_date = "2016-01-05T13:01:00-08:00"
 date = "2016-01-05T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The @FryeArtMuseum is giving @HugoHouse a temporary home later this year."
 facebookauto = "The Frye Art Museum will give Hugo House a temporary home later this year."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house", "tags/frye-art-museum", "tags/elliott-bay-book-company", "tags/sorrento-hotel", "tags/town-hall-seattle"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 As you likely already know, the Hugo House building will be torn down this spring and a six-story mixed-use development will be built on the site. The Hugo House is scheduled to reopen in the new building sometime in 2018. (Mary Ann Gwinn [published a preview of the new House in the *Seattle Times* last week](http://www.seattletimes.com/entertainment/books/an-update-on-hugo-houses-new-home/).) But until today, we didn’t know where the House would be operating during the interim.

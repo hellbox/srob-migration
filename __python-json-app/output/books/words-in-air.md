@@ -1,8 +1,8 @@
 +++
 index = "-K528Kk53ycROKChIgnr"
-_sort_create_date = 1449604200
-_sort_last_updated = 1449608220
-_sort_publish_date = 1449604200
+sort_create_date = 1449604200
+sort_last_updated = 1449608220
+sort_publish_date = 1449604200
 create_date = "2015-12-08T11:50:00-08:00"
 publish_date = "2015-12-08T11:50:00-08:00"
 date = "2015-12-08T11:50:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Literary Collections"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oiH2K-1NQ_7r6_X9WWEkmbxeeiKaSLw09YK2T90NJWaCMHlbtFZjKPv7eCbFWrDOxM1Zv5Rs4XLJSD5Zfcn8i1JWrEI"
 url = "/webhook-uploads/1449604952710/words-in-air.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 29961
 
 review_relationship = ["reviews/un-perfumed-letters"]
-author_relationship = ["authors/elizabeth-bishop", "authors/robert-lowell", "authors/thomas-travisano"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

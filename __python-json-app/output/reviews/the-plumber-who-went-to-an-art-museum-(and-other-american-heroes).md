@@ -1,8 +1,8 @@
 +++
 index = "-L7H19lamwwulZezBA75"
-_sort_create_date = 1520720940
-_sort_last_updated = 1520723100
-_sort_publish_date = 1521054000
+sort_create_date = 1520720940
+sort_last_updated = 1520723100
+sort_publish_date = 1521054000
 create_date = "2018-03-10T14:29:00-08:00"
 publish_date = "2018-03-14T12:00:00-07:00"
 date = "2018-03-14T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "The plumber who went to an art museum (and other American heroes)"
 dek = "Art tells us who we are, sometimes more than we want to know. The catalog from a recent exhibition at the Smithsonian National Portrait Gallery turns a mirror on American attitudes toward work, race, and gender."
 facebookauto = "A sharp-eyed review by Emily Pothast looks at race and gender in America through the art we make about work."
 twitterauto = "A sharp-eyed review by @emilypothast \u200flooks at race and gender in America through the art we make about work."
-byline = ["writers/emily-pothast"]
+reviews_byline = ["writers/emily-pothast"]
 books_in_this_review = ["books/the-sweat-of-their-face"]
 tags_reviews = ""
-authors_reviews = ["authors/david-c-ward", "authors/dorothy-moss", "authors/john-fagg"]
+reviews_about = ""
 +++
 
 In the winter of 1897, a New York City plumber taking a break from a job on Fifth Avenue did something that went viral (or at least the late nineteenth century equivalent). He walked into the Metropolitan Museum of Art to check out the exhibitions and was promptly asked to leave. The reason? His dirty overalls were deemed offensive to the sensibilities of this refined cultural space.

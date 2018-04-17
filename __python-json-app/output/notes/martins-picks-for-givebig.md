@@ -1,8 +1,8 @@
 +++
 index = "-KGorod27TvvmWgK539j"
-_sort_create_date = 1462249620
-_sort_last_updated = 1462290960
-_sort_publish_date = 1462298400
+sort_create_date = 1462249620
+sort_last_updated = 1462290960
+sort_publish_date = 1462298400
 create_date = "2016-05-02T21:27:00-07:00"
 publish_date = "2016-05-03T11:00:00-07:00"
 date = "2016-05-03T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462249652557/%20%
 twitterauto = "Who to #GiveBIG to? Perhaps @clarionwest, @writehedgebrook, or @Fearless_Ideas?"
 facebookauto = "Who to #GiveBIG to? Perhaps Clarion West, Hedgebrook, or the Bureau of Fearless Ideas?"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/charity", "tags/givebig"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 GiveBig is here! You've [already read Paul's overview](http://seattlereviewofbooks.com/notes/2016/05/03/if-you-can-givebig-today/) on the day, with the list of books-and-literacy themed giving. But we thought personalized picks might help too.

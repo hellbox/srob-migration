@@ -1,8 +1,8 @@
 +++
 index = "-KxiJvyUP2px7k6ZJvVp"
-_sort_create_date = 1509384480
-_sort_last_updated = 1509384480
-_sort_publish_date = 1509384480
+sort_create_date = 1509384480
+sort_last_updated = 1509384480
+sort_publish_date = 1509384480
 create_date = "2017-10-30T10:28:00-07:00"
 publish_date = "2017-10-30T10:28:00-07:00"
 date = "2017-10-30T10:28:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/housekeeping"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 As you may have noticed, we're moving our Event of the Week and Your Week in Readings posts to Mondays, in order to better help you plan your literary weeks. Our interviews column will move to Wednesday morning. Everything else will continue as scheduled. As always, if you have any questions or comments, please get in touch by [email](http://www.seattlereviewofbooks.com/about/), [Twitter](https://twitter.com/seattlereviewof), or [Facebook](https://www.facebook.com/seattlereviewof).

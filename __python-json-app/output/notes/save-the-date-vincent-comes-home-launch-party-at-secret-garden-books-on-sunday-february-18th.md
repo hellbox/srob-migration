@@ -1,8 +1,8 @@
 +++
 index = "-L4ingZ2PRY7CuqKX6to"
-_sort_create_date = 1517982480
-_sort_last_updated = 1518030060
-_sort_publish_date = 1518036480
+sort_create_date = 1517982480
+sort_last_updated = 1518030060
+sort_publish_date = 1518036480
 create_date = "2018-02-06T21:48:00-08:00"
 publish_date = "2018-02-07T12:48:00-08:00"
 date = "2018-02-07T12:48:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517980396090/2687
 twitterauto = "One of our contributors is debuting a kid's book at Secret Garden and you're invited!"
 facebookauto = "One of our contributors is debuting a kid's book at Secret Garden and you're invited!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/conflict-of-interest"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1517980396090/26872324_164622900844764_6996487951223881728_n.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-JwIJbGDRjFKVG872kji"
-_sort_create_date = 1439138160
-_sort_last_updated = 1439138160
-_sort_publish_date = 1439138160
+sort_create_date = 1439138160
+sort_last_updated = 1439138160
+sort_publish_date = 1439138160
 create_date = "2015-08-09T09:36:00-07:00"
 publish_date = "2015-08-09T09:36:00-07:00"
 date = "2015-08-09T09:36:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "Short Stories"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2nQOfo0qzkLqqZYbQLhlVsUQO8vaos3HOh5ZfGAtmAS0geVWvG1E2qoOXKBpU0fZ7rGpbXGqu4wG6ggog_Dk-QhVydY1"
 url = "/webhook-uploads/1439138068743/61W8JDD5txL.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 79796
 
 review_relationship = ["reviews/picking-wires-from-a-bowl-of-noodles"]
-author_relationship = ["authors/ryan-boudinot"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-events-from-september-28th-to-october-4th"]
 +++

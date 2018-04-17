@@ -1,8 +1,8 @@
 +++
 index = "-KEWzMM65d9-PYKrVYJb"
-_sort_create_date = 1459785360
-_sort_last_updated = 1459804680
-_sort_publish_date = 1459803600
+sort_create_date = 1459785360
+sort_last_updated = 1459804680
+sort_publish_date = 1459803600
 create_date = "2016-04-04T08:56:00-07:00"
 publish_date = "2016-04-04T14:00:00-07:00"
 date = "2016-04-04T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "#AWP16 is over, and everybody's gone home. @RachelLaKessler looks back. "
 facebookauto = "#AWP16 is over, and everybody's gone home. Rachel Kessler offers one look back. "
 make_image_tweet = "False"
-byline = ["writers/rachel-kessler"]
+notes_byline = ["writers/rachel-kessler"]
 tags_notes = ["tags/notes-from-the-field"]
-authors_notes = ["authors/kevin-young", "authors/rachel-kushner", "authors/franny-choi", "authors/john-hankiewicz", "authors/nick-courtright", "authors/bianca-stone", "authors/corinne-manning", "authors/katie-ogle", "authors/sierra-nelson", "authors/mark-doty", "authors/kimiko-hahn", "authors/cd-wright"]
+notes_about = ""
 books = ""
 +++
 Now that I am home and eating real meals again, there is time to mull over all the cringey moments of AWP 2016. Like when I bum-rushed Kevin Young in order to gush about how much my middle school students loved his poem “Ode to Gumbo.” I actually said, “you’ve got fans in the 8th grade, Kevin.” And then ran away. Or when I stood right behind Rachel Kushner at a small private reception, stared at her hair and, like a super creep, didn’t say anything. Yes, she was wearing leather pants. I think. It was dark and a nervous fan-girl film came over my eyes. Then I ran away for a minute, but the bouncer wouldn’t let me back in. Or when I rushed up to an author I admire and pressed my weird book upon him and said, “bye!” like a three-year-old. I even waved my hand down low in a weird, rapid erasing move, as if I were cute, and small. A toddler would have been charming. I was a weird lady at a conference doing a lot of running.

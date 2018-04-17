@@ -1,8 +1,8 @@
 +++
 index = "-KBOymCZ2AgOR3Puec5p"
-_sort_create_date = 1456429800
-_sort_last_updated = 1456432380
-_sort_publish_date = 1456429800
+sort_create_date = 1456429800
+sort_last_updated = 1456432380
+sort_publish_date = 1456429800
 create_date = "2016-02-25T11:50:00-08:00"
 publish_date = "2016-02-25T11:50:00-08:00"
 date = "2016-02-25T11:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "See why at least one person calls the New York publishing industry \"the whitest place I\u2019ve ever been.\""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/rahawa-haile"]
+notes_about = ""
 books = ""
 +++
 The [*Brooklyn Magazine* piece about the whiteness of the New York publishing industry](http://www.bkmag.com/2016/02/24/you-will-be-tokenized-speaking-out-about-the-state-of-diversity-in-publishing/) is a must-read, and not just because it prominently features friend of the *Seattle Review of Books* Rahawa Haile. Go [take it all in](http://www.bkmag.com/2016/02/24/you-will-be-tokenized-speaking-out-about-the-state-of-diversity-in-publishing/).

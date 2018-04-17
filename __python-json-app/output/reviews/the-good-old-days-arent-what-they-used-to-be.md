@@ -1,8 +1,8 @@
 +++
 index = "-Kvf2GfjHmmOOf0f7B-h"
-_sort_create_date = 1507182000
-_sort_last_updated = 1507220220
-_sort_publish_date = 1507226460
+sort_create_date = 1507182000
+sort_last_updated = 1507220220
+sort_publish_date = 1507226460
 create_date = "2017-10-04T22:40:00-07:00"
 publish_date = "2017-10-05T11:01:00-07:00"
 date = "2017-10-05T11:01:00-07:00"
@@ -13,10 +13,10 @@ title = "The good old days aren't what they used to be"
 dek = "Noam Chomsky is known for his long career as a thoughtful academic who builds complex and well-reasoned critiques of American institutions. Why the hell is his most recent book so lazy and shoddy and bad?"
 facebookauto = "Bad news: The latest Noam Chomsky book is bad on every conceivable level. "
 twitterauto = "Bad news: The latest Noam Chomsky book is bad on every conceivable level. "
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/requiem-for-the-american-dream"]
 tags_reviews = ["tags/reading-through-it"]
-authors_reviews = ["authors/noam-chomsky"]
+reviews_about = ""
 +++
 
 Here are some words I never thought I would apply to a Noam Chomsky book: shallow, flimsy, ill-considered, dumb, and badly written. 

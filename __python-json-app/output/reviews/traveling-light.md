@@ -1,8 +1,8 @@
 +++
 index = "-JshEgrCQ-Wc4ZzMLdKU"
-_sort_create_date = 1435278120
-_sort_last_updated = 1437960240
-_sort_publish_date = 1434953160
+sort_create_date = 1435278120
+sort_last_updated = 1437960240
+sort_publish_date = 1434953160
 create_date = "2015-06-25T17:22:00-07:00"
 publish_date = "2015-06-21T23:06:00-07:00"
 date = "2015-06-21T23:06:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "64cd71fd-4471-6dea-4960-e57ddde53588"
 name = "Traveling light"
 title = "Traveling light"
 dek = "When he gets ready to go on vacation, Paul Constant crams his backpack full of as many heavy books as possible. There's a reason for this, and it's not masochism."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/a-pleasure-and-a-calling", "books/definitely-maybe", "books/devil-may-care", "books/the-happiness-industry", "books/silver-screen-fiend", "books/jack-glass", "books/paper-towns", "books/horns", "books/austerity", "books/one-of-us"]
 tags_reviews = ["tags/novel", "tags/young-adult", "tags/non-fiction"]
-authors_reviews = ["authors/phil-hogan", "authors/boris-strugatsky", "authors/arkady-strugatsky", "authors/sebastian-faulks", "authors/william-davies", "authors/patton-oswalt", "authors/adam-roberts", "authors/john-green", "authors/joe-hill", "authors/kerry-anne-mendoza", "authors/\u00e5sne-seierstad"]
+reviews_about = ""
 +++
 
 The old joke goes that the first book Johannes Gutenberg published on his brand-new press was the Bible, but the second book he published was about the death of the publishing industry. Like most of the jokes old booksellers tell one another to pass the time, it’s not funny but it’s got a sick tinge of truth to it; my two decades in the book business as a bookseller and a critic has spanned at least five distinct deaths of the publishing industry. When you start out in a life of books, you believe the death-hype and you worry for the future of your vocation. But after the third or the fourth apocalypse, the end seems a little less nigh.

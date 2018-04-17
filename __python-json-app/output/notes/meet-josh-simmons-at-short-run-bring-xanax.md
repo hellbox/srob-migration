@@ -1,8 +1,8 @@
 +++
 index = "-K0Zn8_eIZPPG0UaWUJE"
-_sort_create_date = 1444800120
-_sort_last_updated = 1444800420
-_sort_publish_date = 1444842000
+sort_create_date = 1444800120
+sort_last_updated = 1444800420
+sort_publish_date = 1444842000
 create_date = "2015-10-13T22:22:00-07:00"
 publish_date = "2015-10-14T10:00:00-07:00"
 date = "2015-10-14T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444799734815/blac
 twitterauto = ".@shortrunseattle exhibitor Josh Simmons explains what he loves about Short Run."
 facebookauto = "Cartoonist Josh Simmons is debuting a new horror comic at this year's Short Run Comix & Arts Festival. He has some suggestions for how you should prepare for this year's Short Run."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run", "tags/fantagraphics", "tags/comics"]
-authors_notes = ["authors/josh-simmons"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1444799734815/blackriver.jpg)</p>

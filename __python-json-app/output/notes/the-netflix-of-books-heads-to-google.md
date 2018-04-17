@@ -1,8 +1,8 @@
 +++
 index = "-Jzq8G7FMmwXhXt1xkuS"
-_sort_create_date = 1442943660
-_sort_last_updated = 1442944860
-_sort_publish_date = 1442952060
+sort_create_date = 1442943660
+sort_last_updated = 1442944860
+sort_publish_date = 1442952060
 create_date = "2015-09-22T10:41:00-07:00"
 publish_date = "2015-09-22T13:01:00-07:00"
 date = "2015-09-22T13:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Oyster, the \"Netflix for books,\" is closing because it forgot that the real Netflix for books is the library."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/oyster", "tags/google-play-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Oyster, which trumpeted itself as "the Netflix of books" when it launched a couple of years ago, [is closing down](http://blog.oysterbooks.com/). (They were never able to resolve that most basic of questions: isn't the "Netflix of Books" a library?) But  most of the Oyster team seems to be [moving to Google Play's Books division](http://recode.net/2015/09/21/oyster-books-shuts-down-team-heads-to-google/). 

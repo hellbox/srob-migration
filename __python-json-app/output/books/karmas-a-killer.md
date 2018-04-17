@@ -1,8 +1,8 @@
 +++
 index = "-K8Fee2_j-_4Vhcy6P1W"
-_sort_create_date = 1453052280
-_sort_last_updated = 1453052400
-_sort_publish_date = 1453052280
+sort_create_date = 1453052280
+sort_last_updated = 1453052400
+sort_publish_date = 1453052280
 create_date = "2016-01-17T09:38:00-08:00"
 publish_date = "2016-01-17T09:38:00-08:00"
 date = "2016-01-17T09:38:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Murder"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BqhrXxF8G41ptk7EsXx1DAYSUNqAr1oYVEzCFAYalHzXgQyDh70Ctgf3hArtcjybPSdMESVGzDyGtH_ye_bLrsIpzFOnig"
 url = "/webhook-uploads/1453052304935/content%3Fid%3D-RzKsgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12169
 
 review_relationship = ""
-author_relationship = ["authors/tracy-weber"]
+books_author = ""
 sponsorships_book = ["sponsorships/karmas-a-killer"]
 notes_relationship = ["notes/karmas-a-killer-book-release-party"]
 +++

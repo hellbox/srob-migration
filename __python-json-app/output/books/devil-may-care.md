@@ -1,8 +1,8 @@
 +++
 index = "-JsiSzWW2kwRJNVPrI59"
-_sort_create_date = 1435299840
-_sort_last_updated = 1435299840
-_sort_publish_date = 1435299840
+sort_create_date = 1435299840
+sort_last_updated = 1435299840
+sort_publish_date = 1435299840
 create_date = "2015-06-25T23:24:00-07:00"
 publish_date = "2015-06-25T23:24:00-07:00"
 date = "2015-06-25T23:24:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/eN9LEn1PXjqmGggM160goif7irZg2kpx9Gw4lKNCevIGeRZAzYKyoe1xyvgKxx5Bf0vU3umkSNElALCPCaa-iBfqU8GGWA"
 url = "/webhook-uploads/1435299840840/9780307473318.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 37223
 
 review_relationship = ["reviews/traveling-light"]
-author_relationship = ["authors/sebastian-faulks"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/james-bond-needs-to-be-bookish"]
 +++

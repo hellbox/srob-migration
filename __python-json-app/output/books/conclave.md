@@ -1,8 +1,8 @@
 +++
 index = "-KZdQCUfrQFCckJUpABn"
-_sort_create_date = 1482458700
-_sort_last_updated = 1482458880
-_sort_publish_date = 1482458700
+sort_create_date = 1482458700
+sort_last_updated = 1482458880
+sort_publish_date = 1482458700
 create_date = "2016-12-22T18:05:00-08:00"
 publish_date = "2016-12-22T18:05:00-08:00"
 date = "2016-12-22T18:05:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "thriller"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/gD301J9PPleTnvcIjyvyfxlCS9FrdUcvHEGBw2zmqWfhkClwaOZ7fr4Uzbt-RQ7qdUZty0qs5TrwLnolFuEG5qWP81Ie"
 url = "/webhook-uploads/1482458648243/conclave.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 25409
 
 review_relationship = ""
-author_relationship = ["authors/robert-harris"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/choosing-a-pope-is-messy-human-work"]
 +++

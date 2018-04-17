@@ -1,8 +1,8 @@
 +++
 index = "-KV1FWa77Gf2heKPHx-K"
-_sort_create_date = 1477506600
-_sort_last_updated = 1477517280
-_sort_publish_date = 1477602000
+sort_create_date = 1477506600
+sort_last_updated = 1477517280
+sort_publish_date = 1477602000
 create_date = "2016-10-26T11:30:00-07:00"
 publish_date = "2016-10-27T14:00:00-07:00"
 date = "2016-10-27T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477507385739/SRoB
 twitterauto = "Bruce Lee painted by @Studiochristine for the Portrait Gallery"
 facebookauto = "Portrait Gallery: Bruce Lee"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/bruce-lee"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

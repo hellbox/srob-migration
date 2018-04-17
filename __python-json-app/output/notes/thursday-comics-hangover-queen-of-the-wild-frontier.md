@@ -1,8 +1,8 @@
 +++
 index = "-KftpErHDuBFaVIWxtOS"
-_sort_create_date = 1490250120
-_sort_last_updated = 1490250540
-_sort_publish_date = 1490288460
+sort_create_date = 1490250120
+sort_last_updated = 1490250540
+sort_publish_date = 1490288460
 create_date = "2017-03-22T23:22:00-07:00"
 publish_date = "2017-03-23T10:01:00-07:00"
 date = "2017-03-23T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490249561189/stic
 twitterauto = "The new @michael_deforge comic from @DandQ is a deconstructed comic strip."
 facebookauto = "It begins like an ordinary comic strip. And then it gets weird. Really, really weird."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/drawn-&amp;-quarterly"]
-authors_notes = ["authors/michael-deforge"]
+notes_about = ""
 books = ["books/sticks-angelica-folk-hero"]
 +++
 <p class="image">![](/webhook-uploads/1490249561189/sticksangelica.jpeg)</p>

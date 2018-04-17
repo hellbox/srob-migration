@@ -1,8 +1,8 @@
 +++
 index = "-KwJLduujplgLfsb5UnL"
-_sort_create_date = 1507875000
-_sort_last_updated = 1508390820
-_sort_publish_date = 1508436540
+sort_create_date = 1507875000
+sort_last_updated = 1508390820
+sort_publish_date = 1508436540
 create_date = "2017-10-12T23:10:00-07:00"
 publish_date = "2017-10-19T11:09:00-07:00"
 date = "2017-10-19T11:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507874813872/flin
 twitterauto = "Your final @litcrawlseattle itinerary takes you around the world."
 facebookauto = "Your final Lit Crawl Seattle itinerary takes you around the world without ever leaving Seattle."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lit-crawl"]
-authors_notes = ["authors/willie-fitzgerald"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Tonight is Lit Crawl, a bacchanalia of literary events spread over four courses across Capitol Hill, First Hill, and downtown. [You can find the full schedule here](http://litcrawl.org/seattle/2017-schedule), but we wanted to provide a few possible itineraries for people who have a hard time making up their minds. See you out on the streets tonight!</p>

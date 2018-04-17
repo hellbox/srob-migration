@@ -1,8 +1,8 @@
 +++
 index = "-Ki3h7Oe7YGWEe6Q-FaA"
-_sort_create_date = 1492580040
-_sort_last_updated = 1492580040
-_sort_publish_date = 1492580040
+sort_create_date = 1492580040
+sort_last_updated = 1492580040
+sort_publish_date = 1492580040
 create_date = "2017-04-18T22:34:00-07:00"
 publish_date = "2017-04-18T22:34:00-07:00"
 date = "2017-04-18T22:34:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dRrdIZ20_0tqTXXZbeOepPN67bY389u4yeYdfwh4a0OkP9E2I9sMcH_Njq6DP9Y3hmeOWrlqFdGg5HN-xf2cU2N2agNi"
 url = "/webhook-uploads/1492580035296/listenliberal.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 36854
 
 review_relationship = ""
-author_relationship = ["authors/thomas-frank"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-persecuting-liberal-elites-at-a-fancy-banh-mi-shop", "notes/the-populist-who-crashed-the-party", "notes/talking-with-thomas-frank-about-the-fraud-and-scam-of-american-higher-education"]
 +++

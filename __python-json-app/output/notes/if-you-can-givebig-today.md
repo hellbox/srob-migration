@@ -1,8 +1,8 @@
 +++
 index = "-KGpYYZ6ckdsQem6rPzz"
-_sort_create_date = 1462261080
-_sort_last_updated = 1462291920
-_sort_publish_date = 1462290300
+sort_create_date = 1462261080
+sort_last_updated = 1462291920
+sort_publish_date = 1462290300
 create_date = "2016-05-03T00:38:00-07:00"
 publish_date = "2016-05-03T08:45:00-07:00"
 date = "2016-05-03T08:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462261025689/give
 twitterauto = "It's time to #GiveBIG! Here are literary nonprofits that deserve your attention:"
 facebookauto = "Today is #GiveBIG, the day when the Seattle Foundation helps stretch your donation to worthy local nonprofits. Here's a list of good Seattle literary nonprofits that deserve your attention."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/givebig"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1462261025689/givebig.png)</p>

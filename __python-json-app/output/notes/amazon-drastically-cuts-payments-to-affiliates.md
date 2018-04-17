@@ -1,8 +1,8 @@
 +++
 index = "-Ke7U8XOnE6WkrvZcqE8"
-_sort_create_date = 1488348540
-_sort_last_updated = 1488402840
-_sort_publish_date = 1488400200
+sort_create_date = 1488348540
+sort_last_updated = 1488402840
+sort_publish_date = 1488400200
 create_date = "2017-02-28T22:09:00-08:00"
 publish_date = "2017-03-01T12:30:00-08:00"
 date = "2017-03-01T12:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A change from Amazon today will likely mean the end for some book bloggers."
 facebookauto = "A change from Amazon today will likely mean the end for some book bloggers."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 For years, Amazon has offered commissions to book bloggers who link to books on Amazon. In other words, if you were reading a review on a blog and you clicked the link on the blog to buy that book on Amazon, you'd be sending a small amount of money the bloggers' way. It's called the affiliate program. Some book blogs have grown to depend on affiliate revenue over the years, and Amazon relied on affiliates to serve, effectively, as handsellers for the company.

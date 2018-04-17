@@ -1,8 +1,8 @@
 +++
 index = "-KrHKFBHOGaXHGNSC1FD"
-_sort_create_date = 1502472360
-_sort_last_updated = 1502472600
-_sort_publish_date = 1502475960
+sort_create_date = 1502472360
+sort_last_updated = 1502472600
+sort_publish_date = 1502475960
 create_date = "2017-08-11T10:26:00-07:00"
 publish_date = "2017-08-11T11:26:00-07:00"
 date = "2017-08-11T11:26:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "From the Help Desk archives: Is it ethically okay to dog-ear books?"
 facebookauto = "From the Help Desk archives: Is it ethically okay to dog-ear books?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">**Cienna Madrid is on vacation. Please enjoy this column from the 2015 Help Desk archives.** *And please remember to keep sending your questions! Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Ask her at * advice@seattlereviewofbooks.com.</p>

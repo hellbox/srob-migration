@@ -1,8 +1,8 @@
 +++
 index = "-K0A6lk0eR_A8MvJSJWG"
-_sort_create_date = 1444369320
-_sort_last_updated = 1444408620
-_sort_publish_date = 1444406880
+sort_create_date = 1444369320
+sort_last_updated = 1444408620
+sort_publish_date = 1444406880
 create_date = "2015-10-08T22:42:00-07:00"
 publish_date = "2015-10-09T09:08:00-07:00"
 date = "2015-10-09T09:08:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sometimes a novelist really shouldn't direct the movie adaptation of her own book. Case in point: Big Stone Gap."
 facebookauto = "The movie adaptation of Big Stone Gap, which was directed by the novelist who wrote Big Stone Gap, is pretty bad. How bad? Well, you might think you accidentally drank cough syrup before watching it."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/movies"]
-authors_notes = ["authors/adriana-trigiani"]
+notes_about = ""
 books = ["books/big-stone-gap"]
 +++
 <p class="image">![](/webhook-uploads/1444368033537/Big-Stone-Grid.jpg)</p>

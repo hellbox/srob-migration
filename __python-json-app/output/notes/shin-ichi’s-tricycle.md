@@ -1,8 +1,8 @@
 +++
 index = "-KfjCr4Kdpw0isbS-EKN"
-_sort_create_date = 1490072040
-_sort_last_updated = 1491892020
-_sort_publish_date = 1491929700
+sort_create_date = 1490072040
+sort_last_updated = 1491892020
+sort_publish_date = 1491929700
 create_date = "2017-03-20T21:54:00-07:00"
 publish_date = "2017-04-11T09:55:00-07:00"
 date = "2017-04-11T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The second poem from April's Poet in Residence, Joan Swift is \"Shin-Ichi\u2019s Tricycle\""
 facebookauto = "The second poem from April's Poet in Residence, Joan Swift is \"Shin-Ichi\u2019s Tricycle\""
 make_image_tweet = "False"
-byline = ["writers/joan-swift"]
+notes_byline = ["writers/joan-swift"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I stepped down from the trolley that day in Hiroshima<br>

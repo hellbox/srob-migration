@@ -1,8 +1,8 @@
 +++
 index = "-L6tjdyk-I43sK0tddTG"
-_sort_create_date = 1520313420
-_sort_last_updated = 1520313840
-_sort_publish_date = 1520313420
+sort_create_date = 1520313420
+sort_last_updated = 1520313840
+sort_publish_date = 1520313420
 create_date = "2018-03-05T21:17:00-08:00"
 publish_date = "2018-03-05T21:17:00-08:00"
 date = "2018-03-05T21:17:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Religion"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ZAe6jt8rTh43-6wbhRLM3cbzJPorCci8nWrDrEVlyLjRYUh7Oan2q53X1Ekf49AOpGiyzwBWuvsbqMP03kWvSixJ5P6D"
 url = "/webhook-uploads/1520313678216/TAW-25-Cover.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 269642
 
 review_relationship = ["reviews/picking-up-the-pencil"]
-author_relationship = ["authors/julia-cameron"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

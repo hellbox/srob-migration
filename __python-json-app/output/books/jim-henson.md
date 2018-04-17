@@ -1,8 +1,8 @@
 +++
 index = "-KuID4lIy_UYxu0Lr-Rz"
-_sort_create_date = 1505708460
-_sort_last_updated = 1505708460
-_sort_publish_date = 1505708460
+sort_create_date = 1505708460
+sort_last_updated = 1505708460
+sort_publish_date = 1505708460
 create_date = "2017-09-17T21:21:00-07:00"
 publish_date = "2017-09-17T21:21:00-07:00"
 date = "2017-09-17T21:21:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/itl2fYTYi5ZrVmo1LKIuP-rg87dpomvWEy4VCJPKvffsqaTWBLnwnW5l66q-YPvYhzBwJQzVzHP16g-zzEUpOo87d44"
 url = "/webhook-uploads/1505708490511/17262134.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 42092
 
 review_relationship = ["reviews/drawn-from-felt"]
-author_relationship = ["authors/brian-jay-jones"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

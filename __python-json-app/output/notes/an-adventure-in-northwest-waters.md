@@ -1,8 +1,8 @@
 +++
 index = "-KX42gXHCv1-Ksw14W97"
-_sort_create_date = 1479701040
-_sort_last_updated = 1479772560
-_sort_publish_date = 1479762000
+sort_create_date = 1479701040
+sort_last_updated = 1479772560
+sort_publish_date = 1479762000
 create_date = "2016-11-20T20:04:00-08:00"
 publish_date = "2016-11-21T13:00:00-08:00"
 date = "2016-11-21T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479700652867/INSI
 twitterauto = "Sponsor @epicenterpress is here to share @susanmconrad's incredible true story."
 facebookauto = "Sponsor Epicenter Press here to share Susan Marie Conrad's incredible true story."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/susan-marie-conrad"]
+notes_about = ""
 books = ["books/inside"]
 +++
 <p class="image-left">![](/webhook-uploads/1479700812764/inside-small.jpg)</p>

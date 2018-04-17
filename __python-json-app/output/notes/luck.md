@@ -1,8 +1,8 @@
 +++
 index = "-KpIj5mk21Hf6AA_Bcgu"
-_sort_create_date = 1500348420
-_sort_last_updated = 1500646860
-_sort_publish_date = 1501001700
+sort_create_date = 1500348420
+sort_last_updated = 1500646860
+sort_publish_date = 1501001700
 create_date = "2017-07-17T20:27:00-07:00"
 publish_date = "2017-07-25T09:55:00-07:00"
 date = "2017-07-25T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our final poem, from July Poet in Residence @kelliagodon, is called \"Luck\""
 facebookauto = "Our final poem, from July Poet in Residence Kelli Russell Agodon, is called \"Luck\""
 make_image_tweet = "False"
-byline = ["writers/kelli-russell-agodon"]
+notes_byline = ["writers/kelli-russell-agodon"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 like a heavy freight train<br>

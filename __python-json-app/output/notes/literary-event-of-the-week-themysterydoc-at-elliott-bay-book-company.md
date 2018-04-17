@@ -1,8 +1,8 @@
 +++
 index = "-L-eDo1bSmQuzpCr5DEz"
-_sort_create_date = 1512537000
-_sort_last_updated = 1513385040
-_sort_publish_date = 1513014900
+sort_create_date = 1512537000
+sort_last_updated = 1513385040
+sort_publish_date = 1513014900
 create_date = "2017-12-05T21:10:00-08:00"
 publish_date = "2017-12-11T09:55:00-08:00"
 date = "2017-12-11T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512536893623/them
 twitterauto = "In the wrong hands, Matthew McIntosh\u2019s second novel, theMystery.doc, could be a murder weapon..."
 facebookauto = "In the wrong hands, Matthew McIntosh\u2019s second novel, theMystery.doc, could be a murder weapon..."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/matthew-mcintosh"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1512536893623/themystery.jpg)</p>

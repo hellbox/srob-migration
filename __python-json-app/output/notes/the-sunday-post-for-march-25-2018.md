@@ -1,8 +1,8 @@
 +++
 index = "-L8TAu_LtaH4AvUJ2tHL"
-_sort_create_date = 1521998580
-_sort_last_updated = 1521998940
-_sort_publish_date = 1521998580
+sort_create_date = 1521998580
+sort_last_updated = 1521998940
+sort_publish_date = 1521998580
 create_date = "2018-03-25T10:23:00-07:00"
 publish_date = "2018-03-25T10:23:00-07:00"
 date = "2018-03-25T10:23:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = "Why we should turn to art when times are bleak, profanity in poetry, hipsters as a dying term, and making a Chinese Typewriter. All in today's Sunday Post. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that’s your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

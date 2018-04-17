@@ -1,8 +1,8 @@
 +++
 index = "-KXtcFEQPqN-JA2jJSwb"
-_sort_create_date = 1480583040
-_sort_last_updated = 1480583220
-_sort_publish_date = 1480961040
+sort_create_date = 1480583040
+sort_last_updated = 1480583220
+sort_publish_date = 1480961040
 create_date = "2016-12-01T01:04:00-08:00"
 publish_date = "2016-12-05T10:04:00-08:00"
 date = "2016-12-05T10:04:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480581588293/Wesl
 twitterauto = "What do booksellers want for the holidays? Wesley at @ThirdPlaceBooks wants new titles from @nightboatbooks."
 facebookauto = "All month long, we're talking to booksellers about the books they'd like to receive as holiday gifts. Wesley from Third Place Books is excited about two new titles from the great small press Nightboat Books."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *(Every Monday in December, we're asking a local bookseller which books they'd like to receive for a holiday gift. Our first bookseller is Wesley Minter, who works at Third Place Books Seward Park. Wesley chose* Proxies *by Brian Blanchfield and* In the Empire of the Air *by Donald Britton.)*

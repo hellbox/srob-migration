@@ -1,8 +1,8 @@
 +++
 index = "-Joj-bu6bOfrFRxpoI1R"
-_sort_create_date = 1431012780
-_sort_last_updated = 1438960680
-_sort_publish_date = 1431012780
+sort_create_date = 1431012780
+sort_last_updated = 1438960680
+sort_publish_date = 1431012780
 create_date = "2015-05-07T08:33:00-07:00"
 publish_date = "2015-05-07T08:33:00-07:00"
 date = "2015-05-07T08:33:00-07:00"
@@ -23,14 +23,14 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/xCnl8PHmWoSl4NKFiEVfmnWDNr4RYQSfkn1DTzFAKDfD_2VpSsljXKogsHnSgkkI4SQgi6E6ulUc4wrLar5yOJ929roq"
 url = "/webhook-uploads/1431012796289/9780062336019.jpg"
 width = 265
 height = 400
 review_relationship = ["reviews/omg-gutenberg"]
-author_relationship = ["authors/alix-christie"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

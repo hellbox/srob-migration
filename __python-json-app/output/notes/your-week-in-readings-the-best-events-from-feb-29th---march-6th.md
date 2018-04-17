@@ -1,8 +1,8 @@
 +++
 index = "-KBVBZc1sVzXUdlBCiFI"
-_sort_create_date = 1456534020
-_sort_last_updated = 1456534200
-_sort_publish_date = 1456768020
+sort_create_date = 1456534020
+sort_last_updated = 1456534200
+sort_publish_date = 1456768020
 create_date = "2016-02-26T16:47:00-08:00"
 publish_date = "2016-02-29T09:47:00-08:00"
 date = "2016-02-29T09:47:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456533731837/bloo
 twitterauto = "Your week in readings kicks off @THSEA with a reading about pandemics. (Real, not zombie.)"
 facebookauto = "Your week in readings includes a book about Winnie the Pooh, a reading at a Peruvian chicken joint, and a reading from an under-appreciated giant in Seattle poetry."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/third-place-books-lake-forest-park", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/ej-koh", "authors/megan-kruse"]
+notes_about = ""
 books = ["books/call-me-home"]
 +++
 **MONDAY** Your week starts at [Town Hall](http://www2.bookstore.washington.edu/_events/events_cal.taf?evmonth=02&evyear=2016&eventid=2015121110254900&pre=20160221&pst=20160229) with science journalist **Sonia Shah**. Her new book *Pandemic* examines the possibility of infectious disease destroying human civilization by examining the many times cholera has broken out over the last two centuries. Cholera has killed hundreds of millions of human beings. Which, you know, is depressing. But important!

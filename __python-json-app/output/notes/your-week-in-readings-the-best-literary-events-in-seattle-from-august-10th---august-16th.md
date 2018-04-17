@@ -1,8 +1,8 @@
 +++
 index = "-KORVe7qpoYdAequ1ig4"
-_sort_create_date = 1470430860
-_sort_last_updated = 1470810180
-_sort_publish_date = 1470848400
+sort_create_date = 1470430860
+sort_last_updated = 1470810180
+sort_publish_date = 1470848400
 create_date = "2016-08-05T14:01:00-07:00"
 publish_date = "2016-08-10T10:00:00-07:00"
 date = "2016-08-10T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470430621043/maxr
 twitterauto = "Your week in readings includes an intimate @Sherman_Alexie event and a scratch for your Harry Potter itch."
 facebookauto = "Your week in readings includes an intimate Sherman Alexie event and a scratch for your Harry Potter itch."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/university-book-store"]
-authors_notes = ["authors/sherman-alexie", "authors/natasha-marin"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday August 10: *Train to Bombay* **</h5></p> 

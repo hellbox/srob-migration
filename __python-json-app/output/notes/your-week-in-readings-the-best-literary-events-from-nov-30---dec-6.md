@@ -1,8 +1,8 @@
 +++
 index = "-K3roikuduKcUI7bxI2O"
-_sort_create_date = 1448340540
-_sort_last_updated = 1448340540
-_sort_publish_date = 1448905680
+sort_create_date = 1448340540
+sort_last_updated = 1448340540
+sort_publish_date = 1448905680
 create_date = "2015-11-23T20:49:00-08:00"
 publish_date = "2015-11-30T09:48:00-08:00"
 date = "2015-11-30T09:48:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448340081215/seat
 twitterauto = "Your week in readings features a presidential biography, a craft fair, a poet, and a true crime book. Plus: more!"
 facebookauto = "We choose one awesome event for every day of the week. Our picks this week include a true crime book, a presidential biography, and Urban Craft Uprising. Plus: the proverbial more!"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/town-hall-seattle"]
-authors_notes = ["authors/anca-l-szil\u00e1gyi"]
+notes_about = ""
 books = ""
 +++
 **MONDAY** Happy new week! I’m sorry to report that tonight’s reading with [xkcd’s Randall Munro](http://xkcd.com/thing-explainer/) and Hank Green at Town Hall is sold out.  Instead, you should visit [Campion Ballroom at Seattle University](https://townhallseattle.org/event/jon-meacham/) for **Jon Meacham**. Meacham is an excellent presidential biographer, and his newest book is about George Herbert Walker Bush. *Destiny and Power* is a much-needed spotlight on the somewhat-reasonable-in-retrospect man who sired two dullards with presidential aspirations.

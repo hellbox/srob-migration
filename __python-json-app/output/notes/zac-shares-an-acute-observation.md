@@ -1,8 +1,8 @@
 +++
 index = "-KPGQ4gn3BFwhoV6trJz"
-_sort_create_date = 1471318560
-_sort_last_updated = 1471319640
-_sort_publish_date = 1471366500
+sort_create_date = 1471318560
+sort_last_updated = 1471319640
+sort_publish_date = 1471366500
 create_date = "2016-08-15T20:36:00-07:00"
 publish_date = "2016-08-16T09:55:00-07:00"
 date = "2016-08-16T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem \"Zac shares an acute observation\" is from @lionvitamin"
 facebookauto = "Our Tuesday Poem \"Zac shares an acute observation\" is from Matthew Schnirman"
 make_image_tweet = "False"
-byline = ["writers/matthew-schnirman"]
+notes_byline = ["writers/matthew-schnirman"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 From the other-sided, alee the valley; to give what you want &mdash;<br>

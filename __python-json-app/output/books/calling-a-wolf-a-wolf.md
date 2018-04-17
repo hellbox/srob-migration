@@ -1,8 +1,8 @@
 +++
 index = "-L6Kkc7qVQaTFHQEcpKL"
-_sort_create_date = 1519710120
-_sort_last_updated = 1519710120
-_sort_publish_date = 1519710120
+sort_create_date = 1519710120
+sort_last_updated = 1519710120
+sort_publish_date = 1519710120
 create_date = "2018-02-26T21:42:00-08:00"
 publish_date = "2018-02-26T21:42:00-08:00"
 date = "2018-02-26T21:42:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/nCZxz0HdtEzHD-iMzsTHQPuFIVrTvpUzbARmgUbCuPztXRM38q4_l34Aqgl-B4Q54FwxwwtW0rUeTyfaCZVcKReK0is"
 url = "/webhook-uploads/1519710012378/Calling%20a%20Wolf%20a%20Wolf_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 13469
 
 review_relationship = ["reviews/a-wolf-at-the-door"]
-author_relationship = ["authors/kaveh-akbar"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

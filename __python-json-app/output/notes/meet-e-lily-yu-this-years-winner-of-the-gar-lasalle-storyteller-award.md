@@ -1,8 +1,8 @@
 +++
 index = "-L-PCLHmgcDxesWmYCi8"
-_sort_create_date = 1512268140
-_sort_last_updated = 1512269100
-_sort_publish_date = 1512411900
+sort_create_date = 1512268140
+sort_last_updated = 1512269100
+sort_publish_date = 1512411900
 create_date = "2017-12-02T18:29:00-08:00"
 publish_date = "2017-12-04T10:25:00-08:00"
 date = "2017-12-04T10:25:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512268005561/E_Li
 twitterauto = "Meet E. Lily Yu, the winner of this year's @artisttrust Gar LaSalle Storyteller Award."
 facebookauto = "Meet E. Lily Yu, the winner of this year's Gar LaSalle Storyteller Award from Artist Trust! She's a major Seattle talent to watch."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/artist-trust"]
-authors_notes = ["authors/anca-l-szil\u00e1gyi", "authors/peter-mountford", "authors/e-lily-yu"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">This morning, Artist Trust announced that Seattle writer E. Lily Yu is the recipient of this year's [Gar LaSalle Storyteller Award](https://www.garlasalle.com/2017/07/artist-trust-lasalle-storyteller-award/). This is a fairly new award in Washington State's arts scene, but it's a mighty one — it pays $10,000 to its winner, with no strings attached. In 2015, Anca L.Szilágyi was the first Gar LaSalle recipient, and that prize money seems to have paid off; her debut novel, *Daughters of the Air*, is [launching tomorrow night at the Hotel Sorrento](http://hotelsorrento.com/event/anca-szilagyi-daughters-of-the-air). Last year's winner was the novelist [Peter Mountford](http://petermountford.com/), whose *The Dismal Science* is a sophomore novel that is so good it will make you renounce the very idea of a sophomore slump.</p>

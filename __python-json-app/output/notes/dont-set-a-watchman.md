@@ -1,8 +1,8 @@
 +++
 index = "-JtqLHFMw2I3itaf6Euq"
-_sort_create_date = 1436504580
-_sort_last_updated = 1436504640
-_sort_publish_date = 1436504580
+sort_create_date = 1436504580
+sort_last_updated = 1436504640
+sort_publish_date = 1436504580
 create_date = "2015-07-09T22:03:00-07:00"
 publish_date = "2015-07-09T22:03:00-07:00"
 date = "2015-07-09T22:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/go-set-a-watchman", "tags/to-kill-a-mockinbird", "tags/harper-lee", "tags/reese-witherspoon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The *Guardian* [just published](http://www.theguardian.com/books/ng-interactive/2015/jul/10/go-set-a-watchman-read-the-first-chapter) the first chapter of Harper Lee's second novel, *Go Set a Watchman*, on a page loaded with animation and "ambient sound" and an audio version of the text read by Reese Witherspoon. It positively reeks of overkill. And how's the chapter? As you may have expected, it's really not very good; some of the writing is painfully awkward.

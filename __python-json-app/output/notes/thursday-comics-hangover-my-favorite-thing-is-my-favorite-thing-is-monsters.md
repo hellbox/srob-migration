@@ -1,8 +1,8 @@
 +++
 index = "-KelZQe-K85HlSGNgEyv"
-_sort_create_date = 1489037760
-_sort_last_updated = 1489037760
-_sort_publish_date = 1489082160
+sort_create_date = 1489037760
+sort_last_updated = 1489037760
+sort_publish_date = 1489082160
 create_date = "2017-03-08T21:36:00-08:00"
 publish_date = "2017-03-09T09:56:00-08:00"
 date = "2017-03-09T09:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489037236737/Mons
 twitterauto = "You've never seen a comic like My Favorite Thing Is Monsters from @fantagraphics."
 facebookauto = "My Favorite Thing Is Monsters is one of those once-in-a-generation comics debuts, like Chris Ware or Robert Crumb."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics"]
-authors_notes = ["authors/emil-ferris"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1489037236737/MonsterCover_FINAL.png)</p>

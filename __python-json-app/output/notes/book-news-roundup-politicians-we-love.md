@@ -1,8 +1,8 @@
 +++
 index = "-KhQNWlv7DDxdGEmLSYy"
-_sort_create_date = 1491886800
-_sort_last_updated = 1491921480
-_sort_publish_date = 1491937200
+sort_create_date = 1491886800
+sort_last_updated = 1491921480
+sort_publish_date = 1491937200
 create_date = "2017-04-10T22:00:00-07:00"
 publish_date = "2017-04-11T12:00:00-07:00"
 date = "2017-04-11T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our book news roundup includes a few politicians we love and a political book we do not love."
 facebookauto = "Our book news roundup includes a few politicians we love and a political book we do not love."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/ted-powers", "authors/halie-theoharides", "authors/jd-vance", "authors/colleen-louise-barry"]
+notes_about = ""
 books = ["books/political-pamphlet-series", "books/hillbilly-elegy", "books/manners", "books/final-rose"]
 +++
 * If you're the kind of person who prefers to read series once they're through, you're in luck! Last week's series of pieces profiling new Seattle publisher Mount Analogue is over. You should read [my interview with Mount Analogue publisher Colleen Louise Barry](http://www.seattlereviewofbooks.com/notes/2017/04/03/for-colleen-louise-barry-mount-analogue-is-the-future-of-books/) and my reviews of Mount Analogue's books: the [erasure series now on display at Open Books](http://www.seattlereviewofbooks.com/reviews/one-of-a-kind/), the [terrific collection of poetry by Ted Powers](http://www.seattlereviewofbooks.com/reviews/the-backwards-map/), the amazing [tone poem constructed solely from captioned screenshots of episodes of *The Bachelor* and *The Bachelorette*](http://www.seattlereviewofbooks.com/reviews/trouble-in-paradise/), and the [pamphlet series](http://www.seattlereviewofbooks.com/reviews/a-colorful-chorus-of-voices/) that reimagines the idea of magazines using an ancient form of political communication.

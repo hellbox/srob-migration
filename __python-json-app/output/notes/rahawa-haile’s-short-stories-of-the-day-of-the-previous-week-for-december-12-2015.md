@@ -1,8 +1,8 @@
 +++
 index = "-K5JcnSQKyLErW_yQnXV"
-_sort_create_date = 1449897660
-_sort_last_updated = 1449897840
-_sort_publish_date = 1449939600
+sort_create_date = 1449897660
+sort_last_updated = 1449897840
+sort_publish_date = 1449939600
 create_date = "2015-12-11T21:21:00-08:00"
 publish_date = "2015-12-12T09:00:00-08:00"
 date = "2015-12-12T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's @KatWithSword, @jessicagross, @SofiaSamatar, and more in @rahawahaile's weekly short story wrap-up."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-story-of-the-day"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the SRoB Rahawa Haile tweets a short story. She gave us permission to collect them every week. She's archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a>.</p> 

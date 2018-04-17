@@ -1,8 +1,8 @@
 +++
 index = "-KigiT_TGG6HR4Zkg9UF"
-_sort_create_date = 1493251500
-_sort_last_updated = 1493251500
-_sort_publish_date = 1493326800
+sort_create_date = 1493251500
+sort_last_updated = 1493251500
+sort_publish_date = 1493326800
 create_date = "2017-04-26T17:05:00-07:00"
 publish_date = "2017-04-27T14:00:00-07:00"
 date = "2017-04-27T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493251158425/SRoB
 twitterauto = "Portrait Gallery: @elisacatrina #illustration by @studiochristine #revenge #poem"
 facebookauto = "Portrait Gallery: Elisa Chavez "
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/elisa-chavez"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

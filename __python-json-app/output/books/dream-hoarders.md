@@ -1,8 +1,8 @@
 +++
 index = "-Kr338LeEPKaa05zeeOs"
-_sort_create_date = 1502234220
-_sort_last_updated = 1502234220
-_sort_publish_date = 1502234220
+sort_create_date = 1502234220
+sort_last_updated = 1502234220
+sort_publish_date = 1502234220
 create_date = "2017-08-08T16:17:00-07:00"
 publish_date = "2017-08-08T16:17:00-07:00"
 date = "2017-08-08T16:17:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/t_5nxdFYv27cb5xtcu0ua6xuYJQaGykizKLdBOHswrk9UyPQ4yhNy1HdoDLwBvHP2NAHK7_UK_7eLwAaaG8eYcUTtSw"
 url = "/webhook-uploads/1502234231244/Dream%20Hoarders_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 20885
 
 review_relationship = ["reviews/unstacking-the-deck"]
-author_relationship = ["authors/richard-reeves"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

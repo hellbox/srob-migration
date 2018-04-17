@@ -1,8 +1,8 @@
 +++
 index = "-KhJ9cMjlCued_iq10vO"
-_sort_create_date = 1491765720
-_sort_last_updated = 1491765720
-_sort_publish_date = 1491843420
+sort_create_date = 1491765720
+sort_last_updated = 1491765720
+sort_publish_date = 1491843420
 create_date = "2017-04-09T12:22:00-07:00"
 publish_date = "2017-04-10T09:57:00-07:00"
 date = "2017-04-10T09:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1491765457173/Scre
 twitterauto = "Erma Blood, the pseudonymous founder of Grab Back Comics, wants you to submit to her anthology."
 facebookauto = "We interviewed Erma Blood, the pseudonymous founder of Grab Back Comics, about her goal to share comics by survivors of sexual assault with the world."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/grab-back-comics", "tags/short-run", "tags/comics-and-medicine-conference"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [Grab Back Comics](https://grabbackcomics.com/) is a site that collects and publishes comics about sexual assault, harassment, advocacy, and consent education. It’s produced, edited, written, and curated by a Seattle cartoonist who uses the pseudonym “Erma Blood.” In person, Blood is thoughtful and eloquent. When the conversation turns to abuse stories, she’s always quick to turn the focus to survivors — what they need, what they feel, how to help. In less than an hour, the immense reserves of compassion and consideration she’s poured into the topic becomes apparent. 

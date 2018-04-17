@@ -1,8 +1,8 @@
 +++
 index = "-KbOK3lZA-216w3qxmoP"
-_sort_create_date = 1485409860
-_sort_last_updated = 1485409860
-_sort_publish_date = 1485457260
+sort_create_date = 1485409860
+sort_last_updated = 1485409860
+sort_publish_date = 1485457260
 create_date = "2017-01-25T21:51:00-08:00"
 publish_date = "2017-01-26T11:01:00-08:00"
 date = "2017-01-26T11:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Looks like the New York Times is dropping graphic novels from its bestseller lists."
 facebookauto = "Looks like the New York Times is dropping graphic novels and mass market paperbacks from its bestseller lists, and also trimming the total number of books that appear on the list."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/new-york-times", "tags/new-york-times-bestseller"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 John Jackson Miller [at Comichron](http://blog.comichron.com/2017/01/whither-new-york-times-graphic-novel.html) reports on some apparent upcoming changes to the *New York Times*'s bestseller list, including the deletion of the graphic novel bestsellers. He continues:

@@ -1,8 +1,8 @@
 +++
 index = "-KFjpPimVxtNmNv-S9W3"
-_sort_create_date = 1461091380
-_sort_last_updated = 1461091380
-_sort_publish_date = 1461091380
+sort_create_date = 1461091380
+sort_last_updated = 1461091380
+sort_publish_date = 1461091380
 create_date = "2016-04-19T11:43:00-07:00"
 publish_date = "2016-04-19T11:43:00-07:00"
 date = "2016-04-19T11:43:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to @fantagraphics, @GWillowWilson, @Oatmeal, and all the other 2016 Eisner nominees!"
 facebookauto = "The Eisner Awards\u00a0\u2014 basically the Oscars of comic books \u2014 have been announced, and Seattle is well-represented this year."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/eisner-awards", "tags/awards", "tags/thursday-comics-hangover", "tags/matthew-inman", "tags/giant-days", "tags/fantagraphics"]
-authors_notes = ["authors/noelle-stevenson", "authors/g-willow-wilson", "authors/brian-k-vaughan"]
+notes_about = ""
 books = ["books/the-eternaut", "books/nimona", "books/ms-marvel"]
 +++
 The 2016 Eisner Award [nominations have been announced](http://www.comicsbeat.com/__trashed/) — the Eisners are basically the Oscars of comic books — and Seattle is well-represented this year. Fantagraphics Books is the most-nominated company of the year, with a whopping 17 nods. (One of Fantagraphics' most-nominated titles is *The Eternaut*, [which I reviewed here at the *Seattle Review of Books* back in December](http://seattlereviewofbooks.com/reviews/the-sky-is-falling/).)

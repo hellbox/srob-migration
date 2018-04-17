@@ -1,8 +1,8 @@
 +++
 index = "-Kav1mJgxt0tqYA9VTJM"
-_sort_create_date = 1484901780
-_sort_last_updated = 1484927160
-_sort_publish_date = 1484942460
+sort_create_date = 1484901780
+sort_last_updated = 1484927160
+sort_publish_date = 1484942460
 create_date = "2017-01-20T00:43:00-08:00"
 publish_date = "2017-01-20T12:01:00-08:00"
 date = "2017-01-20T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today is the day we start taking the country back."
 facebookauto = "Today is the day we start taking the country back."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump", "tags/writers-resist"]
-authors_notes = ["authors/elisa-chavez"]
+notes_about = ""
 books = ""
 +++
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I keep asking myself: What sequence of events, in all human history, was stranger, more bizarre, more tragically ridiculous than this?</p>&mdash; William Gibson (@GreatDismal) <a href="https://twitter.com/GreatDismal/status/822273938428305408">January 20, 2017</a></blockquote>

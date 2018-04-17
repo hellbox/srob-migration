@@ -1,8 +1,8 @@
 +++
 index = "-L2apkFd8Ae21DA8prs5"
-_sort_create_date = 1515701280
-_sort_last_updated = 1515701280
-_sort_publish_date = 1515704880
+sort_create_date = 1515701280
+sort_last_updated = 1515701280
+sort_publish_date = 1515704880
 create_date = "2018-01-11T12:08:00-08:00"
 publish_date = "2018-01-11T13:08:00-08:00"
 date = "2018-01-11T13:08:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes big news from Seattle writer @giganticanovel.\n"
 facebookauto = "Today's Book News Roundup includes big news from Seattle writer Richard Chiem!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/washington-state-book-awards"]
-authors_notes = ["authors/richard-chiem"]
+notes_about = ""
 books = ["books/you-private-person"]
 +++
 * Congratulations to [*You Private Person*](http://www.seattlereviewofbooks.com/reviews/the-second-coming/) author Richard Chiem, whose debut novel, *King of Joy*, [has been bought by Soft Skull Press](https://www.facebook.com/photo.php?fbid=10105604373721964&set=a.10101218979646844.2868207.3317750&type=3&theater). According to the press info, it's "a story of survival and revenge, which follows a woman whose grief for her dead husband leads her to a pronographers underground studio in the woods."

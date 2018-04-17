@@ -1,8 +1,8 @@
 +++
 index = "-KN32JiZSkI_KPNpz5XY"
-_sort_create_date = 1468946760
-_sort_last_updated = 1468947180
-_sort_publish_date = 1468954800
+sort_create_date = 1468946760
+sort_last_updated = 1468947180
+sort_publish_date = 1468954800
 create_date = "2016-07-19T09:46:00-07:00"
 publish_date = "2016-07-19T12:00:00-07:00"
 date = "2016-07-19T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "The one where we talk about books and sitcoms"
 dek = "Hanya Yanagihara and Diane Williams offer a certain kind of prosperity in their novels, that Jack Chelgren felt obligated to investigate. He started with the TV show Friends."
 facebookauto = "What do the novels \"A Little Life\" and \"Fine, Fine, Fine, Fine, Fine\" have in common with the TV show Friends?"
 twitterauto = "The one where we review Hanya Yanagihara and Diane Williams together."
-byline = ["writers/jack-chelgren"]
+reviews_byline = ["writers/jack-chelgren"]
 books_in_this_review = ["books/a-little-life", "books/fine-fine-fine-fine-fine"]
 tags_reviews = ""
-authors_reviews = ["authors/diane-williams", "authors/hanya-yanagihara"]
+reviews_about = ""
 +++
 
 More than ten years after going off the air, NBC’s sitcom _Friends_ [still](www.vulture.com/2016/03/20-somethings-streaming-friends-c-v-r.html) enjoys an enormous influence in popular culture. It’s still [regular grist](www.buzzfeed.com/crystalro/charts-only-friends-fans-will-understand#.buLOZKNgn) for Buzzfeed, it’s still Taylor Swift’s [favorite show](time.com/4299170/taylor-swift-favorite-tv-show-73-questions-vogue/), and last year Netflix reportedly dropped around $120 million for streaming rights. Like the Clintons and boy bands, it’s an artifact of the nineties that, for better or worse, stuck around.

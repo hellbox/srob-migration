@@ -1,8 +1,8 @@
 +++
 index = "-KBGX1gpu4JQr36gICEk"
-_sort_create_date = 1456288020
-_sort_last_updated = 1456329600
-_sort_publish_date = 1456329600
+sort_create_date = 1456288020
+sort_last_updated = 1456329600
+sort_publish_date = 1456329600
 create_date = "2016-02-23T20:27:00-08:00"
 publish_date = "2016-02-24T08:00:00-08:00"
 date = "2016-02-24T08:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456286621443/SCoL
 twitterauto = "Stesha Brandon is the new interim director of @seacityoflit. An interview:"
 facebookauto = "We talked with Stesha Brandon, the new interim executive director of Seattle's City of Literature organization. Why would the UNESCO City of Literature designation matter? What are her goals for the organization? What's next?\n"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-city-of-literature", "tags/unesco", "tags/stesha-brandon", "tags/town-hall-seattle", "tags/university-book-store"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Stesha Brandon has long been one of the most passionate advocates for literary events in Seattle, first in her role as events coordinator at University Book Store and then as program director at Town Hall Seattle. [Today’s announcement that she is the new interim executive director](http://seattlecityoflit.org/blog/) of [Seattle’s City of Literature organization](http://seattlecityoflit.org/) is great news. Brandon brings to the job a steady hand, a proven commitment to the community, and a keen sense of what Seattle’s literary scene needs, as well as a much-needed critical eye and a sterling record of professionalism. Brandon agreed to an e-mail interview about her plans for the future of Seattle’s City of Literature bid.</p>

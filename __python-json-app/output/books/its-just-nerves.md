@@ -1,8 +1,8 @@
 +++
 index = "-Kxdwonul0zvDNZAWvBm"
-_sort_create_date = 1509311040
-_sort_last_updated = 1510637400
-_sort_publish_date = 1509311040
+sort_create_date = 1509311040
+sort_last_updated = 1510637400
+sort_publish_date = 1509311040
 create_date = "2017-10-29T14:04:00-07:00"
 publish_date = "2017-10-29T14:04:00-07:00"
 date = "2017-10-29T14:04:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-e9sGaoQw0pUcrui4WmX49rKsQ79uy3wiypvSnWFM4WWNv7lDAaRhV12hGdn6m0FEiRPD4YPzi7xLTJ4gSrGkAuspJRrmg"
 url = "/webhook-uploads/1509310940808/It's%20just%20nerves_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 34519
 
 review_relationship = ""
-author_relationship = ["authors/kelly-davio"]
+books_author = ""
 sponsorships_book = ["sponsorships/its-just-nerves"]
 notes_relationship = ["notes/read-strong-is-the-new-sexy-from-sponsor-kelly-davio"]
 +++

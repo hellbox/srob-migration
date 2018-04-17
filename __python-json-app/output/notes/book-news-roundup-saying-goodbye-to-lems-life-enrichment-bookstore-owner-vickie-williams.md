@@ -1,8 +1,8 @@
 +++
 index = "-KfF5viTi1kxl0fkat4u"
-_sort_create_date = 1489550160
-_sort_last_updated = 1489600260
-_sort_publish_date = 1489605600
+sort_create_date = 1489550160
+sort_last_updated = 1489600260
+sort_publish_date = 1489605600
 create_date = "2017-03-14T20:56:00-07:00"
 publish_date = "2017-03-15T12:20:00-07:00"
 date = "2017-03-15T12:20:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Book News Roundup: Great local book stories from @SoSeaEmerald, @VanguardSeattle, & @ShelfAwareness."
 facebookauto = "Today's Book News Roundup includes great local literary stories from the South Seattle Emerald, Shelf Awareness, Vanguard Seattle, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/south-seattle-emerald"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * At [the South Seattle Emerald](https://southseattleemerald.com/2017/03/14/hundreds-pay-respect-to-the-life-of-vickie-williams/), Marcus Harrison Green says goodbye to Vickie Williams, the owner of a long-running Columbia City Bookstore:

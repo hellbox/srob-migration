@@ -1,8 +1,8 @@
 +++
 index = "-KYF2KaQvHjkzGwUX4K9"
-_sort_create_date = 1480959240
-_sort_last_updated = 1480959420
-_sort_publish_date = 1480971600
+sort_create_date = 1480959240
+sort_last_updated = 1480959420
+sort_publish_date = 1480971600
 create_date = "2016-12-05T09:34:00-08:00"
 publish_date = "2016-12-05T13:00:00-08:00"
 date = "2016-12-05T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480959223543/My%2
 twitterauto = "Sponsor Nick K Adams brought the Civil War alive with his great-grandfather's letters home"
 facebookauto = "Sponsor Nick K Adams brought the Civil War alive with his great-grandfather's letters home."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1480959279176/My%20Dear%20Wife%20Cover.jpg)</p>

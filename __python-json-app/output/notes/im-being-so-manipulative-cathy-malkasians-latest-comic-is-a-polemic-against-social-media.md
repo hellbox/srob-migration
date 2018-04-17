@@ -1,8 +1,8 @@
 +++
 index = "-KjMYXJp5xwLAMqgV6le"
-_sort_create_date = 1493970060
-_sort_last_updated = 1494214560
-_sort_publish_date = 1494262500
+sort_create_date = 1493970060
+sort_last_updated = 1494214560
+sort_publish_date = 1494262500
 create_date = "2017-05-05T00:41:00-07:00"
 publish_date = "2017-05-08T09:55:00-07:00"
 date = "2017-05-08T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493969786851/eart
 twitterauto = "We talked with Cathy Malkasian about the anti-social-media sentiment in her dreamy comic Eartha."
 facebookauto = "We talked with Cathy Malkasian about the anti-social-media sentiment in her dreamy comic Eartha."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/fantagraphics"]
-authors_notes = ["authors/gary-groth", "authors/cathy-malkasian"]
+notes_about = ""
 books = ["books/eartha"]
 +++
 <p class="image-left">![](/webhook-uploads/1493969786851/earthacover.jpeg)</p>

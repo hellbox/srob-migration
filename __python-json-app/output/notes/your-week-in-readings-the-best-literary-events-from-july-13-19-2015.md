@@ -1,8 +1,8 @@
 +++
 index = "-Ju-UhLoIb80M-EuK9OV"
-_sort_create_date = 1436674860
-_sort_last_updated = 1436674860
-_sort_publish_date = 1436804400
+sort_create_date = 1436674860
+sort_last_updated = 1436674860
+sort_publish_date = 1436804400
 create_date = "2015-07-11T21:21:00-07:00"
 publish_date = "2015-07-13T09:20:00-07:00"
 date = "2015-07-13T09:20:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/go-set-a-watchman"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **MONDAY**: Elliott Bay Book Company hosts *Seattle Times* reporter James Neff, who debuts his new historical account, *Vendetta: Bobby Kennedy Versus Jimmy Hoffa*. This one’s got some good blurbs. Seymour Hersh says, “This is not a book about a good Bobby versus a bad Hoffa. It is a study of two men who always got what they wanted staging a shootout on the streets of Laredo. And, as Neff tells it, there were no winners.” And Erik Larson — *Devil in the White City* Erik Larson — calls it “a triumph of investigation and revelation.” That makes it well worth your time.

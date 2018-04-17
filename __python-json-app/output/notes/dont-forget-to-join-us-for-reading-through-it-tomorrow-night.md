@@ -1,8 +1,8 @@
 +++
 index = "-Kj6SCFQy9idrMb7LrRj"
-_sort_create_date = 1493699940
-_sort_last_updated = 1493699940
-_sort_publish_date = 1493750340
+sort_create_date = 1493699940
+sort_last_updated = 1493699940
+sort_publish_date = 1493750340
 create_date = "2017-05-01T21:39:00-07:00"
 publish_date = "2017-05-02T11:39:00-07:00"
 date = "2017-05-02T11:39:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493266767649/The-
 twitterauto = "We hope you'll join us for the Reading Through It Book Club tomorrow @ThirdPlaceBooks."
 facebookauto = "We hope you'll join us for the Reading Through It Book Club tomorrow at Third Place Books Seward Park. This month's book is amazing!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it", "tags/third-place-books-seward-park"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1493266767649/The-Righteous-Mind-Cover1.png)</p>

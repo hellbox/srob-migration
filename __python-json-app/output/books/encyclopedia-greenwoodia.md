@@ -1,8 +1,8 @@
 +++
 index = "-KEdg6PdfDISrWqqvB2e"
-_sort_create_date = 1459914540
-_sort_last_updated = 1459914540
-_sort_publish_date = 1459914540
+sort_create_date = 1459914540
+sort_last_updated = 1459914540
+sort_publish_date = 1459914540
 create_date = "2016-04-05T20:49:00-07:00"
 publish_date = "2016-04-05T20:49:00-07:00"
 date = "2016-04-05T20:49:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NZ2_rYn6q5xnyMvFRMG6SLE_BcAOWSXy82-CQ4YLHquwwF5se-qG_5gx0W_li5M_DqFJna4KI0k6rnT6lA9OP6iGdBnw"
 url = "/webhook-uploads/1459914354088/BFI_REVIEW_FINAL.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 263225
 
 review_relationship = ["reviews/give-me-a-g-r-e-e-n-w-o-o-d!-"]
-author_relationship = ["authors/multiple-authors"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

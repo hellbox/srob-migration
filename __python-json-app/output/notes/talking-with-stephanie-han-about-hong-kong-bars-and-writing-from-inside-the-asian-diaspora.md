@@ -1,8 +1,8 @@
 +++
 index = "-Kedbv_3PNeUqC1LhYCP"
-_sort_create_date = 1488904500
-_sort_last_updated = 1489248960
-_sort_publish_date = 1489424400
+sort_create_date = 1488904500
+sort_last_updated = 1489248960
+sort_publish_date = 1489424400
 create_date = "2017-03-07T08:35:00-08:00"
 publish_date = "2017-03-13T10:00:00-07:00"
 date = "2017-03-13T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Americans idealize the extrovert\" \u2014\u00a0Renee Simms talks with Stephanie Han in this wonderful, long interview"
 facebookauto = "\"Americans idealize the extrovert\" \u2014\u00a0Renee Simms talks with Stephanie Han in this wonderful, long interview"
 make_image_tweet = "False"
-byline = ["writers/renee-simms"]
+notes_byline = ["writers/renee-simms"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/stephanie-han"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">

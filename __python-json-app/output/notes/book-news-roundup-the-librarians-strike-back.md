@@ -1,8 +1,8 @@
 +++
 index = "-KcQz6nM3ufhaQ_kOo1C"
-_sort_create_date = 1486528200
-_sort_last_updated = 1486575900
-_sort_publish_date = 1486586700
+sort_create_date = 1486528200
+sort_last_updated = 1486575900
+sort_publish_date = 1486586700
 create_date = "2017-02-07T20:30:00-08:00"
 publish_date = "2017-02-08T12:45:00-08:00"
 date = "2017-02-08T12:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In today's Book News Roundup: As Trumpy forces take over, the librarians strike back."
 facebookauto = "In today's Book News Roundup: As Trumpy forces take over, the librarians strike back."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library", "tags/librarians", "tags/documentary"]
-authors_notes = ["authors/david-shields", "authors/jen-graves"]
+notes_about = ""
 books = ""
 +++
 * Have you read Seattle Public Library City Librarian Marcellus Turner's [open letter to the community](http://www.spl.org/about-the-library/leaders-and-organizations/city-librarian) yet? It's very good:

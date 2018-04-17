@@ -1,8 +1,8 @@
 +++
 index = "-K2yd3Vby98xaSRm2NEB"
-_sort_create_date = 1447381140
-_sort_last_updated = 1447381140
-_sort_publish_date = 1447381140
+sort_create_date = 1447381140
+sort_last_updated = 1447381140
+sort_publish_date = 1447381140
 create_date = "2015-11-12T18:19:00-08:00"
 publish_date = "2015-11-12T18:19:00-08:00"
 date = "2015-11-12T18:19:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447381056009/IMG_
 twitterauto = "Nothing better on a stormy night than looking at some new books. Here's our Mail Call for today. "
 facebookauto = "SeaTac is delayed, streets are gridlocked with cars in the intersections and the pedestrian box, rain is falling, and a bigger storm is brewing. Why not look at some of the latest books that've come through? It's time for Mail Call!"
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1447381056009/IMG_0848.jpg)</p>

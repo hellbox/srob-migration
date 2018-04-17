@@ -1,8 +1,8 @@
 +++
 index = "-K8FiepO72i5d2FQucFv"
-_sort_create_date = 1453053300
-_sort_last_updated = 1453053300
-_sort_publish_date = 1453053300
+sort_create_date = 1453053300
+sort_last_updated = 1453053300
+sort_publish_date = 1453053300
 create_date = "2016-01-17T09:55:00-08:00"
 publish_date = "2016-01-17T09:55:00-08:00"
 date = "2016-01-17T09:55:00-08:00"
@@ -20,6 +20,6 @@ time_description = "
 end_time = "2016-01-17T16:00:00-08:00"
 enddate = ""
 is_sponsorship = true
-authors = ["authors/tracy-weber"]
+authors = ""
 sponsorship_event = ""
 venues = ""

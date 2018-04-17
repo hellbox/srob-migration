@@ -1,8 +1,8 @@
 +++
 index = "-K29cCN7O0jfAmjrD0ZT"
-_sort_create_date = 1446508500
-_sort_last_updated = 1446508500
-_sort_publish_date = 1446508500
+sort_create_date = 1446508500
+sort_last_updated = 1446508500
+sort_publish_date = 1446508500
 create_date = "2015-11-02T15:55:00-08:00"
 publish_date = "2015-11-02T15:55:00-08:00"
 date = "2015-11-02T15:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon", "tags/retail"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Looks like Amazon gave the *Seattle Times* the exclusive. [Jay Greene reports](http://www.seattletimes.com/business/amazon/amazon-opens-first-bricks-and-mortar-bookstore-at-u-village/):

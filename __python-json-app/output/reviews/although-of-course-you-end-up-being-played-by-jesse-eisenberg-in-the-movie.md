@@ -1,8 +1,8 @@
 +++
 index = "-JwAxWoO93bSH5LNg9X1"
-_sort_create_date = 1439014680
-_sort_last_updated = 1439015700
-_sort_publish_date = 1439014680
+sort_create_date = 1439014680
+sort_last_updated = 1439015700
+sort_publish_date = 1439014680
 create_date = "2015-08-07T23:18:00-07:00"
 publish_date = "2015-08-07T23:18:00-07:00"
 date = "2015-08-07T23:18:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "3b0631c7-ddbf-8fc3-54cb-18c726d63ac5"
 name = "Although of course you end up being played by Jesse Eisenberg in the movie"
 title = "Although of course you end up being played by Jesse Eisenberg in the movie"
 dek = "A new movie adaptation of a bad book about David Foster Wallace succeeds because it understands all of the flaws of its source text."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/although-of-course-you-end-up-becoming-yourself"]
 tags_reviews = ["tags/david-foster-wallace", "tags/adaptation"]
-authors_reviews = ["authors/david-lipsky"]
+reviews_about = ""
 +++
 
 Five years ago, [I reviewed David Lipsky’s book](http://www.thestranger.com/seattle/constant-reader/Content?oid=4318059) *Although of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace*. It’s an account, published just a year or so after Wallace’s death, of  Lipsky’s days-long *Rolling Stone* interview with Wallace at the end of his *Infinite Jest* reading tour. Here’s the nut of the review:

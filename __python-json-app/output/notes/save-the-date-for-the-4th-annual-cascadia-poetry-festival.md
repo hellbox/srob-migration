@@ -1,8 +1,8 @@
 +++
 index = "-KQxWHYuwwvEORq7RtYM"
-_sort_create_date = 1473132120
-_sort_last_updated = 1473132120
-_sort_publish_date = 1473192600
+sort_create_date = 1473132120
+sort_last_updated = 1473132120
+sort_publish_date = 1473192600
 create_date = "2016-09-05T20:22:00-07:00"
 publish_date = "2016-09-06T13:10:00-07:00"
 date = "2016-09-06T13:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Save the date for the 4th annual Cascadia Poetry Festival, November 3rd to 6th."
 facebookauto = "Now that it's fall, you should start planning your literary season. Here's a must-attend: the fourth annual Cascadia Poetry Festival happens from November 3rd to November 6th. This one is going to be especially good."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/cascadia-poetry-festival"]
-authors_notes = ["authors/denise-levertov"]
+notes_about = ""
 books = ""
 +++
 Now that fall has arrived in Seattle again — I type this while wearing the first sweater of the season — it's time to start planning your literary autumn. And there's a lot going on this year; your schedule will be packed before you know it.

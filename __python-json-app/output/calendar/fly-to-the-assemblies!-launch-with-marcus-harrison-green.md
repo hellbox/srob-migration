@@ -1,8 +1,8 @@
 +++
 index = "-Kx48rG9Is476kvqo_fp"
-_sort_create_date = 1508693700
-_sort_last_updated = 1508698320
-_sort_publish_date = 1508693700
+sort_create_date = 1508693700
+sort_last_updated = 1508698320
+sort_publish_date = 1508693700
 create_date = "2017-10-22T10:35:00-07:00"
 publish_date = "2017-10-22T10:35:00-07:00"
 date = "2017-10-22T10:35:00-07:00"
@@ -26,6 +26,6 @@ time_description = "
 end_time = "2017-10-22T21:00:00-07:00"
 enddate = ""
 is_sponsorship = true
-authors = ["authors/marcus-harrison-green"]
+authors = ""
 sponsorship_event = ""
 venues = ""

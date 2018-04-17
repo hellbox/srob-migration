@@ -1,8 +1,8 @@
 +++
 index = "-JxrWa-kOqh0MdNO5CQ9"
-_sort_create_date = 1440819300
-_sort_last_updated = 1440819300
-_sort_publish_date = 1440819300
+sort_create_date = 1440819300
+sort_last_updated = 1440819300
+sort_publish_date = 1440819300
 create_date = "2015-08-28T20:35:00-07:00"
 publish_date = "2015-08-28T20:35:00-07:00"
 date = "2015-08-28T20:35:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/T4OUr5T_d1La1yV0fDUrb5padUVBd714mI5dtC844B-ZavIsQybJQjfKuFWHakIMC25qzhJJ2GE6wi3pZ-4kF5J60nRP"
 url = "/webhook-uploads/1440819289200/9780316246620.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 25575
 
 review_relationship = ["reviews/pronouns-in-space"]
-author_relationship = ["authors/ann-leckie"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/hugo-award-finalists-announced", "notes/meet-the-matchmakers"]
 +++

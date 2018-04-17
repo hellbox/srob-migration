@@ -1,8 +1,8 @@
 +++
 index = "-L3_OJieUT1UjeL1tSYs"
-_sort_create_date = 1516750800
-_sort_last_updated = 1516750800
-_sort_publish_date = 1516750800
+sort_create_date = 1516750800
+sort_last_updated = 1516750800
+sort_publish_date = 1516750800
 create_date = "2018-01-23T15:40:00-08:00"
 publish_date = "2018-01-23T15:40:00-08:00"
 date = "2018-01-23T15:40:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Ursula Le Guin has died at 88"
 facebookauto = "Ursula Le Guin has died at 88"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/obituaries"]
-authors_notes = ["authors/ursula-k-le-guin"]
+notes_about = ""
 books = ""
 +++
 Ursula Le Guin, grand dame of speculative fiction, and resident of Portland, died yesterday at 88, reports the [_New York Times_](https://www.nytimes.com/2018/01/23/obituaries/ursula-k-le-guin-acclaimed-for-her-fantasy-fiction-is-dead-at-88.html).

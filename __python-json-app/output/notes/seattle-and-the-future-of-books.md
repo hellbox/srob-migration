@@ -1,8 +1,8 @@
 +++
 index = "-JzsT-1IYebz8j2liAHt"
-_sort_create_date = 1442982600
-_sort_last_updated = 1442982600
-_sort_publish_date = 1443040200
+sort_create_date = 1442982600
+sort_last_updated = 1442982600
+sort_publish_date = 1443040200
 create_date = "2015-09-22T21:30:00-07:00"
 publish_date = "2015-09-23T13:30:00-07:00"
 date = "2015-09-23T13:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@paulconstant says preparing for @ignitesea was scary, but he's glad he did it. Submit your speech to Ignite now."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/ignite"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last week, I gave a talk at [Ignite Seattle](http://igniteseattle.com/) about the state of Seattle's literary scene, Amazon, and the future of literature. Here it is: 

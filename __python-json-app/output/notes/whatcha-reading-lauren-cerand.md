@@ -1,8 +1,8 @@
 +++
 index = "-L3GmccCGMB8nLWQVpBm"
-_sort_create_date = 1516421940
-_sort_last_updated = 1516421940
-_sort_publish_date = 1516469400
+sort_create_date = 1516421940
+sort_last_updated = 1516421940
+sort_publish_date = 1516469400
 create_date = "2018-01-19T20:19:00-08:00"
 publish_date = "2018-01-20T09:30:00-08:00"
 date = "2018-01-20T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516421719536/laur
 twitterauto = "Wherein we are kindly visited by @luxlotus to fill us in on what she's reading."
 facebookauto = "Wherein we are kindly visited by Lauren Cerand to fill us in on what she's reading."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/whatcha-reading"]
-authors_notes = ["authors/natalia-ginzburg", "authors/adam-federman", "authors/patrick-leigh-fermor", "authors/fulco-di-verdura", "authors/domenico-starnone", "authors/roberto-tiraboschi"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week we ask an interesting figure what they're digging into. Have ideas who we should reach out to? Let it fly: [info@seattlereviewofbooks.com](mailto:info@seattlereviewofbooks.com). Want to read more? Check out the [archives](http://www.seattlereviewofbooks.com/tags/whatcha-reading).</p>

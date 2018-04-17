@@ -1,8 +1,8 @@
 +++
 index = "-L1sDkwj0ZASUtTnPShw"
-_sort_create_date = 1514919360
-_sort_last_updated = 1514926380
-_sort_publish_date = 1514926560
+sort_create_date = 1514919360
+sort_last_updated = 1514926380
+sort_publish_date = 1514926560
 create_date = "2018-01-02T10:56:00-08:00"
 publish_date = "2018-01-02T12:56:00-08:00"
 date = "2018-01-02T12:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's all the book news you might have missed over the holiday break:"
 facebookauto = "Here's all the book news you might have missed over the holiday break:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/south-seattle-emerald", "tags/milo-yiannopoulos"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Over [at the South Seattle Emerald, librarian Maggie Block published](https://southseattleemerald.com/2017/12/27/rad-books-for-rad-kids-give-the-gift-of-resistance-part-1/) a spectacular roundup of radical books for young readers. You should read all three parts.

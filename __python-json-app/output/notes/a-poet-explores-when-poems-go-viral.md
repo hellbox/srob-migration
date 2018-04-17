@@ -1,8 +1,8 @@
 +++
 index = "-KKkw1vxW0kVR0LS72LS"
-_sort_create_date = 1466478600
-_sort_last_updated = 1512713460
-_sort_publish_date = 1466533800
+sort_create_date = 1466478600
+sort_last_updated = 1512713460
+sort_publish_date = 1466533800
 create_date = "2016-06-20T20:10:00-07:00"
 publish_date = "2016-06-21T11:30:00-07:00"
 date = "2016-06-21T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What made @maggiesmithpoet's poem \"Good Bones\" go viral in @WaxwingMag? We put @kelliagodon on the case. "
 facebookauto = "What made Maggie Smith's \"Good Bones\" go viral last week, after Waxwings Magazine published it? We put Kellie Russell Agodon on the case."
 make_image_tweet = "False"
-byline = ["writers/kelli-russell-agodon"]
+notes_byline = ["writers/kelli-russell-agodon"]
 tags_notes = ["tags/poetry"]
-authors_notes = ["authors/fatimah-asghar", "authors/maggie-smith", "authors/tarfia-faizullah", "authors/warsan-shire", "authors/danez-smith", "authors/patricia-lockwood", "authors/wh-auden", "authors/billy-collins"]
+notes_about = ""
 books = ""
 +++
 When was the last time you remember a poem going viral? This week, despite ongoing reports of “poetry being dead” for the last fifteen years, [Maggie Smith’s poem “Good Bones”](http://waxwingmag.org/items/Issue9/28_Smith-Good-Bones.php#top) has been shared generously and thousands of times over on Twitter, Facebook, Instagram, and Tumblr, as well as the story being picked up in the [_Guardian_](https://www.theguardian.com/books/2016/jun/17/poem-about-struggle-to-love-this-world-as-it-is-viral-maggie-smith-good-bones), [_Slate_](http://www.slate.com/blogs/browbeat/2016/06/17/_good_bones_poet_maggie_smith_on_watching_her_poem_go_viral_after_the_orlando.html), [_The Daily Dot_](http://www.dailydot.com/lifestyle/maggie-smith-poem-orlando/), and [_The Oregonian_](http://www.oregonlive.com/trending/2016/06/read_this_viral_poem_and_try_n.html). 

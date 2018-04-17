@@ -1,8 +1,8 @@
 +++
 index = "-KUQ8xhOG9ExXP1K1Ehf"
-_sort_create_date = 1476850560
-_sort_last_updated = 1476904920
-_sort_publish_date = 1476990060
+sort_create_date = 1476850560
+sort_last_updated = 1476904920
+sort_publish_date = 1476990060
 create_date = "2016-10-18T21:16:00-07:00"
 publish_date = "2016-10-20T12:01:00-07:00"
 date = "2016-10-20T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup: a special offer from @mosslitmag and a dark & gritty reimagining of the funny papers."
 facebookauto = "Today in Book News Roundup: a special offer from Moss, two great items from Seattle Public Library, and a dark & gritty reimagining of the funny papers."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/moss", "tags/book-club", "tags/seattle-public-library", "tags/push--pull"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * [*Moss*](http://www.mosslit.com/vol02/issue05.html), the excellent free Northwest-centric literary magazine, is offering [$20 annual subscriptions through Patreon](https://www.patreon.com/mosslit), which gets you an annual print edition and early access to each quarterly issue of the magazine. This is absolutely a steal. Give if  you can.

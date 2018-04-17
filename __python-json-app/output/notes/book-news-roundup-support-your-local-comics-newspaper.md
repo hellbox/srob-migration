@@ -1,8 +1,8 @@
 +++
 index = "-KjfB7aoFUZfnKc9JAwn"
-_sort_create_date = 1494299460
-_sort_last_updated = 1494303720
-_sort_publish_date = 1494360660
+sort_create_date = 1494299460
+sort_last_updated = 1494303720
+sort_publish_date = 1494360660
 create_date = "2017-05-08T20:11:00-07:00"
 publish_date = "2017-05-09T13:11:00-07:00"
 date = "2017-05-09T13:11:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in book news roundup: The trolls have won."
 facebookauto = "Today in book news roundup: The trolls have won. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thick-as-thieves", "tags/amazon-books", "tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * *Thick as Thieves*, the [excellent young Seattle-based comics newspaper](http://www.seattlereviewofbooks.com/notes/2017/02/16/thursday-comics-hangover-thick-as-thieves-hits-the-streets/), is [running a Patreon](https://www.patreon.com/thickasthieves) to fund future issues. If you put in $5 a month, you'll get five copies of every new issue of the paper. (Admittedly, *Thick as Thieves* is a free paper, but I don't have to explain to you that art is worth money, do I?)

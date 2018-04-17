@@ -1,8 +1,8 @@
 +++
 index = "-KwvHY9BDOvHo7Fsl3JB"
-_sort_create_date = 1508528460
-_sort_last_updated = 1508529240
-_sort_publish_date = 1508528460
+sort_create_date = 1508528460
+sort_last_updated = 1508529240
+sort_publish_date = 1508528460
 create_date = "2017-10-20T12:41:00-07:00"
 publish_date = "2017-10-20T12:41:00-07:00"
 date = "2017-10-20T12:41:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/sUq3B5OVUAnbSt2ZjQxRU80D4ZDqNXZB37-C3FiEs3PFi1RzAy7DiMGPtjiBwmBBhDlGeRK4mm52Al4zpBIZg2piVVpc"
 url = "/webhook-uploads/1508528581536/Fly%20to%20the%20Assemblies_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 113354
 
 review_relationship = ""
-author_relationship = ["authors/marcus-harrison-green"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/fly-to-the-assemblies!-calls-seattle-to-action"]
 +++

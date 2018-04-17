@@ -1,8 +1,8 @@
 +++
 index = "-KD7Vl3I-9jzFDJnDfM2"
-_sort_create_date = 1458284160
-_sort_last_updated = 1458284400
-_sort_publish_date = 1458690960
+sort_create_date = 1458284160
+sort_last_updated = 1458284400
+sort_publish_date = 1458690960
 create_date = "2016-03-17T23:56:00-07:00"
 publish_date = "2016-03-22T16:56:00-07:00"
 date = "2016-03-22T16:56:00-07:00"
@@ -13,10 +13,10 @@ title = "Saved from the flames of history"
 dek = "A new novel by Seattle author Bharti Kirschner imagines a life for a forgotten, nameless woman in Indian history."
 facebookauto = "A new novel by Seattle author Bharti Kirschner imagines a life for a forgotten, nameless woman in Indian history."
 twitterauto = "A new novel by Seattle author Bharti Kirschner imagines a life for a forgotten, nameless woman in Indian history."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/goddess-of-fire-a-historical-novel-set-in-17th-century-india"]
 tags_reviews = ["tags/novel", "tags/india"]
-authors_reviews = ["authors/bharti-kirchner"]
+reviews_about = ""
 +++
 
 When Seattle novelist Bharti Kirchner was growing up in Kolkata, she writes in the afterword to her new novel *Goddess of Fire*, she “yearned to learn more about Job Charnock, a faithful servant of the English East India Company in its early days, who was believed to have founded Kolkata (then known as Calcutta).” But not much information about Charnock has survived from 17th century India to the present day. So Kirchner spent a lifetime obsessing over the few facts available, including an account that Charnock saved a young Indian girl from being tossed onto her deceased husband’s funeral pyre, and eventually married her. Everything about his wife — even her name — is lost to history.

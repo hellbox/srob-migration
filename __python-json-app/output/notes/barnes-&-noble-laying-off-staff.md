@@ -1,8 +1,8 @@
 +++
 index = "-L5FsPaKtMOlHPBkpPpM"
-_sort_create_date = 1518554160
-_sort_last_updated = 1518557040
-_sort_publish_date = 1518556500
+sort_create_date = 1518554160
+sort_last_updated = 1518557040
+sort_publish_date = 1518556500
 create_date = "2018-02-13T12:36:00-08:00"
 publish_date = "2018-02-13T13:15:00-08:00"
 date = "2018-02-13T13:15:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's time for publishers and booksellers to get together and plan for Barnes & Noble's possible demise."
 facebookauto = "There's no easy way to say this, but it's time for publishers and booksellers to get together and make a plan for what they will do if Barnes & Noble goes away."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/barnes-&amp;-noble", "tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 After a terrible holiday season, [Lauren Thomas and Lauren Hirsch report for CNBC](https://www.cnbc.com/2018/02/12/barnes-noble-cuts-staff-after-dismal-holiday-season.html), Barnes & Noble without warning laid off an unspecified number of employees on Monday morning.

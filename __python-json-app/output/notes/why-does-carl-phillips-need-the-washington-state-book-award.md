@@ -1,8 +1,8 @@
 +++
 index = "-KS2vu066VDoHf9AW6ni"
-_sort_create_date = 1474313520
-_sort_last_updated = 1474319520
-_sort_publish_date = 1474314000
+sort_create_date = 1474313520
+sort_last_updated = 1474319520
+sort_publish_date = 1474314000
 create_date = "2016-09-19T12:32:00-07:00"
 publish_date = "2016-09-19T12:40:00-07:00"
 date = "2016-09-19T12:40:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Why do we nominate non-Washington poets for the Washington State Book Award? @susanrichpoet explores."
 facebookauto = "Why do we nominate non-Washington poets for the Washington State Book Award? Susan Rich explores."
 make_image_tweet = "False"
-byline = ["writers/susan-rich"]
+notes_byline = ["writers/susan-rich"]
 tags_notes = ["tags/poetry", "tags/washington-state-book-awards"]
-authors_notes = ["authors/carl-phillips", "authors/rick-barot", "authors/katharine-whitcomb", "authors/jenifer-lawrence", "authors/jeannine-hall-gailey", "authors/martha-silano", "authors/michael-schmeltzer", "authors/maya-jewell-zeller"]
+notes_about = ""
 books = ""
 +++
 The truth is, he doesn’t. In fact, Carl Phillips is confused about the controversy his nomination is causing among Washington state poets. When I spoke with Phillips this morning he mentioned his total surprise and delight when informed by his publisher that his book Renaissance was nominated for this year’s Washington State Book Award. He went on to say that the book was submitted by his publisher, Farrar, Strauss &amp; Giroux. “It wouldn’t have occurred to me,” to send the book, he said, and followed up with how honored he felt. And why would Carl Phillips believe he was eligible? Phillips left the state a little less than a year after his birth and has returned exactly twice – once for the recent AWP in Seattle and once to board a cruise ship. He doesn’t think he will be able to attend the October 8th award ceremonies.

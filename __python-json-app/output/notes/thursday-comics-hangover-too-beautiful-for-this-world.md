@@ -1,8 +1,8 @@
 +++
 index = "-Kv5_ivx_TNrFKQ1F9SZ"
-_sort_create_date = 1506570300
-_sort_last_updated = 1506570300
-_sort_publish_date = 1506617700
+sort_create_date = 1506570300
+sort_last_updated = 1506570300
+sort_publish_date = 1506617700
 create_date = "2017-09-27T20:45:00-07:00"
 publish_date = "2017-09-28T09:55:00-07:00"
 date = "2017-09-28T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506569958990/fury
 twitterauto = "Turns out, these comics were too beautiful to live in this world."
 facebookauto = "These comics were too beautiful to live in this world."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Aside from *Ms. Marvel*, my favorite Marvel title these days is *Nick Fury*, a spy comic written by James Robinson and drawn by the acronymical comics artist ACO. *Fury* is unlike just about everything else Marvel is putting out these days: every issue is its own stand-alone adventure, every page is visually adventurous, and the book isn't interested in crossovers or events.

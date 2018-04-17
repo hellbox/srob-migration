@@ -1,8 +1,8 @@
 +++
 index = "-Jus0IrqCOBCYg7v8mUD"
-_sort_create_date = 1437606420
-_sort_last_updated = 1438227180
-_sort_publish_date = 1438020360
+sort_create_date = 1437606420
+sort_last_updated = 1438227180
+sort_publish_date = 1438020360
 create_date = "2015-07-22T16:07:00-07:00"
 publish_date = "2015-07-27T11:06:00-07:00"
 date = "2015-07-27T11:06:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1437605370989/GRIF
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/feminism"]
-authors_notes = ["authors/nicola-griffith"]
+notes_about = ""
 books = ["books/hild"]
 +++
 <p class="image">![Nicola Griffith](/webhook-uploads/1437605370989/GRIFFITH_photo02.png)</p>

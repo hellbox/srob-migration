@@ -1,8 +1,8 @@
 +++
 index = "-KcsKs05AZg-EFDaaI2S"
-_sort_create_date = 1487003940
-_sort_last_updated = 1487004600
-_sort_publish_date = 1487019600
+sort_create_date = 1487003940
+sort_last_updated = 1487004600
+sort_publish_date = 1487019600
 create_date = "2017-02-13T08:39:00-08:00"
 publish_date = "2017-02-13T13:00:00-08:00"
 date = "2017-02-13T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487003775410/secr
 twitterauto = "Sponsor @mamster will be appearing at @Adason15th on March 19th! More on our page...."
 facebookauto = "Sponsor Matthew Amster-Burton will be appearing at Ada's Technical Books on the 19th of March! Find our more about his amazingly cool debut novel on our page."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1487003747501/secret-better-small.jpg)</p>

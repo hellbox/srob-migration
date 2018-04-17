@@ -1,8 +1,8 @@
 +++
 index = "-KiSr_o6E_IG8U7w6p8b"
-_sort_create_date = 1493002200
-_sort_last_updated = 1493002320
-_sort_publish_date = 1493002200
+sort_create_date = 1493002200
+sort_last_updated = 1493002320
+sort_publish_date = 1493002200
 create_date = "2017-04-23T19:50:00-07:00"
 publish_date = "2017-04-23T19:50:00-07:00"
 date = "2017-04-23T19:50:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WuWX_TolNFQXXwev6x7lip6B_b7vX9PmRiwVhG_S2ye8NMIwYZHqaK7sq7WuxpIH9bhyzmK-crEvwvppe-7zp3_1280"
 url = "/webhook-uploads/1493002350633/priestdaddy.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 38136
 
 review_relationship = ["reviews/youll-laugh-youll-cry"]
-author_relationship = ["authors/patricia-lockwood"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels"]
 +++

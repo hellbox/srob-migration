@@ -1,8 +1,8 @@
 +++
 index = "-KDM97QAlHaF48xRkQfP"
-_sort_create_date = 1458529920
-_sort_last_updated = 1458532320
-_sort_publish_date = 1458586920
+sort_create_date = 1458529920
+sort_last_updated = 1458532320
+sort_publish_date = 1458586920
 create_date = "2016-03-20T20:12:00-07:00"
 publish_date = "2016-03-21T12:02:00-07:00"
 date = "2016-03-21T12:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Imagine a world in which booksellers can break into your home and steal back books that you bought from them. "
 facebookauto = "Imagine a world in which booksellers can break into your home and steal back books that you bought from them. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/barnes-&amp;-noble", "tags/e-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Imagine a world in which booksellers can break into your home and steal back books that you bought from them. That, basically, is a reality with e-books. [Chris Meadows wrote for TeleRead](http://www.teleread.com/barnes-noble-stole-first-e-book-ever-bought/) an account of how Barnes & Noble "stole" the first e-book he ever bought. He even contacted Barnes & Noble to complain, and they told him he could re-buy the e-book from them if he wanted. A couple days later, Barnes & Noble [did decide to give Meadows back the e-book](http://www.teleread.com/barnes-noble-gives-first-e-book-back/) that he purchased.  Awfully gracious of them.

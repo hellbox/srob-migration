@@ -1,8 +1,8 @@
 +++
 index = "-Jy3a0Aatnj16_6_WgtY"
-_sort_create_date = 1441038600
-_sort_last_updated = 1441115340
-_sort_publish_date = 1441051200
+sort_create_date = 1441038600
+sort_last_updated = 1441115340
+sort_publish_date = 1441051200
 create_date = "2015-08-31T09:30:00-07:00"
 publish_date = "2015-08-31T13:00:00-07:00"
 date = "2015-08-31T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Thanks to our sponsor Chatwin Books, we have two full excerpts from J.G. Perkins' The Announcers, for you to read."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This week's sponsor is [Chatwin Books](http://www.chatwinbooks.com/), and we're <a href="/sponsorships/">featuring the introduction and a full chapter</a> from _The Announcers_, by J.G Perkins.

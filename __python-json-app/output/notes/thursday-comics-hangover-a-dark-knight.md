@@ -1,8 +1,8 @@
 +++
 index = "-Kv_p00TDkKR2D3MEVwB"
-_sort_create_date = 1507094400
-_sort_last_updated = 1507146180
-_sort_publish_date = 1507222800
+sort_create_date = 1507094400
+sort_last_updated = 1507146180
+sort_publish_date = 1507222800
 create_date = "2017-10-03T22:20:00-07:00"
 publish_date = "2017-10-05T10:00:00-07:00"
 date = "2017-10-05T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507093962981/Mast
 twitterauto = "Is that supposed to be the Eiffel Tower?"
 facebookauto = "Whoa, is that...is that supposed to be the Eiffel Tower?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I was 13 when I first read Frank Miller's *The Dark Knight Returns*, and in retrospect I realize that it fucked me up for years. I wasn't mentally prepared to handle Miller's deeply conservative dystopian Batman comic, and so for a long time afterward I confused violence and nihilism for "serious art." 

@@ -1,8 +1,8 @@
 +++
 index = "-KvVSauFfIgTcQAU_b-m"
-_sort_create_date = 1507004400
-_sort_last_updated = 1507005840
-_sort_publish_date = 1507229700
+sort_create_date = 1507004400
+sort_last_updated = 1507005840
+sort_publish_date = 1507229700
 create_date = "2017-10-02T21:20:00-07:00"
 publish_date = "2017-10-05T11:55:00-07:00"
 date = "2017-10-05T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507004826599/husb
 twitterauto = "Romance time! Short reviews of @kj_charles, @miasosaromance,@ICooperAuthor, and more @O_Waite's Kissing Books column"
 facebookauto = "Short reviews of KJ Charles, Mia Sosa, Isabel Cooper, and more @O_Waite's Kissing Books column."
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/kissing-books"]
-authors_notes = ["authors/everly-james", "authors/kj-charles", "authors/mia-sosa", "authors/isabel-cooper", "authors/betina-krahn"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">New Column! Every month, Olivia Waite pulls back the covers, revealing the very best in new, and classic, romance. We're extending a hand to you. Won't you take it?</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KEFi7XQ5bgAk1R6QK1I"
-_sort_create_date = 1459495620
-_sort_last_updated = 1459497000
-_sort_publish_date = 1459495620
+sort_create_date = 1459495620
+sort_last_updated = 1459497000
+sort_publish_date = 1459495620
 create_date = "2016-04-01T00:27:00-07:00"
 publish_date = "2016-04-01T00:27:00-07:00"
 date = "2016-04-01T00:27:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ruBe-ng89RxkO-koN5viE_wPABMbcJxCBwwB6CIp0cpN_phYGNuefSZVpI4j6ahmV0syvMnCOF9U134PVRQZ3E0DKzrW"
 url = "/webhook-uploads/1459495667056/content%3Fid%3DsgLtsgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 40291
 
 review_relationship = ["reviews/the-virtues-of-patience"]
-author_relationship = ["authors/dan-clowes", "authors/daniel-clowes"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

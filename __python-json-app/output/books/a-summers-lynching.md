@@ -1,8 +1,8 @@
 +++
 index = "-KzRk-V8o1h6s3R7MyQj"
-_sort_create_date = 1511237040
-_sort_last_updated = 1511237040
-_sort_publish_date = 1511237040
+sort_create_date = 1511237040
+sort_last_updated = 1511237040
+sort_publish_date = 1511237040
 create_date = "2017-11-20T20:04:00-08:00"
 publish_date = "2017-11-20T20:04:00-08:00"
 date = "2017-11-20T20:04:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/i9EFH6Ez2EjjGVelp09ZiQbjo7bYY1YBRSJAJNDLHa81EKoaR7H81aeI4TcYaWo7SvY2tWBCS1zKMh9sTjTuiqplgfw"
 url = "/webhook-uploads/1511236989557/cover-test-11-top-line-edit.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 1801474
 
 review_relationship = ""
-author_relationship = ["authors/juan-carlos-reyes"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/every-city-a-mystery"]
 +++

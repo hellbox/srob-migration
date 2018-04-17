@@ -1,8 +1,8 @@
 +++
 index = "-KfHzAx8gDR4cejOwaGt"
-_sort_create_date = 1489598460
-_sort_last_updated = 1489769520
-_sort_publish_date = 1489773660
+sort_create_date = 1489598460
+sort_last_updated = 1489769520
+sort_publish_date = 1489773660
 create_date = "2017-03-15T10:21:00-07:00"
 publish_date = "2017-03-17T11:01:00-07:00"
 date = "2017-03-17T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484512941604/pate
 twitterauto = "Lovers of movies and poetry and public transit: Go see Paterson at the @gicinema this week. "
 facebookauto = "Lovers of movies and poetry and public transit: Go see Paterson at the Grand Illusion Cinema this week. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/movies", "tags/adaptation", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">This post was originally published in January, but we're re-running it because *Paterson* is making a return engagement for one week only at the University District's wonderful Grand Illusion Cinema, starting tonight. [Visit the Grand Illusion's site for screening times](http://www.grandillusioncinema.org/), and a little public service announcement: the Grand Illusion is cash-only, so hit up an ATM on the way. Also, in a total coincidence, [today is Transit Driver Appreciation Day](https://www.seattletransitblog.com/2017/03/17/today-is-transit-driver-appreciation-day-tell-your-driver-a-quick-thank-you/), so don't forget to thank a bus driver. Our [favorite bus driver locally is Nathan Vass](http://www.seattlereviewofbooks.com/notes/2017/03/06/talking-with-seattles-blogging-bus-driver-nathan-vass/), who blogs about his experiences.</p>

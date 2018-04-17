@@ -1,8 +1,8 @@
 +++
 index = "-KJWufS2tf_RV7TUJ03I"
-_sort_create_date = 1465152840
-_sort_last_updated = 1465152840
-_sort_publish_date = 1465232040
+sort_create_date = 1465152840
+sort_last_updated = 1465152840
+sort_publish_date = 1465232040
 create_date = "2016-06-05T11:54:00-07:00"
 publish_date = "2016-06-06T09:54:00-07:00"
 date = "2016-06-06T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465152767894/TPBS
 twitterauto = "Our June Bookstore of the Month is Third Place Seward Park!"
 facebookauto = "Our June Bookstore of the Month is Third Place Seward Park!"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/third-place-books-seward-park"]
-authors_notes = ["authors/ta-nehisi-coates", "authors/claudia-rankine"]
+notes_about = ""
 books = ["books/between-the-world-and-me", "books/citizen"]
 +++
 <p class="image">![](/webhook-uploads/1465152767894/TPBSP1.JPG)</p>

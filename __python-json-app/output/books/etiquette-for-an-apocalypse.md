@@ -1,8 +1,8 @@
 +++
 index = "-Kj_rJQrHvUoZxf2v2np"
-_sort_create_date = 1494210120
-_sort_last_updated = 1494210420
-_sort_publish_date = 1494210120
+sort_create_date = 1494210120
+sort_last_updated = 1494210420
+sort_publish_date = 1494210120
 create_date = "2017-05-07T19:22:00-07:00"
 publish_date = "2017-05-07T19:22:00-07:00"
 date = "2017-05-07T19:22:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Dystopias"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/lcshk54eDa28es9TxENyAwhjIuoe0NtL4moLOJxFjfnE6cVgKBHZotYHLwXOWrKvplEUyd5uZHrhK6PtawEsuFik7eY"
 url = "/webhook-uploads/1494210134599/content%3Fid%3D_47QuQAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12659
 
 review_relationship = ""
-author_relationship = ["authors/anne-mendel"]
+books_author = ""
 sponsorships_book = ["sponsorships/etiquette-for-an-apocalypse"]
 notes_relationship = ""
 +++

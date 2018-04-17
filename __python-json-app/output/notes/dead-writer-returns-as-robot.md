@@ -1,8 +1,8 @@
 +++
 index = "-KYqte1PvJi56RPRRayS"
-_sort_create_date = 1481611020
-_sort_last_updated = 1481611020
-_sort_publish_date = 1481662860
+sort_create_date = 1481611020
+sort_last_updated = 1481611020
+sort_publish_date = 1481662860
 create_date = "2016-12-12T22:37:00-08:00"
 publish_date = "2016-12-13T13:01:00-08:00"
 date = "2016-12-13T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A writer has returned 100 years after his death, in android form."
 facebookauto = "A writer has returned 100 years after his death, in android form."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/death", "tags/japan"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Is there a better lede than this in all of journalism this week? I think not:

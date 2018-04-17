@@ -1,8 +1,8 @@
 +++
 index = "-Kuc4PCITYpn5IFeHzzF"
-_sort_create_date = 1506058500
-_sort_last_updated = 1506059760
-_sort_publish_date = 1506537900
+sort_create_date = 1506058500
+sort_last_updated = 1506059760
+sort_publish_date = 1506537900
 create_date = "2017-09-21T22:35:00-07:00"
 publish_date = "2017-09-27T11:45:00-07:00"
 date = "2017-09-27T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506058503677/riot
 twitterauto = "Your week in readings includes Pussy Riot, white privilege, and a tribute to Hugo House. "
 facebookauto = "Your week in readings includes Pussy Riot, white privilege, and a tribute to Hugo House. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday September 27: *Beautiful Ruins* Book Club**</h5></p>

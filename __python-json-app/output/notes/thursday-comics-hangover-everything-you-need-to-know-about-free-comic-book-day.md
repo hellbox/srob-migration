@@ -1,8 +1,8 @@
 +++
 index = "-KGzRhZeBEN5noNR0DWL"
-_sort_create_date = 1462427100
-_sort_last_updated = 1462427580
-_sort_publish_date = 1462466640
+sort_create_date = 1462427100
+sort_last_updated = 1462427580
+sort_publish_date = 1462466640
 create_date = "2016-05-04T22:45:00-07:00"
 publish_date = "2016-05-05T09:44:00-07:00"
 date = "2016-05-05T09:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462426644396/arch
 twitterauto = "Here's everything you need to know to celebrate @Freecomicbook Day this Saturday:"
 facebookauto = "This Saturday is Free Comic Book Day, in which Seattle's comic shops give away comics to anyone who visits. Here's everything you need to know about the day, including which books to grab, where to go, and what to do."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/archie"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ["books/ms-marvel-volume-1-no-normal", "books/ms-marvel-volume-2-generation-why", "books/ms-marvel-volume-4-last-days", "books/ms-marvel-volume-3-crushed", "books/ms-marvel-volume-5-super-famous"]
 +++
 This Saturday is Free Comic Book Day, the day when, duh, participating comics shops give away free comics to anyone who walks in. You can [find the comic shop closest to you here](http://www.freecomicbookday.com/StoreLocator). Some things to know:

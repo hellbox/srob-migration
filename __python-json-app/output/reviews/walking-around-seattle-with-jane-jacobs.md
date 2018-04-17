@@ -1,8 +1,8 @@
 +++
 index = "-Kys58wPK0tZGqBaeeOd"
-_sort_create_date = 1510622100
-_sort_last_updated = 1510682040
-_sort_publish_date = 1510689240
+sort_create_date = 1510622100
+sort_last_updated = 1510682040
+sort_publish_date = 1510689240
 create_date = "2017-11-13T17:15:00-08:00"
 publish_date = "2017-11-14T11:54:00-08:00"
 date = "2017-11-14T11:54:00-08:00"
@@ -13,10 +13,10 @@ title = "Walking around Seattle with Jane Jacobs"
 dek = "Taking the audio version of Jane Jacobs's urbanist classic The Death and Life of Great American Cities out on a walk through Seattle is like reading a great piece of writing with an editor."
 facebookauto = "We walked Seattle with Jane Jacobs's book about Great Cities in our ear. Here's what we learned:"
 twitterauto = "We walked Seattle with Jane Jacobs's book about Great Cities in our ear. Here's what we learned:"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-death-and-life-of-great-american-cities"]
 tags_reviews = ["tags/non-fiction"]
-authors_reviews = ["authors/jane-jacobs"]
+reviews_about = ""
 +++
 
 <p class="image-hero">![](/webhook-uploads/1510622110538/IMG_3436.JPG)</p>

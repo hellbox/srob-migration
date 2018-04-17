@@ -1,8 +1,8 @@
 +++
 index = "-KA8oGwDaqMiHBDHwx9x"
-_sort_create_date = 1455084840
-_sort_last_updated = 1455643620
-_sort_publish_date = 1455084840
+sort_create_date = 1455084840
+sort_last_updated = 1455643620
+sort_publish_date = 1455084840
 create_date = "2016-02-09T22:14:00-08:00"
 publish_date = "2016-02-09T22:14:00-08:00"
 date = "2016-02-09T22:14:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/O4EKmQvBp13_kq4h4pB8QxTDxamWQzhlfMc3oqXUyOdhi8hPZ0vRxY1-eNkm4cSUbSrsgB-1hObqdSUJy_0DY7IMUmXU"
 url = "/webhook-uploads/1455084870687/content%3Fid%3D1FY4jgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 35703
 
 review_relationship = ["reviews/songs-are-not-poems-in-fancy-clothing"]
-author_relationship = ["authors/simon-joyner"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

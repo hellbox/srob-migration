@@ -1,8 +1,8 @@
 +++
 index = "-JzUK5vzfCbs_onwq1bS"
-_sort_create_date = 1442560860
-_sort_last_updated = 1442560860
-_sort_publish_date = 1442607660
+sort_create_date = 1442560860
+sort_last_updated = 1442560860
+sort_publish_date = 1442607660
 create_date = "2015-09-18T00:21:00-07:00"
 publish_date = "2015-09-18T13:21:00-07:00"
 date = "2015-09-18T13:21:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@KelliAgodon and @twosylviaspress announced a new poetry prize for women over the age of 50."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/two-sylvias-press", "tags/literary-prize"]
-authors_notes = ["authors/kelli-russell-agodon"]
+notes_about = ""
 books = ""
 +++
 Now this is cool: [Kelli Russell Agodon](http://seattlereviewofbooks.com/writers/kelli-russell-agodon/) and Two Sylvias Press has [announced the Wilder Prize](http://www.twosylviaspress.com/wilder-series-poetry-book-prize.html), a new poetry prize which "is **open to women over 50 years of age** (established or emerging poets) and includes a $1000 prize, publication by Two Sylvias Press, 20 copies of the winning book, and a vintage, art nouveau pendant." The submissions process is open through November 30th; please spread this news far and wide.

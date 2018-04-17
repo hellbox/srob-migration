@@ -1,8 +1,8 @@
 +++
 index = "-KcWTlMVIVOW3OTp5AIW"
-_sort_create_date = 1486620360
-_sort_last_updated = 1486620360
-_sort_publish_date = 1486663260
+sort_create_date = 1486620360
+sort_last_updated = 1486620360
+sort_publish_date = 1486663260
 create_date = "2017-02-08T22:06:00-08:00"
 publish_date = "2017-02-09T10:01:00-08:00"
 date = "2017-02-09T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486620166498/sexc
 twitterauto = "Kurt Russell meets Patrick Swayze in a greasy fist-fight."
 facebookauto = ""
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1486620166498/sexcastle.jpg)</p>

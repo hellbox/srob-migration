@@ -1,8 +1,8 @@
 +++
 index = "-Kuu73idoZ1ymTAEApth"
-_sort_create_date = 1506361200
-_sort_last_updated = 1506805680
-_sort_publish_date = 1507143600
+sort_create_date = 1506361200
+sort_last_updated = 1506805680
+sort_publish_date = 1507143600
 create_date = "2017-09-25T10:40:00-07:00"
 publish_date = "2017-10-04T12:00:00-07:00"
 date = "2017-10-04T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Among the ruins"
 dek = "Jessica Mooney confronts what it is about disaster tourism that both compels and repels, as she reads Kristen Radtke's _Imagine Wanting Only This_."
 facebookauto = "In a moving and lovely review, Jessica Mooney strolls through Kristen Radtke's Imagine Only This"
 twitterauto = "In a moving and lovely review, @jessleimoon strolls through @kristenradtke's Imagine Only This"
-byline = ["writers/jessica-mooney"]
+reviews_byline = ["writers/jessica-mooney"]
 books_in_this_review = ["books/imagine-wanting-only-this"]
 tags_reviews = ""
-authors_reviews = ["authors/kristen-radtke"]
+reviews_about = ""
 +++
 
 As a teenager, I developed an obsession with estate sales. I partially attribute this fascination to growing up not knowing my father. I have never met anyone from his side of the family. For a long time, I felt like a half-formed thing. I often still do. I would wander through dusty basements that smelled of Pine Sol and mothballs, turning over wristwatches and ashtrays in my hands, using the mementos of strangers to construct images of the family I never knew. The objects that held my attention were often tarnished and weathered, cracked and chipped, heavily marked of their own possession. I built my father out of a small green bowl mottled with amber stains from chew spit. I constructed uncles out of silver belt buckles and John Deere hats; aunts from dresses patterned with large bright flowers and patent leather purses on slinky gold chains. I created my grandmother out of a perfumed pair of white opera gloves. 

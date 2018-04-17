@@ -1,8 +1,8 @@
 +++
 index = "-KL082uo6zINZqjP_hbx"
-_sort_create_date = 1466750460
-_sort_last_updated = 1467223080
-_sort_publish_date = 1466750460
+sort_create_date = 1466750460
+sort_last_updated = 1467223080
+sort_publish_date = 1466750460
 create_date = "2016-06-23T23:41:00-07:00"
 publish_date = "2016-06-23T23:41:00-07:00"
 date = "2016-06-23T23:41:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/R0kxwlJt7CHeIhxvxPswwfBFfwfIa-1kqo5oJc0Z4SgojERK4PgZkvMNg0SCwTCwTtmCXFZoETb6-8ZlzmiZlr86KNY6"
 url = "/webhook-uploads/1466750384815/pomegranate.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 32787
 
 review_relationship = ["reviews/the-poet-next-door"]
-author_relationship = ["authors/amaranth-borsuk"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-Kc5AH_Mq_7IoKppcLfO"
-_sort_create_date = 1486162260
-_sort_last_updated = 1486162260
-_sort_publish_date = 1486162260
+sort_create_date = 1486162260
+sort_last_updated = 1486162260
+sort_publish_date = 1486162260
 create_date = "2017-02-03T14:51:00-08:00"
 publish_date = "2017-02-03T14:51:00-08:00"
 date = "2017-02-03T14:51:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Amazon employees are trying to get their company to stop advertising on Breitbart. Maybe you can help?"
 facebookauto = "Amazon employees are trying to get their company to stop advertising on Breitbart. Maybe you can help?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon", "tags/breitbart"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Charlie Warzel at [BuzzFeed](https://www.buzzfeed.com/charliewarzel/amazon-employees-are-trying-to-force-the-company-to-cut-ties?bftwnews&utm_term=.pxKXyBjyy#.lhYZGg3GG):

@@ -1,8 +1,8 @@
 +++
 index = "-L0D_mJ3iH-dVny7sJ1d"
-_sort_create_date = 1513146960
-_sort_last_updated = 1513146960
-_sort_publish_date = 1514224800
+sort_create_date = 1513146960
+sort_last_updated = 1513146960
+sort_publish_date = 1514224800
 create_date = "2017-12-12T22:36:00-08:00"
 publish_date = "2017-12-25T10:00:00-08:00"
 date = "2017-12-25T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlreviewofbooks.com/webhook-uploads/1513146916041/mothe
 twitterauto = "This week: Engage in conversation with a local luminary about a truly great novel."
 facebookauto = "This week: Engage in conversation with a local luminary about a truly great novel."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/third-place-books-seward-park"]
-authors_notes = ["authors/garth-stein"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1513146916041/mothers.jpg)</p>

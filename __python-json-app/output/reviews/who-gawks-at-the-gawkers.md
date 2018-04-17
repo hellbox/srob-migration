@@ -1,8 +1,8 @@
 +++
 index = "-JvCoM7q8QCbaEftX3eN"
-_sort_create_date = 1437972120
-_sort_last_updated = 1438021380
-_sort_publish_date = 1438005660
+sort_create_date = 1437972120
+sort_last_updated = 1438021380
+sort_publish_date = 1438005660
 create_date = "2015-07-26T21:42:00-07:00"
 publish_date = "2015-07-27T07:01:00-07:00"
 date = "2015-07-27T07:01:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "b2656c26-0d68-5071-7a3e-90c534470856"
 name = "Who gawks at the Gawkers?"
 title = "Who gawks at the Gawkers?"
 dek = "As Gawker reboots itself after a controversial few weeks, Brian Abrams' new ebook *Gawker: An Oral History* tells the behind-the-scenes story of how the gossip site came to be."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/gawker-an-oral-history"]
 tags_reviews = ["tags/media", "tags/gawker"]
-authors_reviews = ["authors/brian-abrams"]
+reviews_about = ""
 +++
 
 For anyone who’s ever started a publication of any sort — from a magazine to a blog to a newspaper — this scene from *Citizen Kane* should be required viewing:

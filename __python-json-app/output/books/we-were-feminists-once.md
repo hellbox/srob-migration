@@ -1,8 +1,8 @@
 +++
 index = "-KS4hIHbcuylxglsNtoJ"
-_sort_create_date = 1474343280
-_sort_last_updated = 1474343340
-_sort_publish_date = 1474343280
+sort_create_date = 1474343280
+sort_last_updated = 1474343340
+sort_publish_date = 1474343280
 create_date = "2016-09-19T20:48:00-07:00"
 publish_date = "2016-09-19T20:48:00-07:00"
 date = "2016-09-19T20:48:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Social Science"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DZGnwepJN_PJ1kzBxhVUaVVqdVzuqA-jklusmMNUmUODMElqwq8UZ5n6pxmOIIzH3MUI0ap1QZDq7w6eFOE3PfzR_Is"
 url = "/webhook-uploads/1474343373558/WeWereFeministsOnce.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 495028
 
 review_relationship = ["reviews/feminism-a-la-carte"]
-author_relationship = ["authors/andi-zeisler"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

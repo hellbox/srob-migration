@@ -1,8 +1,8 @@
 +++
 index = "-K7JOsvygKJJewhP7H5V"
-_sort_create_date = 1452041220
-_sort_last_updated = 1452106020
-_sort_publish_date = 1452106020
+sort_create_date = 1452041220
+sort_last_updated = 1452106020
+sort_publish_date = 1452106020
 create_date = "2016-01-05T16:47:00-08:00"
 publish_date = "2016-01-06T10:47:00-08:00"
 date = "2016-01-06T10:47:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452041090453/Emai
 twitterauto = "Would you like to be a writer in residence at the Fremont Bridge? Applications are due by February 2016!"
 facebookauto = "Would you like to be a writer in residence at the Fremont Bridge? Applications are due by February 2016!"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fremont-bridge", "tags/office-of-arts-and-culture", "tags/writer-in-residence"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This, from the Office of Arts and Culture, is [pretty damn cool](http://officeofartsculture.cmail20.com/t/ViewEmail/y/E7DD47E3E5E1F2EA/1DD6A69E782F1460C45D7BC1A387288D#fy):

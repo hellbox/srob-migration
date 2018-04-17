@@ -1,8 +1,8 @@
 +++
 index = "-L2cpRZdbySpjte4dvOX"
-_sort_create_date = 1515734760
-_sort_last_updated = 1515734760
-_sort_publish_date = 1516038900
+sort_create_date = 1515734760
+sort_last_updated = 1515734760
+sort_publish_date = 1516038900
 create_date = "2018-01-11T21:26:00-08:00"
 publish_date = "2018-01-15T09:55:00-08:00"
 date = "2018-01-15T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515734648219/sile
 twitterauto = "Our event of the week: an important comic about the fight for civil rights @elliottbaybooks tonight!"
 facebookauto = "Our event of the week is an important comic about the fight for civil rights at Elliott Bay Book Company s tonight!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/emerald-city-comicon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Jim Demonakos is best known in the city as a comic shop owner and the founder of the mighty Emerald City Comic Con. But since he’s sold the show to international convention promoter ReedPOP and stepped back from the organization, Demonakos has time to move to the other side of the comics industry — focusing on his work as a writer. Tonight at Elliott Bay, he celebrates one of his early works.

@@ -1,8 +1,8 @@
 +++
 index = "-KrJDFiYz5wNdmhiqOON"
-_sort_create_date = 1502504040
-_sort_last_updated = 1502518680
-_sort_publish_date = 1502553600
+sort_create_date = 1502504040
+sort_last_updated = 1502518680
+sort_publish_date = 1502553600
 create_date = "2017-08-11T19:14:00-07:00"
 publish_date = "2017-08-12T09:00:00-07:00"
 date = "2017-08-12T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The deadline for the Seattle Writing Prompts story contest, judged by @bymattruff, is 8/15! Send your stories now."
 facebookauto = "The deadline for the Seattle Writing Prompts story contest, judged by Matt Ruff, is this Tuesday, August 15! Send your stories now."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/seattle-writing-prompts", "tags/seattle-writing-prompts-story-contest"]
-authors_notes = ["authors/matt-ruff"]
+notes_about = ""
 books = ""
 +++
 Normally, in this space, you'd find a [Seattle Writing Prompt](http://www.seattlereviewofbooks.com/tags/seattle-writing-prompts). Today we're pre-empting to bring you this reminder to enter our short story contest.

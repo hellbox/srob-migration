@@ -1,8 +1,8 @@
 +++
 index = "-L8ecsIhyBsE-a9Zbpu9"
-_sort_create_date = 1522207500
-_sort_last_updated = 1522265940
-_sort_publish_date = 1522268700
+sort_create_date = 1522207500
+sort_last_updated = 1522265940
+sort_publish_date = 1522268700
 create_date = "2018-03-27T20:25:00-07:00"
 publish_date = "2018-03-28T13:25:00-07:00"
 date = "2018-03-28T13:25:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Hugo House is doubling your money. Also: which author would survive the attack of the duck-sized horses?"
 facebookauto = "Hugo House is doubling your money. Also: which author would survive the attack of the duck-sized horses?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/hugo-house"]
-authors_notes = ["authors/colson-whitehead"]
+notes_about = ""
 books = ""
 +++
 * Hugo House is very close to moving in to their new home in the old location — the sign is up! — but they still need to raise a little cash before they can settle in. Right now, they've announced that they've got a Challenge Match of $100,000. "That means every dollar donated will be doubled," [an email from the House announced](https://mailchi.mp/hugohouse/new-hugo-house-challenge-match?e=eb1b2e904f). If you haven't given, now is a great time. And if you only have five bucks to spare, you'll actually be donating ten bucks. 

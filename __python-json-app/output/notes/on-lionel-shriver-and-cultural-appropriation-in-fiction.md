@@ -1,8 +1,8 @@
 +++
 index = "-KRbAuBbAE-f9cQn3kHT"
-_sort_create_date = 1473831180
-_sort_last_updated = 1473871020
-_sort_publish_date = 1473881580
+sort_create_date = 1473831180
+sort_last_updated = 1473871020
+sort_publish_date = 1473881580
 create_date = "2016-09-13T22:33:00-07:00"
 publish_date = "2016-09-14T12:33:00-07:00"
 date = "2016-09-14T12:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "That Lionel Shriver speech about cultural appropriation that's going around? Yeah, it's pretty dumb."
 facebookauto = "That Lionel Shriver speech about cultural appropriation that's going around? Yeah, it's pretty dumb."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/political-correctness", "tags/cultural-appropriation"]
-authors_notes = ["authors/g-willow-wilson", "authors/lionel-shriver"]
+notes_about = ""
 books = ""
 +++
 In a keynote speech at the Brisbane Writers Festival, novelist [Lionel Shriver said, “I am hopeful that the concept of ‘cultural appropriation’ is a passing fad.”](https://www.theguardian.com/commentisfree/2016/sep/13/lionel-shrivers-full-speech-i-hope-the-concept-of-cultural-appropriation-is-a-passing-fad)

@@ -1,8 +1,8 @@
 +++
 index = "-Jxi12eOIISijejG9cvJ"
-_sort_create_date = 1440660060
-_sort_last_updated = 1440716280
-_sort_publish_date = 1440788400
+sort_create_date = 1440660060
+sort_last_updated = 1440716280
+sort_publish_date = 1440788400
 create_date = "2015-08-27T00:21:00-07:00"
 publish_date = "2015-08-28T12:00:00-07:00"
 date = "2015-08-28T12:00:00-07:00"
@@ -12,10 +12,10 @@ name = "The Seattle of your nightmares"
 title = "The Seattle of your nightmares"
 dek = "If you raise your hackles when someone tells you that Seattle is a racist city, you need to read Ta-Nehisi Coates's new book. It won't make you feel any better, but it will absolutely open your eyes."
 twitterauto = "Seattle is a racist city. If that sentence makes you mad, you really need to read  \"Between the World and Me.\""
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/between-the-world-and-me"]
 tags_reviews = ["tags/nonfiction"]
-authors_reviews = ""
+reviews_about = ""
 +++
 
 Earlier this month, at a progressive rally in downtown Seattle, I watched from across the street as hundreds of allegedly liberal Seattleites booed the suggestion that Black Lives Matter. I saw a middle-aged preppy married couple raise their middle fingers in the air during a moment of silence in memory of a young black man who was killed by police officer. I saw angry white grandmothers beg officers to arrest the two young black women who took the stage, and I heard a small group of hip Capitol Hill dudes, horrifyingly, chant “tase those cunts.” Media outlets have since parsed every second of this event, and hundreds of thousands of internet comments have been tossed into the ether trying to determine who deserves blame. 

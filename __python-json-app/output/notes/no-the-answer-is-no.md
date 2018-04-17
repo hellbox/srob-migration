@@ -1,8 +1,8 @@
 +++
 index = "-KA6dC6sYimBBjONoUHD"
-_sort_create_date = 1455048360
-_sort_last_updated = 1455049200
-_sort_publish_date = 1455053100
+sort_create_date = 1455048360
+sort_last_updated = 1455049200
+sort_publish_date = 1455053100
 create_date = "2016-02-09T12:06:00-08:00"
 publish_date = "2016-02-09T13:25:00-08:00"
 date = "2016-02-09T13:25:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Just when you thought the publishing industry couldn't get any sadder..."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-reviews"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The rule of thumb about questions in headlines — that most headline questions can be answered, simply, "no" — has never been more true than [in this blog post](https://janefriedman.com/paid-book-reviews/), which is headlined "Are Paid Book Reviews Worth It?" 

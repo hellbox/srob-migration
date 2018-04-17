@@ -1,8 +1,8 @@
 +++
 index = "-KaJdBqEAOgNiyKjmXX8"
-_sort_create_date = 1484257500
-_sort_last_updated = 1484257740
-_sort_publish_date = 1484258400
+sort_create_date = 1484257500
+sort_last_updated = 1484257740
+sort_publish_date = 1484258400
 create_date = "2017-01-12T13:45:00-08:00"
 publish_date = "2017-01-12T14:00:00-08:00"
 date = "2017-01-12T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484257125443/SRoB
 twitterauto = "Portrait Gallery: Elissa Washuta @misswashuta painted by @studiochristine"
 facebookauto = "Portrait Gallery: Elissa Washuta painted by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/elissa-washuta"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

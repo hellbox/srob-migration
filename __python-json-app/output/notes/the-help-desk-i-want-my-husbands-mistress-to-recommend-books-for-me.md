@@ -1,8 +1,8 @@
 +++
 index = "-KNpMwkRGcKyerS2k0W1"
-_sort_create_date = 1469774280
-_sort_last_updated = 1469808900
-_sort_publish_date = 1469811600
+sort_create_date = 1469774280
+sort_last_updated = 1469808900
+sort_publish_date = 1469811600
 create_date = "2016-07-28T23:38:00-07:00"
 publish_date = "2016-07-29T10:00:00-07:00"
 date = "2016-07-29T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Dear @ciennam: I want my husband's mistress to recommend books for me."
 facebookauto = "Help! I want my husband's mistress to recommend books for me"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

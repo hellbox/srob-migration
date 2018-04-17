@@ -1,8 +1,8 @@
 +++
 index = "-KCOi7dqV-D0Cm53xk0D"
-_sort_create_date = 1457499120
-_sort_last_updated = 1457499300
-_sort_publish_date = 1457499120
+sort_create_date = 1457499120
+sort_last_updated = 1457499300
+sort_publish_date = 1457499120
 create_date = "2016-03-08T20:52:00-08:00"
 publish_date = "2016-03-08T20:52:00-08:00"
 date = "2016-03-08T20:52:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oz4IW_ffDdcpMH5nAgmawKSFRP7LglSb52yU-GsVJE0J7rHdsWoSJiWMQAYQP35KKtNmvoHGJjWA5hQ4cTm9zoW0RuGz"
 url = "/webhook-uploads/1457499178572/content%3Fid%3DOMAFmwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12862
 
 review_relationship = ["reviews/staring-across-a-border-looking-at-a-wall"]
-author_relationship = ["authors/ito-romo"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KWawzXXps6vy1IneD58"
-_sort_create_date = 1479195960
-_sort_last_updated = 1479195960
-_sort_publish_date = 1479239160
+sort_create_date = 1479195960
+sort_last_updated = 1479195960
+sort_publish_date = 1479239160
 create_date = "2016-11-14T23:46:00-08:00"
 publish_date = "2016-11-15T11:46:00-08:00"
 date = "2016-11-15T11:46:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Book News Roundup features @fantagraphics, @DonMeeChoi, and @SPLBuzz."
 facebookauto = "Our book news roundup celebrates a British publisher teaming up with a beloved Seattle press, a great honor for Seattle poet Don Mee Choi, and a #BlackLivesMatter collection at Seattle Public Library."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics", "tags/awards", "tags/seattle-public-library"]
-authors_notes = ["authors/don-mee-choi"]
+notes_about = ""
 books = ["books/hardly-war"]
 +++
 * Yesterday, [Fantagraphics Books announced](http://fantagraphics.com/flog/breakdown/) that they're entering into a partnership with young British comics publisher Breakdown Press. The Seattle-based publisher is bringing some (not all) of the very best of Breakdown's output to American bookstores and comics shops, starting with [Anna Haifisch's book *The Artist*](http://www.breakdownpress.com/store/the-artist) and [Hayashi Seiichi's book *Red Red Rocks and Other Stories 1967-1970*](http://www.breakdownpress.com/store/red-red-rock-and-other-stories-1967-1970). Breakdown's catalog [looks very cool](http://www.breakdownpress.com/store/) — a mix of international artists working in a variety of styles.

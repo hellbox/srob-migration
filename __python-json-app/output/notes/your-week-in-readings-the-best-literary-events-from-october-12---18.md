@@ -1,8 +1,8 @@
 +++
 index = "-K0E6pXGZO24RJVww393"
-_sort_create_date = 1444436460
-_sort_last_updated = 1444753260
-_sort_publish_date = 1444668540
+sort_create_date = 1444436460
+sort_last_updated = 1444753260
+sort_publish_date = 1444668540
 create_date = "2015-10-09T17:21:00-07:00"
 publish_date = "2015-10-12T09:49:00-07:00"
 date = "2015-10-12T09:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Tonight's best literary event is a group reading with @t_m_at, @BloodtoBloom, & @SampsonStarkwea. More info:"
 facebookauto = "We've got a Rainier Valley Lit Crawl, a pair of sci-fi readings, a comics party, and a chance to get drunk with Seattle's finest librarians happening this week. Here's one great event for every day of the week."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/intruder", "tags/university-book-store", "tags/seattle-public-library", "tags/lit-crawl"]
-authors_notes = ["authors/kate-lebo", "authors/nancy-kress"]
+notes_about = ""
 books = ""
 +++
 **MONDAY** Our week begins with the [Monorail Poetry Series at Fred Wildlife Refuge](https://www.facebook.com/events/450452418475437/).  Local author **Tara Atkinson**, who has a book coming out from Instant Future soon that I’m very excited to read, will be joined by Portland author **Rachael Jensen** and a Brooklyn writer with the unbelievable name of **Sampson Starkweather**. Jensen recently published her first chapbook with Snoot Books, and Starkweather has written a lot of books and also created “a multi-media website of pop/love GIF poems.”  Can one read a GIF at a reading? Maybe you’ll find out tonight.

@@ -1,8 +1,8 @@
 +++
 index = "-KbXhV06882vdeP-mToD"
-_sort_create_date = 1485567240
-_sort_last_updated = 1485567360
-_sort_publish_date = 1485567240
+sort_create_date = 1485567240
+sort_last_updated = 1485567360
+sort_publish_date = 1485567240
 create_date = "2017-01-27T17:34:00-08:00"
 publish_date = "2017-01-27T17:34:00-08:00"
 date = "2017-01-27T17:34:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-Ts42nGNP05KVjvs0o7sueBPVtvRcuRDPPX8lWV1g2B6T5MEaVUvIbpiEETYAc750G3GP_dsb99q7XHL6t5oMi0Bz-z7"
 url = "/webhook-uploads/1485567294438/content%3Fid%3DX3ONrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 50530
 
 review_relationship = ["reviews/the-angry-doodler-reviews-private-citizens-by-tony-tulathimutte"]
-author_relationship = ["authors/tony-tulathimutte"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-Ky410haSPP7fofnCqYU"
-_sort_create_date = 1509765420
-_sort_last_updated = 1509766260
-_sort_publish_date = 1510163760
+sort_create_date = 1509765420
+sort_last_updated = 1509766260
+sort_publish_date = 1510163760
 create_date = "2017-11-03T20:17:00-07:00"
 publish_date = "2017-11-08T09:56:00-08:00"
 date = "2017-11-08T09:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509764861240/NicL
 twitterauto = "We talked with Maori author Nic Low about his trip to @SeattleCityofLit."
 facebookauto = "We talked with Maori author Nic Low about what Christchurch and Seattle can teach each other."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/seattle-city-of-literature", "tags/hugo-house"]
-authors_notes = ["authors/willie-fitzgerald"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Last month, New Zealand author [Nic Low](http://www.dislocated.org/) came to Seattle for almost two weeks as part of an ongoing native author exchange program facilitated by the [Seattle City of Literature](http://seattlecityoflit.org/) organization. As part of [Lit Crawl](http://www.seattlereviewofbooks.com/notes/2017/10/20/last-nights-lit-crawl-was-worth-braving-the-traffic-apocalypse/), Low appeared onstage at the Hugo House with Seattle author Willie Fitzgerald. The morning after Lit Crawl, he met with me to share his thoughts about the trip, and how Christchurch and Seattle could grow together as literary cities. This interview, obviously, took place before [Seattle was named a UNESCO City of Literature](http://www.seattlereviewofbooks.com/notes/2017/10/31/seattle-designated-a-unesco-city-of-literature-the-world-is-looking-at-seattle-as-a-cultural-leader/), but that designation makes Low's thoughts on a cultural exchange even more relevant.</p>

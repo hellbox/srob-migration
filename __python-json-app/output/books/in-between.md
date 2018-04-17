@@ -1,8 +1,8 @@
 +++
 index = "-Kxks-jJ1nxOt8MflNl5"
-_sort_create_date = 1509427200
-_sort_last_updated = 1509427320
-_sort_publish_date = 1509427200
+sort_create_date = 1509427200
+sort_last_updated = 1509427320
+sort_publish_date = 1509427200
 create_date = "2017-10-30T22:20:00-07:00"
 publish_date = "2017-10-30T22:20:00-07:00"
 date = "2017-10-30T22:20:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Poetry"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cOSNuJdJCUaWCvPnMyuaUABwbQ3a3sPaV4Z7TxJ4AfP_9G6tclziOrwubDQfu1uIjSbgPUJl-t3xxaCyf6oA5YZwKBA"
 url = "/webhook-uploads/1509427251247/content%3Fid%3D0a-PDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 9516
 
 review_relationship = ["reviews/adventures-in-the-third-dimension"]
-author_relationship = ["authors/mita-mahato"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/getting-ready-for-short-run-read-our-coverage-first!"]
 +++

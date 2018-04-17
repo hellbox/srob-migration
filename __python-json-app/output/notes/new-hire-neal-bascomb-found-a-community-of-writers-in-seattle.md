@@ -1,8 +1,8 @@
 +++
 index = "-KGGHHSw8ZLZWlWwHOYP"
-_sort_create_date = 1461652620
-_sort_last_updated = 1461687540
-_sort_publish_date = 1461697140
+sort_create_date = 1461652620
+sort_last_updated = 1461687540
+sort_publish_date = 1461697140
 create_date = "2016-04-25T23:37:00-07:00"
 publish_date = "2016-04-26T11:59:00-07:00"
 date = "2016-04-26T11:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461651424774/wint
 twitterauto = "Neal Bascomb moved to Seattle from Philadelphia last year. How does he like it here?"
 facebookauto = "Our latest New Hire interview is Neal Bascomb, a writer of historical non-fiction. What surprised him most about Seattle? What does he miss most about the east coast?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/new-hire"]
-authors_notes = ["authors/neal-bascomb"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1461651424774/winterfortress.jpg)</p>

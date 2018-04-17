@@ -1,8 +1,8 @@
 +++
 index = "-KpxDy0LL53sQbbUSeXW"
-_sort_create_date = 1501044660
-_sort_last_updated = 1501044660
-_sort_publish_date = 1501098600
+sort_create_date = 1501044660
+sort_last_updated = 1501044660
+sort_publish_date = 1501098600
 create_date = "2017-07-25T21:51:00-07:00"
 publish_date = "2017-07-26T12:50:00-07:00"
 date = "2017-07-26T12:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Go say goodbye to Horizon Books. After a half-century the used bookseller is saying goodbye."
 facebookauto = "Go say goodbye to Horizon Books. After a half-century the used bookseller is saying goodbye."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookseller"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Long ago, the Ada's Technical Books space on 15th Ave used to be a used bookstore called Horizon Books. In [2009, Horizon moved](http://www.capitolhillseattle.com/2009/02/horizon-books-closing/) to an underground space on 10th Avenue between Pike and Pine. And now, this message from Horizon bookseller Don Glover started circulating on social media:

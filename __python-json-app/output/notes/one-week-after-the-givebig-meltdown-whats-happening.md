@@ -1,8 +1,8 @@
 +++
 index = "-KHThh3zv-WWjyihv8Pl"
-_sort_create_date = 1462951620
-_sort_last_updated = 1462951620
-_sort_publish_date = 1462993260
+sort_create_date = 1462951620
+sort_last_updated = 1462951620
+sort_publish_date = 1462993260
 create_date = "2016-05-11T00:27:00-07:00"
 publish_date = "2016-05-11T12:01:00-07:00"
 date = "2016-05-11T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Remember when GiveBIG blew up in everyone's face last week? What's happened in the time since?"
 facebookauto = "Remember when GiveBIG blew up in everyone's face last week? What's happened in the time since?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/givebig"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last week, you might recall that GiveBIG, the Seattle Foundation’s huge annual Seattle-area nonprofit fundraising drive, [suffered from big problems]( http://seattlereviewofbooks.com/notes/2016/05/03/a-quick-note-on-problems-with-givebig/). The new payment processor for the drive, an organization called Kimbia, completely failed, making it impossible for people to donate to their charities of choice. (Though GiveBIG is a local event, it is part of a national program called “Give Local America,” and many other regions reported the exact same troubles as Seattle.)

@@ -1,8 +1,8 @@
 +++
 index = "-L8AvMZKr_KBXbWwfvAj"
-_sort_create_date = 1521692220
-_sort_last_updated = 1521733440
-_sort_publish_date = 1521737700
+sort_create_date = 1521692220
+sort_last_updated = 1521733440
+sort_publish_date = 1521737700
 create_date = "2018-03-21T21:17:00-07:00"
 publish_date = "2018-03-22T09:55:00-07:00"
 date = "2018-03-22T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521691759505/Scre
 twitterauto = "Small Careful Fires, by local cartoonist @kagwheeler, might just be the antidote to Facebook anxiety."
 facebookauto = "Small Careful Fires, by local cartoonist Katie Wheeler, might just be the antidote to Facebook anxiety."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/katie-wheeler"]
+notes_about = ""
 books = ""
 +++
 Now that Facebook is burning down, maybe it's time to learn how to interact with other people again. Maybe you should try to figure out how to write letters. Maybe you've fallen so into the habit of bragging on social media that you don't remember how to tell people honestly about how your day was, or what you think or feel about things. Maybe we all need to learn how to communicate again.

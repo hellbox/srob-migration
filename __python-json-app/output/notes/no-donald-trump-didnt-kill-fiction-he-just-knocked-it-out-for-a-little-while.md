@@ -1,8 +1,8 @@
 +++
 index = "-Kq6v135rbmPSQ4c62AL"
-_sort_create_date = 1501223940
-_sort_last_updated = 1501223940
-_sort_publish_date = 1501267140
+sort_create_date = 1501223940
+sort_last_updated = 1501223940
+sort_publish_date = 1501267140
 create_date = "2017-07-27T23:39:00-07:00"
 publish_date = "2017-07-28T11:39:00-07:00"
 date = "2017-07-28T11:39:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "No, Donald Trump didn't kill fiction. He just knocked it out for a little while."
 facebookauto = "Yes, it's hard to read fiction right now. But don't worry: there's good stuff on the way!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Earlier this week, Morgan Jerkins [published a report at the *New Republic*](https://newrepublic.com/article/144029/trump-ruining-book-sales) about a slump in book sales following the election of 2016.

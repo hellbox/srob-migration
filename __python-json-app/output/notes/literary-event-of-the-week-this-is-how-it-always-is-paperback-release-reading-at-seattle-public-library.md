@@ -1,8 +1,8 @@
 +++
 index = "-L3BwpT0ae0V1-R7zKwC"
-_sort_create_date = 1516340700
-_sort_last_updated = 1516341660
-_sort_publish_date = 1516643100
+sort_create_date = 1516340700
+sort_last_updated = 1516341660
+sort_publish_date = 1516643100
 create_date = "2018-01-18T21:45:00-08:00"
 publish_date = "2018-01-22T09:45:00-08:00"
 date = "2018-01-22T09:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515565127439/howi
 twitterauto = "Our event of the week is the This Is How It Always Is release party @SPLBuzz!"
 facebookauto = "Our event of the week is the This Is How It Always Is release party at the downtown branch of the Seattle Public Library!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/laurie-frankel"]
+notes_about = ""
 books = ["books/this-is-how-it-always-is"]
 +++
 <p class="image-left">![](/webhook-uploads/1515565127439/howitalwaysis.jpg)</p>

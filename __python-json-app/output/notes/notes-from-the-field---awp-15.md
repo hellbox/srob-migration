@@ -1,8 +1,8 @@
 +++
 index = "-KEHwEPzdROL4ivVDyEj"
-_sort_create_date = 1459532880
-_sort_last_updated = 1459539240
-_sort_publish_date = 1459537380
+sort_create_date = 1459532880
+sort_last_updated = 1459539240
+sort_publish_date = 1459537380
 create_date = "2016-04-01T10:48:00-07:00"
 publish_date = "2016-04-01T12:03:00-07:00"
 date = "2016-04-01T12:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Todays #AWP16 roundup from @RachelLaKessler begins with a panic attack and only gets livelier from there."
 facebookauto = "Todays #AWP16 roundup from Rachel Kessler begins with a panic attack and only gets livelier from there."
 make_image_tweet = "False"
-byline = ["writers/rachel-kessler"]
+notes_byline = ["writers/rachel-kessler"]
 tags_notes = ["tags/notes-from-the-field"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Correspondant Rachel Kessler agreed to be our eyes-on-the-ground at the AWP festival this year. Join us for her daily updates as the conference unfolds. Comics here are from Gabrielle Bates, used with permission.</p>

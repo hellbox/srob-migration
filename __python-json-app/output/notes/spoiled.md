@@ -1,8 +1,8 @@
 +++
 index = "-K0REvPRP6Tf1gzidYbu"
-_sort_create_date = 1444656660
-_sort_last_updated = 1444656660
-_sort_publish_date = 1444755300
+sort_create_date = 1444656660
+sort_last_updated = 1444656660
+sort_publish_date = 1444755300
 create_date = "2015-10-12T06:31:00-07:00"
 publish_date = "2015-10-13T09:55:00-07:00"
 date = "2015-10-13T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/jane-wong"]
+notes_byline = ["writers/jane-wong"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 To tell the truth, I have forgotten<br>

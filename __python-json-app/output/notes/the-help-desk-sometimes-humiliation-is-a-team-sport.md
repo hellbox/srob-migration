@@ -1,8 +1,8 @@
 +++
 index = "-Kg0HW8f-Av63fgYEaW6"
-_sort_create_date = 1490375280
-_sort_last_updated = 1490375280
-_sort_publish_date = 1490375280
+sort_create_date = 1490375280
+sort_last_updated = 1490375280
+sort_publish_date = 1490375280
 create_date = "2017-03-24T10:08:00-07:00"
 publish_date = "2017-03-24T10:08:00-07:00"
 date = "2017-03-24T10:08:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Author readings are often death by a thousand public humiliations, followed by short Q&A.\""
 facebookauto = "\"Author readings are often death by a thousand public humiliations, followed by short Q&A.\""
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

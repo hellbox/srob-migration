@@ -1,8 +1,8 @@
 +++
 index = "-JvpDVtYOxcN6-WFYMqR"
-_sort_create_date = 1438633260
-_sort_last_updated = 1438749180
-_sort_publish_date = 1438804800
+sort_create_date = 1438633260
+sort_last_updated = 1438749180
+sort_publish_date = 1438804800
 create_date = "2015-08-03T13:21:00-07:00"
 publish_date = "2015-08-05T13:00:00-07:00"
 date = "2015-08-05T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 You may have noticed that we do things a little differently around here. We don't have ads like most websites. Instead of irrelevant, slow, bloated, and often weirdly offensive ads on the site, we have sponsorships. Instead of repeated images of that one product you looked at once that follows you around the internet like a ghost, or scammy computer fix-it ads that have nothing to do with books, we're offering you something that we know you love: reading. 

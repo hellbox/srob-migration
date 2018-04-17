@@ -1,8 +1,8 @@
 +++
 index = "-Kp7DBdBHOQigIY5O1Ba"
-_sort_create_date = 1500155220
-_sort_last_updated = 1500155220
-_sort_publish_date = 1500220800
+sort_create_date = 1500155220
+sort_last_updated = 1500155220
+sort_publish_date = 1500220800
 create_date = "2017-07-15T14:47:00-07:00"
 publish_date = "2017-07-16T09:00:00-07:00"
 date = "2017-07-16T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In the Sunday Post: Lindy West on losing your cool, the Outer Banks on shifting sands, & AI on a drug called love."
 facebookauto = "In the Sunday Post: Lindy West on losing your cool, the Outer Banks on shifting sands, and artificial intelligence on a drug called love."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

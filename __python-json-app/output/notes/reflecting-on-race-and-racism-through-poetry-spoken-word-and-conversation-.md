@@ -1,8 +1,8 @@
 +++
 index = "-KEUAGZGb6HtV_86vC8J"
-_sort_create_date = 1459738140
-_sort_last_updated = 1459862760
-_sort_publish_date = 1459796400
+sort_create_date = 1459738140
+sort_last_updated = 1459862760
+sort_publish_date = 1459796400
 create_date = "2016-04-03T19:49:00-07:00"
 publish_date = "2016-04-04T12:00:00-07:00"
 date = "2016-04-04T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/donna-miscolta"]
+notes_byline = ["writers/donna-miscolta"]
 tags_notes = ["tags/events", "tags/event"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Editor's note: Donna Miscolta here writes about an exclusive reading she helped organize. In order to attend, you must be an employee of King County. If you are, on April 7th, the program will be welcoming Troy Osaki and Hamda Yusuf for the next in the series of four. The final two: on June 15, the program will have Anis Gisele and Shin Yu Pai, and on September 13 Kiana Davis and Djenaway Se-Gahon. Email her for details if you're eligible and would like to attend.</p>

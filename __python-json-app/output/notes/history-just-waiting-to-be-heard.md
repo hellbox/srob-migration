@@ -1,8 +1,8 @@
 +++
 index = "-KqRBdJ3jjJBo_8hbk7z"
-_sort_create_date = 1501564140
-_sort_last_updated = 1501564140
-_sort_publish_date = 1501617660
+sort_create_date = 1501564140
+sort_last_updated = 1501564140
+sort_publish_date = 1501617660
 create_date = "2017-07-31T22:09:00-07:00"
 publish_date = "2017-08-01T13:01:00-07:00"
 date = "2017-08-01T13:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "You can lose whole afternoons exploring the @PENamerican \u200farchives."
 facebookauto = "Here are some highlights from the PEN America historical archives, including Haruki Murakami's first-ever public appearance."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/pen-america"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 PEN America's digital archive is [now available online](https://pen.org/launch-pen-america-digital-archive/). It's a free and fully searchable guide to recordings of some of the biggest writers in the world from 1960 to today. Some highlights:

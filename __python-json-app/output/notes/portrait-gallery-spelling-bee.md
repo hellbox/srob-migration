@@ -1,8 +1,8 @@
 +++
 index = "-L8EBgMjgCd-pQJqrj5p"
-_sort_create_date = 1521747120
-_sort_last_updated = 1521747420
-_sort_publish_date = 1521752400
+sort_create_date = 1521747120
+sort_last_updated = 1521747420
+sort_publish_date = 1521752400
 create_date = "2018-03-22T12:32:00-07:00"
 publish_date = "2018-03-22T14:00:00-07:00"
 date = "2018-03-22T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521746757440/srob
 twitterauto = "Portrait Gallery: It's #SpellingBee time! Regionals Sunday on @THSEA @SeattleU @BECU #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Spelling Bee"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

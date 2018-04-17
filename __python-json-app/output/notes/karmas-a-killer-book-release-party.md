@@ -1,8 +1,8 @@
 +++
 index = "-K8PyXOavNqHWped6GZu"
-_sort_create_date = 1453225260
-_sort_last_updated = 1453237860
-_sort_publish_date = 1453237200
+sort_create_date = 1453225260
+sort_last_updated = 1453237860
+sort_publish_date = 1453237200
 create_date = "2016-01-19T09:41:00-08:00"
 publish_date = "2016-01-19T13:00:00-08:00"
 date = "2016-01-19T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our thanks to @TracyWeberTypes for her sponsorship this week! We have a full chapter from her latest. Come read!"
 facebookauto = "Our thanks to Tracy Weber for sponsoring the site this week. Her third book in her popular and well-reviewed Downward Dog Mystery series has just been released, and we have a full chapter for you to read."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/tracy-weber"]
+notes_about = ""
 books = ["books/karmas-a-killer"]
 +++
 This Saturday, <a href="http://seattlereviewofbooks.com/sponsorships" title="The Seattle Review of Books - sponsorships">sponsor Tracy Weber</a> is throwing a release party for the third book in the Downward Dog Mystery series, and she'd love it if you came by. The new book, _Karma's a Killer_, follows heroine and Seattle yoga instructor Kate Davidson and her onery German shepherd Bella, as they encounter yet another impossible situation that only Kate can solve. 

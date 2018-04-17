@@ -1,8 +1,8 @@
 +++
 index = "-Kqy0mGnYvGEy-QgNqhU"
-_sort_create_date = 1502131680
-_sort_last_updated = 1502131680
-_sort_publish_date = 1502131680
+sort_create_date = 1502131680
+sort_last_updated = 1502131680
+sort_publish_date = 1502131680
 create_date = "2017-08-07T11:48:00-07:00"
 publish_date = "2017-08-07T11:48:00-07:00"
 date = "2017-08-07T11:48:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502131668188/Scre
 twitterauto = "It's official: the 30,000 zines that made up ZAPP have changed hands from @HugoHouse to @SPLBuzz."
 facebookauto = "It's official: the 30,000 zines that made up the Zine Archive and Publishing Project library  have changed hands from the Hugo House to Seattle Public Library. The zines are currently being inventoried and they will begin to be available to patrons starting this fall."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house", "tags/zapp", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Almost half a year ago, [we told you that](http://www.seattlereviewofbooks.com/notes/2017/03/21/hugo-house-and-seattle-public-library-speak-up-about-the-state-of-zapps-zine-library/) Hugo House was preparing to donate the 30,000 or so zines that made up the core library of the Zine Archive and Publishing Project (ZAPP) to the Seattle Public Library (SPL). I also [interviewed ZAPP staff about their issues with the move](http://www.seattlereviewofbooks.com/notes/2017/03/27/talking-with-zapps-graham-isaac-and-emily-cabaniss-about-the-future-of-zine-culture-in-seattle/). 

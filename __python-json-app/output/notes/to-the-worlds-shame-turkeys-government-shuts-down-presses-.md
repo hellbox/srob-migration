@@ -1,8 +1,8 @@
 +++
 index = "-KOQdKcg31GcplPsM4Wj"
-_sort_create_date = 1470416340
-_sort_last_updated = 1470416340
-_sort_publish_date = 1470423840
+sort_create_date = 1470416340
+sort_last_updated = 1470416340
+sort_publish_date = 1470423840
 create_date = "2016-08-05T09:59:00-07:00"
 publish_date = "2016-08-05T12:04:00-07:00"
 date = "2016-08-05T12:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Publishers have been shut down in Turkey. Weak leaders will always fear the strength of the written word."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/international", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you haven't read [this *Guardian* story by Alison Flood](https://www.theguardian.com/books/2016/aug/03/free-speech-groups-condemn-turkeys-closure-of-29-publishers-after-failed-coup) about the situation in Turkey, please do so:

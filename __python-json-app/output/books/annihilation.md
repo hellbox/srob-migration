@@ -1,8 +1,8 @@
 +++
 index = "-L5f7JN-bwrGbHxNZITp"
-_sort_create_date = 1518996420
-_sort_last_updated = 1518996420
-_sort_publish_date = 1518996420
+sort_create_date = 1518996420
+sort_last_updated = 1518996420
+sort_publish_date = 1518996420
 create_date = "2018-02-18T15:27:00-08:00"
 publish_date = "2018-02-18T15:27:00-08:00"
 date = "2018-02-18T15:27:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6KJA-ubbnpcVTm8koeUbXgiKakK2RY5lUuBDdxy0vHcXWK2TocZ8WIoME24gjHOTMvK4oOSPbXWkKV5L_QBDMTp4GrM"
 url = "/webhook-uploads/1518996457570/Annihilation.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 29280
 
 review_relationship = ["reviews/the-beautiful-strange"]
-author_relationship = ["authors/jeff-vandermeer"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

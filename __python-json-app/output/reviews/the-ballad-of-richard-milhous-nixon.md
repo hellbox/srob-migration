@@ -1,8 +1,8 @@
 +++
 index = "-K6HRzWuhaaOJPyeKFdR"
-_sort_create_date = 1450934760
-_sort_last_updated = 1450934760
-_sort_publish_date = 1451325240
+sort_create_date = 1450934760
+sort_last_updated = 1450934760
+sort_publish_date = 1451325240
 create_date = "2015-12-23T21:26:00-08:00"
 publish_date = "2015-12-28T09:54:00-08:00"
 date = "2015-12-28T09:54:00-08:00"
@@ -13,10 +13,10 @@ title = "The Ballad of Richard Milhous Nixon"
 dek = "A new novel imagines Richard Nixon as a combatant in an ages-old supernatural cold war. Has remix culture gone too far?"
 facebookauto = "A new novel imagines Richard Nixon as a combatant in an ages-old supernatural cold war. Has remix culture gone too far?"
 twitterauto = "A new novel imagines Richard Nixon as a combatant in a supernatural cold war. Et tu, remix culture?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/crooked"]
 tags_reviews = ["tags/novel", "tags/horror", "tags/science-fiction"]
-authors_reviews = ["authors/austin-grossman"]
+reviews_about = ""
 +++
 
 “With respect, I’m as good a man as Kennedy,” Vice President Richard Nixon tells Dwight Eisenhower. But his boss is having none of it. Ike spits back:

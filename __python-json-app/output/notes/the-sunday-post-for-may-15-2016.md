@@ -1,8 +1,8 @@
 +++
 index = "-KHm2kmt2PsF0VfFMNEF"
-_sort_create_date = 1463276160
-_sort_last_updated = 1463276640
-_sort_publish_date = 1463328000
+sort_create_date = 1463276160
+sort_last_updated = 1463276640
+sort_publish_date = 1463328000
 create_date = "2016-05-14T18:36:00-07:00"
 publish_date = "2016-05-15T09:00:00-07:00"
 date = "2016-05-15T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Pieces by @aworkinglibrary, @sullydish, @badaude, @rushkoff in The Sunday Post today."
 facebookauto = "Populism as the downfall of democracy, bots and gender, the importance of sex literacy to feminism, and when we advertise ourselves to death. Today in The Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://nymag.com/daily/intelligencer/2016/04/america-tyranny-donald-trump.html?mid=fb-share-di" title="America Has Never Been So Ripe for Tyranny -- NYMag">Democracies end when they are too democratic.</a></h5>

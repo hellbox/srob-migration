@@ -1,8 +1,8 @@
 +++
 index = "-JziD-uyJ6bXfnI6vHTj"
-_sort_create_date = 1442810640
-_sort_last_updated = 1442857440
-_sort_publish_date = 1442859840
+sort_create_date = 1442810640
+sort_last_updated = 1442857440
+sort_publish_date = 1442859840
 create_date = "2015-09-20T21:44:00-07:00"
 publish_date = "2015-09-21T11:24:00-07:00"
 date = "2015-09-21T11:24:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Let's remind Seattle Public Libraries leadership that we love SPL for its books and its librarians, not its brand."
 facebookauto = "As Seattle Public Library launches an awkward public rebranding campaign, it's time to remind SPL leadership that we love their libraries because of their librarians and their books, not their brand."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library", "tags/branding", "tags/librarians"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Over the last two days, we’ve seen a lot of outrage on local social media over [the Seattle Public Library’s rebranding](http://www.seattlepi.com/local/article/The-Seattle-Public-Library-considers-name-change-6515447.php). You can [see what SPL is considering through their survey](https://www.surveymonkey.com/r/PBTWRN2), where they’re “seeking public comment on a proposed new name and logo design.” The name change would be to “Seattle Public Libraries,” and the logo design would involve either a few patterns that are apparently loosely based on the windows of the downtown branch of the Library or a series of connected dots.

@@ -1,8 +1,8 @@
 +++
 index = "-L9X0MJU5WP-zvmPjv34"
-_sort_create_date = 1523136660
-_sort_last_updated = 1523156280
-_sort_publish_date = 1523205000
+sort_create_date = 1523136660
+sort_last_updated = 1523156280
+sort_publish_date = 1523205000
 create_date = "2018-04-07T14:31:00-07:00"
 publish_date = "2018-04-08T09:30:00-07:00"
 date = "2018-04-08T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This week's Sunday reads come from @dkevrafox2, @WordsandGuitar, and @salesses."
 facebookauto = "This week's Sunday reads come from Derek Kevra, Alicia Elliott, and Matthew Salesses."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

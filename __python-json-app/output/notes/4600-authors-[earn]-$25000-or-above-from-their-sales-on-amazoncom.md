@@ -1,8 +1,8 @@
 +++
 index = "-KJioXzWl2Z2y_g8Ep14"
-_sort_create_date = 1465369320
-_sort_last_updated = 1465369740
-_sort_publish_date = 1465416120
+sort_create_date = 1465369320
+sort_last_updated = 1465369740
+sort_publish_date = 1465416120
 create_date = "2016-06-08T00:02:00-07:00"
 publish_date = "2016-06-08T13:02:00-07:00"
 date = "2016-06-08T13:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "How many authors in America earn poverty wages or above? The answer may depress you!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/indie-authors"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
  Lincoln Michel [at Electric Lit](http://electricliterature.com/what-writers-earn-money-a-look-at-the-author-earnings-report-on-self-publishing-and-traditional-publishing-sales/) takes a look at an (depressing, not-always-very-accurate) annual report on how much authors earn. Turns out, a tiny amount of writers actually make above poverty wages. The rest are just in it for the art.

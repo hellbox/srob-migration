@@ -1,8 +1,8 @@
 +++
 index = "-KIn5Az6AHzMOMwjzF25"
-_sort_create_date = 1464367320
-_sort_last_updated = 1482565800
-_sort_publish_date = 1464451200
+sort_create_date = 1464367320
+sort_last_updated = 1482565800
+sort_publish_date = 1464451200
 create_date = "2016-05-27T09:42:00-07:00"
 publish_date = "2016-05-28T09:00:00-07:00"
 date = "2016-05-28T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.comwebhook-uploads/1464367343444/30c1f
 twitterauto = "What? @CopperCanyonPrs has a new Kickstarter? Funded! "
 facebookauto = "What? Copper Canyon Press has a new Kickstarter? Funded!"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ["authors/camille-rankine", "authors/ocean-vuong"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week, the _Seattle Review of Books_ backs a Kickstarter, and writes up why we picked that particular project. <a href="http://seattlereviewofbooks.com/notes/2016/01/08/announcing-the-seattle-review-of-books-kickstarter-fund/" title="The Seattle Review of Books - Announcing the Seattle Review of Books Kickstarter Fund">Read more about the project here</a>. Suggest a project by writing to _kickstarter_ at this domain, or by <a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">using our contact form</a>.<p>

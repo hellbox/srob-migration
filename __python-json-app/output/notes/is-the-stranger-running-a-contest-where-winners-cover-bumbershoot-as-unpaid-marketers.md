@@ -1,8 +1,8 @@
 +++
 index = "-KpR0WFljonqlufruf25"
-_sort_create_date = 1500487440
-_sort_last_updated = 1500488280
-_sort_publish_date = 1500487440
+sort_create_date = 1500487440
+sort_last_updated = 1500488280
+sort_publish_date = 1500487440
 create_date = "2017-07-19T11:04:00-07:00"
 publish_date = "2017-07-19T11:04:00-07:00"
 date = "2017-07-19T11:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500486817561/DFC8
 twitterauto = "Is @TheStranger running a contest where winners cover Bumbershoot as unpaid marketers?"
 facebookauto = "The Stranger is running a contest right now. The \"lucky winner\" gets to be a \"Bumbershoot Correspondent\" for the paper in exchange for an armload of swag. Does the position pay? Is the position journalism or marketing? We've reached out to The Stranger and will let you know if and when we hear back."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/the-stranger", "tags/bumbershoot"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1500486817561/DFC87AmVwAEFuvOSized.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-K_hbmGZ_JwqaqPigXhc"
-_sort_create_date = 1483602840
-_sort_last_updated = 1483638780
-_sort_publish_date = 1483638840
+sort_create_date = 1483602840
+sort_last_updated = 1483638780
+sort_publish_date = 1483638840
 create_date = "2017-01-04T23:54:00-08:00"
 publish_date = "2017-01-05T09:54:00-08:00"
 date = "2017-01-05T09:54:00-08:00"
@@ -13,10 +13,10 @@ title = "A room full of citizens"
 dek = "Last night, the Seattle Review of Books and the Seattle Weekly hosted a book club to discuss Claudia Rankine's brilliant book Citizen. Here's what they learned."
 facebookauto = "\"I love everything about this book,\" Paul Constant gushes about Claudia Rankine's book Citizen. \"I love the look of it, the feel of it, the words and the design and the passion and the craft of it.\""
 twitterauto = "Last night, we co-hosted an event with @SeattleWeekly to discuss Claudia Rankine's Citizen. Here's what happened:"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/citizen"]
 tags_reviews = ["tags/non-fiction", "tags/race", "tags/reading-through-it"]
-authors_reviews = ["authors/claudia-rankine"]
+reviews_about = ""
 +++
 
 This is unprofessional for a critic, but I have to gush: I loved reading Claudia Rankine’s book *Citizen: An American Lyric*. I love everything about this book: I love the look of it, the feel of it, the words and the design and the passion and the craft of it. *Citizen*, to me, feels like the future of non-fiction books: a beautiful, book-length essay delivered in raw, vital chunks of text, interspersed with color photos and relevant pieces of art. It is a book that would be diminished in e-book form. It’s a book that uses its very book-ness to enhance and illustrate its author’s point. I would like to read a dozen more books just like *Citizen* immediately, but there is unfortunately no other book like *Citizen* to read right now. It’s a magnificent book, one of the finest reading experiences I’ve had in a long time.

@@ -1,8 +1,8 @@
 +++
 index = "-Kl1w_NHko2noDGNvO6p"
-_sort_create_date = 1495771740
-_sort_last_updated = 1495771740
-_sort_publish_date = 1495818060
+sort_create_date = 1495771740
+sort_last_updated = 1495771740
+sort_publish_date = 1495818060
 create_date = "2017-05-25T21:09:00-07:00"
 publish_date = "2017-05-26T10:01:00-07:00"
 date = "2017-05-26T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Our advice columnist, Cienna Madrid, is taking the weekend off to celebrate Memorial Day and do a little traveling. Hopefully, you're doing the same.

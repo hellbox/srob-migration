@@ -1,8 +1,8 @@
 +++
 index = "-KwHVm-nV2GaanLTH96l"
-_sort_create_date = 1507844100
-_sort_last_updated = 1507844100
-_sort_publish_date = 1507844100
+sort_create_date = 1507844100
+sort_last_updated = 1507844100
+sort_publish_date = 1507844100
 create_date = "2017-10-12T14:35:00-07:00"
 publish_date = "2017-10-12T14:35:00-07:00"
 date = "2017-10-12T14:35:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456286621443/SCoL
 twitterauto = "Donald Trump just divorced the United States from the world of literature. What does this mean for Seattle?"
 facebookauto = "Just this morning, Donald Trump withdrew the United States from the Unesco program of international culture. What does this mean for Seattle's literary scene and how do we fight back?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-city-of-literature", "tags/stesha-brandon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This morning, Gardiner Harris and Steven Erlanger [reported for the *New York Times*](https://www.nytimes.com/2017/10/12/us/politics/trump-unesco-withdrawal.html?mwrsm=Facebook):

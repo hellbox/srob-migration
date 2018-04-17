@@ -1,8 +1,8 @@
 +++
 index = "-Kc-D24e3KTSOvFK14l9"
-_sort_create_date = 1486062360
-_sort_last_updated = 1486062360
-_sort_publish_date = 1486062360
+sort_create_date = 1486062360
+sort_last_updated = 1486062360
+sort_publish_date = 1486062360
 create_date = "2017-02-02T11:06:00-08:00"
 publish_date = "2017-02-02T11:06:00-08:00"
 date = "2017-02-02T11:06:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's must-read: @gwinnma says goodbye to the Seattle Times newsroom."
 facebookauto = "We're so sad to see Mary Ann Gwinn leave the Seattle Times as a full-time book review section editor. Her last column is required reading."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-times", "tags/mary-ann-gwinn"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 You have to read [Mary Ann Gwinn's final column in her role as the *Seattle Times* books editor](http://www.seattletimes.com/entertainment/books/closing-the-book-on-34-years-in-the-seattle-times-newsroom/). It's a grand and generous tour of the last 34 years in Seattle literary history. I'm not going to pull a single quote here, because you should read the whole thing. (Full disclosure: I choked up a little at the shoutout to the *Seattle Review of Books*.) 

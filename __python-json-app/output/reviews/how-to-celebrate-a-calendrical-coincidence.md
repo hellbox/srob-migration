@@ -1,8 +1,8 @@
 +++
 index = "-KFXF17rofuhFVNJ4157"
-_sort_create_date = 1460863500
-_sort_last_updated = 1460995680
-_sort_publish_date = 1461006000
+sort_create_date = 1460863500
+sort_last_updated = 1460995680
+sort_publish_date = 1461006000
 create_date = "2016-04-16T20:25:00-07:00"
 publish_date = "2016-04-18T12:00:00-07:00"
 date = "2016-04-18T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "How to Celebrate a Calendrical Coincidence"
 dek = "Has anybody seen our reviewer Ivan Schneider? All we have is a battered, marked-up version of a book about Cervantes and Shakespeare, and this...well, I guess you could call it a \"review\"."
 facebookauto = "Has anybody seen our reviewer Ivan Schneider? We found this review in our system with no idea how it got there."
 twitterauto = "Has anybody seen @ivantohelpyou? We found this review in our system with no idea how it got there."
-byline = ["writers/ivan-schneider"]
+reviews_byline = ["writers/ivan-schneider"]
 books_in_this_review = ["books/lunatics-lovers-and-poets"]
 tags_reviews = ""
-authors_reviews = ""
+reviews_about = ""
 +++
 
 _I stop at Mercer Street Books to pick up the review copy of_ Lunatics, Lovers and Poets. _Where to read it? Which restaurant? Where? Too many cars, too loud, I don’t want to cross the street. Irish pub? No, it’s too dark, too much dark wood, in the middle of our block I avoid the selva oscura. Floyd’s! Floyd’s? It’s gone! How about Mecca, that’ll work, but that’s all the way round. In the meantime, how about a drink, yes, the liquor store’s still here, at least for now. In our tunnel-warrened city known to all as NOTICE OF PROPOSED LAND USE ACTION, in the depths of our noble NOPLUA, which of these bottles will be my Virgil? Here it is, the rye whiskey_ John Jacob, _the Baptist & the Angel Wrestler together at last. I need a safe spot to sit, safe, sift, sofa, SIFF, what now, a parklet? A perfect parklet for parking a pucking poet. Don’t pass out you’re working…._ 

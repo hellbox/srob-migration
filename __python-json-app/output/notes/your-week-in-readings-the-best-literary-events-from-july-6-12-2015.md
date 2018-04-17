@@ -1,8 +1,8 @@
 +++
 index = "-JtUpsuymxP43K_-B58G"
-_sort_create_date = 1436127000
-_sort_last_updated = 1436218080
-_sort_publish_date = 1436199000
+sort_create_date = 1436127000
+sort_last_updated = 1436218080
+sort_publish_date = 1436199000
 create_date = "2015-07-05T13:10:00-07:00"
 publish_date = "2015-07-06T09:10:00-07:00"
 date = "2015-07-06T09:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/town-hall-seattle", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/third-place-books-lake-forest-park", "tags/adas-technical-books", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![Doug Nufer and his dog](/webhook-uploads/1436126424390/unnamed-1.jpg)</p>

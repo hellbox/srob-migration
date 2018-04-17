@@ -1,8 +1,8 @@
 +++
 index = "-KAlz4R0H_5r_rUG64Jn"
-_sort_create_date = 1455758760
-_sort_last_updated = 1455758760
-_sort_publish_date = 1455904560
+sort_create_date = 1455758760
+sort_last_updated = 1455758760
+sort_publish_date = 1455904560
 create_date = "2016-02-17T17:26:00-08:00"
 publish_date = "2016-02-19T09:56:00-08:00"
 date = "2016-02-19T09:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455758721718/The_
 twitterauto = "Tintin books were really racist. Is it okay to read Tintin books?"
 facebookauto = "In this week's advice column, Cienna Madrid contributes the following sentence to the world of letters: \"Lewis Carroll was a monogamous pedophile, Flannery O'Connor was a devout Catholic and Ayn Rand claimed to be human.\""
 make_image_tweet = "True"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/racism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

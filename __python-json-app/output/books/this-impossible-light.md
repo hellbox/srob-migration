@@ -1,8 +1,8 @@
 +++
 index = "-KriIoC_bKl7h8d70XXV"
-_sort_create_date = 1502941740
-_sort_last_updated = 1502941860
-_sort_publish_date = 1502941740
+sort_create_date = 1502941740
+sort_last_updated = 1502941860
+sort_publish_date = 1502941740
 create_date = "2017-08-16T20:49:00-07:00"
 publish_date = "2017-08-16T20:49:00-07:00"
 date = "2017-08-16T20:49:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Young Adult Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/T7n36RLNVjsazK3-lvR6H6uN8MJd3PTp4wAvXV0dulsdfJPSd0USEnMMwjp8OmBkOJN_PeRpaBnlIowiumboi8pQwN3C"
 url = "/webhook-uploads/1502941757334/content%3Fid%3DmHjNDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 6643
 
 review_relationship = ["reviews/awkward-teenage-poetry-as-a-force-for-good"]
-author_relationship = ["authors/lily-myers"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

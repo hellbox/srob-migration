@@ -1,8 +1,8 @@
 +++
 index = "-KtPlEhIUXaYrqYU2Cys"
-_sort_create_date = 1504761360
-_sort_last_updated = 1504761360
-_sort_publish_date = 1504803360
+sort_create_date = 1504761360
+sort_last_updated = 1504761360
+sort_publish_date = 1504803360
 create_date = "2017-09-06T22:16:00-07:00"
 publish_date = "2017-09-07T09:56:00-07:00"
 date = "2017-09-07T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "An upcoming comics anthology tells stories of addiction and hitting bottom."
 facebookauto = "An upcoming comics anthology tells stories of addiction and hitting bottom."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/tatiana-gill", "authors/max-clotfelter"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1504761090049/bottomsupcover.jpg)</p>

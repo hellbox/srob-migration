@@ -1,8 +1,8 @@
 +++
 index = "-JzCAQix5PZN-Q3PIcd3"
-_sort_create_date = 1442256360
-_sort_last_updated = 1442256360
-_sort_publish_date = 1442263560
+sort_create_date = 1442256360
+sort_last_updated = 1442256360
+sort_publish_date = 1442263560
 create_date = "2015-09-14T11:46:00-07:00"
 publish_date = "2015-09-14T13:46:00-07:00"
 date = "2015-09-14T13:46:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Will @CatapultStory finally crack the code for online writing communities?."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/catapult"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Catapult, a new publisher and online platform, [launched today](https://www.catapult.co/stories/an-introduction). (Yes, [as the *Wall Street Journal* noted last week](http://www.wsj.com/articles/a-literary-koch-launches-new-publishing-house-1441911101), it's funded by Koch money. Not *that* Koch money.) Their first print book is [a short story collection by Padgett Powell](http://shop.catapult.co/products/cries-for-help-padgett-powell), and there are plenty more on the way. 

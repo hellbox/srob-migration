@@ -1,8 +1,8 @@
 +++
 index = "-L68hnc8S1Z5zIRPCK2i"
-_sort_create_date = 1519507680
-_sort_last_updated = 1519520760
-_sort_publish_date = 1519579800
+sort_create_date = 1519507680
+sort_last_updated = 1519520760
+sort_publish_date = 1519579800
 create_date = "2018-02-24T13:28:00-08:00"
 publish_date = "2018-02-25T09:30:00-08:00"
 date = "2018-02-25T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In the Sunday Post, @everywhereist on bullies, @RahawaHaile on Black Panther, @sarahjeong on whisper networks, & more"
 facebookauto = "This week's Sunday Post: Geraldine DeRuiter on bullies, Rahawa Haile on Black Panther, Sarah Jeong on whisper networks, and more."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

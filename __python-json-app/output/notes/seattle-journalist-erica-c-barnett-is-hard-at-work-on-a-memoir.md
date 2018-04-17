@@ -1,8 +1,8 @@
 +++
 index = "-KnlBWqjh6x3eSEwhs09"
-_sort_create_date = 1498695180
-_sort_last_updated = 1498858500
-_sort_publish_date = 1498759980
+sort_create_date = 1498695180
+sort_last_updated = 1498858500
+sort_publish_date = 1498759980
 create_date = "2017-06-28T17:13:00-07:00"
 publish_date = "2017-06-29T11:13:00-07:00"
 date = "2017-06-29T11:13:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498694570814/ewio
 twitterauto = "Seattle-area reporter @ericacbarnett is working on a memoir and we can't wait to read it."
 facebookauto = "Seattle-area journalist Erica C. Barnett is working on a memoir for Viking Books."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/memoir", "tags/book-deal", "tags/journalism"]
-authors_notes = ["authors/erica-c-barnett"]
+notes_about = ""
 books = ""
 +++
 If you think writers like to gossip, you should spend some time with elected officials. Nobody — not even a well-lubricated novelist — loves to gab like a politician. I was at a cocktail party a while back when a certain public official was clearly sitting on a big, juicy secret. They tried to sound nonchalant as they dropped their intel on a tight circle of Seattle-area political figures: “did you hear?” Everyone in the circle leaned in. “I hear Erica C. Barnett got a book deal.”

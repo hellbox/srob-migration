@@ -1,8 +1,8 @@
 +++
 index = "-KpIejjtiDHecbcAyxKx"
-_sort_create_date = 1500347280
-_sort_last_updated = 1500384960
-_sort_publish_date = 1500396900
+sort_create_date = 1500347280
+sort_last_updated = 1500384960
+sort_publish_date = 1500396900
 create_date = "2017-07-17T20:08:00-07:00"
 publish_date = "2017-07-18T09:55:00-07:00"
 date = "2017-07-18T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Poem Where We Apologize For Being Human\" is our third from July Poet in Residence, @KelliAgodon."
 facebookauto = "\"Poem Where We Apologize For Being Human\" is our third from July Poet in Residence, Kelli Russell Agodon. "
 make_image_tweet = "False"
-byline = ["writers/kelli-russell-agodon"]
+notes_byline = ["writers/kelli-russell-agodon"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 There is a part of me that doesn’t understand longing.<br>

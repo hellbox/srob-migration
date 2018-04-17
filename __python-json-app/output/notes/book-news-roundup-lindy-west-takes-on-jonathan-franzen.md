@@ -1,8 +1,8 @@
 +++
 index = "-KOBDo26zVEIDx2AP2ZV"
-_sort_create_date = 1470157740
-_sort_last_updated = 1470157740
-_sort_publish_date = 1470166200
+sort_create_date = 1470157740
+sort_last_updated = 1470157740
+sort_publish_date = 1470166200
 create_date = "2016-08-02T10:09:00-07:00"
 publish_date = "2016-08-02T12:30:00-07:00"
 date = "2016-08-02T12:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in Book News Roundup: Writing opportunities from @ZAPPSeattle and @BitchMedia."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/zapp", "tags/bitch"]
-authors_notes = ["authors/lindy-west", "authors/jonathan-franzen"]
+notes_about = ""
 books = ""
 +++
 * ZAPP, the Zine Archive and Publishing Project that was formerly based out of Hugo House but which is now looking for a permanent home for its library, is [looking for submissions](https://www.facebook.com/shortrunseattle/posts/1046861722033543) for its next issue of *Xenographic*, its quarterly publication. The theme is "IRL/URL," and they accept prose, poetry, fiction, non-fiction, illustrations, and photographs. Send your submissions to info@zappseattle.org by August 9th.

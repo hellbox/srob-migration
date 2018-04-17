@@ -1,8 +1,8 @@
 +++
 index = "-K5S0-SkYIzxP47O0kOt"
-_sort_create_date = 1450038240
-_sort_last_updated = 1450070340
-_sort_publish_date = 1450123260
+sort_create_date = 1450038240
+sort_last_updated = 1450070340
+sort_publish_date = 1450123260
 create_date = "2015-12-13T12:24:00-08:00"
 publish_date = "2015-12-14T12:01:00-08:00"
 date = "2015-12-14T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450037576093/9780
 twitterauto = "Shopping for the young person in your life? @chasingray compiled a list of amazing books for young readers."
 facebookauto = "It's so important for young people to love reading. What better time to sneak a book that they'll love into their hands than Christmas? Colleen Mondor has compiled a list of great young adult books \u2014\u00a0fiction and not, genre and literary \u2014 for the kid in your life. (You'll probably enjoy them, too.)"
 make_image_tweet = ""
-byline = ["writers/colleen-mondor"]
+notes_byline = ["writers/colleen-mondor"]
 tags_notes = ["tags/young-adult", "tags/science-fiction", "tags/mystery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Book shopping for teenagers can be daunting, but they make excellent gifts and provide plenty of opportunities to introduce young adults to new authors to love. Here are some recommendations of books both new and old for the 13-and-up crowd that are worth adding to your shopping list.

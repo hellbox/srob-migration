@@ -1,8 +1,8 @@
 +++
 index = "-KoLVlgCgl-_nGxbReF4"
-_sort_create_date = 1499321220
-_sort_last_updated = 1499363940
-_sort_publish_date = 1499360460
+sort_create_date = 1499321220
+sort_last_updated = 1499363940
+sort_publish_date = 1499360460
 create_date = "2017-07-05T23:07:00-07:00"
 publish_date = "2017-07-06T10:01:00-07:00"
 date = "2017-07-06T10:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Enemies of the state"
 dek = "What can progressives do to fight when they've been outspent and out-planned by libertarian billionaires at every turn? Is there any hope?"
 facebookauto = "The vast right-wing conspiracy is real. Is there any hope for progressives?"
 twitterauto = "Progressives have been outspent & out-planned by billionaires. Is there any hope?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/dark-money"]
 tags_reviews = ["tags/reading-through-it", "tags/politics"]
-authors_reviews = ["authors/jane-mayer"]
+reviews_about = ""
 +++
 
 As a news consumer in the 21st century, I try to measure every piece of political news that flows down my social media streams against two different questions:

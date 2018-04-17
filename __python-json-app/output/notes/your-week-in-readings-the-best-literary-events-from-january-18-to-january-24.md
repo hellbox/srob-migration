@@ -1,8 +1,8 @@
 +++
 index = "-K86y24NLjfUPziGaavT"
-_sort_create_date = 1452906360
-_sort_last_updated = 1452927180
-_sort_publish_date = 1453140360
+sort_create_date = 1452906360
+sort_last_updated = 1452927180
+sort_publish_date = 1453140360
 create_date = "2016-01-15T17:06:00-08:00"
 publish_date = "2016-01-18T10:06:00-08:00"
 date = "2016-01-18T10:06:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452906016453/frea
 twitterauto = "Your week in readings begins at Seattle Center tonight."
 facebookauto = "Your week in readings include a couple events at Seattle Center, a reading about women at work, and a reading paired with a movie."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/hugo-house", "tags/ghost-tokens", "tags/seattle-public-library", "tags/seattle-arts-and-lectures"]
-authors_notes = ["authors/michelle-pe\u00f1aloza", "authors/peter-mountford"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1452906016453/freaks.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KJnoabSFlqrfQjFkCTU"
-_sort_create_date = 1465453260
-_sort_last_updated = 1465498080
-_sort_publish_date = 1465498740
+sort_create_date = 1465453260
+sort_last_updated = 1465498080
+sort_publish_date = 1465498740
 create_date = "2016-06-08T23:21:00-07:00"
 publish_date = "2016-06-09T11:59:00-07:00"
 date = "2016-06-09T11:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Neal Stephenson's latest book is going to the movies."
 facebookauto = "Neal Stephenson is going to the movies! Plus more in our Book News Roundup."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/censorship"]
-authors_notes = ["authors/neal-stephenson"]
+notes_about = ""
 books = ["books/seveneves"]
 +++
 * Seattle author Neal Stephenson's *Seveneves* will be adapted into a film by writer Bill Broyles, director Ron Howard and producer Brian Grazer — the same team that made *Apollo 13*, [Deadline reports](http://deadline.com/2016/06/seveneves-movie-ron-howard-brian-grazer-bill-broyles-apollo-13-skydance-1201769130/). Based on [Martin McClellan's review of *Seveneves*](http://seattlereviewofbooks.com/reviews/sticking-the-landing/), they have a lot of good stuff to work with.

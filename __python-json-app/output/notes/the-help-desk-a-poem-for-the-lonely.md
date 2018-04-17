@@ -1,8 +1,8 @@
 +++
 index = "-L7jkw5GJFsvU9KXv1Zf"
-_sort_create_date = 1521219780
-_sort_last_updated = 1521219780
-_sort_publish_date = 1521831720
+sort_create_date = 1521219780
+sort_last_updated = 1521219780
+sort_publish_date = 1521831720
 create_date = "2018-03-16T10:03:00-07:00"
 publish_date = "2018-03-23T12:02:00-07:00"
 date = "2018-03-23T12:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Dear @ciennam: Will you write me a poem?"
 facebookauto = "Dear Cienna: Will you write me a poem?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

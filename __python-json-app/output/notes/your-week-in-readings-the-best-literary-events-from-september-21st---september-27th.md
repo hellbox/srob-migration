@@ -1,8 +1,8 @@
 +++
 index = "-KRasrvJ1e8u2IQFiC_d"
-_sort_create_date = 1473826200
-_sort_last_updated = 1473826380
-_sort_publish_date = 1474481400
+sort_create_date = 1473826200
+sort_last_updated = 1473826380
+sort_publish_date = 1474481400
 create_date = "2016-09-13T21:10:00-07:00"
 publish_date = "2016-09-21T11:10:00-07:00"
 date = "2016-09-21T11:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings includes a talk about dying languages, a standup comedian, and a book about grunge."
 facebookauto = "Your week in readings includes a grunge guide, a standup comedian, and a rubbernecking opportunity featuring a once-huge author whose new novel seems very questionable."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/vermillion"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday September 21st: *A Gentleman in Moscow* Reading**</h5></p> 

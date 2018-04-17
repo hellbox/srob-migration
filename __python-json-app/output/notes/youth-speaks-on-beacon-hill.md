@@ -1,8 +1,8 @@
 +++
 index = "-Ke_C5k3CfDhREVd-dAg"
-_sort_create_date = 1488830340
-_sort_last_updated = 1488830880
-_sort_publish_date = 1488833940
+sort_create_date = 1488830340
+sort_last_updated = 1488830880
+sort_publish_date = 1488833940
 create_date = "2017-03-06T11:59:00-08:00"
 publish_date = "2017-03-06T12:59:00-08:00"
 date = "2017-03-06T12:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Katie Anastas [at Crosscut](http://crosscut.com/2017/03/at-the-mic-teens-slam-injustice-with-poetry/) writes about the Youth Speaks open mic night at Beacon Hill's excellent [Station cafe](https://www.facebook.com/TheStationCoffeeShop/): "Every first Sunday of the month, a small café in Beacon Hill opens its doors after hours to a group of teenage spoken word poets ready to tackle social justice issues..." 

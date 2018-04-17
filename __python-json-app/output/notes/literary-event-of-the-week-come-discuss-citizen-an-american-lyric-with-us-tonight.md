@@ -1,8 +1,8 @@
 +++
 index = "-K_Xr47l2Q2lJcqs3V-z"
-_sort_create_date = 1483422300
-_sort_last_updated = 1483422300
-_sort_publish_date = 1483551900
+sort_create_date = 1483422300
+sort_last_updated = 1483422300
+sort_publish_date = 1483551900
 create_date = "2017-01-02T21:45:00-08:00"
 publish_date = "2017-01-04T09:45:00-08:00"
 date = "2017-01-04T09:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483422191606/citi
 twitterauto = "Come join us tonight @ThirdPlaceBooks Seward Park to discuss Claudia Rankine's book Citizen."
 facebookauto = "Come join us tonight at Third Place Books Seward Park to discuss Claudia Rankine's beautiful book Citizen."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/reading-through-it"]
-authors_notes = ["authors/claudia-rankine"]
+notes_about = ""
 books = ["books/citizen"]
 +++
 Last month’s Reading Through It Book Club was a great success, a night in which nearly a hundred Seattleites gathered to discuss an America that they felt they didn’t recognize anymore. The event — a coproduction between the *Seattle Weekly*, the *Seattle Review of Books*, and Third Place Books Seward Park — didn’t provide a whole lot of answers, but it did evoke important questions of class and race and intergenerational poverty. People shared their own experiences with poverty, both from personal experience and as observers. They talked about their personal biases and how those biases might have failed them. They told jokes. They focused their view of the world through the lens of a book.

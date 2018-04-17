@@ -1,8 +1,8 @@
 +++
 index = "-K12jvqCT2mUao5qCAfr"
-_sort_create_date = 1445319360
-_sort_last_updated = 1445319360
-_sort_publish_date = 1445374500
+sort_create_date = 1445319360
+sort_last_updated = 1445319360
+sort_publish_date = 1445374500
 create_date = "2015-10-19T22:36:00-07:00"
 publish_date = "2015-10-20T13:55:00-07:00"
 date = "2015-10-20T13:55:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "acbca6fd-1e3b-4d4b-c08b-d2fd0baed2d0"
 name = "Looking and seeing are two different things"
 title = "Looking and seeing are two different things"
 dek = "Colum McCann's newest story collection is about the surveillance state and violence and whether justice can ever truly be served in a society where everyone is always watching."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/thirteen-ways-of-looking"]
 tags_reviews = ["tags/fiction", "tags/novella"]
-authors_reviews = ["authors/colum-mccann"]
+reviews_about = ""
 +++
 
 The title novella in Colum McCann’s new collection *Thirteen Ways of Looking* is a mystery, but it’s less of a whodunnit and more of a how’d-it-happen. Our protagonist, a former New York state Supreme Court judge named Peter Mendelssohn, is elderly and infirm. His wife, Eileen, has died. His son, Elliot, is a disappointment. Mendelssohn spends all morning in bed, thinking of the life he lived. He’s not overcome with regret, although he desperately hates the adult diaper that his nurse, an immigrant named Sally, makes him wear.

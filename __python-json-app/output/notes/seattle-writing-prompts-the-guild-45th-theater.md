@@ -1,8 +1,8 @@
 +++
 index = "-KmFaTmPR6b65Cd8VSSW"
-_sort_create_date = 1497074580
-_sort_last_updated = 1497196020
-_sort_publish_date = 1497110400
+sort_create_date = 1497074580
+sort_last_updated = 1497196020
+sort_publish_date = 1497110400
 create_date = "2017-06-09T23:03:00-07:00"
 publish_date = "2017-06-10T09:00:00-07:00"
 date = "2017-06-10T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497074578884/IMG_
 twitterauto = "Let's take one last tour inside the Guild 45th."
 facebookauto = "Let's take one last tour inside the Guild 45th."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-writing-prompts"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><a href="http://www.seattlereviewofbooks.com/tags/seattle-writing-prompts" title="The Seattle Review of Books">Seattle Writing Prompts</a> are intended to spark ideas for your writing, based on locations and stories of Seattle. Write something inspired by a prompt? [Send it to us](http://seattlereviewofbooks.com/about)! We're looking to publish writing sparked by prompts.<br><br>Also, how are we doing? Are writing prompts useful to you? Could we be doing better? [Reach out](http://seattlereviewofbooks.com/about) if you have ideas or feedback. We'd love to hear.</p>

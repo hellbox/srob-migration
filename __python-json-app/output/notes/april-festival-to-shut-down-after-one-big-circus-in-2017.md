@@ -1,8 +1,8 @@
 +++
 index = "-KVi-eg_nRKtJdz344GT"
-_sort_create_date = 1478240640
-_sort_last_updated = 1478285760
-_sort_publish_date = 1478286300
+sort_create_date = 1478240640
+sort_last_updated = 1478285760
+sort_publish_date = 1478286300
 create_date = "2016-11-03T23:24:00-07:00"
 publish_date = "2016-11-04T12:05:00-07:00"
 date = "2016-11-04T12:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sad news: Next year's @APRILFestSEA will be the last. "
 facebookauto = "Sad news: next year's APRIL Festival will be the last. Good news: next year's APRIL Festival will take place under a \"literal circus tent\" and it sounds like a lot of fun. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/april", "tags/death"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1478240328459/APRIL-2016-Teal-Full-Smart-OBJ2.jpg)</p>

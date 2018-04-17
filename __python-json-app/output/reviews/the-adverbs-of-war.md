@@ -1,8 +1,8 @@
 +++
 index = "-KC3I3Ij--B2QwoQ-PlM"
-_sort_create_date = 1457139720
-_sort_last_updated = 1457139780
-_sort_publish_date = 1457551800
+sort_create_date = 1457139720
+sort_last_updated = 1457139780
+sort_publish_date = 1457551800
 create_date = "2016-03-04T17:02:00-08:00"
 publish_date = "2016-03-09T11:30:00-08:00"
 date = "2016-03-09T11:30:00-08:00"
@@ -13,10 +13,10 @@ title = "The Adverbs of War"
 dek = "Don Mee Choi\u2019s new book Hardly War is a linguistic battlefield of a book that looks like nothing else you've ever seen."
 facebookauto = "Don Mee Choi's latest poetry collection is gorgeous, testy, and unlike anything you've ever read."
 twitterauto = "Seattle poet @DonMeeChoi's  latest collection is gorgeous, testy, and unlike anything you've ever read."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/hardly-war"]
 tags_reviews = ["tags/poetry", "tags/memoir", "tags/history"]
-authors_reviews = ["authors/don-mee-choi"]
+reviews_about = ""
 +++
 
 The title of Seattle poet Don Mee Choi’s second book, *Hardly War*, is a curious combination of words that seems innocuous enough if you’re, say, skimming spines on a bookshelf. But if you give it two seconds’ thought, those two words, “hardly” and “war,” obviously belong nowhere near each other. War is a binary; you’re either at war or you’re not. There are no small wars, or halfway wars, or hardly wars. If you go to war and a bullet splinters your skull, there is never a moment when you are semi-dead. The lights are on or off; some words have no dimmer switch.

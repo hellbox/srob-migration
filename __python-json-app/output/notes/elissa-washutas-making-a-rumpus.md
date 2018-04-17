@@ -1,8 +1,8 @@
 +++
 index = "-K8QGNp4ez5xOrOnrqas"
-_sort_create_date = 1453230180
-_sort_last_updated = 1453230180
-_sort_publish_date = 1453233780
+sort_create_date = 1453230180
+sort_last_updated = 1453230180
+sort_publish_date = 1453233780
 create_date = "2016-01-19T11:03:00-08:00"
 publish_date = "2016-01-19T12:03:00-08:00"
 date = "2016-01-19T12:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to new @The_Rumpus Saturday editor, @misswashuta!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/the-rumpus"]
-authors_notes = ["authors/elissa-washuta"]
+notes_about = ""
 books = ""
 +++
 Congratulations to Seattle author [Elissa Washuta](http://seattlereviewofbooks.com/authors/elissa-washuta/), who [announced today](https://twitter.com/misswashuta/status/689510014390632449) that she's becoming the Saturday editor of popular website [The Rumpus](http://therumpus.net/). She's looking for pitches; send her your best stuff.

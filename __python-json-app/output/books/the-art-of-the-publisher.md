@@ -1,8 +1,8 @@
 +++
 index = "-K3Xz9sWw_yjzhOuXeI6"
-_sort_create_date = 1447990920
-_sort_last_updated = 1447990920
-_sort_publish_date = 1447990920
+sort_create_date = 1447990920
+sort_last_updated = 1447990920
+sort_publish_date = 1447990920
 create_date = "2015-11-19T19:42:00-08:00"
 publish_date = "2015-11-19T19:42:00-08:00"
 date = "2015-11-19T19:42:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-iuN2rhLLkVeBlgIv0RIry_IGtF7hOZ-wCOKdJeb1CJulDUHU_WWyPuv274vV28btYoRBOnY4xbBDhTDg4JBhiwGjXdw"
 url = "/webhook-uploads/1447990850630/artofthepublisher.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 18815
 
 review_relationship = ["reviews/the-publishers-dilemma"]
-author_relationship = ["authors/roberto-calasso"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

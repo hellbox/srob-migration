@@ -1,8 +1,8 @@
 +++
 index = "-KJdAIzb5SI8enhA1gu0"
-_sort_create_date = 1465274640
-_sort_last_updated = 1465441920
-_sort_publish_date = 1465412400
+sort_create_date = 1465274640
+sort_last_updated = 1465441920
+sort_publish_date = 1465412400
 create_date = "2016-06-06T21:44:00-07:00"
 publish_date = "2016-06-08T12:00:00-07:00"
 date = "2016-06-08T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "If you ain\u2019t ever been to the ghetto"
 dek = "Mitchell Duneier's book looks at the history of the ghetto, and Ivan Schneider looks at the book <em>Ghetto</em> through historical figures."
 facebookauto = "In the book Ghetto, Ivan Schneider finds heroes and villains whose actions echo into today."
 twitterauto = "In the book Ghetto, @ivantohelpyou finds heroes and villains whose actions echo into today."
-byline = ["writers/ivan-schneider"]
+reviews_byline = ["writers/ivan-schneider"]
 books_in_this_review = ["books/ghetto"]
 tags_reviews = ["tags/ghetto", "tags/sociology"]
-authors_reviews = ["authors/mitchell-duneier"]
+reviews_about = ""
 +++
 
 <blockquote class="noline"><p style="font-family: SeravekLight;font-size: 26px; color: #70AF49; line-height:1.25em;margin-top:-0.9em;">If you ain’t ever been to the ghetto<br>

@@ -1,8 +1,8 @@
 +++
 index = "-L4J5N78D1cRME-5Qf2G"
-_sort_create_date = 1517534400
-_sort_last_updated = 1519173720
-_sort_publish_date = 1519070280
+sort_create_date = 1517534400
+sort_last_updated = 1519173720
+sort_publish_date = 1519070280
 create_date = "2018-02-01T17:20:00-08:00"
 publish_date = "2018-02-19T11:58:00-08:00"
 date = "2018-02-19T11:58:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517534343982/humm
 twitterauto = "Your week in readings includes Khizr Khan, humanity's dawn, and She Who Has No Master(s)."
 facebookauto = "Your week in readings includes Khizr Khan, humanity's dawn, and She Who Has No Master(s)."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, February 19:  Densho Day Remembrance**</h5></p>

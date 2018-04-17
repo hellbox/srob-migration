@@ -1,8 +1,8 @@
 +++
 index = "-Kh5bMQIhUe7OsHBb4Zu"
-_sort_create_date = 1491538320
-_sort_last_updated = 1491538320
-_sort_publish_date = 1491538320
+sort_create_date = 1491538320
+sort_last_updated = 1491538320
+sort_publish_date = 1491538320
 create_date = "2017-04-06T21:12:00-07:00"
 publish_date = "2017-04-06T21:12:00-07:00"
 date = "2017-04-06T21:12:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/it6b_vnCJWQ6qVivCMq6vXQ1Nz9cF0Ff0QUtYITvR24yUNAMaRtjCNbD-co4R7B4v62kkntCobir45CbK1pal4jS-Tpj"
 url = "/webhook-uploads/1491538268394/Screen%20Shot%202017-04-06%20at%209.10.19%20PM.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 739402
 
 review_relationship = ["reviews/a-colorful-chorus-of-voices"]
-author_relationship = ["authors/various"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-politicians-we-love"]
 +++

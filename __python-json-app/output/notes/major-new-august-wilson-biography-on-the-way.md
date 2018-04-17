@@ -1,8 +1,8 @@
 +++
 index = "-Ke1xfshjuuBFrL6t76R"
-_sort_create_date = 1488255840
-_sort_last_updated = 1488255840
-_sort_publish_date = 1488312240
+sort_create_date = 1488255840
+sort_last_updated = 1488255840
+sort_publish_date = 1488312240
 create_date = "2017-02-27T20:24:00-08:00"
 publish_date = "2017-02-28T12:04:00-08:00"
 date = "2017-02-28T12:04:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle will play a major part in the upcoming August Wilson biography."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/august-wilson"]
+notes_about = ""
 books = ""
 +++
 John Williams at the [*New York Times*](https://www.nytimes.com/2017/02/26/books/patti-hartigan-august-wilson-biography.html?smid=fb-share&_r=1) writes:

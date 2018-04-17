@@ -1,8 +1,8 @@
 +++
 index = "-L4-MnqJ6pupk_RcXI61"
-_sort_create_date = 1517203380
-_sort_last_updated = 1517272320
-_sort_publish_date = 1518033600
+sort_create_date = 1517203380
+sort_last_updated = 1517272320
+sort_publish_date = 1518033600
 create_date = "2018-01-28T21:23:00-08:00"
 publish_date = "2018-02-07T12:00:00-08:00"
 date = "2018-02-07T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "It all works out, in theory"
 dek = "Literary theory: a mystery, or murder? Ivan Schneider dons deerstalker in pursuit of the truth."
 facebookauto = "Literary theory is serious fun, says Ivan Schneider in his review of Laurent Binet's latest."
 twitterauto = "Literary theory is serious fun, says @ivantohelpyou in his review of Laurent Binet's latest."
-byline = ["writers/ivan-schneider"]
+reviews_byline = ["writers/ivan-schneider"]
 books_in_this_review = ["books/seventh-function-of-language"]
 tags_reviews = ""
-authors_reviews = ["authors/laurent-binet"]
+reviews_about = ""
 +++
 
 <p>How do you enter the conversation among generations of Continental philosophers? Learn the lingo — and bring a bodyguard. </p>

@@ -1,8 +1,8 @@
 +++
 index = "-KEI7Xu4tSx7GpSonVxD"
-_sort_create_date = 1459536120
-_sort_last_updated = 1459536480
-_sort_publish_date = 1459540980
+sort_create_date = 1459536120
+sort_last_updated = 1459536480
+sort_publish_date = 1459540980
 create_date = "2016-04-01T11:42:00-07:00"
 publish_date = "2016-04-01T13:03:00-07:00"
 date = "2016-04-01T13:03:00-07:00"
@@ -13,10 +13,10 @@ title = "The virtues of Patience"
 dek = "The latest Dan Clowes comic is a time travel story that at times feels like it's illustrated by the ghost of Jack Kirby. Does Clowes find anything new to say about time travel, or time itself?"
 facebookauto = "The new Dan Clowes comic is like an IMAX movie drawn by Jack Kirby."
 twitterauto = "The new @danielclowes comic is a Kirbyesque time travel story that opens Clowes's art to IMAX proportions. "
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/patience"]
 tags_reviews = ["tags/comics", "tags/fantagraphics", "tags/time-travel"]
-authors_reviews = ["authors/dan-clowes"]
+reviews_about = ""
 +++
 
 In 1994, Dan Clowes had recently completed his first attempt at a longform comic story, the surrealistic *Like a Velvet Glove Cast in Iron*, and he had just embarked on his most realistic story to date, *Ghost World*. If you were to tap a Clowes fan on the shoulder in those days and tell her that in the future, Clowes would create a graphic novel that identifies him visually as an heir to superhero comics icons Jack Kirby and Steve Ditko, she would either laugh at you, tell you you’re making shit up, or inform you that strangers tapping her on the shoulder and making weird predictions in public places make her very uncomfortable.

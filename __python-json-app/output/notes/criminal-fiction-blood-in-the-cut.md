@@ -1,8 +1,8 @@
 +++
 index = "-KiheqhnNGEFVZ-Zot7M"
-_sort_create_date = 1493267340
-_sort_last_updated = 1493301300
-_sort_publish_date = 1493319600
+sort_create_date = 1493267340
+sort_last_updated = 1493301300
+sort_publish_date = 1493319600
 create_date = "2017-04-26T21:29:00-07:00"
 publish_date = "2017-04-27T12:00:00-07:00"
 date = "2017-04-27T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493268069399/DayI
 twitterauto = "It's Criminal Fiction, by @daneetsteffens, featuring an interview with @LoriRaderDay."
 facebookauto = "It's Criminal Fiction, by Daneet Steffens, featuring an interview with Lori Rader-Day."
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/lori-rader-day", "authors/alex-marwood", "authors/mick-herron", "authors/christopher-brookmyre", "authors/stuart-neville", "authors/val-mcdermid", "authors/ian-rankin", "authors/mark-billingham", "authors/sabine-durrant", "authors/sarah-hilary", "authors/susie-steiner", "authors/eva-dolan", "authors/alex-segura", "authors/ann-cleeves", "authors/daniel-cole", "authors/sara-paretsky"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

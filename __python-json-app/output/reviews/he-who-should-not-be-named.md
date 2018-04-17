@@ -1,8 +1,8 @@
 +++
 index = "-KVOO5Gmoiu5h6PvV6aB"
-_sort_create_date = 1477894740
-_sort_last_updated = 1477894740
-_sort_publish_date = 1478026860
+sort_create_date = 1477894740
+sort_last_updated = 1477894740
+sort_publish_date = 1478026860
 create_date = "2016-10-30T23:19:00-07:00"
 publish_date = "2016-11-01T12:01:00-07:00"
 date = "2016-11-01T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "He who should not be named"
 dek = "Can any book truly capture the fact-free horror that is Donald Trump?"
 facebookauto = "You, and everyone you know, is sick of hearing about Donald Trump. But Donald Trump is probably not through with us."
 twitterauto = "Can any book truly capture the fact-free horror that is Donald Trump?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/trump-revealed", "books/the-elephant-in-the-room"]
 tags_reviews = ""
-authors_reviews = ["authors/michael-kranish", "authors/marc-fisher", "authors/jon-ronson"]
+reviews_about = ""
 +++
 
 I am so sick and tired of Donald Trump. I know this is not a unique opinion, or an especially interesting one, but it is an opinion that I want to shout in a very public place, or paint on a giant wall somewhere, with “sick” and “tired” both underlined three times for emphasis. It’s an imperative, a biological urge, like being hungry or needing to use a bathroom. My body is rejecting Donald Trump the way it would cast out a foreign organ. The election, one week from today, will be less a function of democracy and more a matter of much-needed surgery. Will the patient live or die? Who knows? 

@@ -1,8 +1,8 @@
 +++
 index = "-KQ2SfzFP443VLfRb1kT"
-_sort_create_date = 1472158140
-_sort_last_updated = 1472158140
-_sort_publish_date = 1472230740
+sort_create_date = 1472158140
+sort_last_updated = 1472158140
+sort_publish_date = 1472230740
 create_date = "2016-08-25T13:49:00-07:00"
 publish_date = "2016-08-26T09:59:00-07:00"
 date = "2016-08-26T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Hey, @ciennam: My son is a bad writer, and it's costing him his marriage. What do I do?"
 facebookauto = "Here is a context-free line from this week's advice column: \"...at a certain point, you have to put that baby in a closet and shut the door.\""
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

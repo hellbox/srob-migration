@@ -1,8 +1,8 @@
 +++
 index = "-KdNah9VvdihvQ8JbAjj"
-_sort_create_date = 1487545200
-_sort_last_updated = 1487545860
-_sort_publish_date = 1487613540
+sort_create_date = 1487545200
+sort_last_updated = 1487545860
+sort_publish_date = 1487613540
 create_date = "2017-02-19T15:00:00-08:00"
 publish_date = "2017-02-20T09:59:00-08:00"
 date = "2017-02-20T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487544980426/mich
 twitterauto = "We talked with @pennyzola about what she'll miss about Seattle, and what Seattle could do better."
 facebookauto = "We talked with Michelle Pe\u00f1aloza about what she'll miss about Seattle, and what Seattle could do better."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/exit-interview"]
-authors_notes = ["authors/michelle-pe\u00f1aloza"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">[Michelle Peñaloza](http://www.michellepenaloza.com/) has lived in Seattle for almost exactly four years. In that time, the poet and essayist — she’s the author of the chapbooks [*landscape/heartbreak*](http://www.elliottbaybook.com/book/9780692354841) and [*Last Night I Dreamt of Volcanoes*](http://www.organicweaponarts.com/product/volcanoes) — has become a ubiquitous Seattle literary figure, both on stage and in audiences at literary events throughout the calendar year. Peñaloza's announcement that she will be leaving town at the end of February sent a shock through the community. She’s more than just [a sharp observer and a deft and graceful poet](http://www.michellepenaloza.com/poetry/) — though she is that, too. She’s become an integral part of the literary community’s support system. It’s hard to imagine the city without her.</p>

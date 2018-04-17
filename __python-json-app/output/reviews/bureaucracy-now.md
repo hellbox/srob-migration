@@ -1,8 +1,8 @@
 +++
 index = "-JxDwePjMQ_BMnHD_YxB"
-_sort_create_date = 1440138540
-_sort_last_updated = 1440138540
-_sort_publish_date = 1440183420
+sort_create_date = 1440138540
+sort_last_updated = 1440138540
+sort_publish_date = 1440183420
 create_date = "2015-08-20T23:29:00-07:00"
 publish_date = "2015-08-21T11:57:00-07:00"
 date = "2015-08-21T11:57:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "ac253624-4ad4-2dfd-054c-1b4f5767bfc5"
 name = "Bureaucracy now"
 title = "Bureaucracy now"
 dek = "An absurdist novel about a frustrating data-entry job and a bureaucrat named Trishiffany will remind you that the important thing about life is that it ends. You'll be happy for the reminder."
-byline = ["writers/sharma-shields"]
+reviews_byline = ["writers/sharma-shields"]
 books_in_this_review = ["books/the-beautiful-bureaucrat"]
 tags_reviews = ["tags/absurdism"]
-authors_reviews = ["authors/helen-phillips"]
+reviews_about = ""
 +++
 
 Here’s what I love about absurdism in literature: It’s a fun way to discuss the terrible things in life. Helen Phillips’s short and propulsive debut novel, *The Beautiful Bureaucrat*, is a gorgeous example of the stark and spare absurdist genre, a place most gorgeously inhabited by the Russian greats (Zamyatin, Bulgakov, Nabokov). There’s a love story here as big and shadowy as the one in *Master and Margarita*; there’s also a deft skewering of the American job market that parallels the helplessness within *Invitation to a Beheading*. Phillips doesn’t stop there, however, and that’s what makes *BB* so genius. This offbeat tale, with its dingy sublets, halitosis-plagued bosses and co-working doppelgängers, transcends the political and the relational altogether. This is a novel about our very transitoriness.

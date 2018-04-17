@@ -1,8 +1,8 @@
 +++
 index = "-L3LPGe4EnHuwOgasrlt"
-_sort_create_date = 1516499400
-_sort_last_updated = 1516500660
-_sort_publish_date = 1516640400
+sort_create_date = 1516499400
+sort_last_updated = 1516500660
+sort_publish_date = 1516640400
 create_date = "2018-01-20T17:50:00-08:00"
 publish_date = "2018-01-22T09:00:00-08:00"
 date = "2018-01-22T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516498957364/hugo
 twitterauto = "Here are the plans for the new @HugoHouse. It's time to make this happen!"
 facebookauto = "The Hugo House has released the design for its new space. And now they're asking your help to make the designs a reality."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1516498957364/hugohousesalonandstage.png)</p>

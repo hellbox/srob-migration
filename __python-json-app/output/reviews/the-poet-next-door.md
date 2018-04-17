@@ -1,8 +1,8 @@
 +++
 index = "-KL0BkIwpt816IyRNB-X"
-_sort_create_date = 1466751420
-_sort_last_updated = 1467135240
-_sort_publish_date = 1467143820
+sort_create_date = 1466751420
+sort_last_updated = 1467135240
+sort_publish_date = 1467143820
 create_date = "2016-06-23T23:57:00-07:00"
 publish_date = "2016-06-28T12:57:00-07:00"
 date = "2016-06-28T12:57:00-07:00"
@@ -13,10 +13,10 @@ title = "The poet next door"
 dek = "Three new books from Seattle poets have absolutely nothing in common \u2014 or do they?\n"
 facebookauto = "New poetry books by Hannah Faith Notess, Sarah Mangold, and Amaranth Borsuk have nothing at all in common, unless you consider their Seattle-ness, in which case they have everything in common."
 twitterauto = "Three new books from Seattle poets have absolutely nothing in common \u2014 or do they?\n"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-multitude", "books/giraffes-of-devotion", "books/pomegranate-eater"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/hannah-faith-notess", "authors/sarah-mangold", "authors/amaranth-borsuk"]
+reviews_about = ""
 +++
 
 Here’s the deal: you are perfectly welcome to tell me that you hate poetry, as long as I’m allowed to hit you upside the head with a copy of Hannah Faith Notess’s collection *The Multitude* in response. 

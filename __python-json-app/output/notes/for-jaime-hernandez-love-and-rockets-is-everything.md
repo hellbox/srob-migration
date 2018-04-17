@@ -1,8 +1,8 @@
 +++
 index = "-L62g57-6VoaUycT4sin"
-_sort_create_date = 1519406520
-_sort_last_updated = 1519406640
-_sort_publish_date = 1519840500
+sort_create_date = 1519406520
+sort_last_updated = 1519406640
+sort_publish_date = 1519840500
 create_date = "2018-02-23T09:22:00-08:00"
 publish_date = "2018-02-28T09:55:00-08:00"
 date = "2018-02-28T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519406151901/Ange
 twitterauto = "This Saturday, @xaimeh will be signing books @fantagraphics. We talked to him about, well, everything:"
 facebookauto = "This Saturday, Jaime Hernandez will be signing books at the Fantagraphics Bookstore in Georgetown. We talked to him about, well, everything:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/fantagraphics"]
-authors_notes = ["authors/jaime-hernandez"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1519406151901/Angels-and-Magpies-Cover.png)</p>

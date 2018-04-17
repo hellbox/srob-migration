@@ -1,8 +1,8 @@
 +++
 index = "-K7VCO8ngSufxkB9xc9D"
-_sort_create_date = 1452239280
-_sort_last_updated = 1452276060
-_sort_publish_date = 1452286860
+sort_create_date = 1452239280
+sort_last_updated = 1452276060
+sort_publish_date = 1452286860
 create_date = "2016-01-07T23:48:00-08:00"
 publish_date = "2016-01-08T13:01:00-08:00"
 date = "2016-01-08T13:01:00-08:00"
@@ -13,10 +13,10 @@ title = "Delicious nothingness"
 dek = "A new book offers up all the dish about the 2016 Republican presidential candidates. But does any of this salacious gossip really matter?"
 facebookauto = "Here's something Marco Rubio actually said, according to a friend: \u201dIt\u2019s amazing...I can call up a lobbyist at four in the morning, and he\u2019ll meet me anywhere with a bag of forty thousand dollars in cash.\u201d"
 twitterauto = "Why would anyone read a 400-page book about presidential candidates with no policy in it? Because gossip."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-wilderness"]
 tags_reviews = ["tags/2016"]
-authors_reviews = ["authors/mckay-coppins"]
+reviews_about = ""
 +++
 
 On Monday of this week, a video went viral. If you’ve been on the internet at all, you probably saw it in one iteration or another, be it .gif or Vine or remixed music video: a raccoon is slavering over a brick of cotton candy. Being a raccoon, it goes to wash the cotton candy in a nearby pool of water. Being cotton candy, the block disintegrates as soon as the raccoon dips it in the water.

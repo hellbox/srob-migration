@@ -1,8 +1,8 @@
 +++
 index = "-KXEL36jiQqqFfizYxvD"
-_sort_create_date = 1479873660
-_sort_last_updated = 1511322180
-_sort_publish_date = 1480010400
+sort_create_date = 1479873660
+sort_last_updated = 1511322180
+sort_publish_date = 1480010400
 create_date = "2016-11-22T20:01:00-08:00"
 publish_date = "2016-11-24T10:00:00-08:00"
 date = "2016-11-24T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's Thanksgiving in Seattle. We've got some tough years ahead. What do we have to be thankful for?"
 facebookauto = "It's Thanksgiving in Seattle. We've got some tough years ahead. What do we have to be thankful for?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/secular-sermons", "tags/donald-trump", "tags/thanksgiving-essay"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Once, over drinks, a friend leaned in so close I could smell the clove cigarettes on her breath, and then she told me the truth. “Living in Seattle,” she said, “is like being madly in love with a beautiful woman who’s sick all the time.” 

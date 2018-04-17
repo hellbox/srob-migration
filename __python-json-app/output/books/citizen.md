@@ -1,8 +1,8 @@
 +++
 index = "-K3Y1ExmCPMq-pVDL8mF"
-_sort_create_date = 1447991760
-_sort_last_updated = 1447991820
-_sort_publish_date = 1447991760
+sort_create_date = 1447991760
+sort_last_updated = 1447991820
+sort_publish_date = 1447991760
 create_date = "2015-11-19T19:56:00-08:00"
 publish_date = "2015-11-19T19:56:00-08:00"
 date = "2015-11-19T19:56:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Literary Collections"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/R8TsU0xCeka23EfDp3R7Xu1Zp2YYPdP4h6ZEFW6f9V_YVyHkTYKcq7vd3lXUQM-4pg8qZF8Nxw4z6pgUT9-FEesS4Ai-dA"
 url = "/webhook-uploads/1447991770360/content%3Fid%3DoGT3ngEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 6243
 
 review_relationship = ["reviews/the-publishers-dilemma", "reviews/a-room-full-of-citizens"]
-author_relationship = ["authors/claudia-rankine"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/third-place-seward-park-is-our-june-bookstore-of-the-month", "notes/the-kind-of-genius-you-cant-ignore", "notes/reading-through-it-join-us-for-a-discussion-of-how-to-move-forward-in-donald-trump\u2019s-america", "notes/literary-event-of-the-week-come-discuss-citizen-an-american-lyric-with-us-tonight", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels", "notes/book-news-roundup-the-georgetown-steam-plant-has-its-official-cartoonist-biographers"]
 +++

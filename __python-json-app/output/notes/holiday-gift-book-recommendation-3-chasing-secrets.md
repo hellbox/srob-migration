@@ -1,8 +1,8 @@
 +++
 index = "-K5XpiUiquGEDgrAPlxW"
-_sort_create_date = 1450135920
-_sort_last_updated = 1450136160
-_sort_publish_date = 1450288860
+sort_create_date = 1450135920
+sort_last_updated = 1450136160
+sort_publish_date = 1450288860
 create_date = "2015-12-14T15:32:00-08:00"
 publish_date = "2015-12-16T10:01:00-08:00"
 date = "2015-12-16T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450135132044/617P
 twitterauto = "The owner of @SecretGardenBks recommends @choldenko's Chasing Secrets for your holiday gift-giving needs."
 facebookauto = "The owner of Secret Garden Books has two book recommendations for you: one with pictures and one without."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/secret-garden-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Secret Garden Books owner Christy McDanold has a lot of favorite books going at any one time. When I asked her to name one choice for a holiday recommendation, she seems proud to have narrowed it down to just two.

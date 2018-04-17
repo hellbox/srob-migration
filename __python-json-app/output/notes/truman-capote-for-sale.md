@@ -1,8 +1,8 @@
 +++
 index = "-KPvPV2T6-4n3cho2psy"
-_sort_create_date = 1472023080
-_sort_last_updated = 1472023260
-_sort_publish_date = 1472065260
+sort_create_date = 1472023080
+sort_last_updated = 1472023260
+sort_publish_date = 1472065260
 create_date = "2016-08-24T00:18:00-07:00"
 publish_date = "2016-08-24T12:01:00-07:00"
 date = "2016-08-24T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "For sale: Truman Capote, slightly used."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/death"]
-authors_notes = ["authors/truman-capote"]
+notes_about = ""
 books = ""
 +++
 If you've ever wanted to own the remains of a famous writer's body, [this is your best shot](http://www.vulture.com/2016/08/you-can-now-own-truman-capotes-ashes.html).

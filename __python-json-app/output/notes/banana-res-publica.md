@@ -1,8 +1,8 @@
 +++
 index = "-L2xIzmfI_pu3FStzRTh"
-_sort_create_date = 1516078320
-_sort_last_updated = 1516080840
-_sort_publish_date = 1516125300
+sort_create_date = 1516078320
+sort_last_updated = 1516080840
+sort_publish_date = 1516125300
 create_date = "2018-01-15T20:52:00-08:00"
 publish_date = "2018-01-16T09:55:00-08:00"
 date = "2018-01-16T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516078666902/Scre
 twitterauto = "Our third from Poet in Residence Kevin Craft is titled \"Banana Res Publica\""
 facebookauto = "Our third from Poet in Residence Kevin Craft is titled \"Banana Res Publica\""
 make_image_tweet = "False"
-byline = ["writers/kevin-craft"]
+notes_byline = ["writers/kevin-craft"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 So the candidate<br>

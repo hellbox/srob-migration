@@ -1,8 +1,8 @@
 +++
 index = "-L7XYPIMgGBhR6zD8nTw"
-_sort_create_date = 1520998080
-_sort_last_updated = 1521045540
-_sort_publish_date = 1521046500
+sort_create_date = 1520998080
+sort_last_updated = 1521045540
+sort_publish_date = 1521046500
 create_date = "2018-03-13T20:28:00-07:00"
 publish_date = "2018-03-14T09:55:00-07:00"
 date = "2018-03-14T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520997930192/Grum
 twitterauto = "We visited Ballard's newest comic shop/art gallery, The Grumpy Old Man Comics, Art & Collectibles."
 facebookauto = "We visited Ballard's newest comic shop/art gallery, The Grumpy Old Man Comics, Art & Collectibles."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/grumpy-old-man"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Alan LaMont, the owner of Ballard's [The Grumpy Old Man's Comics, Art, and Collectibles](https://www.facebook.com/LaMontArtsLLC/) doesn't come across as a grumpy old man. He's downright chipper, in fact, and he's got the youthful vigor and charm of someone who's finally living a life he's been dreaming about for decades. 

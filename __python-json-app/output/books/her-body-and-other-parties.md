@@ -1,8 +1,8 @@
 +++
 index = "-KyX7GnzeLRZmwVBByqO"
-_sort_create_date = 1510253940
-_sort_last_updated = 1510253940
-_sort_publish_date = 1510253940
+sort_create_date = 1510253940
+sort_last_updated = 1510253940
+sort_publish_date = 1510253940
 create_date = "2017-11-09T10:59:00-08:00"
 publish_date = "2017-11-09T10:59:00-08:00"
 date = "2017-11-09T10:59:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WI9CzaE8P08X93fMHx9xCee7r2kOIbnN2pJQLfcikb1w8Du5oNXQXk0M8XDv00xsuGAH-Vc0q3agaBG-cf0sOqpZIIU"
 url = "/webhook-uploads/1510253942862/Her%20Body_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 21354
 
 review_relationship = ["reviews/reclaiming-the-story-of-womens-bodies"]
-author_relationship = ["authors/carmen-maria-machado"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

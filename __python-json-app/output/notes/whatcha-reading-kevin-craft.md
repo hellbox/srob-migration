@@ -1,8 +1,8 @@
 +++
 index = "-L2JK5rFGUPdx1e8trYj"
-_sort_create_date = 1515390780
-_sort_last_updated = 1517023740
-_sort_publish_date = 1517074200
+sort_create_date = 1515390780
+sort_last_updated = 1517023740
+sort_publish_date = 1517074200
 create_date = "2018-01-07T21:53:00-08:00"
 publish_date = "2018-01-27T09:30:00-08:00"
 date = "2018-01-27T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515391346441/kevi
 twitterauto = "What's our Poet in Residence Kevin Craft reading?"
 facebookauto = "What's our Poet in Residence Kevin Craft reading?"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/whatcha-reading"]
-authors_notes = ["authors/langdon-cook", "authors/paisley-rekdal", "authors/jason-whitmarsh", "authors/laurie-halse-anderson", "authors/kirstin-levine", "authors/erica-sanchez"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week we ask an interesting figure what they're digging into. Have ideas who we should reach out to? Let it fly: [info@seattlereviewofbooks.com](mailto:info@seattlereviewofbooks.com). Want to read more? Check out the [archives](http://www.seattlereviewofbooks.com/tags/whatcha-reading).</p>

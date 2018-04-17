@@ -1,8 +1,8 @@
 +++
 index = "-K1KjEAfrFMDZai_OJWb"
-_sort_create_date = 1445621160
-_sort_last_updated = 1445623380
-_sort_publish_date = 1445623380
+sort_create_date = 1445621160
+sort_last_updated = 1445623380
+sort_publish_date = 1445623380
 create_date = "2015-10-23T10:26:00-07:00"
 publish_date = "2015-10-23T11:03:00-07:00"
 date = "2015-10-23T11:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/imposter-syndrome"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-Kpa3HvxW3r7dXyM75Ku"
-_sort_create_date = 1500655980
-_sort_last_updated = 1500655980
-_sort_publish_date = 1500655980
+sort_create_date = 1500655980
+sort_last_updated = 1500655980
+sort_publish_date = 1500655980
 create_date = "2017-07-21T09:53:00-07:00"
 publish_date = "2017-07-21T09:53:00-07:00"
 date = "2017-07-21T09:53:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500655551691/cadi
 twitterauto = "If @ciennam could force all of Seattle to read one book, what would that book be?"
 facebookauto = "A reader tells Cienna Madrid, \"If you ever wanted to start your own misanthropic version of Oprah\u2019s Book Club, I\u2019d be a charter member.\" We couldn't agree more."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ["authors/octavia-butler"]
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

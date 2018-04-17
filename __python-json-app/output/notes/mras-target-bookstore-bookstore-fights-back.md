@@ -1,8 +1,8 @@
 +++
 index = "-KnbVnMANa0AKr0E6kqF"
-_sort_create_date = 1498532700
-_sort_last_updated = 1498533360
-_sort_publish_date = 1498586700
+sort_create_date = 1498532700
+sort_last_updated = 1498533360
+sort_publish_date = 1498586700
 create_date = "2017-06-26T20:05:00-07:00"
 publish_date = "2017-06-27T11:05:00-07:00"
 date = "2017-06-27T11:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle sends its love to @avidreader4101 for fighting the good fight."
 facebookauto = "In Australia, some \"men's rights\" nincompoops targeted a bookstore, and the bookstore fought back."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Those special snowflakes in the so-called "men's rights movement" have targeted Australian bookstore [Avid Reader Bookshop](http://avidreader.com.au/events) for sharing a post by feminist writer Clementine Ford. In response, Avid Reader's social media manager has been [working overtime revealing the MRAs for the ridiculous babies they are](http://www.smh.com.au/entertainment/books/bookshop-hits-out-with-humour-after-clementine-ford-post-uproar-20170627-gwz9hr.html):

@@ -1,8 +1,8 @@
 +++
 index = "-Kgf4_Wo17UonoWbYBB0"
-_sort_create_date = 1491076500
-_sort_last_updated = 1491076500
-_sort_publish_date = 1491150600
+sort_create_date = 1491076500
+sort_last_updated = 1491076500
+sort_publish_date = 1491150600
 create_date = "2017-04-01T12:55:00-07:00"
 publish_date = "2017-04-02T09:30:00-07:00"
 date = "2017-04-02T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Glen Canyon returns, LeGuin on Gaiman, and the devil on the designer's shoulder, in this week's Sunday Post."
 facebookauto = "Glen Canyon returns, Ursula LeGuin on Neil Gaiman, and the devil on the designer's shoulder, in this week's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

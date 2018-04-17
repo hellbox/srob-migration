@@ -1,8 +1,8 @@
 +++
 index = "-KNJD7Tp-ZWywCFHuP5J"
-_sort_create_date = 1469218020
-_sort_last_updated = 1469218020
-_sort_publish_date = 1469218020
+sort_create_date = 1469218020
+sort_last_updated = 1469218020
+sort_publish_date = 1469218020
 create_date = "2016-07-22T13:07:00-07:00"
 publish_date = "2016-07-22T13:07:00-07:00"
 date = "2016-07-22T13:07:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our special #SDCC2016-themed News Roundup features new stuff from @rgay and @GWillowWilson."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/marvel-comics", "tags/black-panther"]
-authors_notes = ["authors/ta-nehisi-coates", "authors/g-willow-wilson"]
+notes_about = ""
 books = ""
 +++
 * San Diego Comic Con is happening right now, and most of the stories coming out of the convention could just as easily be press releases. But when you get that many creative people in one space at one time, interesting things will happen. For instance, Seattle author G. Willow Wilson gave the first public reading from her upcoming second novel, *The Bird King*. [Rich Johnston at Bleeding Cool](http://www.bleedingcool.com/2016/07/21/g-willow-wilson-reads-from-her-next-novel-the-bird-king-at-san-diego-comic-com/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BleedingCool+%28Bleeding+Cool+Comic+News+%26+Rumors%29) writes:

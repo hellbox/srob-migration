@@ -1,8 +1,8 @@
 +++
 index = "-L9JHP9wVBGmpNt4KN31"
-_sort_create_date = 1522906260
-_sort_last_updated = 1522908600
-_sort_publish_date = 1522947600
+sort_create_date = 1522906260
+sort_last_updated = 1522908600
+sort_publish_date = 1522947600
 create_date = "2018-04-04T22:31:00-07:00"
 publish_date = "2018-04-05T10:00:00-07:00"
 date = "2018-04-05T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522906143473/norm
 twitterauto = "Our Reading Through It Book Club had a great talk about awful online people last night."
 facebookauto = "Our Reading Through It Book Club had a great talk about awful online people last night."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it", "tags/third-place-books-seward-park"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1522906143473/normies.JPG)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L5CgZvLz2I3xeyfZz0P"
-_sort_create_date = 1518500700
-_sort_last_updated = 1519706220
-_sort_publish_date = 1519754100
+sort_create_date = 1518500700
+sort_last_updated = 1519706220
+sort_publish_date = 1519754100
 create_date = "2018-02-12T21:45:00-08:00"
 publish_date = "2018-02-27T09:55:00-08:00"
 date = "2018-02-27T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518502058925/Scre
 twitterauto = "Our last poem, by Poet in Residence Azura Tyabji, is about punching nazis."
 facebookauto = "Our last poem, by Poet in Residence Azura Tyabji, is about punching nazis."
 make_image_tweet = "False"
-byline = ["writers/azura-tyabji"]
+notes_byline = ["writers/azura-tyabji"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="prose-poem">**Step 1.** Show up on Inauguration Night<br>

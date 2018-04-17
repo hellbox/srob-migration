@@ -1,8 +1,8 @@
 +++
 index = "-K6FCawNAc0RxV2nPk6t"
-_sort_create_date = 1450897200
-_sort_last_updated = 1450985880
-_sort_publish_date = 1451062800
+sort_create_date = 1450897200
+sort_last_updated = 1450985880
+sort_publish_date = 1451062800
 create_date = "2015-12-23T11:00:00-08:00"
 publish_date = "2015-12-25T09:00:00-08:00"
 date = "2015-12-25T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today we offer you a Christmas ghost story, titled \"Keys\", by @hellbox."
 facebookauto = "On Christmas, we offer a Christmas ghost story for you, titled \"Keys\""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/christmas-ghost-story", "tags/fiction"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Early in the darkness of Christmas Eve, on top of Capitol Hill, over by Volunteer Park in the old section where the mansions loom, four young women stood on an unlit porch, pressed against the door, their backs turned to a driving downpour.

@@ -1,8 +1,8 @@
 +++
 index = "-JzHnKzDs4TCf2H9GKGx"
-_sort_create_date = 1442350680
-_sort_last_updated = 1442352600
-_sort_publish_date = 1442354280
+sort_create_date = 1442350680
+sort_last_updated = 1442352600
+sort_publish_date = 1442354280
 create_date = "2015-09-15T13:58:00-07:00"
 publish_date = "2015-09-15T14:58:00-07:00"
 date = "2015-09-15T14:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Go @wordnik! They're shooting to add 1,000,000 words to the dictionary through their new @kickstarter"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/wordnik", "tags/words", "tags/dictionary"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Wordnik is the largest dictionary in the world, if you count by number of words defined. They do things a little differently, not unlike an OED for the twenty-first century. They are a data operation, and on every Wordnik definition page you'll not only find the word you're looking for and its definition, but etymologies, related words by type, a reverse dictionary, and some amazing discoveries that come in through their programmatic tools. Like, for example, lists of people on Twitter who has claimed they love or hate the word, or Flickr photos that use it. A good example is [the word 'review'](https://www.wordnik.com/words/review).

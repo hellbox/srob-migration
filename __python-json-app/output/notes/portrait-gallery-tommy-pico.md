@@ -1,8 +1,8 @@
 +++
 index = "-KoNajPcPP1gSkMdIjax"
-_sort_create_date = 1499356380
-_sort_last_updated = 1499356380
-_sort_publish_date = 1499374800
+sort_create_date = 1499356380
+sort_last_updated = 1499356380
+sort_publish_date = 1499374800
 create_date = "2017-07-06T08:53:00-07:00"
 publish_date = "2017-07-06T14:00:00-07:00"
 date = "2017-07-06T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499356099780/SRoB
 twitterauto = "Portrait Gallery: Poet and podcaster @heyteebs #illustration by @studiochristine. Reading July 9 @ElliottBayBooks"
 facebookauto = "Portrait Gallery: Poet and podcaster Tommy Pico illustration by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/tommy-pico"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

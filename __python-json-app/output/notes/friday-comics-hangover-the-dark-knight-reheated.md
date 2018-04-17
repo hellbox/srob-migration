@@ -1,8 +1,8 @@
 +++
 index = "-K40Pwp1WVCAnWYldGl_"
-_sort_create_date = 1448501520
-_sort_last_updated = 1448502780
-_sort_publish_date = 1448646120
+sort_create_date = 1448501520
+sort_last_updated = 1448502780
+sort_publish_date = 1448646120
 create_date = "2015-11-25T17:32:00-08:00"
 publish_date = "2015-11-27T09:42:00-08:00"
 date = "2015-11-27T09:42:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448501066378/DKII
 twitterauto = "The third volume in Frank Miller's Dark Knight Returns series came out on Wednesday. How was it?"
 facebookauto = "The third volume in Frank Miller's Dark Knight Returns series came out on Wednesday. How was it? Well, depends on how you feel about fan fiction."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 By far, the most-hyped comics release of the week is *DK III: The Master Race*, the third volume in Frank Miller’s Dark Knight series. Ostensibly co-written by Brian Azzarello, the actual authorship of *DK III* is in question — Frank Miller has [basically admitted that he’s not been involved](http://www.newsarama.com/26853-how-much-is-frank-miller-involed-with-dark-knight-iii-the-master-race.html) in the writing of the series. Whoever actually wrote the story, Miller certainly didn’t draw the book; the art is by Andy Kubert, with inking by Dark Knight veteran Klaus Janson. So we have a sequel to a much-maligned sequel to one of the all-time classic Batman stories, written-but-probably not-at-all-written by the original writer and drawn by a different artist. How is it?

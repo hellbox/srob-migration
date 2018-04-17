@@ -1,8 +1,8 @@
 +++
 index = "-K-e5OVA23PEDrk9NAZi"
-_sort_create_date = 1443815280
-_sort_last_updated = 1443815280
-_sort_publish_date = 1443815280
+sort_create_date = 1443815280
+sort_last_updated = 1443815280
+sort_publish_date = 1443815280
 create_date = "2015-10-02T12:48:00-07:00"
 publish_date = "2015-10-02T12:48:00-07:00"
 date = "2015-10-02T12:48:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443814885936/81N8
 twitterauto = "What should you do when your kid accidentally discovers your erotica stash? @ciennam has some advice:"
 facebookauto = "Our advice columnist Cienna Madrid addresses a sticky situation: what do you do when your kid discovers your erotica stash and starts acting out BDSM scenes with Ken and Barbie?"
 make_image_tweet = ""
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ["books/the-joy-of-sex", "books/the-story-of-o"]
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

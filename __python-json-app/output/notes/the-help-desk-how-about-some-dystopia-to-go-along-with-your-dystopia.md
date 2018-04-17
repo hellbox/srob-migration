@@ -1,8 +1,8 @@
 +++
 index = "-KbWDT3P1gMIvZs0Ob-6"
-_sort_create_date = 1485542340
-_sort_last_updated = 1485542340
-_sort_publish_date = 1485543660
+sort_create_date = 1485542340
+sort_last_updated = 1485542340
+sort_publish_date = 1485543660
 create_date = "2017-01-27T10:39:00-08:00"
 publish_date = "2017-01-27T11:01:00-08:00"
 date = "2017-01-27T11:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485541412788/9781
 twitterauto = "Does @ciennam have dystopian fiction recommendations for our post-apocalypse?"
 facebookauto = "Now that we're living in a dystopia, does Cienna Madrid have any good dystopian fiction recommendations?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/dystopia", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

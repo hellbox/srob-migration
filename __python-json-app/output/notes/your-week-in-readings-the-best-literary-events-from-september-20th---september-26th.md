@@ -1,8 +1,8 @@
 +++
 index = "-KsCDFXAVB_aUvdmejlm"
-_sort_create_date = 1503460380
-_sort_last_updated = 1503460800
-_sort_publish_date = 1505933820
+sort_create_date = 1503460380
+sort_last_updated = 1503460800
+sort_publish_date = 1505933820
 create_date = "2017-08-22T20:53:00-07:00"
 publish_date = "2017-09-20T11:57:00-07:00"
 date = "2017-09-20T11:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503459985484/sacr
 twitterauto = "Your Week in Readings includes Grab Back Comics and a new Seattle-set mystery series!"
 facebookauto = "Your Week in Readings includes Grab Back Comics and a new Seattle-set mystery series!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/erma-blood", "authors/tatiana-gill"]
+notes_about = ""
 books = ["books/grab-back-comics"]
 +++
 <p class="image-left">![](/webhook-uploads/1503459985484/sacrifice.jpg)</p>

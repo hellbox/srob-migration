@@ -1,8 +1,8 @@
 +++
 index = "-K1_fMir0WjTn8f50xOM"
-_sort_create_date = 1445888580
-_sort_last_updated = 1445888820
-_sort_publish_date = 1445889600
+sort_create_date = 1445888580
+sort_last_updated = 1445888820
+sort_publish_date = 1445889600
 create_date = "2015-10-26T12:43:00-07:00"
 publish_date = "2015-10-26T13:00:00-07:00"
 date = "2015-10-26T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/esther-altshul-helfgott"]
+notes_about = ""
 books = ["books/dear-alzheimers"]
 +++
 We're sponsored this week by a very unique book, by a very unique Seattle writer. Esther Altshul Helfgott kept a journal full of insight and poetry, as Alzheimer's first showed its affects in her husband Abe. Her book _Dear Alzheimer's_ is a startling, humane, and insightful look into a difficult time. 

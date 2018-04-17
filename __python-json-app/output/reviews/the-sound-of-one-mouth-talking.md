@@ -1,8 +1,8 @@
 +++
 index = "-JtV9IfWvFapGhlEIHrA"
-_sort_create_date = 1436132340
-_sort_last_updated = 1437959220
-_sort_publish_date = 1436132340
+sort_create_date = 1436132340
+sort_last_updated = 1437959220
+sort_publish_date = 1436132340
 create_date = "2015-07-05T14:39:00-07:00"
 publish_date = "2015-07-05T14:39:00-07:00"
 date = "2015-07-05T14:39:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "e4da1ecb-fc30-8518-05b1-fcac9b78e313"
 name = "The sound of one mouth talking"
 title = "The sound of one mouth talking"
 dek = "*Outline* is a novel in ten conversations, but it also examines what a conversation truly is: when a chatty airplane seatmate blathers all over us, is that a conversation? Can we have a conversation with an empty apartment?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/outline"]
 tags_reviews = ""
-authors_reviews = ["authors/rachel-cusk"]
+reviews_about = ""
 +++
 
 Is literature a conversation or a monologue? Is it possible that the majority of all conversations are just twinned monologues, skating by the ears of their intended targets and firing off into the void in opposite directions? Nearly everyone has been seated in a restaurant near an awkward first date where the conversation, despite both participants’ best efforts, ranges more toward masturbation than copulation. But what if that scenario is the norm, rather than an awkward rarity?

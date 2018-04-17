@@ -1,8 +1,8 @@
 +++
 index = "-KhXf3A0Wwk1ciIuHxEQ"
-_sort_create_date = 1492009080
-_sort_last_updated = 1492009380
-_sort_publish_date = 1492023600
+sort_create_date = 1492009080
+sort_last_updated = 1492009380
+sort_publish_date = 1492023600
 create_date = "2017-04-12T07:58:00-07:00"
 publish_date = "2017-04-12T12:00:00-07:00"
 date = "2017-04-12T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Where, and when, history happens"
 dek = "Do we really know the land we live, or grew up, on? What histories preceded us? Lauret Savoy's book asks these \"literary geology\" questions, and brings us on a journey through places we thought we knew."
 facebookauto = "\"Literary geology\" is what Lauret Savoy calls her work \"Trace\". Donna Miscolta explores, in this review."
 twitterauto = "\"Literary geology\" is what @LauretSavoy calls her work \"Trace\". @donnamiscolta explores, in this review."
-byline = ["writers/donna-miscolta"]
+reviews_byline = ["writers/donna-miscolta"]
 books_in_this_review = ["books/trace"]
 tags_reviews = ["tags/history", "tags/american-history"]
-authors_reviews = ["authors/lauret-savoy"]
+reviews_about = ""
 +++
 
 When I was growing up I believed that history happened elsewhere – Plymouth Rock, the Alamo, the Oregon Trail. I never thought of National City, where I lived, as having a history. Even though we learned in fourth grade that the first Californians were Indians, the implication we received was that they had vanished with the progress of “civilization.”

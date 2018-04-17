@@ -1,8 +1,8 @@
 +++
 index = "-Kqap36u0VcM2MkUxWNz"
-_sort_create_date = 1501742460
-_sort_last_updated = 1501775880
-_sort_publish_date = 1501779660
+sort_create_date = 1501742460
+sort_last_updated = 1501775880
+sort_publish_date = 1501779660
 create_date = "2017-08-02T23:41:00-07:00"
 publish_date = "2017-08-03T10:01:00-07:00"
 date = "2017-08-03T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501742214387/nois
 twitterauto = "Evicted is such a good book it almost rendered me speechless."
 facebookauto = "Thanks to all who joined us last night for a stirring conversation about rent and low-income housing and poverty in Seattle."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I couldn't talk about Matthew Desmond's book *Evicted: Poverty and Profit in the American City* during last night's edition of the Reading Through It book club at Third Place Books Seward Park. Every time I tried to talk, I fumbled over my words, or said something that meant the exact opposite of what I was trying to say. This happens a fair amount when it comes time to talk about housing. Urban housing is such an important topic at the center of a giant Venn diagram of issues — homelessness, addiction, poverty, race — that I don't know where to begin.

@@ -1,8 +1,8 @@
 +++
 index = "-Kftp7wosNzQfHsuQzZ0"
-_sort_create_date = 1490250120
-_sort_last_updated = 1490250120
-_sort_publish_date = 1490250120
+sort_create_date = 1490250120
+sort_last_updated = 1490250120
+sort_publish_date = 1490250120
 create_date = "2017-03-22T23:22:00-07:00"
 publish_date = "2017-03-22T23:22:00-07:00"
 date = "2017-03-22T23:22:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "Comics"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WeqHwNSfwQwxZrSeOIXJBf8Qcx17T2Oc4Hf8AgUSiOlq7k8nWUN8-gdzjD3aGlr4FLa5xuXLI7uQXeEiULmrBycELYAY"
 url = "/webhook-uploads/1490250048445/sticksangelica.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 19934
 
 review_relationship = ""
-author_relationship = ["authors/michael-deforge"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-queen-of-the-wild-frontier"]
 +++

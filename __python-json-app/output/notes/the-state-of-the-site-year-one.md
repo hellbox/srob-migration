@@ -1,8 +1,8 @@
 +++
 index = "-KNdT6Y-1AOb0Z5N5-Cf"
-_sort_create_date = 1469574540
-_sort_last_updated = 1469649000
-_sort_publish_date = 1469646000
+sort_create_date = 1469574540
+sort_last_updated = 1469649000
+sort_publish_date = 1469646000
 create_date = "2016-07-26T16:09:00-07:00"
 publish_date = "2016-07-27T12:00:00-07:00"
 date = "2016-07-27T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469593310228/cand
 twitterauto = "Happy 1st Birthday to us! Gather now for the State of the Site Address."
 facebookauto = "Happy 1st Birthday to us! Gather now for the State of the Site Address."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-review-of-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1469593310228/candle.png)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-K8c7v1powxteoasXgkd"
-_sort_create_date = 1453446060
-_sort_last_updated = 1453487760
-_sort_publish_date = 1453487760
+sort_create_date = 1453446060
+sort_last_updated = 1453487760
+sort_publish_date = 1453487760
 create_date = "2016-01-21T23:01:00-08:00"
 publish_date = "2016-01-22T10:36:00-08:00"
 date = "2016-01-22T10:36:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443077506281/2015
 twitterauto = "Why are authors upset at Amazon now?"
 facebookauto = "Today in book news: Folio opens, Welcome to Night Vale expands, and Amazon continues to screw over its authors."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1443077506281/20150923_181234.jpg)</p>

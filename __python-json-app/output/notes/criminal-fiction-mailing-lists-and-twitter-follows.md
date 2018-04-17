@@ -1,8 +1,8 @@
 +++
 index = "-KbIgEzRnE8-gzXRw1oo"
-_sort_create_date = 1485315300
-_sort_last_updated = 1485451500
-_sort_publish_date = 1485460800
+sort_create_date = 1485315300
+sort_last_updated = 1485451500
+sort_publish_date = 1485460800
 create_date = "2017-01-24T19:35:00-08:00"
 publish_date = "2017-01-26T12:00:00-08:00"
 date = "2017-01-26T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What's happening in the crime fiction world? @daneetsteffens's column is here to guide us through!"
 facebookauto = "What's happening in the crime fiction world? Daneet Steffens column is here to guide us through!"
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/sarah-weinman", "authors/steph-cha", "authors/charles-finch", "authors/jordan-foster", "authors/oline-cogdill", "authors/ian-rankin", "authors/jp-delaney", "authors/jane-harper", "authors/jonathan-moore", "authors/gregg-hurwitz", "authors/peter-swanson", "authors/ingrid-thoft"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

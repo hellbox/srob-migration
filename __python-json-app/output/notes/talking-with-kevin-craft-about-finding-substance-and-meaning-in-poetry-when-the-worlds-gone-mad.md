@@ -1,8 +1,8 @@
 +++
 index = "-L4O6lWfhMlTRu6lY0V9"
-_sort_create_date = 1517618640
-_sort_last_updated = 1517618640
-_sort_publish_date = 1518026040
+sort_create_date = 1517618640
+sort_last_updated = 1517618640
+sort_publish_date = 1518026040
 create_date = "2018-02-02T16:44:00-08:00"
 publish_date = "2018-02-07T09:54:00-08:00"
 date = "2018-02-07T09:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517618084525/kevi
 twitterauto = "Kevin Craft offers some great insights into the public and private lives of poets."
 facebookauto = "Kevin Craft offers some great insights into the public and private lives of poets."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry-northwest", "tags/donald-trump"]
-authors_notes = ["authors/kevin-craft"]
+notes_about = ""
 books = ""
 +++
 When our [January Poet in Residence, Kevin Craft](http://www.seattlereviewofbooks.com/writers/kevin-craft/), left his post as editor of [*Poetry Northwest*](https://www.poetrynw.org/) magazine in 2016 for an executive editor position, he tells me, “the first order of business was to take some time for myself and rediscover myself as a writer.” 

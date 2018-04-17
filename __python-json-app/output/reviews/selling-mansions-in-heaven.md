@@ -1,8 +1,8 @@
 +++
 index = "-KV3VSeVG-vIMuNeWQhx"
-_sort_create_date = 1477544340
-_sort_last_updated = 1477545660
-_sort_publish_date = 1477587540
+sort_create_date = 1477544340
+sort_last_updated = 1477545660
+sort_publish_date = 1477587540
 create_date = "2016-10-26T21:59:00-07:00"
 publish_date = "2016-10-27T09:59:00-07:00"
 date = "2016-10-27T09:59:00-07:00"
@@ -13,10 +13,10 @@ title = "Selling mansions in heaven"
 dek = "Now that Jack Chick has died, can we get to know the man from his hateful Christian comics?"
 facebookauto = "Jack Chick is dead, and he left behind hundreds of hateful Christian comics. Does his life's work have any lasting value? Can we learn about Chick from his work?"
 twitterauto = "What can we learn about Jack Chick from his bigoted, hateful Christian comics?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/bad-bob!"]
 tags_reviews = ["tags/comics", "tags/religion"]
-authors_reviews = ["authors/jack-chick"]
+reviews_about = ""
 +++
 
 As a lifelong atheist and comics fan — maybe not necessarily in that order — I was especially primed as a young man to fall in a kind of kitschy love with Jack Chick’s comics. In the late 1990s, I embraced Chick’s comics on the same level of so-bad-it’s-good appreciation that others would bring to a cheesy horror movie, say, or an embarrassingly mediocre record purchased from the discount bin at a thrift shop. From the smarmy name — “Jack Chick” sounds more like a pornographer than a preacher — to the ubiquity of his books, I fell hard for the man’s work. * I read pretty much all the Chick tracts I could get my hands on, and eventually someone bought me a complete set as a birthday gift; as a result,  I devoured hundreds of pages of Chick’s comics in a week.

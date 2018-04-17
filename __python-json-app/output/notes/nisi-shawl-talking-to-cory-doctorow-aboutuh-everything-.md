@@ -1,8 +1,8 @@
 +++
 index = "-Kk2IJY5MKWbPClFDEQi"
-_sort_create_date = 1494703980
-_sort_last_updated = 1494828360
-_sort_publish_date = 1494867600
+sort_create_date = 1494703980
+sort_last_updated = 1494828360
+sort_publish_date = 1494867600
 create_date = "2017-05-13T12:33:00-07:00"
 publish_date = "2017-05-15T10:00:00-07:00"
 date = "2017-05-15T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Will your neighbors turn on you in times of crisis? @doctorow says no in this wide-ranging interview with @nisishawl."
 facebookauto = "In a huge, long, wide-ranging interview, Nisi Shawl talks to Cory Doctorow about his work with the EFF and DRM in web browsers, protest movements, Utopianism, and why it's a lie that your neighbors turn on each other in moments of crisis. "
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/cory-doctorow"]
+notes_about = ""
 books = ""
 +++
 <div class="intro">

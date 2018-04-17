@@ -1,8 +1,8 @@
 +++
 index = "-KVkPjovpNOYHPsW_dO6"
-_sort_create_date = 1478281020
-_sort_last_updated = 1478281020
-_sort_publish_date = 1478282460
+sort_create_date = 1478281020
+sort_last_updated = 1478281020
+sort_publish_date = 1478282460
 create_date = "2016-11-04T10:37:00-07:00"
 publish_date = "2016-11-04T11:01:00-07:00"
 date = "2016-11-04T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This month, @ciennam's offering advice for @NaNoWriMo writers. Should I tell my friends I'm doing NaNoWriMo?"
 facebookauto = "This month, our advice columnist Cienna Madrid is offering advice for writers taking part in National Novel Writing Month. The first question: Should I tell my friends I'm doing NaNoWriMo? Does anybody really want to hear about my novel?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/nanowrimo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

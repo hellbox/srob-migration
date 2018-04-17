@@ -1,8 +1,8 @@
 +++
 index = "-Jvuk3pOhewHXr95A8cM"
-_sort_create_date = 1438725960
-_sort_last_updated = 1438725960
-_sort_publish_date = 1438793700
+sort_create_date = 1438725960
+sort_last_updated = 1438725960
+sort_publish_date = 1438793700
 create_date = "2015-08-04T15:06:00-07:00"
 publish_date = "2015-08-05T09:55:00-07:00"
 date = "2015-08-05T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The beautiful Mercer Street Books is our very first Bookstore of the Month!"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/mercer-street-books", "tags/debbie-sarow", "tags/twice-sold-tales"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![The east wall of Mercer Street Books](/webhook-uploads/1438725674358/unnamed-1.jpg)</p>

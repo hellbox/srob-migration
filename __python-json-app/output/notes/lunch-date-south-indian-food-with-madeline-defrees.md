@@ -1,8 +1,8 @@
 +++
 index = "-KCEZyVYbZHbdx0dNCui"
-_sort_create_date = 1457328960
-_sort_last_updated = 1457328960
-_sort_publish_date = 1457379360
+sort_create_date = 1457328960
+sort_last_updated = 1457328960
+sort_publish_date = 1457379360
 create_date = "2016-03-06T21:36:00-08:00"
 publish_date = "2016-03-07T11:36:00-08:00"
 date = "2016-03-07T11:36:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457327887325/Blue
 twitterauto = "Great South Indian food with one of Seattle's best poets."
 facebookauto = "We took Madeline DeFrees's book Blue Dusk to maybe the best South Indian restaurant in the greater Seattle area."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date"]
-authors_notes = ["authors/madeline-defrees"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1457327887325/BlueDusk.jpg)</p>*(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)*

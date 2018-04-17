@@ -1,8 +1,8 @@
 +++
 index = "-JxrpDOOuFy58WafSysw"
-_sort_create_date = 1440824460
-_sort_last_updated = 1450199220
-_sort_publish_date = 1441047660
+sort_create_date = 1440824460
+sort_last_updated = 1450199220
+sort_publish_date = 1441047660
 create_date = "2015-08-28T22:01:00-07:00"
 publish_date = "2015-08-31T12:01:00-07:00"
 date = "2015-08-31T12:01:00-07:00"
@@ -12,10 +12,10 @@ name = "Pronouns in space"
 title = "Pronouns in space"
 dek = "In the tradition of sci-fi novels reimagining the male/female dyad, Ann Leckie's \"Ancillary Justice\" delivers something new, suggesting that gender isn't necessary."
 twitterauto = "Ann Leckie's \"Ancillary Justice\" reimagines gender roles by reinventing pronoun use. "
-byline = ["writers/kate-macdonald"]
+reviews_byline = ["writers/kate-macdonald"]
 books_in_this_review = ["books/ancillary-justice", "books/the-left-hand-of-darkness", "books/ammonite"]
 tags_reviews = ["tags/science-fiction", "tags/gender-roles"]
-authors_reviews = ""
+reviews_about = ""
 +++
 
 Imagine my delight when the first three pages of Ann Leckie’s *Ancillary Justice* boggled me with pronouns. They’re all female: she and her; no he, no him. This Elizabeth Moon-like space opera with big ships and engineering settings inhabits a new conceptual landscape, but is it simply a local effect? Ursula Le Guin’s *The Left Hand of Darkness* (1969) uses ambi-sexual characters to question sexual determination, but the male-female dyad is still the basis for that society. Nicola Griffith’s *Ammonite* (1992) features an all-female planet, but the people really are all female: the planetary virus kills the males. *Ancillary Justice* changes human social coding in a subtly different way: “She was probably male, to judge from the angular maze-like patterns quilting her shirt”. This grammatical contradiction does Escher-like things to our assumptions about the characters, and how their society codes gender. It makes us look again.

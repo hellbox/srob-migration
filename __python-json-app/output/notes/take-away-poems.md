@@ -1,8 +1,8 @@
 +++
 index = "-Jv16cE2l3wyiAVzpW46"
-_sort_create_date = 1437775800
-_sort_last_updated = 1437776040
-_sort_publish_date = 1437775800
+sort_create_date = 1437775800
+sort_last_updated = 1437776040
+sort_publish_date = 1437775800
 create_date = "2015-07-24T15:10:00-07:00"
 publish_date = "2015-07-24T15:10:00-07:00"
 date = "2015-07-24T15:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/poetry", "tags/event", "tags/class", "tags/printing"]
-authors_notes = ["authors/jt-stewart"]
+notes_about = ""
 books = ""
 +++
 Hugo House is hosting a one-day poetry broadside workshop Saturday August 8, run by local poet [J.T. Stewart](http://www.jackstraw.org/programs/writers/WritersForum/06/writers/jt.shtml), and master typographer [John D. Berry](https://www.tdc.org/officers/john-d-berry/). Poets will walk away with printed broadsides of their work. 

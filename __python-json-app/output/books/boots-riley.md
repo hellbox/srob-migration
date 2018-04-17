@@ -1,8 +1,8 @@
 +++
 index = "-JwtInmqkGP-RofNRsB5"
-_sort_create_date = 1439775480
-_sort_last_updated = 1439819040
-_sort_publish_date = 1439775480
+sort_create_date = 1439775480
+sort_last_updated = 1439819040
+sort_publish_date = 1439775480
 create_date = "2015-08-16T18:38:00-07:00"
 publish_date = "2015-08-16T18:38:00-07:00"
 date = "2015-08-16T18:38:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Music"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9Vsgi-9MA8dubZ99M9Fh8TC_cETEfrBGQm1fWuE2RXjf5ls4tbf0eaCs7BuYR3kI27IfeqpIjjfYrkKm4pAM7YO8IGg"
 url = "/webhook-uploads/1439775537776/content%3Fid%3Dm7WYuAAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10472
 
 review_relationship = ""
-author_relationship = ["authors/boots-riley"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-turkish-food-with-boots-riley"]
 +++

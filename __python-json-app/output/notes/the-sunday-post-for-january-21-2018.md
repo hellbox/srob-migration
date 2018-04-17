@@ -1,8 +1,8 @@
 +++
 index = "-L3K-GuS8hgsx7ZVbOB-"
-_sort_create_date = 1516475820
-_sort_last_updated = 1516501200
-_sort_publish_date = 1516554000
+sort_create_date = 1516475820
+sort_last_updated = 1516501200
+sort_publish_date = 1516554000
 create_date = "2018-01-20T11:17:00-08:00"
 publish_date = "2018-01-21T09:00:00-08:00"
 date = "2018-01-21T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This Sunday's links: writers on the Awl, @IjeomaOluo on male choice, and sage-ish advice on babies, music, & lines. "
 facebookauto = "The Sunday Post links to writers' picks from the soon-to-be-missed Awl, Ijeoma Oluo on male choice, and articles on baby advice (don't take it), streaming music (don't listen), and queuing up (don't wait)."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

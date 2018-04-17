@@ -1,8 +1,8 @@
 +++
 index = "-L3yQVBVXNpjti1aXclJ"
-_sort_create_date = 1517170800
-_sort_last_updated = 1517277480
-_sort_publish_date = 1517428800
+sort_create_date = 1517170800
+sort_last_updated = 1517277480
+sort_publish_date = 1517428800
 create_date = "2018-01-28T12:20:00-08:00"
 publish_date = "2018-01-31T12:00:00-08:00"
 date = "2018-01-31T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Too complicated to feel"
 dek = "Alex Blum came out of the Army Rangers broken \u2014\u00a0so badly broken he mistook robbing a bank for a training exercise. His cousin wrote a book about the fracture lines running through them both."
 facebookauto = "Reviewing Ben Blum's Ranger Games, Tessa Hulls asks what keeps a mind together (or breaks it apart)."
 twitterauto = "Reviewing @BenBlum's Ranger Games, Tessa Hulls asks what keeps a mind together (or breaks it apart)."
-byline = ["writers/tessa-hulls"]
+reviews_byline = ["writers/tessa-hulls"]
 books_in_this_review = ["books/ranger-games"]
 tags_reviews = ""
-authors_reviews = ["authors/ben-blum"]
+reviews_about = ""
 +++
 
 <p>There is a specific beauty to the movements of a mind that has consciously taught itself to reroute around its own weaknesses, that has learned to take unexpected backroads through the landscapes it feels least equipped to understand. </p>

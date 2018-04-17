@@ -1,8 +1,8 @@
 +++
 index = "-KPg3pRgQsRUruzksKo7"
-_sort_create_date = 1471765740
-_sort_last_updated = 1471765740
-_sort_publish_date = 1471795200
+sort_create_date = 1471765740
+sort_last_updated = 1471765740
+sort_publish_date = 1471795200
 create_date = "2016-08-21T00:49:00-07:00"
 publish_date = "2016-08-21T09:00:00-07:00"
 date = "2016-08-21T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post: Mass hysteria @ JFK, @caster800m & androgyny at #Rio2016 , @NYTmag piece on the David's cracked ankles "
 facebookauto = "Michelangelo's David toppling over? Mass hysteria at JFK airport? Androgyny scandals in the Olympics? All in today's Sunday Post!"
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.nytimes.com/2016/08/21/magazine/davids-ankles-how-imperfections-could-bring-down-the-worlds-most-perfect-statue.html" title="David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue">David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue</a></h5>

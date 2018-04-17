@@ -1,8 +1,8 @@
 +++
 index = "-KYvkHFDWx9IkhrJyg6l"
-_sort_create_date = 1481692440
-_sort_last_updated = 1481695380
-_sort_publish_date = 1482177360
+sort_create_date = 1481692440
+sort_last_updated = 1481695380
+sort_publish_date = 1482177360
 create_date = "2016-12-13T21:14:00-08:00"
 publish_date = "2016-12-19T11:56:00-08:00"
 date = "2016-12-19T11:56:00-08:00"
@@ -13,10 +13,10 @@ title = "Tourists in the time stream"
 dek = "Time travel is a relatively new idea, but we've already worked very hard as a species to explore its outer limits as a concept."
 facebookauto = "A twisty time-travel thriller called The Tourist is good plane reading, but it can't measure up to James Gleick's non-fiction account of the history of time travel as a concept."
 twitterauto = "Time travel as a concept is relatively new, but we've relentlessly explored its limits."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-tourist", "books/time-travel"]
 tags_reviews = ["tags/science-fiction", "tags/literary-history"]
-authors_reviews = ["authors/james-gleick"]
+reviews_about = ""
 +++
 
 “I’m bored of the early 21st,” our narrator Spens tells us at the beginning of Robert Dickson’s sci-fi thriller *The Tourist*. By “21st,” he means “century.” He’s a tour guide leading groups of time-traveling tourists on journeys through our mundane present — the travelers are horrified and fascinated by our shopping malls, for instance. Mostly, he sits and drinks coffee and eats pastry for the novelty of it (it's simultaneously tasteless and too sweet for his future-palate) while his group wanders around having innocuous interactions with 21st century residents.  

@@ -1,8 +1,8 @@
 +++
 index = "-K1w8tnNfbDL2d36TsYP"
-_sort_create_date = 1446265680
-_sort_last_updated = 1446265680
-_sort_publish_date = 1446486300
+sort_create_date = 1446265680
+sort_last_updated = 1446265680
+sort_publish_date = 1446486300
 create_date = "2015-10-30T21:28:00-07:00"
 publish_date = "2015-11-02T09:45:00-08:00"
 date = "2015-11-02T09:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446264520949/Scre
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/elliott-bay-book-company", "tags/hugo-house"]
-authors_notes = ["authors/maria-semple"]
+notes_about = ""
 books = ""
 +++
 **MONDAY** [Elliott Bay Book Company](http://www.elliottbaybook.com/event/andrea-kleine-mattilda-bernstein-sycamore) kicks off our week in readings with *Calf*, **Andrea Kleine**’s debut novel. Here’s an introductory note you’ll find before the first page of *Calf*:

@@ -1,8 +1,8 @@
 +++
 index = "-Jt9ta2cDji8wu4j1Yfm"
-_sort_create_date = 1435775640
-_sort_last_updated = 1437664440
-_sort_publish_date = 1435775640
+sort_create_date = 1435775640
+sort_last_updated = 1437664440
+sort_publish_date = 1435775640
 create_date = "2015-07-01T11:34:00-07:00"
 publish_date = "2015-07-01T11:34:00-07:00"
 date = "2015-07-01T11:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/celebrity", "tags/memoir", "tags/cover"]
-authors_notes = ["authors/grace-jones"]
+notes_about = ""
 books = ["books/ill-never-write-my-memoirs"]
 +++
 Here is the cover of [Grace Jones's upcoming memoir](http://www.adweek.com/galleycat/cover-unveiled-for-new-grace-jones-memoir/106077), *I'll Never Write My Memoirs*.

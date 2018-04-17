@@ -1,8 +1,8 @@
 +++
 index = "-K4L4Nz1_OmEhaIkX507"
-_sort_create_date = 1448848200
-_sort_last_updated = 1448848200
-_sort_publish_date = 1448848200
+sort_create_date = 1448848200
+sort_last_updated = 1448848200
+sort_publish_date = 1448848200
 create_date = "2015-11-29T17:50:00-08:00"
 publish_date = "2015-11-29T17:50:00-08:00"
 date = "2015-11-29T17:50:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/USzUMwtUUh8y71iH4yPDgtzjAXn7Hx0qK0Pdyk8at2CjUj03bH6NQCsqs5RqCciAZjLcHGQzGmBoNzWDCaTtmoJikwXM"
 url = "/webhook-uploads/1448848146925/9780374271572.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 10593
 
 review_relationship = ["reviews/michel-houellebecq-and-the-limitations-of-satire"]
-author_relationship = ["authors/michel-houellebecq"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KPR1vq_-4dnvR7-tAib"
-_sort_create_date = 1471496820
-_sort_last_updated = 1471496820
-_sort_publish_date = 1471885260
+sort_create_date = 1471496820
+sort_last_updated = 1471496820
+sort_publish_date = 1471885260
 create_date = "2016-08-17T22:07:00-07:00"
 publish_date = "2016-08-22T10:01:00-07:00"
 date = "2016-08-22T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1471496081789/IMG_
 twitterauto = "That time Madeleine L'Engle helped @secretgardenbks open in Ballard:"
 facebookauto = "Secret Garden Books has a long history with fantastic authors like Madeleine L'Engle, J.K. Rowling (who once promised to never let studios make Harry Potter movies) and Brian Jacques."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/secret-garden-books"]
-authors_notes = ["authors/madeleine-lengle"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1471496081789/IMG_0525.jpg)</p>

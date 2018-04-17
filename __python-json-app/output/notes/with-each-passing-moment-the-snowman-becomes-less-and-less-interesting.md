@@ -1,8 +1,8 @@
 +++
 index = "-KwnG2sllEmU6PFgrTNa"
-_sort_create_date = 1508393580
-_sort_last_updated = 1508393880
-_sort_publish_date = 1508434200
+sort_create_date = 1508393580
+sort_last_updated = 1508393880
+sort_publish_date = 1508434200
 create_date = "2017-10-18T23:13:00-07:00"
 publish_date = "2017-10-19T10:30:00-07:00"
 date = "2017-10-19T10:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508393286952/snow
 twitterauto = "How can an adaptation of a great thriller starring a dreamy cast turn out so badly?"
 facebookauto = "How can a cinematic adaptation of a great Norwegian crime thriller starring the dreamy Michael Fassbender turn out so badly?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/adaptation"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1508393286952/snowman.jpg)</p>

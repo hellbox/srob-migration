@@ -1,8 +1,8 @@
 +++
 index = "-K2zYhKC5FP2uIITDO1g"
-_sort_create_date = 1447396560
-_sort_last_updated = 1447446420
-_sort_publish_date = 1447444800
+sort_create_date = 1447396560
+sort_last_updated = 1447446420
+sort_publish_date = 1447444800
 create_date = "2015-11-12T22:36:00-08:00"
 publish_date = "2015-11-13T12:00:00-08:00"
 date = "2015-11-13T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/nanowrimo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you're doing your job, and are on target, by Sunday you'll be at a magic place: halfway. Oh my, how good it feels to cross that 25,000 word line. Some of you have already flown past it, so know the feeling. 

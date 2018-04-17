@@ -1,8 +1,8 @@
 +++
 index = "-KfiyWNOWoiEFB_QeEVU"
-_sort_create_date = 1490068020
-_sort_last_updated = 1490068320
-_sort_publish_date = 1490068020
+sort_create_date = 1490068020
+sort_last_updated = 1490068320
+sort_publish_date = 1490068020
 create_date = "2017-03-20T20:47:00-07:00"
 publish_date = "2017-03-20T20:47:00-07:00"
 date = "2017-03-20T20:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "An early coordinator of the Zine Archive and Publishing Project says ZAPP is no more."
 facebookauto = "An early coordinator of the Zine Archive and Publishing Project says ZAPP is no more. The collection of zines and minicomics\u2014one of the world's largest, if not the world's largest\u2014will reportedly go to the Seattle Public Library."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/zapp", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 G&O Family Cyclery owner Davey Oil, an early ZAPP coordinator, just [published the news in a moving public post on Facebook](https://www.facebook.com/hi.davey.oil/posts/721220344712418):

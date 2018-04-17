@@ -1,8 +1,8 @@
 +++
 index = "-Kkg7_t57l9HMneCcYjA"
-_sort_create_date = 1495389060
-_sort_last_updated = 1495431840
-_sort_publish_date = 1495472400
+sort_create_date = 1495389060
+sort_last_updated = 1495431840
+sort_publish_date = 1495472400
 create_date = "2017-05-21T10:51:00-07:00"
 publish_date = "2017-05-22T10:00:00-07:00"
 date = "2017-05-22T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "https://en.wikipedia.org/wiki/Ksenia_Anske#/media/File:Ksenia_Ansk
 twitterauto = "Seattle indie-writer @kseniaanske writes dark stories that come from dark places."
 facebookauto = "Seattle indie-writer Ksenia Anske writes dark stories that come from dark places."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/interviews"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <div class="intro"><p>I've known [Ksenia Anske](https://www.kseniaanske.com "Ksenia Anske") for almost twenty years. We were both students at Cornish College of the Arts, studying design, at the close of the Twentieth Century. A Russian who came to design school after studying architecture in her home country, her approach to design was always engaged, probing, and driven.</p>

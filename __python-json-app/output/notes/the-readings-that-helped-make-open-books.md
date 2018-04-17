@@ -1,8 +1,8 @@
 +++
 index = "-KF1unAJlvbKtzu_IVCR"
-_sort_create_date = 1460337840
-_sort_last_updated = 1460338080
-_sort_publish_date = 1460393520
+sort_create_date = 1460337840
+sort_last_updated = 1460338080
+sort_publish_date = 1460393520
 create_date = "2016-04-10T18:24:00-07:00"
 publish_date = "2016-04-11T09:52:00-07:00"
 date = "2016-04-11T09:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460337735950/Open
 twitterauto = "Open Books owner John Marshall remembers some of his favorite author events."
 facebookauto = "Open Books owner John Marshall remembers some of his favorite author events."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1460337735950/OpenBooks2.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KR4eNns1mqR2ot_Xc9m"
-_sort_create_date = 1473268740
-_sort_last_updated = 1473268740
-_sort_publish_date = 1473271260
+sort_create_date = 1473268740
+sort_last_updated = 1473268740
+sort_publish_date = 1473271260
 create_date = "2016-09-07T10:19:00-07:00"
 publish_date = "2016-09-07T11:01:00-07:00"
 date = "2016-09-07T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473268402901/gree
 twitterauto = "Great news for Greenwood and astronauts: @Fearless_Ideas reopens its Space Travel Supply shop today!"
 facebookauto = "Great news for Greenwood, young writers, and astronauts: the Bureau of Fearless Ideas reopens its Space Travel Supply Company today! Stop by for some celebratory astronaut ice cream sometime soon."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bureau-of-fearless-ideas", "tags/greenwood-space-travel-supply-company"]
-authors_notes = ["authors/sarah-galvin"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1473268402901/greenwoodspacetravellogo.jpg)</p>

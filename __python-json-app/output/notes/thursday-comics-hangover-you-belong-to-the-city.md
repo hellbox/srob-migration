@@ -1,8 +1,8 @@
 +++
 index = "-L8f8shI6GPfHcsWlQWz"
-_sort_create_date = 1522216140
-_sort_last_updated = 1522216140
-_sort_publish_date = 1522342140
+sort_create_date = 1522216140
+sort_last_updated = 1522216140
+sort_publish_date = 1522342140
 create_date = "2018-03-27T22:49:00-07:00"
 publish_date = "2018-03-29T09:49:00-07:00"
 date = "2018-03-29T09:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522216096898/thec
 twitterauto = "These Seattle cartoonists are creating a European city that's barely hanging on between World Wars."
 facebookauto = "These Seattle cartoonists are creating a European city that's barely hanging on between World Wars."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Why are fictional cities such a common trope in comics? More than any other art form, comics seem to make it easy to create locations with their own unique spirit. Compare Metropolis in the Superman comics with the Metropolis of any of the Superman movies, for instance, and you'll see how hard it is for film to duplicate the world-building of the comic books. In just a few panels, artists can give Metropolis its own flavor: an art deco city of the future, with flags and golden sunlight everywhere. 

@@ -1,8 +1,8 @@
 +++
 index = "-L85WbdyVM7TXqVW6W_1"
-_sort_create_date = 1521601620
-_sort_last_updated = 1521733380
-_sort_publish_date = 1521742020
+sort_create_date = 1521601620
+sort_last_updated = 1521733380
+sort_publish_date = 1521742020
 create_date = "2018-03-20T20:07:00-07:00"
 publish_date = "2018-03-22T11:07:00-07:00"
 date = "2018-03-22T11:07:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup includes Seattle's judgiest reader of translated literature in 2018."
 facebookauto = "Today's book news roundup includes Seattle's judgiest reader of translated literature in 2018."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Did you know that you can help young users of the Seattle Public Library "regain access to the Library's resources by paying for borrowed materials that were misplaced or lost?" Yep! Help a kid get a fresh start through the Seattle Public Library Foundation's [Fresh Start page](https://secure2.convio.net/spl/site/Donation2%3bjsessionid=00000000.app202b?idb=71574742&DONATION_LEVEL_ID_SELECTED=1&df_id=1643&mfc_pref=T&1643.donation=form1&NONCE_TOKEN=FE97E91B0AD2C4AC07105AF1ABC23828&idb=0).

@@ -1,8 +1,8 @@
 +++
 index = "-L76b7U3utqBP0t1i_ww"
-_sort_create_date = 1520546100
-_sort_last_updated = 1521169440
-_sort_publish_date = 1520873700
+sort_create_date = 1520546100
+sort_last_updated = 1521169440
+sort_publish_date = 1520873700
 create_date = "2018-03-08T13:55:00-08:00"
 publish_date = "2018-03-12T09:55:00-07:00"
 date = "2018-03-12T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520546031852/nigh
 twitterauto = "Meet two brand-new local novelists at the Dock Street Salon at Phinney Books this Thursday!"
 facebookauto = "Meet two brand-new local novelists at the Dock Street Salon at Phinney Books this Thursday!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/phinney-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Phinney Books had hosted the Dock Street Salon for a couple years, and the reading series filled a very important geographical slot in Seattle's literary scene: there just aren't too many readings for adults in the miles between University Book Store and Third Place Books. The Salon, which is named after Seattle publisher Dock Street Books, is an informal reading and Q&A session with local authors cohosted by Seattle author and publisher Heather Jacobs and the ever-charming and enthusiastic publisher of Dock Street, Dane Bahr.

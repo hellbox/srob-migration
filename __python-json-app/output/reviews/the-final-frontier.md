@@ -1,8 +1,8 @@
 +++
 index = "-KJ9g77mjzN-wP8JqSPQ"
-_sort_create_date = 1464763140
-_sort_last_updated = 1464844920
-_sort_publish_date = 1464893880
+sort_create_date = 1464763140
+sort_last_updated = 1464844920
+sort_publish_date = 1464893880
 create_date = "2016-05-31T23:39:00-07:00"
 publish_date = "2016-06-02T11:58:00-07:00"
 date = "2016-06-02T11:58:00-07:00"
@@ -13,10 +13,10 @@ title = "The final frontier"
 dek = "A new science fiction novel from Seattle publisher Chin Music Press employs sci-fi tropes to deliver an interior novel about a man who has forgotten how to feel."
 facebookauto = "A novel about a former child star who got kicked off the set of Titanic uses science fiction to explore the interiority of self."
 twitterauto = "A new sci-fi novel looks at quantum physics, James Cameron's Titanic, and the disappointment of exploration."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/king-of-the-worlds"]
 tags_reviews = ["tags/novel", "tags/science-fiction"]
-authors_reviews = ["authors/m-thomas-gammarino"]
+reviews_about = ""
 +++
 
 It’s perhaps a gross generalization to say that most novelists don’t understand quantum physics, but it is a generalization that I feel confident standing behind. You’ll see certain well-worn scientific oversimplifications dragged out again and again in fiction: the idea of light being both particle and wave, depending on how you observe it; the fact that gravity is dependent on mass; and the idea that there are countless parallel universes out there, a multiverse where every world you can imagine is true. 

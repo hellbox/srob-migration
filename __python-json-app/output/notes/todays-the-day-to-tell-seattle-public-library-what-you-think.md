@@ -1,8 +1,8 @@
 +++
 index = "-K1jSBSmTaldzqrSEFgC"
-_sort_create_date = 1446052680
-_sort_last_updated = 1446052680
-_sort_publish_date = 1446052680
+sort_create_date = 1446052680
+sort_last_updated = 1446052680
+sort_publish_date = 1446052680
 create_date = "2015-10-28T10:18:00-07:00"
 publish_date = "2015-10-28T10:18:00-07:00"
 date = "2015-10-28T10:18:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library", "tags/marcellus-turner"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We love hearing from our readers, be it through [Facebook](https://www.facebook.com/seattlereviewof) or [Twitter](https://twitter.com/seattlereviewof) or [email](http://seattlereviewofbooks.com/about/). We just received a message from *SRoB* reader **Sandra**, who writes:

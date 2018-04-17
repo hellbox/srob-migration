@@ -1,8 +1,8 @@
 +++
 index = "-KVhkfRWKKCawghjhSB7"
-_sort_create_date = 1478236440
-_sort_last_updated = 1478295840
-_sort_publish_date = 1478279100
+sort_create_date = 1478236440
+sort_last_updated = 1478295840
+sort_publish_date = 1478279100
 create_date = "2016-11-03T22:14:00-07:00"
 publish_date = "2016-11-04T10:05:00-07:00"
 date = "2016-11-04T10:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "SRoB reader @unpaginated takes issue with our recent review of Jack Chick."
 facebookauto = "A reader writes in to protest our recent comments that Jack Chick's cartoons aren't as funny as they used to be."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/letters-to-the-editor"]
-authors_notes = ["authors/jack-chick"]
+notes_about = ""
 books = ["books/bad-bob!"]
 +++
 <p class="intro">We love to hear from our readers! Please send letters to the editor through [our contact form](http://www.seattlereviewofbooks.com/about/).</p>

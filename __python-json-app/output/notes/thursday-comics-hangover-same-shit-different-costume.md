@@ -1,8 +1,8 @@
 +++
 index = "-KrirfvyY9Qbjpa4Cd5a"
-_sort_create_date = 1502951160
-_sort_last_updated = 1502985360
-_sort_publish_date = 1502988540
+sort_create_date = 1502951160
+sort_last_updated = 1502985360
+sort_publish_date = 1502988540
 create_date = "2017-08-16T23:26:00-07:00"
 publish_date = "2017-08-17T09:49:00-07:00"
 date = "2017-08-17T09:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "But really: how many action figures can we sell of this?"
 facebookauto = ""
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/dc-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1502950955309/Screen%20Shot%202017-08-16%20at%2011.21.14%20PM.png)</p>

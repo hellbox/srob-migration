@@ -1,8 +1,8 @@
 +++
 index = "-KT6cArh22NikU7M7z5I"
-_sort_create_date = 1475449200
-_sort_last_updated = 1506023040
-_sort_publish_date = 1475514000
+sort_create_date = 1475449200
+sort_last_updated = 1506023040
+sort_publish_date = 1475514000
 create_date = "2016-10-02T16:00:00-07:00"
 publish_date = "2016-10-03T10:00:00-07:00"
 date = "2016-10-03T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Once a year, Louis Collins Books, expands to become \"the best bookstore in America.\""
 facebookauto = "Once a year, our October Bookstore of the Month, Louis Collins Books, expands to become \"the best bookstore in America.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-antiquarian-book-fair", "tags/louis-collins-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Louis Collins has been selling used books out of a storefront on Capitol Hill since 1984. It’s easy to miss — Louis Collins Books is a squat building at the corner of 12th and Denny, with nothing but a small white sign to identify it. Though Collins comes in to the store nearly every afternoon, the store is only open by appointment, so you can’t just wander in and check out the shelves of books visible from the street. If you’ve shopped for antiquarian books online, though, chances are good that you’ve encountered one of Collins’s titles. He lists some 23,000 titles on a number of online sites and [his own site]( http://www.collinsbooks.com/). 

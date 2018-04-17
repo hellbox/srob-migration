@@ -1,8 +1,8 @@
 +++
 index = "-L62q8weDdrIr-R1Nq6f"
-_sort_create_date = 1519409160
-_sort_last_updated = 1519409160
-_sort_publish_date = 1519668180
+sort_create_date = 1519409160
+sort_last_updated = 1519409160
+sort_publish_date = 1519668180
 create_date = "2018-02-23T10:06:00-08:00"
 publish_date = "2018-02-26T10:03:00-08:00"
 date = "2018-02-26T10:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our literary event of the week is Tyehimba Jess reading at McCaw Hall this Sunday."
 facebookauto = "Our literary event of the week is Tyehimba Jess reading at McCaw Hall this Sunday."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/seattle-arts-and-lectures"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last year, when his collection *Olio* won the Pulitzer Prize, Tyehimba Jess became one of the best-known living poets in America. Jess has been celebrated in poetry circles for years, of course - *leadbelly*, a previous collection, won awards in 2004 - but *Olio*, published by Seattle publisher Wave Books, became an instantaneous must-have collection. Ironically, the fact that Wave was overwhelmed by the demand for *Olio* might have helped the book's success: it made *Olio* a must-have book, an object of desire that lasted much longer than the Pulitzer's glow might have lasted.

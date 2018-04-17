@@ -1,8 +1,8 @@
 +++
 index = "-KgXYOJQUZ4Li4A4CAmc"
-_sort_create_date = 1490933340
-_sort_last_updated = 1490933340
-_sort_publish_date = 1491334200
+sort_create_date = 1490933340
+sort_last_updated = 1490933340
+sort_publish_date = 1491334200
 create_date = "2017-03-30T21:09:00-07:00"
 publish_date = "2017-04-04T12:30:00-07:00"
 date = "2017-04-04T12:30:00-07:00"
@@ -13,10 +13,10 @@ title = "Finding his voice"
 dek = "Robert Lashley is an incredible performing poet \u2014 one of the finest in the region. His latest book identifies him as one of the best on the page, in addition to one of the best on the stage."
 facebookauto = "We already know that Robert Lashley is a poetry genius on the stage. HIs new book proves he's a genius on the page."
 twitterauto = ".@Misterlashley is a poetry genius on the stage. HIs new book proves he's a genius on the page."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/up-south"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/robert-lashley"]
+reviews_about = ""
 +++
 
 Bellingham poet Robert Lashley is probably best known for his stage presence. Lashley comes from the spoken word scene, and he is one of the best readers in the region: there’s a moment in every one of his performances when he shifts from mild-mannered stage patter to the poet with *that voice*, and it’s always a bracing moment. 

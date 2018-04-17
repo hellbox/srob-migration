@@ -1,8 +1,8 @@
 +++
 index = "-KbRRTwuLifinAk8VOxR"
-_sort_create_date = 1485462120
-_sort_last_updated = 1485540840
-_sort_publish_date = 1485540780
+sort_create_date = 1485462120
+sort_last_updated = 1485540840
+sort_publish_date = 1485540780
 create_date = "2017-01-26T12:22:00-08:00"
 publish_date = "2017-01-27T10:13:00-08:00"
 date = "2017-01-27T10:13:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "They don't even know how to use bookshelves correctly."
 facebookauto = "What's on the bookshelves at President Trump's State Department? Well, uh, not much."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Whenever I visit a person's house, I immediately start checking out their bookshelves. Bookshelves are the best way to get a look into someone's interior life. Maybe that's why I find this tweet to be so upsetting:

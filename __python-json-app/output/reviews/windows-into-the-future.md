@@ -1,8 +1,8 @@
 +++
 index = "-K5-6dTM5lZB-PyaT-9E"
-_sort_create_date = 1449553440
-_sort_last_updated = 1449612000
-_sort_publish_date = 1449604800
+sort_create_date = 1449553440
+sort_last_updated = 1449612000
+sort_publish_date = 1449604800
 create_date = "2015-12-07T21:44:00-08:00"
 publish_date = "2015-12-08T12:00:00-08:00"
 date = "2015-12-08T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Windows into the future"
 dek = "Is it even possible to build a good story collection with corporate backing? Microsoft invited a bunch of SF writers to the Research Labs, and asked them to write inspired by what they saw. Is it all corporate hackery? "
 facebookauto = "Microsoft rounded up a bunch of A-list Science Fiction writers, showed them their Research Labs, and then sent them free. Gael Fashingbauer Cooper takes a look for us to find out what's waiting for you under all of that corporate sponsorship.  "
 twitterauto = "Just because @microsoft footed the bill doesn't make the stories in Future Visions bad, says @GaelFC"
-byline = ["writers/gael-fashingbauer-cooper"]
+reviews_byline = ["writers/gael-fashingbauer-cooper"]
 books_in_this_review = ["books/future-visions"]
 tags_reviews = ["tags/science-fiction"]
-authors_reviews = ["authors/multiple-authors"]
+reviews_about = ""
 +++
 
 The jokes write themselves. Shortly after the publication of _Future Visions: Science Fiction Stories Inspired By Microsoft_, a friend posted a graphic about it. In the image, Clippy, the infamous animated paperclip/Microsoft Office assistant, is saying, "Hi! It looks like you're trying to dock over Alpha Centauri! May I suggest reverse thrusters?"

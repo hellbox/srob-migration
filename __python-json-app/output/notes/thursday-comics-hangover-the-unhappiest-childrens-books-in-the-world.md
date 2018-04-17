@@ -1,8 +1,8 @@
 +++
 index = "-KhZFckhrq4nI0pTxiSs"
-_sort_create_date = 1492035720
-_sort_last_updated = 1492035720
-_sort_publish_date = 1492102440
+sort_create_date = 1492035720
+sort_last_updated = 1492035720
+sort_publish_date = 1492102440
 create_date = "2017-04-12T15:22:00-07:00"
 publish_date = "2017-04-13T09:54:00-07:00"
 date = "2017-04-13T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492035344521/fung
 twitterauto = "Author Raymond Briggs has an important message for kids: If you're okay with being unhappy, that's okay."
 facebookauto = "Author Raymond Briggs has an important message for kids: If you're okay with being unhappy, that's okay."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/childrens-books"]
-authors_notes = ["authors/raymond-briggs"]
+notes_about = ""
 books = ""
 +++
 Like so many of the best books, I found it hidden behind a couple outdated computer programming manuals in a Goodwill. It’s a tall, slim hardcover book with a torn dustjacket. The cover is a soulful color sketch of a tiny figure standing on a roof staring out at a cloudy night sky. It says in big letters at the top, *The Man*, and below that, in smaller print, the author credit: Raymond Briggs.

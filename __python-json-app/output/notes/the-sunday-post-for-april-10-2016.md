@@ -1,8 +1,8 @@
 +++
 index = "-KEylg5phfR1yQqp5-_c"
-_sort_create_date = 1460268300
-_sort_last_updated = 1460305740
-_sort_publish_date = 1460304000
+sort_create_date = 1460268300
+sort_last_updated = 1460305740
+sort_publish_date = 1460304000
 create_date = "2016-04-09T23:05:00-07:00"
 publish_date = "2016-04-10T09:00:00-07:00"
 date = "2016-04-10T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post: Talese, the Texas University Tower Shooting, and the connection between Trump and McCarthy."
 facebookauto = "All about Mr. Talese, a shooting victim fifty years after the event, and the man who taught Donald Trump to speak in public like Donald Trump. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.newyorker.com/magazine/2016/04/11/gay-talese-the-voyeurs-motel" title="The Voyeur’s Motel - The New Yorker">The Voyeur's Motel</a></h5>

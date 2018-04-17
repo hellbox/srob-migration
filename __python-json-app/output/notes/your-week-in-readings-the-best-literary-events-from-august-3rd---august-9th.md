@@ -1,8 +1,8 @@
 +++
 index = "-KNj-lrrImve7bLerrQt"
-_sort_create_date = 1469667540
-_sort_last_updated = 1469667660
-_sort_publish_date = 1470247200
+sort_create_date = 1469667540
+sort_last_updated = 1469667660
+sort_publish_date = 1470247200
 create_date = "2016-07-27T17:59:00-07:00"
 publish_date = "2016-08-03T11:00:00-07:00"
 date = "2016-08-03T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here are the events you need to know about this week, including two festivals and adorable dogs."
 facebookauto = "Here are all the events you need to know about this week, including two festivals and an event where adorable kids read to adorable dogs."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/spartan", "tags/bibliophilia"]
-authors_notes = ["authors/michelle-pe\u00f1aloza", "authors/greg-bem", "authors/claudia-castro-luna"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday August 3: Aaron Burch, Uzodinma Okehi, and Ross McMeekin**</h5></p> 

@@ -1,8 +1,8 @@
 +++
 index = "-KSfswggb-8SAO4m73PP"
-_sort_create_date = 1474983840
-_sort_last_updated = 1475082540
-_sort_publish_date = 1475089200
+sort_create_date = 1474983840
+sort_last_updated = 1475082540
+sort_publish_date = 1475089200
 create_date = "2016-09-27T06:44:00-07:00"
 publish_date = "2016-09-28T12:00:00-07:00"
 date = "2016-09-28T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Sharing the last of our food"
 dek = "When you're setting a place at the table for all, what if you don't see who you're leaving out?"
 facebookauto = "PTSD and the price of inclusion: Sonya Lea looks at Sebastian Junger's Tribe. "
 twitterauto = "PTSD and the price of inclusion: @sonya_lea looks at @sebastianjunger's Tribe. "
-byline = ["writers/sonya-lea"]
+reviews_byline = ["writers/sonya-lea"]
 books_in_this_review = ["books/tribe"]
 tags_reviews = ["tags/ptsd", "tags/military", "tags/veterens"]
-authors_reviews = ["authors/sebastian-junger"]
+reviews_about = ""
 +++
 
 The first time I encountered the ravaging effects of post-traumatic stress disorder or PTSD was when my husband went into surgery for a rare cancer and came out without any memory of our life. He died on the table that night, but his body remained. He had an anoxic insult, a brain injury, and he lost much of the ability to remember what happened yesterday or ten minutes ago. And surprisingly, he lost something most didn’t at first recognize was possible to lose in a cancer treatment &mdash; the long-term memories of his life. Gone was our wedding day, the birth of our children, his childhood, his identity. When I told the hospital staff about his confused state, they insisted everything would clear up when we returned home.

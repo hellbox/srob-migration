@@ -1,8 +1,8 @@
 +++
 index = "-KTfg6_4qTEQppQ3FXLB"
-_sort_create_date = 1476054240
-_sort_last_updated = 1476292500
-_sort_publish_date = 1476291780
+sort_create_date = 1476054240
+sort_last_updated = 1476292500
+sort_publish_date = 1476291780
 create_date = "2016-10-09T16:04:00-07:00"
 publish_date = "2016-10-12T10:03:00-07:00"
 date = "2016-10-12T10:03:00-07:00"
@@ -13,10 +13,10 @@ title = "...and I feel fine"
 dek = "You'll find a thousand ends of the world in Jeannine Hall Gailey's new poetry collection, which she'll sign this Saturday afternoon at Open Books."
 facebookauto = "Jeannine Hall Gailey signs her newest, apocalpyse-obsesssed book at Open Books this Saturday. Here's our review:"
 twitterauto = "Jeannine Hall Gailey signs her newest book at @openpoetrybooks this Saturday. Our review:"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/field-guide-to-the-end-of-the-world"]
 tags_reviews = ["tags/poetry", "tags/dystopia", "tags/donald-trump"]
-authors_reviews = ["authors/jeannine-hall-gailey"]
+reviews_about = ""
 +++
 
 Maybe this election cycle, with its casual invocation of nuclear war and portraits of American landscapes as dystopian nightmares, will finally break the fever of apocalyptic fiction that has held a tight grip on America’s popular consciousness for well over a decade now.  Maybe — and this is one of those predictions that will likely sound very dumb six months from now — maybe it’s time to think about a better future again.

@@ -1,8 +1,8 @@
 +++
 index = "-Jw7jHisz-dDuhHQNKbA"
-_sort_create_date = 1438960620
-_sort_last_updated = 1453473720
-_sort_publish_date = 1439838000
+sort_create_date = 1438960620
+sort_last_updated = 1453473720
+sort_publish_date = 1439838000
 create_date = "2015-08-07T08:17:00-07:00"
 publish_date = "2015-08-17T12:00:00-07:00"
 date = "2015-08-17T12:00:00-07:00"
@@ -12,10 +12,10 @@ name = "OMG Gutenberg"
 title = "OMG Gutenberg"
 dek = "Alix Christie explores a fictionalized version of the making of one of the greatest books ever printed, and the men who drove the fifteenth century startup that created widespread literacy."
 twitterauto = ""
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/gutenbergs-apprentice", "books/gutenbergs-apprentice-(paperback)", "books/gutenberg"]
 tags_reviews = ["tags/gutenberg", "tags/typography", "tags/fust", "tags/schoeffer", "tags/early-printing", "tags/incunabula", "tags/printing"]
-authors_reviews = ["authors/alix-christie"]
+reviews_about = ""
 +++
 
 A friend who works at the Library of Congress occasionally gets called on to give tours to visiting school groups. The kids respond like most kids would at a government institution: long, bored faces. Not even the gilded grandeur of the building holds much sway.

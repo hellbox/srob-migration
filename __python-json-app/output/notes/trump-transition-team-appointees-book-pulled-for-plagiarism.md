@@ -1,8 +1,8 @@
 +++
 index = "-Ka8nN-i3tUiKsGhSLWO"
-_sort_create_date = 1484075640
-_sort_last_updated = 1484075640
-_sort_publish_date = 1484075640
+sort_create_date = 1484075640
+sort_last_updated = 1484075640
+sort_publish_date = 1484075640
 create_date = "2017-01-10T11:14:00-08:00"
 publish_date = "2017-01-10T11:14:00-08:00"
 date = "2017-01-10T11:14:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "HarperCollins has pulled a Trump appointee's book for plagiarism. She's still working for Trump, though."
 facebookauto = "HarperCollins has pulled a Trump appointee's book for plagiarism. She's still working for Trump, though."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/plagiarism", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 David Ferguson at [Raw Story](http://www.rawstory.com/2017/01/harper-collins-pulling-plagiarist-trump-nominee-monica-crowleys-book-from-shelves/) writes:

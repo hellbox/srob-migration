@@ -1,8 +1,8 @@
 +++
 index = "-KiEH2bZknTCpba9XJ3L"
-_sort_create_date = 1492757520
-_sort_last_updated = 1492797180
-_sort_publish_date = 1492801380
+sort_create_date = 1492757520
+sort_last_updated = 1492797180
+sort_publish_date = 1492801380
 create_date = "2017-04-20T23:52:00-07:00"
 publish_date = "2017-04-21T12:03:00-07:00"
 date = "2017-04-21T12:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492757243794/shat
 twitterauto = "There will be a bunch of gossipy books about the 2016 election in bookstores soon. Maybe don't read them?"
 facebookauto = "There will be a bunch of gossipy books about the 2016 election in bookstores soon. Maybe don't read them?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hillary-clinton", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 After the 2008 and 2012 elections, I was very much enthralled by John Heilemann and Mark Halperin's quick-published insidery accounts of the presidential campaigns. *Game Change* and *Game Change: Double Down* both piqued my interest with their gossipy tone and their inside-baseball chattiness. 

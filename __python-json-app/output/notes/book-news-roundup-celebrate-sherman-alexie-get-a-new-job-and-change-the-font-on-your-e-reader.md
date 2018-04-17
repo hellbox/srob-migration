@@ -1,8 +1,8 @@
 +++
 index = "-KA9-ZAwOAyJHnXyEfa7"
-_sort_create_date = 1455088080
-_sort_last_updated = 1455126120
-_sort_publish_date = 1455138900
+sort_create_date = 1455088080
+sort_last_updated = 1455126120
+sort_publish_date = 1455138900
 create_date = "2016-02-09T23:08:00-08:00"
 publish_date = "2016-02-10T13:15:00-08:00"
 date = "2016-02-10T13:15:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Pierce County celebrates Sherman Alexie and Seattle Arts & Lectures is hiring in today's Book News Roundup."
 facebookauto = "Pierce County celebrates Sherman Alexie and Seattle Arts & Lectures is hiring in today's Book News Roundup."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/kindle"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ["books/absolutely-true-diary-of-a-part-time-indian"]
 +++
 * Congratulations to Sherman Alexie, who is this year's Pierce County Library system selection for [Pierce County Reads](http://www.blscourierherald.com/news/368092381.html). The library chose five of Alexie's books for everyone in Pierce County to read. They are: *The Lone Ranger and Tonto Fistfight in Heaven*, *Reservation Blues*, *Absolutely True Diary of a Part-Time Indian*, *Flight*, and *War Dances*. I wholeheartedly agree; everyone in Washington state should read all of those books.

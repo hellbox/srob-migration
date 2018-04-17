@@ -1,8 +1,8 @@
 +++
 index = "-KySrVLDPmposHJyX_h_"
-_sort_create_date = 1510182060
-_sort_last_updated = 1510810320
-_sort_publish_date = 1510862400
+sort_create_date = 1510182060
+sort_last_updated = 1510810320
+sort_publish_date = 1510862400
 create_date = "2017-11-08T15:01:00-08:00"
 publish_date = "2017-11-16T12:00:00-08:00"
 date = "2017-11-16T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510181926420/Heat
 twitterauto = "In Criminal Fiction, @daneetsteffens interviews @jon_mcgregor, and reviews @winniemli and more."
 facebookauto = "In Criminal Fiction, Daneet Steffens interviews Jon McGregor, and reviews Winnie M Li, and more."
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/matthew-weiner", "authors/roddy-doyle", "authors/alexander-mccall-smith", "authors/winnie-m-li", "authors/jon-mcgregor"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KC948BTb7jxfazrgcNt"
-_sort_create_date = 1457236740
-_sort_last_updated = 1457236920
-_sort_publish_date = 1457236740
+sort_create_date = 1457236740
+sort_last_updated = 1457236920
+sort_publish_date = 1457236740
 create_date = "2016-03-05T19:59:00-08:00"
 publish_date = "2016-03-05T19:59:00-08:00"
 date = "2016-03-05T19:59:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Education"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QF9rcaI2mg7Zs4u6kcecBiv01k5MSb2xUDlgkjCxYwvPw9PHvSR-HuuaKhRYVKsnn3JaMnQu_cfEdvn8KOIj_frJvpw"
 url = "/webhook-uploads/1457236774318/content%3Fid%3DvGoCrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 13938
 
 review_relationship = ""
-author_relationship = ["authors/charlotte-riggle"]
+books_author = ""
 sponsorships_book = ["sponsorships/catherines-pascha"]
 notes_relationship = ["notes/easter-in-the-middle-of-the-night", "notes/isnt-easter-already-past-not-if-youre-in-the-orthodox-church"]
 +++

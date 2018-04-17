@@ -1,8 +1,8 @@
 +++
 index = "-L14_I9LpqnjeLmDrdP5"
-_sort_create_date = 1514069640
-_sort_last_updated = 1514098740
-_sort_publish_date = 1514134800
+sort_create_date = 1514069640
+sort_last_updated = 1514098740
+sort_publish_date = 1514134800
 create_date = "2017-12-23T16:54:00-06:00"
 publish_date = "2017-12-24T11:00:00-06:00"
 date = "2017-12-24T11:00:00-06:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "@Donna Miscolta on family, @ClintSmithIII on racial violence, @mendelsund on Sebald, and more in the Sunday Post."
 facebookauto = "Donna Miscolta on family, Clint Smith on racial violence, Peter Mendelsund on W. G. Sebald, and more in the Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 

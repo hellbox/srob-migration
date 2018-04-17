@@ -1,8 +1,8 @@
 +++
 index = "-KwJVfzUGUYMYpcfUdqc"
-_sort_create_date = 1507877580
-_sort_last_updated = 1507877880
-_sort_publish_date = 1508040600
+sort_create_date = 1507877580
+sort_last_updated = 1507877880
+sort_publish_date = 1508040600
 create_date = "2017-10-12T23:53:00-07:00"
 publish_date = "2017-10-14T21:10:00-07:00"
 date = "2017-10-14T21:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463200600707/thun
 twitterauto = "Congratulations to the winners of the 2017 Washington State Book Awards!"
 facebookauto = "Congratulations to the winners of the 2017 Washington State Book Awards!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/washington-state-book-awards"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ""
 +++
 The Washington State Book Awards ceremony was held tonight in the central library downtown. Here's a list of the winners:

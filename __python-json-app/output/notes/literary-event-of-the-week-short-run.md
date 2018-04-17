@@ -1,8 +1,8 @@
 +++
 index = "-KxR28PNX9zOEfvSYap3"
-_sort_create_date = 1509077820
-_sort_last_updated = 1509078960
-_sort_publish_date = 1509382560
+sort_create_date = 1509077820
+sort_last_updated = 1509078960
+sort_publish_date = 1509382560
 create_date = "2017-10-26T21:17:00-07:00"
 publish_date = "2017-10-30T09:56:00-07:00"
 date = "2017-10-30T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509078913028/shor
 twitterauto = "The event of the week this week is @ShortRunSeattle, which is bigger and better than ever."
 facebookauto = "The event of the week this week is the Short Run Comix & Arts Festival, which is bigger and better than ever."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/julia-wertz", "authors/willie-fitzgerald", "authors/stacey-levine", "authors/tom-hart", "authors/emil-ferris"]
+notes_about = ""
 books = ["books/rosalie-lightning"]
 +++
 <p class="image">![](/webhook-uploads/1509078913028/shortrun.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KHDHD_OMvwDbpyLR_Iv"
-_sort_create_date = 1462675980
-_sort_last_updated = 1462675980
-_sort_publish_date = 1462675980
+sort_create_date = 1462675980
+sort_last_updated = 1462675980
+sort_publish_date = 1462675980
 create_date = "2016-05-07T19:53:00-07:00"
 publish_date = "2016-05-07T19:53:00-07:00"
 date = "2016-05-07T19:53:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "Science Fiction"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6dvDMNkGYTDqXWJo_xU2xSQDa2HX70f9jnS7B5PYLLI-G1dE3A54USEvBaleZ7sjtYXTTsQLBtUdVrcrMMmUIKCTU115"
 url = "/webhook-uploads/1462675937608/20447745.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 68985
 
 review_relationship = ["reviews/derrick-noir"]
-author_relationship = ["authors/madeline-ashby"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

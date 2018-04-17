@@ -1,8 +1,8 @@
 +++
 index = "-KLh1vH4W-WpJjoDHbyf"
-_sort_create_date = 1467487020
-_sort_last_updated = 1467487020
-_sort_publish_date = 1467487020
+sort_create_date = 1467487020
+sort_last_updated = 1467487020
+sort_publish_date = 1467487020
 create_date = "2016-07-02T12:17:00-07:00"
 publish_date = "2016-07-02T12:17:00-07:00"
 date = "2016-07-02T12:17:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4ydBEBknVGihSbILTSqEcQk5ZzMqonN-hiAiu4PioSKtz4HYbYCLhESWahYaU677plXKiqgTXh44NaOobPzNO5fU1Ede8A"
 url = "/webhook-uploads/1467486934114/Baram_GoodPeople_rgb.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 1007315
 
 review_relationship = ""
-author_relationship = ["authors/nir-baram"]
+books_author = ""
 sponsorships_book = ["sponsorships/good-people"]
 notes_relationship = ["notes/a-gripping-drama-from-an-emerging-israeli-novelist"]
 +++

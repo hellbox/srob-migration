@@ -1,8 +1,8 @@
 +++
 index = "-KyX7nRQz4yH7KyE7gL5"
-_sort_create_date = 1510253700
-_sort_last_updated = 1515538200
-_sort_publish_date = 1510776000
+sort_create_date = 1510253700
+sort_last_updated = 1515538200
+sort_publish_date = 1510776000
 create_date = "2017-11-09T10:55:00-08:00"
 publish_date = "2017-11-15T12:00:00-08:00"
 date = "2017-11-15T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Reclaiming the story of women's bodies"
 dek = "Carmen Maria Machado's debut, a finalist for the National Book Award, does beautiful violence to traditional stories about women. It's past time for men to read along."
 facebookauto = "Carmen Maria Machado's debut collection re-writes the narrative around women's bodies and lives -- for women and, especially, for men."
 twitterauto = "In her review of @carmenmmachado's debut collection, @DonnaMiscolta asks who should read stories by and about women."
-byline = ["writers/donna-miscolta"]
+reviews_byline = ["writers/donna-miscolta"]
 books_in_this_review = ["books/her-body-and-other-parties"]
 tags_reviews = ""
-authors_reviews = ["authors/carmen-maria-machado"]
+reviews_about = ""
 +++
 
 As the title of Carmen Maria Machado’s debut collection suggests, the stories in _Her Body and Other Parties_ are about women’s lives and bodies, which means that, above all, men must read them. 

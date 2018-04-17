@@ -1,8 +1,8 @@
 +++
 index = "-K4WgfV8FvjsZaqH4rRz"
-_sort_create_date = 1449043080
-_sort_last_updated = 1449043140
-_sort_publish_date = 1449085800
+sort_create_date = 1449043080
+sort_last_updated = 1449043140
+sort_publish_date = 1449085800
 create_date = "2015-12-01T23:58:00-08:00"
 publish_date = "2015-12-02T11:50:00-08:00"
 date = "2015-12-02T11:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449042654265/alit
 twitterauto = "When writing a book review, is it ever okay to criticize a book's audience?"
 facebookauto = "Is a recent review of \"A Little Life\" guilty of \"goldfinching,\" or punishing the book for being written by and for women?"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-reviews", "tags/new-york-review-of-books"]
-authors_notes = ["authors/hanya-yanagihara"]
+notes_about = ""
 books = ["books/a-little-life"]
 +++
 In [the December issue of the *New York Review of Books*](http://www.nybooks.com/articles/2015/12/17/too-hard-take/), Doubleday executive editor Gerald Howard takes on reviewer Daniel Mendelsohn for [his review of the Doubleday novel *A Little Life*](http://www.nybooks.com/articles/2015/12/03/striptease-among-pals/). Howard's letter concludes: "At bottom Mendelsohn seems to have decided that *A Little Life* just **appeals to the wrong kind of reader**. That’s an invidious distinction unworthy of a critic of his usually fine discernment." 

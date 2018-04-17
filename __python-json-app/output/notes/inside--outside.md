@@ -1,8 +1,8 @@
 +++
 index = "-Kyo-3U7icWtMD89PP9h"
-_sort_create_date = 1510553400
-_sort_last_updated = 1510553880
-_sort_publish_date = 1511286900
+sort_create_date = 1510553400
+sort_last_updated = 1510553880
+sort_publish_date = 1511286900
 create_date = "2017-11-12T22:10:00-08:00"
 publish_date = "2017-11-21T09:55:00-08:00"
 date = "2017-11-21T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510553879943/Scre
 twitterauto = "Our third from Poet in Resident Emily Bedard is titled \"Inside/Outside\""
 facebookauto = "Our third from Poet in Resident Emily Bedard is titled \"Inside/Outside\""
 make_image_tweet = "False"
-byline = ["writers/emily-bedard"]
+notes_byline = ["writers/emily-bedard"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The cantaloupe sits<br>

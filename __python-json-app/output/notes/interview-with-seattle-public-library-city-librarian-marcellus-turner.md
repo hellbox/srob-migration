@@ -1,8 +1,8 @@
 +++
 index = "-K1XIiZGBf29DZcILlNa"
-_sort_create_date = 1445832060
-_sort_last_updated = 1445835480
-_sort_publish_date = 1445885940
+sort_create_date = 1445832060
+sort_last_updated = 1445835480
+sort_publish_date = 1445885940
 create_date = "2015-10-25T21:01:00-07:00"
 publish_date = "2015-10-26T11:59:00-07:00"
 date = "2015-10-26T11:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/laurel-holliday"]
+notes_byline = ["writers/laurel-holliday"]
 tags_notes = ["tags/marcellus-turner", "tags/seattle-public-library", "tags/libraries"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">On Wednesday, October 21, I conducted an email interview with Marcellus Turner (interlocuted by SPL Communications Director Andra Addison), and I asked him three questions about the rebranding effort.</p>

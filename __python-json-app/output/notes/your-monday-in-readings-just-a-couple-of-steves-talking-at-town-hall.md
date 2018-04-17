@@ -1,8 +1,8 @@
 +++
 index = "-KCDnHeZh3ciBRH__mQB"
-_sort_create_date = 1457315940
-_sort_last_updated = 1457315940
-_sort_publish_date = 1457372700
+sort_create_date = 1457315940
+sort_last_updated = 1457315940
+sort_publish_date = 1457372700
 create_date = "2016-03-06T17:59:00-08:00"
 publish_date = "2016-03-07T09:45:00-08:00"
 date = "2016-03-07T09:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457315690952/erup
 twitterauto = "Head to @THSEA tonight for a discussion about the eruption of Mount St. Helens."
 facebookauto = "Tonight's must-attend literary event is the debut of a book about the human cost of the eruption of Mount St. Helens."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/steve-olson"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Your Week in Readings, our weekly column highlighting one amazing event per day, is moving to Wednesdays. But we don't want to leave you without events for two days, so here's a special supplementary listing for today:</p>

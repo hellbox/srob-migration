@@ -1,8 +1,8 @@
 +++
 index = "-L0W0hHg5Gjl6h7jxbll"
-_sort_create_date = 1513456320
-_sort_last_updated = 1513467720
-_sort_publish_date = 1513530000
+sort_create_date = 1513456320
+sort_last_updated = 1513467720
+sort_publish_date = 1513530000
 create_date = "2017-12-16T12:32:00-08:00"
 publish_date = "2017-12-17T09:00:00-08:00"
 date = "2017-12-17T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Jason Guriel argues against reading widely, James Wood subtweets Robert Frost, and more in the Sunday Post."
 facebookauto = "Jason Guriel argues against reading widely, Amanda Petrusich looks at some famous flannel shirts, James Wood subtweets Robert Frost, and more in the Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

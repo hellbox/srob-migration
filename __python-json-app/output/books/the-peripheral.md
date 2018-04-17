@@ -1,8 +1,8 @@
 +++
 index = "-Jr3X-_dkY9UrD-ZAKQl"
-_sort_create_date = 1433521358
-_sort_last_updated = 1433521358
-_sort_publish_date = 1433521358
+sort_create_date = 1433521358
+sort_last_updated = 1433521358
+sort_publish_date = 1433521358
 create_date = "2015-06-05T16:22:38+00:00"
 publish_date = "2015-06-05T16:22:38+00:00"
 date = "2015-06-05T16:22:38+00:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/mRviek76k54kXIufnCFDEGzXCL805qJsg-DO_j6gf3gFlZDyymBRq9u_NrkNHpNxkh6h1YkdQiPSxGPsifWGwhlrbIs"
 url = "/webhook-uploads/1433521358452/content%3Fid%3DVDEqoAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 8227
 
 review_relationship = ""
-author_relationship = ""
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

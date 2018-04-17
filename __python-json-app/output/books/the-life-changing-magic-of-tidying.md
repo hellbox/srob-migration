@@ -1,8 +1,8 @@
 +++
 index = "-KCuXj-Wkgos_-isBjYF"
-_sort_create_date = 1458049800
-_sort_last_updated = 1458050340
-_sort_publish_date = 1458049800
+sort_create_date = 1458049800
+sort_last_updated = 1458050340
+sort_publish_date = 1458049800
 create_date = "2016-03-15T06:50:00-07:00"
 publish_date = "2016-03-15T06:50:00-07:00"
 date = "2016-03-15T06:50:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["House & Home"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/U7xPe-yiYdbWS8z7mVHttOobgW0B7P5bh6KC5pv2-o4NDu5KbcXkgnvw7PzIIVQFDpL6G-xTz6vdGVEdjayoF5Hcm3qr"
 url = "/webhook-uploads/1458049838525/content%3Fid%3Dom6DCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 5668
 
 review_relationship = ["reviews/everybodys-straightening-like-its-a-commercial"]
-author_relationship = ["authors/marie-kondo"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

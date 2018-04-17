@@ -1,8 +1,8 @@
 +++
 index = "-KVE-pcMtfikqaukDwvx"
-_sort_create_date = 1477720620
-_sort_last_updated = 1477720860
-_sort_publish_date = 1478105760
+sort_create_date = 1477720620
+sort_last_updated = 1477720860
+sort_publish_date = 1478105760
 create_date = "2016-10-28T22:57:00-07:00"
 publish_date = "2016-11-02T09:56:00-07:00"
 date = "2016-11-02T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This week, Seattle is hosting both the Short Run Festival and the Cascadia Poetry Festival."
 facebookauto = "This week, Seattle is hosting both the Short Run Festival and the Cascadia Poetry Festival."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run", "tags/cascadia-poetry-festival"]
-authors_notes = ["authors/mita-mahato"]
+notes_about = ""
 books = ""
 +++
 It’s an overwhelming year. We’re all overwhelmed by the presidential election, we’ve been overwhelmed by the continual cycle of cool celebrities dying and the swarm of overwrought tributes to said deceased cool celebrities that flood our social media feeds, and Seattle’s incredible growth — and attendant anxieties — has been impossibly overwhelming all year long. In fact, everything has been overwhelming for so long that we’ve forgotten what it is to feel whelmed.

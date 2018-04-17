@@ -1,8 +1,8 @@
 +++
 index = "-Ksvg7O9QLCP9U1t9OJs"
-_sort_create_date = 1504239960
-_sort_last_updated = 1504240020
-_sort_publish_date = 1504239960
+sort_create_date = 1504239960
+sort_last_updated = 1504240020
+sort_publish_date = 1504239960
 create_date = "2017-08-31T21:26:00-07:00"
 publish_date = "2017-08-31T21:26:00-07:00"
 date = "2017-08-31T21:26:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/AAXAhfFfOMRPaocRdoyo4hUG5sP5P24t-weG-wFP4-zPV1urUfFNXp8Mp_WsSpxo4wxnqynpSZ96voT3UZLfFoDEI8E"
 url = "/webhook-uploads/1504239977280/content%3Fid%3DKEsmDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7268
 
 review_relationship = ["reviews/song-of-the-south"]
-author_relationship = ["authors/joan-didion"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

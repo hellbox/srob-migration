@@ -1,8 +1,8 @@
 +++
 index = "-Kuc62lNlIQvEpXWKtYK"
-_sort_create_date = 1506058920
-_sort_last_updated = 1508967660
-_sort_publish_date = 1508953980
+sort_create_date = 1506058920
+sort_last_updated = 1508967660
+sort_publish_date = 1508953980
 create_date = "2017-09-21T22:42:00-07:00"
 publish_date = "2017-10-25T10:53:00-07:00"
 date = "2017-10-25T10:53:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506058940799/pash
 twitterauto = "Your Week in Readings features a comic about an idealized India and a book about getting lost in clouds."
 facebookauto = "Your Week in Readings features a comic about an idealized India and a book about getting lost in clouds."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 (Note: This calendar originally had a Seattle Arts and Lectures event scheduled for Friday. That event [has been moved to Janauary](https://www.lectures.org/season/special_events.php?id=484). I apologize for any inconvenience this may have caused.)

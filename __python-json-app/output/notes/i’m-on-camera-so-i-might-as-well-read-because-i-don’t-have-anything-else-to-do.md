@@ -1,8 +1,8 @@
 +++
 index = "-K2xd87nqmbNbBZSMLbd"
-_sort_create_date = 1447364400
-_sort_last_updated = 1447364400
-_sort_publish_date = 1447364400
+sort_create_date = 1447364400
+sort_last_updated = 1447364400
+sort_publish_date = 1447364400
 create_date = "2015-11-12T13:40:00-08:00"
 publish_date = "2015-11-12T13:40:00-08:00"
 date = "2015-11-12T13:40:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump", "tags/johari-osayi-idusuyi"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Kara Brown's interview with [Johari Osayi Idusuyi](http://theslot.jezebel.com/a-conversation-with-johari-osayi-idusuyi-the-hero-who-1742082010), the woman who read *Citizen* at a Trump rally and thereby [became an instant celebrity](http://seattlereviewofbooks.com/notes/2015/11/11/trolling-trump-with-reading/), wins the internet today. Just perfect. 

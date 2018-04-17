@@ -1,8 +1,8 @@
 +++
 index = "-KVrdSlNzW4joMgZmFLz"
-_sort_create_date = 1478402340
-_sort_last_updated = 1478402340
-_sort_publish_date = 1478638860
+sort_create_date = 1478402340
+sort_last_updated = 1478402340
+sort_publish_date = 1478638860
 create_date = "2016-11-05T20:19:00-07:00"
 publish_date = "2016-11-08T13:01:00-08:00"
 date = "2016-11-08T13:01:00-08:00"
@@ -13,10 +13,10 @@ title = "I like to be in America"
 dek = "\nDonna Miscolta\u2019s exquisite short stories about Mexican-American immigrants are the balm for our troubulent times.\n"
 facebookauto = "The stories in Seattle author Donna Miscolta's new book are the perfect response to Donald Trump's Deplorable America."
 twitterauto = "Seattle author @DonnaMiscolta's short stories are the perfect response to Deplorable America."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/hola-and-goodbye"]
 tags_reviews = ["tags/short-stories", "tags/fiction"]
-authors_reviews = ["authors/donna-miscolta"]
+reviews_about = ""
 +++
 
 Fairly or unfairly, short stories set in the domestic sphere of the American 20th Century tend to live in the shade of the two famous white Johns — Updike and Cheever. Those two men have become synonymous with midcentury ennui of the upper middle class, a style which has been parodied and mocked and prized apart with postmodern angst and fastidiously replicated by sincere young writers, even to this day, in mainstream literary journals.

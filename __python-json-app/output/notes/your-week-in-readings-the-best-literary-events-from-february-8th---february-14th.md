@@ -1,8 +1,8 @@
 +++
 index = "-KbwGI4v4biUo7PjGQrq"
-_sort_create_date = 1485996060
-_sort_last_updated = 1485997200
-_sort_publish_date = 1486584060
+sort_create_date = 1485996060
+sort_last_updated = 1485997200
+sort_publish_date = 1486584060
 create_date = "2017-02-01T16:41:00-08:00"
 publish_date = "2017-02-08T12:01:00-08:00"
 date = "2017-02-08T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485995889421/Scre
 twitterauto = "Your week in readings features bees and a Valentine's inquiry into love."
 facebookauto = "Your week in readings features bees, the Great American Novel, bees, a Valentine's inquiry into the nature of love, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle"]
-authors_notes = ["authors/chimamanda-ngozi-adichie"]
+notes_about = ""
 books = ["books/americanah"]
 +++
 <p class="noindent"><h5>**Wednesday February 8th: *Life in a Fishbowl* and *Nowhere Near You* Reading

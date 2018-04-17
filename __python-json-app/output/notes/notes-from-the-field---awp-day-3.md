@@ -1,8 +1,8 @@
 +++
 index = "-KERmKVHKbaLYo6TdFeZ"
-_sort_create_date = 1459698060
-_sort_last_updated = 1459786740
-_sort_publish_date = 1459706400
+sort_create_date = 1459698060
+sort_last_updated = 1459786740
+sort_publish_date = 1459706400
 create_date = "2016-04-03T08:41:00-07:00"
 publish_date = "2016-04-03T11:00:00-07:00"
 date = "2016-04-03T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "On #AWP16's final day @RachelLaKessler finds a poet waylaid by a Hollywood explosion."
 facebookauto = "It's the last day of AWP, and the book sellers are letting their stock go cheap so they don't have to haul them home. Rachel Kessler finds the poets, and finds the poetry. "
 make_image_tweet = "False"
-byline = ["writers/rachel-kessler"]
+notes_byline = ["writers/rachel-kessler"]
 tags_notes = ["tags/notes-from-the-field"]
-authors_notes = ["authors/victoria-chang", "authors/kevin-young", "authors/kimiko-hahn", "authors/mark-doty", "authors/melissa-stein", "authors/anis-mojgani", "authors/rachel-mckibbens", "authors/cody-walker"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Correspondant Rachel Kessler agreed to be our eyes-on-the-ground at the AWP festival this year. Join us for her daily updates as the conference unfolds.</p>

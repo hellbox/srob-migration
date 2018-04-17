@@ -1,8 +1,8 @@
 +++
 index = "-KvZF22czSnj5VLQCh6f"
-_sort_create_date = 1507067940
-_sort_last_updated = 1507068540
-_sort_publish_date = 1507741140
+sort_create_date = 1507067940
+sort_last_updated = 1507068540
+sort_publish_date = 1507741140
 create_date = "2017-10-03T14:59:00-07:00"
 publish_date = "2017-10-11T09:59:00-07:00"
 date = "2017-10-11T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507067842873/crop
 twitterauto = "Your literary event of the week is the Cascadia Poetry Festival!"
 facebookauto = "Your literary event of the week is the Cascadia Poetry Festival!"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/cascadia-poetry-festival", "tags/poetry-northwest", "tags/wave-books", "tags/pageboy", "tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The idea of Cascadia has occasionally been held aloft by people who represent questionable causes. White supremacists love the idea of a free Caucasian Cascadia, for instance, and there are a couple of loudmouth anarchists in the Seattle area who love to bore folks at parties with their improbable vision of a utopian lawless barter economy.

@@ -1,8 +1,8 @@
 +++
 index = "-KZUEIz4zQXxZHmxqeH0"
-_sort_create_date = 1482287820
-_sort_last_updated = 1482381120
-_sort_publish_date = 1482436800
+sort_create_date = 1482287820
+sort_last_updated = 1482381120
+sort_publish_date = 1482436800
 create_date = "2016-12-20T18:37:00-08:00"
 publish_date = "2016-12-22T12:00:00-08:00"
 date = "2016-12-22T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's December's Criminal Fiction column, by @daneetsteffens!"
 facebookauto = "It's December's Criminal Fiction column, by Daneet Steffens!"
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/o-henry", "authors/edith-wharton", "authors/edgar-allan-poe", "authors/aj-banner", "authors/federico-axat", "authors/catriona-mcpherson", "authors/anne-holt", "authors/jayne-ann-krentz"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

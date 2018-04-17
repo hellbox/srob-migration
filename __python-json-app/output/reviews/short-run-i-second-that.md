@@ -1,8 +1,8 @@
 +++
 index = "-K2AfQrpruwqMEcXYCIx"
-_sort_create_date = 1446526140
-_sort_last_updated = 1446591180
-_sort_publish_date = 1446588000
+sort_create_date = 1446526140
+sort_last_updated = 1446591180
+sort_publish_date = 1446588000
 create_date = "2015-11-02T20:49:00-08:00"
 publish_date = "2015-11-03T14:00:00-08:00"
 date = "2015-11-03T14:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Short Run: I second that"
 dek = "We already covered the Short Run Comix and Arts Festival once, but it was so much fun we had to do it again. "
 facebookauto = "Here's another take on the Short Run Comix and Arts Festival. With a festival this big, everybody who goes in has a completely different experience."
 twitterauto = "A second take on @shortrunseattle. Because it was so much fun we couldn't resist. "
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/bug-boys", "books/sea", "books/nightmare", "books/greetings-from-cat-city-b--w-the-gluten-free-hobo", "books/cat-city", "books/i-[heart]-twin-peaks", "books/revolt-they-say", "books/my-body-is-a-book-of-rules"]
 tags_reviews = ["tags/short-run", "tags/comics"]
-authors_reviews = ["authors/aaron-bagley", "authors/jessixa-bagley", "authors/mita-mahato", "authors/elissa-washuta", "authors/laura-knetzger", "authors/andrea-geyer"]
+reviews_about = ""
 +++
 
 <p class="image-hero">![](/webhook-uploads/1446528603140/IMG_0698.JPG)</p>

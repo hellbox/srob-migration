@@ -1,8 +1,8 @@
 +++
 index = "-KF7djUTLnstCM1qVO0w"
-_sort_create_date = 1460434020
-_sort_last_updated = 1460435220
-_sort_publish_date = 1460485800
+sort_create_date = 1460434020
+sort_last_updated = 1460435220
+sort_publish_date = 1460485800
 create_date = "2016-04-11T21:07:00-07:00"
 publish_date = "2016-04-12T11:30:00-07:00"
 date = "2016-04-12T11:30:00-07:00"
@@ -13,10 +13,10 @@ title = "Please note that we didn't publish this review at 4:20"
 dek = "David Schmader's new book about weed is here. Is it worth cracking? What if you're a weed expert? What if you're a weed newbie?"
 facebookauto = "David Schmader's new book about weed is here. We turned to subject expert, and marijuana journalist, Al Olson to give us his take."
 twitterauto = "We turned to @alolson59 to peek inside @davidschmader's new book about weed."
-byline = ["writers/al-olson"]
+reviews_byline = ["writers/al-olson"]
 books_in_this_review = ["books/weed-the-users-guide"]
 tags_reviews = ["tags/marijuana"]
-authors_reviews = ["authors/david-schmader"]
+reviews_about = ""
 +++
 
 Humans have enjoyed marijuana for about 12,000 years. It is now recreationally legal in four states and medically legal in roughly half of the country. In America, 18.9 million have sparked a joint in the past 30 days. 

@@ -1,8 +1,8 @@
 +++
 index = "-L-AUNWT_XZPxf79k87X"
-_sort_create_date = 1512021240
-_sort_last_updated = 1512629760
-_sort_publish_date = 1512676800
+sort_create_date = 1512021240
+sort_last_updated = 1512629760
+sort_publish_date = 1512676800
 create_date = "2017-11-29T21:54:00-08:00"
 publish_date = "2017-12-07T12:00:00-08:00"
 date = "2017-12-07T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512021535188/midn
 twitterauto = "Kissing Books time! @O_Waite reviews @suleikhasnyder, @AlyssaColeLit, and more!"
 facebookauto = "Kissing Books time! Olivia Waite reviews Suleikha Snyder, Alyssa Cole, and more!"
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/kissing-books"]
-authors_notes = ["authors/jeannie-lin", "authors/jane-austen", "authors/margaret-mitchell", "authors/mary-balogh", "authors/susanne-lord", "authors/genevieve-turner", "authors/suleikha-snyder", "authors/alyssa-cole", "authors/beverly-jenkins", "authors/kathleen-woodiwiss", "authors/laura-ingalls-wilder", "authors/eloisa-james", "authors/charlotte-bront\u00eb", "authors/bertrice-small", "authors/stephanie-laurens"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">New Column! Every month, Olivia Waite pulls back the covers, revealing the very best in new, and classic, romance. We're extending a hand to you. Won't you take it?</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L9H-AQpd91ZgXJAjiVc"
-_sort_create_date = 1522867920
-_sort_last_updated = 1522867920
-_sort_publish_date = 1522872240
+sort_create_date = 1522867920
+sort_last_updated = 1522867920
+sort_publish_date = 1522872240
 create_date = "2018-04-04T11:52:00-07:00"
 publish_date = "2018-04-04T13:04:00-07:00"
 date = "2018-04-04T13:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/librarians"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Yes, the world is terrible, but every now and then you deserve a good thing. Follow this thread. I swear it's worth it.  

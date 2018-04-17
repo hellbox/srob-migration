@@ -1,8 +1,8 @@
 +++
 index = "-K6UAoizNhGUbuzyCSyJ"
-_sort_create_date = 1451148360
-_sort_last_updated = 1451148360
-_sort_publish_date = 1451149200
+sort_create_date = 1451148360
+sort_last_updated = 1451148360
+sort_publish_date = 1451149200
 create_date = "2015-12-26T08:46:00-08:00"
 publish_date = "2015-12-26T09:00:00-08:00"
 date = "2015-12-26T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's the penultimate @rahawahaile short story wrap up! With @renattalaundry, @margaretmalone, and many others."
 facebookauto = "The penultimate Rahawa Haile short story wrap up is here! Some great short stories for your holiday weekend. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/short-story-of-the-day"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the SRoB Rahawa Haile tweets a short story. She gave us permission to collect them every week. She's archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a>. 

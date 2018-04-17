@@ -1,8 +1,8 @@
 +++
 index = "-KYXHlqWT98NYj58Q231"
-_sort_create_date = 1481265300
-_sort_last_updated = 1481613060
-_sort_publish_date = 1482350460
+sort_create_date = 1481265300
+sort_last_updated = 1481613060
+sort_publish_date = 1482350460
 create_date = "2016-12-08T22:35:00-08:00"
 publish_date = "2016-12-21T12:01:00-08:00"
 date = "2016-12-21T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481264842667/femi
 twitterauto = "This week in readings includes a punk rock flea market and a library tour."
 facebookauto = "This week in readings includes a punk rock flea market and a library tour."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday December 21st: *Take Back the Sky* Reading**</h5></p> 

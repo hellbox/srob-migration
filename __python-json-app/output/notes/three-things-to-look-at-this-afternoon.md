@@ -1,8 +1,8 @@
 +++
 index = "-KDMDKGv8Qfprmquj_d-"
-_sort_create_date = 1458531000
-_sort_last_updated = 1458531000
-_sort_publish_date = 1458591180
+sort_create_date = 1458531000
+sort_last_updated = 1458531000
+sort_publish_date = 1458591180
 create_date = "2016-03-20T20:30:00-07:00"
 publish_date = "2016-03-21T13:13:00-07:00"
 date = "2016-03-21T13:13:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's some book-related art we're admiring today."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/public-art", "tags/book-art"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 1. The (I guess NSFW, maybe?) photograph of [the "naked language mural" by artist Vladimiro Lunardon up at The New Post-Literate](http://thenewpostliterate.blogspot.com/2016/03/naked-language-mural-by-vladimiro.html) is a thing of beauty. It's exactly what reading great literature feels like to me. Lunardon's art employs [lots of writing-like imagery](https://www.facebook.com/Vladimiro-lunardon-146087905413487/photos_stream), and some of it is really quite beautiful.

@@ -1,8 +1,8 @@
 +++
 index = "-KHhbLaToZyVzhewHzmw"
-_sort_create_date = 1463201640
-_sort_last_updated = 1463201640
-_sort_publish_date = 1463201640
+sort_create_date = 1463201640
+sort_last_updated = 1463201640
+sort_publish_date = 1463201640
 create_date = "2016-05-13T21:54:00-07:00"
 publish_date = "2016-05-13T21:54:00-07:00"
 date = "2016-05-13T21:54:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bMe9X5RjOymQmN4zwU2Lef1yLWAiY2O61uYJM5mPlQTFfNpdP6Hu4wmVR4hQL6i0Jb8VipQKNBV_Fa3bNHemOHp2guGb"
 url = "/webhook-uploads/1463201509029/wonderland.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 1119586
 
 review_relationship = ["reviews/your-wonderland-is-a-body"]
-author_relationship = ["authors/sam-ligon"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KTeDvLTuwyp24wj0m00"
-_sort_create_date = 1476029820
-_sort_last_updated = 1476030120
-_sort_publish_date = 1476030600
+sort_create_date = 1476029820
+sort_last_updated = 1476030120
+sort_publish_date = 1476030600
 create_date = "2016-10-09T09:17:00-07:00"
 publish_date = "2016-10-09T09:30:00-07:00"
 date = "2016-10-09T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Plums, Shirley Jackson as a mother, quality in kid-lit, and Lynd Ward, all in today's Sunday Post."
 facebookauto = "Plums, Shirley Jackson as a mother, quality in kid-lit, and Lynd Ward, all in today's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="https://lareviewofbooks.org/article/dark-fruit-cultural-personal-history-plum/#!" title="Dark Fruit: A Cultural and Personal History of the Plum - Los Angeles Review of Books">Dark Fruit: A Cultural and Personal History of the Plum</a></h5>

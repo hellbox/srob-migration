@@ -1,8 +1,8 @@
 +++
 index = "-KawZ6Ajn4j6rIJyYaLJ"
-_sort_create_date = 1484927280
-_sort_last_updated = 1484927340
-_sort_publish_date = 1484927280
+sort_create_date = 1484927280
+sort_last_updated = 1484927340
+sort_publish_date = 1484927280
 create_date = "2017-01-20T07:48:00-08:00"
 publish_date = "2017-01-20T07:48:00-08:00"
 date = "2017-01-20T07:48:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["True Crime"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kGv75DFy3X-5nek4mBD26FlRFreJ_aPPss4IDboLMYrz6Zu2_cdmTeiaDpOJyfX_2EdGGWR9SZa8d5XaL_QuHxSOT5fk"
 url = "/webhook-uploads/1484927299973/content%3Fid%3DMB9TjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7881
 
 review_relationship = ["reviews/quid-pro-quo"]
-author_relationship = ["authors/claudia-rowe"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

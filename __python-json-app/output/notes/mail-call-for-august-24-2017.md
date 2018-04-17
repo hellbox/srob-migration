@@ -1,8 +1,8 @@
 +++
 index = "-KsMabNhywUv-vyhnhyU"
-_sort_create_date = 1503634500
-_sort_last_updated = 1503635640
-_sort_publish_date = 1503634500
+sort_create_date = 1503634500
+sort_last_updated = 1503635640
+sort_publish_date = 1503634500
 create_date = "2017-08-24T21:15:00-07:00"
 publish_date = "2017-08-24T21:15:00-07:00"
 date = "2017-08-24T21:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503634514060/IMG_
 twitterauto = "Mail Call! A nice tall stack with some amazing looking stuff. "
 facebookauto = "Mail Call! A nice tall stack with some amazing looking stuff. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1503634514060/IMG_8660.jpg)</p>

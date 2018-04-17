@@ -1,8 +1,8 @@
 +++
 index = "-KY5vUtXlXS51KpPyFtk"
-_sort_create_date = 1480806180
-_sort_last_updated = 1480830720
-_sort_publish_date = 1480872600
+sort_create_date = 1480806180
+sort_last_updated = 1480830720
+sort_publish_date = 1480872600
 create_date = "2016-12-03T15:03:00-08:00"
 publish_date = "2016-12-04T09:30:00-08:00"
 date = "2016-12-04T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post: Adichie, silent men, Alphabet's Jigsaw (is that english?), Nintendo and other interesting stories. "
 facebookauto = "The Sunday Post: Adichie, silent men, Alphabet's Jigsaw (is that english?), Nintendo and other interesting stories. "
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/chimamanda-ngozi-adichie"]
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.newyorker.com/culture/cultural-comment/now-is-the-time-to-talk-about-what-we-are-actually-talking-about" title="Now is the time to talk about what we are actually talking about - The New Yorker">Now is the time to talk about what we are actually talking about</a></h5>

@@ -1,8 +1,8 @@
 +++
 index = "-L9O4LbV2IKnnK9KNKV9"
-_sort_create_date = 1522986720
-_sort_last_updated = 1522986720
-_sort_publish_date = 1523034000
+sort_create_date = 1522986720
+sort_last_updated = 1522986720
+sort_publish_date = 1523034000
 create_date = "2018-04-05T20:52:00-07:00"
 publish_date = "2018-04-06T10:00:00-07:00"
 date = "2018-04-06T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522986498044/tapi
 twitterauto = "It's time for @aaronbaglady's Dream Comics!"
 facebookauto = "It's time for Aaron Bagley's Dream Comics!"
 make_image_tweet = "True"
-byline = ["writers/aaron-bagley"]
+notes_byline = ["writers/aaron-bagley"]
 tags_notes = ["tags/aaron-bagleys-dream-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image"><a href="/webhook-uploads/1522986398862/tapin%20going%20on%201.jpg" target="_blank">![](/webhook-uploads/1522986398862/tapin%20going%20on%201.jpg)</a></p>

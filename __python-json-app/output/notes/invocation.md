@@ -1,8 +1,8 @@
 +++
 index = "-KcLUcJNDiBGTTTeqtX0"
-_sort_create_date = 1486436040
-_sort_last_updated = 1486490340
-_sort_publish_date = 1486490100
+sort_create_date = 1486436040
+sort_last_updated = 1486490340
+sort_publish_date = 1486490100
 create_date = "2017-02-06T18:54:00-08:00"
 publish_date = "2017-02-07T09:55:00-08:00"
 date = "2017-02-07T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our first poem from February's Poet in Residence, JT Stewart, is for August Wilson, and is titled \"Invocation\""
 facebookauto = "Our first poem from February's Poet in Residence, JT Stewart, is for August Wilson, and is titled \"Invocation\""
 make_image_tweet = "False"
-byline = ["writers/jt-stewart"]
+notes_byline = ["writers/jt-stewart"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">_And God said "&hellip; I'm lonely_<br>

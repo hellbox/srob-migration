@@ -1,8 +1,8 @@
 +++
 index = "-KlOug6AveI22IsnQMgM"
-_sort_create_date = 1496157120
-_sort_last_updated = 1496179380
-_sort_publish_date = 1496174400
+sort_create_date = 1496157120
+sort_last_updated = 1496179380
+sort_publish_date = 1496174400
 create_date = "2017-05-30T08:12:00-07:00"
 publish_date = "2017-05-30T13:00:00-07:00"
 date = "2017-05-30T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494270703452/etiq
 twitterauto = "Sponsor @anne_mendel brings class to Portland after the fall."
 facebookauto = "Sponsor Anne Mendel brings class to Portland after the fall."
 make_image_tweet = "True"
-byline = ""
+notes_byline = ""
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1494270703452/etiquette.jpg)</p>

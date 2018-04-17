@@ -1,8 +1,8 @@
 +++
 index = "-KQ-CHFdzw8J-0EuHsLa"
-_sort_create_date = 1472103480
-_sort_last_updated = 1472103480
-_sort_publish_date = 1472490000
+sort_create_date = 1472103480
+sort_last_updated = 1472103480
+sort_publish_date = 1472490000
 create_date = "2016-08-24T22:38:00-07:00"
 publish_date = "2016-08-29T10:00:00-07:00"
 date = "2016-08-29T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Did you know you can buy audio books from Seattle-area independent booksellers? "
 facebookauto = "Did you know you can buy audio books from Seattle-area independent booksellers? "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/audio-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you're at all like me, you've stood in a record store and felt a sick pang in your gut as you realized that you don't own a CD player anymore.  Somehow — I blame hypnosis — computer manufacturers tricked us into giving up physical media in exchange for a few millimeters of laptop thinness. We're not buying CDs anymore, we're downloading our audio entertainment. And that goes for audio books, too.

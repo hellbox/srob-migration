@@ -1,8 +1,8 @@
 +++
 index = "-KmNrI6RMU0EM6gdkH2X"
-_sort_create_date = 1497213240
-_sort_last_updated = 1497213240
-_sort_publish_date = 1497545700
+sort_create_date = 1497213240
+sort_last_updated = 1497213240
+sort_publish_date = 1497545700
 create_date = "2017-06-11T13:34:00-07:00"
 publish_date = "2017-06-15T09:55:00-07:00"
 date = "2017-06-15T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497211239581/womb
 twitterauto = "Tomorrow, be sure to celebrate Wombgenda, the newest comic from @TatsGill."
 facebookauto = "Tomorrow, Seattle cartoonist Tatiana Gill releases her newest comic Wombgenda, a comic about women's health, body image issues, and what it means to be a woman in Seattle in 2017."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics-bookstore-&amp;-gallery"]
-authors_notes = ["authors/tatiana-gill"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1497211239581/wombgenda.jpg)</p>

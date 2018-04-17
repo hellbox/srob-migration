@@ -1,8 +1,8 @@
 +++
 index = "-Km90ebaiOf1Fu4eCpwQ"
-_sort_create_date = 1496964300
-_sort_last_updated = 1497320640
-_sort_publish_date = 1497286440
+sort_create_date = 1496964300
+sort_last_updated = 1497320640
+sort_publish_date = 1497286440
 create_date = "2017-06-08T16:25:00-07:00"
 publish_date = "2017-06-12T09:54:00-07:00"
 date = "2017-06-12T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496963260253/978-
 twitterauto = "This weekend, the Comics and Medicine Conference comes to town. We talked with a founder about its origins:"
 facebookauto = "This weekend, the Comics and Medicine Conference comes to town. We talked with a founder about its origins and why she believes that everyone should be interested in the intersection between graphic novels and healthcare."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/comics-&amp;-medicine-conference"]
-authors_notes = ["authors/ellen-forney", "authors/mita-mahato", "authors/david-lasky"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1496963260253/978-0-271-07818-2md_294.jpg)</p>

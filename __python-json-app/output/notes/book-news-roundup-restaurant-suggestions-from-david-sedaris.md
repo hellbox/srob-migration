@@ -1,8 +1,8 @@
 +++
 index = "-L2RDRNnTWVrd9JzPcmg"
-_sort_create_date = 1515523260
-_sort_last_updated = 1515523560
-_sort_publish_date = 1515531000
+sort_create_date = 1515523260
+sort_last_updated = 1515523560
+sort_publish_date = 1515531000
 create_date = "2018-01-09T10:41:00-08:00"
 publish_date = "2018-01-09T12:50:00-08:00"
 date = "2018-01-09T12:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Why don't you serve more corndogs and stuff with olives in it?\""
 facebookauto = "\"Why don't you serve more corndogs and stuff with olives in it?\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/pageboy"]
-authors_notes = ["authors/david-sedaris"]
+notes_about = ""
 books = ""
 +++
 * We got a very interesting call for submissions from [*PageBoy Magazine*](http://www.seattlereviewofbooks.com/reviews/writing-in-between-the-lines/):

@@ -1,8 +1,8 @@
 +++
 index = "-Ju8L1LBsYdorbUJT8Dj"
-_sort_create_date = 1436823300
-_sort_last_updated = 1436823300
-_sort_publish_date = 1436823300
+sort_create_date = 1436823300
+sort_last_updated = 1436823300
+sort_publish_date = 1436823300
 create_date = "2015-07-13T14:35:00-07:00"
 publish_date = "2015-07-13T14:35:00-07:00"
 date = "2015-07-13T14:35:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In letters to the Justice Department, authors and booksellers allege that "Amazon has used its dominance in ways that we believe harm the interests of America’s readers, impoverish the book industry as a whole, damage the careers of (and generate fear among) many authors, and impede the free flow of ideas in our society.” 

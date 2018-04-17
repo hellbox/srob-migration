@@ -1,8 +1,8 @@
 +++
 index = "-KSPUVbzI6MtinJfjbhg"
-_sort_create_date = 1474691940
-_sort_last_updated = 1474692060
-_sort_publish_date = 1474821000
+sort_create_date = 1474691940
+sort_last_updated = 1474692060
+sort_publish_date = 1474821000
 create_date = "2016-09-23T21:39:00-07:00"
 publish_date = "2016-09-25T09:30:00-07:00"
 date = "2016-09-25T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Liking Clinton, reconstruction obstructionism, instant media affects, and rocking black women, in the Sunday Post."
 facebookauto = "Liking Clinton, reconstruction obstructionism, instant media affects, and rocking black women, in the Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.glamour.com/story/sady-doyle-hillary-clinton-likability-and-women-in-power?mbid=social_twitter_referral" title="What We&amp;#x27;re Saying When We Talk About Hillary Clinton&amp;#x27;s &amp;quot;Likability&amp;quot; | Glamour">What We're Saying When We Talk About Hillary Clinton's "Likability"</a></h5>

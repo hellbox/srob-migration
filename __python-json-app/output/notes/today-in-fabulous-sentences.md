@@ -1,8 +1,8 @@
 +++
 index = "-K7SmimgWwsdsyB5MCXG"
-_sort_create_date = 1452198780
-_sort_last_updated = 1452198780
-_sort_publish_date = 1452198780
+sort_create_date = 1452198780
+sort_last_updated = 1452198780
+sort_publish_date = 1452198780
 create_date = "2016-01-07T12:33:00-08:00"
 publish_date = "2016-01-07T12:33:00-08:00"
 date = "2016-01-07T12:33:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452198615663/Scre
 twitterauto = "You should make a resolution to join \u200f@EmWatson's feminist book club."
 facebookauto = "Emma Watson is starting a book club. Wait! That's not the best part. Emma Watson is starting a feminist book club. We would like to join immediately, please."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/emma-watson", "tags/book-club", "tags/feminism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Emma Watson is [starting a feminist book club](http://www.latimes.com/books/jacketcopy/la-et-jc-emma-watson-feminist-book-club-20160107-story.html?utm_source=dlvr.it&utm_medium=twitter&dlvrit=717819).

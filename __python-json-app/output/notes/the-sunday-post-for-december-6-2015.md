@@ -1,8 +1,8 @@
 +++
 index = "-K4l5hVYbHTxI3fJSqUV"
-_sort_create_date = 1449301560
-_sort_last_updated = 1449302580
-_sort_publish_date = 1449424500
+sort_create_date = 1449301560
+sort_last_updated = 1449302580
+sort_publish_date = 1449424500
 create_date = "2015-12-04T23:46:00-08:00"
 publish_date = "2015-12-06T09:55:00-08:00"
 date = "2015-12-06T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In today's Sunday Post, a piece about jury duty, and a piece by @brophy_murdoch"
 facebookauto = "The Sunday Post, today: a true story of Jury Duty, and one of Iris Murdoch's confidants and lovers comes clean. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Jury Duty](https://medium.com/@jurornumber5/jury-duty-b354a53f126e#.6e8l66dws)</h5>

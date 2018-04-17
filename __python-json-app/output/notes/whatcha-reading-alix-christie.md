@@ -1,8 +1,8 @@
 +++
 index = "-L5XB3b5wlEnNT1dGB0o"
-_sort_create_date = 1518844500
-_sort_last_updated = 1518844500
-_sort_publish_date = 1518888600
+sort_create_date = 1518844500
+sort_last_updated = 1518844500
+sort_publish_date = 1518888600
 create_date = "2018-02-16T21:15:00-08:00"
 publish_date = "2018-02-17T09:30:00-08:00"
 date = "2018-02-17T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518844372384/alix
 twitterauto = "We asked @alixechristie what she was reading, and she was kind enough to tell us."
 facebookauto = "We asked Alix Christie what she was reading, and she was kind enough to tell us."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/whatcha-reading"]
-authors_notes = ["authors/alix-christie"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week we ask an interesting figure what they're digging into. Have ideas who we should reach out to? Let it fly: [info@seattlereviewofbooks.com](mailto:info@seattlereviewofbooks.com). Want to read more? Check out the [archives](http://www.seattlereviewofbooks.com/tags/whatcha-reading).</p>

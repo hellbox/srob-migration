@@ -1,8 +1,8 @@
 +++
 index = "-KBqGIHfwgyCN8BZNOvg"
-_sort_create_date = 1456904400
-_sort_last_updated = 1456940640
-_sort_publish_date = 1456904400
+sort_create_date = 1456904400
+sort_last_updated = 1456940640
+sort_publish_date = 1456904400
 create_date = "2016-03-01T23:40:00-08:00"
 publish_date = "2016-03-01T23:40:00-08:00"
 date = "2016-03-01T23:40:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456904008400/open
 twitterauto = "The owner of Open Books is retiring. Anyone want to buy a poetry bookstore?"
 facebookauto = "The owner of Open Books, John Marshall, is retiring from bookselling. He's looking for someone to take over ownership of Open Books. So, uh, want to own one of the two poetry bookstores in America?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/open-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We just got an e-mail from John Marshall, the [co-owner of Open Books in Wallingford](http://www.openpoetrybooks.com/about/). (If you've never been, Open Books is one of a handful of poetry bookstores in the United States. And also, shame on you for living in Seattle and never going to Open Books.) Here it is, in its entirety:

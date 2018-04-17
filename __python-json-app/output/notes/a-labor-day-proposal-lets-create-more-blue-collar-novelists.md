@@ -1,8 +1,8 @@
 +++
 index = "-KstnetGzLPmW5Tmqhgo"
-_sort_create_date = 1504208340
-_sort_last_updated = 1504208340
-_sort_publish_date = 1504544340
+sort_create_date = 1504208340
+sort_last_updated = 1504208340
+sort_publish_date = 1504544340
 create_date = "2017-08-31T12:39:00-07:00"
 publish_date = "2017-09-04T09:59:00-07:00"
 date = "2017-09-04T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465017392855/lika
 twitterauto = "This Labor Day, let's try to imagine a world where authors are paid decent salaries for their labor."
 facebookauto = "This Labor Day, let's try to imagine a world where authors are paid decent salaries for their labor."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/labor"]
-authors_notes = ["authors/adam-rakunas"]
+notes_about = ""
 books = ["books/windswept", "books/like-a-boss"]
 +++
 It's a well-known fact that America moved its celebration of labor from May 1st, when the rest of the world observes it, to September. The reason why is clear:  government leaders were concerned that celebrating labor on May Day would encourage socialism. Because of that shift in date, Labor Day is celebrated as the early end of summer in the US. Americans barely acknowledge workers at all over Labor Day weekend — especially if we’re lucky enough to get the weekend off. (Shout-out to all you booksellers working today. We see you.) 

@@ -1,8 +1,8 @@
 +++
 index = "-L4drJ1SysmoIBqLX0QM"
-_sort_create_date = 1517899560
-_sort_last_updated = 1517899560
-_sort_publish_date = 1517899560
+sort_create_date = 1517899560
+sort_last_updated = 1517899560
+sort_publish_date = 1517899560
 create_date = "2018-02-05T22:46:00-08:00"
 publish_date = "2018-02-05T22:46:00-08:00"
 date = "2018-02-05T22:46:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jAujuBqJOJMXt_B_9JHE5hqCwqAUp_KRdnYYVVcPtxPZ912GBt9S-2_lHuAm8rOLwOm1XxcULB0v_7XXOodbBgvj3wHe"
 url = "/webhook-uploads/1517899562562/content%3Fid%3DpYLwnAAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 14076
 
 review_relationship = ["reviews/the-dark-side-of-the-sun"]
-author_relationship = ["authors/ross-mcmeekin"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-16th---april-22nd"]
 +++

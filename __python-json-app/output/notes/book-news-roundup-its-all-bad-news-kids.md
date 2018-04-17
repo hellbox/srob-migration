@@ -1,8 +1,8 @@
 +++
 index = "-KtUfvYlHW0nbUkXvykZ"
-_sort_create_date = 1504843860
-_sort_last_updated = 1504843860
-_sort_publish_date = 1504896300
+sort_create_date = 1504843860
+sort_last_updated = 1504843860
+sort_publish_date = 1504896300
 create_date = "2017-09-07T21:11:00-07:00"
 publish_date = "2017-09-08T11:45:00-07:00"
 date = "2017-09-08T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sorry, folks, but today's Book News Roundup is packed with bad news."
 facebookauto = "Sorry, folks, but today's Book News Roundup is packed with bad news."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/amazon", "tags/barnes-&amp;-noble", "tags/hillary-clinton"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Regarding yesterday's news that [Amazon is looking to build an "equal" headquarters in some other North American city than Seattle](https://www.recode.net/2017/9/7/16266142/new-amazon-headquarters-rfp-north-america): I was a bookseller for twelve years, first [at a chain that Amazon destroyed](https://medium.com/@paulconstant/books-without-borders-b8ccb08b5b8a) and then at an independent bookseller. I have learned through painful experience never to trust Amazon. Yes, it's probably true that Amazon will soon be too big for Seattle alone. But if you think Amazon isn't going to use this opportunity to pit one "headquarters" city against another in a race to the bottom, you're mistaken. They will gladly take Seattle's future hostage in exchange for a shiny new tax cut. I have learned from experience that Amazon will do whatever it takes to come out on top.

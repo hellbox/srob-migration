@@ -1,8 +1,8 @@
 +++
 index = "-Kd4y0H607SQHoTHZNe8"
-_sort_create_date = 1487232540
-_sort_last_updated = 1487370360
-_sort_publish_date = 1487707740
+sort_create_date = 1487232540
+sort_last_updated = 1487370360
+sort_publish_date = 1487707740
 create_date = "2017-02-16T00:09:00-08:00"
 publish_date = "2017-02-21T12:09:00-08:00"
 date = "2017-02-21T12:09:00-08:00"
@@ -13,10 +13,10 @@ title = "The Seattle globalist"
 dek = "Maged Zaher\u2019s new book is a biography of sex, software, and worldwide revolution.\n"
 facebookauto = "Maged Zaher's latest poetry collection is a story of how a horny poet becomes a fiercely political global citizen."
 twitterauto = "Maged Zaher's latest collection explains how a horny poet becomes a fiercely political global citizen."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/opting-out"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/maged-zaher"]
+reviews_about = ""
 +++
 
 There comes a time in every poet’s life when they must set aside their lofty goals and get on down to the pressing business of fucking. I’m not talking about flowery love poems — I mean the kind of horny writing that drops all metaphor and imagery and makes it clear that genital-to-genital contact is about to happen. 

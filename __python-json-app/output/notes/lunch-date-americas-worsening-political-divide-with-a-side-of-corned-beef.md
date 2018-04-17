@@ -1,8 +1,8 @@
 +++
 index = "-KdvwlnBE7b4KJXCAO-M"
-_sort_create_date = 1488138180
-_sort_last_updated = 1488138420
-_sort_publish_date = 1488225540
+sort_create_date = 1488138180
+sort_last_updated = 1488138420
+sort_publish_date = 1488225540
 create_date = "2017-02-26T11:43:00-08:00"
 publish_date = "2017-02-27T11:59:00-08:00"
 date = "2017-02-27T11:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488136860612/Mean
 twitterauto = "What happens when you take a book about America's political divide to a sandwich shop?"
 facebookauto = "We took a book about America's political divide to a really good sandwich shop in Ballard."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date", "tags/reading-through-it"]
-authors_notes = ["authors/arlie-russell-hochschild"]
+notes_about = ""
 books = ["books/strangers-in-their-own-land"]
 +++
 <p class="intro">Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.</p>

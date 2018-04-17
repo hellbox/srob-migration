@@ -1,8 +1,8 @@
 +++
 index = "-KI1XUMuBbEpkqo3OCXt"
-_sort_create_date = 1463552700
-_sort_last_updated = 1463552700
-_sort_publish_date = 1463681040
+sort_create_date = 1463552700
+sort_last_updated = 1463552700
+sort_publish_date = 1463681040
 create_date = "2016-05-17T23:25:00-07:00"
 publish_date = "2016-05-19T11:04:00-07:00"
 date = "2016-05-19T11:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463552213568/siff
 twitterauto = "We're super-excited for @SIFFNews to start tonight! Here are the most bookish SIFF films:"
 facebookauto = "The Seattle International Film Festival stars tonight! We made a list of the most literary films and documentaries in the festival for you."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/siff", "tags/documentary", "tags/movies"]
-authors_notes = ["authors/jane-austen"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1463552213568/siff.jpg)</p>

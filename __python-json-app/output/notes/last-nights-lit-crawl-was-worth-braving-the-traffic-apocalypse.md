@@ -1,8 +1,8 @@
 +++
 index = "-KwuhcLqAPn-HYP3izK9"
-_sort_create_date = 1508518560
-_sort_last_updated = 1509331500
-_sort_publish_date = 1508522400
+sort_create_date = 1508518560
+sort_last_updated = 1509331500
+sort_publish_date = 1508522400
 create_date = "2017-10-20T09:56:00-07:00"
 publish_date = "2017-10-20T11:00:00-07:00"
 date = "2017-10-20T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1508518524061/las
 twitterauto = "We braved rain and traffic to cover last night's Lit Crawl. It was more than worth it. #litcrawlseattle"
 facebookauto = "We braved rain and traffic to cover last night's Lit Crawl. It was more than worth it."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/lit-crawl"]
-authors_notes = ["authors/cat-rambo", "authors/eva-l-elasigue", "authors/caren-gussoff-sumption", "authors/nick-offerman", "authors/jl-cheatham-ii", "authors/kristin-alana", "authors/natasha-rivers", "authors/kamari-bright", "authors/molly-thornton", "authors/ross-mcmeekin", "authors/anca-l-szil\u00e1gyi", "authors/laura-da", "authors/quenton-baker", "authors/rachel-edelman", "authors/gabrielle-bates", "authors/urban-waite", "authors/putsata-reang", "authors/nic-low", "authors/willie-fitzgerald", "authors/kait-heacock", "authors/margaret-adams", "authors/corinne-manning", "authors/meredith-arena", "authors/sarah-jones", "authors/sarah-galvin", "authors/robert-lashley", "authors/timmy-straw", "authors/claudia-castro-luna", "authors/lynn-miller", "authors/brian-roth", "authors/shin-yu-pai", "authors/brian-mcguigan", "authors/sasha-lapointe", "authors/kristen-millares-young"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Something different in our Lit Crawl coverage this year. Instead of grouping together in an inconvenient  cluster, we split up. Paul Constant, Martin McClellan, and Dawn McCarra Bass all attended different readings in venues around the city, thus tripling our ability to cover the amazing variety of events. Even with that, we had to make hard choices, and missed things we wish we hadn’t. But this is the bargain we always make. Lit Crawl comes but once a year, and you will, by design, always see less than you hope, no matter if you split yourself in three or not. But for what we could cover, here’s what we saw.</p>

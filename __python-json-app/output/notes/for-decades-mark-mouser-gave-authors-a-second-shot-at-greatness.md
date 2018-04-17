@@ -1,8 +1,8 @@
 +++
 index = "-KcFi13UNHyfPr-FDhaU"
-_sort_create_date = 1486339140
-_sort_last_updated = 1486339140
-_sort_publish_date = 1486403940
+sort_create_date = 1486339140
+sort_last_updated = 1486339140
+sort_publish_date = 1486403940
 create_date = "2017-02-05T15:59:00-08:00"
 publish_date = "2017-02-06T09:59:00-08:00"
 date = "2017-02-06T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486338969862/Scre
 twitterauto = "For decades, Mark Mouser ran the bargain book section @ubookstorereads. Last week, he retired."
 facebookauto = "For decades, Mark Mouser has been handling the bargain book section at University Book Store. Last week, he retired. We interviewed him about his fascinating job."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/university-book-store", "tags/remainders"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Even if the word “remainder” doesn’t mean anything to you, you likely have spent time browsing remaindered books. You can find remainders in most large bookstores—they’re the new-looking books that sell for used-book prices, often stacked on tables near the front door. They’re basically the second-run movie theaters of the publishing world—outdated overstock sold for dirt-cheap to distributors a year or more after the title first went on sale.

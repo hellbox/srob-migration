@@ -1,8 +1,8 @@
 +++
 index = "-K2zdw7bqw8w77cxZjwL"
-_sort_create_date = 1447398180
-_sort_last_updated = 1447398180
-_sort_publish_date = 1447398180
+sort_create_date = 1447398180
+sort_last_updated = 1447398180
+sort_publish_date = 1447398180
 create_date = "2015-11-12T23:03:00-08:00"
 publish_date = "2015-11-12T23:03:00-08:00"
 date = "2015-11-12T23:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447397981594/blue
 twitterauto = "We are so sad to report that Seattle poet Madeline DeFrees has passed away. She was 95."
 facebookauto = "We are so sad to report that Seattle poet Madeline DeFrees has passed away. She was 95."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/death"]
-authors_notes = ["authors/madeline-defrees"]
+notes_about = ""
 books = ""
 +++
 Very sad news: we've received word from her literary executor that Madeline DeFrees, a Seattle poet, passed away last night. She would have been 96 years old next week.

@@ -1,8 +1,8 @@
 +++
 index = "-KNIVt9Oif2GmI8sCqBU"
-_sort_create_date = 1469206200
-_sort_last_updated = 1469206500
-_sort_publish_date = 1469206800
+sort_create_date = 1469206200
+sort_last_updated = 1469206500
+sort_publish_date = 1469206800
 create_date = "2016-07-22T09:50:00-07:00"
 publish_date = "2016-07-22T10:00:00-07:00"
 date = "2016-07-22T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What should you do when your favorite used bookseller publicly shames you for dog-earing your books?"
 facebookauto = "What should you do when your favorite used bookseller publicly shames you on Facebook for dog-earing your books?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/facebook"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

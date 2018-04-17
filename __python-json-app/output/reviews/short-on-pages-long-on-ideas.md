@@ -1,8 +1,8 @@
 +++
 index = "-KMBPIaBxFfv5LZPm9Ag"
-_sort_create_date = 1468013280
-_sort_last_updated = 1468019400
-_sort_publish_date = 1468354200
+sort_create_date = 1468013280
+sort_last_updated = 1468019400
+sort_publish_date = 1468354200
 create_date = "2016-07-08T14:28:00-07:00"
 publish_date = "2016-07-12T13:10:00-07:00"
 date = "2016-07-12T13:10:00-07:00"
@@ -13,10 +13,10 @@ title = "Short on pages, long on ideas"
 dek = "As big-name publishers attempt to capture short attention spans with genre novellas, one Seattle-area sci-fi publisher gets it right."
 facebookauto = "A new samurai-meets-robots novella is \"part Hammett novel, part Kurosawa Samurai epic, part Blade Runner.\" And, apparently, all awesome."
 twitterauto = "As big publishers try to capture short attention spans with genre novellas, a Seattle sci-fi publisher gets it right."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/izanamis-choice"]
 tags_reviews = ["tags/genre", "tags/science-fiction", "tags/novella"]
-authors_reviews = ["authors/adam-heine"]
+reviews_about = ""
 +++
 
 “Life moves fast — books should too,” promises a promotional website for mega-bestselling author James Patterson’s new line of branded mini-novels. BookShots are Patterson’s take on the genre novella, a slick package intended to appeal to Twitter-friendly attention spans. [BookShots.com](https://www.bookshots.com/) promises that each of the thrillers and romances under the BookShot umbrella will be “Under 150 pages. Under $5. Impossible to put down,” and in case the breathless copy doesn’t get the point across, the site features a 30-second ad featuring a Patrick Bateman-looking young man being chased through the streets of a big city as he reads a BookShot:

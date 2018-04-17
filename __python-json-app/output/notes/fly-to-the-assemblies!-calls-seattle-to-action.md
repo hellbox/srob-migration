@@ -1,8 +1,8 @@
 +++
 index = "-Kx4l7NsyCprYvhhUJDn"
-_sort_create_date = 1508704020
-_sort_last_updated = 1508706300
-_sort_publish_date = 1508788800
+sort_create_date = 1508704020
+sort_last_updated = 1508706300
+sort_publish_date = 1508788800
 create_date = "2017-10-22T13:27:00-07:00"
 publish_date = "2017-10-23T13:00:00-07:00"
 date = "2017-10-23T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1508703699978/FTA
 twitterauto = "Read an essay by Reagan Jackson from the new Fly to the Assemblies! anthology, courtesy of sponsor @3rdplacepress."
 facebookauto = "A new anthology from sponsor Third Place Press is a call to action for Seattle as a city of resistance. Read an excerpt, by Reagan Jackson, available this week only for our readers."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/marcus-harrison-green"]
+notes_about = ""
 books = ["books/fly-to-the-assemblies!"]
 +++
 <p class="image-left">![](/webhook-uploads/1508703645203/Fly%20to%20the%20Assemblies_150.jpeg)</p>

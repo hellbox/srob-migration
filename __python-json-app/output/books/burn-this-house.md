@@ -1,8 +1,8 @@
 +++
 index = "-JyPoJkO69RS3h4Sxz8u"
-_sort_create_date = 1441411440
-_sort_last_updated = 1441411440
-_sort_publish_date = 1441411440
+sort_create_date = 1441411440
+sort_last_updated = 1441411440
+sort_publish_date = 1441411440
 create_date = "2015-09-04T17:04:00-07:00"
 publish_date = "2015-09-04T17:04:00-07:00"
 date = "2015-09-04T17:04:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/UDfRFVDQ4SSe46fUY2OhZKmoIZgryFUphSGSEgccVhYm98I6bpDcPM88eITIWSBwhbkbXONtQPhu95vSwSd2tWZy1HA"
 url = "/webhook-uploads/1441411400480/9781597092364.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 12945
 
 review_relationship = ""
-author_relationship = ["authors/kelly-davio"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/exit-interview-kelly-davio-is-moving-to-london"]
 +++

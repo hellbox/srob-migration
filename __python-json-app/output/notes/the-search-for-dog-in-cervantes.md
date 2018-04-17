@@ -1,8 +1,8 @@
 +++
 index = "-KrEX6u_RlM-SlZSH1X8"
-_sort_create_date = 1502425380
-_sort_last_updated = 1502475300
-_sort_publish_date = 1502481600
+sort_create_date = 1502425380
+sort_last_updated = 1502475300
+sort_publish_date = 1502481600
 create_date = "2017-08-10T21:23:00-07:00"
 publish_date = "2017-08-11T13:00:00-07:00"
 date = "2017-08-11T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502426482049/Scre
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ""
-authors_notes = ["authors/cervantes"]
+notes_about = ""
 books = ""
 +++
 You may recall that <a href="http://www.seattlereviewofbooks.com/writers/ivan-schneider/" title="The Seattle Review of Books - Ivan Schneider">Ivan Schneider</a> &mdash; frequent contributor and friend of the _Seattle Review of Books_ &mdash; in his <a href="http://www.seattlereviewofbooks.com/notes/2017/06/05/talking-to-ourselves/" title="The Seattle Review of Books - Talking to ourselves">interview with David Shields</a>, talked about his delicious outsider theory on how Cervantes intended _Don Quixote_ to have a talking dog character. 

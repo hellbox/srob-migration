@@ -1,8 +1,8 @@
 +++
 index = "-JzRs_E9a8mMZBOjRJx4"
-_sort_create_date = 1442519820
-_sort_last_updated = 1442519820
-_sort_publish_date = 1442519820
+sort_create_date = 1442519820
+sort_last_updated = 1442519820
+sort_publish_date = 1442519820
 create_date = "2015-09-17T12:57:00-07:00"
 publish_date = "2015-09-17T12:57:00-07:00"
 date = "2015-09-17T12:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Every Seattleite should listen to @1JessWalter's remarkable poem about Seattle's apocalyptic summer."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/tiny-sense-of-accomplishment"]
-authors_notes = ["authors/sherman-alexie", "authors/jess-walter"]
+notes_about = ""
 books = ""
 +++
 I'm a big fan of Jess Walter and Sherman Alexie's podcast, [*A Tiny Sense of Accomplishment*](http://www.infiniteguest.org/tiny-sense/). Many conversational podcasts don't work because they feel unstructured, but *Tiny* regularly delivers smart and funny conversation on a few tightly focused subjects. 

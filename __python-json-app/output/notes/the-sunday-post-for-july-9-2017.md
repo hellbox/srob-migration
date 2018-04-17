@@ -1,8 +1,8 @@
 +++
 index = "-KoUgrm8ZClwgTvsmjuG"
-_sort_create_date = 1499475420
-_sort_last_updated = 1499475420
-_sort_publish_date = 1499616003
+sort_create_date = 1499475420
+sort_last_updated = 1499475420
+sort_publish_date = 1499616003
 create_date = "2017-07-07T19:57:00-05:00"
 publish_date = "2017-07-09T11:00:03-05:00"
 date = "2017-07-09T11:00:03-05:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In the Sunday Post, love letters to the German language and to worry; \"dear Johns\" to Dawson, MN, and the TSA."
 facebookauto = "In the Sunday Post, love letters to the German language and to worry; \"dear Johns\" to Dawson, MN, and the TSA."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

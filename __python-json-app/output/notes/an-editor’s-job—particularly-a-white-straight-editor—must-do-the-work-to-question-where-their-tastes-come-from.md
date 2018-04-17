@@ -1,8 +1,8 @@
 +++
 index = "-JvVRnUTynx0X0JSH-m9"
-_sort_create_date = 1438284720
-_sort_last_updated = 1438284720
-_sort_publish_date = 1438291860
+sort_create_date = 1438284720
+sort_last_updated = 1438284720
+sort_publish_date = 1438291860
 create_date = "2015-07-30T12:32:00-07:00"
 publish_date = "2015-07-30T14:31:00-07:00"
 date = "2015-07-30T14:31:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/the-james-franco-review"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The excellent local literary magazine *The James Franco Review*, which has a blind submission policy intended to "publish works of prose and poetry as if we were all James Franco, as if our work was already worthy of an editor’s attention," published [an editorial today](http://thejamesfrancoreview.com/2015/07/30/editorial-dear-white-editors/) that all white editors — [ourselves included!](http://seattlereviewofbooks.com/about/) — should read and take to heart.

@@ -1,8 +1,8 @@
 +++
 index = "-L5BazfAW3cY0YAQApJQ"
-_sort_create_date = 1518482460
-_sort_last_updated = 1518482520
-_sort_publish_date = 1518482460
+sort_create_date = 1518482460
+sort_last_updated = 1518482520
+sort_publish_date = 1518482460
 create_date = "2018-02-12T16:41:00-08:00"
 publish_date = "2018-02-12T16:41:00-08:00"
 date = "2018-02-12T16:41:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/RAYyJeffVpi3UunE4bfV0eXoA0SHQIgaBdPyIJbkbJ62u_aNBcOlJ7Zb4LNJJx5lFKUFyokkOLePevWMHeyDN-qdBmFD4A"
 url = "/webhook-uploads/1518482487473/content%3Fid%3D8ZhIDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10874
 
 review_relationship = ["reviews/be-prepared"]
-author_relationship = ["authors/kim-fu"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

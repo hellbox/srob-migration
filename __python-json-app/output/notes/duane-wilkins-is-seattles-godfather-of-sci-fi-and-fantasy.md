@@ -1,8 +1,8 @@
 +++
 index = "-KBHHDN-HfRULcO5Wh2-"
-_sort_create_date = 1456300680
-_sort_last_updated = 1456340460
-_sort_publish_date = 1456336680
+sort_create_date = 1456300680
+sort_last_updated = 1456340460
+sort_publish_date = 1456336680
 create_date = "2016-02-23T23:58:00-08:00"
 publish_date = "2016-02-24T09:58:00-08:00"
 date = "2016-02-24T09:58:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456300091606/rock
 twitterauto = "Meet @ubookstorereads's Duane Wilkins, Seattle's godfather of sci-fi."
 facebookauto = "Did you know that University Book Store has the best sci-fi/fantasy section in the entire state? Do you know that one person is responsible for that? Meet Duane Wilkins, Seattle's godfather of sci-fi."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month"]
-authors_notes = ["authors/robert-heinlein", "authors/neal-stephenson"]
+notes_about = ""
 books = ""
 +++
 For Duane Wilkins, University Book Store is a family affair. His mother worked there for over 20 years, and he started shopping there, by his own estimation, somewhere between the ages of 12 and 14. “I think sometimes I work here as karmic payback for what I put booksellers through” as a customer, Wilkins jokes. He used to bombard U Book Store employees with questions — “when is the next book in this series coming out and when is this book coming out in paperback” and so on. He used to prefer to shop at the Washington Book Store, a competitor across the street from University Book Store that has long since gone out of business. “My mother would give me grief about it,” Duane says, but he offers, by way of explanation, “they carried all the Harlan Ellison books, and University Book Store didn’t.”

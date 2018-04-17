@@ -1,8 +1,8 @@
 +++
 index = "-KDu-enG09AlTqXSShRy"
-_sort_create_date = 1459114620
-_sort_last_updated = 1459117440
-_sort_publish_date = 1459116660
+sort_create_date = 1459114620
+sort_last_updated = 1459117440
+sort_publish_date = 1459116660
 create_date = "2016-03-27T14:37:00-07:00"
 publish_date = "2016-03-27T15:11:00-07:00"
 date = "2016-03-27T15:11:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Jim Harrison has died at 78."
 facebookauto = "Jim Harrison has died at 78."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/obituaries"]
-authors_notes = ["authors/jim-harrison"]
+notes_about = ""
 books = ""
 +++
 Jim Harrison, the prolific half-blind masculinist writer of many books of fiction and poetry, has died at 78. 

@@ -1,8 +1,8 @@
 +++
 index = "-L5q6uBEGjifS2nM3ojd"
-_sort_create_date = 1519178940
-_sort_last_updated = 1519273860
-_sort_publish_date = 1519322220
+sort_create_date = 1519178940
+sort_last_updated = 1519273860
+sort_publish_date = 1519322220
 create_date = "2018-02-20T18:09:00-08:00"
 publish_date = "2018-02-22T09:57:00-08:00"
 date = "2018-02-22T09:57:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519178822525/redw
 twitterauto = "Every affair is political, but political affairs are the worst."
 facebookauto = "Every affair is political, but political affairs are the worst."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last month, Drawn and Quarterly published the new English translation of Swedish cartoonist Anneli Furmark's comic *Red Winters*. Though the book is set in 1970s Sweden, it feels newly relevant for a politically charged America in 2018.

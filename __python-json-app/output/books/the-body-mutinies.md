@@ -1,8 +1,8 @@
 +++
 index = "-KXlAiZerexyW4xqYdxe"
-_sort_create_date = 1480441380
-_sort_last_updated = 1480443060
-_sort_publish_date = 1480441380
+sort_create_date = 1480441380
+sort_last_updated = 1480443060
+sort_publish_date = 1480441380
 create_date = "2016-11-29T09:43:00-08:00"
 publish_date = "2016-11-29T09:43:00-08:00"
 date = "2016-11-29T09:43:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Poetry"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uPt8w-3xVEyB9DLYu94v7MSXv-BbV1cOE2dTy_R3LeCcLu39obm_a2dhpkSKy-Ffrk9gyO6H7RjKGry4YWwxUwzX2GUCyA"
 url = "/webhook-uploads/1480441390914/content%3Fid%3DGpDrn6dIl5QC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 4695
 
 review_relationship = ["reviews/regarding-lucia-perillo"]
-author_relationship = ["authors/lucia-perillo"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

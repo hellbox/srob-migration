@@ -1,8 +1,8 @@
 +++
 index = "-Kg1L9vQhQdUQ4oBfmep"
-_sort_create_date = 1490392980
-_sort_last_updated = 1490393400
-_sort_publish_date = 1490634180
+sort_create_date = 1490392980
+sort_last_updated = 1490393400
+sort_publish_date = 1490634180
 create_date = "2017-03-24T15:03:00-07:00"
 publish_date = "2017-03-27T10:03:00-07:00"
 date = "2017-03-27T10:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490393151058/zapp
 twitterauto = "We talked with the @ZAPPSeattle administration about the future of Seattle's zine culture."
 facebookauto = "We talked with ZAPP's administration about the future of Seattle's zine culture."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/zapp", "tags/hugo-house", "tags/seattle-public-library", "tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Last week was awfully long for Zine Archive and Publishing Project (ZAPP) managing director Graham Isaac and ZAPP volunteer operations coordinator Emily Cabaniss. On [Monday night]( http://www.seattlereviewofbooks.com/notes/2017/03/21/zine-archive-publishing-project-to-fold-collection-to-go-to-seattle-public-library/), the *Seattle Review of Books* published the news that Hugo House was donating ZAPP’s extensive collection — tens of thousands of zines collected over almost two decades at their headquarters in the Hugo House — to Seattle Public Library. On Tuesday, [ZAPP published a statement saying]( http://www.seattlereviewofbooks.com/notes/2017/03/21/heres-zapps-official-statement-it-is-important-that-we-make-it-clear-we-did-not-give-up-the-archive-it-was-taken-from-us/) that “we did not give up the archive, it was taken from us.” On Wednesday, [I talked with Hugo House executive director Tree Swenson and SPL spokesperson Andra Addison](http://www.seattlereviewofbooks.com/notes/2017/03/21/hugo-house-and-seattle-public-library-speak-up-about-the-state-of-zapps-zine-library/) about the move. By the time they met with me on Thursday afternoon, Isaac and Cabaniss looked pretty tired (“I’m exhausted,” Isaac wrote on Facebook earlier in the week.) But as they huddled over their coffees, Cabaniss and Isaac perked up when they talked about making zines. They’re clearly true believers in the DIY literature community, with a bottomless enthusiasm for self-expression. What follows is a lightly edited transcript of our conversation.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KXiLzVjrRHhLR-gn_Sw"
-_sort_create_date = 1480393980
-_sort_last_updated = 1497417720
-_sort_publish_date = 1480449600
+sort_create_date = 1480393980
+sort_last_updated = 1497417720
+sort_publish_date = 1480449600
 create_date = "2016-11-28T20:33:00-08:00"
 publish_date = "2016-11-29T12:00:00-08:00"
 date = "2016-11-29T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "American elegy"
 dek = "JD Vance is being hailed as a prophet of the working class, but what does his book really teach us about rural America?"
 facebookauto = "Our first book for our new reading group Reading Through It, in partnership with The Seattle Weekly, and Third Place Books in Seward Park, is Hillbilly Elegy by JD Vance. Here's our review, in advance of meeting to discuss it. "
 twitterauto = "Hillbilly Elegy is our first pick for our reading group with @seattleweekly and @thirdplacebooks. Here's our review:"
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/hillbilly-elegy"]
 tags_reviews = ["tags/hillbillies", "tags/class", "tags/racism", "tags/reading-through-it"]
-authors_reviews = ["authors/jd-vance"]
+reviews_about = ""
 +++
 
 <blockquote class="noline intro">_Hillbilly Elegy_ is the first book in our new reading club [Reading Through It](http://www.seattlereviewofbooks.com/notes/2016/11/15/reading-through-it-join-us-for-a-discussion-of-how-to-move-forward-in-donald-trumps-america/ "The Seattle Review of Books - Reading Through It: Join us for a discussion of how to move forward in Donald Trump’s America"), where we come together in partnership with _The Seattle Weekly_, and Third Place Books in Seward Park, to discuss how to move forward in Trump's America. Join us, Wednesday December 7th, and 7pm. All are welcome. You can [RSVP on Facebook](https://www.facebook.com/events/373374753013775/ "None").</blockquote>

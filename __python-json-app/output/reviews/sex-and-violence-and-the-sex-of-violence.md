@@ -1,8 +1,8 @@
 +++
 index = "-K3JXzOHG9gKS52t_pIs"
-_sort_create_date = 1447748640
-_sort_last_updated = 1447821840
-_sort_publish_date = 1447877040
+sort_create_date = 1447748640
+sort_last_updated = 1447821840
+sort_publish_date = 1447877040
 create_date = "2015-11-17T00:24:00-08:00"
 publish_date = "2015-11-18T12:04:00-08:00"
 date = "2015-11-18T12:04:00-08:00"
@@ -13,10 +13,10 @@ title = "Sex and violence and the sex of violence"
 dek = "Two new comics offer completely different takes on the meaning and portrayal of hyper-violence."
 facebookauto = "Two new comics offer completely different takes on the meaning and portrayal of hyper-violence."
 twitterauto = "Two new comics offer completely different takes on the meaning and portrayal of hyper-violence."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/terror-assaulter-(omwot)", "books/punch-to-kill"]
 tags_reviews = ["tags/comics", "tags/fantagraphics"]
-authors_reviews = ["authors/will-long", "authors/kevin-clarke", "authors/marc-palm", "authors/benjamin-marra"]
+reviews_about = ""
 +++
 
 Anyone looking at a copy of Benjamin Marra’s *Terror Assaulter: OMWOT (One Man War on Terror)* is forced to do some heavy categorizing. The cover features a guy in a suit, wearing sunglasses, and smoking a cigarette beheading a bad guy with a katana. The bad guy is armed with a gun and a chainsaw, built like the proverbial brick shithouse, and is dressed like an old He-Man figure: blue briefs and a belt, frilly boots, and a little cape. On a bed watching all this is a blonde woman in an evening gown with red high-heeled shoes. So what is this thing you’re looking at? Is it serious? Is it really a comic book about a simplistic good-versus-evil dynamic? But the art is so stiff and ridiculous. It’s a joke, right? Is it a funny joke or a bad joke? Is the whole comic going to be like this? What the hell is going on?

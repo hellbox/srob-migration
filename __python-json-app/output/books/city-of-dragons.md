@@ -1,8 +1,8 @@
 +++
 index = "-Jyjz_fe4EpQ_ssNc0dd"
-_sort_create_date = 1441766700
-_sort_last_updated = 1441766700
-_sort_publish_date = 1441766700
+sort_create_date = 1441766700
+sort_last_updated = 1441766700
+sort_publish_date = 1441766700
 create_date = "2015-09-08T19:45:00-07:00"
 publish_date = "2015-09-08T19:45:00-07:00"
 date = "2015-09-08T19:45:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2Iwi-NQkacZ6xSVfxnHPG_SQpAUxCQa5rYBSRpb9pbV-dmAalKb7gvIMtkFdd7MZQpDk-iJ_DjfYu3yjNf8DgdmE1nqZCw"
 url = "/webhook-uploads/1441766643764/9780312668792.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 55742
 
 review_relationship = ""
-author_relationship = ["authors/kelli-stanley"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

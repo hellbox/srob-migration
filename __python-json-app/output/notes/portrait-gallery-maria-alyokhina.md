@@ -1,8 +1,8 @@
 +++
 index = "-Kv3wS4_GUFVxK1jutjH"
-_sort_create_date = 1506542700
-_sort_last_updated = 1506543000
-_sort_publish_date = 1506632400
+sort_create_date = 1506542700
+sort_last_updated = 1506543000
+sort_publish_date = 1506632400
 create_date = "2017-09-27T13:05:00-07:00"
 publish_date = "2017-09-28T14:00:00-07:00"
 date = "2017-09-28T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506542277624/SRoB
 twitterauto = "Portrait Gallery: Maria Alyokhina #illustration by @studiochristine @ElliottBayBooks Saturday"
 facebookauto = "Portrait Gallery: Maria Alyokhina illustration by Christine Marie Larsen."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/maria-alyokhina"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

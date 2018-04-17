@@ -1,8 +1,8 @@
 +++
 index = "-KB53S0Xw6ZwB254VNnC"
-_sort_create_date = 1456095720
-_sort_last_updated = 1456095840
-_sort_publish_date = 1456095720
+sort_create_date = 1456095720
+sort_last_updated = 1456095840
+sort_publish_date = 1456095720
 create_date = "2016-02-21T15:02:00-08:00"
 publish_date = "2016-02-21T15:02:00-08:00"
 date = "2016-02-21T15:02:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/w3ob2HaxEBXlqtvWexYhqyI_XC5eyQtI7CGpiqNPb5WQsIPdS02D3HooW7ePOdzxvpHWg_USVwIUwNxKdLssMdSx3rE"
 url = "/webhook-uploads/1456095743397/content%3Fid%3D5Dm7gtbHJcoC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 14278
 
 review_relationship = ["reviews/the-book-was-better-but-the-movie-was-shorter"]
-author_relationship = ["authors/nathaniel-hawthorne"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

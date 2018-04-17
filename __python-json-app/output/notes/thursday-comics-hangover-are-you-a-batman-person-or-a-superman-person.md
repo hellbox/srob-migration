@@ -1,8 +1,8 @@
 +++
 index = "-KaGZpISZL8eIp0DC-fe"
-_sort_create_date = 1484206020
-_sort_last_updated = 1484206020
-_sort_publish_date = 1484243820
+sort_create_date = 1484206020
+sort_last_updated = 1484206020
+sort_publish_date = 1484243820
 create_date = "2017-01-11T23:27:00-08:00"
 publish_date = "2017-01-12T09:57:00-08:00"
 date = "2017-01-12T09:57:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484205712976/BMIA
 twitterauto = "Are you a Batman person or a Superman person? What would make you change your mind?"
 facebookauto = "Are you a Superman person or a Batman person? What would it take to make you change your mind?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/superman", "tags/batman"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I'm a Superman guy, not a Batman guy. Batman's fine — I've read plenty of Batman comics over the years — but ultimately Batman is about arrested development: any Batman story is basically a story of an emotionally stunted rich dude. There's only so much emotional wallowing you can do before you fall into parody. (I feel similarly about Trent Reznor: you can do a couple albums about the hurt in your soul, but after you make a couple critically acclaimed best-selling records, maybe you can afford a little therapy?) Will Arnett's portrayal of Batman from the 2014 *Lego Movie* spectacularly identified the character's ridiculousness, especially in this song:

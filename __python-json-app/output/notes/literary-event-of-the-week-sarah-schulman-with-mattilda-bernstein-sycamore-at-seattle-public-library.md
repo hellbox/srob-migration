@@ -1,8 +1,8 @@
 +++
 index = "-K_qLAxB9AJCEtMQttL5"
-_sort_create_date = 1483749240
-_sort_last_updated = 1483749240
-_sort_publish_date = 1484157240
+sort_create_date = 1483749240
+sort_last_updated = 1483749240
+sort_publish_date = 1484157240
 create_date = "2017-01-06T16:34:00-08:00"
 publish_date = "2017-01-11T09:54:00-08:00"
 date = "2017-01-11T09:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1483749150707/978
 twitterauto = "Our literary event of the week is provocative, in the very best sense of the word."
 facebookauto = "Our literary event of the week is provocative, in the very best sense of the word."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/mattilda-bernstein-sycamore"]
+notes_about = ""
 books = ""
 +++
 “Provocative” has become a dirty word. As Donald Trump lurches toward the presidency and white nationalist Milo Yiannopoulos scores a $250,000 book deal, provocation has become synonymous with trolling, and trolling has gone mainstream. When Seattle authors Lindy West and Sherman Alexie very visibly quit Twitter last week, they demonstrated an exhaustion with provocation. We’ve had it with devil’s advocates and thought experiments that are intended to do nothing but get a reaction out of us.

@@ -1,8 +1,8 @@
 +++
 index = "-Jv5TWkDj63g6NnX5YgP"
-_sort_create_date = 1437848940
-_sort_last_updated = 1440221220
-_sort_publish_date = 1437848940
+sort_create_date = 1437848940
+sort_last_updated = 1440221220
+sort_publish_date = 1437848940
 create_date = "2015-07-25T11:29:00-07:00"
 publish_date = "2015-07-25T11:29:00-07:00"
 date = "2015-07-25T11:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-story-of-the-day"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="small">Every day, friend of the _SRoB_ <a href="https://twitter.com/rahawahaile">Rahawa Haile</a> tweets a short story. She gave us permission to collect them every week. This week is especially notable &mdash; she crossed 200.</p>

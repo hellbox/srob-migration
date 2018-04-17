@@ -1,8 +1,8 @@
 +++
 index = "-KNQ_azgu85vlk-lV6T3"
-_sort_create_date = 1469341620
-_sort_last_updated = 1469341980
-_sort_publish_date = 1469376000
+sort_create_date = 1469341620
+sort_last_updated = 1469341980
+sort_publish_date = 1469376000
 create_date = "2016-07-23T23:27:00-07:00"
 publish_date = "2016-07-24T09:00:00-07:00"
 date = "2016-07-24T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post: #MiloYiannopoulos banned, @realDonaldTrump's ghostwriter's remorse, Calvin and Hobbes, & the #DarkWeb"
 facebookauto = "The Sunday Post: Milo Yiannopoulos got banned from Twitter, Calvin and Hobbes is great literature, Trump's ghostwriter feels \"a deep sense of remorse,\" and what happens on the dark web"
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/bill-watterson"]
+notes_about = ""
 books = ["books/the-art-of-the-deal"]
 +++
 <h5><a href="https://medium.com/welcome-to-the-scream-room/im-with-the-banned-8d1b6e0b2932#.4mz600tsw" title="I’m With The Banned">I’m With The Banned</a></h5>

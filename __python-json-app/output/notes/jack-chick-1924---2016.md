@@ -1,8 +1,8 @@
 +++
 index = "-KUs5Mypa8o19vCS5pBy"
-_sort_create_date = 1477336200
-_sort_last_updated = 1477337340
-_sort_publish_date = 1477336200
+sort_create_date = 1477336200
+sort_last_updated = 1477337340
+sort_publish_date = 1477336200
 create_date = "2016-10-24T12:10:00-07:00"
 publish_date = "2016-10-24T12:10:00-07:00"
 date = "2016-10-24T12:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477335978513/Scre
 twitterauto = "Evangelical cartoonist Jack Chick has reportedly died."
 facebookauto = "Evangelical cartoonist Jack Chick, of Chick Tracts fame, has reportedly died."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/religion", "tags/comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1477335978513/Screen%20Shot%202016-10-24%20at%2012.05.59%20PM.png)</p>

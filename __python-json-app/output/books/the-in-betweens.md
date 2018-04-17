@@ -1,8 +1,8 @@
 +++
 index = "-KXo72XdhAYJa-dq2Xnp"
-_sort_create_date = 1480490760
-_sort_last_updated = 1480490760
-_sort_publish_date = 1480490760
+sort_create_date = 1480490760
+sort_last_updated = 1480490760
+sort_publish_date = 1480490760
 create_date = "2016-11-29T23:26:00-08:00"
 publish_date = "2016-11-29T23:26:00-08:00"
 date = "2016-11-29T23:26:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "short stories"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/TtwydxN3ki7UfA2rXeGZlPPiSbBhMrvQKCGFLx8MzJJXGX6anEX8k7_Qn-if4EkhNIEKjFx7h2YtrpHcbe4gYMv4LlI"
 url = "/webhook-uploads/1480490689366/SimmonsCover.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 138980
 
 review_relationship = ["reviews/you-are-god\u2019s-crash-test-dummy"]
-author_relationship = ["authors/matthew-simmons"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017"]
 +++

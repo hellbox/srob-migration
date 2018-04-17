@@ -1,8 +1,8 @@
 +++
 index = "-KsI1bNbtwefyNS9-UYr"
-_sort_create_date = 1503558000
-_sort_last_updated = 1503558000
-_sort_publish_date = 1504111860
+sort_create_date = 1503558000
+sort_last_updated = 1503558000
+sort_publish_date = 1504111860
 create_date = "2017-08-24T00:00:00-07:00"
 publish_date = "2017-08-30T09:51:00-07:00"
 date = "2017-08-30T09:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503557861806/ghos
 twitterauto = "Bumbershoot isn't the biggest literary event in town anymore, but it's still got power."
 facebookauto = "Bumbershoot isn't the biggest literary event in town anymore, but it's still packing some power."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/bumbershoot"]
-authors_notes = ["authors/ursula-k-le-guin"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1503557861806/ghosts.jpg)</p>

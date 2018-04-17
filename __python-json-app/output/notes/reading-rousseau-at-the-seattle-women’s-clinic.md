@@ -1,8 +1,8 @@
 +++
 index = "-KlWjVK25aUKh6NKtN8y"
-_sort_create_date = 1496288460
-_sort_last_updated = 1497965640
-_sort_publish_date = 1497977700
+sort_create_date = 1496288460
+sort_last_updated = 1497965640
+sort_publish_date = 1497977700
 create_date = "2017-05-31T20:41:00-07:00"
 publish_date = "2017-06-20T09:55:00-07:00"
 date = "2017-06-20T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Reading Rousseau at the Seattle Women\u2019s Clinic\" is the title of our latest from Poet in Residence @pearlepubs"
 facebookauto = "\"Reading Rousseau at the Seattle Women\u2019s Clinic\" is the title of our latest from Poet in Residence Tammy Robacker"
 make_image_tweet = "False"
-byline = ["writers/tammy-robacker"]
+notes_byline = ["writers/tammy-robacker"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Henri had ‘no other teacher<br>

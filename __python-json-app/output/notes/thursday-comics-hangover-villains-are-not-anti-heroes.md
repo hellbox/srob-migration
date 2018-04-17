@@ -1,8 +1,8 @@
 +++
 index = "-Ke7OxNU3FCAz_mGUeB2"
-_sort_create_date = 1488347160
-_sort_last_updated = 1488438780
-_sort_publish_date = 1488483960
+sort_create_date = 1488347160
+sort_last_updated = 1488438780
+sort_publish_date = 1488483960
 create_date = "2017-02-28T21:46:00-08:00"
 publish_date = "2017-03-02T11:46:00-08:00"
 date = "2017-03-02T11:46:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488347152820/Puni
 twitterauto = "Villains aren't anti-heroes. They're villains."
 facebookauto = "Villains aren't anti-heroes. They're villains."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last week, Fernando Alfonso III wrote at the [*Lexington Herald Leader*]( http://www.kentucky.com/news/state/article134722264.html#storylink=cpy ):

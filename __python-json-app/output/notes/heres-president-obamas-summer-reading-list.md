@@ -1,8 +1,8 @@
 +++
 index = "-JwcR2CgJPCcCINOXXQu"
-_sort_create_date = 1439492460
-_sort_last_updated = 1439494320
-_sort_publish_date = 1439492460
+sort_create_date = 1439492460
+sort_last_updated = 1439494320
+sort_publish_date = 1439492460
 create_date = "2015-08-13T12:01:00-07:00"
 publish_date = "2015-08-13T12:01:00-07:00"
 date = "2015-08-13T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "How many books on President Obama's summer reading list have you read? "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/barack-obama", "tags/summer-reading"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 David Nakamura at the [*Washington Post*](http://www.washingtonpost.com/news/post-politics/wp/2015/08/13/here-are-the-6-books-on-president-obamas-summer-reading-list/) reports the six books President Obama is taking on his 16-day summer vacation:

@@ -1,8 +1,8 @@
 +++
 index = "-KVmu-li8seGPJl8wCUV"
-_sort_create_date = 1478322780
-_sort_last_updated = 1478322780
-_sort_publish_date = 1478714460
+sort_create_date = 1478322780
+sort_last_updated = 1478322780
+sort_publish_date = 1478714460
 create_date = "2016-11-04T22:13:00-07:00"
 publish_date = "2016-11-09T10:01:00-08:00"
 date = "2016-11-09T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "On Friday, we're presenting @Sherman_Alexie, @Misterlashley, & @hisisEJKoh in a free reading @elliottbaybooks."
 facebookauto = "Sherman Alexie has had a hell of a year: his mother passed away, he survived serious brain surgery to remove a large tumor, and now he's sharing the stage with younger writers who deserve your attention. Join him this Friday at Elliott Bay Book Company."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/sherman-alexie", "authors/robert-lashley", "authors/ej-koh"]
+notes_about = ""
 books = ""
 +++
 Sherman Alexie has had a hellacious couple of years. In the summer of 2015, his mother passed away. Their relationship was always contentious and complicated, and throughout the late summer and early fall Alexie wrote dozens of poems while trying to work through his complicated grief.  In December of last year, a doctor informed Alexie that he immediately needed surgery to remove a noncancerous brain tumor. The nine-hour procedure was wildly successful, but still terrifying as fuck the whole way through — afterwards, Alexie was in the ICU for a day and in the hospital for a week before beginning a long recovery regimen at home.

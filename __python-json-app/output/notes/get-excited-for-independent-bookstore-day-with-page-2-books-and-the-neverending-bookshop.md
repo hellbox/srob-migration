@@ -1,8 +1,8 @@
 +++
 index = "-L9gwhiwhkFUNf-FsPJ3"
-_sort_create_date = 1523319960
-_sort_last_updated = 1523326440
-_sort_publish_date = 1523465760
+sort_create_date = 1523319960
+sort_last_updated = 1523326440
+sort_publish_date = 1523465760
 create_date = "2018-04-09T17:26:00-07:00"
 publish_date = "2018-04-11T09:56:00-07:00"
 date = "2018-04-11T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523319773915/A-Ye
 twitterauto = "We talked with bookstore owners from north and south Seattle about Independent Bookstore Day."
 facebookauto = "We talked with bookstore owners from north and south Seattle about Independent Bookstore Day."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/independent-bookstores"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">The last Saturday in this month, April 28th, is [Independent Bookstore Day](http://www.indiebookstoreday.com/) - a celebration of books and the small businesses that celebrate literary culture year round. We'll have a lot to say about Independent Bookstore Day over the course of the month, but we thought we'd begin the conversation by talking with two owners of smaller local bookstores - Jenny Cole of Burien's [Page 2 Books](https://page2books.indielite.org/), and Annie Carl of Bothell's [Neverending Bookshop](http://www.theneverendingbookshop.com/) - about their plans for the day, what they've been reading, and why independent bookselling is so important to them.</p>

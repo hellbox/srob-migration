@@ -1,8 +1,8 @@
 +++
 index = "-KrTozUyxnoovfhehRRu"
-_sort_create_date = 1502682000
-_sort_last_updated = 1502682000
-_sort_publish_date = 1502736000
+sort_create_date = 1502682000
+sort_last_updated = 1502682000
+sort_publish_date = 1502736000
 create_date = "2017-08-13T20:40:00-07:00"
 publish_date = "2017-08-14T11:40:00-07:00"
 date = "2017-08-14T11:40:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This conservative author is a bad thinker, a shameless opportunist, and he's terrible to booksellers."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/adam-rakunas"]
+notes_about = ""
 books = ""
 +++
 Just in case you weren't sure that [convicted felon](http://www.politico.com/story/2014/05/dinesh-dsouza-pleads-guilty-illegal-campaign-contribution-106882) and [self-described "disgraced"](http://www.nydailynews.com/news/politics/disgraced-humiliated-dinesh-souza-pleads-probation-article-1.1927485) conservative attack dog Dinesh D'Souza is a horrible person, look no further than his tweet from Sunday:

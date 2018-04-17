@@ -1,8 +1,8 @@
 +++
 index = "-K6HMCsN21v89cC521xE"
-_sort_create_date = 1450933260
-_sort_last_updated = 1450933260
-_sort_publish_date = 1450980060
+sort_create_date = 1450933260
+sort_last_updated = 1450933260
+sort_publish_date = 1450980060
 create_date = "2015-12-23T21:01:00-08:00"
 publish_date = "2015-12-24T10:01:00-08:00"
 date = "2015-12-24T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450932705989/prom
 twitterauto = "Due to bad weather at Snoqualmie Pass, there were no new comics in Seattle yesterday. What to read instead?"
 facebookauto = "The Grinch stole new comics day yesterday, but there's still some good stuff in your local comics store, including this nifty anthology based on the Prometheus myth."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/phoenix-comics-and-games"]
-authors_notes = ["authors/grant-morrison"]
+notes_about = ""
 books = ""
 +++
 “It’s a Christmas un-miracle,” Nick at Phoenix Comics announced yesterday as I stared down the empty wall of new releases. Turns out, the Grinch stole New Comics Day this week: the heavy snowfall at Snoqualmie Pass meant that the Diamond Distribution truck carrying all the new comics intended to arrive in Seattle today was stuck on the east side of the mountains. No comics store in the entire Seattle area received any new comics yesterday. (Shipments are expected to arrive today.) It’s enough to make you consider the fact that building an entire industry around one distributor is a bad idea or something.

@@ -1,8 +1,8 @@
 +++
 index = "-L6UfknvAlBsmAgCsuNp"
-_sort_create_date = 1519876200
-_sort_last_updated = 1519876200
-_sort_publish_date = 1519926600
+sort_create_date = 1519876200
+sort_last_updated = 1519876200
+sort_publish_date = 1519926600
 create_date = "2018-02-28T19:50:00-08:00"
 publish_date = "2018-03-01T09:50:00-08:00"
 date = "2018-03-01T09:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Of course @emeraldcitycon is sold out, but here are a bunch of free comics events you can attend all weekend long."
 facebookauto = "Of course Emerald City Comicon is sold out, but here are a bunch of great, free comics events you can attend all weekend long."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/phoenix-comics-and-games", "tags/outsider-comics", "tags/emerald-city-comicon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Emerald City Comicon has long since sold out, but that doesn't mean you can't enjoy a number of (free) comics-centered celebrations around Seattle this weekend. Here are a few of the best-looking events for you to attend:

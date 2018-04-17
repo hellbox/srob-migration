@@ -1,8 +1,8 @@
 +++
 index = "-KWGkYQgZmaohJU3e-VF"
-_sort_create_date = 1478840400
-_sort_last_updated = 1478840400
-_sort_publish_date = 1478887200
+sort_create_date = 1478840400
+sort_last_updated = 1478840400
+sort_publish_date = 1478887200
 create_date = "2016-11-10T21:00:00-08:00"
 publish_date = "2016-11-11T10:00:00-08:00"
 date = "2016-11-11T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Hey, aspiring memoirists: got news that could change the outcome of an election? Don't save it for the book."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump", "tags/media"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 From [the *New York Times* review of *Settle for More*](http://www.nytimes.com/2016/11/12/books/review-megyn-kelly-tells-tales-out-of-fox-news-in-her-memoir-settle-for-more.html?_r=0), the memoir from Fox News host Megyn Kelly:

@@ -1,8 +1,8 @@
 +++
 index = "-Kn7zeoV6NiyS1UX7LQT"
-_sort_create_date = 1498020720
-_sort_last_updated = 1498070760
-_sort_publish_date = 1498068600
+sort_create_date = 1498020720
+sort_last_updated = 1498070760
+sort_publish_date = 1498068600
 create_date = "2017-06-20T21:52:00-07:00"
 publish_date = "2017-06-21T11:10:00-07:00"
 date = "2017-06-21T11:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498017599984/1888
 twitterauto = "Sign up now to get a table at the Seattle Urban Book Expo."
 facebookauto = "Today in Book News Roundup: a book expo is looking for exhibitors, Clarion West is offering a few all-day classes this fall, and you can make book mixtapes on a new website."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/clarion-west", "tags/seattle-urban-book-expo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * The Seattle Urban Book Expo is happening on August 26th at Washington Hall. "Last October, the authors and the people showed out and declared that black literature has a place in our community. So much so, that we had to do it again," SUBE founders write on their Facebook page. If you'd like to get a table to exhibit at this year's SUBE, you should [send organizers an email and follow the instructions on this post](https://www.facebook.com/SUBE2016/posts/1909407109301482). 

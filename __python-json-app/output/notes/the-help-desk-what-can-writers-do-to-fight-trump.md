@@ -1,8 +1,8 @@
 +++
 index = "-KaNu5lzUKoUSBas5wzb"
-_sort_create_date = 1484329080
-_sort_last_updated = 1484329080
-_sort_publish_date = 1484330460
+sort_create_date = 1484329080
+sort_last_updated = 1484329080
+sort_publish_date = 1484330460
 create_date = "2017-01-13T09:38:00-08:00"
 publish_date = "2017-01-13T10:01:00-08:00"
 date = "2017-01-13T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's advice column: how can writers best channel their energy to combat Trump?"
 facebookauto = "A reader asks: what can writers do to combat Trump, other than write long rants on Facebook? You should read Cienna Madrid's excellent response."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/donald-trump", "tags/the-atlantic"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KU5KOgp1QJT68zySSDh"
-_sort_create_date = 1476501240
-_sort_last_updated = 1476501240
-_sort_publish_date = 1476501240
+sort_create_date = 1476501240
+sort_last_updated = 1476501240
+sort_publish_date = 1476501240
 create_date = "2016-10-14T20:14:00-07:00"
 publish_date = "2016-10-14T20:14:00-07:00"
 date = "2016-10-14T20:14:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476501172484/IMG_
 twitterauto = "Mail Call! Some good books to stay inside with during the storm. "
 facebookauto = "Mail Call! Some good books to stay inside with during the storm. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1476501172484/IMG_0421.jpg)</p>

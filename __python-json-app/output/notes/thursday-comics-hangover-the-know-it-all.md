@@ -1,8 +1,8 @@
 +++
 index = "-K7PquJerdBQ6_n8NTFI"
-_sort_create_date = 1452149520
-_sort_last_updated = 1452149700
-_sort_publish_date = 1452189120
+sort_create_date = 1452149520
+sort_last_updated = 1452149700
+sort_publish_date = 1452189120
 create_date = "2016-01-06T22:52:00-08:00"
 publish_date = "2016-01-07T09:52:00-08:00"
 date = "2016-01-07T09:52:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452148674574/2815
 twitterauto = "The star of Mystery Girl knows everything, and she's still a nice human being."
 facebookauto = "Mystery Girl is a comic about a woman of color who knows everything, and uses that knowledge to solve mysteries. It's absolutely charming."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/dark-horse-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Paul Tobin and Alberto J. Alburquerque’s comic *Mystery Girl*, now on its second issue, is an absolute delight so far. Here’s the little blurb at the beginning of each book that explains the premise:

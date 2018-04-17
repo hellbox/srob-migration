@@ -1,8 +1,8 @@
 +++
 index = "-KEToQpH2AOjTr82_ErX"
-_sort_create_date = 1459732200
-_sort_last_updated = 1459734660
-_sort_publish_date = 1459795500
+sort_create_date = 1459732200
+sort_last_updated = 1459734660
+sort_publish_date = 1459795500
 create_date = "2016-04-03T18:10:00-07:00"
 publish_date = "2016-04-04T11:45:00-07:00"
 date = "2016-04-04T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Book critic fight! Book critic fight! (Part deux.)"
 facebookauto = "Last week, Paul Constant mocked a book review. Today, the author of the book review responds with a letter to the editor."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/letters-to-the-editor", "tags/commercialit", "tags/commercial", "tags/criticism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Editor's note: critic [Tom LeClair](https://en.wikipedia.org/wiki/Tom_LeClair) sent this letter to the editor in response to [Paul Constant's blog post](http://seattlereviewofbooks.com/notes/2016/03/29/book-reviewer-predictably-upset-at-authors-big-advance/) on LeClair's* Daily Beast *piece titled "[Will Commercialit Ruin Great Fiction?](http://www.thedailybeast.com/articles/2016/03/27/will-commercialit-ruin-great-fiction.html)"*</p>

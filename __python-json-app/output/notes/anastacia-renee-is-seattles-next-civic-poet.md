@@ -1,8 +1,8 @@
 +++
 index = "-KqQCTet8zERhS0AzKFe"
-_sort_create_date = 1501547580
-_sort_last_updated = 1501547580
-_sort_publish_date = 1501547580
+sort_create_date = 1501547580
+sort_last_updated = 1501547580
+sort_publish_date = 1501547580
 create_date = "2017-07-31T17:33:00-07:00"
 publish_date = "2017-07-31T17:33:00-07:00"
 date = "2017-07-31T17:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Great news! Seattle's new Civic Poet is the astounding Anastacia-Renee!"
 facebookauto = "Great news! Seattle's new Civic Poet is the astounding Anastacia-Renee!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/civic-poet"]
-authors_notes = ["authors/claudia-castro-luna", "authors/anastacia-renee"]
+notes_about = ""
 books = ""
 +++
 Great news! Seattle's next Civic Poet will be Anastacia-Renée, who until recently was the poet-in-residence at the Hugo House. Appropriately, I [just wrote about Anastacia-Renee's ubiquitousness a couple weeks ago](http://www.seattlereviewofbooks.com/notes/2017/07/19/literary-event-of-the-week-forget-it-reading-at-elliott-bay-book-company/), and I [wrote about the importance of the Civic Poet program](http://www.seattlereviewofbooks.com/reviews/we-the-poems/) last week. It's like it was meant to be.

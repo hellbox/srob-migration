@@ -1,8 +1,8 @@
 +++
 index = "-Kuz6fGm4yQnVjlSGLEy"
-_sort_create_date = 1506444960
-_sort_last_updated = 1506444960
-_sort_publish_date = 1506449400
+sort_create_date = 1506444960
+sort_last_updated = 1506444960
+sort_publish_date = 1506449400
 create_date = "2017-09-26T09:56:00-07:00"
 publish_date = "2017-09-26T11:10:00-07:00"
 date = "2017-09-26T11:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Okay, sure: here comes a data-driven book publisher."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/internet"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Steve O'Hear at [TechCrunch writes about](https://techcrunch.com/2017/09/25/inkitt/) Inkitt, a new online publisher:

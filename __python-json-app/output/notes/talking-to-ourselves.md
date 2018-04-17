@@ -1,8 +1,8 @@
 +++
 index = "-KlpJoqNkLhgsNRz9NL2"
-_sort_create_date = 1496616960
-_sort_last_updated = 1496635860
-_sort_publish_date = 1496689200
+sort_create_date = 1496616960
+sort_last_updated = 1496635860
+sort_publish_date = 1496689200
 create_date = "2017-06-04T15:56:00-07:00"
 publish_date = "2017-06-05T12:00:00-07:00"
 date = "2017-06-05T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "An ambulatory interview with @_DavidShields by @ivantohelpyou takes an unexpected turn."
 facebookauto = "An ambulatory interview with David Shields by Ivan Schneider takes an unexpected turn. Shields will be at Town Hall tomorrow night with Claire Dederer, a great alternate to our Event of the Week."
 make_image_tweet = "False"
-byline = ["writers/ivan-schneider"]
+notes_byline = ["writers/ivan-schneider"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/david-shields"]
+notes_about = ""
 books = ["books/other-people"]
 +++
 <p class="image-left">![](/webhook-uploads/1496617514161/IMG_20170516_160251.jpg)</p>

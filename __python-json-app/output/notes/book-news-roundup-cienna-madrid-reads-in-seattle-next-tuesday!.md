@@ -1,8 +1,8 @@
 +++
 index = "-KuWGs1FlL21oaqHXDE5"
-_sort_create_date = 1505944320
-_sort_last_updated = 1506100080
-_sort_publish_date = 1506100020
+sort_create_date = 1505944320
+sort_last_updated = 1506100080
+sort_publish_date = 1506100020
 create_date = "2017-09-20T14:52:00-07:00"
 publish_date = "2017-09-22T10:07:00-07:00"
 date = "2017-09-22T10:07:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup includes a rare Seattle reading from @ciennam and a new book from @ShoutYrAbortion!"
 facebookauto = "Today's book news roundup includes a rare Seattle reading from our own Cienna Madrid and information about how to submit your work to a new book from the crew at Shout Your Abortion!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * If you're visiting our site on a Friday, chances are good that you're [a huge Cienna Madrid fan](http://www.seattlereviewofbooks.com/writers/cienna-madrid/). Of *course* you are, because Cienna Madrid is fan-FUCKING-tastic. And you should know that Cienna Madrid is making a rare public appearance in Seattle on Tuesday, September 26th. She's reading at [Six Pack Series, in the 12th Avenue Arts building](https://www.facebook.com/events/918609311611043/?acontext=%7B%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%2C%22has_source%22%3Atrue%7D). This is a group reading, along the theme of "Doppelgangers, Avatars, and Code Names." The other readers are Eddie Dehais, Peter Donnelly, Kaitlin McCarthy, Jéhan Òsanyìn, and Amanda Rae. You should go and spend time with the best damn literary advice columnist in the whole world. 

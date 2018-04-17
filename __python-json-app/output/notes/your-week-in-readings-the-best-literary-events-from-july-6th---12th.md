@@ -1,8 +1,8 @@
 +++
 index = "-KLUgSUW9hYVluUpnyqM"
-_sort_create_date = 1467263040
-_sort_last_updated = 1467263040
-_sort_publish_date = 1467828240
+sort_create_date = 1467263040
+sort_last_updated = 1467263040
+sort_publish_date = 1467828240
 create_date = "2016-06-29T22:04:00-07:00"
 publish_date = "2016-07-06T11:04:00-07:00"
 date = "2016-07-06T11:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings includes a biscuit-baking class, a sad cartooning party, and a book club with Nancy Pearl."
 facebookauto = "Your week in readings includes a biscuit-baking class, a sad cartooning party, and a book club with Nancy Pearl."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/seattle-public-library", "tags/the-book-larder", "tags/seattle-mystery-bookshop", "tags/clarion-west"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday July 6: *Collecting the Dead* Signing

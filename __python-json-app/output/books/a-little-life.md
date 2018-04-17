@@ -1,8 +1,8 @@
 +++
 index = "-KN2zDGEGwKM7ArD_uXo"
-_sort_create_date = 1468945680
-_sort_last_updated = 1468946520
-_sort_publish_date = 1468945680
+sort_create_date = 1468945680
+sort_last_updated = 1468946520
+sort_publish_date = 1468945680
 create_date = "2016-07-19T09:28:00-07:00"
 publish_date = "2016-07-19T09:28:00-07:00"
 date = "2016-07-19T09:28:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hKvyVj64DQt9fPQUtj-UfabwHDvFViiHHEHvr_L3tIH2W1nRVnQp8zu9UztSwso4pKlooBRyDHrwF5yro1LcxVNGNUU"
 url = "/webhook-uploads/1468945718451/content%3Fid%3DrKy7oAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10861
 
 review_relationship = ["reviews/the-one-where-we-talk-about-books-and-sitcoms"]
-author_relationship = ["authors/hanya-yanagihara"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/a-big-feud-over-a-little-life", "notes/man-booker-prize-shortlist-announced"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KDWvbX2RxEbqXr_fzLB"
-_sort_create_date = 1458710640
-_sort_last_updated = 1458710880
-_sort_publish_date = 1458764640
+sort_create_date = 1458710640
+sort_last_updated = 1458710880
+sort_publish_date = 1458764640
 create_date = "2016-03-22T22:24:00-07:00"
 publish_date = "2016-03-23T13:24:00-07:00"
 date = "2016-03-23T13:24:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A novel co-written by artificial intelligence nearly won a literary prize in Japan."
 facebookauto = "A novel co-written by artificial intelligence nearly won a literary prize in Japan."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/robot"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *The Japan News* [reports](http://the-japan-news.com/news/article/0002826970):

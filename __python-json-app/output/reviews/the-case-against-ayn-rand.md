@@ -1,8 +1,8 @@
 +++
 index = "-JsSjqmx84gAQCEXjNd2"
-_sort_create_date = 1435018140
-_sort_last_updated = 1437960300
-_sort_publish_date = 1435018140
+sort_create_date = 1435018140
+sort_last_updated = 1437960300
+sort_publish_date = 1435018140
 create_date = "2015-06-22T17:09:00-07:00"
 publish_date = "2015-06-22T17:09:00-07:00"
 date = "2015-06-22T17:09:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "25281ac6-af4d-6873-83a4-8534988fcc17"
 name = "The case against Ayn Rand"
 title = "The case against Ayn Rand"
 dek = "If you only read one comic book takedown of Ayn Rand's philosophy, Paul Constant writes, it should be *The Age of Selfishness*."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-age-of-selfishness"]
 tags_reviews = ["tags/ayn-rand", "tags/comics"]
-authors_reviews = ["authors/darryl-cunningham"]
+reviews_about = ""
 +++
 
 “[Ayn] Rand’s fans are rarely the sort of intrepid, self-reliant, go-it-alone entrepreneurial heroes she writes about,” Michael Goodwin explains in the introduction to Darryl Cunningham’s new graphic novel  *The Age of Selfishness*. Goodwin continues:

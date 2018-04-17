@@ -1,8 +1,8 @@
 +++
 index = "-JuT57lXhYN5tLz29RCP"
-_sort_create_date = 1437171480
-_sort_last_updated = 1437409380
-_sort_publish_date = 1437409020
+sort_create_date = 1437171480
+sort_last_updated = 1437409380
+sort_publish_date = 1437409020
 create_date = "2015-07-17T15:18:00-07:00"
 publish_date = "2015-07-20T09:17:00-07:00"
 date = "2015-07-20T09:17:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **Monday**: The monthly science discussion series Nerd Nite Seattle hosts a lecture titled “Slimers and Submersibles” tonight at [LUCIDLounge](https://www.facebook.com/events/1618575958400972/). Hilary Hayford discusses using radio to track small marine animals and Tim Dwyer discusses using remote-controlled giant robots to investigate the ocean. But there’s also a special guest appearance at this Nerd Nite: a special bonus "live Q&A with real-life researchers currently at sea on a research mission!” Why would you go anywhere else tonight?

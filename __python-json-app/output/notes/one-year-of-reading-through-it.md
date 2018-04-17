@@ -1,8 +1,8 @@
 +++
 index = "-L-jpKJYhG4fCa_xhZds"
-_sort_create_date = 1512630960
-_sort_last_updated = 1512671400
-_sort_publish_date = 1512669660
+sort_create_date = 1512630960
+sort_last_updated = 1512671400
+sort_publish_date = 1512669660
 create_date = "2017-12-06T23:16:00-08:00"
 publish_date = "2017-12-07T10:01:00-08:00"
 date = "2017-12-07T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512457606086/tale
 twitterauto = "Last night, we celebrated one year of Reading Through It. Here's what we've learned:"
 facebookauto = "Last night, we celebrated one year of Reading Through It. Here's what we've learned:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1512457606086/talesoftwo.jpg)</p>

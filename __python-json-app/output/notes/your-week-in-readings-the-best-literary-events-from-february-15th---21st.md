@@ -1,8 +1,8 @@
 +++
 index = "-KAWWmJetWsB-K7nu_wH"
-_sort_create_date = 1455482640
-_sort_last_updated = 1455482820
-_sort_publish_date = 1455558240
+sort_create_date = 1455482640
+sort_last_updated = 1455482820
+sort_publish_date = 1455558240
 create_date = "2016-02-14T12:44:00-08:00"
 publish_date = "2016-02-15T09:44:00-08:00"
 date = "2016-02-15T09:44:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455482219068/Love
 twitterauto = "Here are all the best literary events happening in Seattle this week:"
 facebookauto = "Your week in readings includes the debut of Matt Ruff's long-awaited new book, Alexander Chee, a lecture on book-to-movie adaptations, and much more:"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house", "tags/elliott-bay-book-company", "tags/scarecrow-video"]
-authors_notes = ["authors/matt-ruff"]
+notes_about = ""
 books = ""
 +++
 **MONDAY** Start your week in readings at [Third Place Books](http://www.thirdplacebooks.com/event/lfp-fast-night-woman-her-dogs-and-their-journey-north-iditarod-trail-debbie-clarke-moderow) up in Lake Forest Park. **Debbie Clarke Moderow** reads from her new book *Fast into the Night: A Woman, Her Dogs, and Their Journey North on the Iditarod Trail*. If you’ve ever wondered about sled dogs — and c’mon, pretty much everybody has wondered about sled dogs — this is a good chance to learn.

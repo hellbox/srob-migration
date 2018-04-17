@@ -1,8 +1,8 @@
 +++
 index = "-KP5b8ygVhToOKf8L8tE"
-_sort_create_date = 1471137180
-_sort_last_updated = 1471185660
-_sort_publish_date = 1471190400
+sort_create_date = 1471137180
+sort_last_updated = 1471185660
+sort_publish_date = 1471190400
 create_date = "2016-08-13T18:13:00-07:00"
 publish_date = "2016-08-14T09:00:00-07:00"
 date = "2016-08-14T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post: the #worldwideweb's 25th bday (thanks @timberners_lee), an Italian island's lone caretaker, Zika, & more"
 facebookauto = "In this week's Sunday Post, read pieces about celebrating the first website's 25th birthday, the challenges facing an island's caretaker, which couple uses more water than all LA homes combined, and being in the medical field at the time of a new disease like Zika. "
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.telegraph.co.uk/technology/2016/08/06/the-worlds-first-website-went-online-25-years-ago-today/" title="The world’s first website went online 25 years ago">The world’s first website went online 25 years ago</a></h5>

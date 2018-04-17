@@ -1,8 +1,8 @@
 +++
 index = "-L9hTG9E5n68Vo3Pzmym"
-_sort_create_date = 1523328780
-_sort_last_updated = 1523329080
-_sort_publish_date = 1524070260
+sort_create_date = 1523328780
+sort_last_updated = 1523329080
+sort_publish_date = 1524070260
 create_date = "2018-04-09T19:53:00-07:00"
 publish_date = "2018-04-18T09:51:00-07:00"
 date = "2018-04-18T09:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523327617970/book
 twitterauto = "We talked with the stars of the drunkest, most literary improv show in the whole universe."
 facebookauto = "We talked with the stars of the drunkest, most literary improv show in the whole universe."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1523327617970/book%20club.jpg)</p>

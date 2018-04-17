@@ -1,8 +1,8 @@
 +++
 index = "-Jzy9sRGmX1r2v7YRQWw"
-_sort_create_date = 1443078300
-_sort_last_updated = 1443109920
-_sort_publish_date = 1443123000
+sort_create_date = 1443078300
+sort_last_updated = 1443109920
+sort_publish_date = 1443123000
 create_date = "2015-09-24T00:05:00-07:00"
 publish_date = "2015-09-24T12:30:00-07:00"
 date = "2015-09-24T12:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Recent studies show that somewhere between 40 and 60 percent of all purchased e-books are never opened."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/e-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 After noting [the news yesterday](http://seattlereviewofbooks.com/notes/2015/09/23/ebook-sales-slip-independent-bookstores-increase/) that e-book sales have dipped ten percent in the first five months of this year, I stumbled across [this post on Good E-Reader](http://goodereader.com/blog/e-book-news/people-are-not-reading-the-e-books-they-buy-anymore), which indicates that e-books might be doing even worse than the numbers are letting on:

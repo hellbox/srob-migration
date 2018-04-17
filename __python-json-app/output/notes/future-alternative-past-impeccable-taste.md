@@ -1,8 +1,8 @@
 +++
 index = "-KyShuAUb2xj_p0PRoWU"
-_sort_create_date = 1510179540
-_sort_last_updated = 1510181760
-_sort_publish_date = 1510257600
+sort_create_date = 1510179540
+sort_last_updated = 1510181760
+sort_publish_date = 1510257600
 create_date = "2017-11-08T14:19:00-08:00"
 publish_date = "2017-11-09T12:00:00-08:00"
 date = "2017-11-09T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510179630451/Prov
 twitterauto = "In today's succulent and nutrient-rich column, @NisiShawl gnaws on food in SFFH"
 facebookauto = "In today's succulent and nutrient-rich column, Nisi Shawl gnaws on food in SFFH"
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ["authors/ann-leckie", "authors/kari-maaren", "authors/peter-s-beagle"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. You can also look through the [archives of the column](http://www.seattlereviewofbooks.com/tags/the-future-alternative-past).</p>

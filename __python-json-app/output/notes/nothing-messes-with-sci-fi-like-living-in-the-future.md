@@ -1,8 +1,8 @@
 +++
 index = "-KktFBXI3xh8qJzS07Kh"
-_sort_create_date = 1495609140
-_sort_last_updated = 1495609740
-_sort_publish_date = 1495659480
+sort_create_date = 1495609140
+sort_last_updated = 1495609740
+sort_publish_date = 1495659480
 create_date = "2017-05-23T23:59:00-07:00"
 publish_date = "2017-05-24T13:58:00-07:00"
 date = "2017-05-24T13:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/science-fiction"]
-authors_notes = ["authors/william-gibson"]
+notes_about = ""
 books = ""
 +++
 Not only has William Gibson proven to be the living sci-fi novelist who is best at predicting the future, he is also an absolute joy to follow on Twitter. And when Gibson is not retweeting current events that sound like he invented them 25 years ago, he is complaining that the future is moving too damn fast:

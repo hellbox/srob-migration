@@ -1,8 +1,8 @@
 +++
 index = "-Kg2sxLoFcNUnQ8Qry_8"
-_sort_create_date = 1490418900
-_sort_last_updated = 1490451780
-_sort_publish_date = 1490457600
+sort_create_date = 1490418900
+sort_last_updated = 1490451780
+sort_publish_date = 1490457600
 create_date = "2017-03-24T22:15:00-07:00"
 publish_date = "2017-03-25T09:00:00-07:00"
 date = "2017-03-25T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490418855359/IMG_
 twitterauto = "Seattle Writing Prompts climbs the radio towers atop Capitol Hill. "
 facebookauto = "Seattle Writing Prompts climbs the radio towers atop Capitol Hill. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-writing-prompts"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><a href="http://www.seattlereviewofbooks.com/tags/seattle-writing-prompts" title="The Seattle Review of Books">Seattle Writing Prompts</a> are intended to spark ideas for your writing, based on locations and stories of Seattle. Write something inspired by a prompt? [Send it to us](http://seattlereviewofbooks.com/about)! We're looking to publish writing sparked by prompts.<br><br>Also, how are we doing? Are writing prompts useful to you? Could we be doing better? [Reach out](http://seattlereviewofbooks.com/about) if you have ideas or feedback. We'd love to hear.</p>

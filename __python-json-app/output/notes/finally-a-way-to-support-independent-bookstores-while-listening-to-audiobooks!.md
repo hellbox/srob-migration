@@ -1,8 +1,8 @@
 +++
 index = "-KfCoAPSdahMs216K7QU"
-_sort_create_date = 1489511640
-_sort_last_updated = 1489511640
-_sort_publish_date = 1489522440
+sort_create_date = 1489511640
+sort_last_updated = 1489511640
+sort_publish_date = 1489522440
 create_date = "2017-03-14T10:14:00-07:00"
 publish_date = "2017-03-14T13:14:00-07:00"
 date = "2017-03-14T13:14:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Finally\u00a0\u2014\u00a0an way to listen to audio books and support independent bookstores!"
 facebookauto = "Finally\u00a0\u2014\u00a0an way to listen to audio books and support independent bookstores."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/audio-books", "tags/librofm"]
-authors_notes = ["authors/neal-stephenson"]
+notes_about = ""
 books = ""
 +++
 In [my review of the audio version of *Seveneves* yesterday](http://www.seattlereviewofbooks.com/reviews/with-a-single-step/), I wrote about Libro.fm, an audiobook provider that partners with independent bookstores. Every time you purchase an audiobook through Libro.fm, you support the indie bookstore of your choice. (Local bookstore participants in the program include Eagle Harbor Book Company, Edmonds Bookshop, the Elliott Bay Book Company, Island Books, Liberty Bay Books, Phinney Books, Third Place Books, University Book Store, and Village Books.)

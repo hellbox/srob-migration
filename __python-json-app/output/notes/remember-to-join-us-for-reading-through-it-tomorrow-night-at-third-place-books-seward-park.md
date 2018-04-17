@@ -1,8 +1,8 @@
 +++
 index = "-KlyCTFlkKEJ3RbOmjwA"
-_sort_create_date = 1496766060
-_sort_last_updated = 1496790180
-_sort_publish_date = 1496772060
+sort_create_date = 1496766060
+sort_last_updated = 1496790180
+sort_publish_date = 1496772060
 create_date = "2017-06-06T09:21:00-07:00"
 publish_date = "2017-06-06T11:01:00-07:00"
 date = "2017-06-06T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Join us tomorrow night @ThirdPlaceBooks Seward Park to discuss the Trump/Russia connection."
 facebookauto = "Remember to join us tomorrow night at Third Place Books Seward Park to discuss the Trump/Russia connection."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Just a quick note to remind you that [tomorrow night at 7 p.m., we'll be at Third Place Books Seward Park to discuss Masha Gessen's *The Man Without a Face: The Unlikely Rise of Vladimir Putin*](http://www.thirdplacebooks.com/event/reading-through-it-book-club-man-without-face-unlikely-rise-vladimir-putin). Reading this book at this particular time in history has been especially weird: without mentioning Trump at all, the book has been incredibly informative about current events.

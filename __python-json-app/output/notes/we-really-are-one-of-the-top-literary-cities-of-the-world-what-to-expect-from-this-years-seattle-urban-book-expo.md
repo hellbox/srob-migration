@@ -1,8 +1,8 @@
 +++
 index = "-KqsbdVMhPCjJDGJfCPJ"
-_sort_create_date = 1502040960
-_sort_last_updated = 1502133000
-_sort_publish_date = 1502133000
+sort_create_date = 1502040960
+sort_last_updated = 1502133000
+sort_publish_date = 1502133000
 create_date = "2017-08-06T10:36:00-07:00"
 publish_date = "2017-08-07T12:10:00-07:00"
 date = "2017-08-07T12:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502039966861/1883
 twitterauto = "The Seattle Urban Book Expo is on August 26th at Washington Hall. Here's what to expect:"
 facebookauto = "The Seattle Urban Book Expo is on August 26th at Washington Hall. Here's what to expect:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/seattle-urban-book-expo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1502039966861/18836045_1909417625967097_8071879833317711667_n.jpg)</p>

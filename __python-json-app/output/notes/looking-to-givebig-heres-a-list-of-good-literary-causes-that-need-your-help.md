@@ -1,8 +1,8 @@
 +++
 index = "-Kj_3G1EwPKsAJjZ8ReD"
-_sort_create_date = 1494196740
-_sort_last_updated = 1494434280
-_sort_publish_date = 1494432060
+sort_create_date = 1494196740
+sort_last_updated = 1494434280
+sort_publish_date = 1494432060
 create_date = "2017-05-07T15:39:00-07:00"
 publish_date = "2017-05-10T09:01:00-07:00"
 date = "2017-05-10T09:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's a handy list of great literary nonprofits that could use your #GiveBIG cash:"
 facebookauto = "Here's a handy list of great literary nonprofits that could use your #GiveBIG cash:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/givebig"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 It's time again for GiveBIG, the one-day nonprofit fundraising event in which local charitable organizations batter your inbox in hopes of a donation. Many of these organizations rely on GiveBIG to raise a large portion of their annual funds, and lots of them have acquired additional matching funds to maximize your donation, so you really should consider donating if you can afford it.

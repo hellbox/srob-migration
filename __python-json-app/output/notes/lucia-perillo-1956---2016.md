@@ -1,8 +1,8 @@
 +++
 index = "-KUsFhF2F3-cGxzy232x"
-_sort_create_date = 1477338900
-_sort_last_updated = 1477339260
-_sort_publish_date = 1477338900
+sort_create_date = 1477338900
+sort_last_updated = 1477339260
+sort_publish_date = 1477338900
 create_date = "2016-10-24T12:55:00-07:00"
 publish_date = "2016-10-24T12:55:00-07:00"
 date = "2016-10-24T12:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "So sad to hear about the passing of Olympia poet Lucia Perillo."
 facebookauto = "So sad to hear about the passing of Olympia poet Lucia Perillo."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry", "tags/death"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Michael Schaub at the *L.A. Times* writes:

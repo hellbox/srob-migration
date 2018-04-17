@@ -1,8 +1,8 @@
 +++
 index = "-L1zuyNxtei3UANd3PW3"
-_sort_create_date = 1515048360
-_sort_last_updated = 1515218640
-_sort_publish_date = 1515261600
+sort_create_date = 1515048360
+sort_last_updated = 1515218640
+sort_publish_date = 1515261600
 create_date = "2018-01-03T22:46:00-08:00"
 publish_date = "2018-01-06T10:00:00-08:00"
 date = "2018-01-06T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515218343043/catr
 twitterauto = "What's @catrambo reading? @writerlouisa, @johnhornor, and @suddain. "
 facebookauto = "Wherein we ask: whatcha reading, Cat Rambo?"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/whatcha-reading"]
-authors_notes = ["authors/cat-rambo"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">New column! Every week we ask an interesting figure what they're digging into. Have ideas who we should reach out to? Let it fly: [info@seattlereviewofbooks.com](mailto:info@seattlereviewofbooks.com).</p>

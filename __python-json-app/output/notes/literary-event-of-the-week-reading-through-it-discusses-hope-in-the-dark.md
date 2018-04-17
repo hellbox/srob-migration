@@ -1,8 +1,8 @@
 +++
 index = "-KbT0khFfWlgdV0-rEeT"
-_sort_create_date = 1485488700
-_sort_last_updated = 1485488700
-_sort_publish_date = 1485971100
+sort_create_date = 1485488700
+sort_last_updated = 1485488700
+sort_publish_date = 1485971100
 create_date = "2017-01-26T19:45:00-08:00"
 publish_date = "2017-02-01T09:45:00-08:00"
 date = "2017-02-01T09:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485488581220/hope
 twitterauto = "Join us tonight at @ThirdPlaceBooks Seward Park as we discuss Hope in the Dark."
 facebookauto = "Join us tonight at Third Place Books Seward Park as we discuss Rebecca Solnit's great book Hope in the Dark."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/reading-through-it", "tags/third-place-books-seward-park"]
-authors_notes = ["authors/rebecca-solnit"]
+notes_about = ""
 books = ""
 +++
 If I had to choose one, and only one, writer to help me navigate the world for the rest of my life, my choice would probably be Rebecca Solnit. Solnit is a considerate, intelligent writer; sometimes when you read her essays you can feel your own brain changing and growing to accept new information about the world. And she’s also got the power to direct the very flow of popular culture; her essay “Men Explain Things to Me” is widely regarded as the source of the word “mansplaining.” 

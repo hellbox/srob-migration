@@ -1,8 +1,8 @@
 +++
 index = "-KrEeyMRgqOP8Hthwxgl"
-_sort_create_date = 1502427720
-_sort_last_updated = 1502902920
-_sort_publish_date = 1502909280
+sort_create_date = 1502427720
+sort_last_updated = 1502902920
+sort_publish_date = 1502909280
 create_date = "2017-08-10T22:02:00-07:00"
 publish_date = "2017-08-16T11:48:00-07:00"
 date = "2017-08-16T11:48:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502427659441/dark
 twitterauto = "Your week in readings includes book club discussion of Fun Home and All the Birds in the Sky!"
 facebookauto = "Your week in readings includes book club discussion of Fun Home and All the Birds in the Sky!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday August 16th: *Why Poetry* Reading**</h5></p> 

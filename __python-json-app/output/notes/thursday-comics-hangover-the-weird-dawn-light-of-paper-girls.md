@@ -1,8 +1,8 @@
 +++
 index = "-K2LZBKMxCRUhBZXINXO"
-_sort_create_date = 1446708780
-_sort_last_updated = 1446742620
-_sort_publish_date = 1446745800
+sort_create_date = 1446708780
+sort_last_updated = 1446742620
+sort_publish_date = 1446745800
 create_date = "2015-11-04T23:33:00-08:00"
 publish_date = "2015-11-05T09:50:00-08:00"
 date = "2015-11-05T09:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446708384301/Pape
 twitterauto = "We've gone absolutely gaga over Brian K. Vaughan and @cliffchiang's new comic book \"Paper Girls.\""
 facebookauto = "The writer of Saga and the artist of Wonder Woman have joined forces to create a comic book about teenage girls on a newspaper delivery route. (It's got monsters and time travel and stuff, too.)"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/paper-girls"]
-authors_notes = ["authors/brian-k-vaughan"]
+notes_about = ""
 books = ""
 +++
 We're in a golden age of Brian K. Vaughan comics. I [can't shut up about how good *Saga* is](http://seattlereviewofbooks.com/notes/2015/07/09/thursday-comics-hangover-saga-split-in-two/); he recently wrapped up *The Private Eye*, a beautiful sci-fi comic with Marcos Martin; his Canadian future war comic *We Stand On Guard* keeps getting better; and his newest series, the retro sci-fi adventure comic *Paper Girls*, is probably his best non-*Saga* comics work yet. Co-created with artist Cliff Chiang, *Paper Girls* tells the story of a group of newspaper delivery girls in 1988. One day, they encounter some monsters. The audience is introduced to an object that suggests time travel might be involved. The second issue, released yesterday, adds to the mystery by tossing in some more monsters and a very confused adult. 

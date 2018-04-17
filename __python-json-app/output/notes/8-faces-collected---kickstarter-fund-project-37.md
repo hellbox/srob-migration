@@ -1,8 +1,8 @@
 +++
 index = "-KRqI3YcZuZxr-PyCAnr"
-_sort_create_date = 1474084740
-_sort_last_updated = 1482567000
-_sort_publish_date = 1474129800
+sort_create_date = 1474084740
+sort_last_updated = 1482567000
+sort_publish_date = 1474129800
 create_date = "2016-09-16T20:59:00-07:00"
 publish_date = "2016-09-17T09:30:00-07:00"
 date = "2016-09-17T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1474084774284/fdc8
 twitterauto = "The Kickstarter Fund backs @8faces."
 facebookauto = "The Kickstarter Fund 8 Faces, a typography magazine being collected into a single volume."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week, the _Seattle Review of Books_ backs a Kickstarter, and writes up why we picked that particular project. <a href="http://seattlereviewofbooks.com/notes/2016/01/08/announcing-the-seattle-review-of-books-kickstarter-fund/" title="The Seattle Review of Books - Announcing the Seattle Review of Books Kickstarter Fund">Read more about the project here</a>. Suggest a project by writing to _kickstarter_ at this domain, or by <a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">using our contact form</a>.<p>

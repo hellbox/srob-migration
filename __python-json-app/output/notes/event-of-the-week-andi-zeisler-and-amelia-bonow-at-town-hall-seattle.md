@@ -1,8 +1,8 @@
 +++
 index = "-KH7NoAYGVso93Ww6LgO"
-_sort_create_date = 1462577040
-_sort_last_updated = 1464061860
-_sort_publish_date = 1462984380
+sort_create_date = 1462577040
+sort_last_updated = 1464061860
+sort_publish_date = 1462984380
 create_date = "2016-05-06T16:24:00-07:00"
 publish_date = "2016-05-11T09:33:00-07:00"
 date = "2016-05-11T09:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462576884365/wewe
 twitterauto = "Our reading of the week is Andi Zeisler at @THSEA this coming Monday."
 facebookauto = "Our pick for Event of the Week is an onstage interview between Bitch magazine founder Andi Zeisler and Amelia Bonow at Town Hall Seattle."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/bitch", "tags/abortion"]
-authors_notes = ["authors/andi-zeisler", "authors/amelia-bonow"]
+notes_about = ""
 books = ""
 +++
 In the 1990s, feminists drew lines between a pair of up-and-coming magazines: in many social circles, you could either be a fan of *Bitch* Magazine, or you could be into *Bust*. *Bitch* was uglier than *Bust*, less glossy. *Bitch* was interested in feminist theory and it reviled the concept of selling out; *Bust* was more fun, more inclusive. *Bitch* had way more words per page, and fewer celebrity interviews. *Bust* got a fancy book deal and great placement on Borders’ newsstands around the country; *Bitch* was often tucked in the back of the racks, with the philosophy magazines and some of the weirder subcultural signifiers like *The Comics Journal*. 

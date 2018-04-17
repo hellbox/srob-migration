@@ -1,8 +1,8 @@
 +++
 index = "-L5HPjjFTYAwENO4THo-"
-_sort_create_date = 1518579900
-_sort_last_updated = 1518650100
-_sort_publish_date = 1518641760
+sort_create_date = 1518579900
+sort_last_updated = 1518650100
+sort_publish_date = 1518641760
 create_date = "2018-02-13T19:45:00-08:00"
 publish_date = "2018-02-14T12:56:00-08:00"
 date = "2018-02-14T12:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A Tacoma park honoring Dune author Frank Herbert is set to open this year."
 facebookauto = "A park honoring Frank Herbert, a book celebrating Seattle's Somali culture, and an award for a local kid's book author in today's Book News Roundup!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/frank-herbert", "authors/jessixa-bagley"]
+notes_about = ""
 books = ""
 +++
 * We first [told you about this seven months ago](http://www.seattlereviewofbooks.com/notes/2017/07/20/tacoma-is-very-close-to-finally-honoring-dune-author-frank-herbert-with-a-park/), and now it's [officially a reality](http://www.thenewstribune.com/news/local/article199941624.html): Tacoma has named a new park after the life and works of sci-fi author Frank Herbert. "Dune Peninsula at Point Defiance Park" is an 11-acre park featuring "Frank Herbert Trail." Tacoma Metro Parks commissioner Erik Hanberg told the *News Tribune* that Herbert's “experiences in Tacoma shaped his appreciation for the delicate balance of nature, so it feels right to attach his name to a park that reclaims toxic land.” The park is set to open by late summer or fall. We'll let you know when it opens, and we'll take a field trip down to check it out.

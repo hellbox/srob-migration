@@ -1,8 +1,8 @@
 +++
 index = "-KMMvdtsgD12PGPIB1BJ"
-_sort_create_date = 1468206540
-_sort_last_updated = 1468209480
-_sort_publish_date = 1468206540
+sort_create_date = 1468206540
+sort_last_updated = 1468209480
+sort_publish_date = 1468206540
 create_date = "2016-07-10T20:09:00-07:00"
 publish_date = "2016-07-10T20:09:00-07:00"
 date = "2016-07-10T20:09:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0CGlKiyUE_5ZJXQy-W-kZTMETVJbemsxdcPQuK8TOc3H7wtsjjWG43PpxfsVp3xBJnW6D2OsNr2KjJlfkdwEJBBd8ZQHGQ"
 url = "/webhook-uploads/1468207841853/89841.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 28620
 
 review_relationship = ["reviews/the-universal-darling"]
-author_relationship = ["authors/colette"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

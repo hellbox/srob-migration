@@ -1,8 +1,8 @@
 +++
 index = "-K6Jz2eAl7hU3XetIvdV"
-_sort_create_date = 1450977240
-_sort_last_updated = 1450977240
-_sort_publish_date = 1450985400
+sort_create_date = 1450977240
+sort_last_updated = 1450977240
+sort_publish_date = 1450985400
 create_date = "2015-12-24T09:14:00-08:00"
 publish_date = "2015-12-24T11:30:00-08:00"
 date = "2015-12-24T11:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In Praise of the Christmas Ghost story"
 facebookauto = "In Praise of the Christmas Ghost story"
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/christmas-ghost-story"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 One of my favorite Christmas traditions is ghost stories. [_A Christmas Carol_](http://www.gutenberg.org/files/46/46-h/46-h.htm) comes to mind first, of course. It has its own delights, to be sure — especially in reading, as opposed to the many dramatic renditions which have rendered it more toothless and hackneyed than it deserves. The story still has some spook and humor left in it, thanks to Dickens' steady lyrical hand. Look how he described just how despicable Scrooge is:

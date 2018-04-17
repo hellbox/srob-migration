@@ -1,8 +1,8 @@
 +++
 index = "-K1hAaClP-tip1riKIAP"
-_sort_create_date = 1446014460
-_sort_last_updated = 1446063480
-_sort_publish_date = 1446051240
+sort_create_date = 1446014460
+sort_last_updated = 1446063480
+sort_publish_date = 1446051240
 create_date = "2015-10-27T23:41:00-07:00"
 publish_date = "2015-10-28T09:54:00-07:00"
 date = "2015-10-28T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://shortrunseattle.com/webhook-uploads/1446014291776/dashsneak
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class= "intro">Our October Bookstore of the Month is a special one, because it’s a bookstore that will only exist in the world for one day. [The Short Run Comix & Arts Festival](http://www.shortrun.org/) will take place this year on October 31st at Fisher Pavilion in the Seattle Center, and for that one day, it will be the largest bookseller of independent literature, zines, and comics in the Seattle area. Every week this month, we’ll highlight a different Short Run exhibitor, to give you a better idea of the scope and breadth of the festival.</p>

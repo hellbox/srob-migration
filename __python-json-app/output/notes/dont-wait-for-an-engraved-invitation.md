@@ -1,8 +1,8 @@
 +++
 index = "-L-r7eisKZ7NaQatZU8e"
-_sort_create_date = 1512753480
-_sort_last_updated = 1512859260
-_sort_publish_date = 1513026000
+sort_create_date = 1512753480
+sort_last_updated = 1512859260
+sort_publish_date = 1513026000
 create_date = "2017-12-08T09:18:00-08:00"
 publish_date = "2017-12-11T13:00:00-08:00"
 date = "2017-12-11T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1512781605956/mon
 twitterauto = "It's time for sponsor Arundel & Chatwin Books holiday party! Join them and special guest Carl Montford this Friday."
 facebookauto = "It's time for sponsor Arundel Books holiday party! This year's special guest is celebrated wood engraver Carl Montford. Join them Friday for music, art, books, and a little bit of bubbly."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1512781281146/montford-wreath_150.jpg)</p>

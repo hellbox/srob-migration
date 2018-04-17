@@ -1,8 +1,8 @@
 +++
 index = "-K0leufQldy2bv1sfSBb"
-_sort_create_date = 1445016060
-_sort_last_updated = 1445016060
-_sort_publish_date = 1445016060
+sort_create_date = 1445016060
+sort_last_updated = 1445016060
+sort_publish_date = 1445016060
 create_date = "2015-10-16T10:21:00-07:00"
 publish_date = "2015-10-16T10:21:00-07:00"
 date = "2015-10-16T10:21:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445015515659/imgr
 twitterauto = ".@ciennam's Help Desk column responds to the @nytimes's new literary advice column, which is also named Help Desk."
 facebookauto = "In this week's Help Desk, Cienna Madrid offers some advice to the founders of the Seattle Review of Books, who are upset that the New York Times is launching a literary advice column called Help Desk. Is there any nobility in theft?"
 make_image_tweet = ""
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/new-york-times", "tags/plagiarism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

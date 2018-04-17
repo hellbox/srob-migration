@@ -1,8 +1,8 @@
 +++
 index = "-K4aU15eHtg2yFDqQAyA"
-_sort_create_date = 1449123360
-_sort_last_updated = 1449123480
-_sort_publish_date = 1449165600
+sort_create_date = 1449123360
+sort_last_updated = 1449123480
+sort_publish_date = 1449165600
 create_date = "2015-12-02T22:16:00-08:00"
 publish_date = "2015-12-03T10:00:00-08:00"
 date = "2015-12-03T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449122987802/visi
 twitterauto = "Marvel's new Vision comic written by @TomKingTK is shaping up to be something really special."
 facebookauto = "Sometimes when you start reading a new comic book, you know you're in for something really special. This is the case with Marvel's The Vision, a book which feels about as related to superhero comics as the Moore/Bissette Swamp Thing series. There's some weird, wonderful stuff going on in this book."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Every once in a while, a truly individual voice will emerge out of the morass of conventional superhero comics. These occasions are always a surprise — nobody could have predicted that *Swamp Thing* would become a convergence point between art and commercial comics until Alan Moore and Steve Bissette landed on the book, and nobody expected much of *Daredevil* until Frank Miller was allowed to get experimental with the character. It’s too early to draw a comparison Tom King and Gabriel Hernandez Walta’s *The Vision* to those two examples, but two issues into the series, it’s already clear that the book is something special.

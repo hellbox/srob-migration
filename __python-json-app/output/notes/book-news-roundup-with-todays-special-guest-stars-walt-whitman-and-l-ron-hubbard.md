@@ -1,8 +1,8 @@
 +++
 index = "-KdZH7k3H13t4kkT3Yfe"
-_sort_create_date = 1487741160
-_sort_last_updated = 1487741160
-_sort_publish_date = 1487796900
+sort_create_date = 1487741160
+sort_last_updated = 1487741160
+sort_publish_date = 1487796900
 create_date = "2017-02-21T21:26:00-08:00"
 publish_date = "2017-02-22T12:55:00-08:00"
 date = "2017-02-22T12:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup features special guest stars Walt Whitman and L. Ron Hubbard."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * The Seattle Public Library [has announced](https://shelftalkblog.wordpress.com/2017/02/14/for-the-love-of-data-an-open-data-release/) that they've made public a dataset which "includes a count of checkouts by month of both physical and digital items, and spans from 2005 to the present." [You can find that list here](https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6/data).

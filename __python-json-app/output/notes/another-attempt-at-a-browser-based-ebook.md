@@ -1,8 +1,8 @@
 +++
 index = "-KvBJ_07ZtI-rUt6AuW-"
-_sort_create_date = 1506666480
-_sort_last_updated = 1506666480
-_sort_publish_date = 1506709680
+sort_create_date = 1506666480
+sort_last_updated = 1506666480
+sort_publish_date = 1506709680
 create_date = "2017-09-28T23:28:00-07:00"
 publish_date = "2017-09-29T11:28:00-07:00"
 date = "2017-09-29T11:28:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/e-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I've read plenty of ebooks on a Sony Reader and on my phone and my iPad, but I've never read a book on my laptop. [This book](http://poeticcomputation.info/contents/) is trying to be my first browser-based read:

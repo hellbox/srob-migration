@@ -1,8 +1,8 @@
 +++
 index = "-JvP_EHgyMf9pP4ZOraf"
-_sort_create_date = 1438186260
-_sort_last_updated = 1438186680
-_sort_publish_date = 1438197060
+sort_create_date = 1438186260
+sort_last_updated = 1438186680
+sort_publish_date = 1438197060
 create_date = "2015-07-29T09:11:00-07:00"
 publish_date = "2015-07-29T12:11:00-07:00"
 date = "2015-07-29T12:11:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/monarch-review"]
-authors_notes = ["authors/maged-zaher"]
+notes_about = ""
 books = ""
 +++
 Piper Daniels interviews excellent local poet Maged Zaher [over at the *Monarch Review*](http://www.themonarchreview.org/w-a-s-h-with-maged-zaher/) about race, Seattle, and street harassment. It's a must-read. Zaher is more than just one of the best poets in Seattle; he's also one of our most fearless political voices.

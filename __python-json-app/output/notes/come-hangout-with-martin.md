@@ -1,8 +1,8 @@
 +++
 index = "-JxVVR5DoKS5iiGJi4yc"
-_sort_create_date = 1440433140
-_sort_last_updated = 1440477540
-_sort_publish_date = 1440603000
+sort_create_date = 1440433140
+sort_last_updated = 1440477540
+sort_publish_date = 1440603000
 create_date = "2015-08-24T09:19:00-07:00"
 publish_date = "2015-08-26T08:30:00-07:00"
 date = "2015-08-26T08:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today @kickstarter is hosting a \"Creator Hangout\" with Martin at 10am. Come join!"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/shameless-self-promotion"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last March, I ran [a successful Kickstarter to print my first novel, _California Four O'Clock_](https://www.kickstarter.com/projects/hellbox/california-four-oclock-a-novel-about-the-lore-of-p). Kickstarter asked me if I'd take part in their series "Creator Hangouts", so today at 10 a.m. PST, I'll be doing just that. 

@@ -1,8 +1,8 @@
 +++
 index = "-K1h2K0ewS8xyZUb_fB0"
-_sort_create_date = 1446012300
-_sort_last_updated = 1446049620
-_sort_publish_date = 1446064260
+sort_create_date = 1446012300
+sort_last_updated = 1446049620
+sort_publish_date = 1446064260
 create_date = "2015-10-27T23:05:00-07:00"
 publish_date = "2015-10-28T13:31:00-07:00"
 date = "2015-10-28T13:31:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "e93f8b5e-d68f-71c9-1565-eeb4cf3a2897"
 name = "Not-so-living history"
 title = "Not-so-living history"
 dek = "Sarah Vowell is unquestionably the funniest history nerd in America. Why don't her books quite live up to that promise?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/lafayette-in-the-somewhat-united-states"]
 tags_reviews = ["tags/history", "tags/biography"]
-authors_reviews = ["authors/sarah-vowell"]
+reviews_about = ""
 +++
 
 Sarah Vowell is in rare company when it comes to her ability to craft a biting, funny sentence. She’s up against David Sedaris and Jincy Willett and a small handful of other names. Consider this line from her latest book, *Lafayette in the Somewhat United States*:

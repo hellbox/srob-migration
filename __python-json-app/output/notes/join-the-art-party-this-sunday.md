@@ -1,8 +1,8 @@
 +++
 index = "-K57_8AdkOXgCNdfcyM8"
-_sort_create_date = 1449695400
-_sort_last_updated = 1449776520
-_sort_publish_date = 1449783300
+sort_create_date = 1449695400
+sort_last_updated = 1449776520
+sort_publish_date = 1449783300
 create_date = "2015-12-09T13:10:00-08:00"
 publish_date = "2015-12-10T13:35:00-08:00"
 date = "2015-12-10T13:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Art Party this Sunday! Art Party this Sunday!"
 facebookauto = "A new series of pop-up art parties tries to \"counteract the disappearance of art spaces, bookshops, galleries, etc. throughout the city, and their systematic replacement with sterile architecture, sterile businesses, and profiteering development.\" The first one is this Sunday."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/pageboy", "tags/art-party"]
-authors_notes = ["authors/stacey-levine"]
+notes_about = ""
 books = ""
 +++
 We just got an invitation from Thomas Walton, the founder of *PageBoy Magazine*, which is one of the best print lit mags in the city. He's launching a new series of pop-up parties called, appropriately enough, "Art Party." Because it's too late to get it into Your Week in Readings, I thought I'd share it with you here:

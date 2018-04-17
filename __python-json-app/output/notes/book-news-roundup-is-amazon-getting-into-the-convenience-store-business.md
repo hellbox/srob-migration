@@ -1,8 +1,8 @@
 +++
 index = "-KTx0TYP0Gd1g8zFtR4O"
-_sort_create_date = 1476345060
-_sort_last_updated = 1476345060
-_sort_publish_date = 1476384600
+sort_create_date = 1476345060
+sort_last_updated = 1476345060
+sort_publish_date = 1476384600
 create_date = "2016-10-13T00:51:00-07:00"
 publish_date = "2016-10-13T11:50:00-07:00"
 date = "2016-10-13T11:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup shares wonderful celebrations of libraries and some Amazon news."
 facebookauto = "Today's book news roundup shares wonderful celebrations of libraries and some Amazon news."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Jean Riley wrote a great roundup of the state of independent bookselling in Seattle [for *Seattle Magazine*](http://seattlemag.com/why-indie-bookstores-seattle-are-thriving).

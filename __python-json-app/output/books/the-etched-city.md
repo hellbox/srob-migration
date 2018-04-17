@@ -1,8 +1,8 @@
 +++
 index = "-L5f82foNOD0DtOIfzfY"
-_sort_create_date = 1518996840
-_sort_last_updated = 1518998460
-_sort_publish_date = 1518996840
+sort_create_date = 1518996840
+sort_last_updated = 1518998460
+sort_publish_date = 1518996840
 create_date = "2018-02-18T15:34:00-08:00"
 publish_date = "2018-02-18T15:34:00-08:00"
 date = "2018-02-18T15:34:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2FTA0HgxZV4O128mlercJ476mvy4BHZs_wdM1Wg-ui4kdi30BMZgk8Df3XQZWh8qE9A0trGGLR_KooCguryr6AzoY9yy"
 url = "/webhook-uploads/1518996838841/Etched%20City.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 23927
 
 review_relationship = ["reviews/the-beautiful-strange"]
-author_relationship = ["authors/k-j-bishop"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

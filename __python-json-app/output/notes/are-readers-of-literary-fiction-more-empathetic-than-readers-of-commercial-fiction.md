@@ -1,8 +1,8 @@
 +++
 index = "-KPtDyuCZOViFvJi-CQu"
-_sort_create_date = 1471986480
-_sort_last_updated = 1471986480
-_sort_publish_date = 1471986480
+sort_create_date = 1471986480
+sort_last_updated = 1471986480
+sort_publish_date = 1471986480
 create_date = "2016-08-23T14:08:00-07:00"
 publish_date = "2016-08-23T14:08:00-07:00"
 date = "2016-08-23T14:08:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Are readers of commercial fiction less empathetic than readers of literary fiction?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/science"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Electric Literature cites [a new study](https://electricliterature.com/science-says-literary-readers-understand-emotions-better-than-commercial-fiction-readers-e47376e052fa#.7d9pcr41j) which "found that readers of literary fiction — but not commercial fiction — have a better understanding of other people’s emotions."

@@ -1,8 +1,8 @@
 +++
 index = "-K3Nk944AADv_UQPeh1g"
-_sort_create_date = 1447819200
-_sort_last_updated = 1447821540
-_sort_publish_date = 1447869300
+sort_create_date = 1447819200
+sort_last_updated = 1447821540
+sort_publish_date = 1447869300
 create_date = "2015-11-17T20:00:00-08:00"
 publish_date = "2015-11-18T09:55:00-08:00"
 date = "2015-11-18T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447818308093/imag
 twitterauto = "What does @Adason15th bookseller @mister_winter love about working in a science-minded bookstore?"
 facebookauto = "We talked with Ada's Technical Books bookseller Steve Winter, who brings over two decades of bookselling experience to Capitol Hill's newest bookstore."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/adas-technical-books", "tags/bookseller"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Ask Steve Winter how long he’s been in the bookselling business and he’ll tell you, “I’ve been saying 22 years for a couple years.”  After a few short stints at bookstores in his native Michigan, Winter moved to Seattle and worked at Elliott Bay Book Company for ten years (where, full disclosure, he and I were coworkers) and at Third Place Books for eight years. 

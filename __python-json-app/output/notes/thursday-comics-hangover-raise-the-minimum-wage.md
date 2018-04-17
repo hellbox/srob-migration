@@ -1,8 +1,8 @@
 +++
 index = "-JyGo5aY9dyxVW3I2PgG"
-_sort_create_date = 1441260360
-_sort_last_updated = 1441260420
-_sort_publish_date = 1441299360
+sort_create_date = 1441260360
+sort_last_updated = 1441260420
+sort_publish_date = 1441299360
 create_date = "2015-09-02T23:06:00-07:00"
 publish_date = "2015-09-03T09:56:00-07:00"
 date = "2015-09-03T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "One of the best relationship comics of the 90s is reborn as a comic about the alienation of divorce. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/bob-fingerman"]
+notes_about = ""
 books = ["books/maximum-minimum-wage"]
 +++
 <p class="intro">Every comics fan knows Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country. Thursday Comics Hangover is a weekly column reviewing some of the new books that I pick up at [Phoenix Comics and Games](http://phoenixseattle.com/), my friendly neighborhood comic book store.</p>

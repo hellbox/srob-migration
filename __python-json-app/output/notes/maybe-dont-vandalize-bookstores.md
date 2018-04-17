@@ -1,8 +1,8 @@
 +++
 index = "-K3RajDCd5PfvURzLoiY"
-_sort_create_date = 1447883880
-_sort_last_updated = 1447894140
-_sort_publish_date = 1447883880
+sort_create_date = 1447883880
+sort_last_updated = 1447894140
+sort_publish_date = 1447883880
 create_date = "2015-11-18T13:58:00-08:00"
 publish_date = "2015-11-18T13:58:00-08:00"
 date = "2015-11-18T13:58:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "No, terrorists did not open a gift shop in Denver."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/news", "tags/isis"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <blockquote>A Denver-area store called Isis Books & Gifts wants the world to know its name comes from the Egyptian goddess of healing and motherhood and it isn't run by terrorists.</blockquote>

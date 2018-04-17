@@ -1,8 +1,8 @@
 +++
 index = "-K24V_efvpLQViGko7gl"
-_sort_create_date = 1446422640
-_sort_last_updated = 1446447720
-_sort_publish_date = 1446422640
+sort_create_date = 1446422640
+sort_last_updated = 1446447720
+sort_publish_date = 1446422640
 create_date = "2015-11-01T16:04:00-08:00"
 publish_date = "2015-11-01T16:04:00-08:00"
 date = "2015-11-01T16:04:00-08:00"
@@ -23,11 +23,11 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 image = ""
 review_relationship = ["reviews/short-run-for-the-long-haul"]
-author_relationship = ["authors/peter-and-maria-hoey"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

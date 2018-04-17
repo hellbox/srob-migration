@@ -1,8 +1,8 @@
 +++
 index = "-Km5P12w8vJEuB6svpWH"
-_sort_create_date = 1496903580
-_sort_last_updated = 1496903580
-_sort_publish_date = 1496930400
+sort_create_date = 1496903580
+sort_last_updated = 1496903580
+sort_publish_date = 1496930400
 create_date = "2017-06-07T23:33:00-07:00"
 publish_date = "2017-06-08T07:00:00-07:00"
 date = "2017-06-08T07:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496903407249/come
 twitterauto = "Let's just take a moment to appreciate the fact that James Comey's testimony is very well-written."
 facebookauto = "Let's just take a moment to appreciate the fact that James Comey's testimony is very well-written. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1496903407249/comeyfbiportrait.jpg)</p>

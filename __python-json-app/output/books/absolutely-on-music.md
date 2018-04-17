@@ -1,8 +1,8 @@
 +++
 index = "-KZdNpBQIv3mlXlZMs7X"
-_sort_create_date = 1482458040
-_sort_last_updated = 1482458040
-_sort_publish_date = 1482458040
+sort_create_date = 1482458040
+sort_last_updated = 1482458040
+sort_publish_date = 1482458040
 create_date = "2016-12-22T17:54:00-08:00"
 publish_date = "2016-12-22T17:54:00-08:00"
 date = "2016-12-22T17:54:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hnazkBFVZzNchaOfoc5mt3wpY4WpLUx9Xc6W4eOmw_ystImRPkHPA8BMgeDMJwM0nPV-zUmoLD65LTy3nSuOF-yWYQ0"
 url = "/webhook-uploads/1482458012211/absolutelymusic.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 15779
 
 review_relationship = ["reviews/choose-your-own-year-in-reading"]
-author_relationship = ["authors/haruki-murakami"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

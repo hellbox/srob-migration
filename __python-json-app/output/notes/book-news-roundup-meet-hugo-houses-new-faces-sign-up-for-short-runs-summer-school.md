@@ -1,8 +1,8 @@
 +++
 index = "-Knfa4W7t7G-AnzRqtHF"
-_sort_create_date = 1498601220
-_sort_last_updated = 1498667100
-_sort_publish_date = 1498673700
+sort_create_date = 1498601220
+sort_last_updated = 1498667100
+sort_publish_date = 1498673700
 create_date = "2017-06-27T15:07:00-07:00"
 publish_date = "2017-06-28T11:15:00-07:00"
 date = "2017-06-28T11:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in book news: Meet @HugoHouse's new faces and sign up for @shortrunseattle's summer school."
 facebookauto = "Back when the BBC was getting started, there was a dispute over what to call \"viewers.\" Here's a list of other possible words: \"auralooker, glancer, looker, looker-in, optavuist, optovisor, seer, sighter, teleseer, teleserver, televist, teleobservist, televor, viewer-in, visionnaire, visionist, visor, vizior, [and] vizzior.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/hugo-house", "tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Hugo House [announced their new Poet-In-Residence yesterday](https://hugohouse.org/announcing-2017-2018-poetry-writer-residence-made-hugo-house-fellows/). **Amber Flame** will be available for appointments starting on September 15th. 

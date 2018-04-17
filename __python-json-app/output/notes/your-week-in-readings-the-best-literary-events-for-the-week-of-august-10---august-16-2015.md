@@ -1,8 +1,8 @@
 +++
 index = "-Jw9J9eSatlLjUlTsTDt"
-_sort_create_date = 1438987080
-_sort_last_updated = 1438987380
-_sort_publish_date = 1439225880
+sort_create_date = 1438987080
+sort_last_updated = 1438987380
+sort_publish_date = 1439225880
 create_date = "2015-08-07T15:38:00-07:00"
 publish_date = "2015-08-10T09:58:00-07:00"
 date = "2015-08-10T09:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/university-book-store", "tags/phoenix-comics-and-games", "tags/third-place-books-lake-forest-park", "tags/seattle-public-library", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1438987366935/heirloom-apple.jpg)</p>

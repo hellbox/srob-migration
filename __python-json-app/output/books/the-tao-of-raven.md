@@ -1,8 +1,8 @@
 +++
 index = "-KUyyeIvhOg7vrz9UpaS"
-_sort_create_date = 1477451580
-_sort_last_updated = 1477451820
-_sort_publish_date = 1477451580
+sort_create_date = 1477451580
+sort_last_updated = 1477451820
+sort_publish_date = 1477451580
 create_date = "2016-10-25T20:13:00-07:00"
 publish_date = "2016-10-25T20:13:00-07:00"
 date = "2016-10-25T20:13:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/sniFFv73SpNfoHYBCfnPX_mRGWISqhP3GqzUiPO9ykrH7-jFguuDlVaGYOI4S9WCNt-zmWpkYspMZpmWpEQ57XNI4ZXq"
 url = "/webhook-uploads/1477451621178/content%3Fid%3DifsPkAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 4784
 
 review_relationship = ""
-author_relationship = ["authors/ernestine-hayes"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-tao-of-raven"]
 notes_relationship = ""
 +++

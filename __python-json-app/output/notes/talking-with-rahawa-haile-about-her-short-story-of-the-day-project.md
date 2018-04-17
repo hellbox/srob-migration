@@ -1,8 +1,8 @@
 +++
 index = "-K6txt27gbO4H6W6CpDU"
-_sort_create_date = 1451597700
-_sort_last_updated = 1453002720
-_sort_publish_date = 1452109500
+sort_create_date = 1451597700
+sort_last_updated = 1453002720
+sort_publish_date = 1452109500
 create_date = "2015-12-31T13:35:00-08:00"
 publish_date = "2016-01-06T11:45:00-08:00"
 date = "2016-01-06T11:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We talked to @rahawahaile about her Short Story of the Day project, now that it has come to a close."
 facebookauto = "We talked to Rahawa Haile about her Short Story of the Day project, now that it has come to a close."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
-authors_notes = ["authors/rahawa-haile"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Since our launch week, we've been wrapping up Rahawa Haile's Short Story of the Day project every Saturday. Now that the project is ended, she was nice enough to sit down with us and talk about it. Look for a new thing for us, coming this Saturday.</p>

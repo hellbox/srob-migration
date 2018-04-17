@@ -1,8 +1,8 @@
 +++
 index = "-JuSWBGoFGoGBUZP4J54"
-_sort_create_date = 1437161760
-_sort_last_updated = 1437161940
-_sort_publish_date = 1437161760
+sort_create_date = 1437161760
+sort_last_updated = 1437161940
+sort_publish_date = 1437161760
 create_date = "2015-07-17T12:36:00-07:00"
 publish_date = "2015-07-17T12:36:00-07:00"
 date = "2015-07-17T12:36:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/media", "tags/gawker"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 For the last twelve hours or so, the internet has been railing against Gawker for publishing a post that allegedly outed a non-public figure, a man married to a woman, for trying to hire a male escort. This is, of course, a dumb and wrong post for Gawker to publish. Full stop. There's no hypocrisy to unveil, no Republican moral double-back-flips to disprove in this story. Some guy has a social life that other people might describe as screwed-up. Who cares? Where's the story?

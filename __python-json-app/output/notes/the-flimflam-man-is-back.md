@@ -1,8 +1,8 @@
 +++
 index = "-L43y54v4DI7PsOqe7_2"
-_sort_create_date = 1517280540
-_sort_last_updated = 1517288820
-_sort_publish_date = 1517864400
+sort_create_date = 1517280540
+sort_last_updated = 1517288820
+sort_publish_date = 1517864400
 create_date = "2018-01-29T18:49:00-08:00"
 publish_date = "2018-02-05T13:00:00-08:00"
 date = "2018-02-05T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1517280465025/
 twitterauto = "Sponsor Pope Brock's Charlatan is a vivid look at a famous flimflam man. Don't miss the first of two excerpts!"
 facebookauto = "You do not want to miss (we're serious) this week's inside peek: Charlatan, by sponsor Pope Brock."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/pope-brock"]
+notes_about = ""
 books = ["books/charlatan"]
 +++
 <p class="image-left">![](/webhook-uploads/1517280508773/Charlatan_150.jpeg)</p>

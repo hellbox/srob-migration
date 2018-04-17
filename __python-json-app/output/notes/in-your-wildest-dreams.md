@@ -1,8 +1,8 @@
 +++
 index = "-KQM3GBQGZUd-FMCjORO"
-_sort_create_date = 1472487000
-_sort_last_updated = 1472487000
-_sort_publish_date = 1472500800
+sort_create_date = 1472487000
+sort_last_updated = 1472487000
+sort_publish_date = 1472500800
 create_date = "2016-08-29T09:10:00-07:00"
 publish_date = "2016-08-29T13:00:00-07:00"
 date = "2016-08-29T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @HumanitiesWA is here to let you know it's time to register for their Bedtime Stories fundraiser!"
 facebookauto = "Sponsor Humanities Washington is here to let you know it's time to register for their Bedtime Stories fundraiser!"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor Humanities Washignton is here to tell you that their annual Bedtime Stories fundraiser is opening registration on September 1st. Be sure to grab a table and fill it with your friends, for an amazing night of stories, music, wine, and cheer.

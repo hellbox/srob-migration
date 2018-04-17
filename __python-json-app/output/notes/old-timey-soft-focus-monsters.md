@@ -1,8 +1,8 @@
 +++
 index = "-K7F1lAyAt4A0rElf79g"
-_sort_create_date = 1451968080
-_sort_last_updated = 1451968080
-_sort_publish_date = 1452016500
+sort_create_date = 1451968080
+sort_last_updated = 1451968080
+sort_publish_date = 1452016500
 create_date = "2016-01-04T20:28:00-08:00"
 publish_date = "2016-01-05T09:55:00-08:00"
 date = "2016-01-05T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/sarah-mangold"]
+notes_byline = ["writers/sarah-mangold"]
 tags_notes = ["tags/tuesday-poem", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Long shot prairie<br>

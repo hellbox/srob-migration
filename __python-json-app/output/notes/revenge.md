@@ -1,8 +1,8 @@
 +++
 index = "-K_X702Jof45asob1-SR"
-_sort_create_date = 1483409940
-_sort_last_updated = 1483476060
-_sort_publish_date = 1483466100
+sort_create_date = 1483409940
+sort_last_updated = 1483476060
+sort_publish_date = 1483466100
 create_date = "2017-01-02T18:19:00-08:00"
 publish_date = "2017-01-03T09:55:00-08:00"
 date = "2017-01-03T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483464485652/Scre
 twitterauto = "Elisa Chavez is our first Poet in Residence."
 facebookauto = "Our first Poet in Residence is Elisa Chavez."
 make_image_tweet = "True"
-byline = ["writers/elisa-chavez"]
+notes_byline = ["writers/elisa-chavez"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Since you mention it, I think I will start that race war.<br>

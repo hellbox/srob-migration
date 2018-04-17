@@ -1,8 +1,8 @@
 +++
 index = "-KPyVkZIUtFVxofA-pIo"
-_sort_create_date = 1472075040
-_sort_last_updated = 1472170860
-_sort_publish_date = 1472587200
+sort_create_date = 1472075040
+sort_last_updated = 1472170860
+sort_publish_date = 1472587200
 create_date = "2016-08-24T14:44:00-07:00"
 publish_date = "2016-08-30T13:00:00-07:00"
 date = "2016-08-30T13:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Cancer in the cells"
 dek = "A new novel rips the walls away from a prison in eastern Washington."
 facebookauto = "A new novel reimagines One Day in the Life of Ivan Denisovich, only set in a contemporary Walla Walla prison."
 twitterauto = "A new novel reimagines One Day in the Life of Ivan Denisovich in a Walla Walla prison."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/zek"]
 tags_reviews = ["tags/novel", "tags/prison"]
-authors_reviews = ["authors/arthur-longworth"]
+reviews_about = ""
 +++
 
 One day in the not-so-distant future, Americans will look back on the way we currently treat our prisoners with shame and regret. Over-incarceration abounds — particularly of African-American and Hispanic men — and rehabilitation is barely an afterthought. Drug crimes are still hugely over-represented (as of 2014, half of all prisoners sentenced to more than a year in prison were there due to the War on Drugs) and the race and class issues in our prison system are so glaringly obvious that to call them “subtext” would be insulting to the very concept of text.

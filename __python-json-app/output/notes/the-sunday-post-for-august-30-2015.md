@@ -1,8 +1,8 @@
 +++
 index = "-Jxs2wvkN3EfEU69_5RU"
-_sort_create_date = 1440828300
-_sort_last_updated = 1440828840
-_sort_publish_date = 1440950400
+sort_create_date = 1440828300
+sort_last_updated = 1440828840
+sort_publish_date = 1440950400
 create_date = "2015-08-28T23:05:00-07:00"
 publish_date = "2015-08-30T09:00:00-07:00"
 date = "2015-08-30T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Sunday Post, with pieces by @PatrickIber, @kissane, and others. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[No Country for Young women](http://incisive.nu/2015/no-country/)</h5>

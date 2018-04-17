@@ -1,8 +1,8 @@
 +++
 index = "-KXH8OJlzOhWtVRyCH9e"
-_sort_create_date = 1479920640
-_sort_last_updated = 1479923100
-_sort_publish_date = 1479931200
+sort_create_date = 1479920640
+sort_last_updated = 1479923100
+sort_publish_date = 1479931200
 create_date = "2016-11-23T09:04:00-08:00"
 publish_date = "2016-11-23T12:00:00-08:00"
 date = "2016-11-23T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "November's Criminal Fiction, from @daneetsteffens, is here, featuring an interview with @justinelavaworm. "
 facebookauto = "November's Criminal Fiction, from Daneet Steffens, is here, featuring an interview with Justine Larbalestier, a look at five new engaging titles, and a tip for great podcast you're sure to love if you love crime ficiton."
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/ian-rankin", "authors/stuart-neville", "authors/-cl-taylor", "authors/craig-robertson", "authors/mark-billingham", "authors/ruth-ware", "authors/michael-connelly", "authors/linwood-barclay", "authors/charles-finch", "authors/suzanne-chazin", "authors/lee-child", "authors/justine-larbalestier", "authors/megan-abbott", "authors/joanna-bourne", "authors/isak-dinesen", "authors/leanne-hall", "authors/alaya-dawn-johnson", "authors/attica-locke"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

@@ -1,0 +1,28 @@
++++
+index = "-K5Y6YRdfK7P6iOEL9U5"
+sort_create_date = 1464060540
+sort_last_updated = 1464060540
+sort_publish_date = 1464060540
+create_date = "2016-05-23T20:29:00-07:00"
+publish_date = "2016-05-23T20:29:00-07:00"
+date = "2016-05-23T20:29:00-07:00"
+last_updated = "2016-05-23T20:29:00-07:00"
+preview_url = "3eff59e5-962c-ca94-4e8a-b8f4ed4e7057"
+byline = "David Shields"
+title = "David Shields"
+alphabetize_by = "shields"
+is_draft = ""
+is_seattle_pnw_writer = true
+written_about = ""
+books_author = ["books/other-people"]
+reviews_about = ""
+notes_about = ["notes/its-time-to-stop-giving-cash-awards-to-david-shields", "notes/book-news-roundup-a-book-fair-for-scarecrow-and-a-poster-for-bowie", "notes/book-news-roundup-the-librarians-strike-back", "notes/talking-to-ourselves"]
+sponsorships_author = ""
+email = ""
+twitter = ""
+website = ""
+bio = ""
+reviews_byline = ""
+notes_byline = ""
+books_translator = ""
++++

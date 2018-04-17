@@ -1,8 +1,8 @@
 +++
 index = "-KYXHXPll5011qpUeWWz"
-_sort_create_date = 1481265240
-_sort_last_updated = 1481265420
-_sort_publish_date = 1481745660
+sort_create_date = 1481265240
+sort_last_updated = 1481265420
+sort_publish_date = 1481745660
 create_date = "2016-12-08T22:34:00-08:00"
 publish_date = "2016-12-14T12:01:00-08:00"
 date = "2016-12-14T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481264572552/grin
 twitterauto = "This week brings events for kids and a reading from Donna Miscolta."
 facebookauto = "Lots of fun holiday readings for kids this week, along with other literary events."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/donna-miscolta"]
+notes_about = ""
 books = ["books/hola-and-goodbye"]
 +++
 <p class="noindent"><h5>**Wednesday December 14th: Lit Fix and Origin Stories**</h5></p> 

@@ -1,8 +1,8 @@
 +++
 index = "-KetdbMTJTjFHvTT6qNt"
-_sort_create_date = 1489173360
-_sort_last_updated = 1489173360
-_sort_publish_date = 1489180560
+sort_create_date = 1489173360
+sort_last_updated = 1489173360
+sort_publish_date = 1489180560
 create_date = "2017-03-10T11:16:00-08:00"
 publish_date = "2017-03-10T13:16:00-08:00"
 date = "2017-03-10T13:16:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/video-games"]
-authors_notes = ["authors/haruki-murakami"]
+notes_about = ""
 books = ""
 +++
 Well, [this is pretty cool](http://www.openculture.com/2017/03/memoranda-haruki-murakamis-world-recreated-as-a-classic-adventure-video-game.html): 

@@ -1,8 +1,8 @@
 +++
 index = "-JziDas-a4pUpck7BvGb"
-_sort_create_date = 1442810820
-_sort_last_updated = 1442903460
-_sort_publish_date = 1442810820
+sort_create_date = 1442810820
+sort_last_updated = 1442903460
+sort_publish_date = 1442810820
 create_date = "2015-09-20T21:47:00-07:00"
 publish_date = "2015-09-20T21:47:00-07:00"
 date = "2015-09-20T21:47:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Juvenile Nonfiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/PnypyHipR4mzWA8btp7rwqrxfWyn8ksx9eTWuaVCl0Va__bmjGQwhWAh-RfzTdu3dOwsF6Y5FgIE1s73xklNg8bS1dpS"
 url = "/webhook-uploads/1442810849506/content%3Fid%3DutFwCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 36697
 
 review_relationship = ["reviews/juvenile-detention"]
-author_relationship = ["authors/colleen-frakes"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-november-23---29", "notes/dont-forget-to-celebrate-small-business-saturday", "notes/for-the-comics-fan-who-has-everything", "notes/thursday-comics-hangover-mini-comics-big-love", "notes/library-comics"]
 +++

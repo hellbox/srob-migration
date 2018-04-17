@@ -1,8 +1,8 @@
 +++
 index = "-KMrtNcEgNjmMX__kuKq"
-_sort_create_date = 1468742820
-_sort_last_updated = 1468743480
-_sort_publish_date = 1468771200
+sort_create_date = 1468742820
+sort_last_updated = 1468743480
+sort_publish_date = 1468771200
 create_date = "2016-07-17T01:07:00-07:00"
 publish_date = "2016-07-17T09:00:00-07:00"
 date = "2016-07-17T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post: @GievesLondon's Davide Taub, the misunderstood #brokenwindows theory, & @HugoHouse student Putsata Reang"
 facebookauto = "The Sunday Post on an inimitable suit, the misunderstood broken windows theory, balancing an identity that makes your family unhappy, and the issue of preventable deaths in hospitals."
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.newyorker.com/business/currency/the-suit-that-couldnt-be-copied" title="The Suit That Couldn’t Be Copied">The Suit That Couldn’t Be Copied</a></h5>

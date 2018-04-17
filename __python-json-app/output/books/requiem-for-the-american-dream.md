@@ -1,8 +1,8 @@
 +++
 index = "-Kvf-lz9DPdV1Agg54cW"
-_sort_create_date = 1507181400
-_sort_last_updated = 1507183140
-_sort_publish_date = 1507181400
+sort_create_date = 1507181400
+sort_last_updated = 1507183140
+sort_publish_date = 1507181400
 create_date = "2017-10-04T22:30:00-07:00"
 publish_date = "2017-10-04T22:30:00-07:00"
 date = "2017-10-04T22:30:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Political Science"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Y4Gosu_nsqcbEywLouoj1qRFB0EcK7nlAfWeRZVU8wIb7I51bX4xtdusiW4u48dSrxqHNzBv-HvYXYEYiRAec6GVF8s"
 url = "/webhook-uploads/1507181403016/content%3Fid%3DJcigDAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 11391
 
 review_relationship = ["reviews/the-good-old-days-arent-what-they-used-to-be"]
-author_relationship = ["authors/noam-chomsky"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

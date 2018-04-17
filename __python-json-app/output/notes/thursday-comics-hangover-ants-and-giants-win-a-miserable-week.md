@@ -1,8 +1,8 @@
 +++
 index = "-K1CjakXHj-qkKRLa8Jx"
-_sort_create_date = 1445487060
-_sort_last_updated = 1445529000
-_sort_publish_date = 1445540460
+sort_create_date = 1445487060
+sort_last_updated = 1445529000
+sort_publish_date = 1445540460
 create_date = "2015-10-21T21:11:00-07:00"
 publish_date = "2015-10-22T12:01:00-07:00"
 date = "2015-10-22T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445486410222/gian
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/giant-days", "tags/ant-man", "tags/godzilla-in-hell"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Maybe I was just in a bad mood or something, but I didn't find much enjoyment in the comics I bought yesterday. The new issue of *Godzilla in Hell* is a total bust — a real downer of a serious, clunky monster comic after [last issue’s greatness](http://seattlereviewofbooks.com/_wh_previews/notes/fcadff8f-2ef5-7195-98f1-bccd58294b8f/). The 28th issue of *Astro City* continues a depressing trend with that series; what began as commentary on superheroes has basically become a boring superhero anthology comic. Warren Ellis’s first issue of *Karnak* feels like the same mainstream Warren Ellis we’ve seen a million times before: some edgy torture and a few lines of absurd, self-aware dialogue. The art by Gerardo Zaffino looks pretty cool at first, until some action happens and you realize you can’t tell what the hell is going on. (If you can explain what Karnak does to the bullet that’s fired at him in a scene late in the book, I’d love to hear it. All Zaffino drew was a blurry finger and some speed lines. I have no idea what was supposed to have happened there.)

@@ -1,8 +1,8 @@
 +++
 index = "-Kb2XjaEYFVtKr0754Nh"
-_sort_create_date = 1485044340
-_sort_last_updated = 1485062940
-_sort_publish_date = 1485106200
+sort_create_date = 1485044340
+sort_last_updated = 1485062940
+sort_publish_date = 1485106200
 create_date = "2017-01-21T16:19:00-08:00"
 publish_date = "2017-01-22T09:30:00-08:00"
 date = "2017-01-22T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Post-inauguration, reactions from @DanRather, @MargaretAtwood, and the science resistance front\u2026in the Sunday Post"
 facebookauto = "After the inauguration, an impassioned response from Dan Rather, a call to action from Margaret Atwood, and strong words from science \u2014 plus a few good rants for good measure. Enjoy."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/margaret-atwood"]
+notes_about = ""
 books = ""
 +++
 <p>Piecing together the Sunday Post is usually easy and a pleasure; in fact, it&#8217;s an excuse and justification for the most idle pleasure possible: endless scrolling through the world of online content, mind half alert, fingers on autopilot.</p>

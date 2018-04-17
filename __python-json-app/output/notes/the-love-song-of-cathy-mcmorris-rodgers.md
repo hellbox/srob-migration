@@ -1,8 +1,8 @@
 +++
 index = "-KjBHlW-1Y1G1jHjXyau"
-_sort_create_date = 1493781120
-_sort_last_updated = 1493781120
-_sort_publish_date = 1493835060
+sort_create_date = 1493781120
+sort_last_updated = 1493781120
+sort_publish_date = 1493835060
 create_date = "2017-05-02T20:12:00-07:00"
 publish_date = "2017-05-03T11:11:00-07:00"
 date = "2017-05-03T11:11:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "With Obamacare in peril again, here's a political poem for @cathymcmorris, from @mizkatelebo."
 facebookauto = "With Obamacare in peril again, here's a political poem for Cathy McMorris Rodgers, from Kate Lebo."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry"]
-authors_notes = ["authors/kate-lebo"]
+notes_about = ""
 books = ""
 +++
 Spokane-by-way-of-Seattle author Kate Lebo's poem "[A Prayer to Cathy McMorris Rodgers for Intercession on My Behalf](http://bloodorangereview.com/katelebo/a-prayer-to-cathy-mcmorris-rodgers-for-intercession-on-my-behalf/)" at *Blood Orange Review* is exactly what a political poem should be: it is reasonable, and passionate, and meaningful. The poem is aimed directly at McMorris Rodgers, who is Lebo's Congressional representative, and it's a plea for the congresswoman to remember everyone that she represents in the House. On this week when House Republicans seem to be considering, yet again, the repeal of Obamacare, the poem lands with a special weight. It's a really beautiful and timely piece of art.

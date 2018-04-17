@@ -1,8 +1,8 @@
 +++
 index = "-KlsoOSC2Osfy4L0eVNd"
-_sort_create_date = 1496675580
-_sort_last_updated = 1496689380
-_sort_publish_date = 1496692800
+sort_create_date = 1496675580
+sort_last_updated = 1496689380
+sort_publish_date = 1496692800
 create_date = "2017-06-05T08:13:00-07:00"
 publish_date = "2017-06-05T13:00:00-07:00"
 date = "2017-06-05T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496675531365/Biog
 twitterauto = "Sponsor @HelloTheFuture is here with her anything-but-ordinary debut."
 facebookauto = "Sponsor Nicole Dieker is here with her anything-but-ordinary debut."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1496675517276/BiographiesofOrdinaryPeople-small.jpg)</p>

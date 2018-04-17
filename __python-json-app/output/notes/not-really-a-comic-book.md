@@ -1,8 +1,8 @@
 +++
 index = "-L5RvVuqPc-mWn8zNvEi"
-_sort_create_date = 1518756300
-_sort_last_updated = 1519101660
-_sort_publish_date = 1519164000
+sort_create_date = 1518756300
+sort_last_updated = 1519101660
+sort_publish_date = 1519164000
 create_date = "2018-02-15T20:45:00-08:00"
 publish_date = "2018-02-20T14:00:00-08:00"
 date = "2018-02-20T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Ever forget a dream you wanted to remember? Us, too. That's why we love this sample from sponsor Kevin Marshall."
 facebookauto = "Ever forget a dream you wanted to remember? Us, too. That's why we love this week's sample read from sponsor Kevin Marshall."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/kevin-marshall"]
+notes_about = ""
 books = ["books/not-really-an-emotion"]
 +++
 <p class="image-left">![](/webhook-uploads/1518756199842/Not%20Really%20an%20Emotion_5_150.jpeg)</p>

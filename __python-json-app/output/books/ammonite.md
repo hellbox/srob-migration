@@ -1,8 +1,8 @@
 +++
 index = "-JwIer_i3un_LuFqus5U"
-_sort_create_date = 1439144040
-_sort_last_updated = 1439144100
-_sort_publish_date = 1439144040
+sort_create_date = 1439144040
+sort_last_updated = 1439144100
+sort_publish_date = 1439144040
 create_date = "2015-08-09T11:14:00-07:00"
 publish_date = "2015-08-09T11:14:00-07:00"
 date = "2015-08-09T11:14:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4RmHDvieKxq1uHgnFlKVQNJTeyeM9RSZh7DAfki03RuZF6tYVhGZeuSDxNFwuvGRZTwK-Mz-1vf2nQbxKBqeOegC_qT_Zw"
 url = "/webhook-uploads/1439144048329/content%3Fid%3DNvFzZO4Rw8EC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 9063
 
 review_relationship = ["reviews/pronouns-in-space"]
-author_relationship = ["authors/nicola-griffith"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

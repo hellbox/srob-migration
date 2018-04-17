@@ -1,8 +1,8 @@
 +++
 index = "-Kj6E2E3wQMHbdZRO89u"
-_sort_create_date = 1493696220
-_sort_last_updated = 1493696280
-_sort_publish_date = 1493744100
+sort_create_date = 1493696220
+sort_last_updated = 1493696280
+sort_publish_date = 1493744100
 create_date = "2017-05-01T20:37:00-07:00"
 publish_date = "2017-05-02T09:55:00-07:00"
 date = "2017-05-02T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493696183684/59po
 twitterauto = "Our Poet in Residence for May is @Oliver_delapaz, and his first poem is titled \"Diaspora Sonnet I\""
 facebookauto = "Our Poet in Residence for May is Oliver de la Paz, and his first poem is titled \"Diaspora Sonnet I\""
 make_image_tweet = "False"
-byline = ["writers/oliver-de-la-paz"]
+notes_byline = ["writers/oliver-de-la-paz"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I walk the narrow pedestrian passage<br>

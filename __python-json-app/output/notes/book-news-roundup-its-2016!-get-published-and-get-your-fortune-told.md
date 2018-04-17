@@ -1,8 +1,8 @@
 +++
 index = "-K7r4vYAtsQK52jJ3iP0"
-_sort_create_date = 1452623220
-_sort_last_updated = 1452737880
-_sort_publish_date = 1452632460
+sort_create_date = 1452623220
+sort_last_updated = 1452737880
+sort_publish_date = 1452632460
 create_date = "2016-01-12T10:27:00-08:00"
 publish_date = "2016-01-12T13:01:00-08:00"
 date = "2016-01-12T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452622710063/sean
 twitterauto = "In today's book news roundup: @HugoHouse, @fbpress, & @jackstrawarts."
 facebookauto = "Our first book news roundup of 2016 involves a series of literary fortune-telling evenings, a bunch of writers programs, and a few exciting moves for Seattle authors. "
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/sorrento-hotel", "tags/hugo-house", "tags/jack-straw", "tags/floating-bridge"]
-authors_notes = ["authors/sarah-galvin", "authors/david-schmader", "authors/karen-finneyfrock", "authors/shin-yu-pai", "authors/ej-koh", "authors/megan-kruse"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1452622710063/seance.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KDuzVqfc8P2LanDfNvn"
-_sort_create_date = 1459131120
-_sort_last_updated = 1459131120
-_sort_publish_date = 1459192260
+sort_create_date = 1459131120
+sort_last_updated = 1459131120
+sort_publish_date = 1459192260
 create_date = "2016-03-27T19:12:00-07:00"
 publish_date = "2016-03-28T12:11:00-07:00"
 date = "2016-03-28T12:11:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1459130880081/Apex
 twitterauto = "Congratulations to @ramez, winner of the Philip K. Dick Award @norwescon!"
 facebookauto = "The 39th annual Norwescon was all about community."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/norwescon", "tags/philip-k-dick-award"]
-authors_notes = ["authors/ramez-naam"]
+notes_about = ""
 books = ""
 +++
 Last weekend’s 39th annual [Norwescon]( http://www.norwescon.org/), as per usual, was the most fun a human being could possibly have in SeaTac. The sci-fi convention never fell for the media bombast and glitz that comic book conventions became enchanted by a decade ago; it’s always been a convention for fans and by fans, which means it’s a rare opportunity for writers and readers to get together in a low-stress, friendly environment.

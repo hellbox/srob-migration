@@ -1,8 +1,8 @@
 +++
 index = "-Kxu5v9-dVWcQ6NSAaPV"
-_sort_create_date = 1509582120
-_sort_last_updated = 1510618980
-_sort_publish_date = 1510606800
+sort_create_date = 1509582120
+sort_last_updated = 1510618980
+sort_publish_date = 1510606800
 create_date = "2017-11-01T17:22:00-07:00"
 publish_date = "2017-11-13T13:00:00-08:00"
 date = "2017-11-13T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509581837720/Kell
 twitterauto = "Read an essay from It's Just Nerves by this week's sponsor: writer, editor, and much-missed Seattleite @kellydavio."
 facebookauto = "Read an essay from It's Just Nerves by this week's sponsor: writer, editor, and much-missed Seattleite Kelly Davio."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/kelly-davio"]
+notes_about = ""
 books = ["books/its-just-nerves"]
 +++
 <p class="image-left">![](/webhook-uploads/1509581683318/It's%20just%20nerves_150.jpeg)</p>

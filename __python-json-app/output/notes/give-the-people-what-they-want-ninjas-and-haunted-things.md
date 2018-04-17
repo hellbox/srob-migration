@@ -1,8 +1,8 @@
 +++
 index = "-KCnDRb4iym-qshpq5B-"
-_sort_create_date = 1457927040
-_sort_last_updated = 1458658740
-_sort_publish_date = 1457973840
+sort_create_date = 1457927040
+sort_last_updated = 1458658740
+sort_publish_date = 1457973840
 create_date = "2016-03-13T20:44:00-07:00"
 publish_date = "2016-03-14T09:44:00-07:00"
 date = "2016-03-14T09:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457926305416/51zN
 twitterauto = "A school librarian tells us what the kids really want: ninjas and haunted things."
 facebookauto = "Our third interview with a school librarian gets into what the kids really want: ninjas and haunted things."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Audra Gallegos, school librarian at Lawton Elementary School, started out as a teacher. Why’d she make the switch to librarian? Being a teacher “didn’t turn out to be literary enough,” she says. “When WASL became more important, the writing became more dry. It was less about experiencing the world through literature and more about writing essays.”

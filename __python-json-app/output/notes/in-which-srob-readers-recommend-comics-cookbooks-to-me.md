@@ -1,8 +1,8 @@
 +++
 index = "-KjvZmPKEiifXcbN8BnE"
-_sort_create_date = 1494574320
-_sort_last_updated = 1494611940
-_sort_publish_date = 1494609300
+sort_create_date = 1494574320
+sort_last_updated = 1494611940
+sort_publish_date = 1494609300
 create_date = "2017-05-12T00:32:00-07:00"
 publish_date = "2017-05-12T10:15:00-07:00"
 date = "2017-05-12T10:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494573538613/Scre
 twitterauto = "Our readers had some great comics cookbook recommendations!"
 facebookauto = "Yesterday, we wondered why there weren't any good comics cookbooks. Three of our readers responded with some great recommendations."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/cookbook", "tags/queen-anne-book-company"]
-authors_notes = ["authors/colleen-frakes"]
+notes_about = ""
 books = ""
 +++
 Yesterday, [I wrote that comics and cookbooks go together as perfectly as bread and butter](http://www.seattlereviewofbooks.com/reviews/it-should-exist-but-it-doesnt/). I also pointed out that no publisher has put together a truly great, comprehensive comics cookbook. In comments on Facebook, though, a few readers pointed out that there are some more comics recipes out there for you to enjoy.

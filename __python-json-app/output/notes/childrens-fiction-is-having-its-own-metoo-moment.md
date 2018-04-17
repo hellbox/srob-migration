@@ -1,8 +1,8 @@
 +++
 index = "-L5PwK-dRyfNctCDWFm1"
-_sort_create_date = 1518722940
-_sort_last_updated = 1518724980
-_sort_publish_date = 1518725700
+sort_create_date = 1518722940
+sort_last_updated = 1518724980
+sort_publish_date = 1518725700
 create_date = "2018-02-15T11:29:00-08:00"
 publish_date = "2018-02-15T12:15:00-08:00"
 date = "2018-02-15T12:15:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Children's fiction is having its own #MeToo moment."
 facebookauto = "Two popular YA authors have been accused of sexual misbehavior. Are more to come?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/metoo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [Earlier this week, this happened](http://ew.com/books/2018/02/12/jay-asher-harassment-claims/):

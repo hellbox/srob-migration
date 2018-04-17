@@ -1,8 +1,8 @@
 +++
 index = "-JsgCVY3ZNu4h_u9cdlZ"
-_sort_create_date = 1435260780
-_sort_last_updated = 1435810380
-_sort_publish_date = 1435260780
+sort_create_date = 1435260780
+sort_last_updated = 1435810380
+sort_publish_date = 1435260780
 create_date = "2015-06-25T12:33:00-07:00"
 publish_date = "2015-06-25T12:33:00-07:00"
 date = "2015-06-25T12:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-art"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Is it presumptuous to say that book covers are on the whole better now — more attractive, more informative, less clichéd — than at any other time in history? I believe that to be true, but I'm probably setting myself up for some epic arguments in the near future. Still, [this retrospective on the life and work of H. Lawrence Hoffman](http://www.printmag.com/daily-heller/a-life-in-paperbacks-h-lawrence-hoffman/) inspires no small amount of nostalgia for the boom days of paperback books. Nobody is making anything quite like Hoffman's covers anymore, and that's kind of a shame. They're a little gaudy, sure, but they're great fun. I especially like the cover for *FOG*.

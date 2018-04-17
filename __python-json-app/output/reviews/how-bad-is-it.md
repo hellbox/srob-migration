@@ -1,8 +1,8 @@
 +++
 index = "-L3QNgGHUSEtRMMJawqY"
-_sort_create_date = 1516582860
-_sort_last_updated = 1516583760
-_sort_publish_date = 1516737540
+sort_create_date = 1516582860
+sort_last_updated = 1516583760
+sort_publish_date = 1516737540
 create_date = "2018-01-21T17:01:00-08:00"
 publish_date = "2018-01-23T11:59:00-08:00"
 date = "2018-01-23T11:59:00-08:00"
@@ -13,10 +13,10 @@ title = "How bad is it?"
 dek = "Over the weekend, a hundred thousand Seattleites took to the streets to protest Donald Trump's presidency. They should arm themselves with a new book that explains every awful thing the Trump presidency has done to date."
 facebookauto = "If you read Fire and Fury, you owe it to yourself to pick up this policy-heavy look at the Trump administration."
 twitterauto = "If you read Fire and Fury, you owe it to yourself to pick up this policy-heavy Trump book."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/its-even-worse-than-you-think"]
 tags_reviews = ["tags/donald-trump"]
-authors_reviews = ["authors/david-cay-johnston"]
+reviews_about = ""
 +++
 
 On Saturday, thousands of women’s march protesters made downtown Seattle feel as vibrant and alive as it does on any weekday. You could tell who the protesters were by their signs, by their pink knit hats, by the spontaneous chants that joyfully erupted on street corners and in public spaces. 

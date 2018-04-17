@@ -1,8 +1,8 @@
 +++
 index = "-L-EXgLzoPpv6jxnZ0m0"
-_sort_create_date = 1512089220
-_sort_last_updated = 1512366300
-_sort_publish_date = 1512421200
+sort_create_date = 1512089220
+sort_last_updated = 1512366300
+sort_publish_date = 1512421200
 create_date = "2017-11-30T16:47:00-08:00"
 publish_date = "2017-12-04T13:00:00-08:00"
 date = "2017-12-04T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1512089207061/
 twitterauto = "Make 2018 a great year of reading with a Phinney by Post subscription hand-picked by sponsor Phinney Books."
 facebookauto = "Make 2018 a great year of reading with a Phinney by Post subscription hand-picked by sponsor Phinney Books."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ["books/phinney-by-post"]
 +++
 Phinney Books is one of Seattle's favorite bookstores. It's smartly and creatively curated, it's a delight to be in, and it's an active reading and gathering space — their door is always open to Seattle's literary community. They're sponsoring the site this week to let you know about a  program that brings the spirit of the shop right to your doorstep: [Phinney by Post](http://www.seattlereviewofbooks.com/sponsorships/), a monthly (or every-other-month) subscription service. 

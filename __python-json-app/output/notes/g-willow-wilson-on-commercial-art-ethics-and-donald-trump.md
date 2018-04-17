@@ -1,8 +1,8 @@
 +++
 index = "-K9GhGt2HWDUC1Cqpd3Z"
-_sort_create_date = 1454143500
-_sort_last_updated = 1454143500
-_sort_publish_date = 1454143500
+sort_create_date = 1454143500
+sort_last_updated = 1454143500
+sort_publish_date = 1454143500
 create_date = "2016-01-30T00:45:00-08:00"
 publish_date = "2016-01-30T00:45:00-08:00"
 date = "2016-01-30T00:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444890086802/4843
 twitterauto = "We'll follow you anywhere, @GWillowWilson."
 facebookauto = "Marvel Comics president Ike Perlmutter donated a million dollars to Donald Trump's big event last night. Seattle comics writer G. Willow Wilson wrote the perfect response:"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/marvel-comics", "tags/donald-trump"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ["books/ms-marvel"]
 +++
 Earlier today, [the comics world responded](http://www.bleedingcool.com/2016/01/28/marvel-comics-ceo-isaac-perlmutter-donated-one-million-dollars-to-donald-trumps-veteran-event/) to the news that Marvel president Ike Perlmutter donated one million dollars to Donald Trump's veteran event. Of course, if this were a simple donation to a nonprofit veteran association it would be a nonstory, but the fact that Perlmutter donated it to Trump's event made the donation much more morally sticky. The money did not go, as Trump claimed, directly to veteran's needs; it was [donated to "The Donald Trump Foundation."](http://thefederalist.com/2016/01/28/trumps-new-pro-veterans-website-directs-all-donations-to-trumps-personal-foundation/) The fact is, donating a million dollars to Donald Trump for any purpose is an ostentatious political statement, but donating a million dollars to the event Donald Trump hosted in lieu of attending the final Republican debate before the Iowa caucuses is tantamount to tattooing a "Trump for President 2016" banner across your forehead.

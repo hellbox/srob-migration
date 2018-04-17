@@ -1,8 +1,8 @@
 +++
 index = "-KisArxl0xeJQv6Jzwfw"
-_sort_create_date = 1493443740
-_sort_last_updated = 1493443740
-_sort_publish_date = 1493753220
+sort_create_date = 1493443740
+sort_last_updated = 1493443740
+sort_publish_date = 1493753220
 create_date = "2017-04-28T22:29:00-07:00"
 publish_date = "2017-05-02T12:27:00-07:00"
 date = "2017-05-02T12:27:00-07:00"
@@ -13,10 +13,10 @@ title = "Stand up poetry"
 dek = "Cody Walker and Jason Whitmarsh demonstrate two very different approaches to funny poems."
 facebookauto = "Two writers bring us poems about Donald Trump and Aquaman."
 twitterauto = "Two writers bring us poems about Donald Trump and Aquaman."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-trumpiad", "books/the-histories"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/cody-walker", "authors/jason-whitmarsh"]
+reviews_about = ""
 +++
 
 Funny poems are tough to pull off. I’m not talking, here, about poems with humor in them; almost every good poem has at least one funny thing smuggled inside of it. No, I mean poems with punchlines, poems written with the intent of making readers laugh out loud. Those are very hard to get right; too often, funny poems veer into dad joke territory. They try too hard, they screech too loud, and they flop gracelessly. Along the same lines, political poems are almost impossible to get right. Politicians wallow in clichés and current events, waterlogged as they are in the banality of the familiar, tend to resist the spark of poetry. 

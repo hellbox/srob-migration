@@ -1,8 +1,8 @@
 +++
 index = "-L2l6uR6B31aOfUlhkMM"
-_sort_create_date = 1515873840
-_sort_last_updated = 1515951660
-_sort_publish_date = 1515949200
+sort_create_date = 1515873840
+sort_last_updated = 1515951660
+sort_publish_date = 1515949200
 create_date = "2018-01-13T12:04:00-08:00"
 publish_date = "2018-01-14T09:00:00-08:00"
 date = "2018-01-14T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday picks: the UN on poverty in the US, WWII as a black mirror, the patriarchy gets baked, and -- sports?"
 facebookauto = "Our Sunday picks: the UN investigates poverty in the US, WWII is a black mirror, the patriarchy gets baked, and -- unexpectedly -- sports."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that’s your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

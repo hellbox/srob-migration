@@ -1,8 +1,8 @@
 +++
 index = "-Kmn99cDaS7M91HQRLc9"
-_sort_create_date = 1497654360
-_sort_last_updated = 1497655980
-_sort_publish_date = 1497801600
+sort_create_date = 1497654360
+sort_last_updated = 1497655980
+sort_publish_date = 1497801600
 create_date = "2017-06-16T16:06:00-07:00"
 publish_date = "2017-06-18T09:00:00-07:00"
 date = "2017-06-18T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Fear of heights, low humor, & finding middle ground with @RahawaHaile in the Sunday Post."
 facebookauto = "Fear of heights on the high wire, low humor in a children's book, and finding middle ground with Rahawa Haile's father in the Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

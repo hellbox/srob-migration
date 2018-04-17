@@ -1,8 +1,8 @@
 +++
 index = "-KtyaxAdUbw1aNHJAVM_"
-_sort_create_date = 1505362680
-_sort_last_updated = 1505363340
-_sort_publish_date = 1505415600
+sort_create_date = 1505362680
+sort_last_updated = 1505363340
+sort_publish_date = 1505415600
 create_date = "2017-09-13T21:18:00-07:00"
 publish_date = "2017-09-14T12:00:00-07:00"
 date = "2017-09-14T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505362941553/Forg
 twitterauto = "Start on the outside. @nisishawl covers the covers, and some new releases, in this month's Future Alternative Past"
 facebookauto = "Start on the outside. Nisi Shawl covers the covers, and some new releases, in this month's Future Alternative Past"
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ["authors/patricia-mckillip", "authors/michael-sims", "authors/zahrah-farmer-castillo", "authors/ted-chiang", "authors/kai-ashante-wilson", "authors/nnedi-okorafor", "authors/octavia-butler", "authors/zen-cho", "authors/kurt-vonnegut"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. You can also look through the [archives of the column](http://www.seattlereviewofbooks.com/tags/the-future-alternative-past).</p>

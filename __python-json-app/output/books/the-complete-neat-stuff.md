@@ -1,8 +1,8 @@
 +++
 index = "-KOc_BUgAwpJIwqqMGhN"
-_sort_create_date = 1470633360
-_sort_last_updated = 1470633420
-_sort_publish_date = 1470633360
+sort_create_date = 1470633360
+sort_last_updated = 1470633420
+sort_publish_date = 1470633360
 create_date = "2016-08-07T22:16:00-07:00"
 publish_date = "2016-08-07T22:16:00-07:00"
 date = "2016-08-07T22:16:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ErF5OZA7kTV4ovBvzCWr9QisV7FCJo1Qf7tJxER9x-67D8nJIvLdr8V3655dAXSwH0_c8NqSG10ShP556D0EIXjGIFOn5A"
 url = "/webhook-uploads/1470633395592/content%3Fid%3Dfj3NCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 5391
 
 review_relationship = ["reviews/the-boy-wonder-grows-up"]
-author_relationship = ["authors/peter-bagge"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

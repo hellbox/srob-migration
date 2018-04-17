@@ -1,8 +1,8 @@
 +++
 index = "-JzqCrqVY42WDbhs4NF-"
-_sort_create_date = 1442944860
-_sort_last_updated = 1442944860
-_sort_publish_date = 1442944860
+sort_create_date = 1442944860
+sort_last_updated = 1442944860
+sort_publish_date = 1442944860
 create_date = "2015-09-22T11:01:00-07:00"
 publish_date = "2015-09-22T11:01:00-07:00"
 date = "2015-09-22T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're very excited to hear @tanehisicoates is writing a Black Panther comic for Marvel!"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/marvel-comics"]
-authors_notes = ["authors/ta-nehisi-coates"]
+notes_about = ""
 books = ["books/between-the-world-and-me"]
 +++
 Wow! Anyone who follows [*Between the World and Me* author Ta-Nehisi Coates](http://seattlereviewofbooks.com/reviews/the-seattle-of-your-nightmares/) knows that he's an ardent comics fan, but I certainly didn't see this coming. *The New York Times* says:

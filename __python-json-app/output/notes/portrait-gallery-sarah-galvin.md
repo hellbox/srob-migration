@@ -1,8 +1,8 @@
 +++
 index = "-K5lJopQFJMPLpLFIXE9"
-_sort_create_date = 1450378980
-_sort_last_updated = 1464898140
-_sort_publish_date = 1450386000
+sort_create_date = 1450378980
+sort_last_updated = 1464898140
+sort_publish_date = 1450386000
 create_date = "2015-12-17T11:03:00-08:00"
 publish_date = "2015-12-17T13:00:00-08:00"
 date = "2015-12-17T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450378848204/SRoB
 twitterauto = "We're all about Sarah Galvin this week, and in this week's Portrait Gallery, @studiochristine painted her."
 facebookauto = "Christine Marie Larsen paints Sarah Galvin for this week's Portrait Gallery."
 make_image_tweet = "False"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/sarah-galvin"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

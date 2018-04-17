@@ -1,8 +1,8 @@
 +++
 index = "-Kh0oIdI5_oZa2GPfsR2"
-_sort_create_date = 1491457860
-_sort_last_updated = 1491457860
-_sort_publish_date = 1492015860
+sort_create_date = 1491457860
+sort_last_updated = 1491457860
+sort_publish_date = 1492015860
 create_date = "2017-04-05T22:51:00-07:00"
 publish_date = "2017-04-12T09:51:00-07:00"
 date = "2017-04-12T09:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1491457807963/whit
 twitterauto = "This week, be sure to soak in some White Tears at @elliottbaybooks."
 facebookauto = "This week, be sure to soak in some White Tears at Elliott Bay Book Company."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In July of 2015 on the website Very Smart Brothas, Damon Young wrote a blog post titled “Serena Williams Drinks, Bathes In, and Makes Lemonade with White Tears.” The next day, he published a post titled “White Tears, Explained, for White People Who Don’t Get It.” It seems that his original post about Serena Williams inspiring white tears had inspired some white tears of its own. Young quoted a white reader’s response to his article: “It’s disturbing how it seems many black people resent white people, when we all bleed the same color. How can we get to equality when there’s so many stirring the pot with hatred?”

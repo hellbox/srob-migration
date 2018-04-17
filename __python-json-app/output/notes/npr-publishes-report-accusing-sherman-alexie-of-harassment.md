@@ -1,8 +1,8 @@
 +++
 index = "-L6s84M7BEfFk1c6JWTq"
-_sort_create_date = 1520286540
-_sort_last_updated = 1520287620
-_sort_publish_date = 1520287920
+sort_create_date = 1520286540
+sort_last_updated = 1520287620
+sort_publish_date = 1520287920
 create_date = "2018-03-05T13:49:00-08:00"
 publish_date = "2018-03-05T14:12:00-08:00"
 date = "2018-03-05T14:12:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "NPR has published a report accusing Sherman Alexie of harassment."
 facebookauto = "NPR has published a report accusing Sherman Alexie of harassment."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ""
-authors_notes = ["authors/sherman-alexie", "authors/jeanine-walker", "authors/elissa-washuta", "authors/erika-wurth"]
+notes_about = ""
 books = ""
 +++
 Lynn Neary at NPR [published a report](https://www.npr.org/2018/03/05/589909379/it-just-felt-very-wrong-sherman-alexies-accusers-go-on-the-record) this afternoon accusing Seattle author Sherman Alexie of sexually harassing female authors. This report is especially noteworthy because it's the first in recent days to actually include the named testimonies of three women.

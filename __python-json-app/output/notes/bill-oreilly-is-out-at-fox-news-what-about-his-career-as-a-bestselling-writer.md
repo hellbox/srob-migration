@@ -1,8 +1,8 @@
 +++
 index = "-Ki6f5Yho3GfEIgqVdaE"
-_sort_create_date = 1492629840
-_sort_last_updated = 1492629840
-_sort_publish_date = 1492629840
+sort_create_date = 1492629840
+sort_last_updated = 1492629840
+sort_publish_date = 1492629840
 create_date = "2017-04-19T12:24:00-07:00"
 publish_date = "2017-04-19T12:24:00-07:00"
 date = "2017-04-19T12:24:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492628812055/give
 twitterauto = ""
 facebookauto = "Good news: Bill O'Reilly has been fired from Fox News! Bad news: Two major corporate publishers are still enjoying a very profitable relationship with Bill O'Reilly. Will they continue to promote and publish his books, now that news of his alleged sexual improprieties are all over the internet?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bill-oreilly", "tags/milo-yiannopoulos"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Good news! Now that all the allegations against Bill O'Reilly have finally gotten public attention, [Fox News has kicked the man to the curb](http://www.latimes.com/business/hollywood/la-fi-ct-oreilly-fired-20170419-story.html), canceling his *O'Reilly Factor* TV show. It's embarrassing that it took this long, but it's good to see that activism eventually pays off.

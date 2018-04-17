@@ -1,8 +1,8 @@
 +++
 index = "-KfnxjcPfMyFQ-ous2DB"
-_sort_create_date = 1490151720
-_sort_last_updated = 1490209560
-_sort_publish_date = 1490814120
+sort_create_date = 1490151720
+sort_last_updated = 1490209560
+sort_publish_date = 1490814120
 create_date = "2017-03-21T20:02:00-07:00"
 publish_date = "2017-03-29T12:02:00-07:00"
 date = "2017-03-29T12:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490151562352/thes
 twitterauto = "Your week in readings features Robert Lashley, APRIL, and a whole lot more."
 facebookauto = "Your week in readings features Robert Lashley, APRIL, and a whole lot more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/april"]
-authors_notes = ["authors/g-willow-wilson", "authors/robert-lashley"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday March 29th: The State of Arts Criticism in Seattle

@@ -1,8 +1,8 @@
 +++
 index = "-K3JV2FZVBfBFIlYfcpd"
-_sort_create_date = 1447747920
-_sort_last_updated = 1447774920
-_sort_publish_date = 1447790040
+sort_create_date = 1447747920
+sort_last_updated = 1447774920
+sort_publish_date = 1447790040
 create_date = "2015-11-17T00:12:00-08:00"
 publish_date = "2015-11-17T11:54:00-08:00"
 date = "2015-11-17T11:54:00-08:00"
@@ -13,10 +13,10 @@ title = "Journey to prison island"
 dek = "Mayumi is a woman in love. Mayumi is a married woman in love. Mayumi is a married woman in love with a 17 year-old boy. The more she confesses, the more you have to listen."
 facebookauto = "Are forbidden love stories the only kind of love story that matters? What if the love story is about a 41 year-old woman who seduces a 17 year-old boy?"
 twitterauto = "A librarian falls for a much younger man\u2014a boy, if we're being honest\u2014in Mayumi and the Sea of Happiness."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/mayumi-and-the-sea-of-happiness"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/jennifer-tseng"]
+reviews_about = ""
 +++
 
 Some people would argue that forbidden love stories are the only love stories worth telling. The people who would argue that are probably not the kind of people you should date. Sure, a love story can be compelling if parents or society or circumstances deny the lovers from their right to be happy. But not every transgression is a welcome one, and not every love story is innocent.

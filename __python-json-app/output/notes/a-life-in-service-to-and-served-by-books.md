@@ -1,8 +1,8 @@
 +++
 index = "-KUoEfmjg8YoH2OgKseb"
-_sort_create_date = 1477271520
-_sort_last_updated = 1477331220
-_sort_publish_date = 1477328400
+sort_create_date = 1477271520
+sort_last_updated = 1477331220
+sort_publish_date = 1477328400
 create_date = "2016-10-23T18:12:00-07:00"
 publish_date = "2016-10-24T10:00:00-07:00"
 date = "2016-10-24T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The owner of our Bookstore of the Month has been selling books for a half a century, and he still loves it."
 facebookauto = "The owner of our Bookstore of the Month has been selling books for a half a century, and he still loves books with all his heart."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/louis-collins-books", "tags/half-price-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 As Louis Collins and I discuss his nearly half-century in the book business, it’s impossible for me to not take notice of his goofy blue sweatshirt, which reads  “I TOOK THE PLUNGE! SPA HOT SPRINGS MOTEL WHITE SULFUR SPRINGS, MT.” Collins, the owner of [our September Bookstore of the Month](http://www.seattlereviewofbooks.com/notes/2016/10/03/louis-collins-books-is-our-september-bookstore-of-the-month/), Louis Collins Books, comes across as eminently comfortable in his own skin; he seems happy with his lot in life.

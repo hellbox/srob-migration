@@ -1,8 +1,8 @@
 +++
 index = "-KXEPD4aQ_oPXEc2L1Lt"
-_sort_create_date = 1479874740
-_sort_last_updated = 1479874740
-_sort_publish_date = 1480096860
+sort_create_date = 1479874740
+sort_last_updated = 1479874740
+sort_publish_date = 1480096860
 create_date = "2016-11-22T20:19:00-08:00"
 publish_date = "2016-11-25T10:01:00-08:00"
 date = "2016-11-25T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our advice columnist is taking the day off. Instead, here's some advice that nobody asked for:"
 facebookauto = "Our advice columnist is taking the day off. Instead, here's some advice that nobody asked for:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/nanowrimo", "tags/independent-bookstores"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Cienna Madrid is taking the day off to relax, and recharge, and maybe do some karaoke. Her column will return next week. As always, if you have any writing, reading, or bookstore etiquette questions, please send them to her at advice@seattlereviewofbooks.com.

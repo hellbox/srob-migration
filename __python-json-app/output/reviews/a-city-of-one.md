@@ -1,8 +1,8 @@
 +++
 index = "-KxkuHQfcug7zH8w2pOO"
-_sort_create_date = 1509427800
-_sort_last_updated = 1509639480
-_sort_publish_date = 1509652980
+sort_create_date = 1509427800
+sort_last_updated = 1509639480
+sort_publish_date = 1509652980
 create_date = "2017-10-30T22:30:00-07:00"
 publish_date = "2017-11-02T13:03:00-07:00"
 date = "2017-11-02T13:03:00-07:00"
@@ -13,10 +13,10 @@ title = "A city of one"
 dek = "Cartoonist Julia Wertz is a special guest at the Short Run Comix & Arts Festival this weekend. Her latest book is a love letter to New York City, and it's a guidebook for how to fall in love with a city."
 facebookauto = "Julia Wertz's newest book will teach you how to love a city."
 twitterauto = ".@Julia_Wertz's newest book will teach you how to love a city."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/tenements-towers-&-trash"]
 tags_reviews = ["tags/short-run"]
-authors_reviews = ["authors/julia-wertz"]
+reviews_about = ""
 +++
 
 You’ve seen these kinds of juxtapositions before: someone will place a photograph of a specific location from a century ago up against a contemporary photograph. Usually, the intent is to make a reader shake their head and wonder about the horrible price of progress: a beautiful old Victorian home in the “before” frame has given way to an ugly strip mall in the “after,” for instance. A field becomes a gas station. A row of quaint row houses is now an ugly and very expensive-looking condominium. 

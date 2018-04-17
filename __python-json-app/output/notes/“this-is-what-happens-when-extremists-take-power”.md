@@ -1,8 +1,8 @@
 +++
 index = "-KdlCfUehaiTtZhLw6oU"
-_sort_create_date = 1487958060
-_sort_last_updated = 1487958060
-_sort_publish_date = 1487958060
+sort_create_date = 1487958060
+sort_last_updated = 1487958060
+sort_publish_date = 1487958060
 create_date = "2017-02-24T09:41:00-08:00"
 publish_date = "2017-02-24T09:41:00-08:00"
 date = "2017-02-24T09:41:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487957771698/Whoe
 twitterauto = "Australian author detained at LAX, says she'll likely never visit the US again."
 facebookauto = "Australian kids' book author Mem Fox was detained at LAX earlier this month. Fox has visited the US over a hundred times in her career, but she says now she will likely never return."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Deborah Bogle [at *The Advertiser*](http://www.adelaidenow.com.au/news/south-australia/accused-of-having-an-incorrect-visa-mem-fox-detained-by-immigration-officials-at-la-airport/news-story/aa712d3867d1509c52c3608798e19db5) reports that Australian children's book author Mem Fox was "detained for two hours and aggressively interrogated by immigration officials at Los Angeles airport." 

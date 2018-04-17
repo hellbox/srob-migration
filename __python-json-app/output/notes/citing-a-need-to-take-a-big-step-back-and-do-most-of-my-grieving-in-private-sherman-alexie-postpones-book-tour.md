@@ -1,8 +1,8 @@
 +++
 index = "-KoxQfNOV5SIsWzJo5S-"
-_sort_create_date = 1499974200
-_sort_last_updated = 1499974200
-_sort_publish_date = 1499974200
+sort_create_date = 1499974200
+sort_last_updated = 1499974200
+sort_publish_date = 1499974200
 create_date = "2017-07-13T12:30:00-07:00"
 publish_date = "2017-07-13T12:30:00-07:00"
 date = "2017-07-13T12:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Citing a need \"to take a big step back and do most of my grieving in private,\" Sherman Alexie postpones book tour."
 facebookauto = "Citing a need \"to take a big step back and do most of my grieving in private,\" Sherman Alexie has indefinitely postponed his book tour."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ["books/you-dont-have-to-say-you-love-me"]
 +++
 <p class="image-left">![](/webhook-uploads/1499974016740/unnamed.jpg)</p>

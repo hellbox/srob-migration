@@ -1,8 +1,8 @@
 +++
 index = "-L-AEMbNusLbE_VKU4Bl"
-_sort_create_date = 1512017040
-_sort_last_updated = 1512017220
-_sort_publish_date = 1514231700
+sort_create_date = 1512017040
+sort_last_updated = 1512017220
+sort_publish_date = 1514231700
 create_date = "2017-11-29T20:44:00-08:00"
 publish_date = "2017-12-25T11:55:00-08:00"
 date = "2017-12-25T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512016440326/home
 twitterauto = "We've got a lot of book clubs, storytimes, and family events in this week's reading roundup."
 facebookauto = "We've got a lot of book clubs, storytimes, and family events in this week's reading roundup."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, December 25: **</h5></p>

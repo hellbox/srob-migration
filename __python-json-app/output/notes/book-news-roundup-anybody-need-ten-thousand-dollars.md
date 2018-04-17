@@ -1,8 +1,8 @@
 +++
 index = "-KLy8CNmTyHs_F0FXLkE"
-_sort_create_date = 1467773880
-_sort_last_updated = 1467773880
-_sort_publish_date = 1467833400
+sort_create_date = 1467773880
+sort_last_updated = 1467773880
+sort_publish_date = 1467833400
 create_date = "2016-07-05T19:58:00-07:00"
 publish_date = "2016-07-06T12:30:00-07:00"
 date = "2016-07-06T12:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In Book News Roundup: a $10,000 prize for Seattle-area fiction writers and a very special guest at Short Run."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run", "tags/artist-trust"]
-authors_notes = ["authors/david-schmader"]
+notes_about = ""
 books = ["books/weed-the-users-guide"]
 +++
 * The Short Run Festival [announced their latest special guest](http://shortrun.org/welcome-special-guest-hatem-imam/): Hatem Imam, a cartoonist and editor who was put on trial in Lebanon for the "crime" of publishing two supposedly controversial panels in anthology comics. [This *New Yorker* story has more information](http://www.newyorker.com/news/news-desk/the-fate-of-a-joke-in-lebanon) about the trial. Imam's appearance in Seattle this fall will undoubtedly kick off a citywide conversation about religion, censorship, and satire. Short Run is on November 5th this year.

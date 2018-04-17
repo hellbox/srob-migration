@@ -1,8 +1,8 @@
 +++
 index = "-K0-r0VmzkdsuMWop_vT"
-_sort_create_date = 1444197120
-_sort_last_updated = 1444946880
-_sort_publish_date = 1444244400
+sort_create_date = 1444197120
+sort_last_updated = 1444946880
+sort_publish_date = 1444244400
 create_date = "2015-10-06T22:52:00-07:00"
 publish_date = "2015-10-07T12:00:00-07:00"
 date = "2015-10-07T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444196989999/SRoB
 twitterauto = "Portrait Gallery time! Today @studiochristine paints Anastacia Renee Tolbert, who is reading tonight."
 facebookauto = "Anastacia Renee Tolbert is reading tonight, and -- coincidence or keen planning? -- Christine Marie Larsen made a new Portrait Gallery painting of her."
 make_image_tweet = ""
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

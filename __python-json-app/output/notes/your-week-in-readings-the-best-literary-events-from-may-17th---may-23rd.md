@@ -1,8 +1,8 @@
 +++
 index = "-Kjzbj0ngq0JDrq0j5vG"
-_sort_create_date = 1494642240
-_sort_last_updated = 1495124040
-_sort_publish_date = 1495047240
+sort_create_date = 1494642240
+sort_last_updated = 1495124040
+sort_publish_date = 1495047240
 create_date = "2017-05-12T19:24:00-07:00"
 publish_date = "2017-05-17T11:54:00-07:00"
 date = "2017-05-17T11:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494642000248/apol
 twitterauto = "Your week of readings brings a trip to the moon and a sci-fi art show."
 facebookauto = "Your week of readings brings a trip to the moon and an exhibit of art based on Nisi Shawl's excellent novel Everfair!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/doug-nufer", "authors/quenton-baker"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday May 17th: SAL Presents: The Moth**</h5></p> 

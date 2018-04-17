@@ -1,8 +1,8 @@
 +++
 index = "-Jwz67TzBta4Tja-DiXU"
-_sort_create_date = 1439872860
-_sort_last_updated = 1439872860
-_sort_publish_date = 1439872860
+sort_create_date = 1439872860
+sort_last_updated = 1439872860
+sort_publish_date = 1439872860
 create_date = "2015-08-17T21:41:00-07:00"
 publish_date = "2015-08-17T21:41:00-07:00"
 date = "2015-08-17T21:41:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kiOx6JYKCHVufAR1TkZd7gR0DhzxNLElOthonwTcPe1Xd6V0lcsbmyPhSMYb-6MvQ8bxevcqn-CkUtJRpnn7OfXdUuI"
 url = "/webhook-uploads/1439872825513/lifelinerule.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 104309
 
 review_relationship = ""
-author_relationship = ["authors/doug-nufer"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero"]
 +++

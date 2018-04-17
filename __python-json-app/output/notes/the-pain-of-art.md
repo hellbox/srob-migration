@@ -1,8 +1,8 @@
 +++
 index = "-K3_utzfjznrca-UcDU2"
-_sort_create_date = 1448040120
-_sort_last_updated = 1448040120
-_sort_publish_date = 1448055120
+sort_create_date = 1448040120
+sort_last_updated = 1448040120
+sort_publish_date = 1448055120
 create_date = "2015-11-20T09:22:00-08:00"
 publish_date = "2015-11-20T13:32:00-08:00"
 date = "2015-11-20T13:32:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Let's talk about the high physical cost of drawing comics."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Jennifer de Guzman at Comics Alliance published [an illuminating report on the high cost of drawing comics](http://comicsalliance.com/artists-drawing-injuries/):

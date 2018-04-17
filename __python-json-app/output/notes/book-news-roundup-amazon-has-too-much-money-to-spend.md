@@ -1,8 +1,8 @@
 +++
 index = "-KyrmGpCWmy1KzIk7TZz"
-_sort_create_date = 1510616880
-_sort_last_updated = 1510690320
-_sort_publish_date = 1510692480
+sort_create_date = 1510616880
+sort_last_updated = 1510690320
+sort_publish_date = 1510692480
 create_date = "2017-11-13T15:48:00-08:00"
 publish_date = "2017-11-14T12:48:00-08:00"
 date = "2017-11-14T12:48:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Amazon has a quarter-billion dollars to blow on a prestige TV gambit."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Congratulations to Tim Lennon, who [was announced as](http://artbeat.seattle.gov/2017/11/13/first-executive-director-of-langston-hired/) the Executive Director of LANGSTON, a new Seattle nonprofit that will "guide programming intended to strengthen and advance community through Black arts and culture." I worked with Lennon at Elliott Bay Book Company right after he moved to town in 2001 and we've been friends ever since, so I can't claim any objectivity, but his career in the years since — at One Reel, heading up Vera Project, working at the Office of Arts & Culture — demonstrates that he'll be excellent at this. I look forward to seeing what LANGSTON contributes to Seattle's arts and literary communities. Lennon starts in January of next year. And if this post didn't have enough conflict-of-interest in it for you already, the best account in local media of Lennon's new job is [from my old associate Brendan Kiley at the *Seattle Times*](https://www.seattletimes.com/entertainment/theater/a-new-leader-for-langston-tim-lennon/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_brendan-kiley).

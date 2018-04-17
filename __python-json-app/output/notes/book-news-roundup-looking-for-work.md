@@ -1,8 +1,8 @@
 +++
 index = "-KOnAhp5mnObFQhAAmMt"
-_sort_create_date = 1470811260
-_sort_last_updated = 1470850980
-_sort_publish_date = 1470859260
+sort_create_date = 1470811260
+sort_last_updated = 1470850980
+sort_publish_date = 1470859260
 create_date = "2016-08-09T23:41:00-07:00"
 publish_date = "2016-08-10T13:01:00-07:00"
 date = "2016-08-10T13:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Looking for a job with literature and the arts? We've got a couple hot tips for you."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/office-of-arts-and-culture", "tags/shelf-awareness"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Looking for a book-related job? Seattle-based publishing industry news organization [Shelf Awareness is hiring a full-time publishing assistant](http://www.shelf-awareness.com/jobboard/2016-08-04/publishing_assistant.html) "responsible for email newsletter ad trafficking with our book industry advertisers; direct work with the newsletter CMS; physically managing new book galley receiving, handling and shipping to book reviewers; managing other administrative tasks as assigned." They also promise unlimited free books.

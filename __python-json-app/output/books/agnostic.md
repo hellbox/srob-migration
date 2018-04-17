@@ -1,8 +1,8 @@
 +++
 index = "-KEIfa4nT7yULcNKK5cs"
-_sort_create_date = 1459545300
-_sort_last_updated = 1459545900
-_sort_publish_date = 1459545300
+sort_create_date = 1459545300
+sort_last_updated = 1459545900
+sort_publish_date = 1459545300
 create_date = "2016-04-01T14:15:00-07:00"
 publish_date = "2016-04-01T14:15:00-07:00"
 date = "2016-04-01T14:15:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pP0ILhLUAkTTF2sN6bT_OkK7nRM9pMiP5A-Qe7uXIw9V1NIKLcugELumSx60-gVRq0cB-j8uzehFIAWgQikHm0VgzePu"
 url = "/webhook-uploads/1459545374851/41v4hZr1euL._SX318_BO1%2C204%2C203%2C200_.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 21252
 
 review_relationship = ["reviews/are-you-there-whoever-its-me-lesley"]
-author_relationship = ["authors/lesley-hazleton"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-david-sedaris-lesley-hazleton-tatiana-gill-and-more", "notes/book-news-roundup-four-books-you-should-really-look-into", "notes/what-you-need-to-do-for-literary-seattle-in-2017", "notes/talking-with-reza-aslan-about-why-were-wired-for-faith-and-how-farming-was-a-bad-bet-for-humanity"]
 +++

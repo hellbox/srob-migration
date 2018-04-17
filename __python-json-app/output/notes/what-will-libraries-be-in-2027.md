@@ -1,8 +1,8 @@
 +++
 index = "-L4itL7G6e8_XY5zpWGJ"
-_sort_create_date = 1517983980
-_sort_last_updated = 1517983980
-_sort_publish_date = 1518037320
+sort_create_date = 1517983980
+sort_last_updated = 1517983980
+sort_publish_date = 1518037320
 create_date = "2018-02-06T22:13:00-08:00"
 publish_date = "2018-02-07T13:02:00-08:00"
 date = "2018-02-07T13:02:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/libraries"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I can't say I agree with all of Prateek Vasisht's assessments of the future of libraries, but there are some pretty good insights here:

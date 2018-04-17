@@ -1,8 +1,8 @@
 +++
 index = "-KCZXUgACf4YQHzPGiZO"
-_sort_create_date = 1457680620
-_sort_last_updated = 1457720580
-_sort_publish_date = 1457720580
+sort_create_date = 1457680620
+sort_last_updated = 1457720580
+sort_publish_date = 1457720580
 create_date = "2016-03-10T23:17:00-08:00"
 publish_date = "2016-03-11T10:23:00-08:00"
 date = "2016-03-11T10:23:00-08:00"
@@ -13,10 +13,10 @@ title = "A city holds its breath"
 dek = "San Francisco's Streetopia exhibition tried to imagine a better, more utopian city.  Is it time to wonder what a utopian Seattle  would look like?"
 facebookauto = "The Streetopia exhibition examined what a utopian San Francisco would look like. Now that the editor of the Streetopia book is coming to Seattle, maybe it's time to ask what a utopian Seattle would look like, too."
 twitterauto = "Sometime a city just has to stop, catch its breath, and think about what the city it wants to become."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/streetopia"]
 tags_reviews = ["tags/non-fiction", "tags/seattle", "tags/san-francisco"]
-authors_reviews = ["authors/erick-lyle"]
+reviews_about = ""
 +++
 
 A city is not just a black dot on a map. A city is not just its streets, or its buildings, or its people.  When you take a long view, a city is a river in time. If you were to view the life of a city from its founding to its destruction in high speed, say a year passing every second, you would see it as a jittery flow of kinetic energy that wends and winds and shapes the earth around it. Towers would rise and fall, traffic would come and go; the only constant to a city is its motion. Seattle, for example, has seen moments when it has almost dried up — “Will the last person leaving Seattle turn out the lights,” the billboard said — and it has seen moments, like right now, when it rages and swells beyond its banks and destroys the lives who have lived contentedly on its shores for decades. 

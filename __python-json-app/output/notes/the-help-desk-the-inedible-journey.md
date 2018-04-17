@@ -1,8 +1,8 @@
 +++
 index = "-KiDuwblVa8BllOMeU6G"
-_sort_create_date = 1492751460
-_sort_last_updated = 1492791660
-_sort_publish_date = 1492794000
+sort_create_date = 1492751460
+sort_last_updated = 1492791660
+sort_publish_date = 1492794000
 create_date = "2017-04-20T22:11:00-07:00"
 publish_date = "2017-04-21T10:00:00-07:00"
 date = "2017-04-21T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Dear Cienna: I love my bookstore, but its cafe is HORRIBLE. How do I convince them to make tastier food?"
 facebookauto = "Dear Cienna: I love my bookstore, but its cafe is HORRIBLE. How do I convince them to make tastier food?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/food"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

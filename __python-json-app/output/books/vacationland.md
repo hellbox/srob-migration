@@ -1,8 +1,8 @@
 +++
 index = "-KxVL9orduzGhticr3XZ"
-_sort_create_date = 1509149940
-_sort_last_updated = 1509149940
-_sort_publish_date = 1509149940
+sort_create_date = 1509149940
+sort_last_updated = 1509149940
+sort_publish_date = 1509149940
 create_date = "2017-10-27T17:19:00-07:00"
 publish_date = "2017-10-27T17:19:00-07:00"
 date = "2017-10-27T17:19:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/TIonVjRjG-ubTrE4BdAUQDhJ3q6x305L5NDoaI1sYVqzNhjfdUmoJ-5uQrtRf1mvQdMzmk0L4siQ2S8-0e0m96QWhQEl"
 url = "/webhook-uploads/1509149944172/content%3Fid%3DQa6kAQAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 8873
 
 review_relationship = ["reviews/knowing-and-doing-and-the-passive-sin-of-hipster-privilege"]
-author_relationship = ["authors/john-hodgman"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

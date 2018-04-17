@@ -1,8 +1,8 @@
 +++
 index = "-K6_qGB3Vnj4QlcP_vdO"
-_sort_create_date = 1451260140
-_sort_last_updated = 1451260140
-_sort_publish_date = 1451929740
+sort_create_date = 1451260140
+sort_last_updated = 1451260140
+sort_publish_date = 1451929740
 create_date = "2015-12-27T15:49:00-08:00"
 publish_date = "2016-01-04T09:49:00-08:00"
 date = "2016-01-04T09:49:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1451259673707/9781
 twitterauto = "This week in Seattle readings: remembering Madeline DeFrees and two debut short story collections."
 facebookauto = "Your week in readings features a discussion about America's lack of talent, a celebration of the life of Madeline DeFrees, and two debut short story collections."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/peter-mountford", "authors/madeline-defrees"]
+notes_about = ""
 books = ""
 +++
 **MONDAY**  [Elliott Bay Book Company](http://www.elliottbaybook.com/event/siamak-vossoughi) kicks off your new year of readings with **Siamak Vossoughi**, a short story author who is originally from Iran but who now lives in Seattle. His first collection of stories is titled *Better Than War*, and it’s a winner of the Flannery O’Connor Prize.

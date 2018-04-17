@@ -1,8 +1,8 @@
 +++
 index = "-L8_qCzV1md8XfunNnox"
-_sort_create_date = 1522127100
-_sort_last_updated = 1522127100
-_sort_publish_date = 1522127100
+sort_create_date = 1522127100
+sort_last_updated = 1522127100
+sort_publish_date = 1522127100
 create_date = "2018-03-26T22:05:00-07:00"
 publish_date = "2018-03-26T22:05:00-07:00"
 date = "2018-03-26T22:05:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/V1WJ6aPsUGfy8uKiCdlDx_CMEsS6rObQLkil8TVjhisvMit7LQcq2GGbSmxFIq1yE8-piOZYlGUMDOwg4W6Bzqo3MgmK"
 url = "/webhook-uploads/1522127128017/MoreOrLess.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 154323
 
 review_relationship = ["reviews/would-you-rather"]
-author_relationship = ["authors/elissa-ball"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

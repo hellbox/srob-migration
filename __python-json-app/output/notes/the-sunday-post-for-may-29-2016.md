@@ -1,8 +1,8 @@
 +++
 index = "-KIx8RfxmxWK375Jqerd"
-_sort_create_date = 1464535980
-_sort_last_updated = 1464536460
-_sort_publish_date = 1464537600
+sort_create_date = 1464535980
+sort_last_updated = 1464536460
+sort_publish_date = 1464537600
 create_date = "2016-05-29T08:33:00-07:00"
 publish_date = "2016-05-29T09:00:00-07:00"
 date = "2016-05-29T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post has pieces by: @tonytula, @bertclere, @kelseymsutton & @petersterne, and @mjcontrera"
 facebookauto = "Frog and Toad, Salon.com, What it's like to be a 13 year old girl in this era, and who controls the naming of novels? All in today's Sunday Post. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.theparisreview.org/blog/2016/05/25/title-fights/" title="Title Fights: Who Gets to Name an Author’s Book?">Title Fight</a></h5>

@@ -1,8 +1,8 @@
 +++
 index = "-KE1gNf6cgQbX8MJ01zv"
-_sort_create_date = 1459260300
-_sort_last_updated = 1459298100
-_sort_publish_date = 1459283700
+sort_create_date = 1459260300
+sort_last_updated = 1459298100
+sort_publish_date = 1459283700
 create_date = "2016-03-29T07:05:00-07:00"
 publish_date = "2016-03-29T13:35:00-07:00"
 date = "2016-03-29T13:35:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Book critic fight! Book critic fight!"
 facebookauto = "The Daily Beast recently published an aggressive review of a debut novel. We take issue with the review's premise."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/daily-beast"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Cynthia D’Aprix Sweeney read from her debut novel *The Nest* at Elliott Bay Book Company last night. I didn't attend because I had writing to do. (Nothing takes away from your time to attend readings, I've found, like co-founding a book review site.) [This review by Tom LeClair at the *Daily Beast*](http://www.thedailybeast.com/articles/2016/03/27/will-commercialit-ruin-great-fiction.html) makes me wish I had gone to Sweeney's reading — not because the review is so good, but because it's so unfair that I wish I could have shown up to personally apologize to Sweeney on behalf of book reviewers everywhere. The first paragraph of the review ends like this:

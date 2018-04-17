@@ -1,8 +1,8 @@
 +++
 index = "-KIkxDiYqOIK-nUBwCBE"
-_sort_create_date = 1464331440
-_sort_last_updated = 1464331620
-_sort_publish_date = 1464800580
+sort_create_date = 1464331440
+sort_last_updated = 1464331620
+sort_publish_date = 1464800580
 create_date = "2016-05-26T23:44:00-07:00"
 publish_date = "2016-06-01T10:03:00-07:00"
 date = "2016-06-01T10:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464331286478/king
 twitterauto = "Your week in readings includes climate change, sci-fi books about Titanic (the movie) and fortune-telling."
 facebookauto = "Your week in readings includes climate change, sci-fi books about Titanic (the movie) and fortune-telling."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/chin-music-press", "tags/elliott-bay-book-company", "tags/town-hall-seattle"]
-authors_notes = ["authors/mattilda-bernstein-sycamore"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday June 1: *Ancient Soil* Reading**</h5></p> 

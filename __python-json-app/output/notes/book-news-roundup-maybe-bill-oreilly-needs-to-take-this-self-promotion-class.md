@@ -1,8 +1,8 @@
 +++
 index = "-Kojxa59J6kEE26FzrgK"
-_sort_create_date = 1499748240
-_sort_last_updated = 1499749920
-_sort_publish_date = 1499797800
+sort_create_date = 1499748240
+sort_last_updated = 1499749920
+sort_publish_date = 1499797800
 create_date = "2017-07-10T21:44:00-07:00"
 publish_date = "2017-07-11T11:30:00-07:00"
 date = "2017-07-11T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Eventually, every dumb conservative writer will get their comeuppance."
 facebookauto = "Seattle writers: learn how to promote yourselves! "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/natasha-marin"]
+notes_about = ""
 books = ""
 +++
 * Natasha Marin's [promotion fundamentals course for authors is happening at the end of this month](http://promotionfundamentals2017.bpt.me/) at Hugo House. Here's a course description:

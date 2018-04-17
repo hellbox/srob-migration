@@ -1,8 +1,8 @@
 +++
 index = "-KwDrFsV8KxcTm-UT8Kn"
-_sort_create_date = 1507782840
-_sort_last_updated = 1507818780
-_sort_publish_date = 1507834800
+sort_create_date = 1507782840
+sort_last_updated = 1507818780
+sort_publish_date = 1507834800
 create_date = "2017-10-11T21:34:00-07:00"
 publish_date = "2017-10-12T12:00:00-07:00"
 date = "2017-10-12T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507783061678/y450
 twitterauto = "In @NisiShawl's column: fat positivity in SFFH, and reviews of @MaggieShenKing, @matociquala, and @davidwaltonfic."
 facebookauto = "In Nisi Shawl's Future Alternative Past, fat positivity in SFFH, and reviews of Maggie Shen King, Elizabeth Bear, and David Walton"
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. You can also look through the [archives of the column](http://www.seattlereviewofbooks.com/tags/the-future-alternative-past).</p>

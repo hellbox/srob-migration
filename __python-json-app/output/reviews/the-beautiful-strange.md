@@ -1,8 +1,8 @@
 +++
 index = "-L5f9rFsKgbyjj7w55F5"
-_sort_create_date = 1518995160
-_sort_last_updated = 1519234260
-_sort_publish_date = 1519243200
+sort_create_date = 1518995160
+sort_last_updated = 1519234260
+sort_publish_date = 1519243200
 create_date = "2018-02-18T15:06:00-08:00"
 publish_date = "2018-02-21T12:00:00-08:00"
 date = "2018-02-21T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "The beautiful strange"
 dek = "Fans of Jeff VanderMeer's Southern Reach trilogy are waiting with anticipation (and apprehension) for the February 23 release of Annihilation. Is the New Weird too weird for the big screen? Or is this the genre our screwed-up historical moment needs most?"
 facebookauto = "Sarra Scherb takes us to the heart of the New Weird, just in time for this week's release of Annihilation."
 twitterauto = "Sarra Scherb takes us to the heart of the New Weird, just in time for this week's release of Annihilation."
-byline = ["writers/sarra-scherb"]
+reviews_byline = ["writers/sarra-scherb"]
 books_in_this_review = ["books/perdido-street-station", "books/annihilation", "books/the-etched-city", "books/vurt", "books/borne"]
 tags_reviews = ""
-authors_reviews = ["authors/china-mi\u00e9ville", "authors/jeff-vandermeer", "authors/steph-swainston", "authors/m-john-harrison", "authors/j-g-ballard", "authors/michael-moorcock", "authors/hp-lovecraft", "authors/edgar-allan-poe", "authors/clive-barker", "authors/k-j-bishop", "authors/jeff-noon"]
+reviews_about = ""
 +++
 
 <p>A keening moan in the night that is somehow both human and animal. An artist who makes a chrysalis sculpture that becomes the molted husk of her own transformation. A merciless city-state grafting living animal and machine parts to its prisoners. An historian of a lost culture who infects himself with plant spores in pursuit of the truth. This is the teeming, constantly transforming world of the New Weird. This small, experimental and hybrid genre planted its flag at the intersection between fantasy, horror, sci-fi, and supernatural two decades ago and continues to cultivate that fertile territory today. </p>

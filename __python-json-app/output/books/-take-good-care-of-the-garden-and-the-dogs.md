@@ -1,8 +1,8 @@
 +++
 index = "-JzU56rMr0N7Ac81pHm9"
-_sort_create_date = 1442556960
-_sort_last_updated = 1442556960
-_sort_publish_date = 1442556960
+sort_create_date = 1442556960
+sort_last_updated = 1442556960
+sort_publish_date = 1442556960
 create_date = "2015-09-17T23:16:00-07:00"
 publish_date = "2015-09-17T23:16:00-07:00"
 date = "2015-09-17T23:16:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NLA6nNTWqv_V8j84wrNKq1ng35vMasEAyQO_AErnHjPLyhJdyAdlKex8gI7DOnH2RfN3Neiqvg7ZX9DKm0ikXSzOhz1A"
 url = "/webhook-uploads/1442556905801/9781616200510.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 30936
 
 review_relationship = ["reviews/the-most-thoughtful-obituary-writer-in-all-of-southeastern-alaska"]
-author_relationship = ["authors/heather-lende"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

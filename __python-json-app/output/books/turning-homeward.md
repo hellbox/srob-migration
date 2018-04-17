@@ -1,8 +1,8 @@
 +++
 index = "-L2JfR60ua-kOJf07CuB"
-_sort_create_date = 1515396600
-_sort_last_updated = 1515396600
-_sort_publish_date = 1515396600
+sort_create_date = 1515396600
+sort_last_updated = 1515396600
+sort_publish_date = 1515396600
 create_date = "2018-01-07T23:30:00-08:00"
 publish_date = "2018-01-07T23:30:00-08:00"
 date = "2018-01-07T23:30:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dyDEded8pRoYdhtiaNJv4F-2thbox7rF4dj478KABeGo25wTvzLGTFVHg4ubkqm-_5jrA5CzwNRoJQyCXPcuP4-PhQRMWw"
 url = "/webhook-uploads/1515396579096/turninghomeward.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 11356
 
 review_relationship = ["reviews/seattle-naturally"]
-author_relationship = ["authors/adrienne-ross-scanlan"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

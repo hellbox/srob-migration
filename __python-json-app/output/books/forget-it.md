@@ -1,8 +1,8 @@
 +++
 index = "-Kp7MtQfdvpONHd0Ftaw"
-_sort_create_date = 1500157800
-_sort_last_updated = 1500157800
-_sort_publish_date = 1500157800
+sort_create_date = 1500157800
+sort_last_updated = 1500157800
+sort_publish_date = 1500157800
 create_date = "2017-07-15T15:30:00-07:00"
 publish_date = "2017-07-15T15:30:00-07:00"
 date = "2017-07-15T15:30:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BtA16Qgk9C_QG0hVv6RY3ewJBd7fzaA_vM9j8ihAoioABuMV_TKrJudJp2lc6iQvelQCKqAPxUvVdgQ-WmVYi75OHPvB"
 url = "/webhook-uploads/1500157802293/forget-it-cover_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 38316
 
 review_relationship = ""
-author_relationship = ["authors/anastacia-renee"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/no-pastors-or-pews-talking-with-anastacia-rene\u00e9"]
 +++

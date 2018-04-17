@@ -1,8 +1,8 @@
 +++
 index = "-KrnnlHDuRo81AF7k77y"
-_sort_create_date = 1503034020
-_sort_last_updated = 1503034440
-_sort_publish_date = 1503429960
+sort_create_date = 1503034020
+sort_last_updated = 1503034440
+sort_publish_date = 1503429960
 create_date = "2017-08-17T22:27:00-07:00"
 publish_date = "2017-08-22T12:26:00-07:00"
 date = "2017-08-22T12:26:00-07:00"
@@ -13,10 +13,10 @@ title = "Awkward teenage poetry as a force for good"
 dek = "Seattle slam poet Lily Myers\u2019s debut YA novel examines one young woman\u2019s eating disorder through verse.\n"
 facebookauto = "We all wrote terrible poetry as teens. Here's a new novel that turns teenage poetry into something beautiful."
 twitterauto = "We all wrote terrible poetry as teens. Here's a new novel that turns teenage poetry into something beautiful."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/this-impossible-light"]
 tags_reviews = ["tags/young-adult", "tags/poetry"]
-authors_reviews = ["authors/lily-myers"]
+reviews_about = ""
 +++
 
 We’ve all got those notebook pages crammed full of bad poetry skulking somewhere around in our pasts, don’t we? I know I tried to communicate the wretched angst and hormonal discomfort of my teen years in poetry. I filled page after page of three-hole-punched notebook paper with awful, unrhymed poems, in a desperate attempt to communicate the hell of my perfectly safe and privileged adolescence to the world. Thankfully, I destroyed all those papers many years ago, but sometimes I can still summon a line to mind, and it invariably makes me cringe.

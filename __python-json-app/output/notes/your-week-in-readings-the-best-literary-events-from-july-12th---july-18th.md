@@ -1,8 +1,8 @@
 +++
 index = "-KnvSwXTE8n_qd8MzfJv"
-_sort_create_date = 1498867500
-_sort_last_updated = 1498867740
-_sort_publish_date = 1499885700
+sort_create_date = 1498867500
+sort_last_updated = 1498867740
+sort_publish_date = 1499885700
 create_date = "2017-06-30T17:05:00-07:00"
 publish_date = "2017-07-12T11:55:00-07:00"
 date = "2017-07-12T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498867075214/doll
 twitterauto = "Your week in readings brings a pair of events about great moments in women's history."
 facebookauto = "Learn about a famous women's hotel in New York City and the first woman to play minor league baseball by attending readings this week."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/jack-straw"]
-authors_notes = ["authors/nancy-kress"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday July 12th: Kay Kenyon and Nancy Kress**</h5></p> 

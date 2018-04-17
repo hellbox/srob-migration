@@ -1,8 +1,8 @@
 +++
 index = "-JsiT98N8TolsgaDJXHC"
-_sort_create_date = 1435299540
-_sort_last_updated = 1435299600
-_sort_publish_date = 1435299540
+sort_create_date = 1435299540
+sort_last_updated = 1435299600
+sort_publish_date = 1435299540
 create_date = "2015-06-25T23:19:00-07:00"
 publish_date = "2015-06-25T23:19:00-07:00"
 date = "2015-06-25T23:19:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/j-2x5-le5k1ul7Ask8C64pvffdybtY6F1CLLdh0Vv1fif5Q4u7xnEvyfhQY7NRX0MgLnUWn86oC5QKHut4TD3fBDeMU"
 url = "/webhook-uploads/1435299508642/Z.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 32661
 
 review_relationship = ["reviews/traveling-light"]
-author_relationship = ["authors/adam-roberts"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KLHdu_TNdjbJY6Kp9Av"
-_sort_create_date = 1467044280
-_sort_last_updated = 1467046920
-_sort_publish_date = 1467057600
+sort_create_date = 1467044280
+sort_last_updated = 1467046920
+sort_publish_date = 1467057600
 create_date = "2016-06-27T09:18:00-07:00"
 publish_date = "2016-06-27T13:00:00-07:00"
 date = "2016-06-27T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @SJ_Watson is coming to @ubookstorereads to support his new thriller! Read a full chapter now."
 facebookauto = "Sponsor SJ Watson is coming to University Book store to support his new thriller. Read a full chapter now."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor SJ Watson is coming to Seattle! You probably know him from his thriller _Before I Go to Sleep_, which was made into a major motion picture by Rowan Joffee, starrting Nicole Kidman and Colin Firth. His latest book _Second Life_ is out in paperback. 

@@ -1,8 +1,8 @@
 +++
 index = "-KcdNUfe-dUUU-i2biB9"
-_sort_create_date = 1486752960
-_sort_last_updated = 1486755180
-_sort_publish_date = 1486752960
+sort_create_date = 1486752960
+sort_last_updated = 1486755180
+sort_publish_date = 1486752960
 create_date = "2017-02-10T10:56:00-08:00"
 publish_date = "2017-02-10T10:56:00-08:00"
 date = "2017-02-10T10:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're hearing reports that @awpwriter is not providing accessibility for disabled at this year's conference."
 facebookauto = "We're hearing reports that the AWP is not providing accessibility for disabled at this year's conference. Here's what you can do to help."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/awp", "tags/accessibility"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We at the *Seattle Review of Books* aren't attending the Association of Writers & Writing Programs (AWP) conference in Washington DC, but we've been following along on social media as the Seattle contingent of attendees represents us in readings and at conferences. They're doing us proud!

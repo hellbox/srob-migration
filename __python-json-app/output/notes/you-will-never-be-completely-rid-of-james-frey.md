@@ -1,8 +1,8 @@
 +++
 index = "-KxJlN77RnDNaKfy2V0s"
-_sort_create_date = 1508955720
-_sort_last_updated = 1508956140
-_sort_publish_date = 1508958180
+sort_create_date = 1508955720
+sort_last_updated = 1508956140
+sort_publish_date = 1508958180
 create_date = "2017-10-25T11:22:00-07:00"
 publish_date = "2017-10-25T12:03:00-07:00"
 date = "2017-10-25T12:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508955569011/piec
 twitterauto = "You will never completely be rid of James Frey."
 facebookauto = "Oh, my God. Him again?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/memoir", "tags/adaptation"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1508955569011/pieces.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L1tPQ0Q03LIW-lQt_D1"
-_sort_create_date = 1514939160
-_sort_last_updated = 1514947920
-_sort_publish_date = 1515002160
+sort_create_date = 1514939160
+sort_last_updated = 1514947920
+sort_publish_date = 1515002160
 create_date = "2018-01-02T16:26:00-08:00"
 publish_date = "2018-01-03T09:56:00-08:00"
 date = "2018-01-03T09:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1514938632164/Shin
 twitterauto = "We interviewed outgoing Redmond Poet Laureate Shin Yu Pai."
 facebookauto = "Poet Laureate is a difficult job: how do you represent a whole city through poetry? We interviewed outgoing Redmond Poet Laureate Shin Yu Pai about what she learned, what she'd do differently, and how she tackled that intense responsibility."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/exit-interview", "tags/poet-laureate", "tags/redmond"]
-authors_notes = ["authors/shin-yu-pai"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1514938632164/Shin%20Yu%20Pai%20by%20James%20McDaniel.jpg)</p>

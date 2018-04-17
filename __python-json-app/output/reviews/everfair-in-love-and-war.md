@@ -1,8 +1,8 @@
 +++
 index = "-KRCGhEX622XGZFdLXvh"
-_sort_create_date = 1473396480
-_sort_last_updated = 1473447780
-_sort_publish_date = 1473796860
+sort_create_date = 1473396480
+sort_last_updated = 1473447780
+sort_publish_date = 1473796860
 create_date = "2016-09-08T21:48:00-07:00"
 publish_date = "2016-09-13T13:01:00-07:00"
 date = "2016-09-13T13:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Everfair, in love and war"
 dek = "In her first novel, Seattle author Nisi Shawl reimagines a colonial tragedy as a steampunk African kingdom."
 facebookauto = "With Everfair, Seattle author Nisi Shawl tackles the inherent colonialism in steampunk while also addressing the very real, and horrific consequences of colonialism in real-world history."
 twitterauto = "In her first novel, Seattle author @NisiShawl reimagines a colonial tragedy as a steampunk African kingdom."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/everfair"]
 tags_reviews = ["tags/science-fiction", "tags/historical-fiction"]
-authors_reviews = ["authors/nisi-shawl"]
+reviews_about = ""
 +++
 
 You’re either the kind of reader who digs books that have maps and family trees in the first few pages, or you’re not. Some readers — and for the sake of full disclosure, this is where my loyalties lie — tend to barrel through books all sharklike, never turning back or stopping. Others prefer to take their time; these are the people who love the luxury of flipping back and forth, consulting the character lists in the front of the book and thumbing over to the glossary in the back as needed.

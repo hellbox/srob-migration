@@ -1,8 +1,8 @@
 +++
 index = "-KnqvlPQyVFQjHhNKFNT"
-_sort_create_date = 1498791480
-_sort_last_updated = 1498853460
-_sort_publish_date = 1498791480
+sort_create_date = 1498791480
+sort_last_updated = 1498853460
+sort_publish_date = 1498791480
 create_date = "2017-06-29T19:58:00-07:00"
 publish_date = "2017-06-29T19:58:00-07:00"
 date = "2017-06-29T19:58:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6yFL2deV0WXVEADIup53cdBr9JfgcOtEVVXJpTKs08LAT1IVdzHKx_Qe3G0U5o-cUEXHjFVr6BpzqxVau1o4p_gZd0Wghg"
 url = "/webhook-uploads/1498853358192/sponsorship-by-you.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 471745
 
 review_relationship = ""
-author_relationship = ["authors/you"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-sponsorship", "sponsorships/the-sponsorship-(by-you)"]
 notes_relationship = ["notes/sponsorships-now-open-through-january-2018"]
 +++

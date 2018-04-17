@@ -1,8 +1,8 @@
 +++
 index = "-Kh2uYeizjfC4_wEOuB5"
-_sort_create_date = 1491493020
-_sort_last_updated = 1491501360
-_sort_publish_date = 1491505200
+sort_create_date = 1491493020
+sort_last_updated = 1491501360
+sort_publish_date = 1491505200
 create_date = "2017-04-06T08:37:00-07:00"
 publish_date = "2017-04-06T12:00:00-07:00"
 date = "2017-04-06T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In this month's Future Alternative Past, @nisishawl looks at @doctorow and @ksrinfo."
 facebookauto = "In this month's Future Alternative Past, Nisi Shawl looks at Cory Doctorow and Kim Stanley Robinson."
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ["authors/cory-doctorow", "authors/kim-stanley-robinson"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. <a href="http://www.seattlereviewofbooks.com/tags/the-future-alternative-past">Read past columns here</a></p>

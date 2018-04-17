@@ -1,8 +1,8 @@
 +++
 index = "-JsiT2F3a-bre4VRH5Rt"
-_sort_create_date = 1435299780
-_sort_last_updated = 1435299780
-_sort_publish_date = 1435299780
+sort_create_date = 1435299780
+sort_last_updated = 1435299780
+sort_publish_date = 1435299780
 create_date = "2015-06-25T23:23:00-07:00"
 publish_date = "2015-06-25T23:23:00-07:00"
 date = "2015-06-25T23:23:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/W5D7v2gJt4qYshJFx_Slil1_KYhktOk0TP7c4fcBpSOYwn-vCyiQnYCJCajuoDBagq3D0pCwqAYr6bsPHxKBLx1D6nM"
 url = "/webhook-uploads/1435299746753/9781781688458.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 10993
 
 review_relationship = ["reviews/traveling-light"]
-author_relationship = ["authors/william-davies"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

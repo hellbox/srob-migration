@@ -1,8 +1,8 @@
 +++
 index = "-K5IAst-ovnvB6_Djcyz"
-_sort_create_date = 1449873300
-_sort_last_updated = 1449873360
-_sort_publish_date = 1449873300
+sort_create_date = 1449873300
+sort_last_updated = 1449873360
+sort_publish_date = 1449873300
 create_date = "2015-12-11T14:35:00-08:00"
 publish_date = "2015-12-11T14:35:00-08:00"
 date = "2015-12-11T14:35:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/FbJVSaZGynaS_iJZQIyh8qb8e8AVoEa5BWZZM9q8Fa2XXRKp84yDiAxRDYkY-FFP3JV0ghhdMV3hFOtcmv47QisYXT4"
 url = "/webhook-uploads/1449873249972/9781632170132.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 21572
 
 review_relationship = ["reviews/what-the-heart-wants"]
-author_relationship = ["authors/sarah-galvin"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

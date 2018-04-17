@@ -1,8 +1,8 @@
 +++
 index = "-K06ru0ac9mErUuCMZuF"
-_sort_create_date = 1444314840
-_sort_last_updated = 1444315200
-_sort_publish_date = 1444314840
+sort_create_date = 1444314840
+sort_last_updated = 1444315200
+sort_publish_date = 1444314840
 create_date = "2015-10-08T07:34:00-07:00"
 publish_date = "2015-10-08T07:34:00-07:00"
 date = "2015-10-08T07:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Svetlana Alexievich won the Nobel Prize for Literature. It's the first time a journalist has ever won the prize."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/nobel-prize"]
-authors_notes = ["authors/svetlana-alexievitch"]
+notes_about = ""
 books = ""
 +++
 The Nobel was granted to Alexievitch "for her polyphonic writings, a monument to suffering and courage in our time." Remarkably, she is the very first journalist to ever win the Nobel in Literature. [The BBC explains](http://www.bbc.com/news/entertainment-arts-34475251),

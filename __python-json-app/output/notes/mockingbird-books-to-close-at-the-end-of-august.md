@@ -1,8 +1,8 @@
 +++
 index = "-KO3Pt6xbH_iwWXwK_HJ"
-_sort_create_date = 1470026700
-_sort_last_updated = 1470026760
-_sort_publish_date = 1470026760
+sort_create_date = 1470026700
+sort_last_updated = 1470026760
+sort_publish_date = 1470026760
 create_date = "2016-07-31T21:45:00-07:00"
 publish_date = "2016-07-31T21:46:00-07:00"
 date = "2016-07-31T21:46:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sad news: Green Lake children's bookstore Mockingbird Books will close on August 27th."
 facebookauto = "Sad news: Green Lake children's bookstore Mockingbird Books will close on August 27th."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/mockingbird-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Children's bookseller Mockingbird Books just announced that after eight years of selling books to the Green Lake neighborhood, they'll be closing at the end of this month. They [cited a very simple reason](https://t.e2ma.net/webview/8kkig/f9da08e0565ae4bd13653d9f0f40fcd3): "the gross sales for at least this retail store no longer cover the overhead to allow continued operation." They continue:

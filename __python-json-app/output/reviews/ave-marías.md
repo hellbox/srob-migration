@@ -1,8 +1,8 @@
 +++
 index = "-L4-UU1ugM7vR0tk8gcr"
-_sort_create_date = 1517205420
-_sort_last_updated = 1517333100
-_sort_publish_date = 1517346180
+sort_create_date = 1517205420
+sort_last_updated = 1517333100
+sort_publish_date = 1517346180
 create_date = "2018-01-28T21:57:00-08:00"
 publish_date = "2018-01-30T13:03:00-08:00"
 date = "2018-01-30T13:03:00-08:00"
@@ -13,10 +13,10 @@ title = "Ave Mar\u00edas"
 dek = "Washington State Poet Laureate Claudia Castro Luna reads tomorrow night at Seattle Public Library at 7 pm. Her latest book memorializes women who were murdered in Juarez Mexico."
 facebookauto = "Tomorrow night, Claudia Castro Luna reads at the Seattle Public Library. Her latest poetry collection is a memorial for women who were murdered in Juarez, Mexico."
 twitterauto = "Claudia Castro Luna reads @SPLBuzz tomorrow night! Here's our review of her latest book:"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/killing-mar\u00edas"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/claudia-castro-luna"]
+reviews_about = ""
 +++
 
 Juarez, Mexico is frequently referred to as the most dangerous place in the world. A second’s worth of Googling will uncover terms like “Murder Valley” and news stories titled “Who Is Killing the Women of Juarez?” It is a city that is universally known for violence and death, and that reputation serves many purposes. The drug cartels that keep the city in a grip of fear have redefined the city of Juarez, transformed the world’s perception of the city into a war zone, a place where innocent victims die with startling regularity. Donald Trump used Juarez as a bullhorn through which he could amplify the anti-immigration fear of his base, and he hollered his battle cry all the way to the White House.

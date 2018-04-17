@@ -1,8 +1,8 @@
 +++
 index = "-KrZ1A8HOUtV_6v8-b_5"
-_sort_create_date = 1502769360
-_sort_last_updated = 1502769900
-_sort_publish_date = 1502816100
+sort_create_date = 1502769360
+sort_last_updated = 1502769900
+sort_publish_date = 1502816100
 create_date = "2017-08-14T20:56:00-07:00"
 publish_date = "2017-08-15T09:55:00-07:00"
 date = "2017-08-15T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Family Tree\" is the third poem from August Poet in Residence @d_arrindell"
 facebookauto = "\"Family Tree\" is the third poem from August Poet in Residence Daemond Arrindell"
 make_image_tweet = "False"
-byline = ["writers/daemond-arrindell"]
+notes_byline = ["writers/daemond-arrindell"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 _After Natasha Marin’s Red Lineage_

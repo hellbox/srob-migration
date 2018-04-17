@@ -1,8 +1,8 @@
 +++
 index = "-JsuyqQb6YjC4A-mg596"
-_sort_create_date = 1435508580
-_sort_last_updated = 1435508880
-_sort_publish_date = 1435508580
+sort_create_date = 1435508580
+sort_last_updated = 1435508880
+sort_publish_date = 1435508580
 create_date = "2015-06-28T09:23:00-07:00"
 publish_date = "2015-06-28T09:23:00-07:00"
 date = "2015-06-28T09:23:00-07:00"
@@ -23,14 +23,14 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cEkSQ0cCszGdqpHbbqc2LkXKDdj46-FLYodIgqYsr9qxGmOJShS2zhqGiCcUba03qzyWZ-RlBEkpa7W0tWgDxZFu6NwmLQ"
 url = "/webhook-uploads/1435508906268/th_b_stephenson_seveneves.jpg"
 width = 746
 height = 1122
 review_relationship = ["reviews/sticking-the-landing", "reviews/with-a-single-step"]
-author_relationship = ["authors/neal-stephenson"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/hugo-award-finalists-announced", "notes/tomorrow-never-dies", "notes/book-news-roundup-neal-stephenson-is-going-to-the-movies", "notes/someone-should-write-the-sci-fi-novel-that-america-really-needs-to-read-right-now", "notes/literary-event-of-the-week-artemis-reading-at-third-place-books"]
 +++

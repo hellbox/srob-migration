@@ -1,8 +1,8 @@
 +++
 index = "-KXBsSILfkGjpaZdi6ak"
-_sort_create_date = 1479832320
-_sort_last_updated = 1479832320
-_sort_publish_date = 1479832320
+sort_create_date = 1479832320
+sort_last_updated = 1479832320
+sort_publish_date = 1479832320
 create_date = "2016-11-22T08:32:00-08:00"
 publish_date = "2016-11-22T08:32:00-08:00"
 date = "2016-11-22T08:32:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "memoir"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Lt8vySHsSHacsK1qURL1b0WLvh8EG19XIFS7L1MJcmes8KU0OUTgSD7RJ4UhQbju0zgWvgj6_MX9Si8PaMJo4Im4dd-r"
 url = "/webhook-uploads/1479832355339/27161156.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 17647
 
 review_relationship = ["reviews/american-elegy"]
-author_relationship = ["authors/jd-vance"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/thank-you-for-coming-to-the-first-reading-through-it-book-club", "notes/book-news-roundup-politicians-we-love"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-K5-ECniKuUcAm6xeRT1"
-_sort_create_date = 1449555420
-_sort_last_updated = 1449556200
-_sort_publish_date = 1449590100
+sort_create_date = 1449555420
+sort_last_updated = 1449556200
+sort_publish_date = 1449590100
 create_date = "2015-12-07T22:17:00-08:00"
 publish_date = "2015-12-08T07:55:00-08:00"
 date = "2015-12-08T07:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We continue our celebration of Madeline DeFrees today, with her work Phobias Incorporated."
 facebookauto = "We continue our celebration of Madeline DeFrees today, with her work Phobias Incorporated. "
 make_image_tweet = ""
-byline = ["writers/madeline-defrees"]
+notes_byline = ["writers/madeline-defrees"]
 tags_notes = ["tags/tuesday-poem", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Father Giuliano, the drama instructor, fainted<br>

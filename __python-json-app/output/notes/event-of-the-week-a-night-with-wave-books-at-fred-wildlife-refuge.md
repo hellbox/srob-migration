@@ -1,8 +1,8 @@
 +++
 index = "-KS-kuZ2cH1msIkoNxir"
-_sort_create_date = 1474260300
-_sort_last_updated = 1474680060
-_sort_publish_date = 1475082000
+sort_create_date = 1474260300
+sort_last_updated = 1474680060
+sort_publish_date = 1475082000
 create_date = "2016-09-18T21:45:00-07:00"
 publish_date = "2016-09-28T10:00:00-07:00"
 date = "2016-09-28T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our literary event of the week is Wave Books at Fred Wildlife Refuge."
 facebookauto = "Our literary event of the week is Wave Books at Fred Wildlife Refuge."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/wave-books"]
-authors_notes = ["authors/maged-zaher", "authors/don-mee-choi"]
+notes_about = ""
 books = ["books/hardly-war"]
 +++
 Wave Books has, in a relatively short span of time, become the second best poetry publisher in the Seattle area. The best, in case you’re new to town, is Port Townsend nonprofit publisher Copper Canyon Press; given that they’re probably the best poetry publisher in the country, there’s no shame here in a second-place finish. 

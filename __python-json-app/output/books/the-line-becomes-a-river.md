@@ -1,8 +1,8 @@
 +++
 index = "-L8nyGwRmIxMEdO4oj-k"
-_sort_create_date = 1522364100
-_sort_last_updated = 1522364280
-_sort_publish_date = 1522364280
+sort_create_date = 1522364100
+sort_last_updated = 1522364280
+sort_publish_date = 1522364280
 create_date = "2018-03-29T15:55:00-07:00"
 publish_date = "2018-03-29T15:58:00-07:00"
 date = "2018-03-29T15:58:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/XPWr7LRbYQpWCqiNW6WPqBiFmGtKS61v8y8s_URhSoxLMzCEztUHGlQGxSsT7SYRSK4n-0vdPSFfpcd7Wok3HzpKuHNx"
 url = "/webhook-uploads/1522364320890/line%20becomes%20a%20river_500.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 38264
 
 review_relationship = ["reviews/trying-to-make-sense-of-the-border"]
-author_relationship = ["authors/francisco-cant\u00fa"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

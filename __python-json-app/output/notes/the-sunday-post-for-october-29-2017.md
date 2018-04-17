@@ -1,8 +1,8 @@
 +++
 index = "-KxZXTj12m-WR87mYN9S"
-_sort_create_date = 1509220260
-_sort_last_updated = 1509233400
-_sort_publish_date = 1509292800
+sort_create_date = 1509220260
+sort_last_updated = 1509233400
+sort_publish_date = 1509292800
 create_date = "2017-10-28T12:51:00-07:00"
 publish_date = "2017-10-29T09:00:00-07:00"
 date = "2017-10-29T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "An amazing essay from @kristenmillares in @mosslitmag, an elegy to Taco Time, and more in this week's Sunday Post."
 facebookauto = "The Sunday Post is up, with an essay by Kristen Millares Young from the latest Moss; deep dives on weight bias, Nazis, and the mysterious appeal of the tiny home; and an elegy for the irresistible Mexi-Fries."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that’s your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

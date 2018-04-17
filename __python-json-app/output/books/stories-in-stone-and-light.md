@@ -1,8 +1,8 @@
 +++
 index = "-Kpqewkzlj4ptRhs7RI7"
-_sort_create_date = 1500934500
-_sort_last_updated = 1500935340
-_sort_publish_date = 1500934500
+sort_create_date = 1500934500
+sort_last_updated = 1500935340
+sort_publish_date = 1500934500
 create_date = "2017-07-24T15:15:00-07:00"
 publish_date = "2017-07-24T15:15:00-07:00"
 date = "2017-07-24T15:15:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/1evWKbuuvOUygSCC9foLJDsnj3AK8T34zXO6-fz2sSO9RUUWkZuzPa_PencEPo6hUF8IcDCZJyhnt6SWvv7GhTl8iLY"
 url = "/webhook-uploads/1500935350333/Tom%20Small%20cover_275.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 98713
 
 review_relationship = ""
-author_relationship = ["authors/tom-small"]
+books_author = ""
 sponsorships_book = ["sponsorships/stories-in-stone-and-light"]
 notes_relationship = ["notes/stop-by-sponsor-arundel-books-for-sculpture-sparkles-and-of-course-books"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-Kh_8UttUjrallfPKJMA"
-_sort_create_date = 1492050600
-_sort_last_updated = 1492050600
-_sort_publish_date = 1492543800
+sort_create_date = 1492050600
+sort_last_updated = 1492050600
+sort_publish_date = 1492543800
 create_date = "2017-04-12T19:30:00-07:00"
 publish_date = "2017-04-18T12:30:00-07:00"
 date = "2017-04-18T12:30:00-07:00"
@@ -13,10 +13,10 @@ title = "Seattle, step by step"
 dek = "From Madam Damnable\u2019s Hotel to Profanity Hill, a new guide walks you through Seattle history."
 facebookauto = "From Madam Damnable\u2019s Hotel to Profanity Hill, a new guide walks you through Seattle history."
 twitterauto = "From Madam Damnable\u2019s Hotel to Profanity Hill, a new guide walks you through Seattle history."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/seattle-walks"]
 tags_reviews = ["tags/seattle"]
-authors_reviews = ["authors/david-b-williams"]
+reviews_about = ""
 +++
 
 It’s easy for newcomers to be deterred by the hills or the rain, but the truth is that Seattle is one of the most walkable cities in the country. Unlike, say, the ugly monotony of Florida cities or the imposing boulevards of California cities, Seattle feels pedestrian-sized. There’s enough happening on street level to reward a wanderer’s attention, and there are enough straight-shot trails available between neighborhoods to make long-distance travel relatively easy. 

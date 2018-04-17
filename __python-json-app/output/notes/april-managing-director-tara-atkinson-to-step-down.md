@@ -1,8 +1,8 @@
 +++
 index = "-KDCazMO5Kvxn-3oTs0C"
-_sort_create_date = 1458369720
-_sort_last_updated = 1458370380
-_sort_publish_date = 1458369720
+sort_create_date = 1458369720
+sort_last_updated = 1458370380
+sort_publish_date = 1458369720
 create_date = "2016-03-18T23:42:00-07:00"
 publish_date = "2016-03-18T23:42:00-07:00"
 date = "2016-03-18T23:42:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "APRIL Festival's Managing Director, @t_m_at, is stepping down. We'll miss her."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/april"]
-authors_notes = ["authors/ed-skoog", "authors/hannah-sanghee-park"]
+notes_about = ""
 books = ""
 +++
 Tonight's APRIL Festival 5th Anniversary Party was a solid mix of new-to-APRIL readers ([Hannah Sanghee Park](http://www.poetryfoundation.org/bio/hannah-sanghee-park) delivered a witty spray of poems about love and "going to town on a tangerine") and longtime APRIL favorites (Ed Skoog always classes up a room, even when he's reading a poem about puppets). But they saved the real news for the end of the night: APRIL co-founder Willie Fitzgerald announced that APRIL's managing director, Tara Atkinson, would be stepping down after this year's festival.

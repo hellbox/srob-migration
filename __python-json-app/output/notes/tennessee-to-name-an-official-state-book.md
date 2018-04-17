@@ -1,8 +1,8 @@
 +++
 index = "-KEc1Sxt5HTdoytA7K_E"
-_sort_create_date = 1459886820
-_sort_last_updated = 1459886820
-_sort_publish_date = 1459886820
+sort_create_date = 1459886820
+sort_last_updated = 1459886820
+sort_publish_date = 1459886820
 create_date = "2016-04-05T13:07:00-07:00"
 publish_date = "2016-04-05T13:07:00-07:00"
 date = "2016-04-05T13:07:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Tennessee is about to name an official state book. Can you guess what book it is?"
 facebookauto = "Tennessee is about to name an official state book. Can you guess what book it is?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bible"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I am all for the idea of states naming official books. (*Make Way for Ducklings* is, adorably, Massachusetts's official children's book.) But I'm not a fan of [this move](http://www.tennessean.com/story/news/politics/2016/04/04/bill-make-bible-official-state-book-heads-haslam/82625250/):

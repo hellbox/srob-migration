@@ -1,8 +1,8 @@
 +++
 index = "-Kqt9XElP4N1vI85VLzR"
-_sort_create_date = 1502050080
-_sort_last_updated = 1502050140
-_sort_publish_date = 1502050080
+sort_create_date = 1502050080
+sort_last_updated = 1502050140
+sort_publish_date = 1502050080
 create_date = "2017-08-06T13:08:00-07:00"
 publish_date = "2017-08-06T13:08:00-07:00"
 date = "2017-08-06T13:08:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/29nCnE0vPsesa43RoBpYLtRAXC-y6XN7wftNRYjIf02QarH2QVYyNFb7tnRDN3j7r2P8N0HbtE00N0y0KydgD-9frtx3"
 url = "/webhook-uploads/1502050127238/Mile%20End_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 24005
 
 review_relationship = ["reviews/translation-is-not-kale"]
-author_relationship = ["authors/lise-tremblay"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

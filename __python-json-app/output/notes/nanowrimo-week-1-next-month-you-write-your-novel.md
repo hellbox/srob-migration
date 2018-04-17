@@ -1,8 +1,8 @@
 +++
 index = "-K1tLQKALlZyy0uLcKP1"
-_sort_create_date = 1446218640
-_sort_last_updated = 1446509580
-_sort_publish_date = 1446231600
+sort_create_date = 1446218640
+sort_last_updated = 1446509580
+sort_publish_date = 1446231600
 create_date = "2015-10-30T08:24:00-07:00"
 publish_date = "2015-10-30T12:00:00-07:00"
 date = "2015-10-30T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://d1lj9l30x2igqs.cloudfront.net/nano-2013/files/2013/09/Shiel
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/nanowrimo"]
-authors_notes = ["authors/john-irving", "authors/ira-glass"]
+notes_about = ""
 books = ""
 +++
 Sunday is November 1st, and that means across the world thousands of people will rush from the starting line, typing at the speed of story to get their 50,000 word novel done during [NaNoWriMo](http://nanowrimo.org/ "National Novel Writing Month"). If you've ever wanted to write a novel, you should join them. It's a crazy, exhilarating kind of fun. In fact, we made a little tool to help you. Subscribe to the Twitter account [@nanocount](https://twitter.com/nanocount "NaNoWriMo Word Count (@NaNoCount) | Twitter"), and every day we'll give you a target word count guaranteed to get you over the finish line.

@@ -1,8 +1,8 @@
 +++
 index = "-JziJnecxbOwUaaE6hrS"
-_sort_create_date = 1442812440
-_sort_last_updated = 1442812560
-_sort_publish_date = 1442864700
+sort_create_date = 1442812440
+sort_last_updated = 1442812560
+sort_publish_date = 1442864700
 create_date = "2015-09-20T22:14:00-07:00"
 publish_date = "2015-09-21T12:45:00-07:00"
 date = "2015-09-21T12:45:00-07:00"
@@ -13,10 +13,10 @@ title = "Juvenile, detention"
 dek = "Local cartoonist Colleen Frakes grew up on a prison island in Washington state. Her comic book memoir proves that this situation was even weirder, and even more normal, than you might suspect."
 facebookauto = "\"Prison Island\" is a memoir by local cartoonist Colleen Frakes about growing up on a prison island in Washington state. What was life on a prison island like? Well, her birthday party was once ruined by a jailbreak."
 twitterauto = "Local cartoonist @ColleenFrakes grew up on a prison island. Here's our review of her comic book memoir."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/prison-island"]
 tags_reviews = ["tags/memoir", "tags/comics"]
-authors_reviews = ["authors/colleen-frakes"]
+reviews_about = ""
 +++
 
 Because her parents worked for the penitentiary system, a large part of local cartoonist Colleen Frakes’ youth was spent on McNeil Island, the last prison island in the United States not connected to the mainland by roads. Though McNeil was relatively close to Tacoma on the south Sound, it was still disconnected from civilization in nearly every way; most prison employees lived in a company town on the island and used infrequent ferry service to connect to civilization. Frakes had to take a ferry to a bus to school every day, her internet was charge-by-the-minute dialup, and her neighbors were all families who worked at the prison.

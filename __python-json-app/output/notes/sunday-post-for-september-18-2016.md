@@ -1,8 +1,8 @@
 +++
 index = "-KRscQiTaEctL3848kOx"
-_sort_create_date = 1474123860
-_sort_last_updated = 1474124040
-_sort_publish_date = 1474216200
+sort_create_date = 1474123860
+sort_last_updated = 1474124040
+sort_publish_date = 1474216200
 create_date = "2016-09-17T07:51:00-07:00"
 publish_date = "2016-09-18T09:30:00-07:00"
 date = "2016-09-18T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Edward Albee, undercover substitute teaching, bad dads, and the race card, all in today's Sunday Post."
 facebookauto = "Edward Albee, undercover substitute teaching, bad dads, and the race card, all in today's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.nytimes.com/2016/09/17/arts/edward-albee-playwright-of-a-desperate-generation-dies-at-88.html?_r=0" title="None">Edward Albee, Playwright of a Desperate Generation, Dies at 88</a></h5>

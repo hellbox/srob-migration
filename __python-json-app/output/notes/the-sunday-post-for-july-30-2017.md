@@ -1,8 +1,8 @@
 +++
 index = "-Kq9q7tPlCtAOFvD0p5y"
-_sort_create_date = 1501273020
-_sort_last_updated = 1501275120
-_sort_publish_date = 1501430400
+sort_create_date = 1501273020
+sort_last_updated = 1501275120
+sort_publish_date = 1501430400
 create_date = "2017-07-28T13:17:00-07:00"
 publish_date = "2017-07-30T09:00:00-07:00"
 date = "2017-07-30T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We love everyone in this week's Sunday Post, but @jessruliffson and @Tabitha _enbiller really sort of nailed it."
 facebookauto = "We love everyone in this week's Sunday Post, but Jess Ruliffson's graphic interview on serving as a trans person and Tabitha Blankenbiller's feisty argument for the right to wear skirts really sort of nailed it."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

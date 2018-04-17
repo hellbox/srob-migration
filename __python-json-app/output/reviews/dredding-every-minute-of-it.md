@@ -1,8 +1,8 @@
 +++
 index = "-KOchZJ-14Xw4_JKj2gk"
-_sort_create_date = 1470635580
-_sort_last_updated = 1470756720
-_sort_publish_date = 1470682800
+sort_create_date = 1470635580
+sort_last_updated = 1470756720
+sort_publish_date = 1470682800
 create_date = "2016-08-07T22:53:00-07:00"
 publish_date = "2016-08-08T12:00:00-07:00"
 date = "2016-08-08T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Dredding every minute of it"
 dek = "Has Judge Dredd changed over the years, or have we? Arthur Wyatt is the man who should know: he was a Dredd reader as a boy in England, and now writes for the comic. "
 facebookauto = "What is it about Judge Dredd that captured the zeitgeist in England so well? He's a perfect parody of America, in a time when perfect parodies seem all to real. British ex-pat, and Judge Dredd writer, Arthur Wyatt explains the appeal. "
 twitterauto = "We had Judge Dredd writer @arthurwyatt lay it all out: what makes the comic so vital after all these years?"
-byline = ["writers/arthur-wyatt"]
+reviews_byline = ["writers/arthur-wyatt"]
 books_in_this_review = ["books/judge-dredd-america", "books/judge-dredd-case-files-01"]
 tags_reviews = ["tags/comics"]
-authors_reviews = ["authors/pat-mills", "authors/john-wagner"]
+reviews_about = ""
 +++
 
 <blockquote class="noline"><p style="font-family: SeravekLight;font-size: 26px; color: #70AF49; line-height:1.25em;margin-top:-0.9em;">"A good hero is hard to beat, and a good villain is hard to beat, so why not combine them?" 

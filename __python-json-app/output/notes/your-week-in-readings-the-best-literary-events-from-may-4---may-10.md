@@ -1,8 +1,8 @@
 +++
 index = "-KGZ8x4LuH6rtA3RkH6H"
-_sort_create_date = 1461969180
-_sort_last_updated = 1461969180
-_sort_publish_date = 1462381080
+sort_create_date = 1461969180
+sort_last_updated = 1461969180
+sort_publish_date = 1462381080
 create_date = "2016-04-29T15:33:00-07:00"
 publish_date = "2016-05-04T09:58:00-07:00"
 date = "2016-05-04T09:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1461968990687/fig
 twitterauto = "Events happening this week include a dragon-riding novel and a talk about the $15 minimum wage,"
 facebookauto = "Some cool upcoming events include the fight for a $15 minimum wage, a dragon-riding novel, and a party where you get to trash the Hugo House."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/hugo-house"]
-authors_notes = ["authors/neal-bascomb"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday May 4:  Writing for a Cause**</h5></p>

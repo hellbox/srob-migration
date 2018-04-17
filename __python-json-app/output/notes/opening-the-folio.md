@@ -1,8 +1,8 @@
 +++
 index = "-Jzy6YLCOff3RCulWH4O"
-_sort_create_date = 1443077400
-_sort_last_updated = 1443110340
-_sort_publish_date = 1443119580
+sort_create_date = 1443077400
+sort_last_updated = 1443110340
+sort_publish_date = 1443119580
 create_date = "2015-09-23T23:50:00-07:00"
 publish_date = "2015-09-24T11:33:00-07:00"
 date = "2015-09-24T11:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Folio Seattle, a new private library, will open in January of next year. Does the city need another literary venue?"
 facebookauto = "The man who founded the Seattle Weekly, Crosscut.com, and Town Hall Seattle has a new idea: Folio Seattle, a brand-new private library in downtown Seattle. It's a gorgeous space, but does Seattle really need another literary venue?"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/folio-seattle", "tags/atheneum"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1443077506281/20150923_181234.jpg)</p>

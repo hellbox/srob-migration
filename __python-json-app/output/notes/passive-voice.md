@@ -1,8 +1,8 @@
 +++
 index = "-KO5oXQ6cwWtZ31C2j7B"
-_sort_create_date = 1470066960
-_sort_last_updated = 1470149820
-_sort_publish_date = 1470156900
+sort_create_date = 1470066960
+sort_last_updated = 1470149820
+sort_publish_date = 1470156900
 create_date = "2016-08-01T08:56:00-07:00"
 publish_date = "2016-08-02T09:55:00-07:00"
 date = "2016-08-02T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is \"Passive Voice\" by Laura Da'"
 facebookauto = "Our Tuesday Poem is \"Passive Voice\" by Laura Da'"
 make_image_tweet = "False"
-byline = ["writers/laura-da"]
+notes_byline = ["writers/laura-da"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ["authors/laura-da"]
+notes_about = ""
 books = ""
 +++
 I use a trick to teach students<br>

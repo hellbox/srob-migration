@@ -1,8 +1,8 @@
 +++
 index = "-KDzEfbSlTHG0MZ9P5a_"
-_sort_create_date = 1459202460
-_sort_last_updated = 1459203000
-_sort_publish_date = 1459203000
+sort_create_date = 1459202460
+sort_last_updated = 1459203000
+sort_publish_date = 1459203000
 create_date = "2016-03-28T15:01:00-07:00"
 publish_date = "2016-03-28T15:10:00-07:00"
 date = "2016-03-28T15:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor Entre Rios brings a collection of Shelley's political poems, as he wanted them presented."
 facebookauto = "Sponsor Entre Rios is back with a new volume of Shelley's political poems. What a great thing for an election year. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This is the most perfect thing for an election year. Sponsor Entre Rios books, who makes those lovely poetry volumes that are so beautiful in the hand, is back to show off their upcoming collection of Percy Bysse Shelley's political poems. 

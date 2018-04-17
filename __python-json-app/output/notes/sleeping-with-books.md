@@ -1,8 +1,8 @@
 +++
 index = "-Jv-rqkkGq1lBcLWZnC1"
-_sort_create_date = 1437754920
-_sort_last_updated = 1437754920
-_sort_publish_date = 1437754920
+sort_create_date = 1437754920
+sort_last_updated = 1437754920
+sort_publish_date = 1437754920
 create_date = "2015-07-24T09:22:00-07:00"
 publish_date = "2015-07-24T09:22:00-07:00"
 date = "2015-07-24T09:22:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Dennis Abrams of [Publishing Perspectives](http://publishingperspectives.com/2015/07/in-japan-a-new-bookstore-doubles-as-a-hotel/) writes:

@@ -1,8 +1,8 @@
 +++
 index = "-KECXL9Xp7QLSuNyv5c_"
-_sort_create_date = 1459442220
-_sort_last_updated = 1459447020
-_sort_publish_date = 1459454400
+sort_create_date = 1459442220
+sort_last_updated = 1459447020
+sort_publish_date = 1459454400
 create_date = "2016-03-31T09:37:00-07:00"
 publish_date = "2016-03-31T13:00:00-07:00"
 date = "2016-03-31T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our first report from @RachelLaKessler, from on the ground at #AWP16. "
 facebookauto = "Our first report from Rachel Kessler, on the ground in Los Angeles, for AWP."
 make_image_tweet = "False"
-byline = ["writers/rachel-kessler"]
+notes_byline = ["writers/rachel-kessler"]
 tags_notes = ["tags/notes-from-the-field"]
-authors_notes = ["authors/claudia-rankine", "authors/liz-bradfield"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Correspondant Rachel Kessler agreed to be our eyes-on-the-ground at the AWP festival this year. Join us for her daily updates as the conference unfolds</p>

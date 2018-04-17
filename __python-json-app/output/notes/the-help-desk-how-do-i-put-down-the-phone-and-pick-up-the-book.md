@@ -1,8 +1,8 @@
 +++
 index = "-L6c355JC8OY4Xefdq1a"
-_sort_create_date = 1520016840
-_sort_last_updated = 1520020560
-_sort_publish_date = 1520020560
+sort_create_date = 1520016840
+sort_last_updated = 1520020560
+sort_publish_date = 1520020560
 create_date = "2018-03-02T10:54:00-08:00"
 publish_date = "2018-03-02T11:56:00-08:00"
 date = "2018-03-02T11:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Dear @ciennam: My willpower is shot. How do I put down the phone and pick up a book?"
 facebookauto = "Dear Cienna: My willpower is shot. How do I put down the phone and pick up a book?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

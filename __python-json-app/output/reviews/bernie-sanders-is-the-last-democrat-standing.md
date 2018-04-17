@@ -1,8 +1,8 @@
 +++
 index = "-KXtOkBR1u1FttbrQHce"
-_sort_create_date = 1480579260
-_sort_last_updated = 1480612320
-_sort_publish_date = 1480614600
+sort_create_date = 1480579260
+sort_last_updated = 1480612320
+sort_publish_date = 1480614600
 create_date = "2016-12-01T00:01:00-08:00"
 publish_date = "2016-12-01T09:50:00-08:00"
 date = "2016-12-01T09:50:00-08:00"
@@ -13,10 +13,10 @@ title = "Bernie Sanders is the last Democrat standing"
 dek = "Last night, Bernie Sanders promoted his new book at a reading in Seattle, and he demonstrated why he's the closest thing to a leader that the Democratic Party has right now."
 facebookauto = "We were at the Bernie Sanders reading last night. Here's what we saw:"
 twitterauto = "We were at the Bernie Sanders reading last night. Here's what we saw:"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/our-revolution"]
 tags_reviews = ["tags/politics"]
-authors_reviews = ["authors/bernie-sanders"]
+reviews_about = ""
 +++
 
 <p class="image-hero">![](/webhook-uploads/1480578563294/BernieSanders.jpg)</p>

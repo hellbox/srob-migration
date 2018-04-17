@@ -1,8 +1,8 @@
 +++
 index = "-L-ZprMeC_Uf7NFrTn6j"
-_sort_create_date = 1512446580
-_sort_last_updated = 1514311860
-_sort_publish_date = 1513101300
+sort_create_date = 1512446580
+sort_last_updated = 1514311860
+sort_publish_date = 1513101300
 create_date = "2017-12-04T20:03:00-08:00"
 publish_date = "2017-12-12T09:55:00-08:00"
 date = "2017-12-12T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512448911068/Scre
 twitterauto = "\"Poem About Bugs\" by @writer_sejones starts with \"Let\u2019s begin with bark beetles\""
 facebookauto = "\"Poem About Bugs\" by @writer_sejones starts with \"Let\u2019s begin with bark beetles\""
 make_image_tweet = "False"
-byline = ["writers/sarah-jones"]
+notes_byline = ["writers/sarah-jones"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Let’s begin with bark beetles, sugar pines and sap. I am twelve,<br>

@@ -1,8 +1,8 @@
 +++
 index = "-KnuN0sXR5gby1GAQlDR"
-_sort_create_date = 1498849200
-_sort_last_updated = 1499104560
-_sort_publish_date = 1498849200
+sort_create_date = 1498849200
+sort_last_updated = 1499104560
+sort_publish_date = 1498849200
 create_date = "2017-06-30T12:00:00-07:00"
 publish_date = "2017-06-30T12:00:00-07:00"
 date = "2017-06-30T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498848962735/51D0
 twitterauto = "Is alphabetization a tool of the patriarchy? @ciennam explains it all in this week's Help Desk."
 facebookauto = "\"The perception that we need the 'alphabet' in order to tame our collections is socially structured and enforced by the patriarchy. RESIST.\""
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

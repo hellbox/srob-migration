@@ -1,8 +1,8 @@
 +++
 index = "-K_kYWJysV_8-RsmN_Og"
-_sort_create_date = 1483652040
-_sort_last_updated = 1483652460
-_sort_publish_date = 1483653600
+sort_create_date = 1483652040
+sort_last_updated = 1483652460
+sort_publish_date = 1483653600
 create_date = "2017-01-05T13:34:00-08:00"
 publish_date = "2017-01-05T14:00:00-08:00"
 date = "2017-01-05T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483651259523/SRoB
 twitterauto = "Portrait Gallery: #ShirleyJackson painted by @studiochristine"
 facebookauto = "Portrait Gallery: Shirley Jackson"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/shirley-jackson"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

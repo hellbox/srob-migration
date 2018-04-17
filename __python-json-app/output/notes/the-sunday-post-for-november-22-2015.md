@@ -1,8 +1,8 @@
 +++
 index = "-K3hqAFEhGXEpmnECOIB"
-_sort_create_date = 1448173140
-_sort_last_updated = 1448173740
-_sort_publish_date = 1448211600
+sort_create_date = 1448173140
+sort_last_updated = 1448173740
+sort_publish_date = 1448211600
 create_date = "2015-11-21T22:19:00-08:00"
 publish_date = "2015-11-22T09:00:00-08:00"
 date = "2015-11-22T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Two today in the Sunday Post: one from @rachsyme, and one from @beelavender."
 facebookauto = "Two pieces in today's Sunday Post: on returning home to family, and a long look at selfies."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[SELFIE: The revolutionary potential of your own face, in seven chapters](https://medium.com/matter/selfie-fe945dcba6b0#.7ek9zbr8n "SELFIE â Matter â Medium")</h5>

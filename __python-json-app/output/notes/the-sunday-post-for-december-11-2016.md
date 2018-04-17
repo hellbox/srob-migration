@@ -1,8 +1,8 @@
 +++
 index = "-KYfU6bRxRdZninvlyG7"
-_sort_create_date = 1481419500
-_sort_last_updated = 1481472720
-_sort_publish_date = 1481477400
+sort_create_date = 1481419500
+sort_last_updated = 1481472720
+sort_publish_date = 1481477400
 create_date = "2016-12-10T17:25:00-08:00"
 publish_date = "2016-12-11T09:30:00-08:00"
 date = "2016-12-11T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Filipino Drug Wars, Maple Syrup heists, Github troll-killing, and Google suggest evil, all in the Sunday Post"
 facebookauto = "Filipino Drug Wars, Maple Syrup heists, Github troll-killing, and Google suggest evil, all in the Sunday Post"
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.nytimes.com/interactive/2016/12/07/world/asia/rodrigo-duterte-philippines-drugs-killings.html" title="‘They Are Slaughtering Us Like Animals’ - The New York Times">‘They Are Slaughtering Us Like Animals’</a></h5>

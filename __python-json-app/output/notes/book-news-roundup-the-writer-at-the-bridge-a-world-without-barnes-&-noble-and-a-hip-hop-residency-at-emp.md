@@ -1,8 +1,8 @@
 +++
 index = "-KKpDFqnTvyyqlewI25Y"
-_sort_create_date = 1466550480
-_sort_last_updated = 1466550480
-_sort_publish_date = 1466623740
+sort_create_date = 1466550480
+sort_last_updated = 1466550480
+sort_publish_date = 1466623740
 create_date = "2016-06-21T16:08:00-07:00"
 publish_date = "2016-06-22T12:29:00-07:00"
 date = "2016-06-22T12:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "All the news you need on Barnes & Noble, the e-book lawsuit, & why @misswashuta is the most-envied writer in town."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/barnes-&amp;-noble", "tags/fremont-bridge", "tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Last month, Elissa Washuta become one of the most-envied writers in the Seattle area when she became the Fremont Bridge's very first writer-in-residence. [UW Today interviewed Washuta](http://www.washington.edu/news/2016/06/21/qa-essayist-elissa-washuta-on-being-the-fremont-bridges-first-writer-in-residence-another-recent-award-and-her-upcoming-book/) about how that's going:

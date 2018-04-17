@@ -1,8 +1,8 @@
 +++
 index = "-KZUiwqNczZswp5A3UOY"
-_sort_create_date = 1482296100
-_sort_last_updated = 1482296100
-_sort_publish_date = 1482354300
+sort_create_date = 1482296100
+sort_last_updated = 1482296100
+sort_publish_date = 1482354300
 create_date = "2016-12-20T20:55:00-08:00"
 publish_date = "2016-12-21T13:05:00-08:00"
 date = "2016-12-21T13:05:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle's newest reading series, Loud Mouth Lit, kicks off on Tuesday, January 31st."
 facebookauto = "Seattle's newest reading series, Loud Mouth Lit, kicks off on Tuesday, January 31st."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/loud-mouth-lit"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Seattle-area writer Paul Mullin just announced that he's kicking off 2017 with a new reading series called Loud Mouth Lit. Admission is free, it happens at Greenlake's St. Andrew’s Bar and Grill, and the first reading happens on January 31st at 8 pm, with new outings on the last Tuesday of every month thereafter.

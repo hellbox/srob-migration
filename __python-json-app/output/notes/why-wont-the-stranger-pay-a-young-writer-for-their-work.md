@@ -1,8 +1,8 @@
 +++
 index = "-KpWWZieptSSkWDEi2Pa"
-_sort_create_date = 1500579720
-_sort_last_updated = 1500603780
-_sort_publish_date = 1500579720
+sort_create_date = 1500579720
+sort_last_updated = 1500603780
+sort_publish_date = 1500579720
 create_date = "2017-07-20T12:42:00-07:00"
 publish_date = "2017-07-20T12:42:00-07:00"
 date = "2017-07-20T12:42:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500486817561/DFC8
 twitterauto = "Why won't @thestranger pay a young writer for their work?"
 facebookauto = "An update to yesterday's story: why won't The Stranger pay a young writer for their work?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/the-stranger", "tags/bumbershoot"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Yesterday, [I reported that *The Stranger* is running a "contest"](http://www.seattlereviewofbooks.com/notes/2017/07/19/is-the-stranger-running-a-contest-where-winners-cover-bumbershoot-as-unpaid-marketers/) to choose a writer to serve as the Bumbershoot Correspondent for their Bumbershoot guide and website. Though the writer will win a collection of branded merchandise from contest partners, including a camera, film, and records, the position is unpaid. Just last week, *Stranger* publisher Tim Keck posted that the publication is "profitable" and has "been growing financially for years." If that's true, why isn't *The Stranger* paying a writer for their work? 

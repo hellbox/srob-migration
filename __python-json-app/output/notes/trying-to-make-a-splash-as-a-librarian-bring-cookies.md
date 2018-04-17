@@ -1,8 +1,8 @@
 +++
 index = "-KCOuiJ9p2N2MV3QSlHv"
-_sort_create_date = 1457502480
-_sort_last_updated = 1457502780
-_sort_publish_date = 1457556420
+sort_create_date = 1457502480
+sort_last_updated = 1457502780
+sort_publish_date = 1457556420
 create_date = "2016-03-08T21:48:00-08:00"
 publish_date = "2016-03-09T12:47:00-08:00"
 date = "2016-03-09T12:47:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457502019791/this
 twitterauto = "\u201cThis is probably the best job in the world,\u201d says a school librarian."
 facebookauto = "Here's an interview with a school librarian about the importance of bringing fresh-baked cookies to work on your first day."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/librarians"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 “This is probably the best job in the world,” says Chris Gustafson, the school librarian at Whitman Middle School. “It’s so much fun, and what makes it so much fun is its biggest challenge.” Elementary school classes, she explains, are [scheduled for librarian visits](http://seattlereviewofbooks.com/notes/2016/03/02/meet-jeffrey-riley-the-school-librarian-at-queen-anne-elementary/), while “no one has to come to the library in a middle school — it’s my job to make that happen,” to entice the students into visiting the library.

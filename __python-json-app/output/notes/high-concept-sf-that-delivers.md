@@ -1,8 +1,8 @@
 +++
 index = "-KgFIfKk-iv8OMAY8fEz"
-_sort_create_date = 1490627220
-_sort_last_updated = 1490627820
-_sort_publish_date = 1490644800
+sort_create_date = 1490627220
+sort_last_updated = 1490627820
+sort_publish_date = 1490644800
 create_date = "2017-03-27T08:07:00-07:00"
 publish_date = "2017-03-27T13:00:00-07:00"
 date = "2017-03-27T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490627134650/join
 twitterauto = "Sponsor @SteveToutonghi's gripping debut \"Join\" is now available in paperback!"
 facebookauto = "Sponsor Steve Toutonghi's gripping debut \"Join\" is now available in paperback!"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/steve-toutonghi"]
+notes_about = ""
 books = ["books/join"]
 +++
 <p class="image-left">![](/webhook-uploads/1490627122820/join-small.jpg)</p>

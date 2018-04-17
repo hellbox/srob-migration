@@ -1,8 +1,8 @@
 +++
 index = "-K22p0EXE-RP-MLj7DQ7"
-_sort_create_date = 1446394440
-_sort_last_updated = 1446395580
-_sort_publish_date = 1446397200
+sort_create_date = 1446394440
+sort_last_updated = 1446395580
+sort_publish_date = 1446397200
 create_date = "2015-11-01T08:14:00-08:00"
 publish_date = "2015-11-01T09:00:00-08:00"
 date = "2015-11-01T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Sunday Post has pieces by Seattle's own @greene, as well as @danbjohnson, @dannosowitz, and more."
 facebookauto = "Today's Sunday Post has Seattle's Jay Greene on Amazon comments, Daniel Johnson on Iris Murdoch, Dan Nosowitz on online discount book retailers, and Rosemary Hill on Angela Carter's poetry."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Amazon reviews hijacked by causes, conspiracies, rage](http://www.seattletimes.com/business/amazon/amazon-reviews-hijacked-by-causes-conspiracies-rage/?utm_content=bufferc059a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer "Amazon reviews hijacked by causes, conspiracies, rage | The Seattle Times")</h5>

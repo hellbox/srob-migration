@@ -1,8 +1,8 @@
 +++
 index = "-KXJUnt8hFEva6pgxCo_"
-_sort_create_date = 1479960060
-_sort_last_updated = 1480370280
-_sort_publish_date = 1480355940
+sort_create_date = 1479960060
+sort_last_updated = 1480370280
+sort_publish_date = 1480355940
 create_date = "2016-11-23T20:01:00-08:00"
 publish_date = "2016-11-28T09:59:00-08:00"
 date = "2016-11-28T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479958928363/Rick
 twitterauto = "Meet @ElliottBayBooks's Rick Simonson, the man who put literary Seattle on the map."
 facebookauto = "It began when a restaurant employee took out the trash. Forty years later, Seattle is a globally recognized hub of literature. How are those two things connected?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/elliott-bay-book-company", "tags/rick-simonson"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1479958928363/Rick.jpg)</p>

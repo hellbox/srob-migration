@@ -1,8 +1,8 @@
 +++
 index = "-K5JRHafibeDD27jgIPa"
-_sort_create_date = 1449894420
-_sort_last_updated = 1449894420
-_sort_publish_date = 1449894420
+sort_create_date = 1449894420
+sort_last_updated = 1449894420
+sort_publish_date = 1449894420
 create_date = "2015-12-11T20:27:00-08:00"
 publish_date = "2015-12-11T20:27:00-08:00"
 date = "2015-12-11T20:27:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449894138893/IMG_
 twitterauto = ""
 facebookauto = "A Friday night Mail Call! What looks good?"
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1449894138893/IMG_1502.jpg)</p>

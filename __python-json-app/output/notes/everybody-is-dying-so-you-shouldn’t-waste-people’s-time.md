@@ -1,8 +1,8 @@
 +++
 index = "-KF2o3BUg-KXB6365Ub9"
-_sort_create_date = 1460352840
-_sort_last_updated = 1460490240
-_sort_publish_date = 1460492100
+sort_create_date = 1460352840
+sort_last_updated = 1460490240
+sort_publish_date = 1460492100
 create_date = "2016-04-10T22:34:00-07:00"
 publish_date = "2016-04-12T13:15:00-07:00"
 date = "2016-04-12T13:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460351027218/weed
 twitterauto = "We talked with @davidschmader about weed, writing, and insulting Nancy Reagan."
 facebookauto = "We talked with David Schmader about his new book on the history and use of pot, whether it's okay to make fun of Nancy Reagan, and why writing about Showgirls is so life-affirming."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/marijuana", "tags/april", "tags/showgirls"]
-authors_notes = ["authors/david-schmader"]
+notes_about = ""
 books = ["books/weed-the-users-guide"]
 +++
 <p class="image-left">![](/webhook-uploads/1460351027218/weed.jpeg)</p><p class="intro">David Schmader is a goddamned Seattle treasure. From his one-man shows to his Last Days column at *The Stranger* to his new job as [Creative Director at the Bureau of Fearless Ideas](http://seattlereviewofbooks.com/notes/2015/08/27/an-interview-with-david-schmader-the-brand-new-creative-director-at-the-bureau-of-fearless-ideas/), he has improved life in this city by roughly 1000 percent. I worked with Schmader for eight years at *The Stranger* and I'm proud to call him a friend, but the truth is that I still nurse a fan's awe of his writing. A Schmader sentence — crisp, fast-moving, and laced with wit — is entertaining in the same way a Wodehouse sentence is entertaining. Last week, Schmader published his first book, *Weed: The User’s Guide*, and he's about to celebrate with a few Seattle events: a mind-blowing [video montage event with Collide-o-Scope at the Egyptian on 4/20](http://www.siff.net/cinema/leafly-presents-a-night-of-higher-entertainment), a reading at [Town Hall on April 22nd](https://townhallseattle.org/event/david-schmader/), and a [reading at Hugo House on May 1st](https://hugohouse.org/event/cheap-weed-memoir/). We talked about *Weed*, about weed, and about whether or not it's too soon to make fun of Nancy Reagan.</p>

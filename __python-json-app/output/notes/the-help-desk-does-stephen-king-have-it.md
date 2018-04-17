@@ -1,8 +1,8 @@
 +++
 index = "-KxTispuA6eyWk4ZRmzk"
-_sort_create_date = 1509122820
-_sort_last_updated = 1509122820
-_sort_publish_date = 1509130020
+sort_create_date = 1509122820
+sort_last_updated = 1509122820
+sort_publish_date = 1509130020
 create_date = "2017-10-27T09:47:00-07:00"
 publish_date = "2017-10-27T11:47:00-07:00"
 date = "2017-10-27T11:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509122769981/Step
 twitterauto = "Is Stephen King a good writer or not? "
 facebookauto = "Is Stephen King a good writer or not? Here's a definitive answer:"
 make_image_tweet = "True"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ["authors/stephen-king"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com. *Cienna is off this week; please enjoy this Help Desk column from August of 2015.*</p>

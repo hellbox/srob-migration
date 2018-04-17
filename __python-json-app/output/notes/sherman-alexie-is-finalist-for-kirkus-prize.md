@@ -1,8 +1,8 @@
 +++
 index = "-KS7PB5MsjwAVBuIxRh5"
-_sort_create_date = 1474388580
-_sort_last_updated = 1474388580
-_sort_publish_date = 1474388580
+sort_create_date = 1474388580
+sort_last_updated = 1474388580
+sort_publish_date = 1474388580
 create_date = "2016-09-20T09:23:00-07:00"
 publish_date = "2016-09-20T09:23:00-07:00"
 date = "2016-09-20T09:23:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congrats to @sherman_alexie on his Kirkus Prize nomination! Come see him, @misterlashley, and @thisisejkoh Nov 11."
 facebookauto = "Congratulations to Sherman Alexie on his Kirkus Prize nomination!"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/literary-prize"]
-authors_notes = ["authors/sherman-alexie", "authors/robert-lashley", "authors/ej-koh"]
+notes_about = ""
 books = ""
 +++
 Congratulations to Sherman Alexie, who was nominated for his children's book _Thunder Boy Jr._ in the Young Readers' Literature category. We loved the book (as did our resident six-year-old). 

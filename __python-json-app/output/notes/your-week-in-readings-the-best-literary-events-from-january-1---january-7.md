@@ -1,8 +1,8 @@
 +++
 index = "-L-AEkJl3Lkx3KnxQmY3"
-_sort_create_date = 1512017160
-_sort_last_updated = 1514491080
-_sort_publish_date = 1514836500
+sort_create_date = 1512017160
+sort_last_updated = 1514491080
+sort_publish_date = 1514836500
 create_date = "2017-11-29T20:46:00-08:00"
 publish_date = "2018-01-01T11:55:00-08:00"
 date = "2018-01-01T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512016538530/miss
 twitterauto = "Your week in readings begins with a big sale @ThirdPlaceBooks today."
 facebookauto = "Your week in readings includes a discussion of G. Willow Wilson's first novel and a new local YA author."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, January 1: Third Place Books Sale**</h5></p>

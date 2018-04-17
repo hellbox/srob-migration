@@ -1,8 +1,8 @@
 +++
 index = "-KOrgA1zXM4pXbegPAg_"
-_sort_create_date = 1470886860
-_sort_last_updated = 1470886860
-_sort_publish_date = 1470886860
+sort_create_date = 1470886860
+sort_last_updated = 1470886860
+sort_publish_date = 1470886860
 create_date = "2016-08-10T20:41:00-07:00"
 publish_date = "2016-08-10T20:41:00-07:00"
 date = "2016-08-10T20:41:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/rVTdJV1JaWb__8AhQpupll6IYQ3tHWAyu8oYaGXAvYjnZwAcQIcWeGymkOsVwdBm4ELTUDD6ZHvoYXNNYlxNMlI1uD7O"
 url = "/webhook-uploads/1470886820116/612J3KXya8L.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 125414
 
 review_relationship = ""
-author_relationship = ["authors/roy-lisker"]
+books_author = ""
 sponsorships_book = ["sponsorships/lincoln-center-in-july-and-other-stories"]
 notes_relationship = ""
 +++

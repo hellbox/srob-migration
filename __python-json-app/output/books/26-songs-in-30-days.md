@@ -1,8 +1,8 @@
 +++
 index = "-KI1AZzgE7wao1nFMGQj"
-_sort_create_date = 1463546640
-_sort_last_updated = 1463546640
-_sort_publish_date = 1463546640
+sort_create_date = 1463546640
+sort_last_updated = 1463546640
+sort_publish_date = 1463546640
 create_date = "2016-05-17T21:44:00-07:00"
 publish_date = "2016-05-17T21:44:00-07:00"
 date = "2016-05-17T21:44:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/zcPeNUeZ5u1yi9bLi9maV5b8uy29xbNpA2OOQsDS6MMt69qCIRBFJVmq65CVIm19WyN93O_Rk1zZYn1h7kyz10v_-A8"
 url = "/webhook-uploads/1463546686286/51DGer6RZ-L.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 64048
 
 review_relationship = ["reviews/this-machine-kills-_______ists"]
-author_relationship = ["authors/greg-vandy", "authors/daniel-person"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-Kuc4xHvRmupt6rbsJAP"
-_sort_create_date = 1506058680
-_sort_last_updated = 1507143000
-_sort_publish_date = 1507139340
+sort_create_date = 1506058680
+sort_last_updated = 1507143000
+sort_publish_date = 1507139340
 create_date = "2017-09-21T22:38:00-07:00"
 publish_date = "2017-10-04T10:49:00-07:00"
 date = "2017-10-04T10:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506058633562/from
 twitterauto = "Nasty women and mortician traditions from around the world figure into this week's readings calendar!"
 facebookauto = "Nasty women and mortician traditions from around the world figure into this week's readings calendar!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday, October 4: Lit Crawl Kick-Off Party**</h5></p>

@@ -1,8 +1,8 @@
 +++
 index = "-JuU2oncGaywlqzTfqdk"
-_sort_create_date = 1437189480
-_sort_last_updated = 1437189540
-_sort_publish_date = 1437189480
+sort_create_date = 1437189480
+sort_last_updated = 1437189540
+sort_publish_date = 1437189480
 create_date = "2015-07-17T20:18:00-07:00"
 publish_date = "2015-07-17T20:18:00-07:00"
 date = "2015-07-17T20:18:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/poyHMnmHd7GqBEOSvyQZBQCFYyAutI5tARTcv2lbo6Q0HfFPciHZ3L8NcY0fZbffEyXteyPXYUkFOgkSkks7_NAvDvI"
 url = "/webhook-uploads/1437189511900/20150717_201426.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 2328917
 
 review_relationship = ["reviews/seattle-and-seattle-and-seattle"]
-author_relationship = ["authors/jack-lynch"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

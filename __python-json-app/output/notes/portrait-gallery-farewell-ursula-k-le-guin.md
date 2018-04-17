@@ -1,8 +1,8 @@
 +++
 index = "-L3fBIaX7EJYHDYvIaCI"
-_sort_create_date = 1516848060
-_sort_last_updated = 1517291460
-_sort_publish_date = 1516917600
+sort_create_date = 1516848060
+sort_last_updated = 1517291460
+sort_publish_date = 1516917600
 create_date = "2018-01-24T18:41:00-08:00"
 publish_date = "2018-01-25T14:00:00-08:00"
 date = "2018-01-25T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1467831080776/SRoB
 twitterauto = "Portrait Gallery: Farewell to #UrsulaLeGuin "
 facebookauto = "Portrait Gallery: Farewell Ursula K. LeGuin"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/ursula-k-le-guin"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

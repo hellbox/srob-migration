@@ -1,8 +1,8 @@
 +++
 index = "-L9IpaosTr33Say-xrWV"
-_sort_create_date = 1522898700
-_sort_last_updated = 1522899240
-_sort_publish_date = 1522962000
+sort_create_date = 1522898700
+sort_last_updated = 1522899240
+sort_publish_date = 1522962000
 create_date = "2018-04-04T20:25:00-07:00"
 publish_date = "2018-04-05T14:00:00-07:00"
 date = "2018-04-05T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522898179467/SRoB
 twitterauto = "Portrait Gallery: Infinite Potential. Write a poem, write a tenet, make your mark #illustration by @studiochristine"
 facebookauto = "Portrait Gallery: Infinite Potential"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

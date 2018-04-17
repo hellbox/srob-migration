@@ -1,8 +1,8 @@
 +++
 index = "-KgPuKn_mt9RHxnFLvjj"
-_sort_create_date = 1490805120
-_sort_last_updated = 1490805120
-_sort_publish_date = 1490907600
+sort_create_date = 1490805120
+sort_last_updated = 1490805120
+sort_publish_date = 1490907600
 create_date = "2017-03-29T09:32:00-07:00"
 publish_date = "2017-03-30T14:00:00-07:00"
 date = "2017-03-30T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490804722476/SRoB
 twitterauto = "Portrait Gallery: @FaithErinHicks #portrait #illustration by @studiochristine"
 facebookauto = "Portrait Gallery: Faith Erin Hicks  | Tuesday April 4th: The Stone Heart Reading"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/faith-erin-hicks"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

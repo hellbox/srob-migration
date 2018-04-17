@@ -1,8 +1,8 @@
 +++
 index = "-KPRPy6eBm2amwRSEeBv"
-_sort_create_date = 1471503120
-_sort_last_updated = 1471503120
-_sort_publish_date = 1471626000
+sort_create_date = 1471503120
+sort_last_updated = 1471503120
+sort_publish_date = 1471626000
 create_date = "2016-08-17T23:52:00-07:00"
 publish_date = "2016-08-19T10:00:00-07:00"
 date = "2016-08-19T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A germophobe reader is grossed out by people who keep books on their toilets."
 facebookauto = "A germophobe reader asks: isn't keeping books on the back of your toilet kind of gross?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KD1dqTGY1nItZsgetRz"
-_sort_create_date = 1458185880
-_sort_last_updated = 1458186660
-_sort_publish_date = 1458248400
+sort_create_date = 1458185880
+sort_last_updated = 1458186660
+sort_publish_date = 1458248400
 create_date = "2016-03-16T20:38:00-07:00"
 publish_date = "2016-03-17T14:00:00-07:00"
 date = "2016-03-17T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458185735425/SRoB
 twitterauto = "Say hello to Mal DeFleur, presented by @studiochristine for your pleasure."
 facebookauto = "If you go to APRIL Festival's \"A Poet, a Playwright, a Novelist and a Drag Queen\" tonight, you'll have an encounter with the charming Mal DeFleur. We offer you her portrait today, to better prepare you for her radiance."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

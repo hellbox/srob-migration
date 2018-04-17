@@ -1,8 +1,8 @@
 +++
 index = "-KjMHM7nWIfS2tCm6gdt"
-_sort_create_date = 1493965560
-_sort_last_updated = 1493965860
-_sort_publish_date = 1494435360
+sort_create_date = 1493965560
+sort_last_updated = 1493965860
+sort_publish_date = 1494435360
 create_date = "2017-05-04T23:26:00-07:00"
 publish_date = "2017-05-10T09:56:00-07:00"
 date = "2017-05-10T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493965416187/theb
 twitterauto = "This week, celebrate the life and work of Joan Swift @openpoetrybooks."
 facebookauto = "This week, celebrate the life and work of Joan Swift at Open Books."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/joan-swift", "authors/sherman-alexie", "authors/sarah-galvin", "authors/jane-wong", "authors/robert-lashley"]
+notes_about = ""
 books = ""
 +++
 It was a loss that felt like the fluttering turn of a page. When Seattle-area poet Joan Swift passed away back in March, friends and fans expressed their grief in many ways. They shared stories about Swift’s generosity of spirit, her candor as an artist, and her tireless devotion to the craft. But the most common sentiment, the one shared by people who spent years with Swift in their lives and by people who had never once met her, was that Swift’s passing was a sad and significant moment in Seattle literary history, a loss of generational proportions.

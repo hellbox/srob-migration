@@ -1,8 +1,8 @@
 +++
 index = "-KMbxZEdwIh21_hVM3Xb"
-_sort_create_date = 1468475520
-_sort_last_updated = 1468476360
-_sort_publish_date = 1468522260
+sort_create_date = 1468475520
+sort_last_updated = 1468476360
+sort_publish_date = 1468522260
 create_date = "2016-07-13T22:52:00-07:00"
 publish_date = "2016-07-14T11:51:00-07:00"
 date = "2016-07-14T11:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This @KUOW report on the UW's new book conservation program is a must for book-lovers."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/kuow"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 KUOW reporter Marcie Sillman [filed a piece this morning](http://kuow.org/post/we-love-digital-world-theres-nothing-old-fashioned-book) about a new book conservation program at the University of Washington:

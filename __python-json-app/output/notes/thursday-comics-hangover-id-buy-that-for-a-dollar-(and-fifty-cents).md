@@ -1,8 +1,8 @@
 +++
 index = "-L36_dp8ZfvAjn8Wz_3O"
-_sort_create_date = 1516250760
-_sort_last_updated = 1516250760
-_sort_publish_date = 1516298100
+sort_create_date = 1516250760
+sort_last_updated = 1516250760
+sort_publish_date = 1516298100
 create_date = "2018-01-17T20:46:00-08:00"
 publish_date = "2018-01-18T09:55:00-08:00"
 date = "2018-01-18T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516250384934/dopp
 twitterauto = "At a buck-fifty an issue, this wicked dark fantasy comic is a steal."
 facebookauto = "At a buck-fifty an issue, this wicked dark fantasy comic is a steal."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last year, small press comics publisher Alterna Comics began [publishing a line of cheap comics](https://www.bleedingcool.com/2017/01/03/alterna-make-comics-affordable-2017-newsprint-2-prices/). Printed on flimsy newsprint, these books sold for $1.50 a pop — about half the price of the cheapest monthly comics published by the big two mainstream publishers.

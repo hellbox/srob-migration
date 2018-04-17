@@ -1,8 +1,8 @@
 +++
 index = "-KD1TiM2GQHIgRi5b6M_"
-_sort_create_date = 1458183000
-_sort_last_updated = 1458187920
-_sort_publish_date = 1458326940
+sort_create_date = 1458183000
+sort_last_updated = 1458187920
+sort_publish_date = 1458326940
 create_date = "2016-03-16T19:50:00-07:00"
 publish_date = "2016-03-18T11:49:00-07:00"
 date = "2016-03-18T11:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Presenting the winner of the very first @APRILfestSEA/@seattlereviewof writing contest:"
 facebookauto = "Presenting the winner of the very first APRIL Festival/Seattle Review of Books writing contest: \"Love Canal,\" by Jessica Mooney!"
 make_image_tweet = "False"
-byline = ["writers/jessica-mooney"]
+notes_byline = ["writers/jessica-mooney"]
 tags_notes = ["tags/fiction", "tags/april"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In the end, our bones say a lot about who we were.

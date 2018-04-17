@@ -1,8 +1,8 @@
 +++
 index = "-K69OlejHGHSy1vi4g18"
-_sort_create_date = 1450799700
-_sort_last_updated = 1450800360
-_sort_publish_date = 1450806900
+sort_create_date = 1450799700
+sort_last_updated = 1450800360
+sort_publish_date = 1450806900
 create_date = "2015-12-22T07:55:00-08:00"
 publish_date = "2015-12-22T09:55:00-08:00"
 date = "2015-12-22T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our month of celebrating Madeline DeFrees continues with her poem \"In the locker room\""
 facebookauto = "Our month of celebrating Madeline DeFrees continues with her poem \"In the locker room\""
 make_image_tweet = ""
-byline = ["writers/madeline-defrees"]
+notes_byline = ["writers/madeline-defrees"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I surprise the women<br>

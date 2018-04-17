@@ -1,8 +1,8 @@
 +++
 index = "-L5_ZCvW8J-9qS73zl3S"
-_sort_create_date = 1518901140
-_sort_last_updated = 1518901620
-_sort_publish_date = 1518975000
+sort_create_date = 1518901140
+sort_last_updated = 1518901620
+sort_publish_date = 1518975000
 create_date = "2018-02-17T12:59:00-08:00"
 publish_date = "2018-02-18T09:30:00-08:00"
 date = "2018-02-18T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Post dives into the male psyche & the digital jungle. Also, it's okay to ask for money if you write, really."
 facebookauto = "The Sunday Post dives deep: into the male psyche, under the waves, through the digital jungle. Also, it's okay to ask for money if you write, really."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

@@ -1,8 +1,8 @@
 +++
 index = "-KLQ1vzKMcV-BXEgmt-I"
-_sort_create_date = 1467185040
-_sort_last_updated = 1467185040
-_sort_publish_date = 1467918060
+sort_create_date = 1467185040
+sort_last_updated = 1467185040
+sort_publish_date = 1467918060
 create_date = "2016-06-29T00:24:00-07:00"
 publish_date = "2016-07-07T12:01:00-07:00"
 date = "2016-07-07T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1467184885986/drea
 twitterauto = "A new Neil Gaiman documentary screens for a week @gicinema starting tomorrow."
 facebookauto = "A new documentary about Neil Gaiman plays all week long at the Grand Illusion. How is it? If you're a fan, you'll probably love it."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/movies", "tags/dc-comics", "tags/readings"]
-authors_notes = ["authors/g-willow-wilson", "authors/neil-gaiman"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1467184885986/dreamdangerously.jpg)</p>

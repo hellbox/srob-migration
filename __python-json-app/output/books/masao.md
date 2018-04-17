@@ -1,8 +1,8 @@
 +++
 index = "-KWGn5nn2U8TqIkkuxCB"
-_sort_create_date = 1478841060
-_sort_last_updated = 1478841060
-_sort_publish_date = 1478841060
+sort_create_date = 1478841060
+sort_last_updated = 1478841060
+sort_publish_date = 1478841060
 create_date = "2016-11-10T21:11:00-08:00"
 publish_date = "2016-11-10T21:11:00-08:00"
 date = "2016-11-10T21:11:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9LCOqPo-Lx5gFyJU0cf1eXQCr0di-n3pIEl_BxcQl4T0INOA7eQernNyDOJI5yXmQ9SYsLYazSef-v05abim_E8Xi1-C"
 url = "/webhook-uploads/1478841096675/71sAcreUtkL.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 131662
 
 review_relationship = ""
-author_relationship = ["authors/sandra-vea"]
+books_author = ""
 sponsorships_book = ["sponsorships/masao-a-nisei-soldiers-secret-and-heroic-role-in-world-war-ii"]
 notes_relationship = ["notes/an-amazing-story-of-american-sacrifice-and-duty"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-Jy4uyKAA2ySW-dJpuBL"
-_sort_create_date = 1441060860
-_sort_last_updated = 1441063740
-_sort_publish_date = 1441140060
+sort_create_date = 1441060860
+sort_last_updated = 1441063740
+sort_publish_date = 1441140060
 create_date = "2015-08-31T15:41:00-07:00"
 publish_date = "2015-09-01T13:41:00-07:00"
 date = "2015-09-01T13:41:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Go apply for the 2016 @jackstrawarts writers program, with very special guest curator Karen @finneyfrock."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/jack-straw"]
-authors_notes = ["authors/david-schmader", "authors/karen-finneyfrock"]
+notes_about = ""
 books = ""
 +++
 You have two months to [apply for Jack Straw's 2016 Writers Program](http://www.jackstraw.org/programs/asp/2016/WP2016_application.shtml). Don't know what that is? I'll let them explain:

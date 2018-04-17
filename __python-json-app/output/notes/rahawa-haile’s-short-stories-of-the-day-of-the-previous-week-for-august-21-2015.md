@@ -1,8 +1,8 @@
 +++
 index = "-JxItzO5w_9p_6B33m-_"
-_sort_create_date = 1440221700
-_sort_last_updated = 1440266760
-_sort_publish_date = 1440259200
+sort_create_date = 1440221700
+sort_last_updated = 1440266760
+sort_publish_date = 1440259200
 create_date = "2015-08-21T22:35:00-07:00"
 publish_date = "2015-08-22T09:00:00-07:00"
 date = "2015-08-22T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Shorts by @megpipe, @manualofstyle, and others in our weekly collection of @rahawahaile's daily short stories."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/short-stories", "tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="small">Every day, friend of the _SRoB_ Rahawa Haile tweets a short story. She gave us permission to collect them every week.</p>

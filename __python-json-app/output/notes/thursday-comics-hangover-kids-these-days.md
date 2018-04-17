@@ -1,8 +1,8 @@
 +++
 index = "-L0IZuOr0kuaVl-vCPwy"
-_sort_create_date = 1513230660
-_sort_last_updated = 1513271400
-_sort_publish_date = 1513273860
+sort_create_date = 1513230660
+sort_last_updated = 1513271400
+sort_publish_date = 1513273860
 create_date = "2017-12-13T21:51:00-08:00"
 publish_date = "2017-12-14T09:51:00-08:00"
 date = "2017-12-14T09:51:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513230556898/4Kid
 twitterauto = "If it's been a while since you read a comic that was an act of pure exuberance, this is for you:"
 facebookauto = "If it's been a while since you read a comic that was an act of pure exuberance, this is for you:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1513230498869/4KidsHeader.png)</p>

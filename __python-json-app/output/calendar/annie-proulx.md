@@ -1,8 +1,8 @@
 +++
 index = "-KHG1JP7bGySAdQVTTcA"
-_sort_create_date = 1462722180
-_sort_last_updated = 1462722180
-_sort_publish_date = 1462722180
+sort_create_date = 1462722180
+sort_last_updated = 1462722180
+sort_publish_date = 1462722180
 create_date = "2016-05-08T08:43:00-07:00"
 publish_date = "2016-05-08T08:43:00-07:00"
 date = "2016-05-08T08:43:00-07:00"
@@ -26,6 +26,6 @@ time_description = "
 end_time = ""
 enddate = ""
 is_sponsorship = true
-authors = ["authors/annie-proulx"]
+authors = ""
 sponsorship_event = ""
 venues = ""

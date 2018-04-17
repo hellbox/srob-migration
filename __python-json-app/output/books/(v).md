@@ -1,8 +1,8 @@
 +++
 index = "-Kp7NjzHiVl96O_aJU2n"
-_sort_create_date = 1500157980
-_sort_last_updated = 1500157980
-_sort_publish_date = 1500157980
+sort_create_date = 1500157980
+sort_last_updated = 1500157980
+sort_publish_date = 1500157980
 create_date = "2017-07-15T15:33:00-07:00"
 publish_date = "2017-07-15T15:33:00-07:00"
 date = "2017-07-15T15:33:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ZO651es9Y1pC27RonnptPyZaZXuuzCkCoObRCwygcDusNceIc63BrzzylV6LeJIQsxreh3R6YbJdSPYcITi7StMkZtFa"
 url = "/webhook-uploads/1500157935585/v-cover_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 7469
 
 review_relationship = ""
-author_relationship = ["authors/anastacia-renee"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/no-pastors-or-pews-talking-with-anastacia-rene\u00e9"]
 +++

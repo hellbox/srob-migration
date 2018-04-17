@@ -1,8 +1,8 @@
 +++
 index = "-KF1KghXu7WYNgJvUnlZ"
-_sort_create_date = 1460328120
-_sort_last_updated = 1460328120
-_sort_publish_date = 1460328120
+sort_create_date = 1460328120
+sort_last_updated = 1460328120
+sort_publish_date = 1460328120
 create_date = "2016-04-10T15:42:00-07:00"
 publish_date = "2016-04-10T15:42:00-07:00"
 date = "2016-04-10T15:42:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ZpC6oJoGT9y9SL0oR6w47I-LIY_19YXWR8HKjCSmWHkhDZ6g6SL13CYdHTzUcU3RUvGtdqhP7xFXJb-V1jJu1nVkww0W"
 url = "/webhook-uploads/1460328122302/content%3Fid%3DrZTNsgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 59206
 
 review_relationship = ["reviews/the-man-who-paints-tigers-on-an-island"]
-author_relationship = ["authors/sonny-liew"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/talking-to-sonny-liew-about-singapore-and-comics"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KNcglknIRybL9FMZEki"
-_sort_create_date = 1469561640
-_sort_last_updated = 1469561640
-_sort_publish_date = 1469561640
+sort_create_date = 1469561640
+sort_last_updated = 1469561640
+sort_publish_date = 1469561640
 create_date = "2016-07-26T12:34:00-07:00"
 publish_date = "2016-07-26T12:34:00-07:00"
 date = "2016-07-26T12:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The 5th issue of @mosslitmag is out, and it's wonderful."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/moss"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The introductory letter in [the brand-new 5th issue of the online literary magazine *Moss*](http://www.mosslit.com/vol02/issue05.html) begins, "our team has grown substantially since our last release," welcoming "five new contributing editors." It's not readily apparent when reading the issue, which feels like the issues that have come before, but that's what you want in a staff expansion: unless your publication is suffering an existential crisis, editorial shifts are generally best felt only subtly. 

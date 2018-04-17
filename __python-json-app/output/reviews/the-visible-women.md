@@ -1,8 +1,8 @@
 +++
 index = "-KLKywT8q5cICzxeRPs1"
-_sort_create_date = 1467100140
-_sort_last_updated = 1467134940
-_sort_publish_date = 1467136680
+sort_create_date = 1467100140
+sort_last_updated = 1467134940
+sort_publish_date = 1467136680
 create_date = "2016-06-28T00:49:00-07:00"
 publish_date = "2016-06-28T10:58:00-07:00"
 date = "2016-06-28T10:58:00-07:00"
@@ -13,10 +13,10 @@ title = "The visible women"
 dek = "A new zine from Shout Your Abortion offers gratitude and celebration for an invisible subset of everyday hero: abortion providers."
 facebookauto = "A new zine from Shout Your Abortion celebrates and thanks abortion providers for all their tireless hard work."
 twitterauto = "A new zine from @ShoutYrAbortion is full of love letters to abortion providers."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/shoutyourabortion"]
 tags_reviews = ["tags/zine", "tags/abortion", "tags/non-fiction"]
-authors_reviews = ["authors/various"]
+reviews_about = ""
 +++
 
 <p class="image-hero">![](/webhook-uploads/1467098855693/IMG_0367.JPG)</p>

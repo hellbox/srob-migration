@@ -1,8 +1,8 @@
 +++
 index = "-KPH7WvTLMvuyCcuAnSk"
-_sort_create_date = 1471330500
-_sort_last_updated = 1471330500
-_sort_publish_date = 1471373700
+sort_create_date = 1471330500
+sort_last_updated = 1471330500
+sort_publish_date = 1471373700
 create_date = "2016-08-15T23:55:00-07:00"
 publish_date = "2016-08-16T11:55:00-07:00"
 date = "2016-08-16T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Help @TedRall continue his fight against @tronc for press accountability."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/media"]
-authors_notes = ["authors/ted-rall"]
+notes_about = ""
 books = ["books/snowden"]
 +++
 When I talked with cartoonist Ted Rall at Town Hall last year, he openly discussed his legal troubles with the *Los Angeles Times*. His side of the story is around the 28 minute mark in the video below:

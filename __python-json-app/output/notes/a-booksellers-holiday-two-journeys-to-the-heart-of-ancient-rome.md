@@ -1,8 +1,8 @@
 +++
 index = "-KYkESG4tloIsUbTwfOv"
-_sort_create_date = 1481499300
-_sort_last_updated = 1481500140
-_sort_publish_date = 1482170280
+sort_create_date = 1481499300
+sort_last_updated = 1481500140
+sort_publish_date = 1482170280
 create_date = "2016-12-11T15:35:00-08:00"
 publish_date = "2016-12-19T09:58:00-08:00"
 date = "2016-12-19T09:58:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481499061589/Jaso
 twitterauto = "We asked @ubookstorereads bookseller Jason what book he wants for the holidays."
 facebookauto = "We asked University Book Store bookseller Jason what books he'd like for the holidays."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/university-book-store"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *(Every Monday in December, we're asking a local bookseller which books they'd like to receive for a holiday gift. Our third bookseller is Jason Vanhee who works at University Book Store. Jason chose* [SPQR: A History of Ancient Rome](http://www4.bookstore.washington.edu/_trade/ShowTitleUBS2.taf?ActionArg=Title&ISBN=9781631492228&SKU=7924352&sdb=ALL) *by Mary Beard and* [Dynasty: the Rise and Fall of the House of Caesar](http://www4.bookstore.washington.edu/_trade/ShowTitleUBS2.taf?ActionArg=Title&ISBN=9780345806727&SKU=1934103&sdb=ALL), *by Tom Holland.)*

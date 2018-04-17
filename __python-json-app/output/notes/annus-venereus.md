@@ -1,8 +1,8 @@
 +++
 index = "-Kv7qPfyNq45q2OMScBN"
-_sort_create_date = 1506608220
-_sort_last_updated = 1506608580
-_sort_publish_date = 1506628800
+sort_create_date = 1506608220
+sort_last_updated = 1506608580
+sort_publish_date = 1506628800
 create_date = "2017-09-28T07:17:00-07:00"
 publish_date = "2017-09-28T13:00:00-07:00"
 date = "2017-09-28T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506608530338/Scre
 twitterauto = "For our romance readers, a poem by @O_Waite. "
 facebookauto = "For our romance readers, a poem by Olivia Waite. "
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">(with apologies to Philip Larkin)</p>

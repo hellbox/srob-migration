@@ -1,8 +1,8 @@
 +++
 index = "-KAexSphVziDcq7-Ojs8"
-_sort_create_date = 1455640920
-_sort_last_updated = 1455640920
-_sort_publish_date = 1455640920
+sort_create_date = 1455640920
+sort_last_updated = 1455640920
+sort_publish_date = 1455640920
 create_date = "2016-02-16T08:42:00-08:00"
 publish_date = "2016-02-16T08:42:00-08:00"
 date = "2016-02-16T08:42:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tqYrveOPEb2Ys2RL1PBUm5212cqBNWfy-gLpBtj55HzZG53GnUaPiPD6xAlc_HrzvhERXLhJUUgTJ62-hwZgiCqsETParA"
 url = "/webhook-uploads/1455640926659/content%3Fid%3D07DurQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10072
 
 review_relationship = ["reviews/across-the-transverse"]
-author_relationship = ["authors/juliet-jacques"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

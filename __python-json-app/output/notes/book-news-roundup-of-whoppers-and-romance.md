@@ -1,8 +1,8 @@
 +++
 index = "-KaLGV2qZdi-9ThHpgg2"
-_sort_create_date = 1484284860
-_sort_last_updated = 1484284860
-_sort_publish_date = 1484337540
+sort_create_date = 1484284860
+sort_last_updated = 1484284860
+sort_publish_date = 1484337540
 create_date = "2017-01-12T21:21:00-08:00"
 publish_date = "2017-01-13T11:59:00-08:00"
 date = "2017-01-13T11:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in book news: a 30-year-old comic that predicted our current political mess."
 facebookauto = "Today in book news: a 30-year-old comic that predicted our current political mess."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/jack-straw", "tags/fantagraphics", "tags/april"]
-authors_notes = ["authors/quenton-baker", "authors/sherman-alexie", "authors/lindy-west", "authors/ej-koh", "authors/robert-lashley", "authors/shin-yu-pai"]
+notes_about = ""
 books = ""
 +++
 * Jack Straw Cultural Center just [announced their 2017 Jack Straw Writers authors](http://www.jackstraw.org/programs/writers/WritersForum/#wp17). The program helps authors learn how to improve their performing skills, both in person and in recorded media. This year's Jack Straw writers were selected by poet [Jourdan Imani Keith](http://www.seattlereviewofbooks.com/notes/2015/10/27/at-dungeness-spit/). They are:

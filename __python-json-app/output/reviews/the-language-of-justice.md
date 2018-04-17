@@ -1,8 +1,8 @@
 +++
 index = "-KuVS1rUKAZ1FvfvGwnB"
-_sort_create_date = 1505930520
-_sort_last_updated = 1506360300
-_sort_publish_date = 1506535200
+sort_create_date = 1505930520
+sort_last_updated = 1506360300
+sort_publish_date = 1506535200
 create_date = "2017-09-20T11:02:00-07:00"
 publish_date = "2017-09-27T11:00:00-07:00"
 date = "2017-09-27T11:00:00-07:00"
@@ -13,10 +13,10 @@ title = "The language of justice"
 dek = "Among the \"comfort women\" abducted and raped by Japanese soldiers during World War II were more than a thousand from the Philippines. M. Evelina Galang gave them a place to tell their stories."
 facebookauto = "Among the \"comfort women\" abducted and raped by Japanese soldiers during World War II were more than a thousand from the Philippines. In a new book, the \"lolas\" tell their own stories after decades of silence."
 twitterauto = "Lolas' House, reviewed by @DonnaMiscolta, tells the devastating story of WWII's Filipino \"comfort women.\""
-byline = ["writers/donna-miscolta"]
+reviews_byline = ["writers/donna-miscolta"]
 books_in_this_review = ["books/lolas-house"]
 tags_reviews = ""
-authors_reviews = ["authors/m-evelina-galang"]
+reviews_about = ""
 +++
 
 There is a language of rape. The words differ depending on who’s speaking. There are the words used by the perpetrators. There are the words by the deniers and the words by the blamers. There are the words by the victims when they can manage to speak them.  While all these words are part of the stories in M. Evelina Galang’s _Lolas’ House: Filipino Women Living With War_, it is the victims’ words that Galang rightly honors, giving them the pages they deserve. _Lolas’ House_ is a collection of testimonies by seventeen of the more than one thousand Filipina women abducted and imprisoned as sex slaves, so-called “comfort women,” by the Japanese during World War II. 

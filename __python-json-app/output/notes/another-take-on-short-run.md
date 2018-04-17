@@ -1,8 +1,8 @@
 +++
 index = "-KWF6hYwKVt8cXeLUiFh"
-_sort_create_date = 1478812920
-_sort_last_updated = 1478816760
-_sort_publish_date = 1478813700
+sort_create_date = 1478812920
+sort_last_updated = 1478816760
+sort_publish_date = 1478813700
 create_date = "2016-11-10T13:22:00-08:00"
 publish_date = "2016-11-10T13:35:00-08:00"
 date = "2016-11-10T13:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478812755705/IMG_
 twitterauto = "Another take on @shortrunseattle!"
 facebookauto = "Another take on Short Run Comix & Arts"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/laura-knetzger", "authors/aaron-bagley", "authors/jessixa-bagley", "authors/noel-franklin", "authors/hatem-imam", "authors/colleen-frakes", "authors/gabrielle-bates", "authors/catherine-bresner", "authors/kerasco\u00ebt"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1478812755705/IMG_1425.jpg)</p>

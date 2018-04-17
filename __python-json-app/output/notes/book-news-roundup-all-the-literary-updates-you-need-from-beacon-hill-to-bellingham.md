@@ -1,8 +1,8 @@
 +++
 index = "-K_bf5EQjsj_bCcC62W5"
-_sort_create_date = 1483503060
-_sort_last_updated = 1483562880
-_sort_publish_date = 1483564260
+sort_create_date = 1483503060
+sort_last_updated = 1483562880
+sort_publish_date = 1483564260
 create_date = "2017-01-03T20:11:00-08:00"
 publish_date = "2017-01-04T13:11:00-08:00"
 date = "2017-01-04T13:11:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483502137258/anti
 twitterauto = "All the book news that's fit to print, with stories ranging from Bellingham to Beacon Hill to Spokane to Hollywood."
 facebookauto = "In today's book news roundup: Village Books has new owners, Spokane's alternative weekly has published a poetry issue, the Seattle Antiquarian Book Fair has announced its dates for the year, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/poetry", "tags/milo-yiannopoulos", "tags/village-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * [Over at the South Seattle *Emerald*](https://southseattleemerald.com/2017/01/02/patrons-plan-around-temporary-closure-of-beacon-hill-branch/), Alex Garland examines the impact of the Beacon Hill library's closure on the community. The library will be closed for several months for renovations.

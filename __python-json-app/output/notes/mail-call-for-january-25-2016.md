@@ -1,8 +1,8 @@
 +++
 index = "-K8wMhu2jqPQOyxRvH2t"
-_sort_create_date = 1453785480
-_sort_last_updated = 1453785480
-_sort_publish_date = 1453785480
+sort_create_date = 1453785480
+sort_last_updated = 1453785480
+sort_publish_date = 1453785480
 create_date = "2016-01-25T21:18:00-08:00"
 publish_date = "2016-01-25T21:18:00-08:00"
 date = "2016-01-25T21:18:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453785414944/Full
 twitterauto = "Mail Call! Reader survey: how many know Brigid Brophy? If so, have you read her?"
 facebookauto = "Mail Call! How many of you reading this are familiar with Brigid Brophy? Have you read much of her work?"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ["authors/brigid-brophy"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1453785414944/FullSizeRender.jpg)</p>

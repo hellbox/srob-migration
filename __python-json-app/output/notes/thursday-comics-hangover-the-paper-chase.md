@@ -1,8 +1,8 @@
 +++
 index = "-KBvRDF--3NtWk36N0JD"
-_sort_create_date = 1456991160
-_sort_last_updated = 1456991160
-_sort_publish_date = 1457027580
+sort_create_date = 1456991160
+sort_last_updated = 1456991160
+sort_publish_date = 1457027580
 create_date = "2016-03-02T23:46:00-08:00"
 publish_date = "2016-03-03T09:53:00-08:00"
 date = "2016-03-03T09:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456990623093/Blac
 twitterauto = "We loved the first issue of @MarkWaid & @ChrisSamnee's new Black Widow comic."
 facebookauto = "Who says movies are more suspenseful than comics? The first issue of Black Widow is nothing but a chase sequence, but it's a REALLY GOOD chase sequence."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics", "tags/black-widow"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 For years, film nerds and comics nerds used to get in silly fights over which medium was better. Comics nerds would argue that you could do literally anything on a comics page, while budgets and the constraints of reality meant that movies had some natural restrictions on how far-out they could get. The dawning of CGI simultaneously imploded this argument and proved it correct; as soon as great computer special effects made it possible to put anything onscreen, superhero comics basically started dominating Hollywood’s blockbuster space.

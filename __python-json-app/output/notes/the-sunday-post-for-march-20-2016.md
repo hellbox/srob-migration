@@ -1,8 +1,8 @@
 +++
 index = "-KDH6_69pwYCxEtP0kB6"
-_sort_create_date = 1458445320
-_sort_last_updated = 1458445500
-_sort_publish_date = 1458489600
+sort_create_date = 1458445320
+sort_last_updated = 1458445500
+sort_publish_date = 1458489600
 create_date = "2016-03-19T20:42:00-07:00"
 publish_date = "2016-03-20T09:00:00-07:00"
 date = "2016-03-20T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post has work by @keltonsears, @geoffedgers, @DuneLawrence, and Rebecca Solnit, this week."
 facebookauto = "Stolen Stradivari, missing clarity, strange new architecture in downtown Seattle, and a different kind of journalistic harassment. All in today's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Using Nature as Inspiration, Architects and Designers Are Building Seattle's Biofuture](http://www.seattleweekly.com/home/963402-129/using-nature-as-inspiration-architects-and)</h5>

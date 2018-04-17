@@ -1,8 +1,8 @@
 +++
 index = "-KLZt9P18QXAjUnGW2oz"
-_sort_create_date = 1467350280
-_sort_last_updated = 1467350400
-_sort_publish_date = 1467389640
+sort_create_date = 1467350280
+sort_last_updated = 1467350400
+sort_publish_date = 1467389640
 create_date = "2016-06-30T22:18:00-07:00"
 publish_date = "2016-07-01T09:14:00-07:00"
 date = "2016-07-01T09:14:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What does the scandal surrounding Gay Talese's upcoming book mean for New Journalism's legacy?"
 facebookauto = "Will New Journalism fall under increased scrutiny now that Gay Talese's upcoming book has been revealed to have some serious factual inaccuracies?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/journalism"]
-authors_notes = ["authors/gay-talese"]
+notes_about = ""
 books = ""
 +++
 Paul Farhi [at the *Washington Post*](https://www.washingtonpost.com/lifestyle/style/author-gay-talese-disavows-his-latest-book-amid-credibility-questions/2016/06/30/1fede2b8-3e22-11e6-84e8-1580c7db5275_story.html) writes:

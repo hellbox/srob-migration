@@ -1,8 +1,8 @@
 +++
 index = "-K-X1Sx1T7TnVesZecZQ"
-_sort_create_date = 1443680040
-_sort_last_updated = 1443680460
-_sort_publish_date = 1443733200
+sort_create_date = 1443680040
+sort_last_updated = 1443680460
+sort_publish_date = 1443733200
 create_date = "2015-09-30T23:14:00-07:00"
 publish_date = "2015-10-01T14:00:00-07:00"
 date = "2015-10-01T14:00:00-07:00"
@@ -12,10 +12,10 @@ name = "Make it hurt so good"
 title = "Make it hurt so good"
 dek = "Lauren Groff's short fiction is what you'd get if Carver or Yates tried to write a fairy tale. Does her new novel live up to her best work?"
 twitterauto = "Lauren Groff reads @ubookstorereads tonight. Does her new novel, \"Fates and Furies,\" match up to her best?"
-byline = ["writers/julia-cook"]
+reviews_byline = ["writers/julia-cook"]
 books_in_this_review = ["books/fates-and-furies"]
 tags_reviews = ""
-authors_reviews = ""
+reviews_about = ""
 +++
 
 If you’re looking for a book to uplift you, to temporarily alleviate the struggles of your daily life, keep looking. *Fates and Furies* is a novel of attrition; National Book Award nominee Lauren Groff tears away at her characters as her readers lose faith in them. This marathon of a novel leaves you wondering: was it really worth the pain?

@@ -1,8 +1,8 @@
 +++
 index = "-KGYvX85ujX4ovcXLCks"
-_sort_create_date = 1461965400
-_sort_last_updated = 1461965400
-_sort_publish_date = 1461965400
+sort_create_date = 1461965400
+sort_last_updated = 1461965400
+sort_publish_date = 1461965400
 create_date = "2016-04-29T14:30:00-07:00"
 publish_date = "2016-04-29T14:30:00-07:00"
 date = "2016-04-29T14:30:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/sKYs36C2By3MHqz5NR90XLGisk_nNd3TEBtM0Qym62seUuL2l5NoTM0mekaiNQUJiQW8X_Z--oJGzKVjGkSlHkkCLOGc"
 url = "/webhook-uploads/1461965355628/9780785190226.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 26661
 
 review_relationship = ["reviews/real-life-superhero"]
-author_relationship = ["authors/g-willow-wilson", "authors/adrian-alphona", "authors/jacob-wyatt"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day"]
 +++

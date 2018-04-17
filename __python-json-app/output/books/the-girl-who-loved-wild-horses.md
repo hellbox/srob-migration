@@ -1,8 +1,8 @@
 +++
 index = "-L6Daj_rBsSIkSytPL6i"
-_sort_create_date = 1519589700
-_sort_last_updated = 1519591080
-_sort_publish_date = 1519589700
+sort_create_date = 1519589700
+sort_last_updated = 1519591080
+sort_publish_date = 1519589700
 create_date = "2018-02-25T12:15:00-08:00"
 publish_date = "2018-02-25T12:15:00-08:00"
 date = "2018-02-25T12:15:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0VV2hxmtMXkpGMrwcKkkuCaUrtXfRHYLZJa-64GFa8dAW8iPjqA0nml9_7mfKQ01HuwxfLsfCbYklnwm7SdmnuMqAMUG"
 url = "/webhook-uploads/1519591084960/The%20Girl%20Who%20Loved%20Wild%20Horses.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 27594
 
 review_relationship = ["reviews/show-the-backlist-some-love!"]
-author_relationship = ["authors/paul-goble"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

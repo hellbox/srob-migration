@@ -1,8 +1,8 @@
 +++
 index = "-KQ1cO7Mgofrc_3dMGKZ"
-_sort_create_date = 1472144160
-_sort_last_updated = 1472144160
-_sort_publish_date = 1472151360
+sort_create_date = 1472144160
+sort_last_updated = 1472144160
+sort_publish_date = 1472151360
 create_date = "2016-08-25T09:56:00-07:00"
 publish_date = "2016-08-25T11:56:00-07:00"
 date = "2016-08-25T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@paulconstant on Vice: \" Does the world really need a Fox News: Coachella Edition?\""
 facebookauto = "Vice magazine is aging, and it's not aging gracefully."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/media", "tags/magazine", "tags/vice"]
-authors_notes = ["authors/david-carr"]
+notes_about = ""
 books = ""
 +++
 I first heard of *Vice* magazine while [working at Borders](https://medium.com/@paulconstant/books-without-borders-b8ccb08b5b8a#.m31okopsy). An achingly hip young man came into the store — it was the late nineties and my memory is foggy, but he was probably dressed like a rave had collided with a grunge music festival — and asked me if we carried *Vice*. I said I didn't know what *Vice* was. He explained that it was a cool free magazine distributed around major American cities, and that new issues disappeared as quickly as they arrived. Without really thinking, I asked why, if it was such a cool magazine, he went looking for it in a corporate chain bookstore. The bluntness of the question didn't really strike me until it had already left my mouth, and we stared at each other awkwardly for a second before he left the store.

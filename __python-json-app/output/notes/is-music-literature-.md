@@ -1,8 +1,8 @@
 +++
 index = "-KU38RW45RjkO12a9sNR"
-_sort_create_date = 1476464580
-_sort_last_updated = 1476466440
-_sort_publish_date = 1476473580
+sort_create_date = 1476464580
+sort_last_updated = 1476466440
+sort_publish_date = 1476473580
 create_date = "2016-10-14T10:03:00-07:00"
 publish_date = "2016-10-14T12:33:00-07:00"
 date = "2016-10-14T12:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Is music literature?  \u00af\\_(\u30c4)_/\u00af"
 facebookauto = "Should music be considered alongside literature, or as literature?  \u00af\\_(\u30c4)_/\u00af"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/nobel-prize", "tags/literature", "tags/music"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">When news broke that Bob Dylan won the Nobel Prize for Literature, [we published a post questioning the wisdom]( http://www.seattlereviewofbooks.com/notes/2016/10/13/bob-dylan-wins-2016-nobel-prize-for-literature/) of giving the prize to a world-famous musician. Later that day, *Seattle Review of Books* co-founders Martin McClellan and Paul Constant had a conversation on Slack about whether music should be included in the same context as literature. That conversation turned into an exploration of what literature can (and possibly can’t) do. What follows is a lightly edited transcript of that conversation.</p>

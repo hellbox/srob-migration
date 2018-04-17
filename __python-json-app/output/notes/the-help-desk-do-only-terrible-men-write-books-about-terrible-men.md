@@ -1,8 +1,8 @@
 +++
 index = "-L3EUtymT1xGge38JVbs"
-_sort_create_date = 1516383420
-_sort_last_updated = 1516398420
-_sort_publish_date = 1516391700
+sort_create_date = 1516383420
+sort_last_updated = 1516398420
+sort_publish_date = 1516391700
 create_date = "2018-01-19T09:37:00-08:00"
 publish_date = "2018-01-19T11:55:00-08:00"
 date = "2018-01-19T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516382678599/rabb
 twitterauto = "Should we assume that all authors of misogynistic fiction are terrible people?"
 facebookauto = "Many of the sexual predators we've seen exposed in #MeToo have produced terribly misogynistic work. Should we assume that all misogynistic authors are terrible people?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ["authors/john-updike"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

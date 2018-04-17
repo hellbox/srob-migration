@@ -1,8 +1,8 @@
 +++
 index = "-KEXDEGSX8DSIpJhTNms"
-_sort_create_date = 1459789260
-_sort_last_updated = 1459804020
-_sort_publish_date = 1459805400
+sort_create_date = 1459789260
+sort_last_updated = 1459804020
+sort_publish_date = 1459805400
 create_date = "2016-04-04T10:01:00-07:00"
 publish_date = "2016-04-04T14:30:00-07:00"
 date = "2016-04-04T14:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Thanks to sponsor @fbpress, showing work by 2015 chapbook finalist @mayajzeller."
 facebookauto = "Thanks to sponsor Floating Bridge Press, showing work by 2015 chapbook finalist Maya Jewell Zeller."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor Floating Bridge Press is back to feature a great work from Maya Jewell Zeller, titled _Yesterday, the Bees_. Zeller's piece was a finalist in the 2015 chapbook competition, a work that looks at parenting, and being a part of a family. 

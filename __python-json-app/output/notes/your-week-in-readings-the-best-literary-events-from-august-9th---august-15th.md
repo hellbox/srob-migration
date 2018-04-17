@@ -1,8 +1,8 @@
 +++
 index = "-Kq10BM4k6ijO0zcc3Pd"
-_sort_create_date = 1501124880
-_sort_last_updated = 1502076540
-_sort_publish_date = 1502304960
+sort_create_date = 1501124880
+sort_last_updated = 1502076540
+sort_publish_date = 1502304960
 create_date = "2017-07-26T20:08:00-07:00"
 publish_date = "2017-08-09T11:56:00-07:00"
 date = "2017-08-09T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501124704637/dyna
 twitterauto = "Your Week in Readings brings a haunted house story and a secret robot society."
 facebookauto = "Your Week in Readings brings a haunted house story and a secret robot society."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday August 9th: *The Grip of It* Reading**</h5></p> 

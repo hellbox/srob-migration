@@ -1,8 +1,8 @@
 +++
 index = "-KYUe4LKiBAFLh5jc9Vj"
-_sort_create_date = 1481221080
-_sort_last_updated = 1481221080
-_sort_publish_date = 1481221080
+sort_create_date = 1481221080
+sort_last_updated = 1481221080
+sort_publish_date = 1481221080
 create_date = "2016-12-08T10:18:00-08:00"
 publish_date = "2016-12-08T10:18:00-08:00"
 date = "2016-12-08T10:18:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "So 2016 just threw its weirdest curveball yet: @fantagraphics is going to publish superhero comics. (?!?)"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics", "tags/superheroes"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Seattle alternative comics publisher Fantagraphics Books, which has always been vehemently anti-superhero, is [going to publish a superhero comic](http://www.comicsbeat.com/fantagraphics-to-launch-all-time-comics-line-of-superhero-comics/) from classic mainstream comics creators and contemporary alternative cartoonists called *All-Time Comics*. Two thoughts:

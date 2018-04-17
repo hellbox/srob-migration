@@ -1,8 +1,8 @@
 +++
 index = "-KbT6aE271pCLnb_HKpH"
-_sort_create_date = 1485490200
-_sort_last_updated = 1485490440
-_sort_publish_date = 1485979260
+sort_create_date = 1485490200
+sort_last_updated = 1485490440
+sort_publish_date = 1485979260
 create_date = "2017-01-26T20:10:00-08:00"
 publish_date = "2017-02-01T12:01:00-08:00"
 date = "2017-02-01T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485489905950/home
 twitterauto = "Get ready for events with Ottessa Moshfegh and Ross Gay this week."
 facebookauto = "Get ready for events with Ottessa Moshfegh and Ross Gay this week, plus new outings from the Looseleaf and Margin Shift reading series."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/margin-shift"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday February 1st: Reading Through It: An American Book Club Discusses *Hope in the Dark* **</h5></p> 

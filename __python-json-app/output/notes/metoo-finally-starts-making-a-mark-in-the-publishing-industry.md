@@ -1,8 +1,8 @@
 +++
 index = "-L-i0Jcf-6gTziU2zOOU"
-_sort_create_date = 1512600540
-_sort_last_updated = 1512600540
-_sort_publish_date = 1512600540
+sort_create_date = 1512600540
+sort_last_updated = 1512600540
+sort_publish_date = 1512600540
 create_date = "2017-12-06T14:49:00-08:00"
 publish_date = "2017-12-06T14:49:00-08:00"
 date = "2017-12-06T14:49:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's time for harassers in the publishing industry to face their reckoning."
 facebookauto = "It's time for harassers in the publishing industry to face their reckoning."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/metoo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *Paris Review* editor and Farrar, Straus and Giroux editor Lorin Stein has stepped down amid charges of harassment. “At times in the past, I blurred the personal and the professional in ways that were, I now recognize, disrespectful of my colleagues and our contributors, and that made them feel uncomfortable or demeaned,” [the *New York Times* reports](https://www.nytimes.com/2017/12/06/books/lorin-stein-resigns-the-paris-review.html?smid=tw-share) Stein wrote in his resignation letter from the *Paris Review*.

@@ -1,8 +1,8 @@
 +++
 index = "-K-5XXklol8FTyaCg2Lc"
-_sort_create_date = 1443218700
-_sort_last_updated = 1443218820
-_sort_publish_date = 1443458700
+sort_create_date = 1443218700
+sort_last_updated = 1443218820
+sort_publish_date = 1443458700
 create_date = "2015-09-25T15:05:00-07:00"
 publish_date = "2015-09-28T09:45:00-07:00"
 date = "2015-09-28T09:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443218059576/jenn
 twitterauto = "Your week in readings begins tonight with a group reading from an anthology of women and work @ubookstorereads."
 facebookauto = "We've got a week's worth of readings for you, including two celebrations of the new book about Seattle's literary scene, a comics and zine fair, a reading from Stacey Levine, and a book club presentation with a screening of the last Hunger Games movie."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/hugo-house", "tags/elliott-bay-book-company", "tags/seattle-public-library", "tags/university-book-store"]
-authors_notes = ["authors/ryan-boudinot", "authors/carolyne-wright"]
+notes_about = ""
 books = ["books/raising-lilly-ledbetter", "books/the-octopus-rises"]
 +++
 <p class="image">![](/webhook-uploads/1443218059576/jennifer-lawrence-hunger-games-hd-wallpaper-for-iphone-b40.jpg)</p>

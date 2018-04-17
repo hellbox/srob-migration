@@ -1,8 +1,8 @@
 +++
 index = "-KH7KEngi7QwECAZ9kgn"
-_sort_create_date = 1462576140
-_sort_last_updated = 1462576140
-_sort_publish_date = 1462986060
+sort_create_date = 1462576140
+sort_last_updated = 1462576140
+sort_publish_date = 1462986060
 create_date = "2016-05-06T16:09:00-07:00"
 publish_date = "2016-05-11T10:01:00-07:00"
 date = "2016-05-11T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462575806191/beco
 twitterauto = "Your Week in Readings begins tonight at the @pinebox."
 facebookauto = "Your Week in Readings includes a reading with free doughnuts, a young adult novel about Pablo Neruda, and a memoir about ex-gay therapy."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/jane-wong", "authors/quenton-baker"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday May 11:  *Becoming the Virgin***</h5></p>

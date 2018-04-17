@@ -1,8 +1,8 @@
 +++
 index = "-KU84FSiEka9i5xakXMM"
-_sort_create_date = 1476547380
-_sort_last_updated = 1476547440
-_sort_publish_date = 1476635400
+sort_create_date = 1476547380
+sort_last_updated = 1476547440
+sort_publish_date = 1476635400
 create_date = "2016-10-15T09:03:00-07:00"
 publish_date = "2016-10-16T09:30:00-07:00"
 date = "2016-10-16T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Mental health, spider venom, the nature of reality, and Ursula K Le Guin, all in today's Sunday Post."
 facebookauto = "Mental health, spider venom, the nature of reality, and Ursula K Le Guin, all in today's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.politico.com/magazine/story/2016/10/donald-trump-2016-therapists-214333" title="America&amp;rsquo;s Therapists Are Worried About Trump&amp;rsquo;s Effect On Your Mental Health - POLITICO Magazine">America’s Therapists Are Worried About Trump’s Effect On Your Mental Health</a>

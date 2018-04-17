@@ -1,8 +1,8 @@
 +++
 index = "-KTI7BiwuT6abijkOckT"
-_sort_create_date = 1475642160
-_sort_last_updated = 1475695140
-_sort_publish_date = 1475698800
+sort_create_date = 1475642160
+sort_last_updated = 1475695140
+sort_publish_date = 1475698800
 create_date = "2016-10-04T21:36:00-07:00"
 publish_date = "2016-10-05T13:20:00-07:00"
 date = "2016-10-05T13:20:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Why can't Dick Lit authors write normal books like everyone else?"
 facebookauto = "\"I feel a bit bad now, because I just looked at my bookshelf and almost all the books are by normal authors. I should really get a couple of books by male authors to even it out.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/sexism", "tags/feminism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you're not aware of [the @manwhohasitall Twitter feed](https://twitter.com/manwhohasitall), I'd encourage you to follow it. It's a simple premise — reversing the gender on common ignorant sexist statements — that pays off in so many enjoyable ways. Some examples:

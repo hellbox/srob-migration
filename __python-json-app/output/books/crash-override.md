@@ -1,8 +1,8 @@
 +++
 index = "-L5Fyf4v-ayKoBLsXsmS"
-_sort_create_date = 1518556200
-_sort_last_updated = 1518556200
-_sort_publish_date = 1518556200
+sort_create_date = 1518556200
+sort_last_updated = 1518556200
+sort_publish_date = 1518556200
 create_date = "2018-02-13T13:10:00-08:00"
 publish_date = "2018-02-13T13:10:00-08:00"
 date = "2018-02-13T13:10:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/XAaJmgpa2lAgR-JF5YykQLMKkYKBryRxJSJlyi3xC0ZWSj2GZR4SgTrLv-cv5YfwcK3a5H2W6qK8Qu2oWg_IILkvvb2k"
 url = "/webhook-uploads/1518556214329/Crash%20Override_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 34494
 
 review_relationship = ["reviews/in-a-virtual-world-trolls-are-real"]
-author_relationship = ["authors/zo\u00eb-quinn"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

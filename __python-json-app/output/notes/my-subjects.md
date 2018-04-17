@@ -1,8 +1,8 @@
 +++
 index = "-KvQM9i9szNrfF77mUj4"
-_sort_create_date = 1506918780
-_sort_last_updated = 1507001040
-_sort_publish_date = 1507049700
+sort_create_date = 1506918780
+sort_last_updated = 1507001040
+sort_publish_date = 1507049700
 create_date = "2017-10-01T21:33:00-07:00"
 publish_date = "2017-10-03T09:55:00-07:00"
 date = "2017-10-03T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506919762329/Scre
 twitterauto = "October's Poet in Residence @karywayson is in the house, and her first poem is called \"My Subjects\""
 facebookauto = "October's Poet in Residence Kary Wayson is in the house, and her first poem is called \"My Subjects\""
 make_image_tweet = "False"
-byline = ["writers/kary-wayson"]
+notes_byline = ["writers/kary-wayson"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 There are three<br> 

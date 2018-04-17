@@ -1,8 +1,8 @@
 +++
 index = "-KbmltwaUuvcC18ys6ws"
-_sort_create_date = 1485836880
-_sort_last_updated = 1485837900
-_sort_publish_date = 1485894600
+sort_create_date = 1485836880
+sort_last_updated = 1485837900
+sort_publish_date = 1485894600
 create_date = "2017-01-30T20:28:00-08:00"
 publish_date = "2017-01-31T12:30:00-08:00"
 date = "2017-01-31T12:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485836858878/immi
 twitterauto = "An immigration story shared, from @ClaudiaC_L"
 facebookauto = "Claudia Castro Luna shares her immigration story"
 make_image_tweet = "True"
-byline = ["writers/claudia-castro-luna"]
+notes_byline = ["writers/claudia-castro-luna"]
 tags_notes = ["tags/immigration", "tags/stories", "tags/politics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">This piece was [first published on Claudia Castro Luna's blog](http://cipotabajolaluna.blogspot.com/2017/01/el-salvador-america-offers-one-family.html)</p>

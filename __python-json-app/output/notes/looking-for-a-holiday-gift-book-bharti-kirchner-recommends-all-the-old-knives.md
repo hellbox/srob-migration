@@ -1,8 +1,8 @@
 +++
 index = "-L-3-UH-0zFeDEoiGeUm"
-_sort_create_date = 1511895720
-_sort_last_updated = 1513189860
-_sort_publish_date = 1513189860
+sort_create_date = 1511895720
+sort_last_updated = 1513189860
+sort_publish_date = 1513189860
 create_date = "2017-11-28T11:02:00-08:00"
 publish_date = "2017-12-13T10:31:00-08:00"
 date = "2017-12-13T10:31:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511895520892/9781
 twitterauto = "We asked Bharti Kirchner to recommend a good book for holiday giving. Here's the book she picked for you:"
 facebookauto = "We asked Bharti Kirchner to recommend a good book for holiday giving. Here's the book she picked for you:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/holidays"]
-authors_notes = ["authors/bharti-kirchner"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Wednesday between Thanksgiving and Christmas, we're asking some of our favorite Seattle authors to recommend the books they're most excited to give as gifts this holiday. Our third author is novelist and cookbook author Bharti Kirchner.</p>

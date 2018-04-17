@@ -1,8 +1,8 @@
 +++
 index = "-Kauxcve9MkJ-QTQIspS"
-_sort_create_date = 1484900400
-_sort_last_updated = 1484926200
-_sort_publish_date = 1484900400
+sort_create_date = 1484900400
+sort_last_updated = 1484926200
+sort_publish_date = 1484900400
 create_date = "2017-01-20T00:20:00-08:00"
 publish_date = "2017-01-20T00:20:00-08:00"
 date = "2017-01-20T00:20:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484924869094/IMG_
 twitterauto = "Pretty excited to see ourselves on @LateNightSeth's show. (Too bad Donald Trump hates to read.)"
 facebookauto = "We were very excited to see ourselves on Late Night with Seth Meyers tonight! Of course, we wish it was for a happier occasion."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Thanks to *Seattle Review of Books* readers [Joey Pillow](https://twitter.com/ThoreauPillow) and [@Polypodiaceae](https://twitter.com/Polypodiaceae) for catching our cameo appearance on tonight's *Late Night with Seth Meyers*, starting at the six minute mark in the video below:

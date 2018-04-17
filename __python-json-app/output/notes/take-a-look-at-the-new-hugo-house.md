@@ -1,8 +1,8 @@
 +++
 index = "-K1hEbPxVKnDd6KzaAvN"
-_sort_create_date = 1446015540
-_sort_last_updated = 1446048360
-_sort_publish_date = 1446057000
+sort_create_date = 1446015540
+sort_last_updated = 1446048360
+sort_publish_date = 1446057000
 create_date = "2015-10-27T23:59:00-07:00"
 publish_date = "2015-10-28T11:30:00-07:00"
 date = "2015-10-28T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house", "tags/literary-bar"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [Brandon Macz at the *Capitol Hill Times*](http://www.capitolhilltimes.com/2015/10/realizing-hugo-houses-home/) published Weinstein A+U's first designs for the new building that will be built on the site where Hugo House now stands. The design for the new Hugo House includes "a reading lounge along a window wall at 11th Avenue that will feel like a library" and a "long gallery [that] will lead to a performance space, which is planned to have telescoping bleacher seating for large readings," as well as "a café themed to match Hugo House." 

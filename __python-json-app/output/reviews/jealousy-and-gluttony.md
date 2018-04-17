@@ -1,8 +1,8 @@
 +++
 index = "-KM3OOO12LSqfn4Qmxju"
-_sort_create_date = 1467878820
-_sort_last_updated = 1467878820
-_sort_publish_date = 1467910860
+sort_create_date = 1467878820
+sort_last_updated = 1467878820
+sort_publish_date = 1467910860
 create_date = "2016-07-07T01:07:00-07:00"
 publish_date = "2016-07-07T10:01:00-07:00"
 date = "2016-07-07T10:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Jealousy and gluttony"
 dek = "In a very special Thursday Comics Hangover, we look at two books from Drawn and Quarterly that reimagine  the dance between words and pictures."
 facebookauto = "Purists might say that the most recent books by Lisa Hanawalt and Leanne Shapton aren't comics. They're wrong."
 twitterauto = "Purists might say that books by Lisa Hanawalt and Leanne Shapton aren't comics. They're wrong."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/was-she-pretty", "books/hot-dog-taste-test"]
 tags_reviews = ["tags/thursday-comics-hangover", "tags/comics"]
-authors_reviews = ["authors/leanne-shapton", "authors/lisa-hanawalt"]
+reviews_about = ""
 +++
 
 Sometimes a book will get lost in the depths of a nightstand table for months at a time. That was the case with Leanne Shapton’s *Was She Pretty?*, a comic which came out earlier this year and then was promptly lost in the stack of books that rests about six inches away from my sleeping head. In a fit of too-late spring cleaning pique, I finally excavated the book last week and read it in one big thirsty gulp, only to find that it is too good to be lost.

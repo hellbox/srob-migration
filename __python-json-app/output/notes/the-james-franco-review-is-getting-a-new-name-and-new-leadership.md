@@ -1,8 +1,8 @@
 +++
 index = "-KUSxTZbYmplFT1qwi18"
-_sort_create_date = 1476897660
-_sort_last_updated = 1476904080
-_sort_publish_date = 1476897660
+sort_create_date = 1476897660
+sort_last_updated = 1476904080
+sort_publish_date = 1476897660
 create_date = "2016-10-19T10:21:00-07:00"
 publish_date = "2016-10-19T10:21:00-07:00"
 date = "2016-10-19T10:21:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The James Franco Review is changing its name and getting a new publisher.  "
 facebookauto = "The James Franco Review is changing its name and getting a new publisher.  "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/the-james-franco-review"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In [a post this morning](https://thejamesfrancoreview.com/2016/10/19/reimagining-the-james-franco-review/), *James Franco Review* founder Corinne Manning announced that she is stepping down from the *Review* after the next issue, which launches on November 1st, and that Monica Lewis will be taking over as publisher, with current managing editor Nicole McCarthy staying on in her current role. Further, the publication will be changing its name. (The new name has not yet been announced.)

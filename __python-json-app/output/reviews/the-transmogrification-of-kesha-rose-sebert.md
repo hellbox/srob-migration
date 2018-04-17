@@ -1,8 +1,8 @@
 +++
 index = "-KtKWF3LjrfClzxHoEhI"
-_sort_create_date = 1504673280
-_sort_last_updated = 1505492220
-_sort_publish_date = 1505501280
+sort_create_date = 1504673280
+sort_last_updated = 1505492220
+sort_publish_date = 1505501280
 create_date = "2017-09-05T21:48:00-07:00"
 publish_date = "2017-09-15T11:48:00-07:00"
 date = "2017-09-15T11:48:00-07:00"
@@ -13,10 +13,10 @@ title = "The transmogrification of Kesha Rose Sebert"
 dek = "Kesha's latest album, Rainbow, can be read like a memoir. But is it a story of triumph, or is it a more complex story than that?"
 facebookauto = "When you read Kesha's lastest album the way you'd read a memoir, weird things happen."
 twitterauto = "When you read Kesha's lastest album the way you'd read a memoir, weird things happen."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/rainbow"]
 tags_reviews = ["tags/music-criticism"]
-authors_reviews = ""
+reviews_about = ""
 +++
 
 Kesha had to know that her first album in five years, *Rainbow*, would be examined as a personal statement. This isn’t a rarity in modern pop music — reviewers scour Taylor Swift’s albums, say, for evidence of autobiographical details about her recent relationships —but Kesha has been under increased scrutiny since the release of *Warrior* in 2012. 

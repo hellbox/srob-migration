@@ -1,8 +1,8 @@
 +++
 index = "-KT6efrftAOQDDsmgPcb"
-_sort_create_date = 1475449860
-_sort_last_updated = 1475514240
-_sort_publish_date = 1475519400
+sort_create_date = 1475449860
+sort_last_updated = 1475514240
+sort_publish_date = 1475519400
 create_date = "2016-10-02T16:11:00-07:00"
 publish_date = "2016-10-03T11:30:00-07:00"
 date = "2016-10-03T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "As readers, we are not entitled to Elena Ferrante's true identity. Authors don't owe us their lives."
 facebookauto = "As readers, we are not entitled to Elena Ferrante's true identity. Authors don't owe us their personal lives."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/pseudonym", "tags/new-york-review-of-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Over the weekend, the *New York Review of Books* — no relation — published a piece of reportage that supposedly outed the author behind the pseudonym Elena Ferrante. Considering that Ferrante is an international bestseller and a global literary sensation, this piece immediately became an internet phenomenon.

@@ -1,8 +1,8 @@
 +++
 index = "-KCue22_F5be2G_Uujln"
-_sort_create_date = 1458051720
-_sort_last_updated = 1458232560
-_sort_publish_date = 1458241200
+sort_create_date = 1458051720
+sort_last_updated = 1458232560
+sort_publish_date = 1458241200
 create_date = "2016-03-15T07:22:00-07:00"
 publish_date = "2016-03-17T12:00:00-07:00"
 date = "2016-03-17T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Everybody's straightening like it's a commercial"
 dek = "\"Does this spark joy?\" Marie Kondo implores us to ask of the things in our life. Dawn McCarra Bass stretches that idea to include some of the things that come to us through hardship and change."
 facebookauto = "What happens when your hardship makes your life untidy? Dawn McCarra Bass turned to Marie Kondo to find out."
 twitterauto = "Tidying in the time hardship. @despra holds @mariekondo's first book through the moments in life we most dread.\n"
-byline = ["writers/dawn-mccarra-bass"]
+reviews_byline = ["writers/dawn-mccarra-bass"]
 books_in_this_review = ["books/the-life-changing-magic-of-tidying"]
 tags_reviews = ["tags/tidying-up", "tags/kondo"]
-authors_reviews = ["authors/marie-kondo"]
+reviews_about = ""
 +++
 
 Marie Kondo is the gentle ruler of an empire built on a most unusual foundation. Her _Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing_, published in the US in 2014, is still at the top of the _New York Times_ bestseller list &mdash; right above her just-released _Spark Joy_. She was one of _Time Magazine_’s People of the Year in 2015. Her immense popularity has drawn coverage in the _New York Times_, the _Atlantic_, and countless articles and blog posts &mdash; both adulating and irritated &mdash; across the internet.

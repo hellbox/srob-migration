@@ -1,8 +1,8 @@
 +++
 index = "-KJ6dnsYUnWMVeKs0mqe"
-_sort_create_date = 1464712200
-_sort_last_updated = 1464712320
-_sort_publish_date = 1464723000
+sort_create_date = 1464712200
+sort_last_updated = 1464712320
+sort_publish_date = 1464723000
 create_date = "2016-05-31T09:30:00-07:00"
 publish_date = "2016-05-31T12:30:00-07:00"
 date = "2016-05-31T12:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @justwrought has your Father's Day gift buying covered."
 facebookauto = "Sponsor Paul Mullin has your Father's Day gift-buying covered."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor Paul Mullin has your Father's Day gift covered. His book _The Starting Gate_ is part memoir, part life-manual, and all entertainment. <a href="http://seattlereviewofbooks.com/sponsorships" title="The Seattle Review of Books - sponsorships">You can read a full chapter, that will guide you through a graduate-level course of how to drink in bars, on our sponsor page</a>. 

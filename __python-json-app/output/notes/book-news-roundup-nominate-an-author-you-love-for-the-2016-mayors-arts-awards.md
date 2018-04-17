@@ -1,8 +1,8 @@
 +++
 index = "-KI6_akrq96FkGk7VTwj"
-_sort_create_date = 1463637360
-_sort_last_updated = 1463714100
-_sort_publish_date = 1463771100
+sort_create_date = 1463637360
+sort_last_updated = 1463714100
+sort_publish_date = 1463771100
 create_date = "2016-05-18T22:56:00-07:00"
 publish_date = "2016-05-20T12:05:00-07:00"
 date = "2016-05-20T12:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Find Jonathan Franzen, #1000BlackGirlBooks, @shortrunseattle, and more in our Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/mayor-ed-murray", "tags/amazon-books"]
-authors_notes = ["authors/jonathan-franzen"]
+notes_about = ""
 books = ""
 +++
 * The awesome organizers of comics and art show Short Run made a special announcement about their upcoming fall show: [Special guests at the show this year](http://shortrun.org/first-round-of-special-guests/) will include Vanessa Davis and Trevor Alixopulos. Davis's comic *Make Me a Woman* was published by Drawn & Quarterly, and Alixopulos is an up-and-comer who will be in the newest volume of the *Kramer's Ergot* anthology. In case you've missed it, Short Run also revealed the identity of [this year's Dash grant recipient](http://shortrun.org/brendan-kiefer-announced-dash-winner-2016/), a program that provides funds to an artist to make a new comic in time for the show; this year's Dash winner is a new-to-Seattle cartoonist named Brendan Kiefer. The Short Run Festival will happen at Fisher Pavilion in Seattle Center this year on **Saturday, November 6th**. Save the date.

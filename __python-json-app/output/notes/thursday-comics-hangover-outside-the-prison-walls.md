@@ -1,8 +1,8 @@
 +++
 index = "-KKvd_WHBXRFdlAE8cP9"
-_sort_create_date = 1466658300
-_sort_last_updated = 1466701020
-_sort_publish_date = 1466701500
+sort_create_date = 1466658300
+sort_last_updated = 1466701020
+sort_publish_date = 1466701500
 create_date = "2016-06-22T22:05:00-07:00"
 publish_date = "2016-06-23T10:05:00-07:00"
 date = "2016-06-23T10:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466658087188/bitc
 twitterauto = "Is the comic series Bitch Planet really just an Orange is the New Black set in outer space?"
 facebookauto = "Is the comic series Bitch Planet really just an Orange is the New Black set in outer space?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 It’s probably just a coincidence that the eighth issue of Kelly Sue DeConnick and Valentine  De Landro’s sci-fi women-in-space-prison comic *Bitch Planet* was published less than a week after the fourth season of *Orange Is the New Black* arrived on Netflix. But, for the sake of people who write weekly columns about comic books, it’s a happy coincidence. From the very beginning, *Bitch Planet* has been compared with *Orange*, and it’s easy to see why: they’re both about womens’ prisons, they both feature diverse casts, and they’re both feminist-minded sociological studies of modern incarceration culture.

@@ -1,8 +1,8 @@
 +++
 index = "-KnvO6H_bnIUCK9_4Vyr"
-_sort_create_date = 1498866240
-_sort_last_updated = 1498866240
-_sort_publish_date = 1499878800
+sort_create_date = 1498866240
+sort_last_updated = 1498866240
+sort_publish_date = 1499878800
 create_date = "2017-06-30T16:44:00-07:00"
 publish_date = "2017-07-12T10:00:00-07:00"
 date = "2017-07-12T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498866166667/tomo
 twitterauto = "This week brings events that remind us why Seattle is a world-class city for sci-fi."
 facebookauto = "This week brings events that remind us why Seattle is a world-class city for sci-fi."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/nancy-kress"]
+notes_about = ""
 books = ""
 +++
 A couple weeks ago, I had the pleasure of talking to a couple dozen young sci-fi writers in the living room of a sorority house in the University District. Those writers were part of the annual intensive writing course presented by local sci-fi writing program Clarion West, and I was part of a panel to talk about book reviewing and publishing. These writers knew exactly the right questions to ask, and their enthusiasm for publishing was infectious. 

@@ -1,8 +1,8 @@
 +++
 index = "-KJwmWrr0ZiNdvUFCyT8"
-_sort_create_date = 1465603680
-_sort_last_updated = 1465603920
-_sort_publish_date = 1465603680
+sort_create_date = 1465603680
+sort_last_updated = 1465603920
+sort_publish_date = 1465603680
 create_date = "2016-06-10T17:08:00-07:00"
 publish_date = "2016-06-10T17:08:00-07:00"
 date = "2016-06-10T17:08:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/1b-MqfR7ry2O0k1miKy6mhhgBXxd2a98McR9qxeokPbn0QMa7fh4bKP-qgeVuhn_ctDWev0lTy4F8cYronDmDjzkQgw"
 url = "/webhook-uploads/1465603862583/an-honorable-man-9781501110382_hr.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 244700
 
 review_relationship = ""
-author_relationship = ["authors/paul-vidich"]
+books_author = ""
 sponsorships_book = ["sponsorships/an-honorable-man"]
 notes_relationship = ["notes/the-modern-mid-century-spy-novel"]
 +++

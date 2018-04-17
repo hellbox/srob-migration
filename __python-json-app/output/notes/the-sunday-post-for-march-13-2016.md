@@ -1,8 +1,8 @@
 +++
 index = "-KCifDAFEhjf_4LO6z_3"
-_sort_create_date = 1457850720
-_sort_last_updated = 1457850780
-_sort_publish_date = 1457884800
+sort_create_date = 1457850720
+sort_last_updated = 1457850780
+sort_publish_date = 1457884800
 create_date = "2016-03-12T22:32:00-08:00"
 publish_date = "2016-03-13T09:00:00-07:00"
 date = "2016-03-13T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post, with pieces by @lydialaurenson, @thelindywest, and @richardkreitner."
 facebookauto = "The Sunday Post: secret societies, racist Trump supporters, and all the plans for the LA River. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[My Year in San Francisco’s $2 Million Secret Society Startup](http://motherboard.vice.com/read/my-year-in-san-franciscos-2-million-secret-society-startup?utm_content=buffer439d2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer "My Year in San Francisco’s $2 Million Secret Society Startup | Motherboard")</h5>

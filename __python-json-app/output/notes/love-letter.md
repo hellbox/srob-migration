@@ -1,8 +1,8 @@
 +++
 index = "-KDRMQc5F6W7L_1tGMSL"
-_sort_create_date = 1458617280
-_sort_last_updated = 1458703380
-_sort_publish_date = 1459875300
+sort_create_date = 1458617280
+sort_last_updated = 1458703380
+sort_publish_date = 1459875300
 create_date = "2016-03-21T20:28:00-07:00"
 publish_date = "2016-04-05T09:55:00-07:00"
 date = "2016-04-05T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Love Letter\" by Quenton Baker is our Tuesday Poem. "
 facebookauto = "\"Love Letter\" by Quenton Baker is our Tuesday Poem. "
 make_image_tweet = "False"
-byline = ["writers/quenton-baker"]
+notes_byline = ["writers/quenton-baker"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 It's funny how much we ate &mdash;<br>

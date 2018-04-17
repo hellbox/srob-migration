@@ -1,8 +1,8 @@
 +++
 index = "-KeWueSsutbmJwAnyiw0"
-_sort_create_date = 1488775140
-_sort_last_updated = 1488775140
-_sort_publish_date = 1488830460
+sort_create_date = 1488775140
+sort_last_updated = 1488775140
+sort_publish_date = 1488830460
 create_date = "2017-03-05T20:39:00-08:00"
 publish_date = "2017-03-06T12:01:00-08:00"
 date = "2017-03-06T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488774686660/Othe
 twitterauto = "A Russian cartoonist will be presenting her new book of journalism @fantagraphics this weekend."
 facebookauto = "Fantagraphics will be presenting Russian cartooning journalist Victoria Lomasko this weekend. In a time when Russia has become a political football, it's more important than ever to understand what's going on in that corner of the world."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics-bookstore-&amp;-gallery", "tags/fantagraphics", "tags/short-run", "tags/russia"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1488774686660/OtherRussias2-846x1095.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L6tSnD6h29JmmBtd-_w"
-_sort_create_date = 1520308740
-_sort_last_updated = 1520312820
-_sort_publish_date = 1520358900
+sort_create_date = 1520308740
+sort_last_updated = 1520312820
+sort_publish_date = 1520358900
 create_date = "2018-03-05T19:59:00-08:00"
 publish_date = "2018-03-06T09:55:00-08:00"
 date = "2018-03-06T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520309281859/Scre
 twitterauto = "Our first, by March Poet in Residence @trippweavepoet, is titled \"Ordinary Essentials\""
 facebookauto = "Our first, by March Poet in Residence Julene Tripp Weaver, is titled \"Ordinary Essentials\""
 make_image_tweet = "False"
-byline = ["writers/julene-tripp-weaver"]
+notes_byline = ["writers/julene-tripp-weaver"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We may have been young and stupid<br>

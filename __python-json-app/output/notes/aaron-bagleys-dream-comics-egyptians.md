@@ -1,8 +1,8 @@
 +++
 index = "-L6_1ygx8FQvzIcN-qaU"
-_sort_create_date = 1519966200
-_sort_last_updated = 1520532780
-_sort_publish_date = 1520618400
+sort_create_date = 1519966200
+sort_last_updated = 1520532780
+sort_publish_date = 1520618400
 create_date = "2018-03-01T20:50:00-08:00"
 publish_date = "2018-03-09T10:00:00-08:00"
 date = "2018-03-09T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519963606117/Egyp
 twitterauto = "It's time for @aaronbaglady's Dream Comics!"
 facebookauto = "It's time for Aaron Bagley's Dream Comics!\n"
 make_image_tweet = "True"
-byline = ["writers/aaron-bagley"]
+notes_byline = ["writers/aaron-bagley"]
 tags_notes = ["tags/aaron-bagleys-dream-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image"><a href="/webhook-uploads/1519963584413/Egyptians%201.jpg" target="_blank">![](/webhook-uploads/1519963584413/Egyptians%201.jpg)</a></p>

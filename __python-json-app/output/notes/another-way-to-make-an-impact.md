@@ -1,8 +1,8 @@
 +++
 index = "-KcFjlYfu0OBGzkCJEsA"
-_sort_create_date = 1486339620
-_sort_last_updated = 1486339620
-_sort_publish_date = 1486411260
+sort_create_date = 1486339620
+sort_last_updated = 1486339620
+sort_publish_date = 1486411260
 create_date = "2017-02-05T16:07:00-08:00"
 publish_date = "2017-02-06T12:01:00-08:00"
 date = "2017-02-06T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's a neat way to support a bookstore and help people educate themselves."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/independent-bookstores", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 There are plenty of great causes that deserve your donations and your time. But here's a neat way to simultaneously support a local business and help others inform themselves in a grim situation:

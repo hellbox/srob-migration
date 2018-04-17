@@ -1,8 +1,8 @@
 +++
 index = "-Jxf_qCdxp83JGh3aO8M"
-_sort_create_date = 1440619080
-_sort_last_updated = 1440619380
-_sort_publish_date = 1440619080
+sort_create_date = 1440619080
+sort_last_updated = 1440619380
+sort_publish_date = 1440619080
 create_date = "2015-08-26T12:58:00-07:00"
 publish_date = "2015-08-26T12:58:00-07:00"
 date = "2015-08-26T12:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Porchlit shares stories, poems, and essays read from a Seattle-area porch. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/porchlit", "tags/seb-barnett"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Porchlit is [a nifty ongoing site-specific project](http://porchlit.org/) happening in the International District — specifically, the porch of a house at 500 12th Avenue S. "We upload recordings of literature - poetry, prose, monologue and so on - spoken every day on a porch for an entire year," project founders Yonnas Getahun, Campbell Thibo, and Omar Willey [write on the About page](http://porchlit.org/about). Here's amazing artist [Seb Barnett](http://brushandpen.net/) reading a very appopriate poem by Jeremy Gaulke:

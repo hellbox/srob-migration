@@ -1,8 +1,8 @@
 +++
 index = "-KqtCAx__Fxt3WfKghpj"
-_sort_create_date = 1502050800
-_sort_last_updated = 1502050800
-_sort_publish_date = 1502050800
+sort_create_date = 1502050800
+sort_last_updated = 1502050800
+sort_publish_date = 1502050800
 create_date = "2017-08-06T13:20:00-07:00"
 publish_date = "2017-08-06T13:20:00-07:00"
 date = "2017-08-06T13:20:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/KTHQKGG5kGBCSt1X2oXlafPWkbsulkIkRi9NJ9X9uM-d9yVLwspIW5hZ0MjsnM6-u8vDmQuWlugayMw9YeSq4xci7Uqd"
 url = "/webhook-uploads/1502050702666/Death%20as%20a%20Side%20Effect_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 16767
 
 review_relationship = ["reviews/translation-is-not-kale"]
-author_relationship = ["authors/ana-mar\u00eda-shua"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

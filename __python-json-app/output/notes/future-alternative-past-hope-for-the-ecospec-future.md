@@ -1,8 +1,8 @@
 +++
 index = "-KjjgCEJMfMSkcrdM-8k"
-_sort_create_date = 1494374940
-_sort_last_updated = 1494529680
-_sort_publish_date = 1494529200
+sort_create_date = 1494374940
+sort_last_updated = 1494529680
+sort_publish_date = 1494529200
 create_date = "2017-05-09T17:09:00-07:00"
 publish_date = "2017-05-11T12:00:00-07:00"
 date = "2017-05-11T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. You can also look through the [archives of the column](http://www.seattlereviewofbooks.com/tags/the-future-alternative-past).</p>

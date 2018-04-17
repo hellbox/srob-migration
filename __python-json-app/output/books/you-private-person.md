@@ -1,8 +1,8 @@
 +++
 index = "-Kql0GdEy3KVIVkLM4n6"
-_sort_create_date = 1501913460
-_sort_last_updated = 1502222940
-_sort_publish_date = 1501913460
+sort_create_date = 1501913460
+sort_last_updated = 1502222940
+sort_publish_date = 1501913460
 create_date = "2017-08-04T23:11:00-07:00"
 publish_date = "2017-08-04T23:11:00-07:00"
 date = "2017-08-04T23:11:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/b63lB1-fLpExNZd6f5aVpAkPb-dViR8lOwV5W803h1lo3D8BkfmQRcWfw8VU-mpkvytH18tWeFuG85LMyh_vaGbh_BE"
 url = "/webhook-uploads/1502222973980/unnamed.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 471648
 
 review_relationship = ["reviews/the-second-coming"]
-author_relationship = ["authors/richard-chiem"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/looking-for-a-holiday-gift-book-richard-chiem-recommends-the-passion-according-to-gh", "notes/book-news-roundup-a-king-of-joy-a-book-bunker-and-a-chance-to-win-a-washington-state-book-award"]
 +++

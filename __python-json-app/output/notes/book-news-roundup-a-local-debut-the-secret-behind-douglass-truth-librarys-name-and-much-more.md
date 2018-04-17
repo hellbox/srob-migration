@@ -1,8 +1,8 @@
 +++
 index = "-KeaAQlU2RTClfsjEFFX"
-_sort_create_date = 1488846660
-_sort_last_updated = 1488910920
-_sort_publish_date = 1488915060
+sort_create_date = 1488846660
+sort_last_updated = 1488910920
+sort_publish_date = 1488915060
 create_date = "2017-03-06T16:31:00-08:00"
 publish_date = "2017-03-07T11:31:00-08:00"
 date = "2017-03-07T11:31:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's roundup brings a new book from @ancawrites and a gender experiment you can try on your bookshelves."
 facebookauto = "Today's Book News Roundup features a novel debut and a gender experiment you can try on your bookshelves at home."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/seattle-public-library", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/anca-l-szil\u00e1gyi"]
+notes_about = ""
 books = ""
 +++
 * "A branch of the Seattle Public Library is named after two African-American icons who never set foot in the Pacific Northwest," begins [this report by historian Feliks Banel at MyNorthwest.com](http://mynorthwest.com/563066/saving-collection-led-to-naming-of-douglass-truth-library/). The branch in question, of course, is the The Douglass-Truth Library.

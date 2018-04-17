@@ -1,8 +1,8 @@
 +++
 index = "-JzXmGUVBHlLlppXRwPQ"
-_sort_create_date = 1442618820
-_sort_last_updated = 1442618820
-_sort_publish_date = 1442854020
+sort_create_date = 1442618820
+sort_last_updated = 1442618820
+sort_publish_date = 1442854020
 create_date = "2015-09-18T16:27:00-07:00"
 publish_date = "2015-09-21T09:47:00-07:00"
 date = "2015-09-21T09:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings begins tonight @ubookstorereads and includes a drag-queen extravaganza. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/hugo-house", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/town-hall-seattle"]
-authors_notes = ["authors/david-schmader", "authors/matthew-simmons", "authors/sarah-galvin", "authors/kelly-davio"]
+notes_about = ""
 books = ""
 +++
 **MONDAY** Your week begins at [University Book Store](http://www2.bookstore.washington.edu/_events/events_cal.taf?evmonth=09&evyear=2015&eventid=2015070112534200&pre=20150913&pst=20150929), where **Fran Wilde** reads from her new fantasy novel *Updraft*. It’s set in a world “built in towers of living bone” and stars a main character who has the “ability to control the invisible predators that roam the skies with her voice.” That sounds entirely bonkers, and is therefore worthy of our respect.

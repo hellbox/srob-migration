@@ -1,8 +1,8 @@
 +++
 index = "-KHOEF0rnM1Mt3ovUQZe"
-_sort_create_date = 1462859760
-_sort_last_updated = 1462859880
-_sort_publish_date = 1462859760
+sort_create_date = 1462859760
+sort_last_updated = 1462859880
+sort_publish_date = 1462859760
 create_date = "2016-05-09T22:56:00-07:00"
 publish_date = "2016-05-09T22:56:00-07:00"
 date = "2016-05-09T22:56:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-twM58KFKxxhw1r0jzeiJtogo_OJQosK5cSbKLtczdLNTO5W6VT8rnYqXad1OREO4X77sO6f-IqwboyQHzhPbhuKn1RItA"
 url = "/webhook-uploads/1462859792046/content%3Fid%3DUgaOoAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7343
 
 review_relationship = ["reviews/it-begins-with-a-single-step"]
-author_relationship = ["authors/andrew-maclean"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

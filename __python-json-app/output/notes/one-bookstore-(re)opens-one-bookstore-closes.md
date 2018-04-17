@@ -1,8 +1,8 @@
 +++
 index = "-Kv5LZ3lPs-jngZ1WIBJ"
-_sort_create_date = 1506566340
-_sort_last_updated = 1506566340
-_sort_publish_date = 1506624300
+sort_create_date = 1506566340
+sort_last_updated = 1506566340
+sort_publish_date = 1506624300
 create_date = "2017-09-27T19:39:00-07:00"
 publish_date = "2017-09-28T11:45:00-07:00"
 date = "2017-09-28T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1441171711333/2015
 twitterauto = "This weekend: Seattle Mystery Bookshop is closing, Capitol Hill's Horizon Books is reopening."
 facebookauto = "This weekend: Seattle Mystery Bookshop is closing, Capitol Hill's Horizon Books is reopening."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-mystery-bookshop"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Here's is a last-minute event that just delivered itself to our attention: Horizon Books, the used bookstore on Capitol Hill that recently closed, [is now having a grand re-opening sale](https://www.facebook.com/events/177174912829965/) on Friday from 6 to 10 pm. The [Facebook invite](https://www.facebook.com/events/177174912829965/) says:

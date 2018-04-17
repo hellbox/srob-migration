@@ -1,8 +1,8 @@
 +++
 index = "-KQBnsWATaUSCx68sSyd"
-_sort_create_date = 1472314920
-_sort_last_updated = 1472482680
-_sort_publish_date = 1472314920
+sort_create_date = 1472314920
+sort_last_updated = 1472482680
+sort_publish_date = 1472314920
 create_date = "2016-08-27T09:22:00-07:00"
 publish_date = "2016-08-27T09:22:00-07:00"
 date = "2016-08-27T09:22:00-07:00"

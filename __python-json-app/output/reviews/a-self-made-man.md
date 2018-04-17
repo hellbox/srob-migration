@@ -1,8 +1,8 @@
 +++
 index = "-KNL5O_kYp6t8elVgEld"
-_sort_create_date = 1469249580
-_sort_last_updated = 1469249580
-_sort_publish_date = 1469563260
+sort_create_date = 1469249580
+sort_last_updated = 1469249580
+sort_publish_date = 1469563260
 create_date = "2016-07-22T21:53:00-07:00"
 publish_date = "2016-07-26T13:01:00-07:00"
 date = "2016-07-26T13:01:00-07:00"
@@ -13,10 +13,10 @@ title = "A self-made man"
 dek = "Sometimes a word is more than its definition. The latest novel from Port Townsend author Rikki Ducornet is full of sentences that are divorced from meaning, in the liveliest way possible."
 facebookauto = "Port Townsend author Rikki Ducornet's new novel is about a feral boy who goes to college."
 twitterauto = "Port Townsend author Rikki Ducornet's new novel is about a feral boy who goes to college."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/brightfellow"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/rikki-ducornet"]
+reviews_about = ""
 +++
 
 What is it about orphans and literature? Why do so many narratives so dearly love a parentless child, from Moses to the novels of Dickens on down to Batman? On an instinctual level, it seems obvious: parents are shorthand for comfort, and security, and rules, which are three elements that are not conducive to great storytelling. And nothing hypnotizes some readers like the myth of the self-made man, the protagonist who truly doesn’t need anyone else. If a child on their own with no parental support can impose order onto a chaotic universe, then maybe anyone can do it. 

@@ -1,8 +1,8 @@
 +++
 index = "-Kq1cFQmVZIDb6Of70ck"
-_sort_create_date = 1501135140
-_sort_last_updated = 1501184820
-_sort_publish_date = 1501178400
+sort_create_date = 1501135140
+sort_last_updated = 1501184820
+sort_publish_date = 1501178400
 create_date = "2017-07-26T22:59:00-07:00"
 publish_date = "2017-07-27T11:00:00-07:00"
 date = "2017-07-27T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "For @seattlereviewof's 2nd birthday, @paulconstant and @hellbox dish on reviewing, literary Seattle, and more."
 facebookauto = "The Seattle Review of Books is turning two! In a birthday interview, the co-founders dish on the art of reviewing, literary Seattle, and what's next for the site. "
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/interviews"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <div class="intro">

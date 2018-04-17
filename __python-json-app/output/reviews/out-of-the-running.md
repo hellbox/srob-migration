@@ -1,8 +1,8 @@
 +++
 index = "-KSYHOh4v1eP3i6KGDBt"
-_sort_create_date = 1474839540
-_sort_last_updated = 1474839540
-_sort_publish_date = 1474916460
+sort_create_date = 1474839540
+sort_last_updated = 1474839540
+sort_publish_date = 1474916460
 create_date = "2016-09-25T14:39:00-07:00"
 publish_date = "2016-09-26T12:01:00-07:00"
 date = "2016-09-26T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Out of the running"
 dek = "Over a thousand Americans ran for president in 2016. Craig Tomashoff's book highlights 15 of the most obscure would-be POTUSes."
 facebookauto = "These 15 people ran for president in 2016. All of them failed. You've maybe heard of one of them. Why do they bother?"
 twitterauto = "Before tonight's debate, here's a book about 15 nobodies who ran for president this year."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-cant-idates"]
 tags_reviews = ["tags/nonfiction", "tags/president", "tags/politics"]
-authors_reviews = ["authors/craig-tomashoff"]
+reviews_about = ""
 +++
 
 Every presidential cycle has its losers — the zany dimbulbs like Herman Cain, the gallant nerds like Dennis Kucinich, the unloveable schmucks like Rick Santorum. You can’t help but wonder when you watch these losers speak why, exactly, they’re bothering to run for office in the first place. Don’t they realize they can’t win? Do they believe they’re running for a greater cause? 

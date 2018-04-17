@@ -1,8 +1,8 @@
 +++
 index = "-K7zC4Jr0lcZBiJoR2yh"
-_sort_create_date = 1452759300
-_sort_last_updated = 1452759420
-_sort_publish_date = 1452794460
+sort_create_date = 1452759300
+sort_last_updated = 1452759420
+sort_publish_date = 1452794460
 create_date = "2016-01-14T00:15:00-08:00"
 publish_date = "2016-01-14T10:01:00-08:00"
 date = "2016-01-14T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452758988876/SECR
 twitterauto = ".@JHickman has written a superhero comic about the joy of superhero comics. "
 facebookauto = ""
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1452758988876/SECRET_WARS_009-600x910.jpg)</p>Yesterday saw the publication of the ninth and final issue of Jonathan Hickman and Esad Ribic's Marvel Comics mega-crossover event, *Secret Wars*. The series, which works as both a remake of Marvel's 1984 crossover comic of the same name and a reboot of the entire line of Marvel's superhero comics, has been huge and goofy and fun. 

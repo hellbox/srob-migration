@@ -1,8 +1,8 @@
 +++
 index = "-JyslmeODBwp2n5CTsMS"
-_sort_create_date = 1441914060
-_sort_last_updated = 1441914060
-_sort_publish_date = 1441915860
+sort_create_date = 1441914060
+sort_last_updated = 1441914060
+sort_publish_date = 1441915860
 create_date = "2015-09-10T12:41:00-07:00"
 publish_date = "2015-09-10T13:11:00-07:00"
 date = "2015-09-10T13:11:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/racism"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ""
 +++
 The [*Best American Poetry 2015* controversy](http://seattlereviewofbooks.com/notes/2015/09/08/so-did-i-pick-the-best-75-poems-published-last-year-of-course-not-i-picked-75-poems-that-survived-a-literary-ordeal-that-happened-only-in-my-brain/) continues with [a *New York Times* story](http://mobile.nytimes.com/blogs/artsbeat/2015/09/10/family-protests-white-poets-use-of-chinese-pen-name/) that suggests Michael Derrick Hudson, the white poet who took on a Chinese pseudonym in order to make some asinine "point," might have stolen the name from a real-life Yi-Fen Chou:

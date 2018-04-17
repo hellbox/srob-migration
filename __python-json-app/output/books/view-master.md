@@ -1,8 +1,8 @@
 +++
 index = "-K3Sy2pTDlHgpqmgu_1X"
-_sort_create_date = 1447906740
-_sort_last_updated = 1447906980
-_sort_publish_date = 1447906740
+sort_create_date = 1447906740
+sort_last_updated = 1447906980
+sort_publish_date = 1447906740
 create_date = "2015-11-18T20:19:00-08:00"
 publish_date = "2015-11-18T20:19:00-08:00"
 date = "2015-11-18T20:19:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = "http://amzn.to/1YhEOma"
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Dmhj-QG-xlPOkC0FauHwoK8aPKb6YRmqw6xX_LY9LlOhX7e8cXXp7QedAQlGaoUX_1sbULw9zY4fJQSispZI0C_sJsM"
 url = "/webhook-uploads/1447907014097/41m4i3p2FYL._SX329_BO1%2C204%2C203%2C200_.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 28413
 
 review_relationship = ["reviews/the-inventor-viewed-in-stereo"]
-author_relationship = ["authors/gretchen-jane-gruber-"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

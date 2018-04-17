@@ -1,8 +1,8 @@
 +++
 index = "-KddfGfBmFXE7e_KeKCD"
-_sort_create_date = 1487831580
-_sort_last_updated = 1487831580
-_sort_publish_date = 1487872800
+sort_create_date = 1487831580
+sort_last_updated = 1487831580
+sort_publish_date = 1487872800
 create_date = "2017-02-22T22:33:00-08:00"
 publish_date = "2017-02-23T10:00:00-08:00"
 date = "2017-02-23T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We love The Fix, a crime comic that feels like a dirty joke crossed with a tall tale."
 facebookauto = "We love The Fix, a crime comic that feels like a dirty joke crossed with a tall tale."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/image-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The eighth issue of Nick Spencer and Steve Lieber's crime comic *The Fix* was published yesterday, and this series keeps getting better. Ostensibly the story of two crooked Los Angeles cops and a drug-sniffing dog named Pretzels, *The Fix* keeps expanding to absorb more and more characters; what began as a character-focused heist story quickly (and effortlessly) became a huge ensemble piece. 

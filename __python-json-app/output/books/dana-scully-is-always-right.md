@@ -1,8 +1,8 @@
 +++
 index = "-K24SMV-mMuq1t1CdKJ6"
-_sort_create_date = 1446421800
-_sort_last_updated = 1446475260
-_sort_publish_date = 1446421800
+sort_create_date = 1446421800
+sort_last_updated = 1446475260
+sort_publish_date = 1446421800
 create_date = "2015-11-01T15:50:00-08:00"
 publish_date = "2015-11-01T15:50:00-08:00"
 date = "2015-11-01T15:50:00-08:00"
@@ -23,11 +23,11 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 image = ""
 review_relationship = ["reviews/short-run-for-the-long-haul"]
-author_relationship = ["authors/sarah-mirk"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

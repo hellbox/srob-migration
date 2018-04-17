@@ -1,8 +1,8 @@
 +++
 index = "-KgXT4vHZM5uMJ2Ai1Uc"
-_sort_create_date = 1490931960
-_sort_last_updated = 1490931960
-_sort_publish_date = 1491411420
+sort_create_date = 1490931960
+sort_last_updated = 1490931960
+sort_publish_date = 1491411420
 create_date = "2017-03-30T20:46:00-07:00"
 publish_date = "2017-04-05T09:57:00-07:00"
 date = "2017-04-05T09:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490931866257/what
 twitterauto = "Join us @ThirdPlaceBooks Seward Park tongiht for our post-Trump book club!"
 facebookauto = "Our book club meets tonight at Third Place Books Seward Park. Join us!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Regular readers of this column know that on the first Wednesday of every month, the *Seattle Review of Books* and the *Seattle Weekly* host a book club called Reading Through It at Third Place Books Seward Park. The response has been incredibly strong — anywhere between 60 and 100 attendees every month — because books are the perfect response to the historical moment. 

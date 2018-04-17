@@ -1,8 +1,8 @@
 +++
 index = "-KOb1e2ktVqASb6WXB_T"
-_sort_create_date = 1470607560
-_sort_last_updated = 1470607560
-_sort_publish_date = 1470769200
+sort_create_date = 1470607560
+sort_last_updated = 1470607560
+sort_publish_date = 1470769200
 create_date = "2016-08-07T15:06:00-07:00"
 publish_date = "2016-08-09T12:00:00-07:00"
 date = "2016-08-09T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470607077599/mcph
 twitterauto = ".@stevenarntson remembers the great James McPherson, who passed away last month."
 facebookauto = "Seattle writer Steven Arntson remembers the great James McPherson, who passed away last month, with a beautiful essay."
 make_image_tweet = "True"
-byline = ["writers/steven-arntson"]
+notes_byline = ["writers/steven-arntson"]
 tags_notes = ["tags/death"]
-authors_notes = ["authors/steven-arntson", "authors/james-alan-mcpherson", "authors/ta-nehisi-coates", "authors/ralph-ellison"]
+notes_about = ""
 books = ""
 +++
 James Alan McPherson, acclaimed American writer and writing educator, died last month, at the age of 72.

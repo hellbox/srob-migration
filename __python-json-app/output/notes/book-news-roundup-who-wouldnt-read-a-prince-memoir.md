@@ -1,8 +1,8 @@
 +++
 index = "-KDQm3WOPAdRnJLs2eaW"
-_sort_create_date = 1458607500
-_sort_last_updated = 1458676980
-_sort_publish_date = 1458678180
+sort_create_date = 1458607500
+sort_last_updated = 1458676980
+sort_publish_date = 1458678180
 create_date = "2016-03-21T17:45:00-07:00"
 publish_date = "2016-03-22T13:23:00-07:00"
 date = "2016-03-22T13:23:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our book news roundup includes Shakespeare happenings @SPLBuzz and two online magazines to get excited about."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library", "tags/prince"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Shakespeare's First Folio is now at the [Seattle Public Library](http://www.spl.org/library-collection/first-folio). ([At the *Seattle Times*](http://www.seattletimes.com/entertainment/books/shakespeares-first-folio-is-receiving-visitors-at-the-seattle-public-library/), Mary Ann Gwinn wrote about the opening festivities for the Folio.) You can find a full calendar of Folio-related events — including readings, movies, plays, music and more — [on SPL's website](http://www.spl.org/library-collection/first-folio/calendar), and you can [get tickets to visit the Folio here](http://www.brownpapertickets.com/event/2486090).

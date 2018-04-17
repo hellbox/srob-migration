@@ -1,8 +1,8 @@
 +++
 index = "-KhVTiaQ4b86CDG1-lvV"
-_sort_create_date = 1491972300
-_sort_last_updated = 1492016040
-_sort_publish_date = 1492106100
+sort_create_date = 1491972300
+sort_last_updated = 1492016040
+sort_publish_date = 1492106100
 create_date = "2017-04-11T21:45:00-07:00"
 publish_date = "2017-04-13T10:55:00-07:00"
 date = "2017-04-13T10:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in book news roundup: a scratch-and-sniff book about pot?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/marijuana"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Seattle-area newsletter The Evergrey is [looking for your input on local small businesses to profile](https://theevergrey.com/tell-us-the-seattle-small-business-you-cant-live-without/). We're not saying you should go and suggest your favorite small bookstore or anything, but...you should go and suggest your favorite small bookstore. Deadline is Monday April 17th, and the businesses will be profiled on May 1st.

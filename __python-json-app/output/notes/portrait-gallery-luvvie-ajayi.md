@@ -1,8 +1,8 @@
 +++
 index = "-KTFz5xQgMGkDRrPMyo3"
-_sort_create_date = 1475606220
-_sort_last_updated = 1475610720
-_sort_publish_date = 1475787600
+sort_create_date = 1475606220
+sort_last_updated = 1475610720
+sort_publish_date = 1475787600
 create_date = "2016-10-04T11:37:00-07:00"
 publish_date = "2016-10-06T14:00:00-07:00"
 date = "2016-10-06T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1475606028130/SRoB
 twitterauto = "Portrait Gallery! @iLuvvit painted by @studiochristine"
 facebookauto = "Portrait Gallery! Luvvie Ajayi painted by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/luvvie-ajayi"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KqM2OReXkLX0MrLOiAe"
-_sort_create_date = 1501477800
-_sort_last_updated = 1501477800
-_sort_publish_date = 1501606500
+sort_create_date = 1501477800
+sort_last_updated = 1501477800
+sort_publish_date = 1501606500
 create_date = "2017-07-30T22:10:00-07:00"
 publish_date = "2017-08-01T09:55:00-07:00"
 date = "2017-08-01T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our August Poet in Residence is  @d_arrindell, and his first poem is titled \"Disbelief\""
 facebookauto = "Our August Poet in Residence is  Daemond Arrindell, and his first poem is titled \"Disbelief\""
 make_image_tweet = "False"
-byline = ["writers/daemond-arrindell"]
+notes_byline = ["writers/daemond-arrindell"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Said the prayer to the dream<br>

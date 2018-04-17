@@ -1,8 +1,8 @@
 +++
 index = "-K9PpSFtCD2-a_JWPjR0"
-_sort_create_date = 1454296620
-_sort_last_updated = 1454296620
-_sort_publish_date = 1454356860
+sort_create_date = 1454296620
+sort_last_updated = 1454296620
+sort_publish_date = 1454356860
 create_date = "2016-01-31T19:17:00-08:00"
 publish_date = "2016-02-01T12:01:00-08:00"
 date = "2016-02-01T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "You think your weekend was an emotional roller coaster? Try being @gwillowilson."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/marvel-comics"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ["books/ms-marvel"]
 +++
 This weekend, G. Willow Wilson [took a public stand](http://seattlereviewofbooks.com/notes/2016/01/30/g-willow-wilson-on-commercial-art-ethics-and-donald-trump/) against Marvel president Ike Perlmutter for donating $1 million to Donald Trump's weird pro-veteran charity thing. In her post on the controversy, Wilson made a joke about getting fired. 

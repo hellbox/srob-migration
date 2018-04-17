@@ -1,8 +1,8 @@
 +++
 index = "-KytIbsdpKUZhPQg8UtT"
-_sort_create_date = 1510642440
-_sort_last_updated = 1510643280
-_sort_publish_date = 1510944780
+sort_create_date = 1510642440
+sort_last_updated = 1510643280
+sort_publish_date = 1510944780
 create_date = "2017-11-13T22:54:00-08:00"
 publish_date = "2017-11-17T10:53:00-08:00"
 date = "2017-11-17T10:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510642315980/last
 twitterauto = "Based on a book by a Bainbridge Island author, Last Flag Flying follows a great American tradition."
 facebookauto = "Based on a book by a Bainbridge Island author, Last Flag Flying follows a great American tradition."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/adaptation"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you haven't seen the 1973 Hal Ashby film *The Last Detail*, I'd urge you to do so. *Detail*, starring Jack Nicholson, Otis Young, and Randy Quaid as young Navy men on a road trip before one of them is put in the brig for a long time, is one of the most quintessentially American films I think I've ever seen. It's an ambitious, dark, funny film that name-checks *Billy Budd* and questions our assumptions about freedom and duty.

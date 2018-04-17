@@ -1,8 +1,8 @@
 +++
 index = "-KX-Bfv1BcN-plGyEjHO"
-_sort_create_date = 1479619500
-_sort_last_updated = 1479619500
-_sort_publish_date = 1479619500
+sort_create_date = 1479619500
+sort_last_updated = 1479619500
+sort_publish_date = 1479619500
 create_date = "2016-11-19T21:25:00-08:00"
 publish_date = "2016-11-19T21:25:00-08:00"
 date = "2016-11-19T21:25:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/W8Rez13H-0UQxPhSuvbYIYOECylHSw59MqqrXDAF80i7vzPNNwqxT5u8tgd9hAaNbjoIgoSYjwEMkkDy3HmjpVkVd1HX"
 url = "/webhook-uploads/1479619434348/disappointing.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 28112
 
 review_relationship = ["reviews/work-work-work-work-work"]
-author_relationship = ["authors/steven-barker"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

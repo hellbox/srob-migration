@@ -1,8 +1,8 @@
 +++
 index = "-KD1Q0KjQqWBFnLutQQH"
-_sort_create_date = 1458181980
-_sort_last_updated = 1458181980
-_sort_publish_date = 1458233580
+sort_create_date = 1458181980
+sort_last_updated = 1458181980
+sort_publish_date = 1458233580
 create_date = "2016-03-16T19:33:00-07:00"
 publish_date = "2016-03-17T09:53:00-07:00"
 date = "2016-03-17T09:53:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458181479696/turn
 twitterauto = "We can't stop staring at @ohotnig's art for the new comic Turncoat."
 facebookauto = "A new sci-fi noir comic has such good art that we can't even focus on how interesting the story is."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/boom"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Artyom Trakhanov, where have you been all my life? Trakhanov is the artist for a new miniseries from Boom! called *Turncoat*, and his art is unlike just about anyone working in the American comics business today. Trakhanov’s art is along the lines of European comics artists, (which makes sense, since he’s Russian) meaning it’s obsessively detailed, focused on different kinds of panel-to-panel transitions than American counterparts, and packed full of interesting, unique characters. It’s unbelievably pretty, yes, but it’s also dense and ornate, like a woodcut come to life.

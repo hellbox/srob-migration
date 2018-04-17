@@ -1,8 +1,8 @@
 +++
 index = "-KWGWmA85gVbIDLPqRlJ"
-_sort_create_date = 1478836560
-_sort_last_updated = 1478901960
-_sort_publish_date = 1479319140
+sort_create_date = 1478836560
+sort_last_updated = 1478901960
+sort_publish_date = 1479319140
 create_date = "2016-11-10T19:56:00-08:00"
 publish_date = "2016-11-16T09:59:00-08:00"
 date = "2016-11-16T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478837210984/Scre
 twitterauto = "Vote with your wallet at @Seattle7Writers's annual holiday Bookfest this weekend."
 facebookauto = "Vote with your wallet at Seattle 7 Writers' annual holiday Bookfest this weekend."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-7-writers"]
-authors_notes = ["authors/steven-arntson", "authors/garth-stein", "authors/sean-beaudoin", "authors/timothy-egan"]
+notes_about = ""
 books = ""
 +++
 <p class-"image">![](/webhook-uploads/1478837210984/Screen%20Shot%202016-11-10%20at%207.58.06%20PM.png)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L72v0JtfdoPVzu1GNEa"
-_sort_create_date = 1520484180
-_sort_last_updated = 1520484180
-_sort_publish_date = 1520484180
+sort_create_date = 1520484180
+sort_last_updated = 1520484180
+sort_publish_date = 1520484180
 create_date = "2018-03-07T20:43:00-08:00"
 publish_date = "2018-03-07T20:43:00-08:00"
 date = "2018-03-07T20:43:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/KDphWvA7X73Mek3wi4VS1A71zsgXxj7Zy90mT5AQmk3EDCcLANvKdLBXMqMrVHQh3Hx6QtpRhaf9GIWzrB6mVUm1H51Rhg"
 url = "/webhook-uploads/1520484221881/Mr.%20Neutron_250.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 152603
 
 review_relationship = ""
-author_relationship = ["authors/joe-ponepinto"]
+books_author = ""
 sponsorships_book = ["sponsorships/mr-neutron"]
 notes_relationship = ["notes/the-death-of-reason"]
 +++

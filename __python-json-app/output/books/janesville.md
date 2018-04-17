@@ -1,8 +1,8 @@
 +++
 index = "-KnrnuWoVZN0rQZPTd3b"
-_sort_create_date = 1498806180
-_sort_last_updated = 1498806240
-_sort_publish_date = 1498806180
+sort_create_date = 1498806180
+sort_last_updated = 1498806240
+sort_publish_date = 1498806180
 create_date = "2017-06-30T00:03:00-07:00"
 publish_date = "2017-06-30T00:03:00-07:00"
 date = "2017-06-30T00:03:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cM6a6GjwG8rKEx8yNF3ZfgWSryiv6X6mS1fNV2m7Z2pEuow3axZZSerVD9xu9Ee3XFi3hzKYOujxd-ZegTuWy5mK0h0"
 url = "/webhook-uploads/1498806132933/janesville.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 78572
 
 review_relationship = ["reviews/it-was-always-this-way-until-it-wasnt"]
-author_relationship = ["authors/amy-goldstein"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/is-a-company-town-with-no-company-still-a-town"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-JvPBMiPk4pjHcg3P6mv"
-_sort_create_date = 1438179720
-_sort_last_updated = 1438184040
-_sort_publish_date = 1438179720
+sort_create_date = 1438179720
+sort_last_updated = 1438184040
+sort_publish_date = 1438179720
 create_date = "2015-07-29T07:22:00-07:00"
 publish_date = "2015-07-29T07:22:00-07:00"
 date = "2015-07-29T07:22:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Man Booker Prize longlist has been announced! We're pulling for @LailaLalami. How about you?"
 facebookauto = "The Man Booker Prize longlist has been announced! We're pulling for Laila Lalami. How about you?"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/man-booker-prize"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The Man Booker Prize [announced their longlist this morning](http://www.themanbookerprize.com/news/man-booker-prize-announces-2015-longlist). The criteria changed last year to be open to international authors writing in English; up until last year, it was solely a prize for writers from the UK commonwealth, Ireland, and Zimbabwe. The longlist is:

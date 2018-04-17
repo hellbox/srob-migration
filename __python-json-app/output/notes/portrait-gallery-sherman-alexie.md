@@ -1,8 +1,8 @@
 +++
 index = "-KI6DQoRjhAz2Yjsw45N"
-_sort_create_date = 1463631300
-_sort_last_updated = 1463672640
-_sort_publish_date = 1463691600
+sort_create_date = 1463631300
+sort_last_updated = 1463672640
+sort_publish_date = 1463691600
 create_date = "2016-05-18T21:15:00-07:00"
 publish_date = "2016-05-19T14:00:00-07:00"
 date = "2016-05-19T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463631179034/SRoB
 twitterauto = "It's @Sherman_Alexie in @studiochristine's Portrait Gallery!"
 facebookauto = "Hey look, Christine Larsen painted Sherman Alexie for this week's Portrait Gallery!"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

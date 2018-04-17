@@ -1,8 +1,8 @@
 +++
 index = "-Krlxh5cIyAjqdRuCWnR"
-_sort_create_date = 1503003060
-_sort_last_updated = 1503007140
-_sort_publish_date = 1503075000
+sort_create_date = 1503003060
+sort_last_updated = 1503007140
+sort_publish_date = 1503075000
 create_date = "2017-08-17T13:51:00-07:00"
 publish_date = "2017-08-18T09:50:00-07:00"
 date = "2017-08-18T09:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503002872462/apoc
 twitterauto = "@ciennam offers up her summer reading list for the apocalypse."
 facebookauto = "Why do people read cheery books in the summer? Don't they know there's an apocalypse going on? Cienna Madrid offers up a summer reading list for people who know the world is in deep trouble."
 make_image_tweet = "True"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna Madrid can help. Send your Help Desk Questions to advice@seattlereviewofbooks.com.</p>

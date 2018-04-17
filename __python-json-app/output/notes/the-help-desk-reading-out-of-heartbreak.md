@@ -1,8 +1,8 @@
 +++
 index = "-K_p2tJUSAudOV_WI9X-"
-_sort_create_date = 1483727640
-_sort_last_updated = 1483728120
-_sort_publish_date = 1483732440
+sort_create_date = 1483727640
+sort_last_updated = 1483728120
+sort_publish_date = 1483732440
 create_date = "2017-01-06T10:34:00-08:00"
 publish_date = "2017-01-06T11:54:00-08:00"
 date = "2017-01-06T11:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our literary advice column returns with a question from a lovelorn reader."
 facebookauto = "Our literary advice column returns from holiday break with a question from a lovelorn reader."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

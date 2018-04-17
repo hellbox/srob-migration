@@ -1,8 +1,8 @@
 +++
 index = "-L0DfWQf_FLjoDRSdZug"
-_sort_create_date = 1513148520
-_sort_last_updated = 1513148520
-_sort_publish_date = 1513194300
+sort_create_date = 1513148520
+sort_last_updated = 1513148520
+sort_publish_date = 1513194300
 create_date = "2017-12-12T23:02:00-08:00"
 publish_date = "2017-12-13T11:45:00-08:00"
 date = "2017-12-13T11:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "One day, robots will write books. And those books will likely sell pretty well."
 facebookauto = "One day, robots will write books. And those books will likely sell pretty well."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/technology"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 "The castle grounds snarled with a wave of magically magnified wind," the Harry Potter book begins. It continues,  

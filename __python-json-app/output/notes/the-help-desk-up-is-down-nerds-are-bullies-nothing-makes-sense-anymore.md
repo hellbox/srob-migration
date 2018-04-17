@@ -1,8 +1,8 @@
 +++
 index = "-KSw4ljWIs1FqAYtfblQ"
-_sort_create_date = 1475255640
-_sort_last_updated = 1475255820
-_sort_publish_date = 1475255640
+sort_create_date = 1475255640
+sort_last_updated = 1475255820
+sort_publish_date = 1475255640
 create_date = "2016-09-30T10:14:00-07:00"
 publish_date = "2016-09-30T10:14:00-07:00"
 date = "2016-09-30T10:14:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Thorny problem for advice columnist @ciennam: What happens when a nerd raises a bully? "
 facebookauto = "Here's a thorny problem for our advice columnist: A reader wanted to raise his son to be a nerd, but he turned out to be a nerdy bully instead. Isn't nerd culture supposed to create gentler, more empathetic humans?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/narnia", "tags/nerd"]
-authors_notes = ["authors/madeleine-lengle"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

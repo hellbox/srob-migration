@@ -1,8 +1,8 @@
 +++
 index = "-L2wtNv2hjPU7wGjeJ7r"
-_sort_create_date = 1516071360
-_sort_last_updated = 1516071360
-_sort_publish_date = 1516136160
+sort_create_date = 1516071360
+sort_last_updated = 1516071360
+sort_publish_date = 1516136160
 create_date = "2018-01-15T18:56:00-08:00"
 publish_date = "2018-01-16T12:56:00-08:00"
 date = "2018-01-16T12:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516071278468/jedi
 twitterauto = "Fanfic writers are saying the latest Star Wars movie is plagiarized from their work. That's nonsense."
 facebookauto = "Fanfic writers are saying the latest Star Wars movie is plagiarized from their work. That's nonsense."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/plagiarism", "tags/fan-fiction"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Look, I think fan fiction is a great thing. People have been writing fan fiction for as long as there's been stories — you could make a very compelling case for playwrights and poets telling multiple versions of the same stories as an early draft of fan fiction.

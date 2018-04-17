@@ -1,8 +1,8 @@
 +++
 index = "-JvzFTp3Pp6E721I5zmQ"
-_sort_create_date = 1438801560
-_sort_last_updated = 1438801680
-_sort_publish_date = 1438805160
+sort_create_date = 1438801560
+sort_last_updated = 1438801680
+sort_publish_date = 1438805160
 create_date = "2015-08-05T12:06:00-07:00"
 publish_date = "2015-08-05T13:06:00-07:00"
 date = "2015-08-05T13:06:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/meta", "tags/kuow", "tags/ross-reynolds"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Ross Reynolds interviewed me about this here website for his show *The Record* on KUOW and you can now [find it online right here](http://kuow.org/post/does-seattle-need-its-own-book-reviewing). 

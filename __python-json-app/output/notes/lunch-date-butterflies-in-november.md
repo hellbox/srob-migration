@@ -1,8 +1,8 @@
 +++
 index = "-JsTwz2nsCAbj0mtmzBs"
-_sort_create_date = 1435038360
-_sort_last_updated = 1437578940
-_sort_publish_date = 1435038360
+sort_create_date = 1435038360
+sort_last_updated = 1437578940
+sort_publish_date = 1435038360
 create_date = "2015-06-22T22:46:00-07:00"
 publish_date = "2015-06-22T22:46:00-07:00"
 date = "2015-06-22T22:46:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fiction", "tags/lunch-date"]
-authors_notes = ["authors/au\u00f0ur-ava-\u00f3lafsd\u00f3ttir"]
+notes_about = ""
 books = ["books/butterflies-in-november"]
 +++
 *(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)*

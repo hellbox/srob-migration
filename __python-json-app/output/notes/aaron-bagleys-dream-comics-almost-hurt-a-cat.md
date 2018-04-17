@@ -1,8 +1,8 @@
 +++
 index = "-L6_1cWEBlLGCWouTiyX"
-_sort_create_date = 1519966080
-_sort_last_updated = 1519966080
-_sort_publish_date = 1520013600
+sort_create_date = 1519966080
+sort_last_updated = 1519966080
+sort_publish_date = 1520013600
 create_date = "2018-03-01T20:48:00-08:00"
 publish_date = "2018-03-02T10:00:00-08:00"
 date = "2018-03-02T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519963517433/Almo
 twitterauto = "It's time for @aaronbaglady's Dream Comics!"
 facebookauto = "It's time for Aaron Bagley's Dream Comics!"
 make_image_tweet = "True"
-byline = ["writers/aaron-bagley"]
+notes_byline = ["writers/aaron-bagley"]
 tags_notes = ["tags/aaron-bagleys-dream-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image"><a href="/webhook-uploads/1519963474212/Almost%20Hurt%20a%20Cat%201.jpg" target="_blank">![](/webhook-uploads/1519963474212/Almost%20Hurt%20a%20Cat%201.jpg)</a></p>

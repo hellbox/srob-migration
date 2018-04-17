@@ -1,8 +1,8 @@
 +++
 index = "-K4xWb6H1jzrUFPluhfE"
-_sort_create_date = 1449509940
-_sort_last_updated = 1449509940
-_sort_publish_date = 1449522000
+sort_create_date = 1449509940
+sort_last_updated = 1449509940
+sort_publish_date = 1449522000
 create_date = "2015-12-07T09:39:00-08:00"
 publish_date = "2015-12-07T13:00:00-08:00"
 date = "2015-12-07T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're sponsored this week by the terrific @Gregg_Olsen. Read a full chapter from Now That She's Gone, right now!"
 facebookauto = "Gregg Olsen is our sponsor this week. You can read a full chapter from the second book in his Waterman/Stark series on the site all week. You won't regret it!"
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/gregg-olsen"]
+notes_about = ""
 books = ["books/now-that-shes-gone"]
 +++
 Escaped serial killers, wives behaving badly, psychics getting embroiled in police work, and all in our own back yard? Gregg Olsen brings it all in his second book in the Waterman/Stark series. 

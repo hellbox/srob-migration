@@ -1,8 +1,8 @@
 +++
 index = "-KXvprZq4f3z7I2HylBZ"
-_sort_create_date = 1480620180
-_sort_last_updated = 1480620480
-_sort_publish_date = 1480620180
+sort_create_date = 1480620180
+sort_last_updated = 1480620480
+sort_publish_date = 1480620180
 create_date = "2016-12-01T11:23:00-08:00"
 publish_date = "2016-12-01T11:23:00-08:00"
 date = "2016-12-01T11:23:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@Sherman_Alexie and @RealHughJackman are adapting Absolutely True Diary... into a film."
 facebookauto = "Seattle author Sherman Alexie is teaming up with Hugh Jackman to bring The Absolutely True Diary of a Part-Time Indian to cinemas."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/adaptation", "tags/movies"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ["books/absolutely-true-diary-of-a-part-time-indian"]
 +++
 The *Hollywood Reporter* [got the scoop](http://www.hollywoodreporter.com/news/hugh-jackman-fox-2000-team-ya-best-seller-absolutely-true-diary-a-part-time-indian-951763): Hugh Jackman and Fox 2000 are helping to bring Seattle author Sherman Alexie's popular YA novel *The Absolutely True Diary of a Part-Time Indian* to a theater near you. Alexie, who has directed films in the past, will write the screenplay for the adaptation. Jackman will also play a supporting role in the film. This is a big damn deal for a book that has demonstrated remarkable longevity with young readers. Hopefully, with Alexie's involvement, Fox and Jackman will do the book justice.

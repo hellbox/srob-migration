@@ -1,8 +1,8 @@
 +++
 index = "-K6imb4bz7FXZ4Ob6jVU"
-_sort_create_date = 1451410200
-_sort_last_updated = 1451410380
-_sort_publish_date = 1451418540
+sort_create_date = 1451410200
+sort_last_updated = 1451410380
+sort_publish_date = 1451418540
 create_date = "2015-12-29T09:30:00-08:00"
 publish_date = "2015-12-29T11:49:00-08:00"
 date = "2015-12-29T11:49:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "70 years after Adolf Hitler's death, Mein Kampf will be available in German bookstores."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [Galleycat says](http://www.adweek.com/galleycat/hitlers-mein-kampf-will-return-to-germany-after-70-year-ban/114309):

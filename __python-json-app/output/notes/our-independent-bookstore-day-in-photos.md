@@ -1,8 +1,8 @@
 +++
 index = "-Kj-vuRu3lobkY1P6XHx"
-_sort_create_date = 1493590560
-_sort_last_updated = 1493590560
-_sort_publish_date = 1493665260
+sort_create_date = 1493590560
+sort_last_updated = 1493590560
+sort_publish_date = 1493665260
 create_date = "2017-04-30T15:16:00-07:00"
 publish_date = "2017-05-01T12:01:00-07:00"
 date = "2017-05-01T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493590474556/IMG_
 twitterauto = "How was your #IndependentBookstoreDay? Here are some of the things we saw:"
 facebookauto = "How was your #IndependentBookstoreDay? Here are some of the things we saw:"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/independent-bookstores", "tags/university-book-store", "tags/third-place-books-ravenna", "tags/queen-anne-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Just a reminder that if you [follow the *Seattle Review of Books* on Instagram](https://www.instagram.com/seattlereviewof/), you'll find all sorts of photos of readings, events, and Little Free Libraries that you might not see here on the site. We'll be out and about on Free Comic Book Day this Saturday, too;  be sure and [follow us](https://www.instagram.com/seattlereviewof/) to keep up on the action.

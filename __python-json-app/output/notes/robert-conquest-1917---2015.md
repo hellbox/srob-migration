@@ -1,8 +1,8 @@
 +++
 index = "-JvymWlU4Q7w94qD3UWu"
-_sort_create_date = 1438793700
-_sort_last_updated = 1438826040
-_sort_publish_date = 1438800900
+sort_create_date = 1438793700
+sort_last_updated = 1438826040
+sort_publish_date = 1438800900
 create_date = "2015-08-05T09:55:00-07:00"
 publish_date = "2015-08-05T11:55:00-07:00"
 date = "2015-08-05T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/limericks", "tags/history", "tags/death"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [This *New York Times* obituary](http://www.nytimes.com/2015/08/05/arts/international/robert-conquest-historian-who-documented-soviet-horrors-dies-at-98.html?_r=0) for the Cold War historian makes him so easy to like. Conquest was a poet and a fan of science fiction, and he once responded to liberal criticism with a historical limerick:

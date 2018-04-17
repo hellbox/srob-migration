@@ -1,8 +1,8 @@
 +++
 index = "-JzZ-tsXKvQg9LnGFsh7"
-_sort_create_date = 1442639460
-_sort_last_updated = 1442640060
-_sort_publish_date = 1442678400
+sort_create_date = 1442639460
+sort_last_updated = 1442640060
+sort_publish_date = 1442678400
 create_date = "2015-09-18T22:11:00-07:00"
 publish_date = "2015-09-19T09:00:00-07:00"
 date = "2015-09-19T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our weekly round up of @rahawahaile's short story project is up, featuring @SarahPinsker, @cmaum and more."
 facebookauto = "Our weekly roundup of Rahawa Haile's Short Story of the Day project is up. A great way to spend a weekend morning, reading through some writers you may not know. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-stories", "tags/short-story-of-the-day"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the _SRoB_ Rahawa Haile tweets a short story. She gave us permission to collect them every week. She’s archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a></p>

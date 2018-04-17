@@ -1,8 +1,8 @@
 +++
 index = "-Ks9tjttA96oGaQ2m3Np"
-_sort_create_date = 1503421440
-_sort_last_updated = 1503421920
-_sort_publish_date = 1503421440
+sort_create_date = 1503421440
+sort_last_updated = 1503421920
+sort_publish_date = 1503421440
 create_date = "2017-08-22T10:04:00-07:00"
 publish_date = "2017-08-22T10:04:00-07:00"
 date = "2017-08-22T10:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Village Voice is ending its print publication. Things are getting bad out there for alt-weeklies."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/media"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Village Voice is ending its weekly print edition. End of a journalism era in New York City.</p>&mdash; Michael M. Grynbaum (@grynbaum) <a href="https://twitter.com/grynbaum/status/900035162683080704">August 22, 2017</a></blockquote>

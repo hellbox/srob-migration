@@ -1,8 +1,8 @@
 +++
 index = "-Kn5r4upUk_Bq0ioYMo1"
-_sort_create_date = 1497984900
-_sort_last_updated = 1497986760
-_sort_publish_date = 1497988500
+sort_create_date = 1497984900
+sort_last_updated = 1497986760
+sort_publish_date = 1497988500
 create_date = "2017-06-20T11:55:00-07:00"
 publish_date = "2017-06-20T12:55:00-07:00"
 date = "2017-06-20T12:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Now that Amazon owns brick-and-mortar stores, they're trying to stop customers from showrooming."
 facebookauto = "Irony of ironies: now that Amazon owns brick-and-mortar stores, they're trying to stop customers from showrooming."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon-books", "tags/showrooming"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Amazon grew its book business in large part due to showrooming: ask any bookseller and they'll tell you horror stories of customers flipping through books, looking the title up on Amazon, and buying the book on their phone just before leaving the bookstore empty-handed. 

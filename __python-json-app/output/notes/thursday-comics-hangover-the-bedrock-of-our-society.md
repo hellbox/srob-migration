@@ -1,8 +1,8 @@
 +++
 index = "-KPzjtaXK80QrgAl0cU6"
-_sort_create_date = 1472095800
-_sort_last_updated = 1472095800
-_sort_publish_date = 1472144400
+sort_create_date = 1472095800
+sort_last_updated = 1472095800
+sort_publish_date = 1472144400
 create_date = "2016-08-24T20:30:00-07:00"
 publish_date = "2016-08-25T10:00:00-07:00"
 date = "2016-08-25T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "There's a new Flintstones comic book. It's for adults. And it's pretty good?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/satire"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 You guys, I kind of hate myself for even writing this, but the new *Flintstones* comic book? 

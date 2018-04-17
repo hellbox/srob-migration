@@ -1,8 +1,8 @@
 +++
 index = "-KAn6odR1c-Q3p9zs56n"
-_sort_create_date = 1455777840
-_sort_last_updated = 1455810000
-_sort_publish_date = 1455817440
+sort_create_date = 1455777840
+sort_last_updated = 1455810000
+sort_publish_date = 1455817440
 create_date = "2016-02-17T22:44:00-08:00"
 publish_date = "2016-02-18T09:44:00-08:00"
 date = "2016-02-18T09:44:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455777569707/beve
 twitterauto = "Finally, someone made a comic book as impossible to ignore as bad television!"
 facebookauto = "Beverly is the creepiest, most banal comic book about lonely people living lonely lives that you'll ever read. It's like a Todd Solondz movie in cartoon form."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/drawn-&amp;-quarterly"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 ![](/webhook-uploads/1455777569707/beverly_drnaso.jpg)If you were to ask me to nominate one cartoonist to create a comic book adaptation of a Todd Solondz film, I would, without a second thought, choose Nick Drnaso. Like Solondz's films, the world in Drnaso’s new collection *Beverly* is ugly and mundane; unattractive Americans live their boring lives in bland surroundings — cut-rate hotel rooms, tract housing. Drnaso draws his figures with simple lines, often at the middle distance. He rarely employs close-ups; his characters lack detail or much by the way of physical nuance. It’s a kind of bland suburban hell.

@@ -1,8 +1,8 @@
 +++
 index = "-KYXfFCKQGyV2D8Mgz2i"
-_sort_create_date = 1481271720
-_sort_last_updated = 1481271720
-_sort_publish_date = 1481738340
+sort_create_date = 1481271720
+sort_last_updated = 1481271720
+sort_publish_date = 1481738340
 create_date = "2016-12-09T00:22:00-08:00"
 publish_date = "2016-12-14T09:59:00-08:00"
 date = "2016-12-14T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "There aren't many readings left in 2016. On December 14th, you'd better make your attendance count."
 facebookauto = "There aren't many readings left in 2016. On December 14th, you'd better make your attendance count."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We’re coming up on the end of the year, and the number of available literary events are rapidly declining. Don’t get me wrong — there are still plenty of readings between now and the end of the year, but this is the one time of year when literary-minded folks are not spoiled for choice: rather than three or four good options a day, Seattle’s readers readers are lucky to get one. This must be what it’s like living in basically every other city in America.

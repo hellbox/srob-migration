@@ -1,8 +1,8 @@
 +++
 index = "-L9f_7UuTQZkvw6Hp8RZ"
-_sort_create_date = 1523297040
-_sort_last_updated = 1523297040
-_sort_publish_date = 1523297040
+sort_create_date = 1523297040
+sort_last_updated = 1523297040
+sort_publish_date = 1523297040
 create_date = "2018-04-09T11:04:00-07:00"
 publish_date = "2018-04-09T11:04:00-07:00"
 date = "2018-04-09T11:04:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qxpd4owhCNwRdRgP2b-l4AORN62zaiuZQuwW8hJ1uabvZFklhcBdBbfCtnvGqEgA4qJTdM1bRTUnUqcVu2Q6p64uFFiM"
 url = "/webhook-uploads/1523296934427/91w7jchtIaL.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 610550
 
 review_relationship = ["reviews/take-this-sentence-for-example"]
-author_relationship = ["authors/jez-burrows"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

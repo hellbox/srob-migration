@@ -1,8 +1,8 @@
 +++
 index = "-K-PgcWYZQ628See2r97"
-_sort_create_date = 1443556860
-_sort_last_updated = 1443556920
-_sort_publish_date = 1443558720
+sort_create_date = 1443556860
+sort_last_updated = 1443556920
+sort_publish_date = 1443558720
 create_date = "2015-09-29T13:01:00-07:00"
 publish_date = "2015-09-29T13:32:00-07:00"
 date = "2015-09-29T13:32:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Science fiction awards are just as biased against the voices of women as literary fiction awards."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/feminism"]
-authors_notes = ["authors/nicola-griffith"]
+notes_about = ""
 books = ""
 +++
 This [post at Lady Business](http://ladybusiness.dreamwidth.org/2015/09/29/gender-discrimination-in-sff-awards.html) begins:

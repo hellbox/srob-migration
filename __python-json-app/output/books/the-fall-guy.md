@@ -1,8 +1,8 @@
 +++
 index = "-KXteiw-3SEwTkSizIG9"
-_sort_create_date = 1480583700
-_sort_last_updated = 1480583700
-_sort_publish_date = 1480583700
+sort_create_date = 1480583700
+sort_last_updated = 1480583700
+sort_publish_date = 1480583700
 create_date = "2016-12-01T01:15:00-08:00"
 publish_date = "2016-12-01T01:15:00-08:00"
 date = "2016-12-01T01:15:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/sPH0kBa2HfTiHqPY4RSrqTgS7tFyt_c-jiOLAsCQNAki0HouaQryxW1W6O9e6gn_BpPT3bwlBLr4RsZt1XkcmPAeNi5i6A"
 url = "/webhook-uploads/1480583668308/fallguy.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 41712
 
 review_relationship = ["reviews/a-journey-into-the-head-of-a-stalker"]
-author_relationship = ["authors/james-lasdun"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

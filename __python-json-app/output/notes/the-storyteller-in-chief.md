@@ -1,8 +1,8 @@
 +++
 index = "-KkUU9xEsIclxOAAN6fr"
-_sort_create_date = 1495176840
-_sort_last_updated = 1495427460
-_sort_publish_date = 1496253660
+sort_create_date = 1495176840
+sort_last_updated = 1495427460
+sort_publish_date = 1496253660
 create_date = "2017-05-18T23:54:00-07:00"
 publish_date = "2017-05-31T11:01:00-07:00"
 date = "2017-05-31T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495176778119/Reag
 twitterauto = "A documentary @SIFFNews focuses on the storytelling side of Ronald Reagan's presidency."
 facebookauto = "A documentary at SIFF focuses on the storytelling side of Ronald Reagan's presidency."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/siff"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1495176778119/ReaganShow.jpg)</p>

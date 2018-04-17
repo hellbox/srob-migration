@@ -1,8 +1,8 @@
 +++
 index = "-Ki8vFL4--nmACrIDWeX"
-_sort_create_date = 1492667640
-_sort_last_updated = 1492667640
-_sort_publish_date = 1492707240
+sort_create_date = 1492667640
+sort_last_updated = 1492667640
+sort_publish_date = 1492707240
 create_date = "2017-04-19T22:54:00-07:00"
 publish_date = "2017-04-20T09:54:00-07:00"
 date = "2017-04-20T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492666748117/batm
 twitterauto = "Ugh. Can someone explain this Batman comic to us?"
 facebookauto = "Ugh. Can someone explain the ending of this Batman comic to us?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics", "tags/dc-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Yesterday, I was planning to pick up the first issue of *Secret Empire*, the new Marvel Comics crossover. (Technically, it was issue #0; the first issue of *Secret Empire* — as in the issue marked "#1" — is due on May 3rd. If you're already confused, I apologize for what I'm about to put you through.) Every once in a while I like a big superhero crossover if it's handled well, and I enjoyed Nick Spencer's run on *Ant-Man* a while ago. Seemed worth a shot. But then I saw this tweet by Marvel editor Tom Brevoort:

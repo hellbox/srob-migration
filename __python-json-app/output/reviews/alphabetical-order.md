@@ -1,8 +1,8 @@
 +++
 index = "-L1pd9ZY2xWdDlDYvuSB"
-_sort_create_date = 1514875920
-_sort_last_updated = 1514915100
-_sort_publish_date = 1514922720
+sort_create_date = 1514875920
+sort_last_updated = 1514915100
+sort_publish_date = 1514922720
 create_date = "2018-01-01T22:52:00-08:00"
 publish_date = "2018-01-02T11:52:00-08:00"
 date = "2018-01-02T11:52:00-08:00"
@@ -13,10 +13,10 @@ title = "Alphabetical order"
 dek = "When Sue Grafton died last week, she left a remarkable series of books behind: complex but accessible, comprehensive yet entertaining. And her hero, Kinsey Millhone, is one of the liveliest private investigators you'll ever meet."
 facebookauto = "Sue Grafton's alphabet mysteries are a master class in how to write a great fictional series."
 twitterauto = "Sue Grafton's alphabet mysteries are a master class in how to write a great fictional series."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/d-is-for-deadbeat"]
 tags_reviews = ["tags/mystery", "tags/death"]
-authors_reviews = ["authors/sue-grafton"]
+reviews_about = ""
 +++
 
 When mystery author [Sue Grafton died at the end of December](https://www.washingtonpost.com/local/obituaries/sue-grafton-whose-alphabet-mysteries-became-best-sellers-dies-at-77/2017/12/29/395e95f0-ecd9-11e7-8a6a-80acf0774e64_story.html?utm_term=.0cbcadbe245c), she famously left her Alphabet Series of mysteries unfinished. The summer of 2017 saw the publication of the penultimate volume in the series — *Y Is for Yesterday* — and Grafton hadn’t even started writing *Z Is for Zero*, which she had always referred to as her final book. When announcing Grafton’s death, her daughter wrote that the series will remain unfinished: “As far as we in the family are concerned, the alphabet now ends at Y.”

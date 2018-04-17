@@ -1,8 +1,8 @@
 +++
 index = "-K3GHNfiNn4M4xGqMU0X"
-_sort_create_date = 1447693980
-_sort_last_updated = 1447694460
-_sort_publish_date = 1447782900
+sort_create_date = 1447693980
+sort_last_updated = 1447694460
+sort_publish_date = 1447782900
 create_date = "2015-11-16T09:13:00-08:00"
 publish_date = "2015-11-17T09:55:00-08:00"
 date = "2015-11-17T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"They felt the wind on the down of their necks\", is the start of our Tuesday poem, by @erinmalonepoet."
 facebookauto = "Erin Malone is the author of our Tuesday poem, Time Capsule. First line: \"They felt the wind on the down of their necks\""
 make_image_tweet = ""
-byline = ["writers/erin-malone"]
+notes_byline = ["writers/erin-malone"]
 tags_notes = ["tags/poetry", "tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 They felt the wind on the down of their necks.<br> 

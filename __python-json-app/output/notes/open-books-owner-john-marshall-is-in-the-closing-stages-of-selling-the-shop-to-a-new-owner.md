@@ -1,8 +1,8 @@
 +++
 index = "-KETJ_EVSXCLUqt_YgwK"
-_sort_create_date = 1459723800
-_sort_last_updated = 1459731120
-_sort_publish_date = 1459788600
+sort_create_date = 1459723800
+sort_last_updated = 1459731120
+sort_publish_date = 1459788600
 create_date = "2016-04-03T15:50:00-07:00"
 publish_date = "2016-04-04T09:50:00-07:00"
 date = "2016-04-04T09:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1459723184074/open
 twitterauto = "Open Books owner John Marshall is in the \"closing stages\" of selling the shop to a new owner"
 facebookauto = "Open Books owner John Marshall is in the \"closing stages\" of selling the shop to a new owner."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/open-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1459723221297/openbookssteens.jpg)</p>

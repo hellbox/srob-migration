@@ -1,8 +1,8 @@
 +++
 index = "-KWpWyCR704vTe3wEDvq"
-_sort_create_date = 1479440580
-_sort_last_updated = 1479442680
-_sort_publish_date = 1479440580
+sort_create_date = 1479440580
+sort_last_updated = 1479442680
+sort_publish_date = 1479440580
 create_date = "2016-11-17T19:43:00-08:00"
 publish_date = "2016-11-17T19:43:00-08:00"
 date = "2016-11-17T19:43:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pFy13Tl5Xp8GGKPs_e0SSAb58KjqpiFIywa4j9UlFRjTByw-RH4v19DMFPfr1MA_5CWDd3cHJNhJWnwA6pMV8PIx7XEf"
 url = "/webhook-uploads/1479442719782/INSIDE%20Cover.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 3020974
 
 review_relationship = ""
-author_relationship = ["authors/susan-marie-conrad"]
+books_author = ""
 sponsorships_book = ["sponsorships/inside-one-woman\u2019s-journey-though-the-inside-passage"]
 notes_relationship = ["notes/an-adventure-in-northwest-waters"]
 +++

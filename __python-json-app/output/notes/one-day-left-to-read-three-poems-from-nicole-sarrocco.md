@@ -1,8 +1,8 @@
 +++
 index = "-K4n-zFWYoFaUvJqGjd8"
-_sort_create_date = 1449333600
-_sort_last_updated = 1449340260
-_sort_publish_date = 1449349200
+sort_create_date = 1449333600
+sort_last_updated = 1449340260
+sort_publish_date = 1449349200
 create_date = "2015-12-05T08:40:00-08:00"
 publish_date = "2015-12-05T13:00:00-08:00"
 date = "2015-12-05T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our thanks to sponsor Chatwin Books. One day left to read three poems from Nicole Sarrocco. Don't miss out!"
 facebookauto = "One day left to read three poems from Nicole Sarrocco on the site, brought to you by sponsor Chatwin Books. Don't miss them!"
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/nicole-sarrocco"]
+notes_about = ""
 books = ["books/karate-bride"]
 +++
 We're so thrilled to have <a href="http://www.chatwinbooks.com/" title="Chatwin Books">Chatwin Books</a> as our sponsor these last two weeks. They're here to bring you Nicole Sarrocco's book of poetry _Karate Bride_ to make sure you're familiar with her her work -- her debut novel  <a href="http://www.chatwinbooks.com/shop/litbylightning"><em>Lit by Lightning</em></a> has just been released. 

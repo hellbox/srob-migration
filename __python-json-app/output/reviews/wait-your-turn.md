@@ -1,8 +1,8 @@
 +++
 index = "-KeCyXPy24iUwqiavXCm"
-_sort_create_date = 1488440640
-_sort_last_updated = 1488474420
-_sort_publish_date = 1488477000
+sort_create_date = 1488440640
+sort_last_updated = 1488474420
+sort_publish_date = 1488477000
 create_date = "2017-03-01T23:44:00-08:00"
 publish_date = "2017-03-02T09:50:00-08:00"
 date = "2017-03-02T09:50:00-08:00"
@@ -13,10 +13,10 @@ title = "Wait your turn"
 dek = "Arlie Russell Hochschild went to Louisiana to uncover what Republican voters really think. What she found there might just help us figure out how to bring the country closer together."
 facebookauto = "Strangers In Their Own Land contains at least one solid epiphany on the red-state/blue-state divide."
 twitterauto = "Strangers In Their Own Land contains at least one solid epiphany on the red-state/blue-state divide."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/strangers-in-their-own-land"]
 tags_reviews = ["tags/reading-through-it", "tags/politics"]
-authors_reviews = ["authors/arlie-russell-hochschild"]
+reviews_about = ""
 +++
 
 It’s not often that I find an epiphany in a book. Sure, books deepen my understanding and broaden my perspective, but an out-and-out epiphany? A miraculous moment in which the fog clears and my vision focuses on something new? That’s a rare thing.  Arlie Russell Hochschild’s *Strangers in Their Own Land* delivered such a new insight to me, and it’s on a topic I’ve been batting around in my head for months — maybe years.

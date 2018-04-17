@@ -1,8 +1,8 @@
 +++
 index = "-KITTdge9rMGFFdE-_XT"
-_sort_create_date = 1464021420
-_sort_last_updated = 1464033900
-_sort_publish_date = 1464033600
+sort_create_date = 1464021420
+sort_last_updated = 1464033900
+sort_publish_date = 1464033600
 create_date = "2016-05-23T09:37:00-07:00"
 publish_date = "2016-05-23T13:00:00-07:00"
 date = "2016-05-23T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor Seattle7Writers wants you to eat brunch with a bunch of writers. This is gonna be awesome."
 facebookauto = "Sponsor Seattle7Writers wants you to eat brunch with a bunch of writers. This is gonna be awesome."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor <a href="http://www.seattle7writers.org" title="Seattle7Writers - Home">Seattle7Writers</a> is throwing a Bookish Brunch on June 5th, and you're invited! This one is extra special: not only is their a keynote from Deb Caletti, but there will be writers at every table for good conversation. Get <a href="http://seattlereviewofbooks.com/sponsorships" title="The Seattle Review of Books - sponsorships">all the details on our sponsor's page</a>. 

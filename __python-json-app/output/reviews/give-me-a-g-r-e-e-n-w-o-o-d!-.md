@@ -1,8 +1,8 @@
 +++
 index = "-KEda6p05Rf-S-g_1rRf"
-_sort_create_date = 1459912980
-_sort_last_updated = 1459918320
-_sort_publish_date = 1459969200
+sort_create_date = 1459912980
+sort_last_updated = 1459918320
+sort_publish_date = 1459969200
 create_date = "2016-04-05T20:23:00-07:00"
 publish_date = "2016-04-06T12:00:00-07:00"
 date = "2016-04-06T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Give me a G-R-E-E-N-W-O-O-D! "
 dek = "All of Greenwood has come together to make a book about Greenwood to aid in rebuilding Greenwood. Bonnie J. Rough has our look inside."
 facebookauto = "The Greater Seattle Bureau of Fearless Ideas has published it's Encyclopedia Greenwoodia, just in time to aid some of those who lost their businesses in the huge gas explosion. Author, and Greenwood resident, Bonnie J. Rough gives us a look inside. "
 twitterauto = "Author @BonnieJRough brings the local angle to @fearless_ideas new Encyclopedia Greenwoodia. "
-byline = ["writers/bonnie-j-rough"]
+reviews_byline = ["writers/bonnie-j-rough"]
 books_in_this_review = ["books/encyclopedia-greenwoodia"]
 tags_reviews = ""
-authors_reviews = ""
+reviews_about = ""
 +++
 
 Every good story gets the timing right. In the case of the brand-new _Encyclopedia Greenwoodia_ &mdash; a collection of prose, poetry, and images by, for, and about Seattle’s Greenwood neighborhood &mdash; timing _is_ the story. 

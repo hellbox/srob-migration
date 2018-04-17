@@ -1,8 +1,8 @@
 +++
 index = "-KnrfRwqKIOxcii6Mtyj"
-_sort_create_date = 1498803960
-_sort_last_updated = 1499099880
-_sort_publish_date = 1499112000
+sort_create_date = 1498803960
+sort_last_updated = 1499099880
+sort_publish_date = 1499112000
 create_date = "2017-06-29T23:26:00-07:00"
 publish_date = "2017-07-03T13:00:00-07:00"
 date = "2017-07-03T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://lh3.googleusercontent.com/oYkFw8ALR4Fgkw_9ggz9kFdh3E5Ed7t0e
 twitterauto = "We've just opened sponsorship dates through the end of the year. Move fast and get the pick of the litter."
 facebookauto = "We've just opened sponsorship dates through the end of the year. Move fast and get the pick of the litter."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ""
-authors_notes = ["authors/you"]
+notes_about = ""
 books = ["books/the-sponsorship"]
 +++
 <p class="image-left">![](/webhook-uploads/1499099932962/sponsorship-by-you-small.jpg)</p>

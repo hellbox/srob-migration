@@ -1,8 +1,8 @@
 +++
 index = "-KOrnnnf0CkbfazmCnGX"
-_sort_create_date = 1470888840
-_sort_last_updated = 1470888840
-_sort_publish_date = 1470934800
+sort_create_date = 1470888840
+sort_last_updated = 1470888840
+sort_publish_date = 1470934800
 create_date = "2016-08-10T21:14:00-07:00"
 publish_date = "2016-08-11T10:00:00-07:00"
 date = "2016-08-11T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470887997311/The-
 twitterauto = "We can't get over how good @JHickman's The Black Monday Murders is."
 facebookauto = "The Black Monday Murders imagines that a super-rich cabal of Americans are using black magic to control the stock market. So, based on a true story?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/image-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Midway through the first issue of *The Black Monday Murders*, a master of finance lectures a class full of eager young geniuses who are about to enter the stock market. He asks them, “you want real advice? Here it is. The first million dollars you make is self-financed. You earn it with your blood. The cost is your health, your family, your friends. You pay, understand?” It’s not quite as splashy as Gordon Gekko’s “greed is good” monologue from *Wall Street*, but it’s a speech that resonates with the same kind of honesty.

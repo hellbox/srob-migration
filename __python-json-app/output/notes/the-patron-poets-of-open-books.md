@@ -1,8 +1,8 @@
 +++
 index = "-KG9UGr5Bz8vqNbGbVAl"
-_sort_create_date = 1461538560
-_sort_last_updated = 1461561360
-_sort_publish_date = 1461603360
+sort_create_date = 1461538560
+sort_last_updated = 1461561360
+sort_publish_date = 1461603360
 create_date = "2016-04-24T15:56:00-07:00"
 publish_date = "2016-04-25T09:56:00-07:00"
 date = "2016-04-25T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461537980601/shel
 twitterauto = "And the two Northwest poets who best reflect the nature of Open Books are..."
 facebookauto = "We asked Open Books owner John Marshall to choose a few books that perfectly reflected the character of his store. Here are the books he chose:"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/open-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sometimes when I’m feeling saucy, I’ll ask a bookstore owner to choose a book or two to represent their store. It’s a hard question to answer: how is it possible to reflect the character, staffing, and stock of an entire bookstore with a single book? It’s a question that has broken some booksellers; they shrug, or name a dozen books, or promise to get back to me and never do.

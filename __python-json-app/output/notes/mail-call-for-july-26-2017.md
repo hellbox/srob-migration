@@ -1,8 +1,8 @@
 +++
 index = "-Kq1QUFALciW3_1AufvO"
-_sort_create_date = 1501131780
-_sort_last_updated = 1501131780
-_sort_publish_date = 1501131780
+sort_create_date = 1501131780
+sort_last_updated = 1501131780
+sort_publish_date = 1501131780
 create_date = "2017-07-26T22:03:00-07:00"
 publish_date = "2017-07-26T22:03:00-07:00"
 date = "2017-07-26T22:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501131797038/IMG_
 twitterauto = "Look at this great Mail Call stack!"
 facebookauto = "Mail Call!"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1501131797038/IMG_6764.jpg)</p>

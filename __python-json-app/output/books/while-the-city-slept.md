@@ -1,8 +1,8 @@
 +++
 index = "-K9KC1V3OW1SCqB4UCbV"
-_sort_create_date = 1454202120
-_sort_last_updated = 1454202600
-_sort_publish_date = 1454202120
+sort_create_date = 1454202120
+sort_last_updated = 1454202600
+sort_publish_date = 1454202120
 create_date = "2016-01-30T17:02:00-08:00"
 publish_date = "2016-01-30T17:02:00-08:00"
 date = "2016-01-30T17:02:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Psychology"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/deOg5JTjvRwNbN6RHdiCR88wh9FLtoFxTJal8TSRGS8gI8tD4lmRwjINBvMoj6HwJ3AV-JrE3JvYGfpPhr19l_ZVwGO2"
 url = "/webhook-uploads/1454202574500/static1.squarespace.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 173400
 
 review_relationship = ["reviews/uncommitted"]
-author_relationship = ["authors/eli-sanders"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-february-1st-7th", "notes/the-idea-was-to-learn-a-lot-more-about-the-paths-of-all-three-of-the-people-whose-lives-intersected-that-night", "notes/book-news-roundup-a-new-reading-series-a-contest-for-young-writers-and-the-end-of-bookslut", "notes/2017-washington-state-book-awards-finalists-announced"]
 +++

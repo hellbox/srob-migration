@@ -1,8 +1,8 @@
 +++
 index = "-L8cylVsFMViGyEnW5Jo"
-_sort_create_date = 1522179660
-_sort_last_updated = 1522179660
-_sort_publish_date = 1522357200
+sort_create_date = 1522179660
+sort_last_updated = 1522179660
+sort_publish_date = 1522357200
 create_date = "2018-03-27T12:41:00-07:00"
 publish_date = "2018-03-29T14:00:00-07:00"
 date = "2018-03-29T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480620016897/SRoB
 twitterauto = "Portrait Gallery: Literary Giant Charles Johnson #WordWorks @HugoHouse tonight! #illustration @studiochristine "
 facebookauto = "Portrait Gallery: Charles Johnson"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/charles-johnson"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

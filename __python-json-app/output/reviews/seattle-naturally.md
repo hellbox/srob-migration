@@ -1,8 +1,8 @@
 +++
 index = "-L2JgFqhydJRUqC9RLiW"
-_sort_create_date = 1515396840
-_sort_last_updated = 1515396840
-_sort_publish_date = 1515527700
+sort_create_date = 1515396840
+sort_last_updated = 1515396840
+sort_publish_date = 1515527700
 create_date = "2018-01-07T23:34:00-08:00"
 publish_date = "2018-01-09T11:55:00-08:00"
 date = "2018-01-09T11:55:00-08:00"
@@ -13,10 +13,10 @@ title = "Seattle, naturally"
 dek = "It's easy to think of cities and nature as two opposing forces, but Adrienne Ross Scanlan reminds us that Seattle is nature and a city, and you can't have the one without the other."
 facebookauto = "Nature isn't separate from Seattle; it's in Seattle, throughout it, and an essential part of it."
 twitterauto = "Nature isn't separate from Seattle; it's in Seattle, throughout it, and an essential part of it."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/turning-homeward"]
 tags_reviews = ""
-authors_reviews = ["authors/adrienne-ross-scanlan"]
+reviews_about = ""
 +++
 
 This might sound misanthropic, but it’s true: Some of the best nature writing that I’ve ever read is about cities. Edward Abbey — the shaggy, problematic voice of 1970s environmental activism — wrote fondly about New York City in such a way that you’d want to divide your time, as he did, between the city and the desert. He embraced the metropolis and celebrated its artificiality even as he cautiously guarded the natural peace of the desert, and he saw no hypocrisy in loving both.

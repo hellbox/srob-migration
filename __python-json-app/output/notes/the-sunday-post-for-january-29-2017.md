@@ -1,8 +1,8 @@
 +++
 index = "-KbblIJSKCaH5HUmrqVo"
-_sort_create_date = 1485652140
-_sort_last_updated = 1485652500
-_sort_publish_date = 1485711000
+sort_create_date = 1485652140
+sort_last_updated = 1485652500
+sort_publish_date = 1485711000
 create_date = "2017-01-28T17:09:00-08:00"
 publish_date = "2017-01-29T09:30:00-08:00"
 date = "2017-01-29T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485652117063/marc
 twitterauto = "Sunday Post is up! Racing the refugee ban, @kevinjameswong on Peanuts' Marcie, & space law turns 50."
 facebookauto = "In this week's Sunday Post: racing the refugee ban, a character study of Peanuts' Marcie, and celebrating the Outer Space Treaty's golden anniversary."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[A Yazidi refugee, stranded at the airport by Trump](http://www.newyorker.com/news/news-desk/a-yazidi-refugee-stranded-at-the-airport-by-trump)</h5>

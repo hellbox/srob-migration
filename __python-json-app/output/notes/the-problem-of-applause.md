@@ -1,8 +1,8 @@
 +++
 index = "-K1rRwU6C5DRq0T8VfRE"
-_sort_create_date = 1446186780
-_sort_last_updated = 1446186780
-_sort_publish_date = 1446186780
+sort_create_date = 1446186780
+sort_last_updated = 1446186780
+sort_publish_date = 1446186780
 create_date = "2015-10-29T23:33:00-07:00"
 publish_date = "2015-10-29T23:33:00-07:00"
 date = "2015-10-29T23:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446185267978/betw
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-arts-and-lectures", "tags/mccaw-hall"]
-authors_notes = ["authors/ta-nehisi-coates"]
+notes_about = ""
 books = ["books/between-the-world-and-me"]
 +++
 A few weeks ago, Facebook made news with some gossip that the site was trying to find a more nuanced way to respond to posts than simply “Liking” everything. The thinking, supposedly, was that it is inappropriate to “Like” a post announcing a loved one’s death, and people would prefer some other wordless way to show support. This was presented in the media as a novel problem, one created by the relatively new innovation that is Facebook.

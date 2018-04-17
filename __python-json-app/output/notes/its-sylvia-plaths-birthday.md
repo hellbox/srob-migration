@@ -1,8 +1,8 @@
 +++
 index = "-K1enBJEv6RYnhb1iQyI"
-_sort_create_date = 1445974500
-_sort_last_updated = 1445974500
-_sort_publish_date = 1445975100
+sort_create_date = 1445974500
+sort_last_updated = 1445974500
+sort_publish_date = 1445975100
 create_date = "2015-10-27T12:35:00-07:00"
 publish_date = "2015-10-27T12:45:00-07:00"
 date = "2015-10-27T12:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/feminism"]
-authors_notes = ["authors/sylvia-plath", "authors/kate-zambreno"]
+notes_about = ""
 books = ["books/heroines"]
 +++
 Had she lived, Sylvia Plath would have been 83 years old today. If you're in the mood, maybe stop by [this Brainpickings post](https://www.brainpickings.org/2014/10/27/sylvia-plath-reads-the-disquieting-muses-bbc/) and listen to Plath share her thoughts on poetry. As for me, it's a sad occasion; I tend to spend the day thinking about all the work that never made it to the page. 

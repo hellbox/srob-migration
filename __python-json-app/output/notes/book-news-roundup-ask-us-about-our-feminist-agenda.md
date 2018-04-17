@@ -1,8 +1,8 @@
 +++
 index = "-KVM3v7RlG9UqLHfA2sW"
-_sort_create_date = 1477855860
-_sort_last_updated = 1477939860
-_sort_publish_date = 1477940460
+sort_create_date = 1477855860
+sort_last_updated = 1477939860
+sort_publish_date = 1477940460
 create_date = "2016-10-30T12:31:00-07:00"
 publish_date = "2016-10-31T12:01:00-07:00"
 date = "2016-10-31T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup wants you to ask us about our feminist agenda."
 facebookauto = "\"The Last Bookstore in the Bronx\" sounds like a pretty good title for a movie, and \"ask me about my feminist agenda\" sounds like a pretty good anti-troll rallying cry."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/troll", "tags/hugo-house", "tags/feminism"]
-authors_notes = ["authors/chelsea-cain"]
+notes_about = ""
 books = ""
 +++
 * This is a neat idea: Alexander Chee is taking over the [Hugo House's Instagram feed](https://www.instagram.com/hugohouse/) this week to provide teasers of the story he'll be reading at the House's [Literary Series event](https://hugohouse.org/event/lit-series-alexander-chee-kirstin-valdez-quade-mattilda-bernstein-sycamore/) this Friday.

@@ -1,8 +1,8 @@
 +++
 index = "-Kv2xJpgj5jqdYG6HFbf"
-_sort_create_date = 1506526140
-_sort_last_updated = 1506542220
-_sort_publish_date = 1506542220
+sort_create_date = 1506526140
+sort_last_updated = 1506542220
+sort_publish_date = 1506542220
 create_date = "2017-09-27T08:29:00-07:00"
 publish_date = "2017-09-27T12:57:00-07:00"
 date = "2017-09-27T12:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "When it comes to romance, Robert Gottlieb is obviously wiping the little hearts from his eyes, says @O_Waite"
 facebookauto = "When it comes to romance, Robert Gottlieb is obviously wiping the little hearts from his eyes, says Olivia Waite."
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/romance"]
-authors_notes = ["authors/robert-gottlieb"]
+notes_about = ""
 books = ""
 +++
 Respected editor Robert Gottlieb has written 3000 words of a <a href="https://mobile.nytimes.com/2017/09/26/books/review/macomber-steel-james-romance.html">romance roundup</a> for the <em>New York Times</em>. Let me save you some trouble and quote this bit from the end: &#8220;Its readership is vast, its satisfactions apparently limitless, its profitability incontestable. And its effect? Harmless, I would imagine. Why shouldn’t women dream?&#8221;

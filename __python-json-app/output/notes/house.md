@@ -1,8 +1,8 @@
 +++
 index = "-KXi8JLNTh-znhk6hTRU"
-_sort_create_date = 1480390380
-_sort_last_updated = 1480390740
-_sort_publish_date = 1480442100
+sort_create_date = 1480390380
+sort_last_updated = 1480390740
+sort_publish_date = 1480442100
 create_date = "2016-11-28T19:33:00-08:00"
 publish_date = "2016-11-29T09:55:00-08:00"
 date = "2016-11-29T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Tuesday Poem is from @buddy_and_buddy, and is titled \"House\""
 facebookauto = "The Tuesday Poem is from Jeanine Walker, and is titled \"House\""
 make_image_tweet = "False"
-byline = ["writers/jeanine-walker"]
+notes_byline = ["writers/jeanine-walker"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 &mdash; _after Alison Prine_

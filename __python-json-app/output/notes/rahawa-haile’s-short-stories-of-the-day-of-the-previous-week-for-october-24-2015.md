@@ -1,8 +1,8 @@
 +++
 index = "-K1NFpZJiVEQrSpr0EDv"
-_sort_create_date = 1445663520
-_sort_last_updated = 1445663520
-_sort_publish_date = 1445702400
+sort_create_date = 1445663520
+sort_last_updated = 1445663520
+sort_publish_date = 1445702400
 create_date = "2015-10-23T22:12:00-07:00"
 publish_date = "2015-10-24T09:00:00-07:00"
 date = "2015-10-24T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the SRoB Rahawa Haile tweets a short story. She gave us permission to collect them every week. She's archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a></p>

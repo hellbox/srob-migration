@@ -1,8 +1,8 @@
 +++
 index = "-KXthfd14EGOTX98gT73"
-_sort_create_date = 1480584480
-_sort_last_updated = 1480970160
-_sort_publish_date = 1480967160
+sort_create_date = 1480584480
+sort_last_updated = 1480970160
+sort_publish_date = 1480967160
 create_date = "2016-12-01T01:28:00-08:00"
 publish_date = "2016-12-05T11:46:00-08:00"
 date = "2016-12-05T11:46:00-08:00"
@@ -13,10 +13,10 @@ title = "A journey into the head of a stalker"
 dek = "What happens when an author who has written a book about being stalked then goes on to write a thriller about a stalker?"
 facebookauto = "James Lasdun's latest book is a whip-smart thriller. But is genre just genre when you know it reflects the horrifying real-life experiences of the author."
 twitterauto = "What happens when an author who has written about being stalked then goes on to write a thriller about a stalker?"
-byline = ["writers/alex-gallo-brown"]
+reviews_byline = ["writers/alex-gallo-brown"]
 books_in_this_review = ["books/the-fall-guy", "books/give-me-everything-you-have"]
 tags_reviews = ["tags/novel", "tags/genre", "tags/thriller", "tags/memoir"]
-authors_reviews = ["authors/james-lasdun"]
+reviews_about = ""
 +++
 
 There are fewer greater pleasures in literature than watching a serious writer of fiction wade into the denigrated waters of genre and emerge with something exquisitely written yet propulsively entertaining all at the same time. Yes, Graham Greene produced enduring novels about British colonialism, but were any of them better than *Brighton Rock*, a tale of a gang war in a resort town in southern England just before World War II? I deeply love Denis Johnson’s *Angels* and *Jesus’ Son*, but try putting down *Nobody Move*, his gritty hardboiled noir, before you’ve read through to the last page. And then there are those writers like Patricia Highsmith and Richard Price who made careers out of smuggling sophisticated literary themes into the ostensibly anodyne forms of detective novels or murder mysteries.

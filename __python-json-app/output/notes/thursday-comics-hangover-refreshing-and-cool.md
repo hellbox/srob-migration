@@ -1,8 +1,8 @@
 +++
 index = "-K05Khi-9UitDSHrzq4R"
-_sort_create_date = 1444289100
-_sort_last_updated = 1444289100
-_sort_publish_date = 1444330860
+sort_create_date = 1444289100
+sort_last_updated = 1444289100
+sort_publish_date = 1444330860
 create_date = "2015-10-08T00:25:00-07:00"
 publish_date = "2015-10-08T12:01:00-07:00"
 date = "2015-10-08T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "You guys, forget about the Marvel relaunches; the new Archie series keeps getting better and better."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/archie", "tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I couldn't make it to the comic book store last night because I was too busy celebrating at the launch party for *California Four O'Clock*, the debut novel from *Seattle Review of Books* co-founder Martin McClellan. It was a big new comics Wednesday to miss; a ton of Marvel Comics relaunched yesterday with all-new first issues and status quos, including *Spider-Man*, *Iron Man*, and *Doctor Strange*. Of those three, the only one that I'm at all interested in is *Doctor Strange*; writer Jason Aaron is often pretty good, and artist Chris Bachalo's noodly illustrations seem perfect for the baroqueness of the character as created by Steve Ditko. *Spider-Man* has been devalued in recent years by too many iterations of the same character — Marvel Comics will soon be publishing a ongoing comic book starring Spider-Men (and -Women) from across multiple dimensions, watering the brand down even further — and *Iron Man* is now written by Brian Michael Bendis, who has stretched himself way too thin in recent years.

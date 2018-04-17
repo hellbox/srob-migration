@@ -1,8 +1,8 @@
 +++
 index = "-K-WpC1fViR18s9p_v9N"
-_sort_create_date = 1443676560
-_sort_last_updated = 1443676680
-_sort_publish_date = 1443676560
+sort_create_date = 1443676560
+sort_last_updated = 1443676680
+sort_publish_date = 1443676560
 create_date = "2015-09-30T22:16:00-07:00"
 publish_date = "2015-09-30T22:16:00-07:00"
 date = "2015-09-30T22:16:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/EnJjb7ripu6Ns---BPXMtxw8ubsIEG2hbt5_WAuckQf3bNlootay6FmIpsv7CTynPE2T00qPKQ_2iKA50iUSP6m5CY1h"
 url = "/webhook-uploads/1443676659992/9781594634475.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 35957
 
 review_relationship = ["reviews/make-it-hurt-so-good"]
-author_relationship = ["authors/lauren-groff"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

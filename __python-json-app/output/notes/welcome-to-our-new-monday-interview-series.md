@@ -1,8 +1,8 @@
 +++
 index = "-K_zwRo9RYhNWlsiU5qW"
-_sort_create_date = 1483910220
-_sort_last_updated = 1483910220
-_sort_publish_date = 1483985400
+sort_create_date = 1483910220
+sort_last_updated = 1483910220
+sort_publish_date = 1483985400
 create_date = "2017-01-08T13:17:00-08:00"
 publish_date = "2017-01-09T10:10:00-08:00"
 date = "2017-01-09T10:10:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're excited to bring you a new interview with every Monday in 2017."
 facebookauto = "We're excited to bring you a new interview with every Monday in 2017."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We've made a few changes with our weekly columns in 2017. You seem like [our new Poet in Residence program](http://www.seattlereviewofbooks.com/notes/2017/01/03/introducing-our-new-poet-in-residence-program/) on Tuesdays. I love the [Saturday Seattle Writing Prompts](http://www.seattlereviewofbooks.com/notes/2017/01/07/seattle-writing-prompt-the-pyramid-atop-the-skyscraper/) that Martin has on tap.

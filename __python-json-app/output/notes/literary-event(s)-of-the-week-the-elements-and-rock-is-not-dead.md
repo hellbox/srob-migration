@@ -1,8 +1,8 @@
 +++
 index = "-KTtrUaxOnZCed6Z7a0l"
-_sort_create_date = 1476292080
-_sort_last_updated = 1476292080
-_sort_publish_date = 1476896700
+sort_create_date = 1476292080
+sort_last_updated = 1476292080
+sort_publish_date = 1476896700
 create_date = "2016-10-12T10:08:00-07:00"
 publish_date = "2016-10-19T10:05:00-07:00"
 date = "2016-10-19T10:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This Saturday, you've got two great comics parties to choose from."
 facebookauto = "This Saturday, you'll have to choose between two great comics parties."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1476292089278/Screen%20Shot%202016-10-12%20at%2010.07.24%20AM.png)</p>

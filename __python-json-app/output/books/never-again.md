@@ -1,8 +1,8 @@
 +++
 index = "-Jwz6xlBH25-SxdtP64S"
-_sort_create_date = 1439873040
-_sort_last_updated = 1439915580
-_sort_publish_date = 1439873040
+sort_create_date = 1439873040
+sort_last_updated = 1439915580
+sort_publish_date = 1439873040
 create_date = "2015-08-17T21:44:00-07:00"
 publish_date = "2015-08-17T21:44:00-07:00"
 date = "2015-08-17T21:44:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/n9_fktLq8MJSQBSQ1fVsWFoDNZq8LP09Vda8A9RcTtMakCp5ROWNDS08cbITRu3atLjbq2NAnQ8WROYumqUP3FkNAdhstg"
 url = "/webhook-uploads/1439873049164/9780971248564.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 10657
 
 review_relationship = ""
-author_relationship = ["authors/doug-nufer"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero"]
 +++

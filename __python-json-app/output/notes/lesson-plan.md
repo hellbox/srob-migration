@@ -1,8 +1,8 @@
 +++
 index = "-L2JDlTncSuXzwiZXTbV"
-_sort_create_date = 1515389100
-_sort_last_updated = 1515389400
-_sort_publish_date = 1515520500
+sort_create_date = 1515389100
+sort_last_updated = 1515389400
+sort_publish_date = 1515520500
 create_date = "2018-01-07T21:25:00-08:00"
 publish_date = "2018-01-09T09:55:00-08:00"
 date = "2018-01-09T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515389417830/Scre
 twitterauto = "Our second, from Poet in Residence Kevin Craft, is titled \"Lesson Plan\""
 facebookauto = "Our second, from Poet in Residence Kevin Craft, is titled \"Lesson Plan\""
 make_image_tweet = "False"
-byline = ["writers/kevin-craft"]
+notes_byline = ["writers/kevin-craft"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Let’s practice getting under the desk.<br>

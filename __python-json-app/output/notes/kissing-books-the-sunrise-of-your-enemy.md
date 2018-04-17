@@ -1,8 +1,8 @@
 +++
 index = "-KtHUzn42Qc--ihEd-q4"
-_sort_create_date = 1504622640
-_sort_last_updated = 1504623540
-_sort_publish_date = 1504810800
+sort_create_date = 1504622640
+sort_last_updated = 1504623540
+sort_publish_date = 1504810800
 create_date = "2017-09-05T07:44:00-07:00"
 publish_date = "2017-09-07T12:00:00-07:00"
 date = "2017-09-07T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504623273429/side
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/kissing-books"]
-authors_notes = ["authors/carsen-taite", "authors/alisha-rai", "authors/jasmine-gower", "authors/beverly-jenkins", "authors/tessa-dare"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">New column! Every month, Olivia Waite pulls back the covers, revealing the very best in new and classic romance. We’re extending a hand to you. Won’t you take it?</p>

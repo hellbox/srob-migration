@@ -1,8 +1,8 @@
 +++
 index = "-L34hhp2x4DQ8YIapTdS"
-_sort_create_date = 1516219320
-_sort_last_updated = 1516219320
-_sort_publish_date = 1516224000
+sort_create_date = 1516219320
+sort_last_updated = 1516219320
+sort_publish_date = 1516224000
 create_date = "2018-01-17T12:02:00-08:00"
 publish_date = "2018-01-17T13:20:00-08:00"
 date = "2018-01-17T13:20:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes a city councilmember's most influential book and @SPLBuzz getting nerdy."
 facebookauto = "Today's Book News Roundup includes a city councilmember's most influential book and the Seattle Public Library getting nerdy with comics education programming."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * If you follow comics in Seattle, you probably know about Dune Night, the comics jam that happened regularly at Cafe Racer. Since the future of Cafe Racer is in doubt, Dune Night has been on hiatus. But there's no room for a hiatus in our hearts! Tomorrow night, [the Leary Traveler in Ballard presents an art show of some of the best Dune Night pieces](http://www.laskycomics.com/blog/2018/1/14/the-dune-art-show) from 6 to 9. Expect many Duners (Duniacs? Dunes and Dunettes? Artists who have created work at Dune Night?) to be in attendance. The show will be up at Leary Traveler for at least a month.

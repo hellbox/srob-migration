@@ -1,8 +1,8 @@
 +++
 index = "-KA8mQfZjPhNU4W9R0wq"
-_sort_create_date = 1455084360
-_sort_last_updated = 1455130920
-_sort_publish_date = 1455127260
+sort_create_date = 1455084360
+sort_last_updated = 1455130920
+sort_publish_date = 1455127260
 create_date = "2016-02-09T22:06:00-08:00"
 publish_date = "2016-02-10T10:01:00-08:00"
 date = "2016-02-10T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455083530050/1262
 twitterauto = "Meet @UsedbuyerBrad from our bookstore of the month, @ubookstorereads."
 facebookauto = "The bookseller from this month's Bookstore of the Month learned to love reading thanks to bodice-ripping romances he bought at yard sales. \"They looked like classics to me,\u201d he says. The women on the covers \u201cwere in historical  costumes,\u201d"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/used-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Brad Craft, the used book buyer at [University Book Store](http://seattlereviewofbooks.com/notes/2016/02/03/join-us-in-celebrating-our-february-bookstore-of-the-month-university-book-store/), says he “didn’t grow up in a bookish atmosphere” — he didn’t have access to a good library, and none of his teachers introduced him to the joys of literature. Where did he learn to love books? “Yard sales,” he says. He was especially drawn to a certain type of book: “I’ve read more gothic romance novels than most men my age,”  Craft explains. He assumed the bodice-rippers that he bought from his neighbors were classics of literature. “They looked like classics to me,” he says. The women on the covers “were in historical  costumes,” after all, just maybe with a little more cleavage than you’d find on the cover of your typical Bronte book. For a long time, Craft says, “I couldn’t tell you the difference between a novelization of *Airport ’77* and a Jane Austen novel.” 

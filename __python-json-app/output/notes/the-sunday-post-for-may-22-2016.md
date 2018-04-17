@@ -1,8 +1,8 @@
 +++
 index = "-KIODVDQ1J2dd6pxlTJX"
-_sort_create_date = 1463933280
-_sort_last_updated = 1463935800
-_sort_publish_date = 1463933520
+sort_create_date = 1463933280
+sort_last_updated = 1463935800
+sort_publish_date = 1463933520
 create_date = "2016-05-22T09:08:00-07:00"
 publish_date = "2016-05-22T09:12:00-07:00"
 date = "2016-05-22T09:12:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Pieces from @tristanharris, @DrREpstein, @reetamac, and @robinwasserman in today's Sunday Post."
 facebookauto = "The ethics of design, the brain as not-a-computer, the black moment and the inevitable backlash, and books with \"girl\" in the title. All in today's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="om-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.jliy9isb0">How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist</a></h5>

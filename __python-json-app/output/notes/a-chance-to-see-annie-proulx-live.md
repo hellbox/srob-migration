@@ -1,8 +1,8 @@
 +++
 index = "-Kf7BocN6fSpluW8QWbE"
-_sort_create_date = 1489417440
-_sort_last_updated = 1489418040
-_sort_publish_date = 1489435200
+sort_create_date = 1489417440
+sort_last_updated = 1489418040
+sort_publish_date = 1489435200
 create_date = "2017-03-13T08:04:00-07:00"
 publish_date = "2017-03-13T13:00:00-07:00"
 date = "2017-03-13T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489417344215/anni
 twitterauto = "Sponsor @uwlibraries is here to tell you about their event \"Literary Voices\", featuring Annie Proulx!"
 facebookauto = "Sponsor UW Libraries is here to tell you about their event \"Literary Voices\", featuring Annie Proulx!"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1489417398755/annie-proulx-small.jpg)</p>

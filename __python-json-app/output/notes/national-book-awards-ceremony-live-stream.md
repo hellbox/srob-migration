@@ -1,8 +1,8 @@
 +++
 index = "-K3SCcXxjYH0qIswNGtw"
-_sort_create_date = 1447894080
-_sort_last_updated = 1447894320
-_sort_publish_date = 1447894080
+sort_create_date = 1447894080
+sort_last_updated = 1447894320
+sort_publish_date = 1447894080
 create_date = "2015-11-18T16:48:00-08:00"
 publish_date = "2015-11-18T16:48:00-08:00"
 date = "2015-11-18T16:48:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/national-book-awards", "tags/awards"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Since you're not there (if you were, you woulndn't be reading this), you can [live stream the 2015 National Book Awards Ceremony](http://www.nationalbook.org). Check it out on their site, and lay your bets now!

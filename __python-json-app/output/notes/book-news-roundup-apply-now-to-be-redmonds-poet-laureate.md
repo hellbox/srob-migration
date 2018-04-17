@@ -1,8 +1,8 @@
 +++
 index = "-KzRqXEJI_ZwDEBdly19"
-_sort_create_date = 1511238780
-_sort_last_updated = 1511239740
-_sort_publish_date = 1511298060
+sort_create_date = 1511238780
+sort_last_updated = 1511239740
+sort_publish_date = 1511298060
 create_date = "2017-11-20T20:33:00-08:00"
 publish_date = "2017-11-21T13:01:00-08:00"
 date = "2017-11-21T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "You have until December 15th to apply for Redmond's Poet Laureate position."
 facebookauto = "You have until December 15th to apply for Redmond's Poet Laureate position."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Applications for the next Redmond Poet Laureate are [due on December 15th](http://redmond.gov/cms/One.aspx?portalId=169&pageId=201458). The selected poet will get $5,000 per year in artist fees and $5,000 per year in project materials.

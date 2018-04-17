@@ -1,8 +1,8 @@
 +++
 index = "-L6FKZ3PX6fN3wNx9mVX"
-_sort_create_date = 1519618740
-_sort_last_updated = 1519625520
-_sort_publish_date = 1519848000
+sort_create_date = 1519618740
+sort_last_updated = 1519625520
+sort_publish_date = 1519848000
 create_date = "2018-02-25T20:19:00-08:00"
 publish_date = "2018-02-28T12:00:00-08:00"
 date = "2018-02-28T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "\"Let us be part of the change\""
 dek = "On the anniversary month of the ouster of Ferdinand Marcos, Donna Miscolta traces the stories of ten siblings caught in the crucible of  revolution."
 facebookauto = "What choice would you make against injustice? asks Donna Miscolta in her review of Subversive Lives."
 twitterauto = "What choice would you make against injustice? asks @DonnaMiscolta in her review of Subversive Lives."
-byline = ["writers/donna-miscolta"]
+reviews_byline = ["writers/donna-miscolta"]
 books_in_this_review = ["books/subversive-lives", "books/a-time-to-rise"]
 tags_reviews = ""
-authors_reviews = ["authors/nathan-quimpo", "authors/susan-quimpo", "authors/rene-ciria-cruz", "authors/cindy-domingo", "authors/bruce-occena"]
+reviews_about = ""
 +++
 
 There’s an [iconic photograph](https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/EDSA_Revolution_pic1.jpg/300px-EDSA_Revolution_pic1.jpg) of the Philippine People Power Revolution of February 1986 that ousted Ferdinand Marcos: several men perch atop light poles, while beneath them a sea of people swells on Epifanio de los Santos Avenue (EDSA), a Coca-Cola sign — that symbol of American enterprise — in the distance. Over three days, more than two million citizens mobilized in spontaneous opposition to the US-supported dictator. Declining the advice of one of his generals to fire upon the people, Marcos fled the country. The Philippine experience is hailed as a bloodless revolution. But that’s only if you don’t count the thousands who were imprisoned, tortured, and killed in the years leading up to that decisive gathering at EDSA, their sacrifice memorialized now in Bantayog ng mga Bayani, a monument and museum in Quezon City.

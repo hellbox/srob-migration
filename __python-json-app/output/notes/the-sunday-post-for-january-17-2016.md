@@ -1,8 +1,8 @@
 +++
 index = "-K8FLFyAKC1Z3vUqPxtj"
-_sort_create_date = 1453046940
-_sort_last_updated = 1453057320
-_sort_publish_date = 1453050000
+sort_create_date = 1453046940
+sort_last_updated = 1453057320
+sort_publish_date = 1453050000
 create_date = "2016-01-17T08:09:00-08:00"
 publish_date = "2016-01-17T09:00:00-08:00"
 date = "2016-01-17T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's the Sunday Post, with pieces by @yeahchrislough, @courtwrites, and @elainesciolino. "
 facebookauto = "Today's Sunday Post: how the heck do you make a book, anyway? The allure of other people's problems, and a peek (peep?) inside the New York Public Libraries erotica collection."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/george-rr-martin"]
+notes_about = ""
 books = ""
 +++
 <h5>[How Could The Winds of Winter Be Published In Only Three Months?](http://www.tor.com/2016/01/13/winds-of-winter-book-publishing-process/)</h5>

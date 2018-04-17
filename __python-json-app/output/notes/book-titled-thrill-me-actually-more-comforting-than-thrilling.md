@@ -1,8 +1,8 @@
 +++
 index = "-KYw69MFTHa3zBtw5jC-"
-_sort_create_date = 1481698440
-_sort_last_updated = 1481698860
-_sort_publish_date = 1481832060
+sort_create_date = 1481698440
+sort_last_updated = 1481698860
+sort_publish_date = 1481832060
 create_date = "2016-12-13T22:54:00-08:00"
 publish_date = "2016-12-15T12:01:00-08:00"
 date = "2016-12-15T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481698403942/thri
 twitterauto = "A how-to-write guide titled \"Thrill Me\" is actually more comforting than anything else."
 facebookauto = "A how-to-write guide titled \"Thrill Me\" is actually more comforting than anything else. Guess \"Comfort Me\" didn't have the same ring to it."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/writing"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Over [at the *Ploughshares* blog](http://blog.pshares.org/index.php/the-comfort-of-writing-guides-on-benjamin-percys-thrill-me/), Seattle writer Ian Denning wrote an excellent piece about Benjamin Percy's how-to-write guide, *Thrill Me*. Denning recalled [my review of Percy's craft talk at the Hugo House from last year](http://www.seattlereviewofbooks.com/notes/2015/11/05/stop-me-if-youve-heard-this-one/), in which I was thoroughly unimpressed by the unoriginality of Percy's advice. Denning makes the argument that while Percy's advice may lean toward the oft-repeated, his "good-but-not-groundbreaking craft book" could serve as "a cheerleader" to comfort an aspiring writer.

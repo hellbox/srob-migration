@@ -1,8 +1,8 @@
 +++
 index = "-JtAwCO2wyP-FrdBaCKO"
-_sort_create_date = 1499866800
-_sort_last_updated = 1499866800
-_sort_publish_date = 1499866800
+sort_create_date = 1499866800
+sort_last_updated = 1499866800
+sort_publish_date = 1499866800
 create_date = "2017-07-12T06:40:00-07:00"
 publish_date = "2017-07-12T06:40:00-07:00"
 date = "2017-07-12T06:40:00-07:00"
@@ -23,11 +23,11 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 image = ""
 review_relationship = ""
-author_relationship = ["authors/sarah-galvin"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-nevertold-casket-company-reading-1"]
 +++

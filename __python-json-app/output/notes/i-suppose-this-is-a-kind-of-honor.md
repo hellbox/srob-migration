@@ -1,8 +1,8 @@
 +++
 index = "-KGGLIneS4cK5cB3jUP9"
-_sort_create_date = 1461653640
-_sort_last_updated = 1461653760
-_sort_publish_date = 1461702180
+sort_create_date = 1461653640
+sort_last_updated = 1461653760
+sort_publish_date = 1461702180
 create_date = "2016-04-25T23:54:00-07:00"
 publish_date = "2016-04-26T13:23:00-07:00"
 date = "2016-04-26T13:23:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The last line in this video is one of the most damning responses to book-banners we've ever heard."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/banned-books", "tags/censorship"]
-authors_notes = ["authors/john-green"]
+notes_about = ""
 books = ""
 +++
 It was published earlier this month, but I just saw it now: YA novelist John Green's response to his book *Looking for Alaska* landing on top of the year's most-challenged book list is pretty damn good. That last line is downright scathing:

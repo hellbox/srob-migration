@@ -1,8 +1,8 @@
 +++
 index = "-KDbMPckNBAzVQ4gIZda"
-_sort_create_date = 1458801840
-_sort_last_updated = 1458802140
-_sort_publish_date = 1458837840
+sort_create_date = 1458801840
+sort_last_updated = 1458802140
+sort_publish_date = 1458837840
 create_date = "2016-03-23T23:44:00-07:00"
 publish_date = "2016-03-24T09:44:00-07:00"
 date = "2016-03-24T09:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458801614174/beds
 twitterauto = "Three cheers for @rjcaseywrites and the punky comics outsiders @YetiPress!"
 facebookauto = "A local comics publisher is making the kind of comics Mad Magazine used to specialize in."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/april", "tags/yeti-press"]
-authors_notes = ["authors/rj-casey", "authors/ben-horak"]
+notes_about = ""
 books = ""
 +++
 Over the weekend at the APRIL Book Expo, *The Seattle Review of Books* table was directly next to [Yeti Press]( http://www.yetipress.com/), the small comics publisher run by Fantagraphics employee RJ Casey in his free time. (Yes, Casey runs a comic book company when he’s not busy working at a day job for a comic book company. I suspect he also runs a smaller comic book company when he’s looking to unwind from his other two comic book companies.) In between visitors, I asked Casey what Yeti’s newest comic was, and he handed me a small comic titled [*beds! Beds! BEDS!*]( http://yetipress.storenvy.com/collections/94542-all-products/products/15969906-beds-beds-beds).

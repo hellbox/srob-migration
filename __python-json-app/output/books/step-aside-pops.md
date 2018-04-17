@@ -1,8 +1,8 @@
 +++
 index = "-K--xQrVLKuok9KRKSad"
-_sort_create_date = 1443125100
-_sort_last_updated = 1443125220
-_sort_publish_date = 1443125100
+sort_create_date = 1443125100
+sort_last_updated = 1443125220
+sort_publish_date = 1443125100
 create_date = "2015-09-24T13:05:00-07:00"
 publish_date = "2015-09-24T13:05:00-07:00"
 date = "2015-09-24T13:05:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hMCifBaU6OfBWnon3Edz2Vf9X6ejvqd0qg_GeIHyHpxezwH7oagaypkjwVr1Lo8epa_h9WLPcVhODjiEWNMmVVKeTnY"
 url = "/webhook-uploads/1443125115845/content%3Fid%3D0OzFrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 9359
 
 review_relationship = ""
-author_relationship = ["authors/kate-beaton"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/portrait-gallery-kate-beaton"]
 +++

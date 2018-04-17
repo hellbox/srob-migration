@@ -1,8 +1,8 @@
 +++
 index = "-KRGYRhZmrvcxr5khUbC"
-_sort_create_date = 1473468240
-_sort_last_updated = 1473468600
-_sort_publish_date = 1473699660
+sort_create_date = 1473468240
+sort_last_updated = 1473468600
+sort_publish_date = 1473699660
 create_date = "2016-09-09T17:44:00-07:00"
 publish_date = "2016-09-12T10:01:00-07:00"
 date = "2016-09-12T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Meet the Seattle bookseller who can tell what your parents do just by looking at you."
 facebookauto = "Our celebration of Bookstore of the Month Lion Heart Books continues with a look at all the stories that pass through the place \u2014\u00a0and we're not just talking about the books."
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/bookstore-of-the-month"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On my second visit to [Lion Heart Book Store](http://www.seattlereviewofbooks.com/notes/2016/09/05/our-september-bookstore-of-the-month-is-lion-heart-book-store/), I overheard David entertaining a small audience with a story involving a large caterpillar on an expensive rug. Like with many customers, he remembered me and greeted me by name. Lion Heart Book Store is full of stories, but not only from David’s life and the books that surround him. Visitors seem eager to share their own stories: they tell him about their book collections, their jobs, their favorite novels, their pipe dreams. He listens, he jokes, he relates, but more importantly he shows he cares. He reads people so well he seems psychic (“My mother says I have psychotic powers,” he jokes in his singsong voice) — correctly guessing my dad’s profession and that a woman in the store hailed from Michigan. Love and people are two incredibly important things for this animated shop caretaker, so it only makes sense that my request for a memorable customer story elicited two in-store proposal tales. The stories received several “awwws" from the browsing visitors, punctuated by David’s sung punchline: “If I can’t find love, at least I can help others!” 

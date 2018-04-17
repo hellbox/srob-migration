@@ -1,8 +1,8 @@
 +++
 index = "-L6VEzCfUIZj95REPYq_"
-_sort_create_date = 1519885740
-_sort_last_updated = 1519934640
-_sort_publish_date = 1519934400
+sort_create_date = 1519885740
+sort_last_updated = 1519934640
+sort_publish_date = 1519934400
 create_date = "2018-02-28T22:29:00-08:00"
 publish_date = "2018-03-01T12:00:00-08:00"
 date = "2018-03-01T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519886498787/on%2
 twitterauto = "Is there ever any room for nazi heroes in romance? @O_Waite sets us right."
 facebookauto = "Is there ever any room for nazi heroes in romance? Olivia Waite sets us right."
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/kissing-books"]
-authors_notes = ["authors/tamsen-parker", "authors/amanda-quick", "authors/alexis-daria", "authors/effie-calvin"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Olivia Waite pulls back the covers, revealing the very best in new, and classic, romance. We're extending a hand to you. Won't you take it? And if you're still not sated, there's always [the archives](http://www.seattlereviewofbooks.com/tags/kissing-books).</p>

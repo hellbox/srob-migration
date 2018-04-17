@@ -1,8 +1,8 @@
 +++
 index = "-Ka0C8INMI1iAPwW7z2l"
-_sort_create_date = 1483931400
-_sort_last_updated = 1485831660
-_sort_publish_date = 1485885300
+sort_create_date = 1483931400
+sort_last_updated = 1485831660
+sort_publish_date = 1485885300
 create_date = "2017-01-08T19:10:00-08:00"
 publish_date = "2017-01-31T09:55:00-08:00"
 date = "2017-01-31T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our last poem from January's Poet in Residence, @elisacatrina."
 facebookauto = "Our last poem from January's Poet in Residence, Elisa Chavez."
 make_image_tweet = "False"
-byline = ["writers/elisa-chavez"]
+notes_byline = ["writers/elisa-chavez"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Let me tell you about the place I come from, the ragged-road Texas<br>

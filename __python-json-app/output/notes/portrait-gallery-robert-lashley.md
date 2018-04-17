@@ -1,8 +1,8 @@
 +++
 index = "-KR79UvB1Zy3KuV4LK4R"
-_sort_create_date = 1473310740
-_sort_last_updated = 1473372360
-_sort_publish_date = 1473368400
+sort_create_date = 1473310740
+sort_last_updated = 1473372360
+sort_publish_date = 1473368400
 create_date = "2016-09-07T21:59:00-07:00"
 publish_date = "2016-09-08T14:00:00-07:00"
 date = "2016-09-08T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473352903149/SRoB
 twitterauto = "Portrait Gallery is back with a portrait of @misterlashley by @studiochristine"
 facebookauto = "Portrait Gallery is back with a portrait of Robert Lashley"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

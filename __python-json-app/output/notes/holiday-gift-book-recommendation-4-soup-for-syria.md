@@ -1,8 +1,8 @@
 +++
 index = "-K5YxGXuBmctVcGyA8LK"
-_sort_create_date = 1450154700
-_sort_last_updated = 1450926600
-_sort_publish_date = 1450893660
+sort_create_date = 1450154700
+sort_last_updated = 1450926600
+sort_publish_date = 1450893660
 create_date = "2015-12-14T20:45:00-08:00"
 publish_date = "2015-12-23T10:01:00-08:00"
 date = "2015-12-23T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450154315310/soup
 twitterauto = "Our holiday bookseller recommendation series comes to a close with @elliottbaybook's pick: Soup for Syria."
 facebookauto = "Our holiday bookseller recommendation series comes to a close with Elliott Bay Book Company's pick:  Soup for Syria, an all-star celebrity cookbook that benefits Syrian refugees."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/elliott-bay-book-company", "tags/rick-simonson"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Elliott Bay Book Company event coordinator Rick Simonson first met Barbara Abdeni Massaad when she was in Seattle to help Wassef Haroun prepare to open the restaurant that would eventually become [Mamnoon](http://mamnoonrestaurant.com/). The Mamnoon crew would meet for planning sessions over coffee in Elliott Bay’s cafe, and eventually they came to be fixtures at the bookstore. Massaad even attended Elliott Bay’s exclusive, invite-only 40th anniversary party — “she had come farther than anyone for our party, from Beirut,” Simonson recalls. 

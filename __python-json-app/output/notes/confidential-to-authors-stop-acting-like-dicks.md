@@ -1,8 +1,8 @@
 +++
 index = "-L80naNBy6E07R0URzbB"
-_sort_create_date = 1521522420
-_sort_last_updated = 1521522420
-_sort_publish_date = 1521576420
+sort_create_date = 1521522420
+sort_last_updated = 1521522420
+sort_publish_date = 1521576420
 create_date = "2018-03-19T22:07:00-07:00"
 publish_date = "2018-03-20T13:07:00-07:00"
 date = "2018-03-20T13:07:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I'd encourage you to read this whole Twitter thread by Shannon Hale about authors who are horrible in public:

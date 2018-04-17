@@ -1,8 +1,8 @@
 +++
 index = "-Kx1rXigZ0wHStuKa0Gm"
-_sort_create_date = 1508655360
-_sort_last_updated = 1508655720
-_sort_publish_date = 1508688000
+sort_create_date = 1508655360
+sort_last_updated = 1508655720
+sort_publish_date = 1508688000
 create_date = "2017-10-21T23:56:00-07:00"
 publish_date = "2017-10-22T09:00:00-07:00"
 date = "2017-10-22T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The week's links: @imjasondiamond's favorite books, @nlcoomes' favorite heroines, & @seeglazek on our favorite drug."
 facebookauto = "Drop in on the Sunday Post for articles by Jason Diamond on his favorite imprint, Nina Coombs on her favorite animated heroines, and Christopher Glazek on America's \"favorite\" drug.</p>"
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

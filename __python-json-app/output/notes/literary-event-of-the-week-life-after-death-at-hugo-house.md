@@ -1,8 +1,8 @@
 +++
 index = "-KmxL8kVt6VXofjyMrYp"
-_sort_create_date = 1497825300
-_sort_last_updated = 1497825300
-_sort_publish_date = 1498064100
+sort_create_date = 1497825300
+sort_last_updated = 1497825300
+sort_publish_date = 1498064100
 create_date = "2017-06-18T15:35:00-07:00"
 publish_date = "2017-06-21T09:55:00-07:00"
 date = "2017-06-21T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Event of the Week is a remarkable account of a shooting that rocked Seattle."
 facebookauto = "Our Event of the Week is a remarkable account of a shooting that rocked Seattle."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We're so used to the modern incarnation of shooting coverage that we never think about how odd it truly is. Things always begin with reports on Twitter of gunshots, followed by dribbling pieces of "news" — some true, many false — from eyewitnesses and local news reporters. The body count goes up and down, depending on the source. Eventually, we learn about the shooter — always a man, usually with a domestic violence incident or two in his past — and people mumble about his motive and send their respects for the dead before their attention turns elsewhere. Eventually, the whole cycle begins again — every time we respond with a certain shock and newness, as though we all suffer from collective amnesia.

@@ -1,8 +1,8 @@
 +++
 index = "-KR7LeOKy6mezoNLQJDb"
-_sort_create_date = 1473313920
-_sort_last_updated = 1473313920
-_sort_publish_date = 1473360720
+sort_create_date = 1473313920
+sort_last_updated = 1473313920
+sort_publish_date = 1473360720
 create_date = "2016-09-07T22:52:00-07:00"
 publish_date = "2016-09-08T11:52:00-07:00"
 date = "2016-09-08T11:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473313453978/Ange
 twitterauto = "Uh, Margaret Atwood's new comic book isn't very good."
 facebookauto = "We love Margaret Atwood. We think Margaret Atwood should win the Nobel Prize for Literature. But her first-ever comic book, Angel Catbird, is very, very, very bad."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/dark-horse-comics"]
-authors_notes = ["authors/margaret-atwood", "authors/ta-nehisi-coates", "authors/william-gibson"]
+notes_about = ""
 books = ""
 +++
 Margaret Atwood deserves the Nobel Prize for Literature. She’s written some of the best books written in English over the last fifty years and her range far surpasses most of her American contemporaries, stretching from science fiction to literary fiction and back again. She’s an [underrated poet]( https://www.poetryfoundation.org/poems-and-poets/poets/detail/margaret-atwood#about). And she’s terrific on Twitter. So when Portland comics publisher Dark Horse announced that they would be publishing Atwood’s first comic, *Angel Catbird*, in the fall of 2016, I was understandably excited. The news that *Angel Catbird* would be drawn by Johnnie Christmas, and up-and-coming comics artist of the Image Comics series *Sheltered*, made the book sound even more appealing.

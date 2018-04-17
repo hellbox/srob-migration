@@ -1,8 +1,8 @@
 +++
 index = "-K6_huxin06oevtXg0Py"
-_sort_create_date = 1451257980
-_sort_last_updated = 1451258280
-_sort_publish_date = 1451411700
+sort_create_date = 1451257980
+sort_last_updated = 1451258280
+sort_publish_date = 1451411700
 create_date = "2015-12-27T15:13:00-08:00"
 publish_date = "2015-12-29T09:55:00-08:00"
 date = "2015-12-29T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/madeline-defrees"]
+notes_byline = ["writers/madeline-defrees"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This time it is no dream. After twenty-three years away<br>

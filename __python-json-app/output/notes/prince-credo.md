@@ -1,8 +1,8 @@
 +++
 index = "-KjhlNyf9_WIcBszfpxF"
-_sort_create_date = 1494342780
-_sort_last_updated = 1494343740
-_sort_publish_date = 1494348900
+sort_create_date = 1494342780
+sort_last_updated = 1494343740
+sort_publish_date = 1494348900
 create_date = "2017-05-09T08:13:00-07:00"
 publish_date = "2017-05-09T09:55:00-07:00"
 date = "2017-05-09T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The second week's poem of Poet in Residence @Oliver_delaPaz is titled \"Prince Credo\""
 facebookauto = "The second week's poem of Poet in Residence Oliver de la Paz is titled \"Prince Credo\""
 make_image_tweet = "False"
-byline = ["writers/oliver-de-la-paz"]
+notes_byline = ["writers/oliver-de-la-paz"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p>

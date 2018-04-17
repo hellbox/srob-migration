@@ -1,8 +1,8 @@
 +++
 index = "-L0GxgU82nQEWhazx4w6"
-_sort_create_date = 1513203600
-_sort_last_updated = 1513210440
-_sort_publish_date = 1513203600
+sort_create_date = 1513203600
+sort_last_updated = 1513210440
+sort_publish_date = 1513203600
 create_date = "2017-12-13T14:20:00-08:00"
 publish_date = "2017-12-13T14:20:00-08:00"
 date = "2017-12-13T14:20:00-08:00"
@@ -26,6 +26,6 @@ time_description = "
 end_time = ""
 enddate = "2018-01-11T00:00:00-08:00"
 is_sponsorship = true
-authors = ["authors/david-sedaris"]
+authors = ""
 sponsorship_event = ""
 venues = ""

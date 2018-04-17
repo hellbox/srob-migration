@@ -1,8 +1,8 @@
 +++
 index = "-K8ltKeMhCD33Q3VwfHH"
-_sort_create_date = 1453609800
-_sort_last_updated = 1453611480
-_sort_publish_date = 1453654800
+sort_create_date = 1453609800
+sort_last_updated = 1453611480
+sort_publish_date = 1453654800
 create_date = "2016-01-23T20:30:00-08:00"
 publish_date = "2016-01-24T09:00:00-08:00"
 date = "2016-01-24T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Arab Spring, a famous typographer, jerky men, and storytelling, all in today's Sunday Post. "
 facebookauto = "The Arab Spring, a famous typographer, jerky men, and storytelling, all in today's Sunday Post. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/laila-lalami"]
+notes_about = ""
 books = ""
 +++
 

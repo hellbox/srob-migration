@@ -1,8 +1,8 @@
 +++
 index = "-KggB3i5Po7iOqTKakmn"
-_sort_create_date = 1491094980
-_sort_last_updated = 1491094980
-_sort_publish_date = 1491246060
+sort_create_date = 1491094980
+sort_last_updated = 1491094980
+sort_publish_date = 1491246060
 create_date = "2017-04-01T18:03:00-07:00"
 publish_date = "2017-04-03T12:01:00-07:00"
 date = "2017-04-03T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Dreaming beyond fiction and nonfiction"
 dek = "This Wednesday, Wendy C. Ortiz debuts her latest book in Seattle. It's a memoir of dreams. But wait \u2014 aren't dreams fiction? Or is a dream memoir maybe the truest memoir of all?"
 facebookauto = "\"A memoir is nonfiction by definition, and yet it usually expresses only one person\u2019s perspective on interactions and events experienced by many. Some sensational memoirs have been exposed as frauds, and this lends an air of disbelief to the genre. But only one person experiences a dream. And, if an author is recounting her own dreams, this must be nonfiction, because these dreams really happened, right?\""
 twitterauto = "In which @mbsycamore tries to categorize (or uncategorize) @WendyCOrtiz's latest book."
-byline = ["writers/mattilda-bernstein-sycamore"]
+reviews_byline = ["writers/mattilda-bernstein-sycamore"]
 books_in_this_review = ["books/bruja"]
 tags_reviews = ["tags/memoir", "tags/dream"]
-authors_reviews = ["authors/wendy-c-ortiz"]
+reviews_about = ""
 +++
 
 *Bruja* is the Spanish word for witch, and it’s possible that the witch in Wendy C. Ortiz’s latest book is Wendy herself. Not only does Ortiz watch a cheetah chasing a possum through a window, she manages to catch a bear whispering into the ear of another bear, and she is present while a sea turtle turns into a seal. She survives several shark attacks, jumps into a car that flies over rooftops, has an affair with Governor Arnold Schwarzenegger, and attempts to murder her mother. She flies in an invisible plane to the East Coast, and at one point she pushes a button and everything in the world turns into a blank white background. Her husband thinks their son is Jesus, and she watches swordfish the size of trucks leap out of a fountain. A cat asks her to nurse it, and so she nurses the cat on one breast, and a newborn baby on the other.

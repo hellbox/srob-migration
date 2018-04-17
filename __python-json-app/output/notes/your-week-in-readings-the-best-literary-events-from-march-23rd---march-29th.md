@@ -1,8 +1,8 @@
 +++
 index = "-KD5zl45Rpac--sZe-Br"
-_sort_create_date = 1458258720
-_sort_last_updated = 1458709380
-_sort_publish_date = 1458751920
+sort_create_date = 1458258720
+sort_last_updated = 1458709380
+sort_publish_date = 1458751920
 create_date = "2016-03-17T16:52:00-07:00"
 publish_date = "2016-03-23T09:52:00-07:00"
 date = "2016-03-23T09:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458258650241/What
 twitterauto = "We've picked one great literary event a day for the next week, just for you!"
 facebookauto = "We've picked one great literary event a day for the next week, just for you! We've got sci-fi conventions, Vietnamese poets, hot young novelists, and much, much more."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday March 23: Robert Sawyer**</h5></p>

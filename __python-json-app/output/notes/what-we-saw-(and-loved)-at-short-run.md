@@ -1,8 +1,8 @@
 +++
 index = "-KyEbz2LMcxMxwksS1qr"
-_sort_create_date = 1509943140
-_sort_last_updated = 1509988800
-_sort_publish_date = 1509994800
+sort_create_date = 1509943140
+sort_last_updated = 1509988800
+sort_publish_date = 1509994800
 create_date = "2017-11-05T20:39:00-08:00"
 publish_date = "2017-11-06T11:00:00-08:00"
 date = "2017-11-06T11:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509944679653/Imag
 twitterauto = "Here\u2019s what the Seattle Review of Books took away from an exuberant @shortrunseattle."
 facebookauto = "This year\u2019s Short Run was an exuberant success. Here\u2019s what the Seattle Review of Books staff took away."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ""
-authors_notes = ["authors/tommi-parrish", "authors/tatiana-gill", "authors/lacy-davis", "authors/jim-kettner", "authors/rebecca-artemisa", "authors/rachel-scheer", "authors/eli-bishop", "authors/laura-graves", "authors/marc-palm", "authors/ben-horak", "authors/tom-van-deusen", "authors/laura-knetzger", "authors/lawrence-lindell", "authors/daria-tessler", "authors/shing-yin-khor", "authors/jessica-hoffman", "authors/cole-johnson", "authors/jessie-nicely", "authors/jaya-nicely", "authors/amy-burek", "authors/michael-sabine-rear", "authors/julia-wertz", "authors/emil-ferris", "authors/leela-corman", "authors/kelly-froh", "authors/eroyn-franklin"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">This report was written by Paul Constant, Martin McClellan, and Dawn McCarra Bass.</p>

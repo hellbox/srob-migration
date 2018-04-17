@@ -1,8 +1,8 @@
 +++
 index = "-K1amMBgC4mp4IK9S1f_"
-_sort_create_date = 1445907180
-_sort_last_updated = 1445923200
-_sort_publish_date = 1445907360
+sort_create_date = 1445907180
+sort_last_updated = 1445923200
+sort_publish_date = 1445907360
 create_date = "2015-10-26T17:53:00-07:00"
 publish_date = "2015-10-26T17:56:00-07:00"
 date = "2015-10-26T17:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/marcellus-turner", "tags/librarians", "tags/city-librarian", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Busy day here, at the _Seattle Review of Books_. First, we published a piece by Laurel Holliday, [Library Board scrambles for special meeting on rebranding issue; City Hall reacts](http://seattlereviewofbooks.com/notes/2015/10/26/library-board-scrambles-for-special-meeting-on-rebranding-issue-city-hall-reacts/), looking at the board's apparent cold-feet over the rebranding effort. 

@@ -1,8 +1,8 @@
 +++
 index = "-KSZjCcjVpM9l8fcaWa_"
-_sort_create_date = 1474863840
-_sort_last_updated = 1474863840
-_sort_publish_date = 1474913040
+sort_create_date = 1474863840
+sort_last_updated = 1474863840
+sort_publish_date = 1474913040
 create_date = "2016-09-25T21:24:00-07:00"
 publish_date = "2016-09-26T11:04:00-07:00"
 date = "2016-09-26T11:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Stephen King's murder has been canceled."
 facebookauto = "Stephen King's murder has been canceled."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fiction", "tags/authors"]
-authors_notes = ["authors/stephen-king"]
+notes_about = ""
 books = ""
 +++
 Human fiction-factory James Patterson has announced that his November title, a mystery titled *The Murder of Stephen King*, has been canceled. [Jackson McHenry at Vulture writes](http://www.vulture.com/2016/09/james-patterson-calls-off-murder-of-stephen-king.html) that Patterson announced the cancellation "after deciding that he did not want to cause King and his family 'any discomfort' given that fans have reportedly 'disrupted the King household in the past.'" 

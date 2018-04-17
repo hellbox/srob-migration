@@ -1,8 +1,8 @@
 +++
 index = "-KqBT1PaTKr3Sc2Yn0CH"
-_sort_create_date = 1501300260
-_sort_last_updated = 1501561920
-_sort_publish_date = 1501519440
+sort_create_date = 1501300260
+sort_last_updated = 1501561920
+sort_publish_date = 1501519440
 create_date = "2017-07-28T20:51:00-07:00"
 publish_date = "2017-07-31T09:44:00-07:00"
 date = "2017-07-31T09:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501299852870/kell
 twitterauto = "\"I think a lot of people go to poetry in a time of crisis.\" -an interview with @KelliAgodon "
 facebookauto = "\"I think a lot of people go to poetry in a time of crisis.\" Here's an interview with our July Poet in Residence, Kelli Russell Agodon."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/two-sylvias-press"]
-authors_notes = ["authors/kelli-russell-agodon"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Kelli Russell Agodon was [the first poet we published on the *Seattle Review of Books*](http://www.seattlereviewofbooks.com/notes/2015/08/04/argument-waltz-with-pessimistic-drowning/), and it was readily apparent that she was the right choice. Not only was her poem a note-perfect benediction for the site — it could be read as a meditation about the distance between storytellers and audience — but Agodon is such a significant figure in the Seattle-area poetry scene that her poem provided the site with instant credibility. Agodon has so many fans — of her poetry, of her publishing company, [Two Sylvias Press]( http://www.twosylviaspress.com/index.html), of her outspoken politics — and those fans pay close attention to everything she does. Agodon talked with me about all of this and much more. This interview has been lightly edited.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-K1pey0eDxd_kL_SdC8-"
-_sort_create_date = 1446156900
-_sort_last_updated = 1446157980
-_sort_publish_date = 1446157980
+sort_create_date = 1446156900
+sort_last_updated = 1446157980
+sort_publish_date = 1446157980
 create_date = "2015-10-29T15:15:00-07:00"
 publish_date = "2015-10-29T15:33:00-07:00"
 date = "2015-10-29T15:33:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We have an [opening for a sponsor next week](http://seattlereviewofbooks.com/sponsor/book/). We'd love it to be you. We've had record traffic with our library coverage &mdash; you could reach out to that crowd to tell them about your book or event. People are starting to rely on the _Seattle Review of Books_ for literary coverage; your sponsorship would help make that possible.

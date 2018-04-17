@@ -1,8 +1,8 @@
 +++
 index = "-KBsqqln5pTzvM1g1qRl"
-_sort_create_date = 1456947780
-_sort_last_updated = 1456947780
-_sort_publish_date = 1456954200
+sort_create_date = 1456947780
+sort_last_updated = 1456947780
+sort_publish_date = 1456954200
 create_date = "2016-03-02T11:43:00-08:00"
 publish_date = "2016-03-02T13:30:00-08:00"
 date = "2016-03-02T13:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446014291776/dash
 twitterauto = "Today's Book News Roundup features @HugoHouse, @shortrunseattle, and more."
 facebookauto = "In Book News today, we've got two awesome opportunities \u2014 one comics-related, one prose or poetry \u2014\u00a0for new local talent and the nine worst Republicans in the House."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * The delightfully named [Gabrielle Bluestone at Gawker](http://gawker.com/the-shameful-google-results-for-the-nine-republicans-wh-1762397833) reports that nine House Republicans voted against naming a post office after the late poet Maya Angelou. Then Bluestone turns the tables on them:

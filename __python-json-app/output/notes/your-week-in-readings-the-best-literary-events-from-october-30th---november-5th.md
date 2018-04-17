@@ -1,8 +1,8 @@
 +++
 index = "-KxBrKsStgqsWpD9lsWi"
-_sort_create_date = 1508823060
-_sort_last_updated = 1508862840
-_sort_publish_date = 1509389700
+sort_create_date = 1508823060
+sort_last_updated = 1508862840
+sort_publish_date = 1509389700
 create_date = "2017-10-23T22:31:00-07:00"
 publish_date = "2017-10-30T11:55:00-07:00"
 date = "2017-10-30T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508822972538/obam
 twitterauto = "Your week is entirely dominated by @shortrunseattle events!"
 facebookauto = "Your week in readings is dominated by Short Run events."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/short-run"]
-authors_notes = ["authors/julia-wertz"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, October 30: *Leonardo Da Vinci* Reading**</h5></p>

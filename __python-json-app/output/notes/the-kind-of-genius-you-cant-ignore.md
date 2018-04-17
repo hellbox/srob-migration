@@ -1,8 +1,8 @@
 +++
 index = "-KSN2Fh9PpUUc-eNGlPh"
-_sort_create_date = 1474651020
-_sort_last_updated = 1474651140
-_sort_publish_date = 1474651020
+sort_create_date = 1474651020
+sort_last_updated = 1474651140
+sort_publish_date = 1474651020
 create_date = "2016-09-23T10:17:00-07:00"
 publish_date = "2016-09-23T10:17:00-07:00"
 date = "2016-09-23T10:17:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to the MacArthur \"Genius\" grant winners! We've been calling them geniuses for years."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/macarthur-genius"]
-authors_notes = ["authors/maggie-nelson", "authors/gene-lueng-yang", "authors/claudia-rankine"]
+notes_about = ""
 books = ["books/citizen", "books/the-art-of-cruelty", "books/the-argonauts"]
 +++
 As [Jennifer Schuessler reported in the *New York Times*](http://www.nytimes.com/2016/09/22/arts/macarthur-foundation-announces-2016-genius-grant-winners.html?_r=0), the MacArthur Foundation announced their annual "Genius" grant winners yesterday. I'm very excited to see that the new list of "Geniuses" includes authors we've written about here at the *Seattle Review of Books* over the past year.

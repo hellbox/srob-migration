@@ -1,8 +1,8 @@
 +++
 index = "-Kys3evYjwZUPFMlg9d4"
-_sort_create_date = 1510621740
-_sort_last_updated = 1510621740
-_sort_publish_date = 1510621740
+sort_create_date = 1510621740
+sort_last_updated = 1510621740
+sort_publish_date = 1510621740
 create_date = "2017-11-13T17:09:00-08:00"
 publish_date = "2017-11-13T17:09:00-08:00"
 date = "2017-11-13T17:09:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HUzjEaM3CCCAI8H_l1wAo5O3ufbtUkLmWfrEgmU_NR1hYK-Pr0uIfrbB9vbEHE9RnmO1EvyDZKEcEoKuJTT_TOjoSac"
 url = "/webhook-uploads/1510621634779/9780307969651_400.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 31288
 
 review_relationship = ["reviews/walking-around-seattle-with-jane-jacobs"]
-author_relationship = ["authors/jane-jacobs"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

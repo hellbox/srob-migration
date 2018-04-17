@@ -1,8 +1,8 @@
 +++
 index = "-KikabZ_K1FKHMLB5jTZ"
-_sort_create_date = 1493316540
-_sort_last_updated = 1493316540
-_sort_publish_date = 1493316540
+sort_create_date = 1493316540
+sort_last_updated = 1493316540
+sort_publish_date = 1493316540
 create_date = "2017-04-27T11:09:00-07:00"
 publish_date = "2017-04-27T11:09:00-07:00"
 date = "2017-04-27T11:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Happy Poem In Your Pocket Day! Here's how to celebrate in Seattle. #pocketpoem"
 facebookauto = "Happy Poem In Your Pocket Day! Here's how to celebrate in Seattle. #pocketpoem"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry", "tags/open-books"]
-authors_notes = ["authors/claudia-castro-luna"]
+notes_about = ""
 books = ""
 +++
 Today, at the ass-end of National Poetry Month, is [Poem In Your Pocket Day](https://www.poets.org/national-poetry-month/poem-your-pocket-day), which poets.org urges you to celebrate by "selecting a poem, carrying it with you, and sharing it with others throughout the day at schools, bookstores, libraries, parks, and workplaces."

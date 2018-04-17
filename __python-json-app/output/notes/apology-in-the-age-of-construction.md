@@ -1,8 +1,8 @@
 +++
 index = "-KDWWLpIixa95hivtsHP"
-_sort_create_date = 1458703740
-_sort_last_updated = 1458703920
-_sort_publish_date = 1459270500
+sort_create_date = 1458703740
+sort_last_updated = 1458703920
+sort_publish_date = 1459270500
 create_date = "2016-03-22T20:29:00-07:00"
 publish_date = "2016-03-29T09:55:00-07:00"
 date = "2016-03-29T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/jane-wong"]
+notes_byline = ["writers/jane-wong"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We can only recall the freak accidents:<br>

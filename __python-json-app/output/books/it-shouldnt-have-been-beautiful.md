@@ -1,8 +1,8 @@
 +++
 index = "-KClzWNYiz3mgX3CnSZU"
-_sort_create_date = 1457906340
-_sort_last_updated = 1457906460
-_sort_publish_date = 1457906340
+sort_create_date = 1457906340
+sort_last_updated = 1457906460
+sort_publish_date = 1457906340
 create_date = "2016-03-13T14:59:00-07:00"
 publish_date = "2016-03-13T14:59:00-07:00"
 date = "2016-03-13T14:59:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Poetry"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/3fDYeOftbfoqQstD-ORrRZjHEjDQvcUqlYejtrvrlj6VAulnVAI4xwfEubi0oKSMHtVPbEZU8Kx2kEM8W3ql3fSzgK3d"
 url = "/webhook-uploads/1457906389532/content%3Fid%3D3eL-rQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 31117
 
 review_relationship = ["reviews/and-everything-a-scenic-view"]
-author_relationship = ["authors/lia-purpura"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

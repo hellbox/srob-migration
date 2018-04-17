@@ -1,8 +1,8 @@
 +++
 index = "-KsuVVq9bH3yMPKkwYG0"
-_sort_create_date = 1504220100
-_sort_last_updated = 1504285080
-_sort_publish_date = 1504285080
+sort_create_date = 1504220100
+sort_last_updated = 1504285080
+sort_publish_date = 1504285080
 create_date = "2017-08-31T15:55:00-07:00"
 publish_date = "2017-09-01T09:58:00-07:00"
 date = "2017-09-01T09:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Those Wonder Woman comics sold for HOW MUCH?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/wonder-woman"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The owner of a comic book store called Pristine Comics in Federal Way recently [sold three collectible Wonder Woman comics for 1.5 million dollars](http://www.seattlepi.com/local/article/Seattle-area-shop-sells-rare-first-Wonder-Woman-12164743.php), writes Daniel DeMay for the *Seattle PI*. 

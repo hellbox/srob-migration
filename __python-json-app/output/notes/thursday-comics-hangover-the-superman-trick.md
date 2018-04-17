@@ -1,8 +1,8 @@
 +++
 index = "-KE9kgtRPMqg8xkD_b5J"
-_sort_create_date = 1459395660
-_sort_last_updated = 1459395660
-_sort_publish_date = 1459443540
+sort_create_date = 1459395660
+sort_last_updated = 1459395660
+sort_publish_date = 1459443540
 create_date = "2016-03-30T20:41:00-07:00"
 publish_date = "2016-03-31T09:59:00-07:00"
 date = "2016-03-31T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1459395108344/jimm
 twitterauto = "Why do people always say Superman is hard to write? "
 facebookauto = "Why do people always say Superman is hard to write? He's easy to write, and here's why."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/superman"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In case you were staring out at sunny skies and planning what to do this weekend, let me just make one thing abundantly clear: ***Batman V Superman: Dawn of Justice* is every bit as terrible as you’ve heard**. It is not so-bad-it’s-good. It’s just bad: inept, crass, soulless, mean-spirited, and dumb. Don’t pay money to see it.

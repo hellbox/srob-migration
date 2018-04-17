@@ -1,8 +1,8 @@
 +++
 index = "-KCscWrGLnnUindETIG_"
-_sort_create_date = 1458017760
-_sort_last_updated = 1458017760
-_sort_publish_date = 1458073800
+sort_create_date = 1458017760
+sort_last_updated = 1458017760
+sort_publish_date = 1458073800
 create_date = "2016-03-14T21:56:00-07:00"
 publish_date = "2016-03-15T13:30:00-07:00"
 date = "2016-03-15T13:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In praise of mass market paperbacks."
 facebookauto = "Harper Lee's estate is killing the cheap mass market edition of To Kill a Mockingbird. Here's why we need more affordable paperbacks, not less."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/to-kill-a-mockinbird", "tags/paperback"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1458017490866/tokillamockingbird.jpg)</p>I can't stop thinking of the item from [yesterday's Book News Roundup](http://seattlereviewofbooks.com/notes/2016/03/14/book-news-roundup-what-does-nancy-pearls-ice-cream-taste-like/) about Harper Lee's estate pulling the plug on the mass market paperback edition of *To Kill a Mockingbird*. Mass market paperbacks, of course, aren't nearly as profitable as hardcovers or trade paperbacks; that's why you don't see them so much anymore. If you can coax audiences into paying more than double for the same set of words, I guess the thinking goes, why wouldn't you?

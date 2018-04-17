@@ -1,8 +1,8 @@
 +++
 index = "-K7YBWB9N5xuJd-1deMS"
-_sort_create_date = 1452289380
-_sort_last_updated = 1452289380
-_sort_publish_date = 1452289380
+sort_create_date = 1452289380
+sort_last_updated = 1452289380
+sort_publish_date = 1452289380
 create_date = "2016-01-08T13:43:00-08:00"
 publish_date = "2016-01-08T13:43:00-08:00"
 date = "2016-01-08T13:43:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "So @billclinton just visited @ElliottBayBooks and recommended a book by a Seattle author."
 facebookauto = "Bill Clinton just visited Elliott Bay Book Company and recommended a book by a Seattle author. Twitter promptly blew up."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bill-clinton", "tags/elliott-bay-book-company", "tags/2016"]
-authors_notes = ["authors/james-neff"]
+notes_about = ""
 books = ["books/vendetta"]
 +++
 Former president Bill Clinton, who is in town for a fundraiser for Hillary Clinton's presidential campaign, just stopped by Elliott Bay Book Company. 

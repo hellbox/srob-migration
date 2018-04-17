@@ -1,8 +1,8 @@
 +++
 index = "-JxBKYSaGMaG9gk86Fe3"
-_sort_create_date = 1440094740
-_sort_last_updated = 1440095520
-_sort_publish_date = 1440096540
+sort_create_date = 1440094740
+sort_last_updated = 1440095520
+sort_publish_date = 1440096540
 create_date = "2015-08-20T11:19:00-07:00"
 publish_date = "2015-08-20T11:49:00-07:00"
 date = "2015-08-20T11:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/public-transit", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [Rafi Schwartz at *GOOD*](http://magazine.good.is/articles/romania-bus-ride-free-reading-books) writes:

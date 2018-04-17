@@ -1,8 +1,8 @@
 +++
 index = "-KEjEmzKGagYG9PCnWC0"
-_sort_create_date = 1460007780
-_sort_last_updated = 1460045280
-_sort_publish_date = 1460048100
+sort_create_date = 1460007780
+sort_last_updated = 1460045280
+sort_publish_date = 1460048100
 create_date = "2016-04-06T22:43:00-07:00"
 publish_date = "2016-04-07T09:55:00-07:00"
 date = "2016-04-07T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460007178904/blac
 twitterauto = "We loved @tanehisicoates's stylish first issue of Black Panther."
 facebookauto = "The first issue of Ta-Nehisi Coates's Black Panther comic book came out yesterday! How was it?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/black-panther"]
-authors_notes = ["authors/ta-nehisi-coates"]
+notes_about = ""
 books = ["books/between-the-world-and-me"]
 +++
 <p class="image-left">![](/webhook-uploads/1460007178904/blackpanther.jpg)</p>The first issue of Ta-Nehisi Coates and Brian Stelfreeze’s *Black Panther* was published yesterday, and it was one of those rare moments — like the time DC Comics killed Superman, back in the 1990s — when people who never go to comic book stores suddenly care about a single issue of a comic <sup><a href="#en-2016-04-07-01" id="enr-2016-04-07-01">1</a></sup>. The staff at [Phoenix Comics]( http://phoenixseattle.com/) yesterday estimated that they’d be sold out of all five dozen copies of the comic on their shelves by the end of the day. (That number doesn’t even include the issues that regular Phoenix customers like myself had reserved months ago.) Clearly, *Black Panther* is pulling new and long-since-lapsed readers into comics stores, a feat which not even a seemingly relentless onslaught of comic book movies can manage.

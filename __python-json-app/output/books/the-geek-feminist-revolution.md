@@ -1,8 +1,8 @@
 +++
 index = "-KS4gt195wtiWJ2lpVrS"
-_sort_create_date = 1474343160
-_sort_last_updated = 1474343160
-_sort_publish_date = 1474343160
+sort_create_date = 1474343160
+sort_last_updated = 1474343160
+sort_publish_date = 1474343160
 create_date = "2016-09-19T20:46:00-07:00"
 publish_date = "2016-09-19T20:46:00-07:00"
 date = "2016-09-19T20:46:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Social Science"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Zi4wbICAyWhy30X2WEA99R-xwDeBpeWIUfT5yAPCNYaq1KUIj2DfO5egwbsd8x5kaKhRpjn1sgouKUf3gfJ_dmfVv124"
 url = "/webhook-uploads/1474343177909/content%3Fid%3D5Y8OswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 23010
 
 review_relationship = ["reviews/feminism-a-la-carte"]
-author_relationship = ["authors/kameron-hurley"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KVwpVTHoKzmMAnTEpNW"
-_sort_create_date = 1478489400
-_sort_last_updated = 1478489400
-_sort_publish_date = 1478489400
+sort_create_date = 1478489400
+sort_last_updated = 1478489400
+sort_publish_date = 1478489400
 create_date = "2016-11-06T19:30:00-08:00"
 publish_date = "2016-11-06T19:30:00-08:00"
 date = "2016-11-06T19:30:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/vhevp3qYfKALwWQV1IpRlbQALDGdMnrHYqQXcEq_u0gdJRM3kY9YOciORJfeB2QS54lGV18sAJSpDqRL5fFPu7gqKKLSIA"
 url = "/webhook-uploads/1478489401167/mindingthemuse.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 54497
 
 review_relationship = ["reviews/help-selfie"]
-author_relationship = ["authors/priscilla-long"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

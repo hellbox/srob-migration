@@ -1,8 +1,8 @@
 +++
 index = "-Kj02Tz_QHOxbGrAlf9h"
-_sort_create_date = 1493592540
-_sort_last_updated = 1493699040
-_sort_publish_date = 1493754540
+sort_create_date = 1493592540
+sort_last_updated = 1493699040
+sort_publish_date = 1493754540
 create_date = "2017-04-30T15:49:00-07:00"
 publish_date = "2017-05-02T12:49:00-07:00"
 date = "2017-05-02T12:49:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "If you have something political you want to share with the world, submit here:"
 facebookauto = "If you have something political you want to share with the world, submit here:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/mount-analogue"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This is just a reminder that Mount Analogue publishes [an amazing political pamphlet series](http://www.seattlereviewofbooks.com/reviews/a-colorful-chorus-of-voices/), and they are right now [open for submissions](https://mountanalogue.submittable.com/submit).

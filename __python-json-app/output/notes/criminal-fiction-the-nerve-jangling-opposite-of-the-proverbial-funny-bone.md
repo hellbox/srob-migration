@@ -1,8 +1,8 @@
 +++
 index = "-KfdaPap8J_iLQZHEaah"
-_sort_create_date = 1489977840
-_sort_last_updated = 1490073180
-_sort_publish_date = 1490295600
+sort_create_date = 1489977840
+sort_last_updated = 1490073180
+sort_publish_date = 1490295600
 create_date = "2017-03-19T19:44:00-07:00"
 publish_date = "2017-03-23T12:00:00-07:00"
 date = "2017-03-23T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489978263953/neve
 twitterauto = "This month's Criminal Fiction, from @daneetsteffens, features  @ChevyStevens, @jajance, and others..."
 facebookauto = "This month's Criminal Fiction, from Daneet Steffens, features  Chevy Stevens, JA Jance, and others..."
 make_image_tweet = "True"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/ja-jance", "authors/brad-parks", "authors/fred-vargas", "authors/si\u00e2n-reynolds", "authors/sally-andrew", "authors/chevy-stevens"]
+notes_about = ""
 books = ""
 +++
 <p class="intro noindent">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

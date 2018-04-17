@@ -1,8 +1,8 @@
 +++
 index = "-Ksf2K63yABriBMSx8FV"
-_sort_create_date = 1503960960
-_sort_last_updated = 1503961140
-_sort_publish_date = 1503960960
+sort_create_date = 1503960960
+sort_last_updated = 1503961140
+sort_publish_date = 1503960960
 create_date = "2017-08-28T15:56:00-07:00"
 publish_date = "2017-08-28T15:56:00-07:00"
 date = "2017-08-28T15:56:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/wA69qZ8Vf82Y8y5_x22eT5k-VXhbfYkwMmOQXSH8kQ9CYx_dSOpyWw1L3A7X3LPkj2TwKwO8nwHavN3Z--5lARHksKHonA"
 url = "/webhook-uploads/1503960882995/Blip_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 7550
 
 review_relationship = ""
-author_relationship = ["authors/ken-boynton"]
+books_author = ""
 sponsorships_book = ["sponsorships/blip"]
 notes_relationship = ""
 +++

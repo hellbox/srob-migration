@@ -1,8 +1,8 @@
 +++
 index = "-KzkCbryI9Fld-3D28W3"
-_sort_create_date = 1511563620
-_sort_last_updated = 1511571240
-_sort_publish_date = 1511563620
+sort_create_date = 1511563620
+sort_last_updated = 1511571240
+sort_publish_date = 1511563620
 create_date = "2017-11-24T14:47:00-08:00"
 publish_date = "2017-11-24T14:47:00-08:00"
 date = "2017-11-24T14:47:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511563591029/mira
 twitterauto = "A wrap up of Clare Johnson's #PostItArt post, from our Instagram over November"
 facebookauto = "A wrap up of Clare Johnson's #PostItArt post, from our Instagram over November"
 make_image_tweet = "False"
-byline = ["writers/clare-johnson"]
+notes_byline = ["writers/clare-johnson"]
 tags_notes = ["tags/post-it-note-project"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 November's Post-it note art from Instagram

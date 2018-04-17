@@ -1,8 +1,8 @@
 +++
 index = "-KCEliyNBsHjsLAlmudo"
-_sort_create_date = 1457332320
-_sort_last_updated = 1457332680
-_sort_publish_date = 1457548320
+sort_create_date = 1457332320
+sort_last_updated = 1457332680
+sort_publish_date = 1457548320
 create_date = "2016-03-06T22:32:00-08:00"
 publish_date = "2016-03-09T10:32:00-08:00"
 date = "2016-03-09T10:32:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Starting today, you'll find some of our pieces in the @seattleweekly! Got questions? Here are answers:"
 facebookauto = "Starting this week, you'll be able to read selected Seattle Review of Books reviews and calendar entries in the print edition of the Seattle Weekly."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/a-note-to-our-readers", "tags/seattle-weekly"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We here at the *Seattle Review of Books* are very pleased to announce a new partnership: starting this week, **you’ll be able to find our reading calendar picks and selected book reviews in the print edition of the [*Seattle Weekly*]( http://seattleweekly.com/)**. We’ve noticed over the last year or so that the arts writing in the *Weekly*, under the guidance of editor-in-chief Mark Baumgarten and culture & commix editor Kelton Sears, has been getting better and better — new work from local cartoonists, the best music coverage in the city, and a focus on artists that no other media outlets in town are covering. We’re thrilled to share space with their arts coverage, and we’re excited to get the *Seattle Review of Books* out in front of the *Weekly*’s readership.

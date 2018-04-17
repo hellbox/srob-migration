@@ -1,8 +1,8 @@
 +++
 index = "-L1uPXd3p6Nlpn5j0m4V"
-_sort_create_date = 1514955960
-_sort_last_updated = 1515004620
-_sort_publish_date = 1515012960
+sort_create_date = 1514955960
+sort_last_updated = 1515004620
+sort_publish_date = 1515012960
 create_date = "2018-01-02T21:06:00-08:00"
 publish_date = "2018-01-03T12:56:00-08:00"
 date = "2018-01-03T12:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Get excited! @SPLBuzz's Seattle Reads selection is Yaa Gyasi's Homegoing."
 facebookauto = "Get excited! The next Seattle Reads selection is Yaa Gyasi's Homegoing."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library", "tags/seattle-reads"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [This news](http://www.spl.org/audiences/adults/seattle-reads) got buried in the holiday onslaught, and it deserves room to breathe: The 2018 Seattle Reads selection is Yaa Gyasi's novel *Homegoing*.

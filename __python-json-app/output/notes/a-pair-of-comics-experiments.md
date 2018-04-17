@@ -1,8 +1,8 @@
 +++
 index = "-K-t6QrK-n8_paQm619g"
-_sort_create_date = 1444067220
-_sort_last_updated = 1444068900
-_sort_publish_date = 1444068900
+sort_create_date = 1444067220
+sort_last_updated = 1444068900
+sort_publish_date = 1444068900
 create_date = "2015-10-05T10:47:00-07:00"
 publish_date = "2015-10-05T11:15:00-07:00"
 date = "2015-10-05T11:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Go check out these comics experiments from @H_Chamberlain (starring the Fremont Troll) and @DrIsaacCates. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/okey-panky", "tags/comics"]
-authors_notes = ["authors/henry-chamberlain"]
+notes_about = ""
 books = ""
 +++
 **1**. Saturday, October 3rd was 24-Hour Comics day, in which cartoonists write and draw a full comic book in a single day. Local cartoonist Henry Chamberlain just [posted his 24-hour comic](http://comicsgrinder.com/2015/10/04/24-hour-comics-day-2015-hotel-hotel-and-the-fremont-troll/), which stars the Fremont Troll, at the [Comics Grinder](http://comicsgrinder.com/2015/10/04/24-hour-comics-day-2015-hotel-hotel-and-the-fremont-troll/).

@@ -1,8 +1,8 @@
 +++
 index = "-K7DO0NhxVB-kDmxF-2r"
-_sort_create_date = 1451940360
-_sort_last_updated = 1451940540
-_sort_publish_date = 1451941200
+sort_create_date = 1451940360
+sort_last_updated = 1451940540
+sort_publish_date = 1451941200
 create_date = "2016-01-04T12:46:00-08:00"
 publish_date = "2016-01-04T13:00:00-08:00"
 date = "2016-01-04T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our sponsor @mineralschool is now accepting applications for 2016 residencies. So cool! Come check them out."
 facebookauto = "Mineral School is our sponsor this week, and they're now accepting applications for Summer 2016 residencies. Come check out what they have to offer, and read some poetry from alumni of their program. "
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We're so excited about our first sponsor of 2016. <a href="http://www.mineral-school.org" title="Mineral School | Mineral School - Arts Residency at Mt. Rainier">Mineral School</a> is an overnight artist's residency situated in an old elementary school in Mineral, Washington. It's in the foothills of Mount Rainier, an idyllic and perfect setting for an artist focusing on getting some work done. If two weeks dedicated to your writing in an amazing setting with delicious food provided seems like a dream to you, then you should get your application in as soon as you can. <a href="http://seattlereviewofbooks.com/sponsorships" title="The Seattle Review of Books - sponsorships">Find out how on our sponsors page</a>.

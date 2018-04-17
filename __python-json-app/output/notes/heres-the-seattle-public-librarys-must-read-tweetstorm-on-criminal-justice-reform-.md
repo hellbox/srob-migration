@@ -1,8 +1,8 @@
 +++
 index = "-L0ArI8R9U3MY4kx6Ps9"
-_sort_create_date = 1513101240
-_sort_last_updated = 1513102380
-_sort_publish_date = 1513112040
+sort_create_date = 1513101240
+sort_last_updated = 1513102380
+sort_publish_date = 1513112040
 create_date = "2017-12-12T09:54:00-08:00"
 publish_date = "2017-12-12T12:54:00-08:00"
 date = "2017-12-12T12:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Seattle Public Library is hosting an event about criminal justice reform and inclusion. You should attend."
 facebookauto = "The Seattle Public Library is hosting an event on the 15th that is about criminal justice reform, Black Lives Matter, equity, and inclusion. You should definitely attend."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 As a rule, I'm against embedding threaded tweets onto a website. Besides the fact that a series of embedded tweets is pretty ugly, there's also the fact that if a so-called news organization posts an entire thread by an author into a blog post, they are publishing an essay and they should pay the writer for their work.

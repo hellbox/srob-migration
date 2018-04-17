@@ -1,8 +1,8 @@
 +++
 index = "-KTfxB-kX2OQWZ0c8VYk"
-_sort_create_date = 1476058680
-_sort_last_updated = 1476292260
-_sort_publish_date = 1476298860
+sort_create_date = 1476058680
+sort_last_updated = 1476292260
+sort_publish_date = 1476298860
 create_date = "2016-10-09T17:18:00-07:00"
 publish_date = "2016-10-12T12:01:00-07:00"
 date = "2016-10-12T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476058578015/life
 twitterauto = "Here's one great event for every day this week:"
 facebookauto = "This week features a celebration of great literary mag Moss, Bryan Cranston in conversation with Sherman Alexie, and absolutely nothing related to the election. (You're welcome.)"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/moss"]
-authors_notes = ["authors/sherman-alexie", "authors/shin-yu-pai", "authors/ej-koh", "authors/casandra-lopez"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday October 12th: Booktoberfest**</h5></p> 

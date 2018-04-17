@@ -1,8 +1,8 @@
 +++
 index = "-KMPnPOzprpSIO_O_zUi"
-_sort_create_date = 1468254720
-_sort_last_updated = 1468254720
-_sort_publish_date = 1468267200
+sort_create_date = 1468254720
+sort_last_updated = 1468254720
+sort_publish_date = 1468267200
 create_date = "2016-07-11T09:32:00-07:00"
 publish_date = "2016-07-11T13:00:00-07:00"
 date = "2016-07-11T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @ChungSonya is here to offer a sample of her upcoming novel The Loved Ones."
 facebookauto = "Sponsor Sonya Chung is here to tell you about her upcoming book, The Loved Ones."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor (and previous Seattle resident!) <a href="http://sonyachung.com" title="Sonya Chung | author of The Loved Ones &amp;amp; Long for This World">Sonya Chung's</a> second novel, _The Loved Ones_ is accruing a lot of interest before its publication date in October. The Millions put it on their "most anticipated list", for example.

@@ -1,8 +1,8 @@
 +++
 index = "-K-y4a9O7NWQEItlpBXS"
-_sort_create_date = 1444150620
-_sort_last_updated = 1444151040
-_sort_publish_date = 1444157820
+sort_create_date = 1444150620
+sort_last_updated = 1444151040
+sort_publish_date = 1444157820
 create_date = "2015-10-06T09:57:00-07:00"
 publish_date = "2015-10-06T11:57:00-07:00"
 date = "2015-10-06T11:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444149810319/IMG_
 twitterauto = "Hey, men. Here's an idea: why don't you stop harassing women, okay? "
 facebookauto = "A male fan harassed a cartoonist, asking her to rub her vagina on a copy of her book before sending it to him. When the cartoonist called him out on Twitter, he got mad, saying there was nothing sexual about his request. Here's an idea: why don't men stop harassing women?"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comics", "tags/feminism"]
-authors_notes = ["authors/julia-wertz"]
+notes_about = ""
 books = ""
 +++
 On her blog, [cartoonist Julia Wertz describes her interactions](http://www.juliawertz.com/2015/10/05/on-sexual-harassment-and-public-discussion/) with a male fan that are pretty much textbook harassment. He ordered a book of Wertz's cartoons and included the instruction "I’d be enchanted if you rubbed your vagina on it.” Wertz refunded his money and refused the order, which then made the fan mad. He insisted that he wasn't harassing her — after all, he says, he framed the instruction as something that he almost wrote in an e-mail to her, it wasn't a *real* instruction. Wertz says he was proud of his commments, explaining on Twitter that "the vagina remark was meant to ‘enlighten’ me, and was not sexual, and saying I should have been flattered by the praise that preceded it." I've read the dude's Twitter feed, and I can tell you that she's not mischaracterizing him. I'm not going to link to it here, because he doesn't need any more attention and he would likely misinterpret it anyway.

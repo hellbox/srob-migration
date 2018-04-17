@@ -1,8 +1,8 @@
 +++
 index = "-K9OmPhR_g5P6sDuIZUx"
-_sort_create_date = 1454279040
-_sort_last_updated = 1454279220
-_sort_publish_date = 1454348700
+sort_create_date = 1454279040
+sort_last_updated = 1454279220
+sort_publish_date = 1454348700
 create_date = "2016-01-31T14:24:00-08:00"
 publish_date = "2016-02-01T09:45:00-08:00"
 date = "2016-02-01T09:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454278645795/Bern
 twitterauto = "Find all the week's noteworthy events here:"
 facebookauto = "This week in readings: Eli Sanders! Bernie Sanders! Ivar the Famous Clam Guy! What's not to love?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/anastacia-renee", "authors/storme-webber", "authors/eli-sanders", "authors/nancy-pearl"]
+notes_about = ""
 books = ["books/while-the-city-slept"]
 +++
 **MONDAY** Let’s start our week off with one of the last Works in Progress open mic nights at the [Hugo House](https://hugohouse.org/event/works-in-progress-2/2016-02-01/) in its current location. Works in Progress has been going on for years now, and it will undoubtedly stick with Hugo House in their [temporary location on First Hill](http://seattlereviewofbooks.com/notes/2016/01/05/the-frye-art-museum-gives-hugo-house-a-temporary-home/), but there is a certain kind of magic to the Hugo House cabaret space right now, as awkward as it can be when there’s a full house. There have been a lot of readers on this stage, and this is one of your last chances to get up there and give it a shot. Why not? 

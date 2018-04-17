@@ -1,8 +1,8 @@
 +++
 index = "-K2kQpTEXaNFpawGaYUz"
-_sort_create_date = 1447142820
-_sort_last_updated = 1447142940
-_sort_publish_date = 1447264380
+sort_create_date = 1447142820
+sort_last_updated = 1447142940
+sort_publish_date = 1447264380
 create_date = "2015-11-10T00:07:00-08:00"
 publish_date = "2015-11-11T09:53:00-08:00"
 date = "2015-11-11T09:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447142282556/2015
 twitterauto = "We talked with @Adason15th's new events coordinator about book clubs, readings and his plans for the store."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/adas-technical-books", "tags/bookstore-of-the-month"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1447142282556/20151109_183549.jpg)</p>

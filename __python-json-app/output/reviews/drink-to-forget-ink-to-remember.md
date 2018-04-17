@@ -1,8 +1,8 @@
 +++
 index = "-K2jynwgzv1coKPVGtWa"
-_sort_create_date = 1447135200
-_sort_last_updated = 1447135200
-_sort_publish_date = 1447184700
+sort_create_date = 1447135200
+sort_last_updated = 1447135200
+sort_publish_date = 1447184700
 create_date = "2015-11-09T22:00:00-08:00"
 publish_date = "2015-11-10T11:45:00-08:00"
 date = "2015-11-10T11:45:00-08:00"
@@ -13,10 +13,10 @@ title = "Drink to forget, ink to remember"
 dek = "The important thing about Tatiana Gill's comics is that they're unfailingly honest, whether she's talking about drinking or sobriety or a bad Facebook habit. If you're sick of phony narratives imposed on top of memoirs, maybe Gill's comics are the cure you didn't know you needed."
 facebookauto = "Seattle cartoonist Tatiana Gill is drawing her entire life, one panel at a time. Whether she's telling stories about her days as a blackout drunk or her life as a recovering alcoholic, you can be sure that she's laying the truth out there in black and white."
 twitterauto = "Seattle cartoonist Tatiana Gill is drawing her entire life, one panel at a time."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/blackoutings", "books/omnibusted", "books/living-in-the-now", "books/plus"]
 tags_reviews = ["tags/comics"]
-authors_reviews = ["authors/tatiana-gill"]
+reviews_about = ""
 +++
 
 Memoirs are sometimes too much for me to handle, but I can read autobiographical comics all day, every day. So what’s the difference? Ultimately, it’s a matter of scale. You have to suspend a whole lot of belief to cozy up to the idea that a human being’s life coheres exactly to something resembling a narrative arc with a beginning, a middle, and an end — especially when it’s got a pat little moral plugged into the core of the thing. Memoirs to me feel blobby and unwieldy, like a marshmallow being crammed into a coin slot.

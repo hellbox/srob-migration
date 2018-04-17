@@ -1,8 +1,8 @@
 +++
 index = "-KGuPII954wWBv_XpHF2"
-_sort_create_date = 1462342560
-_sort_last_updated = 1462342560
-_sort_publish_date = 1462377540
+sort_create_date = 1462342560
+sort_last_updated = 1462342560
+sort_publish_date = 1462377540
 create_date = "2016-05-03T23:16:00-07:00"
 publish_date = "2016-05-04T08:59:00-07:00"
 date = "2016-05-04T08:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Okay, for real this time: It's time to #GiveBIG. Seattle-area nonprofits could really use your help."
 facebookauto = "Okay, for real this time: It's time to GiveBIG. Seattle-area nonprofits could really use your help."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/givebig"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Okay, so [yesterday the GiveBIG website collapsed and died](http://seattlereviewofbooks.com/notes/2016/05/03/a-quick-note-on-problems-with-givebig/) a very public death. Dozens, or hundreds, or thousands of Seattleites who wanted to donate money to their favorite Seattle-area nonprofits were unable to, and those nonprofits were forced to choose between either waiting out the computer problems or sending people to their own sites to donate. (The problem with the latter choice: donations directly to nonprofits wouldn't have access to the large amount of matching funds that are applied to donations through the GiveBIG site.) [As we reported](http://seattlereviewofbooks.com/notes/2016/05/03/a-quick-note-on-problems-with-givebig/), the Seattle Foundation announced that GiveBIG would continue through midnight tonight.

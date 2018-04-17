@@ -1,8 +1,8 @@
 +++
 index = "-L2WmTPE3zrXmvAVMGv-"
-_sort_create_date = 1515616560
-_sort_last_updated = 1515616560
-_sort_publish_date = 1515618060
+sort_create_date = 1515616560
+sort_last_updated = 1515616560
+sort_publish_date = 1515618060
 create_date = "2018-01-10T12:36:00-08:00"
 publish_date = "2018-01-10T13:01:00-08:00"
 date = "2018-01-10T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A new Seattle-area magazine! A new book from @ellen_forney! The same terrible old president!"
 facebookauto = "The new year brings with it a new Seattle-area online magazine and a new book from Seattle cartoonist Ellen Forney. See? 2018 isn't all terrible!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/donald-trump", "tags/media"]
-authors_notes = ["authors/ellen-forney"]
+notes_about = ""
 books = ""
 +++
 * It's not very often that a new media outlet debuts in Seattle, so let's pay attention to [*Unite Seattle*](http://uniteseattlemag.com/), which went live today. They publish coverage of arts and news in Seattle with an eye toward LGBTQ issues — and they have [a dedicated books page](http://uniteseattlemag.com/books/)! 

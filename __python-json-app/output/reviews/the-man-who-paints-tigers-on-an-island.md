@@ -1,8 +1,8 @@
 +++
 index = "-KF2Z3PoEk7r-PS643qj"
-_sort_create_date = 1460348640
-_sort_last_updated = 1460404080
-_sort_publish_date = 1460401200
+sort_create_date = 1460348640
+sort_last_updated = 1460404080
+sort_publish_date = 1460401200
 create_date = "2016-04-10T21:24:00-07:00"
 publish_date = "2016-04-11T12:00:00-07:00"
 date = "2016-04-11T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "The man who paints tigers on an island"
 dek = "Sonny Liew sold out his first run of the Art of Charlie Chan Hock Chye in Singapore, and no wonder. He's one of the first artists to grapple with Singapore's recent history in such a modern medium. What does this book say to us in the West?"
 facebookauto = "Sonny Liew wrote the most comprehensive look back at the birth of modern Singapore, but he did it as a thrilling graphic novel that looks back at the career of a fictional comic book artist. We review it today, and ask how much it matters for people from a place to be the ones writing about it. "
 twitterauto = "How much does it matter if people writing about a place are from that place? Our review of @sonnyliew's new work."
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/the-art-of-charlie-chan-hock-chye"]
 tags_reviews = ["tags/singapore", "tags/southeast-asia", "tags/orientalism"]
-authors_reviews = ["authors/sonny-liew"]
+reviews_about = ""
 +++
 
 Singapore is especially difficult for Westerners to understand. People who visit come back like a blind man from the parable of the elephant, convinced that the trunk they felt represents the whole of the place.

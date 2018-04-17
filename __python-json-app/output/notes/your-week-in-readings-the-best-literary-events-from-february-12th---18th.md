@@ -1,8 +1,8 @@
 +++
 index = "-L4J6C_E2idM-gF_OKjH"
-_sort_create_date = 1517534580
-_sort_last_updated = 1517535300
-_sort_publish_date = 1518465420
+sort_create_date = 1517534580
+sort_last_updated = 1517535300
+sort_publish_date = 1518465420
 create_date = "2018-02-01T17:23:00-08:00"
 publish_date = "2018-02-12T11:57:00-08:00"
 date = "2018-02-12T11:57:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517534519645/wint
 twitterauto = "Your Valentine's week in readings starts @ThirdPlaceBooks and features a couple of great-looking debuts."
 facebookauto = "Your Valentine's week in readings starts at Third Place Books Ravenna and features a couple of great-looking debuts."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, February 12: African-American Writers' Alliance **</h5></p>

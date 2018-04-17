@@ -1,8 +1,8 @@
 +++
 index = "-K79mQACo5v4XHQpOwDN"
-_sort_create_date = 1451879880
-_sort_last_updated = 1451880060
-_sort_publish_date = 1451879880
+sort_create_date = 1451879880
+sort_last_updated = 1451880060
+sort_publish_date = 1451879880
 create_date = "2016-01-03T19:58:00-08:00"
 publish_date = "2016-01-03T19:58:00-08:00"
 date = "2016-01-03T19:58:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "political science"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/GxoGsWs0IMnXufyNRAXGkJXC0fy7__CFBS2azStmcNAmOuC8_6Ip1_ZioIV8nPZgMut0Fm-9E7P0ewPzTKCjqKxiJ-y5VA"
 url = "/webhook-uploads/1451879843789/9781632170446.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 25186
 
 review_relationship = ["reviews/how-nick-licata-won-seattle-politics"]
-author_relationship = ["authors/nick-licata"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

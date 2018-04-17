@@ -1,8 +1,8 @@
 +++
 index = "-JzH-DYwOJXKRI16I-Aq"
-_sort_create_date = 1442337300
-_sort_last_updated = 1442337300
-_sort_publish_date = 1442342580
+sort_create_date = 1442337300
+sort_last_updated = 1442337300
+sort_publish_date = 1442342580
 create_date = "2015-09-15T10:15:00-07:00"
 publish_date = "2015-09-15T11:43:00-07:00"
 date = "2015-09-15T11:43:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Newly announced Man Booker shortlister Hanya Yanagihara will be visiting Seattle this fall. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/man-booker-prize", "tags/dave-wheeler", "tags/university-book-store"]
-authors_notes = ["authors/hanya-yanagihara"]
+notes_about = ""
 books = ["books/a-little-life"]
 +++
 And then there were six. Here's the Man Booker Prize shortlist:

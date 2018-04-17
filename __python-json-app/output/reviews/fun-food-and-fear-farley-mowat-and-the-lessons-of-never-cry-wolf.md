@@ -1,8 +1,8 @@
 +++
 index = "-JxcB54bnlBSP1_dGflj"
-_sort_create_date = 1440562020
-_sort_last_updated = 1440562020
-_sort_publish_date = 1440702060
+sort_create_date = 1440562020
+sort_last_updated = 1440562020
+sort_publish_date = 1440702060
 create_date = "2015-08-25T21:07:00-07:00"
 publish_date = "2015-08-27T12:01:00-07:00"
 date = "2015-08-27T12:01:00-07:00"
@@ -12,10 +12,10 @@ name = "Fun, food, and fear: Farley Mowat and the lessons of Never Cry Wolf"
 title = "Fun, food, and fear: Farley Mowat and the lessons of Never Cry Wolf"
 dek = "In the 1940s, a young man named Farley Mowat traveled to northern Canada to study wolf attacks.  What he discovered would inspire a classic story about the animals, fear, and expectations."
 twitterauto = "In the 1940s, a young man traveled to northern Canada to study wolf attacks.  He found something unexpected."
-byline = ["writers/benjamin-corey"]
+reviews_byline = ["writers/benjamin-corey"]
 books_in_this_review = ["books/never-cry-wolf"]
 tags_reviews = ["tags/nonfiction"]
-authors_reviews = ["authors/farley-mowat"]
+reviews_about = ""
 +++
 
 Being an arachnophobe is popular. It seems to be completely within the realm of reason and decency to severely panic at the sight of a spider of any size. Adult human beings will recount stories of their terror without a hint of shame  — sometimes it even seems they do so with pride. While some may capture the spider under a glass, barricade it within using a sheet of paper, and escort it outside, it can be safely assumed that every year millions of spiders are instead crushed upon sight. The rate at which these creatures are dispelled suggests that they are an extreme menace to our society. It is a largely unquestioned practice; the slaughter has few protesters.  

@@ -1,8 +1,8 @@
 +++
 index = "-JttNDo3P9-3LxJT9Sfq"
-_sort_create_date = 1436555460
-_sort_last_updated = 1436590920
-_sort_publish_date = 1436555460
+sort_create_date = 1436555460
+sort_last_updated = 1436590920
+sort_publish_date = 1436555460
 create_date = "2015-07-10T12:11:00-07:00"
 publish_date = "2015-07-10T12:11:00-07:00"
 date = "2015-07-10T12:11:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/merryweather-books", "tags/pegasus-book-exchange", "tags/west-seattle"]
-authors_notes = ["authors/kurt-vonnegut"]
+notes_about = ""
 books = ""
 +++
 Kurt Vonnegut was mortified by the idea of being considered a sci-fi author. You have to understand, this was a different time, before Michael Chabon and Haruki Murakami and Kelly Link started blurring the lines between literary fiction and genre. The “science fiction” classification used to mean an author would be stigmatized to the gaudy corner of bookstores where only children and misfits would browse, so you can forgive Vonnegut a little bit of grumpiness over an imaginary distinction.

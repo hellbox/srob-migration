@@ -1,8 +1,8 @@
 +++
 index = "-K-e4S_M8YCF5rqfNvgS"
-_sort_create_date = 1499867040
-_sort_last_updated = 1499867040
-_sort_publish_date = 1499867040
+sort_create_date = 1499867040
+sort_last_updated = 1499867040
+sort_publish_date = 1499867040
 create_date = "2017-07-12T06:44:00-07:00"
 publish_date = "2017-07-12T06:44:00-07:00"
 date = "2017-07-12T06:44:00-07:00"
@@ -23,11 +23,11 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 image = ""
 review_relationship = ""
-author_relationship = ""
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-the-joy-of-parenting-and-the-joy-of-sex"]
 +++

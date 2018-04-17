@@ -1,8 +1,8 @@
 +++
 index = "-KRErOFVYL4gUxBY0V3N"
-_sort_create_date = 1473439920
-_sort_last_updated = 1473439920
-_sort_publish_date = 1473439920
+sort_create_date = 1473439920
+sort_last_updated = 1473439920
+sort_publish_date = 1473439920
 create_date = "2016-09-09T09:52:00-07:00"
 publish_date = "2016-09-09T09:52:00-07:00"
 date = "2016-09-09T09:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "If you buy your books at independent bookstores but you buy everything else from Amazon, are you a hypocrite?"
 facebookauto = "Today's advice column from Cienna Madrid contains this useful piece of advice: \"If it helps, I've found chanting, 'I condemn thee' at my cookies before I eat them makes me feel better about my personal choices.\""
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/amazon", "tags/independent-bookstores"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

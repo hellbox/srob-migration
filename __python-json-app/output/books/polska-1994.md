@@ -1,8 +1,8 @@
 +++
 index = "-KObp5V4x26lI4yaOoJv"
-_sort_create_date = 1470620760
-_sort_last_updated = 1470620760
-_sort_publish_date = 1470620760
+sort_create_date = 1470620760
+sort_last_updated = 1470620760
+sort_publish_date = 1470620760
 create_date = "2016-08-07T18:46:00-07:00"
 publish_date = "2016-08-07T18:46:00-07:00"
 date = "2016-08-07T18:46:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oY5PE4tWiUYtl1QLr0XOdyXuCenvM3UQEMoCGOTkAkF3xS0fRCTseAA7hy-_59Cb7l8lcqq8C4tu0xAs7WKV2oN8DBIy"
 url = "/webhook-uploads/1470620724365/Polska-1994-Cover.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 367774
 
 review_relationship = ""
-author_relationship = ["authors/isla-mcketta"]
+books_author = ""
 sponsorships_book = ["sponsorships/polska-1994"]
 notes_relationship = ""
 +++

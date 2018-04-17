@@ -1,8 +1,8 @@
 +++
 index = "-Km019o8kd8Q1ysgxolg"
-_sort_create_date = 1496813400
-_sort_last_updated = 1496862780
-_sort_publish_date = 1496858400
+sort_create_date = 1496813400
+sort_last_updated = 1496862780
+sort_publish_date = 1496858400
 create_date = "2017-06-06T22:30:00-07:00"
 publish_date = "2017-06-07T11:00:00-07:00"
 date = "2017-06-07T11:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Let Lightning Snake reveal yourself to you"
 dek = "This Saturday, Fantagraphics hosts a launch party for Cold Cube\u2019s newly released Lightning Snake collection. Colleen Louise Barry is our tour guide through its colorful and confounding pages."
 facebookauto = "In a sharp review by Colleen Louise Barry, Cold Cube's Lightning Snake takes the universe apart and puts it back together."
 twitterauto = "In a review by Colleen Louise Barry, Cold Cube's Lightning Snake takes the universe apart and puts it back together."
-byline = ["writers/colleen-louise-barry"]
+reviews_byline = ["writers/colleen-louise-barry"]
 books_in_this_review = ["books/lightning-snake"]
 tags_reviews = ""
-authors_reviews = ["authors/jason-t-miles"]
+reviews_about = ""
 +++
 
 <p>Around the time I first read <em>Lightning Snake</em>, I was gifted an old vinyl of The Moody Blues’ <em>In Search of the Lost Chord</em> by a regular member at the sensory deprivation tank spa where I sometimes work. On the inside of this record there’s an artist’s note. It says: <em>A YANTRA is used in much the same way as a mantra, although visually. The YANTRA is something that can hold the mind to a form. The mind, contemplating that form and including all of the designs it contains, may easily pass along to the integral concept.</em></p>

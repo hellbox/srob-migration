@@ -1,8 +1,8 @@
 +++
 index = "-L4EqFqJDBWW9b-XtF2G"
-_sort_create_date = 1517463060
-_sort_last_updated = 1517504520
-_sort_publish_date = 1517515200
+sort_create_date = 1517463060
+sort_last_updated = 1517504520
+sort_publish_date = 1517515200
 create_date = "2018-01-31T21:31:00-08:00"
 publish_date = "2018-02-01T12:00:00-08:00"
 date = "2018-02-01T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517463054247/a%20
 twitterauto = "In Kissing Books, @o_waite stares hard at the ego. Plus reviews @SeraTrevor, @AlyssaColeLit, @authorMsBev, & more."
 facebookauto = "In Kissing Books, Olivia Waite stares hard at the ego. Plus reviews Sera Trevor, Alyssa Cole, Beverly Jenkins, and more."
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/kissing-books"]
-authors_notes = ["authors/sera-trevor", "authors/shelly-ellis", "authors/alyssa-cole", "authors/beverly-jenkins", "authors/kathleen-morgan"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Olivia Waite pulls back the covers, revealing the very best in new, and classic, romance. We're extending a hand to you. Won't you take it? And if you're still not sated, there's always [the archives](http://www.seattlereviewofbooks.com/tags/kissing-books).</p>

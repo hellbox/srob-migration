@@ -1,8 +1,8 @@
 +++
 index = "-KpJGgnDjt32IzmGgQMt"
-_sort_create_date = 1500357480
-_sort_last_updated = 1500358380
-_sort_publish_date = 1500407880
+sort_create_date = 1500357480
+sort_last_updated = 1500358380
+sort_publish_date = 1500407880
 create_date = "2017-07-17T22:58:00-07:00"
 publish_date = "2017-07-18T12:58:00-07:00"
 date = "2017-07-18T12:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500357313653/long
 twitterauto = "There's a fine line between \"cleverly utilizing genre fiction tropes\" and \"being wildly uncreative.\""
 facebookauto = "There's a fine line between \"cleverly utilizing genre fiction tropes\" and \"being wildly uncreative.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/science-fiction"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Ever since Douglas Adams’s *Hitchhiker’s Guide to the Galaxy* first wooed me into reading adult fiction, I’ve always had a soft spot for the mixture of sci-fi and comedy. So the none-too-serious title of Becky Chambers’s first novel, *The Long Way to a Small, Angry Planet*, caught my attention from the shelves at University Book Store. And the cover blurb by *Ancillary Justice* author Ann Leckie — it just reads “Great fun!” — promised exactly what I was looking for in a sci-fi novel. 

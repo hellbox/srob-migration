@@ -1,8 +1,8 @@
 +++
 index = "-K9Pzr5XxDo6Eegu2t1x"
-_sort_create_date = 1454299320
-_sort_last_updated = 1454519820
-_sort_publish_date = 1454529720
+sort_create_date = 1454299320
+sort_last_updated = 1454519820
+sort_publish_date = 1454529720
 create_date = "2016-01-31T20:02:00-08:00"
 publish_date = "2016-02-03T12:02:00-08:00"
 date = "2016-02-03T12:02:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454298489166/Eli%
 twitterauto = "Talking with @elijsanders about \"While the City Slept.\""
 facebookauto = "Here's an interview with Eli Sanders about his new book, \"While the City Slept.\" Topics discussed include Ann Rule, journalism, the importance of time and compassion in writing, and what every Seattleite can do to fix our broken mental health care system."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/crime"]
-authors_notes = ["authors/eli-sanders", "authors/ann-rule"]
+notes_about = ""
 books = ["books/while-the-city-slept"]
 +++
 <p class="image-left">![](/webhook-uploads/1454298489166/Eli%20Sanders%20by%20Kelly%20O.jpg)</p><p class="intro">*While the City Slept* will almost certainly be one of the best books I'll read this year. But I worked with its author, Eli Sanders, for almost ten years at *The Stranger*, and so there's too much of a conflict of interest for me to review it. (We [published Martin McClellan's great review of the book yesterday](http://seattlereviewofbooks.com/reviews/uncommitted/); you should read it.) Instead, I met with Eli on Saturday, January 23rd for an interview about the process of writing *While the City Slept*, the structure of the book, the benefits of taking your time to tell a story, and what Seattleites can do to fix our broken mental health care system. The following is a lightly edited transcript of that conversation.</p>

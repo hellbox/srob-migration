@@ -1,8 +1,8 @@
 +++
 index = "-KmSRN57msKMFMAuapvD"
-_sort_create_date = 1497290040
-_sort_last_updated = 1497290040
-_sort_publish_date = 1497293640
+sort_create_date = 1497290040
+sort_last_updated = 1497290040
+sort_publish_date = 1497293640
 create_date = "2017-06-12T10:54:00-07:00"
 publish_date = "2017-06-12T11:54:00-07:00"
 date = "2017-06-12T11:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We can't wait to read this book from Gramma Press."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/gramma-press"]
-authors_notes = ["authors/anastacia-renee"]
+notes_about = ""
 books = ""
 +++
 This morning, the folks at Seattle's own Gramma Press announced that they'll be releasing a new book from poet Anastacia-Reneé (who [we published back when she was known as Anastacia Renée Tolbert](http://www.seattlereviewofbooks.com/writers/anastacia-renee-tolbert/)) on July 1st. The collection, titled *(v.)*, is described this way:

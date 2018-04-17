@@ -1,8 +1,8 @@
 +++
 index = "-JyeYvHXZe8DH6uu3rKq"
-_sort_create_date = 1441675560
-_sort_last_updated = 1441675680
-_sort_publish_date = 1441675560
+sort_create_date = 1441675560
+sort_last_updated = 1441675680
+sort_publish_date = 1441675560
 create_date = "2015-09-07T18:26:00-07:00"
 publish_date = "2015-09-07T18:26:00-07:00"
 date = "2015-09-07T18:26:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tJ5C5kFebLxRAX1Y6A1NQ6GcZNnxewm34-1R0UCwGlXLzMHuuyY5IEkLAhlpg0hTKCWeq_LitPeooFu0F1b3WP6zuSFr"
 url = "/webhook-uploads/1441675587675/content%3Fid%3DI4cdrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 39281
 
 review_relationship = ["reviews/heaven-is-a-place-on-earth"]
-author_relationship = ["authors/jonathan-evison"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/ask-jonathan-evison-anything"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KpTIRM8uJZSfOSpm1bW"
-_sort_create_date = 1500525720
-_sort_last_updated = 1500525720
-_sort_publish_date = 1500576120
+sort_create_date = 1500525720
+sort_last_updated = 1500525720
+sort_publish_date = 1500576120
 create_date = "2017-07-19T21:42:00-07:00"
 publish_date = "2017-07-20T11:42:00-07:00"
 date = "2017-07-20T11:42:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500525617728/site
 twitterauto = "If you live in Tacoma, you should help name a beautiful 11-acre park after Dune author Frank Herbert."
 facebookauto = "If you live in Tacoma, you should help name a beautiful 11-acre park after Dune author Frank Herbert."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 [Matt Driscoll at the *News Tribune*](http://www.thenewstribune.com/news/local/news-columns-blogs/matt-driscoll/article162483123.html) says that a new 11-acre park on a peninsula in Tacoma is super-close to being named after *Dune* author (and Tacoma native) Frank Herbert. Tacoma is now taking suggestions to name the park. Driscoll writes:

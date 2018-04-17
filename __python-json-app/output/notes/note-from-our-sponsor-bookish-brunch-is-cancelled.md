@@ -1,8 +1,8 @@
 +++
 index = "-KIoFcmzmfEDJCfXL4O-"
-_sort_create_date = 1464386880
-_sort_last_updated = 1464387420
-_sort_publish_date = 1464387420
+sort_create_date = 1464386880
+sort_last_updated = 1464387420
+sort_publish_date = 1464387420
 create_date = "2016-05-27T15:08:00-07:00"
 publish_date = "2016-05-27T15:17:00-07:00"
 date = "2016-05-27T15:17:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor Seattle7Writers had to cancel the Bookish Brunch. Here's a note about it on the site."
 facebookauto = "Sponsor Seattle7Writers had to cancel the Bookish Brunch, sadly. Here's a note on the site about it."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We just heard from [Seattle7Writers](http://www.seattle7writers.org), and they're sorry to report the Bookish Brunch had to be cancelled. 

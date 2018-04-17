@@ -1,8 +1,8 @@
 +++
 index = "-KzMKlmRpl35uOLfPQ47"
-_sort_create_date = 1511146320
-_sort_last_updated = 1511148120
-_sort_publish_date = 1511204400
+sort_create_date = 1511146320
+sort_last_updated = 1511148120
+sort_publish_date = 1511204400
 create_date = "2017-11-19T18:52:00-08:00"
 publish_date = "2017-11-20T11:00:00-08:00"
 date = "2017-11-20T11:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://lh3.googleusercontent.com/oYkFw8ALR4Fgkw_9ggz9kFdh3E5Ed7t0e
 twitterauto = "We've just released sponsorships through July, with a $25 discount for current sponsors through the end of the day!"
 facebookauto = "We've just released site sponsorships through July, with a $25 discount for current sponsors through the end of the day!"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1511148105135/unnamed.jpg)</p>

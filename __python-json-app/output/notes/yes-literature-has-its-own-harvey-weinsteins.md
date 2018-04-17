@@ -1,8 +1,8 @@
 +++
 index = "-KxFgnC7JbBa86OspJ77"
-_sort_create_date = 1508887440
-_sort_last_updated = 1508887440
-_sort_publish_date = 1508887440
+sort_create_date = 1508887440
+sort_last_updated = 1508887440
+sort_publish_date = 1508887440
 create_date = "2017-10-24T16:24:00-07:00"
 publish_date = "2017-10-24T16:24:00-07:00"
 date = "2017-10-24T16:24:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Of course literature has its own Harvey Weinsteins."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Jennifer Schuessler [writes for the *New York Times*](https://mobile.nytimes.com/2017/10/24/arts/leon-wieseltier-magazine-harassment.html?smid=tw-nytimesarts&smtyp=cur&_r=0&referer=https://t.co/giuqv6m6Fk?amp=1): 

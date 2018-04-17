@@ -1,8 +1,8 @@
 +++
 index = "-Kgoove_ayDUVo3jcSfK"
-_sort_create_date = 1491239940
-_sort_last_updated = 1491240120
-_sort_publish_date = 1491249600
+sort_create_date = 1491239940
+sort_last_updated = 1491240120
+sort_publish_date = 1491249600
 create_date = "2017-04-03T10:19:00-07:00"
 publish_date = "2017-04-03T13:00:00-07:00"
 date = "2017-04-03T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1491238265148/tart
 twitterauto = "Sponsor Eric Andrews-Katz's new novel Tartarus is an epic mythological story told across time"
 facebookauto = "Sponsor Eric Andrews-Katz's new novel Tartarus is an epic mythological story told across time"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1491238200979/tartarus-small.jpg)</p>

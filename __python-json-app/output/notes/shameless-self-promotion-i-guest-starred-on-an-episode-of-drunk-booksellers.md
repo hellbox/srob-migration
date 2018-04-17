@@ -1,8 +1,8 @@
 +++
 index = "-Kia4iPTOpjJvo_4tcVf"
-_sort_create_date = 1493140140
-_sort_last_updated = 1493140140
-_sort_publish_date = 1493143740
+sort_create_date = 1493140140
+sort_last_updated = 1493140140
+sort_publish_date = 1493143740
 create_date = "2017-04-25T10:09:00-07:00"
 publish_date = "2017-04-25T11:09:00-07:00"
 date = "2017-04-25T11:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493140049195/tumb
 twitterauto = "Check out our own @paulconstant's guest-appearance on the fabulous @drunkbookseller podcast!"
 facebookauto = "Check out our own Paul Constant's guest-appearance on the fabulous Drunk Booksellers podcast!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/self-promotion", "tags/drunk-booksellers"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I quit drinking almost ten years ago now, so guest-starring on an episode of Drunk Booksellers, in which booksellers get drunk and talk about books, presented a unique problem. The solution, however, was pretty simple, since the hosts and I all live in Washington state: get high! It was a special honor to appear on the first-ever pot-centric Drunk Booksellers episode.

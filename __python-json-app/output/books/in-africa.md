@@ -1,8 +1,8 @@
 +++
 index = "-Jvm0xxog9prHAAquKlq"
-_sort_create_date = 1438581480
-_sort_last_updated = 1438581480
-_sort_publish_date = 1438581480
+sort_create_date = 1438581480
+sort_last_updated = 1438581480
+sort_publish_date = 1438581480
 create_date = "2015-08-02T22:58:00-07:00"
 publish_date = "2015-08-02T22:58:00-07:00"
 date = "2015-08-02T22:58:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/TPhjHexo-DNDCsu1tnY7tIGNxEzw0UjvgL098wFCZdEFW77qZhjAVZKAdfvKR6FY-DI9nEs6L_r_jWx_J0NgewgPPAU6"
 url = "/webhook-uploads/1438581301044/419JQmqXfJL._SX200_.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 13166
 
 review_relationship = ["reviews/the-last-of-the-big-game-hunters"]
-author_relationship = ["authors/john-tinney-mccutcheon"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

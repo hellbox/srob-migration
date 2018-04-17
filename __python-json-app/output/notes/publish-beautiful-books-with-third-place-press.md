@@ -1,8 +1,8 @@
 +++
 index = "-KyCPx_X8APR0SAhlP1G"
-_sort_create_date = 1509906120
-_sort_last_updated = 1509996720
-_sort_publish_date = 1510002000
+sort_create_date = 1509906120
+sort_last_updated = 1509996720
+sort_publish_date = 1510002000
 create_date = "2017-11-05T10:22:00-08:00"
 publish_date = "2017-11-06T13:00:00-08:00"
 date = "2017-11-06T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509996705708/Tpp%
 twitterauto = "Writers, take note: sponsor Third Place Press' design & production services make publishing a beautiful book easy."
 facebookauto = "Writers, take note: sponsor Third Place Press is ready with a slate of top-notch design and production services to help you bring your book into the world. "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ["books/third-place-press-publishing-services"]
 +++
 <p class="image-left">![](/webhook-uploads/1509907780761/Third%20Place%20Press_175.jpeg)</p>

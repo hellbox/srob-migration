@@ -1,8 +1,8 @@
 +++
 index = "-JyqDNLHfwf2TZDvE86s"
-_sort_create_date = 1441871220
-_sort_last_updated = 1441893660
-_sort_publish_date = 1441903620
+sort_create_date = 1441871220
+sort_last_updated = 1441893660
+sort_publish_date = 1441903620
 create_date = "2015-09-10T00:47:00-07:00"
 publish_date = "2015-09-10T09:47:00-07:00"
 date = "2015-09-10T09:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our weekly comics column gets excited about Bitch Planet and the latest Saga collection."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/lindy-west"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every comics fan knows Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country. Thursday Comics Hangover is a weekly column reviewing some of the new books that I pick up at [Phoenix Comics and Games](http://phoenixseattle.com/), my friendly neighborhood comic book store.</p>

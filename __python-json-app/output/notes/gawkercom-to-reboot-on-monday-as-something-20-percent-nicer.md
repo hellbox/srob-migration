@@ -1,8 +1,8 @@
 +++
 index = "-Jv0RVRh5Lo4xCcmlBte"
-_sort_create_date = 1437764520
-_sort_last_updated = 1437764580
-_sort_publish_date = 1437764520
+sort_create_date = 1437764520
+sort_last_updated = 1437764580
+sort_publish_date = 1437764520
 create_date = "2015-07-24T12:02:00-07:00"
 publish_date = "2015-07-24T12:02:00-07:00"
 date = "2015-07-24T12:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/gawker", "tags/media"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Holy cow, [this story](http://www.huffingtonpost.com/entry/gawker-reboot-nick-denton_55b244f1e4b0074ba5a42f82?) has exploded in such a weird way. 

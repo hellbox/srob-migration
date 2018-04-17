@@ -1,8 +1,8 @@
 +++
 index = "-K_AoN13dolZXMH3kOAg"
-_sort_create_date = 1483035720
-_sort_last_updated = 1483036020
-_sort_publish_date = 1483048800
+sort_create_date = 1483035720
+sort_last_updated = 1483036020
+sort_publish_date = 1483048800
 create_date = "2016-12-29T10:22:00-08:00"
 publish_date = "2016-12-29T14:00:00-08:00"
 date = "2016-12-29T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483035538730/SRoB
 twitterauto = "Hope you have time to sit down & spend a few moments with a book you love. A #books #illustration by @studiochristine"
 facebookauto = "It's the end of the year. Hope you have time to sit down and spend a few moments with a book you love."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

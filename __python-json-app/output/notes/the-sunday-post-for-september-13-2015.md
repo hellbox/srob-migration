@@ -1,8 +1,8 @@
 +++
 index = "-Jz3E0Mic6fIsEDHeLlm"
-_sort_create_date = 1442106300
-_sort_last_updated = 1442159820
-_sort_publish_date = 1442159820
+sort_create_date = 1442106300
+sort_last_updated = 1442159820
+sort_publish_date = 1442159820
 create_date = "2015-09-12T18:05:00-07:00"
 publish_date = "2015-09-13T08:57:00-07:00"
 date = "2015-09-13T08:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post links to pieces from: @sannewman, @leighanderson_, @goodeveningmaam"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Man, weeping](http://aeon.co/magazine/society/is-there-anything-wrong-with-men-who-cry/)</h5>

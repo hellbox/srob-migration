@@ -1,8 +1,8 @@
 +++
 index = "-JxchQU6EKDzSjUJeQiX"
-_sort_create_date = 1440570780
-_sort_last_updated = 1440571020
-_sort_publish_date = 1440694320
+sort_create_date = 1440570780
+sort_last_updated = 1440571020
+sort_publish_date = 1440694320
 create_date = "2015-08-25T23:33:00-07:00"
 publish_date = "2015-08-27T09:52:00-07:00"
 date = "2015-08-27T09:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Let's talk about the problem with superhero comics."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/spider-verse", "tags/marvel-comics", "tags/comics", "tags/superheroes"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ["books/ms-marvel"]
 +++
 <p class="intro">Every comics fan knows Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country. Thursday Comics Hangover is a weekly column reviewing some of the new books that I pick up at [Phoenix Comics and Games](http://phoenixseattle.com/), my friendly neighborhood comic book store.</p>

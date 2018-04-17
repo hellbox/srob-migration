@@ -1,8 +1,8 @@
 +++
 index = "-JvgLlIFmhPCy9h_rQeC"
-_sort_create_date = 1438484460
-_sort_last_updated = 1438533720
-_sort_publish_date = 1438531200
+sort_create_date = 1438484460
+sort_last_updated = 1438533720
+sort_publish_date = 1438531200
 create_date = "2015-08-01T20:01:00-07:00"
 publish_date = "2015-08-02T09:00:00-07:00"
 date = "2015-08-02T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="small">_(A collection of pieces we noted this week.)_</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KriLikLeya1JChEpXAM"
-_sort_create_date = 1502942520
-_sort_last_updated = 1502942520
-_sort_publish_date = 1502996160
+sort_create_date = 1502942520
+sort_last_updated = 1502942520
+sort_publish_date = 1502996160
 create_date = "2017-08-16T21:02:00-07:00"
 publish_date = "2017-08-17T11:56:00-07:00"
 date = "2017-08-17T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This week, Sherman Alexie and Corinne Manning published new work. Seattle authors represent!"
 facebookauto = "This week, Sherman Alexie and Corinne Manning published new work. Seattle authors represent!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/sherman-alexie", "authors/corinne-manning"]
+notes_about = ""
 books = ""
 +++
 * Sherman Alexie's newest poem, "Hymn," was [published yesterday at Early Bird Books](https://earlybirdbooks.com/hymn-a-new-poem-by-sherman-alexie). It addresses President Trump directly:

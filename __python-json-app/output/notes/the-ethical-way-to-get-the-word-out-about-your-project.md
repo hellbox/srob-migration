@@ -1,8 +1,8 @@
 +++
 index = "-KLMFBHrmlmNx4bjH7fh"
-_sort_create_date = 1467121440
-_sort_last_updated = 1467137400
-_sort_publish_date = 1467147600
+sort_create_date = 1467121440
+sort_last_updated = 1467137400
+sort_publish_date = 1467147600
 create_date = "2016-06-28T06:44:00-07:00"
 publish_date = "2016-06-28T14:00:00-07:00"
 date = "2016-06-28T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our sponsorship program has been a huge success. Here's a check-in and debrief."
 facebookauto = "We took a big risk with our sponsorship program. Here's some real talk on how its working, and how you can sign up for a slot, if you're interested. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 When we started the _Seattle Review of Books_ we had two options for trying to fund our content: put ugly ads on every page, or try something experimental with a sponsorship program. There were three points that made this an easy choice:

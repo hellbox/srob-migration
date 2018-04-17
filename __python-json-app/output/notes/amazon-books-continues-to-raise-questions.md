@@ -1,8 +1,8 @@
 +++
 index = "-K5ldQB9DJ_C9IVL-QOw"
-_sort_create_date = 1450384380
-_sort_last_updated = 1450384380
-_sort_publish_date = 1450384380
+sort_create_date = 1450384380
+sort_last_updated = 1450384380
+sort_publish_date = 1450384380
 create_date = "2015-12-17T12:33:00-08:00"
 publish_date = "2015-12-17T12:33:00-08:00"
 date = "2015-12-17T12:33:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The good people @ShelfAwareness continue to raise important questions about Amazon Books."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon-books", "tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Shelf Awareness, which broke the news about Amazon Books, [continues to raise questions](http://www.shelf-awareness.com/issue.html?issue=2656#m30853) about the brick-and-mortar outpost of Amazon.com:

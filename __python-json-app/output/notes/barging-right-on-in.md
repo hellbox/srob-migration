@@ -1,8 +1,8 @@
 +++
 index = "-KLUb-WCQ1nm-tbdENR1"
-_sort_create_date = 1467261600
-_sort_last_updated = 1467839940
-_sort_publish_date = 1467747000
+sort_create_date = 1467261600
+sort_last_updated = 1467839940
+sort_publish_date = 1467747000
 create_date = "2016-06-29T21:40:00-07:00"
 publish_date = "2016-07-05T12:30:00-07:00"
 date = "2016-07-05T12:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Now that Intruder is going away, what's next for Seattle's comics scene?"
 facebookauto = "Now that Intruder is going away, what's next for Seattle's comics scene?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/intruder", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/fantagraphics"]
-authors_notes = ["authors/jim-woodring", "authors/david-lasky", "authors/marc-palm", "authors/max-clotfelter"]
+notes_about = ""
 books = ""
 +++
 Here, in two easy steps, is the secret to succeeding in Seattle:

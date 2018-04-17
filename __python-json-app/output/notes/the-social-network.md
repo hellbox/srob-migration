@@ -1,8 +1,8 @@
 +++
 index = "-KBe30EZRTYMWuWscIbR"
-_sort_create_date = 1456699560
-_sort_last_updated = 1456699980
-_sort_publish_date = 1456776060
+sort_create_date = 1456699560
+sort_last_updated = 1456699980
+sort_publish_date = 1456776060
 create_date = "2016-02-28T14:46:00-08:00"
 publish_date = "2016-02-29T12:01:00-08:00"
 date = "2016-02-29T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456699474174/ipho
 twitterauto = "Let's take a look at Litsy, the hot new social network for book-lovers."
 facebookauto = "Let's take a look at Litsy, the hot new social network for book-lovers."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/litsy", "tags/amazon", "tags/goodreads"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 When Amazon bought the book-themed social media site Goodreads in 2013, Goodreads users went through three stages in quick succession. First, they were outraged, publishing angry posts to Facebook about how betrayed they felt. They hated that Goodreads sold out to the evil empire, wondered if their Goodreads data would be accessible to Amazon shoppers, and tried half-heartedly to find an alternative literary social media site. 

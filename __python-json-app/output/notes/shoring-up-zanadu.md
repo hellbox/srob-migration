@@ -1,8 +1,8 @@
 +++
 index = "-KYNXmYbLkcIdy1M4g63"
-_sort_create_date = 1481101740
-_sort_last_updated = 1481101740
-_sort_publish_date = 1481137740
+sort_create_date = 1481101740
+sort_last_updated = 1481101740
+sort_publish_date = 1481137740
 create_date = "2016-12-07T01:09:00-08:00"
 publish_date = "2016-12-07T11:09:00-08:00"
 date = "2016-12-07T11:09:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Downtown comics shop @ZanaduComics is raising money to keep its doors open."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/zanadu-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Zanadu Comics, the 41-year-old comics shop on 3rd Avenue downtown, has launched a [crowdfunding campaign on GoFundMe](https://www.gofundme.com/zanadu-comics) to raise $80,000 to keep the lights on and the doors open. The shop cites "increased rent costs, and unfortunate city developments which includes a forced relocation due to building renovation late next year" as the reason for the campaign. It's especially heartwarming to see that Pike Place Market comics shop Golden Age Collectables, has donated $500 to the campaign, leaving a comment that "We're all in this together!"

@@ -1,8 +1,8 @@
 +++
 index = "-K0-p1ANE0ZtPKKk-jzo"
-_sort_create_date = 1444196640
-_sort_last_updated = 1444196700
-_sort_publish_date = 1444251660
+sort_create_date = 1444196640
+sort_last_updated = 1444196700
+sort_publish_date = 1444251660
 create_date = "2015-10-06T22:44:00-07:00"
 publish_date = "2015-10-07T14:01:00-07:00"
 date = "2015-10-07T14:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Are you an aspiring writer? Check out these two new writing opportunities, from @BitchMedia and @SIFFnews."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bitch", "tags/siff"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 **1**. Wonderful magazine [*Bitch* announced](https://bitchmedia.org/article/announcing-bitch-media-fellowships-writers) the Bitch Media Fellowship for emerging writers. Every three months, a writer will receive a $1500 stipend to work on one of four subjects:

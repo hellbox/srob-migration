@@ -1,8 +1,8 @@
 +++
 index = "-K3reFgd5iSPSJ-H9X8t"
-_sort_create_date = 1448337780
-_sort_last_updated = 1448337900
-_sort_publish_date = 1448473920
+sort_create_date = 1448337780
+sort_last_updated = 1448337900
+sort_publish_date = 1448473920
 create_date = "2015-11-23T20:03:00-08:00"
 publish_date = "2015-11-25T09:52:00-08:00"
 date = "2015-11-25T09:52:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448337037234/hear
 twitterauto = "Talking with Danielle Hulton (@AdasBooks), the owner of the wonderful bookstore @Adason15th."
 facebookauto = "As Ada's Technical Books prepares for its third holiday season on 15th Avenue, we chat with owner Danielle Hulton about what she's learned and what she's planning to do next."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/adas-technical-books", "tags/bookstore-of-the-month"]
-authors_notes = ["authors/margaret-atwood"]
+notes_about = ""
 books = ["books/winter"]
 +++
 The weeks leading up to Thanksgiving are traditionally when booksellers look back at the year that was and prepare for the busiest few weeks of the year. Danielle Hulton, the co-founder and manager of our November bookstore of the month, Ada’s Technical Books, is in that process right now, and she feels pretty good about where her store is. 

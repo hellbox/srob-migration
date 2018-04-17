@@ -1,8 +1,8 @@
 +++
 index = "-JwjuoBCnMUwN1bYdhOk"
-_sort_create_date = 1439617980
-_sort_last_updated = 1439617980
-_sort_publish_date = 1439740800
+sort_create_date = 1439617980
+sort_last_updated = 1439617980
+sort_publish_date = 1439740800
 create_date = "2015-08-14T22:53:00-07:00"
 publish_date = "2015-08-16T09:00:00-07:00"
 date = "2015-08-16T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This week's Sunday post has four items on Conrad, Carnegie, Patterson, and Berlin. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[An Accomplished Writer Takes a ‘MasterClass’ From a Gargantuan Selling Writer](http://observer.com/2015/08/an-accomplished-writer-takes-a-master-class-from-a-gargantuan-selling-writer/)</h5>

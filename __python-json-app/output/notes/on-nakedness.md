@@ -1,8 +1,8 @@
 +++
 index = "-KysN1FzFnmtuEUX5N0P"
-_sort_create_date = 1510626780
-_sort_last_updated = 1510627140
-_sort_publish_date = 1511891700
+sort_create_date = 1510626780
+sort_last_updated = 1510627140
+sort_publish_date = 1511891700
 create_date = "2017-11-13T18:33:00-08:00"
 publish_date = "2017-11-28T09:55:00-08:00"
 date = "2017-11-28T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510627073525/Scre
 twitterauto = "Our final poem from Poet in Residence Emily Bedard is titled \"On Nakedness\""
 facebookauto = "Our final poem from Poet in Residence Emily Bedard is titled \"On Nakedness\""
 make_image_tweet = "False"
-byline = ["writers/emily-bedard"]
+notes_byline = ["writers/emily-bedard"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 To make the banana naked, crack<br>

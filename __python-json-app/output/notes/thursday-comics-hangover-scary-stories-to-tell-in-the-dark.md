@@ -1,8 +1,8 @@
 +++
 index = "-Kr9tGowoC_5QMZcQawN"
-_sort_create_date = 1502347560
-_sort_last_updated = 1502347560
-_sort_publish_date = 1502383560
+sort_create_date = 1502347560
+sort_last_updated = 1502347560
+sort_publish_date = 1502383560
 create_date = "2017-08-09T23:46:00-07:00"
 publish_date = "2017-08-10T09:46:00-07:00"
 date = "2017-08-10T09:46:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502346656239/notm
 twitterauto = "At their best, comics anthologies are like a wild and hilarious conversation."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/noel-franklin", "authors/colleen-frakes", "authors/kelly-froh", "authors/max-clotfelter", "authors/ben-horak"]
+notes_about = ""
 books = ""
 +++
 You've gotta love a comics anthology built on a theme. There's something so conversational and warm and inquisitive about collections of short comics, particularly when they're all examining a particular idea from a wide variety of perspectives.

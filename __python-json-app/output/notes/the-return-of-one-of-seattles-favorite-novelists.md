@@ -1,8 +1,8 @@
 +++
 index = "-KR-LTzSiztl08qOOIY4"
-_sort_create_date = 1473179640
-_sort_last_updated = 1473182340
-_sort_publish_date = 1473192000
+sort_create_date = 1473179640
+sort_last_updated = 1473182340
+sort_publish_date = 1473192000
 create_date = "2016-09-06T09:34:00-07:00"
 publish_date = "2016-09-06T13:00:00-07:00"
 date = "2016-09-06T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1473004829322/
 twitterauto = "Sponsor Maria Semple is appearing October 8th at @THSEA presented by @ElliottBayBooks!"
 facebookauto = "Sponsor Maria Semple is appearing October 8th at Town Hall, presented by the Elliott Bay Book Company \u2014 grab your tickets today!"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/maria-semple"]
+notes_about = ""
 books = ""
 +++
 Sponsor Maria Semple has a new book coming out, and people are really, really excited about it. For good reason! Everybody in Seattle read her last novel _Where'd You Go, Bernadette_, and we want more.

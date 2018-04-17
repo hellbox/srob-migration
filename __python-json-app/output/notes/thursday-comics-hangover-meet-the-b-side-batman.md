@@ -1,8 +1,8 @@
 +++
 index = "-KnmUBZA1u6ho3S8BWhd"
-_sort_create_date = 1498716840
-_sort_last_updated = 1498753020
-_sort_publish_date = 1498755600
+sort_create_date = 1498716840
+sort_last_updated = 1498753020
+sort_publish_date = 1498755600
 create_date = "2017-06-28T23:14:00-07:00"
 publish_date = "2017-06-29T10:00:00-07:00"
 date = "2017-06-29T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498715464068/Moth
 twitterauto = "Our comics column looks at the rarest of comics rarities: a new twist on Batman."
 facebookauto = "Our comics column looks at the rarest of comics rarities: a new twist on Batman."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/dc-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I read the first issue of *Mother Panic*, a comic from My Chemical Romance frontman Gerard Way's Young Animal imprint of DC Comics, when it was first released over half a year ago. I didn't think too much of it — the comic suffered from first-issue-itis, wherein a lot of things happened but we weren't told why we should care.

@@ -1,8 +1,8 @@
 +++
 index = "-K90w0U2LYUXHT8YHmmt"
-_sort_create_date = 1453878900
-_sort_last_updated = 1453879440
-_sort_publish_date = 1453917300
+sort_create_date = 1453878900
+sort_last_updated = 1453879440
+sort_publish_date = 1453917300
 create_date = "2016-01-26T23:15:00-08:00"
 publish_date = "2016-01-27T09:55:00-08:00"
 date = "2016-01-27T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453878549524/Scre
 twitterauto = "Push/Pull is packed full of weird, fun minicomics and zines. Here are a few of our favorites:"
 facebookauto = "When you spend time browsing the shelves at Push/Pull, you'll likely find a handwritten love letter that's been launched out into the universe."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/push--pull"]
-authors_notes = ["authors/seth-goodkind"]
+notes_about = ""
 books = ""
 +++
 If you browse the comics section at Push/Pull, you might find a Post-It note affixed to the front of a minicomic here or there. These are the local equivalent of staff recommendation tags, only all the Post-Its are written by owner Maxx Follis’s son, and they are completely adorable. One Post-It on a book called *The Age* reads “It has amazing twist. —Sean.” A recommendation stuck to another book, *I Think Our Friend Dan Might Be a Dolphin*, by James Stanton, says “Funniest commic of 2015 — Sean, 8.” (The 5 on 2015, best of all, is backwards.)

@@ -1,8 +1,8 @@
 +++
 index = "-L6u3kYbcHJQij-7HDUQ"
-_sort_create_date = 1520319000
-_sort_last_updated = 1520363220
-_sort_publish_date = 1520370720
+sort_create_date = 1520319000
+sort_last_updated = 1520363220
+sort_publish_date = 1520370720
 create_date = "2018-03-05T22:50:00-08:00"
 publish_date = "2018-03-06T13:12:00-08:00"
 date = "2018-03-06T13:12:00-08:00"
@@ -13,10 +13,10 @@ title = "Land of promise"
 dek = "Natalie Singer's new memoir is \"a self-interrogation\" that is obsessed with the idea of California. Is it possible to be a pioneer in your own mind?"
 facebookauto = "Go west, young memoirist! Natalie Singer's California Calling is about a pioneer in search of herself."
 twitterauto = "Go west, young memoirist! Natalie Singer's California Calling is about a pioneer in search of herself."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/california-calling"]
 tags_reviews = ["tags/memoir"]
-authors_reviews = ["authors/natalie-singer"]
+reviews_about = ""
 +++
 
 "What we were heading toward," Seattle writer Natalie Singer writes at the beginning of her new memoir… 

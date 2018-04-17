@@ -1,8 +1,8 @@
 +++
 index = "-KKBnTlhVFL4PK5llw9N"
-_sort_create_date = 1465872360
-_sort_last_updated = 1465872420
-_sort_publish_date = 1465923300
+sort_create_date = 1465872360
+sort_last_updated = 1465872420
+sort_publish_date = 1465923300
 create_date = "2016-06-13T19:46:00-07:00"
 publish_date = "2016-06-14T09:55:00-07:00"
 date = "2016-06-14T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, by @mschmeltzer01, is titled \"My Heart the Size of a Tea Kettle\""
 facebookauto = "Our Tuesday Poem, by Michael Schmeltzer, is titled \"My Heart the Size of a Tea Kettle\""
 make_image_tweet = "False"
-byline = ["writers/michael-schmeltzer"]
+notes_byline = ["writers/michael-schmeltzer"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 What I brew in me<br>

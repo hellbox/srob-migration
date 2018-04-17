@@ -1,8 +1,8 @@
 +++
 index = "-L47n2qZDRmFWs52nvPJ"
-_sort_create_date = 1517344800
-_sort_last_updated = 1517446860
-_sort_publish_date = 1517421360
+sort_create_date = 1517344800
+sort_last_updated = 1517446860
+sort_publish_date = 1517421360
 create_date = "2018-01-30T12:40:00-08:00"
 publish_date = "2018-01-31T09:56:00-08:00"
 date = "2018-01-31T09:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517344213107/Lisa
 twitterauto = "We interviewed Lisa Rosenblum, the brand-new director of King County Library System (@KCLS)"
 facebookauto = "What books do you think Lisa Rosenblum, the new director of King County Library System, should read to learn about the region?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/new-hire", "tags/king-county-library-system"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1517344213107/Lisa%20Rosenblum.JPG)</p>

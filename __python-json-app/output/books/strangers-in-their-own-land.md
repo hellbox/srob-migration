@@ -1,8 +1,8 @@
 +++
 index = "-KdvviNK3y2hecannrgE"
-_sort_create_date = 1488138420
-_sort_last_updated = 1488138420
-_sort_publish_date = 1488138420
+sort_create_date = 1488138420
+sort_last_updated = 1488138420
+sort_publish_date = 1488138420
 create_date = "2017-02-26T11:47:00-08:00"
 publish_date = "2017-02-26T11:47:00-08:00"
 date = "2017-02-26T11:47:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-wdMID4RPcPEpdSHKlxRRlCXQyJQ47JYUZ35I6GFqqHW2VDBqPk4-n3vWAq0ch62gDBg9J3lFu0YpAXujBUMJDzIQRBR"
 url = "/webhook-uploads/1488138284335/strangersintheirownland.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 29734
 
 review_relationship = ["reviews/wait-your-turn"]
-author_relationship = ["authors/arlie-russell-hochschild"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-americas-worsening-political-divide-with-a-side-of-corned-beef"]
 +++

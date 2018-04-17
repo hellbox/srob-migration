@@ -1,8 +1,8 @@
 +++
 index = "-JwYNwTM52f3a_7UHDj-"
-_sort_create_date = 1439407740
-_sort_last_updated = 1439407740
-_sort_publish_date = 1439407740
+sort_create_date = 1439407740
+sort_last_updated = 1439407740
+sort_publish_date = 1439407740
 create_date = "2015-08-12T12:29:00-07:00"
 publish_date = "2015-08-12T12:29:00-07:00"
 date = "2015-08-12T12:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/copper-canyon-press"]
-authors_notes = ["authors/pablo-neruda"]
+notes_about = ""
 books = ""
 +++
 Port Townsend's Copper Canyon Press, which Sherman Alexie once declared at a reading was the best poetry publisher in America, [broke a little book news yesterday at GalleyCat](http://www.adweek.com/galleycat/copper-canyon-press-to-publish-the-english-edition-of-a-new-pablo-neruda-collection/108209):

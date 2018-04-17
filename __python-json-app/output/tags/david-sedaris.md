@@ -1,8 +1,8 @@
 +++
 index = "-KWlQvl2ukoUBzNAwhrQ"
-_sort_create_date = 1499874180
-_sort_last_updated = 1499874180
-_sort_publish_date = 1499874180
+sort_create_date = 1499874180
+sort_last_updated = 1499874180
+sort_publish_date = 1499874180
 create_date = "2017-07-12T08:43:00-07:00"
 publish_date = "2017-07-12T08:43:00-07:00"
 date = "2017-07-12T08:43:00-07:00"

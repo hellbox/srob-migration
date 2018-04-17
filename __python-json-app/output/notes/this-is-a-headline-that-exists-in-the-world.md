@@ -1,8 +1,8 @@
 +++
 index = "-K3vC-4yIgvatxafcM0d"
-_sort_create_date = 1448397240
-_sort_last_updated = 1448397240
-_sort_publish_date = 1448400720
+sort_create_date = 1448397240
+sort_last_updated = 1448397240
+sort_publish_date = 1448400720
 create_date = "2015-11-24T12:34:00-08:00"
 publish_date = "2015-11-24T13:32:00-08:00"
 date = "2015-11-24T13:32:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "24 hours after covering a subway car in Nazi symbols, Amazon is now trying to de-Godwin itself."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon"]
-authors_notes = ["authors/philip-k-dick"]
+notes_about = ""
 books = ""
 +++
 "[Amazon pulls Nazi symbols from New York subway ad campaign](http://www.theverge.com/2015/11/24/9793096/amazon-pulls-man-in-the-high-castle-nazi-subway-ads)." ([Here's context](http://seattlereviewofbooks.com/notes/2015/11/23/amazon-covers-new-york-city-subway-cars-in-nazi-insignias/) for those who weren't on the internet yesterday.)

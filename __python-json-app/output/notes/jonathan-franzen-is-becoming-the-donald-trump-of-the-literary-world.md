@@ -1,8 +1,8 @@
 +++
 index = "-JxG1aU_GGd_Y-pL8MvZ"
-_sort_create_date = 1440173640
-_sort_last_updated = 1440173640
-_sort_publish_date = 1440173640
+sort_create_date = 1440173640
+sort_last_updated = 1440173640
+sort_publish_date = 1440173640
 create_date = "2015-08-21T09:14:00-07:00"
 publish_date = "2015-08-21T09:14:00-07:00"
 date = "2015-08-21T09:14:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This is certainly a headline that exists in the world:

@@ -1,8 +1,8 @@
 +++
 index = "-KZTb_TTIL3pl12L8jaM"
-_sort_create_date = 1482277380
-_sort_last_updated = 1482277380
-_sort_publish_date = 1482277380
+sort_create_date = 1482277380
+sort_last_updated = 1482277380
+sort_publish_date = 1482277380
 create_date = "2016-12-20T15:43:00-08:00"
 publish_date = "2016-12-20T15:43:00-08:00"
 date = "2016-12-20T15:43:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482277337624/turn
 twitterauto = "The next Seattle Reads title was announced today. Here it is:"
 facebookauto = "The next Seattle Reads title was announced today. Here it is:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-reads"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The Washington Center for the Book just [announced their 2017 Seattle Reads title](http://www.spl.org/audiences/adults/seattle-reads). From May 8th to 11th, Angela Flournoy will read from her debut novel *The Turner House* in locations around the city. SPL locations will carry plenty of copies of *The Turner House* in stock so you can take part. Here's their description of the book:

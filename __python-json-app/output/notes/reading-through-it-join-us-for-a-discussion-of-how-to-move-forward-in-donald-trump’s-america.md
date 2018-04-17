@@ -1,8 +1,8 @@
 +++
 index = "-KWL2lW6C5U2UTWNHRmY"
-_sort_create_date = 1478912520
-_sort_last_updated = 1497417720
-_sort_publish_date = 1479243660
+sort_create_date = 1478912520
+sort_last_updated = 1497417720
+sort_publish_date = 1479243660
 create_date = "2016-11-11T17:02:00-08:00"
 publish_date = "2016-11-15T13:01:00-08:00"
 date = "2016-11-15T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478911323621/hill
 twitterauto = "Join us and the @seattleweekly at @ThirdPlaceBooks Seward Park for a discussion about moving forward."
 facebookauto = "The Urban Archipelago failed. Progressives can't just shelter in our cities and expect the rest of the country to go our way. So what next? Join us for a special series of discussions about moving forward in Trump's America"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump", "tags/book-club", "tags/reading-through-it"]
-authors_notes = ["authors/claudia-rankine"]
+notes_about = ""
 books = ["books/citizen"]
 +++
 

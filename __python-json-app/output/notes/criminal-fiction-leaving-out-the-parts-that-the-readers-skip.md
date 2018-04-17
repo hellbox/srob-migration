@@ -1,8 +1,8 @@
 +++
 index = "-KpYXhNmCvBjrjlpB9pU"
-_sort_create_date = 1500613620
-_sort_last_updated = 1501123860
-_sort_publish_date = 1501182000
+sort_create_date = 1500613620
+sort_last_updated = 1501123860
+sort_publish_date = 1501182000
 create_date = "2017-07-20T22:07:00-07:00"
 publish_date = "2017-07-27T12:00:00-07:00"
 date = "2017-07-27T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's Criminal Fiction! This month @daneetsteffens interviews @BillLoehfelm, and reviews @Connellybooks and others."
 facebookauto = "It's Criminal Fiction! This month Daneet Steffens interviews Bill Loehfelm, and reviews new work from Micheal Connelly, Jeff Abbott,  Jane Casey, and B.A. Paris."
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/elmore-leonard", "authors/jeff-abbott", "authors/jane-casey", "authors/michael-connelly", "authors/ba-paris", "authors/bill-loehfelm"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

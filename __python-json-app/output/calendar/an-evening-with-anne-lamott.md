@@ -1,8 +1,8 @@
 +++
 index = "-L8stDpAAW0Oc4TrAo-G"
-_sort_create_date = 1522446660
-_sort_last_updated = 1522446660
-_sort_publish_date = 1522446660
+sort_create_date = 1522446660
+sort_last_updated = 1522446660
+sort_publish_date = 1522446660
 create_date = "2018-03-30T14:51:00-07:00"
 publish_date = "2018-03-30T14:51:00-07:00"
 date = "2018-03-30T14:51:00-07:00"
@@ -26,6 +26,6 @@ time_description = "
 end_time = "2018-03-30T21:00:00-07:00"
 enddate = ""
 is_sponsorship = true
-authors = ["authors/anne-lamott"]
+authors = ""
 sponsorship_event = ""
 venues = ""

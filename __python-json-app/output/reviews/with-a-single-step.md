@@ -1,8 +1,8 @@
 +++
 index = "-Kf3RI7Nqxd7LrZM5hCQ"
-_sort_create_date = 1489354380
-_sort_last_updated = 1489354380
-_sort_publish_date = 1489431660
+sort_create_date = 1489354380
+sort_last_updated = 1489354380
+sort_publish_date = 1489431660
 create_date = "2017-03-12T14:33:00-07:00"
 publish_date = "2017-03-13T12:01:00-07:00"
 date = "2017-03-13T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "With a single step"
 dek = "On the pleasures of walking marathon distances, listening to audio books, and exploring Neal Stephenson's novel about a space catastrophe."
 facebookauto = "We took Neal Stephenson's most recent novel on some long walks. It taught us about the future."
 twitterauto = "We took Neal Stephenson's most recent novel on some long walks. It taught us about the future."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/seveneves-(audio)", "books/seveneves"]
 tags_reviews = ["tags/audio-books", "tags/science-fiction"]
-authors_reviews = ["authors/neal-stephenson"]
+reviews_about = ""
 +++
 
 Eventually we’ll get to the stars, but first we have to walk.

@@ -1,8 +1,8 @@
 +++
 index = "-L5CbRMf5Zkelt-X6OSz"
-_sort_create_date = 1518499380
-_sort_last_updated = 1518542520
-_sort_publish_date = 1518717300
+sort_create_date = 1518499380
+sort_last_updated = 1518542520
+sort_publish_date = 1518717300
 create_date = "2018-02-12T21:23:00-08:00"
 publish_date = "2018-02-15T09:55:00-08:00"
 date = "2018-02-15T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518499040622/inco
 twitterauto = "Are we about to enter the age of the celebrity editor? If so, this comic is a great start."
 facebookauto = "Are we about to enter the age of the celebrity editor? If so, this comic is a great start."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Berger Books, the new editor-driven imprint from Portland publisher Dark Horse Comics, is something new in the world of comics. It's a bet that readers of comics actually care about editors - or even really understand what comics editors *do*, for that matter. But to be fair, Karen Berger is one of the most successful editors in comics history: she created DC Comics's wildly successful Vertigo line, which created the template for modern mature-readers comics. 

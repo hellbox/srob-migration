@@ -1,8 +1,8 @@
 +++
 index = "-KOrst3iBhm9r1tReZEE"
-_sort_create_date = 1470890160
-_sort_last_updated = 1470890280
-_sort_publish_date = 1470890160
+sort_create_date = 1470890160
+sort_last_updated = 1470890280
+sort_publish_date = 1470890160
 create_date = "2016-08-10T21:36:00-07:00"
 publish_date = "2016-08-10T21:36:00-07:00"
 date = "2016-08-10T21:36:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Juvenile Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HzVNfHTbI0X8LeW2qdM6hKjsFdRdZOdxiUZaZdn4vYdmio61k6NlHiUYi83JTkXd9dAcYgaK79VkiUAUaph-oLXWRO0SrQ"
 url = "/webhook-uploads/1470890217281/content%3Fid%3D7NEul8arWTMC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 12885
 
 review_relationship = ""
-author_relationship = ""
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-K0wx3QFjhsFCvJrBZAa"
-_sort_create_date = 1445205360
-_sort_last_updated = 1445402280
-_sort_publish_date = 1445280240
+sort_create_date = 1445205360
+sort_last_updated = 1445402280
+sort_publish_date = 1445280240
 create_date = "2015-10-18T14:56:00-07:00"
 publish_date = "2015-10-19T11:44:00-07:00"
 date = "2015-10-19T11:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445204810501/htun
 twitterauto = "We talked with awesome comics journalist @sarahglidden about her move to Seattle and why she likes it here so far."
 facebookauto = "We interviewed Sarah Glidden, an excellent cartoonist who just moved to Seattle, about why she moved here. So far, she doesn't like the public transportation and she thinks the Seattle freeze is a myth. Sounds like she's got the city pretty well figured out!"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/new-hire", "tags/comics", "tags/short-run", "tags/seattle-freeze", "tags/seattle-globalist"]
-authors_notes = ["authors/sarah-glidden"]
+notes_about = ""
 books = ["books/how-to-understand-israel-in-60-days-or-less"]
 +++
 <p class="image-left">![](/webhook-uploads/1445204810501/htunderisraelcover11.jpg)</p>

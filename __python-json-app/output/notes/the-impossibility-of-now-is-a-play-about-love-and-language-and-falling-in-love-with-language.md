@@ -1,8 +1,8 @@
 +++
 index = "-L8dhXbXyUx985dlTBEm"
-_sort_create_date = 1522191960
-_sort_last_updated = 1522191960
-_sort_publish_date = 1522263960
+sort_create_date = 1522191960
+sort_last_updated = 1522191960
+sort_publish_date = 1522263960
 create_date = "2018-03-27T16:06:00-07:00"
 publish_date = "2018-03-28T12:06:00-07:00"
 date = "2018-03-28T12:06:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522191645665/impo
 twitterauto = "Word-lovers, this is the play for you!"
 facebookauto = "Word-lovers, this is the play for you!"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 You're on a book review website, so the chances are good that you're occasionally just completely gobsmacked by the beauty of a word. Maybe you've been astounded by the fact that a word like "chair" fits so perfectly with the idea of what a chair is and does. Or maybe you've been suddenly taken with the idea of the word "enormous" - eee-NOR-mous! - to the extent that you force the word into strange new contexts.

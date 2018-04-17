@@ -1,8 +1,8 @@
 +++
 index = "-JyGm4ZCSaieDp6_J6Cs"
-_sort_create_date = 1441259820
-_sort_last_updated = 1441259940
-_sort_publish_date = 1441259820
+sort_create_date = 1441259820
+sort_last_updated = 1441259940
+sort_publish_date = 1441259820
 create_date = "2015-09-02T22:57:00-07:00"
 publish_date = "2015-09-02T22:57:00-07:00"
 date = "2015-09-02T22:57:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4acGyiMFUfCN8_-nrnsKsUkyiAGhLxVyBo4vqqg2V9axiJ_kPZ_eIUA726JbZ-Eg7T_yvkmtG8WhmyUyqgSPs4DU5-ji"
 url = "/webhook-uploads/1441259869801/content%3Fid%3DI9TnMgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 18062
 
 review_relationship = ""
-author_relationship = ["authors/bob-fingerman"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-raise-the-minimum-wage"]
 +++

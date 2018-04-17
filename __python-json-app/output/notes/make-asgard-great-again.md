@@ -1,8 +1,8 @@
 +++
 index = "-KgIMgKoeaLtJq75Jsky"
-_sort_create_date = 1490678580
-_sort_last_updated = 1490678580
-_sort_publish_date = 1490728980
+sort_create_date = 1490678580
+sort_last_updated = 1490678580
+sort_publish_date = 1490728980
 create_date = "2017-03-27T22:23:00-07:00"
 publish_date = "2017-03-28T12:23:00-07:00"
 date = "2017-03-28T12:23:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490678589171/Scre
 twitterauto = "Neil Gaiman talks about the relevancy of ancient myths."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Neil Gaiman's sold-out reading at Benaroya Hall is this Sunday. [Over at the *San Diego Tribune*](http://www.sandiegouniontribune.com/entertainment/books/sd-et-author-gaiman-20170313-story.html), he talks about his new book, *Norse Mythology*, which retells Norse myths in more modern prose. Here he talks about a story in which the leader of the gods leads a crusade against foreigners:

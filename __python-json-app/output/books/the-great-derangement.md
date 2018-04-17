@@ -1,8 +1,8 @@
 +++
 index = "-Kr3UlzP4khhJsrRIWdU"
-_sort_create_date = 1502240220
-_sort_last_updated = 1502240220
-_sort_publish_date = 1502240220
+sort_create_date = 1502240220
+sort_last_updated = 1502240220
+sort_publish_date = 1502240220
 create_date = "2017-08-08T17:57:00-07:00"
 publish_date = "2017-08-08T17:57:00-07:00"
 date = "2017-08-08T17:57:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pGrZU5_Vt1ZDxMCDbEQHawnOT3mJFd4zTRqPx9Qfc1wLo4d42ZbvNNB-Bv0_B9K1-sgUN0IOVXHc9S0IaEMisgB_aVGEMQ"
 url = "/webhook-uploads/1502240086748/The%20Great%20Derangement_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 30530
 
 review_relationship = ["reviews/why-cant-literature-deal-with-climate-change"]
-author_relationship = ["authors/amitav-ghosh"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

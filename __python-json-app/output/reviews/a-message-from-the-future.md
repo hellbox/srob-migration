@@ -1,8 +1,8 @@
 +++
 index = "-KQZDbYuLO8YfNArDugG"
-_sort_create_date = 1472707800
-_sort_last_updated = 1472707800
-_sort_publish_date = 1472749260
+sort_create_date = 1472707800
+sort_last_updated = 1472707800
+sort_publish_date = 1472749260
 create_date = "2016-08-31T22:30:00-07:00"
 publish_date = "2016-09-01T10:01:00-07:00"
 date = "2016-09-01T10:01:00-07:00"
@@ -13,10 +13,10 @@ title = "A message from the future"
 dek = "Many authors use the future as a painless way to tell uncomfortable truths about the present. What is cartoonist Lucas Varela trying to tell us with his wordless slapstick comedy about an alien, a robot, and a clutch of creepy pink tentacles on a rampage?"
 facebookauto = "Here's a screwball sci-fi comic about aliens and tentacles and robots. What does it mean? Maybe nothing."
 twitterauto = "Here's a screwball sci-fi comic about aliens and tentacles and robots. What does it mean? Maybe nothing."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-longest-day-of-the-future"]
 tags_reviews = ["tags/thursday-comics-hangover", "tags/fantagraphics", "tags/comics"]
-authors_reviews = ["authors/lucas-varela"]
+reviews_about = ""
 +++
 
 You’ve seen this future before. Lucas Varela’s new comic *The Longest Day of the Future* is stuffed full of familiar sci-fi tropes: future humans walk around their future cities wearing sexless jumpsuits, unless they’re mad scientists in white lab coats and goggles. Aliens have giant skulls and fly around in saucers. Robots are comical figures with telescoping arms. Fleshy pink tentacles leap out at you when you least expect them. Portals enable instantaneous travel anywhere on Earth, and even into other dimensions. If it existed on a pulp paperback cover in the 1950s, you’ll probably find some representation of it in *Future*: every version of the future that we conceived of in the last century is crammed into just over a hundred pages.

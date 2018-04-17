@@ -1,8 +1,8 @@
 +++
 index = "-Kl2gBmNuGtMWAuG4m6P"
-_sort_create_date = 1495784220
-_sort_last_updated = 1496248980
-_sort_publish_date = 1496249820
+sort_create_date = 1495784220
+sort_last_updated = 1496248980
+sort_publish_date = 1496249820
 create_date = "2017-05-26T00:37:00-07:00"
 publish_date = "2017-05-31T09:57:00-07:00"
 date = "2017-05-31T09:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495784040320/life
 twitterauto = "Your literary event of the week is hosted by @ShoutYrAbortion. Awesome."
 facebookauto = "This week's event of the week is a reading from a Christian doctor who makes a moral case for abortion."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/shout-your-abortion", "tags/abortion"]
-authors_notes = ["authors/lindy-west"]
+notes_about = ""
 books = ""
 +++
 Seattle nonprofit Shout Your Abortion really hit a nerve with its name. Founder Amelia Bonow took a lot of flack from self-described progressives when she started the organization: they supported the organization's calling, they would say, but then they would hem and haw for a second before getting to the point: isn’t it in bad taste, they’d stammer, to “shout” abortions?

@@ -1,8 +1,8 @@
 +++
 index = "-L0D_DIeeWD8bDOLlgKQ"
-_sort_create_date = 1513146840
-_sort_last_updated = 1513146840
-_sort_publish_date = 1513620000
+sort_create_date = 1513146840
+sort_last_updated = 1513146840
+sort_publish_date = 1513620000
 create_date = "2017-12-12T22:34:00-08:00"
 publish_date = "2017-12-18T10:00:00-08:00"
 date = "2017-12-18T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513146768965/post
 twitterauto = "Our Event of the Week is an exhibition of chlorophyll prints in Redmond."
 facebookauto = "Our Event of the Week is an exhibition of chlorophyll prints in Redmond."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/shin-yu-pai"]
+notes_about = ""
 books = ""
 +++
 As the first Poet Laureate of the city of Redmond, Shin Yu Pai worked hard to bring poetry out into the civic space. She created a beautiful and elaborate combination of poetry and fabric art in response to a hate crime. She had another poem [animated and projected onto the side of a building](http://www.seattlereviewofbooks.com/notes/2017/11/29/book-news-roundup-head-to-redmond-for-an-animated-poem-this-weekend/). She’s demonstrated new ways that poets can interact with the public. 

@@ -1,8 +1,8 @@
 +++
 index = "-K_vAJZYS8bBDLVuS3PC"
-_sort_create_date = 1483830240
-_sort_last_updated = 1483856100
-_sort_publish_date = 1483894800
+sort_create_date = 1483830240
+sort_last_updated = 1483856100
+sort_publish_date = 1483894800
 create_date = "2017-01-07T15:04:00-08:00"
 publish_date = "2017-01-08T09:00:00-08:00"
 date = "2017-01-08T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post: book repair, animal autopsies, old young comedians, losing art critics, and megacity architecture."
 facebookauto = "The Sunday Post: book repair, animal autopsies, old young comedians, losing art critics, and megacity architecture."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.nytimes.com/2017/01/06/us/donald-vass-book-repair-seattle-library.html" title="He Fixes the Cracked Spines of Books, Without an Understudy - New York Times">He Fixes the Cracked Spines of Books, Without an Understudy</a></h5>

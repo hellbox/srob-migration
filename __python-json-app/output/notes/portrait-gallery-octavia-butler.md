@@ -1,8 +1,8 @@
 +++
 index = "-KmcWkVYOXNBb3n3Lavx"
-_sort_create_date = 1497476040
-_sort_last_updated = 1497477480
-_sort_publish_date = 1498165200
+sort_create_date = 1497476040
+sort_last_updated = 1497477480
+sort_publish_date = 1498165200
 create_date = "2017-06-14T14:34:00-07:00"
 publish_date = "2017-06-22T14:00:00-07:00"
 date = "2017-06-22T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1467223607783/SRoB
 twitterauto = "Portrait Gallery: Celebrating the birthday of #SciFi #writer #OctaviaButler @TheHuntington"
 facebookauto = "Portrait Gallery: Octavia Butler painted by Christine Marie Larsen. "
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/octavia-butler"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

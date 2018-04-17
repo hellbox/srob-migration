@@ -1,8 +1,8 @@
 +++
 index = "-Kelf4mv5yjmNrINqRoS"
-_sort_create_date = 1489039500
-_sort_last_updated = 1489078200
-_sort_publish_date = 1489089300
+sort_create_date = 1489039500
+sort_last_updated = 1489078200
+sort_publish_date = 1489089300
 create_date = "2017-03-08T22:05:00-08:00"
 publish_date = "2017-03-09T11:55:00-08:00"
 date = "2017-03-09T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "UW Press is hiring and Wide World Books & Maps considers its future in today's Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/university-of-washington-press", "tags/wide-world-travel-&amp;-maps"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * [Shelf Awareness reports](http://www.shelf-awareness.com/issue.html?issue=2952#m35724) that Wallingford's Wide World Books & Maps has to move next month:

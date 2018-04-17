@@ -1,8 +1,8 @@
 +++
 index = "-JzLvrrHRP1hpUymaJid"
-_sort_create_date = 1442420040
-_sort_last_updated = 1442437920
-_sort_publish_date = 1442435640
+sort_create_date = 1442420040
+sort_last_updated = 1442437920
+sort_publish_date = 1442435640
 create_date = "2015-09-16T09:14:00-07:00"
 publish_date = "2015-09-16T13:34:00-07:00"
 date = "2015-09-16T13:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Writer @alexdecampi is revealing some uncomfortable truths about sexism in the comics industry. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/dc-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Alex de Campi's critically acclaimed Wonder Woman comic, *Sensation Comics*, is being canceled. DC Comics has moved the separate ongoing *Wonder Woman* comic, which is terrible, under the Superman editorial banner. [On her blog](http://alexdecampi.tumblr.com/post/129003838049/you-can-only-find-the-best-version-of-wonder-woman), de Campi makes pubic some gossip that's been writhing just under the surface of the comics industry for decades now:

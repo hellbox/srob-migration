@@ -1,8 +1,8 @@
 +++
 index = "-KipU6qgrP7WDsWCw-PV"
-_sort_create_date = 1493398440
-_sort_last_updated = 1493398440
-_sort_publish_date = 1493398440
+sort_create_date = 1493398440
+sort_last_updated = 1493398440
+sort_publish_date = 1493398440
 create_date = "2017-04-28T09:54:00-07:00"
 publish_date = "2017-04-28T09:54:00-07:00"
 date = "2017-04-28T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493398462786/VonS
 twitterauto = "This author has such bad handwriting that \"every time I sign a copy of my book, I feel like I\u2019m defacing it.\""
 facebookauto = "This author has such bad handwriting that \"every time I sign a copy of my book, I feel like I\u2019m defacing it.\" What should he do?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/the-help-desk", "tags/autograph"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

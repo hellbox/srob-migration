@@ -1,8 +1,8 @@
 +++
 index = "-KKfomTxZNMf6B2yvxo0"
-_sort_create_date = 1466392800
-_sort_last_updated = 1466392800
-_sort_publish_date = 1466449260
+sort_create_date = 1466392800
+sort_last_updated = 1466392800
+sort_publish_date = 1466449260
 create_date = "2016-06-19T20:20:00-07:00"
 publish_date = "2016-06-20T12:01:00-07:00"
 date = "2016-06-20T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"We experimentalists are so lucky \u2014 we are always emerging!\" @mbsycamore interviews Robert Gl\u00fcck."
 facebookauto = "\"We experimentalists are so lucky \u2014 we are always emerging!\" Mattilda Bernstein Sycamore interviews Robert Gl\u00fcck."
 make_image_tweet = "True"
-byline = ["writers/mattilda-bernstein-sycamore"]
+notes_byline = ["writers/mattilda-bernstein-sycamore"]
 tags_notes = ["tags/interviews", "tags/lgbtq", "tags/emerging"]
-authors_notes = ["authors/mattilda-bernstein-sycamore", "authors/robert-gl\u00fcck"]
+notes_about = ""
 books = ""
 +++
 <p class="intro"><blockquote class="intro">

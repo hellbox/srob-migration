@@ -1,8 +1,8 @@
 +++
 index = "-L9hXvi1QRO1cGPVOZ7s"
-_sort_create_date = 1523329980
-_sort_last_updated = 1523330640
-_sort_publish_date = 1523980500
+sort_create_date = 1523329980
+sort_last_updated = 1523330640
+sort_publish_date = 1523980500
 create_date = "2018-04-09T20:13:00-07:00"
 publish_date = "2018-04-17T08:55:00-07:00"
 date = "2018-04-17T08:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523330631333/Scre
 twitterauto = "\"At Night, Asleep\" is the third poem from Poet in Residence @buddy_and_buddy"
 facebookauto = "\"At Night, Asleep\" is the third poem from Poet in Residence Jeanine Walker"
 make_image_tweet = "False"
-byline = ["writers/jeanine-walker"]
+notes_byline = ["writers/jeanine-walker"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 She comes into our room again,<br>

@@ -1,8 +1,8 @@
 +++
 index = "-K1CYwxKdkndQquy6Q9s"
-_sort_create_date = 1445484000
-_sort_last_updated = 1445544300
-_sort_publish_date = 1445532600
+sort_create_date = 1445484000
+sort_last_updated = 1445544300
+sort_publish_date = 1445532600
 create_date = "2015-10-21T20:20:00-07:00"
 publish_date = "2015-10-22T09:50:00-07:00"
 date = "2015-10-22T09:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lit-crawl"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The Seattle edition of Lit Crawl is finally here! It starts at 6 pm and continues through 8:45 (although the afterparty at Fred Wildlife Refuge will likely continue until the booze runs dry.) You can [find a map and schedule here](http://litcrawl.org/seattle/2015-map).

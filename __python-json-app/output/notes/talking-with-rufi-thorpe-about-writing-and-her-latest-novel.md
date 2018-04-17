@@ -1,8 +1,8 @@
 +++
 index = "-KHwn4COaWDNif0kt6nz"
-_sort_create_date = 1463456340
-_sort_last_updated = 1469048520
-_sort_publish_date = 1464112800
+sort_create_date = 1463456340
+sort_last_updated = 1469048520
+sort_publish_date = 1464112800
 create_date = "2016-05-16T20:39:00-07:00"
 publish_date = "2016-05-24T11:00:00-07:00"
 date = "2016-05-24T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463500396497/d90f
 twitterauto = "We really enjoyed talked to @rufithorpe about her sublime new book. "
 facebookauto = "We sat down and talked to Rufi Thorpe about her new book \u2014 that one we were all gushy about yesterday."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/rufi-thorpe"]
+notes_about = ""
 books = ["books/dear-fang-with-love"]
 +++
 <p class="image-left">![](/webhook-uploads/1463500367954/Thorpe%20Photo_Nina%20Subin.jpg)</p>

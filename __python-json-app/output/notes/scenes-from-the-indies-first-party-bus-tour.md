@@ -1,8 +1,8 @@
 +++
 index = "-KXZjB6GBv5OjbqbbMcw"
-_sort_create_date = 1480232580
-_sort_last_updated = 1480232580
-_sort_publish_date = 1480362120
+sort_create_date = 1480232580
+sort_last_updated = 1480232580
+sort_publish_date = 1480362120
 create_date = "2016-11-26T23:43:00-08:00"
 publish_date = "2016-11-28T11:42:00-08:00"
 date = "2016-11-28T11:42:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480230672441/Indi
 twitterauto = "Scenes from the #IndiesFirst Party Bus tour, featuring @ThirdPlaceBooks, @ElliottBayBooks @ Ubookstorereads."
 facebookauto = "This is what happens when you stick 25 writers on a bus and drive them around to three Seattle-area bookstores:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/third-place-books-seward-park", "tags/university-book-store", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/sherman-alexie", "authors/sarah-glidden", "authors/g-willow-wilson", "authors/jane-wong", "authors/quenton-baker"]
+notes_about = ""
 books = ""
 +++
 On Saturday, Sherman Alexie [rented a party bus, stuffed it full of 24 Seattle-area writers, and led the charge to three Seattle-area bookstores](http://www.seattlereviewofbooks.com/notes/2016/11/23/literary-event-of-the-week-indies-first-party-bus/). It was an ambitious broadening of the Indies First program that Alexie originated in Seattle a few years ago, in which authors serve as "guest booksellers" at independent bookstores on Small Business Saturday. And the scaling up of the concept required a few sacrifices: some of Seattle's smaller bookstores couldn't physically contain a swarm of 25 authors at once, for instance, and the sheer amount of time it takes to get a group that large around town limited the number of bookstore visits that were possible. So the party bus tour was held to three stops: Seward Park's new Third Place Books, University Book Store, and Elliott Bay Book Company. (Many other Seattle bookstores, incuding [Open Books](https://twitter.com/openpoetrybooks/status/802705975815729154), [Seattle Mystery Bookshop](https://twitter.com/SeattleMystery/status/802603903741108224), and [Phinney Books](https://twitter.com/PhinneyBooks/status/802635400749559808) celebrated Indies First with their own slate of author-booksellers.) 

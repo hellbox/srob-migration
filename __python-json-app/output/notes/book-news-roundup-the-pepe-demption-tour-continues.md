@@ -1,8 +1,8 @@
 +++
 index = "-Koxxs4xfGg_vD2pqqq8"
-_sort_create_date = 1499983200
-_sort_last_updated = 1500056340
-_sort_publish_date = 1500058800
+sort_create_date = 1499983200
+sort_last_updated = 1500056340
+sort_publish_date = 1500058800
 create_date = "2017-07-13T15:00:00-07:00"
 publish_date = "2017-07-14T12:00:00-07:00"
 date = "2017-07-14T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Book news roundup features the Pepe-demption, a look at dystopian fiction, and Bill Gates's summer reading."
 facebookauto = "Book news roundup features the Pepe-demption, a look at dystopian fiction, and Bill Gates's summer reading."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * The [Institute of American Indian Arts just announced](http://nativenewsonline.net/currents/jamie-natonabah-selected-recipient-iaia-mfa-creatve-writing-programs-first-sherman-alexie-scholarship/?utm_source=dlvr.it&utm_medium=twitter) the recipient of their very first Sherman Alexie Scholarship. Alexie himself selected the winner:

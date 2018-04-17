@@ -1,8 +1,8 @@
 +++
 index = "-Kl2IC-4TvJRTlcyFS2L"
-_sort_create_date = 1495777680
-_sort_last_updated = 1495821660
-_sort_publish_date = 1495777680
+sort_create_date = 1495777680
+sort_last_updated = 1495821660
+sort_publish_date = 1495777680
 create_date = "2017-05-25T22:48:00-07:00"
 publish_date = "2017-05-25T22:48:00-07:00"
 date = "2017-05-25T22:48:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Reports are coming in that author Denis Johnson has died."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/death"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Writer Chris Offutt reports on Twitter: 

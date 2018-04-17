@@ -1,8 +1,8 @@
 +++
 index = "-KCy9ln2eZIjLmH0XfUG"
-_sort_create_date = 1458110640
-_sort_last_updated = 1458110640
-_sort_publish_date = 1458159600
+sort_create_date = 1458110640
+sort_last_updated = 1458110640
+sort_publish_date = 1458159600
 create_date = "2016-03-15T23:44:00-07:00"
 publish_date = "2016-03-16T13:20:00-07:00"
 date = "2016-03-16T13:20:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "People who read e-books on Barnes & Noble devices in the UK might not have access to their e-books anymore. "
 facebookauto = "People who read e-books on Barnes & Noble devices in the UK might not have access to their e-books anymore. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/e-book", "tags/barnes-&amp;-noble"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Nate Hoffelder [at the Digital Reader](http://the-digital-reader.com/2016/03/15/new-nook-hardware-could-become-worthless-in-the-uk-after-31-may-2016/) reports that Barnes & Noble is dropping its Nook e-reading service in the United Kingdom. If you own a Nook e-reader, that could turn out to be a real problem. For one thing, you might not be able to access your books anymore. For another thing...

@@ -1,8 +1,8 @@
 +++
 index = "-K4L7vdKjWU_ithU-WDt"
-_sort_create_date = 1448849160
-_sort_last_updated = 1448849220
-_sort_publish_date = 1448918700
+sort_create_date = 1448849160
+sort_last_updated = 1448849220
+sort_publish_date = 1448918700
 create_date = "2015-11-29T18:06:00-08:00"
 publish_date = "2015-11-30T13:25:00-08:00"
 date = "2015-11-30T13:25:00-08:00"
@@ -13,10 +13,10 @@ title = "The road to Donald Trump is paved with decency"
 dek = "Jon Meacham has delivered the unthinkable: he's written a compelling biography of George H.W. Bush. But is Meacham too close to his subject? What does the life of the elder Bush have to teach us about the current abysmal state of the Republican Party?"
 facebookauto = "What does a biography of the elder George H.W. Bush have to teach us about the rise of Donald Trump?"
 twitterauto = "Is George H.W. Bush to blame for the rise of Donald Trump?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/destiny-and-power"]
 tags_reviews = ["tags/politics", "tags/biography"]
-authors_reviews = ["authors/jon-meacham"]
+reviews_about = ""
 +++
 
 The introduction to *Destiny and Power*, the new biography of George H.W. Bush, makes it pretty clear where Jon Meacham’s loyalty as a biographer lies. Bush, Meacham writes, “was driven less by ideas about politics than by an ideal of service and an ambition — a consuming one — to win.” He continues:

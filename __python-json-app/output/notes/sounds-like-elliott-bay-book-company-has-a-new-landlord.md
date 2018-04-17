@@ -1,8 +1,8 @@
 +++
 index = "-KfxdIXmXWtget_3iA9W"
-_sort_create_date = 1490314140
-_sort_last_updated = 1490314140
-_sort_publish_date = 1490314140
+sort_create_date = 1490314140
+sort_last_updated = 1490314140
+sort_publish_date = 1490314140
 create_date = "2017-03-23T17:09:00-07:00"
 publish_date = "2017-03-23T17:09:00-07:00"
 date = "2017-03-23T17:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@elliottbaybooks might have a new landlord."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/elliott-bay-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This morning, [Capitol Hill Seattle's Kaylee Osowski reported](http://www.capitolhillseattle.com/2017/03/elliott-bay-book-company-friendly-buyer-found-for-capitol-hills-ford-building/) that the Elliott Bay Book Company's building has found a buyer. According to present Elliott Bay landlord Hunters Capital, the new landlord wants to keep the bookstore as a tenant. They have not yet revealed the identity of the prospective owner, but they call them "local" and "family-owned." 

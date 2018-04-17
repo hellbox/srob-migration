@@ -1,8 +1,8 @@
 +++
 index = "-Ka0Ec5hsQWeNcOucOMp"
-_sort_create_date = 1483932060
-_sort_last_updated = 1483932060
-_sort_publish_date = 1484166600
+sort_create_date = 1483932060
+sort_last_updated = 1483932060
+sort_publish_date = 1484166600
 create_date = "2017-01-08T19:21:00-08:00"
 publish_date = "2017-01-11T12:30:00-08:00"
 date = "2017-01-11T12:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "There are all sorts of neat opportunities for writers over at @HugoHouse right now."
 facebookauto = "If you're a writer in Seattle, Hugo House has some neat opportunities that you should know about."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This is a public service announcement: between January 1st and March 31st, Hugo House has open submissions for two very different positions.

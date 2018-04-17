@@ -1,8 +1,8 @@
 +++
 index = "-KskoX3t5DxvjJXyBVPp"
-_sort_create_date = 1504057620
-_sort_last_updated = 1504113900
-_sort_publish_date = 1504205220
+sort_create_date = 1504057620
+sort_last_updated = 1504113900
+sort_publish_date = 1504205220
 create_date = "2017-08-29T18:47:00-07:00"
 publish_date = "2017-08-31T11:47:00-07:00"
 date = "2017-08-31T11:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Find out what news @paulconstant calls \"an absolute [expletive] nightmare\" in today's Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/village-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Village Books cofounder Chuck Robinson, who served as president of both the Pacific Northwest Booksellers Association and the American Booksellers Association, now [owns a consulting business for businesses and nonprofits](https://www.chuckrobinsonassociates.com/). Chuck Robinson Associates will offer the leadership and advice that Robinson put to good use as the head of Village Books for decades. Village Books has repeatedly been recognized nationwide as an example of independent bookselling done right; that's largely due to Robinson's leadership.

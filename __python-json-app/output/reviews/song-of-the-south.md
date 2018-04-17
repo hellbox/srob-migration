@@ -1,8 +1,8 @@
 +++
 index = "-KsvhJK3r_0IwM98k0gT"
-_sort_create_date = 1504240260
-_sort_last_updated = 1504240260
-_sort_publish_date = 1505242740
+sort_create_date = 1504240260
+sort_last_updated = 1504240260
+sort_publish_date = 1505242740
 create_date = "2017-08-31T21:31:00-07:00"
 publish_date = "2017-09-12T11:59:00-07:00"
 date = "2017-09-12T11:59:00-07:00"
@@ -13,10 +13,10 @@ title = "Song of the South"
 dek = "Even Joan Didion's unfinished story notes are absolutely motherfucking perfect."
 facebookauto = "Joan Didion is too good. Even her rough drafts are perfect."
 twitterauto = "Joan Didion is too good. Even her rough drafts are perfect."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/south-and-west"]
 tags_reviews = ["tags/journalism"]
-authors_reviews = ["authors/joan-didion"]
+reviews_about = ""
 +++
 
 I do not recommend that writers read Joan Didion’s latest book, *South and West*, unless they have a very strong ego. Subtitled *From a Notebook*, *South* is a published version of Didion’s notes that she compiled during a 1970s trip to southern states. She never shaped the notes into an essay or a collection, and she undoubtedly never intended her notes to be published.

@@ -1,8 +1,8 @@
 +++
 index = "-KEixx0W3yjqh1idUNZe"
-_sort_create_date = 1460003100
-_sort_last_updated = 1460074320
-_sort_publish_date = 1460062800
+sort_create_date = 1460003100
+sort_last_updated = 1460074320
+sort_publish_date = 1460062800
 create_date = "2016-04-06T21:25:00-07:00"
 publish_date = "2016-04-07T14:00:00-07:00"
 date = "2016-04-07T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460002796626/SRoB
 twitterauto = "It's @sonnyliew by @studiochristine! Liew appears at @ElliottBayBooks Monday."
 facebookauto = "It's Sonny Liew in the Portrait Gallery this week! Liew appears Monday at Elliott Bay Book Company."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ""
-authors_notes = ["authors/sonny-liew"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, <a href="http://christinelarsen.com">Christine Marie Larsen</a> creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? <a href="http://seattlereviewofbooks.com/about">Let us know</a></p>

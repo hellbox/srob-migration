@@ -1,8 +1,8 @@
 +++
 index = "-KxduX_rs57HF2UwwHzr"
-_sort_create_date = 1509310440
-_sort_last_updated = 1509487920
-_sort_publish_date = 1509559200
+sort_create_date = 1509310440
+sort_last_updated = 1509487920
+sort_publish_date = 1509559200
 create_date = "2017-10-29T13:54:00-07:00"
 publish_date = "2017-11-01T11:00:00-07:00"
 date = "2017-11-01T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509487869651/Figu
 twitterauto = "A surprise find leads @RealPaulaBurke to a story about poetry, Seattle, and Japanese immigration."
 facebookauto = "Archeologist Paula Johnson Burke unearths the story of Shinjiro Honda, a Japanese immigrant to Seattle who launched a poetry movement before the internment."
 make_image_tweet = "True"
-byline = ["writers/paula-johnson-burke"]
+notes_byline = ["writers/paula-johnson-burke"]
 tags_notes = ""
-authors_notes = ["authors/shinjiro-honda"]
+notes_about = ""
 books = ""
 +++
 Several summers ago, an architect contacted me to ask whether I could help with a curious discovery. In the backyard of an almost-hundred-year-old house in Seattle’s Chinatown–International District, hidden under overgrown shrubbery, workers uncovered a yellowish-tan oblong stone. Carved on one side, in English, was _“Shinjiro Honda/Died Sept. 3, 1942/Age 65”_; on the other was Kanji script that translated to _“September 3, 1942/This is the grave of the deceased Shinjiro Honda/Lived 65 years/Shizuoka prefecture, Hamamatsu city.”_

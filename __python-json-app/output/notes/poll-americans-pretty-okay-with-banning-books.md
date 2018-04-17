@@ -1,8 +1,8 @@
 +++
 index = "-Jvp1Zsm8GN7Uw1Eo8gE"
-_sort_create_date = 1438630140
-_sort_last_updated = 1438630140
-_sort_publish_date = 1438633740
+sort_create_date = 1438630140
+sort_last_updated = 1438630140
+sort_publish_date = 1438633740
 create_date = "2015-08-03T12:29:00-07:00"
 publish_date = "2015-08-03T13:29:00-07:00"
 date = "2015-08-03T13:29:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/censorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Lisa Peet [at *Library Journal*](http://lj.libraryjournal.com/2015/07/censorship-2/harris-poll-shows-growing-support-for-book-banning-ratings/#_) writes about some disappointing new Harris poll results:

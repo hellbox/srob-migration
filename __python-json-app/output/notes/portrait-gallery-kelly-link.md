@@ -1,8 +1,8 @@
 +++
 index = "-KtRwoNVCTeqmSntCJ5l"
-_sort_create_date = 1504797960
-_sort_last_updated = 1504797960
-_sort_publish_date = 1504818000
+sort_create_date = 1504797960
+sort_last_updated = 1504797960
+sort_publish_date = 1504818000
 create_date = "2017-09-07T08:26:00-07:00"
 publish_date = "2017-09-07T14:00:00-07:00"
 date = "2017-09-07T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504714764841/SRoB
 twitterauto = "Portrait Gallery: Kelly Link by @studiochristine. See @haszombiesinit Fri @HugoHouse Word Works talk @FryeArtMuseum"
 facebookauto = "Portrait Gallery: Kelly Link by Christine Marie Larsen. Kelly Link will be giving a Word Works talk for Hugo House at the Frye Art Museum this Friday, Sept. 8."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/kelly-link"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

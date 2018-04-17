@@ -1,8 +1,8 @@
 +++
 index = "-L08XRX6jGxbBdK_luc_"
-_sort_create_date = 1513062240
-_sort_last_updated = 1513101240
-_sort_publish_date = 1513107900
+sort_create_date = 1513062240
+sort_last_updated = 1513101240
+sort_publish_date = 1513107900
 create_date = "2017-12-11T23:04:00-08:00"
 publish_date = "2017-12-12T11:45:00-08:00"
 date = "2017-12-12T11:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A prize for Jane Wong, a resurrection for Gawker, and much more in today's Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/jane-wong"]
+notes_about = ""
 books = ""
 +++
 * Congratulations to Seattle poet Jane Wong, who won the [2017 James W. Ray Distinguished Artist Award](http://artisttrust.org/index.php/award-winners/artist-profile/jane_wong). The award is $50,000 — one of the biggest available to writers in the area — and Wong will have the opportunity to present her work at the Frye Art Museum. We'll have more news about that exhibit when it gets closer to happening.

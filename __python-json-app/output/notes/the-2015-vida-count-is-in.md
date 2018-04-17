@@ -1,8 +1,8 @@
 +++
 index = "-KE7JrElbkBlG-PzHHt6"
-_sort_create_date = 1459354800
-_sort_last_updated = 1459354800
-_sort_publish_date = 1459362600
+sort_create_date = 1459354800
+sort_last_updated = 1459354800
+sort_publish_date = 1459362600
 create_date = "2016-03-30T09:20:00-07:00"
 publish_date = "2016-03-30T11:30:00-07:00"
 date = "2016-03-30T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.vidaweb.org/wp-content/uploads/2016/03/McSweeneys-665x8
 twitterauto = "The 2015 @VIDA_lit count is in! How inclusive are your favorite literary publications?"
 facebookauto = "The 2015 VIDA count is in! How inclusive are your favorite literary publications?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/vida"]
-authors_notes = ["authors/nicola-griffith"]
+notes_about = ""
 books = ""
 +++
 Every year, VIDA "examine[s] race and ethnicity, gender, sexual identity and ability" by counting the demographics of literary institutions like awards and magazines. Their [2015 Count](http://www.vidaweb.org/the-2015-vida-count/) examines literary magazines and review outlets, and the news is...[drumroll]...[at least partially good](http://www.vidaweb.org/the-2015-vida-count/)!

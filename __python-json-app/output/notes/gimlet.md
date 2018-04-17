@@ -1,8 +1,8 @@
 +++
 index = "-KKiWsqqrzkG5RhZ9uMa"
-_sort_create_date = 1466438220
-_sort_last_updated = 1466519160
-_sort_publish_date = 1466528100
+sort_create_date = 1466438220
+sort_last_updated = 1466519160
+sort_publish_date = 1466528100
 create_date = "2016-06-20T08:57:00-07:00"
 publish_date = "2016-06-21T09:55:00-07:00"
 date = "2016-06-21T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, \"Gimlet, is from @coolniceghost."
 facebookauto = "Our Tuesday Poem, \"Gimlet, is from Sonya Vatomsky."
 make_image_tweet = "False"
-byline = ["writers/sonya-vatomsky"]
+notes_byline = ["writers/sonya-vatomsky"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Once upon a time a man took me to dinner, asked<br>

@@ -1,8 +1,8 @@
 +++
 index = "-KdNjhtnta3qz4rJu-68"
-_sort_create_date = 1487547540
-_sort_last_updated = 1487547540
-_sort_publish_date = 1487620860
+sort_create_date = 1487547540
+sort_last_updated = 1487547540
+sort_publish_date = 1487620860
 create_date = "2017-02-19T15:39:00-08:00"
 publish_date = "2017-02-20T12:01:00-08:00"
 date = "2017-02-20T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The University of Washington is hosting a timely class on calling people out on their bullshit."
 facebookauto = "The University of Washington is hosting a timely class on calling people out on their bullshit."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/university-of-washington"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Tess Townsend [writes at ReCode](http://www.recode.net/2017/2/19/14660236/big-data-bullshit-college-course-university-washington): 

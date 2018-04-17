@@ -1,8 +1,8 @@
 +++
 index = "-KLYYnV29670WrnwynGA"
-_sort_create_date = 1467327900
-_sort_last_updated = 1467327900
-_sort_publish_date = 1467651600
+sort_create_date = 1467327900
+sort_last_updated = 1467327900
+sort_publish_date = 1467651600
 create_date = "2016-06-30T16:05:00-07:00"
 publish_date = "2016-07-04T10:00:00-07:00"
 date = "2016-07-04T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Take a look at what the kids of McClure Middle School are reading this summer."
 facebookauto = "Take a look at what the kids of McClure Middle School are reading this summer."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/librarians", "tags/queen-anne-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 First of all: we at the *Seattle Review of Books* would like to wish you a happy 4th of July! Here's some Sousa for you:

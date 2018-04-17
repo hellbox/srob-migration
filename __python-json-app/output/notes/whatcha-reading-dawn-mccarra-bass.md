@@ -1,8 +1,8 @@
 +++
 index = "-L4yS0il7LT_QZIZ8j4r"
-_sort_create_date = 1518244980
-_sort_last_updated = 1518246540
-_sort_publish_date = 1518283800
+sort_create_date = 1518244980
+sort_last_updated = 1518246540
+sort_publish_date = 1518283800
 create_date = "2018-02-09T22:43:00-08:00"
 publish_date = "2018-02-10T09:30:00-08:00"
 date = "2018-02-10T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518246250480/dawn
 twitterauto = "Hey @despra, whatcha reading? "
 facebookauto = "Hey Dawn McCarra Bass, whatcha reading?"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/whatcha-reading"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week we ask an interesting figure what they’re digging into. Have ideas who we should reach out to? Let it fly: <a href="mailto:info@seattlereviewofbooks.com">info@seattlereviewofbooks.com</a>. Want to read more? Check out the <a href="http://www.seattlereviewofbooks.com/tags/whatcha-reading">archives</a>.</p>

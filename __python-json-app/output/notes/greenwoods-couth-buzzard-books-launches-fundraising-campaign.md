@@ -1,8 +1,8 @@
 +++
 index = "-L6Y22QHOpCxJwqeoz5B"
-_sort_create_date = 1519932660
-_sort_last_updated = 1519932660
-_sort_publish_date = 1519932660
+sort_create_date = 1519932660
+sort_last_updated = 1519932660
+sort_publish_date = 1519932660
 create_date = "2018-03-01T11:31:00-08:00"
 publish_date = "2018-03-01T11:31:00-08:00"
 date = "2018-03-01T11:31:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Greenwood bookstore Couth Buzzard is running a GoFundMe campaign."
 facebookauto = "Greenwood bookstore Couth Buzzard is running a GoFundMe campaign."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fundraiser", "tags/couth-buzzard"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Citing decreasing retail book sales, rising rents, and other increased expenditures, Greenwood community bookshop Couth Buzzard Books [launched a GoFundMe campaign this morning](https://www.gofundme.com/FriendsOfCouthBuzzardBooks). The campaign aims to raise $9,500 dollars through the sale of a number of rewards, including locally produced art, music, and books. Additionally, funders who provide up to $100 in support will receive an equal amount in store credit to spend on books at the shop. 

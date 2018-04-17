@@ -1,8 +1,8 @@
 +++
 index = "-KKHDBY1rMC9boUMG6di"
-_sort_create_date = 1465963260
-_sort_last_updated = 1465963980
-_sort_publish_date = 1465963740
+sort_create_date = 1465963260
+sort_last_updated = 1465963980
+sort_publish_date = 1465963740
 create_date = "2016-06-14T21:01:00-07:00"
 publish_date = "2016-06-14T21:09:00-07:00"
 date = "2016-06-14T21:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Check out these great pictures of our readers from last Friday's @studiochristine opening. "
 facebookauto = "We have an Instagram account (http://instagram.com/seattlereviewof)! See us put it to good use on this post about thanking everybody for coming out last Friday. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/events"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We have [an Instagram account](https://www.instagram.com/seattlereviewof/)! Let me utilize it here to extend some thanks. 

@@ -1,8 +1,8 @@
 +++
 index = "-Klddhqj36Ayyo9qoIvY"
-_sort_create_date = 1496421120
-_sort_last_updated = 1496434440
-_sort_publish_date = 1496422800
+sort_create_date = 1496421120
+sort_last_updated = 1496434440
+sort_publish_date = 1496422800
 create_date = "2017-06-02T09:32:00-07:00"
 publish_date = "2017-06-02T10:00:00-07:00"
 date = "2017-06-02T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In a divorce, who gets custody of the books? @ciennam is on the case."
 facebookauto = "Even the most amicable of divorces gets testy when it comes time to determine who gets custody of the books. Cienna Madrid helps a couple figure out how to divide their bookshelves fairly."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

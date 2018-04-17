@@ -1,8 +1,8 @@
 +++
 index = "-KXSghpLHHSSTw6SMGp1"
-_sort_create_date = 1480114440
-_sort_last_updated = 1480114440
-_sort_publish_date = 1480114440
+sort_create_date = 1480114440
+sort_last_updated = 1480114440
+sort_publish_date = 1480114440
 create_date = "2016-11-25T14:54:00-08:00"
 publish_date = "2016-11-25T14:54:00-08:00"
 date = "2016-11-25T14:54:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bISIpGzlLD_T3Knp-3hLkCAgYvZtW2cmMrNVGxmiyBdzcXjTL6_TbfBv9pKw9XdG_-5kld6UaLkteKYHsNVmYTDjm5bW"
 url = "/webhook-uploads/1480114193440/silver%20cup%20cover%20small%20rgb%20(7-5-16).jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 1071032
 
 review_relationship = ""
-author_relationship = ["authors/anna-redsand"]
+books_author = ""
 sponsorships_book = ["sponsorships/to-drink-from-the-silver-cup"]
 notes_relationship = ""
 +++

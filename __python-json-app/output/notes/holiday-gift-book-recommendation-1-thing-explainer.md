@@ -1,8 +1,8 @@
 +++
 index = "-K4WQi-p-6xX_BjR06YR"
-_sort_create_date = 1449038580
-_sort_last_updated = 1449081900
-_sort_publish_date = 1449081900
+sort_create_date = 1449038580
+sort_last_updated = 1449081900
+sort_publish_date = 1449081900
 create_date = "2015-12-01T22:43:00-08:00"
 publish_date = "2015-12-02T10:45:00-08:00"
 date = "2015-12-02T10:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449037783690/9780
 twitterauto = "Our holiday gift book guide begins with a bookseller from @ravenna3rdplace, who recommends Thing Explainer."
 facebookauto = "Every Wednesday through Christmas, we're going to talk with a different bookseller about the book they're most excited about giving as a gift. Our first bookseller, Alex Gholz at Third Place Books Ravenna, is super-thrilled about Randall Munroe's new book Thing Explainer."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/third-place-books-ravenna"]
-authors_notes = ["authors/randall-munroe"]
+notes_about = ""
 books = ["books/thing-explainer"]
 +++
 <p class="intro">(Every Wednesday in December before Christmas, we’ll talk to a Seattle bookseller about the gift book they’re most excited about this season.)</p>

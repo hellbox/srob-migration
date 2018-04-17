@@ -1,8 +1,8 @@
 +++
 index = "-KynypxZboaR4xNp05GG"
-_sort_create_date = 1510553100
-_sort_last_updated = 1510553640
-_sort_publish_date = 1510682100
+sort_create_date = 1510553100
+sort_last_updated = 1510553640
+sort_publish_date = 1510682100
 create_date = "2017-11-12T22:05:00-08:00"
 publish_date = "2017-11-14T09:55:00-08:00"
 date = "2017-11-14T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510553360425/Scre
 twitterauto = "Our second from Poet in Residence Emily Bedard is called \"Once Upon an Accountant\""
 facebookauto = "Our second from Poet in Residence Emily Bedard is called \"Once Upon an Accountant\""
 make_image_tweet = "False"
-byline = ["writers/emily-bedard"]
+notes_byline = ["writers/emily-bedard"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Once upon a time<br>

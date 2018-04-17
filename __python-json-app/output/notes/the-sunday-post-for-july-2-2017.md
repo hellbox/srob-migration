@@ -1,8 +1,8 @@
 +++
 index = "-Knur-OBUjvfktT7ld7s"
-_sort_create_date = 1498857300
-_sort_last_updated = 1498871160
-_sort_publish_date = 1499011200
+sort_create_date = 1498857300
+sort_last_updated = 1498871160
+sort_publish_date = 1499011200
 create_date = "2017-06-30T14:15:00-07:00"
 publish_date = "2017-07-02T09:00:00-07:00"
 date = "2017-07-02T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Clear skies for pilots and dark clouds for the New York Times and its editors in this week's Sunday Post."
 facebookauto = "Clear skies for pilots and dark clouds for the New York Times and its editors in this week's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

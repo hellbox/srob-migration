@@ -1,8 +1,8 @@
 +++
 index = "-K2p9w7WiqhJ25pWbL2C"
-_sort_create_date = 1447222260
-_sort_last_updated = 1447222320
-_sort_publish_date = 1447278300
+sort_create_date = 1447222260
+sort_last_updated = 1447222320
+sort_publish_date = 1447278300
 create_date = "2015-11-10T22:11:00-08:00"
 publish_date = "2015-11-11T13:45:00-08:00"
 date = "2015-11-11T13:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Let's get acquainted with @APRILfestSEA's new writer-in-residence, @Jennybagel!"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/april"]
-authors_notes = ["authors/jenny-zhang"]
+notes_about = ""
 books = ""
 +++
 Yesterday, [the APRIL Festival announced](https://twitter.com/APRILfestSEA/status/664165747254362112) that Jenny Zhang will be the writer-in-residence of their next festival, which will take place the week of March 15—20, 2016. Zhang is the author, most recently, of the poetry collection [*Dear Jenny, We Are All Find*](http://www.octopusbooks.net/books/dear-jenny-we-are-all-find). Unfamiliar with her work? Try [this piece, which she published with *Poetry* magazine](http://www.poetryfoundation.org/poetrymagazine/article/250614):

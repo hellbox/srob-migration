@@ -1,8 +1,8 @@
 +++
 index = "-KYqy58f9j2badwrdFUm"
-_sort_create_date = 1481612220
-_sort_last_updated = 1481687700
-_sort_publish_date = 1481829120
+sort_create_date = 1481612220
+sort_last_updated = 1481687700
+sort_publish_date = 1481829120
 create_date = "2016-12-12T22:57:00-08:00"
 publish_date = "2016-12-15T11:12:00-08:00"
 date = "2016-12-15T11:12:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Why is the @SeaGlobalist deserving of your time? Allow @sarahglidden to explain:"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-globalist"]
-authors_notes = ["authors/sarah-glidden"]
+notes_about = ""
 books = ["books/rolling-blackouts"]
 +++
 Local cartoonist Sarah Glidden, whose [excellent book *Rolling Blackouts*](http://www.seattlereviewofbooks.com/reviews/the-embedded-cartoonist/) depicts a journey through the Middle East with reporters from the [*Seattle Globalist*](http://www.seattleglobalist.com/), has created an animated movie explaining why you should donate to the *Globalist* today.

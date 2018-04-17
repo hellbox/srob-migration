@@ -1,8 +1,8 @@
 +++
 index = "-L-AE2Jfyso6GISxFpqi"
-_sort_create_date = 1512016980
-_sort_last_updated = 1513123800
-_sort_publish_date = 1513626900
+sort_create_date = 1512016980
+sort_last_updated = 1513123800
+sort_publish_date = 1513626900
 create_date = "2017-11-29T20:43:00-08:00"
 publish_date = "2017-12-18T11:55:00-08:00"
 date = "2017-12-18T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512016367634/vide
 twitterauto = "A translator get-together, a talk about video games, and more in this week's roundup of best readings."
 facebookauto = "A translator get-together, a talk about video games, and more in this week's roundup of best readings."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, December 18: Chlorophyll Print Exhibition**</h5></p>

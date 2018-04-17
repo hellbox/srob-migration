@@ -1,8 +1,8 @@
 +++
 index = "-KOI_pKHXmQcnMobTrzN"
-_sort_create_date = 1470281220
-_sort_last_updated = 1470281580
-_sort_publish_date = 1470330000
+sort_create_date = 1470281220
+sort_last_updated = 1470281580
+sort_publish_date = 1470330000
 create_date = "2016-08-03T20:27:00-07:00"
 publish_date = "2016-08-04T10:00:00-07:00"
 date = "2016-08-04T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470281060333/coin
 twitterauto = "Coin-Op is the most wonderful new comic series you haven\u2019t heard about yet."
 facebookauto = "The film-obsessed brother-sister comic Coin-Op is the most wonderful new comic series you haven't heard about yet."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comics", "tags/film"]
-authors_notes = ["authors/peter-and-maria-hoey"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1470281060333/coin-op6.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KHqEDAZkPSNWThdUyz2"
-_sort_create_date = 1463346300
-_sort_last_updated = 1463346360
-_sort_publish_date = 1463346300
+sort_create_date = 1463346300
+sort_last_updated = 1463346360
+sort_publish_date = 1463346300
 create_date = "2016-05-15T14:05:00-07:00"
 publish_date = "2016-05-15T14:05:00-07:00"
 date = "2016-05-15T14:05:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Social Science"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/OXCPnBnIE0d7megfJiCucEMSYWtTdBV4B25OroHHgUk7Srm7-frOmd0lHSTjG0L18kAAXsJWux5NwWWPPHD882TJBa_O2A"
 url = "/webhook-uploads/1463346323181/content%3Fid%3DYNwqjgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10438
 
 review_relationship = ["reviews/go-west-young-woman"]
-author_relationship = ["authors/lindy-west"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-lindy-west-about-fantasy-novels-deadlines-and-why-seattle-is-her-home", "notes/your-week-in-readings-the-best-literary-events-from-may-25th---may-31st", "notes/event-of-the-week-lindy-west-reading-from-shrill-at-town-hall-tonight", "notes/portrait-gallery-lindy-west", "notes/lindy-wests-writing-process-involves-a-bat-haunted-cabin-in-maine", "notes/2017-washington-state-book-awards-finalists-announced"]
 +++

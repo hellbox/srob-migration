@@ -1,8 +1,8 @@
 +++
 index = "-KyS0kCMc72b3AM41sLf"
-_sort_create_date = 1510167960
-_sort_last_updated = 1510167960
-_sort_publish_date = 1510175160
+sort_create_date = 1510167960
+sort_last_updated = 1510167960
+sort_publish_date = 1510175160
 create_date = "2017-11-08T11:06:00-08:00"
 publish_date = "2017-11-08T13:06:00-08:00"
 date = "2017-11-08T13:06:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This magazine from @HumanitiesWA has new work from Jess Walter and Sherman Alexie."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Did you know that the good folks at Humanities Washington publish a magazine called *Spark*? It's true! and [the latest issue of *Spark* is now online in PDF form](https://www.humanities.org/wp-content/uploads/2016/07/HW_Spark_FallWinter2017_LO.pdf). In this issue, you'll find a new poem from Sherman Alexie, a history of Washington literature as told in 14 books, a discussion of the long history of fake news, and a new short story by Spokane author Jess Walter. It has a fantastic first sentence:

@@ -1,8 +1,8 @@
 +++
 index = "-KfPoVqTLihOvShNy8Kc"
-_sort_create_date = 1489729860
-_sort_last_updated = 1489729860
-_sort_publish_date = 1489729860
+sort_create_date = 1489729860
+sort_last_updated = 1489729860
+sort_publish_date = 1489729860
 create_date = "2017-03-16T22:51:00-07:00"
 publish_date = "2017-03-16T22:51:00-07:00"
 date = "2017-03-16T22:51:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tNl2LFdtnuf_aTI0P9iS4Ti4S2VsHVxM5-wi00e2kbvs49bzp3nMsR_i_SrNItcyf8Tbt4Y96Ql_7iq5wV_IN6U9-UaX"
 url = "/webhook-uploads/1489729789325/fire.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 33229
 
 review_relationship = ["reviews/a-portrait-in-black-and-white"]
-author_relationship = ["authors/peter-bagge"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

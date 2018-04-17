@@ -1,8 +1,8 @@
 +++
 index = "-L5lMjfFJmQgmSevY7JX"
-_sort_create_date = 1519099200
-_sort_last_updated = 1519099200
-_sort_publish_date = 1519160400
+sort_create_date = 1519099200
+sort_last_updated = 1519099200
+sort_publish_date = 1519160400
 create_date = "2018-02-19T20:00:00-08:00"
 publish_date = "2018-02-20T13:00:00-08:00"
 date = "2018-02-20T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Does writer's block exist? We asked Fran Lebowitz, and here's her answer."
 facebookauto = "Does writer's block exist? We asked Fran Lebowitz, and here's her answer."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/writers-block"]
-authors_notes = ["authors/fran-lebowitz"]
+notes_about = ""
 books = ""
 +++
 I've said for years that I don't believe in writer's block. I believe writing to be a craft more than an art, and I think the only way to cure a problem with writing is to sit down and work through it by writing - a lot. Inspiration is cheap, and words are entirely free. Too many people use writer's block as a convenient excuse to explain away their fears, or to undercut their own ambition. This is not to say that writing is easy - you need the privilege of time, and you have to commit to the time, and you have to read all the time - but it is to say that writing has nothing to do with muses.

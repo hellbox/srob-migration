@@ -1,8 +1,8 @@
 +++
 index = "-KQb49KDwaQvdDC71RAk"
-_sort_create_date = 1472755680
-_sort_last_updated = 1472755680
-_sort_publish_date = 1472835660
+sort_create_date = 1472755680
+sort_last_updated = 1472755680
+sort_publish_date = 1472835660
 create_date = "2016-09-01T11:48:00-07:00"
 publish_date = "2016-09-02T10:01:00-07:00"
 date = "2016-09-02T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Reminder: you can always send your literary advice questions to advice@seattlereviewofbooks.com."
 facebookauto = "Our advice columnist, Cienna Madrid, is on vacation this weekend and will return next week. (Reminder: you can always send your literary advice questions to advice@seattlereviewofbooks.com!)"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Cienna Madrid is taking Labor Day weekend off. She will return next week. If you can't go a single Friday without a Help Desk — believe me, I know the feeling — we have [a year's worth of columns here for you to enjoy](http://www.seattlereviewofbooks.com/tags/the-help-desk/). On a related note: we at the *Seattle Review of Books* hope you have a fantastic Labor Day weekend. [We'll see you at Bumbershoot this Sunday](http://www.seattlereviewofbooks.com/_wh_previews/notes/a9e3dd52-7d9a-6edc-5bbb-e6a48f9d00a7/)!

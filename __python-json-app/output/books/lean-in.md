@@ -1,8 +1,8 @@
 +++
 index = "-KOrtKkw2TXI6PrfiLv0"
-_sort_create_date = 1470890280
-_sort_last_updated = 1470890340
-_sort_publish_date = 1470890280
+sort_create_date = 1470890280
+sort_last_updated = 1470890340
+sort_publish_date = 1470890280
 create_date = "2016-08-10T21:38:00-07:00"
 publish_date = "2016-08-10T21:38:00-07:00"
 date = "2016-08-10T21:38:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/UmNjtNOWvcoy5hFCN2xsowVxic1AkgKBM9EpwHRfTZxZEHQEG3_rKJJTnmrZ52BOHz1Epg9Mlfz8uDUSAgNQw9WG2ZOnUg"
 url = "/webhook-uploads/1470890334681/content%3Fid%3DHAtQCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 8481
 
 review_relationship = ""
-author_relationship = ["authors/sheryl-sandberg"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad"]
 +++

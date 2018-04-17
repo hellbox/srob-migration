@@ -1,8 +1,8 @@
 +++
 index = "-KZid5LP0J0Jb26pqoeg"
-_sort_create_date = 1482546240
-_sort_last_updated = 1482649140
-_sort_publish_date = 1482685200
+sort_create_date = 1482546240
+sort_last_updated = 1482649140
+sort_publish_date = 1482685200
 create_date = "2016-12-23T18:24:00-08:00"
 publish_date = "2016-12-25T09:00:00-08:00"
 date = "2016-12-25T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It\u2019s our annual Christmas Day ghost story, by @hellbox. Don't read it lightly. Don't read it it alone in the dark."
 facebookauto = "Our annual Christmas Day ghost story, by Martin McClellan, is up. But don't read it lightly. Don't read it alone in the dark."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/christmas-ghost-story"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Did you hear the one about Robert Downey Jr, back when he was struggling with substance abuse? One night, all lit up on some combo of booze and pills and who knows what, he broke into a dark house, went into a little girl’s room, stripped down, and passed out in her empty bed. When the family came home they found him gently snoring. Imagine them there, in the doorway, the girl, the dad, the mom — maybe a brother — looking at this handsome movie star asleep in the bed. The dad said he wasn't threatened, since Downey's clothes were so neatly folded and placed just so on his daughter’s little bedside chair.

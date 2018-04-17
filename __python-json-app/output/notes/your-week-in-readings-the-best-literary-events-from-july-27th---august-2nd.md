@@ -1,8 +1,8 @@
 +++
 index = "-KNKwffZYZDQz3LeqV1y"
-_sort_create_date = 1469247000
-_sort_last_updated = 1469643540
-_sort_publish_date = 1469642400
+sort_create_date = 1469247000
+sort_last_updated = 1469643540
+sort_publish_date = 1469642400
 create_date = "2016-07-22T21:10:00-07:00"
 publish_date = "2016-07-27T11:00:00-07:00"
 date = "2016-07-27T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here are all the best literary events happening this week:"
 facebookauto = "The best readings of the week include readings from indigenous writers, a grand reopening of a Seattle comics store favorite, and more."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/margin-shift"]
-authors_notes = ["authors/elissa-washuta"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday July 27: *Xinjiang and the Modern Chinese State* Reading**</h5></p> 

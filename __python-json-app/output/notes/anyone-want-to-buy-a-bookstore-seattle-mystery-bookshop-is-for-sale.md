@@ -1,8 +1,8 @@
 +++
 index = "-KqUbn8R7yIBvgZTQNyE"
-_sort_create_date = 1501621560
-_sort_last_updated = 1501621560
-_sort_publish_date = 1501621560
+sort_create_date = 1501621560
+sort_last_updated = 1501621560
+sort_publish_date = 1501621560
 create_date = "2017-08-01T14:06:00-07:00"
 publish_date = "2017-08-01T14:06:00-07:00"
 date = "2017-08-01T14:06:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1441171711333/2015
 twitterauto = "The rumors are true: beloved Pioneer Square bookshop @SeattleMystery is for sale."
 facebookauto = "The rumors are true. Beloved Pioneer Square bookselling institution Seattle Mystery Bookshop is for sale. If a buyer doesn't step forward soon, the shop will be shuttered forever. Details:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-mystery-bookshop", "tags/death", "tags/retail"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1441171711333/20150829_121658.jpg)</p>

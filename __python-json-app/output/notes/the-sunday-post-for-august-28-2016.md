@@ -1,8 +1,8 @@
 +++
 index = "-KQF2_zDBS_ITrQtijqK"
-_sort_create_date = 1472369400
-_sort_last_updated = 1472370060
-_sort_publish_date = 1472400000
+sort_create_date = 1472369400
+sort_last_updated = 1472370060
+sort_publish_date = 1472400000
 create_date = "2016-08-28T00:30:00-07:00"
 publish_date = "2016-08-28T09:00:00-07:00"
 date = "2016-08-28T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post: the most exclusive/secretive restaurant, #Maus is the best graphic novel, political parties die, & more!"
 facebookauto = "This week's Sunday Post: a suspiciously secretive and exclusive restaurant, why Spiegelman's Maus is the greatest graphic novel, what happens when you announce that you won't read any white authors for a year, and more!"
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/art-spiegelman"]
+notes_about = ""
 books = ["books/maus"]
 +++
 <h5><a href="http://www.newyorker.com/magazine/2016/08/29/damon-baehrel-the-most-exclusive-restaurant-in-america" title="The Most Exclusive Restaurant In America">The Most Exclusive Restaurant In America</a></h5>

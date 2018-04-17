@@ -1,8 +1,8 @@
 +++
 index = "-KJvDhhYxeji74NNuY9w"
-_sort_create_date = 1465577520
-_sort_last_updated = 1465577520
-_sort_publish_date = 1465578180
+sort_create_date = 1465577520
+sort_last_updated = 1465577520
+sort_publish_date = 1465578180
 create_date = "2016-06-10T09:52:00-07:00"
 publish_date = "2016-06-10T10:03:00-07:00"
 date = "2016-06-10T10:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A reader from Bellevue asks, \"Just because you like a white male writer doesn't make you bad, right?\""
 facebookauto = "A reader from Bellevue asks, \"Just because you like a white male writer doesn't make you bad, right?\""
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/diversity"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

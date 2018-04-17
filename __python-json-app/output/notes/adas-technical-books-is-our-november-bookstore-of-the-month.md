@@ -1,8 +1,8 @@
 +++
 index = "-K2GWOgNi6CP1qWGjUgN"
-_sort_create_date = 1446624180
-_sort_last_updated = 1446624180
-_sort_publish_date = 1446659640
+sort_create_date = 1446624180
+sort_last_updated = 1446624180
+sort_publish_date = 1446659640
 create_date = "2015-11-04T00:03:00-08:00"
 publish_date = "2015-11-04T09:54:00-08:00"
 date = "2015-11-04T09:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our November Bookstore of the Month is Ada's Technical Books! (@Adason15th) "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/adas-technical-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1446623798601/12300155985_2275b9e3cc_k.jpg)</p>

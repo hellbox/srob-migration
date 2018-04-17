@@ -1,8 +1,8 @@
 +++
 index = "-Kp7IVLJFFyLDZb0Hk7Z"
-_sort_create_date = 1500156600
-_sort_last_updated = 1500182700
-_sort_publish_date = 1500310800
+sort_create_date = 1500156600
+sort_last_updated = 1500182700
+sort_publish_date = 1500310800
 create_date = "2017-07-15T15:10:00-07:00"
 publish_date = "2017-07-17T10:00:00-07:00"
 date = "2017-07-17T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In an interview with @mbsycamore, Anastacia-Renee talks poetry and injustice. See both @ElliottBayBooks 7/25."
 facebookauto = "Mattilda Bernstein Sycamore interviews Anastacia-Renee about poetry, injustice, and where Seattle is falling down (hint: it's not the rain). See them both at Elliott Bay Book Company on July 25."
 make_image_tweet = "False"
-byline = ["writers/mattilda-bernstein-sycamore"]
+notes_byline = ["writers/mattilda-bernstein-sycamore"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/anastacia-renee"]
+notes_about = ""
 books = ["books/(v)", "books/forget-it"]
 +++
 <div class="intro">

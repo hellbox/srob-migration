@@ -1,8 +1,8 @@
 +++
 index = "-KMSBu6kZ1T4ZAZFVDUl"
-_sort_create_date = 1468294980
-_sort_last_updated = 1468298280
-_sort_publish_date = 1468342500
+sort_create_date = 1468294980
+sort_last_updated = 1468298280
+sort_publish_date = 1468342500
 create_date = "2016-07-11T20:43:00-07:00"
 publish_date = "2016-07-12T09:55:00-07:00"
 date = "2016-07-12T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468298318122/as-i
 twitterauto = "\"As In\" by @LKTuffaha is our Tuesday Poem. It starts:"
 facebookauto = "Our poem today, \"As In\", is by Lena Khalaf Tuffaha. "
 make_image_tweet = "True"
-byline = ["writers/lena-khalaf-tuffaha"]
+notes_byline = ["writers/lena-khalaf-tuffaha"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On the plane I whisper the travel prayer more softly<br>

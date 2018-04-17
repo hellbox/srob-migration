@@ -1,8 +1,8 @@
 +++
 index = "-KSA3LDtFZ_9Izsuf9EL"
-_sort_create_date = 1474433160
-_sort_last_updated = 1474481940
-_sort_publish_date = 1474578000
+sort_create_date = 1474433160
+sort_last_updated = 1474481940
+sort_publish_date = 1474578000
 create_date = "2016-09-20T21:46:00-07:00"
 publish_date = "2016-09-22T14:00:00-07:00"
 date = "2016-09-22T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1474432623204/SRoB
 twitterauto = "Portrait Gallery: @studiochristine paints @clarkhumphrey"
 facebookauto = "Portrait Gallery \u2014 Christine Marie Larsen paints Clark Humphrey. "
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

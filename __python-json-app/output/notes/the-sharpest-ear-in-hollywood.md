@@ -1,8 +1,8 @@
 +++
 index = "-L5zGR1iZbiiZnkFxNRj"
-_sort_create_date = 1519332420
-_sort_last_updated = 1519679220
-_sort_publish_date = 1519678800
+sort_create_date = 1519332420
+sort_last_updated = 1519679220
+sort_publish_date = 1519678800
 create_date = "2018-02-22T12:47:00-08:00"
 publish_date = "2018-02-26T13:00:00-08:00"
 date = "2018-02-26T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1519332876752/
 twitterauto = "Artie Kane was a Hollywood insider for decades. Stop by for a glimpse of his memoir, from sponsor Amphora Books."
 facebookauto = "Composer and pianist Artie Kane was a Hollywood insider for decades. Stop in for a glimpse through his eyes, thanks to sponsor Amphora Books."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/artie-kane"]
+notes_about = ""
 books = ["books/music-to-my-years"]
 +++
 <p class="image-left">![](/webhook-uploads/1519332861751/Music%20to%20My%20Years_150.jpeg)</p>

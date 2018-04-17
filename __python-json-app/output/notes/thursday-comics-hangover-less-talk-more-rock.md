@@ -1,8 +1,8 @@
 +++
 index = "-L3g-OinbUI4mzI7X2bg"
-_sort_create_date = 1516861740
-_sort_last_updated = 1516901220
-_sort_publish_date = 1516903140
+sort_create_date = 1516861740
+sort_last_updated = 1516901220
+sort_publish_date = 1516903140
 create_date = "2018-01-24T22:29:00-08:00"
 publish_date = "2018-01-25T09:59:00-08:00"
 date = "2018-01-25T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516861475527/abbo
 twitterauto = "In a visual medium like comics, it's exceedingly important to show and not tell."
 facebookauto = "In a visual medium like comics, it's exceedingly important to show and not tell."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1516861475527/abbott.jpg)</p>

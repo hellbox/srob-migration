@@ -1,8 +1,8 @@
 +++
 index = "-KHcsi4FQE4TnkSellId"
-_sort_create_date = 1463122260
-_sort_last_updated = 1463122260
-_sort_publish_date = 1463158680
+sort_create_date = 1463122260
+sort_last_updated = 1463122260
+sort_publish_date = 1463158680
 create_date = "2016-05-12T23:51:00-07:00"
 publish_date = "2016-05-13T09:58:00-07:00"
 date = "2016-05-13T09:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "If you really want to get your message across, print it on an ice cream cake."
 facebookauto = "If you really want to get your message across, print it on an ice cream cake."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

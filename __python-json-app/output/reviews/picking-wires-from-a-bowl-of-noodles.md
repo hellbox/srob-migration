@@ -1,8 +1,8 @@
 +++
 index = "-JwIKRBYfuqNnHpFjnHX"
-_sort_create_date = 1439138400
-_sort_last_updated = 1439256480
-_sort_publish_date = 1439233200
+sort_create_date = 1439138400
+sort_last_updated = 1439256480
+sort_publish_date = 1439233200
 create_date = "2015-08-09T09:40:00-07:00"
 publish_date = "2015-08-10T12:00:00-07:00"
 date = "2015-08-10T12:00:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "c208b493-b96b-d9ce-93d8-03b1590c0b39"
 name = "Picking wires from a bowl of noodles"
 title = "Picking wires from a bowl of noodles"
 dek = "Ryan Boudinot's first book of short stories since his very controversial statements about MFA programs has arrived. Can we separate the work from the public statements?"
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/the-octopus-rises", "books/blueprints-of-the-afterlife"]
 tags_reviews = ["tags/short-stories", "tags/seattle-author", "tags/seattle-city-of-literature"]
-authors_reviews = ["authors/ryan-boudinot"]
+reviews_about = ""
 +++
 
 Fantagraphics has one of the best design departments in the history of publishing. Their willingness to work the form to the content, rather than the other way around, pays great dividends for book lovers. Often overlooked because the content they are publishing is super-graphic in of itself (comics), their design is eye-catching and functional, while often elevating the text; their materials, paper, binding, and just the feel of their books in your hand is always considered.</p>

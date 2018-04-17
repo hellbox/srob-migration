@@ -1,8 +1,8 @@
 +++
 index = "-L242ePch7PLCZM-mAxN"
-_sort_create_date = 1515134520
-_sort_last_updated = 1515440160
-_sort_publish_date = 1515433920
+sort_create_date = 1515134520
+sort_last_updated = 1515440160
+sort_publish_date = 1515433920
 create_date = "2018-01-04T22:42:00-08:00"
 publish_date = "2018-01-08T09:52:00-08:00"
 date = "2018-01-08T09:52:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515134413672/twoc
 twitterauto = "Our Literary Event of the Week is a collection of immigrants' stories @ElliottBayBooks."
 facebookauto = "Our Literary Event of the Week is a collection of immigrants' stories at Elliott Bay Book Company."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/shin-yu-pai"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1515134413672/twocountry.jpg)</p>

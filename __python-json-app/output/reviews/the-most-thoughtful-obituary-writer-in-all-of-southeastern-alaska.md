@@ -1,8 +1,8 @@
 +++
 index = "-JzU7iMcaXqpyUGzv_Jo"
-_sort_create_date = 1442557620
-_sort_last_updated = 1442557800
-_sort_publish_date = 1442602620
+sort_create_date = 1442557620
+sort_last_updated = 1442557800
+sort_publish_date = 1442602620
 create_date = "2015-09-17T23:27:00-07:00"
 publish_date = "2015-09-18T11:57:00-07:00"
 date = "2015-09-18T11:57:00-07:00"
@@ -13,10 +13,10 @@ title = "The most thoughtful obituary writer in all of southeastern Alaska"
 dek = "A new book from a big-hearted obituary writer proves that Alaska isn't all Sarah Palin and wilderness reality shows."
 facebookauto = "Obituary writer Heather Lende's newest book proves that there's so much more to Alaskan literature than wilderness survival stories."
 twitterauto = "Heather Lende's newest book proves there's so much more to Alaskan literature than wilderness survival stories."
-byline = ["writers/colleen-mondor"]
+reviews_byline = ["writers/colleen-mondor"]
 books_in_this_review = ["books/find-the-good", "books/-if-you-lived-here-id-know-your-name", "books/-take-good-care-of-the-garden-and-the-dogs"]
 tags_reviews = ["tags/alaska"]
-authors_reviews = ["authors/heather-lende"]
+reviews_about = ""
 +++
 
 At a time when reality TV continues its relentless portrayal of Alaska as a source of extreme and outlandish (even ridiculous) behavior, author Heather Lende consistently reminds readers that it is actually a place populated by people, just like anywhere else. As the newspaper obituary writer for the small town of Haines, (population about 2,000), Lende has written for years about ordinary people who have quietly lived extraordinary lives. She shared some of these stories in her first book, *If You Lived Here, I’d Know Your Name* and then, after suffering horrific injuries when she was hit by a truck near her home, wrote a memoir of her recovery, *Take Good Care of the Garden and the Dogs*.

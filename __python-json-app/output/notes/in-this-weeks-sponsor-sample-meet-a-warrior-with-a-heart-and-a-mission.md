@@ -1,8 +1,8 @@
 +++
 index = "-L2NVG18jpta0LnEBdwK"
-_sort_create_date = 1515460800
-_sort_last_updated = 1515478260
-_sort_publish_date = 1516050000
+sort_create_date = 1515460800
+sort_last_updated = 1515478260
+sort_publish_date = 1516050000
 create_date = "2018-01-08T17:20:00-08:00"
 publish_date = "2018-01-15T13:00:00-08:00"
 date = "2018-01-15T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515460777875/Amas
 twitterauto = "Thanks to sponsor @greysunpress for this week's free read, from @raven_oak's fantasy epic, Amaskan's Blood."
 facebookauto = "Thanks to sponsor Grey Sun Press for this week's free read, from Raven Oak's fantasy epic, Amaskan's Blood. "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/raven-oak"]
+notes_about = ""
 books = ["books/amaskans-blood"]
 +++
 <p class="image-left">![](/webhook-uploads/1515460762224/Amaskan's%20Blood_150.jpeg)</p>

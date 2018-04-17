@@ -1,8 +1,8 @@
 +++
 index = "-Kd-HciUqF5WtE-EnuqT"
-_sort_create_date = 1487137260
-_sort_last_updated = 1487137320
-_sort_publish_date = 1487786340
+sort_create_date = 1487137260
+sort_last_updated = 1487137320
+sort_publish_date = 1487786340
 create_date = "2017-02-14T21:41:00-08:00"
 publish_date = "2017-02-22T09:59:00-08:00"
 date = "2017-02-22T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487137119978/itwa
 twitterauto = "A book launch party celebrates the close ties between poetry and hip-hop."
 facebookauto = "Our event of the week is at Vermillion this week: A book launch party celebrates the close ties between poetry and hip-hop."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/hip-hop"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1487137119978/itwaswritten.jpg)</p>

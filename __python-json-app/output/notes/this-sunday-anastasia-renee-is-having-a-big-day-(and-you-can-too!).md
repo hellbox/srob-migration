@@ -1,8 +1,8 @@
 +++
 index = "-L-0R7DhPorgAQ6TU-z7"
-_sort_create_date = 1511852580
-_sort_last_updated = 1511853180
-_sort_publish_date = 1511903580
+sort_create_date = 1511852580
+sort_last_updated = 1511853180
+sort_publish_date = 1511903580
 create_date = "2017-11-27T23:03:00-08:00"
 publish_date = "2017-11-28T13:13:00-08:00"
 date = "2017-11-28T13:13:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "One dynamo of an author is hosting two amazing readings this Sunday. Can you keep up with her?"
 facebookauto = "One dynamo of an author is hosting two amazing readings this Sunday. Can you keep up with her?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/readings"]
-authors_notes = ["authors/anastacia-renee", "authors/claudia-castro-luna", "authors/lena-khalaf-tuffaha-", "authors/quenton-baker", "authors/sonora-jha"]
+notes_about = ""
 books = ""
 +++
 These events came in too late for me to add to [our readings calendar](http://www.seattlereviewofbooks.com/notes/2017/11/27/your-week-in-readings-the-best-literary-events-from-november-27th-december-3rd/), but you should definitely know about them: This coming Sunday, December 3rd, Seattle Civic Poet [Anastacia-Renee](http://www.seattlereviewofbooks.com/notes/2017/08/01/anastacia-renee-is-seattles-next-civic-poet/) is hosting two very different events.

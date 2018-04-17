@@ -1,8 +1,8 @@
 +++
 index = "-KBsHDb8ybI90BI7W7B2"
-_sort_create_date = 1456938180
-_sort_last_updated = 1457119020
-_sort_publish_date = 1457121600
+sort_create_date = 1456938180
+sort_last_updated = 1457119020
+sort_publish_date = 1457121600
 create_date = "2016-03-02T09:03:00-08:00"
 publish_date = "2016-03-04T12:00:00-08:00"
 date = "2016-03-04T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Drawn this way"
 dek = "With Nimona up for a Nebula award, and Martin unable to stop babbling about it, we thought it was high time to put a review up."
 facebookauto = "Have you read Nimona yet? It's up for a Nebula. Step lively. Let's have us a good ol' fashioned reviewin\u2019."
 twitterauto = "Nimona by @Gingerhazing is up for a Nebula! So, step lively. Let's have us a good ol' fashioned reviewin\u2019."
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/nimona"]
 tags_reviews = ["tags/comics", "tags/graphic-novels", "tags/secret-garden-books"]
-authors_reviews = ["authors/noelle-stevenson"]
+reviews_about = ""
 +++
 
 In the beginning was the author. She wrote into a blank void, empty of human emotion, empty of human intention. There, she placed the character, who stood looking around and scratching herself occasionally.

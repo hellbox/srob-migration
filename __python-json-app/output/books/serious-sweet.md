@@ -1,8 +1,8 @@
 +++
 index = "-KZdNEiGXHRFcPc89daV"
-_sort_create_date = 1482457920
-_sort_last_updated = 1482457920
-_sort_publish_date = 1482457920
+sort_create_date = 1482457920
+sort_last_updated = 1482457920
+sort_publish_date = 1482457920
 create_date = "2016-12-22T17:52:00-08:00"
 publish_date = "2016-12-22T17:52:00-08:00"
 date = "2016-12-22T17:52:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tDU8aJKlPTLu2Y50gLYrhDbgpnE1yt2dKSVaMidlgMQ_rX2HIAV7ls4UQ4IVZJ9zpIon9wzGewyztuV9shv0ReyjvNY"
 url = "/webhook-uploads/1482457887175/serioussweet.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 20064
 
 review_relationship = ["reviews/choose-your-own-year-in-reading"]
-author_relationship = ["authors/al-kennedy"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

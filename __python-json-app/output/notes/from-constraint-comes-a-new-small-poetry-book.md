@@ -1,8 +1,8 @@
 +++
 index = "-Kn-eA_K1XI6-M85x-ip"
-_sort_create_date = 1497880860
-_sort_last_updated = 1497887760
-_sort_publish_date = 1497902400
+sort_create_date = 1497880860
+sort_last_updated = 1497887760
+sort_publish_date = 1497902400
 create_date = "2017-06-19T07:01:00-07:00"
 publish_date = "2017-06-19T13:00:00-07:00"
 date = "2017-06-19T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497880880079/Me%2
 twitterauto = "Mark the date: sponsor @saggingmeniscus wants you to see Doug Nufer Thursday at @gallery1412"
 facebookauto = "Mark the date: sponsor Sagging Meniscus wants you to come see Doug Nufer, and his new work, Thursday at Gallery 1412"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/doug-nufer"]
+notes_about = ""
 books = ["books/the-me-theme"]
 +++
 <p class="image-left">![](/webhook-uploads/1497880870429/Me%20Theme_small.jpg)</p>

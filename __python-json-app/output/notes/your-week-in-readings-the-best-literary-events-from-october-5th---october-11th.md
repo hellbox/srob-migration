@@ -1,8 +1,8 @@
 +++
 index = "-KSjP_Fk4nAAcL036zGn"
-_sort_create_date = 1475043000
-_sort_last_updated = 1475043240
-_sort_publish_date = 1475691000
+sort_create_date = 1475043000
+sort_last_updated = 1475043240
+sort_publish_date = 1475691000
 create_date = "2016-09-27T23:10:00-07:00"
 publish_date = "2016-10-05T11:10:00-07:00"
 date = "2016-10-05T11:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings begins with @sarahglidden at @elliottbaybooks tonight!"
 facebookauto = "Your week in readings kicks off with Seattle cartoonist Sarah Glidden reading at Elliott Bay Book Company tonight!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/sarah-glidden"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1475042939091/rollingblackouts.jpg)</p>

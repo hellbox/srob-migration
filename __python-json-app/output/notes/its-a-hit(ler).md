@@ -1,8 +1,8 @@
 +++
 index = "-K7tdZOjaFfBwU0UWYRc"
-_sort_create_date = 1452666120
-_sort_last_updated = 1452666120
-_sort_publish_date = 1452718980
+sort_create_date = 1452666120
+sort_last_updated = 1452666120
+sort_publish_date = 1452718980
 create_date = "2016-01-12T22:22:00-08:00"
 publish_date = "2016-01-13T13:03:00-08:00"
 date = "2016-01-13T13:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Remember how Mein Kampf was going to be published in Germany for the first time since WWII?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/mein-kampf"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Remember when [I told you](http://seattlereviewofbooks.com/notes/2015/12/29/mein-kampf-returns-to-germany/) that *Mein Kampf* was about to be published in Germany again for the first time since World War II? Yeah, it [sold out](https://www.rt.com/news/328494-mein-kampf-germany-sale/) in less than a week. This is not the ending to this story that I was hoping for. 

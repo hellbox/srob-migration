@@ -1,8 +1,8 @@
 +++
 index = "-KUoc57-zp7mT7oUy8fO"
-_sort_create_date = 1477277880
-_sort_last_updated = 1477277880
-_sort_publish_date = 1477277880
+sort_create_date = 1477277880
+sort_last_updated = 1477277880
+sort_publish_date = 1477277880
 create_date = "2016-10-23T19:58:00-07:00"
 publish_date = "2016-10-23T19:58:00-07:00"
 date = "2016-10-23T19:58:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/wDynpfLAIwh_MxI_z30e1XKTrita36U-bM6N9e0_a_qynkq755XrrjcNBGVN_hiH3nk29fgUKDwYRxmMhuVG5WToQRnB"
 url = "/webhook-uploads/1477277860734/Emerald%20FINAL%20promo.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 16819
 
 review_relationship = ["reviews/theres-no-place-like-home"]
-author_relationship = ["authors/marcus-harrison-green"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KS-bPO5tQ2RCJ7eCi5l"
-_sort_create_date = 1474257840
-_sort_last_updated = 1474680900
-_sort_publish_date = 1475006580
+sort_create_date = 1474257840
+sort_last_updated = 1474680900
+sort_publish_date = 1475006580
 create_date = "2016-09-18T21:04:00-07:00"
 publish_date = "2016-09-27T13:03:00-07:00"
 date = "2016-09-27T13:03:00-07:00"
@@ -13,10 +13,10 @@ title = "You always hurt the ones you love"
 dek = "Maria Semple's followup to Where'd You Go Bernadette is a mean, flawed book about a mean, flawed woman."
 facebookauto = "If you liked Maria Semple's novel Where'd You Go Bernadette, you might find a lot familiar in her newest, Today Will Be Different."
 twitterauto = "The followup to Maria Semple's Where'd You Go Bernadette is here. How is it?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/today-will-be-different"]
 tags_reviews = ["tags/novel", "tags/seattle-author"]
-authors_reviews = ["authors/maria-semple"]
+reviews_about = ""
 +++
 
 Maria Semple’s second novel, *Where’d You Go Bernadette*, was an international bestseller, the kind of publishing phenomenon that would be difficult for anyone to replicate. (I’ve seen it on bestseller walls in bookstores all over the country and in airports all over the world.) Something about Semple’s novel appealed to a huge swath of the reading population. Perhaps it had something to do with the title character’s hilarious distaste for Seattle, which was at that time just becoming recognized as the most up-and-coming city in the country.

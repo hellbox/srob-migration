@@ -1,8 +1,8 @@
 +++
 index = "-K-iRY9l6d0ny7-RTjbk"
-_sort_create_date = 1443888240
-_sort_last_updated = 1443888300
-_sort_publish_date = 1443888300
+sort_create_date = 1443888240
+sort_last_updated = 1443888300
+sort_publish_date = 1443888300
 create_date = "2015-10-03T09:04:00-07:00"
 publish_date = "2015-10-03T09:05:00-07:00"
 date = "2015-10-03T09:05:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's @rahawahaile's short story of the day time! This week features @ambernoelle @v_urq, and an Eritrean wedding."
 facebookauto = "It's Rahawa Haile's short stories of the day, for the previous week. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/short-stories", "tags/short-story-of-the-day", "tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the <em>SRoB</em> Rahawa Haile tweets a short story. She gave us permission to collect them every week. She’s archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a></p>

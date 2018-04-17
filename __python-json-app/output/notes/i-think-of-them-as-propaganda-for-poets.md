@@ -1,8 +1,8 @@
 +++
 index = "-L9CszVBws5kmLhw03fh"
-_sort_create_date = 1522798920
-_sort_last_updated = 1522857780
-_sort_publish_date = 1522860960
+sort_create_date = 1522798920
+sort_last_updated = 1522857780
+sort_publish_date = 1522860960
 create_date = "2018-04-03T16:42:00-07:00"
 publish_date = "2018-04-04T09:56:00-07:00"
 date = "2018-04-04T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522798832429/broa
 twitterauto = "We talked with Expedition Press founder Myrna Keliher about her \"propaganda for poets\""
 facebookauto = "We talked with Expedition Press founder Myrna Keliher about her \"propaganda for poets.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry"]
-authors_notes = ["authors/shin-yu-pai", "authors/jane-wong", "authors/lena-khalaf-tuffaha-"]
+notes_about = ""
 books = ""
 +++
 ![](/webhook-uploads/1522857800326/broadside.jpg)

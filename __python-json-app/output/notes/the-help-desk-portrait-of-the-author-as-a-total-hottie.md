@@ -1,8 +1,8 @@
 +++
 index = "-Kc41RH_5SxiN24gKR3M"
-_sort_create_date = 1486143180
-_sort_last_updated = 1486143180
-_sort_publish_date = 1486144860
+sort_create_date = 1486143180
+sort_last_updated = 1486143180
+sort_publish_date = 1486144860
 create_date = "2017-02-03T09:33:00-08:00"
 publish_date = "2017-02-03T10:01:00-08:00"
 date = "2017-02-03T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486143063464/Grea
 twitterauto = "Is it okay to send a mash note to an author if you think she's cute? @ciennam investigates:"
 facebookauto = "Is it okay to send a mash note to an author if you think she's cute? Our advice columnist offers a brief, spider-filled explanation of the male gaze."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ["authors/vladimir-nabokov", "authors/charles-dickens"]
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

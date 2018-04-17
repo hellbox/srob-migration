@@ -1,8 +1,8 @@
 +++
 index = "-KQlpZ9w2mNFs6L_EdNx"
-_sort_create_date = 1472936160
-_sort_last_updated = 1474256280
-_sort_publish_date = 1472936160
+sort_create_date = 1472936160
+sort_last_updated = 1474256280
+sort_publish_date = 1472936160
 create_date = "2016-09-03T13:56:00-07:00"
 publish_date = "2016-09-03T13:56:00-07:00"
 date = "2016-09-03T13:56:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NdRM3AtUr6R-ELx2YxNm0Q_tC-aVu0CHY_5ftFcNyd88B-FvzEznjYtoDgwA8utBizppaPPYdnfgFa80aCZcax1yg7Dt"
 url = "/webhook-uploads/1472936165461/content%3Fid%3Dw784jwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 8813
 
 review_relationship = ["reviews/you-always-hurt-the-ones-you-love"]
-author_relationship = ["authors/maria-semple"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-community-is-something-you-make"]
 +++

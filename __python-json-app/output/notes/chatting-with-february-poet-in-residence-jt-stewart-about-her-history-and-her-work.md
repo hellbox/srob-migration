@@ -1,8 +1,8 @@
 +++
 index = "-KdxOxPcJgC8rUZQs7Y3"
-_sort_create_date = 1488162600
-_sort_last_updated = 1488225600
-_sort_publish_date = 1488218400
+sort_create_date = 1488162600
+sort_last_updated = 1488225600
+sort_publish_date = 1488218400
 create_date = "2017-02-26T18:30:00-08:00"
 publish_date = "2017-02-27T10:00:00-08:00"
 date = "2017-02-27T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We chatted with our February Poet in Residence JT Stewart about her history and her work"
 facebookauto = "We chatted with our February Poet in Residence JT Stewart about her history and her work"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/interviews"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">JT Stewart is our February Poet in Residence. We've run three sets of poems by her: "[Invocation](http://www.seattlereviewofbooks.com/notes/2017/02/07/invocation/)", "<a href="http://www.seattlereviewofbooks.com/notes/2017/02/14/folks-many-rivers-to-cross/" title="The Seattle Review of Books - FOLKS: &amp;quot;Many Rivers to Cross&amp;quot;">FOLKS: 'Many Rivers to Cross'</a>", and "<a href="http://www.seattlereviewofbooks.com/notes/2017/02/21/sistahs-how-we-got-ovah/" title="The Seattle Review of Books - SISTAHS - How We Got Ovah">SISTAHS &mdash; How We Got Ovah</a>". Check back tomorrow for the last set in this series.</p>

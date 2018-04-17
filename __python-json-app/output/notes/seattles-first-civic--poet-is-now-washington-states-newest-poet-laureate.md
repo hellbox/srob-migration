@@ -1,8 +1,8 @@
 +++
 index = "-KzPkfP8XqgMTuRE31Q1"
-_sort_create_date = 1511203680
-_sort_last_updated = 1511203680
-_sort_publish_date = 1511203680
+sort_create_date = 1511203680
+sort_last_updated = 1511203680
+sort_publish_date = 1511203680
 create_date = "2017-11-20T10:48:00-08:00"
 publish_date = "2017-11-20T10:48:00-08:00"
 date = "2017-11-20T10:48:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to @ClaudiaC_L, the next Washington State Poet Laureate!"
 facebookauto = "Claudia Castro Luna, Seattle's first Civic Poet, has been named the next Washington State Poet Laureate!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poet-laureate", "tags/civic-poet"]
-authors_notes = ["authors/claudia-castro-luna", "authors/tod-marshall"]
+notes_about = ""
 books = ""
 +++
 Humanities Washington [announced the news today](https://www.humanities.org/blog/claudia-castro-luna-named-2018-2020-washington-state-poet-laureate/):

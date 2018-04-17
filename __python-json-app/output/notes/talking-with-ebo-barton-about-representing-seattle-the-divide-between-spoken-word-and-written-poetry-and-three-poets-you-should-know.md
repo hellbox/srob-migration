@@ -1,8 +1,8 @@
 +++
 index = "-KVLvbBiAuC7UYBPxqWM"
-_sort_create_date = 1477853460
-_sort_last_updated = 1477853460
-_sort_publish_date = 1477933200
+sort_create_date = 1477853460
+sort_last_updated = 1477853460
+sort_publish_date = 1477933200
 create_date = "2016-10-30T11:51:00-07:00"
 publish_date = "2016-10-31T10:00:00-07:00"
 date = "2016-10-31T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477852571022/a.%2
 twitterauto = "We talked with Ebo Barton, who represented Seattle at the national Poetry Slam earlier this month."
 facebookauto = "Ebo Barton, who recently represented Seattle in the national poetry slam in Flagstaff Arizona, talked with us about competitive spoken word, the divide between written and spoken poetry, and three local poets you should know."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry", "tags/slam-poetry"]
-authors_notes = ["authors/ebo-barton"]
+notes_about = ""
 books = ""
 +++
 ![](/webhook-uploads/1477852571022/a.%20Round%201%2001.jpg)

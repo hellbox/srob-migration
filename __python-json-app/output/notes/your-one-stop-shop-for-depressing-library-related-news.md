@@ -1,8 +1,8 @@
 +++
 index = "-KSe0huE6_nG3WFcHDtm"
-_sort_create_date = 1474952580
-_sort_last_updated = 1474952580
-_sort_publish_date = 1475002620
+sort_create_date = 1474952580
+sort_last_updated = 1474952580
+sort_publish_date = 1475002620
 create_date = "2016-09-26T22:03:00-07:00"
 publish_date = "2016-09-27T11:57:00-07:00"
 date = "2016-09-27T11:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Irish librarians are protesting a plan to automate all human library staff except the security guards."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/libraries"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 In Ireland, librarians are protesting plans to [fully automate a library](http://www.irishtimes.com/news/social-affairs/librarians-protest-against-plans-to-automate-library-in-dun-laoghaire-1.2805067). The only paid human staff in the library on a recent test run were on the security team. A library solely staffed by security guards is an incredibly depressing thought.

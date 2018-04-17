@@ -1,8 +1,8 @@
 +++
 index = "-KyXbSprw9R0P0Pg-RUu"
-_sort_create_date = 1510261740
-_sort_last_updated = 1510263000
-_sort_publish_date = 1510264800
+sort_create_date = 1510261740
+sort_last_updated = 1510263000
+sort_publish_date = 1510264800
 create_date = "2017-11-09T13:09:00-08:00"
 publish_date = "2017-11-09T14:00:00-08:00"
 date = "2017-11-09T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510261049579/SRoB
 twitterauto = "Portrait Gallery: Jeffrey Eugenides #FreshComplaint Friday @ElliottBayBooks @SPLBuzz #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Jeffrey Eugenides "
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ""
-authors_notes = ["authors/jeffrey-eugenides"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KelORrQ-BovYFlkfefk"
-_sort_create_date = 1489034880
-_sort_last_updated = 1489071060
-_sort_publish_date = 1489034880
+sort_create_date = 1489034880
+sort_last_updated = 1489071060
+sort_publish_date = 1489034880
 create_date = "2017-03-08T20:48:00-08:00"
 publish_date = "2017-03-08T20:48:00-08:00"
 date = "2017-03-08T20:48:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/LTF3PzErc82O2dMAhSHTGEm9bA2tZdIxqTOs0DbCIlszPQg20OUjSKF5vWq7ndi__97SXXjGdFC5teGhgZvgOMYd2k3R"
 url = "/webhook-uploads/1489034801070/1465096658944.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 1372943
 
 review_relationship = ["reviews/the-fire-is-in-the-book"]
-author_relationship = ["authors/sayantani-dasgupta"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KjMFgRmFGUIcEj288JZ"
-_sort_create_date = 1493965080
-_sort_last_updated = 1494268620
-_sort_publish_date = 1494442860
+sort_create_date = 1493965080
+sort_last_updated = 1494268620
+sort_publish_date = 1494442860
 create_date = "2017-05-04T23:18:00-07:00"
 publish_date = "2017-05-10T12:01:00-07:00"
 date = "2017-05-10T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493964914027/love
 twitterauto = "Your week in readings includes art based on public transportation, a lecture from Jeffrey Toobin, and more."
 facebookauto = "Your week in readings includes art based on public transportation, a lecture from Jeffrey Toobin, and more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/open-books"]
-authors_notes = ["authors/joan-swift", "authors/elissa-washuta"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday May 10th: Sacred Breath Reading Series**</h5></p> 

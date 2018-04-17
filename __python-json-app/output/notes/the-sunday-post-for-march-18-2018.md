@@ -1,8 +1,8 @@
 +++
 index = "-L7pqpJ2OZuXxCK4luqL"
-_sort_create_date = 1521321960
-_sort_last_updated = 1521322920
-_sort_publish_date = 1521390600
+sort_create_date = 1521321960
+sort_last_updated = 1521322920
+sort_publish_date = 1521390600
 create_date = "2018-03-17T14:26:00-07:00"
 publish_date = "2018-03-18T09:30:00-07:00"
 date = "2018-03-18T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We read great articles this week on writing sober, talking to satellites, and JG Ballard. You should read them too!"
 facebookauto = "We read great articles this week on writing sober, talking to satellites, and the, ahem, great responsibility that comes with great wealth. We think you should read them too! "
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that’s your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

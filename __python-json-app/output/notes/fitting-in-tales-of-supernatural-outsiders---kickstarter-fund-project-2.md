@@ -1,8 +1,8 @@
 +++
 index = "-K887JHMqtvg1hHdoaq-"
-_sort_create_date = 1452925860
-_sort_last_updated = 1452962640
-_sort_publish_date = 1452963600
+sort_create_date = 1452925860
+sort_last_updated = 1452962640
+sort_publish_date = 1452963600
 create_date = "2016-01-15T22:31:00-08:00"
 publish_date = "2016-01-16T09:00:00-08:00"
 date = "2016-01-16T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "https://ksr-ugc.imgix.net/projects/1915858/photo-original.jpg?v=14
 twitterauto = "The Kickstarter Fund this week put money into @madscijournal's latest project."
 facebookauto = "The Kickstarter Fund this week puts money into a local speculative fiction project from the Mad Scientist Journal. "
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week, the _Seattle Review of Books_ backs a Kickstarter, and writes up why we picked that particular project. <a href="http://seattlereviewofbooks.com/notes/2016/01/08/announcing-the-seattle-review-of-books-kickstarter-fund/" title="The Seattle Review of Books - Announcing the Seattle Review of Books Kickstarter Fund">Read more about the project here</a>. Suggest a project by writing to _kickstarter_ at this domain, or by <a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">using our contact form</a>.<p>

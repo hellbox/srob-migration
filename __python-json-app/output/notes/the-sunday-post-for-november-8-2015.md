@@ -1,8 +1,8 @@
 +++
 index = "-K2_n7OcLZQjAhK4WOEo"
-_sort_create_date = 1446964380
-_sort_last_updated = 1446965280
-_sort_publish_date = 1447002000
+sort_create_date = 1446964380
+sort_last_updated = 1446965280
+sort_publish_date = 1447002000
 create_date = "2015-11-07T22:33:00-08:00"
 publish_date = "2015-11-08T09:00:00-08:00"
 date = "2015-11-08T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post has pieces by @vanessaveselka, @jessicagross, and others. "
 facebookauto = "Native Alaska, library story times, interviews with wonderful illustrators, and more, in today's Sunday Post."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[The Fort of Young Saplings](https://read.atavist.com/the-fort-of-young-saplings?no-overlay&preview)</h5>

@@ -1,8 +1,8 @@
 +++
 index = "-K-PjWn3tXSdCqS3IUxz"
-_sort_create_date = 1443557640
-_sort_last_updated = 1443557880
-_sort_publish_date = 1443562320
+sort_create_date = 1443557640
+sort_last_updated = 1443557880
+sort_publish_date = 1443562320
 create_date = "2015-09-29T13:14:00-07:00"
 publish_date = "2015-09-29T14:32:00-07:00"
 date = "2015-09-29T14:32:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Twitter's brevity is the soul of its utility."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/twitter", "tags/constraints"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The [news broke today](http://recode.net/2015/09/29/twitter-plans-to-go-beyond-its-140-character-limit/) that Twitter is considering ways to allow users to write posts that are longer than its current 140-character limit. This is, obviously, **a bad idea**. Twitter with no limits is just blogging. Everyone has problems squeezing words into a tweet every now and again, but the constraint is what makes Twitter magical. 

@@ -1,8 +1,8 @@
 +++
 index = "-KYG94mcUhEj52-KgYY2"
-_sort_create_date = 1480977780
-_sort_last_updated = 1480978080
-_sort_publish_date = 1480977780
+sort_create_date = 1480977780
+sort_last_updated = 1480978080
+sort_publish_date = 1480977780
 create_date = "2016-12-05T14:43:00-08:00"
 publish_date = "2016-12-05T14:43:00-08:00"
 date = "2016-12-05T14:43:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to @PeterMountford, the recipient of the 2016 Gar LeSalle Storyteller Award from @artisttrust."
 facebookauto = "Congratulations to Peter Mountford, the recipient of the 2016 Gar LeSalle Storyteller Award from Artist Trust."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/literary-prize", "tags/gar-lesalle-prize"]
-authors_notes = ["authors/peter-mountford", "authors/anca-l-szil\u00e1gyi"]
+notes_about = ""
 books = ""
 +++
 Artist Trust just spread the word today:

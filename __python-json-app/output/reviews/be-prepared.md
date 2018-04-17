@@ -1,8 +1,8 @@
 +++
 index = "-L5BcJ82LsozEOzmE2D3"
-_sort_create_date = 1518482820
-_sort_last_updated = 1518544980
-_sort_publish_date = 1518551760
+sort_create_date = 1518482820
+sort_last_updated = 1518544980
+sort_publish_date = 1518551760
 create_date = "2018-02-12T16:47:00-08:00"
 publish_date = "2018-02-13T11:56:00-08:00"
 date = "2018-02-13T11:56:00-08:00"
@@ -13,10 +13,10 @@ title = "Be prepared"
 dek = "Tonight, Seattle author Kim Fu reads at Elliott Bay Book Company. Her new novel, about a group of girls at summer camp who get lost and must fend for themselves, is a remarkable book that adds something new to the lost-in-the-wilderness genre."
 facebookauto = "Seattle author Kim Fu reads at Elliott Bay Book Company tonight. Her new novel, the Lost Girls of Camp Forevermore, is AMAZING. Read about it here:"
 twitterauto = "Seattle author @skimfu reads @elliottbaybooks tonight. Her new novel is AMAZING."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-lost-girls-of-camp-forevermore"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/kim-fu"]
+reviews_about = ""
 +++
 
 Outdoorsiness is having a moment. All of a sudden, popular culture is obsessed with people (particularly young people) fending for themselves in the wild. In comics like *Lumberjanes*, in fiction for young readers like *Arlo Finch in the Valley of Fire*, in novels like *My Absolute Darling*, in films like *The Mountain Between Us*, characters are using quick wits and thoughtful preparation to survive in the woods without any of the technological advances we take for granted. 

@@ -1,8 +1,8 @@
 +++
 index = "-KNepXNoRZrQyT7hPc_W"
-_sort_create_date = 1469597460
-_sort_last_updated = 1469597460
-_sort_publish_date = 1469649660
+sort_create_date = 1469597460
+sort_last_updated = 1469597460
+sort_publish_date = 1469649660
 create_date = "2016-07-26T22:31:00-07:00"
 publish_date = "2016-07-27T13:01:00-07:00"
 date = "2016-07-27T13:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "There's something for everyone in the @HugoHouse's 2016-2017 calendar."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ["authors/mattilda-bernstein-sycamore", "authors/ed-skoog", "authors/megan-kruse"]
+notes_about = ""
 books = ""
 +++
 Yesterday, Hugo House published the lineup of their 2016-2016 Word Works and Literary Series events. 

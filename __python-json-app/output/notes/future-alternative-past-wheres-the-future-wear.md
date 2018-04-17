@@ -1,8 +1,8 @@
 +++
 index = "-L0DPrCRqOj4YSm8gU3N"
-_sort_create_date = 1513144140
-_sort_last_updated = 1513620420
-_sort_publish_date = 1513281600
+sort_create_date = 1513144140
+sort_last_updated = 1513620420
+sort_publish_date = 1513281600
 create_date = "2017-12-12T21:49:00-08:00"
 publish_date = "2017-12-14T12:00:00-08:00"
 date = "2017-12-14T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513144088860/3351
 twitterauto = "Join @NisiShawl on a a look back at the fashion of the future, in this month's Future Alternative Past."
 facebookauto = "Join Nisi Shawl on a a look back at the fashion of the future, in this month's Future Alternative Past."
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ["authors/cj-cherryh", "authors/julie-c-dao", "authors/annalee-newitz", "authors/anna-kavan"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. You can also look through the [archives of the column](http://www.seattlereviewofbooks.com/tags/the-future-alternative-past).</p>

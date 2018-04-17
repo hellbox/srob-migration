@@ -1,8 +1,8 @@
 +++
 index = "-JxVLwsP0j_7w1SJ0rIm"
-_sort_create_date = 1440430620
-_sort_last_updated = 1440430620
-_sort_publish_date = 1440878400
+sort_create_date = 1440430620
+sort_last_updated = 1440430620
+sort_publish_date = 1440878400
 create_date = "2015-08-24T08:37:00-07:00"
 publish_date = "2015-08-29T13:00:00-07:00"
 date = "2015-08-29T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "One day left! Read a full chapter from @robhollywood's upcoming Mesilla. Thanks to him for the sponsorship."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Through Sunday, our sponsor Robert James Russell is allowing us run a chapter from his upcoming western _Mesilla_, being released by Seattle's own Dock Street Press. It's a real treat, and one you won't want to miss. 

@@ -1,8 +1,8 @@
 +++
 index = "-KHOO_Z7EdKMk31vQBER"
-_sort_create_date = 1462862460
-_sort_last_updated = 1462910700
-_sort_publish_date = 1462911300
+sort_create_date = 1462862460
+sort_last_updated = 1462910700
+sort_publish_date = 1462911300
 create_date = "2016-05-09T23:41:00-07:00"
 publish_date = "2016-05-10T13:15:00-07:00"
 date = "2016-05-10T13:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup features good news, editorial challenges, and a scandal that turned into a sale."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-arts-and-lectures", "tags/the-james-franco-review"]
-authors_notes = ["authors/sherman-alexie", "authors/corinne-manning"]
+notes_about = ""
 books = ""
 +++
 * Sherman Alexie, Seattle's most prominent author™, promoted his brand-new book for kids, *Thunder Boy Jr.*, on Comedy Central last night. He talked with *Daily Show* host Trevor Noah about the problems of being a Junior, Crazy Horse's childhood name, Andrew Jackson, and the name of Washington DC's football team.

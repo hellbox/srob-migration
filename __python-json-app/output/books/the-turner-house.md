@@ -1,8 +1,8 @@
 +++
 index = "-KihWoSyMo17M8pd-DWK"
-_sort_create_date = 1493264940
-_sort_last_updated = 1493265180
-_sort_publish_date = 1493264940
+sort_create_date = 1493264940
+sort_last_updated = 1493265180
+sort_publish_date = 1493264940
 create_date = "2017-04-26T20:49:00-07:00"
 publish_date = "2017-04-26T20:49:00-07:00"
 date = "2017-04-26T20:49:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Vf8q9yurbMK_RxbY_15OTEE2TV4UWvpiI8AoP1CzXPzyXuOy4N37c6cFKZQEOqQSigEmPNG6obV0_eb4n2D42tKyRQzE"
 url = "/webhook-uploads/1493264974672/content%3Fid%3DGPf-sgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 29225
 
 review_relationship = ""
-author_relationship = ["authors/angela-flournoy"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-seattle-reads-the-turner-house", "notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th"]
 +++

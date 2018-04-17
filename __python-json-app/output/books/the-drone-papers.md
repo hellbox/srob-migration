@@ -1,8 +1,8 @@
 +++
 index = "-K0x8VOynnIbx7UuBnzQ"
-_sort_create_date = 1445208600
-_sort_last_updated = 1445209200
-_sort_publish_date = 1445208600
+sort_create_date = 1445208600
+sort_last_updated = 1445209200
+sort_publish_date = 1445208600
 create_date = "2015-10-18T15:50:00-07:00"
 publish_date = "2015-10-18T15:50:00-07:00"
 date = "2015-10-18T15:50:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hh31a_T5tJM3vhdFyqYSzW5ja-NjiJQiq6wFCiNgDANRDVkGspUM--NlSoIBaOtTsg818UEQE_Zp94COEmTmseHKQ2WTKg"
 url = "/webhook-uploads/1445208537980/drone-cover.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 395757
 
 review_relationship = ["reviews/collateral-damage"]
-author_relationship = ["authors/the-intercept_"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

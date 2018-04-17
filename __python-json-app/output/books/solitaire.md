@@ -1,8 +1,8 @@
 +++
 index = "-JwPTKVcXLOHinCJCwg2"
-_sort_create_date = 1439258160
-_sort_last_updated = 1439265960
-_sort_publish_date = 1439258160
+sort_create_date = 1439258160
+sort_last_updated = 1439265960
+sort_publish_date = 1439258160
 create_date = "2015-08-10T18:56:00-07:00"
 publish_date = "2015-08-10T18:56:00-07:00"
 date = "2015-08-10T18:56:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0A4ab0X0Jb-7HEoLlKaIai-wfSggZL2r2PE9_O1XUlo7Lyap_kBKDA04jtaZjCW4H8wAKtuwvC9N3Vhwuj54KXMJ8XI"
 url = "/webhook-uploads/1439266001684/Screen%20Shot%202015-08-10%20at%209.04.56%20PM.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 1489967
 
 review_relationship = ""
-author_relationship = ["authors/kelley-eskridge"]
+books_author = ""
 sponsorships_book = ["sponsorships/solitaire---old", "sponsorships/purchase-solitaire"]
 notes_relationship = ["notes/seattle-author-kelley-eskridge-is-our-sponsor-this-week"]
 +++

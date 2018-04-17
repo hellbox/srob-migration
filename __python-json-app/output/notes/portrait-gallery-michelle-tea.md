@@ -1,8 +1,8 @@
 +++
 index = "-KWo7ulBzxDpHPRm2x7w"
-_sort_create_date = 1479417240
-_sort_last_updated = 1479417480
-_sort_publish_date = 1479420000
+sort_create_date = 1479417240
+sort_last_updated = 1479417480
+sort_publish_date = 1479420000
 create_date = "2016-11-17T13:14:00-08:00"
 publish_date = "2016-11-17T14:00:00-08:00"
 date = "2016-11-17T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479417097265/SRoB
 twitterauto = "This week @studiochristine painted @TeaMichelle for our Portrait Gallery."
 facebookauto = "Portrait Gallery: Michelle Tea. Friday, November 18th at Fred Wildlife Refuge."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/michelle-tea"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KIxkHVJ6Q9H_bv4_TjP"
-_sort_create_date = 1464546120
-_sort_last_updated = 1464620700
-_sort_publish_date = 1464546120
+sort_create_date = 1464546120
+sort_last_updated = 1464620700
+sort_publish_date = 1464546120
 create_date = "2016-05-29T11:22:00-07:00"
 publish_date = "2016-05-29T11:22:00-07:00"
 date = "2016-05-29T11:22:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464545902337/jtle
 twitterauto = "Join us tomorrow @SIFFNews for a documentary about a literary hoax."
 facebookauto = "On Monday at SIFF, our own Paul Constant will interview the director of Author: The JT LeRoy Story about authenticity in authorship and one of the greatest literary hoaxes of our time."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/siff"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class-"image">![](/webhook-uploads/1464545902337/jtleroy.jpg)</p>

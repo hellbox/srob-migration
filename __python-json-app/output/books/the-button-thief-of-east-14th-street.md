@@ -1,8 +1,8 @@
 +++
 index = "-KZ9mFM_JfaWOTwDCBrT"
-_sort_create_date = 1481944620
-_sort_last_updated = 1481944620
-_sort_publish_date = 1481944620
+sort_create_date = 1481944620
+sort_last_updated = 1481944620
+sort_publish_date = 1481944620
 create_date = "2016-12-16T19:17:00-08:00"
 publish_date = "2016-12-16T19:17:00-08:00"
 date = "2016-12-16T19:17:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/nWNY7mWqjjZIW8BOwKSXBriB0TCOGyHpt09GAsqJD3OnvrXBXLrEHdKbzANkTBx5l6Csor1VHjNHaqlU3TS6Z8JJgYy6"
 url = "/webhook-uploads/1481944610398/unspecified.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 170619
 
 review_relationship = ""
-author_relationship = ["authors/fay-webern"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-button-thief-of-east-14th-street"]
 notes_relationship = ["notes/remembering-a-new-york-now-gone-from-an-eye-witness"]
 +++

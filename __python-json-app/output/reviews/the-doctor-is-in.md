@@ -1,8 +1,8 @@
 +++
 index = "-K5nFzX2Vzq6Fcp4w-mo"
-_sort_create_date = 1450411500
-_sort_last_updated = 1450855680
-_sort_publish_date = 1450721100
+sort_create_date = 1450411500
+sort_last_updated = 1450855680
+sort_publish_date = 1450721100
 create_date = "2015-12-17T20:05:00-08:00"
 publish_date = "2015-12-21T10:05:00-08:00"
 date = "2015-12-21T10:05:00-08:00"
@@ -13,10 +13,10 @@ title = "The Doctor is in"
 dek = "A.L. Kennedy writes gorgeous literary fiction. Now she's written a Doctor Who novelization. What's up with that?"
 facebookauto = "A.L. Kennedy writes gorgeous literary fiction. Now she's written a Doctor Who novelization. What's up with that?"
 twitterauto = "A.L. Kennedy writes gorgeous literary fiction. Now she's written a Doctor Who novelization. How is it?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/doctor-who-the-drostens-curse"]
 tags_reviews = ["tags/fiction", "tags/science-fiction"]
-authors_reviews = ["authors/al-kennedy"]
+reviews_about = ""
 +++
 
 I’m not a Whovian. I’ve seen and enjoyed a few episodes of the *Doctor Who* season where the Doctor was played by Christopher Eccleston, but I don’t have the patience to immerse myself in the dense continuity and playful self-indulgence of *Doctor Who* fandom. The hours I contribute to television-watching are relatively few, and I tend to be a completist about these sorts of things. I don’t have enough hours in my life to contribute to the cause of watching all the *Doctor Who* episodes out there floating around the streaming sites. I understand and appreciate the gist of the series — Time Lord floating around the space-time continuum in an old-fashioned police phone-box solving problems with the help of human companions — but there are only so many nerdly pursuits one can commit to in a single life, and *Doctor Who* and I will always run on parallel tracks.

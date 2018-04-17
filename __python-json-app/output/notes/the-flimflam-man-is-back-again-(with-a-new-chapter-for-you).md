@@ -1,8 +1,8 @@
 +++
 index = "-L443-WGoanz6chrBPZ3"
-_sort_create_date = 1517282100
-_sort_last_updated = 1517288820
-_sort_publish_date = 1518469200
+sort_create_date = 1517282100
+sort_last_updated = 1517288820
+sort_publish_date = 1518469200
 create_date = "2018-01-29T19:15:00-08:00"
 publish_date = "2018-02-12T13:00:00-08:00"
 date = "2018-02-12T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1517282029606/
 twitterauto = "Sponsor Pope Brock's Charlatan is a vivid look at a famous quack. Read the second and last sample before it's gone!"
 facebookauto = "Sponsor Pope Brock is back for a second week, and with a second \u2014 and just as can't-look-away fascinating  \u2014 chapter of Charlatan for your enjoyment."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/pope-brock"]
+notes_about = ""
 books = ["books/charlatan"]
 +++
 <p class="image-left">![](/webhook-uploads/1517282001405/Charlatan_150.jpeg)</p>

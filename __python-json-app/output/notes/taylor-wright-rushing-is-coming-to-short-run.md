@@ -1,8 +1,8 @@
 +++
 index = "-KxRK4z0YMCqVFgWMFka"
-_sort_create_date = 1509082500
-_sort_last_updated = 1509083280
-_sort_publish_date = 1509555660
+sort_create_date = 1509082500
+sort_last_updated = 1509083280
+sort_publish_date = 1509555660
 create_date = "2017-10-26T22:35:00-07:00"
 publish_date = "2017-11-01T10:01:00-07:00"
 date = "2017-11-01T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509082415804/Scre
 twitterauto = "For Taylor Wright Rushing, @shortrunseattle is a homecoming."
 facebookauto = "For Taylor Wright Rushing, Short Run Seattle is a homecoming."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Illustrator [Taylor Wright Rushing]( https://taylorwrightrushin.wixsite.com/taylorwrightrushing) was born and raised in Washington State. He moved to Austin for a year and then entered grad school in Madison, Wisconsin. We talked on the phone last week. You can find him at [the Short Run Comix & Arts Festival](http://shortrun.org/) this Saturday at Seattle Center.</p>

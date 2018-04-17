@@ -1,8 +1,8 @@
 +++
 index = "-K7e9i6g_to6Ni9BVtvE"
-_sort_create_date = 1452406380
-_sort_last_updated = 1452463920
-_sort_publish_date = 1452445200
+sort_create_date = 1452406380
+sort_last_updated = 1452463920
+sort_publish_date = 1452445200
 create_date = "2016-01-09T22:13:00-08:00"
 publish_date = "2016-01-10T09:00:00-08:00"
 date = "2016-01-10T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Pieces by @DearSplenda, @jengraves, @egabbert, and more in today's Sunday Post. "
 facebookauto = "The history of the style section. a question of who deserves artist's grants, some good advice for writers, and Updike on Iris Murdoch, all in today's Sunday Post. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/iris-murdoch", "authors/john-updike"]
+notes_about = ""
 books = ""
 +++
 <h5>[Bonfire of the Inanities](http://www.theawl.com/2014/11/the-history-of-the-new-york-times-styles-section "Bonfire of the Inanities - The Awl")</h5>

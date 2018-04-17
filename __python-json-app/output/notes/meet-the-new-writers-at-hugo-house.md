@@ -1,8 +1,8 @@
 +++
 index = "-KPAkQKF9n93gWsvW7yz"
-_sort_create_date = 1471223520
-_sort_last_updated = 1471223520
-_sort_publish_date = 1471285800
+sort_create_date = 1471223520
+sort_last_updated = 1471223520
+sort_publish_date = 1471285800
 create_date = "2016-08-14T18:12:00-07:00"
 publish_date = "2016-08-15T11:30:00-07:00"
 date = "2016-08-15T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Meet the new faces @HugoHouse, including @ProfSonoraJha and @williefitz!"
 facebookauto = "The Hugo House announced a whole bunch of new writers who'll be hanging around the House for the next year or so. Get excited about meeting these new faces:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ["authors/willie-fitzgerald", "authors/sonora-jha"]
+notes_about = ""
 books = ""
 +++
 In the news business, they refer to the "Friday evening news dump" as the time when organizations — corporations, governments — release information that they don't want to get much attention. Friday evenings at 5 pm in the summer are generally when disgraced CEOs step down, when embarrassing statistics are released, when institutional shame is released into the world. Friday news dumps in August and December are especially notorious for this, because absolutely nobody pays attention to the news over the weekends in summer or the holiday season.

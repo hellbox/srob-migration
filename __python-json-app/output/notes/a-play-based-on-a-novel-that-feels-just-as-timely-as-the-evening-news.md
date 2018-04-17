@@ -1,8 +1,8 @@
 +++
 index = "-KnIlopnkhl4i71Tnqmi"
-_sort_create_date = 1498201620
-_sort_last_updated = 1498201980
-_sort_publish_date = 1498240860
+sort_create_date = 1498201620
+sort_last_updated = 1498201980
+sort_publish_date = 1498240860
 create_date = "2017-06-23T00:07:00-07:00"
 publish_date = "2017-06-23T11:01:00-07:00"
 date = "2017-06-23T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498201271623/Welc
 twitterauto = "How do you make a play adapted from a novel feel as timely as Twitter? Add a poet."
 facebookauto = "Welcome to Braggsville plays at Book-It Repertory Theatre through July 2nd. It's a play based on a novel adapted in part by a Seattle poet, it's a frank look at race in America, and it feels as timely as the evening news."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-it-repertory-theatre", "tags/race"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1498201271623/WelcometoBraggsville_2017_Alabastro-4-948x632.jpg)</p>

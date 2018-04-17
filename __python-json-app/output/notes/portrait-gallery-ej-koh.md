@@ -1,8 +1,8 @@
 +++
 index = "-KBtNhzMtyP499HAh8Bn"
-_sort_create_date = 1456956660
-_sort_last_updated = 1456957020
-_sort_publish_date = 1457042400
+sort_create_date = 1456956660
+sort_last_updated = 1456957020
+sort_publish_date = 1457042400
 create_date = "2016-03-02T14:11:00-08:00"
 publish_date = "2016-03-03T14:00:00-08:00"
 date = "2016-03-03T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456956389215/SRoB
 twitterauto = "Look! @studiochristine painted @thisisEJKoh! "
 facebookauto = "Christine Marie Larsen painted local poet EJ Koh for this week's Portrait Gallery. "
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about).</p>

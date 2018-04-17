@@ -1,8 +1,8 @@
 +++
 index = "-KOf4_MBWgEN5ro0VJIC"
-_sort_create_date = 1470675420
-_sort_last_updated = 1470675660
-_sort_publish_date = 1470686400
+sort_create_date = 1470675420
+sort_last_updated = 1470675660
+sort_publish_date = 1470686400
 create_date = "2016-08-08T09:57:00-07:00"
 publish_date = "2016-08-08T13:00:00-07:00"
 date = "2016-08-08T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor @islaisreading brings a sample her exquisitely written exploration of Poland behind the Iron Curtain."
 facebookauto = "This week, sponsor Isla McKetta brings a sample her exquisitely written exploration of Poland behind the Iron Curtain."
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor Isla McKetta spent a year in Poland, and it was that experience, and having spent a previous year in Pinochet's Chile as a child, that made oppression a topic in the forefront of her mind. In her novel _Polska, 1994_ she explores that, through the eyes of Magda, who witnesses her mother's arrest and disapearance. 

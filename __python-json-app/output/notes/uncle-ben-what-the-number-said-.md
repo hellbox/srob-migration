@@ -1,8 +1,8 @@
 +++
 index = "-KtAFWa1GtIXtZTjRC23"
-_sort_create_date = 1504501140
-_sort_last_updated = 1504542840
-_sort_publish_date = 1504630500
+sort_create_date = 1504501140
+sort_last_updated = 1504542840
+sort_publish_date = 1504630500
 create_date = "2017-09-03T21:59:00-07:00"
 publish_date = "2017-09-05T09:55:00-07:00"
 date = "2017-09-05T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504501411980/Scre
 twitterauto = "Our Poet in Residence for September, @estherhelfgott, shows us family and history in her first poem of the month."
 facebookauto = "Our first poem from September Poet in Residence, Esther Altshul Helfgott, is titled \"Uncle Ben: What the Number Said\""
 make_image_tweet = "False"
-byline = ["writers/esther-altshul-helfgott"]
+notes_byline = ["writers/esther-altshul-helfgott"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I’m five years old.<br> 

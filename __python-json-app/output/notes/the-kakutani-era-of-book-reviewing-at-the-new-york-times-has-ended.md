@@ -1,8 +1,8 @@
 +++
 index = "-Kq40XoNpo8ePATW2tiw"
-_sort_create_date = 1501175340
-_sort_last_updated = 1501176060
-_sort_publish_date = 1501175340
+sort_create_date = 1501175340
+sort_last_updated = 1501176060
+sort_publish_date = 1501175340
 create_date = "2017-07-27T10:09:00-07:00"
 publish_date = "2017-07-27T10:09:00-07:00"
 date = "2017-07-27T10:09:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A big damn deal in the book reviewing world: Michiko Kakutani has resigned."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Joe Pompeo [at *Vanity Fair*](http://www.vanityfair.com/news/2017/07/michiko-kakutani-leaving-the-new-york-times):

@@ -1,8 +1,8 @@
 +++
 index = "-KlzjTh772toMsEQ9ApV"
-_sort_create_date = 1496791740
-_sort_last_updated = 1496845920
-_sort_publish_date = 1496791740
+sort_create_date = 1496791740
+sort_last_updated = 1496845920
+sort_publish_date = 1496791740
 create_date = "2017-06-06T16:29:00-07:00"
 publish_date = "2017-06-06T16:29:00-07:00"
 date = "2017-06-06T16:29:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "Zine/comic"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/JFD5oFHB073JTDmSI_tPzCewnigJbSG9WJksl7fJNjatSu-CmXZtFEQoVSHiiFboYAAyiK9Rzhz5T0Z8zLP324_gtFbV"
 url = "/webhook-uploads/1496815577144/LS-1%20(1).jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 29923
 
 review_relationship = ["reviews/let-lightning-snake-reveal-yourself-to-you"]
-author_relationship = ["authors/jason-t-miles"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

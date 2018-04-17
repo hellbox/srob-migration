@@ -1,8 +1,8 @@
 +++
 index = "-Kq1-ww39Airoivf4U9j"
-_sort_create_date = 1501124820
-_sort_last_updated = 1501781520
-_sort_publish_date = 1501700160
+sort_create_date = 1501124820
+sort_last_updated = 1501781520
+sort_publish_date = 1501700160
 create_date = "2017-07-26T20:07:00-07:00"
 publish_date = "2017-08-02T11:56:00-07:00"
 date = "2017-08-02T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501124788897/evic
 twitterauto = "Your Week in Readings includes a couple of fantastic-looking mystery events."
 facebookauto = "Your Week in Readings includes a couple of fantastic-looking mystery events."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1501124788897/evicted.jpg)</p>

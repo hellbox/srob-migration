@@ -1,8 +1,8 @@
 +++
 index = "-L6VRjXUHML-v5YWB9Qp"
-_sort_create_date = 1519889040
-_sort_last_updated = 1520885820
-_sort_publish_date = 1520880960
+sort_create_date = 1519889040
+sort_last_updated = 1520885820
+sort_publish_date = 1520880960
 create_date = "2018-02-28T23:24:00-08:00"
 publish_date = "2018-03-12T11:56:00-07:00"
 date = "2018-03-12T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519888431602/enli
 twitterauto = "This week: Enlightenment, poetry, and the best brunch ever."
 facebookauto = "This week: Enlightenment, poetry, and the best brunch evert."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, March 12: *Cut You Down* Reading**</h5></p>

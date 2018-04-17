@@ -1,8 +1,8 @@
 +++
 index = "-L4oAethl0oS7eXS_etn"
-_sort_create_date = 1518072660
-_sort_last_updated = 1518119100
-_sort_publish_date = 1518120000
+sort_create_date = 1518072660
+sort_last_updated = 1518119100
+sort_publish_date = 1518120000
 create_date = "2018-02-07T22:51:00-08:00"
 publish_date = "2018-02-08T12:00:00-08:00"
 date = "2018-02-08T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518072896360/9781
 twitterauto = "Where are the SF schools? And reviews of @matthaig1 and @SueBurkeSpain in @NisiShawl's Future Alternative Past."
 facebookauto = "Where are the SF schools? That and reviews of Matt Haig, Sue Burke, and more in Nisi Shawl's Future Alternative Past."
 make_image_tweet = "False"
-byline = ["writers/nisi-shawl"]
+notes_byline = ["writers/nisi-shawl"]
 tags_notes = ["tags/the-future-alternative-past"]
-authors_notes = ["authors/sue-burke", "authors/matt-haig", "authors/michael-andreasen"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Nisi Shawl presents us with news and updates from her perch overlooking the world of science-fiction, fantasy, and horror. You can also look through the [archives of the column](http://www.seattlereviewofbooks.com/tags/the-future-alternative-past).</p>

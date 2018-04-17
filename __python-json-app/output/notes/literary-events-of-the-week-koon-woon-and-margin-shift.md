@@ -1,8 +1,8 @@
 +++
 index = "-KKVjSzAPMBdzES9G5NE"
-_sort_create_date = 1466206860
-_sort_last_updated = 1466206860
-_sort_publish_date = 1466614860
+sort_create_date = 1466206860
+sort_last_updated = 1466206860
+sort_publish_date = 1466614860
 create_date = "2016-06-17T16:41:00-07:00"
 publish_date = "2016-06-22T10:01:00-07:00"
 date = "2016-06-22T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466206712506/koon
 twitterauto = "You've got a difficult choice between two readings  to make tomorrow night."
 facebookauto = "Thursday night, you'll have to choose which event you want to attend: a young, fun poetry barbecue? Or one of the grand masters of Seattle poetry?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/margin-shift", "tags/couth-buzzard"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sometimes all the good things happen in a single night. These are the nights where you want to throw yourself into a large sterile glass tube, flip a mad-scientist switch, and then send a clone or two staggering off into the night, just so you’re sure you don’t miss a thing. Thursday, June 23rd is one of those nights.

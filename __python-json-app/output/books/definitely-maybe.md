@@ -1,8 +1,8 @@
 +++
 index = "-JsiSvx9qr7CsEuaKp7S"
-_sort_create_date = 1435300020
-_sort_last_updated = 1435300020
-_sort_publish_date = 1435300020
+sort_create_date = 1435300020
+sort_last_updated = 1435300020
+sort_publish_date = 1435300020
 create_date = "2015-06-25T23:27:00-07:00"
 publish_date = "2015-06-25T23:27:00-07:00"
 date = "2015-06-25T23:27:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6xQjTWg3IlSC9Wnys5LgCansgtLaEJffwmIPZPF4yy67pO_TuDLcCoLVrSlxeEy9snyl5l4Rvavq-4hKpcoJfZpTh3JZ"
 url = "/webhook-uploads/1435299955436/9781612192819.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 13456
 
 review_relationship = ["reviews/traveling-light"]
-author_relationship = ["authors/arkady-strugatsky", "authors/boris-strugatsky"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

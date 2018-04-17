@@ -1,8 +1,8 @@
 +++
 index = "-Kfd805FgWZhUfyB1aQo"
-_sort_create_date = 1489970100
-_sort_last_updated = 1490626200
-_sort_publish_date = 1490720100
+sort_create_date = 1489970100
+sort_last_updated = 1490626200
+sort_publish_date = 1490720100
 create_date = "2017-03-19T17:35:00-07:00"
 publish_date = "2017-03-28T09:55:00-07:00"
 date = "2017-03-28T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our final poem from March's Poet in Residence Jamaica Baldwin: \"Land Mine\""
 facebookauto = "Our final poem from March's Poet in Residence Jamaica Baldwin: \"Land Mine\""
 make_image_tweet = "False"
-byline = ["writers/jamaica-baldwin"]
+notes_byline = ["writers/jamaica-baldwin"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I like a little violence<br>

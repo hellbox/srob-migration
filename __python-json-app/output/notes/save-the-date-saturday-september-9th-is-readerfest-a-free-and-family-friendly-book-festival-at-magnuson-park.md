@@ -1,8 +1,8 @@
 +++
 index = "-Kplbxg8PTLSeyeq9S6q"
-_sort_create_date = 1500849840
-_sort_last_updated = 1500924360
-_sort_publish_date = 1500914640
+sort_create_date = 1500849840
+sort_last_updated = 1500924360
+sort_publish_date = 1500914640
 create_date = "2017-07-23T15:44:00-07:00"
 publish_date = "2017-07-24T09:44:00-07:00"
 date = "2017-07-24T09:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500849484900/Read
 twitterauto = "Save the date: September 9th is Readerfest, a free book festival at Magnuson Park!"
 facebookauto = "Save the date: September 9th is Readerfest, a free book festival at Magnuson Park!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/readerfest"]
-authors_notes = ["authors/nisi-shawl"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1500849484900/Reader_FinalPoster-01.jpg)</p>

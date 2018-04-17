@@ -1,8 +1,8 @@
 +++
 index = "-K9cGQlYMJg3EHoMpYJu"
-_sort_create_date = 1454522040
-_sort_last_updated = 1454523240
-_sort_publish_date = 1454533980
+sort_create_date = 1454522040
+sort_last_updated = 1454523240
+sort_publish_date = 1454533980
 create_date = "2016-02-03T09:54:00-08:00"
 publish_date = "2016-02-03T13:13:00-08:00"
 date = "2016-02-03T13:13:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "How many Amazon Books will there be? And when is @shortrunseattle this year? All the news you need is here:"
 facebookauto = "Our Book News Roundup includes more Amazon Books whispers, a rumor about a local reading series, some great Short Run news, and a little hope for diversity in the publishing industry."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/amazon-books", "tags/short-run", "tags/university-of-washington-press"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * After [yesterday's gossip](http://seattlereviewofbooks.com/notes/2016/02/02/amazon-to-open-hundreds-of-bookstores-nationwide/) that Amazon is considering opening hundreds of Amazon Books locations nationwide in the next few years, Shelf Awareness, the industry news site which first broke the Amazon Books story, [now says Amazon's plans are more modest](http://www.shelf-awareness.com/issue.html?issue=2682), likely in the range of a dozen or so stores. We at the *Seattle Review of Books* have heard that, too, from people in the industry. Amazon, of course, could do away with these rumors immediately, but Amazon doesn't comment on stories like these. Amazon never has any comment.

@@ -1,8 +1,8 @@
 +++
 index = "-K4f9BN2LSmRTiod7H0b"
-_sort_create_date = 1449201780
-_sort_last_updated = 1449202140
-_sort_publish_date = 1449251400
+sort_create_date = 1449201780
+sort_last_updated = 1449202140
+sort_publish_date = 1449251400
 create_date = "2015-12-03T20:03:00-08:00"
 publish_date = "2015-12-04T09:50:00-08:00"
 date = "2015-12-04T09:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's time to retire the Bad Sex in Fiction Award. Let's talk about great literary sex, instead."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bad-sex-in-fiction-award"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We're generally in favor of awards here at the *Seattle Review of Books*. We don't put too much truck in them — awards are not the end of a certain type of literary conversation; they're the beginning. But ([as long as they don't overly favor straight white men](http://seattlereviewofbooks.com/notes/2015/07/27/talking-with-nicola-griffith-about-the-importance-of-counting-womens-stories/)) awards are fun, and it's nice to publicly recognize the hard work that goes into the writing of books.

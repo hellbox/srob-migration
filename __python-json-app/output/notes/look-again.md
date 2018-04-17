@@ -1,8 +1,8 @@
 +++
 index = "-L6d6b-H_3JNncJs6ICN"
-_sort_create_date = 1520034540
-_sort_last_updated = 1520284500
-_sort_publish_date = 1520283600
+sort_create_date = 1520034540
+sort_last_updated = 1520284500
+sort_publish_date = 1520283600
 create_date = "2018-03-02T15:49:00-08:00"
 publish_date = "2018-03-05T13:00:00-08:00"
 date = "2018-03-05T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1520034426762/
 twitterauto = "The world is full of telling images, says sponsor @LoisFStark. Stop by the site for a few vivid examples."
 facebookauto = "The world is full of telling images, says sponsor Lois Farfel Stark. Stop by the site for a few vivid examples. "
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/lois-farfel-stark"]
+notes_about = ""
 books = ["books/the-telling-image"]
 +++
 <p class="image-left">![](/webhook-uploads/1520034413524/Telling%20Image_150.jpeg)</p>

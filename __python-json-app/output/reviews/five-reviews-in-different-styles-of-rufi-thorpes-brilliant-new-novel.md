@@ -1,8 +1,8 @@
 +++
 index = "-KIKWx4t_XEWmAK2eYKT"
-_sort_create_date = 1463871300
-_sort_last_updated = 1464042720
-_sort_publish_date = 1464029880
+sort_create_date = 1463871300
+sort_last_updated = 1464042720
+sort_publish_date = 1464029880
 create_date = "2016-05-21T15:55:00-07:00"
 publish_date = "2016-05-23T11:58:00-07:00"
 date = "2016-05-23T11:58:00-07:00"
@@ -13,10 +13,10 @@ title = "Five reviews in different styles of Rufi Thorpe's brilliant new novel"
 dek = "Even by our standards, Martin went a bit overboard with this review, but what else can you do when you fall hard for a novel?"
 facebookauto = "We went a little overboard with this review of Rufi Thorpe's new book. We regret nothing. This book is wonderful."
 twitterauto = "We went a little overboard with this review of @rufithorpe's new book. We regret nothing. This book is wonderful."
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/dear-fang-with-love"]
 tags_reviews = ""
-authors_reviews = ["authors/rufi-thorpe"]
+reviews_about = ""
 +++
 
 <h2>THE NEWSPAPER STYLE REVIEW</h2>

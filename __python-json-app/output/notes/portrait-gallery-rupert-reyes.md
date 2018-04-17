@@ -1,8 +1,8 @@
 +++
 index = "-Ki7fPniFMYfGSOIXCNg"
-_sort_create_date = 1492646700
-_sort_last_updated = 1492713420
-_sort_publish_date = 1492722000
+sort_create_date = 1492646700
+sort_last_updated = 1492713420
+sort_publish_date = 1492722000
 create_date = "2017-04-19T17:05:00-07:00"
 publish_date = "2017-04-20T14:00:00-07:00"
 date = "2017-04-20T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492712305331/SRoB
 twitterauto = "Portrait Gallery: @rupertreyes #illustration by @studiochristine"
 facebookauto = "Portrait Gallery: Rupert Reyes"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/rupert-reyes"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

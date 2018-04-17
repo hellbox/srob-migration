@@ -1,8 +1,8 @@
 +++
 index = "-KvQNWrcnjbcYqxLgJGE"
-_sort_create_date = 1506919140
-_sort_last_updated = 1508865720
-_sort_publish_date = 1508864100
+sort_create_date = 1506919140
+sort_last_updated = 1508865720
+sort_publish_date = 1508864100
 create_date = "2017-10-01T21:39:00-07:00"
 publish_date = "2017-10-24T09:55:00-07:00"
 date = "2017-10-24T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508865714762/Scre
 twitterauto = "\"Gum & Eating Peanuts\" is the fourth poem from Poet in Residence @karywayson"
 facebookauto = "\"Gum & Eating Peanuts\" is the fourth poem from Poet in Residence Kary Wayson"
 make_image_tweet = "False"
-byline = ["writers/kary-wayson"]
+notes_byline = ["writers/kary-wayson"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 glugs of amber winelight lay like legs<br>

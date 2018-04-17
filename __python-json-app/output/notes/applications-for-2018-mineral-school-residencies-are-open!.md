@@ -1,8 +1,8 @@
 +++
 index = "-L0b5gfNA-zKKCSrzX0d"
-_sort_create_date = 1513558260
-_sort_last_updated = 1513572180
-_sort_publish_date = 1513630800
+sort_create_date = 1513558260
+sort_last_updated = 1513572180
+sort_publish_date = 1513630800
 create_date = "2017-12-17T16:51:00-08:00"
 publish_date = "2017-12-18T13:00:00-08:00"
 date = "2017-12-18T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1513572153994/
 twitterauto = "Don't miss the chance to apply for a residency at the Mineral School, our sponsor this week."
 facebookauto = "Don't miss the chance to apply for a residency at the Mineral School, our sponsor this week."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1513572019267/Mineral%20School%20residents%20crop_200.jpeg)</p>

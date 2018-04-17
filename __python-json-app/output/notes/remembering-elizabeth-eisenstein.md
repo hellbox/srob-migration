@@ -1,8 +1,8 @@
 +++
 index = "-KBnWRySPMTpplqmYRez"
-_sort_create_date = 1456858320
-_sort_last_updated = 1456859520
-_sort_publish_date = 1456862400
+sort_create_date = 1456858320
+sort_last_updated = 1456859520
+sort_publish_date = 1456862400
 create_date = "2016-03-01T10:52:00-08:00"
 publish_date = "2016-03-01T12:00:00-08:00"
 date = "2016-03-01T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Gutenberg scholar Elizabeth Eisenstein died last week at 92. Novelist @alixechristie has a remembrance."
 facebookauto = "We asked \"Gutenberg's Apprentice\" author Alix Christie to write a few words about scholar Elizabeth Eisenstein, following her death last week, at age 92."
 make_image_tweet = "False"
-byline = ["writers/alix-christie"]
+notes_byline = ["writers/alix-christie"]
 tags_notes = ["tags/obituaries"]
-authors_notes = ["authors/elizabeth-eisenstein"]
+notes_about = ""
 books = ""
 +++
 Anyone with even a passing interest in books should take a moment to acknowledge the death last month of Elizabeth Eisenstein, the first person to draw our attention to the momentous impact that printing had on human civilization. Nowadays, panel after panel of historians rank the invention of printing as mankind's most important invention since the wheel. But when Betty Eisenstein advanced that idea nearly thirty years ago, no one had thought of it before.

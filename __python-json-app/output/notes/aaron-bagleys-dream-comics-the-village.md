@@ -1,8 +1,8 @@
 +++
 index = "-Kvf0lGB5IQ6SQVKstgE"
-_sort_create_date = 1507181640
-_sort_last_updated = 1507268760
-_sort_publish_date = 1507309200
+sort_create_date = 1507181640
+sort_last_updated = 1507268760
+sort_publish_date = 1507309200
 create_date = "2017-10-04T22:34:00-07:00"
 publish_date = "2017-10-06T10:00:00-07:00"
 date = "2017-10-06T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507268739733/drea
 twitterauto = "New Column by @aaronbaglady launching today! Aaron Bagley's Dream Comics. "
 facebookauto = "New Column launching today! Aaron Bagley's Dream Comics. "
 make_image_tweet = "True"
-byline = ["writers/aaron-bagley"]
+notes_byline = ["writers/aaron-bagley"]
 tags_notes = ["tags/aaron-bagleys-dream-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image"><a target="_blank" href="/webhook-uploads/1507181557435/dream%207.12.2012-1.jpg">![](/webhook-uploads/1507181557435/dream%207.12.2012-1.jpg)</a></p>

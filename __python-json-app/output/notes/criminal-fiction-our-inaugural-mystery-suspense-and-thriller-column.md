@@ -1,8 +1,8 @@
 +++
 index = "-KS9kuKiCbv4kkZGNOUi"
-_sort_create_date = 1474428060
-_sort_last_updated = 1475010480
-_sort_publish_date = 1474570800
+sort_create_date = 1474428060
+sort_last_updated = 1475010480
+sort_publish_date = 1474570800
 create_date = "2016-09-20T20:21:00-07:00"
 publish_date = "2016-09-22T12:00:00-07:00"
 date = "2016-09-22T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today we debut a new column! Criminal Fiction, by @daneetsteffens, updates on mystery, suspense, and crime fiction"
 facebookauto = "Today we debut a new column! Criminal Fiction, by Daneet Steffens, updates on mystery, suspense, and crime fiction"
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/christopher-brookmyre", "authors/glen-erik-hamilton", "authors/mark-billingham", "authors/doug-johnstone", "authors/stuart-neville", "authors/bill-loehfelm", "authors/ian-rankin", "authors/denise-mina", "authors/eva-dolan", "authors/sarah-hilary", "authors/peter-james", "authors/dreda-say-mitchell", "authors/harlan-coben", "authors/sophie-hannah", "authors/amy-stewart", "authors/thomas-mullen", "authors/chris-holm"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">New column! Every month, Daneet Steffens is going to uncover the latest goings on in mystery, suspense, and crime fiction. Welcome Daneet!</p>

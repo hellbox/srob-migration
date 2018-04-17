@@ -1,8 +1,8 @@
 +++
 index = "-KocbSZ3dIwL812lvM5Y"
-_sort_create_date = 1499625000
-_sort_last_updated = 1499712300
-_sort_publish_date = 1499712300
+sort_create_date = 1499625000
+sort_last_updated = 1499712300
+sort_publish_date = 1499712300
 create_date = "2017-07-09T11:30:00-07:00"
 publish_date = "2017-07-10T11:45:00-07:00"
 date = "2017-07-10T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Milo Yiannopoulos sued Simon and Schuster for ten million dollars."
 facebookauto = "Simon and Schuster, which pretended to care about Milo Yiannopoulos's free speech until it became very unpopular, is now being sued for ruining Yiannopoulos's career. It's pretty hard to feel sorry for Simon and Schuster right now."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/milo-yiannopoulos", "tags/simon-&amp;-schuster", "tags/lawsuit"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Mara Siegler [at Page Six](http://pagesix.com/2017/07/07/milo-yiannopoulos-files-10m-lawsuit-against-simon-schuster/) writes that professional troll and amateur hate-monger Milo Yiannopoulos is suing Simon & Schuster for ten million dollars. The publisher [canceled Yiannopoulos's book](http://www.seattlereviewofbooks.com/notes/2017/02/21/simon-schuster-finally-cancels-dangerous-by-milo-yiannopoulos/) after some of his pro-pedophilia comments came to light. Siegler writes:

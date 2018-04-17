@@ -1,8 +1,8 @@
 +++
 index = "-KuI7Ybi5YsBeU_0a7ec"
-_sort_create_date = 1505707020
-_sort_last_updated = 1505753940
-_sort_publish_date = 1505761020
+sort_create_date = 1505707020
+sort_last_updated = 1505753940
+sort_publish_date = 1505761020
 create_date = "2017-09-17T20:57:00-07:00"
 publish_date = "2017-09-18T11:57:00-07:00"
 date = "2017-09-18T11:57:00-07:00"
@@ -13,10 +13,10 @@ title = "Explaining the inexplicable"
 dek = "If Hillary Clinton's new book about the 2016 election makes you mad, then you are exactly the kind of person who should read Hillary Clinton's new book about the 2016 election."
 facebookauto = "Hillary Clinton's book about the 2016 presidential campaign is inspiring a lot of hate. That's kind of the point."
 twitterauto = "Hillary Clinton's book about the 2016 presidential campaign is inspiring a lot of hate. That's the point."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/what-happened"]
 tags_reviews = ["tags/politics", "tags/donald-trump", "tags/hillary-clinton"]
-authors_reviews = ["authors/hillary-rodham-clinton"]
+reviews_about = ""
 +++
 
 At the end of a recent vacation, I decided to buy Hillary Clinton’s new election memoir, *What Happened*, at an airport bookstore. One bookstore didn’t have it in stock. I went to the NBC-branded shop near my gate and at first I couldn’t find a copy there, either. Finally, I found the book: it was high up on the bestseller wall, but someone had turned the display copy upside-down, in effigy. 

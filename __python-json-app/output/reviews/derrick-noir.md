@@ -1,8 +1,8 @@
 +++
 index = "-KHDLVWzGHFifPL6kBeq"
-_sort_create_date = 1462677120
-_sort_last_updated = 1463502300
-_sort_publish_date = 1463511600
+sort_create_date = 1462677120
+sort_last_updated = 1463502300
+sort_publish_date = 1463511600
 create_date = "2016-05-07T20:12:00-07:00"
 publish_date = "2016-05-17T12:00:00-07:00"
 date = "2016-05-17T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Derrick noir"
 dek = "A futurist writes a science fiction novel in the near future. How much did she get right?"
 facebookauto = "Forget it, Hwa, it's Company Town. Madeline Ashby's sci-fi noir from Tor Books drops today. Here\u2019s our review:"
 twitterauto = "Forget it, Hwa, it's Company Town. @MadelineAshby's sci-fi noir from @torbooks drops today. Here\u2019s our review:"
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/company-town"]
 tags_reviews = ["tags/noir", "tags/science-fiction"]
-authors_reviews = ["authors/madeline-ashby"]
+reviews_about = ""
 +++
 
 "Imagine a Segway that could kill you and set your house on fire. That’s what a jetpack is." Madeline Ashby's blog post from May of last year "[No one cares about your jetpack: on optimism in futurism](http://madelineashby.com/?p=1809)" was my introduction to her writing. It's a stellar way to meet someone. Ashby is a science fiction writer, and a card-carrying (whereby card I mean Master's diploma) futurist. She works as someone who thinks about the future.

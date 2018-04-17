@@ -1,8 +1,8 @@
 +++
 index = "-KnvPekA9OsivrdcG6TP"
-_sort_create_date = 1498866660
-_sort_last_updated = 1498866660
-_sort_publish_date = 1499273460
+sort_create_date = 1498866660
+sort_last_updated = 1498866660
+sort_publish_date = 1499273460
 create_date = "2017-06-30T16:51:00-07:00"
 publish_date = "2017-07-05T09:51:00-07:00"
 date = "2017-07-05T09:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498866548078/hoto
 twitterauto = "This Saturday, join @fantagraphics for a book fair that's just the right size."
 facebookauto = "This Saturday, join Fantagraphics for a book fair that's just the right size."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics-bookstore-&amp;-gallery", "tags/fantagraphics", "tags/short-run"]
-authors_notes = ["authors/simon-hanselmann"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1498866548078/hotoffthepress.jpg)</p>

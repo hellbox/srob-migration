@@ -1,8 +1,8 @@
 +++
 index = "-K0PH5S0UDjzB3KyZ0cC"
-_sort_create_date = 1444623660
-_sort_last_updated = 1444623780
-_sort_publish_date = 1444849260
+sort_create_date = 1444623660
+sort_last_updated = 1444623780
+sort_publish_date = 1444849260
 create_date = "2015-10-11T21:21:00-07:00"
 publish_date = "2015-10-14T12:01:00-07:00"
 date = "2015-10-14T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Teenage wasteland"
 dek = "In Alice LaPlante's new novel, a depressed teenager finds religion. Unfortunately, the religion is a doomsday cult."
 facebookauto = "In Alice LaPlante's new novel, a depressed teenager finds religion. Unfortunately, the religion is a doomsday cult."
 twitterauto = "In Alice LaPlante's novel, a depressed teenager finds religion. Unfortunately, the religion is a doomsday cult."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/coming-of-age-at-the-end-of-days"]
 tags_reviews = ["tags/novel", "tags/fiction"]
-authors_reviews = ["authors/alice-laplante"]
+reviews_about = ""
 +++
 
 Adolescence is the uncomfortable transition from childhood, when one assumes that one is the center of the universe, to adulthood, when one realizes that this is not true. Just about everything we understand about teenagers makes sense when viewed from this lens — the sense of injustice, the anger, the nihilism. It takes at least a full decade just to get over the horrific realization that the universe will continue without us one day. This is why every teenager, no matter how sweet or good-natured, has probably willed the end of the world at one time or another. The next best thing to being the center of the universe, an underdeveloped mind assumes, is taking the whole goddamned thing down with you as you go.

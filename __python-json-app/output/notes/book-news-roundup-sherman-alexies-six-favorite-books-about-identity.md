@@ -1,8 +1,8 @@
 +++
 index = "-KIUV16k6HfzkuDVWpI-"
-_sort_create_date = 1464038580
-_sort_last_updated = 1464112620
-_sort_publish_date = 1464119700
+sort_create_date = 1464038580
+sort_last_updated = 1464112620
+sort_publish_date = 1464119700
 create_date = "2016-05-23T14:23:00-07:00"
 publish_date = "2016-05-24T12:55:00-07:00"
 date = "2016-05-24T12:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup includes stories about @Sherman_Alexie, @artisttrust, and @shortrunseattle."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/short-run", "tags/artist-trust", "tags/fantagraphics"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ""
 +++
 * If you'd like to be an exhibitor in this year's Short Run Comix & Arts festival, you should [fill out this form](https://docs.google.com/forms/d/1wSo8PLpSdbpcOLZI_8MfmRKkZdoXcL3njFiro_4BHiM/viewform) sometime between now and July 15th.

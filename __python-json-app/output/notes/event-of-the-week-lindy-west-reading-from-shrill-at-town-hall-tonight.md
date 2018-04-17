@@ -1,8 +1,8 @@
 +++
 index = "-KIBPw34cvcndIixIfjj"
-_sort_create_date = 1463718480
-_sort_last_updated = 1463718600
-_sort_publish_date = 1464193680
+sort_create_date = 1463718480
+sort_last_updated = 1463718600
+sort_publish_date = 1464193680
 create_date = "2016-05-19T21:28:00-07:00"
 publish_date = "2016-05-25T09:28:00-07:00"
 date = "2016-05-25T09:28:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463601235462/01cf
 twitterauto = "Our event of the week is @thelindywest reading @THSEA tonight!"
 facebookauto = "Lindy West reads at Town Hall Seattle tonight. She is a Seattle author, through and through, and we're lucky to have her."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/lindy-west"]
+notes_about = ""
 books = ["books/shrill"]
 +++
 <p class="image-left">![](/webhook-uploads/1463601235462/01cf47266a74d15fcb8855d55e7aa836.jpg)</p>

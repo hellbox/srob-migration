@@ -1,8 +1,8 @@
 +++
 index = "-K25ibAj2QalsgTgYqB0"
-_sort_create_date = 1446443100
-_sort_last_updated = 1446447180
-_sort_publish_date = 1446443100
+sort_create_date = 1446443100
+sort_last_updated = 1446447180
+sort_publish_date = 1446443100
 create_date = "2015-11-01T21:45:00-08:00"
 publish_date = "2015-11-01T21:45:00-08:00"
 date = "2015-11-01T21:45:00-08:00"
@@ -20,6 +20,6 @@ time_description = "
 end_time = ""
 enddate = ""
 is_sponsorship = true
-authors = ["authors/knox-gardner"]
+authors = ""
 sponsorship_event = ""
 venues = ""

@@ -1,8 +1,8 @@
 +++
 index = "-Jzd-TytQbpgpN95yPgi"
-_sort_create_date = 1442723220
-_sort_last_updated = 1474124580
-_sort_publish_date = 1442723220
+sort_create_date = 1442723220
+sort_last_updated = 1474124580
+sort_publish_date = 1442723220
 create_date = "2015-09-19T21:27:00-07:00"
 publish_date = "2015-09-19T21:27:00-07:00"
 date = "2015-09-19T21:27:00-07:00"

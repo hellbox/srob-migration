@@ -1,8 +1,8 @@
 +++
 index = "-JtpE3Gl2qSkWffDGrCs"
-_sort_create_date = 1436485920
-_sort_last_updated = 1436591640
-_sort_publish_date = 1436485920
+sort_create_date = 1436485920
+sort_last_updated = 1436591640
+sort_publish_date = 1436485920
 create_date = "2015-07-09T16:52:00-07:00"
 publish_date = "2015-07-09T16:52:00-07:00"
 date = "2015-07-09T16:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/saga", "tags/archie", "tags/phoenix-comics-and-games", "tags/strange-fruit"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 (*Every comics fan knows that Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country*. Thursday Comics Hangover *is a weekly column reviewing some of the new books that I pick up at [Phoenix Comics](http://phoenixseattle.com/), my friendly neighborhood comic book store*.)

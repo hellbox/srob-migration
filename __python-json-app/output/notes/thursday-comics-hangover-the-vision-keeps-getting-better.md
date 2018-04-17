@@ -1,8 +1,8 @@
 +++
 index = "-KJnjCp8e6qrCwf11ROz"
-_sort_create_date = 1465451820
-_sort_last_updated = 1465451820
-_sort_publish_date = 1465491660
+sort_create_date = 1465451820
+sort_last_updated = 1465451820
+sort_publish_date = 1465491660
 create_date = "2016-06-08T22:57:00-07:00"
 publish_date = "2016-06-09T10:01:00-07:00"
 date = "2016-06-09T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465451516095/Scre
 twitterauto = "No other superhero comic evokes Cheever and the Merchant of Venice in a single issue."
 facebookauto = "No other superhero comic evokes Cheever and the Merchant of Venice in a single issue."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1465451516095/Screen%20Shot%202016-06-08%20at%2010.51.17%20PM.png)</p>

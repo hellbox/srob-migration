@@ -1,8 +1,8 @@
 +++
 index = "-KapAjaMP8SiL2HuDuQc"
-_sort_create_date = 1484803440
-_sort_last_updated = 1484845860
-_sort_publish_date = 1484855760
+sort_create_date = 1484803440
+sort_last_updated = 1484845860
+sort_publish_date = 1484855760
 create_date = "2017-01-18T21:24:00-08:00"
 publish_date = "2017-01-19T11:56:00-08:00"
 date = "2017-01-19T11:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes the future of bookselling & every book recommended by President Obama."
 facebookauto = "Today's Book News Roundup includes the future of bookselling and every book recommended by President Obama."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/mattilda-bernstein-sycamore"]
+notes_about = ""
 books = ""
 +++
 * Capitol Hill Seattle this morning published [a post on the Queer Resurgence on Capitol Hill Poetry Slam Festival](http://www.capitolhillseattle.com/2017/01/lgbtq-poetry-festival-brings-art-queer-resurgence-to-capitol-hill/), which happens this weekend. [Check out the lineup of readers here](http://www.capitolhillseattle.com/2017/01/lgbtq-poetry-festival-brings-art-queer-resurgence-to-capitol-hill/#jp-carousel-2067212736).

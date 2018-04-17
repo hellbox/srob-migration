@@ -1,8 +1,8 @@
 +++
 index = "-KJdSUfeVwu03bGn4DcU"
-_sort_create_date = 1465279440
-_sort_last_updated = 1465279800
-_sort_publish_date = 1465326180
+sort_create_date = 1465279440
+sort_last_updated = 1465279800
+sort_publish_date = 1465326180
 create_date = "2016-06-06T23:04:00-07:00"
 publish_date = "2016-06-07T12:03:00-07:00"
 date = "2016-06-07T12:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465278240535/tita
 twitterauto = "Talking with M. Thomas Gammarino about how every teleportation is a little death."
 facebookauto = "M. Thomas Gammarino wrote a sci-fi novel about the movie Titanic. In an interview, we asked him why."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fiction"]
-authors_notes = ["authors/kurt-vonnegut", "authors/octavia-butler", "authors/ursula-k-le-guin", "authors/john-updike", "authors/m-thomas-gammarino"]
+notes_about = ""
 books = ["books/king-of-the-worlds"]
 +++
 <p class="intro">M. Thomas Gammarino’s *King of the Worlds* is an excellent sci-fi novel that combines the interiority of literary fiction from the 50s, 60s and 70s with the all-out weirdness of the golden age of science fiction. (You can [read my review here](http://seattlereviewofbooks.com/reviews/the-final-frontier/).) It’s set in an alternate universe in which a child actor named Dylan Greenyears stars in a wildly popular Terry Gilliam-directed sequel to *ET: The Extraterrestrial.* Greenyears becomes a huge celebrity, but then he’s publicly humiliated when James Cameron fires him from *Titanic*. Greenyears teleports to a planet nearly two dozen light years away where he spends years living in anonymity as a suburban dad and teacher named Dylan Green. Eventually, Green starts digging through fan mail from his teen idol days, and that sets him down a cross-universe quest for meaning. Gammarino and I talked onstage on Sunday afternoon at University Book Store. What follows is a lightly edited transcription of that conversation.</p>

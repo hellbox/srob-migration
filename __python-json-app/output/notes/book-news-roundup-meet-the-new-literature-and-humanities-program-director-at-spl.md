@@ -1,8 +1,8 @@
 +++
 index = "-KUzcpFuLLgbqTUMwlBR"
-_sort_create_date = 1477462620
-_sort_last_updated = 1477462620
-_sort_publish_date = 1477512060
+sort_create_date = 1477462620
+sort_last_updated = 1477462620
+sort_publish_date = 1477512060
 create_date = "2016-10-25T23:17:00-07:00"
 publish_date = "2016-10-26T13:01:00-07:00"
 date = "2016-10-26T13:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Meet the library's new Literature and Humanities Program Director!"
 facebookauto = "Today in Book News Roundup: the funniest damn thing you'll read all week, good news for bookstore sales, and introducing the library's new Literature and Humanities Program Director."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library", "tags/feminism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Stesha Brandon, the former University Book Store and Town Hall Seattle rock star who most recently was [interviewed on this site](http://www.seattlereviewofbooks.com/notes/2016/02/24/talking-with-stesha-brandon-the-new-interim-executive-director-of-seattle-city-of-literature/) in her role as interim executive director of the Seattle City of Literature organization, is officially the new Literature and Humanities Program Manager at Seattle Public Library. The job description calls for the creation of "public programming that connects patrons to information, ideas, and stories" and which "respond[s] to the evolving interests and needs of our communities by developing and supporting public events and activities that promote cultural enrichment, reading and storytelling, and community building." In short, Brandon will be doing the readings curation and community outreach that she did so well at University Book Store and Town Hall. Brandon's hire does a lot to ease my concern that [Chris Higashi's departure created](http://www.seattlereviewofbooks.com/notes/2016/09/06/everybody-loves-chris-higashi/); the library needed another strong advocate for books and literary events on staff, and now they have one in Brandon. (She'll continue working with the board of Seattle City of Literature, too.) Congratulations to Brandon, and to SPL for the great hire.

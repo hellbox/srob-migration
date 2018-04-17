@@ -1,8 +1,8 @@
 +++
 index = "-KbO3_q2Nm1JGg4MzY2G"
-_sort_create_date = 1485405540
-_sort_last_updated = 1485408900
-_sort_publish_date = 1485453660
+sort_create_date = 1485405540
+sort_last_updated = 1485408900
+sort_publish_date = 1485453660
 create_date = "2017-01-25T20:39:00-08:00"
 publish_date = "2017-01-26T10:01:00-08:00"
 date = "2017-01-26T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "While we always love Jack Kirby's comics, it's hard to recommend the Kamandi Challenge Special."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/jack-kirby"]
+notes_about = ""
 books = ""
 +++
 Jack Kirby's *Kamandi: The Last Boy on Earth* was my favorite childhood comic. I didn't know it was a ripoff of the first *Planet of the Apes* movie at the time I started reading my brother's old issues. In fact, I probably started reading *Kamandi* a full decade before the first time I saw *Planet of the Apes*. And while I love the *Apes* reboot films, I still prefer *Kamandi*.

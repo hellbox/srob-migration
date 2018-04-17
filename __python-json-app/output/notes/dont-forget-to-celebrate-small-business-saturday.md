@@ -1,8 +1,8 @@
 +++
 index = "-K3upBuTLrM1CHHV-wtI"
-_sort_create_date = 1448391000
-_sort_last_updated = 1448399400
-_sort_publish_date = 1448394540
+sort_create_date = 1448391000
+sort_last_updated = 1448399400
+sort_publish_date = 1448394540
 create_date = "2015-11-24T10:50:00-08:00"
 publish_date = "2015-11-24T11:49:00-08:00"
 date = "2015-11-24T11:49:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448390549145/T_20
 twitterauto = "This Saturday, a small army of Seattle-area authors are going to be selling books at local independent bookstores."
 facebookauto = "This Saturday, a small army of Seattle-area authors are going to be selling books at local independent bookstores. Here's a list of where to go and who you'll see."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/independent-bookstores"]
-authors_notes = ["authors/adam-rakunas", "authors/colleen-frakes", "authors/sherman-alexie", "authors/jessixa-bagley"]
+notes_about = ""
 books = ["books/windswept", "books/prison-island"]
 +++
 I mentioned this in [Your Week in Readings](http://seattlereviewofbooks.com/notes/2015/11/23/your-week-in-readings-the-best-literary-events-from-november-23-29/), but I thought it could use a little elaborating here: the Saturday after Thanksgiving is **Small Business Saturday**, when consumers are reminded to turn their backs on malls and chain stores and online retailers and visit the stores that help make their communities vibrant, interesting places to live. 

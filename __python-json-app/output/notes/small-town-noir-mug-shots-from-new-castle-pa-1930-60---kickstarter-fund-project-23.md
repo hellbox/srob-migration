@@ -1,8 +1,8 @@
 +++
 index = "-KJwLMzPF7l8fDH4J_eN"
-_sort_create_date = 1465596300
-_sort_last_updated = 1482565860
-_sort_publish_date = 1465660800
+sort_create_date = 1465596300
+sort_last_updated = 1482565860
+sort_publish_date = 1465660800
 create_date = "2016-06-10T15:05:00-07:00"
 publish_date = "2016-06-11T09:00:00-07:00"
 date = "2016-06-11T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465596240362/b4e2
 twitterauto = "The Kickstarter Fund backs an evocative mugshot project by @diarmidmogg"
 facebookauto = "The Kickstarter Fund backs an evocative mugshot project by Diarmid Mogg."
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter-fund"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week, the _Seattle Review of Books_ backs a Kickstarter, and writes up why we picked that particular project. <a href="http://seattlereviewofbooks.com/notes/2016/01/08/announcing-the-seattle-review-of-books-kickstarter-fund/" title="The Seattle Review of Books - Announcing the Seattle Review of Books Kickstarter Fund">Read more about the project here</a>. Suggest a project by writing to _kickstarter_ at this domain, or by <a href="http://seattlereviewofbooks.com/about/" title="The Seattle Review of Books - About the Seattle Review of Books">using our contact form</a>.<p>

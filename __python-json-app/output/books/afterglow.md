@@ -1,8 +1,8 @@
 +++
 index = "-L--rZ8Etc-RgTRciD5X"
-_sort_create_date = 1511843400
-_sort_last_updated = 1511843400
-_sort_publish_date = 1511843400
+sort_create_date = 1511843400
+sort_last_updated = 1511843400
+sort_publish_date = 1511843400
 create_date = "2017-11-27T20:30:00-08:00"
 publish_date = "2017-11-27T20:30:00-08:00"
 date = "2017-11-27T20:30:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/xOJjdN1CuZ28VwwMsBoJkvWe_vX21y_iUKpwT7Mbqmhata2coTEe5-llNuYyUlWnxg3bbFUeXWi5qgqpc3qAtwBlKb75"
 url = "/webhook-uploads/1511843300311/Afterglow_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 22802
 
 review_relationship = ["reviews/the-mourning-pause"]
-author_relationship = ["authors/eileen-myles"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

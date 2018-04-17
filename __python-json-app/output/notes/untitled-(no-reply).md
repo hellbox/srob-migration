@@ -1,8 +1,8 @@
 +++
 index = "-L3RMK7iDjm1v3gkIBGg"
-_sort_create_date = 1516599300
-_sort_last_updated = 1516600320
-_sort_publish_date = 1516730100
+sort_create_date = 1516599300
+sort_last_updated = 1516600320
+sort_publish_date = 1516730100
 create_date = "2018-01-21T21:35:00-08:00"
 publish_date = "2018-01-23T09:55:00-08:00"
 date = "2018-01-23T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516600321506/Scre
 twitterauto = "Poet in Residence Kevin Craft returns with \"Untitled (No Reply)\""
 facebookauto = "Poet in Residence Kevin Craft returns with \"Untitled (No Reply)\""
 make_image_tweet = "False"
-byline = ["writers/kevin-craft"]
+notes_byline = ["writers/kevin-craft"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Oh Wednesday<br>

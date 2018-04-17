@@ -1,8 +1,8 @@
 +++
 index = "-KKI2qRNTvDdCKGU3_UK"
-_sort_create_date = 1465977360
-_sort_last_updated = 1466016420
-_sort_publish_date = 1466017260
+sort_create_date = 1465977360
+sort_last_updated = 1466016420
+sort_publish_date = 1466017260
 create_date = "2016-06-15T00:56:00-07:00"
 publish_date = "2016-06-15T12:01:00-07:00"
 date = "2016-06-15T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Rational Exuberance"
 dek = "Mary Roach's books are packed with poop and sex jokes, but they're really love letters to the obsessive nerds who make good science possible."
 facebookauto = "Mary Roach reads at Town Hall Seattle tonight. Her latest book, Grunt, is all about the people who try to make war safer for our soldiers. Topics discussed include hearing loss, explosion-proof underpants, and the many problems with submarines."
 twitterauto = "Mary Roach reads @THSEA tonight! Here's a review of her excellent new book about keeping soldiers alive."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/grunt"]
 tags_reviews = ["tags/nonfiction", "tags/science"]
-authors_reviews = ["authors/mary-roach"]
+reviews_about = ""
 +++
 
 Every Mary Roach book is crammed full of fascinating characters. In the course of her pop science investigations (*Stiff: The Curious Lives of Human Cadavers*; *Spook: Science Tackles the Afterlife*; *Bonk: The Curious Coupling of Science and Sex*; *Packing for Mars: The Curious Science of Life in the Void*; and *Gulp: Adventures on the Alimentary Canal*) Roach often interviews the kind of obsessive minds who used to be referred to as “eccentrics.” 

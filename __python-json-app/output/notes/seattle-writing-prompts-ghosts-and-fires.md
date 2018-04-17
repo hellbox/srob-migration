@@ -1,8 +1,8 @@
 +++
 index = "-KaPzorbK1ZShfKCBKU6"
-_sort_create_date = 1484364120
-_sort_last_updated = 1487437920
-_sort_publish_date = 1484413200
+sort_create_date = 1484364120
+sort_last_updated = 1487437920
+sort_publish_date = 1484413200
 create_date = "2017-01-13T19:22:00-08:00"
 publish_date = "2017-01-14T09:00:00-08:00"
 date = "2017-01-14T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "https://c1.staticflickr.com/9/8364/8432331725_082bc19b89_h.jpg"
 twitterauto = "Seattle Writing Prompt: the Butterworth Building"
 facebookauto = "Seattle Writing Prompt: the Butterworth Building"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-writing-prompts"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">New column! Seattle Writing Prompts are intended to spark ideas for your writing, based on locations and stories of Seattle. Write something inspired by a prompt? [Send it to us](http://seattlereviewofbooks.com/about)! We're looking to publish writing sparked by prompts.</p>

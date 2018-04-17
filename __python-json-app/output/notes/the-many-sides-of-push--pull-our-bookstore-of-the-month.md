@@ -1,8 +1,8 @@
 +++
 index = "-K7taORqTMXPQn6mOQi4"
-_sort_create_date = 1452665280
-_sort_last_updated = 1452709380
-_sort_publish_date = 1452708000
+sort_create_date = 1452665280
+sort_last_updated = 1452709380
+sort_publish_date = 1452708000
 create_date = "2016-01-12T22:08:00-08:00"
 publish_date = "2016-01-13T10:00:00-08:00"
 date = "2016-01-13T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452664956341/Push
 twitterauto = "Push/Pull is more than a bookstore, a gallery, and a library."
 facebookauto = "Push/Pull is more than a bookstore, it's also a gallery. And it's more than a gallery, it's also a library. And it's more than a library, it's also a...pinball arcade?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/push--pull"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1452664956341/Push%3Apull.jpg)</p>

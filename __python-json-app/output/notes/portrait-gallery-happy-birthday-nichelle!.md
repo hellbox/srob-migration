@@ -1,8 +1,8 @@
 +++
 index = "-L1TvOJ05fCH038gV-xV"
-_sort_create_date = 1514494800
-_sort_last_updated = 1514498760
-_sort_publish_date = 1514498400
+sort_create_date = 1514494800
+sort_last_updated = 1514498760
+sort_publish_date = 1514498400
 create_date = "2017-12-28T13:00:00-08:00"
 publish_date = "2017-12-28T14:00:00-08:00"
 date = "2017-12-28T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1514494134713/SRoB
 twitterauto = "Portrait Gallery: Wishing a very Happy 85th Birthday to @NichelleIsUhura!  #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Happy 85th Birthday to Nichelle Nichols!"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1514494134713/SRoB_17_NichelleNichols.jpg)</p>

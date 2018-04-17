@@ -1,8 +1,8 @@
 +++
 index = "-L-0Iibg-v6BwB-7t-29"
-_sort_create_date = 1511850420
-_sort_last_updated = 1511850420
-_sort_publish_date = 1511850420
+sort_create_date = 1511850420
+sort_last_updated = 1511850420
+sort_publish_date = 1511850420
 create_date = "2017-11-27T22:27:00-08:00"
 publish_date = "2017-11-27T22:27:00-08:00"
 date = "2017-11-27T22:27:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/mBYRFKXqwEB3vJOrwe5YdecYaQF0wHmhD69CDZDvE6-gsKpIfvVIZMrQzYyvsXe3ua6eQL6VtdwZCUYgjG0m3-3m3Js"
 url = "/webhook-uploads/1511850337867/biden.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 20558
 
 review_relationship = ["reviews/bidens-time"]
-author_relationship = ["authors/joe-biden"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

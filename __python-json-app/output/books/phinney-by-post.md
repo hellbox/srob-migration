@@ -1,8 +1,8 @@
 +++
 index = "-L-DVdKd52W9uKSgzM43"
-_sort_create_date = 1512071880
-_sort_last_updated = 1512423180
-_sort_publish_date = 1512071880
+sort_create_date = 1512071880
+sort_last_updated = 1512423180
+sort_publish_date = 1512071880
 create_date = "2017-11-30T11:58:00-08:00"
 publish_date = "2017-11-30T11:58:00-08:00"
 date = "2017-11-30T11:58:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/l_h-ZIr-FTtoZfnD7IVuI92crhp0glAIV_kK-znevkbN2vp2O_k_mXjaIDUzVL8pDBuBTeGvyVi0TP5E4WHu8WdoOCJI"
 url = "/webhook-uploads/1512071863524/Phinney_by_Post.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 14650
 
 review_relationship = ""
-author_relationship = ["authors/phinney-books"]
+books_author = ""
 sponsorships_book = ["sponsorships/phinney-books-subscription-service"]
 notes_relationship = ["notes/a-year-of-great-books-delivered-to-you"]
 +++

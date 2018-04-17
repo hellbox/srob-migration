@@ -1,8 +1,8 @@
 +++
 index = "-KKVfxmANU9AYd2UXsV4"
-_sort_create_date = 1466205960
-_sort_last_updated = 1466205960
-_sort_publish_date = 1466618460
+sort_create_date = 1466205960
+sort_last_updated = 1466205960
+sort_publish_date = 1466618460
 create_date = "2016-06-17T16:26:00-07:00"
 publish_date = "2016-06-22T11:01:00-07:00"
 date = "2016-06-22T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466205721597/invi
 twitterauto = "Your week in literary events begins tonight with a reading from the debut novel \"Grace\" @elliottbaybooks."
 facebookauto = "Your week in readings includes a discussion on race in America, a study of the internet as art, Chuck Palahniuk, and Sherman Alexie interviewing Mary-Louise Parker."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle", "tags/seattle-public-library"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday June 22: *Grace* Reading**</h5></p> 

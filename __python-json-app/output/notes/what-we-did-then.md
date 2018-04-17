@@ -1,8 +1,8 @@
 +++
 index = "-Kh0g3xMpzhQcJuheXpH"
-_sort_create_date = 1491455700
-_sort_last_updated = 1491455700
-_sort_publish_date = 1491498000
+sort_create_date = 1491455700
+sort_last_updated = 1491455700
+sort_publish_date = 1491498000
 create_date = "2017-04-05T22:15:00-07:00"
 publish_date = "2017-04-06T10:00:00-07:00"
 date = "2017-04-06T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490931866257/what
 twitterauto = "What We Do Now was published to prepare us for Trump's election. It feels like a time capsule."
 facebookauto = "What We Do Now was published to prepare us for Trump's election. It feels like a time capsule."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1490931866257/whatwedonow.jpg)</p>

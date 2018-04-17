@@ -1,8 +1,8 @@
 +++
 index = "-L7BAu85NulsWRfYiGoD"
-_sort_create_date = 1520622840
-_sort_last_updated = 1520622840
-_sort_publish_date = 1520622840
+sort_create_date = 1520622840
+sort_last_updated = 1520622840
+sort_publish_date = 1520622840
 create_date = "2018-03-09T11:14:00-08:00"
 publish_date = "2018-03-09T11:14:00-08:00"
 date = "2018-03-09T11:14:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Book News Roundup features a fun @ClarionWest reading and a troubling story of librarians in peril."
 facebookauto = "Today's Book News Roundup features a fun Clarion West reading and a troubling story of librarians in peril."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Next Tuesday, outstanding sci-fi writing organization Clarion West is [hosting a reading and open mic at Naked City in Greenwood](https://www.clarionwest.org/brewing-other-worlds/). First, the open mic will encourage people to share short works, and then local sci-fi authors Randy Henderson, Seanan McGuire, Evan Peterson, and E. Lily Yu take over the stage. Tickets are ten bucks, and it benefits the Clarion West Writers Workshop. I hope you'll consider coming out and supporting emerging sci-fi writers.

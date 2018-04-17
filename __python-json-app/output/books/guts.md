@@ -1,8 +1,8 @@
 +++
 index = "-L7gJL96HD1oB_xeAOgX"
-_sort_create_date = 1521162420
-_sort_last_updated = 1521162660
-_sort_publish_date = 1521162420
+sort_create_date = 1521162420
+sort_last_updated = 1521162660
+sort_publish_date = 1521162420
 create_date = "2018-03-15T18:07:00-07:00"
 publish_date = "2018-03-15T18:07:00-07:00"
 date = "2018-03-15T18:07:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/7ETwAiAg8WpE361vW37GlMdbAAg8ppxVuEvzVU7K2TaGtamNoSoxTW0i6BxU-6v0YeLdmGmJu1w-l4jpUY34-UI-jAc"
 url = "/webhook-uploads/1521162456484/GUTS__250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 163775
 
 review_relationship = ""
-author_relationship = ["authors/janet-buttenwieser"]
+books_author = ""
 sponsorships_book = ["sponsorships/guts"]
 notes_relationship = ["notes/get-a-peek-at-janet-buttenwiesers-new-memoir"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KPyeiZZ_4vK6cK8CuRn"
-_sort_create_date = 1472077680
-_sort_last_updated = 1472688120
-_sort_publish_date = 1472662800
+sort_create_date = 1472077680
+sort_last_updated = 1472688120
+sort_publish_date = 1472662800
 create_date = "2016-08-24T15:28:00-07:00"
 publish_date = "2016-08-31T10:00:00-07:00"
 date = "2016-08-31T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our literary event of the week is Bumbershoot, which is a hell of a lot more than just a music festival."
 facebookauto = "Our literary event of the week is Bumbershoot, which is the arts festival Paul Allen should've invested in."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bumbershoot", "tags/paul-allen", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1472077460758/bumbershoot.jpg)</p>

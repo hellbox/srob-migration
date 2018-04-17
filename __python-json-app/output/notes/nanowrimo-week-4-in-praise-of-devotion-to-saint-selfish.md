@@ -1,8 +1,8 @@
 +++
 index = "-K3VfZSKHCPNgn8teIvF"
-_sort_create_date = 1447952220
-_sort_last_updated = 1448043000
-_sort_publish_date = 1448049600
+sort_create_date = 1447952220
+sort_last_updated = 1448043000
+sort_publish_date = 1448049600
 create_date = "2015-11-19T08:57:00-08:00"
 publish_date = "2015-11-20T12:00:00-08:00"
 date = "2015-11-20T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/nanowrimo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 How's your word count this week? If you're on track, you're at about 34,000 words. Get in extra this weekend to allow for padding over Thanksgiving (if you're American) because you deserve a day with family, food, and gratitude. 

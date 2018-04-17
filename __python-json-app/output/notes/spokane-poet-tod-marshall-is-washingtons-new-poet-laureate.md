@@ -1,8 +1,8 @@
 +++
 index = "-K7TPKRRFSJd9gO5-QDw"
-_sort_create_date = 1452209160
-_sort_last_updated = 1452209160
-_sort_publish_date = 1452209160
+sort_create_date = 1452209160
+sort_last_updated = 1452209160
+sort_publish_date = 1452209160
 create_date = "2016-01-07T15:26:00-08:00"
 publish_date = "2016-01-07T15:26:00-08:00"
 date = "2016-01-07T15:26:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Washington state's new poet laureate is Tod Marshall, from Spokane. He's got some big shoes to fill."
 facebookauto = "Washington state's newest poet laureate is Tod Marshall, a Spokane poet and teacher. He's got some big shoes to fill."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poet-laureate"]
-authors_notes = ["authors/tod-marshall", "authors/kathleen-flenniken", "authors/elizabeth-austen"]
+notes_about = ""
 books = ""
 +++
 KUOW has the news that our state's poet laureate for the next two years will be Tod Marshall, a professor at Spokane's Gonzaga University. You can find an audio sample of Marshall's work [on KUOW's site](http://kuow.org/post/washington-states-new-poet-laureate-wants-build-bridges). You can also find more samples of Marshall's work at [the ever-indispensible Poetry Foundation](http://www.poetryfoundation.org/bio/tod-marshall). "[Describe Turner to MLK](http://www.poetryfoundation.org/poem/239582)" combines a harrowing eye injury with race and history in a way that I'm not sure is entirely successful, but it is certainly ambitious. "[The Book of Failed Descriptions](http://www.poetryfoundation.org/poem/239586f)" is likewise ambitious — a long poem that combines fatherhood (a common theme in his work) with nature and mythology. He writes often about fishing, and about injuries to children, and nature.

@@ -1,8 +1,8 @@
 +++
 index = "-K8VLhs1PHQgaDn1NVDf"
-_sort_create_date = 1453315500
-_sort_last_updated = 1453315560
-_sort_publish_date = 1453319100
+sort_create_date = 1453315500
+sort_last_updated = 1453315560
+sort_publish_date = 1453319100
 create_date = "2016-01-20T10:45:00-08:00"
 publish_date = "2016-01-20T11:45:00-08:00"
 date = "2016-01-20T11:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's a tip: read Richard Morgan's Altered Carbon before everyone is swooning over the Netflix adaptation."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Deadline [reports that](http://deadline.com/2016/01/altered-carbon-drama-series-laeta-kalogridis-netflix-skydance-1201684680/) Richard Morgan's sci-fi novel *Altered Carbon* is on track to become a Netflix series. 

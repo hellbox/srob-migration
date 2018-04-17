@@ -1,8 +1,8 @@
 +++
 index = "-JvrDhhgeI1uxy7k0r0Y"
-_sort_create_date = 1438666860
-_sort_last_updated = 1439569800
-_sort_publish_date = 1439571660
+sort_create_date = 1438666860
+sort_last_updated = 1439569800
+sort_publish_date = 1439571660
 create_date = "2015-08-03T22:41:00-07:00"
 publish_date = "2015-08-14T10:01:00-07:00"
 date = "2015-08-14T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our advice columnist @ciennam addresses the Most Important Literary Issue of Our Time: is dog-earing ever okay?"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/donald-trump", "tags/ted-nugent", "tags/mark-driscoll"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

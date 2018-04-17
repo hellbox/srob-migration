@@ -1,8 +1,8 @@
 +++
 index = "-L-Fa9BqB_1PjKK3LAB8"
-_sort_create_date = 1512106920
-_sort_last_updated = 1512411480
-_sort_publish_date = 1512410100
+sort_create_date = 1512106920
+sort_last_updated = 1512411480
+sort_publish_date = 1512410100
 create_date = "2017-11-30T21:42:00-08:00"
 publish_date = "2017-12-04T09:55:00-08:00"
 date = "2017-12-04T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512106796808/brot
 twitterauto = "This week, Seattle hosts the launch of a new nationwide project to elevate the voices of Native women poets."
 facebookauto = "This week, Seattle hosts the launch of a new nationwide project to elevate the voices of Native women poets."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/interviews", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1512106796808/brotheraztec.jpg)</p>

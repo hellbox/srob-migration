@@ -1,8 +1,8 @@
 +++
 index = "-L-ADj5n94szDUFqh2-b"
-_sort_create_date = 1512016860
-_sort_last_updated = 1513037460
-_sort_publish_date = 1513022100
+sort_create_date = 1512016860
+sort_last_updated = 1513037460
+sort_publish_date = 1513022100
 create_date = "2017-11-29T20:41:00-08:00"
 publish_date = "2017-12-11T11:55:00-08:00"
 date = "2017-12-11T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512016150092/coun
 twitterauto = "Four poets @elliottbaybook and a chance to help an orphanage through poetry are this week's highlights."
 facebookauto = "Four poets at Elliott Bay Book Company and a chance to help an orphanage through poetry are this week's highlights."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, December 11: African-American Writers' Alliance **</h5></p>

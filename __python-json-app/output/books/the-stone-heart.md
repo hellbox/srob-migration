@@ -1,8 +1,8 @@
 +++
 index = "-KgT-9GI02mKH8og3lLm"
-_sort_create_date = 1490856960
-_sort_last_updated = 1490856960
-_sort_publish_date = 1490856960
+sort_create_date = 1490856960
+sort_last_updated = 1490856960
+sort_publish_date = 1490856960
 create_date = "2017-03-29T23:56:00-07:00"
 publish_date = "2017-03-29T23:56:00-07:00"
 date = "2017-03-29T23:56:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NeMhpdD2WrkUMGLTlLAI_vHPvqGbj0CLCbcrVU3aA5C87hVDhqxfw56vFUNYGPNV91itP9AcR65IhmlNqCG_U-X2hsZT"
 url = "/webhook-uploads/1490856922684/stoneheart.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 15077
 
 review_relationship = ["reviews/no-one-owns-a-city"]
-author_relationship = ["authors/faith-erin-hicks"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/comics-in-conversation"]
 +++

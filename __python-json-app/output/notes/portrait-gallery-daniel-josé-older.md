@@ -1,8 +1,8 @@
 +++
 index = "-KosiVT8rBTWA0MHg-gh"
-_sort_create_date = 1499895300
-_sort_last_updated = 1500493260
-_sort_publish_date = 1499979600
+sort_create_date = 1499895300
+sort_last_updated = 1500493260
+sort_publish_date = 1499979600
 create_date = "2017-07-12T14:35:00-07:00"
 publish_date = "2017-07-13T14:00:00-07:00"
 date = "2017-07-13T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499894817293/SRoB
 twitterauto = "Portrait Gallery: @djolder #illustration by @studiochristine Battle Hill Bolero Reading 7/18 @SPLBuzz @ClarionWest"
 facebookauto = "Portrait Gallery: Daniel Jose Older painted by Christine Marie Larsen. Reading Tuesday, July 18th at the Seattle Library, Central Branch."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/daniel-jose-older"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

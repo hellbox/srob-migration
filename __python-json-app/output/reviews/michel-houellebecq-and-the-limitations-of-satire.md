@@ -1,8 +1,8 @@
 +++
 index = "-K4LBqM6vyhZKf0LIQiA"
-_sort_create_date = 1448850180
-_sort_last_updated = 1449176760
-_sort_publish_date = 1449176760
+sort_create_date = 1448850180
+sort_last_updated = 1449176760
+sort_publish_date = 1449176760
 create_date = "2015-11-29T18:23:00-08:00"
 publish_date = "2015-12-03T13:06:00-08:00"
 date = "2015-12-03T13:06:00-08:00"
@@ -13,10 +13,10 @@ title = "Michel Houellebecq and the limitations of satire"
 dek = "Michel Houellebecq has long been regarded as France's most brilliant satirist. His latest book imagines a France under Islamic rule, and it violates a very important rule of satire."
 facebookauto = "Michel Houellebecq has long been regarded as France's most brilliant satirist. His latest book imagines a France under Islamic rule, and it violates a very important rule of satire."
 twitterauto = "What the hell is happening with Michel Houellebecq?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/submission"]
 tags_reviews = ["tags/fiction", "tags/novel", "tags/satire"]
-authors_reviews = ["authors/michel-houellebecq"]
+reviews_about = ""
 +++
 
 Michel Houellebecq is a terrible person. He is also, if his translators have done their job correctly, an excellent writer. This isn’t a rarity — plenty of writers are awful people. But unlike many of the worst people who write, Houellebecq doesn’t try to conceal his awfulness. Instead, he revels in it.

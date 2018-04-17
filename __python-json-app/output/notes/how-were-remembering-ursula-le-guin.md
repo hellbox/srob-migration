@@ -1,8 +1,8 @@
 +++
 index = "-L3anWUQ6qXWN0oVUqri"
-_sort_create_date = 1516774440
-_sort_last_updated = 1516774440
-_sort_publish_date = 1516822440
+sort_create_date = 1516774440
+sort_last_updated = 1516774440
+sort_publish_date = 1516822440
 create_date = "2018-01-23T22:14:00-08:00"
 publish_date = "2018-01-24T11:34:00-08:00"
 date = "2018-01-24T11:34:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're reading the many tributes to Ursula Le Guin and we're learning so much."
 facebookauto = "We're reading the many tributes to Ursula Le Guin and we're learning so much."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/death"]
-authors_notes = ["authors/ursula-k-le-guin"]
+notes_about = ""
 books = ""
 +++
 When the news broke yesterday that [Ursula Le Guin passed away](http://www.seattlereviewofbooks.com/notes/2018/01/23/ursula-le-guin-has-died/), people around the world responded with a genuine outpouring of grief and disbelief. I can't recall the last time I found myself consoling a weeping person when they heard news of an author's death. That happened yesterday, with Le Guin. Her writing — curious, brave, thoughtful — beguiled generations of readers. She shaped an army of feminists. She inspired young women to demand their place at the table. Her work will guide fiction for centuries.

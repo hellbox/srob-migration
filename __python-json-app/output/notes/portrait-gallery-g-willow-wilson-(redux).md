@@ -1,8 +1,8 @@
 +++
 index = "-Kwb62A5klonjL--j4Ld"
-_sort_create_date = 1508189640
-_sort_last_updated = 1508190120
-_sort_publish_date = 1508446800
+sort_create_date = 1508189640
+sort_last_updated = 1508190120
+sort_publish_date = 1508446800
 create_date = "2017-10-16T14:34:00-07:00"
 publish_date = "2017-10-19T14:00:00-07:00"
 date = "2017-10-19T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445544211025/srob
 twitterauto = "Portrait Gallery: Evening w/ @GWillowWilson + @HumanitiesWA Oct 23 #comics #MsMarvel #illustration @StudioChristine "
 facebookauto = "Portrait Gallery: G. Willow Wilson (redux) by Christine Marie Larsen. "
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

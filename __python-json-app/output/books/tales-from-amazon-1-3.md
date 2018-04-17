@@ -1,8 +1,8 @@
 +++
 index = "-JvNJrANn_0Bx-YJd4VC"
-_sort_create_date = 1438149180
-_sort_last_updated = 1438388940
-_sort_publish_date = 1438149180
+sort_create_date = 1438149180
+sort_last_updated = 1438388940
+sort_publish_date = 1438149180
 create_date = "2015-07-28T22:53:00-07:00"
 publish_date = "2015-07-28T22:53:00-07:00"
 date = "2015-07-28T22:53:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6PXaM05MOlOXHe8iCwPkrXUzT6h01vL-J72bCRK_nCUhwe-qaSBkHS4G2o1yPqt2rZvbpkQz2RprQQ35B65xvxqDuBl9"
 url = "/webhook-uploads/1438149115309/il_570xN.496826470_dhtb.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 143272
 
 review_relationship = ["reviews/sometimes-you-do-the-job-and-sometimes-the-job-does-you"]
-author_relationship = ["authors/kelly-froh"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/for-the-comics-fan-who-has-everything"]
 +++

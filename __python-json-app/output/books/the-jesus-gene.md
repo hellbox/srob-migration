@@ -1,8 +1,8 @@
 +++
 index = "-K6d_iZEaktTGNKZ9sTW"
-_sort_create_date = 1451322960
-_sort_last_updated = 1451322960
-_sort_publish_date = 1451322960
+sort_create_date = 1451322960
+sort_last_updated = 1451322960
+sort_publish_date = 1451322960
 create_date = "2015-12-28T09:16:00-08:00"
 publish_date = "2015-12-28T09:16:00-08:00"
 date = "2015-12-28T09:16:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "Science Fiction & Fantasy"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/GLM5OIVXR65jBJ6BG3GZbNy4m3kZSbtPZbKffY5-V1_SpijHhMtqvdOvsHNTNLc2Zq5P1y8xqXZPf0Wo9Yk9WPAwz_s8cQ"
 url = "/webhook-uploads/1451322824635/0.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 32743
 
 review_relationship = ""
-author_relationship = ["authors/anne-kelleher"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-jesus-gene"]
 notes_relationship = ["notes/its-all-in-the-bloodline"]
 +++

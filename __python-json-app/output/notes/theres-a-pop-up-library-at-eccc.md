@@ -1,8 +1,8 @@
 +++
 index = "-KeMfkanbhj9KdBWEXHD"
-_sort_create_date = 1488603480
-_sort_last_updated = 1488605340
-_sort_publish_date = 1488603480
+sort_create_date = 1488603480
+sort_last_updated = 1488605340
+sort_publish_date = 1488603480
 create_date = "2017-03-03T20:58:00-08:00"
 publish_date = "2017-03-03T20:58:00-08:00"
 date = "2017-03-03T20:58:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "If you're heading to #ECCC over the weekend, be sure to check out the awesome pop-up library."
 facebookauto = "If you're heading to #ECCC over the weekend, be sure to check out the awesome pop-up library."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/emerald-city-comicon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Visiting <a href="http://www.emeraldcitycomicon.com/" title="Emerald City Comicon – March 2 – 5, 2017 - Emerald City Comicon">ECCC</a> over the weekend? Drop by the pop-up library! Located in the [Writer's Block](http://www.emeraldcitycomicon.com/Events/Events-R-Z/Writers-Block/), it's staffed by local librarians &mdash; thirty-five of them from twelve library systems! &mdash; who are there for reading recommendations, and also research advice for content creators. There's a chill area where you can get away from the bustle for a few minutes to check out what they have on their shelves.

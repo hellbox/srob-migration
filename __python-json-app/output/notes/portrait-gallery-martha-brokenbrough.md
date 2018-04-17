@@ -1,8 +1,8 @@
 +++
 index = "-KwBEB2tT8jMLZ1dCrqm"
-_sort_create_date = 1507738800
-_sort_last_updated = 1507739760
-_sort_publish_date = 1507842000
+sort_create_date = 1507738800
+sort_last_updated = 1507739760
+sort_publish_date = 1507842000
 create_date = "2017-10-11T09:20:00-07:00"
 publish_date = "2017-10-12T14:00:00-07:00"
 date = "2017-10-12T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507739027759/SRoB
 twitterauto = "Portrait Gallery: @mbrockenbrough teaches free #seattlewrites class @SPLBuzz Sun 10/15 #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Martha Brokenbrough by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/martha-brokenbrough"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

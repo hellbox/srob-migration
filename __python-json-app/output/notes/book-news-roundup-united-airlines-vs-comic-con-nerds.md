@@ -1,8 +1,8 @@
 +++
 index = "-KpqOBZPFu1OhJh9daAA"
-_sort_create_date = 1500929880
-_sort_last_updated = 1500955320
-_sort_publish_date = 1501007400
+sort_create_date = 1500929880
+sort_last_updated = 1500955320
+sort_publish_date = 1501007400
 create_date = "2017-07-24T13:58:00-07:00"
 publish_date = "2017-07-25T11:30:00-07:00"
 date = "2017-07-25T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in book news: Why you should start a computer science book club."
 facebookauto = "Today in book news: More women are buying digital comics than ever before, and why you should start a computer science book club."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/seattle-arts-and-lectures"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * The host of the computer science book club at Ada's Technical Books has [written a great Medium post](https://medium.com/@TiltedListener/why-you-should-start-a-computer-science-book-club-baf6c440c0c9) about why you should start (or join) a computer science book club.

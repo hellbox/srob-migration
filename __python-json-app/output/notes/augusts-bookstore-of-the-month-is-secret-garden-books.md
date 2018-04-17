@@ -1,8 +1,8 @@
 +++
 index = "-KO1uuI2iGjDPD5unQhM"
-_sort_create_date = 1470001500
-_sort_last_updated = 1470093360
-_sort_publish_date = 1470070860
+sort_create_date = 1470001500
+sort_last_updated = 1470093360
+sort_publish_date = 1470070860
 create_date = "2016-07-31T14:45:00-07:00"
 publish_date = "2016-08-01T10:01:00-07:00"
 date = "2016-08-01T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470001342485/IMG_
 twitterauto = "Our August Bookstore of the Month is @SecretGardenBks!"
 facebookauto = "Secret Garden Books was founded 39 years ago. Along the way it's moved twice, started carrying adult books, and always employed exactly one male bookseller on its staff. It has always had the clickety-clackety brick floor at the front of the store."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/secret-garden-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Founded in Green Lake by children’s book author [Nancy White Carlstrom](http://www.nancywhitecarlstrom.com/) in 1977 — she’s best-known for the Jesse Bear series — [Secret Garden Books](http://www.secretgardenbooks.com) moved to 15th Ave NW in Ballard before eventually settling in to its current location on Market Street. Secret Garden has always been known first and foremost as a children’s bookstore, but when New York bookseller Susan Scott moved to town after over a decade at fabled NYC store Books & Co, she took over the buying and brought in what staffers delightfully refer to as “grownup books.” In the last few years, the clientele at Secret Garden has changed with Ballard’s demographics; now the store sells more “grownup books” than kids’ books. The store’s art section has grown with the adultification of its customer base, too, and staff has gradually learned about visual art and literary fiction as customers have led them in that direction.

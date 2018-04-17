@@ -1,8 +1,8 @@
 +++
 index = "-K7tm3SAMv2GsYgZ4CQP"
-_sort_create_date = 1452668340
-_sort_last_updated = 1452712440
-_sort_publish_date = 1452715140
+sort_create_date = 1452668340
+sort_last_updated = 1452712440
+sort_publish_date = 1452715140
 create_date = "2016-01-12T22:59:00-08:00"
 publish_date = "2016-01-13T11:59:00-08:00"
 date = "2016-01-13T11:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452668258406/imgr
 twitterauto = "Could you write your way to a free apartment? Find out in Book News Roundup!"
 facebookauto = "Our afternoon book news roundup includes the chance to write your way to a rent-free Seattle apartment."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/amazon", "tags/gentrification"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * An anonymous Seattle apartment building owner is [running an essay contest](http://www.essayforfreeapartment.com/). The winner gets to live rent-free in a "clean, comfortable place" in Queen Anne or Ballard for a year. The essays are supposed to respond to the question "How would a free apartment for one year help you reach your goals in 10 years?" in 350 words or less. You can't solve gentrification with a writing contest, but at least the odds are better than Powerball.

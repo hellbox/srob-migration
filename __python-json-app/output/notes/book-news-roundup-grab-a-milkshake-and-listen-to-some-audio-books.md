@@ -1,8 +1,8 @@
 +++
 index = "-KqV7vtPFgZOV6lnALTH"
-_sort_create_date = 1501630260
-_sort_last_updated = 1501630860
-_sort_publish_date = 1501698660
+sort_create_date = 1501630260
+sort_last_updated = 1501630860
+sort_publish_date = 1501698660
 create_date = "2017-08-01T16:31:00-07:00"
 publish_date = "2017-08-02T11:31:00-07:00"
 date = "2017-08-02T11:31:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "All the book news that's fit to print, including #MakeMineMilkshake and a summer audio book roundup."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * The good folks at Seattle independent online audio-bookseller Libro.fm have [collected audio clips](http://blog.libro.fm/picks/audiobooks-of-the-month-summer-reading-picks/) of their summer picks. If you're looking to sample a book or two before you head out on vacation, you should [give this post a try](http://blog.libro.fm/picks/audiobooks-of-the-month-summer-reading-picks/).

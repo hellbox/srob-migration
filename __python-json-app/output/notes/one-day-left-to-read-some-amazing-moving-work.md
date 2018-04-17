@@ -1,8 +1,8 @@
 +++
 index = "-K1wUS2yVxlIe5sg_Lrq"
-_sort_create_date = 1446271320
-_sort_last_updated = 1446271620
-_sort_publish_date = 1446321600
+sort_create_date = 1446271320
+sort_last_updated = 1446271620
+sort_publish_date = 1446321600
 create_date = "2015-10-30T23:02:00-07:00"
 publish_date = "2015-10-31T13:00:00-07:00"
 date = "2015-10-31T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Local poet Esther Altshul Helfgott is our sponsor this week. Come read a selection of her work before tomorrow."
 facebookauto = "Local poet Esther Altshul Helfgott is our sponsor this week. Come read a selection of her work before tomorrow."
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/esther-altshul-helfgott"]
+notes_about = ""
 books = ["books/dear-alzheimers"]
 +++
 Our thanks to this week's sponsor Esther Altshul Helfgott. If you haven't had the chance to look through the excerpt from her book _Dear Alzheimer's_, [you should do so now](http://seattlereviewofbooks.com/sponsorships "The Seattle Review of Books - sponsorships") &mdash; it will only be up through tomorrow. 

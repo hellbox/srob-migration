@@ -1,8 +1,8 @@
 +++
 index = "-K7O0pEa4_m6hqlsKVvX"
-_sort_create_date = 1452118800
-_sort_last_updated = 1452118800
-_sort_publish_date = 1452118800
+sort_create_date = 1452118800
+sort_last_updated = 1452118800
+sort_publish_date = 1452118800
 create_date = "2016-01-06T14:20:00-08:00"
 publish_date = "2016-01-06T14:20:00-08:00"
 date = "2016-01-06T14:20:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Jessica Mooney won the APRIL/Seattle Review of Books writing contest!"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/april"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A [couple months ago](http://seattlereviewofbooks.com/notes/2015/11/12/aprils-throwing-a-writing-contest-and-youre-invited/), the APRIL Festival announced a writing contest, with the winner receiving $100, the publication of their piece right here on the *Seattle Review of Books*, and a reading slot in the 2016 festival.

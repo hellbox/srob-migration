@@ -1,8 +1,8 @@
 +++
 index = "-K51gdi0cTM9Mle2YFEJ"
-_sort_create_date = 1449596700
-_sort_last_updated = 1449681120
-_sort_publish_date = 1449691200
+sort_create_date = 1449596700
+sort_last_updated = 1449681120
+sort_publish_date = 1449691200
 create_date = "2015-12-08T09:45:00-08:00"
 publish_date = "2015-12-09T12:00:00-08:00"
 date = "2015-12-09T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Un-perfumed letters"
 dek = "Books of letters can teach you so much about the correspondence, but what makes one fall flat while another one sings? "
 facebookauto = "Catherine Nichols wonders after books of letters -- why do some appeal, and some lay flat? She compares the letters between Robert Lowell and Elizabeth Bishop, to those between Eudora Welty and Ross Macdonald."
 twitterauto = "It's poets vs. prose writers in this exploration of books of letters, from @clnichols6. "
-byline = ["writers/catherine-nichols"]
+reviews_byline = ["writers/catherine-nichols"]
 books_in_this_review = ["books/words-in-air", "books/meanwhile-there-are-letters"]
 tags_reviews = ["tags/book-reviews", "tags/letters"]
-authors_reviews = ["authors/eudora-welty", "authors/ross-macdonald", "authors/robert-lowell", "authors/elizabeth-bishop"]
+reviews_about = ""
 +++
 
 _Words in Air_, the correspondence between Elizabeth Bishop and Robert Lowell, is one of the books I’m never entirely not reading. I pick it up all the time, and it’s always better than I remembered. There is a unique effect of these writers, their letters soothe my mind, the way the exact right word can be both calming and exciting no matter the topic. Their letters make being a person seem like a reasonable way to spend time. I set out to write about another book of letters, the correspondence between Eudora Welty and Ross Macdonald, but I find I can’t discuss any other letters without first describing the pleasures of _Words in Air_.

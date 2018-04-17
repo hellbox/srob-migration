@@ -1,8 +1,8 @@
 +++
 index = "-Kjhx9moQStlXlUjmHSC"
-_sort_create_date = 1494345840
-_sort_last_updated = 1494358560
-_sort_publish_date = 1494356400
+sort_create_date = 1494345840
+sort_last_updated = 1494358560
+sort_publish_date = 1494356400
 create_date = "2017-05-09T09:04:00-07:00"
 publish_date = "2017-05-09T12:00:00-07:00"
 date = "2017-05-09T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Reviewing is a strong word for what happens here"
 dek = "Claire Dederer's much-anticipated new memoir \"Love and Trouble\" has arrived, and the questions it covers are not only hard to answer but also hard to ask."
 facebookauto = "We looked at Claire Dederer's new memoir \"Love and Trouble\", on its publication day."
 twitterauto = "We looked at Claire Dederer's new memoir \"Love and Trouble\", on its publication day."
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/love-and-trouble"]
 tags_reviews = ""
-authors_reviews = ["authors/claire-dederer"]
+reviews_about = ""
 +++
 
 <style type="text/css">

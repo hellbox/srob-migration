@@ -1,8 +1,8 @@
 +++
 index = "-Kf9aOa-_XPIImsbzwBQ"
-_sort_create_date = 1489457700
-_sort_last_updated = 1489501080
-_sort_publish_date = 1489510500
+sort_create_date = 1489457700
+sort_last_updated = 1489501080
+sort_publish_date = 1489510500
 create_date = "2017-03-13T19:15:00-07:00"
 publish_date = "2017-03-14T09:55:00-07:00"
 date = "2017-03-14T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"It\u2019s hard to remain human / on a day when mercy is a frozen river\" starts Jamaica Baldwin's latest poem."
 facebookauto = "\"It\u2019s hard to remain human / on a day when mercy is a frozen river\" starts Jamaica Baldwin's latest poem."
 make_image_tweet = "False"
-byline = ["writers/jamaica-baldwin"]
+notes_byline = ["writers/jamaica-baldwin"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 It’s hard to remain human<br>

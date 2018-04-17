@@ -1,8 +1,8 @@
 +++
 index = "-KKH2p8RM3QeYRpbyDnP"
-_sort_create_date = 1465960560
-_sort_last_updated = 1465960560
-_sort_publish_date = 1465960560
+sort_create_date = 1465960560
+sort_last_updated = 1465960560
+sort_publish_date = 1465960560
 create_date = "2016-06-14T20:16:00-07:00"
 publish_date = "2016-06-14T20:16:00-07:00"
 date = "2016-06-14T20:16:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465960512399/IMG_
 twitterauto = "Mail Call! Busy day in the SroB mailroom."
 facebookauto = "Mail Call!"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1465960512399/IMG_7450.jpg)</p>

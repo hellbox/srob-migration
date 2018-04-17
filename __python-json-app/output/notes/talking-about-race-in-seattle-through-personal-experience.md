@@ -1,8 +1,8 @@
 +++
 index = "-KHuOD4DV6lxOtXIC3F-"
-_sort_create_date = 1463416020
-_sort_last_updated = 1463416020
-_sort_publish_date = 1463428800
+sort_create_date = 1463416020
+sort_last_updated = 1463416020
+sort_publish_date = 1463428800
 create_date = "2016-05-16T09:27:00-07:00"
 publish_date = "2016-05-16T13:00:00-07:00"
 date = "2016-05-16T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor Lisa Richesson has written an evocative and probing memoir \"White Lady, Black Sons\"."
 facebookauto = "Sponsor Lisa Richesson has written an evocative and probing memoir \"White Lady, Black Sons\" about race, and family, and Seattle's divisive past"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/racism", "tags/sponsorship"]
-authors_notes = ["authors/lisa-richesson"]
+notes_about = ""
 books = ["books/white-lady-black-sons"]
 +++
 Sponsor Lisa Richesson has an incredible story to tell in her book _White Lady, Black Sons_, one that explains Seattle's racist past through her direct experience. Lisa, a white woman, had two children with a black man. One, when she was a teenager, was put up for adoption. 

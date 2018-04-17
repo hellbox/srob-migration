@@ -1,8 +1,8 @@
 +++
 index = "-KKCFzcjVQ10-S4D0SEz"
-_sort_create_date = 1465880100
-_sort_last_updated = 1465880100
-_sort_publish_date = 1465934100
+sort_create_date = 1465880100
+sort_last_updated = 1465880100
+sort_publish_date = 1465934100
 create_date = "2016-06-13T21:55:00-07:00"
 publish_date = "2016-06-14T12:55:00-07:00"
 date = "2016-06-14T12:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The literary traditions behind Lin-Manuel Miranda's love sonnet."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Charlotte Runcie at *The Telegraph* [does some literary sleuthing](http://www.telegraph.co.uk/theatre/playwrights/the-english-poet-who-inspired-lin-manuel-mirandas-tonys-sonnet/) to contextualize the literary tradition that inspired the sonnet that Lin-Manuel Miranda read at the Tony Awards on Sunday.

@@ -1,8 +1,8 @@
 +++
 index = "-KIv37rGg3I88-t5Oqbk"
-_sort_create_date = 1464501000
-_sort_last_updated = 1511471580
-_sort_publish_date = 1464501000
+sort_create_date = 1464501000
+sort_last_updated = 1511471580
+sort_publish_date = 1464501000
 create_date = "2016-05-28T22:50:00-07:00"
 publish_date = "2016-05-28T22:50:00-07:00"
 date = "2016-05-28T22:50:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/3na6wm7BTlm7ILsFCBp8Sqgu9aecokmYql2DxOkXRopUaFg_AbzULw5BVYmGwIcFo3Ja1ZVHDk5S4N2gf0EhQrBzntIr"
 url = "/webhook-uploads/1464500965559/51PxYlXwwYL.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 42038
 
 review_relationship = ""
-author_relationship = ["authors/paul-mullin"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-starting-gate-05--30--2016", "sponsorships/the-starting-gate"]
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th", "notes/literary-event-of-the-week-loud-mouth-lit", "notes/check-out-a-sample-from-the-starting-gate-courtesy-of-sponsor-paul-mullin"]
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-K0x9xk13ntM3xD5Qnvc"
-_sort_create_date = 1445209020
-_sort_last_updated = 1445210880
-_sort_publish_date = 1445210820
+sort_create_date = 1445209020
+sort_last_updated = 1445210880
+sort_publish_date = 1445210820
 create_date = "2015-10-18T15:57:00-07:00"
 publish_date = "2015-10-18T16:27:00-07:00"
 date = "2015-10-18T16:27:00-07:00"
@@ -13,10 +13,10 @@ title = "Collateral Damage"
 dek = "A found poem constructed out of the  The Intercept_\u2019s report on the Obama administration's drone war."
 facebookauto = "Seattle poet Doug Nufer read The Intercept_'s troubling report on the Obama administration drone war and saw poetry, in this rare (in form, and that we're publishing it on Sunday) review."
 twitterauto = "Seattle poet Doug Nufer read @the_intercept troubling report on the Obama administration drone war and saw poetry"
-byline = ["writers/doug-nufer"]
+reviews_byline = ["writers/doug-nufer"]
 books_in_this_review = ["books/the-drone-papers"]
 tags_reviews = ["tags/politics", "tags/drones"]
-authors_reviews = ["authors/the-intercept_"]
+reviews_about = ""
 +++
 
 <div class="review-note">

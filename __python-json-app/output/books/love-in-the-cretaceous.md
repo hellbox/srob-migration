@@ -1,8 +1,8 @@
 +++
 index = "-KqfOBQK0u5b01xT3UdY"
-_sort_create_date = 1501819080
-_sort_last_updated = 1501819260
-_sort_publish_date = 1501819080
+sort_create_date = 1501819080
+sort_last_updated = 1501819260
+sort_publish_date = 1501819080
 create_date = "2017-08-03T20:58:00-07:00"
 publish_date = "2017-08-03T20:58:00-07:00"
 date = "2017-08-03T20:58:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/yATD3-rmWte2vvYbnA6-x8zesMpTirBBgxOOf9nNNjYQ-B0Ylb70NQ11rxaI-wwqrKaotCXOeTj3H4jjQdlF3DE5rkqA4w"
 url = "/webhook-uploads/1501819111526/Love%20in%20the%20Cretaceous_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 29572
 
 review_relationship = ""
-author_relationship = ["authors/howard-w-robertson"]
+books_author = ""
 sponsorships_book = ["sponsorships/love-in-the-cretaceous"]
 notes_relationship = ["notes/love-in-the-time-of-brontosaurs"]
 +++

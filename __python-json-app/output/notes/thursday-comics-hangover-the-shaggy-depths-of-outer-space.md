@@ -1,8 +1,8 @@
 +++
 index = "-L73X4Med0W_gJYO04kS"
-_sort_create_date = 1520494440
-_sort_last_updated = 1520528820
-_sort_publish_date = 1520535780
+sort_create_date = 1520494440
+sort_last_updated = 1520528820
+sort_publish_date = 1520535780
 create_date = "2018-03-07T23:34:00-08:00"
 publish_date = "2018-03-08T11:03:00-08:00"
 date = "2018-03-08T11:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520494312048/61m2
 twitterauto = "If you like shaggy-haired cosmic comics, you're gonna love the Lone Sloan books from @ComicsTitan."
 facebookauto = "These French sci-fi comics are huger in scope than Star Wars and crazier than anything any American psychedelic cartoonist ever put to paper."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1520491901875/warlock.jpg)</p>

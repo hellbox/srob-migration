@@ -1,8 +1,8 @@
 +++
 index = "-KGjkAAs68C5LIX2Ynwh"
-_sort_create_date = 1462163760
-_sort_last_updated = 1462163760
-_sort_publish_date = 1462208160
+sort_create_date = 1462163760
+sort_last_updated = 1462163760
+sort_publish_date = 1462208160
 create_date = "2016-05-01T21:36:00-07:00"
 publish_date = "2016-05-02T09:56:00-07:00"
 date = "2016-05-02T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462163579698/2016
 twitterauto = "Our May Bookstore of the Month is @queenannebookco."
 facebookauto = "Our May Bookstore of the Month is Queen Anne Book Company, which feels delightfully like an island bookstore."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/queen-anne-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1462163579698/20160430_132145.jpg)</p>

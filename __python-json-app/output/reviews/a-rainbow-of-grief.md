@@ -1,8 +1,8 @@
 +++
 index = "-K967qJh09LwmdKsS0qb"
-_sort_create_date = 1453966140
-_sort_last_updated = 1453970520
-_sort_publish_date = 1454010840
+sort_create_date = 1453966140
+sort_last_updated = 1453970520
+sort_publish_date = 1454010840
 create_date = "2016-01-27T23:29:00-08:00"
 publish_date = "2016-01-28T11:54:00-08:00"
 date = "2016-01-28T11:54:00-08:00"
@@ -13,10 +13,10 @@ title = "A rainbow of grief"
 dek = "Cartoonist Tom Hart's daughter died in her sleep for no apparent reason just shy of her second birthday. How do you find the words for that kind of a loss? You don't."
 facebookauto = "Cartoonist Tom Hart's daughter died in her sleep for no apparent reason just shy of her second birthday. How do you find the words for that kind of a loss? You don't."
 twitterauto = "\"Rosalie Lightning\" is a gorgeous book about grief and naming the unnameable."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/rosalie-lightning"]
 tags_reviews = ["tags/comics", "tags/memoir"]
-authors_reviews = ["authors/tom-hart"]
+reviews_about = ""
 +++
 
 If you hold a copy of Tom Hart’s new graphic novel *Rosalie Lightning* away from you by the spine, here is what you’ll see:

@@ -1,8 +1,8 @@
 +++
 index = "-KJt9nkTNUw-6AbgQGLM"
-_sort_create_date = 1465542960
-_sort_last_updated = 1465578300
-_sort_publish_date = 1465586160
+sort_create_date = 1465542960
+sort_last_updated = 1465578300
+sort_publish_date = 1465586160
 create_date = "2016-06-10T00:16:00-07:00"
 publish_date = "2016-06-10T12:16:00-07:00"
 date = "2016-06-10T12:16:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Here's a proposal for how to fix publishing's broken blurb system."
 facebookauto = "Here's a proposal for how to fix publishing's broken blurb system."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/blurbs"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Whenever I read a glowing blurb on a book these days, I wonder to myself, "what is this person's relationship to the author?" It's no secret that authors write blurbs for friends, or former students, or authors who have previously blurbed them. Every blurb comes with a price — a favor owed, a favor repaid. A bookseller once told me that the only blurber they trusted was Thomas Pynchon, because Pynchon was a recluse and therefore he only blurbed books that he honestly liked because he didn't carry the personal baggage that every other author did when it comes to blurbs. (I've used this observation as a yardstick in the years since, and Pynchon has driven me to authors I might not otherwise have discovered, including [Jim Knipfel](https://en.wikipedia.org/wiki/Jim_Knipfel).)

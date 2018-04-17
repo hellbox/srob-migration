@@ -1,8 +1,8 @@
 +++
 index = "-KIkkSWYbpD0m7_ZINQK"
-_sort_create_date = 1464328080
-_sort_last_updated = 1464328140
-_sort_publish_date = 1464375660
+sort_create_date = 1464328080
+sort_last_updated = 1464328140
+sort_publish_date = 1464375660
 create_date = "2016-05-26T22:48:00-07:00"
 publish_date = "2016-05-27T12:01:00-07:00"
 date = "2016-05-27T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Next week, @seacityoflit hosts the first of three free workshops on racial equity in the literary arts."
 facebookauto = "Next week, Seattle City of Literature hosts the first of three free workshops on racial equity in the literary arts. You should go."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-city-of-literature", "tags/stesha-brandon", "tags/race"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 On Thursday, June 2nd, Seattle City of Literature, with support from Seattle’s Office of Civil Rights, will present [the first of three free workshops on racial equity in the literary arts]( http://seattlecityoflit.org/youre-invited-to-participate-racial-equity-and-the-literary-arts/). This is important stuff; you’d be hard-pressed to find anyone who argues that literature is anywhere near parity in its representation. In fact, we saw some high-profile incidents last year — the [Seattle literature anthology]( http://seattlereviewofbooks.com/reviews/reflections-by-and-about-white-people/), the [ridiculous white dude who pretended to be a different race and then pretended it was a political statement]( http://seattlereviewofbooks.com/notes/2015/09/08/so-did-i-pick-the-best-75-poems-published-last-year-of-course-not-i-picked-75-poems-that-survived-a-literary-ordeal-that-happened-only-in-my-brain/) — that reminded us of exactly how far we have to go. 

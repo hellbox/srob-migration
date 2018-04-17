@@ -1,8 +1,8 @@
 +++
 index = "-KI48d-ysIcQgTwSbDSc"
-_sort_create_date = 1463596500
-_sort_last_updated = 1463596500
-_sort_publish_date = 1463596500
+sort_create_date = 1463596500
+sort_last_updated = 1463596500
+sort_publish_date = 1463596500
 create_date = "2016-05-18T11:35:00-07:00"
 publish_date = "2016-05-18T11:35:00-07:00"
 date = "2016-05-18T11:35:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our friends @seattlish report that someone is suing Emerald City Comicon for not paying its volunteers."
 facebookauto = "Our friends at Seattlish are reporting that someone is suing Emerald City Comicon for not paying its volunteers."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/emerald-city-comicon", "tags/labor"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Our friends at [Seattlish just broke the story](http://seattlish.com/post/144561926396/someone-is-suing-emerald-city-comicon-for-not) of a class-action lawsuit filed against the owners of Emerald City Comicon for not paying their volunteers. (ECCC officially calls its volunteers "minions," which is not a very good look; ECCC vendors and talent have complained to us about how "demeaning" that title is on multiple occasions.) Seattlish explains:

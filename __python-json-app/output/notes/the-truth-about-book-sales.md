@@ -1,8 +1,8 @@
 +++
 index = "-KLYExaHpVQbhogAJU-2"
-_sort_create_date = 1467322680
-_sort_last_updated = 1467322680
-_sort_publish_date = 1467400200
+sort_create_date = 1467322680
+sort_last_updated = 1467322680
+sort_publish_date = 1467400200
 create_date = "2016-06-30T14:38:00-07:00"
 publish_date = "2016-07-01T12:10:00-07:00"
 date = "2016-07-01T12:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "You're probably not going to retire on the royalties from that novel you keep meaning to write."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This [*Electric Literature* explainer](https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask-1fe6bc00aa2d#.s3tnoik7j) presents a straightforward, warts-and-all look at the business of writing and publishing. If you ever fantasized about selling a book and retiring to the French Riviera, you should probably read it. Or not. Maybe you shouldn't read it. Just keep dreaming.

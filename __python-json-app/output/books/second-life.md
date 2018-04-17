@@ -1,8 +1,8 @@
 +++
 index = "-KLBz0Wz7f2KGlUNfF4k"
-_sort_create_date = 1466949120
-_sort_last_updated = 1466951100
-_sort_publish_date = 1466949120
+sort_create_date = 1466949120
+sort_last_updated = 1466951100
+sort_publish_date = 1466949120
 create_date = "2016-06-26T06:52:00-07:00"
 publish_date = "2016-06-26T06:52:00-07:00"
 date = "2016-06-26T06:52:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jgNIJlv4PRzd6ne_ow7tFBaVrHMl4zG_RKocKD1Wu2XCE1bUrmGotgwQkC1IycTMiNFv4H1r0xJgiDUO2fVxHuY58jrk"
 url = "/webhook-uploads/1466949697308/y648.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 298324
 
 review_relationship = ""
-author_relationship = ["authors/sj-watson"]
+books_author = ""
 sponsorships_book = ["sponsorships/second-life"]
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-Kawbv9c0QgWqTF0WsIT"
-_sort_create_date = 1484928240
-_sort_last_updated = 1484928240
-_sort_publish_date = 1485291840
+sort_create_date = 1484928240
+sort_last_updated = 1484928240
+sort_publish_date = 1485291840
 create_date = "2017-01-20T08:04:00-08:00"
 publish_date = "2017-01-24T13:04:00-08:00"
 date = "2017-01-24T13:04:00-08:00"
@@ -13,10 +13,10 @@ title = "Quid pro quo"
 dek = "Seattle Times reporter Claudia Rowe's The Spider and the Fly begins as a successor to Ann Rule's brilliant The Stranger Beside Me. Then it turns into something much different."
 facebookauto = "Seattle Times reporter Claudia Rowe's new book The Spider and the Fly is about a serial killer who is the exact opposite of the sleek, calculating killers we see in TV and movies."
 twitterauto = ".@RoweReport's The Spider and the Fly begins as a true crime story. It becomes something much different."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-spider-and-the-fly"]
 tags_reviews = ["tags/true-crime", "tags/non-fiction"]
-authors_reviews = ["authors/claudia-rowe"]
+reviews_about = ""
 +++
 
 We’ve been trained by popular culture to visualize serial killers in a very specific way: they’re sleek, efficient, charming hunters of humans. Sociopathic and hyper-intelligent, serial killers are always five steps ahead of everyone else. They’re willful, clever, highly manipulative loners, and they’re relentlessly driven by some lone traumatic incident in their childhood. They’re not so much human beings as puzzle-boxes to entertain and alarm us for a couple hours until they’re finally captured and the closing credits roll.

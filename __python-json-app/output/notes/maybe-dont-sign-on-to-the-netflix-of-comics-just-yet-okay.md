@@ -1,8 +1,8 @@
 +++
 index = "-KIYvgr1ov899faONg_u"
-_sort_create_date = 1464112920
-_sort_last_updated = 1464117540
-_sort_publish_date = 1464114420
+sort_create_date = 1464112920
+sort_last_updated = 1464117540
+sort_publish_date = 1464114420
 create_date = "2016-05-24T11:02:00-07:00"
 publish_date = "2016-05-24T11:27:00-07:00"
 date = "2016-05-24T11:27:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464112711573/82c6
 twitterauto = "Maybe don't sign on to the \"Netflix of Comics\" just yet, okay?"
 facebookauto = "The \"Netflix of Comics\" is here, and it seems as though nobody told your favorite comics creators that they were involved!"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/comixology", "tags/amazon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1464112711573/82c645269ba2a6a7bda1f08ad14dff4b._QL95_TTD_.jpg)</p>

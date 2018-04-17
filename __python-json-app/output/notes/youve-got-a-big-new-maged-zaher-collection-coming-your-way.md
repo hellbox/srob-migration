@@ -1,8 +1,8 @@
 +++
 index = "-Jz7crRhhiPdZVaXkMhM"
-_sort_create_date = 1442180160
-_sort_last_updated = 1442180640
-_sort_publish_date = 1442256960
+sort_create_date = 1442180160
+sort_last_updated = 1442180640
+sort_publish_date = 1442256960
 create_date = "2015-09-13T14:36:00-07:00"
 publish_date = "2015-09-14T11:56:00-07:00"
 date = "2015-09-14T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's cause for celebration: a Seattle publisher announced a huge new collection of Maged Zaher's poems!"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry", "tags/publishing", "tags/arundel-books", "tags/arundel-press", "tags/chatwin-books"]
-authors_notes = ["authors/maged-zaher"]
+notes_about = ""
 books = ""
 +++
 In case you weren't keeping track, [Arundel Books](http://www.arundelbookstores.com/home.html), which used to be a beautiful bookstore on 1st Avenue downtown, is now a beautiful bookstore in the old Wessel & Lieberman space facing Occidental Park in Pioneer Square. And Arundel founder Phil Bevis still publishes books, both under the [Arundel Press](http://www.arundelbookstores.com/publications.html) shingle and, more expansively, as [Chatwin Books](http://www.chatwinbooks.com/). (One of Arundel Press's titles, Nicole Sarrocco's [*Karate Bride*](http://www.karatebride.com/KB2.html), is a Seattle poetry classic.)

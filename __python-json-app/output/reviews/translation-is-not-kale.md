@@ -1,8 +1,8 @@
 +++
 index = "-KqozfzXSuHFFAD5fONN"
-_sort_create_date = 1501980180
-_sort_last_updated = 1502389140
-_sort_publish_date = 1502388000
+sort_create_date = 1501980180
+sort_last_updated = 1502389140
+sort_publish_date = 1502388000
 create_date = "2017-08-05T17:43:00-07:00"
 publish_date = "2017-08-10T11:00:00-07:00"
 date = "2017-08-10T11:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Translation is not kale"
 dek = "Why aren't more books by women translated and available in English? Anca Szil\u00e1gyi takes the hot air out of publishing industry excuses."
 facebookauto = "Translation is delicious, says Anca Szilagyi in her review of Craving for Women in Translation Month."
 twitterauto = "Translation is delicious, says @ancawrites in her review of Craving for #WITMonth. #translationthurs"
-byline = ["writers/anca-l-szil\u00e1gyi"]
+reviews_byline = ["writers/anca-l-szil\u00e1gyi"]
 books_in_this_review = ["books/the-days-of-abandonment", "books/mile-end", "books/why-the-child-is-cooking-in-the-polenta", "books/death-as-a-side-effect", "books/craving"]
 tags_reviews = ""
-authors_reviews = ["authors/elena-ferrante", "authors/aglaja-veteranyi", "authors/ana-mar\u00eda-shua", "authors/esther-gerritsen"]
+reviews_about = ""
 +++
 
 <div class="intro">

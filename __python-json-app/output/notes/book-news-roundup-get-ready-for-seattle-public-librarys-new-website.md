@@ -1,8 +1,8 @@
 +++
 index = "-Kr--qS3ZdRnmXYH5mPH"
-_sort_create_date = 1502164980
-_sort_last_updated = 1502223060
-_sort_publish_date = 1502217480
+sort_create_date = 1502164980
+sort_last_updated = 1502223060
+sort_publish_date = 1502217480
 create_date = "2017-08-07T21:03:00-07:00"
 publish_date = "2017-08-08T11:38:00-07:00"
 date = "2017-08-08T11:38:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Are you prepared for the new @SPLBuzz website? Personally, we can't wait."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library", "tags/geekgirlcon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * By now, you've likely heard about some drama involving nerdy sci-fi festival GeekGirlCon. The best take on this was a long thread spotlighted by Ijeoma Oluo on Twitter:

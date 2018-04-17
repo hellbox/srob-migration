@@ -1,8 +1,8 @@
 +++
 index = "-JykD2VYJlfV333_AVl3"
-_sort_create_date = 1441770480
-_sort_last_updated = 1441825860
-_sort_publish_date = 1441817280
+sort_create_date = 1441770480
+sort_last_updated = 1441825860
+sort_publish_date = 1441817280
 create_date = "2015-09-08T20:48:00-07:00"
 publish_date = "2015-09-09T09:48:00-07:00"
 date = "2015-09-09T09:48:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The thing that sets @SeattleMystery apart? The staff's outstanding personalized recommendations."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/seattle-mystery-bookshop"]
-authors_notes = ["authors/kelli-stanley", "authors/don-winslow", "authors/mark-haddon", "authors/leonie-swann"]
+notes_about = ""
 books = ["books/three-bags-full", "books/the-curious-incident-of-the-dog-in-the-night-time", "books/the-death-and-life-of-bobby-z"]
 +++
 You can’t stay in business for as long as (our September Bookstore of the Month) Seattle Mystery Bookshop has without becoming really, really good at a thing or two. The most readily apparent sign of the bookstore’s excellence is in its selection, which I [wrote about last week](http://seattlereviewofbooks.com/notes/2015/09/02/our-september-bookstore-of-the-month-is-seattle-mystery-bookshop/). The selection is really quite impressive — the shelves of Seattle Mystery Bookshop display a stock that is comprehensive enough to please the most deeply OCD mystery nerd and yet welcoming enough to appeal to a novice browser who has never before considered reading a mystery novel.

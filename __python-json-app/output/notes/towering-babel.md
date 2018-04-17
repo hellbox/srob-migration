@@ -1,8 +1,8 @@
 +++
 index = "-KJJ_ULjakh-ktTUym3c"
-_sort_create_date = 1464929220
-_sort_last_updated = 1464929400
-_sort_publish_date = 1464981000
+sort_create_date = 1464929220
+sort_last_updated = 1464929400
+sort_publish_date = 1464981000
 create_date = "2016-06-02T21:47:00-07:00"
 publish_date = "2016-06-03T12:10:00-07:00"
 date = "2016-06-03T12:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Finding Babel, a remarkable tribute to a remarkable writer, screens this weekend @SIFFNews."
 facebookauto = "Looking for a SIFF movie to watch this weekend? Why not  give Finding Babel, a remarkable tribute to a remarkable writer, a try?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/siff"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xbvjRxY2Zhc?rel=0" frameborder="0" allowfullscreen></iframe>

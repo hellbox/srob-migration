@@ -1,8 +1,8 @@
 +++
 index = "-L3khdR0hCUpUQEVQz-Z"
-_sort_create_date = 1516940700
-_sort_last_updated = 1516991100
-_sort_publish_date = 1517259600
+sort_create_date = 1516940700
+sort_last_updated = 1516991100
+sort_publish_date = 1517259600
 create_date = "2018-01-25T20:25:00-08:00"
 publish_date = "2018-01-29T13:00:00-08:00"
 date = "2018-01-29T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516940688011/Poet
 twitterauto = "The new issue from sponsor @poetrynw is all about the visuals. Lay eyes on a sample spread right here!"
 facebookauto = "The winter/spring issue of sponsor Poetry Northwest is all about visual poetry. Lay eyes on a couple of sample spreads here, then subscribe or find them at a nearby bookstore."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ["books/poetry-northwest-(winter-&-spring-2018)"]
 +++
 <p class="image-left">![](/webhook-uploads/1516940815487/Poetry%20Northwest_150.jpg)</p>

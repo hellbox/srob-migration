@@ -1,8 +1,8 @@
 +++
 index = "-JujAT_D3dtGe6ahRfxY"
-_sort_create_date = 1437458100
-_sort_last_updated = 1437969600
-_sort_publish_date = 1437499320
+sort_create_date = 1437458100
+sort_last_updated = 1437969600
+sort_publish_date = 1437499320
 create_date = "2015-07-20T22:55:00-07:00"
 publish_date = "2015-07-21T10:22:00-07:00"
 date = "2015-07-21T10:22:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-city-of-literature", "tags/mayor-ed-murray"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The *Seattle Review of Books* is officially an endorser of the [city's bid to become designated a UNESCO City of Literature](http://seattlecityoflit.org/). This is because we believe Seattle is a world-class book city, and the designation would allow us to share our art with other UNESCO Creative Cities around the world. Additionally, if we earned the designation, the city would establish an office to oversee the city's literary scene, which could create some exceptional opportunities for collaboration and community outreach.

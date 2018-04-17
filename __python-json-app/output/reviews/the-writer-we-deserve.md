@@ -1,8 +1,8 @@
 +++
 index = "-KBnDTTLNf6GkdtPQI-f"
-_sort_create_date = 1456853340
-_sort_last_updated = 1456967580
-_sort_publish_date = 1456948800
+sort_create_date = 1456853340
+sort_last_updated = 1456967580
+sort_publish_date = 1456948800
 create_date = "2016-03-01T09:29:00-08:00"
 publish_date = "2016-03-02T12:00:00-08:00"
 date = "2016-03-02T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "The writer we deserve"
 dek = "Where would you even start? William T. Vollmann's prodigious and difficult output might just make one foreswear even attempting him. But wait! Ivan Schneider has some advice for you, the nascent Vollmann reader, and it all starts with \"The Dying Grass.\""
 facebookauto = "Ivan Schneider takes us inside the head (or, at least, one book) of the iconic American writer William T. Vollmann."
 twitterauto = "Let's spend a little time with William T. Vollmann today. @ivantohelpyou offers a tour through \"The Dying Grass\""
-byline = ["writers/ivan-schneider"]
+reviews_byline = ["writers/ivan-schneider"]
 books_in_this_review = ["books/the-dying-grass"]
 tags_reviews = ""
-authors_reviews = ["authors/william-t-vollmann"]
+reviews_about = ""
 +++
 
 It’s early in the year, time for taking on ambitious, resolution-worthy reading projects, and what better project than _The Dying Grass_, the latest novel from William T. Vollmann?

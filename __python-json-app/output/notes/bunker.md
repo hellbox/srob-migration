@@ -1,8 +1,8 @@
 +++
 index = "-L5CfUQX7VedXZQ0e7sF"
-_sort_create_date = 1518500400
-_sort_last_updated = 1519105800
-_sort_publish_date = 1519149300
+sort_create_date = 1518500400
+sort_last_updated = 1519105800
+sort_publish_date = 1519149300
 create_date = "2018-02-12T21:40:00-08:00"
 publish_date = "2018-02-20T09:55:00-08:00"
 date = "2018-02-20T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518502093987/Scre
 twitterauto = "\"Bunker\" is the title of this poem from February Poet In Residence, Azura Tyabji"
 facebookauto = "\"Bunker\" is the title of this poem from February Poet In Residence, Azura Tyabji"
 make_image_tweet = "False"
-byline = ["writers/azura-tyabji"]
+notes_byline = ["writers/azura-tyabji"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="prose-poem">Police Chief Kathleen O’Toole says,<br>

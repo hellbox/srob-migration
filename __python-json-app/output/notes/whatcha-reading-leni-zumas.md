@@ -1,8 +1,8 @@
 +++
 index = "-L2d2c2JDS0eXrT2tUK3"
-_sort_create_date = 1515738480
-_sort_last_updated = 1515816180
-_sort_publish_date = 1515864600
+sort_create_date = 1515738480
+sort_last_updated = 1515816180
+sort_publish_date = 1515864600
 create_date = "2018-01-11T22:28:00-08:00"
 publish_date = "2018-01-13T09:30:00-08:00"
 date = "2018-01-13T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515814176394/leni
 twitterauto = "What's @lenizumas reading? So much great stuff! "
 facebookauto = "What's Leni Zumas reading?"
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/whatcha-reading"]
-authors_notes = ["authors/leni-zumas", "authors/clarice-lispector", "authors/natalie-eilbert", "authors/alison-bechdel", "authors/genevieve-hudson", "authors/samantha-irby", "authors/chelsey-johnson", "authors/gabriela-torres-olivares", "authors/orlando-white"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every week we ask an interesting figure what they're digging into. Have ideas who we should reach out to? Let it fly: [info@seattlereviewofbooks.com](mailto:info@seattlereviewofbooks.com). Want to read more? Check out the [archives](http://www.seattlereviewofbooks.com/tags/whatcha-reading).</p>

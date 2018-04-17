@@ -1,8 +1,8 @@
 +++
 index = "-L3t_LzedfyEotpfY4Zw"
-_sort_create_date = 1517089500
-_sort_last_updated = 1517110800
-_sort_publish_date = 1517158800
+sort_create_date = 1517089500
+sort_last_updated = 1517110800
+sort_publish_date = 1517158800
 create_date = "2018-01-27T13:45:00-08:00"
 publish_date = "2018-01-28T09:00:00-08:00"
 date = "2018-01-28T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Who needs food stamps, really bad sex, and the last wave of gentrification in the Sunday Post."
 facebookauto = "Who needs food stamps, really bad sex, and the last wave of gentrification in the Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

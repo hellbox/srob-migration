@@ -1,8 +1,8 @@
 +++
 index = "-KYkFaQxS8JWUiACPdk-"
-_sort_create_date = 1481499600
-_sort_last_updated = 1481500200
-_sort_publish_date = 1482774900
+sort_create_date = 1481499600
+sort_last_updated = 1481500200
+sort_publish_date = 1482774900
 create_date = "2016-12-11T15:40:00-08:00"
 publish_date = "2016-12-26T09:55:00-08:00"
 date = "2016-12-26T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481499392803/Emma
 twitterauto = "We asked @elliottbaybooks bookseller Emma what book she wanted for the holidays."
 facebookauto = "We asked Elliott Bay Book Company bookseller Emma what book she wanted for the holidays."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/elliott-bay-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *(Every Monday in December, we're asking a local bookseller which books they'd like to receive for a holiday gift. Our final bookseller is Emma Nichols, who works at Elliott Bay Book Company and who also hosts the wonderful [Drunk Booksellers podcast](http://drunkbooksellers.libsyn.com/). Emma chose* [Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders](http://www.elliottbaybook.com/book/9780761169086), *by Joshua Foer and Dylan Thuras.)*

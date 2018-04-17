@@ -1,8 +1,8 @@
 +++
 index = "-K2GflLnjDxsxYtRuVAQ"
-_sort_create_date = 1446626880
-_sort_last_updated = 1446674400
-_sort_publish_date = 1446666360
+sort_create_date = 1446626880
+sort_last_updated = 1446674400
+sort_publish_date = 1446666360
 create_date = "2015-11-04T00:48:00-08:00"
 publish_date = "2015-11-04T11:46:00-08:00"
 date = "2015-11-04T11:46:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Yesterday, the internet went crazy for Amazon's physical bookstore. Here are some of the most notable accounts:"
 facebookauto = "Amazon Books launched yesterday, kicking off a bizarre hot-take that may or may not be a joke, a wonderful Twitter rant, and  some first-person accounts of what it's like to visit Amazon Books. Things are getting weird out there."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/amazon-books", "tags/retail"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Yesterday saw an avalanche of think-pieces and first-person accounts of the launch day for Amazon Books, the online retailer's first physical bookstore in University Village. The most notorious of these hot takes was Megan Garber's piece for the *Atlantic*, titled "[Did Amazon Just Replace the Public Library?](http://www.theatlantic.com/entertainment/archive/2015/11/did-amazon-just-replace-the-public-library/413941/)" I honestly can't tell if Garber's piece is supposed to be a joke or a troll or not. It certainly reads like it's trying to be funny.

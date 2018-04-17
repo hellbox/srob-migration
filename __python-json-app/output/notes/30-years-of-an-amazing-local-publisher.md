@@ -1,8 +1,8 @@
 +++
 index = "-KTjVh_hU7ykav4xu3dG"
-_sort_create_date = 1476118320
-_sort_last_updated = 1476118440
-_sort_publish_date = 1476129600
+sort_create_date = 1476118320
+sort_last_updated = 1476118440
+sort_publish_date = 1476129600
 create_date = "2016-10-10T09:52:00-07:00"
 publish_date = "2016-10-10T13:00:00-07:00"
 date = "2016-10-10T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476118188689/spon
 twitterauto = "Sponsor @Sasquatchbooks is turning 30! Check out this awesome timeline...."
 facebookauto = "Sponsor Sasquatch Books is turning 30! They're here this week to celebrate. Check out this great timeline on our sponsor's page."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sasquatch Books is turning 30! They came to celebrate with our readers. From _Best Places_, to _Book Lust_, to amazing cookbooks like _A Boat, A Whale &amp; A Walrus_, Sasquatch produces high-quality, high-interest books right from the heart of Seattle. 

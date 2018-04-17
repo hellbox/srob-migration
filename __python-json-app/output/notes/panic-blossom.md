@@ -1,8 +1,8 @@
 +++
 index = "-KAcPj-pVLHS5263sQ39"
-_sort_create_date = 1455598260
-_sort_last_updated = 1455598500
-_sort_publish_date = 1455645300
+sort_create_date = 1455598260
+sort_last_updated = 1455598500
+sort_publish_date = 1455645300
 create_date = "2016-02-15T20:51:00-08:00"
 publish_date = "2016-02-16T09:55:00-08:00"
 date = "2016-02-16T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/melanie-noel"]
+notes_byline = ["writers/melanie-noel"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p>_[to be read very quickly, as if almost out of breath]_</p>

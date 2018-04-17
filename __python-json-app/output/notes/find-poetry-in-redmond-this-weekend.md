@@ -1,8 +1,8 @@
 +++
 index = "-KFHRbv6Eb3_pg5c0oIG"
-_sort_create_date = 1460598360
-_sort_last_updated = 1460598360
-_sort_publish_date = 1460665800
+sort_create_date = 1460598360
+sort_last_updated = 1460598360
+sort_publish_date = 1460665800
 create_date = "2016-04-13T18:46:00-07:00"
 publish_date = "2016-04-14T13:30:00-07:00"
 date = "2016-04-14T13:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Redmond's got a great-looking celebration of poetry coming up this weekend."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poetry"]
-authors_notes = ["authors/sierra-nelson", "authors/shin-yu-pai"]
+notes_about = ""
 books = ""
 +++
 There are poetry events all over Seattle for National Poetry Month, but on Sunday April 17th, there's a great reason to take a trip out to Redmond. It's called Open Studio, and it features a bunch of great people:

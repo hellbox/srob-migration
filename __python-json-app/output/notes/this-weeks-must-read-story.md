@@ -1,8 +1,8 @@
 +++
 index = "-JzWOciVvuQUsUoQPm4O"
-_sort_create_date = 1442595600
-_sort_last_updated = 1442595600
-_sort_publish_date = 1442595600
+sort_create_date = 1442595600
+sort_last_updated = 1442595600
+sort_publish_date = 1442595600
 create_date = "2015-09-18T10:00:00-07:00"
 publish_date = "2015-09-18T10:00:00-07:00"
 date = "2015-09-18T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Why haven't you read @mirajacob's wonderful post on race and the publishing industry yet?"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/publishing", "tags/race"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Everybody's talking about Mira Jacob's BuzzFeed story "[I Gave A Speech About Race To The Publishing Industry And No One Heard Me](http://www.buzzfeed.com/mirajacob/you-will-ignore-us-at-your-own-peril#.qbMn2g022)," and for good reason: it's a substantial look at one of the publishing industry's biggest problems. Jacob was invited to be the keynote speaker at a *Publisher's Weekly* gathering:

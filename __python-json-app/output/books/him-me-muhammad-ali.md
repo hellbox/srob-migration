@@ -1,8 +1,8 @@
 +++
 index = "-Kf3SoTgpyPJWxCCoTgB"
-_sort_create_date = 1489354800
-_sort_last_updated = 1489354860
-_sort_publish_date = 1489354800
+sort_create_date = 1489354800
+sort_last_updated = 1489354860
+sort_publish_date = 1489354800
 create_date = "2017-03-12T14:40:00-07:00"
 publish_date = "2017-03-12T14:40:00-07:00"
 date = "2017-03-12T14:40:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6UPNz7_DJ_kHIy2W9nY4kG1R8LtCRGNOS6pM61YwWdME2a24l7lZncHD9d4Uz8ckfzE03_pVn42w08lWsJuOyhc0ARXx0g"
 url = "/webhook-uploads/1489354835449/content%3Fid%3DUliFjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 17885
 
 review_relationship = ""
-author_relationship = ["authors/randa-jarrar"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-healthy-eating-with-a-collection-of-stories-about-muslim-women"]
 +++

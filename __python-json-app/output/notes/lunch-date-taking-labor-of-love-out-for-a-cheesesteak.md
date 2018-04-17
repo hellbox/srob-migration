@@ -1,8 +1,8 @@
 +++
 index = "-KKS6U4_8g8G5tVEUqcb"
-_sort_create_date = 1466146080
-_sort_last_updated = 1466181900
-_sort_publish_date = 1466182860
+sort_create_date = 1466146080
+sort_last_updated = 1466181900
+sort_publish_date = 1466182860
 create_date = "2016-06-16T23:48:00-07:00"
 publish_date = "2016-06-17T10:01:00-07:00"
 date = "2016-06-17T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466145684914/labo
 twitterauto = "We took a book about dating in America out for a cheesesteak. Was it a love connection?"
 facebookauto = "We took a book about dating in America out for a cheesesteak. Was there a love connection?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 *(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)*

@@ -1,8 +1,8 @@
 +++
 index = "-KCy6lUVUktLD3P0mH8Q"
-_sort_create_date = 1458109860
-_sort_last_updated = 1458145800
-_sort_publish_date = 1458154500
+sort_create_date = 1458109860
+sort_last_updated = 1458145800
+sort_publish_date = 1458154500
 create_date = "2016-03-15T23:31:00-07:00"
 publish_date = "2016-03-16T11:55:00-07:00"
 date = "2016-03-16T11:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "At a reading last night, four writers wrested with old age and youth. Old age came out looking better."
 facebookauto = "At a reading last night, four writers wrested with old age and youth. Old age came out looking better."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/april", "tags/pine-box"]
-authors_notes = ["authors/kelly-froh"]
+notes_about = ""
 books = ""
 +++
 Last night, dozens of people packed into the (drafty, noisy) side room at the Pine Box to celebrate the opening night of the APRIL Festival. They were rewarded with four readings about youth and old age, about coming-of-age celebrations and old traditions.

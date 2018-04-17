@@ -1,8 +1,8 @@
 +++
 index = "-K2jua8Q-IbeMg_LSg4q"
-_sort_create_date = 1447134120
-_sort_last_updated = 1447134120
-_sort_publish_date = 1447134120
+sort_create_date = 1447134120
+sort_last_updated = 1447134120
+sort_publish_date = 1447134120
 create_date = "2015-11-09T21:42:00-08:00"
 publish_date = "2015-11-09T21:42:00-08:00"
 date = "2015-11-09T21:42:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/xqyb1h5OM-wAz7iMozmRAL68xGP4u_D--NymdffOKnUr01v0JzIzrxQMEy-Qc3b5RwwRqzGOlthb8PCUKzepoWFrqqEJ"
 url = "/webhook-uploads/1447134084458/omnibusted.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 27335
 
 review_relationship = ["reviews/drink-to-forget-ink-to-remember"]
-author_relationship = ["authors/tatiana-gill"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

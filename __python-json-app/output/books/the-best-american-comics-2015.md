@@ -1,8 +1,8 @@
 +++
 index = "-K2uNtOrxeo0lbyBPK7j"
-_sort_create_date = 1447309800
-_sort_last_updated = 1447309860
-_sort_publish_date = 1447309800
+sort_create_date = 1447309800
+sort_last_updated = 1447309860
+sort_publish_date = 1447309800
 create_date = "2015-11-11T22:30:00-08:00"
 publish_date = "2015-11-11T22:30:00-08:00"
 date = "2015-11-11T22:30:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/yhWwEtk5i2vmi636tMBlPQP22TcmWx0X3JgmnFRLF1ylrBNMUpW3XFuWn1ES1smWcramst9zfaNBky3IdfHCj4N3IyfLLA"
 url = "/webhook-uploads/1447309841374/content%3Fid%3DWfKOCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 29437
 
 review_relationship = ["reviews/living-up-to-the-best"]
-author_relationship = ["authors/jonathan-lethem"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

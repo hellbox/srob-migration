@@ -1,8 +1,8 @@
 +++
 index = "-Kc1sGsEfisnoVyzMuuy"
-_sort_create_date = 1486106940
-_sort_last_updated = 1486107000
-_sort_publish_date = 1486151940
+sort_create_date = 1486106940
+sort_last_updated = 1486107000
+sort_publish_date = 1486151940
 create_date = "2017-02-02T23:29:00-08:00"
 publish_date = "2017-02-03T11:59:00-08:00"
 date = "2017-02-03T11:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Viral poems, librarian detectives, and Sherman Alexie star in Book News Roundup."
 facebookauto = "Viral poems, librarian detectives, JK Rowling's ferocious anti-Trumpism, and Sherman Alexie star in Book News Roundup."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/activism", "tags/protest"]
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ""
 +++
 * "I dreamed that my passport was a book of prayers," Sherman Alexie writes in [his new poem "Autopsy" at Early Bird Books](http://www.earlybirdbooks.com/autopsy-poem-sherman-alexie/). "Autopsy" is a deeply political poem that was born from this political moment, like Elisa Chavez's "[Revenge](http://www.seattlereviewofbooks.com/notes/2017/01/03/revenge/)" and Claudia Castro Luna's "[Am I not an immigrant?](http://www.seattlereviewofbooks.com/notes/2017/01/31/am-i-not-an-immigrant/)," both  of which were published right here on the *Seattle Review of Books*. It is incredibly heartening to see poets making something out of this despair, and to see the general public respond to these poems with such enthusiasm. Donald Trump's election has made the viral protest poem into a thing.

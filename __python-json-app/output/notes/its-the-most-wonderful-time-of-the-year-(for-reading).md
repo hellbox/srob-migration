@@ -1,8 +1,8 @@
 +++
 index = "-K2zQ_PQWrxbNtIByJfy"
-_sort_create_date = 1447394400
-_sort_last_updated = 1447394460
-_sort_publish_date = 1447437600
+sort_create_date = 1447394400
+sort_last_updated = 1447394460
+sort_publish_date = 1447437600
 create_date = "2015-11-12T22:00:00-08:00"
 publish_date = "2015-11-13T10:00:00-08:00"
 date = "2015-11-13T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://mcphee.com/shop/introvert-ornament.html#Details"
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This ["Introvert" Christmas ornament](http://mcphee.com/shop/introvert-ornament.html#Details) from Archie McPhee, featuring a bespectacled reader hiding behind a book, seems like the sort of thing that readers of this site might enjoy. (They're not a bookstore, but the *Seattle Review of Books* still loves the ever-loving hell out of Archie McPhee.)

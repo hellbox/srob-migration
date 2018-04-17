@@ -1,8 +1,8 @@
 +++
 index = "-JwTldvPb_C3vwECYLdu"
-_sort_create_date = 1439330340
-_sort_last_updated = 1440222120
-_sort_publish_date = 1439330340
+sort_create_date = 1439330340
+sort_last_updated = 1440222120
+sort_publish_date = 1439330340
 create_date = "2015-08-11T14:59:00-07:00"
 publish_date = "2015-08-11T14:59:00-07:00"
 date = "2015-08-11T14:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/clickbait"]
-authors_notes = ""
+notes_about = ""
 books = ["books/purity", "books/freedom"]
 +++
 Caleb Crain's [piece for the *Atlantic* on *Purity*](http://www.theatlantic.com/magazine/archive/2015/09/jonathan-franzen-strikes-again/399329/) bears a salacious headline — "Jonathan Franzen Strikes Again:

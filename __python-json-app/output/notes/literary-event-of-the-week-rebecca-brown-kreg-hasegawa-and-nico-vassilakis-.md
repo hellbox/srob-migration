@@ -1,8 +1,8 @@
 +++
 index = "-L8em5L--oUchN5FI98F"
-_sort_create_date = 1522209900
-_sort_last_updated = 1522217760
-_sort_publish_date = 1522688100
+sort_create_date = 1522209900
+sort_last_updated = 1522217760
+sort_publish_date = 1522688100
 create_date = "2018-03-27T21:05:00-07:00"
 publish_date = "2018-04-02T09:55:00-07:00"
 date = "2018-04-02T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle's smartest writer and a poetry mainstay welcome a dearly departed poet back to town."
 facebookauto = "This week's Event of the Week: Help Rebecca Brown and Kreg Hasegawa welcome former Seattle poet Nico Vassilakis back to town!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/poetry"]
-authors_notes = ["authors/rebecca-brown"]
+notes_about = ""
 books = ""
 +++
 Rebecca Brown, the smartest writer in Seattle, has been out of commission recovering from a broken ankle. But with spring poking its fuzzy little head out of the newly muddy earth, Brown seems eager to get off the couch and out into the world with at least two events this month. This Thursday at Gallery 1412, Brown will be reading new and old work to celebrate her long winter's hibernation and her new spring awakening.

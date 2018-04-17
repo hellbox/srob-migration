@@ -1,8 +1,8 @@
 +++
 index = "-Kzp0DK7_NLa1sDPAH5F"
-_sort_create_date = 1511644200
-_sort_last_updated = 1511645580
-_sort_publish_date = 1511715600
+sort_create_date = 1511644200
+sort_last_updated = 1511645580
+sort_publish_date = 1511715600
 create_date = "2017-11-25T13:10:00-08:00"
 publish_date = "2017-11-26T09:00:00-08:00"
 date = "2017-11-26T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post has essays by @ClaireDederer and @elissawashuta this week, plus professional hockey and ... Twitch?"
 facebookauto = "The Sunday Post links to stellar essays by Claire Dederer and Elissa Washuta this week, plus inside looks at professional hockey and professional ... Twitch?"
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

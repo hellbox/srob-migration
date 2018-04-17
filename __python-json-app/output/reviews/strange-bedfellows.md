@@ -1,8 +1,8 @@
 +++
 index = "-KmPYOxFzl6HFJPlK6Dv"
-_sort_create_date = 1497241560
-_sort_last_updated = 1497244920
-_sort_publish_date = 1498068000
+sort_create_date = 1497241560
+sort_last_updated = 1497244920
+sort_publish_date = 1498068000
 create_date = "2017-06-11T21:26:00-07:00"
 publish_date = "2017-06-21T11:00:00-07:00"
 date = "2017-06-21T11:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Strange bedfellows"
 dek = "A classic argument between philosophy and poetry resolved twice: by the logical Richard Rorty and the lyrical Maged Zaher."
 facebookauto = "Richard Rorty asks the big questions about philosophy, poetry, and the nature of existence; Maged Zaher may have the answers."
 twitterauto = "Richard Rorty asks the big questions about philosophy, poetry, and existence; Maged Zaher has the answers."
-byline = ["writers/samuel-filby"]
+reviews_byline = ["writers/samuel-filby"]
 books_in_this_review = ["books/philosophy-as-poetry", "books/opting-out"]
 tags_reviews = ""
-authors_reviews = ["authors/richard-rorty"]
+reviews_about = ""
 +++
 
 Ever since Socrates asked that Homer be censored and the poets be exiled from his beloved republic, philosophy and poetry have been on less than civil terms. Hegel, for example, thought that poetry was no longer up to the task of representing the Absolute, and therefore must give way to philosophy. On the side of the poets, Keats, in his lengthy poem “Lamia,” condemns “cold philosophy” for her removal of beauty from the world.

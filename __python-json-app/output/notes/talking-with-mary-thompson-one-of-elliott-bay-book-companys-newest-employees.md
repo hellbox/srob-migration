@@ -1,8 +1,8 @@
 +++
 index = "-KWUhQ_ljkb5RVFYSIXn"
-_sort_create_date = 1479074460
-_sort_last_updated = 1479074460
-_sort_publish_date = 1479146460
+sort_create_date = 1479074460
+sort_last_updated = 1479074460
+sort_publish_date = 1479146460
 create_date = "2016-11-13T14:01:00-08:00"
 publish_date = "2016-11-14T10:01:00-08:00"
 date = "2016-11-14T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479074175041/tige
 twitterauto = "We had a conversation with one of @elliottbaybooks's newest employees."
 facebookauto = "We had a conversation with one of the newest employees at Elliott Bay Book Company. Meet Mary Thompson:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/elliott-bay-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1479074175041/tigerwhowouldbeking.jpg)</p>

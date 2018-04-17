@@ -1,8 +1,8 @@
 +++
 index = "-L23ZUebB002jCEL4Ut6"
-_sort_create_date = 1515126360
-_sort_last_updated = 1515126360
-_sort_publish_date = 1515441300
+sort_create_date = 1515126360
+sort_last_updated = 1515126360
+sort_publish_date = 1515441300
 create_date = "2018-01-04T20:26:00-08:00"
 publish_date = "2018-01-08T11:55:00-08:00"
 date = "2018-01-08T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515125760676/doom
 twitterauto = "Lots of great events this week, including two from the African American Writers' Alliance."
 facebookauto = "Lots of great events this week, including two from the African American Writers' Alliance."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, January 8: African-American Writers' Alliance Poetry Reading **</h5></p>

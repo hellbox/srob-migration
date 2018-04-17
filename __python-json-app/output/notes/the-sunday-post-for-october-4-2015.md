@@ -1,8 +1,8 @@
 +++
 index = "-K-n_L95emiQGW8sTJ91"
-_sort_create_date = 1443974400
-_sort_last_updated = 1443974520
-_sort_publish_date = 1443974520
+sort_create_date = 1443974400
+sort_last_updated = 1443974520
+sort_publish_date = 1443974520
 create_date = "2015-10-04T09:00:00-07:00"
 publish_date = "2015-10-04T09:02:00-07:00"
 date = "2015-10-04T09:02:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The Sunday Post this week features pieces by @cherylmorgan, @craigmod, and @BernardHayman"
 facebookauto = "The Sunday Post looks at diversity and the future of reading this week."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Writing Better Trans Characters](http://www.strangehorizons.com/2015/20150928/1morgan-a.shtml)</h5>

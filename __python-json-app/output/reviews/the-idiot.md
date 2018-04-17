@@ -1,8 +1,8 @@
 +++
 index = "-KO3b9gQqMFTgm1goNWR"
-_sort_create_date = 1470029880
-_sort_last_updated = 1470029880
-_sort_publish_date = 1470078000
+sort_create_date = 1470029880
+sort_last_updated = 1470029880
+sort_publish_date = 1470078000
 create_date = "2016-07-31T22:38:00-07:00"
 publish_date = "2016-08-01T12:00:00-07:00"
 date = "2016-08-01T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "The idiot"
 dek = "The opening line of Jean Edward Smith's biography of George W. Bush: \"Rarely in the history of the United States has the nation been so ill-served as during the presidency of George W. Bush.\u201d Is this the anti-Bush bio we've all been waiting for?"
 facebookauto = "Now that Republicans have nominated Trump for president, maybe it's a good idea to look at what happened the last time we let a rich dimbulb with character issues have the presidency?"
 twitterauto = "The newest George W. Bush biography doesn't even try to be objective about how terrible Bush was."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/bush"]
 tags_reviews = ["tags/biography", "tags/president"]
-authors_reviews = ["authors/jean-edward-smith"]
+reviews_about = ""
 +++
 
 The first sentence of *Bush*, Jean Edward Smith’s biography of George W. Bush, obliterates any pretense of objectivity: “Rarely in the history of the United States has the nation been so ill-served as during the presidency of George W. Bush.” The sentence is bracing, somehow — even shocking. We expect our presidential biographers to speak in hushed, respectful tones, partly out of deference to the power of the office and partly because presidential biographies are such dense works demanding so much research that a biographer can suffer from a kind of Stockholm syndrome, developing a fond personal connection that dulls the edge of any criticism.

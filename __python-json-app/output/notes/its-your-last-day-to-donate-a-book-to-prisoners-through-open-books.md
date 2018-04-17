@@ -1,8 +1,8 @@
 +++
 index = "-K_AmsxIqPvbQdm0ic7x"
-_sort_create_date = 1483035300
-_sort_last_updated = 1483035540
-_sort_publish_date = 1483125300
+sort_create_date = 1483035300
+sort_last_updated = 1483035540
+sort_publish_date = 1483125300
 create_date = "2016-12-29T10:15:00-08:00"
 publish_date = "2016-12-30T11:15:00-08:00"
 date = "2016-12-30T11:15:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A gentle reminder: bring your new or as-new book to Open Books today and take home a poetry book for free. Details:

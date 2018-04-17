@@ -1,8 +1,8 @@
 +++
 index = "-Kf3ZMzPgTi_cd3Ukv9-"
-_sort_create_date = 1489356540
-_sort_last_updated = 1490026440
-_sort_publish_date = 1490036460
+sort_create_date = 1489356540
+sort_last_updated = 1490026440
+sort_publish_date = 1490036460
 create_date = "2017-03-12T15:09:00-07:00"
 publish_date = "2017-03-20T12:01:00-07:00"
 date = "2017-03-20T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489356418785/himm
 twitterauto = "We took a short story out to lunch and accidentally discovered the cure to the Northwest winter blues."
 facebookauto = "We took a short story out to lunch and accidentally discovered the cure to the Northwest winter blues."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date"]
-authors_notes = ["authors/randa-jarrar"]
+notes_about = ""
 books = ["books/him-me-muhammad-ali"]
 +++
 <p class="image-left">![](/webhook-uploads/1489356418785/himmemuhammadali.jpeg)</p>

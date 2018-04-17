@@ -1,8 +1,8 @@
 +++
 index = "-KvJYDL5CRBBiPEj2mo1"
-_sort_create_date = 1506804540
-_sort_last_updated = 1506809100
-_sort_publish_date = 1506873600
+sort_create_date = 1506804540
+sort_last_updated = 1506809100
+sort_publish_date = 1506873600
 create_date = "2017-09-30T13:49:00-07:00"
 publish_date = "2017-10-01T09:00:00-07:00"
 date = "2017-10-01T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Vikings, vandals, and some serious schadenfreude around Megyn Kelly's new show in this week's Sunday Post."
 facebookauto = "In this week's Sunday Post, Michael Harriot has advice on how to protest without offending white people, a modern-day Viking leads his crew into disaster, and a lovely tree with a silly name meets a sad end, among other stories."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

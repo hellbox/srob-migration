@@ -1,8 +1,8 @@
 +++
 index = "-L2832ePBfj8HtGoVJvL"
-_sort_create_date = 1515201720
-_sort_last_updated = 1515202140
-_sort_publish_date = 1515201780
+sort_create_date = 1515201720
+sort_last_updated = 1515202140
+sort_publish_date = 1515201780
 create_date = "2018-01-05T17:22:00-08:00"
 publish_date = "2018-01-05T17:23:00-08:00"
 date = "2018-01-05T17:23:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HcIsUC39wz92OS6MjV5DZOQZ8zyyv0D2j7TDNkHgWRSB39H1B3ju_U0QjPQnbFAZLkOqKxFpj9T4G1x51NvpoW2Vx-W1"
 url = "/webhook-uploads/1515201918903/Amaskan's%20Blood_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 124462
 
 review_relationship = ""
-author_relationship = ["authors/raven-oak"]
+books_author = ""
 sponsorships_book = ["sponsorships/amaskans-blood"]
 notes_relationship = ["notes/in-this-weeks-sponsor-sample-meet-a-warrior-with-a-heart-and-a-mission"]
 +++

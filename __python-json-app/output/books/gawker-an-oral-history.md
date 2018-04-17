@@ -1,8 +1,8 @@
 +++
 index = "-JvCmzaVWw2qsXeORSnW"
-_sort_create_date = 1437972240
-_sort_last_updated = 1437972780
-_sort_publish_date = 1437972240
+sort_create_date = 1437972240
+sort_last_updated = 1437972780
+sort_publish_date = 1437972240
 create_date = "2015-07-26T21:44:00-07:00"
 publish_date = "2015-07-26T21:44:00-07:00"
 date = "2015-07-26T21:44:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/8K0MHbhMrOBNUbk7RmJwGW-SPJz17RAnfp6K3Nm608UDq_JcQSdAb-TUXkQjK7Zm9mRshMr0jiKNAHRVdnwkEmBqTLvA"
 url = "/webhook-uploads/1437972188460/51ujWrAQyGL._SX322_BO1%2C204%2C203%2C200_.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 52521
 
 review_relationship = ["reviews/who-gawks-at-the-gawkers"]
-author_relationship = ["authors/brian-abrams"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

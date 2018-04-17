@@ -1,8 +1,8 @@
 +++
 index = "-JusJPLS-YGCtx0cPeDh"
-_sort_create_date = 1437611400
-_sort_last_updated = 1437623820
-_sort_publish_date = 1437611400
+sort_create_date = 1437611400
+sort_last_updated = 1437623820
+sort_publish_date = 1437611400
 create_date = "2015-07-22T17:30:00-07:00"
 publish_date = "2015-07-22T17:30:00-07:00"
 date = "2015-07-22T17:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1437623844626/image.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KFNEWXIPTGONtg9xyHS"
-_sort_create_date = 1460695560
-_sort_last_updated = 1460695560
-_sort_publish_date = 1460695560
+sort_create_date = 1460695560
+sort_last_updated = 1460695560
+sort_publish_date = 1460695560
 create_date = "2016-04-14T21:46:00-07:00"
 publish_date = "2016-04-14T21:46:00-07:00"
 date = "2016-04-14T21:46:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "historical fiction"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Af3qD8bQqc0pfkJJNoXqDJ_UMltuLpyfs57kld956Xa8ZZnmGn2zKiCdRf0EgZMGx9KFYWvbnhOae0mEHnpgw9XL6Onp"
 url = "/webhook-uploads/1460695544588/margaretthefirst.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 32892
 
 review_relationship = ""
-author_relationship = ["authors/danielle-dutton"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/danielle-dutton\u2019s-paper-bodies", "notes/heres-what-vlad-from-third-place-books-is-most-looking-forward-to-this-fall"]
 +++

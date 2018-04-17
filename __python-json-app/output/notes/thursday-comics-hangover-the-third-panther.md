@@ -1,8 +1,8 @@
 +++
 index = "-KLUKEYmsnYxpxky5dR8"
-_sort_create_date = 1467256980
-_sort_last_updated = 1467305640
-_sort_publish_date = 1467305760
+sort_create_date = 1467256980
+sort_last_updated = 1467305640
+sort_publish_date = 1467305760
 create_date = "2016-06-29T20:23:00-07:00"
 publish_date = "2016-06-30T09:56:00-07:00"
 date = "2016-06-30T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1467256663023/blac
 twitterauto = "Let's check in on the 3rd issue of the Black Panther to see how things are going."
 facebookauto = "How's Ta-Nehisi Coates's Black Panther series going so far? It's pretty great, but there might be a weak link."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/black-panther"]
-authors_notes = ["authors/ta-nehisi-coates"]
+notes_about = ""
 books = ""
 +++
 It's been three months since the [first issue of the Ta-Nehisi Coates/Brian Stelfreeze *Black Panther*](http://seattlereviewofbooks.com/notes/2016/04/07/thursday-comics-hangover-everybodys-talking-about-the-black-panther/) was published. You can tell that the series has become a runaway bestseller because it's the first monthly comic that local bookstores like University Book Store and Elliott Bay Book Company are carrying as they're released, rather than waiting for the hardcover graphic novel compilations to be published. 

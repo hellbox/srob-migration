@@ -1,8 +1,8 @@
 +++
 index = "-Kl2a3o2ZtHn_1U529sV"
-_sort_create_date = 1495782660
-_sort_last_updated = 1496181000
-_sort_publish_date = 1496172000
+sort_create_date = 1495782660
+sort_last_updated = 1496181000
+sort_publish_date = 1496172000
 create_date = "2017-05-26T00:11:00-07:00"
 publish_date = "2017-05-30T12:20:00-07:00"
 date = "2017-05-30T12:20:00-07:00"
@@ -13,10 +13,10 @@ title = "Good Bones"
 dek = "Great Northwest poet Joan Swift never published a book that was worthy of her talent. Until now."
 facebookauto = "\"The recurring images in The Body that Follows Us \u2014\u00a0bones, stargazing, pregnancy, aging \u2014 tell a story not just of Joan Swift\u2019s final years but of her entire life.\""
 twitterauto = "Great Northwest poet Joan Swift never had a book that was worthy of her talent. Until now."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-body-that-follows-us"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/joan-swift"]
+reviews_about = ""
 +++
 
 I’ve [written before](http://www.seattlereviewofbooks.com/notes/2017/04/17/one-month-since-her-passing-seattles-literary-community-still-mourns-joan-swift/) about the blow suffered by Seattle’s literary community when poet Joan Swift died in March. At 90 years old, Swift represented a clear link to Seattle’s literary past (she was one of Seattle poetry godfather Theodore Roethke’s last students), and given her propensity to guide and encourage younger poets, her influence will be felt for many decades to come.

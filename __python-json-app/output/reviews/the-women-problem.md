@@ -1,8 +1,8 @@
 +++
 index = "-Jy0hWcNQGEU5j2kH1hf"
-_sort_create_date = 1440990240
-_sort_last_updated = 1441172160
-_sort_publish_date = 1441306980
+sort_create_date = 1440990240
+sort_last_updated = 1441172160
+sort_publish_date = 1441306980
 create_date = "2015-08-30T20:04:00-07:00"
 publish_date = "2015-09-03T12:03:00-07:00"
 date = "2015-09-03T12:03:00-07:00"
@@ -12,10 +12,10 @@ name = "The women problem"
 title = "The women problem"
 dek = "The idea that feelings are the province of women's fiction is silly, Mia Lipman argues. Instead, she suggests a new name for fiction about female protagonists."
 twitterauto = "Let's talk about women's fiction, and the weird idea that stories by and for women are all about feelings."
-byline = ["writers/mia-lipman"]
+reviews_byline = ["writers/mia-lipman"]
 books_in_this_review = ["books/days-of-awe"]
 tags_reviews = ["tags/chick-lit"]
-authors_reviews = ["authors/lauren-fox", "authors/maria-semple"]
+reviews_about = ""
 +++
 
 Let’s say it together now, with the requisite air quotes and eye rolls: “women’s fiction.” All the expected arguments have been made about why the categorization is useless at best, offensive at worst. As Meg Wolitzer [noted in the *New York Times Book Review*](www.nytimes.com/2012/04/01/books/review/on-the-rules-of-literary-fiction-for-men-and-women.html) last weekend, while this piece was in production, “Bringing up the women’s question — I mean the women’s fiction question — is not unlike mentioning the national debt at a dinner party. Some people will get annoyed and insist it’s been talked about too much and inaccurately, and some will think it really matters.” But at least everybody knows what it’s supposed to mean: stories about love, loss, relationships, work-family balance, the stuff that makes up daily life for much of the population. You know…*feelings*.

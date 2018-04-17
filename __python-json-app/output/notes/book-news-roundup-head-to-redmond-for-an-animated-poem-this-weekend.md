@@ -1,8 +1,8 @@
 +++
 index = "-L-4GFejW8sICEePHpKh"
-_sort_create_date = 1511916840
-_sort_last_updated = 1511985780
-_sort_publish_date = 1511989980
+sort_create_date = 1511916840
+sort_last_updated = 1511985780
+sort_publish_date = 1511989980
 create_date = "2017-11-28T16:54:00-08:00"
 publish_date = "2017-11-29T13:13:00-08:00"
 date = "2017-11-29T13:13:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511916871408/code
 twitterauto = "Donald Trump probably doesn't want you to read this comic book. So read it!"
 facebookauto = "Donald Trump probably doesn't want you to read this comic book. So read it!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/marvel-comics"]
-authors_notes = ["authors/shin-yu-pai"]
+notes_about = ""
 books = ""
 +++
 * This Saturday, December 2nd, Redmond Poet Laureate Shin Yu Pai will be presenting new work at [the Redmond Lights](http://redmondlights.com/) holiday festival. Pai has written a special poem for the occasion recounting Redmond's logging history and celebrating the city's attempts to regrow its gorgeous tree canopy. Additionally, Seattle designer Michael Barakat has animated the poem, and it will be projected on the side of City Hall as part of the festivities. Pai is [an estimable talent](http://lithub.com/where-the-words-grow-on-trees/) who always gives her all to every project, and this looks to be a capstone on her incredibly fruitful tenure as Poet Laureate of Redmond. (And if you're into holiday festivities, the full itinerary of Redmond Lights looks like a lot of winter-themed fun, with popcorn and facepainting and a city walk and a tree lighting and ice carving.)

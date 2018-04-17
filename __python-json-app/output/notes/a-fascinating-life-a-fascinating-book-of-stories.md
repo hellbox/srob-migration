@@ -1,8 +1,8 @@
 +++
 index = "-KPE3ZQA0PuT_Ey_5zvM"
-_sort_create_date = 1471279140
-_sort_last_updated = 1471487760
-_sort_publish_date = 1471291200
+sort_create_date = 1471279140
+sort_last_updated = 1471487760
+sort_publish_date = 1471291200
 create_date = "2016-08-15T09:39:00-07:00"
 publish_date = "2016-08-15T13:00:00-07:00"
 date = "2016-08-15T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor Roy Lisker, and @saggingmeniscus, are here to show the first ever collection of his short stories."
 facebookauto = "Sponsor Roy Lisker is here this week to show you his collected works. Read a sample from one of his formalist short stories on the sponsorship page right now. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Sponsor Roy Lisker has done it all: he's a mathematician, political activist, underground journalist, prankster and provocateur, as well as playwright, poet, and writer of fiction. <a href="https://saggingmeniscus.com/catalog/lincoln-center-in-july/" title="Lincoln Center in July and Other Stories | Sagging Meniscus Press">Sagging Meniscus Press</a> has pulled together this first volume of Lisker's collected stories: "We regard the publication of these stories, all together for the first time, as an important event in American letters."

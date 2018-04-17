@@ -1,8 +1,8 @@
 +++
 index = "-KUa7Af0zi77JeLpDdrl"
-_sort_create_date = 1477034640
-_sort_last_updated = 1477069020
-_sort_publish_date = 1477069020
+sort_create_date = 1477034640
+sort_last_updated = 1477069020
+sort_publish_date = 1477069020
 create_date = "2016-10-21T00:24:00-07:00"
 publish_date = "2016-10-21T09:57:00-07:00"
 date = "2016-10-21T09:57:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Read #TrumpBookReport and then vote like your life depends on it. Because it does."
 facebookauto = "Read #TrumpBookReport and then vote like your life depends on it. Because it does."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I got my ballot in the mail last night and I happily voted and mailed the damn thing back immediately and it felt so damned good, like the horse that's been sitting square in the center of my chest finally got up and moseyed away in search of some hay or something. (Not that you asked me or anything, but I heartily recommend [Seattlish's voting guide](http://seattlish.com/post/151982549421/the-official-seattlish-guide-to-your-ballot) to help identify the lesser-known names on the ballot.) This is almost over. We can do it.

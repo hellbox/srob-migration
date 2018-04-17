@@ -1,8 +1,8 @@
 +++
 index = "-KpYWS0Dph45P7MkbchM"
-_sort_create_date = 1500613260
-_sort_last_updated = 1500910560
-_sort_publish_date = 1500663660
+sort_create_date = 1500613260
+sort_last_updated = 1500910560
+sort_publish_date = 1500663660
 create_date = "2017-07-20T22:01:00-07:00"
 publish_date = "2017-07-21T12:01:00-07:00"
 date = "2017-07-21T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Let's talk about the limits of reading, and what it means when a reader gives up control."
 facebookauto = "Let's talk about the limits of reading, and what it means when a reader gives up control."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 For weeks now, friends have been telling me to [read *17776*, a longform experimental sci-fi story](https://www.sbnation.com/a/17776-football) written and designed by Jon Bois. I was resistant because the story is, in general terms, about football. That is to say that it begins as a blog post titled "What football will look like in the future." And I cannot stand sports at all.

@@ -1,8 +1,8 @@
 +++
 index = "-L80mGxckB8nM3eqiGfl"
-_sort_create_date = 1521522120
-_sort_last_updated = 1521522120
-_sort_publish_date = 1521572460
+sort_create_date = 1521522120
+sort_last_updated = 1521522120
+sort_publish_date = 1521572460
 create_date = "2018-03-19T22:02:00-07:00"
 publish_date = "2018-03-20T12:01:00-07:00"
 date = "2018-03-20T12:01:00-07:00"
@@ -13,10 +13,10 @@ title = "Never forget, never forgive"
 dek = "Jennifer Natalya Fink reads from her remarkable novel at Elliott Bay Book Company this Friday. It's about the way we forget all the tragedies that make us into who we are, and how that's maybe the biggest tragedy of all."
 facebookauto = "If we forget the tragedies that shape us, Bhopal Dance asks, are we turning our backs on our own humanity?"
 twitterauto = "If we forget the tragedies that shape us, Bhopal Dance asks, are we turning our backs on our own humanity?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/bhopal-dance"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/jennifer-natalya-fink"]
+reviews_about = ""
 +++
 
 The natural state of humanity is to acknowledge tragedy, to honor it, and then to move on. We forget the dead, we can't remember what pain felt like in the exact moment that we realized something horrible had happened. This is a survival mechanism; if we never physically stopped feeling the immediate hurt of heartbreak and loss, we would not live for very long. The pain has to fade; the memory has to dissolve. The loss has to mellow from an acute stab to a dull ache over time.

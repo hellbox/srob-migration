@@ -1,8 +1,8 @@
 +++
 index = "-KPQhjATQgiqj7eTTwWF"
-_sort_create_date = 1471491240
-_sort_last_updated = 1471491240
-_sort_publish_date = 1471539660
+sort_create_date = 1471491240
+sort_last_updated = 1471491240
+sort_publish_date = 1471539660
 create_date = "2016-08-17T20:34:00-07:00"
 publish_date = "2016-08-18T10:01:00-07:00"
 date = "2016-08-18T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1471490936637/mock
 twitterauto = "A superhero faces a mystery on a nerd cruise in @ChelseaCain's Mockingbird #6."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Above all else, most superhero comics should aim to be entertaining. Sure, it’s nice if you get some commentary in there, or a little bit of a political message, but superheroes aren’t the ideal messengers for heavy themes. (Sorry, people who think *The Dark Knight Returns* counts as deep political satire.) By the entertainment-per-page ratio, Portland author Chelsea Cain’s run on the *Mockingbird* series for Marvel is leading the superhero pack these days.

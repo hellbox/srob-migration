@@ -1,8 +1,8 @@
 +++
 index = "-KXDLJdGM_T_Fx-YVg7M"
-_sort_create_date = 1479856920
-_sort_last_updated = 1480530120
-_sort_publish_date = 1480528620
+sort_create_date = 1479856920
+sort_last_updated = 1480530120
+sort_publish_date = 1480528620
 create_date = "2016-11-22T15:22:00-08:00"
 publish_date = "2016-11-30T09:57:00-08:00"
 date = "2016-11-30T09:57:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479856670091/the-
 twitterauto = "This week's Literary Event of the Week is the Furnace Reading series @hollowearth."
 facebookauto = "The Furnace Reading Series is closing out with a bang (and violating its one mission statement) with a big show this month."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/furnace"]
-authors_notes = ["authors/corinne-manning", "authors/anca-l-szil\u00e1gyi"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1479856670091/the-furnacelogo8.jpg)</p>

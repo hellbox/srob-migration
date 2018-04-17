@@ -1,8 +1,8 @@
 +++
 index = "-L8xFnA8opMBGgapMlpV"
-_sort_create_date = 1522519920
-_sort_last_updated = 1522520940
-_sort_publish_date = 1522600200
+sort_create_date = 1522519920
+sort_last_updated = 1522520940
+sort_publish_date = 1522600200
 create_date = "2018-03-31T11:12:00-07:00"
 publish_date = "2018-04-01T09:30:00-07:00"
 date = "2018-04-01T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our picks this week for Sunday reading: @giganticanovel, Iris Murdoch, Alan Lightman, and more."
 facebookauto = "Our picks this week for Sunday reading: Richard Chiem, Iris Murdoch, Alan Lightman, and more."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/richard-chiem"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that’s your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

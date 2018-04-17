@@ -1,8 +1,8 @@
 +++
 index = "-KOfdrLcMOvqFxIyGeFc"
-_sort_create_date = 1470684900
-_sort_last_updated = 1470685080
-_sort_publish_date = 1470687900
+sort_create_date = 1470684900
+sort_last_updated = 1470685080
+sort_publish_date = 1470687900
 create_date = "2016-08-08T12:35:00-07:00"
 publish_date = "2016-08-08T13:25:00-07:00"
 date = "2016-08-08T13:25:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Oh, look. More live-action superhero adaptations. Hooray?"
 facebookauto = ""
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/science-fiction"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 When I was a kid, I loved George R. R. Martin's superhero anthology fiction series Wild Cards.  It's hard to get superheroes right in prose, but Martin's dark and involved universe just felt perfect. (The comics adaptation of the books, as I recall, was terrible.) If you're going on vacation later this month and you like sci-fi anthologies, grab a couple Wild Cards volumes before you go.

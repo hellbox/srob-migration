@@ -1,8 +1,8 @@
 +++
 index = "-Jyi9QgwLeNBDFL_eC1Y"
-_sort_create_date = 1441735980
-_sort_last_updated = 1441735980
-_sort_publish_date = 1441746060
+sort_create_date = 1441735980
+sort_last_updated = 1441735980
+sort_publish_date = 1441746060
 create_date = "2015-09-08T11:13:00-07:00"
 publish_date = "2015-09-08T14:01:00-07:00"
 date = "2015-09-08T14:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Freelance writing in 2015 offers a little more pay but a lot more anxiety."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/freelance", "tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 You should absolutely [read Noah Davis's overview of what it means to be a freelance writer in 2015](http://www.theawl.com/2015/09/dox-dox-dox-ii-the-doxxing). 

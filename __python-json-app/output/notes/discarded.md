@@ -1,8 +1,8 @@
 +++
 index = "-Kfd7-04KJfqjdw6t82w"
-_sort_create_date = 1489969860
-_sort_last_updated = 1490119680
-_sort_publish_date = 1490115300
+sort_create_date = 1489969860
+sort_last_updated = 1490119680
+sort_publish_date = 1490115300
 create_date = "2017-03-19T17:31:00-07:00"
 publish_date = "2017-03-21T09:55:00-07:00"
 date = "2017-03-21T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The third poem from March's Poet in Residence, Jamaica Baldwin, is titled \"Discarded\""
 facebookauto = "The third poem from March's Poet in Residence, Jamaica Baldwin, is titled \"Discarded\""
 make_image_tweet = "False"
-byline = ["writers/jamaica-baldwin"]
+notes_byline = ["writers/jamaica-baldwin"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Just because I can now trap a spider<br>

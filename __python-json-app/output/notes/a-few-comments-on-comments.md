@@ -1,8 +1,8 @@
 +++
 index = "-JvI_VczXs-rgAIyN7d5"
-_sort_create_date = 1438068900
-_sort_last_updated = 1438068900
-_sort_publish_date = 1438101840
+sort_create_date = 1438068900
+sort_last_updated = 1438068900
+sort_publish_date = 1438101840
 create_date = "2015-07-28T00:35:00-07:00"
 publish_date = "2015-07-28T09:44:00-07:00"
 date = "2015-07-28T09:44:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/meta", "tags/comments"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The *Daily Dot*'s [Austin Powell and Nicholas White explain](http://www.dailydot.com/company/comments-section-dead/) why the site is doing away with its comments section:

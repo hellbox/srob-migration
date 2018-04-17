@@ -1,8 +1,8 @@
 +++
 index = "-KvZQkjvSuQmuV2xYPtP"
-_sort_create_date = 1507071000
-_sort_last_updated = 1507248540
-_sort_publish_date = 1507312800
+sort_create_date = 1507071000
+sort_last_updated = 1507248540
+sort_publish_date = 1507312800
 create_date = "2017-10-03T15:50:00-07:00"
 publish_date = "2017-10-06T11:00:00-07:00"
 date = "2017-10-06T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's book news roundup brings good news for writers under the age of 24 and over the age of 50."
 facebookauto = "Today's book news roundup brings good news for writers under the age of 24 and over the age of 50."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/seattle-public-library", "tags/two-sylvias-press"]
-authors_notes = ["authors/tom-gauld"]
+notes_about = ""
 books = ""
 +++
 * Tomorrow is [Literary Career Day at the Seattle Public Library downtown](https://onereel.org/literarycareerday). It's described as "a free event providing young people ages 16-24 with direct access to industry professionals through networking, experiential learning, engaging conversations, and performances." If you know any aspiring authors, tell them to [register today](https://onereel.org/literarycareerday).

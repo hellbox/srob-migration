@@ -1,8 +1,8 @@
 +++
 index = "-K8ggDWeGCT1a0vWMyZT"
-_sort_create_date = 1453522440
-_sort_last_updated = 1453522440
-_sort_publish_date = 1453743240
+sort_create_date = 1453522440
+sort_last_updated = 1453522440
+sort_publish_date = 1453743240
 create_date = "2016-01-22T20:14:00-08:00"
 publish_date = "2016-01-25T09:34:00-08:00"
 date = "2016-01-25T09:34:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453521971105/plan
 twitterauto = "Your week in readings starts with a brainy talk about saving Earth @THSEA."
 facebookauto = "There are so many great events this week, including a sci-fi reading, a few locally sourced events, a big damn comics party, a Star Trek-themed library party, and the great Maggie Nelson."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/intruder", "tags/elliott-bay-book-company", "tags/town-hall-seattle", "tags/hugo-house"]
-authors_notes = ["authors/michelle-pe\u00f1aloza", "authors/ann-pancake", "authors/casandra-lopez", "authors/maggie-nelson"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1453521971105/planetremade.gif)<p>**MONDAY** What better way to kick off your week than a brainy talk about aspirational science? Head to [Town Hall Seattle](http://www2.bookstore.washington.edu/_events/events_cal.taf?evmonth=01&evyear=2016&eventid=2015092309553600) for **Oliver Morton**, reading from his new book, *The Planet Remade: How Geoengineering Could Change the World*. It’s about how “an increasing number of climate scientists are advocating for more proactive human intervention in the biosphere,” which can mean anything “from cultivating photosynthetic plankton to seeding clouds with fleets of unmanned ships.” Sounds like this could be a rare hopeful climate-related event.

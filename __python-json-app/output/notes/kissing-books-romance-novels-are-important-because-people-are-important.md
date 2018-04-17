@@ -1,8 +1,8 @@
 +++
 index = "-Kpp0rdkZbuSdF3bUdcm"
-_sort_create_date = 1500906960
-_sort_last_updated = 1501767420
-_sort_publish_date = 1501786800
+sort_create_date = 1500906960
+sort_last_updated = 1501767420
+sort_publish_date = 1501786800
 create_date = "2017-07-24T09:36:00-05:00"
 publish_date = "2017-08-03T14:00:00-05:00"
 date = "2017-08-03T14:00:00-05:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today we have an exciting debut! Kissing Books, our monthly romance column by @O_Waite, is now live!"
 facebookauto = "Today we have an exciting debut! Kissing Books, our monthly romance column by Olivia Waite, is now live!"
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/kissing-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">New column! Every month, Olivia Waite pulls back the covers, revealing the very best in new and classic romance. We're extending a hand to you. Won't you take it?</p>

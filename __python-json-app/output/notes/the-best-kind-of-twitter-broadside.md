@@ -1,8 +1,8 @@
 +++
 index = "-JzgO2bziaDwcrrZbpDj"
-_sort_create_date = 1442779980
-_sort_last_updated = 1442788260
-_sort_publish_date = 1442788260
+sort_create_date = 1442779980
+sort_last_updated = 1442788260
+sort_publish_date = 1442788260
 create_date = "2015-09-20T13:13:00-07:00"
 publish_date = "2015-09-20T15:31:00-07:00"
 date = "2015-09-20T15:31:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/twitter", "tags/rants"]
-authors_notes = ["authors/maria-dahvana-headley"]
+notes_about = ""
 books = ""
 +++
 Looking for some Sunday inspiration? Maria Dahvana Headley, author most recently of _Magnolia_, wrote a seventeen tweet mini-essay on women’s agency in the arts. It’s personal, professional, gives good advice, and is about something near-and-dear to our hearts: writers being self-aware and claiming the time and space they need to create the best works they can.

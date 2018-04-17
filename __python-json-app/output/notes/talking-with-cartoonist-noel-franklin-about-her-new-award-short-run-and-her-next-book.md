@@ -1,8 +1,8 @@
 +++
 index = "-KUKshcxKrIJ4fuGnKd4"
-_sort_create_date = 1476762180
-_sort_last_updated = 1476819420
-_sort_publish_date = 1476823380
+sort_create_date = 1476762180
+sort_last_updated = 1476819420
+sort_publish_date = 1476823380
 create_date = "2016-10-17T20:43:00-07:00"
 publish_date = "2016-10-18T13:43:00-07:00"
 date = "2016-10-18T13:43:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Cartoonist Noel Franklin just won a GAP Grant from @artisttrust. Here's what she's doing with the cash."
 facebookauto = "Seattle cartoonist Noel Franklin just won a GAP Grant from Artist Trust. Here's what she's doing with the cash."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run"]
-authors_notes = ["authors/tom-hart"]
+notes_about = ""
 books = ["books/rosalie-lightning"]
 +++
 <p class="image">![](/webhook-uploads/1476761911005/NoelFranklin.png)</p>

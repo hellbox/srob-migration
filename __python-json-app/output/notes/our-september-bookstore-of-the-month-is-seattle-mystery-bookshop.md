@@ -1,8 +1,8 @@
 +++
 index = "-JyBW6Bd-B81Yt3MLF6T"
-_sort_create_date = 1441171500
-_sort_last_updated = 1441171740
-_sort_publish_date = 1441213260
+sort_create_date = 1441171500
+sort_last_updated = 1441171740
+sort_publish_date = 1441213260
 create_date = "2015-09-01T22:25:00-07:00"
 publish_date = "2015-09-02T10:01:00-07:00"
 date = "2015-09-02T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Meet our Bookstore of the Month for September, @SeattleMystery!"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/seattle-mystery-bookshop"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1441171711333/20150829_121658.jpg)</p>On an uncharacteristically blustery Saturday, [Seattle Mystery Bookshop](http://www.seattlemystery.com/) employees Fran and Adele are getting the store ready for an author visit, but they’re happy to stop for anyone who wanders in out of the windstorm. They sometimes greet visitors with the words of the bookshop’s owner, JB Dickey: “you’re welcome to stay as long as you like, but we won’t feed you and we won’t do your laundry.”

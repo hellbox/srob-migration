@@ -1,8 +1,8 @@
 +++
 index = "-KWYqyzfTlplTkr_wCoo"
-_sort_create_date = 1479144060
-_sort_last_updated = 1479144060
-_sort_publish_date = 1479157200
+sort_create_date = 1479144060
+sort_last_updated = 1479144060
+sort_publish_date = 1479157200
 create_date = "2016-11-14T09:21:00-08:00"
 publish_date = "2016-11-14T13:00:00-08:00"
 date = "2016-11-14T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479143874283/71sA
 twitterauto = "Sponsor @dmabooksvea brings us an amazing true story of a Japanese-American soldier in WWII."
 facebookauto = "Sponsor Sandra Vea brings us an amazing true story of a Japanese-American soldier in WWII."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/sandra-vea"]
+notes_about = ""
 books = ["books/masao"]
 +++
 Sponsor Sandra Vea has brought her amazing biography of her friend, Masao, a Japanese-American solider in World War II, who fought some of the hardest battles in the hardest war, all while being under suspicion from his fellow soldiers. 

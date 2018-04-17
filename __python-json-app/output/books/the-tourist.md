@@ -1,8 +1,8 @@
 +++
 index = "-KYvg4pBr0fdPtTd0gZI"
-_sort_create_date = 1481691360
-_sort_last_updated = 1481691480
-_sort_publish_date = 1481691360
+sort_create_date = 1481691360
+sort_last_updated = 1481691480
+sort_publish_date = 1481691360
 create_date = "2016-12-13T20:56:00-08:00"
 publish_date = "2016-12-13T20:56:00-08:00"
 date = "2016-12-13T20:56:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Z-RD3q8X3JdJTcLXobBKe85n26h_PT48M_wdHGpplq96pilR3cMjiUyIqVHTY1bLW2D3UCjJ_oNdDzCvFe7aVpv9mQ0"
 url = "/webhook-uploads/1481691388551/content%3Fid%3D5YCFjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 8898
 
 review_relationship = ["reviews/tourists-in-the-time-stream"]
-author_relationship = ["authors/robert-dickinson"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

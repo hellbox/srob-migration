@@ -1,8 +1,8 @@
 +++
 index = "-Jw8enQqiNIlZ4zQkYks"
-_sort_create_date = 1438976220
-_sort_last_updated = 1438976220
-_sort_publish_date = 1438976220
+sort_create_date = 1438976220
+sort_last_updated = 1438976220
+sort_publish_date = 1438976220
 create_date = "2015-08-07T12:37:00-07:00"
 publish_date = "2015-08-07T12:37:00-07:00"
 date = "2015-08-07T12:37:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/go-set-a-watchman"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last month, [I wrote about](http://seattlereviewofbooks.com/notes/2015/07/10/dont-set-a-watchman/) why I'm not reading *Go Set a  Watchman*. (Short version: "I’d just rather not have to write a negative review of a Harper Lee book.") If you want to read the book, that's your prerogative, of course. And if you want to slag the book without reading it, that's your right as an American, too. But I can't help but feel [that this news](http://electricliterature.com/should-go-set-a-watchman-readers-get-a-refund-one-bookstore-thinks-so/) falls less on the side of a natural response to *Go Set a Watchman* and more on the side of a publicity stunt:

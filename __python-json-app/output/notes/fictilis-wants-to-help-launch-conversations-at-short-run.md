@@ -1,8 +1,8 @@
 +++
 index = "-K188FCzb0DmYcWRn7_K"
-_sort_create_date = 1445409900
-_sort_last_updated = 1445409900
-_sort_publish_date = 1445445900
+sort_create_date = 1445409900
+sort_last_updated = 1445409900
+sort_publish_date = 1445445900
 create_date = "2015-10-20T23:45:00-07:00"
 publish_date = "2015-10-21T09:45:00-07:00"
 date = "2015-10-21T09:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445409670995/Fict
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/short-run", "tags/fictilis"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class= "intro">Our October Bookstore of the Month is a special one, because it’s a bookstore that will only exist in the world for one day. [The Short Run Comix & Arts Festival](http://www.shortrun.org/) will take place this year on October 31st at Fisher Pavilion in the Seattle Center, and for that one day, it will be the largest bookseller of independent literature, zines, and comics in the Seattle area. Every week this month, we’ll highlight a different Short Run exhibitor, to give you a better idea of the scope and breadth of the festival.</p>

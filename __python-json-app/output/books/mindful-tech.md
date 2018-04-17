@@ -1,8 +1,8 @@
 +++
 index = "-KTN2F_ua7YJF7hsyiw9"
-_sort_create_date = 1475724720
-_sort_last_updated = 1475724720
-_sort_publish_date = 1475724720
+sort_create_date = 1475724720
+sort_last_updated = 1475724720
+sort_publish_date = 1475724720
 create_date = "2016-10-05T20:32:00-07:00"
 publish_date = "2016-10-05T20:32:00-07:00"
 date = "2016-10-05T20:32:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kp4TSJqTB92EgqnOAtrVtyGOfGVwm2Cco6lLLZyVaV1QV230hwOvUQkLP-rIVio2yx8nQVFCu5ClUIdVtmFdJEfQiKlk"
 url = "/webhook-uploads/1475724679746/mindful-tech.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 50727
 
 review_relationship = ["reviews/count-how-many-notifications-you-get-while-reading-this-review"]
-author_relationship = ["authors/david-m-levy"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-Jwi2Mutm1RcBJl5SWrc"
-_sort_create_date = 1439586660
-_sort_last_updated = 1439586900
-_sort_publish_date = 1439586660
+sort_create_date = 1439586660
+sort_last_updated = 1439586900
+sort_publish_date = 1439586660
 create_date = "2015-08-14T14:11:00-07:00"
 publish_date = "2015-08-14T14:11:00-07:00"
 date = "2015-08-14T14:11:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Writers in need of inspiration: the writing is on the wall. "
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-writing-prompts", "tags/graffiti"]
-authors_notes = ["authors/jonathan-lethem"]
+notes_about = ""
 books = ["books/fortress-of-solitude"]
 +++
 <p class="intro">Ask any writer: the two most difficult parts of the writing process are **1)** sitting down in the seat to write and **2)** figuring out what to write about. We *can't* help you focus on your work, but we *can* try to help you find inspiration in the city around you. That's what Seattle Writing Prompts is all about. These prompts are offered free to anyone who needs them; all the *Seattle Review of Books* asks in return is that you thank us in the acknowledgements when you turn it into a book.</p>

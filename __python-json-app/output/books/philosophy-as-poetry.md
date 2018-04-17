@@ -1,8 +1,8 @@
 +++
 index = "-KmPM3tT24XYi402OOnO"
-_sort_create_date = 1497238320
-_sort_last_updated = 1497242520
-_sort_publish_date = 1497238320
+sort_create_date = 1497238320
+sort_last_updated = 1497242520
+sort_publish_date = 1497238320
 create_date = "2017-06-11T20:32:00-07:00"
 publish_date = "2017-06-11T20:32:00-07:00"
 date = "2017-06-11T20:32:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "nonfiction, philosophy"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/MEpiNIXSYHo_5h27sIGnlsOyftBTEnUpWAd2m-lzfx9n_ZbCkd3xvhJ0x8ozIGg-EJmxhSnxGdSBkdK0FfZw5jC10o-s"
 url = "/webhook-uploads/1497238179504/5060.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 102808
 
 review_relationship = ["reviews/strange-bedfellows"]
-author_relationship = ["authors/richard-rorty"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

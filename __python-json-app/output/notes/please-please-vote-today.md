@@ -1,8 +1,8 @@
 +++
 index = "-KW1sD_X2BCArH6h96nE"
-_sort_create_date = 1478590740
-_sort_last_updated = 1478590740
-_sort_publish_date = 1478634540
+sort_create_date = 1478590740
+sort_last_updated = 1478590740
+sort_publish_date = 1478634540
 create_date = "2016-11-07T23:39:00-08:00"
 publish_date = "2016-11-08T11:49:00-08:00"
 date = "2016-11-08T11:49:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Please, please, please vote today. We've got some book-themed voting inspiration for you."
 facebookauto = "Please, please, please vote today. We've got some book-themed voting inspiration for you."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/politics"]
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ["books/ms-marvel-volume-1-no-normal"]
 +++
 Thanks to Seattle comics writer G. Willow Wilson for writing a *Ms. Marvel* panel that exactly sums up our feelings about the day:

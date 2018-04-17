@@ -1,8 +1,8 @@
 +++
 index = "-L1xEodY4WX5krxt8XLM"
-_sort_create_date = 1515003480
-_sort_last_updated = 1515004380
-_sort_publish_date = 1515004380
+sort_create_date = 1515003480
+sort_last_updated = 1515004380
+sort_publish_date = 1515004380
 create_date = "2018-01-03T10:18:00-08:00"
 publish_date = "2018-01-03T10:33:00-08:00"
 date = "2018-01-03T10:33:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515002301190/IMG_
 twitterauto = "Sad news: Louis Collins, a titan of the antiquarian books scene, has passed away."
 facebookauto = "Sad news: Louis Collins, a titan of the antiquarian books scene, has passed away."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/death", "tags/louis-collins-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1515002301190/IMG_0996.jpg)</p>

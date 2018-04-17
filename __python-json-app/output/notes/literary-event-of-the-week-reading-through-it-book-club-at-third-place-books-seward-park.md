@@ -1,8 +1,8 @@
 +++
 index = "-L1OCXq1VjNDt6Ls0DYp"
-_sort_create_date = 1514398920
-_sort_last_updated = 1514399220
-_sort_publish_date = 1514829780
+sort_create_date = 1514398920
+sort_last_updated = 1514399220
+sort_publish_date = 1514829780
 create_date = "2017-12-27T10:22:00-08:00"
 publish_date = "2018-01-01T10:03:00-08:00"
 date = "2018-01-01T10:03:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1514398624174/RTI-
 twitterauto = "Join us @thirdplacebooks on Wednesday to talk about Big Data."
 facebookauto = "Join us at Third Place Books on Wednesday to talk about Big Data."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/reading-through-it"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The second year of the post-Trump book club founded by the *Seattle Review of Books* and *Seattle Weekly* officially begins [this Wednesday at Third Place Book Seward Park](https://www.thirdplacebooks.com/event/reading-through-it-weapons-math-destruction).

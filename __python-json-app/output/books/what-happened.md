@@ -1,8 +1,8 @@
 +++
 index = "-KuI1TSpSyLsfP1uupR4"
-_sort_create_date = 1505705400
-_sort_last_updated = 1505705580
-_sort_publish_date = 1505705400
+sort_create_date = 1505705400
+sort_last_updated = 1505705580
+sort_publish_date = 1505705400
 create_date = "2017-09-17T20:30:00-07:00"
 publish_date = "2017-09-17T20:30:00-07:00"
 date = "2017-09-17T20:30:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2MOG2O2j-qXCdeeM_HUae4AZ7oh4Ani5_xAdHAa3KrkZ5s4Aju9tZqoTlzfqa13zVfY8Uy3xJZfGr8QpsgzWNEQ8aJU"
 url = "/webhook-uploads/1505705528987/whathappened.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 59681
 
 review_relationship = ["reviews/explaining-the-inexplicable"]
-author_relationship = ["authors/hillary-rodham-clinton"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

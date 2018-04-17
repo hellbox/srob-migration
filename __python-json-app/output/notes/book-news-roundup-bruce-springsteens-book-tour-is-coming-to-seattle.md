@@ -1,8 +1,8 @@
 +++
 index = "-KRUOfSv-MOGM89LyBLh"
-_sort_create_date = 1473700560
-_sort_last_updated = 1473705840
-_sort_publish_date = 1473703260
+sort_create_date = 1473700560
+sort_last_updated = 1473705840
+sort_publish_date = 1473703260
 create_date = "2016-09-12T10:16:00-07:00"
 publish_date = "2016-09-12T11:01:00-07:00"
 date = "2016-09-12T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Bruce Springsteen will be reading from his memoir @elliottbaybooks on October 1st. "
 facebookauto = "Bruce Springsteen will be reading from his memoir at Elliott Bay Book Company on October 1st. How many encores do you think he'll do?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/elliott-bay-book-company", "tags/jt-leroy"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Bruce Springsteen is doing a reading tour for his new memoir, and he'll be reading at Elliott Bay Book Company on October 1st. Expect a madhouse. [Tickets are here](http://www.strangertickets.com/events/36521033/bruce-springsteen-signed-book-event-at-the-elliott-bay-book-compa).

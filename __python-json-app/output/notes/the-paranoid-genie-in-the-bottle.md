@@ -1,8 +1,8 @@
 +++
 index = "-L21BLm9j9D4TGK6m8M7"
-_sort_create_date = 1515086460
-_sort_last_updated = 1515616800
-_sort_publish_date = 1515445200
+sort_create_date = 1515086460
+sort_last_updated = 1515616800
+sort_publish_date = 1515445200
 create_date = "2018-01-04T09:21:00-08:00"
 publish_date = "2018-01-08T13:00:00-08:00"
 date = "2018-01-08T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481576585792/Unkn
 twitterauto = "Sponsor Conon Parks's Empty Bottle of Smoke is an wild journey through Seattle's underground"
 facebookauto = "Sponsor Conon Parks's Empty Bottle of Smoke is an wild journey through Seattle's underground"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/conon-parks"]
+notes_about = ""
 books = ["books/empty-bottle-of-smoke"]
 +++
 <p class="image-left">![](/webhook-uploads/1515616702035/Some%20Kind%20of%20Ending_150.jpeg)</p>

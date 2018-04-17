@@ -1,8 +1,8 @@
 +++
 index = "-KHotjzyEXtv-SLCwkQ7"
-_sort_create_date = 1463323860
-_sort_last_updated = 1463323860
-_sort_publish_date = 1463323860
+sort_create_date = 1463323860
+sort_last_updated = 1463323860
+sort_publish_date = 1463323860
 create_date = "2016-05-15T07:51:00-07:00"
 publish_date = "2016-05-15T07:51:00-07:00"
 date = "2016-05-15T07:51:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "memoir"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/u4YM-H9AIMUg2ACPFtCsRPT_wOOBSxOGACVVaPB0xYqHbg3QGiPbHYz46JKhEvG0M8A6c-Ra81I7IP6eFrTI6TxzHxA"
 url = "/webhook-uploads/1463323644852/white-lady-black-sons.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 135296
 
 review_relationship = ""
-author_relationship = ["authors/lisa-richesson"]
+books_author = ""
 sponsorships_book = ["sponsorships/white-lady-black-sons"]
 notes_relationship = ["notes/talking-about-race-in-seattle-through-personal-experience"]
 +++

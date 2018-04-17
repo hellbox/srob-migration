@@ -23,19 +23,17 @@
                 <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
                 <p class="date">Published {{ .Date.Format "January 2, 2018 at 3:04pm" }}<p>
                 <p class="noindent review-meta">
-                <strong>{{ .Params.byline }} </strong>   
-                {{ $related := .Pages.RelatedIndices . "byline" "name" }}
-                {{ $related }}
-
-
-
-             
-
+                <strong>{{ .Params.byline }} </strong> 
+                {{ $author := index (where (.Site.RegularPages.RelatedIndices . "byline" ) "Type" "writers") 0 }}
+                {{ $author.Params.index }} 
+ 
                 </p>
                 <div class="dek">{{ .Params.dek }}</div>
                 <p class="noindent"><a href="{{ .RelPermalink }}">Read this review now</a></p>
             <div class="item-end"></div>             
-            </div>            
+            </div> 
+            
+        </div>           
         </div>
 
     {{ end }}

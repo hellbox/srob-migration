@@ -1,8 +1,8 @@
 +++
 index = "-JoR3pteTXGSQKL0nly1"
-_sort_create_date = 1430695140
-_sort_last_updated = 1499959080
-_sort_publish_date = 1499959080
+sort_create_date = 1430695140
+sort_last_updated = 1499959080
+sort_publish_date = 1499959080
 create_date = "2015-05-03T16:19:00-07:00"
 publish_date = "2017-07-13T08:18:00-07:00"
 date = "2017-07-13T08:18:00-07:00"
@@ -23,14 +23,14 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DluRcu8k4R18ogfVnqkLdyn8iyneY1Y4WjC2n9Di-R-6Qg07r2qsqHMfTTw5hKVyud4V-RUxur0fY97KVDv6DSDgutQ"
 url = "/webhook-uploads/1430694819325/content%3Fid%3Da3-ooAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
 width = 128
 height = 193
 review_relationship = ""
-author_relationship = ["authors/marlon-james"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/marlon-james-takes-the-booker"]
 +++

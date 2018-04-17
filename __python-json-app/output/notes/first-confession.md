@@ -1,8 +1,8 @@
 +++
 index = "-L9hXSTz4RmPsgEZqY27"
-_sort_create_date = 1523329860
-_sort_last_updated = 1523425680
-_sort_publish_date = 1523375700
+sort_create_date = 1523329860
+sort_last_updated = 1523425680
+sort_publish_date = 1523375700
 create_date = "2018-04-09T20:11:00-07:00"
 publish_date = "2018-04-10T08:55:00-07:00"
 date = "2018-04-10T08:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523330396206/Scre
 twitterauto = "Our second from Poet in Residence,@buddy_and_buddy is titled \"First Confession\""
 facebookauto = "Our second from Poet in Residence, Jeanine Walker, is titled \"First Confession\""
 make_image_tweet = "False"
-byline = ["writers/jeanine-walker"]
+notes_byline = ["writers/jeanine-walker"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The color in the room was yellow.<br>

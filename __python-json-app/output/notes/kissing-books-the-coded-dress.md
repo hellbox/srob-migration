@@ -1,8 +1,8 @@
 +++
 index = "-L9LRydi7BJkw9cm0o1e"
-_sort_create_date = 1522942560
-_sort_last_updated = 1522956780
-_sort_publish_date = 1522954800
+sort_create_date = 1522942560
+sort_last_updated = 1522956780
+sort_publish_date = 1522954800
 create_date = "2018-04-05T08:36:00-07:00"
 publish_date = "2018-04-05T12:00:00-07:00"
 date = "2018-04-05T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522942201513/prin
 twitterauto = "What threads does @o_waite pull in the latest Kissing Books? @alooghobi @carlakdeguzman @catswrites, to name a few."
 facebookauto = "What threads does Olivia Waite pull on in this month's Kissing Books? Plus, reviews of: Jen Wang, Carla de Guzman, Loretta Chase, Cat Sebastian, and Mary Burchell. "
 make_image_tweet = "False"
-byline = ["writers/olivia-waite"]
+notes_byline = ["writers/olivia-waite"]
 tags_notes = ["tags/kissing-books"]
-authors_notes = ["authors/jen-wang", "authors/carla-de-guzman", "authors/loretta-chase", "authors/cat-sebastian", "authors/mary-burchell"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Olivia Waite pulls back the covers, revealing the very best in new, and classic, romance. We're extending a hand to you. Won't you take it? And if you're still not sated, there's always [the archives](http://www.seattlereviewofbooks.com/tags/kissing-books).</p>

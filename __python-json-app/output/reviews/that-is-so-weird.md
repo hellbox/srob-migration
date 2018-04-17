@@ -1,8 +1,8 @@
 +++
 index = "-K0qZpING-PUTxaVX8EJ"
-_sort_create_date = 1445098320
-_sort_last_updated = 1453524900
-_sort_publish_date = 1445454000
+sort_create_date = 1445098320
+sort_last_updated = 1453524900
+sort_publish_date = 1445454000
 create_date = "2015-10-17T09:12:00-07:00"
 publish_date = "2015-10-21T12:00:00-07:00"
 date = "2015-10-21T12:00:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "0dc5072b-da44-6330-faac-d931fe047978"
 name = "That is so weird"
 title = "That is so weird"
 dek = "The Queen of Finnish Weird is coming to Seattle, and her translator Lola Rogers gives us the scoop on why we should be excited."
-byline = ["writers/lola-rogers"]
+reviews_byline = ["writers/lola-rogers"]
 books_in_this_review = ["books/the-core-of-the-sun", "books/the-blood-of-angels", "books/troll", "books/birdbrain"]
 tags_reviews = ["tags/book-reviews"]
-authors_reviews = ["authors/johanna-sinisalo"]
+reviews_about = ""
 +++
 
 Johanna Sinisalo, fondly known as the queen of Finnish Weird, is coming to Seattle, and will be appearing at the [Elliott Bay Book Company on October 24th](http://www.elliottbaybook.com/event/johanna-sinisalo-lola-rogers), and I'm quite excited about it. I live in Seattle. Elliott Bay is my neighborhood bookstore. I've been a fan of Sinisalo's work for years. And I've been asked to serve as a sort of host, because I translated her two most recent novels into English.

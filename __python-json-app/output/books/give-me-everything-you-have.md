@@ -1,8 +1,8 @@
 +++
 index = "-KXtfdYLGzHwtBIlrYaA"
-_sort_create_date = 1480583940
-_sort_last_updated = 1480583940
-_sort_publish_date = 1480583940
+sort_create_date = 1480583940
+sort_last_updated = 1480583940
+sort_publish_date = 1480583940
 create_date = "2016-12-01T01:19:00-08:00"
 publish_date = "2016-12-01T01:19:00-08:00"
 date = "2016-12-01T01:19:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/KCKxFbLVe6nKaoMc-hk-lIG7IPDhf7zbglBbxO6TPHIAP0gcSVFm4pA1JMNwPwQA77yr1ApHybdDDy9JMtJmpIzSnXc"
 url = "/webhook-uploads/1480583825493/everythingyouhave.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 70199
 
 review_relationship = ["reviews/a-journey-into-the-head-of-a-stalker"]
-author_relationship = ["authors/james-lasdun"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

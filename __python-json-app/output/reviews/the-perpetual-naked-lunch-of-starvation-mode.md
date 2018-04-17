@@ -1,8 +1,8 @@
 +++
 index = "-JtCLUFqXD8mfmJwS4Fn"
-_sort_create_date = 1435816800
-_sort_last_updated = 1437959340
-_sort_publish_date = 1435816800
+sort_create_date = 1435816800
+sort_last_updated = 1437959340
+sort_publish_date = 1435816800
 create_date = "2015-07-01T23:00:00-07:00"
 publish_date = "2015-07-01T23:00:00-07:00"
 date = "2015-07-01T23:00:00-07:00"
@@ -11,10 +11,10 @@ preview_url = "49d922a8-e881-36f6-21ab-48991101a867"
 name = "The perpetual naked lunch of Starvation Mode"
 title = "The perpetual naked lunch of Starvation Mode"
 dek = "In which Elissa Washuta answers a very important question for memoirists: \u201cAre we bad friends? Should people avoid being in relationships with people like us?\u201d"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/starvation-mode", "books/my-body-is-a-book-of-rules"]
 tags_reviews = ["tags/hugo-house", "tags/instant-future", "tags/e-books"]
-authors_reviews = ["authors/elissa-washuta", "authors/matthew-simmons"]
+reviews_about = ""
 +++
 
 <p class="image-hero">![Elissa Washuta at Hugo House, July 1, 2005](/webhook-uploads/1435818070982/elissawashuta.jpg)</p>

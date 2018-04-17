@@ -1,8 +1,8 @@
 +++
 index = "-L-rNg_BQUCQh8Pv9F4k"
-_sort_create_date = 1512757680
-_sort_last_updated = 1512757680
-_sort_publish_date = 1512763020
+sort_create_date = 1512757680
+sort_last_updated = 1512757680
+sort_publish_date = 1512763020
 create_date = "2017-12-08T10:28:00-08:00"
 publish_date = "2017-12-08T11:57:00-08:00"
 date = "2017-12-08T11:57:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512757499997/71t0
 twitterauto = "It's a Very Special Help Desk Christmas episode, complete with titty twisters!"
 facebookauto = "Does Cienna Madrid have a favorite Christmas book? And what are her favorite literary charities? Find out in this very special Help Desk Christmas episode!"
 make_image_tweet = "True"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/hugo-house", "tags/seattle7writers", "tags/bureau-of-fearless-ideas"]
-authors_notes = ["authors/david-sedaris"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

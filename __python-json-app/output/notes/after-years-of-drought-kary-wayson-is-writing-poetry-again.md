@@ -1,8 +1,8 @@
 +++
 index = "-Kx6Nd0wJj1AaianbYwX"
-_sort_create_date = 1508731140
-_sort_last_updated = 1508781000
-_sort_publish_date = 1508777880
+sort_create_date = 1508731140
+sort_last_updated = 1508781000
+sort_publish_date = 1508777880
 create_date = "2017-10-22T20:59:00-07:00"
 publish_date = "2017-10-23T09:58:00-07:00"
 date = "2017-10-23T09:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508730685513/amer
 twitterauto = "Our October poet in residence, Kary Wayson, recently spent 3 years not writing anything."
 facebookauto = "Our October poet in residence, Kary Wayson, recently spent three years not writing anything."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/writers-block"]
-authors_notes = ["authors/kary-wayson"]
+notes_about = ""
 books = ""
 +++
 The word I’ve most often applied to [our October poet in residence, Kary Wayson](http://www.seattlereviewofbooks.com/writers/kary-wayson/), is “patience.” Wayson’s poetry feels deliberate and constructed in a way that the work of many Seattle poets does not. Every word is there for a reason, and if you were to extract even one syllable, the whole thing would crumble to a pile of typeface at the bottom of the page. In a literary scene that tends toward expressionistic and reactionary poetry, Wayson stands out as a contemplative figure.

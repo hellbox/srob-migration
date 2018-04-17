@@ -1,8 +1,8 @@
 +++
 index = "-K6_UtJxbdbUqNyDYiSa"
-_sort_create_date = 1451254320
-_sort_last_updated = 1451498520
-_sort_publish_date = 1451498520
+sort_create_date = 1451254320
+sort_last_updated = 1451498520
+sort_publish_date = 1451498520
 create_date = "2015-12-27T14:12:00-08:00"
 publish_date = "2015-12-30T10:02:00-08:00"
 date = "2015-12-30T10:02:00-08:00"
@@ -13,10 +13,10 @@ title = "Another day, another blockbuster"
 dek = "Twenty years ago, Connie Willis wrote a science fiction novel about the future of Hollywood. How did her predictions turn out?"
 facebookauto = "Twenty years ago, Connie Willis wrote a science fiction novel about the future of Hollywood. How did her predictions turn out?"
 twitterauto = "20 years ago, Connie Willis predicted the future of Hollywood. We're living in her novel now."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/remake"]
 tags_reviews = ["tags/science-fiction"]
-authors_reviews = ["authors/connie-willis"]
+reviews_about = ""
 +++
 
 Even the most complimentary reviews of *Star Wars: The Force Awakens* mention that the movie is for all intents and purposes a remake of *Star Wars: A New Hope*. Critics who loved the film tended to refer to the fact that it’s a remake as an aside; critics who disliked the film based their entire reviews around it. This is not automatically a strike against *Force* so much as a reality of moviemaking today. 

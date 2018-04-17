@@ -1,8 +1,8 @@
 +++
 index = "-KnuTEz4Q6DMl-ARmo26"
-_sort_create_date = 1498850820
-_sort_last_updated = 1498851660
-_sort_publish_date = 1499187300
+sort_create_date = 1498850820
+sort_last_updated = 1498851660
+sort_publish_date = 1499187300
 create_date = "2017-06-30T12:27:00-07:00"
 publish_date = "2017-07-04T09:55:00-07:00"
 date = "2017-07-04T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Because there\u2019s a sparrow outside that appears to be dying.\u201d starts Downpour by July Poet in Residence @KelliAgodon"
 facebookauto = "\"Because there\u2019s a sparrow outside that appears to be dying.\" starts \"Downpour\" by July Poet in Residence Kelli Russell Agodon"
 make_image_tweet = "False"
-byline = ["writers/kelli-russell-agodon"]
+notes_byline = ["writers/kelli-russell-agodon"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Because there’s a sparrow outside that appears to be dying.<br> 

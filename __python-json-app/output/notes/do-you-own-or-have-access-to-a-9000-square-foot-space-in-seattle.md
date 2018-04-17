@@ -1,8 +1,8 @@
 +++
 index = "-Ks7ZDDcyDuU3cF7dFa_"
-_sort_create_date = 1503382260
-_sort_last_updated = 1503382260
-_sort_publish_date = 1503427200
+sort_create_date = 1503382260
+sort_last_updated = 1503382260
+sort_publish_date = 1503427200
 create_date = "2017-08-21T23:11:00-07:00"
 publish_date = "2017-08-22T11:40:00-07:00"
 date = "2017-08-22T11:40:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If so, you could offer to [host the Friends of the Library's annual book sale](http://www.friendsofspl.org/book-sales/).

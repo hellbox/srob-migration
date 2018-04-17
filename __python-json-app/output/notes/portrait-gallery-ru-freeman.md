@@ -1,8 +1,8 @@
 +++
 index = "-K7Ov3dWL7-Y81jP_DRH"
-_sort_create_date = 1452133860
-_sort_last_updated = 1452185880
-_sort_publish_date = 1452200400
+sort_create_date = 1452133860
+sort_last_updated = 1452185880
+sort_publish_date = 1452200400
 create_date = "2016-01-06T18:31:00-08:00"
 publish_date = "2016-01-07T13:00:00-08:00"
 date = "2016-01-07T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452133229723/SRoB
 twitterauto = "It's @rufreeman by @studiochristine in this week's Portrait Gallery."
 facebookauto = "This week, Christine Marie Larsen painted Ru Freeman for Portrait Gallery. Freeman is appearing tonight at the Elliott Bay Book Company."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

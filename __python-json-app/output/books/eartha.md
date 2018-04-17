@@ -1,8 +1,8 @@
 +++
 index = "-KjMXyyeZoCcRR43nUfy"
-_sort_create_date = 1493969880
-_sort_last_updated = 1493969940
-_sort_publish_date = 1493969880
+sort_create_date = 1493969880
+sort_last_updated = 1493969940
+sort_publish_date = 1493969880
 create_date = "2017-05-05T00:38:00-07:00"
 publish_date = "2017-05-05T00:38:00-07:00"
 date = "2017-05-05T00:38:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DLZDUWbAjFHiCTAnlumLKM7Xqlz4n5gHUUYvrvmOuYk2UlLRnsaqOQ1Of4z3OmutOWzF67ZgwSs-myINv_2V_XXPOuDx"
 url = "/webhook-uploads/1493969922178/content%3Fid%3DkuLGDAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 5304
 
 review_relationship = ""
-author_relationship = ["authors/cathy-malkasian"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/im-being-so-manipulative-cathy-malkasians-latest-comic-is-a-polemic-against-social-media"]
 +++

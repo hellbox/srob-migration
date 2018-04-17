@@ -1,8 +1,8 @@
 +++
 index = "-Kdd3e_Ij_V1mNzwLK79"
-_sort_create_date = 1487821500
-_sort_last_updated = 1487821680
-_sort_publish_date = 1488398100
+sort_create_date = 1487821500
+sort_last_updated = 1487821680
+sort_publish_date = 1488398100
 create_date = "2017-02-22T19:45:00-08:00"
 publish_date = "2017-03-01T11:55:00-08:00"
 date = "2017-03-01T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487821329785/stra
 twitterauto = "Your week in readings begins with a discussion of Strangers in Their Own Land tonight @ThirdPlaceBooks."
 facebookauto = "Your week in readings begins with a discussion of Strangers in Their Own Land tonight at Third Place Books Seward Park."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/reading-through-it", "tags/town-hall-seattle", "tags/bureau-of-fearless-ideas"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1487821329785/strangersintheirownland.jpg)</p>

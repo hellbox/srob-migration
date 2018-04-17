@@ -1,8 +1,8 @@
 +++
 index = "-K0-rtTi-UWgIfJVKzd4"
-_sort_create_date = 1444197360
-_sort_last_updated = 1444197360
-_sort_publish_date = 1444337760
+sort_create_date = 1444197360
+sort_last_updated = 1444197360
+sort_publish_date = 1444337760
 create_date = "2015-10-06T22:56:00-07:00"
 publish_date = "2015-10-08T13:56:00-07:00"
 date = "2015-10-08T13:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Three geniuses and a @paulconstant discuss the limits of genre at the @FryeArtMuseum  this Saturday!"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/frye-art-museum"]
-authors_notes = ["authors/gary-groth", "authors/matt-briggs", "authors/john-olson"]
+notes_about = ""
 books = ""
 +++
 This Saturday, I'll be [moderating a panel at the Frye Art Museum](http://genius.fryemuseum.org/calendar/oct-10-literary-festival) with poet John Olson, Fantagraphics publisher Gary Groth, and novelist Matt Briggs. They'll each read and then we'll discuss "the boundaries and limits of genre" as part of the Frye's ongoing Literary Festival, which is part of the *Genius / 21 Century / Seattle* exhibit. It's at 2 pm, it's free, and the Frye would be thrilled if you [pre-registered for the event](http://genius.fryemuseum.org/calendar/oct-10-literary-festival) on their site.

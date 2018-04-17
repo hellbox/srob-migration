@@ -1,8 +1,8 @@
 +++
 index = "-K7PVcX-w46cOXlx0zPb"
-_sort_create_date = 1452143700
-_sort_last_updated = 1452144660
-_sort_publish_date = 1452143700
+sort_create_date = 1452143700
+sort_last_updated = 1452144660
+sort_publish_date = 1452143700
 create_date = "2016-01-06T21:15:00-08:00"
 publish_date = "2016-01-06T21:15:00-08:00"
 date = "2016-01-06T21:15:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452143616156/IMG_
 twitterauto = "Late night Mail Call -- what looks good?"
 facebookauto = "A little late night Mail Call -- what looks good?"
 make_image_tweet = "True"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/mail-call"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1452143616156/IMG_3866.jpg)</p>

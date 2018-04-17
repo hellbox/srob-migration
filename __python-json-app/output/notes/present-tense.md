@@ -1,8 +1,8 @@
 +++
 index = "-Kok6WW-Iz31yE4kCxrI"
-_sort_create_date = 1499750820
-_sort_last_updated = 1499782980
-_sort_publish_date = 1499788800
+sort_create_date = 1499750820
+sort_last_updated = 1499782980
+sort_publish_date = 1499788800
 create_date = "2017-07-10T22:27:00-07:00"
 publish_date = "2017-07-11T09:00:00-07:00"
 date = "2017-07-11T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our second by July Poet in Residence, @KelliAgodon starts with the line \"My friend on the couch trembles.\""
 facebookauto = "Our second by July Poet in Residence, Kelli Russell Agodon starts with the line \"My friend on the couch trembles.\""
 make_image_tweet = "False"
-byline = ["writers/kelli-russell-agodon"]
+notes_byline = ["writers/kelli-russell-agodon"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 My friend on the couch trembles.<br>

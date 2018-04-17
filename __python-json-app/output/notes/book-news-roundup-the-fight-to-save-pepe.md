@@ -1,8 +1,8 @@
 +++
 index = "-KoPqk0qnhloytsMB5g0"
-_sort_create_date = 1499394120
-_sort_last_updated = 1499395560
-_sort_publish_date = 1499446500
+sort_create_date = 1499394120
+sort_last_updated = 1499395560
+sort_publish_date = 1499446500
 create_date = "2017-07-06T19:22:00-07:00"
 publish_date = "2017-07-07T09:55:00-07:00"
 date = "2017-07-07T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup features Jessixa Bagley, the TSA, and Pepe the Frog."
 facebookauto = "Today's Book News Roundup features Jessixa Bagley, the TSA, and Pepe the Frog."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/tsa", "tags/fantagraphics"]
-authors_notes = ["authors/jessixa-bagley"]
+notes_about = ""
 books = ""
 +++
 * We've written several times about how much we love the children's books of [Seattle author Jessixa Bagley](http://www.seattlereviewofbooks.com/authors/jessixa-bagley/). If you'd like to hear Bagley discuss her life and work, she guest-starred on [the *All the Wonders* podcast](http://www.allthewonders.com/podcasts/jessixa-bagley-all-the-wonders-episode-367/) earlier this week. Make sure to check it out.

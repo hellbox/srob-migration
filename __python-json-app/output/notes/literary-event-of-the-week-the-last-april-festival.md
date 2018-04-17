@@ -1,8 +1,8 @@
 +++
 index = "-KfoAuos_lqKTnBGvsGK"
-_sort_create_date = 1490155440
-_sort_last_updated = 1490155440
-_sort_publish_date = 1490806800
+sort_create_date = 1490155440
+sort_last_updated = 1490155440
+sort_publish_date = 1490806800
 create_date = "2017-03-21T21:04:00-07:00"
 publish_date = "2017-03-29T10:00:00-07:00"
 date = "2017-03-29T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478240328459/APRI
 twitterauto = "Say goodbye to APRIL on Saturday, and say goodbye to a moment in Seattle history."
 facebookauto = "Say goodbye to APRIL on Saturday, and say goodbye to a moment in Seattle history."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/april"]
-authors_notes = ["authors/elissa-washuta", "authors/matthew-simmons", "authors/maged-zaher", "authors/michelle-pe\u00f1aloza", "authors/jane-wong"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1478240328459/APRIL-2016-Teal-Full-Smart-OBJ2.jpg)</p>

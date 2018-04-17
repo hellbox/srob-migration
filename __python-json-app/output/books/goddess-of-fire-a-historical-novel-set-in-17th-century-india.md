@@ -1,8 +1,8 @@
 +++
 index = "-KD7SNImhytUr5dHH_tz"
-_sort_create_date = 1458283260
-_sort_last_updated = 1458283380
-_sort_publish_date = 1458283260
+sort_create_date = 1458283260
+sort_last_updated = 1458283380
+sort_publish_date = 1458283260
 create_date = "2016-03-17T23:41:00-07:00"
 publish_date = "2016-03-17T23:41:00-07:00"
 date = "2016-03-17T23:41:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Htw9w1du8RfyOudT3-CaTb61ptWZrRc6xn9_bQ2ml2uX356FvGY5uhhURn9VVpOxN7h4rvRzlQUEF9JA097EdmR010X7PQ"
 url = "/webhook-uploads/1458283315351/content%3Fid%3DsOJirgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 46379
 
 review_relationship = ["reviews/saved-from-the-flames-of-history"]
-author_relationship = ["authors/bharti-kirchner"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

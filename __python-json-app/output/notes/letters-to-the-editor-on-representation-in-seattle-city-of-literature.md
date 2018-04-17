@@ -1,8 +1,8 @@
 +++
 index = "-K057q-FVTCuCYA43Bv2"
-_sort_create_date = 1444285680
-_sort_last_updated = 1444285980
-_sort_publish_date = 1444323660
+sort_create_date = 1444285680
+sort_last_updated = 1444285980
+sort_publish_date = 1444323660
 create_date = "2015-10-07T23:28:00-07:00"
 publish_date = "2015-10-08T10:01:00-07:00"
 date = "2015-10-08T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444285682433/9781
 twitterauto = "Writer @katkat_alcala sends a letter to the editor about race and representation in \"Seattle: City of Literature.\""
 facebookauto = "Writer Kathleen Alcal\u00e1 takes issue to our review of the anthology \"Seattle: City of Literature.\" She asks, why should the few writers of color who did contribute to the anthology be forced to apologize for their contributions?"
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/seattle-city-of-literature", "tags/race"]
-authors_notes = ["authors/ryan-boudinot", "authors/kathleen-alcala", "authors/donna-miscolta"]
+notes_about = ""
 books = ["books/seattle-city-of-literature"]
 +++
 <p class="noindent">Dear Editor:</p>

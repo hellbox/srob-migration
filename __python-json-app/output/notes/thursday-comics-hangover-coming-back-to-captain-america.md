@@ -1,8 +1,8 @@
 +++
 index = "-KJEVxFTlkAYygwKkx7X"
-_sort_create_date = 1464844140
-_sort_last_updated = 1464884520
-_sort_publish_date = 1464886860
+sort_create_date = 1464844140
+sort_last_updated = 1464884520
+sort_publish_date = 1464886860
 create_date = "2016-06-01T22:09:00-07:00"
 publish_date = "2016-06-02T10:01:00-07:00"
 date = "2016-06-02T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464843583781/Scre
 twitterauto = "Some thoughts about fandom, Captain America, and cultural criticism."
 facebookauto = "Last week Paul Constant wrote a flippant post about the whole Captain America controversy. Here's why he regrets writing that post:"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics", "tags/captain-america"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1464843583781/Screen%20Shot%202016-06-01%20at%209.58.58%20PM.png)</p>

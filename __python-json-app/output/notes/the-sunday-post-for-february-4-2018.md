@@ -1,8 +1,8 @@
 +++
 index = "-L4SUQDGnhWXH3_o_NS5"
-_sort_create_date = 1517691960
-_sort_last_updated = 1517692500
-_sort_publish_date = 1517763600
+sort_create_date = 1517691960
+sort_last_updated = 1517692500
+sort_publish_date = 1517763600
 create_date = "2018-02-03T13:06:00-08:00"
 publish_date = "2018-02-04T09:00:00-08:00"
 date = "2018-02-04T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In the Sunday Post, great writing by @jessleimoon, @mashagessen, Patricia Lockwood, @mariadahvana, and @chiggi."
 facebookauto = "This Sunday's Post is packed with great writing: Jessica Mooney on loss, Masha Gessen on choice, Patricia Lockwood on figure skating, Maria Dahvana Headley on #metoo and Arthur Miller, AND Charlotte Higgins on Mary Beard."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles we enjoyed this week, good for consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

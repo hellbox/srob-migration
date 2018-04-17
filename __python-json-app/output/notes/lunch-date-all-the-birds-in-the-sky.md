@@ -1,8 +1,8 @@
 +++
 index = "-KG9ZfBHkMMWchRQu7pS"
-_sort_create_date = 1461540000
-_sort_last_updated = 1461540000
-_sort_publish_date = 1461610860
+sort_create_date = 1461540000
+sort_last_updated = 1461540000
+sort_publish_date = 1461610860
 create_date = "2016-04-24T16:20:00-07:00"
 publish_date = "2016-04-25T12:01:00-07:00"
 date = "2016-04-25T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461539517330/allt
 twitterauto = "We took a sci-fi/fantasy novel to the @SunlightCafe."
 facebookauto = "We took the bestselling novel All the Birds in the Sky as our lunch date to the Sunlight Cafe in Roosevelt. Everything was great, except for one thing: a note that the Sunlight will likely be moving."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date", "tags/science-fiction", "tags/fantasy"]
-authors_notes = ["authors/charlie-jane-anders"]
+notes_about = ""
 books = ["books/all-the-birds-in-the-sky"]
 +++
 <p class="image-left">![](/webhook-uploads/1461539517330/allthebirds.jpg)</p>

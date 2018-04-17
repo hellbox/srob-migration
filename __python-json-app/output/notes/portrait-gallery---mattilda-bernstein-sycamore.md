@@ -1,8 +1,8 @@
 +++
 index = "-KJHgkZRcoH3GxS3Lr_S"
-_sort_create_date = 1464897540
-_sort_last_updated = 1464898380
-_sort_publish_date = 1464901200
+sort_create_date = 1464897540
+sort_last_updated = 1464898380
+sort_publish_date = 1464901200
 create_date = "2016-06-02T12:59:00-07:00"
 publish_date = "2016-06-02T14:00:00-07:00"
 date = "2016-06-02T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464896899994/SRoB
 twitterauto = "And then @studiochristine painted @mbsycamore!"
 facebookauto = "And then Christine Marie Larsen painted Mattilda Bernstein Sycamore."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/mattilda-bernstein-sycamore"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KlWk1y1aBfSZUIjGzYd"
-_sort_create_date = 1496288580
-_sort_last_updated = 1498533060
-_sort_publish_date = 1498582500
+sort_create_date = 1496288580
+sort_last_updated = 1498533060
+sort_publish_date = 1498582500
 create_date = "2017-05-31T20:43:00-07:00"
 publish_date = "2017-06-27T09:55:00-07:00"
 date = "2017-06-27T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Thanks to @pearlepubs for being our Poet in Residence for June. Read her last poem of the month, The Cuckoo Clock."
 facebookauto = "Thanks to Tammy Robacker for being our Poet in Residence for June. Read her last poem of the month, The Cuckoo Clock."
 make_image_tweet = "False"
-byline = ["writers/tammy-robacker"]
+notes_byline = ["writers/tammy-robacker"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 When I was a girl<br>

@@ -1,8 +1,8 @@
 +++
 index = "-KsCBRnLdjHEJ7JCspjt"
-_sort_create_date = 1503459900
-_sort_last_updated = 1505417760
-_sort_publish_date = 1505328960
+sort_create_date = 1503459900
+sort_last_updated = 1505417760
+sort_publish_date = 1505328960
 create_date = "2017-08-22T20:45:00-07:00"
 publish_date = "2017-09-13T11:56:00-07:00"
 date = "2017-09-13T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503459807351/love
 twitterauto = "Your Week in Readings features Jamie Ford and a big-ass zine party in a barber shop."
 facebookauto = "Your Week in Readings features Jamie Ford and a big-ass zine party in a barber shop."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/sherman-alexie", "authors/kelly-froh"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday September 13th: *The Hope of Another Spring* Reading**</h5></p> 

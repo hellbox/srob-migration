@@ -1,8 +1,8 @@
 +++
 index = "-KvsRh7g_cmaTmK9HQcf"
-_sort_create_date = 1507406820
-_sort_last_updated = 1507442460
-_sort_publish_date = 1507478400
+sort_create_date = 1507406820
+sort_last_updated = 1507442460
+sort_publish_date = 1507478400
 create_date = "2017-10-07T13:07:00-07:00"
 publish_date = "2017-10-08T09:00:00-07:00"
 date = "2017-10-08T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "In this week\u2019s Sunday Post, @pattersonhood on Petty, @mikeindustries on Newsvine, and @David_Dobbs on going mad."
 facebookauto = "In this week\u2019s Sunday Post, Patterson Hood on Tom Petty, Mike Davidson on the end of Newsvine, and David Dobbs and Nev Jones on going mad."
 make_image_tweet = "False"
-byline = ["writers/dawn-mccarra-bass"]
+notes_byline = ["writers/dawn-mccarra-bass"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, the Sunday Post highlights a few articles good for slow consumption over a cup of coffee (or tea, if that's your pleasure). Settle in for a while; we saved you a seat. You can also <a href="http://www.seattlereviewofbooks.com/tags/the-sunday-post/" title="Sunday Post archives">look through the archives.</a></p>

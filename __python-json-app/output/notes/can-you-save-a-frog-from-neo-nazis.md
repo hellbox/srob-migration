@@ -1,8 +1,8 @@
 +++
 index = "-KTRYdl2OQJJfwoKb_1F"
-_sort_create_date = 1475800320
-_sort_last_updated = 1475858700
-_sort_publish_date = 1475859600
+sort_create_date = 1475800320
+sort_last_updated = 1475858700
+sort_publish_date = 1475859600
 create_date = "2016-10-06T17:32:00-07:00"
 publish_date = "2016-10-07T10:00:00-07:00"
 date = "2016-10-07T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Is it too late to save Pepe the frog from Donald Trump's neo-Nazi supporters?"
 facebookauto = "Is it too late to save Pepe the frog from Donald Trump's neo-Nazi supporters?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/fantagraphics", "tags/donald-trump", "tags/racism"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Yesterday, Fantagraphics Books [published](http://fantagraphics.com/flog/truthaboutpepe/) a page called "The Truth About Pepe." It's an attempt to reclaim cartoonist Matt Furie's character Pepe the frog from the racist so-called "alt-right" Trump supporters who have adopted the cartoon frog as an in-joke, a meme, and as a cultural signifier. Pepe has [since been identified as a hate symbol](http://www.vox.com/2016/9/21/12893656/pepe-frog-donald-trump). Fantagraphics says:

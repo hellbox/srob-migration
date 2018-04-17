@@ -1,8 +1,8 @@
 +++
 index = "-KnvM-vv5JdUZUiUu5km"
-_sort_create_date = 1498865700
-_sort_last_updated = 1499282220
-_sort_publish_date = 1499100900
+sort_create_date = 1498865700
+sort_last_updated = 1499282220
+sort_publish_date = 1499100900
 create_date = "2017-06-30T16:35:00-07:00"
 publish_date = "2017-07-03T09:55:00-07:00"
 date = "2017-07-03T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498864353674/were
 twitterauto = "Simon Hanselmann once kicked Alan Cumming while at a festival in Sydney."
 facebookauto = "Fantagraphics cartoonist Simon Hanselmann: \"I'm in my mid-thirties now. I really shouldn't be climbing cranes, breaking into construction sites. and vomiting everywhere.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/fantagraphics", "tags/short-run"]
-authors_notes = ["authors/simon-hanselmann"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1498864353674/werewolfjones.jpg)</p>

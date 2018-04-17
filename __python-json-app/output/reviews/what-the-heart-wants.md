@@ -1,8 +1,8 @@
 +++
 index = "-K5IIa_0Zk7Z9AYHJF2M"
-_sort_create_date = 1449875340
-_sort_last_updated = 1449876480
-_sort_publish_date = 1450296060
+sort_create_date = 1449875340
+sort_last_updated = 1449876480
+sort_publish_date = 1450296060
 create_date = "2015-12-11T15:09:00-08:00"
 publish_date = "2015-12-16T12:01:00-08:00"
 date = "2015-12-16T12:01:00-08:00"
@@ -13,10 +13,10 @@ title = "What the heart wants"
 dek = "If you\u2019re a human being with a working heart, you will cry when you read Sarah Galvin's The Best Party of Our Lives."
 facebookauto = "We defy you to read The Best Party of Our Lives and not shed happy tears. Try it. We dare you."
 twitterauto = "We defy you to read The Best Party of Our Lives and not shed happy tears. Try it. We dare you."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/the-best-party-of-our-lives"]
 tags_reviews = ["tags/nonfiction", "tags/gay-marriage"]
-authors_reviews = ["authors/sarah-galvin"]
+reviews_about = ""
 +++
 
 If you’re a human being with a working heart, you will cry when you read *The Best Party of Our Lives*<sup><a href="#en-2015-12-16-01" id="enr-2015-12-16-01">1</a></sup>. Likely multiple times. Sarah Galvin’s<sup><a href="#en-2015-12-16-02" id="enr-2015-12-16-02">2</a></sup> collection of interviews with same-sex couples about their weddings is a goddamned happy-tear factory. Whether you prefer to read stories of old couples or young couples; whirlwind romances or thoughtful, long relationships; couples with opposite interests or couples who are practically clones of each other; you’ll find a pairing here that speaks to you. 

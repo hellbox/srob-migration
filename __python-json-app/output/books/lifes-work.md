@@ -1,8 +1,8 @@
 +++
 index = "-KlbHDRtxZ5SOqBfIPm7"
-_sort_create_date = 1496381400
-_sort_last_updated = 1496381460
-_sort_publish_date = 1496381400
+sort_create_date = 1496381400
+sort_last_updated = 1496381460
+sort_publish_date = 1496381400
 create_date = "2017-06-01T22:30:00-07:00"
 publish_date = "2017-06-01T22:30:00-07:00"
 date = "2017-06-01T22:30:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bGbLRkPjd4UyMuRUBKAPK8rZO1KShZmRL7Vvu9C8wQs_wRsuvyTwmtNpLs-Haljs8dUqVu1a2glZvhYSmFtQ_9KbzHU"
 url = "/webhook-uploads/1496381448766/content%3Fid%3DfCSLDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10561
 
 review_relationship = ["reviews/amazing-grace"]
-author_relationship = ["authors/dr-willie-parker"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

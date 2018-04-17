@@ -1,8 +1,8 @@
 +++
 index = "-KXtLAuB5MQ5mSNOqQWo"
-_sort_create_date = 1480578300
-_sort_last_updated = 1480578300
-_sort_publish_date = 1480578300
+sort_create_date = 1480578300
+sort_last_updated = 1480578300
+sort_publish_date = 1480578300
 create_date = "2016-11-30T23:45:00-08:00"
 publish_date = "2016-11-30T23:45:00-08:00"
 date = "2016-11-30T23:45:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pc0Ud97E50Q-FZAxCYpNticgFMqIGqFXDRbyKQ4CSu4of2lkApNx53btf8gSJKJe3keivLRIioT3lMKx6q8WWrHEDsLv"
 url = "/webhook-uploads/1480578261532/sanders.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 34458
 
 review_relationship = ["reviews/bernie-sanders-is-the-last-democrat-standing"]
-author_relationship = ["authors/bernie-sanders"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

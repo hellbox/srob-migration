@@ -1,8 +1,8 @@
 +++
 index = "-Kdd04a1fYnxK-ZkoUQQ"
-_sort_create_date = 1487820540
-_sort_last_updated = 1487895060
-_sort_publish_date = 1488391140
+sort_create_date = 1487820540
+sort_last_updated = 1487895060
+sort_publish_date = 1488391140
 create_date = "2017-02-22T19:29:00-08:00"
 publish_date = "2017-03-01T09:59:00-08:00"
 date = "2017-03-01T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487820412685/amer
 twitterauto = "It's Emerald City Comicon time again! Here are all the fun free things you can do without a show pass:"
 facebookauto = "It's Emerald City Comicon time again! Here are all the fun free things you can do without a show pass:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/seattle-public-library", "tags/outsider-comics", "tags/comics-dungeon", "tags/emerald-city-comicon", "tags/phoenix-comics-and-games"]
-authors_notes = ["authors/gene-lueng-yang", "authors/g-willow-wilson"]
+notes_about = ""
 books = ""
 +++
 With Emerald City Comicon landing at the Convention Center, all of Seattle is suffering from a ferocious case of nerd fever this weekend. But if you can’t make it to the show, you shouldn’t feel as though you’re missing out on the fun. In fact, the after-parties and side events — all of which are open to the public, even those who don’t have an ECCC lanyard — look to be more exciting than the main event.

@@ -1,8 +1,8 @@
 +++
 index = "-KHrfzp5uaStl01wBk_1"
-_sort_create_date = 1463370600
-_sort_last_updated = 1463370600
-_sort_publish_date = 1463417400
+sort_create_date = 1463370600
+sort_last_updated = 1463370600
+sort_publish_date = 1463417400
 create_date = "2016-05-15T20:50:00-07:00"
 publish_date = "2016-05-16T09:50:00-07:00"
 date = "2016-05-16T09:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What's the bookselling secret weapon at Queen Anne Book Company? It's the back patio."
 facebookauto = "What's the bookselling secret weapon at Queen Anne Book Company? It's the back patio."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/queen-anne-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 As I said in [my introductory Bookstore of the Month piece]( http://seattlereviewofbooks.com/notes/2016/05/02/queen-anne-book-company-is-our-may-bookstore-of-the-month/) about Queen Anne Book Company, the store is relatively small when compared to some of Seattle’s other neighborhood bookstores, but its stock seems remarkably deep, as though it’s got the stock of a bookstore two to four times the size squeezed inside of it. It’s the kind of store that leaves you marveling at how much they do have, which is essential for a bookstore; those stores that leave you marveling at what they *don’t* carry do not tend to last that long. 

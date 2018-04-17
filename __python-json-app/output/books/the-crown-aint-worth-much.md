@@ -1,8 +1,8 @@
 +++
 index = "-KeX1yO89IjOsGa2vePq"
-_sort_create_date = 1488777360
-_sort_last_updated = 1488777360
-_sort_publish_date = 1488777360
+sort_create_date = 1488777360
+sort_last_updated = 1488777360
+sort_publish_date = 1488777360
 create_date = "2017-03-05T21:16:00-08:00"
 publish_date = "2017-03-05T21:16:00-08:00"
 date = "2017-03-05T21:16:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "poetry"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NGLx48qncvCnE-KmZS8HFzj9Z7fPmzDw6-kFBiXa4hS5iDuon6oUgNZyxF6-1R9Xb_UAeT6Ii95w6P-8hfb2PKdYp3Y"
 url = "/webhook-uploads/1488777326315/tcawm.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 34553
 
 review_relationship = ["reviews/heavy-is-the-head"]
-author_relationship = ["authors/hanif-willis-abdurraqib"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

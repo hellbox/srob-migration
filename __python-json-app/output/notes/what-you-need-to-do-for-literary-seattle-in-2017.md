@@ -1,8 +1,8 @@
 +++
 index = "-KYoGjr1rMa9KS1mdnMY"
-_sort_create_date = 1481567040
-_sort_last_updated = 1481567040
-_sort_publish_date = 1482343260
+sort_create_date = 1481567040
+sort_last_updated = 1481567040
+sort_publish_date = 1482343260
 create_date = "2016-12-12T10:24:00-08:00"
 publish_date = "2016-12-21T10:01:00-08:00"
 date = "2016-12-21T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Looking back at Seattle's literary 2016 and looking forward to what you can do for Seattle in 2017."
 facebookauto = "Looking back at Seattle's literary 2016 and looking forward to what you can do for Seattle in 2017."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/2016", "tags/donald-trump", "tags/third-place-books-seward-park", "tags/april", "tags/intruder"]
-authors_notes = ["authors/donna-miscolta", "authors/matt-ruff", "authors/nisi-shawl", "authors/matthew-simmons", "authors/sarah-glidden", "authors/lesley-hazleton", "authors/hannah-faith-notess", "authors/claudia-castro-luna", "authors/don-mee-choi", "authors/lucia-perillo", "authors/quenton-baker", "authors/maged-zaher"]
+notes_about = ""
 books = ["books/hola-and-goodbye", "books/lovecraft-country", "books/everfair", "books/the-in-betweens", "books/rolling-blackouts", "books/agnostic", "books/the-multitude", "books/this-city", "books/hardly-war"]
 +++
 Book reviewing is a funny business. You’re expected to read, process, and devise a response to a text in a matter of weeks (at best) or (realistically) days. But really it takes months to fully digest a book, to contextualize it in your life and discern its full value. With that in mind, I’d like to open by talking about the books that stuck with me this year.

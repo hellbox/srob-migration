@@ -1,8 +1,8 @@
 +++
 index = "-KtlNa8c18uIc7DQRyVO"
-_sort_create_date = 1505140800
-_sort_last_updated = 1505144040
-_sort_publish_date = 1505160000
+sort_create_date = 1505140800
+sort_last_updated = 1505144040
+sort_publish_date = 1505160000
 create_date = "2017-09-11T07:40:00-07:00"
 publish_date = "2017-09-11T13:00:00-07:00"
 date = "2017-09-11T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505140782484/Blip
 twitterauto = "Sponsor @kenboynton translated a near-death experience into a smart, funny, quick, important fable"
 facebookauto = "Sponsor Ken Boynton translated a near-death experience into a smart, funny, quick, important fable"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/ken-boynton"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1505140807988/Blip_the_book_cover.jpg)</p>

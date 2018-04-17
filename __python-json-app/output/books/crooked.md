@@ -1,8 +1,8 @@
 +++
 index = "-K6EK_2jgz4zeTDfEzDM"
-_sort_create_date = 1450882500
-_sort_last_updated = 1450882560
-_sort_publish_date = 1450882500
+sort_create_date = 1450882500
+sort_last_updated = 1450882560
+sort_publish_date = 1450882500
 create_date = "2015-12-23T06:55:00-08:00"
 publish_date = "2015-12-23T06:55:00-08:00"
 date = "2015-12-23T06:55:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/1qe5iSQ0z6fWdY_BYh4MS2-L_WfgM5dFxQNNRQ-53CDWsVXxyfb8kqosknx-BNEt0_N709Uz146vHQV2iTkmGqKUp4JavA"
 url = "/webhook-uploads/1450882517984/content%3Fid%3DL9MTogEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 10913
 
 review_relationship = ["reviews/the-ballad-of-richard-milhous-nixon"]
-author_relationship = ["authors/austin-grossman"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

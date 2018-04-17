@@ -1,8 +1,8 @@
 +++
 index = "-KODLeisQ8TDvEzib9w4"
-_sort_create_date = 1470193320
-_sort_last_updated = 1470193620
-_sort_publish_date = 1470252600
+sort_create_date = 1470193320
+sort_last_updated = 1470193620
+sort_publish_date = 1470252600
 create_date = "2016-08-02T20:02:00-07:00"
 publish_date = "2016-08-03T12:30:00-07:00"
 date = "2016-08-03T12:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\u201cI thought, why not write the book that really scares you?\u201d "
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/oprah"]
-authors_notes = ["authors/colson-whitehead"]
+notes_about = ""
 books = ""
 +++
 As I said yesterday, I am loving the newfound attention Colson Whitehead is receiving. If you're unfamiliar with Whitehead's work, [this interview with Jennifer Schuessler of the *New York Times*](http://www.nytimes.com/2016/08/04/books/colson-whitehead-on-slavery-success-and-writing-the-novel-that-really-scared-him.html?partner=rss&emc=rss&_r=0) is a great way to learn about him.

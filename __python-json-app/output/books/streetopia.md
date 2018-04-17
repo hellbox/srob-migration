@@ -1,8 +1,8 @@
 +++
 index = "-KCZS8GOl9W9R5IyLUqJ"
-_sort_create_date = 1457679240
-_sort_last_updated = 1457679300
-_sort_publish_date = 1457679240
+sort_create_date = 1457679240
+sort_last_updated = 1457679300
+sort_publish_date = 1457679240
 create_date = "2016-03-10T22:54:00-08:00"
 publish_date = "2016-03-10T22:54:00-08:00"
 date = "2016-03-10T22:54:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-DE3jPA4AhTOtSTXPz66RHgSQOHB7cBhu06nOpvyRRXtWI78AoSuG5r_1aCmuNeyBAF5QXR1hisVW06ssPzF20Vt92ZJ"
 url = "/webhook-uploads/1457679274079/content%3Fid%3DWPjisgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 44727
 
 review_relationship = ["reviews/a-city-holds-its-breath"]
-author_relationship = ["authors/erick-lyle"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-Kcd4ktv6opthJjAQy3I"
-_sort_create_date = 1486748040
-_sort_last_updated = 1486748460
-_sort_publish_date = 1486749660
+sort_create_date = 1486748040
+sort_last_updated = 1486748460
+sort_publish_date = 1486749660
 create_date = "2017-02-10T09:34:00-08:00"
 publish_date = "2017-02-10T10:01:00-08:00"
 date = "2017-02-10T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486747810180/9780
 twitterauto = "Your one-stop shop for advice on plagiarism, pince-nez, and spider blood."
 facebookauto = "This week's Help Desk is a special rapid-fire mail bag edition! Consider it your one-stop shop for advice on plagiarism, pince-nez, and spider blood."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ["authors/timothy-egan"]
+notes_about = ""
 books = ""
 +++
 <p class="intro"><em>Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to</em> advice@seattlereviewofbooks.com.</p>

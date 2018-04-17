@@ -1,8 +1,8 @@
 +++
 index = "-JtdywJqD4VUbpk04QWn"
-_sort_create_date = 1436297160
-_sort_last_updated = 1436306220
-_sort_publish_date = 1436297160
+sort_create_date = 1436297160
+sort_last_updated = 1436306220
+sort_publish_date = 1436297160
 create_date = "2015-07-07T12:26:00-07:00"
 publish_date = "2015-07-07T12:26:00-07:00"
 date = "2015-07-07T12:26:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The only downside to covering the books beat is that you occasionally have to write a goodbye to a fantastic local bookshop. [Miguel Otárola at the Seattle Times](http://www.seattletimes.com/seattle-news/cinema-books-to-close-its-doors-on-roosevelt-after-31-years/) did a fantastic job of paying tribute to Cinema Books on Roosevelt.

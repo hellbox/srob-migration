@@ -1,8 +1,8 @@
 +++
 index = "-L9N0gWBQUMHb1YuYbTV"
-_sort_create_date = 1522968960
-_sort_last_updated = 1523035380
-_sort_publish_date = 1523037660
+sort_create_date = 1522968960
+sort_last_updated = 1523035380
+sort_publish_date = 1523037660
 create_date = "2018-04-05T15:56:00-07:00"
 publish_date = "2018-04-06T11:01:00-07:00"
 date = "2018-04-06T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in book news: Save City Arts, go to the Orcas Island Literary Festival, and buy a comics spinner rack!"
 facebookauto = "Today in book news: Save City Arts, go to the Orcas Island Literary Festival, and buy a comics spinner rack!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ["authors/kim-fu"]
+notes_about = ""
 books = ""
 +++
 * The [West Seattle Food Bank](http://westseattleblog.com/2018/04/you-can-help-right-now-west-seattle-food-bank-needs-kids-books/) is "in desperate need of children’s books and board books" right now, according to the West Seattle Blog. Donate if you can!

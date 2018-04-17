@@ -1,8 +1,8 @@
 +++
 index = "-KK77YibxZicWkNyStKA"
-_sort_create_date = 1465794000
-_sort_last_updated = 1465795140
-_sort_publish_date = 1465848900
+sort_create_date = 1465794000
+sort_last_updated = 1465795140
+sort_publish_date = 1465848900
 create_date = "2016-06-12T22:00:00-07:00"
 publish_date = "2016-06-13T13:15:00-07:00"
 date = "2016-06-13T13:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Another chain bookseller to bite the dust?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/retail"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Hastings, [a national chain](https://www.gohastings.com/) selling books, comics, music, and movies, announced that if buyers for its 126 stores cannot be found, they will be forced to close down.

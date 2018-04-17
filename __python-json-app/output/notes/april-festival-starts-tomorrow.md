@@ -1,8 +1,8 @@
 +++
 index = "-KCpwTiesTUmo5lyURU_"
-_sort_create_date = 1457972700
-_sort_last_updated = 1458060540
-_sort_publish_date = 1457985600
+sort_create_date = 1457972700
+sort_last_updated = 1458060540
+sort_publish_date = 1457985600
 create_date = "2016-03-14T09:25:00-07:00"
 publish_date = "2016-03-14T13:00:00-07:00"
 date = "2016-03-14T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://lh3.googleusercontent.com/E4B8Fvbtii-xdzKjoABdD44wTRbQFVdZc
 twitterauto = "It's time for @APRILfestSEA, and they're our sponsor this week!"
 facebookauto = "It's April Festival time, and they're our sponsor this week!"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This week's sponsor, <a href="http://www.aprilfestival.com" title="aprilfestival.com | A festival of independent literature">the APRIL Festival</a>, kicks off with a bang Tuesday night at the Pine Box, with performances by Alejandro de Acosta, Sara Jaffe, Jenny Zhang and Kelly Froh. Doors open at 7:30pm. 

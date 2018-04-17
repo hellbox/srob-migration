@@ -1,8 +1,8 @@
 +++
 index = "-KN0pv52v2detvMHpSdl"
-_sort_create_date = 1468909680
-_sort_last_updated = 1468950600
-_sort_publish_date = 1468958280
+sort_create_date = 1468909680
+sort_last_updated = 1468950600
+sort_publish_date = 1468958280
 create_date = "2016-07-18T23:28:00-07:00"
 publish_date = "2016-07-19T12:58:00-07:00"
 date = "2016-07-19T12:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today in Book News Roundup: Nicola Griffith, Ursula K. LeGuin, and...Donald Trump?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ["authors/nicola-griffith", "authors/ursula-k-le-guin"]
+notes_about = ""
 books = ""
 +++
 * In a month — hell, a year — loaded down with bad news, I urge you to read Seattle author [Nicola Griffith's triumphant blog post](https://nicolagriffith.com/2016/07/18/open-your-mouth-and-speak-we-really-can-make-a-difference/) celebrating an exciting new literary award:

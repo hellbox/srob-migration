@@ -1,8 +1,8 @@
 +++
 index = "-KORRs_W81DaniJ82zWC"
-_sort_create_date = 1470429840
-_sort_last_updated = 1470429900
-_sort_publish_date = 1470429840
+sort_create_date = 1470429840
+sort_last_updated = 1470429900
+sort_publish_date = 1470429840
 create_date = "2016-08-05T13:44:00-07:00"
 publish_date = "2016-08-05T13:44:00-07:00"
 date = "2016-08-05T13:44:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Poetry"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/752FDgLOjxMvVQu280axVEod0hfkoBDIxDN6oNAacT6F7DOjbMlvj09CTWhGy0a3w7p8t6Iz_2K4iZiGqebvXmgW-a7t"
 url = "/webhook-uploads/1470429890299/content%3Fid%3DQZMNjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7519
 
 review_relationship = ""
-author_relationship = ["authors/cody-walker"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-cody-walker-and-friends-at-elliott-bay-book-company"]
 +++

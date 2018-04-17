@@ -1,8 +1,8 @@
 +++
 index = "-JyZZyrM_FIogFcMTvSP"
-_sort_create_date = 1441575180
-_sort_last_updated = 1441729560
-_sort_publish_date = 1441731300
+sort_create_date = 1441575180
+sort_last_updated = 1441729560
+sort_publish_date = 1441731300
 create_date = "2015-09-06T14:33:00-07:00"
 publish_date = "2015-09-08T09:55:00-07:00"
 date = "2015-09-08T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's poem, by @songsforsquid, opens with \"A rogue wave of old grief capsized me at the bar.\""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/sierra-nelson"]
+notes_byline = ["writers/sierra-nelson"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A rogue wave of old grief capsized me at the bar.

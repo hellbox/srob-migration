@@ -1,8 +1,8 @@
 +++
 index = "-KG91hn1MhmUh7ZsMsbL"
-_sort_create_date = 1461531060
-_sort_last_updated = 1461531060
-_sort_publish_date = 1461774900
+sort_create_date = 1461531060
+sort_last_updated = 1461531060
+sort_publish_date = 1461774900
 create_date = "2016-04-24T13:51:00-07:00"
 publish_date = "2016-04-27T09:35:00-07:00"
 date = "2016-04-27T09:35:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461530975603/patc
 twitterauto = "Hope you're getting ready to celebrate Independent Bookstore Day on Saturday!"
 facebookauto = "Here's eerything you need to know about Independent Bookstore Day, which is happening this Saturday"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 When the Mall del Norte branch of B. Dalton booksellers closed in January of 2010, [CNN reported](http://www.cnn.com/2010/LIVING/01/22/laredo.books/), the city of Laredo (population 250,000) became the largest American city without a bookstore. “The closest bookstore is now 150 miles away, in San Antonio, Texas,” wrote CNN’s Ed Lavandera. Laredo was likely just the first of many American bookstore deserts, as Barnes & Noble continues to falter with every quarterly earnings report and rural retail zones get sucked dry by Walmart and Amazon.

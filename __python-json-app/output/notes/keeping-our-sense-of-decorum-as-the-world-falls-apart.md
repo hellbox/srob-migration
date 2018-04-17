@@ -1,8 +1,8 @@
 +++
 index = "-KjdTwdSp_vOx83EV7CP"
-_sort_create_date = 1494270840
-_sort_last_updated = 1494271140
-_sort_publish_date = 1494273600
+sort_create_date = 1494270840
+sort_last_updated = 1494271140
+sort_publish_date = 1494273600
 create_date = "2017-05-08T12:14:00-07:00"
 publish_date = "2017-05-08T13:00:00-07:00"
 date = "2017-05-08T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494270703452/etiq
 twitterauto = "Sponsor @anne_mendel is here to offer a guided tour of Portland...after it all falls apart. "
 facebookauto = "Sponsor Anne Mendel is here to offer a guided tour of Portland...after it all falls apart. "
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1494270703452/etiquette.jpg)</p>

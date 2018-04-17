@@ -1,8 +1,8 @@
 +++
 index = "-KL2UFjEtlMfKo3J4onk"
-_sort_create_date = 1466789820
-_sort_last_updated = 1466789820
-_sort_publish_date = 1466791200
+sort_create_date = 1466789820
+sort_last_updated = 1466789820
+sort_publish_date = 1466791200
 create_date = "2016-06-24T10:37:00-07:00"
 publish_date = "2016-06-24T11:00:00-07:00"
 date = "2016-06-24T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Are people maybe overselling the smell of books a little bit? @ciennam says no."
 facebookauto = "Advice columnist Cienna Madrid takes on two questions this week, including one about whether the smell of books is maybe overrated."
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ["authors/shawn-vestal", "authors/david-lasky"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

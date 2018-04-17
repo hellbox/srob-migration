@@ -1,8 +1,8 @@
 +++
 index = "-KEeKQROkiRTXrsWtH1F"
-_sort_create_date = 1459925400
-_sort_last_updated = 1459967820
-_sort_publish_date = 1459974000
+sort_create_date = 1459925400
+sort_last_updated = 1459967820
+sort_publish_date = 1459974000
 create_date = "2016-04-05T23:50:00-07:00"
 publish_date = "2016-04-06T13:20:00-07:00"
 date = "2016-04-06T13:20:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Find self-hating book critics, poets winning Twitter forever, and much more in today's Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookslut", "tags/awp", "tags/diversity"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * The debut party for [Lesley Hazleton's *Agnostic: A Spirited Manifesto*](http://seattlereviewofbooks.com/reviews/are-you-there-whoever-its-me-lesley/) last night at Town Hall was a fantastic experience. Hazleton delivered a talk that was part-extemporaneous/part-reading. Hazleton asked the audience to imagine that she held the sun in her hand, that it was about the size of an orange; the Earth, she said, would be a grain of salt circling her hand at 30 feet. The nearest star to our sun would be another orange, approximately in Big Sur. Using examples like that, Hazleton continually deconstructed the audience's sense of scale, to infinity and beyond. The only real sour note of the evening came when two individual atheists took the microphone during Q&A to confront Hazleton about...something. One of the two older white men pronounced himself a "dogmatic atheist." Another said that if God were a person, He'd be thrown in prison for His crimes. (Not an original idea, and not especially relevant to the evening.) Neither had read the book, and neither had any clear points besides being angry about religion. During their tirades, the audience was audibly groaning, but Hazleton handled their non-questions with grace and compassion. By the end of the night, it felt like the rare reading event that perfectly captured the tenor and spirit of the book it was celebrating.

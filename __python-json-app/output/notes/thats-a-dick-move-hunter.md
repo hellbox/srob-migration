@@ -1,8 +1,8 @@
 +++
 index = "-KPH9KiSnkOp3Ic75fOd"
-_sort_create_date = 1471330980
-_sort_last_updated = 1471384140
-_sort_publish_date = 1471377780
+sort_create_date = 1471330980
+sort_last_updated = 1471384140
+sort_publish_date = 1471377780
 create_date = "2016-08-16T00:03:00-07:00"
 publish_date = "2016-08-16T13:03:00-07:00"
 date = "2016-08-16T13:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "God, the testosterone in this story is just overpowering."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/ernest-hemingway"]
+notes_about = ""
 books = ""
 +++
 Hunter S. Thompson's widow, Anita, just [returned a pair of antlers](http://brobible.com/life/article/ernest-hemingway-elk-antlers-hunter-s-thompson/) that Thompson stole from Ernest Hemingway's house about three years after Hemingway committed suicide. This story touches on so many high school boy writer wannabe zones of interest that it's not even funny: Thompson, Hemingway, theft, the ironic display of hunting trophies.

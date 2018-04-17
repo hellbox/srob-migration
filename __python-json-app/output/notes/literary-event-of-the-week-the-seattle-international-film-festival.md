@@ -1,8 +1,8 @@
 +++
 index = "-Kk994WQmYuMHZIPetUz"
-_sort_create_date = 1494819000
-_sort_last_updated = 1495051980
-_sort_publish_date = 1495040160
+sort_create_date = 1494819000
+sort_last_updated = 1495051980
+sort_publish_date = 1495040160
 create_date = "2017-05-14T20:30:00-07:00"
 publish_date = "2017-05-17T09:56:00-07:00"
 date = "2017-05-17T09:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494818890924/Fabu
 twitterauto = ".@SIFFnews brings a documentary about a nerd who hit it big in Hollywood."
 facebookauto = "This Friday and Saturday, SIFF brings a biography-turned-documentary about a nerd who hit it big in Hollywood."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/siff"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1494818890924/FabulousAllanCarr.jpg)</p>

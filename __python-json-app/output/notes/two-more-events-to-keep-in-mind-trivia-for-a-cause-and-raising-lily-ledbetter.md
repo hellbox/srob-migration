@@ -1,8 +1,8 @@
 +++
 index = "-KilmDXwrM4MfFzf2oDX"
-_sort_create_date = 1493336340
-_sort_last_updated = 1493336340
-_sort_publish_date = 1493402460
+sort_create_date = 1493336340
+sort_last_updated = 1493336340
+sort_publish_date = 1493402460
 create_date = "2017-04-27T16:39:00-07:00"
 publish_date = "2017-04-28T11:01:00-07:00"
 date = "2017-04-28T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Raise money for Eastside Mosque and celebrate women at work with two upcoming events."
 facebookauto = "Raise money for Eastside Mosque and celebrate women at work with two upcoming events."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/town-hall-seattle", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ["books/raising-lilly-ledbetter"]
 +++
 <p class="image-left">![](/webhook-uploads/1493336318972/unnamed.png)</p>

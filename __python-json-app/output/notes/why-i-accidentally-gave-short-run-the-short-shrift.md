@@ -1,8 +1,8 @@
 +++
 index = "-KZbRJB07XcC_ggPvJCI"
-_sort_create_date = 1482425400
-_sort_last_updated = 1482425400
-_sort_publish_date = 1482521400
+sort_create_date = 1482425400
+sort_last_updated = 1482425400
+sort_publish_date = 1482521400
 create_date = "2016-12-22T08:50:00-08:00"
 publish_date = "2016-12-23T11:30:00-08:00"
 date = "2016-12-23T11:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "\"Donald Trump ate my cerebellum\" is not an adequate excuse."
 facebookauto = "\"Donald Trump ate my cerebellum\" is not an adequate excuse."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A reader wrote in to address an important omission from [my piece that reviewed 2016's highs and lows](http://www.seattlereviewofbooks.com/notes/2016/12/21/what-you-need-to-do-for-literary-seattle-in-2017/). I did not, she wrote, mention Short Run even once.

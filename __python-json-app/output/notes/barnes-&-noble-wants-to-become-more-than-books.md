@@ -1,8 +1,8 @@
 +++
 index = "-K4iqTbJn7rM-HdBuYAa"
-_sort_create_date = 1449263700
-_sort_last_updated = 1449263700
-_sort_publish_date = 1449264900
+sort_create_date = 1449263700
+sort_last_updated = 1449263700
+sort_publish_date = 1449264900
 create_date = "2015-12-04T13:15:00-08:00"
 publish_date = "2015-12-04T13:35:00-08:00"
 date = "2015-12-04T13:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449262766152/bn.j
 twitterauto = "Barnes & Noble wants to become a \"lifestyle brand?\" Bad idea. People go to @BNBuzz for books, not plastic crap."
 facebookauto = "First Borders lost focus and died. Now Barnes & Noble is trying to de-emphasize books and promote itself as a \"lifestyle brand.\" This is an absolutely terrible idea."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/barnes-&amp;-noble", "tags/retail"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Oh, hey — [here's a terrible idea](http://www.nytimes.com/2015/12/04/business/media/barnes-noble-wants-to-become-more-than-books.html?_r=0):

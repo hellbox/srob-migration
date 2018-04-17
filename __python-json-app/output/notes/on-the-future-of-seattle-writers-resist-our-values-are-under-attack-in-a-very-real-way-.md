@@ -1,8 +1,8 @@
 +++
 index = "-KaYlLXCc-zBYR7d7lwn"
-_sort_create_date = 1484511300
-_sort_last_updated = 1484511300
-_sort_publish_date = 1484589600
+sort_create_date = 1484511300
+sort_last_updated = 1484511300
+sort_publish_date = 1484589600
 create_date = "2017-01-15T12:15:00-08:00"
 publish_date = "2017-01-16T10:00:00-08:00"
 date = "2017-01-16T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484509684861/Writ
 twitterauto = "What do writers and readers do now? We talked with founders of the Seattle branch of #WritersResist."
 facebookauto = "Donald Trump's inauguration is on Friday. What should writers and readers do now? We talked with founders of the Seattle branch of #WritersResist."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/writers-resist"]
-authors_notes = ["authors/sam-ligon", "authors/kristen-millares-young"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1484509684861/Writers-Resist-Header-Logo.png)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-K7rK8Ft2Wf0Npj29BeA"
-_sort_create_date = 1452627240
-_sort_last_updated = 1452627480
-_sort_publish_date = 1452627420
+sort_create_date = 1452627240
+sort_last_updated = 1452627480
+sort_publish_date = 1452627420
 create_date = "2016-01-12T11:34:00-08:00"
 publish_date = "2016-01-12T11:37:00-08:00"
 date = "2016-01-12T11:37:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is from @amaranthborsuk, and it's called \"Dear Botfly\""
 facebookauto = "Our Tuesday Poem is from Amaranth Borsuk, and it's titled \"Dear Botfly\""
 make_image_tweet = "False"
-byline = ["writers/amaranth-borsuk"]
+notes_byline = ["writers/amaranth-borsuk"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 You are not a machine, but a mechanic<br>

@@ -1,8 +1,8 @@
 +++
 index = "-K3cN0kwGJYUijCiAfNf"
-_sort_create_date = 1448081340
-_sort_last_updated = 1448085480
-_sort_publish_date = 1448125200
+sort_create_date = 1448081340
+sort_last_updated = 1448085480
+sort_publish_date = 1448125200
 create_date = "2015-11-20T20:49:00-08:00"
 publish_date = "2015-11-21T09:00:00-08:00"
 date = "2015-11-21T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's @rahawahaile short story time, with: @kristen_arnett, @megpokrass, @ianwillwrite, @Rebecca_Schiff, @yolo_tengo!"
 facebookauto = "Rahawa Haile made up for lost time this week, with nine stories (one a simple picture story"
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-stories", "tags/short-story-of-the-day"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the SRoB Rahawa Haile tweets a short story. She gave us permission to collect them every week. She's archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a></p>

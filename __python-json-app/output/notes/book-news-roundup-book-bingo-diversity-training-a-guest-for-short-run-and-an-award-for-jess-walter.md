@@ -1,8 +1,8 @@
 +++
 index = "-KkmdLfg2oghPJ0Fnz62"
-_sort_create_date = 1495498320
-_sort_last_updated = 1495574820
-_sort_publish_date = 1495565100
+sort_create_date = 1495498320
+sort_last_updated = 1495574820
+sort_publish_date = 1495565100
 create_date = "2017-05-22T17:12:00-07:00"
 publish_date = "2017-05-23T11:45:00-07:00"
 date = "2017-05-23T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495497548246/9781
 twitterauto = "Diversity training, book bingo, and news about @1JessWalter and @Julia_Wertz in today's Book News Roundup."
 facebookauto = "Today in Book News Roundup: News about Jess Walter and Julia Wertz, along with other things not relating to authors with the initials \"JW.\""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library", "tags/short-run"]
-authors_notes = ["authors/julia-wertz", "authors/jess-walter"]
+notes_about = ""
 books = ""
 +++
 * Does your organization need diversity training? If you're an arts organization in Seattle, the answer is probably yes. This Saturday in the [2100 Building](http://2100building.com/) at 1:30 p.m., two local artists with lots of experience in the topic are hosting a "public discussion about the pros and cons of working with professionals, consultants, and hands-on-experts to facilitate an anti-racist work environment." Entry fees range from $5 to $20, though nobody will be turned away for lack of funds. You can [confirm for the event on Facebook](https://www.facebook.com/events/838776766270685/?acontext=%7B%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22messaging%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22attachment%5C%22%2C%5C%22extra_data%5C%22%3A%7B%7D%7D]%22%7D).

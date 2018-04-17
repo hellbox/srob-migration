@@ -1,8 +1,8 @@
 +++
 index = "-KslStHacPiNbbx8VHZZ"
-_sort_create_date = 1504068420
-_sort_last_updated = 1504068420
-_sort_publish_date = 1504213200
+sort_create_date = 1504068420
+sort_last_updated = 1504068420
+sort_publish_date = 1504213200
 create_date = "2017-08-29T21:47:00-07:00"
 publish_date = "2017-08-31T14:00:00-07:00"
 date = "2017-08-31T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449779320342/SRoB
 twitterauto = "Fave librarian @Nancy_Pearl reads from George & Lizzie 9/5 @SPLBuzz #Portrait Gallery #illustration @studiochristine"
 facebookauto = "Nancy Pearl reads from her new book Tuesday, September 5th at the Seattle Public Library. Portrait by Christine Marie Larsen."
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/nancy-pearl"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

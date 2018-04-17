@@ -1,8 +1,8 @@
 +++
 index = "-K3kHLVoBdxBNfFTJTvQ"
-_sort_create_date = 1448214060
-_sort_last_updated = 1448214060
-_sort_publish_date = 1448214060
+sort_create_date = 1448214060
+sort_last_updated = 1448214060
+sort_publish_date = 1448214060
 create_date = "2015-11-22T09:41:00-08:00"
 publish_date = "2015-11-22T09:41:00-08:00"
 date = "2015-11-22T09:41:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "poetry"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/l-lfWXh3ufylB6Bt48-IJmu0OcMZnKiPxHNhswPg9ZHgKFkvegWSzet6X1avZQX62TzNtnEK1bly1Orsgrhpih4duQM"
 url = "/webhook-uploads/1448214105245/315_karate.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 27063
 
 review_relationship = ""
-author_relationship = ["authors/nicole-sarrocco"]
+books_author = ""
 sponsorships_book = ["sponsorships/karate-bride"]
 notes_relationship = ["notes/one-day-left-to-read-three-poems-from-nicole-sarrocco"]
 +++

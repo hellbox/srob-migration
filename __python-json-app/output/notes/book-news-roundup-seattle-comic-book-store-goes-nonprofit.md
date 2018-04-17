@@ -1,8 +1,8 @@
 +++
 index = "-KcoG40WDtjAJEJlcv5t"
-_sort_create_date = 1486935540
-_sort_last_updated = 1487012880
-_sort_publish_date = 1487015820
+sort_create_date = 1486935540
+sort_last_updated = 1487012880
+sort_publish_date = 1487015820
 create_date = "2017-02-12T13:39:00-08:00"
 publish_date = "2017-02-13T11:57:00-08:00"
 date = "2017-02-13T11:57:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486936019648/Obam
 twitterauto = "Wallingford's Comics Dungeon is going nonprofit! And much more in Book News Roundup."
 facebookauto = "Wallingford's Comics Dungeon is going nonprofit! And much more in Book News Roundup."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/hugo-house", "tags/seattle-public-library"]
-authors_notes = ["authors/megan-kruse"]
+notes_about = ""
 books = ""
 +++
 * Wallingford comics shop Comics Dungeon is becoming a nonprofit. [From the press release](http://www.c4c3.org/2017/02/press-release-february-13-2017/):

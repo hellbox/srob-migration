@@ -1,8 +1,8 @@
 +++
 index = "-KuNt0fGpiktH_IVymeb"
-_sort_create_date = 1505803620
-_sort_last_updated = 1505837580
-_sort_publish_date = 1506012300
+sort_create_date = 1505803620
+sort_last_updated = 1505837580
+sort_publish_date = 1506012300
 create_date = "2017-09-18T23:47:00-07:00"
 publish_date = "2017-09-21T09:45:00-07:00"
 date = "2017-09-21T09:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505803025674/king
 twitterauto = "You know how sometimes there's a sequel that makes you hate the original film even more?"
 facebookauto = "You know how sometimes there's a sequel that makes you hate the original film even more?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/mark-millar"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1505803025674/kingsman.jpg)</p>

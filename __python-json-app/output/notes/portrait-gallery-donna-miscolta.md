@@ -1,8 +1,8 @@
 +++
 index = "-KW9cAO6npkH2UAzZAWk"
-_sort_create_date = 1478720760
-_sort_last_updated = 1478720760
-_sort_publish_date = 1478815200
+sort_create_date = 1478720760
+sort_last_updated = 1478720760
+sort_publish_date = 1478815200
 create_date = "2016-11-09T11:46:00-08:00"
 publish_date = "2016-11-10T14:00:00-08:00"
 date = "2016-11-10T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478720512676/SRoB
 twitterauto = "Hola and Goodbye author @DonnaMiscolta painted by @studiochristine for this week's Portrait Gallery"
 facebookauto = "Portrait Gallery: Donna Miscolta"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/donna-miscolta"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

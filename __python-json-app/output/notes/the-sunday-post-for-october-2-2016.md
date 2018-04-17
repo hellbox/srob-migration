@@ -1,8 +1,8 @@
 +++
 index = "-KT5A9pDvs43I9fNtQlY"
-_sort_create_date = 1475424840
-_sort_last_updated = 1475424840
-_sort_publish_date = 1475425800
+sort_create_date = 1475424840
+sort_last_updated = 1475424840
+sort_publish_date = 1475425800
 create_date = "2016-10-02T09:14:00-07:00"
 publish_date = "2016-10-02T09:30:00-07:00"
 date = "2016-10-02T09:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Fashionable children, talking race, feminizing Iceland's banking, and best friends, all on today's Sunday Post."
 facebookauto = "Fashionable children, talking about race, feminizing Iceland's banking industry, and friendships through up and down, all on today's Sunday Post."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://www.gq.com/story/my-son-the-prince-of-fashion" title="My Son, The Prince Of Fashion | GQ">My Son, the Prince of Fashion</a></h5>

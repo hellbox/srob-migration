@@ -1,8 +1,8 @@
 +++
 index = "-JzsJy5SGa3qXB7VLg42"
-_sort_create_date = 1442980260
-_sort_last_updated = 1442981520
-_sort_publish_date = 1443027060
+sort_create_date = 1442980260
+sort_last_updated = 1442981520
+sort_publish_date = 1443027060
 create_date = "2015-09-22T20:51:00-07:00"
 publish_date = "2015-09-23T09:51:00-07:00"
 date = "2015-09-23T09:51:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We asked the staff of @SeattleMystery to recommend some mysteries for people who think they don't like mysteries."
 facebookauto = "We asked the staff of Seattle Mystery Bookshop to recommend some mysteries for people who think they don't like mysteries. Our to-read list just got a whole lot longer."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-mystery-bookshop", "tags/bookstore-of-the-month"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">As I’ve gotten to know the staff of our September Bookstore of the Month a little better, I realized that [Seattle Mystery Bookshop](http://www.seattlemystery.com)’s greatest strength is in its recommendations. The staff is impossibly well-versed in the genre. So I thought I’d ask them for some recommendations for our readers, particularly those of you out there who would never normally consider giving a mystery a try. Thanks so much to Seattle Mystery Bookshop owner [JB Dickey](http://www.seattlemystery.com/jb) and his staff ([Fran](http://www.seattlemystery.com/fran),  [Adele](http://www.seattlemystery.com/adele), and [Amber](http://www.seattlemystery.com/amber)) for agreeing to do this. If any of these titles interests you, please stop by Seattle Mystery Bookshop to check them out, and tell them the *Seattle Review of Books* sent you. If you’re not in Seattle, feel free to order directly from their website; all the books are linked for your convenience.</p>

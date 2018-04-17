@@ -1,8 +1,8 @@
 +++
 index = "-KQMGKs8rh0FhDGAzLkf"
-_sort_create_date = 1472490420
-_sort_last_updated = 1472531400
-_sort_publish_date = 1472669700
+sort_create_date = 1472490420
+sort_last_updated = 1472531400
+sort_publish_date = 1472669700
 create_date = "2016-08-29T10:07:00-07:00"
 publish_date = "2016-08-31T11:55:00-07:00"
 date = "2016-08-31T11:55:00-07:00"
@@ -13,10 +13,10 @@ title = "Strange huge illuminations"
 dek = "If Cynthia Ozick shows allegiance to the canon, but the canon has excluded her, does this say more about Ozick's writing, or the canon that doesn't include her?"
 facebookauto = "It's Cynthia Ozick vs. a canon of western literature that inspired her, and that she has, largely, been left outside of."
 twitterauto = "Whose afraid of Cynthia Ozick? Possibly the canon that she loves so acutely."
-byline = ["writers/rebecca-j-novelli"]
+reviews_byline = ["writers/rebecca-j-novelli"]
 books_in_this_review = ["books/critics-monsters-fanatics-and-other-literary-essays"]
 tags_reviews = ""
-authors_reviews = ["authors/cynthia-ozick", "authors/lionel-trilling", "authors/jonathan-franzen", "authors/norman-mailer"]
+reviews_about = ""
 +++
 
 In a [_Paris Review_ interview](http://www.theparisreview.org/interviews/2693/the-art-of-fiction-no-95-cynthia-ozick "Paris Review - The Art of Fiction No. 95, Cynthia Ozick"), Cynthia Ozick, then fifty-two, confesses to her incredulous interviewer, Tom Teicholz, that she has no audience:

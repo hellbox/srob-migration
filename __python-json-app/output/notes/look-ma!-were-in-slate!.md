@@ -1,8 +1,8 @@
 +++
 index = "-KnraUsIsbj1w5kQTcBy"
-_sort_create_date = 1498802640
-_sort_last_updated = 1498842000
-_sort_publish_date = 1498842000
+sort_create_date = 1498802640
+sort_last_updated = 1498842000
+sort_publish_date = 1498842000
 create_date = "2017-06-29T23:04:00-07:00"
 publish_date = "2017-06-30T10:00:00-07:00"
 date = "2017-06-30T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Join us this coming Wednesday @ThirdPlaceBooks Seward Park to talk about Jane Mayer's brilliant book Dark Money."
 facebookauto = "Everybody's talking about Reading Through It, our book club that's trying to make sense of the Trump presidency. This Wednesday, we're discussing Jane Mayer's great book about the Koch Brothers, Dark Money. Join us!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it", "tags/third-place-books-seward-park"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Many thanks to [Ruth Graham at *Slate*](http://www.slate.com/articles/double_x/doublex/2017/06/donald_trump_inspires_a_surge_in_book_clubs.html) for citing our book club as the first example in her article about reading and resistance in the age of Trump:

@@ -1,8 +1,8 @@
 +++
 index = "-KJESYxeo6Mc_TSoP3OW"
-_sort_create_date = 1464843240
-_sort_last_updated = 1464843360
-_sort_publish_date = 1464843360
+sort_create_date = 1464843240
+sort_last_updated = 1464843360
+sort_publish_date = 1464843360
 create_date = "2016-06-01T21:54:00-07:00"
 publish_date = "2016-06-01T21:56:00-07:00"
 date = "2016-06-01T21:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Hey, Seattle: Can you help writer @ariannarebolini find her white Mead notebook? "
 facebookauto = "Hey, Seattle: Can you help Arianna Rebolini find her white Mead notebook? She was visiting the city and lost it and she needs it to finish writing her book."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/buzzfeed", "tags/lost-and-found"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 BuzzFeed writer [Arianna Rebolini](https://twitter.com/ariannarebolini/status/738160081217298433) writes in [a Craigslist lost and found ad](http://seattle.craigslist.org/see/laf/5615099292.html) that she lost a white Mead 5-Star composition notebook while visiting Seattle:

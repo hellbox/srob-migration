@@ -1,8 +1,8 @@
 +++
 index = "-KtKN12m3W1dJE16EWfx"
-_sort_create_date = 1504670880
-_sort_last_updated = 1504672500
-_sort_publish_date = 1505753700
+sort_create_date = 1504670880
+sort_last_updated = 1504672500
+sort_publish_date = 1505753700
 create_date = "2017-09-05T21:08:00-07:00"
 publish_date = "2017-09-18T09:55:00-07:00"
 date = "2017-09-18T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504670647291/Dino
 twitterauto = "Cartoonist Marc Palm broke his right arm. So he taught himself how to draw with his left."
 facebookauto = "Seattle cartoonist Marc Palm broke his right arm. So he taught himself how to draw with his left."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/intruder", "tags/fantagraphics", "tags/short-run"]
-authors_notes = ["authors/marc-palm", "authors/ben-horak"]
+notes_about = ""
 books = ["books/punch-to-kill"]
 +++
 <p class="image">![](/webhook-uploads/1504670605137/righthandsmashbyMarcPalm.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KjHCX-JUXFioWfktisI"
-_sort_create_date = 1493880360
-_sort_last_updated = 1493880360
-_sort_publish_date = 1493923560
+sort_create_date = 1493880360
+sort_last_updated = 1493880360
+sort_publish_date = 1493923560
 create_date = "2017-05-03T23:46:00-07:00"
 publish_date = "2017-05-04T11:46:00-07:00"
 date = "2017-05-04T11:46:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493266767649/The-
 twitterauto = "It's hard to discuss The Righteous Mind by @JonHaidt, but it just might change the way you talk."
 facebookauto = "Last night, our book club found it hard to discuss The Righteous Mind. But the way the difficult conversation unfolded seemed to prove the book's thesis perfectly."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/reading-through-it", "tags/third-place-books-seward-park", "tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1493266767649/The-Righteous-Mind-Cover1.png)</p>

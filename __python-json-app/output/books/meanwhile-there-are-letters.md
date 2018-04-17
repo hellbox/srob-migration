@@ -1,8 +1,8 @@
 +++
 index = "-K52Dsv1-Jzg9umk-6hC"
-_sort_create_date = 1449605640
-_sort_last_updated = 1449608280
-_sort_publish_date = 1449605640
+sort_create_date = 1449605640
+sort_last_updated = 1449608280
+sort_publish_date = 1449605640
 create_date = "2015-12-08T12:14:00-08:00"
 publish_date = "2015-12-08T12:14:00-08:00"
 date = "2015-12-08T12:14:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/_jjQycqpScYWzq1_GUuqr9hGDVtzMapuRWcUHTPnyWSl_ZrojV_Av8NRqb1t30Z8LHc7fPW4rO-HxQ-D1eaWQ96I0O1n"
 url = "/webhook-uploads/1449605692827/41zVId30HPL._SX323_BO1%2C204%2C203%2C200_.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 30270
 
 review_relationship = ["reviews/un-perfumed-letters"]
-author_relationship = ["authors/eudora-welty", "authors/ross-macdonald", "authors/suzanne-marrs", "authors/tom-nolan-"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

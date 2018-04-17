@@ -1,8 +1,8 @@
 +++
 index = "-L9n8aw_9KtP5GW6EL6u"
-_sort_create_date = 1523424060
-_sort_last_updated = 1523424060
-_sort_publish_date = 1523898060
+sort_create_date = 1523424060
+sort_last_updated = 1523424060
+sort_publish_date = 1523898060
 create_date = "2018-04-10T22:21:00-07:00"
 publish_date = "2018-04-16T10:01:00-07:00"
 date = "2018-04-16T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523423888417/look
 twitterauto = "This week's main event: humorous essayist Sloane Crosley reading @elliottbaybooks on Friday!"
 facebookauto = "This week's main event: humorous essayist Sloane Crosley reading at Elliott Bay Book Company on Friday!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/elliott-bay-book-company"]
-authors_notes = ["authors/david-sedaris"]
+notes_about = ""
 books = ""
 +++
 Sloane Crosley's ascent from book publicist to popular literary humorist is well-documented, though it's not exactly unbelievable - if you want to write books, why wouldn't you get a career working with books? But still, her stint as a book publicist is a part of the mythology of Crosley. *Can you believe it?*, people seem to be asking when they recount Crosley's biography, *she went from writing…shudder….press releases to writing comedic essays!*

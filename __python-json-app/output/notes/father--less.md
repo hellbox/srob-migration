@@ -1,8 +1,8 @@
 +++
 index = "-KeWzVdhEpPaDjMkUyss"
-_sort_create_date = 1488776460
-_sort_last_updated = 1488776460
-_sort_publish_date = 1488909300
+sort_create_date = 1488776460
+sort_last_updated = 1488776460
+sort_publish_date = 1488909300
 create_date = "2017-03-05T21:01:00-08:00"
 publish_date = "2017-03-07T09:55:00-08:00"
 date = "2017-03-07T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The first poem from our March Poet in Residence, @jamaicabaldwin"
 facebookauto = "The first poem from our March Poet in Residence, Jamaica Baldwin"
 make_image_tweet = "False"
-byline = ["writers/jamaica-baldwin"]
+notes_byline = ["writers/jamaica-baldwin"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 My father was de-boned as a child.<br>

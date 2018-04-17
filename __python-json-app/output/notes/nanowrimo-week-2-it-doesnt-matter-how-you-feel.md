@@ -1,8 +1,8 @@
 +++
 index = "-K2Nh5h84KCdu-TqYmmu"
-_sort_create_date = 1446744660
-_sort_last_updated = 1446837240
-_sort_publish_date = 1446840000
+sort_create_date = 1446744660
+sort_last_updated = 1446837240
+sort_publish_date = 1446840000
 create_date = "2015-11-05T09:31:00-08:00"
 publish_date = "2015-11-06T12:00:00-08:00"
 date = "2015-11-06T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446786301743/01.p
 twitterauto = "Hey @NaNoWriMo writers! Let's talk about how we feel when we write, and if it matters to the quality of our work. "
 facebookauto = "For our second piece on NaNoWriMo, Martin McClellan looks at how it feels to write when we write, and how much we should let our emotions guide the writing process."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/nanowrimo", "tags/writing"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 So, how's progress? If you're on track, and getting your nut in every day, you should be about 10,000 words today. If you've cracked that milestone — congratulations! That's huge. If you haven't, don't despair. Buckle down over the weekend and get some hours in. This is the time to make it happen. Your book can't be read until you've written it. 

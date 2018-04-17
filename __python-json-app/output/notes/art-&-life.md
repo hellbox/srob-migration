@@ -1,8 +1,8 @@
 +++
 index = "-KS4YPzBlNn61EgdvbEG"
-_sort_create_date = 1474340640
-_sort_last_updated = 1474388820
-_sort_publish_date = 1474390500
+sort_create_date = 1474340640
+sort_last_updated = 1474388820
+sort_publish_date = 1474390500
 create_date = "2016-09-19T20:04:00-07:00"
 publish_date = "2016-09-20T09:55:00-07:00"
 date = "2016-09-20T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is \"Art & Life\" by Priscilla Long. "
 facebookauto = "Our Tuesday Poem is \"Art & Life\" by Priscilla Long. "
 make_image_tweet = "False"
-byline = ["writers/priscilla-long"]
+notes_byline = ["writers/priscilla-long"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Art saves nothing<br>

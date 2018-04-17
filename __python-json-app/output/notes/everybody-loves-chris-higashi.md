@@ -1,8 +1,8 @@
 +++
 index = "-KR-xL-sDWSxtIg7uBS6"
-_sort_create_date = 1473189840
-_sort_last_updated = 1473189840
-_sort_publish_date = 1473189840
+sort_create_date = 1473189840
+sort_last_updated = 1473189840
+sort_publish_date = 1473189840
 create_date = "2016-09-06T12:24:00-07:00"
 publish_date = "2016-09-06T12:24:00-07:00"
 date = "2016-09-06T12:24:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Chris Higashi retires today. Few have done more to promote books and readings in Seattle."
 facebookauto = "Chris Higashi retires from her job at the Washington Center for the Book today. We'll miss her tremendously. She's been an incredible force for books and readings in Seattle."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library", "tags/seattle-times"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Mary Ann Gwinn at the *Seattle Times* pays tribute to the Washington Center for the Book's executive director, Chris Higashi. In her time at the Center and in conjuinction with the Seattle Public Library, Higashi has done more for reading and literature in this city than just about anyone. Now she's retiring. [It's a lovely piece and you should read it](http://www.seattletimes.com/entertainment/books/saying-farewell-to-one-of-the-founding-mothers-of-our-city-of-literature/). 

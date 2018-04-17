@@ -1,8 +1,8 @@
 +++
 index = "-KjH0uPACgM4ac2OtlEI"
-_sort_create_date = 1493877360
-_sort_last_updated = 1493878140
-_sort_publish_date = 1493917260
+sort_create_date = 1493877360
+sort_last_updated = 1493878140
+sort_publish_date = 1493917260
 create_date = "2017-05-03T22:56:00-07:00"
 publish_date = "2017-05-04T10:01:00-07:00"
 date = "2017-05-04T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493876450665/worl
 twitterauto = "Don't forget: this Saturday is #FreeComicDay in Seattle. Here's our guide:"
 facebookauto = "Don't forget:\u00a0this Saturday is Free Comic Book Day in Seattle. Here's our guide to help you achieve maximum enjoyment:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/free-comic-book-day", "tags/phoenix-comics-and-games", "tags/fantagraphics-bookstore-&amp;-gallery"]
-authors_notes = ["authors/tatiana-gill", "authors/g-willow-wilson"]
+notes_about = ""
 books = ""
 +++
 Ordinarily, I use this space to write about the comics that I've read over the past week. But this Saturday is Free Comic Book Day — that nationwide celebration of the belief that there's a comic out there for everyone — and so we're going to look forward for a change. If you've never participated before, you should know that it's pretty simple: walk into the store, get some comics for free. If you have questions, ask the staff. 

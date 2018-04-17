@@ -1,8 +1,8 @@
 +++
 index = "-KI6S8lYsXLVTkjKoINH"
-_sort_create_date = 1463635140
-_sort_last_updated = 1463635140
-_sort_publish_date = 1463677200
+sort_create_date = 1463635140
+sort_last_updated = 1463635140
+sort_publish_date = 1463677200
 create_date = "2016-05-18T22:19:00-07:00"
 publish_date = "2016-05-19T10:00:00-07:00"
 date = "2016-05-19T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463633553546/arch
 twitterauto = "We loved the first issue of @GreatDismal's new comic Archangel. "
 facebookauto = "Sci-fi legend William Gibson just published his very first comic book. How is it?"
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ["authors/william-gibson", "authors/ta-nehisi-coates"]
+notes_about = ""
 books = ["books/between-the-world-and-me", "books/neuromancer"]
 +++
 All the cool literary people are writing comics now. Ta-Nehisi Coates is [doing an excellent job with *Black Panther*](http://seattlereviewofbooks.com/notes/2016/04/07/thursday-comics-hangover-everybodys-talking-about-the-black-panther/), Margaret Atwood’s comic *Angel Catbird* is coming out sometime this year, and yesterday the very first issue of sci-fi legend William Gibson’s very first comic, *Archangel*, hit the stands. Co-created with screenwriter Michael St. John Smith and illustrated by comics veteran Butch Guice, *Archangel* is closer to Gibson's previously published work than, say, *Black Panther* is to *Between the World and Me*, but Gibson is definitely marking new territory here; this is not a lazy cash-grab *Neuromancer* sequel in comic form or anything so crass.

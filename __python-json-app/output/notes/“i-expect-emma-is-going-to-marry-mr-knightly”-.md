@@ -1,8 +1,8 @@
 +++
 index = "-KwBJKF7zkpVAEkMPNzd"
-_sort_create_date = 1507740120
-_sort_last_updated = 1507740120
-_sort_publish_date = 1507748460
+sort_create_date = 1507740120
+sort_last_updated = 1507740120
+sort_publish_date = 1507748460
 create_date = "2017-10-11T09:42:00-07:00"
 publish_date = "2017-10-11T12:01:00-07:00"
 date = "2017-10-11T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Juliette Wells [writes about Jane Austen's writing group](http://lithub.com/jane-austens-emma-was-basically-torn-apart-in-workshop/) for Literary Hub. All you writers out there should take comfort in the fact that even Austen had to endure what the title of Wells's piece refers to as "workshop."

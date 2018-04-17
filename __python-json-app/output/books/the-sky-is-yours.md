@@ -1,8 +1,8 @@
 +++
 index = "-L5kotwELzr69sQr2vKI"
-_sort_create_date = 1519090080
-_sort_last_updated = 1519092360
-_sort_publish_date = 1519090080
+sort_create_date = 1519090080
+sort_last_updated = 1519092360
+sort_publish_date = 1519090080
 create_date = "2018-02-19T17:28:00-08:00"
 publish_date = "2018-02-19T17:28:00-08:00"
 date = "2018-02-19T17:28:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tu6j4Eo1NEzDHkHMwl-ZH5Mk2hpEAwTOqbfBxJTyLFCPNLIbNduVrvrC5-d0D3eHPAdE8x9Fl0NRqSRn9RxESTl3qAyL"
 url = "/webhook-uploads/1519090113868/content%3Fid%3D-4xEDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 13652
 
 review_relationship = ["reviews/room-for-everything"]
-author_relationship = ["authors/chandler-klang-smith"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

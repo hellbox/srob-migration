@@ -1,8 +1,8 @@
 +++
 index = "-K36u9-vGzE-8mzsfQfR"
-_sort_create_date = 1447536660
-_sort_last_updated = 1447536660
-_sort_publish_date = 1447536660
+sort_create_date = 1447536660
+sort_last_updated = 1447536660
+sort_publish_date = 1447536660
 create_date = "2015-11-14T13:31:00-08:00"
 publish_date = "2015-11-14T13:31:00-08:00"
 date = "2015-11-14T13:31:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cYoi60Amoet60QebLwyn70M7kXrKyMFVF1utufMfJbGKdl4i5AttAp5uCI_kDxblOSmbAcxXDKXKf-Oo2IESCq0KDBJo"
 url = "/webhook-uploads/1447536540533/51Hy2lFgzjL._SX311_BO1%2C204%2C203%2C200_.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 45779
 
 review_relationship = ""
-author_relationship = ["authors/maia-chance", "authors/janine-a-southard", "authors/raven-oak"]
+books_author = ""
 sponsorships_book = ["sponsorships/joy-to-the-worlds"]
 notes_relationship = ["notes/a-great-holiday-story-collection", "notes/one-day-left-to-preview-some-great-holiday-genre-fiction"]
 +++

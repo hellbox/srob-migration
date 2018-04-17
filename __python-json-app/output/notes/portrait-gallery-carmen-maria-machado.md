@@ -1,8 +1,8 @@
 +++
 index = "-L35lKtcvX_OE-eZ5yuq"
-_sort_create_date = 1516237020
-_sort_last_updated = 1516237440
-_sort_publish_date = 1516312800
+sort_create_date = 1516237020
+sort_last_updated = 1516237440
+sort_publish_date = 1516312800
 create_date = "2018-01-17T16:57:00-08:00"
 publish_date = "2018-01-18T14:00:00-08:00"
 date = "2018-01-18T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1516236517816/
 twitterauto = "Portrait Gallery: @carmenmmachado reads Her Body and Other Parties tonight @SPLBuzz #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Carmen Maria Machado by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

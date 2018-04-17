@@ -1,8 +1,8 @@
 +++
 index = "-K_0R4h7VrZQnxekZrjf"
-_sort_create_date = 1482861540
-_sort_last_updated = 1482861540
-_sort_publish_date = 1482861540
+sort_create_date = 1482861540
+sort_last_updated = 1482861540
+sort_publish_date = 1482861540
 create_date = "2016-12-27T09:59:00-08:00"
 publish_date = "2016-12-27T09:59:00-08:00"
 date = "2016-12-27T09:59:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The last in our December tribute to Lucia Perillo: \"The Body Mutinies\""
 facebookauto = "The last in our December tribute to Lucia Perillo: \"The Body Mutinies\""
 make_image_tweet = "False"
-byline = ["writers/lucia-perillo"]
+notes_byline = ["writers/lucia-perillo"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 When the doctor runs out of words and still<br>

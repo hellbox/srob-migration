@@ -1,8 +1,8 @@
 +++
 index = "-KdboWfzwbeceHy1rpX1"
-_sort_create_date = 1487800500
-_sort_last_updated = 1487800680
-_sort_publish_date = 1487887200
+sort_create_date = 1487800500
+sort_last_updated = 1487800680
+sort_publish_date = 1487887200
 create_date = "2017-02-22T13:55:00-08:00"
 publish_date = "2017-02-23T14:00:00-08:00"
 date = "2017-02-23T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487800226194/SRoB
 twitterauto = "Portrait Gallery: Quenton Baker by @studiochristine"
 facebookauto = "Portrait Gallery: Quenton Baker by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/quenton-baker"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

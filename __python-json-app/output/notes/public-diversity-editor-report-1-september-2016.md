@@ -1,8 +1,8 @@
 +++
 index = "-KQwz9-86Iij1ksZ1dYi"
-_sort_create_date = 1473123180
-_sort_last_updated = 1477345920
-_sort_publish_date = 1473267600
+sort_create_date = 1473123180
+sort_last_updated = 1477345920
+sort_publish_date = 1473267600
 create_date = "2016-09-05T17:53:00-07:00"
 publish_date = "2016-09-07T10:00:00-07:00"
 date = "2016-09-07T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We asked our Public Diversity Editor @book_nerd212 to look at how we're doing. Here's her first report. "
 facebookauto = "Our first report from our Public Diversity Editor, Vanessa Willoughby, is in. See what she had to say about how we are handling inclusion and diversity. "
 make_image_tweet = "False"
-byline = ["writers/vanessa-willoughby"]
+notes_byline = ["writers/vanessa-willoughby"]
 tags_notes = ["tags/diversity-editor-reports", "tags/public-diversity-editor"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Almost half a year ago, we put out an [open call for a Public Diversity Editor](http://www.seattlereviewofbooks.com/notes/2016/03/31/open-call-for-a-public-diversity-editor/). After fielding many responses, [Vanessa Willoughby accepted our offer](http://www.seattlereviewofbooks.com/notes/2016/06/27/interview-with-our-new-public-diversity-editor/) to take the role. This is her first report.

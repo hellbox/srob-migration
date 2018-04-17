@@ -1,8 +1,8 @@
 +++
 index = "-KW-Ycg6cGAGmjFemOEc"
-_sort_create_date = 1478551800
-_sort_last_updated = 1478552100
-_sort_publish_date = 1478552400
+sort_create_date = 1478551800
+sort_last_updated = 1478552100
+sort_publish_date = 1478552400
 create_date = "2016-11-07T12:50:00-08:00"
 publish_date = "2016-11-07T13:00:00-08:00"
 date = "2016-11-07T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478551789329/thor
 twitterauto = "Sponsor @Atelier26Books is here this week to show an under appreciated side of Thoreau."
 facebookauto = "Atelier26 Books is here to show a collection of Thoreau's funniest moments. Yes, that Thoreau!"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/m-allen-cunningham"]
+notes_about = ""
 books = ["books/funny-ass-thoreau"]
 +++
 Our thanks to sponsor <a href="http://www.atelier26books.com" title="Atelier26 Books">Atelier26</a> for bringing the astounding book _Funny-Ass Thoreau_ to our readers this week. The book, released officially on Tuesday the 8th, covers a side of America's favorite recluse not seen in his more famous writings. 

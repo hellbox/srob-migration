@@ -1,8 +1,8 @@
 +++
 index = "-KBqCagx5jkvG19ZgK8F"
-_sort_create_date = 1456903440
-_sort_last_updated = 1456903440
-_sort_publish_date = 1456941180
+sort_create_date = 1456903440
+sort_last_updated = 1456903440
+sort_publish_date = 1456941180
 create_date = "2016-03-01T23:24:00-08:00"
 publish_date = "2016-03-02T09:53:00-08:00"
 date = "2016-03-02T09:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're interviewing some great Seattle-area school librarians this month, starting with @QAELibrary."
 facebookauto = "This month, we're interviewing a different school librarian every week. Our first librarian is Queen Anne Elementary's own Jeffrey Riley."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/queen-anne-elementary"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">(Our March Bookstore of the Month selection is not a bookstore at all; instead, we’re going to talk to different librarians at schools around the city. If you know a school librarian you think should be spotlighted on the *Seattle Review of Books*, please [send us an email](http://seattlereviewofbooks.com/about/).)</p>

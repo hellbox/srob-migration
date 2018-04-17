@@ -1,8 +1,8 @@
 +++
 index = "-K2GiAGkzr1BUFCQ9a9O"
-_sort_create_date = 1446627540
-_sort_last_updated = 1446627540
-_sort_publish_date = 1446672900
+sort_create_date = 1446627540
+sort_last_updated = 1446627540
+sort_publish_date = 1446672900
 create_date = "2015-11-04T00:59:00-08:00"
 publish_date = "2015-11-04T13:35:00-08:00"
 date = "2015-11-04T13:35:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What kind of a monster breaks into a bookstore and steals almost a thousand bucks?"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/couth-buzzard", "tags/crime"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Burglars stole nearly a thousand dollars from the delightful Couth Buzzard Books on Greenwood Ave over the weekend, [reports Phinneywood.com](http://www.phinneywood.com/2015/11/02/burglars-break-into-couth-buzzard-books-steal-950/). That's a lot of money, especially for a store that's still a month away from the holiday rush. On [the Couth Buzzard Facebook page](https://www.facebook.com/permalink.php?story_fbid=10154303890733572&id=280158903571), owner Theo Dzielak writes:

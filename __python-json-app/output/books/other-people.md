@@ -1,8 +1,8 @@
 +++
 index = "-KlovRU7vpApG1HICoQa"
-_sort_create_date = 1496610300
-_sort_last_updated = 1496610360
-_sort_publish_date = 1496688900
+sort_create_date = 1496610300
+sort_last_updated = 1496610360
+sort_publish_date = 1496688900
 create_date = "2017-06-04T14:05:00-07:00"
 publish_date = "2017-06-05T11:55:00-07:00"
 date = "2017-06-05T11:55:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = "Creative nonfiction"
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dX0NULNUripUTiscHUDyP9zDTG_i1kwhYNT4ffZ79Mclo5y0muRVud3-6skRcCQ6_8mBdzAQPsR7h2e0sUGH90zitIxi"
 url = "/webhook-uploads/1496609987926/51z52w5QxoL.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 57642
 
 review_relationship = ""
-author_relationship = ["authors/david-shields"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/talking-to-ourselves"]
 +++

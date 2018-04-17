@@ -1,8 +1,8 @@
 +++
 index = "-JyW7ZkSiKQwFAhp6SFg"
-_sort_create_date = 1441517400
-_sort_last_updated = 1441517700
-_sort_publish_date = 1441555200
+sort_create_date = 1441517400
+sort_last_updated = 1441517700
+sort_publish_date = 1441555200
 create_date = "2015-09-05T22:30:00-07:00"
 publish_date = "2015-09-06T09:00:00-07:00"
 date = "2015-09-06T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It\u2019s Sunday Post time, with links by @nicolaz @vijithassar, Italo Calvino, and an Ursula Le Guin writing lesson."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Book Bias Gets Magnified Between Shortlists and Winners — Some Data](http://nicolagriffith.com/2015/08/31/book-bias-magnified-between-prize-shortlists-and-winners-some-data/)</h5>

@@ -1,8 +1,8 @@
 +++
 index = "-JsiTF5lPPdx4rmJPyIU"
-_sort_create_date = 1435299300
-_sort_last_updated = 1435299300
-_sort_publish_date = 1435299300
+sort_create_date = 1435299300
+sort_last_updated = 1435299300
+sort_publish_date = 1435299300
 create_date = "2015-06-25T23:15:00-07:00"
 publish_date = "2015-06-25T23:15:00-07:00"
 date = "2015-06-25T23:15:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/y9vNaFB5Kfb4SYO4CcbvaKA8jmZldlcD58ScqzR0cdsxsMmTYTDrb0K-66FAoqckPskis783TtyOJ0_KORSx5PBi0xM"
 url = "/webhook-uploads/1435299291273/9780062360021.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 23497
 
 review_relationship = ["reviews/traveling-light"]
-author_relationship = ["authors/joe-hill"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

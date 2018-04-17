@@ -1,8 +1,8 @@
 +++
 index = "-KXCazUWnc02D8tcBoyA"
-_sort_create_date = 1479844500
-_sort_last_updated = 1479844500
-_sort_publish_date = 1479844500
+sort_create_date = 1479844500
+sort_last_updated = 1479844500
+sort_publish_date = 1479844500
 create_date = "2016-11-22T11:55:00-08:00"
 publish_date = "2016-11-22T11:55:00-08:00"
 date = "2016-11-22T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Remembering William Trevor, Umberto Eco fights fascists, and Barnes & Noble opens a concept store."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump", "tags/barnes-&amp;-noble"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * News broke yesterday that author William Trevor passed away. [Literary Hub has a wonderful roundup](http://lithub.com/remembering-william-trevor/) of audio and visual files of Trevor appearances and remembrances of Trevor by other authors.

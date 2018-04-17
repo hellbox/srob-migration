@@ -1,8 +1,8 @@
 +++
 index = "-L-P29WBs-Vo_7UErQVD"
-_sort_create_date = 1512265500
-_sort_last_updated = 1512496020
-_sort_publish_date = 1512505800
+sort_create_date = 1512265500
+sort_last_updated = 1512496020
+sort_publish_date = 1512505800
 create_date = "2017-12-02T17:45:00-08:00"
 publish_date = "2017-12-05T12:30:00-08:00"
 date = "2017-12-05T12:30:00-08:00"
@@ -13,10 +13,10 @@ title = "A fairy tale of New York"
 dek = "Seattle author Anca Szil\u00e1gyi launches her debut novel at the Sorrento tonight. It's a gritty, realistic fantasy, a fairy tale set in a gutter, and the main character will take up residence in your head."
 facebookauto = "Seattle author Anca Szil\u00e1gyi launches her debut novel tonight! Here's our review of Daughters of the Air:"
 twitterauto = "Seattle author @ancawrites launches her debut novel tonight! Here's our review of Daughters of the Air:"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/daughters-of-the-air"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/anca-l-szil\u00e1gyi"]
+reviews_about = ""
 +++
 
 Pluta, the teenager at the heart of Seattle novelist Anca Szilágyi’s debut *Daughters of the Air*, has all the makings of a fairy tale protagonist. Her life seems cursed: Her father disappears. She wanders into the world alone, meeting monsters. She uncovers her own hidden power. Love pushes her onward, but always seems to be just out of reach.

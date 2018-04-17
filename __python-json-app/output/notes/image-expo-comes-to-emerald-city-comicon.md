@@ -1,8 +1,8 @@
 +++
 index = "-KAl8_4_0Jy3oeRpmMfp"
-_sort_create_date = 1455744720
-_sort_last_updated = 1455745020
-_sort_publish_date = 1455744720
+sort_create_date = 1455744720
+sort_last_updated = 1455745020
+sort_publish_date = 1455744720
 create_date = "2016-02-17T13:32:00-08:00"
 publish_date = "2016-02-17T13:32:00-08:00"
 date = "2016-02-17T13:32:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle is getting its very own nerd prom this year: Image Expo is coming to @emeraldcitycon! "
 facebookauto = "Seattle is getting its very own nerd prom this year: Image Expo is coming to Emerald City Comicon."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/image-comics", "tags/emerald-city-comicon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This is big news: independent comics publisher Image Comics — home of some of the best ongoing comics series in America today including *Saga*, *The Walking Dead*, and *Bitch Planet* — just announced that they're going to host Image Expo, their new-title showcase, at Emerald City Comicon this year. This is the first time they've partnered with a pre-existing convention for the Expo, and it's also the first time the Expo will take place in Seattle. [Bleeding Cool reports](http://www.bleedingcool.com/2016/02/17/image-expo-to-take-place-at-eccc-on-wednesday-april-6th/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BleedingCool+%28Bleeding+Cool+Comic+News+%26+Rumors%29):

@@ -1,8 +1,8 @@
 +++
 index = "-KGpeFXicFeX0IFlVE6q"
-_sort_create_date = 1462262880
-_sort_last_updated = 1462262880
-_sort_publish_date = 1462302060
+sort_create_date = 1462262880
+sort_last_updated = 1462262880
+sort_publish_date = 1462302060
 create_date = "2016-05-03T01:08:00-07:00"
 publish_date = "2016-05-03T12:01:00-07:00"
 date = "2016-05-03T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462262652717/APRI
 twitterauto = "Paul's picks for #GiveBIG are @APRILfestSEA, @HugoHouse, and @THSEA."
 facebookauto = "For GiveBIG, Paul Constant wants you to consider three Seattle-area literary nonprofits that are about to go through some huge changes."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/april", "tags/givebig", "tags/hugo-house", "tags/town-hall-seattle"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This is supremely hard; I don't know how, exactly, I can in good conscience just select three literary nonprofits out of that long list of worthy organizations. But this year, I'm choosing my nonprofits based on extraordinary need: these three organizations are about to enter times of great change, and so they could use your time and attention and money a little more than ever. In alphabetical order, they are:

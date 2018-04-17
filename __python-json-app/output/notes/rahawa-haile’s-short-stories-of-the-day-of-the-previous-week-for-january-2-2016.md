@@ -1,8 +1,8 @@
 +++
 index = "-K6ytVCIzL2c9ex6UHWY"
-_sort_create_date = 1451680440
-_sort_last_updated = 1451680440
-_sort_publish_date = 1451754000
+sort_create_date = 1451680440
+sort_last_updated = 1451680440
+sort_publish_date = 1451754000
 create_date = "2016-01-01T12:34:00-08:00"
 publish_date = "2016-01-02T09:00:00-08:00"
 date = "2016-01-02T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The last @rahawahaile wrap-up has stories from @jesmimi, @novicsara, and @susanwoodring. Thanks, Rahawa!"
 facebookauto = "It's the last Rahawa Haile Short Story of the Day wrap up! Great stories from a neat project that is now over. "
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/short-story-of-the-day"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every day, friend of the SRoB Rahawa Haile tweets a short story. She gave us permission to collect them every week. She's archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a>. This is the last wrap-up, since the project is now over. We'd like to offer Rahawa a hearty congratulations on a big project nicely executed. We'll miss seeing the stories every day, but still have many to comb through, and even some to read again.</p>

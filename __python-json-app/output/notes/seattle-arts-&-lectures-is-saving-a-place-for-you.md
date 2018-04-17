@@ -1,8 +1,8 @@
 +++
 index = "-Koyir3gHAq00-zryUps"
-_sort_create_date = 1499996040
-_sort_last_updated = 1500072960
-_sort_publish_date = 1500321600
+sort_create_date = 1499996040
+sort_last_updated = 1500072960
+sort_publish_date = 1500321600
 create_date = "2017-07-13T18:34:00-07:00"
 publish_date = "2017-07-17T13:00:00-07:00"
 date = "2017-07-17T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This week's sponsor, @SeaArtsLectures, launches a stellar anniversary season soon. Get tickets while they last!"
 facebookauto = "A huge thanks to Seattle Arts & Lectures for sponsoring us this week! Check out their stunning 30th anniversary lineup and subscribe to the series \u2014 or grab the first single-event tickets starting July 24."
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1500072994441/SAL_small.jpg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L-0K_Dp6ezj4lL_UenC"
-_sort_create_date = 1511850900
-_sort_last_updated = 1511850900
-_sort_publish_date = 1511898900
+sort_create_date = 1511850900
+sort_last_updated = 1511850900
+sort_publish_date = 1511898900
 create_date = "2017-11-27T22:35:00-08:00"
 publish_date = "2017-11-28T11:55:00-08:00"
 date = "2017-11-28T11:55:00-08:00"
@@ -13,10 +13,10 @@ title = "Biden's time"
 dek = "Joe Biden reads from his memoir of loss and politics at Benaroya Hall on Sunday, December 3rd. His book raises a question that Biden himself seems to be wrestling with: should he run for president in 2020?"
 facebookauto = "Joe Biden reads from his affecting memoir in Seattle on Sunday. Should he run for president in 2020?"
 twitterauto = "Joe Biden reads in Seattle on Sunday. Should he run for president in 2020?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/promise-me-dad", "books/promise-me-dad-(audio-book)"]
 tags_reviews = ["tags/president", "tags/memoir"]
-authors_reviews = ["authors/joe-biden"]
+reviews_about = ""
 +++
 
 I’ll fight to the grave on this: Joe Biden was one of the most effective vice presidents in the history of the United States. 

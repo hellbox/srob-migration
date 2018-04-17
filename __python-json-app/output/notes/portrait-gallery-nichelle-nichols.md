@@ -1,8 +1,8 @@
 +++
 index = "-K98Cqdhmins-R2u4u0A"
-_sort_create_date = 1454001000
-_sort_last_updated = 1454001360
-_sort_publish_date = 1454014800
+sort_create_date = 1454001000
+sort_last_updated = 1454001360
+sort_publish_date = 1454014800
 create_date = "2016-01-28T09:10:00-08:00"
 publish_date = "2016-01-28T13:00:00-08:00"
 date = "2016-01-28T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454000561921/SRoB
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

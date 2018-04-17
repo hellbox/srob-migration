@@ -1,0 +1,28 @@
++++
+index = "-KoQdCQHaBO_CiskTTtW"
+sort_create_date = 1499407500
+sort_last_updated = 1499407500
+sort_publish_date = 1499407500
+create_date = "2017-07-06T23:05:00-07:00"
+publish_date = "2017-07-06T23:05:00-07:00"
+date = "2017-07-06T23:05:00-07:00"
+last_updated = "2017-07-06T23:05:00-07:00"
+preview_url = "99f4639b-c939-8213-d021-7e9aa0baf67f"
+byline = "Erma Blood"
+title = "Erma Blood"
+alphabetize_by = "blood"
+is_draft = ""
+is_seattle_pnw_writer = true
+written_about = ""
+books_author = ["books/grab-back-comics"]
+reviews_about = ["reviews/these-comics-grab-back"]
+notes_about = ["notes/your-week-in-readings-the-best-literary-events-from-september-20th---september-26th"]
+sponsorships_author = ""
+email = ""
+twitter = ""
+website = ""
+bio = ""
+reviews_byline = ""
+notes_byline = ""
+books_translator = ""
++++

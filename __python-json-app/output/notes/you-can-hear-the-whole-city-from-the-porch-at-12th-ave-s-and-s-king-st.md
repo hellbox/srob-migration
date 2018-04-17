@@ -1,8 +1,8 @@
 +++
 index = "-K-RpVTvj6feukWTkvpE"
-_sort_create_date = 1443592800
-_sort_last_updated = 1443729240
-_sort_publish_date = 1443632340
+sort_create_date = 1443592800
+sort_last_updated = 1443729240
+sort_publish_date = 1443632340
 create_date = "2015-09-29T23:00:00-07:00"
 publish_date = "2015-09-30T09:59:00-07:00"
 date = "2015-09-30T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443592503360/tumb
 twitterauto = "With Porchlit, local writers share a new piece of writing every day from the porch of a house in Little Saigon. "
 facebookauto = "With Porchlit, local writers share a new piece of writing every day from the porch of a house in Little Saigon."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/porchlit"]
-authors_notes = ["authors/elissa-washuta", "authors/tess-gallagher", "authors/stacey-levine"]
+notes_about = ""
 books = ""
 +++
 Porchlit is a yearlong site-specific literary installation founded by Yonnas Getahun, Campbell Thibo and Omar Willey. The idea is a relatively simple one: every day of the year, they record someone reading a piece on the porch of a particular Little Saigon home. Then they post a Soundcloud embed of the reading [on the project’s website](http://porchlit.org/).  When they started the project, they operated under the assumption that the building attached to the porch was abandoned. Then, when the owner of the house left the building during a recording session, they realized their mistake; after a brief explanation, the owner gave her blessing and the project continues.

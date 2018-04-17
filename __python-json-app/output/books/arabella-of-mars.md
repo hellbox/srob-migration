@@ -1,8 +1,8 @@
 +++
 index = "-KPRGyScZKmBkjkThfuf"
-_sort_create_date = 1471500720
-_sort_last_updated = 1471500840
-_sort_publish_date = 1471500720
+sort_create_date = 1471500720
+sort_last_updated = 1471500840
+sort_publish_date = 1471500720
 create_date = "2016-08-17T23:12:00-07:00"
 publish_date = "2016-08-17T23:12:00-07:00"
 date = "2016-08-17T23:12:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Shub7qCj0AK10u90EWsUI3dCH06l9GXwdM77_Z9RtZRootfZjL1NZTpYzhKS2wM1iLUudBtcXz998eKgXPRO3c1ySmo"
 url = "/webhook-uploads/1471500772645/content%3Fid%3D-UIzDAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 11143
 
 review_relationship = ["reviews/women-are-from-mars"]
-author_relationship = ["authors/david-d-levine"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

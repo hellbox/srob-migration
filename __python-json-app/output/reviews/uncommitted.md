@@ -1,8 +1,8 @@
 +++
 index = "-K9KDMotUxdoDt7yU-8V"
-_sort_create_date = 1454202480
-_sort_last_updated = 1454440740
-_sort_publish_date = 1454443200
+sort_create_date = 1454202480
+sort_last_updated = 1454440740
+sort_publish_date = 1454443200
 create_date = "2016-01-30T17:08:00-08:00"
 publish_date = "2016-02-02T12:00:00-08:00"
 date = "2016-02-02T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Uncommitted"
 dek = "Eli Sanders won a Pulitzer Prize for his coverage of a horrific South Park home invasion that ended in murder. His new book expands the story, and asks a fundamental question: are we doing enough to help mentally ill offenders before a crime happens?"
 facebookauto = "It's release day for Eli Sanders book-length exploration of the South Park home invasion and murder, which he covered extensively for the Stranger. That work won him the Pulitzer Prize \u2014 read our review of the longer work, and see how we felt about his extended coverage."
 twitterauto = "Our review of @elijsanders stunning new book \"While the City Slept\""
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/while-the-city-slept"]
 tags_reviews = ["tags/mental-health", "tags/crime"]
-authors_reviews = ["authors/eli-sanders"]
+reviews_about = ""
 +++
 
 In 1860, Mrs. Elizabeth Packard had a conversation with a traveling sewing machine salesman. Her husband, a Calvinist minister named Theophilus Packard, was on her mind. Elizabeth had recently caused quite a ruckus when she stood up in the middle of one of her husband's sermons, and announced that she was crossing the street to the Presbyterian church, whose religious views aligned better with hers.

@@ -1,8 +1,8 @@
 +++
 index = "-K0oEEmRRaXI81acnO1g"
-_sort_create_date = 1445059140
-_sort_last_updated = 1445114760
-_sort_publish_date = 1445112000
+sort_create_date = 1445059140
+sort_last_updated = 1445114760
+sort_publish_date = 1445112000
 create_date = "2015-10-16T22:19:00-07:00"
 publish_date = "2015-10-17T13:00:00-07:00"
 date = "2015-10-17T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Thanks to our sponsor Mark Taylor. You really need to check out his book Assassin Rabbit from the Dawn of Time."
 facebookauto = "Our thanks to this week's sponsor Mark Taylor. One day left to check out a chapter from his novel Assassin Rabbit from the Dawn of Time -- ebook coming soon!"
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/mark-taylor"]
+notes_about = ""
 books = ["books/assassin-rabbit-from-the-dawn-of-time"]
 +++
 Our thanks to sponsor Mark Taylor -- have you [looked yet at the](http://seattlereviewofbooks.com/sponsorships) chapter from his work _Assassin Rabbit From the Dawn of Time_? 

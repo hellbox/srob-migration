@@ -1,8 +1,8 @@
 +++
 index = "-Kwa60iU9JhjjSCL17ui"
-_sort_create_date = 1508173440
-_sort_last_updated = 1508174100
-_sort_publish_date = 1508173440
+sort_create_date = 1508173440
+sort_last_updated = 1508174100
+sort_publish_date = 1508173440
 create_date = "2017-10-16T10:04:00-07:00"
 publish_date = "2017-10-16T10:04:00-07:00"
 date = "2017-10-16T10:04:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/aVZYgUqsikf3EoWeBYjF9AMDWNRpMgyM9KSlsQiiztstwzFB453jPX0GrkSKsDDlSl0M7xI-d-HIlh4fAHU0mRFIF-Boug"
 url = "/webhook-uploads/1508173282270/Mary's%20Dust_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 19323
 
 review_relationship = ""
-author_relationship = ["authors/melinda-mueller"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/celebrate-the-launch-of-melinda-muellers-latest-on-october-21"]
 +++

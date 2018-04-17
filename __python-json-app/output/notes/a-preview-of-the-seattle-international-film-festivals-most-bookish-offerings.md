@@ -1,8 +1,8 @@
 +++
 index = "-KjBWFOyjCpm16i7qj5b"
-_sort_create_date = 1493784900
-_sort_last_updated = 1494994380
-_sort_publish_date = 1493828100
+sort_create_date = 1493784900
+sort_last_updated = 1494994380
+sort_publish_date = 1493828100
 create_date = "2017-05-02T21:15:00-07:00"
 publish_date = "2017-05-03T09:15:00-07:00"
 date = "2017-05-03T09:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493784439376/litt
 twitterauto = "Are you excited for @SIFFnews? Here are some of the best bookish movies of the festival."
 facebookauto = "Are you excited for the Seattle International Film Festival? Here are some of the best bookish movies of the fest. (Spoiler alert; there's a lot of Roald Dahl.)"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/siff", "tags/adaptation", "tags/film"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This morning, tickets to the 2017 edition of the Seattle International Film Festival go on sale for SIFF members. This year's SIFF is huge (400 films from 80 countries) and diverse. Highlights include a series spotlighting films from nations on President Trump's travel ban list, an education series for kids, and a heavy focus on Northwest filmmakers, women directors, and films that as of yet have no established North American premiere dates.

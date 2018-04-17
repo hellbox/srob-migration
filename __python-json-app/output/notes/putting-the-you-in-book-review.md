@@ -1,8 +1,8 @@
 +++
 index = "-K2p4wTMjxMCEaUzlXYT"
-_sort_create_date = 1447220940
-_sort_last_updated = 1447220940
-_sort_publish_date = 1447271340
+sort_create_date = 1447220940
+sort_last_updated = 1447220940
+sort_publish_date = 1447271340
 create_date = "2015-11-10T21:49:00-08:00"
 publish_date = "2015-11-11T11:49:00-08:00"
 date = "2015-11-11T11:49:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're hosting a class on book reviewing at @HugoHouse that will make you a better reader, writer, and critic."
 facebookauto = "Our co-founders, Martin McClellan and Paul Constant, are teaching a book reviewing class at Hugo House starting this January! They hope to make students better readers, writers, and critics, in order to keep the art of book reviewing alive for another generation."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Part of the mission statement for the *Seattle Review of Books* is to keep the art of the book review alive for another generation. Too many review outlets subscribe to the notion that a book review is just a plot synopsis with a little bit of thumbs-up or thumbs-down commentary stapled onto the end. We think book reviews are unique pieces of art; they are criticism written in the form they're critiquing. This opens up all sorts of neat opportunities. We believe that the best days for book reviews are ahead of us.

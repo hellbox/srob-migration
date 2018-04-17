@@ -1,8 +1,8 @@
 +++
 index = "-Kd98_orCsEm16r7pYcO"
-_sort_create_date = 1487302680
-_sort_last_updated = 1487561280
-_sort_publish_date = 1487880000
+sort_create_date = 1487302680
+sort_last_updated = 1487561280
+sort_publish_date = 1487880000
 create_date = "2017-02-16T19:38:00-08:00"
 publish_date = "2017-02-23T12:00:00-08:00"
 date = "2017-02-23T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

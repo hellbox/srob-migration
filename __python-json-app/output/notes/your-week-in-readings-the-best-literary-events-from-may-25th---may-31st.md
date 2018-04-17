@@ -1,8 +1,8 @@
 +++
 index = "-KIBNUr45hWzEryo0jgy"
-_sort_create_date = 1463717820
-_sort_last_updated = 1463717940
-_sort_publish_date = 1464195660
+sort_create_date = 1463717820
+sort_last_updated = 1463717940
+sort_publish_date = 1464195660
 create_date = "2016-05-19T21:17:00-07:00"
 publish_date = "2016-05-25T10:01:00-07:00"
 date = "2016-05-25T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463717659501/pape
 twitterauto = "Your week in readings: You'll be spending most of your time @THSEA this week."
 facebookauto = "Your week in readings includes a book about paper, a reading from Sebastian Junger, and a documentary about an author who never, strictly, existed."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle"]
-authors_notes = ["authors/lindy-west"]
+notes_about = ""
 books = ["books/shrill"]
 +++
 <p class="noindent"><h5>**Wednesday May 25: *Shrill: Notes from a Loud Woman Reading* **</h5></p> 

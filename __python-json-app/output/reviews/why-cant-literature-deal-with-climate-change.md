@@ -1,8 +1,8 @@
 +++
 index = "-KrCbd7m-D4mdt1Kuxa9"
-_sort_create_date = 1502393280
-_sort_last_updated = 1502407140
-_sort_publish_date = 1503511200
+sort_create_date = 1502393280
+sort_last_updated = 1502407140
+sort_publish_date = 1503511200
 create_date = "2017-08-10T12:28:00-07:00"
 publish_date = "2017-08-23T11:00:00-07:00"
 date = "2017-08-23T11:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Why can't literature deal with climate change?"
 dek = "In The Great Derangement, Amitav Ghosh examines the outdated conventions of realistic fiction."
 facebookauto = "Is \"serious\" literature deranged by climate change?"
 twitterauto = "Is \"serious\" literature deranged by climate change? @jhiskes on Amitav Ghosh."
-byline = ["writers/jonathan-hiskes"]
+reviews_byline = ["writers/jonathan-hiskes"]
 books_in_this_review = ["books/the-great-derangement"]
 tags_reviews = ""
-authors_reviews = ["authors/amitav-ghosh"]
+reviews_about = ""
 +++
 
 In March of 1979, Amitav Ghosh witnessed a bizarre storm in Delhi, India. The sky darkened, unseasonable rain squalls turned to hail, and a funnel-shaped whirlwind appeared. Ghosh ran for cover. He emerged to find buses overturned, scooters wedged in trees, and walls torn from buildings. The lethal event, which killed at least 30 people, was so rare that newspapers didn’t correctly identify it for two days — a tornado, the first in the region’s recorded history.

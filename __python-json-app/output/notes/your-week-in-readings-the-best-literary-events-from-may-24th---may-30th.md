@@ -1,8 +1,8 @@
 +++
 index = "-KkOmzwJ3r4Lg0NrATnI"
-_sort_create_date = 1495081380
-_sort_last_updated = 1495135980
-_sort_publish_date = 1495652160
+sort_create_date = 1495081380
+sort_last_updated = 1495135980
+sort_publish_date = 1495652160
 create_date = "2017-05-17T21:23:00-07:00"
 publish_date = "2017-05-24T11:56:00-07:00"
 date = "2017-05-24T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495081264862/brok
 twitterauto = "Your week of readings features refugees, comics memoirs, and much more."
 facebookauto = "Your week of readings features refugees, Folklife, long-awaited comics memoirs, and much more!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/david-schmader", "authors/elissa-washuta", "authors/paul-mullin", "authors/noel-franklin"]
+notes_about = ""
 books = ["books/weed-the-users-guide", "books/the-starting-gate"]
 +++
 <p class="noindent"><h5>**Wednesday May 24th: Displaced: Refugee Voices in Conversation**</h5></p> 

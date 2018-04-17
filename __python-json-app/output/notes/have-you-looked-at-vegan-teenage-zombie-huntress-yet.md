@@ -1,8 +1,8 @@
 +++
 index = "-K1QRoJuO_8y3IF-m4AV"
-_sort_create_date = 1445716980
-_sort_last_updated = 1445716980
-_sort_publish_date = 1445716980
+sort_create_date = 1445716980
+sort_last_updated = 1445716980
+sort_publish_date = 1445716980
 create_date = "2015-10-24T13:03:00-07:00"
 publish_date = "2015-10-24T13:03:00-07:00"
 date = "2015-10-24T13:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ""
-authors_notes = ["authors/gg-silverman"]
+notes_about = ""
 books = ["books/vegan-teenage-zombie-huntress"]
 +++
 We think you'll really like his week's sponsor [G.G. Silverman's work](http://seattlereviewofbooks.com/sponsorships). It's funny, smart, and we think that after you look at two chapters on our sponsor page, you might even want your own copy. Those chapters will only be up through tomorrow, so [go take a look today](http://seattlereviewofbooks.com/sponsorships)!

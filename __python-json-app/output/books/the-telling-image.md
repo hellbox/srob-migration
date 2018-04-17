@@ -1,8 +1,8 @@
 +++
 index = "-L6V5HggqzQvOWSKVjQh"
-_sort_create_date = 1519883160
-_sort_last_updated = 1519883340
-_sort_publish_date = 1519883160
+sort_create_date = 1519883160
+sort_last_updated = 1519883340
+sort_publish_date = 1519883160
 create_date = "2018-02-28T21:46:00-08:00"
 publish_date = "2018-02-28T21:46:00-08:00"
 date = "2018-02-28T21:46:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/wQfBvrkJpdzT448GfC4i9BpK7DIrg3AJ-VBoClIZukanhbglDgRXcFgiKUosCKgWW-isbFJ0lwBEhyN732gD6eK_MVk"
 url = "/webhook-uploads/1519883350402/Telling%20Image_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 20738
 
 review_relationship = ""
-author_relationship = ["authors/lois-farfel-stark"]
+books_author = ""
 sponsorships_book = ["sponsorships/the-telling-image"]
 notes_relationship = ["notes/look-again"]
 +++

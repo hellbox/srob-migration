@@ -1,8 +1,8 @@
 +++
 index = "-Jwcz939edK0Nu5XTsMA"
-_sort_create_date = 1439501640
-_sort_last_updated = 1439501640
-_sort_publish_date = 1439501640
+sort_create_date = 1439501640
+sort_last_updated = 1439501640
+sort_publish_date = 1439501640
 create_date = "2015-08-13T14:34:00-07:00"
 publish_date = "2015-08-13T14:34:00-07:00"
 date = "2015-08-13T14:34:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "When a white customer complained about a #BlackLivesMatter display, a bookstore owner had the perfect response."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/black-lives-matter", "tags/left-bank-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Jarek Steele, the co-owner of St. Louis's wonderful Left Bank Books (no relation to Seattle's wonderful Left Bank Books), [published a blog post](https://jareksteele.wordpress.com/2015/08/11/a-matter-of-words-losing-a-customer-and-opening-a-conversation/) about an anonymous letter he received in resopnse to a Black Lives Matter window display in the store:

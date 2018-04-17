@@ -1,8 +1,8 @@
 +++
 index = "-KCEuXlRGoPvuHmiJGw3"
-_sort_create_date = 1457334660
-_sort_last_updated = 1457375160
-_sort_publish_date = 1457386200
+sort_create_date = 1457334660
+sort_last_updated = 1457375160
+sort_publish_date = 1457386200
 create_date = "2016-03-06T23:11:00-08:00"
 publish_date = "2016-03-07T13:30:00-08:00"
 date = "2016-03-07T13:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "The date for this year's @LitCrawlSeattle has been announced and  much more in today's Book News Roundup."
 facebookauto = "The date for this year's Lit Crawl has been announced, a new Amazon Books is opening, Harper Lee's will has been sealed, and much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/lit-crawl"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Lit Crawl Seattle [announced the date](https://www.facebook.com/LitCrawlSeattle/posts/1130578770309500) for this year's crawl: **October 27, 2016**. Save the date. (And if you didn't attend last year's Lit Crawl, [here's our roundup](http://seattlereviewofbooks.com/notes/2015/10/23/started-from-the-bottom-now-were-here/) to give you an idea of what you missed.)

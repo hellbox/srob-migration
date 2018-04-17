@@ -1,8 +1,8 @@
 +++
 index = "-KFzGt3IlwFYGTrJr7yN"
-_sort_create_date = 1461350520
-_sort_last_updated = 1461350520
-_sort_publish_date = 1461354600
+sort_create_date = 1461350520
+sort_last_updated = 1461350520
+sort_publish_date = 1461354600
 create_date = "2016-04-22T11:42:00-07:00"
 publish_date = "2016-04-22T12:50:00-07:00"
 date = "2016-04-22T12:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're super-excited for @SeaArtsLectures upcoming season! Here are a few of our picks:"
 facebookauto = "Seattle Arts & Lectures just announced the writers coming to town for their upcoming 2016-17 season. Here are some of the writers we're most looking forward to."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-arts-and-lectures"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Last night, Seattle Arts and Lectures unveiled some of the authors they’re bringing to town for their 2016-17 season. You can [see the full announced slate on SAL’s site]( http://www.lectures.org/season/) and buy tickets for most of the authors right now. It’s a big, splashy, ambitious list; all the authors are worth your consideration, but I’d like to highlight a few personal favorites that you might consider checking out when they come to town.

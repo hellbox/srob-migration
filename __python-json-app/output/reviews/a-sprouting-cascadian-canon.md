@@ -1,8 +1,8 @@
 +++
 index = "-KFaICJXYM-CbXJE355D"
-_sort_create_date = 1460931420
-_sort_last_updated = 1460931420
-_sort_publish_date = 1461097020
+sort_create_date = 1460931420
+sort_last_updated = 1460931420
+sort_publish_date = 1461097020
 create_date = "2016-04-17T15:17:00-07:00"
 publish_date = "2016-04-19T13:17:00-07:00"
 date = "2016-04-19T13:17:00-07:00"
@@ -13,10 +13,10 @@ title = "A sprouting Cascadian canon"
 dek = "What does Northwest literature mean? Can it be defined in relation to what it is not? Or is there a common theme in literature from this corner of the world?"
 facebookauto = "The first volume of Moss celebrates the continuing quest for a Cascadian voice in literature."
 twitterauto = "The first volume of @mosslitmag celebrates the continuing quest for a Cascadian voice in literature."
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/moss-volume-one"]
 tags_reviews = ["tags/anthology"]
-authors_reviews = ["authors/rebecca-brown", "authors/matt-briggs", "authors/alex-davis-lawrence", "authors/connor-guy"]
+reviews_about = ""
 +++
 
  Since August of 2014, co-founders Connor Guy and Alex Davis-Lawrence have published *Moss*, a self-described “Online Journal of the Northwest,” for free at [mosslit.com](http://www.mosslit.com/vol02/issue04.html). It’s a literary magazine that publishes quality longform fiction and non-fiction from, and interviews with, Northwest writers. Last week, Davis-Lawrence and Guy, announced that they were bringing on Spokane novelist Sharma Shields — author of the excellent *The Sasquatch Hunter's Almanac* — as a contributing editor, with a few more editors yet to be added. As an organization, they’re clearly on the rise. You can read issues of the magazine for free on their gorgeous website, or you can buy the collected edition, *Moss Volume One*, which serves as a mission statement for the site. 

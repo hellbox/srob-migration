@@ -1,8 +1,8 @@
 +++
 index = "-KFaGw9hf7VV2hoWMa4b"
-_sort_create_date = 1460931060
-_sort_last_updated = 1460931600
-_sort_publish_date = 1460931060
+sort_create_date = 1460931060
+sort_last_updated = 1460931600
+sort_publish_date = 1460931060
 create_date = "2016-04-17T15:11:00-07:00"
 publish_date = "2016-04-17T15:11:00-07:00"
 date = "2016-04-17T15:11:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/GmruDbQxzeQI7r0KmJBnXtLg6EhZtS9BgPTLPgKjhQYbXh043Su2tp-tpVj4596CNmzmDjuZfkJhUthtinQqKkkMMCbR"
 url = "/webhook-uploads/1460931007750/Screen%20Shot%202016-04-17%20at%203.09.21%20PM.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 1231850
 
 review_relationship = ["reviews/a-sprouting-cascadian-canon"]
-author_relationship = ["authors/connor-guy", "authors/alex-davis-lawrence"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

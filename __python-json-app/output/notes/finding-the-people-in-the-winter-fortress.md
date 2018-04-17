@@ -1,8 +1,8 @@
 +++
 index = "-KGk0bD6t5Fb-2NKRMp8"
-_sort_create_date = 1462168320
-_sort_last_updated = 1462388700
-_sort_publish_date = 1462387920
+sort_create_date = 1462168320
+sort_last_updated = 1462388700
+sort_publish_date = 1462387920
 create_date = "2016-05-01T22:52:00-07:00"
 publish_date = "2016-05-04T11:52:00-07:00"
 date = "2016-05-04T11:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Get ready to celebrate The Winter Fortress tomorrow @HugoHouse"
 facebookauto = "Seattle author Neal Bascomb discusses the perils of moving cross-country when you're in the middle of a research-heavy book."
 make_image_tweet = "True"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews", "tags/history"]
-authors_notes = ["authors/neal-bascomb"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1461651424774/winterfortress.jpg)</p>

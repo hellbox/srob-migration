@@ -1,8 +1,8 @@
 +++
 index = "-KhOya7b5Rso5L62rD_A"
-_sort_create_date = 1491863220
-_sort_last_updated = 1491869280
-_sort_publish_date = 1491863220
+sort_create_date = 1491863220
+sort_last_updated = 1491869280
+sort_publish_date = 1491863220
 create_date = "2017-04-10T15:27:00-07:00"
 publish_date = "2017-04-10T15:27:00-07:00"
 date = "2017-04-10T15:27:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This year's Pulitzer Prizes got everything right."
 facebookauto = "This year's Pulitzer Prizes got everything right."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/pulitzer-prize", "tags/seattle-times", "tags/mary-ann-gwinn"]
-authors_notes = ["authors/colson-whitehead"]
+notes_about = ""
 books = ["books/the-underground-railroad"]
 +++
 I don't know about you, but I feel as though [this year's list of Pulitzer Prize winners](http://www.pulitzer.org/prize-winners-by-year/2017) is a perfect representation of the year's work. David Fahrenthold of the *Washington Post* did excellent work dogging Donald Trump all year long. Oakland's *East Bay Times* is a great paper that never gets recognized for its excellent work. 

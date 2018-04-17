@@ -1,8 +1,8 @@
 +++
 index = "-K5Tv2OETAf-HqPawhuM"
-_sort_create_date = 1450070220
-_sort_last_updated = 1450070220
-_sort_publish_date = 1450374420
+sort_create_date = 1450070220
+sort_last_updated = 1450070220
+sort_publish_date = 1450374420
 create_date = "2015-12-13T21:17:00-08:00"
 publish_date = "2015-12-17T09:47:00-08:00"
 date = "2015-12-17T09:47:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450069356430/9781
 twitterauto = "Which is worse: Mark Millar's comic books or norovirus? Finally, we have a definitive answer!"
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/mark-millar"]
+notes_about = ""
 books = ""
 +++
 Last week, I contracted norovirus. It was terrible, and I’m not going to tell you any more about it except to say that I wound up in bed for 36 hours, feeling awful. I couldn’t watch movies. I couldn’t read poetry or prose. All I could stand to read, all I could focus my attention on for more than a minute at a time, was comic books. This has pretty much always been true for me; whenever I come down with an illness bad enough to send me to bed, I wind up reading comics. I always have a little stash of unread comics lying around for that moment when I get sick and need to get out of my head.

@@ -1,8 +1,8 @@
 +++
 index = "-KTLH1FiVHofXidOhRkw"
-_sort_create_date = 1475695080
-_sort_last_updated = 1475695080
-_sort_publish_date = 1475695080
+sort_create_date = 1475695080
+sort_last_updated = 1475695080
+sort_publish_date = 1475695080
 create_date = "2016-10-05T12:18:00-07:00"
 publish_date = "2016-10-05T12:18:00-07:00"
 date = "2016-10-05T12:18:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Kansas City man facing charges for asking questions in a library."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/libraries"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This ABC News story [certainly isn't terrifying](http://abcnews.go.com/US/wireStory/official-outraged-charges-kc-library-arrests-42541101) or anything.

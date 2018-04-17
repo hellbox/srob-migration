@@ -1,8 +1,8 @@
 +++
 index = "-L6KpQcANJV7dSIfod54"
-_sort_create_date = 1519710960
-_sort_last_updated = 1519710960
-_sort_publish_date = 1519765260
+sort_create_date = 1519710960
+sort_last_updated = 1519710960
+sort_publish_date = 1519765260
 create_date = "2018-02-26T21:56:00-08:00"
 publish_date = "2018-02-27T13:01:00-08:00"
 date = "2018-02-27T13:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519710704309/feel
 twitterauto = "Did you know you can just walk into your neighborhood library and scoop up the newest, hottest books?"
 facebookauto = "Did you know you can just walk into your neighborhood library and scoop up the newest, hottest books?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-public-library"]
-authors_notes = ["authors/zadie-smith"]
+notes_about = ""
 books = ""
 +++
 Let's open with a word of praise, first, for [the Seattle Public Library's Peak Picks program](http://www.spl.org/library-collection/books-movies-and-music/peak-picks), which places copies of popular titles in neighborhood library branches on a first-come, first-serve basis. It's the perfect antidote to those long lists of holds that vex library users who want to read the hottest, newest titles on their release. The program encourages readers to visit their local library often, and it encourages high circulation numbers, and it gets hot new books into more hands.

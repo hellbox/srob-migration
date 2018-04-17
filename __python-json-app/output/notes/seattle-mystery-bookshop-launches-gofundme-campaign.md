@@ -1,8 +1,8 @@
 +++
 index = "-K85hQrkoK6owvi4coYL"
-_sort_create_date = 1452885240
-_sort_last_updated = 1452891180
-_sort_publish_date = 1452885240
+sort_create_date = 1452885240
+sort_last_updated = 1452891180
+sort_publish_date = 1452885240
 create_date = "2016-01-15T11:14:00-08:00"
 publish_date = "2016-01-15T11:14:00-08:00"
 date = "2016-01-15T11:14:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This morning, @SeattleMystery launched a GoFundMe campaign to raise $50,000 and save the bookshop."
 facebookauto = "This morning, Seattle Mystery Bookshop launched a GoFundMe campaign to raise $50,000 \"to make sure the rent is completely paid off, all our suppliers are happy, and to restore missing titles and depleted series to our shelves.\" "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-mystery-bookshop"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This morning, Pioneer Square's Seattle Mystery Bookshop [launched a GoFundMe campaign](http://seattlemysteryblog.typepad.com/seattle_mystery/2016/01/save-seattle-mystery-bookshop.html) "to make sure the rent is completely paid off, all our suppliers are happy, and to restore missing titles and depleted series to our shelves." Their goal is to [raise $50,000](https://www.gofundme.com/seattlemystery). Rewards for the campaign include signed first editions, a noirish 1974 Michael Garmin sculpture, tote bags, and coffee cups.

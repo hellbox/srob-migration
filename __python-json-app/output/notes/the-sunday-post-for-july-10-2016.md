@@ -1,8 +1,8 @@
 +++
 index = "-KMHE8kgCjDYYOH-T197"
-_sort_create_date = 1468111020
-_sort_last_updated = 1468743480
-_sort_publish_date = 1468166400
+sort_create_date = 1468111020
+sort_last_updated = 1468743480
+sort_publish_date = 1468166400
 create_date = "2016-07-09T17:37:00-07:00"
 publish_date = "2016-07-10T09:00:00-07:00"
 date = "2016-07-10T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sunday Post: a piece by @RufiThorpe, @brainpicker on creativity & mental illness, fiscal element of #police shootings"
 facebookauto = "Sunday Post: Rufi Thorpe on art and motherhood, creativity and mental illness, the fiscal element behind police shootings, the American Dream in Finland, and Adichie's election-themed short story."
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ["authors/rufi-thorpe", "authors/chimamanda-ngozi-adichie"]
+notes_about = ""
 books = ""
 +++
 <h5><a href="http://velamag.com/mother-writer-monster-maid/" title="Mother, Writer, Monster, Maid">Mother, Writer, Monster, Maid</a></h5>

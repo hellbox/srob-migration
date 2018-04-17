@@ -1,8 +1,8 @@
 +++
 index = "-K79rfFSuMDxFqnpiFBi"
-_sort_create_date = 1451881260
-_sort_last_updated = 1451881560
-_sort_publish_date = 1451936700
+sort_create_date = 1451881260
+sort_last_updated = 1451881560
+sort_publish_date = 1451936700
 create_date = "2016-01-03T20:21:00-08:00"
 publish_date = "2016-01-04T11:45:00-08:00"
 date = "2016-01-04T11:45:00-08:00"
@@ -13,10 +13,10 @@ title = "How Nick Licata won Seattle politics"
 dek = "After four terms as the most influential lefty in Seattle politics, Nick Licata retires from the city council today. Tomorrow he's publishing a guidebook for citizen activists. Can the book live up to the career of its author?"
 facebookauto = "After four terms as the most influential lefty in Seattle politics, Nick Licata retires from the city council today. Tomorrow he's publishing a guidebook for citizen activists. Can the book live up to the career of its author?"
 twitterauto = "Longtime Seattle progressive politician Nick Licata wrote a guidebook for citizen activists. How is it?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/becoming-a-citizen-activist"]
 tags_reviews = ["tags/city-council", "tags/activism"]
-authors_reviews = ["authors/nick-licata"]
+reviews_about = ""
 +++
 
 Today, Nick Licata is retiring from the Seattle City Council after four terms. He leaves behind a very impressive legacy. Licata was the most progressive member of the council at a time when Seattle was experimenting with a very prickly east coast version of urbanism, exemplified by Mark Sidran’s [atrocious civility laws](https://en.wikipedia.org/wiki/Mark_Sidran) and Joe Mallahan’s dumb corporate paternalism. And the council that is being sworn in today is more liberal, in part, because of Licata’s tireless advocacy for liberal causes. It’s hard to imagine a Seattle City Council packed with left-wingers like Kshama Sawant, Mike O’Brien, and (longtime Licata staffer) Lisa Herbold without Licata getting there first and making city government safe for progressive politicians.

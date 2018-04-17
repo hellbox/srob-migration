@@ -1,8 +1,8 @@
 +++
 index = "-L7jjOqfc8skUbJrJWMV"
-_sort_create_date = 1521219360
-_sort_last_updated = 1521219360
-_sort_publish_date = 1521226560
+sort_create_date = 1521219360
+sort_last_updated = 1521219360
+sort_publish_date = 1521226560
 create_date = "2018-03-16T09:56:00-07:00"
 publish_date = "2018-03-16T11:56:00-07:00"
 date = "2018-03-16T11:56:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521219202468/9780
 twitterauto = "Dear @ciennam: Can you suggest a book to help my gun-loving family see the light on gun violence?"
 facebookauto = "Dear Cienna: Is there a book that will help my gun-loving family see the light on gun violence?"
 make_image_tweet = "True"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/guns"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>

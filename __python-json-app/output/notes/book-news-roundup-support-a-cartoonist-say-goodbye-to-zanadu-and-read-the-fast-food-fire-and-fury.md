@@ -1,8 +1,8 @@
 +++
 index = "-L3WH3aq3zA949udet4B"
-_sort_create_date = 1516681800
-_sort_last_updated = 1516681800
-_sort_publish_date = 1516743000
+sort_create_date = 1516681800
+sort_last_updated = 1516681800
+sort_publish_date = 1516743000
 create_date = "2018-01-22T20:30:00-08:00"
 publish_date = "2018-01-23T13:30:00-08:00"
 date = "2018-01-23T13:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "All the book news you need:"
 facebookauto = "All the book news you need:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/zanadu-comics"]
-authors_notes = ["authors/sarah-glidden"]
+notes_about = ""
 books = ""
 +++
 * Seattle cartoonist [Sarah Glidden launched a Patreon](https://www.patreon.com/sarahglidden). For just a buck a month, Glidden will give you access to her diary comics. Glidden notes that her personal comics lately have been about her pregnancy and impending motherhood, and "I thought it would be nice to have a little more of an intimate space for posting comics of such a personal nature." Glidden has [already produced two books of excellent comics journalism](http://www.seattlereviewofbooks.com/notes/2015/10/19/new-hire-sarah-glidden-doesnt-believe-in-the-seattle-freeze/), and these personal strips give her an opportunity to share a different kind of story. 

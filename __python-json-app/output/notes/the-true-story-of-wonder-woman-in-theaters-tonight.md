@@ -1,8 +1,8 @@
 +++
 index = "-Kw93G9n1Kj2Hy7-Rx3c"
-_sort_create_date = 1507702380
-_sort_last_updated = 1507739280
-_sort_publish_date = 1507831200
+sort_create_date = 1507702380
+sort_last_updated = 1507739280
+sort_publish_date = 1507831200
 create_date = "2017-10-10T23:13:00-07:00"
 publish_date = "2017-10-12T11:00:00-07:00"
 date = "2017-10-12T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507701994525/wond
 twitterauto = "Here's our review of a movie about the not-so-secret origins of Wonder Woman."
 facebookauto = "Here's our review of a movie about the not-so-secret origins of Wonder Woman, and the three-way committed relationship that made the character possible."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/adaptation", "tags/wonder-woman"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1507701994525/wonderwomen.jpg)</p>

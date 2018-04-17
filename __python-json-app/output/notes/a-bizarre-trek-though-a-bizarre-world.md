@@ -1,8 +1,8 @@
 +++
 index = "-KYoqMDNCNiUJv105YRG"
-_sort_create_date = 1481576640
-_sort_last_updated = 1515475560
-_sort_publish_date = 1481578200
+sort_create_date = 1481576640
+sort_last_updated = 1515475560
+sort_publish_date = 1481578200
 create_date = "2016-12-12T13:04:00-08:00"
 publish_date = "2016-12-12T13:30:00-08:00"
 date = "2016-12-12T13:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481576585792/Unkn
 twitterauto = "Sponsor Conon Parks' novel is a weird trip we think you'll love"
 facebookauto = "Sponsor Conon Parks' novel is a weird trip we think you'll love"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/conon-parks"]
+notes_about = ""
 books = ["books/empty-bottle-of-smoke"]
 +++
 <p class="image-left">![](/webhook-uploads/1481576585792/Unknown-1.jpeg)</p>

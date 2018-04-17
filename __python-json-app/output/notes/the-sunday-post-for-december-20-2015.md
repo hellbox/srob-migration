@@ -1,8 +1,8 @@
 +++
 index = "-K6-MHHMAaYNu-EqO9Xi"
-_sort_create_date = 1450631280
-_sort_last_updated = 1450716120
-_sort_publish_date = 1450631280
+sort_create_date = 1450631280
+sort_last_updated = 1450716120
+sort_publish_date = 1450631280
 create_date = "2015-12-20T09:08:00-08:00"
 publish_date = "2015-12-20T09:08:00-08:00"
 date = "2015-12-20T09:08:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Sunday post: Rebecca Solnit and a difficult, but important, ProPublica piece about policing in rape cases."
 facebookauto = "Today's Sunday post: Rebecca Solnit and a difficult, but important, ProPublica piece about policing in rape cases."
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[Men Explain Lolita To Me](http://lithub.com/men-explain-lolita-to-me/)</h5>

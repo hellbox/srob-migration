@@ -1,8 +1,8 @@
 +++
 index = "-KouBX5HTFQDu7CIyJ9k"
-_sort_create_date = 1499919900
-_sort_last_updated = 1499919900
-_sort_publish_date = 1500483600
+sort_create_date = 1499919900
+sort_last_updated = 1499919900
+sort_publish_date = 1500483600
 create_date = "2017-07-12T21:25:00-07:00"
 publish_date = "2017-07-19T10:00:00-07:00"
 date = "2017-07-19T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499919572944/Forg
 twitterauto = "Find out why all of Seattle is losing its mind over Anastacia-Renee."
 facebookauto = "All of Seattle is losing its mind over Anastacia-Renee. Find out why at Elliott Bay this week."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/anastacia-renee"]
+notes_about = ""
 books = ""
 +++
 Every so often in Seattle, a writer pops into the popular consciousness. You’ll find them everywhere at once: in every Seattle-centric magazine, newspaper, and website that covers the literary scene. (Yes, and there aren’t so many of those these days, but that’s a complaint for another time.)

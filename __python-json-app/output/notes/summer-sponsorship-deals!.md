@@ -1,8 +1,8 @@
 +++
 index = "-KpCIZzTMhUJXiv_2N_D"
-_sort_create_date = 1500240540
-_sort_last_updated = 1500410400
-_sort_publish_date = 1500404400
+sort_create_date = 1500240540
+sort_last_updated = 1500410400
+sort_publish_date = 1500404400
 create_date = "2017-07-16T14:29:00-07:00"
 publish_date = "2017-07-18T12:00:00-07:00"
 date = "2017-07-18T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Some last-minute bargains on summer sponsorships!"
 facebookauto = "Some last-minute bargains on summer sponsorships!"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 We [just released our Sept 2017 - January 2018 sponorship openings](http://www.seattlereviewofbooks.com/notes/2017/07/03/sponsorships-now-open-through-january-2018/), and they've sold faster then ever. Of that block, only [~~three~~ _two_ dates](http://www.seattlereviewofbooks.com/sponsor/book/) remain available, in November and December. Thank you, sponsors!

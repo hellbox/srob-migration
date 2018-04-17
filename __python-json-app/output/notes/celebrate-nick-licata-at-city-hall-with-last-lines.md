@@ -1,8 +1,8 @@
 +++
 index = "-K57dBeud9sufIA_pRC6"
-_sort_create_date = 1449696420
-_sort_last_updated = 1449696420
-_sort_publish_date = 1449696420
+sort_create_date = 1449696420
+sort_last_updated = 1449696420
+sort_publish_date = 1449696420
 create_date = "2015-12-09T13:27:00-08:00"
 publish_date = "2015-12-09T13:27:00-08:00"
 date = "2015-12-09T13:27:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle's poets are about to say thanks to Councilmember Licata in the most weird, wonderful way."
 facebookauto = "Our artsiest city council member is leaving the job, and Seattle's poets are preparing a weird and wonderful sendoff for him."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/nick-licata"]
-authors_notes = ["authors/sierra-nelson"]
+notes_about = ""
 books = ""
 +++
 For some time now, City Councilmember Nick Licata has sponsored a neat event at City Hall called the Words' Worth Poetry Series. Selected poets would read a poem to kick off City Council meetings. It was a small gesture, but an important one: it's always good to remind the City Council that the arts is what makes Seattle so wonderfully livable. 

@@ -1,8 +1,8 @@
 +++
 index = "-KbMj1kzh8FSE0SCBcxC"
-_sort_create_date = 1485383100
-_sort_last_updated = 1485385620
-_sort_publish_date = 1485468000
+sort_create_date = 1485383100
+sort_last_updated = 1485385620
+sort_publish_date = 1485468000
 create_date = "2017-01-25T14:25:00-08:00"
 publish_date = "2017-01-26T14:00:00-08:00"
 date = "2017-01-26T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485385656381/SRoB
 twitterauto = "Portrait Gallery: Protest Signs, a portrait of some good ones painted  by @studiochristine"
 facebookauto = "Portrait Gallery: Protest Signs"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

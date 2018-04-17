@@ -1,8 +1,8 @@
 +++
 index = "-KaQaLwzlegx1kEemhd3"
-_sort_create_date = 1484374200
-_sort_last_updated = 1484374200
-_sort_publish_date = 1484762460
+sort_create_date = 1484374200
+sort_last_updated = 1484374200
+sort_publish_date = 1484762460
 create_date = "2017-01-13T22:10:00-08:00"
 publish_date = "2017-01-18T10:01:00-08:00"
 date = "2017-01-18T10:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484374080918/boys
 twitterauto = "This week's Event of the Week pairs Seattle musicians with Seattle authors."
 facebookauto = "This week's Event of the Week pairs Seattle musicians with Seattle authors. What happens next? A whole lot of really great music."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/town-hall-seattle", "tags/bushwick-book-club", "tags/seattle7writers"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Seattle’s edition of the Bushwick Book Club is named after a popular Brooklyn series in which musicians write original music in response to a popular work of literature. Since 2010, local singer/songwriters and bands have been gathering at venues ranging from the Century Ballroom to Town Hall Seattle to the Can Can to sing songs about books including *Slaughterhouse-Five*, *The Dark Knight Returns*, and *Silent Spring*.

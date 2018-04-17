@@ -1,8 +1,8 @@
 +++
 index = "-Kp3X40Gg8YkzuCuFovG"
-_sort_create_date = 1500093360
-_sort_last_updated = 1500162120
-_sort_publish_date = 1500134400
+sort_create_date = 1500093360
+sort_last_updated = 1500162120
+sort_publish_date = 1500134400
 create_date = "2017-07-14T21:36:00-07:00"
 publish_date = "2017-07-15T09:00:00-07:00"
 date = "2017-07-15T09:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Guns! Minimum wage! Taxes! Seattle is doooooooomed! Today in Seattle Writing Prompts: liberal dystopia."
 facebookauto = "Guns! Minimum wage! Taxes! Seattle is doooooooomed! Today in Seattle Writing Prompts: liberal dystopia."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-writing-prompts"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><a href="http://www.seattlereviewofbooks.com/tags/seattle-writing-prompts" title="The Seattle Review of Books">Seattle Writing Prompts</a> are intended to spark ideas for your writing, based on locations and stories of Seattle. Write something inspired by a prompt? [Send it to us](http://seattlereviewofbooks.com/about)! We're looking to publish writing sparked by prompts.<br><br>Also, how are we doing? Are writing prompts useful to you? Could we be doing better? [Reach out](http://seattlereviewofbooks.com/about) if you have ideas or feedback. We'd love to hear.</p>

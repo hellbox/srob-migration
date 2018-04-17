@@ -1,8 +1,8 @@
 +++
 index = "-KhzanOCuewLKyQeYWnn"
-_sort_create_date = 1492494480
-_sort_last_updated = 1492535280
-_sort_publish_date = 1492540500
+sort_create_date = 1492494480
+sort_last_updated = 1492535280
+sort_publish_date = 1492540500
 create_date = "2017-04-17T22:48:00-07:00"
 publish_date = "2017-04-18T11:35:00-07:00"
 date = "2017-04-18T11:35:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "15 years ago, the podcast S-Town almost certainly would be a book. Would that have been better?"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/podcast"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A couple weeks ago, I listened to the podcast *S-Town*. It was exactly as compelling as you’ve heard — a story of death and crime and poverty and hatred and mental illness. Of course the story of *S-Town* is more complex than just what’s in the narrative— the way it’s told, the elements of the story that don’t appear in the audio, are part of the podcast’s puzzle-box fascination.

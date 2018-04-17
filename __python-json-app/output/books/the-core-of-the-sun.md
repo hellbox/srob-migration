@@ -1,8 +1,8 @@
 +++
 index = "-K0rjvJ0eDkAab3Nf3Z4"
-_sort_create_date = 1445118060
-_sort_last_updated = 1453409040
-_sort_publish_date = 1445118060
+sort_create_date = 1445118060
+sort_last_updated = 1453409040
+sort_publish_date = 1445118060
 create_date = "2015-10-17T14:41:00-07:00"
 publish_date = "2015-10-17T14:41:00-07:00"
 date = "2015-10-17T14:41:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "https://lh3.googleusercontent.com/btuiHl6jJmXcwcVEuCQ1_j5nZyZg0-Y-v384u5oRE4s9QgXJBK5YY6QMoSqZRjha5-USQiJtlHkBkdW9OGSy09aFSAo"
 url = "/webhook-uploads/1445117989259/9780802124647.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 29899
 
 review_relationship = ["reviews/that-is-so-weird", "reviews/what-a-lovely-way-to-burn"]
-author_relationship = ["authors/johanna-sinisalo"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

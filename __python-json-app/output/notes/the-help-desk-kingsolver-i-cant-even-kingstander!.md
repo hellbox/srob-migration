@@ -1,8 +1,8 @@
 +++
 index = "-KCb3R2TrzMZJRBBnAZ0"
-_sort_create_date = 1457723100
-_sort_last_updated = 1457723280
-_sort_publish_date = 1457726700
+sort_create_date = 1457723100
+sort_last_updated = 1457723280
+sort_publish_date = 1457726700
 create_date = "2016-03-11T11:05:00-08:00"
 publish_date = "2016-03-11T12:05:00-08:00"
 date = "2016-03-11T12:05:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ".@ciennam on Kingsolver: \"I think I suffered a rage blackout for the entirety of Prodigal Summer.\""
 facebookauto = "Our advice columnist is not a huge fan of Barbara Kingsolver: \"I think I suffered a rage blackout for the entirety of Prodigal Summer.\""
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ["authors/barbara-kingsolver"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

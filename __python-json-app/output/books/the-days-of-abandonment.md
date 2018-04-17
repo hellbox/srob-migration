@@ -1,8 +1,8 @@
 +++
 index = "-Kqt8IgiXLbZh2tmhByi"
-_sort_create_date = 1502049780
-_sort_last_updated = 1502049780
-_sort_publish_date = 1502049780
+sort_create_date = 1502049780
+sort_last_updated = 1502049780
+sort_publish_date = 1502049780
 create_date = "2017-08-06T13:03:00-07:00"
 publish_date = "2017-08-06T13:03:00-07:00"
 date = "2017-08-06T13:03:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ES0drk2W8vJ3iWDKudi6wlgor40-UKtFGiFtdgNOy1RKmEQ-v47Vk67M3oNil5zVmBudgplJEG0eTClCCJ6v9WlL5fNw"
 url = "/webhook-uploads/1502049772877/The%20Days%20of%20Abandonment_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 19301
 
 review_relationship = ["reviews/translation-is-not-kale"]
-author_relationship = ["authors/elena-ferrante"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

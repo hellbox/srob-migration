@@ -1,8 +1,8 @@
 +++
 index = "-KPyTS0-LMDD7j7ahsAA"
-_sort_create_date = 1472074440
-_sort_last_updated = 1472074440
-_sort_publish_date = 1472074440
+sort_create_date = 1472074440
+sort_last_updated = 1472074440
+sort_publish_date = 1472074440
 create_date = "2016-08-24T14:34:00-07:00"
 publish_date = "2016-08-24T14:34:00-07:00"
 date = "2016-08-24T14:34:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/1T5qea_SVoMLQMz4H2R8L4GVVRSr3hqtUFQhcn7qX0l7YCRjp0TVfFNaAXZEt6_s2r58T3_mPNhXduWN5dNLm6FTz9Qk"
 url = "/webhook-uploads/1472074400502/zek.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 37751
 
 review_relationship = ["reviews/cancer-in-the-cells"]
-author_relationship = ["authors/arthur-longworth"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

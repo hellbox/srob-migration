@@ -1,8 +1,8 @@
 +++
 index = "-K-275v8oBMRAqFJWZS0"
-_sort_create_date = 1443161460
-_sort_last_updated = 1443161460
-_sort_publish_date = 1443161460
+sort_create_date = 1443161460
+sort_last_updated = 1443161460
+sort_publish_date = 1443161460
 create_date = "2015-09-24T23:11:00-07:00"
 publish_date = "2015-09-24T23:11:00-07:00"
 date = "2015-09-24T23:11:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/PGg9kkSTGv1shJFwsYyWtOQjjzx3N8VaAXPqGxo5JtW9IDBMN7sKh8xUBqBVf5lucwZ1DnMYjBFA3FpXX_0ri8XTpp3n6w"
 url = "/webhook-uploads/1443161413377/9780857664785.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 26492
 
 review_relationship = ["reviews/state-of-the-union"]
-author_relationship = ["authors/adam-rakunas"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/dont-forget-to-celebrate-small-business-saturday", "notes/a-labor-day-proposal-lets-create-more-blue-collar-novelists"]
 +++

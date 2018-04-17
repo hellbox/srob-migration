@@ -1,8 +1,8 @@
 +++
 index = "-KwhqWy-2EV9oB0lnRmI"
-_sort_create_date = 1508302740
-_sort_last_updated = 1508303400
-_sort_publish_date = 1508356680
+sort_create_date = 1508302740
+sort_last_updated = 1508303400
+sort_publish_date = 1508356680
 create_date = "2017-10-17T21:59:00-07:00"
 publish_date = "2017-10-18T12:58:00-07:00"
 date = "2017-10-18T12:58:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This Saturday, @ThirdPlaceBooks is donating 20% of all sales to Puerto Rico relief."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/third-place-books-lake-forest-park"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Got a press release from Third Place Books yesterday that deserves a signal boost. Here are the opening paragraphs:

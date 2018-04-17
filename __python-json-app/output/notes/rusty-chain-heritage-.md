@@ -1,8 +1,8 @@
 +++
 index = "-L7S1ANfUwfAec0ws_Qg"
-_sort_create_date = 1520905500
-_sort_last_updated = 1520906940
-_sort_publish_date = 1521564900
+sort_create_date = 1520905500
+sort_last_updated = 1520906940
+sort_publish_date = 1521564900
 create_date = "2018-03-12T18:45:00-07:00"
 publish_date = "2018-03-20T09:55:00-07:00"
 date = "2018-03-20T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520906963242/Scre
 twitterauto = "\"Rusty Chain Heritage\" is the third poem from March Poet in Residence @trippweavepoet"
 facebookauto = "\"Rusty Chain Heritage\" is the third poem from March Poet in Residence Julene Trip Weaver"
 make_image_tweet = "False"
-byline = ["writers/julene-tripp-weaver"]
+notes_byline = ["writers/julene-tripp-weaver"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The antique cards from my great grandmother,<br>

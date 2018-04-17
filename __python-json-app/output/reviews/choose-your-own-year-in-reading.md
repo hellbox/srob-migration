@@ -1,8 +1,8 @@
 +++
 index = "-KZdPhEM9cmELJIKQ9lx"
-_sort_create_date = 1482458580
-_sort_last_updated = 1482458580
-_sort_publish_date = 1483293720
+sort_create_date = 1482458580
+sort_last_updated = 1482458580
+sort_publish_date = 1483293720
 create_date = "2016-12-22T18:03:00-08:00"
 publish_date = "2017-01-01T10:02:00-08:00"
 date = "2017-01-01T10:02:00-08:00"
@@ -13,10 +13,10 @@ title = "Choose your own year in reading"
 dek = "Which book are you starting 2017 with? Here are two good options \u2014\u00a0one fiction, and one non-fiction."
 facebookauto = "So what\u2019s your first new book of 2017 going to be? "
 twitterauto = "So what\u2019s your first new book of 2017 going to be? "
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/serious-sweet", "books/absolutely-on-music"]
 tags_reviews = ["tags/novel", "tags/man-booker-prize", "tags/music"]
-authors_reviews = ["authors/al-kennedy", "authors/haruki-murakami"]
+reviews_about = ""
 +++
 
 Sometimes I get a little obsessive about my reading. As a child, I recall spending one New Year’s Eve reading Terry Pratchett’s novel *Sourcery* as quickly as I could — partly because it captured my attention so intently, and partly because I wanted to close the year by finishing a book. Further, I wanted to begin the year with a brand-new book. This desire to start the new year with a new book felt like a powerful urge. What’s New Year’s for, if not a cleaning of the chalkboard, a fresh clean sheet of paper on which to start again? And what feeling is more symbolic of a new year than the cracking open of a new book with all its possibility and potential?

@@ -1,8 +1,8 @@
 +++
 index = "-L5w7uyfXQQw2LtLR5YV"
-_sort_create_date = 1519279860
-_sort_last_updated = 1519327800
-_sort_publish_date = 1519329600
+sort_create_date = 1519279860
+sort_last_updated = 1519327800
+sort_publish_date = 1519329600
 create_date = "2018-02-21T22:11:00-08:00"
 publish_date = "2018-02-22T12:00:00-08:00"
 date = "2018-02-22T12:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519279786238/Into
 twitterauto = "Many reviews, and an interview with @MegGardiner1, in @daneetsteffens' Criminal Fiction"
 facebookauto = "Many reviews, and an interview with Meg Gardiner, in Daneet Steffens' Criminal Fiction column"
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/james-lee-burke", "authors/meg-gardiner", "authors/sujata-massey", "authors/mick-herron", "authors/alafair-burke", "authors/sarah-pekkanen", "authors/greer-hendricks"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

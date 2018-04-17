@@ -1,8 +1,8 @@
 +++
 index = "-K9ucpjJaySOO7JY87bO"
-_sort_create_date = 1454830200
-_sort_last_updated = 1454830380
-_sort_publish_date = 1454864400
+sort_create_date = 1454830200
+sort_last_updated = 1454830380
+sort_publish_date = 1454864400
 create_date = "2016-02-06T23:30:00-08:00"
 publish_date = "2016-02-07T09:00:00-08:00"
 date = "2016-02-07T09:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Sunday Post has pieces by @vcunningham, @charliejane, and @cindi_may."
 facebookauto = "The Sunday Post is here, with a profile of the man behind a black literary movement, an appraisal of what it means to be a modern science fiction author, and a a piece that questions whether female superheroines are good roll models for girls."
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/the-sunday-post"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>[How Chris Jackson Is Building a Black Literary Movement](http://www.nytimes.com/2016/02/07/magazine/how-chris-jackson-is-building-a-black-literary-movement.html?_r=0)</h5>

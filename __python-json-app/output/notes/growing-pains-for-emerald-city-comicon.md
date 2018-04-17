@@ -1,8 +1,8 @@
 +++
 index = "-KF1y3b3Vs9CgrNC8Dyu"
-_sort_create_date = 1460338680
-_sort_last_updated = 1460397660
-_sort_publish_date = 1460405400
+sort_create_date = 1460338680
+sort_last_updated = 1460397660
+sort_publish_date = 1460405400
 create_date = "2016-04-10T18:38:00-07:00"
 publish_date = "2016-04-11T13:10:00-07:00"
 date = "2016-04-11T13:10:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "What was your Emerald City Comicon experience like? Let us know!"
 facebookauto = "A few people we talked to at Emerald City Comicon had difficult experiences with organizational growing pains. How about you?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/emerald-city-comicon"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This year was the first Emerald City Comicon under the management of national convention chain ReedPOP, and the local comics community was understandably nervous about what that might mean for the region’s largest convention. ECCC director [Jim Demonakos assured the media last year]( http://comicsalliance.com/emerald-city-comicon-reedpop-acquisitn-interview-demonakos-fensterman/) that ReedPOP  wouldn’t affect the flavor of the convention at all, but comics people are resistant to change and prone to worry, so everyone had their feelers out for problems.

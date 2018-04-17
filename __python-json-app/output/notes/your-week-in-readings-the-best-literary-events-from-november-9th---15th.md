@@ -1,8 +1,8 @@
 +++
 index = "-K2Uyb78dlhrW60f2rMB"
-_sort_create_date = 1446866700
-_sort_last_updated = 1446866700
-_sort_publish_date = 1447091100
+sort_create_date = 1446866700
+sort_last_updated = 1446866700
+sort_publish_date = 1447091100
 create_date = "2015-11-06T19:25:00-08:00"
 publish_date = "2015-11-09T09:45:00-08:00"
 date = "2015-11-09T09:45:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Your week in readings starts tonight @elliottbaybook and also includes comics, veterans, and comics veterans."
 facebookauto = "Looking for something to do this week? Paul Constant has found the best literary event for every day from Monday to Sunday. There's a lot of different stuff packed into one week: sci-fi, comics, literary fiction, true stories from veterans, and a living magazine."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/town-hall-seattle", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/hugo-house", "tags/elliott-bay-book-company", "tags/university-book-store"]
-authors_notes = ["authors/jonathan-lethem"]
+notes_about = ""
 books = ""
 +++
 **MONDAY** **Garth Risk Hallberg** reads from his enormous, buzzy debut novel *City on Fire* at [Elliott Bay Book Company](http://www.elliottbaybook.com/event/garth-risk-hallberg). I haven’t read this one yet — every season seemingly brings with it a Big Ambitious Novel By a Young White Guy, and it’s very hard to tell which of them really matter. (The last one of these big novels, Joshua Cohen’s *The Book of Numbers*, was widely celebrated as a success on its release this spring, but most people I know who’ve read it call it a bust.) Everybody’s talking about *Fire* for its depiction of New York City in the 1970s, which is at least promising; if a writer can successfully write about a city, they’re probably worth your time. 

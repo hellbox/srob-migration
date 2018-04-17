@@ -1,8 +1,8 @@
 +++
 index = "-K_qhVKrxKAQENNZczzu"
-_sort_create_date = 1483755300
-_sort_last_updated = 1487437980
-_sort_publish_date = 1483812000
+sort_create_date = 1483755300
+sort_last_updated = 1487437980
+sort_publish_date = 1483812000
 create_date = "2017-01-06T18:15:00-08:00"
 publish_date = "2017-01-07T10:00:00-08:00"
 date = "2017-01-07T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483755321973/smit
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-writing-prompts"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">New column! Seattle Writing Prompts are intended to spark ideas for your writing, based on locations and stories of Seattle. Write something inspired by a prompt? [Send it to us](http://seattlereviewofbooks.com/about)! We're looking to publish writing sparked by prompts.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L3yS1mlYcchmXVlqrf1"
-_sort_create_date = 1517171220
-_sort_last_updated = 1517172180
-_sort_publish_date = 1517171220
+sort_create_date = 1517171220
+sort_last_updated = 1517172180
+sort_publish_date = 1517171220
 create_date = "2018-01-28T12:27:00-08:00"
 publish_date = "2018-01-28T12:27:00-08:00"
 date = "2018-01-28T12:27:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DgOXZZrj0vdLaFpH7LONB3ICkVQQQwkAgoHtEvOJwFEnFLIi8qvGGK6r1_hd_kj19JQAcPt4SY0j4ALasmArk4PBBxHA1w"
 url = "/webhook-uploads/1517172192549/Ranger%20Games_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 24744
 
 review_relationship = ["reviews/too-complicated-to-feel"]
-author_relationship = ["authors/ben-blum"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

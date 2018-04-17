@@ -1,8 +1,8 @@
 +++
 index = "-K4z5myvwqtNYQXQBOOq"
-_sort_create_date = 1449536460
-_sort_last_updated = 1449541680
-_sort_publish_date = 1449536460
+sort_create_date = 1449536460
+sort_last_updated = 1449541680
+sort_publish_date = 1449536460
 create_date = "2015-12-07T17:01:00-08:00"
 publish_date = "2015-12-07T17:01:00-08:00"
 date = "2015-12-07T17:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to @ancawrites, who just won the first Gar LaSalle Storyteller Award from @artisttrust!"
 facebookauto = "Seattle writer Anca Szil\u00e1gyi has been having a great year, and it just got even greater\u00a0\u2014 she just won the very first Gar LaSalle Storyteller Award from the good people at Artist Trust!"
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/artist-trust"]
-authors_notes = ["authors/anca-l-szil\u00e1gyi"]
+notes_about = ""
 books = ""
 +++
 Just got a press release that ended the day on a happy note:

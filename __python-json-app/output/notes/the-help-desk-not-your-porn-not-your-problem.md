@@ -1,8 +1,8 @@
 +++
 index = "-KtOaWTVEuTBvxwNIg3K"
-_sort_create_date = 1504741800
-_sort_last_updated = 1504741800
-_sort_publish_date = 1504889400
+sort_create_date = 1504741800
+sort_last_updated = 1504741800
+sort_publish_date = 1504889400
 create_date = "2017-09-06T16:50:00-07:00"
 publish_date = "2017-09-08T09:50:00-07:00"
 date = "2017-09-08T09:50:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Dear @ciennam: Someone is watching porn on public computers at the library! What do I do?"
 facebookauto = "Dear Cienna: Some guy is watching porn on public computers at the library! What should I do?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk", "tags/porn", "tags/seattle-public-library"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna Madrid can help. Send your Help Desk Questions to advice@seattlereviewofbooks.com.</p>

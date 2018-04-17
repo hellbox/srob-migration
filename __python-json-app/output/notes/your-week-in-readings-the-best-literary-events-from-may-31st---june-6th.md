@@ -1,8 +1,8 @@
 +++
 index = "-Kl2ePZlv-N7XHiswvVJ"
-_sort_create_date = 1495783800
-_sort_last_updated = 1496324820
-_sort_publish_date = 1496257260
+sort_create_date = 1495783800
+sort_last_updated = 1496324820
+sort_publish_date = 1496257260
 create_date = "2017-05-26T00:30:00-07:00"
 publish_date = "2017-05-31T12:01:00-07:00"
 date = "2017-05-31T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495783543249/will
 twitterauto = "Volcanoes! Salmon! Whiteness! And much more coming up for your week in readings."
 facebookauto = "Your week in readings brings a conversation about whiteness, a book about salmon, and a talk about volcanoes."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/lindy-west"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1495783543249/willmatter.jpg)</p>

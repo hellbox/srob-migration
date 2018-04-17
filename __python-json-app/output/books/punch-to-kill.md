@@ -1,8 +1,8 @@
 +++
 index = "-K3JRLAXApodxrK5xx8s"
-_sort_create_date = 1447746900
-_sort_last_updated = 1447824180
-_sort_publish_date = 1447746900
+sort_create_date = 1447746900
+sort_last_updated = 1447824180
+sort_publish_date = 1447746900
 create_date = "2015-11-16T23:55:00-08:00"
 publish_date = "2015-11-16T23:55:00-08:00"
 date = "2015-11-16T23:55:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/afAaA_MrTpd4-J4LkYJAzH4KsGW5yyG06xuwOyIZEDjJLUzEhDc_YIzZT5Ffvbeuv1TGaErhnyeahUT5BA7VFvjYePk"
 url = "/webhook-uploads/1447746891492/punch-to-kill.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 100763
 
 review_relationship = ["reviews/sex-and-violence-and-the-sex-of-violence"]
-author_relationship = ["authors/kevin-clarke", "authors/will-long", "authors/marc-palm"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/when-this-cartoonist-broke-his-right-arm-he-taught-himself-how-to-draw-with-his-left"]
 +++

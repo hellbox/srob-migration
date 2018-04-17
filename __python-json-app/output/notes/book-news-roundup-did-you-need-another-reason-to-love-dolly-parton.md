@@ -1,8 +1,8 @@
 +++
 index = "-L6PgtGpvAyoKl6SFWW6"
-_sort_create_date = 1519792620
-_sort_last_updated = 1519844220
-_sort_publish_date = 1519851360
+sort_create_date = 1519792620
+sort_last_updated = 1519844220
+sort_publish_date = 1519851360
 create_date = "2018-02-27T20:37:00-08:00"
 publish_date = "2018-02-28T12:56:00-08:00"
 date = "2018-02-28T12:56:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Quick! Guess how many books Dolly Parton has donated to families in need."
 facebookauto = "Quick! Guess how many books Dolly Parton has donated to families in need."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Emerald City Comicon is coming this weekend! The fantastic [Sarah Anne Lloyd at Curbed](https://seattle.curbed.com/maps/seattle-comic-book-shops) compiled a handy list of Seattle-area comics shops to visit over the weekend. I have to admit, I had never heard of Burien's [Ancient Comics](https://www.facebook.com/Ancientcomics-278474455532743/) until I read this list and now I can't wait to check it out. 

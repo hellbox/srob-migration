@@ -1,8 +1,8 @@
 +++
 index = "-K1m6WuNfoAKoWc-QJEa"
-_sort_create_date = 1446097320
-_sort_last_updated = 1446135660
-_sort_publish_date = 1446143400
+sort_create_date = 1446097320
+sort_last_updated = 1446135660
+sort_publish_date = 1446143400
 create_date = "2015-10-28T22:42:00-07:00"
 publish_date = "2015-10-29T11:30:00-07:00"
 date = "2015-10-29T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/mike-allred"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1446097100181/artops1.jpg)</p>The first issue of *Art Ops*, a new comic by Shaun Simon and Mike Allred, contains one indelible image: Mona Lisa, shopping in a contemporary grocery store. She’s wearing a bright yellow hoodie, and she’s buying cans of soup — Campbell’s soup, of course, an obvious shout-out to Andy Warhol, who has a cameo elsewhere in the issue. The young man running the checkout counter screws up the nerves to ask her out: “So, Lisa, I was wondering if you…if you wanted to catch a movie or something.” Mona Lisa responds, of course, with a mysterious little smile, and before she can say anything in response, something weird interrupts the moment.

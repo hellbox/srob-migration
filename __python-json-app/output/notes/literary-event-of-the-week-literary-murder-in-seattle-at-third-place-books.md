@@ -1,8 +1,8 @@
 +++
 index = "-L7Xr48Uz-8trC5Bn7eA"
-_sort_create_date = 1521003240
-_sort_last_updated = 1521003240
-_sort_publish_date = 1521478440
+sort_create_date = 1521003240
+sort_last_updated = 1521003240
+sort_publish_date = 1521478440
 create_date = "2018-03-13T21:54:00-07:00"
 publish_date = "2018-03-19T09:54:00-07:00"
 date = "2018-03-19T09:54:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521003179018/tell
 twitterauto = "Tonight, a mystery author and a city walks expert discuss the best places in Seattle to commit murder."
 facebookauto = "Tonight, a mystery author and a city walks expert discuss the best places in Seattle to commit murder."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/david-b-williams"]
+notes_about = ""
 books = ""
 +++
 We look to novelists to inspire us, but we also look to them to tweak the ugliest parts of our imaginations, to invent the unimaginable, to speak the unsayable. It's not that humans are inherently bad, exactly. We're just inherently fascinated by bad behavior. That's why the Devil - with a little more than a glorified cameo - became the sleeper favorite character of the Bible. We like to think about terrible things, and then we like to put the book down and resume our ordinary lives.

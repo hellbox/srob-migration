@@ -1,8 +1,8 @@
 +++
 index = "-KeLPsU5c-vYkUtb0Udf"
-_sort_create_date = 1488582300
-_sort_last_updated = 1488582300
-_sort_publish_date = 1489003260
+sort_create_date = 1488582300
+sort_last_updated = 1488582300
+sort_publish_date = 1489003260
 create_date = "2017-03-03T15:05:00-08:00"
 publish_date = "2017-03-08T12:01:00-08:00"
 date = "2017-03-08T12:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488582134310/toug
 twitterauto = "Your week in readings begins tonight with a talk about native Seattle."
 facebookauto = "You've got a lot coming up this week including a memoir by a Portland Olympian, a conversation about native Seattle, Timothy Egan, and much, much more."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/elissa-washuta", "authors/timothy-egan"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday March 8th: *Native Seattle* Reading**</h5></p> 

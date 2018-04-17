@@ -1,8 +1,8 @@
 +++
 index = "-L1W2P4kQO0mJjbvfaS4"
-_sort_create_date = 1514530500
-_sort_last_updated = 1514657220
-_sort_publish_date = 1514655000
+sort_create_date = 1514530500
+sort_last_updated = 1514657220
+sort_publish_date = 1514655000
 create_date = "2017-12-28T22:55:00-08:00"
 publish_date = "2017-12-30T09:30:00-08:00"
 date = "2017-12-30T09:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "https://farm6.staticflickr.com/5208/5312273860_e1ddfb1d33_b.jpg"
 twitterauto = "Seattle Writing Prompts visits the space needle on New Year's Eve, 18 years ago. "
 facebookauto = "Seattle Writing Prompts visits the space needle on New Year's Eve, 18 years ago. "
 make_image_tweet = "False"
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/seattle-writing-prompts"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro"><a href="http://www.seattlereviewofbooks.com/tags/seattle-writing-prompts" title="The Seattle Review of Books">Seattle Writing Prompts</a> are intended to spark ideas for your writing, based on locations and stories of Seattle. Write something inspired by a prompt? [Send it to us](http://seattlereviewofbooks.com/about)! We're looking to publish writing sparked by prompts.<br><br>Also, how are we doing? Are writing prompts useful to you? Could we be doing better? [Reach out](http://seattlereviewofbooks.com/about) if you have ideas or feedback. We'd love to hear.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KZNxJipwUkFmi8wftT1"
-_sort_create_date = 1482182400
-_sort_last_updated = 1482182400
-_sort_publish_date = 1482183000
+sort_create_date = 1482182400
+sort_last_updated = 1482182400
+sort_publish_date = 1482183000
 create_date = "2016-12-19T13:20:00-08:00"
 publish_date = "2016-12-19T13:30:00-08:00"
 date = "2016-12-19T13:30:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482182346319/fay-
 twitterauto = "Sponsor @saggingmeniscus is here with a marvelous book about growing up in old New York"
 facebookauto = "Sponsor Sagging Meniscus Press is showing a marvelous book about growing up in old New York"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/fay-webern"]
+notes_about = ""
 books = ["books/the-button-thief-of-east-14th-street"]
 +++
 <p class="image-left">![](/webhook-uploads/1482182403693/fay-webern.jpg)</p>

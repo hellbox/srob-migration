@@ -1,8 +1,8 @@
 +++
 index = "-L4-MfdqfH_ZjSzswglK"
-_sort_create_date = 1517203620
-_sort_last_updated = 1517293980
-_sort_publish_date = 1517203620
+sort_create_date = 1517203620
+sort_last_updated = 1517293980
+sort_publish_date = 1517203620
 create_date = "2018-01-28T21:27:00-08:00"
 publish_date = "2018-01-28T21:27:00-08:00"
 date = "2018-01-28T21:27:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Bw3q3YjzLfmnvY4GNkepisafqJMpSrumh_JWSKpc5_CHmHNgGuxrugCCT7ADQXku4Cvy1B3ytqcdoU3KflvqQzTU2uQ"
 url = "/webhook-uploads/1517203638753/Seventh%20Function_250.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 15647
 
 review_relationship = ["reviews/it-all-works-out-in-theory"]
-author_relationship = ["authors/laurent-binet"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

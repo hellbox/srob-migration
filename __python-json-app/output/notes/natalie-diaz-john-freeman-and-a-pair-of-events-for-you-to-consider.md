@@ -1,8 +1,8 @@
 +++
 index = "-L-_VrFen5KjQgwG8-9z"
-_sort_create_date = 1512457860
-_sort_last_updated = 1512495420
-_sort_publish_date = 1512501300
+sort_create_date = 1512457860
+sort_last_updated = 1512495420
+sort_publish_date = 1512501300
 create_date = "2017-12-04T23:11:00-08:00"
 publish_date = "2017-12-05T11:15:00-08:00"
 date = "2017-12-05T11:15:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512457606086/tale
 twitterauto = "Tonight: John Freeman and Natalie Diaz @SPLBuzz. Tomorrow: discuss John Freeman's book @ThirdPlaceBooks."
 facebookauto = "Tonight, John Freeman will appear in conversation with the great indigenous poet Natalie Diaz. Tomorrow night, please join us to discuss Freeman's recent anthology about economic inequality."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/events"]
-authors_notes = ["authors/john-freeman"]
+notes_about = ""
 books = ""
 +++
 Yesterday, I told you that Arizona poet Natalie Diaz is in town for [a fantastic new series of events celebrating indigenous women writers](http://www.seattlereviewofbooks.com/notes/2017/12/04/literary-event-of-the-week-poetry-across-the-nations-an-indigenous-reading/) called Poetry Across the Nations. 

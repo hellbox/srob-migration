@@ -1,8 +1,8 @@
 +++
 index = "-KsvtTWeM6MD2FQjxilD"
-_sort_create_date = 1504243440
-_sort_last_updated = 1504841640
-_sort_publish_date = 1506452160
+sort_create_date = 1504243440
+sort_last_updated = 1504841640
+sort_publish_date = 1506452160
 create_date = "2017-08-31T22:24:00-07:00"
 publish_date = "2017-09-26T11:56:00-07:00"
 date = "2017-09-26T11:56:00-07:00"
@@ -13,10 +13,10 @@ title = "We built this city"
 dek = "Can urban diaries help shape Seattle into the city that we want it to be?"
 facebookauto = "Can keeping an urban diary help shape Seattle into the city you want it to be?"
 twitterauto = "Can keeping an urban diary help shape Seattle into the city you want it to be?"
-byline = ["writers/paul-constant"]
+reviews_byline = ["writers/paul-constant"]
 books_in_this_review = ["books/seeing-the-better-city"]
 tags_reviews = ""
-authors_reviews = ["authors/charles-r-wolfe"]
+reviews_about = ""
 +++
 
 Seattle writer Charles R. Wolfe’s recent book *Seeing the Better City: How to Explore, Observe, and Improve Urban Space* argues that city-dwellers are more than just passive participants in the urban experience. Wolfe contends that it is everyone’s job to investigate cities, to note changes in neighborhoods, to imagine ways that the city might be improved, to record the interaction between humans and their environment.

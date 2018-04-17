@@ -1,8 +1,8 @@
 +++
 index = "-KJD3H3G1KM4T-HbtCI6"
-_sort_create_date = 1464819840
-_sort_last_updated = 1464819840
-_sort_publish_date = 1464819840
+sort_create_date = 1464819840
+sort_last_updated = 1464819840
+sort_publish_date = 1464819840
 create_date = "2016-06-01T15:24:00-07:00"
 publish_date = "2016-06-01T15:24:00-07:00"
 date = "2016-06-01T15:24:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We're so happy for Teri Hein, and we can't wait to see what the Bureau of @Fearless_Ideas does next."
 facebookauto = "We're so happy for Teri Hein, and we can't wait to see what the Bureau of Fearless Ideas does next."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bureau-of-fearless-ideas"]
-authors_notes = ["authors/david-lasky"]
+notes_about = ""
 books = ""
 +++
 Well, [this is huge](http://fearlessideas.org/the_latest/detail/teris-update-june-2016). 

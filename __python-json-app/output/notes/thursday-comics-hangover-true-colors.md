@@ -1,8 +1,8 @@
 +++
 index = "-KlWjKdtrnDuCoHDTf8N"
-_sort_create_date = 1496288400
-_sort_last_updated = 1496324160
-_sort_publish_date = 1496336340
+sort_create_date = 1496288400
+sort_last_updated = 1496324160
+sort_publish_date = 1496336340
 create_date = "2017-05-31T20:40:00-07:00"
 publish_date = "2017-06-01T09:59:00-07:00"
 date = "2017-06-01T09:59:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496288252419/spil
 twitterauto = "The future of comics is YA, and @ScottWesterfeld's Spill Zone is right at the forefront."
 facebookauto = "The future of comics is young adult, and Scott Westerfeld's new book Spill Zone is right out at the forefront."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/young-adult"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 The future of comic books is not superheroes; it’s young adult fiction. If you look back on the last fifteen years or so of popular comics bestsellers, it’s pretty easy to track the direction of reader and creator interest, from Mark Millar to Bryan Lee O’Malley to Faith Erin Hicks. It’s not as big a shift as, say, the death of the western novel, but it’s definitely there: whereas comics used to be serialized monthly to large and eager audiences, we’re seeing more and more trilogies starring young characters (mostly girls) released in large chunks once a year or so.

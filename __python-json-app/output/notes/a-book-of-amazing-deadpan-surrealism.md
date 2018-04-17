@@ -1,8 +1,8 @@
 +++
 index = "-Ke-RbsKzL_WngswWIos"
-_sort_create_date = 1488213660
-_sort_last_updated = 1488680160
-_sort_publish_date = 1488229200
+sort_create_date = 1488213660
+sort_last_updated = 1488680160
+sort_publish_date = 1488229200
 create_date = "2017-02-27T08:41:00-08:00"
 publish_date = "2017-02-27T13:00:00-08:00"
 date = "2017-02-27T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488213809876/Wret
 twitterauto = "Sponsor @saggingmeniscus is here with Stephen Moles latest, and video of the author reading"
 facebookauto = "Sponsor Sagging Meniscus is here with Stephen Moles latest, and video of the author reading"
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/stephen-moles"]
+notes_about = ""
 books = ["books/the-most-wretched-thing-imaginable-or-beneath-the-burnt-umbrella"]
 +++
 <p class="image-left">![](/webhook-uploads/1488213610002/unspecified.jpeg)</p>

@@ -1,8 +1,8 @@
 +++
 index = "-L1y5bC9oJuAGhGt-AUb"
-_sort_create_date = 1515017880
-_sort_last_updated = 1515018720
-_sort_publish_date = 1515018720
+sort_create_date = 1515017880
+sort_last_updated = 1515018720
+sort_publish_date = 1515018720
 create_date = "2018-01-03T14:18:00-08:00"
 publish_date = "2018-01-03T14:32:00-08:00"
 date = "2018-01-03T14:32:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515017002586/word
 twitterauto = "Thank you, @SeaArtsLectures, for honoring us alongside the great @gwinnma as Prowda Literary Champions!"
 facebookauto = "Thank you, Seattle Arts and Lectures, for honoring us alongside the great Mary Ann Gwinn as Prowda Literary Champions!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-arts-and-lectures", "tags/mary-ann-gwinn"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1515017002586/wordsmatter.jpg)</p>

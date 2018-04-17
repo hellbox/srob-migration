@@ -1,8 +1,8 @@
 +++
 index = "-KGSW43nzUw8CT-XJ6-f"
-_sort_create_date = 1461857820
-_sort_last_updated = 1461861840
-_sort_publish_date = 1461870000
+sort_create_date = 1461857820
+sort_last_updated = 1461861840
+sort_publish_date = 1461870000
 create_date = "2016-04-28T08:37:00-07:00"
 publish_date = "2016-04-28T12:00:00-07:00"
 date = "2016-04-28T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "What she thought, but did say"
 dek = "At the end of National Poetry Month, one writer looks back at a book he never fully walked away from. "
 facebookauto = "Some love for Seattle's own Heather McHugh today, starting with a look back at her well-loved collection \"Hinge & Sign\"."
 twitterauto = "Some love for @heathermchugh on the site today, starting with a look at her well-loved collection \"Hinge & Sign\"."
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/hinge-&-sign-poems-1968-1993"]
 tags_reviews = ["tags/poetry"]
-authors_reviews = ["authors/heather-mchugh"]
+reviews_about = ""
 +++
 
 You never stop reciting certain lines from certain poems. Whether battered into your head through schoolroom platforms, or the kind of reading every poetry lover experiences: reading, and then that heart-stopping feeling of your mind bending to the poet's will. The special effects in the movie <a href="http://www.imdb.com/title/tt1375666/" title="Inception (2010) - IMDb">_Inception_</a> are familiar to the poetry lover, we feel that world spin every now and again.

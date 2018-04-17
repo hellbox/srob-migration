@@ -1,8 +1,8 @@
 +++
 index = "-K4xKR0hsQVa95e0MQPY"
-_sort_create_date = 1449506700
-_sort_last_updated = 1449512820
-_sort_publish_date = 1449518400
+sort_create_date = 1449506700
+sort_last_updated = 1449512820
+sort_publish_date = 1449518400
 create_date = "2015-12-07T08:45:00-08:00"
 publish_date = "2015-12-07T12:00:00-08:00"
 date = "2015-12-07T12:00:00-08:00"
@@ -13,10 +13,10 @@ title = "Crow quill pen and bible black ink"
 dek = "Molly Crabapple has spent years illustrating and writing about protests and political outsiders overseas. What happens when she turns her pen to writing prose about her own life?"
 facebookauto = "Molly Crabapple: activist, artist, witness, and now memoirist. The artist turns her pen to herself, but how well rendered is that self-portrait?"
 twitterauto = "Everybody is all abuzz about @mollycrabapple's memoir. Is it worthy of the praise? @hellbox thinks so."
-byline = ["writers/martin-mcclellan"]
+reviews_byline = ["writers/martin-mcclellan"]
 books_in_this_review = ["books/drawing-blood"]
 tags_reviews = ["tags/book-art", "tags/memoir"]
-authors_reviews = ["authors/molly-crabapple"]
+reviews_about = ""
 +++
 
 I've always wondered how art collectors decide which artists to collect &mdash; not the profit driven monsters who play galleries like traders play the markets, but true fans who love art and emerging artists, who show up early and often, and buy many pieces by new talent. But it dawned me while I read Molly Crabapple's memoir _Drawing Blood_: they learn the artist's story. When you learn someone's story, you forge an empathetic lock with them. You learn them, and if you are a curious person, you want to know more. A painting hanging on your wall represents aesthetic and craft appreciation, but more than that, it represents the story of the artist, and the story of the collector who met the artist and had some kind of relationship with them. 

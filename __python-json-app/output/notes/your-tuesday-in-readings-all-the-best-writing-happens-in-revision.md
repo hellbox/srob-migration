@@ -1,8 +1,8 @@
 +++
 index = "-KCDuuoyq1GAmHtiL4gQ"
-_sort_create_date = 1457317980
-_sort_last_updated = 1457317980
-_sort_publish_date = 1457457120
+sort_create_date = 1457317980
+sort_last_updated = 1457317980
+sort_publish_date = 1457457120
 create_date = "2016-03-06T18:33:00-08:00"
 publish_date = "2016-03-08T09:12:00-08:00"
 date = "2016-03-08T09:12:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Tonight's featured event is a roundtable on revision happening @HugoHouse. "
 facebookauto = "Tonight's featured event is a roundtable on revision happening at Hugo House. Go learn the (secretly) most important part of writing."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/hugo-house"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Your Week in Readings, our weekly column highlighting one amazing event per day, is moving to Wednesdays. But we don't want to leave you without events for two days, so here's a special supplementary listing for today:</p>

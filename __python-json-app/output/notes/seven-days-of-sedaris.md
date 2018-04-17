@@ -1,8 +1,8 @@
 +++
 index = "-K_k747iY1JPKhZ7iUWT"
-_sort_create_date = 1483644840
-_sort_last_updated = 1483644960
-_sort_publish_date = 1483650000
+sort_create_date = 1483644840
+sort_last_updated = 1483644960
+sort_publish_date = 1483650000
 create_date = "2017-01-05T11:34:00-08:00"
 publish_date = "2017-01-05T13:00:00-08:00"
 date = "2017-01-05T13:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sponsor Northwest Allied Arts is bringing David Sedaris to the Broadway Performance Hall for eight shows!"
 facebookauto = "Sponsor Northwest Allied Arts is bringing David Sedaris to the Broadway Performance Hall for eight shows!"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1483644876356/unnamed.gif)</p>

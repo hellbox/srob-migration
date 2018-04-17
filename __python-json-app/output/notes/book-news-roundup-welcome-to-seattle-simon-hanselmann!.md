@@ -1,8 +1,8 @@
 +++
 index = "-KFrPJ7xz7JMGqLMcj0C"
-_sort_create_date = 1461218520
-_sort_last_updated = 1461345540
-_sort_publish_date = 1461345540
+sort_create_date = 1461218520
+sort_last_updated = 1461345540
+sort_publish_date = 1461345540
 create_date = "2016-04-20T23:02:00-07:00"
 publish_date = "2016-04-22T10:19:00-07:00"
 date = "2016-04-22T10:19:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes a local cartoonist, a beloved editor fired under weird circumstances, and more."
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/book-news-roundup", "tags/ghosts-of-seattle-past", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/vertigo"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Have you read Kelton Sears's profile of new-to-Seattle cartoonist Simon Hanselmann yet? [You really should](http://www.seattleweekly.com/home/963735-129/tasmanian-alt-comics-star-simon-hanselmann-is). It's a super-interesting introduction to a great (and newly local) talent. Hanselmann is signing his new Fantagraphics title *Megg & Mogg In Amsterdam and Other Stories* at [the Fantagraphics Bookstore and Gallery tomorrow](http://seattlereviewofbooks.com/notes/2016/04/20/your-week-in-readings-the-best-literary-events-from-april-20th-26th/); you should obviously go.

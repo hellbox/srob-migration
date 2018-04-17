@@ -1,8 +1,8 @@
 +++
 index = "-KkJvRpYpr_q8uZKXgEv"
-_sort_create_date = 1494999720
-_sort_last_updated = 1495046220
-_sort_publish_date = 1495044060
+sort_create_date = 1494999720
+sort_last_updated = 1495046220
+sort_publish_date = 1495044060
 create_date = "2017-05-16T22:42:00-07:00"
 publish_date = "2017-05-17T11:01:00-07:00"
 date = "2017-05-17T11:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494999674126/IMG_
 twitterauto = "Last night @openpoetrybooks, writers gathered to say goodbye to Joan Swift, and to celebrate her last book."
 facebookauto = "Last night at Open Books, writers gathered to say goodbye to Joan Swift, and to celebrate her last book."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/open-books"]
-authors_notes = ["authors/joan-swift", "authors/tess-gallagher"]
+notes_about = ""
 books = ""
 +++
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BULWraqgPIz/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Tess Gallagher reads as part of the Joan Swift memorial service at @openpoetrybooks. It&#39;s a packed house of adoring fans. So much laughter!</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by The Seattle Review of Books (@seattlereviewof) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-05-17T02:53:56+00:00">May 16, 2017 at 7:53pm PDT</time></p></div></blockquote>

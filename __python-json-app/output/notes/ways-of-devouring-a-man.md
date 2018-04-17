@@ -1,8 +1,8 @@
 +++
 index = "-Ka0BDNs7XiKEo5IAijZ"
-_sort_create_date = 1483931160
-_sort_last_updated = 1483931160
-_sort_publish_date = 1484070900
+sort_create_date = 1483931160
+sort_last_updated = 1483931160
+sort_publish_date = 1484070900
 create_date = "2017-01-08T19:06:00-08:00"
 publish_date = "2017-01-10T09:55:00-08:00"
 date = "2017-01-10T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/elisa-chavez"]
+notes_byline = ["writers/elisa-chavez"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 _Selene and Endymion_<br>

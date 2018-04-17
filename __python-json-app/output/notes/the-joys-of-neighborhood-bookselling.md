@@ -1,8 +1,8 @@
 +++
 index = "-KHHR4gtUc0a-eFoq07V"
-_sort_create_date = 1462745700
-_sort_last_updated = 1462813500
-_sort_publish_date = 1462812900
+sort_create_date = 1462745700
+sort_last_updated = 1462813500
+sort_publish_date = 1462812900
 create_date = "2016-05-08T15:15:00-07:00"
 publish_date = "2016-05-09T09:55:00-07:00"
 date = "2016-05-09T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462745576840/acto
 twitterauto = "Bookselling is alive and well and living at the top of Queen Anne Hill."
 facebookauto = "The next time someone tries to tell you the publishing industry is dying, take them to the top of Queen Anne."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/queen-anne-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 There has been a bookstore on top of Queen Anne hill almost continuously since 1998.  Queen Anne Books, the bookstore that was the precursor to ([our Bookstore of the Month]( http://seattlereviewofbooks.com/notes/2016/05/02/queen-anne-book-company-is-our-may-bookstore-of-the-month/)) Queen Anne Book Company, changed hands once since its founding and moved roughly half a block north. Three years ago, the store closed for several months before reopening under the slightly modified name and new ownership. One of the points of continuity between Queen Anne Books and Queen Anne Book Company was bookseller Wendee Wieking, who has been working for the organization since 2007.

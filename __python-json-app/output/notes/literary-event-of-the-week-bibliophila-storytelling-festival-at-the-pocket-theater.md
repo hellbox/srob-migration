@@ -1,8 +1,8 @@
 +++
 index = "-KNix7SaVAuzD6NJUo-w"
-_sort_create_date = 1469666580
-_sort_last_updated = 1470191100
-_sort_publish_date = 1470243600
+sort_create_date = 1469666580
+sort_last_updated = 1470191100
+sort_publish_date = 1470243600
 create_date = "2016-07-27T17:43:00-07:00"
 publish_date = "2016-08-03T10:00:00-07:00"
 date = "2016-08-03T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469666448130/Bibl
 twitterauto = "Are you ready for a 3-day book festival featuring improv, nudity, & badass women of color? "
 facebookauto = "Are you ready for a three-day book festival featuring performance, nudity, and badass women of color? Of course you are."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/bibliophilia", "tags/word-lit-zine"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1469666448130/BiblioPromo-082016.jpg)</p>

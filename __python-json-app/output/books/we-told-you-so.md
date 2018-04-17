@@ -1,8 +1,8 @@
 +++
 index = "-K_qInn-g4VLc8MjKZNA"
-_sort_create_date = 1483748580
-_sort_last_updated = 1483748580
-_sort_publish_date = 1483748580
+sort_create_date = 1483748580
+sort_last_updated = 1483748580
+sort_publish_date = 1483748580
 create_date = "2017-01-06T16:23:00-08:00"
 publish_date = "2017-01-06T16:23:00-08:00"
 date = "2017-01-06T16:23:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0rrjMmJt-UUJJIATPVwKEixxqXghuAUO7zu1tLfEECxdDgFIjlBmreZE2W5KdHcexIWepow1OOWifAZXD8-zDd9P_Hmf"
 url = "/webhook-uploads/1483748514998/toldyouso.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 267067
 
 review_relationship = ["reviews/how-to-throw-yourself-at-the-ground-and-miss"]
-author_relationship = ["authors/tom-spurgeon"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

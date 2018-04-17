@@ -1,8 +1,8 @@
 +++
 index = "-KkUN-TTDjSCF1gUg5VO"
-_sort_create_date = 1495174980
-_sort_last_updated = 1495214400
-_sort_publish_date = 1495213440
+sort_create_date = 1495174980
+sort_last_updated = 1495214400
+sort_publish_date = 1495213440
 create_date = "2017-05-18T23:23:00-07:00"
 publish_date = "2017-05-19T10:04:00-07:00"
 date = "2017-05-19T10:04:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495173971577/ethe
 twitterauto = "Raymond Briggs's loving biography of his parents is playing @SIFFNews today and Sunday."
 facebookauto = "Today and Sunday at SIFF, be sure to watch a comic book adaptation that's nothing like all the other comic book adaptations coming out this summer."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/siff", "tags/adaptation"]
-authors_notes = ["authors/raymond-briggs"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1495173971577/ethelernest.jpg)</p>

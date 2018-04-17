@@ -1,8 +1,8 @@
 +++
 index = "-KfK-qFiUQ2XyXgcc6VG"
-_sort_create_date = 1489632420
-_sort_last_updated = 1489632420
-_sort_publish_date = 1490209260
+sort_create_date = 1489632420
+sort_last_updated = 1489632420
+sort_publish_date = 1490209260
 create_date = "2017-03-15T19:47:00-07:00"
 publish_date = "2017-03-22T12:01:00-07:00"
 date = "2017-03-22T12:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489632244497/thei
 twitterauto = "Your Week in Readings includes a poetry brothel and a book about an idiot."
 facebookauto = "Your Week in Readings includes a poetry brothel and a book about an idiot."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday March 22nd: Lit Fix 4th Anniversary**</h5></p> 

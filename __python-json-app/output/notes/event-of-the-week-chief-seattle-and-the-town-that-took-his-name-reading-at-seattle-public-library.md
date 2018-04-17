@@ -1,8 +1,8 @@
 +++
 index = "-Ky-8QR_9QRax1zqSgvK"
-_sort_create_date = 1509683460
-_sort_last_updated = 1509684060
-_sort_publish_date = 1509990900
+sort_create_date = 1509683460
+sort_last_updated = 1509684060
+sort_publish_date = 1509990900
 create_date = "2017-11-02T21:31:00-07:00"
 publish_date = "2017-11-06T09:55:00-08:00"
 date = "2017-11-06T09:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509683362617/seat
 twitterauto = "Our Event of the Week is a discussion of Chief Seattle's legacy at Seattle Public Library."
 facebookauto = "Our Event of the Week is a discussion of Chief Seattle's legacy at Seattle Public Library."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week", "tags/sasquatch"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1509683362617/seattle.jpeg)</p>

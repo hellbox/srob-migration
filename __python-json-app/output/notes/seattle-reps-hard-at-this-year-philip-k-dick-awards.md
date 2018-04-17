@@ -1,8 +1,8 @@
 +++
 index = "-K8LvPExr9BWMks-Uzfc"
-_sort_create_date = 1453157340
-_sort_last_updated = 1453231200
-_sort_publish_date = 1453240140
+sort_create_date = 1453157340
+sort_last_updated = 1453231200
+sort_publish_date = 1453240140
 create_date = "2016-01-18T14:49:00-08:00"
 publish_date = "2016-01-19T13:49:00-08:00"
 date = "2016-01-19T13:49:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Congratulations to @ramez, @rakdaddy, and @brendacooper for the Philip K. Dick nominations!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/philip-k-dick-award", "tags/science-fiction"]
-authors_notes = ["authors/adam-rakunas"]
+notes_about = ""
 books = ""
 +++
 This year's Philip K. Dick Awards shortlist [was released last week](http://www.philipkdickaward.org/):

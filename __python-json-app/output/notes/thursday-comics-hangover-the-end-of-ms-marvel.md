@@ -1,8 +1,8 @@
 +++
 index = "-K0eBYCMFSLPoENP1Kqe"
-_sort_create_date = 1444890660
-_sort_last_updated = 1444890660
-_sort_publish_date = 1444928460
+sort_create_date = 1444890660
+sort_last_updated = 1444890660
+sort_publish_date = 1444928460
 create_date = "2015-10-14T23:31:00-07:00"
 publish_date = "2015-10-15T10:01:00-07:00"
 date = "2015-10-15T10:01:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444890086802/4843
 twitterauto = "Local author @GWillowWilson ends her popular Ms. Marvel comics series with grace and class. Is it really over?"
 facebookauto = "Local author G. Willow Wilson has been doing great work with her series Ms. Marvel, about a Pakistani-American Muslim teenage superhero. Now she's published the last issue of Ms. Marvel, and it's probably the best issue yet."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/g-willow-wilson"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">(*Every comics fan knows that Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country.* Thursday Comics Hangover *is a weekly column reviewing some of the books I pick up at [Phoenix Comics and Games](http://phoenixseattle.com/), my friendly neighborhood comic book store.*)</p>

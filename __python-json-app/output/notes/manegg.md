@@ -1,8 +1,8 @@
 +++
 index = "-K-HBNZioI3CqzzSWpWE"
-_sort_create_date = 1443414240
-_sort_last_updated = 1443547440
-_sort_publish_date = 1443547020
+sort_create_date = 1443414240
+sort_last_updated = 1443547440
+sort_publish_date = 1443547020
 create_date = "2015-09-27T21:24:00-07:00"
 publish_date = "2015-09-29T10:17:00-07:00"
 date = "2015-09-29T10:17:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/don-mee-choi"]
+notes_byline = ["writers/don-mee-choi"]
 tags_notes = ["tags/tuesday-poem", "tags/poetry"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <h5>1. Say No Lame!</h5>

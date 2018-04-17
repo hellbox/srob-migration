@@ -1,8 +1,8 @@
 +++
 index = "-KwfWtlWudhTTGEz90f4"
-_sort_create_date = 1508263800
-_sort_last_updated = 1508263800
-_sort_publish_date = 1508263800
+sort_create_date = 1508263800
+sort_last_updated = 1508263800
+sort_publish_date = 1508263800
 create_date = "2017-10-17T11:10:00-07:00"
 publish_date = "2017-10-17T11:10:00-07:00"
 date = "2017-10-17T11:10:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/shUsvFFE_2TtYR6XQM5NTkeB1w1gVZTZuKEukqiY-XPjhY7b_lSCQCAWHa0y1ezD2-3qzpGL-jacJeU_R_Qi9yiEfQ2AyQ"
 url = "/webhook-uploads/1508263844055/Flowers%20and%20sky_225.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 51049
 
 review_relationship = ""
-author_relationship = ["authors/aaron-shurin"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/come-out-november-3rd-to-hear-aaron-shurin-with-special-guest-alex-vigue"]
 +++

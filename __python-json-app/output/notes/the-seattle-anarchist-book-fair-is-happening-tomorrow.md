@@ -1,8 +1,8 @@
 +++
 index = "-JxHEwicewu4YyCGe-7c"
-_sort_create_date = 1440193920
-_sort_last_updated = 1440222000
-_sort_publish_date = 1440193920
+sort_create_date = 1440193920
+sort_last_updated = 1440222000
+sort_publish_date = 1440193920
 create_date = "2015-08-21T14:52:00-07:00"
 publish_date = "2015-08-21T14:52:00-07:00"
 date = "2015-08-21T14:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-anarchist-bookfair"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Tomorrow, the Vera Project hosts [the Seattle Anarchist Book Fair](http://seattleanarchistbookfair.net/) from 10 am to 5 pm. You'll find over 30 tables of publishers, bookstores, magazines, and more, featuring novels and zines and cookbooks and probably board games, too. (Right? Everyone has board games nowadays.) Here's the schedule of events, some of which might surprise those of you who have a stereotypical "anarchist" image in your head:

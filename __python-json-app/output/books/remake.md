@@ -1,8 +1,8 @@
 +++
 index = "-K6_Pt9ugBhWAL0ZNr_N"
-_sort_create_date = 1451253000
-_sort_last_updated = 1451253060
-_sort_publish_date = 1451253000
+sort_create_date = 1451253000
+sort_last_updated = 1451253060
+sort_publish_date = 1451253000
 create_date = "2015-12-27T13:50:00-08:00"
 publish_date = "2015-12-27T13:50:00-08:00"
 date = "2015-12-27T13:50:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Fiction"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hP0ztHy8GTn9K28d0-KwHBlwehfNNFeYrLkmaAgZmkFmuJRSNpgkC2sh7hBqXPzWda7zgIomL2wV7plAqhLipTx-qCo"
 url = "/webhook-uploads/1451253010496/content%3Fid%3DvUmJmAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 18271
 
 review_relationship = ["reviews/another-day-another-blockbuster"]
-author_relationship = ["authors/connie-willis"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

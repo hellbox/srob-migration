@@ -1,8 +1,8 @@
 +++
 index = "-K4QS29B2322-Tmztz47"
-_sort_create_date = 1448938320
-_sort_last_updated = 1448938680
-_sort_publish_date = 1448999460
+sort_create_date = 1448938320
+sort_last_updated = 1448938680
+sort_publish_date = 1448999460
 create_date = "2015-11-30T18:52:00-08:00"
 publish_date = "2015-12-01T11:51:00-08:00"
 date = "2015-12-01T11:51:00-08:00"
@@ -13,10 +13,10 @@ title = "Sitting in the middle of a clock"
 dek = "Mairead Case's debut novel \"is a love story if a love story means trying to become someone who doesn\u2019t always feel shut off.\""
 facebookauto = "Mattilda Bernstein Sycamore calls Mairead Case's debut novel, See You in the Morning, a story about living in a permanent state of between-ness."
 twitterauto = ".@mbsycamore says @maireadcase's debut novel is about living in a permanent state of between-ness."
-byline = ["writers/mattilda-bernstein-sycamore"]
+reviews_byline = ["writers/mattilda-bernstein-sycamore"]
 books_in_this_review = ["books/see-you-in-the-morning"]
 tags_reviews = ["tags/novel"]
-authors_reviews = ["authors/mairead-case"]
+reviews_about = ""
 +++
 
 *See You in the Morning*, Mairead Case’s debut novel, is a love story if a love story means trying to become someone who doesn’t always feel shut off. It’s the summer before senior year in high school, and the unnamed narrator is already planning to move away from a town that’s maybe too comfortable or not comfortable enough, not dreamy but not dreary — maybe there aren’t enough options, but what options is this narrator looking for?

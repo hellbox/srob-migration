@@ -1,8 +1,8 @@
 +++
 index = "-L-eK1agqqIZIYUsu4Jv"
-_sort_create_date = 1512538620
-_sort_last_updated = 1512627840
-_sort_publish_date = 1512673260
+sort_create_date = 1512538620
+sort_last_updated = 1512627840
+sort_publish_date = 1512673260
 create_date = "2017-12-05T21:37:00-08:00"
 publish_date = "2017-12-07T11:01:00-08:00"
 date = "2017-12-07T11:01:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512538417601/butt
 twitterauto = "Hey, remember your childhood? Here it comes again, in a comic that doesn't deliver anything new!"
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 So as you probably know by now, writer Geoff Johns and artist Gary Frank are publishing a sequel to *Watchmen* titled *Doomsday Clock*. I don't really know what to say about the first issue of the book, except it is drenched in nostalgia. It's the kind of book that ten thousand teenage geeks dreamed they'd get to write after they read *Watchmen* for the first time. *Doomsday Clock* reads like a cover version of *Watchmen*, a mimicking of Alan Moore's tone without the intellect to back it up.

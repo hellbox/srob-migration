@@ -1,8 +1,8 @@
 +++
 index = "-KF1MNfM2civJfaeoko1"
-_sort_create_date = 1460328540
-_sort_last_updated = 1460475780
-_sort_publish_date = 1460480100
+sort_create_date = 1460328540
+sort_last_updated = 1460475780
+sort_publish_date = 1460480100
 create_date = "2016-04-10T15:49:00-07:00"
 publish_date = "2016-04-12T09:55:00-07:00"
 date = "2016-04-12T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's poem by @alexthegb, called \"Triumph\", starts \"I always forget who lives / in my city.\""
 facebookauto = "The Tuesday Poem is by Alex Gallo-Brown, and it's called \"Triumph\""
 make_image_tweet = "False"
-byline = ["writers/alex-gallo-brown"]
+notes_byline = ["writers/alex-gallo-brown"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 I always forget who lives<br>

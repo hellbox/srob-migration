@@ -1,8 +1,8 @@
 +++
 index = "-KTln40QWUSDgae5ke6t"
-_sort_create_date = 1476156720
-_sort_last_updated = 1476904620
-_sort_publish_date = 1476903600
+sort_create_date = 1476156720
+sort_last_updated = 1476904620
+sort_publish_date = 1476903600
 create_date = "2016-10-10T20:32:00-07:00"
 publish_date = "2016-10-19T12:00:00-07:00"
 date = "2016-10-19T12:00:00-07:00"
@@ -13,10 +13,10 @@ title = "Count how many notifications you get while reading this review"
 dek = "What you hear all the time is: you should stop looking at your phone. Or, there's nothing wrong with looking at your phone. What about looking at distraction from a different perspective? That's what David M Levy has done in Mindful Tech, and Jonathan HIskes takes us through it. "
 facebookauto = "Leave a comment here without how many notifications you received in the time it took to read this review of David M Levy's Mindful Tech."
 twitterauto = "Reply and tell us how many notifications you got while you were reading this review by @jhiskes"
-byline = ["writers/jonathan-hiskes"]
+reviews_byline = ["writers/jonathan-hiskes"]
 books_in_this_review = ["books/mindful-tech"]
 tags_reviews = ""
-authors_reviews = ["authors/david-m-levy"]
+reviews_about = ""
 +++
 
 David M. Levy’s _Mindful Tech: How to Bring Balance to Our Digital Lives_ begins with a description of a viral YouTube clip, which is fitting for a book about digital distractions. In the video, a woman strides through a shopping mall, eyes fixed on her smartphone, oblivious to her surroundings until she tumbles headfirst into a fountain. Just as quickly she climbs out and charges forward on her way.

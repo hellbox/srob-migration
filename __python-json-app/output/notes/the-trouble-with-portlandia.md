@@ -1,8 +1,8 @@
 +++
 index = "-KSt4dYJnWe5cNBDiAu0"
-_sort_create_date = 1475205300
-_sort_last_updated = 1475253780
-_sort_publish_date = 1475260920
+sort_create_date = 1475205300
+sort_last_updated = 1475253780
+sort_publish_date = 1475260920
 create_date = "2016-09-29T20:15:00-07:00"
 publish_date = "2016-09-30T11:42:00-07:00"
 date = "2016-09-30T11:42:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Portland's In Other Words bookstore explains their anti-Portlandia sign."
 facebookauto = "The feminist bookstore featured in Portlandia has had it with what they claim to be the TV show's terrible behavior. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/portland", "tags/feminism", "tags/black-lives-matter"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1475205031776/portlandia.jpg)</p>

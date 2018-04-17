@@ -1,8 +1,8 @@
 +++
 index = "-L8ErAbGxY-pnY3QyzID"
-_sort_create_date = 1521758280
-_sort_last_updated = 1522089240
-_sort_publish_date = 1522083300
+sort_create_date = 1521758280
+sort_last_updated = 1522089240
+sort_publish_date = 1522083300
 create_date = "2018-03-22T15:38:00-07:00"
 publish_date = "2018-03-26T09:55:00-07:00"
 date = "2018-03-26T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521758192723/wayo
 twitterauto = "This Thursday, you have an amazing opportunity to hear Charles Johnson talk about writing."
 facebookauto = "This Thursday, you have an amazing opportunity to hear Charles Johnson talk about writing."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/charles-johnson"]
+notes_about = ""
 books = ""
 +++
 Charles Johnson is one of Seattle's literary giants - right up there with authors like Jonathan Raban and Richard Hugo and Denise Levertov. One of Seattle's few National Book Award winners and a MacArthur "Genius," Johnson has represented the city at a time when the nation still considered us to be a literary lightweight.

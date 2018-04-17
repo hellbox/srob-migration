@@ -1,8 +1,8 @@
 +++
 index = "-KQr0eUNDCoM3EkT1MWc"
-_sort_create_date = 1473023220
-_sort_last_updated = 1473023340
-_sort_publish_date = 1473094800
+sort_create_date = 1473023220
+sort_last_updated = 1473023340
+sort_publish_date = 1473094800
 create_date = "2016-09-04T14:07:00-07:00"
 publish_date = "2016-09-05T10:00:00-07:00"
 date = "2016-09-05T10:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our September bookstore of the month is Lion Heart Book Store in @pike_place!"
 facebookauto = "Our September bookstore of the month is Lion Heart Book Store at Pike Place Market! "
 make_image_tweet = "False"
-byline = ["writers/rebecca-garcia-moreno"]
+notes_byline = ["writers/rebecca-garcia-moreno"]
 tags_notes = ["tags/bookstore-of-the-month"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 David welcomed me with a booming, melodic voice the second my foot crossed the threshold. He sings greetings to every visitor who enters Lion Heart Book Store. The space is crammed but tidy, with tables by the entrance and narrow spaces between the shelves. Laminated handwritten signs label the main sections, starting with children’s and YA books by the front door. As you move toward the back the signs take you to literature/poetry/plays and end in the $2 pocket mysteries section, always full of worn paperbacks. Racks of postcards, notebooks, and pocket poetry editions stand throughout the store, which has been tucked in the lower level of Pike Place Market since 1961. David is now the fifth caretaker of the store, having taken over in 2001 and renaming it, just as those before him did.  

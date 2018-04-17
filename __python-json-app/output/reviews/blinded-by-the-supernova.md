@@ -1,8 +1,8 @@
 +++
 index = "-KYXAuhOwZlnhDY7_oay"
-_sort_create_date = 1481263500
-_sort_last_updated = 1481263500
-_sort_publish_date = 1481572500
+sort_create_date = 1481263500
+sort_last_updated = 1481263500
+sort_publish_date = 1481572500
 create_date = "2016-12-08T22:05:00-08:00"
 publish_date = "2016-12-12T11:55:00-08:00"
 date = "2016-12-12T11:55:00-08:00"
@@ -13,10 +13,10 @@ title = "Blinded by the supernova"
 dek = "Critics are attacking Thomas Friedman's new book. They have a point. But they're also missing out on some very important insights."
 facebookauto = "Thomas Friedman's new book offers a great view of the world, Nick Cassella argues, but it misses out on fine details from its high-up perch."
 twitterauto = "Thomas Friedman's new book offers a great view, but it misses out on fine details."
-byline = ["writers/nick-cassella"]
+reviews_byline = ["writers/nick-cassella"]
 books_in_this_review = ["books/thank-you-for-being-late"]
 tags_reviews = ["tags/non-fiction", "tags/technology", "tags/internet"]
-authors_reviews = ["authors/thomas-friedman"]
+reviews_about = ""
 +++
 
 Thomas Friedman has always felt most comfortable analyzing topics from unusually high vantage points. From this perch — [his critics](https://www.jacobinmag.com/2016/11/thomas-friedman-book-new-york-times-columnist/) would say ivory tower — he is a master at scanning the current terrain of our world, diagnosing where humanity is heading, and offering a roadmap to success. 

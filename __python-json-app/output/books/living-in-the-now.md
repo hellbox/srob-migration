@@ -1,8 +1,8 @@
 +++
 index = "-K2jtZyt0qX3nHdHDg1d"
-_sort_create_date = 1447133820
-_sort_last_updated = 1447133820
-_sort_publish_date = 1447133820
+sort_create_date = 1447133820
+sort_last_updated = 1447133820
+sort_publish_date = 1447133820
 create_date = "2015-11-09T21:37:00-08:00"
 publish_date = "2015-11-09T21:37:00-08:00"
 date = "2015-11-09T21:37:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/L-m2itgZDXesIZvb4fAftqKLjGhSC8m_Y7SiWB5e5k-j9eM8vrFvW_LDwsOzgrkmdtXW5GfwwIxod0SV9xMYdvUV4hT7-w"
 url = "/webhook-uploads/1447133798137/livinginthenow.png"
@@ -33,7 +33,7 @@ type = "image/png"
 size = 2039340
 
 review_relationship = ["reviews/drink-to-forget-ink-to-remember"]
-author_relationship = ["authors/tatiana-gill"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

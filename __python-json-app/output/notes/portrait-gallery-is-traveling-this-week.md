@@ -1,8 +1,8 @@
 +++
 index = "-KhcdNFeHAmo68zIZK1h"
-_sort_create_date = 1492109280
-_sort_last_updated = 1492109280
-_sort_publish_date = 1492112880
+sort_create_date = 1492109280
+sort_last_updated = 1492109280
+sort_publish_date = 1492112880
 create_date = "2017-04-13T11:48:00-07:00"
 publish_date = "2017-04-13T12:48:00-07:00"
 date = "2017-04-13T12:48:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1492109117744/portrait-gallery.png)</p>

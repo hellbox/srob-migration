@@ -1,8 +1,8 @@
 +++
 index = "-K_mry0ef1SyuQwjTpM1"
-_sort_create_date = 1483690980
-_sort_last_updated = 1483725900
-_sort_publish_date = 1483725900
+sort_create_date = 1483690980
+sort_last_updated = 1483725900
+sort_publish_date = 1483725900
 create_date = "2017-01-06T00:23:00-08:00"
 publish_date = "2017-01-06T10:05:00-08:00"
 date = "2017-01-06T10:05:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "This year is looking really bad for the Seattle media scene."
 facebookauto = "This year is looking really bad for the Seattle media scene."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-times", "tags/south-seattle-emerald"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * The final paragraph of [this *Seattle Times* story](http://www.seattletimes.com/business/technology/komo-cuts-positions-in-newsroom/) about layoffs at KOMO by Rachel Lerman really hammers home how absolutely screwed the Seattle media scene is these days:

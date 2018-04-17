@@ -1,8 +1,8 @@
 +++
 index = "-L22EG7rhuarotb-ybC3"
-_sort_create_date = 1515104040
-_sort_last_updated = 1515104040
-_sort_publish_date = 1515104040
+sort_create_date = 1515104040
+sort_last_updated = 1515104040
+sort_publish_date = 1515104040
 create_date = "2018-01-04T14:14:00-08:00"
 publish_date = "2018-01-04T14:14:00-08:00"
 date = "2018-01-04T14:14:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Fire and Fury goes on sale tomorrow morning at 9 am ET. Please buy it from an independent bookstore, okay?"
 facebookauto = "Fire and Fury goes on sale tomorrow morning at 9 am ET. Please buy it from an independent bookstore, okay?"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/donald-trump"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 This morning, Donald Trump's White House filed a cease-and-desist order against Henry Holt, the publishers of *Fire and Fury*, an upcoming book by Michael Wolff about the interior workings of the Trump administration. The book, which was scheduled to be published on Tuesday, has already [made headlines](http://time.com/5087774/michael-wolff-book-cease-desist-letter-steve-bannon/) after several [gossipy excerpts](http://nymag.com/daily/intelligencer/2018/01/michael-wolff-fire-and-fury-book-donald-trump.html) were leaked online.

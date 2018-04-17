@@ -1,8 +1,8 @@
 +++
 index = "-L4-SKtXWFaAyCw_KOtS"
-_sort_create_date = 1517204880
-_sort_last_updated = 1517333160
-_sort_publish_date = 1517333160
+sort_create_date = 1517204880
+sort_last_updated = 1517333160
+sort_publish_date = 1517333160
 create_date = "2018-01-28T21:48:00-08:00"
 publish_date = "2018-01-30T09:26:00-08:00"
 date = "2018-01-30T09:26:00-08:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/q4_FlszU_ta8Jng5PMdY-4y1Wmq4Ks9Lnb90o_orDIW85mUyQpZWKm1xXwIwmPB2n5N5F_ap-y5-Cp109OOFvXp0gMOvHQ"
 url = "/webhook-uploads/1517204790493/killingmarias.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 10185
 
 review_relationship = ["reviews/ave-mar\u00edas"]
-author_relationship = ["authors/claudia-castro-luna"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

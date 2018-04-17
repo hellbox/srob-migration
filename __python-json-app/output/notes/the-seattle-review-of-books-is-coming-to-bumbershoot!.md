@@ -1,8 +1,8 @@
 +++
 index = "-KGFv5jb2U-Dmp6xDbYe"
-_sort_create_date = 1461646500
-_sort_last_updated = 1461646500
-_sort_publish_date = 1461646500
+sort_create_date = 1461646500
+sort_last_updated = 1461646500
+sort_publish_date = 1461646500
 create_date = "2016-04-25T21:55:00-07:00"
 publish_date = "2016-04-25T21:55:00-07:00"
 date = "2016-04-25T21:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461644831140/Bumb
 twitterauto = "We're so excited to bring @thisisEJKoh, @Misterlashley, and @Sherman_Alexie  to @Bumbershoot this year!"
 facebookauto = "The rumors are true:  the Seattle Review of Books is incredibly excited to be presenting a show at Bumbershoot this year!"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bumbershoot"]
-authors_notes = ["authors/sherman-alexie", "authors/ej-koh", "authors/robert-lashley"]
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1461644831140/Bumbershoot.jpg)</p>

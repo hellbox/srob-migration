@@ -1,8 +1,8 @@
 +++
 index = "-JvMm2o5ECafUF1TVhQz"
-_sort_create_date = 1438139280
-_sort_last_updated = 1438205220
-_sort_publish_date = 1438204080
+sort_create_date = 1438139280
+sort_last_updated = 1438205220
+sort_publish_date = 1438204080
 create_date = "2015-07-28T20:08:00-07:00"
 publish_date = "2015-07-29T14:08:00-07:00"
 date = "2015-07-29T14:08:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-writing-prompts", "tags/seattle-post-intelligencer"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">Ask any writer: the two most difficult parts of the writing process are **1)** sitting down in the seat to write and **2)** figuring out what to write about. We *can't* help you focus on your work, but we *can* try to help you find inspiration in the city around you. That's what Seattle Writing Prompts is all about. These prompts are offered free to anyone who needs them; all the *Seattle Review of Books* asks in return is that you thank us in the acknowledgements when you turn it into a book.</p>

@@ -1,8 +1,8 @@
 +++
 index = "-KCMTp-cAxVOS2vkIPck"
-_sort_create_date = 1457461560
-_sort_last_updated = 1457466960
-_sort_publish_date = 1457469420
+sort_create_date = 1457461560
+sort_last_updated = 1457466960
+sort_publish_date = 1457469420
 create_date = "2016-03-08T10:26:00-08:00"
 publish_date = "2016-03-08T12:37:00-08:00"
 date = "2016-03-08T12:37:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup: @Sasquatchbooks news, a discussion of Amazon Books, and space opera cliches."
 facebookauto = "Today's Book News Roundup includes Sasquatch news, e-book sales, a discussion of Amazon Books, and space opera cliches."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/sasquatch", "tags/amazon-books", "tags/e-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 * Seattle publisher Sasquatch Books was [celebrated as one of seven fast-growing independent publishers of the year]( http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/69573-fast-growing-independent-publishers-2016.html) in *Publishers Weekly*. 

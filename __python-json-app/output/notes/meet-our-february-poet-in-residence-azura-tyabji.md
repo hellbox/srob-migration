@@ -1,8 +1,8 @@
 +++
 index = "-L4d_Z0Opmo-DOwyQS05"
-_sort_create_date = 1517894880
-_sort_last_updated = 1517894880
-_sort_publish_date = 1517939400
+sort_create_date = 1517894880
+sort_last_updated = 1517894880
+sort_publish_date = 1517939400
 create_date = "2018-02-05T21:28:00-08:00"
 publish_date = "2018-02-06T09:50:00-08:00"
 date = "2018-02-06T09:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our February Poet in Residence is one of the newest poets in the Seattle tradition: Azura Tyabji."
 facebookauto = "Our February Poet in Residence is one of the newest poets in the Seattle tradition: Azura Tyabji."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/poet-in-residence"]
-authors_notes = ["authors/azura-tyabji"]
+notes_about = ""
 books = ""
 +++
 Our January Poet in Residence, [Kevin Craft](http://www.seattlereviewofbooks.com/writers/kevin-craft/), is a writer who has a deep understanding of Seattle's literary tradition and has taken on an active role as a caretaker of that tradition. (You'll hear more from Craft in an interview on that exact subject tomorrow.) Our February Poet in Residence, Azura Tyabji, is one of the newest and most exciting poets in our Seattle tradition. 

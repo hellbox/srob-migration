@@ -1,8 +1,8 @@
 +++
 index = "-KL-krVCk4e8M_ULZ84v"
-_sort_create_date = 1466744100
-_sort_last_updated = 1466948820
-_sort_publish_date = 1467054000
+sort_create_date = 1466744100
+sort_last_updated = 1466948820
+sort_publish_date = 1467054000
 create_date = "2016-06-23T21:55:00-07:00"
 publish_date = "2016-06-27T12:00:00-07:00"
 date = "2016-06-27T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Meet our Public Diversity Editor, @book_nerd212!"
 facebookauto = "Meet our Public Diversity Editor, Vanessa Willoughby!"
 make_image_tweet = "False"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/public-diversity-editor"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <div class="intro"><p>We're thrilled to announce that our new Public Diversity Editor is (_drum roll!_): Vannessa Willoughby. Vanessa will be checking in with us twice a year or so, and reporting back on what we've done well, and where we can improve, in terms of diversity. If her name sounds familiar to you, perhaps it's because you've read her work at <a href="http://the-toast.net/tag/vanessa-willoughby/" title="vanessa willoughby Archives - The Toast - The Toast">_The Toast_</a>, <a href="https://bitchmedia.org/profile/vanessa-willoughby" title="Vanessa Willoughby | Bitch Media">_Bitch Media_</a>, <a href="https://www.vice.com/read/what-i-learned-from-the-token-black-characters-in-teen-movies-921" title="None">_Vice_</a>, or <a href="http://www.theestablishment.co/author/vanessa-willoughby/" title="Vanessa Willoughby, Author at The Establishment">_The Establishment_</a> (just to name a few). You can find out more at [her own website](http://my-strangefruit.tumblr.com), or follow her on [Twitter](https://twitter.com/book_nerd212).</p>

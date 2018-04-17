@@ -1,8 +1,8 @@
 +++
 index = "-KxM4TdGNjzJssR1V0Pg"
-_sort_create_date = 1508994540
-_sort_last_updated = 1509055560
-_sort_publish_date = 1509044400
+sort_create_date = 1508994540
+sort_last_updated = 1509055560
+sort_publish_date = 1509044400
 create_date = "2017-10-25T22:09:00-07:00"
 publish_date = "2017-10-26T12:00:00-07:00"
 date = "2017-10-26T12:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508994490740/Righ
 twitterauto = "It's Criminal Fiction! @daneetsteffens interviews @joeidetweets, and reviews many others. "
 facebookauto = "It's Criminal Fiction! Daneet Steffens interviews Joe Ide, and reviews many others. "
 make_image_tweet = "False"
-byline = ["writers/daneet-steffens"]
+notes_byline = ["writers/daneet-steffens"]
 tags_notes = ["tags/criminal-fiction"]
-authors_notes = ["authors/ann-cleeves", "authors/sarah-pinborough", "authors/julia-keller", "authors/amber-patterson", "authors/joe-ide"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Every month, Daneet Steffens uncovers the latest goings on in mystery, suspense, and crime fiction. See previous columns on the [Criminal Fiction archive page](http://www.seattlereviewofbooks.com/tags/criminal-fiction)</p>

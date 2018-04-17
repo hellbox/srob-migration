@@ -1,8 +1,8 @@
 +++
 index = "-KL09X4O8w9qkz0BNDYJ"
-_sort_create_date = 1466750820
-_sort_last_updated = 1467223020
-_sort_publish_date = 1466750820
+sort_create_date = 1466750820
+sort_last_updated = 1467223020
+sort_publish_date = 1466750820
 create_date = "2016-06-23T23:47:00-07:00"
 publish_date = "2016-06-23T23:47:00-07:00"
 date = "2016-06-23T23:47:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/k7R0MGP12MC0UA_KzxFjkhIQVJjGp0qHBe0jrAmk7Ncb0kHF5lQVmsGwfs8q66PqJhQoHmiapbfnzCK45-B6N7jq8JEI"
 url = "/webhook-uploads/1466750809879/giraffes.jpeg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 3538
 
 review_relationship = ["reviews/the-poet-next-door"]
-author_relationship = ["authors/sarah-mangold"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

@@ -1,8 +1,8 @@
 +++
 index = "-KyrcbGZ4sAt8JX6-9em"
-_sort_create_date = 1510614360
-_sort_last_updated = 1510767000
-_sort_publish_date = 1510768800
+sort_create_date = 1510614360
+sort_last_updated = 1510767000
+sort_publish_date = 1510768800
 create_date = "2017-11-13T15:06:00-08:00"
 publish_date = "2017-11-15T10:00:00-08:00"
 date = "2017-11-15T10:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510612485052/this
 twitterauto = "We talked with Margot Kahn about her new @SealPress anthology on women and home."
 facebookauto = "We talked with Margot Kahn about her new Seal Press anthology on women and home."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/interviews"]
-authors_notes = ["authors/margot-kahn"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">This Saturday, a familiar face in Seattle literary circles makes a welcome return to the scene. In 2011, Margot Kahn, who was well-known in the community for her work as a youth creative writing program director at Hugo House, published her first book — an excellent biography titled [*Horses That Buck: The Story of Champion Bronc Rider Bill Smith*](https://www.margotkahn.com/horses-that-buck/). Saturday night [at Elliott Bay Book Company](http://www.elliottbaybook.com/event/margot-kahn-kelly-mcmasters-friends), with the help of readers including Claudia Castro Luna, Kate Lebo, and Jane Wong, Kahn introduces her second book, an anthology she co-edited with Kelly McMasters titled [*This Is the Place: Women Writing About Home*](https://www.hachettebookgroup.com/titles/margot-kahn/this-is-the-place/9781580057585/?lens=seal-press). Kahn talked with me on the phone this week about how the book came to be and what she's been up to in the time between books. The transcript of this interview has been lightly edited.</p>

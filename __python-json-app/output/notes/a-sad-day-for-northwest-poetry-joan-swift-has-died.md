@@ -1,8 +1,8 @@
 +++
 index = "-KfSg6742zRkS_ecJnT-"
-_sort_create_date = 1489777980
-_sort_last_updated = 1489777980
-_sort_publish_date = 1489777980
+sort_create_date = 1489777980
+sort_last_updated = 1489777980
+sort_publish_date = 1489777980
 create_date = "2017-03-17T12:13:00-07:00"
 publish_date = "2017-03-17T12:13:00-07:00"
 date = "2017-03-17T12:13:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "It's a sad day for Northwest poetry. Joan Swift has died."
 facebookauto = "Our condolences to Joan Swift's family and friends. "
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/joan-swift", "authors/kathleen-flenniken", "authors/theodore-roethke"]
+notes_about = ""
 books = ""
 +++
 We're very sad to [share the news](https://www.facebook.com/esther.altshulhelfgott/posts/10155988212118378?notif_t=comment_mention&notif_id=1489737651586140) that Edmonds poet Joan Swift passed away on March 13th. She was 90 years old. We'll share details of the memorial as soon as we hear them.

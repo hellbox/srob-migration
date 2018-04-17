@@ -1,8 +1,8 @@
 +++
 index = "-KtEgIKiklt40LuSHCrw"
-_sort_create_date = 1504575540
-_sort_last_updated = 1504638180
-_sort_publish_date = 1504637100
+sort_create_date = 1504575540
+sort_last_updated = 1504638180
+sort_publish_date = 1504637100
 create_date = "2017-09-04T18:39:00-07:00"
 publish_date = "2017-09-05T11:45:00-07:00"
 date = "2017-09-05T11:45:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504575478016/next
 twitterauto = "We took Naomi Klein's Trump book to a vegetarian burger chain."
 facebookauto = "We took Naomi Klein's Trump book to a vegetarian burger chain."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/lunch-date"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)</p>

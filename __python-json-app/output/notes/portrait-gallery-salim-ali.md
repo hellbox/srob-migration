@@ -1,8 +1,8 @@
 +++
 index = "-K2xcA436jdj7_OF7kpf"
-_sort_create_date = 1447364160
-_sort_last_updated = 1473309300
-_sort_publish_date = 1447365600
+sort_create_date = 1447364160
+sort_last_updated = 1473309300
+sort_publish_date = 1447365600
 create_date = "2015-11-12T13:36:00-08:00"
 publish_date = "2015-11-12T14:00:00-08:00"
 date = "2015-11-12T14:00:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447363918946/SRoB
 twitterauto = "This week for Portrait Gallery, @studiochristine looks at Indian ornithologist and naturalist Salim Ali. "
 facebookauto = "Christine Larsen painted ornithologist and naturalist Salim Ali for today's Portrait Gallery. Today would have been his 118th birthday."
 make_image_tweet = "False"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/salim-ali"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Marie Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

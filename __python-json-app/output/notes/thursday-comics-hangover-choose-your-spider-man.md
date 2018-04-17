@@ -1,8 +1,8 @@
 +++
 index = "-KnmakqbeFO3BigkaaE4"
-_sort_create_date = 1498718820
-_sort_last_updated = 1499487360
-_sort_publish_date = 1499366820
+sort_create_date = 1498718820
+sort_last_updated = 1499487360
+sort_publish_date = 1499366820
 create_date = "2017-06-28T23:47:00-07:00"
 publish_date = "2017-07-06T11:47:00-07:00"
 date = "2017-07-06T11:47:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498718151077/home
 twitterauto = "In our comics column this week, we review Spider-Man: Homecoming."
 facebookauto = "In our comics column this week, we review Spider-Man: Homecoming."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/thursday-comics-hangover", "tags/movies", "tags/adaptation"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1498718151077/homecoming.jpg)<p>

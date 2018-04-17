@@ -1,8 +1,8 @@
 +++
 index = "-L6z-TWpOiegQ702uMl9"
-_sort_create_date = 1520401740
-_sort_last_updated = 1520443740
-_sort_publish_date = 1520457180
+sort_create_date = 1520401740
+sort_last_updated = 1520443740
+sort_publish_date = 1520457180
 create_date = "2018-03-06T21:49:00-08:00"
 publish_date = "2018-03-07T13:13:00-08:00"
 date = "2018-03-07T13:13:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "You say you want a new golden age of sci-fi? The good news is, we're already living in it."
 facebookauto = "You say you want a new golden age of sci-fi? The good news is, we're already living in it."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/science-fiction", "tags/marvel-comics"]
-authors_notes = ["authors/neal-stephenson", "authors/nisi-shawl"]
+notes_about = ""
 books = ["books/everfair"]
 +++
 For years, Seattle author Neal Stephenson has argued that science fiction, in its long lean to the dystopian, has abdicated its responsibility to imagine positive solutions to humanity's worst problems. 

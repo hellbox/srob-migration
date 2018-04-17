@@ -1,8 +1,8 @@
 +++
 index = "-JvouY7Px9Tnzyw1Jafo"
-_sort_create_date = 1438628040
-_sort_last_updated = 1438629000
-_sort_publish_date = 1438639620
+sort_create_date = 1438628040
+sort_last_updated = 1438629000
+sort_publish_date = 1438639620
 create_date = "2015-08-03T11:54:00-07:00"
 publish_date = "2015-08-03T15:07:00-07:00"
 date = "2015-08-03T15:07:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/ghosts-of-seattle-past", "tags/short-run"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Seattle writer and editor Jaimee Garbacik has [put out a call for writers and artists](http://www.seattleghosts.com/2015/08/01/call-for-submissions/) to contribute to The Ghosts of Seattle Past, an "interactive art installation" about remembering the disappearing landmarks of Seattle:

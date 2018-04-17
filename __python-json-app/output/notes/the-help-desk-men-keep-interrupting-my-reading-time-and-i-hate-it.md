@@ -1,8 +1,8 @@
 +++
 index = "-KyZ4eKiC9sRWhk-_Gq4"
-_sort_create_date = 1510286460
-_sort_last_updated = 1510286640
-_sort_publish_date = 1510343700
+sort_create_date = 1510286460
+sort_last_updated = 1510286640
+sort_publish_date = 1510343700
 create_date = "2017-11-09T20:01:00-08:00"
 publish_date = "2017-11-10T11:55:00-08:00"
 date = "2017-11-10T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Dear Cienna: Men keep interrupting my reading on public transit. What can I do?"
 facebookauto = "Dear Cienna: Men keep interrupting my reading on public transit. What can I do?"
 make_image_tweet = "False"
-byline = ["writers/cienna-madrid"]
+notes_byline = ["writers/cienna-madrid"]
 tags_notes = ["tags/the-help-desk"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="intro">*Cienna Madrid is observing Veteran's Day; please enjoy this classic from the Help Desk archives. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>

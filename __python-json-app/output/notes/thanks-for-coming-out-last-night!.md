@@ -1,8 +1,8 @@
 +++
 index = "-K07H5n4D8OIkxp4hejP"
-_sort_create_date = 1444321680
-_sort_last_updated = 1444321740
-_sort_publish_date = 1444321680
+sort_create_date = 1444321680
+sort_last_updated = 1444321740
+sort_publish_date = 1444321680
 create_date = "2015-10-08T09:28:00-07:00"
 publish_date = "2015-10-08T09:28:00-07:00"
 date = "2015-10-08T09:28:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.co/webhook-uploads/1444321620242/marti
 twitterauto = "Thanks to everybody who showed up last night for the @cal4oclock launch party."
 facebookauto = "Thanks to everybody who came last night for the California Four O'Clock launch party!"
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/events", "tags/seattle-review-of-books"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="image">![](/webhook-uploads/1444321620242/martin-paul_1024.jpg)</p>

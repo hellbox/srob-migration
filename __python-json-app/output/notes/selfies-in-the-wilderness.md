@@ -1,8 +1,8 @@
 +++
 index = "-KHuRnUnHj-NIJWkQrI-"
-_sort_create_date = 1463416980
-_sort_last_updated = 1463496180
-_sort_publish_date = 1463504100
+sort_create_date = 1463416980
+sort_last_updated = 1463496180
+sort_publish_date = 1463504100
 create_date = "2016-05-16T09:43:00-07:00"
 publish_date = "2016-05-17T09:55:00-07:00"
 date = "2016-05-17T09:55:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is by @RachelLaKessler and it's about selfies."
 facebookauto = "Our Tuesday Poem is by Rachel Kessler, and it's about selfies."
 make_image_tweet = "False"
-byline = ["writers/rachel-kessler"]
+notes_byline = ["writers/rachel-kessler"]
 tags_notes = ["tags/tuesday-poem"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 It wasn’t that she wanted to be pretty.<br>

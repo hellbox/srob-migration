@@ -1,8 +1,8 @@
 +++
 index = "-KO3ZZCh3gsDPag0fslu"
-_sort_create_date = 1470029220
-_sort_last_updated = 1470029280
-_sort_publish_date = 1470029220
+sort_create_date = 1470029220
+sort_last_updated = 1470029280
+sort_publish_date = 1470029220
 create_date = "2016-07-31T22:27:00-07:00"
 publish_date = "2016-07-31T22:27:00-07:00"
 date = "2016-07-31T22:27:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9cyASBQ60RgZswEu4YsbNb50VDz87lWPKPXKqXdW6s3ln1EKfQgPmshVOxsYUcI4iua7GzRcFZ0IVNOBuu1Rn5IUBLT0sA"
 url = "/webhook-uploads/1470029250337/content%3Fid%3DMtOODAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 7318
 
 review_relationship = ["reviews/the-idiot"]
-author_relationship = ["authors/jean-edward-smith"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

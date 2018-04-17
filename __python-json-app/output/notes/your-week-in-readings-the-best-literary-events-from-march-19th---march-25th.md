@@ -1,8 +1,8 @@
 +++
 index = "-L6VRkT5DTG3N4Dn4Qap"
-_sort_create_date = 1519889040
-_sort_last_updated = 1519889520
-_sort_publish_date = 1521485580
+sort_create_date = 1519889040
+sort_last_updated = 1519889520
+sort_publish_date = 1521485580
 create_date = "2018-02-28T23:24:00-08:00"
 publish_date = "2018-03-19T11:53:00-07:00"
 date = "2018-03-19T11:53:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519888557655/nwga
 twitterauto = "Gardening, sacredness, happiness, and much more in this week's best readings."
 facebookauto = "Gardening, sacredness, happiness, and much more in this week's best readings."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Monday, March 19: The Dark Corners of the City: Literary Murder in Seattle **</h5></p>

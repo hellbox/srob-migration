@@ -1,8 +1,8 @@
 +++
 index = "-KawmIoGdGnhzYPJsvUx"
-_sort_create_date = 1484931000
-_sort_last_updated = 1485390720
-_sort_publish_date = 1485373800
+sort_create_date = 1484931000
+sort_last_updated = 1485390720
+sort_publish_date = 1485373800
 create_date = "2017-01-20T08:50:00-08:00"
 publish_date = "2017-01-25T11:50:00-08:00"
 date = "2017-01-25T11:50:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484930488779/9780
 twitterauto = "This week, we're highlighting a reading for the homeless, a new barroom lit series, and a talk on residencies."
 facebookauto = "This week, we're highlighting a reading for the homeless, a new barroom lit series, and a talk on writer residencies."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/your-week-in-readings"]
-authors_notes = ["authors/jon-raymond", "authors/natasha-marin", "authors/claudia-castro-luna"]
+notes_about = ""
 books = ""
 +++
 <p class="noindent"><h5>**Wednesday January 25th: *You’re the Most Beautiful Thing That Happened* Reading**</h5></p> 

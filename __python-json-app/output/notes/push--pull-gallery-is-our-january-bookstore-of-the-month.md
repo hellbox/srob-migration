@@ -1,8 +1,8 @@
 +++
 index = "-K7JVxRNgTYx-2LMOKlD"
-_sort_create_date = 1452043080
-_sort_last_updated = 1452043260
-_sort_publish_date = 1452102780
+sort_create_date = 1452043080
+sort_last_updated = 1452043260
+sort_publish_date = 1452102780
 create_date = "2016-01-05T17:18:00-08:00"
 publish_date = "2016-01-06T09:53:00-08:00"
 date = "2016-01-06T09:53:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452042776356/push
 twitterauto = "Our January Bookstore of the Month is Ballard's own Push/Pull Gallery!"
 facebookauto = "Our January Bookstore of the Month is Ballard's own Push/Pull Gallery, an art gallery that also sells underground comics."
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/bookstore-of-the-month", "tags/push--pull-gallery"]
-authors_notes = ["authors/seth-goodkind"]
+notes_about = ""
 books = ""
 +++
 ![](/webhook-uploads/1452042776356/push%3Apull.jpg)

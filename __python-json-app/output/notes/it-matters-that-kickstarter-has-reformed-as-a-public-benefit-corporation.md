@@ -1,8 +1,8 @@
 +++
 index = "-JzsffXZnJdgm0Kk7VWd"
-_sort_create_date = 1442986200
-_sort_last_updated = 1443033600
-_sort_publish_date = 1443033000
+sort_create_date = 1442986200
+sort_last_updated = 1443033600
+sort_publish_date = 1443033000
 create_date = "2015-09-22T22:30:00-07:00"
 publish_date = "2015-09-23T11:30:00-07:00"
 date = "2015-09-23T11:30:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "When @kickstarter reformed as a public benefit corp, it sent a strong signal of support to creators."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/martin-mcclellan"]
+notes_byline = ["writers/martin-mcclellan"]
 tags_notes = ["tags/kickstarter"]
-authors_notes = ["authors/maris-kreizman"]
+notes_about = ""
 books = ""
 +++
 It’s obvious to anybody who has worked with [Kickstarter](http://kickstarter.com/): they really do walk the walk. To their core, they believe in the ethos of creation, and that their platform is a good way to empower creative people to fund their projects. Or, as the case often is, to test their idea in a very functional way and see if it has any legs.

@@ -1,8 +1,8 @@
 +++
 index = "-L5VUfUH2jHWgZ8s4yIf"
-_sort_create_date = 1518816060
-_sort_last_updated = 1518816060
-_sort_publish_date = 1519062840
+sort_create_date = 1518816060
+sort_last_updated = 1518816060
+sort_publish_date = 1519062840
 create_date = "2018-02-16T13:21:00-08:00"
 publish_date = "2018-02-19T09:54:00-08:00"
 date = "2018-02-19T09:54:00-08:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518816041234/ozek
 twitterauto = "Our Literary Event of the Week this week offers a Zen Buddhist take on writing."
 facebookauto = "Our Literary Event of the Week this week offers a Zen Buddhist take on writing."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/event-of-the-week"]
-authors_notes = ["authors/ruth-ozeki"]
+notes_about = ""
 books = ""
 +++
 British Columbia author Ruth Ozeki's majestic 2013 novel *A Tale for the Time Being* imagined a global perspective on the Northwest, pinning together the Fukushima meltdown with our coastline on the other side of the world. She is a vocal supporter of the amazing Hedgebrook writers residency for women. And she's a natural teacher who has guided new generations to the pleasures and challenges of writing fiction.

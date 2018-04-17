@@ -1,8 +1,8 @@
 +++
 index = "-Kr4vGXOP7oGTAHQDSYR"
-_sort_create_date = 1502264220
-_sort_last_updated = 1502308320
-_sort_publish_date = 1502264220
+sort_create_date = 1502264220
+sort_last_updated = 1502308320
+sort_publish_date = 1502264220
 create_date = "2017-08-09T00:37:00-07:00"
 publish_date = "2017-08-09T00:37:00-07:00"
 date = "2017-08-09T00:37:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ["FICTION"]
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/EtBaRXFhCG0UubL526z4SapqUr3q4cSSWkoNmRb8jp-7lYum1mKV_3Uym5I6px9H4iiGumiU16__dEgUU0KWZ65SSlhpcg"
 url = "/webhook-uploads/1502264235174/content%3Fid%3DOl4qDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -33,7 +33,7 @@ type = "application/octet-stream"
 size = 9152
 
 review_relationship = ["reviews/unreal-estate"]
-author_relationship = ["authors/jac-jemc"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ""
 +++

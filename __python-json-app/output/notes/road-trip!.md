@@ -1,8 +1,8 @@
 +++
 index = "-JulxVD34Uv4S6ZdfAT8"
-_sort_create_date = 1437504720
-_sort_last_updated = 1440222420
-_sort_publish_date = 1437504720
+sort_create_date = 1437504720
+sort_last_updated = 1440222420
+sort_publish_date = 1437504720
 create_date = "2015-07-21T11:52:00-07:00"
 publish_date = "2015-07-21T11:52:00-07:00"
 date = "2015-07-21T11:52:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/atlas-obscura"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 If you're looking for a road trip template to follow this summer, you could do much worse than Atlas Obscura's Literary Road Trip map:

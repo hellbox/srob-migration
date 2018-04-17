@@ -1,8 +1,8 @@
 +++
 index = "-Ksr0OpXGTYBRXklfbdi"
-_sort_create_date = 1504161660
-_sort_last_updated = 1504762260
-_sort_publish_date = 1504807200
+sort_create_date = 1504161660
+sort_last_updated = 1504762260
+sort_publish_date = 1504807200
 create_date = "2017-08-30T23:41:00-07:00"
 publish_date = "2017-09-07T11:00:00-07:00"
 date = "2017-09-07T11:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504161570185/all%
 twitterauto = "Daniel Handler's All the Dirty Parts is just as enticing, funny, profane, and frustrating as sex itself."
 facebookauto = "Daniel Handler appears in conversation with Sherman Alexie tonight. His new novel is allllllll about sex. That's a good and a bad thing."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ""
-authors_notes = ["authors/sherman-alexie"]
+notes_about = ""
 books = ""
 +++
 <p class="image-left">![](/webhook-uploads/1504161570185/all%20the%20dirty%20partys.jpg)</p>

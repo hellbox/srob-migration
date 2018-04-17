@@ -1,8 +1,8 @@
 +++
 index = "-KxPE3LH41v2DqJvO0eh"
-_sort_create_date = 1509047400
-_sort_last_updated = 1509048840
-_sort_publish_date = 1509051600
+sort_create_date = 1509047400
+sort_last_updated = 1509048840
+sort_publish_date = 1509051600
 create_date = "2017-10-26T12:50:00-07:00"
 publish_date = "2017-10-26T14:00:00-07:00"
 date = "2017-10-26T14:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509046002430/SRoB
 twitterauto = "Portrait Gallery: #poet Nikki Giovanni #illustration by @studiochristine @SeaArtsLectures"
 facebookauto = "Portrait Gallery: Poet Nikki Giovanni by Christine Marie Larsen"
 make_image_tweet = "True"
-byline = ["writers/christine-marie-larsen"]
+notes_byline = ["writers/christine-marie-larsen"]
 tags_notes = ["tags/portrait-gallery"]
-authors_notes = ["authors/nikki-giovanni"]
+notes_about = ""
 books = ""
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a new portrait of an author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>

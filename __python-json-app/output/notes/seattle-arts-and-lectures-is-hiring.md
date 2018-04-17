@@ -1,8 +1,8 @@
 +++
 index = "-Jwd0mI5wdtlGj7X6NZB"
-_sort_create_date = 1439502360
-_sort_last_updated = 1439503140
-_sort_publish_date = 1439578980
+sort_create_date = 1439502360
+sort_last_updated = 1439503140
+sort_publish_date = 1439578980
 create_date = "2015-08-13T14:46:00-07:00"
 publish_date = "2015-08-14T12:03:00-07:00"
 date = "2015-08-14T12:03:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Want to help kids learn to love writing? @SeaArtsLectures is hiring for their Writers in the Schools program."
 facebookauto = ""
 make_image_tweet = ""
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/seattle-arts-and-lectures", "tags/job-opening", "tags/writers-in-the-schools"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 Do you want to help kids learn how to love writing? Seattle Arts and Lectures is looking for a new program director for their [Writers in the Schools](http://www.lectures.org/wits/how_wits_works.php) program. It sounds like a tough job, but it's definitely worth it:

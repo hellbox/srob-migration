@@ -1,8 +1,8 @@
 +++
 index = "-KT7mrR_MhZO3fddn0yy"
-_sort_create_date = 1475468760
-_sort_last_updated = 1475468760
-_sort_publish_date = 1475468760
+sort_create_date = 1475468760
+sort_last_updated = 1475468760
+sort_publish_date = 1475468760
 create_date = "2016-10-02T21:26:00-07:00"
 publish_date = "2016-10-02T21:26:00-07:00"
 date = "2016-10-02T21:26:00-07:00"
@@ -23,7 +23,7 @@ ebook_purchase = ""
 alt_ebook_label = ""
 category = ""
 publisher_relationship = ""
-translator = ""
+books_translator = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/lD7pLVGCVkLhXWGwrxRAoh5pmI-mpGajUktSXQUw-DaD_GrVWBEbeE19UgL50ktRnjUBEA3gD_mh_bqLSSVd7ysVUAk"
 url = "/webhook-uploads/1475468736799/rollingblackouts.jpg"
@@ -33,7 +33,7 @@ type = "image/jpeg"
 size = 25531
 
 review_relationship = ["reviews/the-embedded-cartoonist"]
-author_relationship = ["authors/sarah-glidden"]
+books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/you-need-distance-to-tell-a-story-talking-with-sarah-glidden-about-comics-journalism", "notes/what-you-need-to-do-for-literary-seattle-in-2017", "notes/sarah-glidden-gets-animated-for-the-seattle-globalist", "notes/seattle-cartoonist-sarah-glidden-wins-lynd-ward-prize-for-graphic-novel-of-the-year"]
 +++

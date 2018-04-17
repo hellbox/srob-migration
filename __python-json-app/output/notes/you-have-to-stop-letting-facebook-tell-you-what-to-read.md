@@ -1,8 +1,8 @@
 +++
 index = "-L31PqGW9R8O-ieHv-Qw"
-_sort_create_date = 1516164000
-_sort_last_updated = 1516213920
-_sort_publish_date = 1516218900
+sort_create_date = 1516164000
+sort_last_updated = 1516213920
+sort_publish_date = 1516218900
 create_date = "2018-01-16T20:40:00-08:00"
 publish_date = "2018-01-17T11:55:00-08:00"
 date = "2018-01-17T11:55:00-08:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Don't leave your media consumption choices to Mark Zuckerberg. Read and write for yourself."
 facebookauto = "Hello. The website you're reading this on right now is bad. Here's why:"
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/facebook"]
-authors_notes = ""
+notes_about = ""
 books = ""
 +++
 A few years ago, publishers allowed Facebook to become basically their sole source of traffic. Now, Facebook is [cutting traffic to news feeds](https://www.vanityfair.com/news/2018/01/will-facebooks-media-divorce-backfire) in an attempt to staunch the flow of fake news.

@@ -1,8 +1,8 @@
 +++
 index = "-KUraKTVX60JmRtxnBtC"
-_sort_create_date = 1477327800
-_sort_last_updated = 1477328040
-_sort_publish_date = 1477339200
+sort_create_date = 1477327800
+sort_last_updated = 1477328040
+sort_publish_date = 1477339200
 create_date = "2016-10-24T09:50:00-07:00"
 publish_date = "2016-10-24T13:00:00-07:00"
 date = "2016-10-24T13:00:00-07:00"
@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477327820498/nine
 twitterauto = "Sponsor @ronnawineberg let us run a whole short story this week, from her wonderful collection."
 facebookauto = "Sponsor Ronna Wineberg let us run a whole short story this week, from her wonderful collection \"Nine Facts That Can Change Your Life\""
 make_image_tweet = "True"
-byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books"]
 tags_notes = ["tags/sponsorship"]
-authors_notes = ["authors/ronna-wineberg"]
+notes_about = ""
 books = ["books/nine-facts-that-can-change-your-life"]
 +++
 Sponsor Ronna Wineberg generously gave us permission to run an entire short story from her book _Nine Facts That Can Change Your Life_ for her sponsorship this week. The story, "Bare Essentials", [appears in full on our sponsor's page](http://seattlereviewofbooks.com/sponsorships).

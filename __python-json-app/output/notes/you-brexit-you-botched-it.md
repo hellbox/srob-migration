@@ -1,8 +1,8 @@
 +++
 index = "-KL2PAM2mtefQHCosMYp"
-_sort_create_date = 1466788500
-_sort_last_updated = 1466788500
-_sort_publish_date = 1466788500
+sort_create_date = 1466788500
+sort_last_updated = 1466788500
+sort_publish_date = 1466788500
 create_date = "2016-06-24T10:15:00-07:00"
 publish_date = "2016-06-24T10:15:00-07:00"
 date = "2016-06-24T10:15:00-07:00"
@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Seattle writers are starting to respond to Brexit."
 facebookauto = "Seattle writers are starting to respond to Brexit."
 make_image_tweet = "False"
-byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant"]
 tags_notes = ["tags/brexit"]
-authors_notes = ["authors/g-willow-wilson", "authors/adam-rakunas", "authors/nicola-griffith"]
+notes_about = ""
 books = ""
 +++
 Well, er, good morning. Seattle writers are responding to the news that the world's gone all Trumpy. You should read [Nicola Griffith on Brexit](https://nicolagriffith.com/2016/06/24/uk-rip/):
