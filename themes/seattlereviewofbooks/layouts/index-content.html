@@ -24,8 +24,9 @@
                 <p class="date">Published {{ .Date.Format "January 2, 2018 at 3:04pm" }}<p>
                 <p class="noindent review-meta">
                 <strong>{{ .Params.byline }} </strong> 
-                {{ $author := index (where (.Site.RegularPages.RelatedIndices . "byline" ) "Type" "writers") 0 }}
+                {{/*{{ $author := index (where (.Site.RegularPages.RelatedIndices . "byline" ) "Type" "writers") 0 }}
                 {{ $author.Params.index }} 
+                TODO: ON THE WRITERS PAGE IT HAS TO ECHO THE SAME CONTENT AS REVIEWS PAGE*/}}
  
                 </p>
                 <div class="dek">{{ .Params.dek }}</div>

@@ -15,8 +15,7 @@ copyright = "All content \u00A9{ year } the Seattle Review of Books, and respect
     review = "reviews"
 
 [related]
-
 [[related.indices]]
-    name = "byline"
+    name = "reviews_byline"
     weight = 1
     includeNewer = true
