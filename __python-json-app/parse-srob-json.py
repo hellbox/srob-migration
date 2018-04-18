@@ -11,16 +11,14 @@ with open('srob-firebase.json') as json_data:
     data = j['data']
 
 
-def sanitizestring( string):
+def sanitizestring( string ):
     bug = string.replace(' ', '-').replace('.','').replace(':','').replace('\'','').replace('/','--').replace(',','').replace('\"','').replace('#','').replace('?','').lower()
     return bug
 
 # A function to find linked titles and return their real names for better linking
 def findstring( string ):
     breakup = string.split()
-    # Looksup the correct node, returns it as a formatted string, with the folder and filename
-    if breakup[0] == 'authors' or breakup[0] == 'translators':
-        breakup[0] = 'writers'    
+    # Looksup the correct node, returns it as a formatted string, with the folder and filename   
     return breakup[0] + "/" + sanitizestring(j['data'][breakup[0]][breakup[1]]['name']) + ".md"
 
 # Select child
@@ -279,9 +277,12 @@ for key in j['data']:
             #except KeyError:
             #    markdown.write('notes_about = ""\n')
 
-            markdown.write('books_author = %s\n' % findstring(json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
-            markdown.write('reviews_about = %s\n' % findstring(json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))            
-            markdown.write('notes_about = %s\n' % findstring(json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
+            # for the related content lookup keys
+            author_temp = ('authors %s' % json.dumps(author.encode('utf-8')).replace('"',''))
+            author_temp = findstring( author_temp ).replace('authors','writers').encode('utf-8')            
+            markdown.write('books_author = %s\n' % author_temp )
+            markdown.write('reviews_about = %s\n' % author_temp )            
+            markdown.write('notes_about = %s\n' % author_temp )
             try:
                 index_builder = []
                 for sponsorship in j['data']['authors'][author]['sponsorships_author']:
@@ -393,9 +394,11 @@ for key in j['data']:
             #     markdown.write('notes_byline = %s\n' % json.dumps(index_builder))
             # except KeyError:
             #     markdown.write('notes_byline = ""\n')
-            markdown.write('reviews_by = %s\n' % findstring(json.dumps(j['data']['writers'][writer]['name']).encode('utf-8')))
-            markdown.write('notes_byline = %s\n' % findstring(json.dumps(j['data']['writers'][writer]['name']).encode('utf-8')))
-            markdown.write('books_translator = ""\n')                     
+            writer_temp = ('writers %s' % json.dumps(writer.encode('utf-8')).replace('"',''))
+            writer_temp = findstring(writer_temp).encode('utf-8')
+            markdown.write('reviews_by = %s\n' % writer_temp )
+            markdown.write('notes_byline = %s\n' % writer_temp )
+            markdown.write('books_translator = ""\n')  
     
             markdown.write('+++\n\n')  
             markdown.close()
@@ -470,8 +473,10 @@ for key in j['data']:
             #        index_builder.append(translators.encode('utf-8'))
             #    markdown.write('books_translator = %s\n' % json.dumps(index_builder))
             #except KeyError:
-            #    markdown.write('books_translator = ""\n')  
-            markdown.write('books_translator = %s\n' % findsring(json.dumps(j['data']['translators'][translator]['name']).encode('utf-8')))        
+            #    markdown.write('books_translator = ""\n') 
+            translator_temp = ('translators %s' % json.dumps(translator.encode('utf-8')).replace('"',''))
+            translator_temp = findstring( translator_temp ).replace('translators','writers').encode('utf-8')             
+            markdown.write('books_translator = %s\n' % translator_temp )        
             markdown.write('+++\n\n')  
             markdown.close()
 
