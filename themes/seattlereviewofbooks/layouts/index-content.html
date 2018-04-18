@@ -23,11 +23,8 @@
                 <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
                 <p class="date">Published {{ .Date.Format "January 2, 2018 at 3:04pm" }}<p>
                 <p class="noindent review-meta">
-                <strong>{{ .Params.byline }} </strong> 
-                {{/*{{ $author := index (where (.Site.RegularPages.RelatedIndices . "byline" ) "Type" "writers") 0 }}
-                {{ $author.Params.index }} 
-                TODO: ON THE WRITERS PAGE IT HAS TO ECHO THE SAME CONTENT AS REVIEWS PAGE*/}}
- 
+                {{ $writer := index (where (.Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers") 0 }}                    
+                <strong>{{ $writer.Params.byline }} </strong>                  
                 </p>
                 <div class="dek">{{ .Params.dek }}</div>
                 <p class="noindent"><a href="{{ .RelPermalink }}">Read this review now</a></p>

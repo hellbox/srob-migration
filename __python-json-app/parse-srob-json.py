@@ -396,7 +396,7 @@ for key in j['data']:
             #     markdown.write('notes_byline = ""\n')
             writer_temp = ('writers %s' % json.dumps(writer.encode('utf-8')).replace('"',''))
             writer_temp = findstring(writer_temp).encode('utf-8')
-            markdown.write('reviews_by = "%s"\n' % writer_temp )
+            markdown.write('reviews_byline = "%s"\n' % writer_temp )
             markdown.write('notes_byline = "%s"\n' % writer_temp )
             markdown.write('books_translator = ""\n')  
     
