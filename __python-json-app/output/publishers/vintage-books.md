@@ -10,5 +10,5 @@ last_updated = "2015-09-08T19:38:00-07:00"
 preview_url = "520621ad-dce7-1e85-b7ec-97cd7aafbaf5"
 name = "Vintage Books"
 title = "Vintage Books"
-books_by_this_publisher = ["books/the-death-and-life-of-bobby-z", "books/geek-love", "books/give-me-everything-you-have"]
+books_by_this_publisher = ["books/the-death-and-life-of-bobby-z.md", "books/geek-love.md", "books/give-me-everything-you-have.md"]
 +++

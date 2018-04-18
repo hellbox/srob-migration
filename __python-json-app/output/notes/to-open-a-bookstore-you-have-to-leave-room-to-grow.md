@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465770857811/TPBS
 twitterauto = "An interview with @ThirdPlaceBooks Seward Park manager Eric McDaniel."
 facebookauto = "Here's a talk with Third Place Books Seward Park manager Eric McDaniel about leaving room to grow in his new bookstore."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

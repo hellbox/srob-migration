@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520914591618/trut
 twitterauto = "Our March Poet in Residence is doing two reading events this week \u2014 once with ice cream!"
 facebookauto = "Our March Poet in Residence is doing two reading events this week \u2014 once with ice cream!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

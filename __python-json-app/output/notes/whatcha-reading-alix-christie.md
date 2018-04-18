@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518844372384/alix
 twitterauto = "We asked @alixechristie what she was reading, and she was kind enough to tell us."
 facebookauto = "We asked Alix Christie what she was reading, and she was kind enough to tell us."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/whatcha-reading"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/whatcha-reading.md"]
 notes_about = ""
 books = ""
 +++

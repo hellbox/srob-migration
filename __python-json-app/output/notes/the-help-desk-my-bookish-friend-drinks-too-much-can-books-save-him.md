@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452883279587/Page
 twitterauto = "A reader asks @ciennam: will a book save my friend's life?"
 facebookauto = "Dear Cienna\n\nHave you ever tried to get somebody to change by offering a book that you think might affect them? I have a friend who is drinking himself to death. He listens to books, but not people. Books have changed me, maybe one would change him. Any ideas?\n\nSeth in Georgetown"
 make_image_tweet = "True"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
-books = ["books/how-to-win-friends-and-influence-people", "books/night-of-the-gun", "books/dry", "books/drinking-a-love-story"]
+books = ["books/how-to-win-friends-and-influence-people.md", "books/night-of-the-gun.md", "books/dry.md", "books/drinking-a-love-story.md"]
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>
 

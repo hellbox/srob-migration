@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Zanadu Comics has been selling comics in downtown Seattle since 1975. It's closing next year."
 facebookauto = "Zanadu Comics has been selling comics in downtown Seattle since 1975. It's closing next year."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/zanadu-comics", "tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/zanadu-comics.md", "tags/death.md"]
 notes_about = ""
 books = ""
 +++

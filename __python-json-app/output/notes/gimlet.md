@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, \"Gimlet, is from @coolniceghost."
 facebookauto = "Our Tuesday Poem, \"Gimlet, is from Sonya Vatomsky."
 make_image_tweet = "False"
-notes_byline = ["writers/sonya-vatomsky"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/sonya-vatomsky.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

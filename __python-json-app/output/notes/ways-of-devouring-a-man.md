@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/elisa-chavez"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/elisa-chavez.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510990893401/IMG_
 twitterauto = "Seattle Writing Prompts rides the ferry back at night."
 facebookauto = "Seattle Writing Prompts rides the ferry back at night."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

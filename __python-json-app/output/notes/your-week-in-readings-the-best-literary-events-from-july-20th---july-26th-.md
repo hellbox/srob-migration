@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468628294529/youl
 twitterauto = "Your week in readings features an Inside Amy Schumer writer and a festival in Rainier Beach!"
 facebookauto = "Your week in readings will take you all around town, from a conversation between Lindy West and the head writer of Inside Amy Schumer to the Rainier BAAMFest to a celebration of an underrated sci-fi genius downtown."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

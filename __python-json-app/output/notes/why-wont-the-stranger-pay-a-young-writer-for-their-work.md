@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500486817561/DFC8
 twitterauto = "Why won't @thestranger pay a young writer for their work?"
 facebookauto = "An update to yesterday's story: why won't The Stranger pay a young writer for their work?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/the-stranger", "tags/bumbershoot"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/the-stranger.md", "tags/bumbershoot.md"]
 notes_about = ""
 books = ""
 +++

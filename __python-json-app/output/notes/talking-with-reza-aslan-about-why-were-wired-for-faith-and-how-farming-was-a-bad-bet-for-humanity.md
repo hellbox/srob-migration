@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510966544047/goda
 twitterauto = "We talked with Reza Aslan about why we're wired for faith and why farming was a bad bet for humanity."
 facebookauto = "We talked with one of the greatest religious studies experts in the world about why we're wired to believe in talking trees."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/religion"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/religion.md"]
 notes_about = ""
-books = ["books/agnostic"]
+books = ["books/agnostic.md"]
 +++
 <p class="intro">Reza Aslan's new book [*God: A Human History*](https://www.penguinrandomhouse.com/books/246531/god-by-reza-aslan/9780553394726/) is a remarkable document. It lays out the entirety of human's relationship with the divine, using athropological and archaeological documentation. From pantheism to ancestor worship to monotheism, Aslan examines the way that a concept of a higher power has evolved right alongside human civilization — and also helped shape our modern world. Aslan was in Seattle last week with Seattle Arts and Lectures. We spoke on the phone shortly after his arrival in Portland for the next reading on his tour. What follows is a lightly edited transcript of our conversation.</p>
 

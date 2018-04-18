@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Imagine a world in which booksellers can break into your home and steal back books that you bought from them. "
 facebookauto = "Imagine a world in which booksellers can break into your home and steal back books that you bought from them. "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/barnes-&amp;-noble", "tags/e-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/barnes-&amp;-noble.md", "tags/e-books.md"]
 notes_about = ""
 books = ""
 +++

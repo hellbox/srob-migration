@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Congratulations to @fantagraphics author Ed Piskor! Now when will we finally get HATE: THE ANIMATED SERIES?"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

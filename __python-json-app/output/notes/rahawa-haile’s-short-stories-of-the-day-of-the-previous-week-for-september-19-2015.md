@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our weekly round up of @rahawahaile's short story project is up, featuring @SarahPinsker, @cmaum and more."
 facebookauto = "Our weekly roundup of Rahawa Haile's Short Story of the Day project is up. A great way to spend a weekend morning, reading through some writers you may not know. "
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-stories", "tags/short-story-of-the-day"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md", "tags/short-stories.md", "tags/short-story-of-the-day.md"]
 notes_about = ""
 books = ""
 +++

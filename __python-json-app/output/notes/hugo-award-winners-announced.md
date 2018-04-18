@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Congratulations to @GWillowWilson & the other Hugo Award winners! Nice to see quality prevail over loudmouths. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-awards.md"]
 notes_about = ""
-books = ["books/the-three-body-problem"]
+books = ["books/the-three-body-problem.md"]
 +++
 This year, there was a lot of angst over the [Hugo Awards](http://www.thehugoawards.org/), the science fiction awards given out as part of the Worldcon sci-fi convention. In brief: a bunch of asshole white dudes who think women and minorities are scary and gross tried to take over the awards because they believe everything, including sci-fi, was better in the 1950s. (You can [read a longer explanation at *Slate*](http://www.slate.com/blogs/browbeat/2015/04/08/_2015_hugo_awards_how_the_sad_and_rabid_puppies_took_over_the_sci_fi_nominations.html)).
 

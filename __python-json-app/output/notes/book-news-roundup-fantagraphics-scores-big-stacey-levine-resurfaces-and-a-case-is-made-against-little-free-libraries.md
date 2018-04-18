@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493940143115/eisn
 twitterauto = "Today in book news: @fantagraphics scores big, and a portrait of Seattle's book theft network."
 facebookauto = "Today in book news: @fantagraphics scores big, against Little Free Libraries, and a portrait of Seattle's book theft network."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics", "tags/twice-sold-tales", "tags/little-free-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics.md", "tags/twice-sold-tales.md", "tags/little-free-library.md"]
 notes_about = ""
 books = ""
 +++

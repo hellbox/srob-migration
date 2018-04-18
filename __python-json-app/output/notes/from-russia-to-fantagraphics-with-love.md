@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488774686660/Othe
 twitterauto = "A Russian cartoonist will be presenting her new book of journalism @fantagraphics this weekend."
 facebookauto = "Fantagraphics will be presenting Russian cartooning journalist Victoria Lomasko this weekend. In a time when Russia has become a political football, it's more important than ever to understand what's going on in that corner of the world."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics-bookstore-&amp;-gallery", "tags/fantagraphics", "tags/short-run", "tags/russia"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics-bookstore-&amp;-gallery.md", "tags/fantagraphics.md", "tags/short-run.md", "tags/russia.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480230672441/Indi
 twitterauto = "Scenes from the #IndiesFirst Party Bus tour, featuring @ThirdPlaceBooks, @ElliottBayBooks @ Ubookstorereads."
 facebookauto = "This is what happens when you stick 25 writers on a bus and drive them around to three Seattle-area bookstores:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/third-place-books-seward-park", "tags/university-book-store", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/third-place-books-seward-park.md", "tags/university-book-store.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

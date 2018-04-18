@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506919828269/Scre
 twitterauto = "\"Farthermore\" is the third poem from Poet in Residence @karywayson"
 facebookauto = "\"Farthermore\" is the third poem from Poet in Residence Kary Wayson"
 make_image_tweet = "False"
-notes_byline = ["writers/kary-wayson"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/kary-wayson.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

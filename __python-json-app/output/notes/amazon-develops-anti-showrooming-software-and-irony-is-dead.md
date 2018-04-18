@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Now that Amazon owns brick-and-mortar stores, they're trying to stop customers from showrooming."
 facebookauto = "Irony of ironies: now that Amazon owns brick-and-mortar stores, they're trying to stop customers from showrooming."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon-books", "tags/showrooming"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon-books.md", "tags/showrooming.md"]
 notes_about = ""
 books = ""
 +++

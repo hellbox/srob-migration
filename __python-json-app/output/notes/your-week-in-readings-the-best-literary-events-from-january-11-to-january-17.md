@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452303099566/17fc
 twitterauto = "Your week in readings begins with @EAustenPoet reading @SPLBUZZ"
 facebookauto = "This weeks literary events include civic activism, Black Lives Matter, and a heavy dose of poetry. "
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/poet-laureate", "tags/margin-shift"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/university-book-store.md", "tags/poet-laureate.md", "tags/margin-shift.md"]
 notes_about = ""
 books = ""
 +++

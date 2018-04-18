@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462163579698/2016
 twitterauto = "Our May Bookstore of the Month is @queenannebookco."
 facebookauto = "Our May Bookstore of the Month is Queen Anne Book Company, which feels delightfully like an island bookstore."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/queen-anne-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/queen-anne-book-company.md"]
 notes_about = ""
 books = ""
 +++

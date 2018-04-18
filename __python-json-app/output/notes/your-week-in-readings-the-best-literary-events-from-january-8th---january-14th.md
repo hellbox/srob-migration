@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515125760676/doom
 twitterauto = "Lots of great events this week, including two from the African American Writers' Alliance."
 facebookauto = "Lots of great events this week, including two from the African American Writers' Alliance."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

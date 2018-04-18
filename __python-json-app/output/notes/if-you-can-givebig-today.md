@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462261025689/give
 twitterauto = "It's time to #GiveBIG! Here are literary nonprofits that deserve your attention:"
 facebookauto = "Today is #GiveBIG, the day when the Seattle Foundation helps stretch your donation to worthy local nonprofits. Here's a list of good Seattle literary nonprofits that deserve your attention."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/givebig"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/givebig.md"]
 notes_about = ""
 books = ""
 +++

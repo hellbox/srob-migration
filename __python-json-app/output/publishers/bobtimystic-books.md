@@ -10,5 +10,5 @@ last_updated = "2016-09-25T14:20:00-07:00"
 preview_url = "489c3980-96ca-59a5-6d58-dcf2fe3272d7"
 name = "Bobtimystic Books"
 title = "Bobtimystic Books"
-books_by_this_publisher = ["books/the-cant-idates"]
+books_by_this_publisher = ["books/the-cant-idates.md"]
 +++

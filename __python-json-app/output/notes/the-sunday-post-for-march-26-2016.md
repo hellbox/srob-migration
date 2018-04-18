@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The drug wars, historical fiction, honesty on social media, and @summerbrennan's book tour, in The Sunday Post."
 facebookauto = "The drug wars, historical fiction, Feminism and Playboy, honesty in transit social media, and a book tour."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

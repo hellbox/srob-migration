@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We've just released the next block of sponsor opportunities on the site. Act fast -- we sold out the last block!"
 facebookauto = "We've just released the next block of sponsorship openings. Last time, we sold out completely. If you're thinking about partnering with us for some effective, inexpensive advertising, act fast!"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

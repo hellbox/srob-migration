@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "So @shortrunseattle just released their exhibitor list and it's awesome. November 5th, Seattle Center."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

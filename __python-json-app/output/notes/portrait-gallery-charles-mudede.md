@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443644823326/srob
 twitterauto = "This week's Portrait Gallery from @studiochristine features Seattle's own Charles @mudede"
 facebookauto = "Charles Mudede is Christine Marie Larsen's subject this week for Portrait Gallery."
 make_image_tweet = ""
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452040218673/1218
 twitterauto = "We're very glad that @fantagraphics and Dan Clowes are taking a stand against this sexist French comics award!"
 facebookauto = "The long list for a prestigious French comics award was released this morning. Of the 30 comics creators, absolutely no women were included. Thankfully, Seattle comics publisher Fantagraphics is doing something about it."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics", "tags/awards", "tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics.md", "tags/awards.md", "tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

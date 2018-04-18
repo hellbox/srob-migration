@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The second week's poem of Poet in Residence @Oliver_delaPaz is titled \"Prince Credo\""
 facebookauto = "The second week's poem of Poet in Residence Oliver de la Paz is titled \"Prince Credo\""
 make_image_tweet = "False"
-notes_byline = ["writers/oliver-de-la-paz"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/oliver-de-la-paz.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

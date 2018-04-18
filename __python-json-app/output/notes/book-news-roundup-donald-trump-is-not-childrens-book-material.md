@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in Book News Roundup: Sorry, there's some Trump in here."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469035925439/Scre
 twitterauto = "Here's a website that will make (occasionally intelligible) poetry out of your Twitter feed."
 facebookauto = "Here's a website that will make (occasionally intelligible) poetry out of your Twitter feed."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/twitter", "tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/twitter.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

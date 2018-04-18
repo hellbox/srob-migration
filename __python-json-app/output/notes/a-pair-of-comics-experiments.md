@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Go check out these comics experiments from @H_Chamberlain (starring the Fremont Troll) and @DrIsaacCates. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/okey-panky", "tags/comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/okey-panky.md", "tags/comics.md"]
 notes_about = ""
 books = ""
 +++

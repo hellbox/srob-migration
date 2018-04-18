@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493266767649/The-
 twitterauto = "It's hard to discuss The Righteous Mind by @JonHaidt, but it just might change the way you talk."
 facebookauto = "Last night, our book club found it hard to discuss The Righteous Mind. But the way the difficult conversation unfolded seemed to prove the book's thesis perfectly."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reading-through-it", "tags/third-place-books-seward-park", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reading-through-it.md", "tags/third-place-books-seward-park.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

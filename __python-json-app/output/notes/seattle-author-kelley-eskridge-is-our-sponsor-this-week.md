@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our thanks to @kelleyeskridge for her sponsorship. Come read full chapter from her book Solitaire for one more day."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/solitaire"]
+books = ["books/solitaire.md"]
 +++
 [We're featuring a full chapter from Kelley Eskridge's novel _Solitaire_ this week](http://seattlereviewofbooks.com/sponsorships). You have thorugh tomorrow to read the whole first chapter. 
 

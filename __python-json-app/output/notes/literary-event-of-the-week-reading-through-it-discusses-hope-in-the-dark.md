@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485488581220/hope
 twitterauto = "Join us tonight at @ThirdPlaceBooks Seward Park as we discuss Hope in the Dark."
 facebookauto = "Join us tonight at Third Place Books Seward Park as we discuss Rebecca Solnit's great book Hope in the Dark."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/reading-through-it", "tags/third-place-books-seward-park"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/reading-through-it.md", "tags/third-place-books-seward-park.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Is this censorship, or is it just choosing not to publish a flawed book?"
 facebookauto = "The National Coalition Against Censorship says that when Scholastic stopped publishing A Birthday Cake for George Washington, they were committing censorship. But is that true?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/censorship"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/censorship.md"]
 notes_about = ""
-books = ["books/a-birthday-cake-for-george-washington"]
+books = ["books/a-birthday-cake-for-george-washington.md"]
 +++
 Ron Charles at [the *Washington Post* writes](https://www.washingtonpost.com/entertainment/books/free-speech-groups-defend-a-birthday-cake-for-george-washington/2016/01/22/51b96c70-c14c-11e5-9443-7074c3645405_story.html?postshare=3401453500367992&tid=ss_tw) that Scholastic's decision to recall their children's book *A Birthday Cake for George Washington* is being protested by the National Coalition Against Censorship. (If you need a primer on the swirl around *Birthday Cake*, you should [read Lisa Gold's excellent review](http://seattlereviewofbooks.com/reviews/the-idea-of-freedom-might-be-too-great-a-temptation-for-them-to-resist/), which we ran last week.)
 

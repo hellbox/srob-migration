@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\u201cWWMT?\": A race across icy Alaska, design thinking deconstructed, and Tom Waits wears his own clothes."
 facebookauto = "\u201cWWMT?\": A race across icy Alaska, design thinking deconstructed, and Tom Waits wears his own clothes in the Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

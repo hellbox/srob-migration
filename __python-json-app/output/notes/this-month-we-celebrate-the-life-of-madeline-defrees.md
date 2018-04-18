@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448953741540/9110
 twitterauto = "Join us as we celebrate the poetry of Madeline DeFrees, all December long."
 facebookauto = "Join us as we celebrate the poetry of Madeline DeFrees all December long."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry", "tags/obituaries"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md", "tags/obituaries.md"]
 notes_about = ""
 books = ""
 +++

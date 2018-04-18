@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ".@paulconstant on Vice: \" Does the world really need a Fox News: Coachella Edition?\""
 facebookauto = "Vice magazine is aging, and it's not aging gracefully."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/media", "tags/magazine", "tags/vice"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/media.md", "tags/magazine.md", "tags/vice.md"]
 notes_about = ""
 books = ""
 +++

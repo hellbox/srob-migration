@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/literary-hub"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/literary-hub.md"]
 notes_about = ""
-books = ["books/aux-arcs"]
+books = ["books/aux-arcs.md"]
 +++
 In my capacity as Seattle correspondent for Literary Hub, I wrote about Seattle poet Shin Yu Pai's new project: she's [publishing words on the skin of apples in Carkeek Park](http://lithub.com/where-the-words-grow-on-trees/). I hope you'll go take a look.

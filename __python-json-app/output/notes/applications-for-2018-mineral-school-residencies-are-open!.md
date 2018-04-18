@@ -16,8 +16,8 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1513572153994/
 twitterauto = "Don't miss the chance to apply for a residency at the Mineral School, our sponsor this week."
 facebookauto = "Don't miss the chance to apply for a residency at the Mineral School, our sponsor this week."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

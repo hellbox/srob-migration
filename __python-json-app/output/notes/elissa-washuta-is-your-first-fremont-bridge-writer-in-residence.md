@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Congratulations to @misswashuta, the new Fremont Bridge writer-in-residence!"
 facebookauto = "Congratulations to Elissa Washuta for landing the sweet Fremont Bridge writer-in-residence position."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fremont-bridge"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fremont-bridge.md"]
 notes_about = ""
-books = ["books/starvation-mode"]
+books = ["books/starvation-mode.md"]
 +++
 On Facebook, Seattle author [Elissa Washuta](http://seattlereviewofbooks.com/authors/elissa-washuta/) writes, 
 

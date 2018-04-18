@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512518430123/loui
 twitterauto = "We asked Jessixa Bagley to recommend a favorite book for holiday gift-giving. Here's what she picked for you:"
 facebookauto = "We asked Jessixa Bagley to recommend a favorite book for holiday gift-giving. Here's what she picked for you:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/holidays"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/holidays.md"]
 notes_about = ""
 books = ""
 +++

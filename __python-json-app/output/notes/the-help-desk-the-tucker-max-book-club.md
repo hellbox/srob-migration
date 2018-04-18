@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447438256007/imag
 twitterauto = "Is it possible to \"ironically\" like noted dirtbag Tucker Max? @ciennam takes a stand."
 facebookauto = "In this week's advice column, Cienna Madrid responds to a letter-writer who is concerned about her friend's so-called \"ironic\" appreciation of Tucker Max."
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/feminism"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

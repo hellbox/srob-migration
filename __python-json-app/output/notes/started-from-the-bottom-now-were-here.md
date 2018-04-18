@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445586690837/poet
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

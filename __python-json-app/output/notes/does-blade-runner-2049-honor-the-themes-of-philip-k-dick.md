@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507270220519/2049
 twitterauto = "Does Blade Runner 2049 honor the themes of Philip K. Dick's fiction? Should it?"
 facebookauto = "Does Blade Runner 2049 honor the themes of Philip K. Dick's fiction? Should it honor those themes, or have we moved on?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/adaptation", "tags/science-fiction"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/adaptation.md", "tags/science-fiction.md"]
 notes_about = ""
 books = ""
 +++

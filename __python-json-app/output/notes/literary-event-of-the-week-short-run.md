@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509078913028/shor
 twitterauto = "The event of the week this week is @ShortRunSeattle, which is bigger and better than ever."
 facebookauto = "The event of the week this week is the Short Run Comix & Arts Festival, which is bigger and better than ever."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
-books = ["books/rosalie-lightning"]
+books = ["books/rosalie-lightning.md"]
 +++
 <p class="image">![](/webhook-uploads/1509078913028/shortrun.jpg)</p>
 

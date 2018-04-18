@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"Donald Trump ate my cerebellum\" is not an adequate excuse."
 facebookauto = "\"Donald Trump ate my cerebellum\" is not an adequate excuse."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

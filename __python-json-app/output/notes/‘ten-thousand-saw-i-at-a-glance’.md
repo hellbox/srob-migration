@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We love our Tuesday poem by @quietlybananas 'Ten thousand saw I at a glance\u2019. First line: \"I can't recommend writing\""
 facebookauto = "The marvelous Arlene Kim is our featured poet today, and we're so proud to run her poem 'Ten thousand saw I at a glance' today as our Tuesday poem."
 make_image_tweet = ""
-notes_byline = ["writers/arlene-kim"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/arlene-kim.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464545902337/jtle
 twitterauto = "Join us tomorrow @SIFFNews for a documentary about a literary hoax."
 facebookauto = "On Monday at SIFF, our own Paul Constant will interview the director of Author: The JT LeRoy Story about authenticity in authorship and one of the greatest literary hoaxes of our time."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/siff"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/siff.md"]
 notes_about = ""
 books = ""
 +++

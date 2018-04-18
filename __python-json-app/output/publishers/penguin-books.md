@@ -10,5 +10,5 @@ last_updated = "2016-03-13T15:00:00-07:00"
 preview_url = "d63a680e-254a-aa2a-7fa0-25b1f43a2738"
 name = "Penguin Books"
 title = "Penguin Books"
-books_by_this_publisher = ["books/it-shouldnt-have-been-beautiful", "books/the-artists-way"]
+books_by_this_publisher = ["books/it-shouldnt-have-been-beautiful.md", "books/the-artists-way.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444196989999/SRoB
 twitterauto = "Portrait Gallery time! Today @studiochristine paints Anastacia Renee Tolbert, who is reading tonight."
 facebookauto = "Anastacia Renee Tolbert is reading tonight, and -- coincidence or keen planning? -- Christine Marie Larsen made a new Portrait Gallery painting of her."
 make_image_tweet = ""
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1471881146631/9780
 twitterauto = "Lunch date takes @helytimes to @ilcorvopasta"
 facebookauto = "For a Lunch Date, Martin takes Steve Hely's latest to Il Corvo for some pasta ."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/lunch-date"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/lunch-date.md"]
 notes_about = ""
 books = ""
 +++

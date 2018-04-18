@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Event of the Week is a remarkable account of a shooting that rocked Seattle."
 facebookauto = "Our Event of the Week is a remarkable account of a shooting that rocked Seattle."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

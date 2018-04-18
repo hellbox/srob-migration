@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Sponsor @loritwhaley teaches that we have a lot to learn from bushido, the code of the samurai. "
 facebookauto = "Sponsor Lori Tsugawa Whaley  teaches that we have a lot to learn from bushido, the code of the samurai. "
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/the-courage-of-a-samurai"]
+books = ["books/the-courage-of-a-samurai.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1497546471786/Courage%20of%20a%20Samurai_small.jpg)</p>
 

@@ -10,5 +10,5 @@ last_updated = "2017-08-06T13:24:00-07:00"
 preview_url = "3ee2c9d1-b732-bdfb-1209-5a4fa9f593f4"
 name = "Europa Editions"
 title = "Europa Editions"
-books_by_this_publisher = ["books/mayumi-and-the-sea-of-happiness", "books/the-days-of-abandonment"]
+books_by_this_publisher = ["books/mayumi-and-the-sea-of-happiness.md", "books/the-days-of-abandonment.md"]
 +++

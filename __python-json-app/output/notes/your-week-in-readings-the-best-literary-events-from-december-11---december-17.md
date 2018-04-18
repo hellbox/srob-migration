@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512016150092/coun
 twitterauto = "Four poets @elliottbaybook and a chance to help an orphanage through poetry are this week's highlights."
 facebookauto = "Four poets at Elliott Bay Book Company and a chance to help an orphanage through poetry are this week's highlights."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

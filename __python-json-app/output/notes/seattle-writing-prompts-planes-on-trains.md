@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497718694805/plan
 twitterauto = "Seattle writing prompts rides the rails, and skies, today."
 facebookauto = "Seattle writing prompts rides the rails, and skies, today"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

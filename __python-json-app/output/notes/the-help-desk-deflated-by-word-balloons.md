@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464970887414/fun-
 twitterauto = "Dear @ciennam: I can't figure out how to read comics. Should I keep trying, or can I give up?"
 facebookauto = "In today's literary advice column: If you just can't figure out how comic books are supposed to work, should you keep trying?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/comics"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/comics.md"]
 notes_about = ""
 books = ""
 +++

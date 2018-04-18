@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear @HugoHouse: Should we start digging a bomb shelter in case of President Trump? #Oracle"
 facebookauto = "Today in Book News Roundup: A controversial kid's book, a lawsuit involving the author of Pride and Prejudice and Zombies, and a way to get your fortune told for free."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

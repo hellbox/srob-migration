@@ -10,5 +10,5 @@ last_updated = "2015-08-10T18:57:00-07:00"
 preview_url = "dfd9a682-f133-4bfd-ef30-9ce5ff3e93e5"
 name = "Small Beer Press"
 title = "Small Beer Press"
-books_by_this_publisher = ["books/solitaire"]
+books_by_this_publisher = ["books/solitaire.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today is the day we start taking the country back."
 facebookauto = "Today is the day we start taking the country back."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump", "tags/writers-resist"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md", "tags/writers-resist.md"]
 notes_about = ""
 books = ""
 +++

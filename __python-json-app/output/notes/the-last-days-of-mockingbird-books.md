@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "You have less than a week to visit Mockingbird books before it closes forever."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/mockingbird-books", "tags/komo"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/mockingbird-books.md", "tags/komo.md"]
 notes_about = ""
 books = ""
 +++

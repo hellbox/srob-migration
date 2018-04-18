@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Spuyten Duyvil"
 title = "Spuyten Duyvil"
-books_by_this_publisher = ["books/lifeline-rule"]
+books_by_this_publisher = ["books/lifeline-rule.md"]
 +++

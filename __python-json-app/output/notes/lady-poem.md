@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506919727429/Scre
 twitterauto = "\"Lady Poem\" is the last work from October Poet in Residence @karywayson"
 facebookauto = "\"Lady Poem\" is the last work from October Poet in Residence Kary Wayson"
 make_image_tweet = "False"
-notes_byline = ["writers/kary-wayson"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/kary-wayson.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

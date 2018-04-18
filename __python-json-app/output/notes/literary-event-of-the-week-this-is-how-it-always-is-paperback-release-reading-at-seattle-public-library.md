@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515565127439/howi
 twitterauto = "Our event of the week is the This Is How It Always Is release party @SPLBuzz!"
 facebookauto = "Our event of the week is the This Is How It Always Is release party at the downtown branch of the Seattle Public Library!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
-books = ["books/this-is-how-it-always-is"]
+books = ["books/this-is-how-it-always-is.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1515565127439/howitalwaysis.jpg)</p>
 A couple weeks ago, [Seattle novelist Laurie Frankel](http://www.seattlereviewofbooks.com/notes/2018/01/10/second-times-the-charm-talking-with-laurie-frankel-about-the-pleasures-and-pains-of-paperbacks/) talked with me about the difference between a hardcover and a paperback book launch. In hardcover, she said, the readers tend to seek out the book specifically because of reviews or word of mouth. They know what they’re getting into. But in paperback, she said, the book is priced for discovery—people see the book on a table at a bookstore, for instance, or their book club decides to read it. 

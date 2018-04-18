@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486712174205/guin
 twitterauto = "So many great events this week, including @PeterMountford and @mountain_goats!"
 facebookauto = "So many great events this week, including events with Peter Mountford, a new series out of Vermillion, and John Darnielle's new book."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

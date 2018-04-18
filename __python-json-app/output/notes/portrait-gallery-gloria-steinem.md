@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446753180233/SRoB
 twitterauto = "A new Portrait Gallery from @studiochristine, of @gloriasteinem. @writehedgebrook brings her to @benaroyahall Sun."
 facebookauto = "Gloria Steinem is this week's Portrait Gallery, by Christine Marie Larsen. Hedgebrook is bringing her to Benaroya Hall this Sunday, in conversation with Cheryl Strayed. We can't wait."
 make_image_tweet = ""
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

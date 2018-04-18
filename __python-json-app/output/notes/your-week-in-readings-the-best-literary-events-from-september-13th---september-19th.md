@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503459807351/love
 twitterauto = "Your Week in Readings features Jamie Ford and a big-ass zine party in a barber shop."
 facebookauto = "Your Week in Readings features Jamie Ford and a big-ass zine party in a barber shop."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

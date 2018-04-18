@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/go-set-a-watchman", "tags/to-kill-a-mockinbird", "tags/harper-lee", "tags/reese-witherspoon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/go-set-a-watchman.md", "tags/to-kill-a-mockinbird.md", "tags/harper-lee.md", "tags/reese-witherspoon.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "The University of Virginia Press"
 title = "The University of Virginia Press"
-books_by_this_publisher = ["books/philosophy-as-poetry"]
+books_by_this_publisher = ["books/philosophy-as-poetry.md"]
 +++

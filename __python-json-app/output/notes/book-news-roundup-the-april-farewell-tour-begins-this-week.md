@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Book News Roundup pits traditional book reviews against Amazon reviews."
 facebookauto = "Our Book News Roundup pits traditional book reviews against Amazon reviews."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/april", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/april.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

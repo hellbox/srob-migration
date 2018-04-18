@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"We experimentalists are so lucky \u2014 we are always emerging!\" @mbsycamore interviews Robert Gl\u00fcck."
 facebookauto = "\"We experimentalists are so lucky \u2014 we are always emerging!\" Mattilda Bernstein Sycamore interviews Robert Gl\u00fcck."
 make_image_tweet = "True"
-notes_byline = ["writers/mattilda-bernstein-sycamore"]
-tags_notes = ["tags/interviews", "tags/lgbtq", "tags/emerging"]
+notes_byline = ["writers/mattilda-bernstein-sycamore.md"]
+tags_notes = ["tags/interviews.md", "tags/lgbtq.md", "tags/emerging.md"]
 notes_about = ""
 books = ""
 +++

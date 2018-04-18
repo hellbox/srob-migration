@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Finally\u00a0\u2014\u00a0an way to listen to audio books and support independent bookstores!"
 facebookauto = "Finally\u00a0\u2014\u00a0an way to listen to audio books and support independent bookstores."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/audio-books", "tags/librofm"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/audio-books.md", "tags/librofm.md"]
 notes_about = ""
 books = ""
 +++

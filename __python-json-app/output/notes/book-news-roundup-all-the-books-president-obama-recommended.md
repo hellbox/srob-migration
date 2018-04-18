@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes the future of bookselling & every book recommended by President Obama."
 facebookauto = "Today's Book News Roundup includes the future of bookselling and every book recommended by President Obama."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481147382724/SRoB
 twitterauto = "Here is @rabihalameddine painted by @studiochristine for this week's #portrait gallery #illustration"
 facebookauto = "Portrait Gallery: Rabih Alameddine"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

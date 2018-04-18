@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Unless you follow Chimamanda Ngozi Adichie on Facebook, you probably haven't read this essay."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

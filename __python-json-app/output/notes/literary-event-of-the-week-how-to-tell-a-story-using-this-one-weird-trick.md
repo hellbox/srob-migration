@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466554090580/somu
 twitterauto = "Our event of the week features a Danish author who has written a novel told entirely in headlines."
 facebookauto = "Our event of the week is an appearance from a Danish author who has written a novel told entirely in headlines."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

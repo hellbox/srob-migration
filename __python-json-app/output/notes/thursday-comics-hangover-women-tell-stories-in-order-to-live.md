@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482297338096/100n
 twitterauto = "This week's comics column is about a book that demonstrates how women use stories to save their lives."
 facebookauto = "This week's comics column is about a book that demonstrates how women use stories to save their lives."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

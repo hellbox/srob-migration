@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506053229586/kuow
 twitterauto = "Yesterday, @KUOW gave a platform to a Nazi. It's up to all of us to let them know that's not ok."
 facebookauto = "Yesterday, KUOW gave a platform to a Nazi. It's up to all of us to let them know that's not ok."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/kuow"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/kuow.md"]
 notes_about = ""
 books = ""
 +++

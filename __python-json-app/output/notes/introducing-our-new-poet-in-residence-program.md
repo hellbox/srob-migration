@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're excited to announce a change: every month this year, we'll present a new Poet in Residence!"
 facebookauto = "We're excited to announce a change: every month, we'll bring you a new Poet in Residence! We're excited to introduce you to some terrific Seattle-area poets. (And we're also thrilled to pay poets for their work.)"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poet-in-residence"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poet-in-residence.md"]
 notes_about = ""
 books = ""
 +++

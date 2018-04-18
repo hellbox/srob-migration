@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our third @litcrawlseattle itinerary involves offbeat readings from @SPLBuzz, @Book_It, and @RachelLaKessler."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl", "tags/seattle-public-library", "tags/book-it-repertory-theaterr", "tags/frye-art-museum"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md", "tags/seattle-public-library.md", "tags/book-it-repertory-theaterr.md", "tags/frye-art-museum.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "All the news you need on Barnes & Noble, the e-book lawsuit, & why @misswashuta is the most-envied writer in town."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/barnes-&amp;-noble", "tags/fremont-bridge", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/barnes-&amp;-noble.md", "tags/fremont-bridge.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

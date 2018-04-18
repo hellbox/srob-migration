@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483502137258/anti
 twitterauto = "All the book news that's fit to print, with stories ranging from Bellingham to Beacon Hill to Spokane to Hollywood."
 facebookauto = "In today's book news roundup: Village Books has new owners, Spokane's alternative weekly has published a poetry issue, the Seattle Antiquarian Book Fair has announced its dates for the year, and much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/poetry", "tags/milo-yiannopoulos", "tags/village-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/poetry.md", "tags/milo-yiannopoulos.md", "tags/village-books.md"]
 notes_about = ""
 books = ""
 +++

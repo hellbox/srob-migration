@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Let's talk about the high physical cost of drawing comics."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comics.md"]
 notes_about = ""
 books = ""
 +++

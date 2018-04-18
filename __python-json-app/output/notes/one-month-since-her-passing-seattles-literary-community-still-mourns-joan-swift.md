@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492189188456/Tess
 twitterauto = "We talked with Tess Gallagher, Sherman Alexie and others about why they love Joan Swift."
 facebookauto = "We talked with Tess Gallagher, Sherman Alexie and others about why they love Joan Swift."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/poetry", "tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/poetry.md", "tags/death.md"]
 notes_about = ""
 books = ""
 +++

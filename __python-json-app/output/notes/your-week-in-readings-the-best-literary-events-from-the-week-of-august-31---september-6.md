@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your week in readings begins with a @RedHenPress celebration @elliottbaybook tonight. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/elliott-bay-book-company", "tags/third-place-books-lake-forest-park", "tags/third-place-books-ravenna", "tags/adas-technical-books", "tags/hugo-house", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/elliott-bay-book-company.md", "tags/third-place-books-lake-forest-park.md", "tags/third-place-books-ravenna.md", "tags/adas-technical-books.md", "tags/hugo-house.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

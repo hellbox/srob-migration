@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505057320141/Scre
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

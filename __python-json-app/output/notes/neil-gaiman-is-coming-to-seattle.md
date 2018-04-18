@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485813137802/neil
 twitterauto = "Our sponsor is bringing @neilhimself to @benaroyahall, there's less than 150 tickets left!"
 facebookauto = "Less than 150 tickets left to see Neil Gaiman at Benaroya Hall!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

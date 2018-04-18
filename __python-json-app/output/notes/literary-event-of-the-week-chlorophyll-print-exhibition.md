@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513146768965/post
 twitterauto = "Our Event of the Week is an exhibition of chlorophyll prints in Redmond."
 facebookauto = "Our Event of the Week is an exhibition of chlorophyll prints in Redmond."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

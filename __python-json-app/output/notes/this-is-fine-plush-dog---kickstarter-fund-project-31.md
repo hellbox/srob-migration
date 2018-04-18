@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470502823021/7cf6
 twitterauto = "The Kickstarter fund gets behind @kcgreenn (and it's fine)"
 facebookauto = "This is a fine Kickstarter. Really. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

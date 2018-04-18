@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/meta", "tags/kuow", "tags/ross-reynolds"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/meta.md", "tags/kuow.md", "tags/ross-reynolds.md"]
 notes_about = ""
 books = ""
 +++

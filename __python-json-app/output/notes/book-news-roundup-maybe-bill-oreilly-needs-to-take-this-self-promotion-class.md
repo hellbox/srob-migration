@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Eventually, every dumb conservative writer will get their comeuppance."
 facebookauto = "Seattle writers: learn how to promote yourselves! "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

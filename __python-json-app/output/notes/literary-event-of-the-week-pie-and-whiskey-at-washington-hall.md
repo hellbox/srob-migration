@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510033884732/PieA
 twitterauto = "Get your carbs and booze on at the Pie and Whiskey reading at Washington Hall."
 facebookauto = "Get your carbs and booze on at the Pie and Whiskey reading at Washington Hall on Wednesday."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

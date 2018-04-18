@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497824132996/klei
 twitterauto = "Naomi Klein's latest book raised more questions than it answered at last night's book club."
 facebookauto = "Naomi Klein's latest book raised more questions than it answered at last night's book club."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-e-nelson"]
-tags_notes = ["tags/reading-through-it"]
+notes_byline = ["writers/paul-e-nelson.md"]
+tags_notes = ["tags/reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512757499997/71t0
 twitterauto = "It's a Very Special Help Desk Christmas episode, complete with titty twisters!"
 facebookauto = "Does Cienna Madrid have a favorite Christmas book? And what are her favorite literary charities? Find out in this very special Help Desk Christmas episode!"
 make_image_tweet = "True"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/hugo-house", "tags/seattle7writers", "tags/bureau-of-fearless-ideas"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/hugo-house.md", "tags/seattle7writers.md", "tags/bureau-of-fearless-ideas.md"]
 notes_about = ""
 books = ""
 +++

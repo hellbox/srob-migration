@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Did you know you can buy audio books from Seattle-area independent booksellers? "
 facebookauto = "Did you know you can buy audio books from Seattle-area independent booksellers? "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/audio-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/audio-books.md"]
 notes_about = ""
 books = ""
 +++

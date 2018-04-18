@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Are you prepared for the new @SPLBuzz website? Personally, we can't wait."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library", "tags/geekgirlcon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/geekgirlcon.md"]
 notes_about = ""
 books = ""
 +++

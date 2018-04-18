@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494999674126/IMG_
 twitterauto = "Last night @openpoetrybooks, writers gathered to say goodbye to Joan Swift, and to celebrate her last book."
 facebookauto = "Last night at Open Books, writers gathered to say goodbye to Joan Swift, and to celebrate her last book."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/open-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/open-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1471028434148/7dbc
 twitterauto = "The Kickstarter Fund backs a book that explains why every US president has sucked."
 facebookauto = "The Kickstarter Fund backs a project that seeks to explain exactly how every American president has sucked. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle author Erik Larson wants you to ask him anything."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reddit"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reddit.md"]
 notes_about = ""
 books = ""
 +++

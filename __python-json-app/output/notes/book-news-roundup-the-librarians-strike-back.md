@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In today's Book News Roundup: As Trumpy forces take over, the librarians strike back."
 facebookauto = "In today's Book News Roundup: As Trumpy forces take over, the librarians strike back."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library", "tags/librarians", "tags/documentary"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/librarians.md", "tags/documentary.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ".@SPLBuzz's Booktoberfest is like Octoberfest, only with more books. Who doesn't love librarians and happy hours?"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

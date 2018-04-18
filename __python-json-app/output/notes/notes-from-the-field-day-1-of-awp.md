@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our first report from @RachelLaKessler, from on the ground at #AWP16. "
 facebookauto = "Our first report from Rachel Kessler, on the ground in Los Angeles, for AWP."
 make_image_tweet = "False"
-notes_byline = ["writers/rachel-kessler"]
-tags_notes = ["tags/notes-from-the-field"]
+notes_byline = ["writers/rachel-kessler.md"]
+tags_notes = ["tags/notes-from-the-field.md"]
 notes_about = ""
 books = ""
 +++

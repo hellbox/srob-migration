@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509511745700/take
 twitterauto = "Let's settle it for good: is romance feminist? Kissing Books author @o_waite tackles the big question"
 facebookauto = "Let's settle it for good: is romance feminist? Kissing Books author Olivia Waite tackles the big question"
 make_image_tweet = "False"
-notes_byline = ["writers/olivia-waite"]
-tags_notes = ["tags/kissing-books"]
+notes_byline = ["writers/olivia-waite.md"]
+tags_notes = ["tags/kissing-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1514836554478/Scre
 twitterauto = "Kevin Craft, our Poet in Residence for January, kicks the month and the year off in a big way."
 facebookauto = "Kevin Craft, our Poet in Residence for January, kicks the month and the year off in a big way."
 make_image_tweet = "False"
-notes_byline = ["writers/kevin-craft"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/kevin-craft.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

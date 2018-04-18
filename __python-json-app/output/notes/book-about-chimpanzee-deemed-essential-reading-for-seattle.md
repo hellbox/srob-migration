@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Remember \"If All Seattle Read the Same Book?\" That was a lot of fun."
 facebookauto = "Remember \"If All Seattle Read the Same Book?\" That was a lot of fun. Did you know that program is still going? And are you ready to hear what this year's selection is?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

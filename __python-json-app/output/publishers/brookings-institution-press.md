@@ -10,5 +10,5 @@ last_updated = "2017-08-08T16:17:00-07:00"
 preview_url = "340e78d3-d990-b2f8-0120-8360da4aa7ca"
 name = "Brookings Institution Press"
 title = "Brookings Institution Press"
-books_by_this_publisher = ["books/dream-hoarders"]
+books_by_this_publisher = ["books/dream-hoarders.md"]
 +++

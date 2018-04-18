@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Looks like the New York Times is dropping graphic novels from its bestseller lists."
 facebookauto = "Looks like the New York Times is dropping graphic novels and mass market paperbacks from its bestseller lists, and also trimming the total number of books that appear on the list."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/new-york-times", "tags/new-york-times-bestseller"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/new-york-times.md", "tags/new-york-times-bestseller.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your week in readings begins tonight with Salman Rushdie and ends with a Buddhist-themed reading on Sunday."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/gallery-1412", "tags/seattle-public-library", "tags/seattle-first-baptist-church", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/gallery-1412.md", "tags/seattle-public-library.md", "tags/seattle-first-baptist-church.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

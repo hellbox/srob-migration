@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're interviewing some great Seattle-area school librarians this month, starting with @QAELibrary."
 facebookauto = "This month, we're interviewing a different school librarian every week. Our first librarian is Queen Anne Elementary's own Jeffrey Riley."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/queen-anne-elementary"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/queen-anne-elementary.md"]
 notes_about = ""
 books = ""
 +++

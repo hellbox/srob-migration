@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516421719536/laur
 twitterauto = "Wherein we are kindly visited by @luxlotus to fill us in on what she's reading."
 facebookauto = "Wherein we are kindly visited by Lauren Cerand to fill us in on what she's reading."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/whatcha-reading"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/whatcha-reading.md"]
 notes_about = ""
 books = ""
 +++

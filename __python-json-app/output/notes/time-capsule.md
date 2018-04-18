@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"They felt the wind on the down of their necks\", is the start of our Tuesday poem, by @erinmalonepoet."
 facebookauto = "Erin Malone is the author of our Tuesday poem, Time Capsule. First line: \"They felt the wind on the down of their necks\""
 make_image_tweet = ""
-notes_byline = ["writers/erin-malone"]
-tags_notes = ["tags/poetry", "tags/tuesday-poem"]
+notes_byline = ["writers/erin-malone.md"]
+tags_notes = ["tags/poetry.md", "tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

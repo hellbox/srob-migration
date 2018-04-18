@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle Writing Prompts visits Harborview Medical Center"
 facebookauto = "Seattle Writing Prompts visits Harborview Medical Center"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

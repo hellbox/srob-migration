@@ -10,5 +10,5 @@ last_updated = "2016-04-10T15:42:00-07:00"
 preview_url = "8a103234-5bb3-37a1-1d5b-a7ea3bfd95c7"
 name = "Pantheon Books"
 title = "Pantheon Books"
-books_by_this_publisher = ["books/the-art-of-charlie-chan-hock-chye", "books/time-travel", "books/imagine-wanting-only-this"]
+books_by_this_publisher = ["books/the-art-of-charlie-chan-hock-chye.md", "books/time-travel.md", "books/imagine-wanting-only-this.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444258201957/IMG_
 twitterauto = ""
 facebookauto = "Some amazing picks in today's bursting-at-the-seems mail call."
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

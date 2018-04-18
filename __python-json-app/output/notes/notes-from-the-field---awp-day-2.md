@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Men in hot tubs, trigger warnings, and some of the best readings at #AWP16, from our correspondent @RachelLaKessler."
 facebookauto = "Men in hot tubs, trigger warnings, and some of the best readings at #AWP16, from our correspondent Rachel Kessler."
 make_image_tweet = "False"
-notes_byline = ["writers/rachel-kessler"]
-tags_notes = ["tags/notes-from-the-field"]
+notes_byline = ["writers/rachel-kessler.md"]
+tags_notes = ["tags/notes-from-the-field.md"]
 notes_about = ""
 books = ""
 +++

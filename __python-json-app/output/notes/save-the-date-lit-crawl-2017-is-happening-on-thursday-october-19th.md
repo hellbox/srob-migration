@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Save the date: This year's Lit Crawl will happen on Thursday, October 19th!"
 facebookauto = "Save the date: This year's Lit Crawl will happen on Thursday, October 19th!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477719691678/ghos
 twitterauto = "Here's one great literary event for every day this week."
 facebookauto = "This week brings two literary festivals, a pair of group readings, and an election-day reading about ghosts fighting in World War II."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

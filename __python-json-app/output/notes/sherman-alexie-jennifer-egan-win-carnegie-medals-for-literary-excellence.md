@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "Sherman Alexie won this year's Carnegie Award for literary excellence in non-fiction!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/awards.md"]
 notes_about = ""
-books = ["books/you-dont-have-to-say-you-love-me"]
+books = ["books/you-dont-have-to-say-you-love-me.md"]
 +++
 Congratulations are due to Seattle author Sherman Alexie, who won a [Carnegie Medal](http://www.ala.org/awardsgrants/carnegieadult) for his amazing memoir, [*You Don't Have to Say You Love Me*](http://www.seattlereviewofbooks.com/reviews/stitch-by-stitch-by-broken-stitch/). *Love Me* is the non-fiction winner, and Jennifer Egan's acclaimed *Manhattan Beach* won the fiction prize this year. If you haven't read either of these books, you should fix that right away.

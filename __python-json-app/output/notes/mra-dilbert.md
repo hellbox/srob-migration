@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Finally! Someone came up with a good use for a Dilbert cartoon."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comics", "tags/dilbert"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comics.md", "tags/dilbert.md"]
 notes_about = ""
 books = ""
 +++

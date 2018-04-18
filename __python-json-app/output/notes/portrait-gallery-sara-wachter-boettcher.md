@@ -16,8 +16,8 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1510855003511/
 twitterauto = "Portrait Gallery: @sara_ann_marie reading #TechnicallyWrong Friday @THSea @hubsea #illustration by @studiochristine"
 facebookauto = "Portrait Gallery: Sara Wachter-Boettcher illustration by Christine Marie Larsen. Friday, November 17th: Technically Wrong* Reading. Subtitled Sexist Apps, Biased Algorithms, and Toxic Tech. Sara Wachter-Boettcher explains why the male bias in the tech industry is creating a culture that places the needs and interests of men light years ahead of those of women or nonbinary individuals. Impact Hub, 220 2nd Ave S, https://impacthubseattle.com, 7:30 pm, $5."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

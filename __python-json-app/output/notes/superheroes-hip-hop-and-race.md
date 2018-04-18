@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/marvel-comics", "tags/david-brothers", "tags/miles-morales"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/marvel-comics.md", "tags/david-brothers.md", "tags/miles-morales.md"]
 notes_about = ""
 books = ""
 +++

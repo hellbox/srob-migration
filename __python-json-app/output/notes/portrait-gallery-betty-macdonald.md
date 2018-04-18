@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484852405585/SRoB
 twitterauto = "This week @studiochristine paints Betty MacDonald"
 facebookauto = "Portrait Gallery: Betty MacDonald"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

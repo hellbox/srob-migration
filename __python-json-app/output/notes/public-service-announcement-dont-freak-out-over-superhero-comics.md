@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Guys. GUYS. Captain America will be fine. It's okay."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/marvel-comics", "tags/dc-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/marvel-comics.md", "tags/dc-comics.md"]
 notes_about = ""
 books = ""
 +++

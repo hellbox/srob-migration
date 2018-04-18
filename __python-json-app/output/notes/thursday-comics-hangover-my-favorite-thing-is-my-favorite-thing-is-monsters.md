@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489037236737/Mons
 twitterauto = "You've never seen a comic like My Favorite Thing Is Monsters from @fantagraphics."
 facebookauto = "My Favorite Thing Is Monsters is one of those once-in-a-generation comics debuts, like Chris Ware or Robert Crumb."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

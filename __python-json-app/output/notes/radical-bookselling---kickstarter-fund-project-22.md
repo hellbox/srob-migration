@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465023696410/b1a8
 twitterauto = "The Kickstarter Fund backs @moesbooks this week."
 facebookauto = "The Kickstarter Fund backs Joe's Books this week. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

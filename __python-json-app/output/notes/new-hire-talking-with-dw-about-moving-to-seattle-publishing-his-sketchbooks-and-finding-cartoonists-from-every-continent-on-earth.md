@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507331790428/Moun
 twitterauto = "We interviewed @fantagraphics cartoonist DW about why he chose to move to Seattle."
 facebookauto = "This Saturday, Fantagraphics hosts a launch party for a new book by a cartoonist named DW. We asked DW why he recently moved to Seattle. "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/new-hire", "tags/intruder", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/new-hire.md", "tags/intruder.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

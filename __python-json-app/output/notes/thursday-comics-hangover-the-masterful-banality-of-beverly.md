@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455777569707/beve
 twitterauto = "Finally, someone made a comic book as impossible to ignore as bad television!"
 facebookauto = "Beverly is the creepiest, most banal comic book about lonely people living lonely lives that you'll ever read. It's like a Todd Solondz movie in cartoon form."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/drawn-&amp;-quarterly"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/drawn-&amp;-quarterly.md"]
 notes_about = ""
 books = ""
 +++

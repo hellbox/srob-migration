@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511138861600/seda
 twitterauto = "You can tell a lot about David Sedaris based on the edits to his Wikipedia page."
 facebookauto = "\"What emerges from the Wikipedia edits is a kind of erasure portrait of David Sedaris, a biography constructed from deletions and errors.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/david-sedaris"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/david-sedaris.md"]
 notes_about = ""
 books = ""
 +++

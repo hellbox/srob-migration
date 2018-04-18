@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Thorny problem for advice columnist @ciennam: What happens when a nerd raises a bully? "
 facebookauto = "Here's a thorny problem for our advice columnist: A reader wanted to raise his son to be a nerd, but he turned out to be a nerdy bully instead. Isn't nerd culture supposed to create gentler, more empathetic humans?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/narnia", "tags/nerd"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/narnia.md", "tags/nerd.md"]
 notes_about = ""
 books = ""
 +++

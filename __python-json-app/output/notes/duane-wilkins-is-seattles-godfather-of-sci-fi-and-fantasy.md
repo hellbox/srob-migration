@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456300091606/rock
 twitterauto = "Meet @ubookstorereads's Duane Wilkins, Seattle's godfather of sci-fi."
 facebookauto = "Did you know that University Book Store has the best sci-fi/fantasy section in the entire state? Do you know that one person is responsible for that? Meet Duane Wilkins, Seattle's godfather of sci-fi."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

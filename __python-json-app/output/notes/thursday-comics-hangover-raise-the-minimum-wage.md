@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "One of the best relationship comics of the 90s is reborn as a comic about the alienation of divorce. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
-books = ["books/maximum-minimum-wage"]
+books = ["books/maximum-minimum-wage.md"]
 +++
 <p class="intro">Every comics fan knows Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country. Thursday Comics Hangover is a weekly column reviewing some of the new books that I pick up at [Phoenix Comics and Games](http://phoenixseattle.com/), my friendly neighborhood comic book store.</p>
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Sunday post: Rebecca Solnit and a difficult, but important, ProPublica piece about policing in rape cases."
 facebookauto = "Today's Sunday post: Rebecca Solnit and a difficult, but important, ProPublica piece about policing in rape cases."
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

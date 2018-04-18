@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's time to retire the Bad Sex in Fiction Award. Let's talk about great literary sex, instead."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bad-sex-in-fiction-award"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bad-sex-in-fiction-award.md"]
 notes_about = ""
 books = ""
 +++

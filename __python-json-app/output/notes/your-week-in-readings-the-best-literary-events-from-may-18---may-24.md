@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463200600707/thun
 twitterauto = "Your week in readings kicks off tonight with Christine Texeria reading as part of The Furnace @hollowearth."
 facebookauto = "This week in readings includes a brand-new bookstore, a reading from Sherman Alexie, and a discussion about fear and memoir."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/third-place-books-seward-park"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/town-hall-seattle.md", "tags/third-place-books-seward-park.md"]
 notes_about = ""
 books = ""
 +++

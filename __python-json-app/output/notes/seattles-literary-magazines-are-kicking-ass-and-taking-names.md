@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Two local literary magazines, @mosslitmag and the James Franco Review, are busy being awesome right now."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/moss", "tags/the-james-franco-review"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/moss.md", "tags/the-james-franco-review.md"]
 notes_about = ""
 books = ""
 +++

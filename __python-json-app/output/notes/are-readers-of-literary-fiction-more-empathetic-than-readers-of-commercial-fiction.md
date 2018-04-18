@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Are readers of commercial fiction less empathetic than readers of literary fiction?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/science"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/science.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post looks at....well. We all know what the Sunday Post is gonna talk about this week. No way around it."
 facebookauto = "The Sunday Post looks at....well. We all know what the Sunday Post is gonna talk about this week. No way around it."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

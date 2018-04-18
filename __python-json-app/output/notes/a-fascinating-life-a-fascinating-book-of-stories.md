@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sponsor Roy Lisker, and @saggingmeniscus, are here to show the first ever collection of his short stories."
 facebookauto = "Sponsor Roy Lisker is here this week to show you his collected works. Read a sample from one of his formalist short stories on the sponsorship page right now. "
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

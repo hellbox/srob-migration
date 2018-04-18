@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443592503360/tumb
 twitterauto = "With Porchlit, local writers share a new piece of writing every day from the porch of a house in Little Saigon. "
 facebookauto = "With Porchlit, local writers share a new piece of writing every day from the porch of a house in Little Saigon."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/porchlit"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/porchlit.md"]
 notes_about = ""
 books = ""
 +++

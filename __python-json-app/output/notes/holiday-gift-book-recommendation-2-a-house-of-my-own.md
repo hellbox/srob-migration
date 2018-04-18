@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449611731764/cont
 twitterauto = "Letizia at @ubookstorereads recommends Sandra Cisneros's A House of My Own this holiday season."
 facebookauto = "University Book Store bookseller Letizia recommends Sandra Cisneros's A House of My Own for all the travelers and writers on your holiday shopping list."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

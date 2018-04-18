@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447038388154/ifro
 twitterauto = "Is Amazon preparing to open hundreds of Amazon Books stores nationwide?"
 facebookauto = "The other shoe drops. Or, the 400 other shoes drop: rumor has it that Amazon is about to open 400 Amazon Books around the country."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon-books", "tags/university-book-store", "tags/independent-bookstores"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon-books.md", "tags/university-book-store.md", "tags/independent-bookstores.md"]
 notes_about = ""
 books = ""
 +++

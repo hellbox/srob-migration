@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem by @evanjpeterson is \"Kishotenketsu for Mars\""
 facebookauto = "Our Tuesday Poem by Evan J Peterson is \"Kishotenketsu for Mars\""
 make_image_tweet = "False"
-notes_byline = ["writers/evan-j-peterson"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/evan-j-peterson.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

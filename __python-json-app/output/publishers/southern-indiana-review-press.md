@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Southern Indiana Review Press"
 title = "Southern Indiana Review Press"
-books_by_this_publisher = ["books/the-multitude"]
+books_by_this_publisher = ["books/the-multitude.md"]
 +++

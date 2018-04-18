@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sad news: the Bellevue branch of University Book Store will close on February 15th."
 facebookauto = "Sad news from the Seattle Times: the Bellevue branch of University Book Store will close on February 15th."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/university-book-store", "tags/retail"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/university-book-store.md", "tags/retail.md"]
 notes_about = ""
 books = ""
 +++

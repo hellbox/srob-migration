@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"You are the North and I am the South / My tanks aim for you. I shoot you a thousand times.\" @thisisEJKoh"
 facebookauto = "Our Tuesday poem by EJ Koh opens with this couplet:\n\nYou are the North and I am the South\nMy tanks aim for you. I shoot you a thousand times."
 make_image_tweet = ""
-notes_byline = ["writers/ej-koh"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/ej-koh.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

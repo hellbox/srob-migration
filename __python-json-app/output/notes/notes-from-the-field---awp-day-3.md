@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "On #AWP16's final day @RachelLaKessler finds a poet waylaid by a Hollywood explosion."
 facebookauto = "It's the last day of AWP, and the book sellers are letting their stock go cheap so they don't have to haul them home. Rachel Kessler finds the poets, and finds the poetry. "
 make_image_tweet = "False"
-notes_byline = ["writers/rachel-kessler"]
-tags_notes = ["tags/notes-from-the-field"]
+notes_byline = ["writers/rachel-kessler.md"]
+tags_notes = ["tags/notes-from-the-field.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sad Chuck & Dee Robinson of @VillageBksBham are stepping aside. Glad the store's in great hands."
 facebookauto = "Sad to hear Chuck and Dee Robinson of Village Books in Bellingham are stepping aside, but glad to hear the store's in great hands."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/village-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/village-books.md"]
 notes_about = ""
 books = ""
 +++

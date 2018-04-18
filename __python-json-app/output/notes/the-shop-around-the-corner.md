@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500265525426/IMG_
 twitterauto = "We used to root for indie bookstores to beat chain booksellers. Things are weirder now."
 facebookauto = "We used to root for indie bookstores to beat chain booksellers. Things are weirder now."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/barnes-&amp;-noble", "tags/amazon-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/barnes-&amp;-noble.md", "tags/amazon-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506608530338/Scre
 twitterauto = "For our romance readers, a poem by @O_Waite. "
 facebookauto = "For our romance readers, a poem by Olivia Waite. "
 make_image_tweet = "False"
-notes_byline = ["writers/olivia-waite"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/olivia-waite.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

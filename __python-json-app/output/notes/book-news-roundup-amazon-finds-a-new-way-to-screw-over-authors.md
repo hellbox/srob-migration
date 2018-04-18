@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443077506281/2015
 twitterauto = "Why are authors upset at Amazon now?"
 facebookauto = "Today in book news: Folio opens, Welcome to Night Vale expands, and Amazon continues to screw over its authors."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

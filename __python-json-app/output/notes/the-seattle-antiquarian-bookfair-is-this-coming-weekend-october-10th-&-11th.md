@@ -16,8 +16,8 @@ shareimage = "http://lh3.googleusercontent.com/w1nMJX96KXuKgPjlA_Co2H_xho7_7emYa
 twitterauto = ""
 facebookauto = "The Seattle Antiquarian Bookfair is this coming weekend, October 10th & 11th. Thank our sponsors by visiting and letting them know you saw them on The Seattle Review of Books. "
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

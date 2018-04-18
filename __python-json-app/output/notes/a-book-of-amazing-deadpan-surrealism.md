@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488213809876/Wret
 twitterauto = "Sponsor @saggingmeniscus is here with Stephen Moles latest, and video of the author reading"
 facebookauto = "Sponsor Sagging Meniscus is here with Stephen Moles latest, and video of the author reading"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/the-most-wretched-thing-imaginable-or-beneath-the-burnt-umbrella"]
+books = ["books/the-most-wretched-thing-imaginable-or-beneath-the-burnt-umbrella.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1488213610002/unspecified.jpeg)</p>
 

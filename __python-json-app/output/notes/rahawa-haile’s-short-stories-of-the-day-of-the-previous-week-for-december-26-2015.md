@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's the penultimate @rahawahaile short story wrap up! With @renattalaundry, @margaretmalone, and many others."
 facebookauto = "The penultimate Rahawa Haile short story wrap up is here! Some great short stories for your holiday weekend. "
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/short-story-of-the-day"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/short-story-of-the-day.md"]
 notes_about = ""
 books = ""
 +++

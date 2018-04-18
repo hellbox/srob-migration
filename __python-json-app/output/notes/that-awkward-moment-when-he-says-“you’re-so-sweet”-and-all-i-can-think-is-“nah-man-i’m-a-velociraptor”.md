@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our month of @elisacatrina continues with today's poem whose title is too long to print here"
 facebookauto = "Our month of Elisa Chavez continues with today's poem whose title is too long to print here"
 make_image_tweet = "False"
-notes_byline = ["writers/elisa-chavez"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/elisa-chavez.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

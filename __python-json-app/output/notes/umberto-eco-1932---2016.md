@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455927433334/imag
 twitterauto = "Italian news sources are reporting that author Umberto Eco has died."
 facebookauto = "We're sad to share the news that italian news sources are reporting that author Umberto Eco has died. This has been a sad day for literature around the world."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/death.md"]
 notes_about = ""
 books = ""
 +++

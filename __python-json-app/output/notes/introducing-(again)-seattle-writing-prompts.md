@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Introducing (again): Seattle Writing Prompts"
 facebookauto = "Introducing (again): Seattle Writing Prompts"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

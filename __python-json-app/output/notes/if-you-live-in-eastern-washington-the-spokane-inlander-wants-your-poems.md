@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you're an eastern Washington poet, submit your work for @TheInlander's upcoming poetry issue."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "In an interview with @mbsycamore, Anastacia-Renee talks poetry and injustice. See both @ElliottBayBooks 7/25."
 facebookauto = "Mattilda Bernstein Sycamore interviews Anastacia-Renee about poetry, injustice, and where Seattle is falling down (hint: it's not the rain). See them both at Elliott Bay Book Company on July 25."
 make_image_tweet = "False"
-notes_byline = ["writers/mattilda-bernstein-sycamore"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/mattilda-bernstein-sycamore.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
-books = ["books/(v)", "books/forget-it"]
+books = ["books/(v).md", "books/forget-it.md"]
 +++
 <div class="intro">
 <p>Anastacia-Reneé is a poet who knows how to read her work — she takes control of an audience by refusing to conform to standardized modes of delivery. She reads about eating pussy in a roomful of straight people and indicts structural racism in white-dominated spaces. She throws her voice out into the room, but also pulls you in with a whisper or an aside. There is a fusion to her performance style that has obviously taken years to perfect — a commingling of spoken word, black radical oration, theatrical exposition, intergenerational storytelling, queer gossip, and academic training.</p> 

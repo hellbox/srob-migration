@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's the Sunday Post -- first of the year! A few articles that caught our eye this week. "
 facebookauto = "Coloring books, Artificial Intelligence, old-timey fascism, in today's Sunday Post. "
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

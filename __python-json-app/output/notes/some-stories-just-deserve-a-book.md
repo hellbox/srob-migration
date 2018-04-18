@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "15 years ago, the podcast S-Town almost certainly would be a book. Would that have been better?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/podcast"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/podcast.md"]
 notes_about = ""
 books = ""
 +++

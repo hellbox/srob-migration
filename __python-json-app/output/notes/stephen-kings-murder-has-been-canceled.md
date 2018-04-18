@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Stephen King's murder has been canceled."
 facebookauto = "Stephen King's murder has been canceled."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fiction", "tags/authors"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fiction.md", "tags/authors.md"]
 notes_about = ""
 books = ""
 +++

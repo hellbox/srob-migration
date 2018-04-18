@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1474303684221/unna
 twitterauto = "Mark the dates! Sponsor the Seattle Antiquarian Book Fair is back Oct 8-9."
 facebookauto = "Sponsor the Seattle Antiquarian Book Fair is back for their twenty-ninth year!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

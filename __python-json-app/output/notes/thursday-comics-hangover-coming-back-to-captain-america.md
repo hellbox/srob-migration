@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464843583781/Scre
 twitterauto = "Some thoughts about fandom, Captain America, and cultural criticism."
 facebookauto = "Last week Paul Constant wrote a flippant post about the whole Captain America controversy. Here's why he regrets writing that post:"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics", "tags/captain-america"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/marvel-comics.md", "tags/captain-america.md"]
 notes_about = ""
 books = ""
 +++

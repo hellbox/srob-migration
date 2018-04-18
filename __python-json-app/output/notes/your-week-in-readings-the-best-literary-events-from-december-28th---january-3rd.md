@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481265087707/play
 twitterauto = "Your week in readings includes a Joan Didion book club and a huge book sale."
 facebookauto = "Your week in readings includes a Joan Didion book club and a huge book sale."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

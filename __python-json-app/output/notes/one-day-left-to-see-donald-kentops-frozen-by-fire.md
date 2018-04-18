@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our sponsor Donald Kentop wrote a fascinating, engaged, beautiful history of a tragic event. Join him tomorrow."
 facebookauto = "Our sponsor Donald Kentop wrote a fascinating, engaged, beautiful history of a tragic event. Join him tomorrow at the Seattle Public Library Ballard Branch, and through tomorrow, read two poems from his work Frozen by Fire on our site."
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/frozen-by-fire"]
+books = ["books/frozen-by-fire.md"]
 +++
 Our thanks to sponsor Donald Kentop. His book,[ _Frozen by Fire_](http://seattlereviewofbooks.com/sponsorships "The Seattle Review of Books - sponsorships"), examines the 1911 Triangle Factory Fire in verse. Kentop will be appearing this Sunday, November 15th at 2:00pm, at the Ballard branch of the Seattle Public Library to read from this impressive work. 
 

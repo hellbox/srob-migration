@@ -10,5 +10,5 @@ last_updated = "2016-06-01T06:19:21+00:00"
 preview_url = ""
 name = "Knopf Publishing Group"
 title = "Knopf Publishing Group"
-books_by_this_publisher = ["books/south-and-west"]
+books_by_this_publisher = ["books/south-and-west.md"]
 +++

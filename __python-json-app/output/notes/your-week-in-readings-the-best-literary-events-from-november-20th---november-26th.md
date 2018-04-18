@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508985850971/shab
 twitterauto = "Just because it's Thanksgiving week doesn't mean you can stop going to readings."
 facebookauto = "Just because it's Thanksgiving week doesn't mean you can stop going to readings."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

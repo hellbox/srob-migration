@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522987503124/lawn
 twitterauto = "Your week in readings includes Lindy West in conversation with two great women, Jonathan Evison, and much more."
 facebookauto = "Your week in readings includes Lindy West in conversation with two great women, Jonathan Evison, and much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/don-mee-choi"]
-tags_notes = ["tags/tuesday-poem", "tags/poetry"]
+notes_byline = ["writers/don-mee-choi.md"]
+tags_notes = ["tags/tuesday-poem.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here are @rahawahaile's short story picks from the previous week. Some good Saturday reading. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-story-of-the-day", "tags/short-stories"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md", "tags/short-story-of-the-day.md", "tags/short-stories.md"]
 notes_about = ""
 books = ""
 +++

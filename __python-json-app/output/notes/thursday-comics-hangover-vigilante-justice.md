@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476343665617/Kill
 twitterauto = "Kill or Be Killed is a comic that mashes Taxi Driver up with the Punisher."
 facebookauto = ""
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

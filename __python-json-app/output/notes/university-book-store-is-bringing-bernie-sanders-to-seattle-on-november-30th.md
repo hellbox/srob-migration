@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476294726129/8053
 twitterauto = ".@ubookstorereads is bringing Bernie Sanders to Seattle on November 30th. Get your tickets now!"
 facebookauto = "Bernie Sanders will be reading from a new memoir about his campaign at University Temple United Methodist Church on November 30th. Get your tickets from University Book Store now!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

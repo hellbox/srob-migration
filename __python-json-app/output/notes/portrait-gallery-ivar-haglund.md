@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454618858610/SRoB
 twitterauto = "Keep Clam! It's Ivar Haglund for @studiochristine's Portrait Gallery."
 facebookauto = "The one, the only, the very Seattle Ivar Haglund, today's Portrait Gallery."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle had no new comics yesterday because comics distribution is a dumb and horrible business."
 facebookauto = "Seattle had no new comic books yesterday because comics distribution is a dumb and horrible business."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

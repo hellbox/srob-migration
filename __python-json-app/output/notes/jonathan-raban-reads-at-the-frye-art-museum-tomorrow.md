@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "When Jonathan Raban shows up for a reading, you'd damn well better show up too."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/frye-art-museum"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/frye-art-museum.md"]
 notes_about = ""
 books = ""
 +++

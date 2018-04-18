@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our event of the week is Contagious Exchanges @HugoHouse."
 facebookauto = "Some people say the lack of LGBT bookstores in Seattle is a step in the right direction, but it's still super- =important to have spaces for queer writers and readers."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509732651303/9780
 twitterauto = "In search of erotica from a woman's perspective, @ciennam asks a bag of a famous person's hair."
 facebookauto = "In search of erotica from a woman's perspective, Cienna Madrid asks a bag of a famous person's hair for help."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

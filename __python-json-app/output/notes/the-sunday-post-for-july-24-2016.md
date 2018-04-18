@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Sunday Post: #MiloYiannopoulos banned, @realDonaldTrump's ghostwriter's remorse, Calvin and Hobbes, & the #DarkWeb"
 facebookauto = "The Sunday Post: Milo Yiannopoulos got banned from Twitter, Calvin and Hobbes is great literature, Trump's ghostwriter feels \"a deep sense of remorse,\" and what happens on the dark web"
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
-books = ["books/the-art-of-the-deal"]
+books = ["books/the-art-of-the-deal.md"]
 +++
 <h5><a href="https://medium.com/welcome-to-the-scream-room/im-with-the-banned-8d1b6e0b2932#.4mz600tsw" title="I’m With The Banned">I’m With The Banned</a></h5>
 

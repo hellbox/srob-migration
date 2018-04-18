@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509046002430/SRoB
 twitterauto = "Portrait Gallery: #poet Nikki Giovanni #illustration by @studiochristine @SeaArtsLectures"
 facebookauto = "Portrait Gallery: Poet Nikki Giovanni by Christine Marie Larsen"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

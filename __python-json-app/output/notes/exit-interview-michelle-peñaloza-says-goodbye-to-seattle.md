@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487544980426/mich
 twitterauto = "We talked with @pennyzola about what she'll miss about Seattle, and what Seattle could do better."
 facebookauto = "We talked with Michelle Pe\u00f1aloza about what she'll miss about Seattle, and what Seattle could do better."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/exit-interview"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/exit-interview.md"]
 notes_about = ""
 books = ""
 +++

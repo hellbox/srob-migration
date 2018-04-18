@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519710704309/feel
 twitterauto = "Did you know you can just walk into your neighborhood library and scoop up the newest, hottest books?"
 facebookauto = "Did you know you can just walk into your neighborhood library and scoop up the newest, hottest books?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

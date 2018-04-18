@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519977036733/soyo
 twitterauto = "Our event of the week: Ijeoma Oluo reads at Elliott Bay Book Company this Wednesday!"
 facebookauto = "Our event of the week: Ijeoma Oluo reads at Elliott Bay Book Company this Wednesday!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
-books = ["books/so-you-want-to-talk-about-race"]
+books = ["books/so-you-want-to-talk-about-race.md"]
 +++
 Ijeoma Oluo didn't ask to be Seattle's conscience. But often the most responsible, honest person in any given area is granted a role of community conscience - especially if they'd never asked for that role in the first place.
 

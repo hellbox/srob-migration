@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445660948900/shor
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run", "tags/adas-technical-books", "tags/university-book-store", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md", "tags/adas-technical-books.md", "tags/university-book-store.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

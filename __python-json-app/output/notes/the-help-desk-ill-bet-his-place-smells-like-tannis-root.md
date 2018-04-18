@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This week's Help Desk leaves us but with one question: will @ciennam cut her hair like Mia Farrow's?"
 facebookauto = "This week's Help Desk leaves us but with one question: will Cienna Madrid cut her hair like Mia Farrow's?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

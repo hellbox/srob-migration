@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear [  ] reader [  ] follower [  ] curious rival, @ciennam clocks the checkbox on a clueless form rejection."
 facebookauto = "Dear [  ] reader [   ] follower [   ] curious rival, Cienna Madrid clocks the checkbox on a clueless form rejection.  "
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

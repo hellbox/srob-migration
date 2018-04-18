@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/cracked!-a-magic-iphone-story"]
+books = ["books/cracked!-a-magic-iphone-story.md"]
 +++
 Our sincerest thanks to Janine A. Southard for sponsoring _The Seattle Review of Books_ this week. Sponsorships are very important to us. Why? [Because internet advertising is horrible and we're trying to do something about it](http://seattlereviewofbooks.com/notes/2015/08/05/help-us-make-internet-advertisements-100-percent-less-terrible/).
 

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484373441050/look
 twitterauto = "Your week in readings includes books about Betty MacDonald, serial killers, and America."
 facebookauto = "Your week in readings includes books about Betty MacDonald, serial killers, and America."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

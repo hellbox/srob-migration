@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're hosting a class on book reviewing at @HugoHouse that will make you a better reader, writer, and critic."
 facebookauto = "Our co-founders, Martin McClellan and Paul Constant, are teaching a book reviewing class at Hugo House starting this January! They hope to make students better readers, writers, and critics, in order to keep the art of book reviewing alive for another generation."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515699281741/SRoB
 twitterauto = "Portrait Gallery: @chloekbenjamin reads THE IMMORTALISTS tonight @ElliottBayBooks. #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Author Chloe Benjamin painted by Christine Marie Larsen"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

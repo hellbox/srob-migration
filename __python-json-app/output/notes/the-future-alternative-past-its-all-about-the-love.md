@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

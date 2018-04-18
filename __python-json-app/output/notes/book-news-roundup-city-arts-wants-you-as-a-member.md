@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in book news: Save City Arts, go to the Orcas Island Literary Festival, and buy a comics spinner rack!"
 facebookauto = "Today in book news: Save City Arts, go to the Orcas Island Literary Festival, and buy a comics spinner rack!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

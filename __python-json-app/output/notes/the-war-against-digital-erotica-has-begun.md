@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It just got a lot harder to find erotic fiction online."
 facebookauto = "It just got a lot harder to find erotic fiction online."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/erotica", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/erotica.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

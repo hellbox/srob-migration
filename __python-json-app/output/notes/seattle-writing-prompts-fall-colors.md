@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509209419525/IMG_
 twitterauto = "Trees are exploding all around Seattle Writing Prompts"
 facebookauto = "Trees are exploding all around Seattle Writing Prompts"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

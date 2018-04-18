@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447038388154/ifro
 twitterauto = "Amazon Books is hurting sales @ubookstorereads. This is terrible."
 facebookauto = "University Book Store says that Amazon Books is causing a negative impact on their sales. Here's why that's horrible."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon-books", "tags/university-book-store", "tags/university-village"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon-books.md", "tags/university-book-store.md", "tags/university-village.md"]
 notes_about = ""
 books = ""
 +++

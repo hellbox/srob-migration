@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447142282556/2015
 twitterauto = "We talked with @Adason15th's new events coordinator about book clubs, readings and his plans for the store."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/adas-technical-books", "tags/bookstore-of-the-month"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/adas-technical-books.md", "tags/bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

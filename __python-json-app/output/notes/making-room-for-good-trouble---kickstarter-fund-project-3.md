@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453567953568/phot
 twitterauto = "Get in on the great deal from @Microcosmmm, our Kickstarter Fund #3"
 facebookauto = "Microcosm Publishing is throwing a Kickstarter, and my goodness do they have a good bundle for you. This is worth checking out, and they are who we put our money into for our Kickstarter Fund project #3."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

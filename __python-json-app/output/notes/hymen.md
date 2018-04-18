@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Poet in Residence for June is @pearlepubs! We start with her poem titled: \"Hymen\""
 facebookauto = "Our Poet in Residence for June is Tammy Robacker! We start with her poem titled: \"Hymen\""
 make_image_tweet = "False"
-notes_byline = ["writers/tammy-robacker"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/tammy-robacker.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

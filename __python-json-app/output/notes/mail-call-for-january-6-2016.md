@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452143616156/IMG_
 twitterauto = "Late night Mail Call -- what looks good?"
 facebookauto = "A little late night Mail Call -- what looks good?"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

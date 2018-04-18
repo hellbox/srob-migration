@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's time for publishers and booksellers to get together and plan for Barnes & Noble's possible demise."
 facebookauto = "There's no easy way to say this, but it's time for publishers and booksellers to get together and make a plan for what they will do if Barnes & Noble goes away."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/barnes-&amp;-noble", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/barnes-&amp;-noble.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

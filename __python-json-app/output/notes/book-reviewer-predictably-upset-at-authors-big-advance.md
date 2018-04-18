@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Book critic fight! Book critic fight!"
 facebookauto = "The Daily Beast recently published an aggressive review of a debut novel. We take issue with the review's premise."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/daily-beast"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/daily-beast.md"]
 notes_about = ""
 books = ""
 +++

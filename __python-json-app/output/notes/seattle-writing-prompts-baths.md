@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512190253162/IMG_
 twitterauto = "Seattle Writing Prompts chucks it all for a nice, hot bath"
 facebookauto = "Seattle Writing Prompts chucks it all for a nice, hot bath"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

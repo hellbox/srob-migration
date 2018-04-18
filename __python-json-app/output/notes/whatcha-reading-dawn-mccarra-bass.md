@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518246250480/dawn
 twitterauto = "Hey @despra, whatcha reading? "
 facebookauto = "Hey Dawn McCarra Bass, whatcha reading?"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/whatcha-reading"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/whatcha-reading.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503466958560/Daem
 twitterauto = "We talked with @d_arrindell about the inflection point between poetry and theater."
 facebookauto = "We talked with Daemond Arrindell about the connection between theater and poetry."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/jack-straw"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/jack-straw.md"]
 notes_about = ""
 books = ""
 +++

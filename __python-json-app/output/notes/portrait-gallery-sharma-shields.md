@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497474946685/SRoB
 twitterauto = "Portrait Gallery: @SharmaShields #illustration by @studiochristine. Tonight @HugoHouse #WA State #writers & #poets"
 facebookauto = "Portrait Gallery: Sharma Shields painted by Christine Marie Larsen"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

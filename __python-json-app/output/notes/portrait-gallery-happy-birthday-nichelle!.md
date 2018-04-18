@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1514494134713/SRoB
 twitterauto = "Portrait Gallery: Wishing a very Happy 85th Birthday to @NichelleIsUhura!  #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Happy 85th Birthday to Nichelle Nichols!"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

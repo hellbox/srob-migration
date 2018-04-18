@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "November's Criminal Fiction, from @daneetsteffens, is here, featuring an interview with @justinelavaworm. "
 facebookauto = "November's Criminal Fiction, from Daneet Steffens, is here, featuring an interview with Justine Larbalestier, a look at five new engaging titles, and a tip for great podcast you're sure to love if you love crime ficiton."
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1474432623204/SRoB
 twitterauto = "Portrait Gallery: @studiochristine paints @clarkhumphrey"
 facebookauto = "Portrait Gallery \u2014 Christine Marie Larsen paints Clark Humphrey. "
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

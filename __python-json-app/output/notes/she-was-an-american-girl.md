@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/american-girl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/american-girl.md"]
 notes_about = ""
 books = ""
 +++

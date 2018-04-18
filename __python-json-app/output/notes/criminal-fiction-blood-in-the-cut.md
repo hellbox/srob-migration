@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493268069399/DayI
 twitterauto = "It's Criminal Fiction, by @daneetsteffens, featuring an interview with @LoriRaderDay."
 facebookauto = "It's Criminal Fiction, by Daneet Steffens, featuring an interview with Lori Rader-Day."
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

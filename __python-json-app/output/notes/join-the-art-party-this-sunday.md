@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Art Party this Sunday! Art Party this Sunday!"
 facebookauto = "A new series of pop-up art parties tries to \"counteract the disappearance of art spaces, bookshops, galleries, etc. throughout the city, and their systematic replacement with sterile architecture, sterile businesses, and profiteering development.\" The first one is this Sunday."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/pageboy", "tags/art-party"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/pageboy.md", "tags/art-party.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ".@paulconstant says preparing for @ignitesea was scary, but he's glad he did it. Submit your speech to Ignite now."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/ignite"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/ignite.md"]
 notes_about = ""
 books = ""
 +++

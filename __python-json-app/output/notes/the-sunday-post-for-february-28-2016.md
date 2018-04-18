@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post, with pieces by @robinrendle, @jiatolentino, and @jennifer_dubois"
 facebookauto = "The Sunday Post looks at typography on the web, the choice between an MFA or a job with the CIA, and how we should feel about those rock stars of old, when they slept with underage girls."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

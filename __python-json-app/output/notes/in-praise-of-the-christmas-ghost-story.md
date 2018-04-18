@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In Praise of the Christmas Ghost story"
 facebookauto = "In Praise of the Christmas Ghost story"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/christmas-ghost-story"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/christmas-ghost-story.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515565127439/howi
 twitterauto = "We talked with author Laurie Frankel about what it's like when your book goes paperback."
 facebookauto = "We talked with author Laurie Frankel about what it's like when your book goes paperback."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/paperback"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/paperback.md"]
 notes_about = ""
-books = ["books/this-is-how-it-always-is"]
+books = ["books/this-is-how-it-always-is.md"]
 +++
 <p class="intro">Seattle author [Laurie Frankel](http://www.lauriefrankel.net/)'s novel [*This Is How It Always Is* was one of my very favorite novels of last year](http://www.seattlereviewofbooks.com/reviews/all-happy-families-are-alike/). It's the gentle and big-hearted story of a mother who slowly realizes that her child is transgender, and the publisher made no secret of the fact that the story features at least some roots in reality: Frankel is the mother of a girl who was labeled a boy at birth. On Tuesday, January 23rd, Frankel is [celebrating the paperback launch of *This Is How It Always Is* at the Seattle Public Library downtown](http://www.elliottbaybook.com/event/laurie-frankel). She was kind enough to talk to us about what an author experiences when her hardcover book becomes a paperback. What follows is a lightly edited transcript of our phone conversation.</p>
 

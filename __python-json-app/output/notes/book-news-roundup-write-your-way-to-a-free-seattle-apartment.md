@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452668258406/imgr
 twitterauto = "Could you write your way to a free apartment? Find out in Book News Roundup!"
 facebookauto = "Our afternoon book news roundup includes the chance to write your way to a rent-free Seattle apartment."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/amazon", "tags/gentrification"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/amazon.md", "tags/gentrification.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1500614449497/
 twitterauto = "You're having a bad time, probably. Why not go to a nice event for a change?"
 facebookauto = "You're having a bad time, probably. Why not go to a nice event for a change?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
-books = ["books/wa-129"]
+books = ["books/wa-129.md"]
 +++
 Here we are at the end of January and 2018 is already shaping up to be a long year. Everything under the sun is either a disaster or a distraction from a disaster. We’re learning the horrible truth behind the legends that the media has printed for decades, and we’re realizing that nobody has any goddamn clue what’s going on.
 

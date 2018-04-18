@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460929857433/2016
 twitterauto = "A bookstore is a conversation, and Open Books has been a better conversation than most."
 facebookauto = "A bookstore is a conversation, and Open Books has been a better conversation than most."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/open-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/open-books.md"]
 notes_about = ""
 books = ""
 +++

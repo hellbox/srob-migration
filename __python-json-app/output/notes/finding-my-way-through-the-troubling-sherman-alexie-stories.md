@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"I believe the women who talked to NPR about being sexually harassed by Sherman Alexie...\""
 facebookauto = "\"I believe the women who talked to NPR about being sexually harassed by Sherman Alexie...\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/metoo"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/metoo.md"]
 notes_about = ""
 books = ""
 +++

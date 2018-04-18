@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465017901181/grap
 twitterauto = "In the beginning was our Event of the Week. And it was good."
 facebookauto = "Our Event of the Week is the opening night of the Graphic Masters show at Seattle Art Museum."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/seattle-art-museum", "tags/intruder", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/seattle-art-museum.md", "tags/intruder.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Quick! Guess how many books Dolly Parton has donated to families in need."
 facebookauto = "Quick! Guess how many books Dolly Parton has donated to families in need."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

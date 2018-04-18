@@ -16,8 +16,8 @@ shareimage = " http://seattlereviewofbooks.com/webhook-uploads/1470265339749/SRo
 twitterauto = "Portrait Gallery is back with @ClaudiaC_L, Seattle's Civic Poet, by @studiochristine"
 facebookauto = "Portrait Gallery is back! Check out this rendition of Claudia Castro Luna, Seattle's Civic Poet"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

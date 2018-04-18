@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "There aren't many readings left in 2016. On December 14th, you'd better make your attendance count."
 facebookauto = "There aren't many readings left in 2016. On December 14th, you'd better make your attendance count."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

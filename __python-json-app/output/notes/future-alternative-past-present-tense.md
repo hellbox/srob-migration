@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "As always, @NisiShawl delivers in her Future Alternative Past, featuring reviews of @VirtualTal & @danielwilsonpdx"
 facebookauto = "As always, Nisi Shawl delivers with her Future Alternative Past column, featuring reviews of Tal M. Klein & Daniel H. Wilson"
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

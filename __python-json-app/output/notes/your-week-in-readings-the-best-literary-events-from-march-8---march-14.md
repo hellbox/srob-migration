@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488582134310/toug
 twitterauto = "Your week in readings begins tonight with a talk about native Seattle."
 facebookauto = "You've got a lot coming up this week including a memoir by a Portland Olympian, a conversation about native Seattle, Timothy Egan, and much, much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

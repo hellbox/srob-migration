@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498694570814/ewio
 twitterauto = "Seattle-area reporter @ericacbarnett is working on a memoir and we can't wait to read it."
 facebookauto = "Seattle-area journalist Erica C. Barnett is working on a memoir for Viking Books."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/memoir", "tags/book-deal", "tags/journalism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/memoir.md", "tags/book-deal.md", "tags/journalism.md"]
 notes_about = ""
 books = ""
 +++

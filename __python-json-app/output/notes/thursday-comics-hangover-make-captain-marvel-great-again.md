@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469685852204/capt
 twitterauto = "A schlubby middle-aged alt weekly writer gains unlimited power in @MarkWaid & @TomPeyer's Captain Kid."
 facebookauto = "A schlubby middle-aged alt weekly writer gains unlimited power in Mark Waid and Tom Peyer's new comic Captain Kid."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

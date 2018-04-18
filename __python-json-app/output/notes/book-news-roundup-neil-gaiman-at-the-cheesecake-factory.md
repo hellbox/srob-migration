@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495774516914/5923
 twitterauto = "Horrifying bookstores, crowdfunding, and the problem with Marvel Comics in today's Book news Roundup."
 facebookauto = "Horrifying bookstores, crowdfunding, and the problem with Marvel Comics in today's Book news Roundup."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/amazon-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/amazon-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503981449727/1883
 twitterauto = "Writer @DonnaMiscolta found community (and a few missing faces) at the Seattle Urban Book Expo"
 facebookauto = "Donna Miscolta dropped by the Seattle Urban Book Expo and "
 make_image_tweet = "False"
-notes_byline = ["writers/donna-miscolta"]
-tags_notes = ["tags/seattle-urban-book-expo"]
+notes_byline = ["writers/donna-miscolta.md"]
+tags_notes = ["tags/seattle-urban-book-expo.md"]
 notes_about = ""
 books = ""
 +++

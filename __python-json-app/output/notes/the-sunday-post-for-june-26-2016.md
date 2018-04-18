@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sunday Post: @PsychToday on #Brexit, female road trippers in lit, the quietest US inch, & how personalities change"
 facebookauto = "The Sunday Post covers the psychology behind Brexit, the lack of female road trippers in literature, the quietest square inch in the US, and how personalities aren't as unchanging as we thought. "
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

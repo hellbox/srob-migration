@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1459723184074/open
 twitterauto = "Open Books owner John Marshall is in the \"closing stages\" of selling the shop to a new owner"
 facebookauto = "Open Books owner John Marshall is in the \"closing stages\" of selling the shop to a new owner."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/open-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/open-books.md"]
 notes_about = ""
 books = ""
 +++

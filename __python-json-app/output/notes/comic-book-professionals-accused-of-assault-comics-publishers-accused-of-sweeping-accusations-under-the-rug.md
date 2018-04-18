@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The comics industry has a history of sexual harassment and a culture of silence. It's time for that to end."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comics", "tags/sexual-assault"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comics.md", "tags/sexual-assault.md"]
 notes_about = ""
 books = ""
 +++

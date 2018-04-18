@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We took what might be the world's worst novel to lunch."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md"]
 notes_about = ""
 books = ""
 +++

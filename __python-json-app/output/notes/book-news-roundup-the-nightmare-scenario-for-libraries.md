@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Find out what news @paulconstant calls \"an absolute [expletive] nightmare\" in today's Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/village-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/village-books.md"]
 notes_about = ""
 books = ""
 +++

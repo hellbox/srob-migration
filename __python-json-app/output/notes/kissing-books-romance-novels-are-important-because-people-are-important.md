@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today we have an exciting debut! Kissing Books, our monthly romance column by @O_Waite, is now live!"
 facebookauto = "Today we have an exciting debut! Kissing Books, our monthly romance column by Olivia Waite, is now live!"
 make_image_tweet = "False"
-notes_byline = ["writers/olivia-waite"]
-tags_notes = ["tags/kissing-books"]
+notes_byline = ["writers/olivia-waite.md"]
+tags_notes = ["tags/kissing-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The good news: 17 million children's books will be distributed over the next two weeks. The bad news? Read on:"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/mcdonalds"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/mcdonalds.md"]
 notes_about = ""
 books = ""
 +++

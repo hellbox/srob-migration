@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463601235462/01cf
 twitterauto = "Last night @THSEA, @thelindywest talked about writing her book in \"a bat-haunted cabin in Maine.\""
 facebookauto = "Lindy West wrote her book, Shrill, in \"a bat-haunted cabin in Maine.\" She also said she's finally come to realize that a lot of her process is \"me in my underwear at five AM eating Swedish fish and crying.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/town-hall-seattle.md"]
 notes_about = ""
-books = ["books/shrill"]
+books = ["books/shrill.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1463601235462/01cf47266a74d15fcb8855d55e7aa836.jpg)</p>
 "This is **the weirdest thing that ever happened to me**," Lindy West said from the stage at Town Hall last night after being welcomed by a beyond sold-out room — 1200 people — with thunderous applause. West began by talking a little about the writing of her memoir, [*Shrill: Notes from a Loud Woman*](http://seattlereviewofbooks.com/notes/2016/05/18/talking-with-lindy-west-about-fantasy-novels-deadlines-and-why-seattle-is-her-home/). "A book, FYI, is eighty thousand words," she told the room. "That's a lot of words." And it took months to write, many of which she spent "in a bat-haunted cabin in Maine." 

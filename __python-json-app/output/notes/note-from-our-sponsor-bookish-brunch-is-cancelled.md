@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sponsor Seattle7Writers had to cancel the Bookish Brunch. Here's a note about it on the site."
 facebookauto = "Sponsor Seattle7Writers had to cancel the Bookish Brunch, sadly. Here's a note on the site about it."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

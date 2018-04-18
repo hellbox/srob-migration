@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457137817282/pati
 twitterauto = "Introducing the new Your Week in Readings! What do you think of the new format?"
 facebookauto = "We're trying a new format for Your Week in Readings: more information, more opinions, one in-depth show preview per week. Let us know what you think!"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/hugo-house", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/april"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/hugo-house.md", "tags/fantagraphics-bookstore-&amp;-gallery.md", "tags/april.md"]
 notes_about = ""
 books = ""
 +++

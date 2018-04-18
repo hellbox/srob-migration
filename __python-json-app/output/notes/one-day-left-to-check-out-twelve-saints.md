@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our thanks to Entre Rios Books, and their sponsorship for their amazing project Twelve Saints."
 facebookauto = "Our thanks to this week's sponsor Entre Rios Books, and their amazing project Twelve Saints. Check out a full poem, and the matching artwork, from their book on the site through tomorrow. "
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/twelve-saints"]
+books = ["books/twelve-saints.md"]
 +++
 Our sponsor Entre Ríos Books will be around for one more day. [You really should check out the sample poem and artwork](http://seattlereviewofbooks.com/sponsorships "The Seattle Review of Books - sponsorships") from _Twelve Saints_ that we're featuring. It's stellar work, and &mdash; once again &mdash; we're so impressed and pleased with the quality of the sponors we've been attracting. [You won't regret looking](http://seattlereviewofbooks.com/sponsorships "The Seattle Review of Books - sponsorships"). 
 

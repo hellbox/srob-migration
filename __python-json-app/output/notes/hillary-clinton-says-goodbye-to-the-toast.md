@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Toast is ending today with a special sendoff from @HillaryClinton. Yes, THAT @HillaryClinton."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hillary-clinton"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hillary-clinton.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Penguin Random House Audio"
 title = "Penguin Random House Audio"
-books_by_this_publisher = ["books/the-death-and-life-of-great-american-cities"]
+books_by_this_publisher = ["books/the-death-and-life-of-great-american-cities.md"]
 +++

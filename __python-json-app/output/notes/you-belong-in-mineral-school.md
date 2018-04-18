@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're inspired and thrilled to have @mineralschool back as a returning sponsor. Get your application in now!"
 facebookauto = "We're inspired and thrilled to have Mineral School back as a returning sponsor. Get your application in now!"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

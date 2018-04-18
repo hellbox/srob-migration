@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Looking for something to do? Here's the best literary event for every day of this week, from today through Sunday."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/university-book-store", "tags/gallery-1412", "tags/seattle-public-library", "tags/nerd-nite"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/university-book-store.md", "tags/gallery-1412.md", "tags/seattle-public-library.md", "tags/nerd-nite.md"]
 notes_about = ""
 books = ""
 +++

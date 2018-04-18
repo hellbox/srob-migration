@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear Cienna: Men keep interrupting my reading on public transit. What can I do?"
 facebookauto = "Dear Cienna: Men keep interrupting my reading on public transit. What can I do?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

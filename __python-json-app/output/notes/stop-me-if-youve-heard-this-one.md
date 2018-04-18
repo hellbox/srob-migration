@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you're going to give a talk about the writing craft, you'd better have something original to say."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/writing"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/writing.md"]
 notes_about = ""
 books = ""
 +++

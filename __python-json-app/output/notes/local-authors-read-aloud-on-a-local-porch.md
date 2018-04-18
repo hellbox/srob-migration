@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Porchlit shares stories, poems, and essays read from a Seattle-area porch. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/porchlit", "tags/seb-barnett"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/porchlit.md", "tags/seb-barnett.md"]
 notes_about = ""
 books = ""
 +++

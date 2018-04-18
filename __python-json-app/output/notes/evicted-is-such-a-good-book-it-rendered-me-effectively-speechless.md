@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501742214387/nois
 twitterauto = "Evicted is such a good book it almost rendered me speechless."
 facebookauto = "Thanks to all who joined us last night for a stirring conversation about rent and low-income housing and poverty in Seattle."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

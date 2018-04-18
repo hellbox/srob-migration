@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "An alternative for our calendar pick on Thursday: @priscillalong at @ElliottBayBooks"
 facebookauto = "Another option for Thursday night: Priscilla Long"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/readings"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/readings.md"]
 notes_about = ""
 books = ""
 +++

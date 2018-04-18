@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506038646616/Seat
 twitterauto = "Save October 14th and 15th for this week's sponsor, the Seattle Antiquarian Book Fair!"
 facebookauto = "Save October 14th and 15th for this week's sponsor, the Seattle Antiquarian Book Fair. Don't miss this iconic book event!"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

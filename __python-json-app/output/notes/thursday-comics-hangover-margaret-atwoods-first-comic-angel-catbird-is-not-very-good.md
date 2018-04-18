@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473313453978/Ange
 twitterauto = "Uh, Margaret Atwood's new comic book isn't very good."
 facebookauto = "We love Margaret Atwood. We think Margaret Atwood should win the Nobel Prize for Literature. But her first-ever comic book, Angel Catbird, is very, very, very bad."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/dark-horse-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/dark-horse-comics.md"]
 notes_about = ""
 books = ""
 +++

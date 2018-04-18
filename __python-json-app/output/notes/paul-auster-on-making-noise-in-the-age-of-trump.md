@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We interviewed Paul Auster on the role of the writer in the age of Donald Trump."
 facebookauto = "We interviewed Paul Auster on the role of the writer in the age of Donald Trump."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

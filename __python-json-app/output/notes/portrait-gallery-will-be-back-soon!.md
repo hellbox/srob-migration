@@ -16,8 +16,8 @@ shareimage = " http://seattlereviewofbooks.com/webhook-uploads/1455829807737/por
 twitterauto = "Portrait Gallery and @studiochristine will be back soon. Check out the archives and stay tuned! "
 facebookauto = "Portrait Gallery will be back soon! Check out the archives over at the site. "
 make_image_tweet = "True"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

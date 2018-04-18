@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501738934755/sexc
 twitterauto = "This melancholy comic is for mature readers in more ways than one."
 facebookauto = "This melancholy comic is for mature readers in more ways than one."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

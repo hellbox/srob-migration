@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506115838899/worl
 twitterauto = "Franklin Foer reads @elliottbaybooks on Wednesday! We talked with him about the problem with Big Tech."
 facebookauto = "Franklin Foer reads at Elliott Bay Book Company on Wednesday. His book World Without Mind is the first essential book of the fall. We asked him why Big Tech is ruining thoughtfulness and consideration."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/amazon", "tags/google", "tags/facebook"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/amazon.md", "tags/google.md", "tags/facebook.md"]
 notes_about = ""
 books = ""
 +++

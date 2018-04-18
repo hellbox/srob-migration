@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516776683971/clos
 twitterauto = "We almost didn't read the second book in this sci-fi series. We're so glad someone talked us into it."
 facebookauto = "We almost didn't read the second book in this sci-fi series. We're so glad someone talked us into it."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/science-fiction"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/science-fiction.md"]
 notes_about = ""
 books = ""
 +++

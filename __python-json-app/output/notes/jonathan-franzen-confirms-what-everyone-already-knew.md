@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Jonathan Franzen, please stop. Just stop, Jonathan Franzen. Please."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/race"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/race.md"]
 notes_about = ""
 books = ""
 +++

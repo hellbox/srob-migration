@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511237177313/cove
 twitterauto = "When someone is murdered in a city, the citizens all become participants."
 facebookauto = "When someone is murdered in a city, the citizens all become participants."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/novella"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/novella.md"]
 notes_about = ""
-books = ["books/a-summers-lynching"]
+books = ["books/a-summers-lynching.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1511237177313/cover-test-11-top-line-edit.png)</p>
 

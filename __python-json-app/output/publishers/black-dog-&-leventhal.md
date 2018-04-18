@@ -10,5 +10,5 @@ last_updated = "2017-10-30T22:22:00-07:00"
 preview_url = "100a2e17-b3a7-c3d5-4b2b-a550854b907a"
 name = "Black Dog & Leventhal"
 title = "Black Dog & Leventhal"
-books_by_this_publisher = ["books/tenements-towers-&-trash"]
+books_by_this_publisher = ["books/tenements-towers-&-trash.md"]
 +++

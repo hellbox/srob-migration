@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our first poem from February's Poet in Residence, JT Stewart, is for August Wilson, and is titled \"Invocation\""
 facebookauto = "Our first poem from February's Poet in Residence, JT Stewart, is for August Wilson, and is titled \"Invocation\""
 make_image_tweet = "False"
-notes_byline = ["writers/jt-stewart"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jt-stewart.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "3 great independent Seattle presses have been living under one roof for 8 months now. How's it working out?"
 facebookauto = "Three great independent Seattle presses have been living under one roof for 8 months now. How's it working out for them?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/mount-analogue"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/mount-analogue.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520309281859/Scre
 twitterauto = "Our first, by March Poet in Residence @trippweavepoet, is titled \"Ordinary Essentials\""
 facebookauto = "Our first, by March Poet in Residence Julene Tripp Weaver, is titled \"Ordinary Essentials\""
 make_image_tweet = "False"
-notes_byline = ["writers/julene-tripp-weaver"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/julene-tripp-weaver.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

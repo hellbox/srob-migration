@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504502009214/Scre
 twitterauto = "Our final work by September Poet in Residence @estherhelfgott starts \"He died on August 15, 1964,\" "
 facebookauto = "Our final work by September Poet in Residence Esther Altshul Helfgott starts \"He died on August 15, 1964,\" "
 make_image_tweet = "False"
-notes_byline = ["writers/esther-altshul-helfgott"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/esther-altshul-helfgott.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

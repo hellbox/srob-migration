@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our Book News Roundup column brings news of a new reading series and a contest for young writers."
 facebookauto = "Our Book News Roundup column brings news of a new reading series and a contest for young writers."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
-books = ["books/while-the-city-slept"]
+books = ["books/while-the-city-slept.md"]
 +++
 * Save the date: the Seward Park branch of Third Place Books will be having its grand opening party on May 21st and May 22nd. This is super-exciting! It's not every day (or even every year) you get to celebrate the grand opening of a new Seattle bookstore. You can (and should) [confirm that you'll be there on the Facebook invite](https://www.facebook.com/events/987986684649758/) for the weekend.
 

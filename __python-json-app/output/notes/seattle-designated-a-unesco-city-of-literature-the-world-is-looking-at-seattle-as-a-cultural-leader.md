@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509474308862/down
 twitterauto = ""
 facebookauto = "We could not be more proud to announce that UNESCO has officially designated Seattle as an International City of Literature."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/unesco", "tags/seattle-city-of-literature"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/unesco.md", "tags/seattle-city-of-literature.md"]
 notes_about = ""
 books = ""
 +++

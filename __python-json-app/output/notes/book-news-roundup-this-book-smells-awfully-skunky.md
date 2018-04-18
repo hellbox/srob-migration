@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in book news roundup: a scratch-and-sniff book about pot?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/marijuana"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/marijuana.md"]
 notes_about = ""
 books = ""
 +++

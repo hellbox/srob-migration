@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443687640257/GODZ
 twitterauto = "Godzilla goes to Hell in the new comic book Godzilla in Hell. Yeah, it's pretty much exactly what you think it is."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/godzilla-in-hell"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/godzilla-in-hell.md"]
 notes_about = ""
 books = ""
 +++

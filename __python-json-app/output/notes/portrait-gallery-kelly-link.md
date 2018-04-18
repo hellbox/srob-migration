@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504714764841/SRoB
 twitterauto = "Portrait Gallery: Kelly Link by @studiochristine. See @haszombiesinit Fri @HugoHouse Word Works talk @FryeArtMuseum"
 facebookauto = "Portrait Gallery: Kelly Link by Christine Marie Larsen. Kelly Link will be giving a Word Works talk for Hugo House at the Frye Art Museum this Friday, Sept. 8."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

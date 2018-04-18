@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "24 hours after covering a subway car in Nazi symbols, Amazon is now trying to de-Godwin itself."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

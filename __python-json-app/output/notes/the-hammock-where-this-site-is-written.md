@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461602045200/2016
 twitterauto = "Show off where you write for @HugoHouse's #WhereWeWrite campaign."
 facebookauto = "Here's the hammock where Paul Constant does a lot of his writing. Where do you do your writing?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

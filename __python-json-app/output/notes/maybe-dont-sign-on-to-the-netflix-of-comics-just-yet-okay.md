@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464112711573/82c6
 twitterauto = "Maybe don't sign on to the \"Netflix of Comics\" just yet, okay?"
 facebookauto = "The \"Netflix of Comics\" is here, and it seems as though nobody told your favorite comics creators that they were involved!"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comixology", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comixology.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

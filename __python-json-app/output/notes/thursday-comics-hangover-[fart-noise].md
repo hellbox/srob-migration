@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Because we're a classy book review outlet, we review Fart Magazine, the magazine all about farts."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/intruder", "tags/fart"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/intruder.md", "tags/fart.md"]
 notes_about = ""
 books = ""
 +++

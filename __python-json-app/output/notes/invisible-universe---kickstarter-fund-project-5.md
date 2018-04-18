@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454742402786/2014
 twitterauto = "Our Kickstarter Fund this week went off Kickstarter to give a bit of support to @InvUniDoc. "
 facebookauto = "We left Kickstarter today to back a film project called Invisible Universe, a \"history of blackness is science fiction\". It looks totally amazing!"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

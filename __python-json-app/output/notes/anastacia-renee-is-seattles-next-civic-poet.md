@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Great news! Seattle's new Civic Poet is the astounding Anastacia-Renee!"
 facebookauto = "Great news! Seattle's new Civic Poet is the astounding Anastacia-Renee!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/civic-poet"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/civic-poet.md"]
 notes_about = ""
 books = ""
 +++

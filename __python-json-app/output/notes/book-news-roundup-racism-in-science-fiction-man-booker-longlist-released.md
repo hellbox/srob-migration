@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This study of racism in science fiction is an absolute must-read."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/man-booker-prize", "tags/race"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/man-booker-prize.md", "tags/race.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509996705708/Tpp%
 twitterauto = "Writers, take note: sponsor Third Place Press' design & production services make publishing a beautiful book easy."
 facebookauto = "Writers, take note: sponsor Third Place Press is ready with a slate of top-notch design and production services to help you bring your book into the world. "
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/third-place-press-publishing-services"]
+books = ["books/third-place-press-publishing-services.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1509907780761/Third%20Place%20Press_175.jpeg)</p>
 

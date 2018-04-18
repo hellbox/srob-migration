@@ -10,5 +10,5 @@ last_updated = "2017-04-26T20:52:00-07:00"
 preview_url = "14335948-7ac6-cdf1-3513-5689ab2b67b2"
 name = "Mariner Books"
 title = "Mariner Books"
-books_by_this_publisher = ["books/the-turner-house"]
+books_by_this_publisher = ["books/the-turner-house.md"]
 +++

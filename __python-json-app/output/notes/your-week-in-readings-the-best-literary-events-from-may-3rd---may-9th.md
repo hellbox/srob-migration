@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493266767649/The-
 twitterauto = "Your week in readings begins tonight with a discussion of The Righteous Mind."
 facebookauto = "Your week in readings begins tonight with our book club. Come on down to Third Place Books Seward Park for a meaningful discussion of The Righteous Mind."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/seattle-reads", "tags/free-comic-book-day", "tags/pageboy"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/seattle-reads.md", "tags/free-comic-book-day.md", "tags/pageboy.md"]
 notes_about = ""
-books = ["books/the-turner-house", "books/priestdaddy"]
+books = ["books/the-turner-house.md", "books/priestdaddy.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1493266767649/The-Righteous-Mind-Cover1.png)</p>
 

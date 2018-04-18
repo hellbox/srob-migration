@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The deadline for the Seattle Writing Prompts story contest, judged by @bymattruff, is 8/15! Send your stories now."
 facebookauto = "The deadline for the Seattle Writing Prompts story contest, judged by Matt Ruff, is this Tuesday, August 15! Send your stories now."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/seattle-writing-prompts", "tags/seattle-writing-prompts-story-contest"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/seattle-writing-prompts.md", "tags/seattle-writing-prompts-story-contest.md"]
 notes_about = ""
 books = ""
 +++

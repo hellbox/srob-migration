@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, \"The Quick\", is by @bill_carty"
 facebookauto = "Bill Carty is out poet today, with his work \"The Quick\""
 make_image_tweet = "False"
-notes_byline = ["writers/bill-carty"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/bill-carty.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

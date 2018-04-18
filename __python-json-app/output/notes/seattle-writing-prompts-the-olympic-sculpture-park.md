@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498284897534/IMG_
 twitterauto = "Seattle Writing Prompts drops by the Olympic Sculpture Park"
 facebookauto = "Seattle Writing Prompts drops by the Olympic Sculpture Park"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Manic Thrills Press"
 title = "Manic Thrills Press"
-books_by_this_publisher = ["books/plus", "books/living-in-the-now", "books/blackoutings", "books/omnibusted"]
+books_by_this_publisher = ["books/plus.md", "books/living-in-the-now.md", "books/blackoutings.md", "books/omnibusted.md"]
 +++

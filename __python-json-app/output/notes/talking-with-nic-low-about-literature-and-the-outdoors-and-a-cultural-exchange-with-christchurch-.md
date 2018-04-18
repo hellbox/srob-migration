@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509764861240/NicL
 twitterauto = "We talked with Maori author Nic Low about his trip to @SeattleCityofLit."
 facebookauto = "We talked with Maori author Nic Low about what Christchurch and Seattle can teach each other."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/seattle-city-of-literature", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/seattle-city-of-literature.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

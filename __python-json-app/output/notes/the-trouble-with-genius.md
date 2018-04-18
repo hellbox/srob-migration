@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Seattle poet Maged Zaher wonders why Seattle publisher Wave Books has not published more Seattle poets."
 facebookauto = "Seattle poet Maged Zaher wonders why Seattle publisher Wave Books has not published more Seattle poets."
 make_image_tweet = "False"
-notes_byline = ["writers/maged-zaher"]
-tags_notes = ["tags/genius-award", "tags/wave-books"]
+notes_byline = ["writers/maged-zaher.md"]
+tags_notes = ["tags/genius-award.md", "tags/wave-books.md"]
 notes_about = ""
-books = ["books/hardly-war"]
+books = ["books/hardly-war.md"]
 +++
 In 2013, I won *The Stranger*’s Genius Award in literature, which came as a wondrous gift that linked me to the place I lived and wrote in for fourteen years (by then.) Part of the responsibility of winning a Genius Award is to vote in future Genius competitions. This year’s nominees include local poetry publisher Wave Books. I want to explain why I will probably not vote for them.
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sad to hear that Thom Jones, author of The Pugilist at Rest, has passed away."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/death.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ".@elliottbaybooks might have a new landlord."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

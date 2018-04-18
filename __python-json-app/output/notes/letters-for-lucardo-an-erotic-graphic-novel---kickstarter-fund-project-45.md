@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478967268670/8f13
 twitterauto = "The Kickstarter Fund backs the latest from @iron_spike this week."
 facebookauto = "The Kickstarter Fund backs a queer, interracial, vampire-human erotic romance comic."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

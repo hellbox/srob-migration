@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497034728408/ET-R
 twitterauto = "This week, the Comics and Medicine conference comes to Seattle. Why should you care?"
 facebookauto = "Our literary event of the week is the Comics and Medicine Conference, a celebration of the intersection between comics and health."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comics-and-medicine-conference"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comics-and-medicine-conference.md"]
 notes_about = ""
 books = ""
 +++

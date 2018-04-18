@@ -16,10 +16,10 @@ shareimage = "http://lh3.googleusercontent.com/DluRcu8k4R18ogfVnqkLdyn8iyneY1Y4W
 twitterauto = "Woooooo! @MarlonJames5 wins the Booker!"
 facebookauto = "Hurray! Marlon James takes the Booker for A Brief History of Seven Killings!"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/man-booker-prize"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/man-booker-prize.md"]
 notes_about = ""
-books = ["books/a-brief-history-of-seven-killings"]
+books = ["books/a-brief-history-of-seven-killings.md"]
 +++
 Great news! Jamaican novelist Marlon James has won the booker for _A Brief History of Seven Killings_. Everybody I know who has read this book has done nothing but rave about it, and as this linked BBC article says: “The judges had come to a unanimous decision in less than two hours.” 
 

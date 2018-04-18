@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's Memorial Day, which means it's time for summer reading. But what does that mean, exactly?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/summer-reading"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/summer-reading.md"]
 notes_about = ""
 books = ""
 +++

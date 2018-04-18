@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495606462750/rise
 twitterauto = "Roll the dice to see if  you'll enjoy this biography of the inventor of Dungeons & Dragons."
 facebookauto = "Roll the dice to see if  you'll enjoy this biography of the inventor of Dungeons & Dragons."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/dungeons-&amp;-dragons", "tags/biography"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/dungeons-&amp;-dragons.md", "tags/biography.md"]
 notes_about = ""
 books = ""
 +++

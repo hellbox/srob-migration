@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, Allure, is from @7eights"
 facebookauto = "Our Tuesday Poem, Allure, is from Imani Sims."
 make_image_tweet = "False"
-notes_byline = ["writers/imani-sims"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/imani-sims.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

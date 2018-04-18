@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495082135503/St_A
 twitterauto = "Two authors walk into a bar and tell stories about punching."
 facebookauto = "Your literary event of the week: Two authors walk into a bar and tell stories about punching."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
-books = ["books/the-starting-gate"]
+books = ["books/the-starting-gate.md"]
 +++
 Nobody’s ever accused Paul Mullin of being soft. Back when Mullin was a playwright, he wrote stories about genius brains being turned to slurry from aggressive radiation poisoning and monstrous men who recall their own horrific acts even through the blessed fog of amnesia. Mullin wrote long screeds about what was wrong with American theater (spoiler alert: basically, everything), and he wasn’t afraid to make enemies. Then, about four years ago, he retired from theater.
 

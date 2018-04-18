@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Remember how Mein Kampf was going to be published in Germany for the first time since WWII?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/mein-kampf"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/mein-kampf.md"]
 notes_about = ""
 books = ""
 +++

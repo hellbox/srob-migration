@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Sweet Air Publishing"
 title = "Sweet Air Publishing"
-books_by_this_publisher = ["books/the-starting-gate"]
+books_by_this_publisher = ["books/the-starting-gate.md"]
 +++

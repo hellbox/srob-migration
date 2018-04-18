@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479700652867/INSI
 twitterauto = "Sponsor @epicenterpress is here to share @susanmconrad's incredible true story."
 facebookauto = "Sponsor Epicenter Press here to share Susan Marie Conrad's incredible true story."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/inside"]
+books = ["books/inside.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1479700812764/inside-small.jpg)</p>
 

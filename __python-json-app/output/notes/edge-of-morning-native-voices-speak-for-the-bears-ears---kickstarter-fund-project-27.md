@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468083496612/f869
 twitterauto = "The Kickstarter Fund backs @torreyhouse today"
 facebookauto = "The Kickstarter Fund backs a great project looking to bring awareness to historical sites, by publishing native voices. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

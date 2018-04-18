@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "And then @kelliagodon interviewed @maggiesmithpoet and the editors of @WaxwingMag. What\u2019s it like to go viral?"
 facebookauto = "And then Kelli Russell Agodon interviewed Maggie Smith and the editors of Waxwing Magazine for us. What\u2019s it like to go viral?"
 make_image_tweet = "False"
-notes_byline = ["writers/kelli-russell-agodon"]
-tags_notes = ["tags/poetry"]
+notes_byline = ["writers/kelli-russell-agodon.md"]
+tags_notes = ["tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

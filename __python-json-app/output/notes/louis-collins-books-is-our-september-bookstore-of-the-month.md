@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Once a year, Louis Collins Books, expands to become \"the best bookstore in America.\""
 facebookauto = "Once a year, our October Bookstore of the Month, Louis Collins Books, expands to become \"the best bookstore in America.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-antiquarian-book-fair", "tags/louis-collins-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-antiquarian-book-fair.md", "tags/louis-collins-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450932705989/prom
 twitterauto = "Due to bad weather at Snoqualmie Pass, there were no new comics in Seattle yesterday. What to read instead?"
 facebookauto = "The Grinch stole new comics day yesterday, but there's still some good stuff in your local comics store, including this nifty anthology based on the Prometheus myth."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/phoenix-comics-and-games"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/phoenix-comics-and-games.md"]
 notes_about = ""
 books = ""
 +++

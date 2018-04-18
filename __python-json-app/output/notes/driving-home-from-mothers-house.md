@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504501885432/Scre
 twitterauto = "\"Driving Home From Mother's House\" is our third from September Poet in Residence @estherhelfgott"
 facebookauto = "\"Driving Home From Mother's House\" is our third from September Poet in Residence Esther Altshul Helfgott"
 make_image_tweet = "False"
-notes_byline = ["writers/esther-altshul-helfgott"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/esther-altshul-helfgott.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

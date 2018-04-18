@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're so happy for Teri Hein, and we can't wait to see what the Bureau of @Fearless_Ideas does next."
 facebookauto = "We're so happy for Teri Hein, and we can't wait to see what the Bureau of Fearless Ideas does next."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bureau-of-fearless-ideas"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bureau-of-fearless-ideas.md"]
 notes_about = ""
 books = ""
 +++

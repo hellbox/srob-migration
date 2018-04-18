@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458185735425/SRoB
 twitterauto = "Say hello to Mal DeFleur, presented by @studiochristine for your pleasure."
 facebookauto = "If you go to APRIL Festival's \"A Poet, a Playwright, a Novelist and a Drag Queen\" tonight, you'll have an encounter with the charming Mal DeFleur. We offer you her portrait today, to better prepare you for her radiance."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

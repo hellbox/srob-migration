@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462426644396/arch
 twitterauto = "Here's everything you need to know to celebrate @Freecomicbook Day this Saturday:"
 facebookauto = "This Saturday is Free Comic Book Day, in which Seattle's comic shops give away comics to anyone who visits. Here's everything you need to know about the day, including which books to grab, where to go, and what to do."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/archie"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/archie.md"]
 notes_about = ""
-books = ["books/ms-marvel-volume-1-no-normal", "books/ms-marvel-volume-2-generation-why", "books/ms-marvel-volume-4-last-days", "books/ms-marvel-volume-3-crushed", "books/ms-marvel-volume-5-super-famous"]
+books = ["books/ms-marvel-volume-1-no-normal.md", "books/ms-marvel-volume-2-generation-why.md", "books/ms-marvel-volume-4-last-days.md", "books/ms-marvel-volume-3-crushed.md", "books/ms-marvel-volume-5-super-famous.md"]
 +++
 This Saturday is Free Comic Book Day, the day when, duh, participating comics shops give away free comics to anyone who walks in. You can [find the comic shop closest to you here](http://www.freecomicbookday.com/StoreLocator). Some things to know:
 

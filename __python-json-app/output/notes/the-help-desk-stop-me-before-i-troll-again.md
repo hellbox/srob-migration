@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A reader writes to @ciennam: I can't seem to stop trolling a local writer.  How do I stop being a troll?"
 facebookauto = "In our advice column this week, a writer asks Cienna Madrid for help: he can't seem to stop trolling a local writer. How can he stop trolling? Should he stop trolling?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/troll"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/troll.md"]
 notes_about = ""
 books = ""
 +++

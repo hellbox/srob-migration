@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/mercer-street-books", "tags/debbie-sarow", "tags/sidelines"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/mercer-street-books.md", "tags/debbie-sarow.md", "tags/sidelines.md"]
 notes_about = ""
 books = ""
 +++

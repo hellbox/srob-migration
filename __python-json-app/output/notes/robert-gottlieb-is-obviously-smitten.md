@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "When it comes to romance, Robert Gottlieb is obviously wiping the little hearts from his eyes, says @O_Waite"
 facebookauto = "When it comes to romance, Robert Gottlieb is obviously wiping the little hearts from his eyes, says Olivia Waite."
 make_image_tweet = "False"
-notes_byline = ["writers/olivia-waite"]
-tags_notes = ["tags/romance"]
+notes_byline = ["writers/olivia-waite.md"]
+tags_notes = ["tags/romance.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today @kickstarter is hosting a \"Creator Hangout\" with Martin at 10am. Come join!"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/shameless-self-promotion"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/shameless-self-promotion.md"]
 notes_about = ""
 books = ""
 +++

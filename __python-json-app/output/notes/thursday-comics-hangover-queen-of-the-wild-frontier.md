@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490249561189/stic
 twitterauto = "The new @michael_deforge comic from @DandQ is a deconstructed comic strip."
 facebookauto = "It begins like an ordinary comic strip. And then it gets weird. Really, really weird."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/drawn-&amp;-quarterly"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/drawn-&amp;-quarterly.md"]
 notes_about = ""
-books = ["books/sticks-angelica-folk-hero"]
+books = ["books/sticks-angelica-folk-hero.md"]
 +++
 <p class="image">![](/webhook-uploads/1490249561189/sticksangelica.jpeg)</p>
 

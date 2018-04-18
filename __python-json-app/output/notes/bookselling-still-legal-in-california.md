@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Don't believe what you've heard: California didn't just make bookselling illegal."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/autograph", "tags/collectors"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/autograph.md", "tags/collectors.md"]
 notes_about = ""
 books = ""
 +++

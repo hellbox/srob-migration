@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1459389076086/SRoB
 twitterauto = "It's @accidentaltheo by @studiochristine! "
 facebookauto = "Christine Marie Larsen paints local treasure Lesley Hazleton in this week's Portrait Gallery."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

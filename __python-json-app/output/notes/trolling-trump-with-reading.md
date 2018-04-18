@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Visibly ignoring Donald Trump is FUN-damental!"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

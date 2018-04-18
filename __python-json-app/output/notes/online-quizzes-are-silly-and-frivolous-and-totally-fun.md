@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Which Seattle-area independent bookstore are you?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/independent-bookstores"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/independent-bookstores.md"]
 notes_about = ""
 books = ""
 +++

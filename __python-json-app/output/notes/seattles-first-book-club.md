@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Did @KnuteBerger dig up a piece of Seattle library history? "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/knute-berger", "tags/folio-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/knute-berger.md", "tags/folio-seattle.md"]
 notes_about = ""
 books = ""
 +++

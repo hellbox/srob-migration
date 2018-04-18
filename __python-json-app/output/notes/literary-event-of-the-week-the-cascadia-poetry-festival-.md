@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507067842873/crop
 twitterauto = "Your literary event of the week is the Cascadia Poetry Festival!"
 facebookauto = "Your literary event of the week is the Cascadia Poetry Festival!"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/cascadia-poetry-festival", "tags/poetry-northwest", "tags/wave-books", "tags/pageboy", "tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/cascadia-poetry-festival.md", "tags/poetry-northwest.md", "tags/wave-books.md", "tags/pageboy.md", "tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463031485263/rena
 twitterauto = "Could this be the worst comic of 2016?"
 facebookauto = "A new comic promises class warfare, with a main character who murders the corrupt wealthy one percent. "
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/image-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/image-comics.md"]
 notes_about = ""
 books = ""
 +++

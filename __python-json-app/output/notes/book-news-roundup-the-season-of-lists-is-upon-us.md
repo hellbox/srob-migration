@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Do you smell that in the air? It's book list season."
 facebookauto = "Do you smell that in the air? It's book list season."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

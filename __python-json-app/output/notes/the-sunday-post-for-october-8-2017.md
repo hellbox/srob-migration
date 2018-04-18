@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In this week\u2019s Sunday Post, @pattersonhood on Petty, @mikeindustries on Newsvine, and @David_Dobbs on going mad."
 facebookauto = "In this week\u2019s Sunday Post, Patterson Hood on Tom Petty, Mike Davidson on the end of Newsvine, and David Dobbs and Nev Jones on going mad."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

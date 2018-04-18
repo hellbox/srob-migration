@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Czap Books"
 title = "Czap Books"
-books_by_this_publisher = ["books/bug-boys"]
+books_by_this_publisher = ["books/bug-boys.md"]
 +++

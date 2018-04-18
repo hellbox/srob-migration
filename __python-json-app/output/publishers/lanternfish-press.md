@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Lanternfish Press"
 title = "Lanternfish Press"
-books_by_this_publisher = ["books/daughters-of-the-air"]
+books_by_this_publisher = ["books/daughters-of-the-air.md"]
 +++

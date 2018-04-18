@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It\u2019s the Sunday Post holiday cheer edition! (If you consider climate change, economic theory, and birdsong cheerful)"
 facebookauto = "It\u2019s the Sunday Post holiday cheer edition! (If you consider climate change, economic theory, and birdsong cheerful)"
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Sponsor Charlotte Riggle is back to show her book about Easter in the Orthodox church \u2014 this year on May 1st."
 facebookauto = "Sponsor Charlotte Riggle is back to show her book about Pascha, the Orthodox Easter -- this year, it's being celebrated on May 1st."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/catherines-pascha"]
+books = ["books/catherines-pascha.md"]
 +++
 If you're in the Orthodox church, Easter is still ahead, on May 1st this year. We're welcoming back sponsor Charlotte Riggle, whose children's book _Catherine's Pascha_ follows a little girl's quest to stay awake for the overnight Pascha, or Easter, service. 
 

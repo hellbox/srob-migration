@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's time for the state of the e-book, 2016 edition."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bea", "tags/e-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bea.md", "tags/e-books.md"]
 notes_about = ""
 books = ""
 +++

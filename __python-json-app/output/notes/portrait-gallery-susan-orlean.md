@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457577730076/SRoB
 twitterauto = "It's @susanorlean painted by @studiochristine! "
 facebookauto = "Christine Marie Larsen paints writer Susan Orlean in today's portrait gallery."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

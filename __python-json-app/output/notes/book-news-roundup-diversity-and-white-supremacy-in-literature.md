@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our book news roundup features a thoughtful essay about plagiarism and working \"for exposure.\""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

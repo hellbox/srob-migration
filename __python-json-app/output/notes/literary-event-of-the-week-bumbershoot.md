@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503557861806/ghos
 twitterauto = "Bumbershoot isn't the biggest literary event in town anymore, but it's still got power."
 facebookauto = "Bumbershoot isn't the biggest literary event in town anymore, but it's still packing some power."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/bumbershoot"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/bumbershoot.md"]
 notes_about = ""
 books = ""
 +++

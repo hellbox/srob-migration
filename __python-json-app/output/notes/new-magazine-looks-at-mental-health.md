@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508817230925/DMms
 twitterauto = "We talked to @anxymag's @bobbie about creating a print magazine focused on mental health. "
 facebookauto = "We talked to Anxy Magazine's Editor-in-Chief, Bobbie Johnson, about how they do what they do. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/magazines", "tags/anxy"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/magazines.md", "tags/anxy.md"]
 notes_about = ""
 books = ""
 +++

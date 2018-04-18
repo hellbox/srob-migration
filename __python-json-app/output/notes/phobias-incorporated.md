@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We continue our celebration of Madeline DeFrees today, with her work Phobias Incorporated."
 facebookauto = "We continue our celebration of Madeline DeFrees today, with her work Phobias Incorporated. "
 make_image_tweet = ""
-notes_byline = ["writers/madeline-defrees"]
-tags_notes = ["tags/tuesday-poem", "tags/poetry"]
+notes_byline = ["writers/madeline-defrees.md"]
+tags_notes = ["tags/tuesday-poem.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

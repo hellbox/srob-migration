@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Bible is not Tennessee's official state book."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bible"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bible.md"]
 notes_about = ""
 books = ""
 +++

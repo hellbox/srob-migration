@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498718151077/home
 twitterauto = "In our comics column this week, we review Spider-Man: Homecoming."
 facebookauto = "In our comics column this week, we review Spider-Man: Homecoming."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/movies", "tags/adaptation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/movies.md", "tags/adaptation.md"]
 notes_about = ""
 books = ""
 +++

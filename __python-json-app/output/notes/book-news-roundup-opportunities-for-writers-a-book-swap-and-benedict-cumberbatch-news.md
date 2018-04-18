@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Book News Roundup features great opportunities from @SeattleArts, @shortrunseattle, & @Crosscut."
 facebookauto = "Our Book News Roundup features a fun book swap happening tomorrow and some neat opportunities for writers."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/civic-poet", "tags/short-run", "tags/crosscut", "tags/seattle-public-library", "tags/barnes-&amp;-noble"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/civic-poet.md", "tags/short-run.md", "tags/crosscut.md", "tags/seattle-public-library.md", "tags/barnes-&amp;-noble.md"]
 notes_about = ""
-books = ["books/this-city"]
+books = ["books/this-city.md"]
 +++
 **Today's Book News Roundup begins with three neat local opportunities**:
 

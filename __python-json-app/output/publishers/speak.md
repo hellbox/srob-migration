@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Speak"
 title = "Speak"
-books_by_this_publisher = ["books/paper-towns"]
+books_by_this_publisher = ["books/paper-towns.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon", "tags/indie-authors", "tags/royalties"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md", "tags/indie-authors.md", "tags/royalties.md"]
 notes_about = ""
 books = ""
 +++

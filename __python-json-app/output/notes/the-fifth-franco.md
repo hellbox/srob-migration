@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The fifth issue of @TheJFReview is being published now, starting with some great poems from @arickamarie."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/the-james-franco-review"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/the-james-franco-review.md"]
 notes_about = ""
 books = ""
 +++

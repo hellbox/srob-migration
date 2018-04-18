@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here's a list of all the great events and giveaways local bookstores are offering for Small Business Saturday."
 facebookauto = "Here's a list of all the great events and giveaways local bookstores are offering for Small Business Saturday."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/retail"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/retail.md"]
 notes_about = ""
 books = ""
 +++

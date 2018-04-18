@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The last @rahawahaile wrap-up has stories from @jesmimi, @novicsara, and @susanwoodring. Thanks, Rahawa!"
 facebookauto = "It's the last Rahawa Haile Short Story of the Day wrap up! Great stories from a neat project that is now over. "
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/short-story-of-the-day"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/short-story-of-the-day.md"]
 notes_about = ""
 books = ""
 +++

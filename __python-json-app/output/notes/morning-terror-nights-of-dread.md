@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511452677332/DO2p
 twitterauto = "It's about what gets stuck in your head, our annual Thanksgiving essay, inspired by @shilparayisgod."
 facebookauto = "It's about what gets stuck in your head, our annual Thanksgiving essay, inspired by new music."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/thanksgiving-essay", "tags/secular-sermons"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/thanksgiving-essay.md", "tags/secular-sermons.md"]
 notes_about = ""
 books = ""
 +++

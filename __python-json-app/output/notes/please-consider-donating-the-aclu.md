@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485151221232/aclu
 twitterauto = "We've donated our sponsorship slot this week to encourage you to donate to the @aclu. "
 facebookauto = "We've donated our sponsorship slot this week to encourage you to donate to the ACLU. "
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

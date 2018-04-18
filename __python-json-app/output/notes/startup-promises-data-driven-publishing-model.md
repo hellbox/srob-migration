@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Okay, sure: here comes a data-driven book publisher."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/internet"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/internet.md"]
 notes_about = ""
 books = ""
 +++

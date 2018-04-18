@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "One dynamo of an author is hosting two amazing readings this Sunday. Can you keep up with her?"
 facebookauto = "One dynamo of an author is hosting two amazing readings this Sunday. Can you keep up with her?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/readings.md"]
 notes_about = ""
 books = ""
 +++

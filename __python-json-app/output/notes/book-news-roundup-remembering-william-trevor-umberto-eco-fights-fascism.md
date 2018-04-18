@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Remembering William Trevor, Umberto Eco fights fascists, and Barnes & Noble opens a concept store."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump", "tags/barnes-&amp;-noble"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md", "tags/barnes-&amp;-noble.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear @ciennam: Help! I want to write a historical novel, but history is really, really racist!"
 facebookauto = "\"If you publish your manuscript, I can guarantee that no critic or reader will think, 'not enough N-words for my taste.'\""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/racism", "tags/historical-fiction"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/racism.md", "tags/historical-fiction.md"]
 notes_about = ""
 books = ""
 +++

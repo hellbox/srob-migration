@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's book news roundup includes stories about @Sherman_Alexie, @artisttrust, and @shortrunseattle."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/short-run", "tags/artist-trust", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/short-run.md", "tags/artist-trust.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

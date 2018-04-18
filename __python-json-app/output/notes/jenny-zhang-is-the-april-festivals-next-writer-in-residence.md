@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Let's get acquainted with @APRILfestSEA's new writer-in-residence, @Jennybagel!"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/april"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/april.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456096014673/9781
 twitterauto = "Your week in readings kicks off at @ElliottBayBooks tonight, with @modaviau!"
 facebookauto = "Here are the best events happening every day this week, including a comics convention, an island book club, and a reading from the local branch of the African-American Writers Alliance."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/elliott-bay-book-company", "tags/hugo-house", "tags/seattle-public-library", "tags/african-american-writers-alliance"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/elliott-bay-book-company.md", "tags/hugo-house.md", "tags/seattle-public-library.md", "tags/african-american-writers-alliance.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457744772909/51CX
 twitterauto = "Tonight, your week in readings heads to West Seattle to hear from our Civic Poet. "
 facebookauto = "Your week in literary events includes a fancy book expo, a competitive storytelling event, and a discussion about how to make cities into utopias."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/april", "tags/brian-mcguigan", "tags/mayor-ed-murray", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/april.md", "tags/brian-mcguigan.md", "tags/mayor-ed-murray.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

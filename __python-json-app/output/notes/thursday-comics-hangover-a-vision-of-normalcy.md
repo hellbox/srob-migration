@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449122987802/visi
 twitterauto = "Marvel's new Vision comic written by @TomKingTK is shaping up to be something really special."
 facebookauto = "Sometimes when you start reading a new comic book, you know you're in for something really special. This is the case with Marvel's The Vision, a book which feels about as related to superhero comics as the Moore/Bissette Swamp Thing series. There's some weird, wonderful stuff going on in this book."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/marvel-comics.md"]
 notes_about = ""
 books = ""
 +++

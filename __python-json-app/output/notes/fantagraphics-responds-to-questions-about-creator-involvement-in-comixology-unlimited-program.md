@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We heard from @fantagraphics associate publisher Eric Reynolds about this whole Comixology thing."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

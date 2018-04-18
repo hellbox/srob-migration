@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Twitter abuse, mosquitoes, waiting for Mr. Trump, and a famous wedding portrait, all in today's Sunday Post."
 facebookauto = "The history of Twitter abuse, mosquitoes, waiting for Mr. Trump, and a famous wedding portrait, all in today's Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

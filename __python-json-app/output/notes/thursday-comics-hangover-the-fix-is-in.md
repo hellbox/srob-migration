@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460592332956/thef
 twitterauto = "If you like Elmore Leonard but wish he told more semen jokes, you might enjoy this heist comic."
 facebookauto = "If you like Elmore Leonard but wish he told more semen jokes, you might enjoy this heist comic."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/image-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/image-comics.md"]
 notes_about = ""
 books = ""
 +++

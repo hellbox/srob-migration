@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503530817348/oldm
 twitterauto = "Why would Netflix pay tens of millions to a comics writer who's never had an original idea in his life?"
 facebookauto = "Why would Netflix pay tens of millions of dollars to a comics writer who's never had an original idea in his life?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

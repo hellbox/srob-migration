@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The James Franco Review is changing its name and getting a new publisher.  "
 facebookauto = "The James Franco Review is changing its name and getting a new publisher.  "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/the-james-franco-review"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/the-james-franco-review.md"]
 notes_about = ""
 books = ""
 +++

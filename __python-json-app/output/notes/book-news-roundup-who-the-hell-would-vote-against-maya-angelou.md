@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446014291776/dash
 twitterauto = "Today's Book News Roundup features @HugoHouse, @shortrunseattle, and more."
 facebookauto = "In Book News today, we've got two awesome opportunities \u2014 one comics-related, one prose or poetry \u2014\u00a0for new local talent and the nine worst Republicans in the House."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

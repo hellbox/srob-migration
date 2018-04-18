@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Pieces from @tristanharris, @DrREpstein, @reetamac, and @robinwasserman in today's Sunday Post."
 facebookauto = "The ethics of design, the brain as not-a-computer, the black moment and the inevitable backlash, and books with \"girl\" in the title. All in today's Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

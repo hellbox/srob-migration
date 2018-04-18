@@ -16,10 +16,10 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1520034426762/
 twitterauto = "The world is full of telling images, says sponsor @LoisFStark. Stop by the site for a few vivid examples."
 facebookauto = "The world is full of telling images, says sponsor Lois Farfel Stark. Stop by the site for a few vivid examples. "
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/the-telling-image"]
+books = ["books/the-telling-image.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1520034413524/Telling%20Image_150.jpeg)</p>
 This week, the _Seattle Review of Books_ is sponsored by Lois Farfel Stark — the award-winning filmmaker behind more than forty documentaries and, now, the author of _The Telling Image_. Stark's new book is an exploration of how humans experience the world through shape: a web, a ladder, a helix. Her vast experience makes a tour de force out of what could easily have been a quiet coffee table book.

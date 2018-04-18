@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523330670295/Scre
 twitterauto = "The final piece by April Poet in Residence @buddy_and_buddy is titled \"Conversation\""
 facebookauto = "The final piece by April Poet in Residence Jeanine Walker is titled \"Conversation\""
 make_image_tweet = "False"
-notes_byline = ["writers/jeanine-walker"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jeanine-walker.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

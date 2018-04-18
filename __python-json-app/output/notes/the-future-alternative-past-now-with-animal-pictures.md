@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520402601314/Bett
 twitterauto = "Has @nisishawl gone to the dogs? No, but there are great dog stories in this month's Future Alternative Past."
 facebookauto = "Has Nisi Shawl gone to the dogs? No, but she'll tell you about all the great stories about them, in this month's Future Alternative Past."
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

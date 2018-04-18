@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481698403942/thri
 twitterauto = "A how-to-write guide titled \"Thrill Me\" is actually more comforting than anything else."
 facebookauto = "A how-to-write guide titled \"Thrill Me\" is actually more comforting than anything else. Guess \"Comfort Me\" didn't have the same ring to it."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/writing"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/writing.md"]
 notes_about = ""
 books = ""
 +++

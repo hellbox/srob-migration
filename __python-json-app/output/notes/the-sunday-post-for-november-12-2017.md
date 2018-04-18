@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In the Sunday Post, women have the floor: essays by @PennyRed, @IjeomaOluo, @thebookslut, and @nora_s_brooks."
 facebookauto = "In the Sunday Post, women have the floor: essays by Laurie Penny, Ijeoma Oluo, Jessa Crispin, and Nora Brooks.</p>"
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

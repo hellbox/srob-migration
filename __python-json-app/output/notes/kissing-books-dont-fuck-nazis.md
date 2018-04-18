@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519886498787/on%2
 twitterauto = "Is there ever any room for nazi heroes in romance? @O_Waite sets us right."
 facebookauto = "Is there ever any room for nazi heroes in romance? Olivia Waite sets us right."
 make_image_tweet = "False"
-notes_byline = ["writers/olivia-waite"]
-tags_notes = ["tags/kissing-books"]
+notes_byline = ["writers/olivia-waite.md"]
+tags_notes = ["tags/kissing-books.md"]
 notes_about = ""
 books = ""
 +++

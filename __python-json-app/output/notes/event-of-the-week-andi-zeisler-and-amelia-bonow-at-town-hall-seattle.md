@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462576884365/wewe
 twitterauto = "Our reading of the week is Andi Zeisler at @THSEA this coming Monday."
 facebookauto = "Our pick for Event of the Week is an onstage interview between Bitch magazine founder Andi Zeisler and Amelia Bonow at Town Hall Seattle."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/bitch", "tags/abortion"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/bitch.md", "tags/abortion.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Is @stephenking a good writer or not? Advice columnist @ciennam has the final word."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

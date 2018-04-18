@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's book news roundup features special guest stars Walt Whitman and L. Ron Hubbard."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

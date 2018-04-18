@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450378848204/SRoB
 twitterauto = "We're all about Sarah Galvin this week, and in this week's Portrait Gallery, @studiochristine painted her."
 facebookauto = "Christine Marie Larsen paints Sarah Galvin for this week's Portrait Gallery."
 make_image_tweet = "False"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

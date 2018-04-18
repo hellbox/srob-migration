@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "David Sedaris will workshop his upcoming book for a week in Seattle this January."
 facebookauto = "Did you know that every time David Sedaris is about to release a new book, he reads the manuscript in a weeklong \"workshop\" session? And did you know that he chose Seattle as the city where he's going to workshop his next book? Buy tickets now for the week of January 14th."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/david-sedaris"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/david-sedaris.md"]
 notes_about = ""
 books = ""
 +++

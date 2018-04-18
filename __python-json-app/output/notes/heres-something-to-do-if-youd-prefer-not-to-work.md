@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445557536260/1510
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/bartleby"]
+books = ["books/bartleby.md"]
 +++
 Yesterday, *Slate* published [this amazing interactive annotated edition of *Bartleby, the Scrivener*](http://www.slate.com/articles/arts/culturebox/2015/10/herman_melville_s_bartleby_the_scrivener_an_interactive_annotated_text.html?wpsrc=sh_all_dt_tw_top). I'm not a fan of all of Melville's writing, but *Bartleby* becomes more relevant with each passing year. It's a powerful American myth, and when viewed from another angle it can be read as kind of a forerunner to *Office Space* and *The Office* and other comedies about the drudgery of middle management.

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492749331191/Scre
 twitterauto = "This Saturday is Seattle Independent Bookstore Day! Here are our picks for best way to spend your day:"
 facebookauto = "This Saturday is Seattle Independent Bookstore Day! Here are our picks for best way to spend your day:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/independent-bookstores", "tags/elliott-bay-book-company", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/independent-bookstores.md", "tags/elliott-bay-book-company.md", "tags/fantagraphics-bookstore-&amp;-gallery.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

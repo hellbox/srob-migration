@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463717659501/pape
 twitterauto = "Your week in readings: You'll be spending most of your time @THSEA this week."
 facebookauto = "Your week in readings includes a book about paper, a reading from Sebastian Junger, and a documentary about an author who never, strictly, existed."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/town-hall-seattle.md"]
 notes_about = ""
-books = ["books/shrill"]
+books = ["books/shrill.md"]
 +++
 <p class="noindent"><h5>**Wednesday May 25: *Shrill: Notes from a Loud Woman Reading* **</h5></p> 
 See the Event of the Week column. *Town Hall Seattle, 1119 8th Ave., 652-4255, http://townhallseattle.org. $5. All ages. 7:30 p.m. *

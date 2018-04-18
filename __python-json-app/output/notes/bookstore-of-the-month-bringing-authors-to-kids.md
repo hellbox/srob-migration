@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470605859783/bric
 twitterauto = "Did you know that @secretgardenbooks brings all kinds of authors to the kids of Seattle?"
 facebookauto = "Secret Garden Books hosts tons of readings. You're not allowed to attend many of them unless you're a kid."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/secret-garden-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/secret-garden-books.md"]
 notes_about = ""
 books = ""
 +++

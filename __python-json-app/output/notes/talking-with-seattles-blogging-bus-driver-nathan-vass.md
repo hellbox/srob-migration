@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488765440608/kcme
 twitterauto = "For five years, one Seattle bus driver has kept a brilliant blog about his experiences. "
 facebookauto = "For five years, one Seattle bus driver has kept a brilliant blog about his experiences. We interviewed Nathan Vass about his time as a bus blogger."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/blogging"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/blogging.md"]
 notes_about = ""
 books = ""
 +++

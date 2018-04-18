@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A new utopian sci-fi comic called Symmetry argues that perfection has its price."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

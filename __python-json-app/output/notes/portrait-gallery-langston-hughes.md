@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518124124709/SRoB
 twitterauto = "Portrait Gallery: #poet Langston Hughes + a new Seattle arts org! @langstonseattle #illustration/ @studiochristine"
 facebookauto = "Portrait Gallery: Langston Hughes"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The internet is fighting over whether longform storytelling is necessary or not. Here's what @paulconstant thinks."
 facebookauto = "The internet is fighting over whether longform storytelling is necessary or not. Here's where we think people should be putting that energy instead:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/longform", "tags/internet"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/longform.md", "tags/internet.md"]
 notes_about = ""
 books = ""
 +++

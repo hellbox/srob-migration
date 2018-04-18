@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486359592563/C2t0
 twitterauto = "Sponsor @mineralschool is back to remind you to get your applications in!"
 facebookauto = "Sponsor Mineral School is back to remind you to get your applications in!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

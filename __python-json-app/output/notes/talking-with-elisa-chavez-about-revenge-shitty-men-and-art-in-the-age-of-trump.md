@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484982331530/maxr
 twitterauto = "We talked with @elisacatrina about her explosive poem \"Revenge.\""
 facebookauto = "We talked with Elisa Chavez about her explosive poem \"Revenge,\" the two times she went viral as a poet, and what she's working on next."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/donald-trump", "tags/gamergate"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/donald-trump.md", "tags/gamergate.md"]
 notes_about = ""
 books = ""
 +++

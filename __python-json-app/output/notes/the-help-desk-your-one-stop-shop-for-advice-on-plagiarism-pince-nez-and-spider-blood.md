@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486747810180/9780
 twitterauto = "Your one-stop shop for advice on plagiarism, pince-nez, and spider blood."
 facebookauto = "This week's Help Desk is a special rapid-fire mail bag edition! Consider it your one-stop shop for advice on plagiarism, pince-nez, and spider blood."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

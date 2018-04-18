@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Tuesdays in December we remember Lucia Perillo by publishing her work. Today's the first: \"Monorail\""
 facebookauto = "Tuesdays in December we remember Lucia Perillo by publishing her work. Today's the first: \"Monorail\""
 make_image_tweet = "False"
-notes_byline = ["writers/lucia-perillo"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/lucia-perillo.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Columnist @nisishawl takes on death, and looks at work by @brendacooper, @authorajhartley, and @karenheuler"
 facebookauto = "Nisi Shawl takes on death, and looks at work by Brenda Cooper, AJ Hartley, and Karen Heuler, in this month's Future Alternative Past column. "
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470430621043/maxr
 twitterauto = "Your week in readings includes an intimate @Sherman_Alexie event and a scratch for your Harry Potter itch."
 facebookauto = "Your week in readings includes an intimate Sherman Alexie event and a scratch for your Harry Potter itch."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

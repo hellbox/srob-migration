@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "In our latest Exit Interview we talk with poet @kellydavio about why she's leaving Seattle for London."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/exit-interview"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/exit-interview.md"]
 notes_about = ""
-books = ["books/burn-this-house"]
+books = ["books/burn-this-house.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1441412075141/9781597092364.jpg)</p><p class="intro"></p>When we announced that we’d like to interview authors who are leaving town for our [Exit Interview](http://seattlereviewofbooks.com/notes/2015/08/11/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane/) feature, the most-suggested writer was [Kelly Davio](http://kellydavio.com/), a poet, columnist for The Butter, and co-publisher and poetry editor at the [*Tahoma Literary Review*](http://www.tahomaliteraryreview.com/). The e-mails we received were dripping with sadness about Davio’s departure; the word “irreplaceable” came up. Davio’s debut poetry collection, [*Burn This House*](http://www.indiebound.org/book/9781597092364) was publshed by Red Hen Press in 2013.</p>
 

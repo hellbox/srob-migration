@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500357313653/long
 twitterauto = "There's a fine line between \"cleverly utilizing genre fiction tropes\" and \"being wildly uncreative.\""
 facebookauto = "There's a fine line between \"cleverly utilizing genre fiction tropes\" and \"being wildly uncreative.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/science-fiction"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/science-fiction.md"]
 notes_about = ""
 books = ""
 +++

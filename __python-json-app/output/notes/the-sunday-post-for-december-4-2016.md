@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post: Adichie, silent men, Alphabet's Jigsaw (is that english?), Nintendo and other interesting stories. "
 facebookauto = "The Sunday Post: Adichie, silent men, Alphabet's Jigsaw (is that english?), Nintendo and other interesting stories. "
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

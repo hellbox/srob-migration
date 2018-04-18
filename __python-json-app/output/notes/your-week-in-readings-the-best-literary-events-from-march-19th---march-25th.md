@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519888557655/nwga
 twitterauto = "Gardening, sacredness, happiness, and much more in this week's best readings."
 facebookauto = "Gardening, sacredness, happiness, and much more in this week's best readings."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

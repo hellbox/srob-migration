@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493590474556/IMG_
 twitterauto = "How was your #IndependentBookstoreDay? Here are some of the things we saw:"
 facebookauto = "How was your #IndependentBookstoreDay? Here are some of the things we saw:"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/independent-bookstores", "tags/university-book-store", "tags/third-place-books-ravenna", "tags/queen-anne-book-company"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/independent-bookstores.md", "tags/university-book-store.md", "tags/third-place-books-ravenna.md", "tags/queen-anne-book-company.md"]
 notes_about = ""
 books = ""
 +++

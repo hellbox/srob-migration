@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "@Donna Miscolta on family, @ClintSmithIII on racial violence, @mendelsund on Sebald, and more in the Sunday Post."
 facebookauto = "Donna Miscolta on family, Clint Smith on racial violence, Peter Mendelsund on W. G. Sebald, and more in the Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

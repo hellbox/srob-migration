@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Introducing the new creative director at the Bureau of @Fearless_Ideas: the one and only @davidschmader!"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bureau-of-fearless-ideas"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bureau-of-fearless-ideas.md"]
 notes_about = ""
 books = ""
 +++

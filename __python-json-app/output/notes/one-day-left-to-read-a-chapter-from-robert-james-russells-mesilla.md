@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "One day left! Read a full chapter from @robhollywood's upcoming Mesilla. Thanks to him for the sponsorship."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

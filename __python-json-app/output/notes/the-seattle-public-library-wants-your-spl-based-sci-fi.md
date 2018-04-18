@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "On January 1st, @SPLBuzz is launching a flash science fiction contest to honor Octavia Butler. More info here:"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/writing-contest"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/writing-contest.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "You say you want a new golden age of sci-fi? The good news is, we're already living in it."
 facebookauto = "You say you want a new golden age of sci-fi? The good news is, we're already living in it."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/science-fiction", "tags/marvel-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/science-fiction.md", "tags/marvel-comics.md"]
 notes_about = ""
-books = ["books/everfair"]
+books = ["books/everfair.md"]
 +++
 For years, Seattle author Neal Stephenson has argued that science fiction, in its long lean to the dystopian, has abdicated its responsibility to imagine positive solutions to humanity's worst problems. 
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Happy Poem In Your Pocket Day! Here's how to celebrate in Seattle. #pocketpoem"
 facebookauto = "Happy Poem In Your Pocket Day! Here's how to celebrate in Seattle. #pocketpoem"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry", "tags/open-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md", "tags/open-books.md"]
 notes_about = ""
 books = ""
 +++

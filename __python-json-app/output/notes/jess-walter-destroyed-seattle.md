@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Every Seattleite should listen to @1JessWalter's remarkable poem about Seattle's apocalyptic summer."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/tiny-sense-of-accomplishment"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/tiny-sense-of-accomplishment.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506790396391/IMG_
 twitterauto = "Seattle Writing Prompts wonders over a confusion of flowers cast on the ground."
 facebookauto = "Seattle Writing Prompts wonders over a confusion of flowers cast on the ground."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

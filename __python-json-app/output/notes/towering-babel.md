@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Finding Babel, a remarkable tribute to a remarkable writer, screens this weekend @SIFFNews."
 facebookauto = "Looking for a SIFF movie to watch this weekend? Why not  give Finding Babel, a remarkable tribute to a remarkable writer, a try?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/siff"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/siff.md"]
 notes_about = ""
 books = ""
 +++

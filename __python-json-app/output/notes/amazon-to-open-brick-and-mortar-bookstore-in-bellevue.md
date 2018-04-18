@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Get ready for another brick-and-mortar Amazon store, this time in Bellevue."
 facebookauto = "Get ready for another brick-and-mortar Amazon store, this time in Bellevue."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon-books.md"]
 notes_about = ""
 books = ""
 +++

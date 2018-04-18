@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492581592443/edib
 twitterauto = "Your week in readings delivers an edible city, life on Mars, and a Republican."
 facebookauto = "Your week in readings delivers an edible city, life on Mars, and a Republican."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

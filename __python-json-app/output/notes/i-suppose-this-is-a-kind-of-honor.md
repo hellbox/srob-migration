@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The last line in this video is one of the most damning responses to book-banners we've ever heard."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/banned-books", "tags/censorship"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/banned-books.md", "tags/censorship.md"]
 notes_about = ""
 books = ""
 +++

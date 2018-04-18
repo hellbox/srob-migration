@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496385541467/osam
 twitterauto = "Is the TSA going to start rifling through your books and magazines?"
 facebookauto = "Is the TSA going to start rifling through your books and magazines?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/tsa"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/tsa.md"]
 notes_about = ""
 books = ""
 +++

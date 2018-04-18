@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512536893623/them
 twitterauto = "In the wrong hands, Matthew McIntosh\u2019s second novel, theMystery.doc, could be a murder weapon..."
 facebookauto = "In the wrong hands, Matthew McIntosh\u2019s second novel, theMystery.doc, could be a murder weapon..."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

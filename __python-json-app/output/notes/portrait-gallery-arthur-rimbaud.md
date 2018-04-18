@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476894389033/SRoB
 twitterauto = "Portrait Gallery by @studiochristine: Happy Birthday, Arthur Rimbaud"
 facebookauto = "Portrait Gallery: Happy Birthday, Arthur Rimbaud. "
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

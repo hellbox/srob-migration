@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Chris Higashi retires today. Few have done more to promote books and readings in Seattle."
 facebookauto = "Chris Higashi retires from her job at the Washington Center for the Book today. We'll miss her tremendously. She's been an incredible force for books and readings in Seattle."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library", "tags/seattle-times"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/seattle-times.md"]
 notes_about = ""
 books = ""
 +++

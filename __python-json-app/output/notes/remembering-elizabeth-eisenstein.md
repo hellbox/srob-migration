@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Gutenberg scholar Elizabeth Eisenstein died last week at 92. Novelist @alixechristie has a remembrance."
 facebookauto = "We asked \"Gutenberg's Apprentice\" author Alix Christie to write a few words about scholar Elizabeth Eisenstein, following her death last week, at age 92."
 make_image_tweet = "False"
-notes_byline = ["writers/alix-christie"]
-tags_notes = ["tags/obituaries"]
+notes_byline = ["writers/alix-christie.md"]
+tags_notes = ["tags/obituaries.md"]
 notes_about = ""
 books = ""
 +++

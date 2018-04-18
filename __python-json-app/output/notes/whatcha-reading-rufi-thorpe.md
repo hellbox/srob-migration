@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520052757225/rufi
 twitterauto = "Now we know what @rufithorpe is reading, and you can too by clicking on this convenient link."
 facebookauto = "Whatcha Reading, Rufi Thorpe? Carl Sagan, Jane Smiley, and Jesmyn Ward"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/whatcha-reading"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/whatcha-reading.md"]
 notes_about = ""
 books = ""
 +++

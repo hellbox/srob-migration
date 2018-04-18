@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479319322962/Amaz
 twitterauto = "Amazon's new ad probably delivers a much-needed message of religious tolerance. Who can say?"
 facebookauto = "Amazon's new ad probably delivers a much-needed message of religious tolerance. Who can say?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon", "tags/religion"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md", "tags/religion.md"]
 notes_about = ""
 books = ""
 +++

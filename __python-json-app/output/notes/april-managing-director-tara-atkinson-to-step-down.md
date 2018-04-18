@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "APRIL Festival's Managing Director, @t_m_at, is stepping down. We'll miss her."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/april"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/april.md"]
 notes_about = ""
 books = ""
 +++

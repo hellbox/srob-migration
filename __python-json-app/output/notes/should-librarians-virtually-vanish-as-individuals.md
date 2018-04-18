@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Is it possible for librarians to be apolitical? Should they aspire to \"virtually vanish\" as individuals?"
 facebookauto = "Is it possible for librarians to be apolitical? Should they aspire to \"virtually vanish\" as individuals?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/librarians"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/librarians.md"]
 notes_about = ""
 books = ""
 +++

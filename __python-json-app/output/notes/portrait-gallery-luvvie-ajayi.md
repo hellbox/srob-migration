@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1475606028130/SRoB
 twitterauto = "Portrait Gallery! @iLuvvit painted by @studiochristine"
 facebookauto = "Portrait Gallery! Luvvie Ajayi painted by Christine Marie Larsen"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

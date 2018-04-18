@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in Book News Roundup: Writing opportunities from @ZAPPSeattle and @BitchMedia."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/zapp", "tags/bitch"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/zapp.md", "tags/bitch.md"]
 notes_about = ""
 books = ""
 +++

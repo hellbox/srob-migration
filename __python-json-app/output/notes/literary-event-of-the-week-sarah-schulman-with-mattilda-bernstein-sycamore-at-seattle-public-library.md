@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1483749150707/978
 twitterauto = "Our literary event of the week is provocative, in the very best sense of the word."
 facebookauto = "Our literary event of the week is provocative, in the very best sense of the word."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

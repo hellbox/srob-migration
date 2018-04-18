@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Quenton Baker and Tea Obreht both committed beautiful acts of literary theft on Friday night."
 facebookauto = "At the Hugo House's first homeless Literary Series event, Quenton Baker and Tea Obreht both committed beautiful acts of literary theft on Friday night."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

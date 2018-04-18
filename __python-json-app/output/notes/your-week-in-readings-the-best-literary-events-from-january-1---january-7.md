@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512016538530/miss
 twitterauto = "Your week in readings begins with a big sale @ThirdPlaceBooks today."
 facebookauto = "Your week in readings includes a discussion of G. Willow Wilson's first novel and a new local YA author."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

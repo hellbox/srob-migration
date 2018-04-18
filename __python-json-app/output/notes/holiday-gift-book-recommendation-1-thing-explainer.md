@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449037783690/9780
 twitterauto = "Our holiday gift book guide begins with a bookseller from @ravenna3rdplace, who recommends Thing Explainer."
 facebookauto = "Every Wednesday through Christmas, we're going to talk with a different bookseller about the book they're most excited about giving as a gift. Our first bookseller, Alex Gholz at Third Place Books Ravenna, is super-thrilled about Randall Munroe's new book Thing Explainer."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/third-place-books-ravenna"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/third-place-books-ravenna.md"]
 notes_about = ""
-books = ["books/thing-explainer"]
+books = ["books/thing-explainer.md"]
 +++
 <p class="intro">(Every Wednesday in December before Christmas, we’ll talk to a Seattle bookseller about the gift book they’re most excited about this season.)</p>
 

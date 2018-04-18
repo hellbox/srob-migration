@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Book News Roundup features a fun @ClarionWest reading and a troubling story of librarians in peril."
 facebookauto = "Today's Book News Roundup features a fun Clarion West reading and a troubling story of librarians in peril."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

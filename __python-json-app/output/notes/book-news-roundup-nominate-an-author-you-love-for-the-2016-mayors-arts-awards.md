@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Find Jonathan Franzen, #1000BlackGirlBooks, @shortrunseattle, and more in our Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/mayor-ed-murray", "tags/amazon-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/mayor-ed-murray.md", "tags/amazon-books.md"]
 notes_about = ""
 books = ""
 +++

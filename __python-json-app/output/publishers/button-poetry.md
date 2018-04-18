@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Button Poetry"
 title = "Button Poetry"
-books_by_this_publisher = ["books/the-crown-aint-worth-much"]
+books_by_this_publisher = ["books/the-crown-aint-worth-much.md"]
 +++

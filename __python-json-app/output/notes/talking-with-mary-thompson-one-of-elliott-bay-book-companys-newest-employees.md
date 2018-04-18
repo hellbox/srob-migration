@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479074175041/tige
 twitterauto = "We had a conversation with one of @elliottbaybooks's newest employees."
 facebookauto = "We had a conversation with one of the newest employees at Elliott Bay Book Company. Meet Mary Thompson:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

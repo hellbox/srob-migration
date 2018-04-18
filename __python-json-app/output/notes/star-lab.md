@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456205933713/Scre
 twitterauto = "Our Tuesday Poem by @jrkjrkjrkjrkjrk starts like this:"
 facebookauto = "Our Tuesday Poet is Jessie Knoles, and her poem is called Star Lab."
 make_image_tweet = "True"
-notes_byline = ["writers/jessie-knoles"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jessie-knoles.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

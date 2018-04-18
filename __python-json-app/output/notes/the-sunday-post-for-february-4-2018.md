@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In the Sunday Post, great writing by @jessleimoon, @mashagessen, Patricia Lockwood, @mariadahvana, and @chiggi."
 facebookauto = "This Sunday's Post is packed with great writing: Jessica Mooney on loss, Masha Gessen on choice, Patricia Lockwood on figure skating, Maria Dahvana Headley on #metoo and Arthur Miller, AND Charlotte Higgins on Mary Beard."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498173523669/Grea
 twitterauto = "Say see-you-later to @THSea with an all-day party designed to send the venue off into renovation-land."
 facebookauto = "This Friday, Town Hall is throwing a huge all-day party before closing for renovations. It's a chance to make your mark on one of Seattle's most beloved venues."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

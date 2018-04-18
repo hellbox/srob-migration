@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465596240362/b4e2
 twitterauto = "The Kickstarter Fund backs an evocative mugshot project by @diarmidmogg"
 facebookauto = "The Kickstarter Fund backs an evocative mugshot project by Diarmid Mogg."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/saga", "tags/archie", "tags/phoenix-comics-and-games", "tags/strange-fruit"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/saga.md", "tags/archie.md", "tags/phoenix-comics-and-games.md", "tags/strange-fruit.md"]
 notes_about = ""
 books = ""
 +++

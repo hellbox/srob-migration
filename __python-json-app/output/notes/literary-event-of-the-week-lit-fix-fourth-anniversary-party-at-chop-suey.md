@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Tonight, celebrate @Lit_Fix's 4th anniversary with @katkat_alcala @Laurie_Frankel & @Misterlashley!"
 facebookauto = "The Lit Fix reading series celebrates its fourth anniversary tonight. What's the secret for building a long-lasting reading series?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/lit-fix"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/lit-fix.md"]
 notes_about = ""
 books = ""
 +++

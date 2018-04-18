@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495783543249/will
 twitterauto = "Volcanoes! Salmon! Whiteness! And much more coming up for your week in readings."
 facebookauto = "Your week in readings brings a conversation about whiteness, a book about salmon, and a talk about volcanoes."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

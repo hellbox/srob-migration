@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Please don't read that awful, dumb Guardian story on Terry Pratchett that's making the rounds."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/clickbait"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/clickbait.md"]
 notes_about = ""
-books = ["books/mort", "books/the-colour-of-magic"]
+books = ["books/mort.md", "books/the-colour-of-magic.md"]
 +++
 Some asshole at the *Guardian* who has never read one of Terry Pratchett's novels thinks Terry Pratchett is overrated. Yep, it's the same old boring "serious literature" conversation, with an added smear on a recently deceased author for good measure. 
 

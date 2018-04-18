@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The viral article about working at Barnes & Noble isn't an accurate representation of bookselling."
 facebookauto = "The article about working at Barnes & Noble that went viral yesterday isn't an accurate representation of bookselling."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/barnes-&amp;-noble"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/barnes-&amp;-noble.md"]
 notes_about = ""
 books = ""
 +++

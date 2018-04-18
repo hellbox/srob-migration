@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Bob Dylan won the Nobel Prize in Literature? Okay. But..."
 facebookauto = "Bob Dylan won the Nobel Prize in Literature? Okay. But..."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/nobel-prize"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/nobel-prize.md"]
 notes_about = ""
 books = ""
 +++

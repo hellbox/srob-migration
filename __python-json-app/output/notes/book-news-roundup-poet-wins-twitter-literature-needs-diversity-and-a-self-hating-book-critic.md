@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Find self-hating book critics, poets winning Twitter forever, and much more in today's Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookslut", "tags/awp", "tags/diversity"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookslut.md", "tags/awp.md", "tags/diversity.md"]
 notes_about = ""
 books = ""
 +++

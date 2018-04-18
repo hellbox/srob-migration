@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/sarah-mangold"]
-tags_notes = ["tags/tuesday-poem", "tags/poetry"]
+notes_byline = ["writers/sarah-mangold.md"]
+tags_notes = ["tags/tuesday-poem.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

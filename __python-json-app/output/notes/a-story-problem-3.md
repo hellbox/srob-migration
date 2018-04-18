@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our fourth, from May Poet in Residence @Oliver_delaPaz, is another story problem. "
 facebookauto = "Our fourth, from May Poet in Residence Oliver de la Paz, is another story problem. "
 make_image_tweet = "False"
-notes_byline = ["writers/oliver-de-la-paz"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/oliver-de-la-paz.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

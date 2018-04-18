@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/nanowrimo"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/nanowrimo.md"]
 notes_about = ""
 books = ""
 +++

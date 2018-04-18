@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Plums, Shirley Jackson as a mother, quality in kid-lit, and Lynd Ward, all in today's Sunday Post."
 facebookauto = "Plums, Shirley Jackson as a mother, quality in kid-lit, and Lynd Ward, all in today's Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

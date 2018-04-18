@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488136860612/Mean
 twitterauto = "What happens when you take a book about America's political divide to a sandwich shop?"
 facebookauto = "We took a book about America's political divide to a really good sandwich shop in Ballard."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date", "tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md", "tags/reading-through-it.md"]
 notes_about = ""
-books = ["books/strangers-in-their-own-land"]
+books = ["books/strangers-in-their-own-land.md"]
 +++
 <p class="intro">Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.</p>
 

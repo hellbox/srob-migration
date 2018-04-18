@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517939475370/rtie
 twitterauto = "All the Book News that's fit to print, including fellowships, coworking spaces, and a book club."
 facebookauto = "All the Book News that's fit to print, including fellowships, coworking spaces, and a book club."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A germophobe reader is grossed out by people who keep books on their toilets."
 facebookauto = "A germophobe reader asks: isn't keeping books on the back of your toilet kind of gross?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

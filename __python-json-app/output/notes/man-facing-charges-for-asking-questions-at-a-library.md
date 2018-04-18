@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Kansas City man facing charges for asking questions in a library."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/libraries"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/libraries.md"]
 notes_about = ""
 books = ""
 +++

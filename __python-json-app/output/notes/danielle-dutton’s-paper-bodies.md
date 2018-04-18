@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460694954699/marg
 twitterauto = "Talking with @CatapultStory author Danielle Dutton about a woman Virginia Woolf described as an overgrown cucumber. "
 facebookauto = "Talking with author and publisher Danielle Dutton about the woman who Virginia Woolf once described as an overgrown cucumber."
 make_image_tweet = "False"
-notes_byline = ["writers/frances-chiem"]
-tags_notes = ["tags/fiction", "tags/historical-fiction", "tags/independent-publishing"]
+notes_byline = ["writers/frances-chiem.md"]
+tags_notes = ["tags/fiction.md", "tags/historical-fiction.md", "tags/independent-publishing.md"]
 notes_about = ""
-books = ["books/margaret-the-first"]
+books = ["books/margaret-the-first.md"]
 +++
 I thought I might go nuts if I read another article about how a woman writer balances her art and family commitments, but Danielle Dutton’s ability to balance multiple projects verges on superhuman. So I had to ask.
 

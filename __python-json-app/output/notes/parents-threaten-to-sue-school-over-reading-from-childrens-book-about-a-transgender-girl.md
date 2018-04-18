@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448913417137/9780
 twitterauto = "Some idiot parents threatened to sue to stop a reading from a book about a transgender girl."
 facebookauto = "Some idiot parents threatened to sue to stop a reading from a book about a transgender girl. Maybe this book ought to become a bestseller?"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/childrens-book", "tags/transgender"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/childrens-book.md", "tags/transgender.md"]
 notes_about = ""
 books = ""
 +++

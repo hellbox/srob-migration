@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458258650241/What
 twitterauto = "We've picked one great literary event a day for the next week, just for you!"
 facebookauto = "We've picked one great literary event a day for the next week, just for you! We've got sci-fi conventions, Vietnamese poets, hot young novelists, and much, much more."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

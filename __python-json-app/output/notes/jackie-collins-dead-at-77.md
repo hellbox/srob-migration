@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/obituaries", "tags/death"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/obituaries.md", "tags/death.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512447990175/Scre
 twitterauto = "The last poem from December Poet in Residence @writer_sejones is called \"When I finally get that claw-footed tub\""
 facebookauto = "The last poem from December Poet in Residence @writer_sejones is called \"When I finally get that claw-footed tub\""
 make_image_tweet = "False"
-notes_byline = ["writers/sarah-jones"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/sarah-jones.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

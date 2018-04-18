@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear @ciennam: I moved to the midwest, but I still borrow from Seattle Public Library. Is this wrong?"
 facebookauto = "Our latest advice column: I moved to the midwest, but I still borrow electronic books and media from Seattle Public Library. Is this wrong?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/seattle-public-library"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

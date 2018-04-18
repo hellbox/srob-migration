@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "There's still time to sign up for our book reviewing course @HugoHouse!"
 facebookauto = "There's still time to sign up for the book reviewing class taught by Seattle Review of Books co-founders Martin McClellan and Paul Constant."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

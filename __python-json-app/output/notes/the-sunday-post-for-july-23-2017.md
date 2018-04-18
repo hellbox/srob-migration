@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Indie books, AI's checkered past, and a birthday letter from @monteiro in the Sunday Post."
 facebookauto = "Indie books, AI's checkered past, and a birthday letter from Mike Monteiro in the Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

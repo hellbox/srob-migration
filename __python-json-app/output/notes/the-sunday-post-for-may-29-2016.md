@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post has pieces by: @tonytula, @bertclere, @kelseymsutton & @petersterne, and @mjcontrera"
 facebookauto = "Frog and Toad, Salon.com, What it's like to be a 13 year old girl in this era, and who controls the naming of novels? All in today's Sunday Post. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

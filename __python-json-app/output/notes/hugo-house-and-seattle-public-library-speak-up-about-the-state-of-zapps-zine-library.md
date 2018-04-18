@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We talked with the Hugo House and Seattle Public Library about the state of ZAPP's zine library."
 facebookauto = "We talked with the Hugo House and Seattle Public Library about the state of ZAPP's zine library. Here's what they had to say:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/zapp", "tags/seattle-public-library", "tags/hugo-house", "tags/tree-swenson"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/zapp.md", "tags/seattle-public-library.md", "tags/hugo-house.md", "tags/tree-swenson.md"]
 notes_about = ""
 books = ""
 +++

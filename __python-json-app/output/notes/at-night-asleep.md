@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523330631333/Scre
 twitterauto = "\"At Night, Asleep\" is the third poem from Poet in Residence @buddy_and_buddy"
 facebookauto = "\"At Night, Asleep\" is the third poem from Poet in Residence Jeanine Walker"
 make_image_tweet = "False"
-notes_byline = ["writers/jeanine-walker"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jeanine-walker.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

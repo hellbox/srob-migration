@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1441171711333/2015
 twitterauto = "Seattle Mystery Bookshop will \"most likely\" close at the end of September."
 facebookauto = "Seattle Mystery Bookshop will \"most likely\" close at the end of September."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-mystery-bookshop", "tags/death", "tags/retail"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-mystery-bookshop.md", "tags/death.md", "tags/retail.md"]
 notes_about = ""
 books = ""
 +++

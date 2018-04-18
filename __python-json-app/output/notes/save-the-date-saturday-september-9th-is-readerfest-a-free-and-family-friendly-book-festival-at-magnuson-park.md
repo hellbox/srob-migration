@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500849484900/Read
 twitterauto = "Save the date: September 9th is Readerfest, a free book festival at Magnuson Park!"
 facebookauto = "Save the date: September 9th is Readerfest, a free book festival at Magnuson Park!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/readerfest"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/readerfest.md"]
 notes_about = ""
 books = ""
 +++

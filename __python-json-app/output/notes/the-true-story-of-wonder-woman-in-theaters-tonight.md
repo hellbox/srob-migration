@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507701994525/wond
 twitterauto = "Here's our review of a movie about the not-so-secret origins of Wonder Woman."
 facebookauto = "Here's our review of a movie about the not-so-secret origins of Wonder Woman, and the three-way committed relationship that made the character possible."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/adaptation", "tags/wonder-woman"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/adaptation.md", "tags/wonder-woman.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our month of celebrating Madeline DeFrees continues, with her poem \"Grandmother Grant\""
 facebookauto = "Our month of celebrating Madeline DeFrees continues, with her poem \"Grandmother Grant\""
 make_image_tweet = ""
-notes_byline = ["writers/madeline-defrees"]
-tags_notes = ["tags/tuesday-poem", "tags/poetry"]
+notes_byline = ["writers/madeline-defrees.md"]
+tags_notes = ["tags/tuesday-poem.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

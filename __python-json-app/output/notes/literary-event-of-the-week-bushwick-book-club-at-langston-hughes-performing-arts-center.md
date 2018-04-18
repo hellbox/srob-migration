@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518136686317/sowe
 twitterauto = "Our Event of the Week combines local musicians with Octavia Butler. "
 facebookauto = "Our Event of the Week combines local musicians with Octavia Butler. "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

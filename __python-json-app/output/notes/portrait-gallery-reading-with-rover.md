@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498716451379/SRoB
 twitterauto = "Portrait Gallery: Reading with Rover, 1st Sundays @ubookstorereads Mill Creek. readingwithrover.org #dogs #literacy"
 facebookauto = "Portrait Gallery: Reading with Rover at UBookstore Mill Creek, the first Sunday of every month."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

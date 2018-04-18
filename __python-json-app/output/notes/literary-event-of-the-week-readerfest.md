@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500849484900/Read
 twitterauto = "Are you ready for Readerfest? It's happening this weekend at Magnuson Park!"
 facebookauto = "Are you ready for Readerfest? It's happening this weekend at Magnuson Park!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/readerfest"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/readerfest.md"]
 notes_about = ""
 books = ""
 +++

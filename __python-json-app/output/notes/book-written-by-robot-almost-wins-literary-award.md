@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A novel co-written by artificial intelligence nearly won a literary prize in Japan."
 facebookauto = "A novel co-written by artificial intelligence nearly won a literary prize in Japan."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/robot"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/robot.md"]
 notes_about = ""
 books = ""
 +++

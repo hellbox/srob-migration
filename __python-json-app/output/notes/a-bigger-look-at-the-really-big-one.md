@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/new-yorker"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/new-yorker.md"]
 notes_about = ""
-books = ["books/full-rip-90"]
+books = ["books/full-rip-90.md"]
 +++
 While everyone in Seattle is currently freaking out about [Kathryn Schulz's excellent *New Yorker* article](http://www.newyorker.com/magazine/2015/07/20/the-really-big-one) detailing how we we're overdue for an impossibly bad earthquake, I'd like to take this opportunity to remind you to read Sandi Doughton's excellent [*Full-Rip 9.0: The Next Big Earthquake in the Pacific Northwest*](http://www.indiebound.org/book/9781570619427). Doughton gets into detail that the *New Yorker* simply doesn't have room for, explaining all the various fault lines and different kinds of earthquakes that could strike Seattle in specific and the Pacific Northwest in general. It's an excellent book that will leave Seattleites stricken with insomnia for days.

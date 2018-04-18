@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500494103729/SRoB
 twitterauto = "Portrait Gallery: Anastacia-Rene\u00e9 reads Tuesday 7/25 @ElliottBayBooks / #illustration by @studiochristine"
 facebookauto = "Portrait Gallery:  Anastacia-Rene\u00e9 by Christine Marie Larsen"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

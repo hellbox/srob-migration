@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484509684861/Writ
 twitterauto = "What do writers and readers do now? We talked with founders of the Seattle branch of #WritersResist."
 facebookauto = "Donald Trump's inauguration is on Friday. What should writers and readers do now? We talked with founders of the Seattle branch of #WritersResist."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/writers-resist"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/writers-resist.md"]
 notes_about = ""
 books = ""
 +++

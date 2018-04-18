@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Don't miss @pmcottrell, @LiberianGirl95, @jmccknight, and more in this week's Sunday Post."
 facebookauto = "Reality's getting slippery in the Sunday Post, with articles on Snopes.com, obsession, imaginary boyfriends, and the god in the machine."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

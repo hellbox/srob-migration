@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520906963242/Scre
 twitterauto = "\"Rusty Chain Heritage\" is the third poem from March Poet in Residence @trippweavepoet"
 facebookauto = "\"Rusty Chain Heritage\" is the third poem from March Poet in Residence Julene Trip Weaver"
 make_image_tweet = "False"
-notes_byline = ["writers/julene-tripp-weaver"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/julene-tripp-weaver.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

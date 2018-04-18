@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511938695153/Nois
 twitterauto = "Make no mistake: This video game is just as literary as a comic book."
 facebookauto = "Make no mistake: This video game is just as literary as a comic book."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/video-games"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/video-games.md"]
 notes_about = ""
 books = ""
 +++

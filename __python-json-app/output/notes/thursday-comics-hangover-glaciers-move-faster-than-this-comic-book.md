@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466057725410/scar
 twitterauto = "How long is too long a delay before you give up on a comic? A year? Two years? Three years?"
 facebookauto = "How long is too long a delay before you give up on a comic? A year? Two years? Three years?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

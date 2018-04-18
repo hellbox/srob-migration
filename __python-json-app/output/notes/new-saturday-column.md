@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We've got a new column starting later today \u2014 here's the scoop. "
 facebookauto = "We've got a new column starting later today \u2014 here's the scoop. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-review-of-books"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485489905950/home
 twitterauto = "Get ready for events with Ottessa Moshfegh and Ross Gay this week."
 facebookauto = "Get ready for events with Ottessa Moshfegh and Ross Gay this week, plus new outings from the Looseleaf and Margin Shift reading series."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/margin-shift"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/margin-shift.md"]
 notes_about = ""
 books = ""
 +++

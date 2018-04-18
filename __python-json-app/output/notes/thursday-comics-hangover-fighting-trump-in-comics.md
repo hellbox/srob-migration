@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499918098904/Anti
 twitterauto = "Cartoonists versus Trump: who wins?"
 facebookauto = "A new comic book imagines a world in which California secedes from Trump's United States, and the book feels as fresh as breaking news."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

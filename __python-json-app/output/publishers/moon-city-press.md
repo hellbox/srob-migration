@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Moon City Press"
 title = "Moon City Press"
-books_by_this_publisher = ["books/field-guide-to-the-end-of-the-world"]
+books_by_this_publisher = ["books/field-guide-to-the-end-of-the-world.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Last summer, @paulconstant wrote about Gawker's \"mission creep.\""
 facebookauto = ""
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/gawker"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/gawker.md"]
 notes_about = ""
 books = ""
 +++

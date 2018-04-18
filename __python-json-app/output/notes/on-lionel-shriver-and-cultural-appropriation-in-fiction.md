@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "That Lionel Shriver speech about cultural appropriation that's going around? Yeah, it's pretty dumb."
 facebookauto = "That Lionel Shriver speech about cultural appropriation that's going around? Yeah, it's pretty dumb."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/political-correctness", "tags/cultural-appropriation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/political-correctness.md", "tags/cultural-appropriation.md"]
 notes_about = ""
 books = ""
 +++

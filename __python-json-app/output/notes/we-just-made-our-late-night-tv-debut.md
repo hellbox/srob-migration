@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484924869094/IMG_
 twitterauto = "Pretty excited to see ourselves on @LateNightSeth's show. (Too bad Donald Trump hates to read.)"
 facebookauto = "We were very excited to see ourselves on Late Night with Seth Meyers tonight! Of course, we wish it was for a happier occasion."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

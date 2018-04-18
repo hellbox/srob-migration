@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you're heading to #ECCC over the weekend, be sure to check out the awesome pop-up library."
 facebookauto = "If you're heading to #ECCC over the weekend, be sure to check out the awesome pop-up library."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/emerald-city-comicon"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/emerald-city-comicon.md"]
 notes_about = ""
 books = ""
 +++

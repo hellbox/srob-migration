@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1464241134319/hea
 twitterauto = "This ghost story begins with a heart transplant and continues with a crime spree."
 facebookauto = "This ghost story begins with a heart transplant and continues with a crime spree."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/oni-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/oni-press.md"]
 notes_about = ""
 books = ""
 +++

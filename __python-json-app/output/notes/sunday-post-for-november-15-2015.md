@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post is up, four things from our feeds this week that we felt were notable. "
 facebookauto = "The Sunday Post is up. Four things from the feeds that we found notable."
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Remember when GiveBIG blew up in everyone's face last week? What's happened in the time since?"
 facebookauto = "Remember when GiveBIG blew up in everyone's face last week? What's happened in the time since?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/givebig"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/givebig.md"]
 notes_about = ""
 books = ""
 +++

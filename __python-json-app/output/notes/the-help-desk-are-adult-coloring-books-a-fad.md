@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Are adult coloring books a fad? If they are a fad, does that matter?"
 facebookauto = "Are adult coloring books a fad? If they are a fad, does that matter? Would the publishing industry be stronger if it didn't chase after every fad imaginable?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/coloring-books"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/coloring-books.md"]
 notes_about = ""
-books = ["books/charlottes-web", "books/ready-player-one", "books/lean-in"]
+books = ["books/charlottes-web.md", "books/ready-player-one.md", "books/lean-in.md"]
 +++
 <p class="intro">Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to advice@seattlereviewofbooks.com.</p>
 

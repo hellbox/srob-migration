@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Liking Clinton, reconstruction obstructionism, instant media affects, and rocking black women, in the Sunday Post."
 facebookauto = "Liking Clinton, reconstruction obstructionism, instant media affects, and rocking black women, in the Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

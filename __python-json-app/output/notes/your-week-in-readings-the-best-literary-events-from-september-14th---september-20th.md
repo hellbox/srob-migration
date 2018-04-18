@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473369128716/comm
 twitterauto = "Need something fun and literary to do? Here's one event for every day of the week!"
 facebookauto = "Need something fun and literary to do this week? Here's one event for every day of the week!"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

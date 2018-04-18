@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Now is the time to nominate your favorite Seattle author for the Mayor's Arts Awards."
 facebookauto = "If you're a poet, you should apply to be the new Washington State Poet Laureate. If you love a Seattle writer, you should nominate them for the Mayor's Arts Awards."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/office-of-arts-and-culture", "tags/fantagraphics", "tags/scarecrow-video"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/office-of-arts-and-culture.md", "tags/fantagraphics.md", "tags/scarecrow-video.md"]
 notes_about = ""
 books = ""
 +++

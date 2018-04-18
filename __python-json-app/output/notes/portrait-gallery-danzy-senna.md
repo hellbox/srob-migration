@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501365380932/SRoB
 twitterauto = "Portrait Gallery: Author Danzy Senna #illustration by @studiochristine. Reading \"New People\" Aug 14 @ElliottBayBooks"
 facebookauto = "Portrait Gallery: Danzy Senna reads Monday, August 14th at Elliott Bay Book Company. Illustration by Christine Marie Larsen."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

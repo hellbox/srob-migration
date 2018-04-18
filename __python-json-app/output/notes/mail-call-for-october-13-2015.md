@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444793504078/IMG_
 twitterauto = "Mail Call for Tuesday -- and look! Seattle writer @bymattruff's latest is in there."
 facebookauto = "Tuesday evening mail call! Matt Ruff's newest, and some other jewels. "
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

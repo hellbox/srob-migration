@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513209712218/NWAA
 twitterauto = "Sponsor Northwest Associated Arts is bringing David Sedaris to the Broadway Performance Hall for eight shows!"
 facebookauto = "Sponsor Northwest Associated Arts is bringing David Sedaris to the Broadway Performance Hall for eight shows!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

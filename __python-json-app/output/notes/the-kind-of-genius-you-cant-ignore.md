@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Congratulations to the MacArthur \"Genius\" grant winners! We've been calling them geniuses for years."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/macarthur-genius"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/macarthur-genius.md"]
 notes_about = ""
-books = ["books/citizen", "books/the-art-of-cruelty", "books/the-argonauts"]
+books = ["books/citizen.md", "books/the-art-of-cruelty.md", "books/the-argonauts.md"]
 +++
 As [Jennifer Schuessler reported in the *New York Times*](http://www.nytimes.com/2016/09/22/arts/macarthur-foundation-announces-2016-genius-grant-winners.html?_r=0), the MacArthur Foundation announced their annual "Genius" grant winners yesterday. I'm very excited to see that the new list of "Geniuses" includes authors we've written about here at the *Seattle Review of Books* over the past year.
 

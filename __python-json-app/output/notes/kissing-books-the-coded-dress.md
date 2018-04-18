@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522942201513/prin
 twitterauto = "What threads does @o_waite pull in the latest Kissing Books? @alooghobi @carlakdeguzman @catswrites, to name a few."
 facebookauto = "What threads does Olivia Waite pull on in this month's Kissing Books? Plus, reviews of: Jen Wang, Carla de Guzman, Loretta Chase, Cat Sebastian, and Mary Burchell. "
 make_image_tweet = "False"
-notes_byline = ["writers/olivia-waite"]
-tags_notes = ["tags/kissing-books"]
+notes_byline = ["writers/olivia-waite.md"]
+tags_notes = ["tags/kissing-books.md"]
 notes_about = ""
 books = ""
 +++

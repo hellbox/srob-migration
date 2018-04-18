@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496675531365/Biog
 twitterauto = "Sponsor @HelloTheFuture is here with her anything-but-ordinary debut."
 facebookauto = "Sponsor Nicole Dieker is here with her anything-but-ordinary debut."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

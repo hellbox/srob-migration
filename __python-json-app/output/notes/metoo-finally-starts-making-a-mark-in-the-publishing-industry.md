@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's time for harassers in the publishing industry to face their reckoning."
 facebookauto = "It's time for harassers in the publishing industry to face their reckoning."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/metoo"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/metoo.md"]
 notes_about = ""
 books = ""
 +++

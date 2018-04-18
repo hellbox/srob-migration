@@ -16,10 +16,10 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1517282029606/
 twitterauto = "Sponsor Pope Brock's Charlatan is a vivid look at a famous quack. Read the second and last sample before it's gone!"
 facebookauto = "Sponsor Pope Brock is back for a second week, and with a second \u2014 and just as can't-look-away fascinating  \u2014 chapter of Charlatan for your enjoyment."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/charlatan"]
+books = ["books/charlatan.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1517282001405/Charlatan_150.jpeg)</p>
 Many, many thanks to Pope Brock for his two-week sponsorship of the site! This week brings the second delightful taste of *Charlatan: America’s Most Dangerous Huckster, the Man Who Pursued Him, and the Age of Flimflam*. This vivid, hilarious, and fast-paced history of the early twentieth-century quack Dr. John Romulus Brinkley is celebrating its tenth anniversary this year. The timing is right, the themes are on point, and the storytelling will keep you turning pages. Check out chapter 1 [on our sponsorship page](http://www.seattlereviewofbooks.com/sponsorships/) for the further adventures of Dr. Brinkley and a glimpse into the darkest heart of our, um, darkest fears.

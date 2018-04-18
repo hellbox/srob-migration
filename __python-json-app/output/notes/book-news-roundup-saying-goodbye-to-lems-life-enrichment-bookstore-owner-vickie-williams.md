@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Book News Roundup: Great local book stories from @SoSeaEmerald, @VanguardSeattle, & @ShelfAwareness."
 facebookauto = "Today's Book News Roundup includes great local literary stories from the South Seattle Emerald, Shelf Awareness, Vanguard Seattle, and much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/south-seattle-emerald"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/south-seattle-emerald.md"]
 notes_about = ""
 books = ""
 +++

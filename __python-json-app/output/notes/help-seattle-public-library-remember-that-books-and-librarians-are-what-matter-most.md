@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Let's remind Seattle Public Libraries leadership that we love SPL for its books and its librarians, not its brand."
 facebookauto = "As Seattle Public Library launches an awkward public rebranding campaign, it's time to remind SPL leadership that we love their libraries because of their librarians and their books, not their brand."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library", "tags/branding", "tags/librarians"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/branding.md", "tags/librarians.md"]
 notes_about = ""
 books = ""
 +++

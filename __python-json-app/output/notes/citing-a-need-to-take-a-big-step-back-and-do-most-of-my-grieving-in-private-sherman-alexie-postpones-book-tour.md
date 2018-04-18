@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Citing a need \"to take a big step back and do most of my grieving in private,\" Sherman Alexie postpones book tour."
 facebookauto = "Citing a need \"to take a big step back and do most of my grieving in private,\" Sherman Alexie has indefinitely postponed his book tour."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/you-dont-have-to-say-you-love-me"]
+books = ["books/you-dont-have-to-say-you-love-me.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1499974016740/unnamed.jpg)</p>
 

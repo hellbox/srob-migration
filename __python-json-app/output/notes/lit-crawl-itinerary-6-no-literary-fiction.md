@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's @litcrawlseattle itinerary features food writing, comics, and video games. What's not to love?"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

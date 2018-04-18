@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This year, @GeekGirlCon is expanding in a big way."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/geekgirlcon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/geekgirlcon.md"]
 notes_about = ""
 books = ""
 +++

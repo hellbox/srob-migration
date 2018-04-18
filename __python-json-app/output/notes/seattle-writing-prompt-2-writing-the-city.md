@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Writers in need of inspiration: the writing is on the wall. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-writing-prompts", "tags/graffiti"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-writing-prompts.md", "tags/graffiti.md"]
 notes_about = ""
-books = ["books/fortress-of-solitude"]
+books = ["books/fortress-of-solitude.md"]
 +++
 <p class="intro">Ask any writer: the two most difficult parts of the writing process are **1)** sitting down in the seat to write and **2)** figuring out what to write about. We *can't* help you focus on your work, but we *can* try to help you find inspiration in the city around you. That's what Seattle Writing Prompts is all about. These prompts are offered free to anyone who needs them; all the *Seattle Review of Books* asks in return is that you thank us in the acknowledgements when you turn it into a book.</p>
 

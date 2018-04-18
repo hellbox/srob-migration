@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our awesome artist @studiochristine has taken the week off, so check back next Thursday for a new Portrait Gallery!"
 facebookauto = "Our Portrait Gallery artist Christine Larsen will be back next week! For now, head on over to the archives to appreciate past portraits. "
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508822972538/obam
 twitterauto = "Your week is entirely dominated by @shortrunseattle events!"
 facebookauto = "Your week in readings is dominated by Short Run events."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

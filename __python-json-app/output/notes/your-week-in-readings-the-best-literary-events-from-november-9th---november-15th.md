@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your week in readings includes 4 (!) book launches and a very special Veteran's Day event."
 facebookauto = "This week brings four brand-new books being launched into the world, as well as science-minded books about astronomy and sex."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

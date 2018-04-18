@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday poem by Anastacia Renee Tolbert starts \"the baby rats decide they don\u2019t want to be rats\""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/anastacia-renee-tolbert"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/anastacia-renee-tolbert.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

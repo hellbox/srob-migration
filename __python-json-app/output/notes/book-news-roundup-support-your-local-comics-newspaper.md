@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in book news roundup: The trolls have won."
 facebookauto = "Today in book news roundup: The trolls have won. "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thick-as-thieves", "tags/amazon-books", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thick-as-thieves.md", "tags/amazon-books.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

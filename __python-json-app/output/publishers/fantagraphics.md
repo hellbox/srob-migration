@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Fantagraphics"
 title = "Fantagraphics"
-books_by_this_publisher = ["books/the-octopus-rises", "books/terror-assaulter-(omwot)", "books/patience", "books/northwest-cartoonists-cookbook"]
+books_by_this_publisher = ["books/the-octopus-rises.md", "books/terror-assaulter-(omwot).md", "books/patience.md", "books/northwest-cartoonists-cookbook.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "You live in Washington? You're a poet? You should probably submit to this anthology, then."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poet-laureate"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poet-laureate.md"]
 notes_about = ""
 books = ""
 +++

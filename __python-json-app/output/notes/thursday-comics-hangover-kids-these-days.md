@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513230556898/4Kid
 twitterauto = "If it's been a while since you read a comic that was an act of pure exuberance, this is for you:"
 facebookauto = "If it's been a while since you read a comic that was an act of pure exuberance, this is for you:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

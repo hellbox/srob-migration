@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1467223607783/SRoB
 twitterauto = "#OctaviaButler is this week's Portrait Gallery, by @studiochristine"
 facebookauto = "This week's Portrait Gallery is Octavia Butler, who would've turned 69 last Wednesday. "
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

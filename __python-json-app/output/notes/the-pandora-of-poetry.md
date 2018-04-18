@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Looking for a new poet to fall in love with? Give the Pandora of poetry a try."
 facebookauto = "Looking for a new poet to fall in love with? Give the Pandora of poetry a try."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

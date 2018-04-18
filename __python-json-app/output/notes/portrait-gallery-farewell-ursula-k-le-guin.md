@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1467831080776/SRoB
 twitterauto = "Portrait Gallery: Farewell to #UrsulaLeGuin "
 facebookauto = "Portrait Gallery: Farewell Ursula K. LeGuin"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

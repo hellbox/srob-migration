@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507216928620/DLXo
 twitterauto = "Congratulations to Kazuo Ishiguro, the winner of the 2017 Nobel Prize for Literature!"
 facebookauto = "Congratulations to Kazuo Ishiguro, the winner of the 2017 Nobel Prize for Literature!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/nobel-prize"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/nobel-prize.md"]
 notes_about = ""
 books = ""
 +++

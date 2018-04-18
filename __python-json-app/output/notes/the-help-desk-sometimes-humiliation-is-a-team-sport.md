@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"Author readings are often death by a thousand public humiliations, followed by short Q&A.\""
 facebookauto = "\"Author readings are often death by a thousand public humiliations, followed by short Q&A.\""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/readings"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/readings.md"]
 notes_about = ""
 books = ""
 +++

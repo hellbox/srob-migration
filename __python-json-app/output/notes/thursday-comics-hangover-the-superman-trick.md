@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1459395108344/jimm
 twitterauto = "Why do people always say Superman is hard to write? "
 facebookauto = "Why do people always say Superman is hard to write? He's easy to write, and here's why."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/superman"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/superman.md"]
 notes_about = ""
 books = ""
 +++

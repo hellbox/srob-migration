@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495173971577/ethe
 twitterauto = "Raymond Briggs's loving biography of his parents is playing @SIFFNews today and Sunday."
 facebookauto = "Today and Sunday at SIFF, be sure to watch a comic book adaptation that's nothing like all the other comic book adaptations coming out this summer."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/siff", "tags/adaptation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/siff.md", "tags/adaptation.md"]
 notes_about = ""
 books = ""
 +++

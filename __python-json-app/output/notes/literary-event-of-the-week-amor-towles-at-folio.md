@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our literary event of the week is a reading from a book about a Moscow hotel, tonight @folioseattle!"
 facebookauto = "If you liked Wes Anderson's movie The Grant Budapest Hotel, you should give Amor Towles's new novel A Gentleman in Moscow a try."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/folio-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/folio-seattle.md"]
 notes_about = ""
 books = ""
 +++

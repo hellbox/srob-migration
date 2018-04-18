@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510811862209/rive
 twitterauto = "Who would dare to write a sequel to The Wind in the Willows? Find out this Tuesday!"
 facebookauto = "Who would dare to write a sequel to The Wind in the Willows? Find out this Tuesday!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

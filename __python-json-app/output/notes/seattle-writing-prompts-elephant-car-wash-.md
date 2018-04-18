@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510383905769/IMG_
 twitterauto = "Seattle Writing Prompts gets sudsed up at the Elephant Car Wash"
 facebookauto = "Seattle Writing Prompts gets sudsed up at the Elephant Car Wash"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

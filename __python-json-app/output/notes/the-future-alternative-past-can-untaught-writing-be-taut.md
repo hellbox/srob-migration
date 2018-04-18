@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This month, @nisishawl looks at @scalzi, @cynthia_ward, and if SFFH writing can be taught"
 facebookauto = "This month Nisi Shawl looks at John Scalzi, Cynthia Ward, and if SFFH writing can be taught. "
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

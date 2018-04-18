@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497208840590/sher
 twitterauto = "We were in the studio for the recording session for Sherman Alexie's new book. Here's what we saw:"
 facebookauto = "We were in the studio for the recording session for Sherman Alexie's new book. Here's what we saw:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/audio-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/audio-books.md"]
 notes_about = ""
-books = ["books/you-dont-have-to-say-you-love-me"]
+books = ["books/you-dont-have-to-say-you-love-me.md"]
 +++
 <p class="image">![](/webhook-uploads/1497208473102/shermanalexieinthestudio.JPG)</p>
 

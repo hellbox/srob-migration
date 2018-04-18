@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496343511584/SRoB
 twitterauto = "An #illustration of @DrWillieParker by @studiochristine. Tues @THSEA presented by @ShoutYrAbortion #WomensRights "
 facebookauto = "Dr. Willie Parker illustration by Christine Marie Larsen in celebration of his new book \"Life's Work: A Moral Argument for Choice\""
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

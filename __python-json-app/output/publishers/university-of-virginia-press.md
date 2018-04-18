@@ -10,5 +10,5 @@ last_updated = "2017-06-11T22:19:00-07:00"
 preview_url = "0e96e756-fb5b-ed44-1b72-e523b501be4c"
 name = "University of Virginia Press"
 title = "University of Virginia Press"
-books_by_this_publisher = ["books/philosophy-as-poetry"]
+books_by_this_publisher = ["books/philosophy-as-poetry.md"]
 +++

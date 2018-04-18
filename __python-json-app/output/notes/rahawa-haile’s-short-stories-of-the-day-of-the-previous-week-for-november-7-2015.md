@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "For @rahawahaile's wrap-up this week @santamariapinto and @danimariesandal are 2 of the featured writers."
 facebookauto = "Rahawa Haile's short stories of the day wrap up includes her White Male Short Story Writer of the Month, J. F. Powers!"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-story-of-the-day", "tags/short-stories"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md", "tags/short-story-of-the-day.md", "tags/short-stories.md"]
 notes_about = ""
 books = ""
 +++

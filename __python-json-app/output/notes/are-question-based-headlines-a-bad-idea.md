@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Funnily enough, a new study says people don't like clickbaity headlines."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/facebook"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/facebook.md"]
 notes_about = ""
 books = ""
 +++

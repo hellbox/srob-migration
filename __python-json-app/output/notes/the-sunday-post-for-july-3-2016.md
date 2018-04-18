@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sunday Post: #MobyDick's relevance today, #bibliotherapy, @nytimes on art as social privilege, and #Messi's miss"
 facebookauto = "The Sunday Post on why Moby Dick is still important today, bibliotherapy, art as social privilege, and the science behind Messi's penalty miss. "
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

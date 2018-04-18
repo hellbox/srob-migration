@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473912034255/moon
 twitterauto = "Mooncop, from @DandQ, is a perfect sci-fi comic for a year when everyone is afraid of the future."
 facebookauto = "One day in the future, humans are abandoning a lunar colony because they don't like life in space. One man stands between a dwindling population and total boredom. That man...is Mooncop."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
-books = ["books/mooncop"]
+books = ["books/mooncop.md"]
 +++
 <p class="image">![](/webhook-uploads/1473912034255/mooncop.png)</p>
 

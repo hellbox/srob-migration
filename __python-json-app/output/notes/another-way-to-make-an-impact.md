@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here's a neat way to support a bookstore and help people educate themselves."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/independent-bookstores", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/independent-bookstores.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507852109765/desi
 twitterauto = "Every day this week, we're offering a different itinerary for @LitCrawlSeattle. First up: an all-genre evening!"
 facebookauto = "Every day this week, we're offering a different itinerary for Lit Crawl Seattle. First up: an all-genre evening!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

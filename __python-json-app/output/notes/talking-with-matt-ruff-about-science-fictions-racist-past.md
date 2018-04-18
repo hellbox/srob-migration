@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455811733856/IMG_
 twitterauto = "An interview with @bymattruff about his new novel, Lovecraft Country."
 facebookauto = "Matt Ruff's new novel, Lovecraft Country, started as a rejected pitch for a TV series. We're lucky it was rejected, though, because the book is so good\u2014a study of sci-fi's racist past disguised as a series of weird tales. Here's an interview with Ruff about the book:"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/elliott-bay-book-company", "tags/tv"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/elliott-bay-book-company.md", "tags/tv.md"]
 notes_about = ""
-books = ["books/lovecraft-country"]
+books = ["books/lovecraft-country.md"]
 +++
 <p class="image">![](/webhook-uploads/1455811733856/IMG_4432.JPG)</p><p class="intro">Seattle author Matt Ruff’s new novel [*Lovecraft Country*](http://seattlereviewofbooks.com/reviews/caught-after-dark-in-lovecraft-country/) is a thoughtful, rewarding examination of the connection between genre and American racism. Specifically, it’s a story that juxtaposes America’s shameful history of systemic racism with the racist history of American science fiction. While the former is well-documented, sci-fi’s racist past is much less overt.</p>
 

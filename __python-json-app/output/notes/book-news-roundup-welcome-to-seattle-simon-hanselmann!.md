@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes a local cartoonist, a beloved editor fired under weird circumstances, and more."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/ghosts-of-seattle-past", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/vertigo"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/ghosts-of-seattle-past.md", "tags/fantagraphics-bookstore-&amp;-gallery.md", "tags/vertigo.md"]
 notes_about = ""
 books = ""
 +++

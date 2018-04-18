@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The beautiful Mercer Street Books is our very first Bookstore of the Month!"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/mercer-street-books", "tags/debbie-sarow", "tags/twice-sold-tales"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/mercer-street-books.md", "tags/debbie-sarow.md", "tags/twice-sold-tales.md"]
 notes_about = ""
 books = ""
 +++

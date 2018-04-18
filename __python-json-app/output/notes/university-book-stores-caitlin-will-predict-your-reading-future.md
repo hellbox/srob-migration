@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455690541403/cont
 twitterauto = "An interview with @ubookstorereads bookseller @Cait_onthe_Luce."
 facebookauto = "University Book Store bookseller Caitlin can tell you what you'll be reading weeks from now."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/university-book-store", "tags/barnes-&amp;-noble"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/university-book-store.md", "tags/barnes-&amp;-noble.md"]
 notes_about = ""
 books = ""
 +++

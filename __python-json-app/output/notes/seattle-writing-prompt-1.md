@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-writing-prompts", "tags/seattle-post-intelligencer"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-writing-prompts.md", "tags/seattle-post-intelligencer.md"]
 notes_about = ""
 books = ""
 +++

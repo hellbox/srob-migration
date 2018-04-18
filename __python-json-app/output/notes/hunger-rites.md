@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"Hunger Rites\" by @Sherman_Alexie is our Tuesday Poem. First line: \"I need bread for breakfast, lunch, and dinner.\""
 facebookauto = "Our Tuesday Poet is Sherman Alexie, with a new poem titled \"Hunger Rites\". First line: \"I need bread for breakfast, lunch, and dinner.\""
 make_image_tweet = "False"
-notes_byline = ["writers/sherman-alexie"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/sherman-alexie.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

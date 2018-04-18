@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle's poets are about to say thanks to Councilmember Licata in the most weird, wonderful way."
 facebookauto = "Our artsiest city council member is leaving the job, and Seattle's poets are preparing a weird and wonderful sendoff for him."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/nick-licata"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/nick-licata.md"]
 notes_about = ""
 books = ""
 +++

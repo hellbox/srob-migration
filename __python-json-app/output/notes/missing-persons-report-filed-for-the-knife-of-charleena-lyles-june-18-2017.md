@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517890995429/Scre
 twitterauto = "The first poem by February Poet in Residence Azura Tyabji grapples with Charleena Lyles's fatal shooting."
 facebookauto = "The first poem by February Poet in Residence Azura Tyabji grapples with Charleena Lyles's fatal shooting."
 make_image_tweet = "False"
-notes_byline = ["writers/azura-tyabji"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/azura-tyabji.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

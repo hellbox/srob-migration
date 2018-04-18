@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1441171711333/2015
 twitterauto = "The rumors are true: beloved Pioneer Square bookshop @SeattleMystery is for sale."
 facebookauto = "The rumors are true. Beloved Pioneer Square bookselling institution Seattle Mystery Bookshop is for sale. If a buyer doesn't step forward soon, the shop will be shuttered forever. Details:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-mystery-bookshop", "tags/death", "tags/retail"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-mystery-bookshop.md", "tags/death.md", "tags/retail.md"]
 notes_about = ""
 books = ""
 +++

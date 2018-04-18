@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In today's Sunday Post: the secret history of Blade Runner, Instagram poetry wars, the Google Bus, and more."
 facebookauto = "In today's Sunday Post: the secret history of Blade Runner, Instagram poetry wars, the Google Bus, and more."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

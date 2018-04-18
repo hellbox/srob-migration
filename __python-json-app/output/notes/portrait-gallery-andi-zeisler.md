@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463021306238/SRoB
 twitterauto = "It's @andizeisler in @studiochristine's Portrait Gallery today!"
 facebookauto = "It's Andi Zeisler of Bitch Magazine, in Portrait Gallery today."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

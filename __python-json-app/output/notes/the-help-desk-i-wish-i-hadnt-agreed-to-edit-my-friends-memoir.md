@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "I agreed to edit a friend's memoir. Now all the awkward oversharing is making me regret my decision."
 facebookauto = "What should you do when you agree to edit a friend's memoir, and it's packed with gross details and too much oversharing?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494818890924/Fabu
 twitterauto = ".@SIFFnews brings a documentary about a nerd who hit it big in Hollywood."
 facebookauto = "This Friday and Saturday, SIFF brings a biography-turned-documentary about a nerd who hit it big in Hollywood."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/siff"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/siff.md"]
 notes_about = ""
 books = ""
 +++

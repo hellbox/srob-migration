@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "RSVP now for @seacityoflit's free class on racial equity in the literary arts."
 facebookauto = "Seattle City of Literature is hosting a free class on racial equity in the literary arts. This is how you can RSVP."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-city-of-literature", "tags/race"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-city-of-literature.md", "tags/race.md"]
 notes_about = ""
 books = ""
 +++

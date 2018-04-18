@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Read the full lineups of Lit Crawl and Short Run in today's Book News Roundup!"
 facebookauto = "Read the full lineups of Lit Crawl and Short Run in today's Book News Roundup!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/short-run", "tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/short-run.md", "tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

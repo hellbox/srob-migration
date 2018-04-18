@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you buy your books at independent bookstores but you buy everything else from Amazon, are you a hypocrite?"
 facebookauto = "Today's advice column from Cienna Madrid contains this useful piece of advice: \"If it helps, I've found chanting, 'I condemn thee' at my cookies before I eat them makes me feel better about my personal choices.\""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/amazon", "tags/independent-bookstores"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/amazon.md", "tags/independent-bookstores.md"]
 notes_about = ""
 books = ""
 +++

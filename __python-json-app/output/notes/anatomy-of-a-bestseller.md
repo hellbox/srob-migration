@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/goodreads"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/goodreads.md"]
 notes_about = ""
-books = ["books/the-girl-on-the-train"]
+books = ["books/the-girl-on-the-train.md"]
 +++
 GoodReads just [put up a blog post](https://www.goodreads.com/blog/show/545-how-the-girl-on-the-train-became-a-runaway-success) about the stunning success of Paula Hawkins's thriller *The Girl on the Train*. If you're into metrics, this will fascinate you. If you're a big believer in the power of reviews — as I am — it will affirm your worldview in a satisfying way. And that's what the internet is all about, right? Affirming your worldview in a satisfying way?
 

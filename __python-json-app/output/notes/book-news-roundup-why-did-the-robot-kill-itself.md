@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500413201029/brag
 twitterauto = "Not to brag, but we've read a lot of guilty pleasures."
 facebookauto = "Today in Book News Roundup: A new movie about Wonder Woman, a couple of wonderful local reviews, and a bad misreading of Jane Austen."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

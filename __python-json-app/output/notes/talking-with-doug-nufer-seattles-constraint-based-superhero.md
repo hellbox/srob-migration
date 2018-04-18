@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "An interview with Seattle Oulipian genius Doug Nufer about which cartoon character he'd most like to write."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/lifeline-rule", "books/negativeland", "books/never-again"]
+books = ["books/lifeline-rule.md", "books/negativeland.md", "books/never-again.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1439873911990/nufer.jpg)</p><p class="intro noindent">Doug Nufer is freed by constraints. Nearly everything written by Seattle’s most valiant bearer of the Oulipian torch is born of one constraint or another; one narrative is told through the stultifying language of corporate biography, another is an homage to old Ace Doubles genre storytelling, a third is a story told only in negatives. His newest novel, *Lifeline Rule* is a conovowel text, which is a form in which every consonant alternates with a vowel. You read that right; the whole book is a string of alternating consonants and vowels, with no consonants touching and no vowels touching. Some passages of *Lifeline Rule* require you to read them two or three times in order to squeeze meaning from them, but other passages are clear as a bell, albeit a bell ringing with a weird deep vibration that initiates a tickling feeling in your genitals:</p>
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes a helpful tip for men who want to talk to women reading in public."
 facebookauto = "Today's Book News Roundup includes a helpful tip for men who want to talk to women reading in public."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

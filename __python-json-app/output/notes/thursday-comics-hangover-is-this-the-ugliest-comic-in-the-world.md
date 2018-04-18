@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496904000464/ATC_
 twitterauto = "Is this the ugliest comic book in the world?"
 facebookauto = "Is this the ugliest comic book in the world?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup: a special offer from @mosslitmag and a dark & gritty reimagining of the funny papers."
 facebookauto = "Today in Book News Roundup: a special offer from Moss, two great items from Seattle Public Library, and a dark & gritty reimagining of the funny papers."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/moss", "tags/book-club", "tags/seattle-public-library", "tags/push--pull"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/moss.md", "tags/book-club.md", "tags/seattle-public-library.md", "tags/push--pull.md"]
 notes_about = ""
 books = ""
 +++

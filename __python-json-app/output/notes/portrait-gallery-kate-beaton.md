@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443124989052/srob
 twitterauto = "New column! @studiochristine painted @beatonna for us, since we all love her new @DandQ collection."
 facebookauto = "New column! Christine Marie Larsen paints authors in the Portrait Gallery. Our inaugural column is a portrait of Step Aside, Pops author Kate Beaton. "
 make_image_tweet = ""
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
-books = ["books/step-aside-pops"]
+books = ["books/step-aside-pops.md"]
 +++
 <p class="intro">Each week, [Christine Larsen](http://christinelarsen.com) creates a portrait of a new author for us. Have any favorites you’d love to see immortalized? [Let us know](http://seattlereviewofbooks.com/about)</p>
 

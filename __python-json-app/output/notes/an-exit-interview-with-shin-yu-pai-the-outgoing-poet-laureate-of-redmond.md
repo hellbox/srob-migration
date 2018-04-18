@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1514938632164/Shin
 twitterauto = "We interviewed outgoing Redmond Poet Laureate Shin Yu Pai."
 facebookauto = "Poet Laureate is a difficult job: how do you represent a whole city through poetry? We interviewed outgoing Redmond Poet Laureate Shin Yu Pai about what she learned, what she'd do differently, and how she tackled that intense responsibility."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/exit-interview", "tags/poet-laureate", "tags/redmond"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/exit-interview.md", "tags/poet-laureate.md", "tags/redmond.md"]
 notes_about = ""
 books = ""
 +++

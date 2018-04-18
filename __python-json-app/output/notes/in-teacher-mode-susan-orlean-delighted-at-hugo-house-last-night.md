@@ -16,8 +16,8 @@ shareimage = "https://pbs.twimg.com/media/CdPKyaUUAAEPKYT.jpg:large"
 twitterauto = "If you missed @susanorlean at @hugohouse last night, you really missed something special."
 facebookauto = "Susan Orlean was fantastic at Hugo House last night."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/hugo-house", "tags/events"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/hugo-house.md", "tags/events.md"]
 notes_about = ""
 books = ""
 +++

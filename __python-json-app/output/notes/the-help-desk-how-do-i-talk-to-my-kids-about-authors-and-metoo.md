@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520619741798/alic
 twitterauto = "Dear @ciennam: How do I talk to my kids about authors and #MeToo?"
 facebookauto = "Dear Cienna: How do I talk to my kids about authors and #MeToo?"
 make_image_tweet = "True"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/metoo"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/metoo.md"]
 notes_about = ""
 books = ""
 +++

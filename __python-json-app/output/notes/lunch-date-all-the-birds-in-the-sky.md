@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461539517330/allt
 twitterauto = "We took a sci-fi/fantasy novel to the @SunlightCafe."
 facebookauto = "We took the bestselling novel All the Birds in the Sky as our lunch date to the Sunlight Cafe in Roosevelt. Everything was great, except for one thing: a note that the Sunlight will likely be moving."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date", "tags/science-fiction", "tags/fantasy"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md", "tags/science-fiction.md", "tags/fantasy.md"]
 notes_about = ""
-books = ["books/all-the-birds-in-the-sky"]
+books = ["books/all-the-birds-in-the-sky.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1461539517330/allthebirds.jpg)</p>
 

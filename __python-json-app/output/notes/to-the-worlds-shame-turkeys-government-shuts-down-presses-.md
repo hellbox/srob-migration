@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Publishers have been shut down in Turkey. Weak leaders will always fear the strength of the written word."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/international", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/international.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

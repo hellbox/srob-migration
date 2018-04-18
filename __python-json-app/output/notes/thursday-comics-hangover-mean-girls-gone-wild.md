@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455166054184/Mean
 twitterauto = "Mean Girls Club is a gorgeous punk rock comic book."
 facebookauto = "\"They torture innocent people. They take fistfuls of pills and slap each other with fishes and punch well-meaning nurses right in the jaw. And then the mayhem really starts.\""
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

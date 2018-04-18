@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We asked comics professionals, fans, and vendors to rate their Emerald City Comicon experience. How was it?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/emerald-city-comicon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/emerald-city-comicon.md"]
 notes_about = ""
 books = ""
 +++

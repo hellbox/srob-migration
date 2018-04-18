@@ -10,5 +10,5 @@ last_updated = "2017-01-27T17:35:00-08:00"
 preview_url = "d7798310-9f5c-5f7d-3955-5f1e2033ed64"
 name = "William Morrow Paperbacks"
 title = "William Morrow Paperbacks"
-books_by_this_publisher = ["books/private-citizens"]
+books_by_this_publisher = ["books/private-citizens.md"]
 +++

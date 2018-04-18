@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1491457807963/whit
 twitterauto = "This week, be sure to soak in some White Tears at @elliottbaybooks."
 facebookauto = "This week, be sure to soak in some White Tears at Elliott Bay Book Company."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

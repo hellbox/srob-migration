@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497880880079/Me%2
 twitterauto = "Mark the date: sponsor @saggingmeniscus wants you to see Doug Nufer Thursday at @gallery1412"
 facebookauto = "Mark the date: sponsor Sagging Meniscus wants you to come see Doug Nufer, and his new work, Thursday at Gallery 1412"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/the-me-theme"]
+books = ["books/the-me-theme.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1497880870429/Me%20Theme_small.jpg)</p>
 

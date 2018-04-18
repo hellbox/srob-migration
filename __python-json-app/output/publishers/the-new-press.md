@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "The New Press"
 title = "The New Press"
-books_by_this_publisher = ["books/strangers-in-their-own-land"]
+books_by_this_publisher = ["books/strangers-in-their-own-land.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517534343982/humm
 twitterauto = "Your week in readings includes Khizr Khan, humanity's dawn, and She Who Has No Master(s)."
 facebookauto = "Your week in readings includes Khizr Khan, humanity's dawn, and She Who Has No Master(s)."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

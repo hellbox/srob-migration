@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512448911068/Scre
 twitterauto = "\"Poem About Bugs\" by @writer_sejones starts with \"Let\u2019s begin with bark beetles\""
 facebookauto = "\"Poem About Bugs\" by @writer_sejones starts with \"Let\u2019s begin with bark beetles\""
 make_image_tweet = "False"
-notes_byline = ["writers/sarah-jones"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/sarah-jones.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

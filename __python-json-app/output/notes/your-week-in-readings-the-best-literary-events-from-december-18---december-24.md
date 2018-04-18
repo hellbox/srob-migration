@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512016367634/vide
 twitterauto = "A translator get-together, a talk about video games, and more in this week's roundup of best readings."
 facebookauto = "A translator get-together, a talk about video games, and more in this week's roundup of best readings."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

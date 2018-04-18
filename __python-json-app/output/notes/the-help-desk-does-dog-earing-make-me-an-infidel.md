@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our advice columnist @ciennam addresses the Most Important Literary Issue of Our Time: is dog-earing ever okay?"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/donald-trump", "tags/ted-nugent", "tags/mark-driscoll"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/donald-trump.md", "tags/ted-nugent.md", "tags/mark-driscoll.md"]
 notes_about = ""
 books = ""
 +++

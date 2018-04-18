@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Happy to see @STACKEDDMAG is going nonprofit. Good to see a local media org with big plans!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/stackedd", "tags/media"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/stackedd.md", "tags/media.md"]
 notes_about = ""
 books = ""
 +++

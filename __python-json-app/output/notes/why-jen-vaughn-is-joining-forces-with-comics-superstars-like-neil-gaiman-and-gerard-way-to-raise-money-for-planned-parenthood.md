@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502946432482/jenv
 twitterauto = "We talked with @TheJenya about a comics anthology that raises money for @PPAct."
 facebookauto = "We talked with Seattle comics superstar Jen Vaughn about her contribution to a comics anthology fundraiser for Planned Parenthood."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/planned-parenthood"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/planned-parenthood.md"]
 notes_about = ""
 books = ""
 +++

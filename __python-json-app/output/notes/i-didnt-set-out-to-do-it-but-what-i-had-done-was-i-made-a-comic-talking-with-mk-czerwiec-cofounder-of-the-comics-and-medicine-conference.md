@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496963260253/978-
 twitterauto = "This weekend, the Comics and Medicine Conference comes to town. We talked with a founder about its origins:"
 facebookauto = "This weekend, the Comics and Medicine Conference comes to town. We talked with a founder about its origins and why she believes that everyone should be interested in the intersection between graphic novels and healthcare."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/comics-&amp;-medicine-conference"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/comics-&amp;-medicine-conference.md"]
 notes_about = ""
 books = ""
 +++

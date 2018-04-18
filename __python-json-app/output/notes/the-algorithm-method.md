@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447038388154/ifro
 twitterauto = "We went to Amazon Books over the weekend. Here's our full report."
 facebookauto = "Paul Constant went to Amazon Books. How was it? For starters, he calls it \"nothing less than the world\u2019s greatest airport bookstore.\""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon-books", "tags/third-place-books-ravenna"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon-books.md", "tags/third-place-books-ravenna.md"]
 notes_about = ""
 books = ""
 +++

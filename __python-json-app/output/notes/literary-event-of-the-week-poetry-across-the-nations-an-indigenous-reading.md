@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512106796808/brot
 twitterauto = "This week, Seattle hosts the launch of a new nationwide project to elevate the voices of Native women poets."
 facebookauto = "This week, Seattle hosts the launch of a new nationwide project to elevate the voices of Native women poets."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/interviews", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/interviews.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

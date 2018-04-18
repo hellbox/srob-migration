@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499922255194/fetc
 twitterauto = "This week read about a very bad dog and Kansas in a destroyed United States."
 facebookauto = "This week's readings include an alternate Kansas in a destroyed United States of America and a story about a very bad dog."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

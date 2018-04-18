@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Hey, @ciennam: My son is a bad writer, and it's costing him his marriage. What do I do?"
 facebookauto = "Here is a context-free line from this week's advice column: \"...at a certain point, you have to put that baby in a closet and shut the door.\""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

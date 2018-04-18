@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458522523335/Scre
 twitterauto = "Seattle school librarian @eadsreads talks about how you can help #SPSLibraryEquity."
 facebookauto = "Seattle's public school libraries are in crisis. Kids in the poorest neighborhoods are not getting access to the books they need.  Learn about what you can do to help in the fight for #SPSLibraryEquity."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/libraries", "tags/librarians"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/libraries.md", "tags/librarians.md"]
 notes_about = ""
 books = ""
 +++

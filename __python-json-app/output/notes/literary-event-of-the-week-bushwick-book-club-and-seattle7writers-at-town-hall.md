@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484374080918/boys
 twitterauto = "This week's Event of the Week pairs Seattle musicians with Seattle authors."
 facebookauto = "This week's Event of the Week pairs Seattle musicians with Seattle authors. What happens next? A whole lot of really great music."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/town-hall-seattle", "tags/bushwick-book-club", "tags/seattle7writers"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/town-hall-seattle.md", "tags/bushwick-book-club.md", "tags/seattle7writers.md"]
 notes_about = ""
 books = ""
 +++

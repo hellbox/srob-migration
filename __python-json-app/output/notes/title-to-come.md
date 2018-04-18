@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Did you know that The Sun Also Rises was originally going to be titled Fiesta?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/novel"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/novel.md"]
 notes_about = ""
 books = ""
 +++

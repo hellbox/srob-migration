@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Why do we nominate non-Washington poets for the Washington State Book Award? @susanrichpoet explores."
 facebookauto = "Why do we nominate non-Washington poets for the Washington State Book Award? Susan Rich explores."
 make_image_tweet = "False"
-notes_byline = ["writers/susan-rich"]
-tags_notes = ["tags/poetry", "tags/washington-state-book-awards"]
+notes_byline = ["writers/susan-rich.md"]
+tags_notes = ["tags/poetry.md", "tags/washington-state-book-awards.md"]
 notes_about = ""
 books = ""
 +++

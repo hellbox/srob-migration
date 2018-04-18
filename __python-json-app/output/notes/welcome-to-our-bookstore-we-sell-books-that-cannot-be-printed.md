@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "In the future, @editionsatplay argues, e-books will be their own medium, like comics. but what do we call them?"
 facebookauto = "A new partnership between Google and a London publisher is trying to reimagine what e-books can be. We're in favor of the idea, but what should these new books be called?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/google-play-books", "tags/e-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/google-play-books.md", "tags/e-books.md"]
 notes_about = ""
-books = ["books/the-selected-works-of-ts-spivet"]
+books = ["books/the-selected-works-of-ts-spivet.md"]
 +++
 The headline of this post is the motto of [Editions at Play](https://editionsatplay.withgoogle.com/#/), a new digital bookstore teamup between London publisher Visual Editions and Google. [According to Emiko Jozuka at Motherboard](http://motherboard.vice.com/read/google-thinks-the-future-of-books-is-somewhere-between-a-game-and-an-app?utm_source=mbtwitter), the digital books are crosses between books, movies, and video games. 
 

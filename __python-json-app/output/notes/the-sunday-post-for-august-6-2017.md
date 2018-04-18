@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A woman's take on women's soccer, the Washington Post takes on rich people, & the mysteries of the ISBN revealed!"
 facebookauto = "In this week's Sunday Post, Georgia Cloepfil takes on women's soccer, the Washington Post takes on rich people, and the mysteries of the ISBN are revealed!"
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

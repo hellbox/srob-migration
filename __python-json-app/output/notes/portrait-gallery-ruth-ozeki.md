@@ -16,8 +16,8 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1519330337427/
 twitterauto = "Portrait Gallery: @ozekiland #WordWorks #Meditation for Writers Fri 2/23 7pm @WA_Hall #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Ruth Ozeki by Christine Marie Larsen. Friday at Washington Hall. \"Meditation for Writers\""
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

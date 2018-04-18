@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle's own @closetomyself profiled two of Seattle's hottest young poets for @TheInlander."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/inlander"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/inlander.md"]
 notes_about = ""
 books = ""
 +++

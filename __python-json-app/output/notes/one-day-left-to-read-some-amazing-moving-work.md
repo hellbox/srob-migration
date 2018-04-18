@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Local poet Esther Altshul Helfgott is our sponsor this week. Come read a selection of her work before tomorrow."
 facebookauto = "Local poet Esther Altshul Helfgott is our sponsor this week. Come read a selection of her work before tomorrow."
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/dear-alzheimers"]
+books = ["books/dear-alzheimers.md"]
 +++
 Our thanks to this week's sponsor Esther Altshul Helfgott. If you haven't had the chance to look through the excerpt from her book _Dear Alzheimer's_, [you should do so now](http://seattlereviewofbooks.com/sponsorships "The Seattle Review of Books - sponsorships") &mdash; it will only be up through tomorrow. 
 

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522989369196/part
 twitterauto = "Our Literary Event of the Week is a novel set in the dark ages of American activism."
 facebookauto = "Our Literary Event of the Week is a novel set in the dark ages of American activism."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/third-place-books-seward-park"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/third-place-books-seward-park.md"]
 notes_about = ""
 books = ""
 +++

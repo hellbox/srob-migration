@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456286621443/SCoL
 twitterauto = "Donald Trump just divorced the United States from the world of literature. What does this mean for Seattle?"
 facebookauto = "Just this morning, Donald Trump withdrew the United States from the Unesco program of international culture. What does this mean for Seattle's literary scene and how do we fight back?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-city-of-literature", "tags/stesha-brandon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-city-of-literature.md", "tags/stesha-brandon.md"]
 notes_about = ""
 books = ""
 +++

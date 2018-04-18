@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517606897742/Haus
 twitterauto = "Our event of the week remixes found photo slides from the mid-20th century into something new."
 facebookauto = "Our event of the week remixes found photo slides from the mid-20th century into something new."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

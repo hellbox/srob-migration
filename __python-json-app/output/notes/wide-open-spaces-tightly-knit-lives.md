@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1503899928237/Son
 twitterauto = "Take a  peek at sponsor @MemoirGuru's Song of the Plains, a sweeping story of three generations of Oklahoma women."
 facebookauto = "This week's sponsor is Linda Joy Myers, sharing a chapter from Song of the Plains: a story as broad as the Oklahoma landscape where it's set and as tightly knit as the three generations of women at its heart."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/song-of-the-plains"]
+books = ["books/song-of-the-plains.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1503899928237/Song%20of%20the%20Plains_125.jpeg)</p>
 

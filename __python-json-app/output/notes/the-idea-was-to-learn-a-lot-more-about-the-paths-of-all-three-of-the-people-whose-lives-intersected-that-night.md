@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454298489166/Eli%
 twitterauto = "Talking with @elijsanders about \"While the City Slept.\""
 facebookauto = "Here's an interview with Eli Sanders about his new book, \"While the City Slept.\" Topics discussed include Ann Rule, journalism, the importance of time and compassion in writing, and what every Seattleite can do to fix our broken mental health care system."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/crime"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/crime.md"]
 notes_about = ""
-books = ["books/while-the-city-slept"]
+books = ["books/while-the-city-slept.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1454298489166/Eli%20Sanders%20by%20Kelly%20O.jpg)</p><p class="intro">*While the City Slept* will almost certainly be one of the best books I'll read this year. But I worked with its author, Eli Sanders, for almost ten years at *The Stranger*, and so there's too much of a conflict of interest for me to review it. (We [published Martin McClellan's great review of the book yesterday](http://seattlereviewofbooks.com/reviews/uncommitted/); you should read it.) Instead, I met with Eli on Saturday, January 23rd for an interview about the process of writing *While the City Slept*, the structure of the book, the benefits of taking your time to tell a story, and what Seattleites can do to fix our broken mental health care system. The following is a lightly edited transcript of that conversation.</p>
 

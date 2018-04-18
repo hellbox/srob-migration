@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The 5th issue of @mosslitmag is out, and it's wonderful."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/moss"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/moss.md"]
 notes_about = ""
 books = ""
 +++

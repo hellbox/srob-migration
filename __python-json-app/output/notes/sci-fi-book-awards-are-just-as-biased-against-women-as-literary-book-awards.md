@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Science fiction awards are just as biased against the voices of women as literary fiction awards."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

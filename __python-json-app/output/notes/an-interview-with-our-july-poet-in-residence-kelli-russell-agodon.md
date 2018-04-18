@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501299852870/kell
 twitterauto = "\"I think a lot of people go to poetry in a time of crisis.\" -an interview with @KelliAgodon "
 facebookauto = "\"I think a lot of people go to poetry in a time of crisis.\" Here's an interview with our July Poet in Residence, Kelli Russell Agodon."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/two-sylvias-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/two-sylvias-press.md"]
 notes_about = ""
 books = ""
 +++

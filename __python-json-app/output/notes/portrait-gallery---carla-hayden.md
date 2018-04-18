@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469128060736/SRoB
 twitterauto = "Portrait Gallery: @librarycongress' new librarian, #CarlaHayden! The 14th LoC, but 1st black woman"
 facebookauto = "This week's Portrait Gallery is Dr. Carla Hayden, the 14th Librarian of Congress and first woman/first black LoC!"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

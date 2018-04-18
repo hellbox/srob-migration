@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's @litcrawlseattle itinerary focuses on true stories of work and recovery and forgetfulness"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

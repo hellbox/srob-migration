@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449779320342/SRoB
 twitterauto = "Fave librarian @Nancy_Pearl reads from George & Lizzie 9/5 @SPLBuzz #Portrait Gallery #illustration @studiochristine"
 facebookauto = "Nancy Pearl reads from her new book Tuesday, September 5th at the Seattle Public Library. Portrait by Christine Marie Larsen."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515050014826/wron
 twitterauto = "The first Kissing Books of the year is here! Join @O_Waite as she looks through some series."
 facebookauto = "The first Kissing Books of the year is here! Join Olivia Waite as she looks through some series."
 make_image_tweet = "False"
-notes_byline = ["writers/olivia-waite"]
-tags_notes = ["tags/kissing-books"]
+notes_byline = ["writers/olivia-waite.md"]
+tags_notes = ["tags/kissing-books.md"]
 notes_about = ""
 books = ""
 +++

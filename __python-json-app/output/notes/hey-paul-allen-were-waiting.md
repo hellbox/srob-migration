@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "So @PaulGAllen funds a big art festival and a big music festival in Seattle. Just asking: why not a book festival?"
 facebookauto = "Billionaire Paul Allen has devoted money to a giant Seattle art festival and now he's devoting a lot of money to a giant Seattle music festival. We're waiting patiently for our giant book festival, Mr. Allen. Don't let us down."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/festival"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/festival.md"]
 notes_about = ""
 books = ""
 +++

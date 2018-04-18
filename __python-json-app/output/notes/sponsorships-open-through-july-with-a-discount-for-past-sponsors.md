@@ -16,8 +16,8 @@ shareimage = "http://lh3.googleusercontent.com/oYkFw8ALR4Fgkw_9ggz9kFdh3E5Ed7t0e
 twitterauto = "We've just released sponsorships through July, with a $25 discount for current sponsors through the end of the day!"
 facebookauto = "We've just released site sponsorships through July, with a $25 discount for current sponsors through the end of the day!"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

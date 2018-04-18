@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504670647291/Dino
 twitterauto = "Cartoonist Marc Palm broke his right arm. So he taught himself how to draw with his left."
 facebookauto = "Seattle cartoonist Marc Palm broke his right arm. So he taught himself how to draw with his left."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/intruder", "tags/fantagraphics", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/intruder.md", "tags/fantagraphics.md", "tags/short-run.md"]
 notes_about = ""
-books = ["books/punch-to-kill"]
+books = ["books/punch-to-kill.md"]
 +++
 <p class="image">![](/webhook-uploads/1504670605137/righthandsmashbyMarcPalm.jpg)</p>
 

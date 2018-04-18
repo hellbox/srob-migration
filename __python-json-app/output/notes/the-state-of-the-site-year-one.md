@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469593310228/cand
 twitterauto = "Happy 1st Birthday to us! Gather now for the State of the Site Address."
 facebookauto = "Happy 1st Birthday to us! Gather now for the State of the Site Address."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-review-of-books"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

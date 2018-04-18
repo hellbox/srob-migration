@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1482771246399/Cal
 twitterauto = "Sponsor @hellbox just made his entire novel @cal4oclock free to read online!"
 facebookauto = "Sponsor Martin McClellan just made his entire novel California Four O'Clock free to read online!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

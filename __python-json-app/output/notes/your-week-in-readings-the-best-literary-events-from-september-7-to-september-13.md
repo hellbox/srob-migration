@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This week in literary events includes a rum-drunk reading from a sci-fi novel about a union organizer."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/hugo-house", "tags/elliott-bay-book-company", "tags/third-place-books-lake-forest-park", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/hugo-house.md", "tags/elliott-bay-book-company.md", "tags/third-place-books-lake-forest-park.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

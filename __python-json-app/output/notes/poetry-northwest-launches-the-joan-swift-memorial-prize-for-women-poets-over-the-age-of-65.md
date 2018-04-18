@@ -16,8 +16,8 @@ shareimage = "https://i0.wp.com/www.poetrynw.org/wp-content/uploads/2017/09/unna
 twitterauto = "Women poets over 65! @poetrynw is launching a new prize, in honor of Joan Swift. "
 facebookauto = "Women poets over 65! Poetry Northwest is launching a new prize, in honor of Joan Swift. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/poetry", "tags/poetry-northwest"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/poetry.md", "tags/poetry-northwest.md"]
 notes_about = ""
 books = ""
 +++

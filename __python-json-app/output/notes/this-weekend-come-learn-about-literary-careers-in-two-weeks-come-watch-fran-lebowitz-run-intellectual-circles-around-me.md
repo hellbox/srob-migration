@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our co-founder, @paulconstant, is taking part in two upcoming events. Learn about them here:"
 facebookauto = "Our co-founder, Paul Constant, is taking part in two upcoming events. Learn about them here:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

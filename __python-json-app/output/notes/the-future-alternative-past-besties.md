@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's time for @nisishawls \"The Future Alternative Past\" column. Catch up on what's new in SFFH!"
 facebookauto = "It's time for Nisi Shawl's \"The Future Alternative Past\" column. Catch up on what's new in SFFH!"
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

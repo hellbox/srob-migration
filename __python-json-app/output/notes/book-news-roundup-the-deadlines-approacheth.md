@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Someone is giving away $10,000 to a local fiction writer. Could you be that writer?"
 facebookauto = "Someone is giving away $10,000 to a local fiction writer. Could you be that writer?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/artist-trust", "tags/harry-potter", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/artist-trust.md", "tags/harry-potter.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

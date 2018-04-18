@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "It's not every day that a new literary venue opens in Seattle."
 facebookauto = "It's not every day that a new literary venue opens in Seattle. Come to the X Y Z Gallery opening party tomorrow night!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/mount-analogue", "tags/gramma-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/mount-analogue.md", "tags/gramma-press.md"]
 notes_about = ""
-books = ["books/final-rose", "books/ugly-time"]
+books = ["books/final-rose.md", "books/ugly-time.md"]
 +++
 <p class="image">![](/webhook-uploads/1501125571586/xyz.jpg)</p>
 

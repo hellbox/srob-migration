@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Little, Brown and Company"
 title = "Little, Brown and Company"
-books_by_this_publisher = ["books/vendetta", "books/the-wilderness", "books/today-will-be-different", "books/last-girl-before-freeway", "books/you-dont-have-to-say-you-love-me"]
+books_by_this_publisher = ["books/vendetta.md", "books/the-wilderness.md", "books/today-will-be-different.md", "books/last-girl-before-freeway.md", "books/you-dont-have-to-say-you-love-me.md"]
 +++

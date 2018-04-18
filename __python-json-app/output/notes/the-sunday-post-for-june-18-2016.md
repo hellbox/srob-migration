@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post: Guaranteed income, Eggers at a Trump rally, a South Pole rescue, repealing the 2nd, & a viral poem"
 facebookauto = "A guaranteed minimum income, David Eggers at a Trump rally, a daring rescue to the South Pole, repealing the Second Amendment, and an amazing viral poem, all in today's Sunday Post. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

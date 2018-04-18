@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523330396206/Scre
 twitterauto = "Our second from Poet in Residence,@buddy_and_buddy is titled \"First Confession\""
 facebookauto = "Our second from Poet in Residence, Jeanine Walker, is titled \"First Confession\""
 make_image_tweet = "False"
-notes_byline = ["writers/jeanine-walker"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jeanine-walker.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

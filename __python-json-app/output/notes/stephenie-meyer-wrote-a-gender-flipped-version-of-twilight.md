@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Stephenie Meyer \"...has rewritten Twilight with the genders of the saga's star-crossed lovers reversed.\" Speechless!"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/twilight"]
+books = ["books/twilight.md"]
 +++
 Dee Lockett at [Vulture](http://www.vulture.com/2015/10/meyer-rewrote-twilight-with-different-genders.html?mid=twitter_vulture#) says: 
 

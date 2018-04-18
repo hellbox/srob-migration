@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519963638656/Stra
 twitterauto = "It's time for @aaronbaglady's Dream Comics!"
 facebookauto = "It's time for Aaron Bagley's Dream Comics!\n"
 make_image_tweet = "True"
-notes_byline = ["writers/aaron-bagley"]
-tags_notes = ["tags/aaron-bagleys-dream-comics"]
+notes_byline = ["writers/aaron-bagley.md"]
+tags_notes = ["tags/aaron-bagleys-dream-comics.md"]
 notes_about = ""
 books = ""
 +++

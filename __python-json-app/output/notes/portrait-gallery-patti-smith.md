@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447956665282/SRoB
 twitterauto = "Portrait Gallery! @studiochristine gives us a glorious image of Patti Smith today."
 facebookauto = "Christine Marie Larsen gives us the ineffable Patti Smith in today's Portrait Gallery. "
 make_image_tweet = ""
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

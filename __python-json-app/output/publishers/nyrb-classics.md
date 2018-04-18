@@ -10,5 +10,5 @@ last_updated = "2015-08-09T11:16:00-07:00"
 preview_url = "01e974c4-c9d6-1bd3-2a29-3643ecc2d7c0"
 name = "NYRB Classics"
 title = "NYRB Classics"
-books_by_this_publisher = ["books/eves-hollywood"]
+books_by_this_publisher = ["books/eves-hollywood.md"]
 +++

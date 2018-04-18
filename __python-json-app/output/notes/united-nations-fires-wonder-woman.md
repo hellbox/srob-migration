@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481650779724/wond
 twitterauto = "The United Nations has fired Wonder Woman."
 facebookauto = "The United Nations has fired its newest ambassador to promote empowerment for women and girls around the globe. Her name? Wonder Woman."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/wonder-woman", "tags/dc-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/wonder-woman.md", "tags/dc-comics.md"]
 notes_about = ""
 books = ""
 +++

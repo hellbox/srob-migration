@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523331246724/hear
 twitterauto = "This week: Poetry in translation, sci-fi writers in conversation, and cats fighting dogs!"
 facebookauto = "This week in readings: Poetry in translation, sci-fi writers in conversation, and cats fighting dogs!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
-books = ["books/daughters-of-the-air", "books/the-hummingbirds"]
+books = ["books/daughters-of-the-air.md", "books/the-hummingbirds.md"]
 +++
 <p class="noindent"><h5>**Monday, April 16: Subcontinental Drift**</h5></p>
 The local open mic night "celebrating South Asian culture" celebrates spring with new work on the theme "Transitions." Event copy says "Our performers come to a safe-space to share comedy sketches, prose they've written, spoken-word they're inspired by, music they want to perform, and of course, dance."

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's book news roundup brings good news for writers under the age of 24 and over the age of 50."
 facebookauto = "Today's book news roundup brings good news for writers under the age of 24 and over the age of 50."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/seattle-public-library", "tags/two-sylvias-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/seattle-public-library.md", "tags/two-sylvias-press.md"]
 notes_about = ""
 books = ""
 +++

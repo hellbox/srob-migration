@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "When you let your hate rule your life, you wind up like this loser."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/science-fiction", "tags/hugo-awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/science-fiction.md", "tags/hugo-awards.md"]
 notes_about = ""
 books = ""
 +++

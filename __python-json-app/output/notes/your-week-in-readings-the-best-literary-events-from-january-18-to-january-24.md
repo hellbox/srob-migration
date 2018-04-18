@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452906016453/frea
 twitterauto = "Your week in readings begins at Seattle Center tonight."
 facebookauto = "Your week in readings include a couple events at Seattle Center, a reading about women at work, and a reading paired with a movie."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/hugo-house", "tags/ghost-tokens", "tags/seattle-public-library", "tags/seattle-arts-and-lectures"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/hugo-house.md", "tags/ghost-tokens.md", "tags/seattle-public-library.md", "tags/seattle-arts-and-lectures.md"]
 notes_about = ""
 books = ""
 +++

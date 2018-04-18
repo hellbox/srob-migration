@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It\u2019s Sunday Post time, with links by @nicolaz @vijithassar, Italo Calvino, and an Ursula Le Guin writing lesson."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

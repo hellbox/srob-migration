@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Bookstore sales were up 2.5% in 2015\u2014the first increase since 2007!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/independent-bookstores"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/independent-bookstores.md"]
 notes_about = ""
 books = ""
 +++

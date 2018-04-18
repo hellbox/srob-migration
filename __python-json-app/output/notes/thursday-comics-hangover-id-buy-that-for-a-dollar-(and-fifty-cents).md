@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516250384934/dopp
 twitterauto = "At a buck-fifty an issue, this wicked dark fantasy comic is a steal."
 facebookauto = "At a buck-fifty an issue, this wicked dark fantasy comic is a steal."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

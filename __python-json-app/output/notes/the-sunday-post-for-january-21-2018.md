@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This Sunday's links: writers on the Awl, @IjeomaOluo on male choice, and sage-ish advice on babies, music, & lines. "
 facebookauto = "The Sunday Post links to writers' picks from the soon-to-be-missed Awl, Ijeoma Oluo on male choice, and articles on baby advice (don't take it), streaming music (don't listen), and queuing up (don't wait)."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

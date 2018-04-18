@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490418855359/IMG_
 twitterauto = "Seattle Writing Prompts climbs the radio towers atop Capitol Hill. "
 facebookauto = "Seattle Writing Prompts climbs the radio towers atop Capitol Hill. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

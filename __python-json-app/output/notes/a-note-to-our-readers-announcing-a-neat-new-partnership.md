@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Starting today, you'll find some of our pieces in the @seattleweekly! Got questions? Here are answers:"
 facebookauto = "Starting this week, you'll be able to read selected Seattle Review of Books reviews and calendar entries in the print edition of the Seattle Weekly."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/a-note-to-our-readers", "tags/seattle-weekly"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/a-note-to-our-readers.md", "tags/seattle-weekly.md"]
 notes_about = ""
 books = ""
 +++

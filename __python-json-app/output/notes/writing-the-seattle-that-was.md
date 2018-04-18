@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/ghosts-of-seattle-past", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/ghosts-of-seattle-past.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

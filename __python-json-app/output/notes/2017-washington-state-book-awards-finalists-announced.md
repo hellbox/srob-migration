@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "And the finalists for the 2017 Washington State Book Awards are..."
 facebookauto = "And the finalists for the 2017 Washington State Book Awards are..."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/shrill", "books/while-the-city-slept", "books/lovecraft-country"]
+books = ["books/shrill.md", "books/while-the-city-slept.md", "books/lovecraft-country.md"]
 +++
 Seattle Public Library [announced the finalists](http://www.spl.org/about-the-library/library-news-releases/wsba-2017-finalists-87) for this year's Washington State Book Awards. The list is very long, but some noteworthy finalists include:
 

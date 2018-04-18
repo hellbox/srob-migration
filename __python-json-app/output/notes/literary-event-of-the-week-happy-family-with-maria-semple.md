@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1465630478046/hap
 twitterauto = "Our reading of the week is Tracy Barone and Maria Semple at the Seattle Public Library."
 facebookauto = "Tracy Barone, the author of Happy Family, will be joined by Maria Semple at the Seattle Public Library this week."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
-books = ["books/whered-you-go-bernadette"]
+books = ["books/whered-you-go-bernadette.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1465630478046/happyfamily.jpg)</p>
 

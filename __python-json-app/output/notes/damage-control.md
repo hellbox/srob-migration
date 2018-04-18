@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503550669613/Scre
 twitterauto = "The final poem from Poet in Residence @d_arrindell is called Damage Control and starts with the line \"keep me safe\""
 facebookauto = "Daemond Arrindell's last poem as the August Poet in Residence is called Damage Control. The first line is: \"keep me safe\""
 make_image_tweet = "False"
-notes_byline = ["writers/daemond-arrindell"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/daemond-arrindell.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Gawker.com is shutting down. Here's the book you should read about Gawker."
 facebookauto = "Gawker.com is shutting down. Here's the book you should read about Gawker."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/gawker", "tags/media"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/gawker.md", "tags/media.md"]
 notes_about = ""
 books = ""
 +++

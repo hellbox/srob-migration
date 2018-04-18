@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507334947348/maup
 twitterauto = "Reminder: Tickets are available now for readings from Armistead Maupin and David Sedaris!"
 facebookauto = "Reminder: Tickets are available now for readings from Armistead Maupin and David Sedaris!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/benaroya-hall"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/benaroya-hall.md"]
 notes_about = ""
 books = ""
 +++

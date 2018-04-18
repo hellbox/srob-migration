@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "One reviewer has vowed to stop reading and reviewing books written by men. That's important."
 facebookauto = "One reviewer has vowed to stop reading and reviewing books written by men. That's important."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/feminism", "tags/representation", "tags/vida"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/feminism.md", "tags/representation.md", "tags/vida.md"]
 notes_about = ""
 books = ""
 +++

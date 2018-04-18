@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A story problem, from May's Poet in Residence @Oliver_delaPaz."
 facebookauto = "A story problem, from May's Poet in Residence Oliver de la Paz."
 make_image_tweet = "False"
-notes_byline = ["writers/oliver-de-la-paz"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/oliver-de-la-paz.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

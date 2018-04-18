@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Getting ready for @LitCrawlSeattle? We're presenting possible itineraries to help plan your night. Here's the first:"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/instant-future", "tags/spartan", "tags/the-james-franco-review", "tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/instant-future.md", "tags/spartan.md", "tags/the-james-franco-review.md", "tags/lit-crawl.md"]
 notes_about = ""
-books = ["books/starvation-mode"]
+books = ["books/starvation-mode.md"]
 +++
 <p class="intro">On Thursday, October 22nd, Lit Crawl Seattle is bringing you readings from more than 65 authors at 20 different venues. The [full schedule of events](http://litcrawl.org/seattle/2015-schedule) is a little bit daunting. How are you supposed to choose three readings out of this embarassment of riches? Let the *Seattle Review of Books* help! Here's our first suggested itinerary:</p>
 

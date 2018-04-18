@@ -10,5 +10,5 @@ last_updated = "2015-10-11T20:30:00-07:00"
 preview_url = "89df51e4-ade6-b35b-22f1-1ae67c7165f4"
 name = "MIT Press"
 title = "MIT Press"
-books_by_this_publisher = ["books/-the-importance-of-being-iceland"]
+books_by_this_publisher = ["books/-the-importance-of-being-iceland.md"]
 +++

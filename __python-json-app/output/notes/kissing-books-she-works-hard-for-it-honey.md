@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507004826599/husb
 twitterauto = "Romance time! Short reviews of @kj_charles, @miasosaromance,@ICooperAuthor, and more @O_Waite's Kissing Books column"
 facebookauto = "Short reviews of KJ Charles, Mia Sosa, Isabel Cooper, and more @O_Waite's Kissing Books column."
 make_image_tweet = "False"
-notes_byline = ["writers/olivia-waite"]
-tags_notes = ["tags/kissing-books"]
+notes_byline = ["writers/olivia-waite.md"]
+tags_notes = ["tags/kissing-books.md"]
 notes_about = ""
 books = ""
 +++

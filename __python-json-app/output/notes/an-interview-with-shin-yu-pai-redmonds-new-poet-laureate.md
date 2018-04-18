@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445199242573/Shin
 twitterauto = "We talked with Shin Yu Pai, Redmond's Poet Laureate, about her plans to represent an entire city through poetry."
 facebookauto = "Shin Yu Pai is the new Poet Laureate of Redmond. We talked with her about her plans to represent an entire city through poetry."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poet-laureate", "tags/redmond"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poet-laureate.md", "tags/redmond.md"]
 notes_about = ""
 books = ""
 +++

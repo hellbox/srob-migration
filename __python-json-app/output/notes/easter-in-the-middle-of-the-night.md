@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our thanks to sponsor Charlotte Riggle, her book is about Easter in the Orthodox church, from a child's viewpoint."
 facebookauto = "This week's sponsor Charlotte Riggle is showing her charming book about a girl's attempt to stay awake for her Orthodox church's overnight Pascha service. "
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/catherines-pascha"]
+books = ["books/catherines-pascha.md"]
 +++
 _Catherine's Pascha_, written by this week's sponsor Charlotte Riggle and illustrated by R.J. Hughes, is about a girl's determination to stay awake for Pascha. In the Orthodox Christian church, Easter services are held in the middle of the night. It's a story of a girl's coming of age in the culture of her family, and learning about tradition and faith.
 

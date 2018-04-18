@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = " e Greater Seattle Bureau of Fearless Ideas"
 title = " e Greater Seattle Bureau of Fearless Ideas"
-books_by_this_publisher = ["books/encyclopedia-greenwoodia"]
+books_by_this_publisher = ["books/encyclopedia-greenwoodia.md"]
 +++

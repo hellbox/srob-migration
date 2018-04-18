@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501126746938/Scre
 twitterauto = "Your literary event of the week is a reclamation of the oldest gay bar in Seattle."
 facebookauto = "Your literary event of the week is a reclamation of the stories surrounding the oldest gay bar in Seattle."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/frye-art-museum"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/frye-art-museum.md"]
 notes_about = ""
 books = ""
 +++

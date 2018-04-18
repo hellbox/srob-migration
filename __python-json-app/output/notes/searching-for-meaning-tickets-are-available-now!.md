@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Tickets for @seattleu's underrated Search for Meaning Festival are available now. It's a great literary event."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/search-for-meaning"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/search-for-meaning.md"]
 notes_about = ""
 books = ""
 +++

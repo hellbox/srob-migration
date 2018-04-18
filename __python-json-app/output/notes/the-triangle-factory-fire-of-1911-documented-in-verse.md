@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our sponsor Donald Kentop explores a tragic American event in verse, and turns history into a reconciliation."
 facebookauto = "Our sponsor this week, Donald Kentop, tells the story of an iconic American tragedy in verse, and in doing so, unlocks door into our own modern lives."
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/frozen-by-fire"]
+books = ["books/frozen-by-fire.md"]
 +++
 Our sponsor this week, Donald Kentop, became fascinated with the Triangle Factory Fire, after learning that the building where the tragedy happened still stands as the Asch Building. It's part of New York University, and Kentop had classes in the building when he was a student. 
 

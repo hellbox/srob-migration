@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503002872462/apoc
 twitterauto = "@ciennam offers up her summer reading list for the apocalypse."
 facebookauto = "Why do people read cheery books in the summer? Don't they know there's an apocalypse going on? Cienna Madrid offers up a summer reading list for people who know the world is in deep trouble."
 make_image_tweet = "True"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

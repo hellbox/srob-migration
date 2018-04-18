@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "One day left to read work from @PriscillaLong during her sponsorship. "
 facebookauto = "Our thanks to sponsor Priscilla Long for her sponsorship. You have one more day to read her work on the site."
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

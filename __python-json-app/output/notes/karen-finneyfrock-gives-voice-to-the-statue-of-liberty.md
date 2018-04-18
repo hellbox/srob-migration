@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here's the Karen Finneyfrock poem for America right now."
 facebookauto = "Karen Finneyfrock is speaking for the Statue of Liberty, and she's sick of our Trump-era B.S."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/kuow", "tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/kuow.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

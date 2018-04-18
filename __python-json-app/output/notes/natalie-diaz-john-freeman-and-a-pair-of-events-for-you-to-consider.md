@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512457606086/tale
 twitterauto = "Tonight: John Freeman and Natalie Diaz @SPLBuzz. Tomorrow: discuss John Freeman's book @ThirdPlaceBooks."
 facebookauto = "Tonight, John Freeman will appear in conversation with the great indigenous poet Natalie Diaz. Tomorrow night, please join us to discuss Freeman's recent anthology about economic inequality."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/events"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/events.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in book news: Meet @HugoHouse's new faces and sign up for @shortrunseattle's summer school."
 facebookauto = "Back when the BBC was getting started, there was a dispute over what to call \"viewers.\" Here's a list of other possible words: \"auralooker, glancer, looker, looker-in, optavuist, optovisor, seer, sighter, teleseer, teleserver, televist, teleobservist, televor, viewer-in, visionnaire, visionist, visor, vizior, [and] vizzior.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/hugo-house", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/hugo-house.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

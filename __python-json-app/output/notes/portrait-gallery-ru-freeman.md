@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452133229723/SRoB
 twitterauto = "It's @rufreeman by @studiochristine in this week's Portrait Gallery."
 facebookauto = "This week, Christine Marie Larsen painted Ru Freeman for Portrait Gallery. Freeman is appearing tonight at the Elliott Bay Book Company."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

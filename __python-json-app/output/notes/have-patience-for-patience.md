@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1447822477584/PAT
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics", "tags/comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics.md", "tags/comics.md"]
 notes_about = ""
 books = ""
 +++

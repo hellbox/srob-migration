@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear @ciennam: Is it too much to expect bookstores to pay a $15 minimum wage?"
 facebookauto = "Dear Cienna: Is it too much to expect bookstores to pay a $15 minimum wage?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

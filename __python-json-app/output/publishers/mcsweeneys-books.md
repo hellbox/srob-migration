@@ -10,5 +10,5 @@ last_updated = "2015-07-29T04:31:05+00:00"
 preview_url = ""
 name = "McSweeney's Books"
 title = "McSweeney's Books"
-books_by_this_publisher = ["books/fine-fine-fine-fine-fine"]
+books_by_this_publisher = ["books/fine-fine-fine-fine-fine.md"]
 +++

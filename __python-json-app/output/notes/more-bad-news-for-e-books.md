@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Recent studies show that somewhere between 40 and 60 percent of all purchased e-books are never opened."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/e-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/e-books.md"]
 notes_about = ""
 books = ""
 +++

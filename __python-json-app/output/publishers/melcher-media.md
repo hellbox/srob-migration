@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Melcher Media"
 title = "Melcher Media"
-books_by_this_publisher = ["books/future-visions"]
+books_by_this_publisher = ["books/future-visions.md"]
 +++

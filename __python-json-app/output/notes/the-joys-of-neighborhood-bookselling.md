@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462745576840/acto
 twitterauto = "Bookselling is alive and well and living at the top of Queen Anne Hill."
 facebookauto = "The next time someone tries to tell you the publishing industry is dying, take them to the top of Queen Anne."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/queen-anne-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/queen-anne-book-company.md"]
 notes_about = ""
 books = ""
 +++

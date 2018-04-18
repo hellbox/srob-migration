@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486143063464/Grea
 twitterauto = "Is it okay to send a mash note to an author if you think she's cute? @ciennam investigates:"
 facebookauto = "Is it okay to send a mash note to an author if you think she's cute? Our advice columnist offers a brief, spider-filled explanation of the male gaze."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

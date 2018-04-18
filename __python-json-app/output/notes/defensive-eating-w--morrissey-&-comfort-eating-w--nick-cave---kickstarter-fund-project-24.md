@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466268787786/90e4
 twitterauto = "Kickstarter Fund backs @Microcosmmm today!"
 facebookauto = "The Kickstarter Fund backs Defensive Eating w/Morrissey & Comfort Eating w/Nick Cave. Yeah, that's the literal project title, and I don't think we can improve on it. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

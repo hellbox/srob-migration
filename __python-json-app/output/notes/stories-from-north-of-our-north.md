@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477944859595/d224
 twitterauto = "Sponsor @UWAPress has come to show Ernestine Hayes' brilliant memoir."
 facebookauto = "Sponsor University of Washington Press has come to show Ernestine Hayes' brilliant memoir."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

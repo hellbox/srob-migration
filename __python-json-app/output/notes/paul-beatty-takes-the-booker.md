@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477429258866/paul
 twitterauto = "Paul Beatty has won the Booker!"
 facebookauto = "Paul Beatty has won the Booker!"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/man-booker-prize"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/man-booker-prize.md"]
 notes_about = ""
-books = ["books/the-sellout"]
+books = ["books/the-sellout.md"]
 +++
 Novelist Paul Beatty has won the Man Booker prize for _The Sellout_, his deeply satirical novel about race in our country. Great news, and congratulations to Beatty. This is the third year the prize has been open to writers of any nationality, and Beatty is the first American author to take it. 
 

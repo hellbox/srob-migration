@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/instant-future", "tags/video-games"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/instant-future.md", "tags/video-games.md"]
 notes_about = ""
 books = ""
 +++

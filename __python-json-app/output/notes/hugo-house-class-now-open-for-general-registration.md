@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our @hugohouse class is now open to everybody. Please consider joining us for this class."
 facebookauto = "Our Hugo House class is now open to everybody. Please join us!"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/hugo-house", "tags/seattle-review-of-books"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/hugo-house.md", "tags/seattle-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1475597831204/Scre
 twitterauto = "Our Tuesday Poem is from @misterlashley, and starts like this:"
 facebookauto = "Our Tuesday Poem is from Robert Lashley, and is titled: \"Icarus Asks Me For Swisher Sweets At The I Street 7-11.\""
 make_image_tweet = "True"
-notes_byline = ["writers/robert-lashley"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/robert-lashley.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

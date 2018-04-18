@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513144088860/3351
 twitterauto = "Join @NisiShawl on a a look back at the fashion of the future, in this month's Future Alternative Past."
 facebookauto = "Join Nisi Shawl on a a look back at the fashion of the future, in this month's Future Alternative Past."
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

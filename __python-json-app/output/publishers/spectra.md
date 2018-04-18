@@ -10,5 +10,5 @@ last_updated = "2018-02-18T16:25:00-08:00"
 preview_url = "0b2fb2bf-efb7-9e61-ea12-f4979f7c539a"
 name = "Spectra"
 title = "Spectra"
-books_by_this_publisher = ["books/the-etched-city"]
+books_by_this_publisher = ["books/the-etched-city.md"]
 +++

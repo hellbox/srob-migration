@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "#AWP16 is over, and everybody's gone home. @RachelLaKessler looks back. "
 facebookauto = "#AWP16 is over, and everybody's gone home. Rachel Kessler offers one look back. "
 make_image_tweet = "False"
-notes_byline = ["writers/rachel-kessler"]
-tags_notes = ["tags/notes-from-the-field"]
+notes_byline = ["writers/rachel-kessler.md"]
+tags_notes = ["tags/notes-from-the-field.md"]
 notes_about = ""
 books = ""
 +++

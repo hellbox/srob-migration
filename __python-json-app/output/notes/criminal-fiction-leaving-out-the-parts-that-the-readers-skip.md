@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's Criminal Fiction! This month @daneetsteffens interviews @BillLoehfelm, and reviews @Connellybooks and others."
 facebookauto = "It's Criminal Fiction! This month Daneet Steffens interviews Bill Loehfelm, and reviews new work from Micheal Connelly, Jeff Abbott,  Jane Casey, and B.A. Paris."
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492796343274/Scre
 twitterauto = "Last night, some asshole broke into @Phoenix_Comics. Maybe buy some comics or games from them this weekend?"
 facebookauto = "Last night, some asshole broke into Phoenix Comics and Games on Broadway. Maybe buy some comics or games from them this weekend?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/phoenix-comics-and-games", "tags/crime"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/phoenix-comics-and-games.md", "tags/crime.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513668901987/aspi
 twitterauto = "Before you use a work of fiction to advance your political agenda, make sure you're reflecting the text."
 facebookauto = "Before you use a work of fiction to advance your political agenda, make sure you're reflecting the text."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/star-wars"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/star-wars.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1451259673707/9781
 twitterauto = "This week in Seattle readings: remembering Madeline DeFrees and two debut short story collections."
 facebookauto = "Your week in readings features a discussion about America's lack of talent, a celebration of the life of Madeline DeFrees, and two debut short story collections."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This year's @THSEA artists in residence will be doing some neat neighborhood outreach. Sign up now:"
 facebookauto = "This year's Town Hall Seattle artists in residence will be doing some neat neighborhood outreach. Sign up now:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

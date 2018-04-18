@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's book news roundup shares wonderful celebrations of libraries and some Amazon news."
 facebookauto = "Today's book news roundup shares wonderful celebrations of libraries and some Amazon news."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

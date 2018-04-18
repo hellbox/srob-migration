@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490627134650/join
 twitterauto = "Sponsor @SteveToutonghi's gripping debut \"Join\" is now available in paperback!"
 facebookauto = "Sponsor Steve Toutonghi's gripping debut \"Join\" is now available in paperback!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/join"]
+books = ["books/join.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1490627122820/join-small.jpg)</p>
 

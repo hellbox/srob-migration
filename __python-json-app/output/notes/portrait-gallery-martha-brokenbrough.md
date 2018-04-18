@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507739027759/SRoB
 twitterauto = "Portrait Gallery: @mbrockenbrough teaches free #seattlewrites class @SPLBuzz Sun 10/15 #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Martha Brokenbrough by Christine Marie Larsen"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

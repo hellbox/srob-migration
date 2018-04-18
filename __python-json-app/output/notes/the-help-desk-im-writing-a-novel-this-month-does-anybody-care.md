@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This month, @ciennam's offering advice for @NaNoWriMo writers. Should I tell my friends I'm doing NaNoWriMo?"
 facebookauto = "This month, our advice columnist Cienna Madrid is offering advice for writers taking part in National Novel Writing Month. The first question: Should I tell my friends I'm doing NaNoWriMo? Does anybody really want to hear about my novel?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/nanowrimo"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/nanowrimo.md"]
 notes_about = ""
 books = ""
 +++

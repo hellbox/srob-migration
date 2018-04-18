@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our book news roundup includes Shakespeare happenings @SPLBuzz and two online magazines to get excited about."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library", "tags/prince"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/prince.md"]
 notes_about = ""
 books = ""
 +++

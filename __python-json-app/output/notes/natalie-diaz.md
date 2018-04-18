@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512678964051/SRoB
 twitterauto = "#Portrait Gallery: @NatalieGDiaz Tonight! @HugoHouse Poetry Across the Nations @PoetryFound  / @studiochristine"
 facebookauto = "Poet Natalie Diaz painted by Christine Marie Larsen. Reading"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

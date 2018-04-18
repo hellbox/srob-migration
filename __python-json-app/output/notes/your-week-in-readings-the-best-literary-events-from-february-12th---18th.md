@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517534519645/wint
 twitterauto = "Your Valentine's week in readings starts @ThirdPlaceBooks and features a couple of great-looking debuts."
 facebookauto = "Your Valentine's week in readings starts at Third Place Books Ravenna and features a couple of great-looking debuts."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

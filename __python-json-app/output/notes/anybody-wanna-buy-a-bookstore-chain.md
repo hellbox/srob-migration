@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Another chain bookseller to bite the dust?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/retail"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/retail.md"]
 notes_about = ""
 books = ""
 +++

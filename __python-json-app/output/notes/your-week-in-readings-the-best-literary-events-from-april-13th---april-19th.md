@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460159095617/51Sq
 twitterauto = "Your week in readings begins with this memoir about being a woman in the sciences at Town Hall tonight."
 facebookauto = "Your week in readings begins with a memoir about being a woman in the sciences at Town Hall tonight."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/hugo-house.md"]
 notes_about = ""
-books = ["books/gold-fame-citrus"]
+books = ["books/gold-fame-citrus.md"]
 +++
 <p class="noindent"><h5>**Wednesday April 13: Hope Jahren  **</h5></p>
 <p class="noindent">*Lab Girl* is a memoir about sexism in the sciences — the STEM fields are still an old boys’ club — and what it’s like to follow a lifelong love of science. To Jahren, math and analytic thinking isn’t the most important part of being a scientist; having a question is what counts most.

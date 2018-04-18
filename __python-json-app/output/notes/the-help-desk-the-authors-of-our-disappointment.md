@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What should we do when the authors we love let us down?"
 facebookauto = "What should we do when the authors we love let us down?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

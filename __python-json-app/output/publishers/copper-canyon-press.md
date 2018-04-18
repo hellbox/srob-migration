@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Copper Canyon Press"
 title = "Copper Canyon Press"
-books_by_this_publisher = ["books/time-will-clean-the-carcass-bones"]
+books_by_this_publisher = ["books/time-will-clean-the-carcass-bones.md"]
 +++

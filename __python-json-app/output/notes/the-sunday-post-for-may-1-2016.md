@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Pieces by @annawiener, @AmandaGefter, and @nicholas_seeley in the Sunday Post. Tech, brains, and noir, in that order."
 facebookauto = "On the inside of Silicon Valley, on the inside of your mind, and on the inside of noir as a genre, all in today's Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

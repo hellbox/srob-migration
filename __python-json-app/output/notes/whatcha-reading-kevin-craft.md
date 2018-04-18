@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515391346441/kevi
 twitterauto = "What's our Poet in Residence Kevin Craft reading?"
 facebookauto = "What's our Poet in Residence Kevin Craft reading?"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/whatcha-reading"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/whatcha-reading.md"]
 notes_about = ""
 books = ""
 +++

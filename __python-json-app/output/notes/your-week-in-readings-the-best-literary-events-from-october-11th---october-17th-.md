@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506058767022/miss
 twitterauto = "Your Week in Readings includes bad science, a good writing class, and a talk about imagination."
 facebookauto = "Your Week in Readings includes bad science, a good writing class, and a talk about imagination."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

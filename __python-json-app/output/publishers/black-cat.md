@@ -10,5 +10,5 @@ last_updated = "2015-06-22T19:56:00-07:00"
 preview_url = "88f552b4-ff26-a371-73dd-398a42d41a67"
 name = "Black Cat"
 title = "Black Cat"
-books_by_this_publisher = ["books/butterflies-in-november", "books/blueprints-of-the-afterlife", "books/the-core-of-the-sun"]
+books_by_this_publisher = ["books/butterflies-in-november.md", "books/blueprints-of-the-afterlife.md", "books/the-core-of-the-sun.md"]
 +++

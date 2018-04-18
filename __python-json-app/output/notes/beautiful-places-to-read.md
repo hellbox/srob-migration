@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We could happily lose days in any one of these beautiful reading places."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/libraries"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/libraries.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463500396497/d90f
 twitterauto = "We really enjoyed talked to @rufithorpe about her sublime new book. "
 facebookauto = "We sat down and talked to Rufi Thorpe about her new book \u2014 that one we were all gushy about yesterday."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
-books = ["books/dear-fang-with-love"]
+books = ["books/dear-fang-with-love.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1463500367954/Thorpe%20Photo_Nina%20Subin.jpg)</p>
 

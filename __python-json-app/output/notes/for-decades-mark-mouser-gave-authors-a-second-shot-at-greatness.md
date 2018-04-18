@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486338969862/Scre
 twitterauto = "For decades, Mark Mouser ran the bargain book section @ubookstorereads. Last week, he retired."
 facebookauto = "For decades, Mark Mouser has been handling the bargain book section at University Book Store. Last week, he retired. We interviewed him about his fascinating job."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/university-book-store", "tags/remainders"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/university-book-store.md", "tags/remainders.md"]
 notes_about = ""
 books = ""
 +++

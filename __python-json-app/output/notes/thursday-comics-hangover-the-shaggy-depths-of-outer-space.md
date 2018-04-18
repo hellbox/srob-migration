@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520494312048/61m2
 twitterauto = "If you like shaggy-haired cosmic comics, you're gonna love the Lone Sloan books from @ComicsTitan."
 facebookauto = "These French sci-fi comics are huger in scope than Star Wars and crazier than anything any American psychedelic cartoonist ever put to paper."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

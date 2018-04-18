@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482182346319/fay-
 twitterauto = "Sponsor @saggingmeniscus is here with a marvelous book about growing up in old New York"
 facebookauto = "Sponsor Sagging Meniscus Press is showing a marvelous book about growing up in old New York"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/the-button-thief-of-east-14th-street"]
+books = ["books/the-button-thief-of-east-14th-street.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1482182403693/fay-webern.jpg)</p>
 

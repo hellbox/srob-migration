@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "You probably hate raccoons. Here's a comic that might make you feel bad for them."
 facebookauto = "You probably hate raccoons. Marie Hausauer's newest comic might make you feel bad for them."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/push--pull", "tags/arcane-comics", "tags/fantagraphics-bookstore-&amp;-gallery"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/push--pull.md", "tags/arcane-comics.md", "tags/fantagraphics-bookstore-&amp;-gallery.md"]
 notes_about = ""
 books = ""
 +++

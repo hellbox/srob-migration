@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our event of the week is a never-ending poem that is a family tree and an ongoing conversation about identity."
 facebookauto = "Our event of the week is a never-ending poem that serves as a family tree and an ongoing conversation about identity."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

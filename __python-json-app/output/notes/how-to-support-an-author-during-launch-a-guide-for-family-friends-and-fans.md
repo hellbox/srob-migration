@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509685412462/jade
 twitterauto = "So your friend is publishing a book. How can you help? @FondaJLee offers some tips."
 facebookauto = "So your friend is publishing a book. How can you help? Fonda Lee offers some tips."
 make_image_tweet = "False"
-notes_byline = ["writers/fonda-lee"]
-tags_notes = ["tags/writing", "tags/whyiwrite"]
+notes_byline = ["writers/fonda-lee.md"]
+tags_notes = ["tags/writing.md", "tags/whyiwrite.md"]
 notes_about = ""
 books = ""
 +++

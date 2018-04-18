@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Watch  @ellen_forney talk about the installation of her @SoundTransit public art."
 facebookauto = "Ellen Forney is a Seattle treasure. Link Light rail makes Seattle better. Put these two together and you've got pure awesome."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/april", "tags/public-transit"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/april.md", "tags/public-transit.md"]
 notes_about = ""
 books = ""
 +++

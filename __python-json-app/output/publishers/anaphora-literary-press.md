@@ -10,5 +10,5 @@ last_updated = "2017-08-05T11:26:00-07:00"
 preview_url = "f631a0ed-b8a2-30da-fc42-ec05a6de2cf9"
 name = "Anaphora Literary Press"
 title = "Anaphora Literary Press"
-books_by_this_publisher = ["books/love-in-the-cretaceous"]
+books_by_this_publisher = ["books/love-in-the-cretaceous.md"]
 +++

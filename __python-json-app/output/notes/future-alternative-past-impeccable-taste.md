@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510179630451/Prov
 twitterauto = "In today's succulent and nutrient-rich column, @NisiShawl gnaws on food in SFFH"
 facebookauto = "In today's succulent and nutrient-rich column, Nisi Shawl gnaws on food in SFFH"
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

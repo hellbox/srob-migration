@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Congratulations to all the authors nominated for the Washington State Book Awards! Here are some of our favorites:"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/my-body-is-a-book-of-rules"]
+books = ["books/my-body-is-a-book-of-rules.md"]
 +++
 Over [at the *Seattle Times*](http://www.seattletimes.com/news/finalists-announced-for-the-washington-state-book-awards/), Mary Ann Gwinn has the exclusive story on this year's Washington State Book Awards finalists. You should [click through](http://www.seattletimes.com/news/finalists-announced-for-the-washington-state-book-awards/) for all the details, but here are some of the authors I'm especially rooting for: [Kim-An Lieberman](https://medium.com/@paulconstant/missing-kim-an-lieberman-643b9d63c23f) was posthumously recognized for her second poetry collection, *In Orbit*. *SRoB* contributor [Kelli Russell Agodon](http://seattlereviewofbooks.com/notes/2015/08/04/argument-waltz-with-pessimistic-drowning/) is a finalist in the poetry category as well. Peter Mountford is a finalist for his excellent second novel, [*The Dismal Science*](https://medium.com/@paulconstant/the-one-percent-blues-1560948983e2). And [Elissa Washuta](http://seattlereviewofbooks.com/reviews/the-perpetual-naked-lunch-of-starvation-mode/) is a finalist for her memoir [*My Body Is a Book of Rules*](https://medium.com/@paulconstant/how-to-write-a-memoir-6d14126c64d1). 
 

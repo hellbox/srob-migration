@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Tuesday Poem is from @buddy_and_buddy, and is titled \"House\""
 facebookauto = "The Tuesday Poem is from Jeanine Walker, and is titled \"House\""
 make_image_tweet = "False"
-notes_byline = ["writers/jeanine-walker"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jeanine-walker.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

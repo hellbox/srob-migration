@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We can't wait to read this book from Gramma Press."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/gramma-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/gramma-press.md"]
 notes_about = ""
 books = ""
 +++

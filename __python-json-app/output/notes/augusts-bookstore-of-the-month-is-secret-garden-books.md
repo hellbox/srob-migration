@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470001342485/IMG_
 twitterauto = "Our August Bookstore of the Month is @SecretGardenBks!"
 facebookauto = "Secret Garden Books was founded 39 years ago. Along the way it's moved twice, started carrying adult books, and always employed exactly one male bookseller on its staff. It has always had the clickety-clackety brick floor at the front of the store."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/secret-garden-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/secret-garden-books.md"]
 notes_about = ""
 books = ""
 +++

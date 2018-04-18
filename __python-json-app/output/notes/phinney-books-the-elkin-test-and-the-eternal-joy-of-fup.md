@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/phinney-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/phinney-books.md"]
 notes_about = ""
-books = ["books/fup", "books/the-franchiser-"]
+books = ["books/fup.md", "books/the-franchiser-.md"]
 +++
 A couple weeks ago, I visited the delightful Phinney Books for a reading. Customers at Phinney Books always have huge smiles plastered across their faces, and when you walk in, it's easy to understand why: from the categorization of books as either "TRUE" or "MADE UP" to the giant Ferris wheel along the wall of the kids' section, the whole store seems designed to maximize happiness in humans.
 

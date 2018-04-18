@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Jason Guriel argues against reading widely, James Wood subtweets Robert Frost, and more in the Sunday Post."
 facebookauto = "Jason Guriel argues against reading widely, Amanda Petrusich looks at some famous flannel shirts, James Wood subtweets Robert Frost, and more in the Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

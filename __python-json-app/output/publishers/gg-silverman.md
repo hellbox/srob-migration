@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "GG Silverman"
 title = "GG Silverman"
-books_by_this_publisher = ["books/vegan-teenage-zombie-huntress"]
+books_by_this_publisher = ["books/vegan-teenage-zombie-huntress.md"]
 +++

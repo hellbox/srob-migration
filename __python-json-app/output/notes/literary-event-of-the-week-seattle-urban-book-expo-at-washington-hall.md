@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502039966861/1883
 twitterauto = "This week, celebrate Seattle's authors of color at the Seattle Urban Book Expo!"
 facebookauto = "This week, celebrate Seattle's authors of color at the Seattle Urban Book Expo!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/seattle-urban-book-expo"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/seattle-urban-book-expo.md"]
 notes_about = ""
 books = ""
 +++

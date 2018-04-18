@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our co-founders will be taking part in events @THSEA and @PhinneyBooks tomorrow night. Join us!"
 facebookauto = "Need help with your ballot? Looking to mourn a great book as it's shipped off to the Valhalla of remaindered titles? The Seattle Review of Books has you covered on Friday night in two great events\u2014one at Town Hall, and the other at Phinney Books."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-review-of-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post hiked the Appalachian Trail, listened to S-Town, and resolved good v. evil so you don't have to."
 facebookauto = "The Sunday Post hiked the Appalachian Trail, listened to S-Town, and resolved good v. evil so you don't have to."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

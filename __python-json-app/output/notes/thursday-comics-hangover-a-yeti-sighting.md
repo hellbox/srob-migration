@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458801614174/beds
 twitterauto = "Three cheers for @rjcaseywrites and the punky comics outsiders @YetiPress!"
 facebookauto = "A local comics publisher is making the kind of comics Mad Magazine used to specialize in."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/april", "tags/yeti-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/april.md", "tags/yeti-press.md"]
 notes_about = ""
 books = ""
 +++

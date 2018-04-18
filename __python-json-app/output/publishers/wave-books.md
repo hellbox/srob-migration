@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Wave Books"
 title = "Wave Books"
-books_by_this_publisher = ["books/sorry-tree", "books/snowflake--different-streets", "books/hardly-war"]
+books_by_this_publisher = ["books/sorry-tree.md", "books/snowflake--different-streets.md", "books/hardly-war.md"]
 +++

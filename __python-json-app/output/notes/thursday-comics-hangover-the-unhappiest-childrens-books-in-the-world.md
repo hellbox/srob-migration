@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492035344521/fung
 twitterauto = "Author Raymond Briggs has an important message for kids: If you're okay with being unhappy, that's okay."
 facebookauto = "Author Raymond Briggs has an important message for kids: If you're okay with being unhappy, that's okay."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/childrens-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/childrens-books.md"]
 notes_about = ""
 books = ""
 +++

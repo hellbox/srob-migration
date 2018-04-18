@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "We can learn some important lessons from Seattle: City of Literature's failure to reflect Seattle's diversity."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/diversity"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/diversity.md"]
 notes_about = ""
-books = ["books/seattle-city-of-literature"]
+books = ["books/seattle-city-of-literature.md"]
 +++
 As a co-founder of the *Seattle Review of Books*, I am proud to publish [Donna Miscolta’s piece about minority representation in the *Seattle: City of Literature*](http://seattlereviewofbooks.com/reviews/reflections-by-and-about-white-people/) anthology. This piece is a perfect example of why my partner Martin McClellan and I created this site: to engage in conversation with books and with the city, and to help bring compelling pieces of writing to an audience that cares passionately about books.
  

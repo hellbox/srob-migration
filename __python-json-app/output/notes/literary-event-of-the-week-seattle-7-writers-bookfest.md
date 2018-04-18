@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478837210984/Scre
 twitterauto = "Vote with your wallet at @Seattle7Writers's annual holiday Bookfest this weekend."
 facebookauto = "Vote with your wallet at Seattle 7 Writers' annual holiday Bookfest this weekend."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-7-writers"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-7-writers.md"]
 notes_about = ""
 books = ""
 +++

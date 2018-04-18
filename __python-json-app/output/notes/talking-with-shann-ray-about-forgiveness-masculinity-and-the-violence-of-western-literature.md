@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462548530757/amer
 twitterauto = "Novelist Shann Ray has a lot to say about forgiveness and the violence of literature from the American west."
 facebookauto = "Poet and novelist Shann Ray has a lot to say about forgiveness and the violence of literature from the American west."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/novel"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/novel.md"]
 notes_about = ""
-books = ["books/american-copper"]
+books = ["books/american-copper.md"]
 +++
 <p class="intro">This past Saturday, Independent Bookstore Day, I interviewed author Shann Ray onstage at [Phinney Books]( http://www.phinneybooks.com/) as part of the ongoing [Dock Street Salon](http://dockstreetpress.com/) reading series. It is impossible to talk about Shann Ray without using sentences that go galumphing off into a long series of ands. Watch this: Shann Ray writes poems and non-fiction, and fiction about masculinity, bar fights, and forgiveness. His debut novel, *American Copper*, was praised by no less a Seattle luminary than Sherman Alexie as “tough, poetic, and beautiful.” Dave Eggers called him “lyrical, prophetic and brutal, yet ultimately hopeful.” And get a load of this passage from his bio:</p>
 

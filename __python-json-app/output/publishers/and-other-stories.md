@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "And Other Stories"
 title = "And Other Stories"
-books_by_this_publisher = ["books/lunatics-lovers-and-poets"]
+books_by_this_publisher = ["books/lunatics-lovers-and-poets.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Congratulations to Han Kang, whose The Vegetarian just won the Man Booker International Prize for fiction!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/man-booker-prize", "tags/awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/man-booker-prize.md", "tags/awards.md"]
 notes_about = ""
 books = ""
 +++

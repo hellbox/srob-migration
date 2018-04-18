@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/marcellus-turner", "tags/librarians", "tags/city-librarian", "tags/seattle-public-library"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/marcellus-turner.md", "tags/librarians.md", "tags/city-librarian.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

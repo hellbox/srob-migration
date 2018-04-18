@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump", "tags/johari-osayi-idusuyi"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md", "tags/johari-osayi-idusuyi.md"]
 notes_about = ""
 books = ""
 +++

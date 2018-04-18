@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512536893623/them
 twitterauto = "\"...to have it in still form on a page, it\u2019s almost like it\u2019s eternal, in a sense.\""
 facebookauto = "\"...to have it in still form on a page, it\u2019s almost like it\u2019s eternal, in a sense.\""
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

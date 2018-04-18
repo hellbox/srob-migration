@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495497548246/9781
 twitterauto = "Diversity training, book bingo, and news about @1JessWalter and @Julia_Wertz in today's Book News Roundup."
 facebookauto = "Today in Book News Roundup: News about Jess Walter and Julia Wertz, along with other things not relating to authors with the initials \"JW.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our book news roundup includes a few politicians we love and a political book we do not love."
 facebookauto = "Our book news roundup includes a few politicians we love and a political book we do not love."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
-books = ["books/political-pamphlet-series", "books/hillbilly-elegy", "books/manners", "books/final-rose"]
+books = ["books/political-pamphlet-series.md", "books/hillbilly-elegy.md", "books/manners.md", "books/final-rose.md"]
 +++
 * If you're the kind of person who prefers to read series once they're through, you're in luck! Last week's series of pieces profiling new Seattle publisher Mount Analogue is over. You should read [my interview with Mount Analogue publisher Colleen Louise Barry](http://www.seattlereviewofbooks.com/notes/2017/04/03/for-colleen-louise-barry-mount-analogue-is-the-future-of-books/) and my reviews of Mount Analogue's books: the [erasure series now on display at Open Books](http://www.seattlereviewofbooks.com/reviews/one-of-a-kind/), the [terrific collection of poetry by Ted Powers](http://www.seattlereviewofbooks.com/reviews/the-backwards-map/), the amazing [tone poem constructed solely from captioned screenshots of episodes of *The Bachelor* and *The Bachelorette*](http://www.seattlereviewofbooks.com/reviews/trouble-in-paradise/), and the [pamphlet series](http://www.seattlereviewofbooks.com/reviews/a-colorful-chorus-of-voices/) that reimagines the idea of magazines using an ancient form of political communication.
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "David Bowie was a life-saving artist and a passionate reader."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/david-bowie", "tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/david-bowie.md", "tags/death.md"]
 notes_about = ""
 books = ""
 +++

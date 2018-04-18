@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Writer @TomTaylorMade cancelled his trip to Seattle this weekend. Why? One word: Trump."
 facebookauto = "Australian comics writer Tom Taylor announced last night that he's not coming to Emerald City Comicon this weekend. Why? Because Donald Trump has made traveling to the United States a harrowing experience."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/emerald-city-comicon", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/emerald-city-comicon.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you're in a Texas state prison, you can read Hitler's book but not Harriet Beecher Stowe's book."
 facebookauto = "If you're in a Texas state prison, you can read Hitler's book but not Harriet Beecher Stowe's book."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/books-to-prisoners"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/books-to-prisoners.md"]
 notes_about = ""
 books = ""
 +++

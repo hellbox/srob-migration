@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Looking for a job with literature and the arts? We've got a couple hot tips for you."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/office-of-arts-and-culture", "tags/shelf-awareness"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/office-of-arts-and-culture.md", "tags/shelf-awareness.md"]
 notes_about = ""
 books = ""
 +++

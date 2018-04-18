@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499920234669/rule
 twitterauto = "Our literary event of the week celebrates the life and work of Crysta Casey."
 facebookauto = "Our literary event of the week celebrates the life and work of Crysta Casey."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

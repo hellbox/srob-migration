@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The New York Times is consolidating its book coverage. Here's why that's a shame:"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/new-york-times", "tags/book-reviews"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/new-york-times.md", "tags/book-reviews.md"]
 notes_about = ""
 books = ""
 +++

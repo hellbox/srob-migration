@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Seattle folks won big at the Eisner Awards this year in the archival, international, & humanitarian categories."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/eisner-awards", "tags/fantagraphics", "tags/paper-girls"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/eisner-awards.md", "tags/fantagraphics.md", "tags/paper-girls.md"]
 notes_about = ""
-books = ["books/nimona", "books/the-eternaut"]
+books = ["books/nimona.md", "books/the-eternaut.md"]
 +++
 * The Eisner Awards were announced at San Diego Comic Con this weekend. The *Seattle Review of Books* has praised some of the big winners at the show, including [*Paper Girls*](http://www.seattlereviewofbooks.com/notes/2015/11/05/thursday-comics-hangover-the-weird-dawn-light-of-paper-girls/) and [*Nimona*](http://www.seattlereviewofbooks.com/reviews/drawn-this-way/). Seattle-area Eisner winners include Fantagraphics Books, which won for its wonderful archival reprinting of [*The Eternaut*](http://www.seattlereviewofbooks.com/reviews/the-sky-is-falling/); Matthew Inman of The Oatmeal; and translator [Zack Davisson](https://hyakumonogatari.com/about/), who worked on *Showa, 1953–1989: A History of Japan*. Find [a full list of winners right here](http://io9.gizmodo.com/here-are-your-2016-eisner-award-winners-1784175893).
 

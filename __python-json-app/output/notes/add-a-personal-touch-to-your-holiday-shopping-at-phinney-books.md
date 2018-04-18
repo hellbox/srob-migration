@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Looking to finish up your holiday book buying? Let @PhinneyBooks offer a personal touch."
 facebookauto = "Looking to finish up your holiday book buying? Let Phinney Books offer a personal touch."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/holidays"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/holidays.md"]
 notes_about = ""
-books = ["books/hild"]
+books = ["books/hild.md"]
 +++
 If you've already picked up our author holiday gift recommendations (thanks again to [Anca Szilágyi](http://www.seattlereviewofbooks.com/notes/2017/11/29/looking-for-a-holiday-gift-book-anca-szil%C3%A1gyi-recommends-the-dud-avocado/), [Richard Chiem](http://www.seattlereviewofbooks.com/notes/2017/12/06/looking-for-a-holiday-gift-book-richard-chiem-recommends-the-passion-according-to-gh/), [Bharti Kirchner](http://www.seattlereviewofbooks.com/notes/2017/12/13/looking-for-a-holiday-gift-book-bharti-kirchner-recommends-all-the-old-knives/), and [Jessixa Bagley](If you've already picked up our author holiday gift recommendations (thanks again to [Anca Szilágyi](http://www.seattlereviewofbooks.com/notes/2017/11/29/looking-for-a-holiday-gift-book-anca-szil%C3%A1gyi-recommends-the-dud-avocado/), [Richard Chiem](http://www.seattlereviewofbooks.com/notes/2017/12/06/looking-for-a-holiday-gift-book-richard-chiem-recommends-the-passion-according-to-gh/), [Bharti Kirchner](http://www.seattlereviewofbooks.com/notes/2017/12/13/looking-for-a-holiday-gift-book-bharti-kirchner-recommends-all-the-old-knives/), and [Jessixa Bagley](http://www.seattlereviewofbooks.com/notes/2017/12/20/looking-for-a-holiday-gift-book-jessixa-bagley-recommends-louis-undercover/) for their stellar suggestions) and you're looking for more books to give as gifts, I highly recommend you check out Phinney Books owner Tom Nissley's recommendations:
 

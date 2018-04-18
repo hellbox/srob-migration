@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522484285531/jenn
 twitterauto = "Hey @Jennifer_Haupt, whatcha reading? @elisehooper, @victoria_redel, and Jhumpa Lahiri."
 facebookauto = "Hey Jennifer Haupt, whatcha reading? Elise Hooper, Victoria Redel, and Jhumpa Lahiri."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/whatcha-reading"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/whatcha-reading.md"]
 notes_about = ""
 books = ""
 +++

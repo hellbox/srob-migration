@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our special #SDCC2016-themed News Roundup features new stuff from @rgay and @GWillowWilson."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/marvel-comics", "tags/black-panther"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/marvel-comics.md", "tags/black-panther.md"]
 notes_about = ""
 books = ""
 +++

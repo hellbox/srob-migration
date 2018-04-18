@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "On her blog, Lesley Hazleton (@accidentaltheo) shared her abortion story to support @PPact. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/abortion", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/abortion.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

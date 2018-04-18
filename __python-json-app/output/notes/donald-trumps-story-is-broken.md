@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469176436339/Scre
 twitterauto = "The #RNCinCLE was a big, weeklong story. But what kind of story was it?"
 facebookauto = "The Republican National Convention was a big, weeklong story. But what kind of story was it?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

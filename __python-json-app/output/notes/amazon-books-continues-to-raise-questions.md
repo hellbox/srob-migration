@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The good people @ShelfAwareness continue to raise important questions about Amazon Books."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon-books", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon-books.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

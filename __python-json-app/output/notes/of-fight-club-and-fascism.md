@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A new essay says reading Fight Club in 2016 is a \"chilling\" experience."
 facebookauto = "A new essay says reading Fight Club in 2016 is a \"chilling\" experience that reveals where today's trolls, Trumpers, and Gamergaters were born."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/troll", "tags/donald-trump", "tags/reddit"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/troll.md", "tags/donald-trump.md", "tags/reddit.md"]
 notes_about = ""
 books = ""
 +++

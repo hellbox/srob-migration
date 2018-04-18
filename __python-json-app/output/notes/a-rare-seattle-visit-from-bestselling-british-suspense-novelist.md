@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sponsor @SJ_Watson is coming to @ubookstorereads to support his new thriller! Read a full chapter now."
 facebookauto = "Sponsor SJ Watson is coming to University Book store to support his new thriller. Read a full chapter now."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

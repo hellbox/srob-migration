@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Bruce Springsteen will be reading from his memoir @elliottbaybooks on October 1st. "
 facebookauto = "Bruce Springsteen will be reading from his memoir at Elliott Bay Book Company on October 1st. How many encores do you think he'll do?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/elliott-bay-book-company", "tags/jt-leroy"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/elliott-bay-book-company.md", "tags/jt-leroy.md"]
 notes_about = ""
 books = ""
 +++

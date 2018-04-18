@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A celebrated Indian author is making her very first trip to the US this week."
 facebookauto = "A celebrated Indian author is making her very first trip to the US this week."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

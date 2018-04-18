@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483574781150/NHNT
 twitterauto = "Writers resist Trump @THSEA in our weekly look at the best events in Seattle. "
 facebookauto = "This week in readings: writers resist Trump, writers celebrate new books, writers read at the Egyptian Theatre, and much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

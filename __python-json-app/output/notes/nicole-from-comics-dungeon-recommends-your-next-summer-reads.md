@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468019452537/Powe
 twitterauto = "What is Nicole @ComicsDungeon recommending this summer?"
 facebookauto = "We asked Nicole Lamb at the Comics Dungeon to give us one great summer book recommendation. Instead, she offered up two."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comics", "tags/dc-comics", "tags/boom"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comics.md", "tags/dc-comics.md", "tags/boom.md"]
 notes_about = ""
 books = ""
 +++

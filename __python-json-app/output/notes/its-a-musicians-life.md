@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our thanks to this week's sponsor @3rdplacepress, bringing you local writer Eugene M. Babb's musicians memoir."
 facebookauto = "A local writer, Eugene M. Babb, and a local press, Third Place Press, come together to bring you this week's sponsorship, all about what it's like to be a working musician. "
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/grit-and-roses"]
+books = ["books/grit-and-roses.md"]
 +++
 Eugene M. Babb spent a life in gigs, and then wrote about it. His book _Grit and Roses_, published by <a href="http://thirdplacepress.com" title="Third Place Press | Home | Print on demand and self publishing services">Third Place Press</a> (yes! <a href="http://www.thirdplacebooks.com" title="Third Place Books | Books, community, events and more">Third Place books</a> has a press! They print books on their Espresso Book Machine, Ginger), covers his thirty years of life as a working musician. 
 

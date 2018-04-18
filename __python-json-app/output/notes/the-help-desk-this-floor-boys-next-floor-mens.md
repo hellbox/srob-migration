@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A reader puts it to @ciennam: can we take boys who read serious books seriously?"
 facebookauto = "A reader puts it to Cienna Madrid: can we take boys who read serious books seriously?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

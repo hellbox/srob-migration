@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's @nisishawl time! Dystopia vs. Utopia, upcoming cons, and great SFFH books in this Future Alternative Past.\n"
 facebookauto = "It's Nisi Shawl time! Dystopia vs. Utopia, upcoming cons, and great SFFH books in this Future Alternative Past.\n"
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

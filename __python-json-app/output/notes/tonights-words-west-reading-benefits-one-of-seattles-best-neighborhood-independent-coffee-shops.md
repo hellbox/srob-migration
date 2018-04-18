@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516151955697/CP_w
 twitterauto = "Tonight's reading with @Nancy_Pearl benefits one of Seattle's best indie coffee houses."
 facebookauto = "Tonight's Words West reading with Nancy Pearl benefits the C&P Coffee Company, which might be forced out of its home due to soaring real estate prices."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/west-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/west-seattle.md"]
 notes_about = ""
 books = ""
 +++

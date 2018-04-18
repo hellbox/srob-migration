@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bureau-of-fearless-ideas", "tags/illuminated-manuscripts"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bureau-of-fearless-ideas.md", "tags/illuminated-manuscripts.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Severn House"
 title = "Severn House"
-books_by_this_publisher = ["books/goddess-of-fire-a-historical-novel-set-in-17th-century-india"]
+books_by_this_publisher = ["books/goddess-of-fire-a-historical-novel-set-in-17th-century-india.md"]
 +++

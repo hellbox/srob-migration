@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "There are more bad-selling authors than good ones, points out @ciennam. So buck up, low-selling writer!"
 facebookauto = "There are more bad-selling authors than good ones, points out Cienna Madrid. So buck up, low-selling writer!"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

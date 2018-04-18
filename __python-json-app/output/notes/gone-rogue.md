@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487101660458/Scre
 twitterauto = "It's time to admit it: Those \"rogue White House\" Twitter accounts are bogus. Support real journalism instead."
 facebookauto = "It's time to admit it: Those \"rogue White House\" Twitter accounts are bogus. Support real journalism instead."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/twitter", "tags/journalism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/twitter.md", "tags/journalism.md"]
 notes_about = ""
 books = ""
 +++

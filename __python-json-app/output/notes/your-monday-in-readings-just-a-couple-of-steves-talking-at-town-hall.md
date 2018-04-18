@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457315690952/erup
 twitterauto = "Head to @THSEA tonight for a discussion about the eruption of Mount St. Helens."
 facebookauto = "Tonight's must-attend literary event is the debut of a book about the human cost of the eruption of Mount St. Helens."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/town-hall-seattle.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

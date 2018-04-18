@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Romance books make up 5 percent of print book sales and...how much of e-book sales?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/romance"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/romance.md"]
 notes_about = ""
 books = ""
 +++

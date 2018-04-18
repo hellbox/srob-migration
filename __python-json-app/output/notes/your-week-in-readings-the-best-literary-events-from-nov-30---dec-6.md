@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448340081215/seat
 twitterauto = "Your week in readings features a presidential biography, a craft fair, a poet, and a true crime book. Plus: more!"
 facebookauto = "We choose one awesome event for every day of the week. Our picks this week include a true crime book, a presidential biography, and Urban Craft Uprising. Plus: the proverbial more!"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/university-book-store.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

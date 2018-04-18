@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "New Internationalist "
 title = "New Internationalist "
-books_by_this_publisher = ["books/austerity"]
+books_by_this_publisher = ["books/austerity.md"]
 +++

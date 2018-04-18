@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Join Neil Gaiman, Anne Tyler, and Art Spiegelman in their fight against Donald Trump's anti-art agenda."
 facebookauto = "Join Neil Gaiman, Anne Tyler, and Art Spiegelman in their fight against Donald Trump's anti-art agenda."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/pen-america"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/pen-america.md"]
 notes_about = ""
 books = ""
 +++

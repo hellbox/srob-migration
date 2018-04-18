@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We interviewed @mount0analogue publisher Colleen Louise Barry about the future of books."
 facebookauto = "We interviewed Mount Analogue publisher Colleen Louise Barry about the future of books."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/mount-analogue", "tags/independent-publishing", "tags/future-of-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/mount-analogue.md", "tags/independent-publishing.md", "tags/future-of-books.md"]
 notes_about = ""
 books = ""
 +++

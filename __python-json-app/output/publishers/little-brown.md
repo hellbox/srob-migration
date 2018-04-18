@@ -10,5 +10,5 @@ last_updated = "2016-01-07T23:35:00-08:00"
 preview_url = "4f4c844c-adab-b444-79c8-03ec61b6bee8"
 name = "Little, Brown"
 title = "Little, Brown"
-books_by_this_publisher = ["books/gather-the-daughters"]
+books_by_this_publisher = ["books/gather-the-daughters.md"]
 +++

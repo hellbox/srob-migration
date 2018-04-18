@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our second @litcrawlseattle itinerary reveals an excellent cross-section of local poetry."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/cheap-wine-&amp;-poetry", "tags/poetry-northwest", "tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/cheap-wine-&amp;-poetry.md", "tags/poetry-northwest.md", "tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our thanks to @akelleherauthor for being this week's sponsor!"
 facebookauto = "Anne Kelleher is our sponsor this week, and she wonders what would happen if a modern-day person really did carry the bloodline of Jesus Christ. Her supernatural thriller The Jesus Gene explores that question."
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/the-jesus-gene"]
+books = ["books/the-jesus-gene.md"]
 +++
 We're so pleased to announce Anne Kelleher as this week's sponsor. She's the author of over a dozen books, and her career has bridged major publishing houses and agents, to forging new ground in self-publishing.   
 

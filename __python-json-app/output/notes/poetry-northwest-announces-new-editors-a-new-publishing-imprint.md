@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458282008941/ponw
 twitterauto = "Exciting news from @poetrynw today: new editors and a new publishing arm!"
 facebookauto = "Exciting news at Poetry Northwest magazine: Kevin Craft is stepping down, three new editors are stepping up, and Craft is launching a new book publishing division!"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry-northwest"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry-northwest.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478473060425/Elli
 twitterauto = "Our November Bookstore of the Month is @elliottbaybooks!"
 facebookauto = "Our November Bookstore of the Month is Elliott Bay Book Company!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

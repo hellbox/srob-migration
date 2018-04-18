@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497215863374/char
 twitterauto = "We talked with Charles Johnson about @Seattle7Writers writers and community."
 facebookauto = "\"It really is a network, as Martin Luther King would say, a network of mutuality, that brings a book into being.\" We talked with Charles Johnson about writers and community."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Just when you thought the publishing industry couldn't get any sadder..."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-reviews"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-reviews.md"]
 notes_about = ""
 books = ""
 +++

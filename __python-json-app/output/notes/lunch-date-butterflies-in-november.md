@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fiction", "tags/lunch-date"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fiction.md", "tags/lunch-date.md"]
 notes_about = ""
-books = ["books/butterflies-in-november"]
+books = ["books/butterflies-in-november.md"]
 +++
 *(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)*
 

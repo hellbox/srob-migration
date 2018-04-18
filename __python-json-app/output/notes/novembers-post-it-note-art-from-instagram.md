@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511563591029/mira
 twitterauto = "A wrap up of Clare Johnson's #PostItArt post, from our Instagram over November"
 facebookauto = "A wrap up of Clare Johnson's #PostItArt post, from our Instagram over November"
 make_image_tweet = "False"
-notes_byline = ["writers/clare-johnson"]
-tags_notes = ["tags/post-it-note-project"]
+notes_byline = ["writers/clare-johnson.md"]
+tags_notes = ["tags/post-it-note-project.md"]
 notes_about = ""
 books = ""
 +++

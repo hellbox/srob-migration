@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "In the debut novel by sponsor @FrankMurtaugh, Trey Milligan comes of age during a single life-changing summer."
 facebookauto = "Love a little, die a little, and break the law. Sponsor Frank Murtaugh's debut novel features baseball, friendship, and an unexpected coming of age for 13-year-old Trey Milligan."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/treys-company"]
+books = ["books/treys-company.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1498243275442/Trey's%20Company_small.jpeg)</p>
 

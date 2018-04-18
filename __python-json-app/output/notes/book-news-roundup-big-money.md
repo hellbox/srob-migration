@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A prize for Jane Wong, a resurrection for Gawker, and much more in today's Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492184848451/bald
 twitterauto = "Alec Baldwin's whining about errors in his memoir. Never trust writers who throw editors under the bus."
 facebookauto = "Alec Baldwin is complaining about errors in his memoir. Never trust a writer who throws his editor under the bus."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/celebrity", "tags/seattle-arts-and-lectures"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/celebrity.md", "tags/seattle-arts-and-lectures.md"]
 notes_about = ""
 books = ""
 +++

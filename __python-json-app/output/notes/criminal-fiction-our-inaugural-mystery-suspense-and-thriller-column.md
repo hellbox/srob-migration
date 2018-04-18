@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today we debut a new column! Criminal Fiction, by @daneetsteffens, updates on mystery, suspense, and crime fiction"
 facebookauto = "Today we debut a new column! Criminal Fiction, by Daneet Steffens, updates on mystery, suspense, and crime fiction"
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

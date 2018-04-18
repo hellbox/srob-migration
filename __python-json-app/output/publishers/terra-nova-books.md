@@ -10,5 +10,5 @@ last_updated = "2016-11-25T14:59:00-08:00"
 preview_url = "8c10a875-ba93-a300-8dc9-19066464d0bb"
 name = "Terra Nova Books"
 title = "Terra Nova Books"
-books_by_this_publisher = ["books/to-drink-from-the-silver-cup"]
+books_by_this_publisher = ["books/to-drink-from-the-silver-cup.md"]
 +++

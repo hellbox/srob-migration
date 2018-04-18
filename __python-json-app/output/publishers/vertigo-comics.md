@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Vertigo Comics"
 title = "Vertigo Comics"
-books_by_this_publisher = ["books/how-to-understand-israel-in-60-days-or-less"]
+books_by_this_publisher = ["books/how-to-understand-israel-in-60-days-or-less.md"]
 +++

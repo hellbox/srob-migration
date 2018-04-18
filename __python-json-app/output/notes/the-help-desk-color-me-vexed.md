@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461947607022/Cien
 twitterauto = "A Seattle-area bookseller is getting tired of the \"adult coloring book\" craze. Does @ciennam have any advice?"
 facebookauto = "In today's Help Desk, a Seattle-area bookseller is getting tired of the \"adult coloring book\" craze."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/coloring-books"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/coloring-books.md"]
 notes_about = ""
 books = ""
 +++

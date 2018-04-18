@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Wondering what the @HugoHouse's last month on Capitol Hill for a while will look like? Here are all the answers."
 facebookauto = "T-minus one month to the Hugo House's last Capitol Hill event for a while."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501707668323/The%
 twitterauto = "If you've ever dreamed of packing it up and moving to another country, sponsor Molly McCord's memoir is for you."
 facebookauto = "If you've ever dreamed of packing it up and moving to another country (and who hasn't?), sponsor Molly McCord's memoir is for you."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/the-art-of-trapeze"]
+books = ["books/the-art-of-trapeze.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1501707668323/The%20Art%20of%20Trapeze_125.jpeg)</p>
 

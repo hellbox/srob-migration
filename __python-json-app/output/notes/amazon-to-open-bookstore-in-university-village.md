@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444326262698/url.
 twitterauto = "This morning, @ShelfAwareness broke the news that Amazon could be opening a bookstore at University Village."
 facebookauto = "Shelf Awareness is reporting that Amazon is quite possibly about to open a brick-and-mortar bookstore at University Village. Local booksellers have been approached with mysterious job offers. What will this mean for Seattle's literary culture? The speculation starts now."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon", "tags/independent-bookstores"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md", "tags/independent-bookstores.md"]
 notes_about = ""
 books = ""
 +++

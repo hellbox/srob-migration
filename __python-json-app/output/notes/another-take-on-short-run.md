@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478812755705/IMG_
 twitterauto = "Another take on @shortrunseattle!"
 facebookauto = "Another take on Short Run Comix & Arts"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

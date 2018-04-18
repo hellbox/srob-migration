@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443768835080/czsd
 twitterauto = "The APRIL Festival is throwing a pledge drive. Can you spare ten bucks? Why not support local literature?"
 facebookauto = "The APRIL Festival is throwing a pledge drive, complete with tote bags. This is your chance to support independent literature in Seattle."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/april"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/april.md"]
 notes_about = ""
 books = ""
 +++

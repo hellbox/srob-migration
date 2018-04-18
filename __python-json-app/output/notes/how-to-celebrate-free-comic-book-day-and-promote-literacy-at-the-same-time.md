@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493330871117/comi
 twitterauto = "We talked with @ComicsDungeon president Scott Tomlin about his new comics literacy project."
 facebookauto = "Just in time for Free Comic Book Day, we talked with Comics Dungeon president Scott Tomlin about his new nonprofit comics literacy project."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/comics-dungeon", "tags/comics-for-community-compassion-and-culture"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/comics-dungeon.md", "tags/comics-for-community-compassion-and-culture.md"]
 notes_about = ""
 books = ""
 +++

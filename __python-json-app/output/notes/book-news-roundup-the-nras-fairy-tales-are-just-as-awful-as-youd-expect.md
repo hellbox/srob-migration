@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's book news roundup includes the NRA, e-books and the literacy crisis, and bookish fashions."
 facebookauto = ""
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

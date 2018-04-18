@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "You should consider going to see Kevin Young, one of our best poets, @HugoHouse tonight."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

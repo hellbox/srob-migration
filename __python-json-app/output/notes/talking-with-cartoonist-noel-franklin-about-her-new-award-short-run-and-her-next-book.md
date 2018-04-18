@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Cartoonist Noel Franklin just won a GAP Grant from @artisttrust. Here's what she's doing with the cash."
 facebookauto = "Seattle cartoonist Noel Franklin just won a GAP Grant from Artist Trust. Here's what she's doing with the cash."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md"]
 notes_about = ""
-books = ["books/rosalie-lightning"]
+books = ["books/rosalie-lightning.md"]
 +++
 <p class="image">![](/webhook-uploads/1476761911005/NoelFranklin.png)</p>
 

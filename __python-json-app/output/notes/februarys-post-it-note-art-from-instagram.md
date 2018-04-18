@@ -16,8 +16,8 @@ shareimage = "https://scontent-sea1-1.cdninstagram.com/vp/bc4c8b18f3a4510851fe80
 twitterauto = "Miss any of Clare Johnson's Post It Notes on our Instagram? See the February wrap-up here. "
 facebookauto = "Miss any of Clare Johnson's Post It Notes on our Instagram? See the February wrap-up here. "
 make_image_tweet = "False"
-notes_byline = ["writers/clare-johnson"]
-tags_notes = ["tags/post-it-note-project"]
+notes_byline = ["writers/clare-johnson.md"]
+tags_notes = ["tags/post-it-note-project.md"]
 notes_about = ""
 books = ""
 +++

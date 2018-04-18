@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sponsor @ChungSonya is here to offer a sample of her upcoming novel The Loved Ones."
 facebookauto = "Sponsor Sonya Chung is here to tell you about her upcoming book, The Loved Ones."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

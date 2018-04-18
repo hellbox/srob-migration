@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "There are all sorts of neat opportunities for writers over at @HugoHouse right now."
 facebookauto = "If you're a writer in Seattle, Hugo House has some neat opportunities that you should know about."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

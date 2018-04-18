@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490393151058/zapp
 twitterauto = "We talked with the @ZAPPSeattle administration about the future of Seattle's zine culture."
 facebookauto = "We talked with ZAPP's administration about the future of Seattle's zine culture."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/zapp", "tags/hugo-house", "tags/seattle-public-library", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/zapp.md", "tags/hugo-house.md", "tags/seattle-public-library.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

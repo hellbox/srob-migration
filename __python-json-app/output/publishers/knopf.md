@@ -10,5 +10,5 @@ last_updated = "2015-08-28T20:28:00-07:00"
 preview_url = "a5a27db1-959f-e6e6-43fd-a43c0c7c7277"
 name = "Knopf"
 title = "Knopf"
-books_by_this_publisher = ["books/days-of-awe", "books/dear-fang-with-love", "books/in-other-words", "books/absolutely-on-music", "books/conclave", "books/other-people"]
+books_by_this_publisher = ["books/days-of-awe.md", "books/dear-fang-with-love.md", "books/in-other-words.md", "books/absolutely-on-music.md", "books/conclave.md", "books/other-people.md"]
 +++

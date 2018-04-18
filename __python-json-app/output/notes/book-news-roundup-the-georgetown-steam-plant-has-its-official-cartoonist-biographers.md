@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509557902962/Nonp
 twitterauto = "Did you know that @RepJayapal has a book club @ThirdPlaceBooks?"
 facebookauto = "Today in Book News: Pramila Jayapal has a book club and the Georgetown Steam Plant has its cartoonist biographers."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/seattle-city-of-literature", "tags/third-place-books-seward-park"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/seattle-city-of-literature.md", "tags/third-place-books-seward-park.md"]
 notes_about = ""
-books = ["books/citizen"]
+books = ["books/citizen.md"]
 +++
 * In the midst of [all the exciting City of Literature news yesterday](http://www.seattlereviewofbooks.com/notes/2017/10/31/seattle-designated-a-unesco-city-of-literature-the-world-is-looking-at-seattle-as-a-cultural-leader/), this piece of news didn't get the attention it deserves: [David Lasky and Mairead Case have been selected](http://artbeat.seattle.gov/2017/10/31/historic-georgetown-steam-plant-powers-graphic-novel/) to create a fictionalized graphic novel about the beautiful old Georgetown Steam Plant. (We [told you about the open call for Seattle cartoonists](http://www.seattlereviewofbooks.com/notes/2017/06/06/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel/) five months ago.) Case and Lasky will be blogging about the experience of creating the graphic novel on the new site [Steam Plant Graphic Novel: The Blog!](http://steamplantgraphicnovel.com/) Bookmark that site, now; it should be an interesting look into the research and process of two of Seattle's finest cartooning talents.
 

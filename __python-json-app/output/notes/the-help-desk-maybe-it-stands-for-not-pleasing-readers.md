@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "When an NPR affiliate stops running author interviews, should readers stop donating?"
 facebookauto = "When an NPR affiliate stops running author interviews, should readers stop donating?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/npr"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/npr.md"]
 notes_about = ""
 books = ""
 +++

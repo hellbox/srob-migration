@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Save the date for the 4th annual Cascadia Poetry Festival, November 3rd to 6th."
 facebookauto = "Now that it's fall, you should start planning your literary season. Here's a must-attend: the fourth annual Cascadia Poetry Festival happens from November 3rd to November 6th. This one is going to be especially good."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/cascadia-poetry-festival"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/cascadia-poetry-festival.md"]
 notes_about = ""
 books = ""
 +++

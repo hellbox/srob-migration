@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's book news roundup includes the most prolific comics pirate in the world."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comics", "tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comics.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

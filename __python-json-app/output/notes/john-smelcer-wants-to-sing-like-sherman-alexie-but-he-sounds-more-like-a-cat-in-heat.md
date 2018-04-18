@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Are we supposed to believe that John Smelcer rode in a car with John Updike to meet J.D. Salinger?"
 facebookauto = "Are we supposed to believe that John Smelcer rode in a car with John Updike to meet J.D. Salinger?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/you-dont-have-to-say-you-love-me"]
+books = ["books/you-dont-have-to-say-you-love-me.md"]
 +++
 It's now apparent that [John Smelcer is a literary fraud](http://www.seattlereviewofbooks.com/notes/2017/08/28/i-just-want-to-go-on-the-record-in-case-i-unexpectedly-die-that-i-havent-read-any-book-by-john-smelcer/). Smelcer appears to have fabricated a Native heritage and blurbs from any number of now-deceased big-name authors. And now [this 2014 story by Smelcer](http://old.ragazine.cc/2012/12/smelcer-updike/), a supposedly non-fiction essay about a road trip with John Updike to meet J.D. Salinger, is [making the rounds online](https://mobile.twitter.com/StribBooks/status/902627766771769344).
 

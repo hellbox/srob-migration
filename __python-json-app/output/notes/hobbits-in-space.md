@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What did J.G. Ballard think of the original Star Wars movie? Well, to put it nicely: he wasn't crazy about it."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/star-wars"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/star-wars.md"]
 notes_about = ""
 books = ""
 +++

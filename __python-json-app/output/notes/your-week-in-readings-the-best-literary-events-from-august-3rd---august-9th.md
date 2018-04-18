@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here are the events you need to know about this week, including two festivals and adorable dogs."
 facebookauto = "Here are all the events you need to know about this week, including two festivals and an event where adorable kids read to adorable dogs."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/spartan", "tags/bibliophilia"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/spartan.md", "tags/bibliophilia.md"]
 notes_about = ""
 books = ""
 +++

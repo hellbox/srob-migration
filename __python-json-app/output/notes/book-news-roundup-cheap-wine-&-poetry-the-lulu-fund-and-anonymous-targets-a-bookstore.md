@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's book news roundup is about Cheap Wine & Poetry, the Lulu Fund, and Anonymous."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/cheap-wine-&amp;-poetry", "tags/hugo-house", "tags/anonymous"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/cheap-wine-&amp;-poetry.md", "tags/hugo-house.md", "tags/anonymous.md"]
 notes_about = ""
 books = ""
 +++

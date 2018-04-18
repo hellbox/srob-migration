@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Last night's Lit Crawl was loud and quiet and good and not so good and there was a really bad bartender."
 facebookauto = "Last night's Lit Crawl was loud and quiet and good and not so good and there was a really bad bartender."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

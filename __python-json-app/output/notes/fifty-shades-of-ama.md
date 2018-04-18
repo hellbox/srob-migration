@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/twitter"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/twitter.md"]
 notes_about = ""
-books = ["books/fifty-shades-of-grey"]
+books = ["books/fifty-shades-of-grey.md"]
 +++
 The #AskELJames hashtag [went horribly wrong](http://www.upworthy.com/the-fifty-shades-of-grey-author-had-a-twitter-chat-it-went-off-the-rails-big-time?g=2&c=ag).

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's @rahawahaile's short story time! This week featuring @nicolettewcc, @mhbertino, @ursulaofthebook, and others"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-story-of-the-day"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md", "tags/short-story-of-the-day.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Sponsor @fbpress is showing the work of chapbook finalist @bccooney2000 this week. "
 facebookauto = "Sponsor Floating Bridge Press is showing the work of chapbook finalist Brian Cooney this week."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/my-idea-of-fun"]
+books = ["books/my-idea-of-fun.md"]
 +++
 Sponsor Floating Bridge Press is back to present 2015 Chapbook Award finalist Brian Cooney, and his book _My Idea of Fun_. As always, Floating Bridge's Chapbook Award brings out the best in local poetry, and in Cooney they found a poet who is direct, funny, and connected to pop culture in an expressive way.
 

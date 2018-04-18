@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502829532647/SRoB
 twitterauto = "Portrait Gallery: Anne-Christine d\u2019Adesky #illustration by @studiochristine. The Pox Lover @ElliottBayBooks Fri 8/17"
 facebookauto = "Portrait Gallery: Anne-Christine d\u2019Adesky painted by Christine Marie Larsen. "
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

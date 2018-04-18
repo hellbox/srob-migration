@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Fire and Fury goes on sale tomorrow morning at 9 am ET. Please buy it from an independent bookstore, okay?"
 facebookauto = "Fire and Fury goes on sale tomorrow morning at 9 am ET. Please buy it from an independent bookstore, okay?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

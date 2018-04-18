@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486017860307/unna
 twitterauto = "Someone's using old Hanna Barbera cartoons to mock economics and worship Tennessee Williams."
 facebookauto = "If you can turn old Hanna Barbera cartoons into a deft satire of economics and a Tennessee Williams biopic, you're automatically one of our new favorite writers.."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

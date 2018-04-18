@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461537980601/shel
 twitterauto = "And the two Northwest poets who best reflect the nature of Open Books are..."
 facebookauto = "We asked Open Books owner John Marshall to choose a few books that perfectly reflected the character of his store. Here are the books he chose:"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/open-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/open-books.md"]
 notes_about = ""
 books = ""
 +++

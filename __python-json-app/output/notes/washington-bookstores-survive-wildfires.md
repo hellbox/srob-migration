@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Washington booksellers, including the excellent Trail's End Bookstore, are struggling with wildfires. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/washington-state", "tags/trails-end-bookstore"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/washington-state.md", "tags/trails-end-bookstore.md"]
 notes_about = ""
 books = ""
 +++

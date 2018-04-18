@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523319773915/A-Ye
 twitterauto = "We talked with bookstore owners from north and south Seattle about Independent Bookstore Day."
 facebookauto = "We talked with bookstore owners from north and south Seattle about Independent Bookstore Day."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/independent-bookstores"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/independent-bookstores.md"]
 notes_about = ""
 books = ""
 +++

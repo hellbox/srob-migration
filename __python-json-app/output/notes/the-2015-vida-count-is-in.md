@@ -16,8 +16,8 @@ shareimage = "http://www.vidaweb.org/wp-content/uploads/2016/03/McSweeneys-665x8
 twitterauto = "The 2015 @VIDA_lit count is in! How inclusive are your favorite literary publications?"
 facebookauto = "The 2015 VIDA count is in! How inclusive are your favorite literary publications?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/vida"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/vida.md"]
 notes_about = ""
 books = ""
 +++

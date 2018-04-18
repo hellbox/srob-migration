@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515649276125/3385
 twitterauto = "Music in SFFH, plus reviews of @Marie_Lu, @Harkaway, and more in @nisishawl's Future Alternative Past this mont. "
 facebookauto = "Music in SFFH, plus reviews of Marie Lu, Nick Harkaway, Alastair Reynold, and more in this month's Future Alternative Past, by Nisi Shawl."
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

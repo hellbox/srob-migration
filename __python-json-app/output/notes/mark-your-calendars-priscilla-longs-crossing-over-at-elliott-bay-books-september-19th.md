@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Join our sponsor Priscilla Long at @ElliottBayBooks Sept 19th for her book launch and reading."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

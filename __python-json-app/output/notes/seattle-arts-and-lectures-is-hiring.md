@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Want to help kids learn to love writing? @SeaArtsLectures is hiring for their Writers in the Schools program."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-arts-and-lectures", "tags/job-opening", "tags/writers-in-the-schools"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-arts-and-lectures.md", "tags/job-opening.md", "tags/writers-in-the-schools.md"]
 notes_about = ""
 books = ""
 +++

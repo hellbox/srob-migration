@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Patient zero, crossing the border from both sides, and the virtues of milk chocolate, all on today's Sunday Post."
 facebookauto = "Patient zero, crossing the border from both sides, and the virtues of milk chocolate, all on today's Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

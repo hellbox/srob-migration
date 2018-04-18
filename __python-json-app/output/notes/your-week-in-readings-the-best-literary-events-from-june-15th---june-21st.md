@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465629271805/grun
 twitterauto = "Your week in readings kicks off with Mary Roach @THSEA tonight!"
 facebookauto = "Here's a list of all the best literary events this week, beginning with Mary Roach's reading at Town Hall tonight."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library", "tags/town-hall-seattle", "tags/elliott-bay-book-company", "tags/clarion-west"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/town-hall-seattle.md", "tags/elliott-bay-book-company.md", "tags/clarion-west.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "On Friday, we're presenting @Sherman_Alexie, @Misterlashley, & @hisisEJKoh in a free reading @elliottbaybooks."
 facebookauto = "Sherman Alexie has had a hell of a year: his mother passed away, he survived serious brain surgery to remove a large tumor, and now he's sharing the stage with younger writers who deserve your attention. Join him this Friday at Elliott Bay Book Company."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

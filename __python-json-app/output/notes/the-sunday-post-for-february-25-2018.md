@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In the Sunday Post, @everywhereist on bullies, @RahawaHaile on Black Panther, @sarahjeong on whisper networks, & more"
 facebookauto = "This week's Sunday Post: Geraldine DeRuiter on bullies, Rahawa Haile on Black Panther, Sarah Jeong on whisper networks, and more."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

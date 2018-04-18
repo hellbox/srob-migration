@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489632244497/thei
 twitterauto = "Your Week in Readings includes a poetry brothel and a book about an idiot."
 facebookauto = "Your Week in Readings includes a poetry brothel and a book about an idiot."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

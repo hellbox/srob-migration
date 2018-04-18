@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482277337624/turn
 twitterauto = "We interviewed an @SPLBuzz librarian about how the library chose one book for all Seattle to read in 2017."
 facebookauto = "We interviewed Angela Gough from the Seattle Public Library about how the library chose one book for all Seattle to read in 2017."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-reads", "tags/stesha-brandon", "tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-reads.md", "tags/stesha-brandon.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

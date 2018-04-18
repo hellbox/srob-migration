@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Tonight's best literary event is a group reading with @t_m_at, @BloodtoBloom, & @SampsonStarkwea. More info:"
 facebookauto = "We've got a Rainier Valley Lit Crawl, a pair of sci-fi readings, a comics party, and a chance to get drunk with Seattle's finest librarians happening this week. Here's one great event for every day of the week."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/intruder", "tags/university-book-store", "tags/seattle-public-library", "tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/intruder.md", "tags/university-book-store.md", "tags/seattle-public-library.md", "tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

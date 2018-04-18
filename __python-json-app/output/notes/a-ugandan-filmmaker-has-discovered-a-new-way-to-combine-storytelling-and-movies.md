@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495389178737/Scre
 twitterauto = "At @SIFFNews, you can watch a Ugandan action movie that comes with its own hype man."
 facebookauto = "The Ugandan micro-movie-studio Wakaliwood makes action movies that come with their own color commentary narrated over the top."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/siff", "tags/film"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/siff.md", "tags/film.md"]
 notes_about = ""
 books = ""
 +++

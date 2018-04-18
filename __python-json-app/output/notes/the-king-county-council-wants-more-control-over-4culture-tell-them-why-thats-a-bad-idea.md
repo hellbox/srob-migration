@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The King County Council wants more control over 4Culture. Tell them why that's a bad idea."
 facebookauto = "We like government! More government! But maybe we don't need more government oversight of our cultural grant programs?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/4culture"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/4culture.md"]
 notes_about = ""
 books = ""
 +++

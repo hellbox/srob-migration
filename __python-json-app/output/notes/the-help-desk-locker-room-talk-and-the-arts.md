@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What do you do when a man in power at an arts organization talks like a locker-room dirtbag?"
 facebookauto = "What do you do when a man in power at an arts organization talks like a locker-room dirtbag?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/donald-trump"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/celebrity", "tags/memoir", "tags/cover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/celebrity.md", "tags/memoir.md", "tags/cover.md"]
 notes_about = ""
-books = ["books/ill-never-write-my-memoirs"]
+books = ["books/ill-never-write-my-memoirs.md"]
 +++
 Here is the cover of [Grace Jones's upcoming memoir](http://www.adweek.com/galleycat/cover-unveiled-for-new-grace-jones-memoir/106077), *I'll Never Write My Memoirs*.
 

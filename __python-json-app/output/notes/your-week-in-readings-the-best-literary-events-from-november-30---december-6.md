@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479857659523/Moon
 twitterauto = "This week in readings brings Charles Johnson, Michael Chabon, and Thomas Friedman, plus lots more."
 facebookauto = "This week in readings brings Charles Johnson, Michael Chabon, and Thomas Friedman, plus a literary crawl in Rainier Valley and Urban Craft Uprising!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

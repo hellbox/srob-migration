@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Should you feel guilty about buying used books? What if you go to a reading and don't buy a book?"
 facebookauto = "In this week's advice column, one letter-writer feels guilty about buying used books. Another feels guilty about going to readings and not buying a copy of the book. Cienna Madrid wants them to know what real guilt feels like."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/readings"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/readings.md"]
 notes_about = ""
 books = ""
 +++

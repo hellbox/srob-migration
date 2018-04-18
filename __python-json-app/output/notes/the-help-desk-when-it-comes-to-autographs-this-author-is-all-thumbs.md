@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493398462786/VonS
 twitterauto = "This author has such bad handwriting that \"every time I sign a copy of my book, I feel like I\u2019m defacing it.\""
 facebookauto = "This author has such bad handwriting that \"every time I sign a copy of my book, I feel like I\u2019m defacing it.\" What should he do?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/the-help-desk", "tags/autograph"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/autograph.md"]
 notes_about = ""
 books = ""
 +++

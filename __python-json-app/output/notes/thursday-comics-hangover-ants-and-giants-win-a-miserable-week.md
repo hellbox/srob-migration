@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445486410222/gian
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/giant-days", "tags/ant-man", "tags/godzilla-in-hell"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/giant-days.md", "tags/ant-man.md", "tags/godzilla-in-hell.md"]
 notes_about = ""
 books = ""
 +++

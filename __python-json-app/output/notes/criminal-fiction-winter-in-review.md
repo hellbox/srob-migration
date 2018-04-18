@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510181926420/Heat
 twitterauto = "In Criminal Fiction, @daneetsteffens interviews @jon_mcgregor, and reviews @winniemli and more."
 facebookauto = "In Criminal Fiction, Daneet Steffens interviews Jon McGregor, and reviews Winnie M Li, and more."
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

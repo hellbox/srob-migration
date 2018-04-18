@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1512781605956/mon
 twitterauto = "It's time for sponsor Arundel & Chatwin Books holiday party! Join them and special guest Carl Montford this Friday."
 facebookauto = "It's time for sponsor Arundel Books holiday party! This year's special guest is celebrated wood engraver Carl Montford. Join them Friday for music, art, books, and a little bit of bubbly."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

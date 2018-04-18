@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450135132044/617P
 twitterauto = "The owner of @SecretGardenBks recommends @choldenko's Chasing Secrets for your holiday gift-giving needs."
 facebookauto = "The owner of Secret Garden Books has two book recommendations for you: one with pictures and one without."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/secret-garden-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/secret-garden-books.md"]
 notes_about = ""
 books = ""
 +++

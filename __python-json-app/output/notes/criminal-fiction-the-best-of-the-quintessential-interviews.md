@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Catch up with the best of @daneetsteffens's Criminal Fiction!"
 facebookauto = "Catch up with the best of Daneet Steffen's Criminal Fiction!"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

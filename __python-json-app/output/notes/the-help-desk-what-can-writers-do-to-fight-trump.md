@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's advice column: how can writers best channel their energy to combat Trump?"
 facebookauto = "A reader asks: what can writers do to combat Trump, other than write long rants on Facebook? You should read Cienna Madrid's excellent response."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/donald-trump", "tags/the-atlantic"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/donald-trump.md", "tags/the-atlantic.md"]
 notes_about = ""
 books = ""
 +++

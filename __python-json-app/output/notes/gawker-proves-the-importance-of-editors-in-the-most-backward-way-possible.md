@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/media", "tags/gawker"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/media.md", "tags/gawker.md"]
 notes_about = ""
 books = ""
 +++

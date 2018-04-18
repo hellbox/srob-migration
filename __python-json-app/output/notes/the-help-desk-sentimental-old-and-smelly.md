@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What do you do if your granddad leaves you a bunch of great books, but they're incredibly smelly?"
 facebookauto = "A question for our advice columnist: granddad left me some books when he died. Granddad was a smoker. Those books smell like hell. What should I do with them?"
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

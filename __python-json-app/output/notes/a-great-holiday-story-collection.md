@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Grey Sun Press is our sponsor this week, with a completely engaging book of cross-genre holiday stories."
 facebookauto = "Our sponsor this week is Grey Sun Press. They've published a fantastic collection of cross-genre holiday stories called \"Joy to the Worlds\". "
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/joy-to-the-worlds"]
+books = ["books/joy-to-the-worlds.md"]
 +++
 You may or may not be ready for the holidays, but it's [never the wrong time to read a great collection of themed stories](http://seattlereviewofbooks.com/sponsor/). This week's sponsor Grey Sun Press offers just that with _Joy to the Worlds: Mysterious Speculative Fiction for the Holidays_. 
 

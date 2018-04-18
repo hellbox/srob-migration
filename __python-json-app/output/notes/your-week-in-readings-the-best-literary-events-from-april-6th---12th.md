@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your week in readings includes a local comic book show, a celebration of Greenwood, and more."
 facebookauto = "Your week in readings includes a local comic book show, a celebration of Greenwood, and more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle", "tags/emerald-city-comicon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/town-hall-seattle.md", "tags/emerald-city-comicon.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Check out these great pictures of our readers from last Friday's @studiochristine opening. "
 facebookauto = "We have an Instagram account (http://instagram.com/seattlereviewof)! See us put it to good use on this post about thanking everybody for coming out last Friday. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/events"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/events.md"]
 notes_about = ""
 books = ""
 +++

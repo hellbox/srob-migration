@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A book that recast slave-owning Thomas Jefferson as a civil rights leader has been disavowed by its publisher."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

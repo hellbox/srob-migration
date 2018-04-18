@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487003775410/secr
 twitterauto = "Sponsor @mamster will be appearing at @Adason15th on March 19th! More on our page...."
 facebookauto = "Sponsor Matthew Amster-Burton will be appearing at Ada's Technical Books on the 19th of March! Find our more about his amazingly cool debut novel on our page."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "New Philip Pullman! New Philip Pullman! New Phiip Pullman! October 19th! New Philip Pullman!"
 facebookauto = "We haven't seen literary folks this giddy since before the election."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/young-adult", "tags/science-fiction"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/young-adult.md", "tags/science-fiction.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in book news: Why you should start a computer science book club."
 facebookauto = "Today in book news: More women are buying digital comics than ever before, and why you should start a computer science book club."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/seattle-arts-and-lectures"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/seattle-arts-and-lectures.md"]
 notes_about = ""
 books = ""
 +++

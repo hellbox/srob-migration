@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493263416936/afar
 twitterauto = "Afar from @leiladelduca and @KitSeaton is comic book for young daydreamers."
 facebookauto = "\"This is the kind of book I wish I\u2019d found in a school library when I was 15,\" Paul Constant says of Leila Del Duca and Kit Seaton's YA space fantasy comic Afar."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

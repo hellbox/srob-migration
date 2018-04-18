@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Village Voice is ending its print publication. Things are getting bad out there for alt-weeklies."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/media"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/media.md"]
 notes_about = ""
 books = ""
 +++

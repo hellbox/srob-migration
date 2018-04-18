@@ -16,7 +16,7 @@ shareimage = ""
 twitterauto = "Two un=produced screenplays about Stephen King won awards yesterday."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
 books = ""

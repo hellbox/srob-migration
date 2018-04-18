@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "We asked @3rdplacepress to share a summer book pick & he gave us some fall books to look out for, too."
 facebookauto = "We asked Vlad from Third Place Books to share a summer book pick and he gave us some great-looking fall books to look out for, too."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/novel", "tags/south-seattle-emerald"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/novel.md", "tags/south-seattle-emerald.md"]
 notes_about = ""
-books = ["books/margaret-the-first"]
+books = ["books/margaret-the-first.md"]
 +++
 This month, I’ve been asking booksellers to name their summer reading picks. It’s been delightful. But the problem with asking booksellers about books they recommend for the summer is that most of them are likely already reading books that will be coming out this fall. Librarians and booksellers are often months ahead on the new-release front.
 

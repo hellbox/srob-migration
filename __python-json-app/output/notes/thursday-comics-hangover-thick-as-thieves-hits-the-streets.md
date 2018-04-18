@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487226148326/Noel
 twitterauto = "The first issue of the new free Seattle comic newspaper Thick as Thieves just hit the streets. Go find a copy."
 facebookauto = "The first issue of the new free Seattle comic newspaper Thick as Thieves just hit the streets. Go find a copy."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/thick-as-thieves", "tags/intruder"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/thick-as-thieves.md", "tags/intruder.md"]
 notes_about = ""
 books = ""
 +++

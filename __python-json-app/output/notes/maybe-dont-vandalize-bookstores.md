@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "No, terrorists did not open a gift shop in Denver."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/news", "tags/isis"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/news.md", "tags/isis.md"]
 notes_about = ""
 books = ""
 +++

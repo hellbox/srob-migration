@@ -16,9 +16,9 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449084766776/0-yU
 twitterauto = "Ask local novelist Jonathan Evison anything you want on Reddit today. He's brutally honest, so this could be fun."
 facebookauto = "The brutally honest novelist Jonathan Evison\u2014once called  \u201cthe most honest white man alive\" by Sherman Alexie\u2014will be running a Reddit Ask Me Anything today. This is a great opportunity to ask those probing business questions you've been dying to ask a novelist all these years."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reddit"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reddit.md"]
 notes_about = ""
-books = ["books/the-revised-fundamentals-of-caregiving", "books/this-is-your-life-harriet-chance!"]
+books = ["books/the-revised-fundamentals-of-caregiving.md", "books/this-is-your-life-harriet-chance!.md"]
 +++
 At 2 pm, Bainbridge Island author Jonathan Evison, author of novels like [*This Is Your Life, Harriet Chance!*](http://seattlereviewofbooks.com/reviews/heaven-is-a-place-on-earth/) and the excellent [*The Revised Fundamentals of Caregiving*](https://medium.com/@paulconstant/bringing-the-hurt-ae10a2311d55#.yhs1anyzw) will be doing an Ask Me Anything on Reddit. [Follow this link](https://www.reddit.com/r/books/comments/3v65p1/hi_im_jonathan_evison_author_of_this_is_your_life/) and, well, ask Evison anything. In my experience, he's always been [remarkably open](http://www.thestranger.com/seattle/how-much-do-novelists-make/Content?oid=15445088) in interviews, from the business side of things to what he thinks of other writers. I can pretty much guarantee he'll be painfully honest, which makes this an interesting opportunity for those burning questions you've always wanted to drop on a novelist.

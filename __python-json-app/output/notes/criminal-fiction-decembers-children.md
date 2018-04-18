@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's December's Criminal Fiction column, by @daneetsteffens!"
 facebookauto = "It's December's Criminal Fiction column, by Daneet Steffens!"
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

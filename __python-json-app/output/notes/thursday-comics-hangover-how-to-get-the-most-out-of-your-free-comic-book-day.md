@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493876450665/worl
 twitterauto = "Don't forget: this Saturday is #FreeComicDay in Seattle. Here's our guide:"
 facebookauto = "Don't forget:\u00a0this Saturday is Free Comic Book Day in Seattle. Here's our guide to help you achieve maximum enjoyment:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/free-comic-book-day", "tags/phoenix-comics-and-games", "tags/fantagraphics-bookstore-&amp;-gallery"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/free-comic-book-day.md", "tags/phoenix-comics-and-games.md", "tags/fantagraphics-bookstore-&amp;-gallery.md"]
 notes_about = ""
 books = ""
 +++

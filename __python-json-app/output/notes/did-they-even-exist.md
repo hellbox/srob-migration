@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, by Carlynn Newhouse, packs a serious punch. "
 facebookauto = "Our Tuesday Poem, by Carlynn Newhouse, packs a serious punch. "
 make_image_tweet = "False"
-notes_byline = ["writers/carlynn-newhouse"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/carlynn-newhouse.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

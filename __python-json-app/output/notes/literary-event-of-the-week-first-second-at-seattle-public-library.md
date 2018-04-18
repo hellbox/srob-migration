@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487820412685/amer
 twitterauto = "It's Emerald City Comicon time again! Here are all the fun free things you can do without a show pass:"
 facebookauto = "It's Emerald City Comicon time again! Here are all the fun free things you can do without a show pass:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/seattle-public-library", "tags/outsider-comics", "tags/comics-dungeon", "tags/emerald-city-comicon", "tags/phoenix-comics-and-games"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/seattle-public-library.md", "tags/outsider-comics.md", "tags/comics-dungeon.md", "tags/emerald-city-comicon.md", "tags/phoenix-comics-and-games.md"]
 notes_about = ""
 books = ""
 +++

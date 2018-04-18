@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This post was almost a tweetstorm. Support our writers in their choices to not tweetstorm by reading it."
 facebookauto = "This post was almost a tweetstorm. Support our writers in their choices to not tweetstorm by reading  it."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/politics", "tags/donald-trump"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/politics.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

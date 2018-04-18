@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our book news roundup features @shortrunseattle, @1jesswalter, @twosylviaspress, and much, much more."
 facebookauto = "Our book news roundup features the angriest feminist bookstore in all of Portland, the new Short Run schedule, a couple big prizes for writers, and an artificial intelligence that eats books."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449262766152/bn.j
 twitterauto = "Barnes & Noble wants to become a \"lifestyle brand?\" Bad idea. People go to @BNBuzz for books, not plastic crap."
 facebookauto = "First Borders lost focus and died. Now Barnes & Noble is trying to de-emphasize books and promote itself as a \"lifestyle brand.\" This is an absolutely terrible idea."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/barnes-&amp;-noble", "tags/retail"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/barnes-&amp;-noble.md", "tags/retail.md"]
 notes_about = ""
 books = ""
 +++

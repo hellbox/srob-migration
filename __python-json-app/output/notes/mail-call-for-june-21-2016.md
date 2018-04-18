@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466560980995/IMG_
 twitterauto = "Mail Call!"
 facebookauto = "Mail Call!"
 make_image_tweet = "True"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

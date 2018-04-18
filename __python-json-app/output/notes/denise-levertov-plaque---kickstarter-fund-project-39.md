@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1475334874579/leve
 twitterauto = "The Kickstarter Fund backs @Splabman's effort to honor Denise Levertov"
 facebookauto = "The Kickstarter Fund backs SPLAB, and Paul Nelson, in their effort to honor Denise Levertov"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

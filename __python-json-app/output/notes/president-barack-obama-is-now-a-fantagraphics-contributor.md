@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457326012051/comp
 twitterauto = "So @fantagraphics just announced their latest contributor: @POTUS."
 facebookauto = "Fantagraphics just announced their latest contributor: President Barack Obama."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics", "tags/barack-obama"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics.md", "tags/barack-obama.md"]
 notes_about = ""
 books = ""
 +++

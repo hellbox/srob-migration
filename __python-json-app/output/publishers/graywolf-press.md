@@ -10,5 +10,5 @@ last_updated = "2015-11-19T19:56:00-08:00"
 preview_url = "307d128a-c0a3-5d23-cc09-3b7df5d8c32d"
 name = "Graywolf Press"
 title = "Graywolf Press"
-books_by_this_publisher = ["books/citizen", "books/the-argonauts", "books/her-body-and-other-parties"]
+books_by_this_publisher = ["books/citizen.md", "books/the-argonauts.md", "books/her-body-and-other-parties.md"]
 +++

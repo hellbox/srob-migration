@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're super-excited for @SeaArtsLectures upcoming season! Here are a few of our picks:"
 facebookauto = "Seattle Arts & Lectures just announced the writers coming to town for their upcoming 2016-17 season. Here are some of the writers we're most looking forward to."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-arts-and-lectures"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-arts-and-lectures.md"]
 notes_about = ""
 books = ""
 +++

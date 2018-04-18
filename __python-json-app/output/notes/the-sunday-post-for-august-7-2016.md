@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sunday Post: the #DarienGap, @POTUS' piece in @glamourmag, the art of pol. speechwriting, & #HinsdalePO's 200th bday"
 facebookauto = "Check out this week's Sunday Post for an article about perilous journeys through a lawless jungle, Obama's feminist piece for Glamour, a celebration of the Postal Service's 200th birthday, and what makes a good political speech. "
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

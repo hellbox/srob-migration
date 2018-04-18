@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457926305416/51zN
 twitterauto = "A school librarian tells us what the kids really want: ninjas and haunted things."
 facebookauto = "Our third interview with a school librarian gets into what the kids really want: ninjas and haunted things."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

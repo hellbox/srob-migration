@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508994490740/Righ
 twitterauto = "It's Criminal Fiction! @daneetsteffens interviews @joeidetweets, and reviews many others. "
 facebookauto = "It's Criminal Fiction! Daneet Steffens interviews Joe Ide, and reviews many others. "
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our latest @litcrawlseattle itinerary is entirely free of readings from white dudes. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/frye-art-museum", "tags/diversity"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/frye-art-museum.md", "tags/diversity.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Don't be a boob! Here's some important advice for men who write about breasts:"
 facebookauto = "Don't be a boob! Here's some important advice for men who write about breasts:"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/sexism"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/sexism.md"]
 notes_about = ""
 books = ""
 +++

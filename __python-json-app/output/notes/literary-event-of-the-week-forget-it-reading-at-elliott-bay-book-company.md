@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499919572944/Forg
 twitterauto = "Find out why all of Seattle is losing its mind over Anastacia-Renee."
 facebookauto = "All of Seattle is losing its mind over Anastacia-Renee. Find out why at Elliott Bay this week."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

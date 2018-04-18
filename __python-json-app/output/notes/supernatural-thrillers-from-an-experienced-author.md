@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "One more day to read a chapter from this week's sponsor @akelleherauthor!"
 facebookauto = "One more day to read work from our sponsor Anne Kelleher. She wonders what would happen if a modern-day person really did carry the bloodline of Jesus Christ. Her exciting supernatural thriller The Jesus Gene explores that question. "
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

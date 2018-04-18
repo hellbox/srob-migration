@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493696183684/59po
 twitterauto = "Our Poet in Residence for May is @Oliver_delapaz, and his first poem is titled \"Diaspora Sonnet I\""
 facebookauto = "Our Poet in Residence for May is Oliver de la Paz, and his first poem is titled \"Diaspora Sonnet I\""
 make_image_tweet = "False"
-notes_byline = ["writers/oliver-de-la-paz"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/oliver-de-la-paz.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

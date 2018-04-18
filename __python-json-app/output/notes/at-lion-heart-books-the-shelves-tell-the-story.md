@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our September Bookstore of the Month might be small, but it's remarkably well-stocked."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/lion-heart-books"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/lion-heart-books.md"]
 notes_about = ""
 books = ""
 +++

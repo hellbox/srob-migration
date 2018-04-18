@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517344213107/Lisa
 twitterauto = "We interviewed Lisa Rosenblum, the brand-new director of King County Library System (@KCLS)"
 facebookauto = "What books do you think Lisa Rosenblum, the new director of King County Library System, should read to learn about the region?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/new-hire", "tags/king-county-library-system"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/new-hire.md", "tags/king-county-library-system.md"]
 notes_about = ""
 books = ""
 +++

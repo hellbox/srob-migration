@@ -10,5 +10,5 @@ last_updated = "2016-05-30T21:33:00-07:00"
 preview_url = "389f25d5-406a-3265-2a27-ed08e332ac3b"
 name = "University of Georgia Press"
 title = "University of Georgia Press"
-books_by_this_publisher = ["books/daring-to-write"]
+books_by_this_publisher = ["books/daring-to-write.md"]
 +++

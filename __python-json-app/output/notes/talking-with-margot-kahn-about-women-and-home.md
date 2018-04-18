@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510612485052/this
 twitterauto = "We talked with Margot Kahn about her new @SealPress anthology on women and home."
 facebookauto = "We talked with Margot Kahn about her new Seal Press anthology on women and home."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

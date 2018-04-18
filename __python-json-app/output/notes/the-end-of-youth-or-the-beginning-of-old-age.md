@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "At a reading last night, four writers wrested with old age and youth. Old age came out looking better."
 facebookauto = "At a reading last night, four writers wrested with old age and youth. Old age came out looking better."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/april", "tags/pine-box"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/april.md", "tags/pine-box.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "RIP, Katherine Dunn. Your writing made people want to be writers."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/death.md"]
 notes_about = ""
-books = ["books/geek-love"]
+books = ["books/geek-love.md"]
 +++
 Katherine Dunn, the Oregon-based author of the incredible  novel *Geek Love*, [has died](http://www.wweek.com/news/2016/05/12/katherine-dunn-author-of-geek-love-dies-at-70/). *Geek Love* is one of those life-changing novels, the kind of misfit literature that inspires people to drop everything and become writers. (Lynda Barry's wonderful novel *Cruddy*, for example, would probably not exist without *Geek Love*.) Rather than reading a bunch of online reminiscences, I'd urge you to read [this OregonLive story](http://www.oregonlive.com/health/index.ssf/2009/11/boxing_day.html) from 2009 about how Dunn fought off a mugger:
 

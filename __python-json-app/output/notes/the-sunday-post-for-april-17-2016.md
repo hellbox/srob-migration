@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post, with pieces from @andyheisel, @kashhill, @joeloliphint, and more."
 facebookauto = "Good reading today, on the Sunday Post: men spanking women in movies, glitches in internet mapping, the Guardian's investigation into online comments, and a rare side-effect of a common nasal surgery that ends in tragedy. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Sometimes a novelist really shouldn't direct the movie adaptation of her own book. Case in point: Big Stone Gap."
 facebookauto = "The movie adaptation of Big Stone Gap, which was directed by the novelist who wrote Big Stone Gap, is pretty bad. How bad? Well, you might think you accidentally drank cough syrup before watching it."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/movies"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/movies.md"]
 notes_about = ""
-books = ["books/big-stone-gap"]
+books = ["books/big-stone-gap.md"]
 +++
 <p class="image">![](/webhook-uploads/1444368033537/Big-Stone-Grid.jpg)</p>
 

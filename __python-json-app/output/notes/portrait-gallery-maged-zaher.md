@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458852215653/SRoB
 twitterauto = "Maged Zaher is @studiochristine's subject for today's Portrait Gallery."
 facebookauto = "Maged Zaher is Christine Marie Larsen's subject this week! "
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

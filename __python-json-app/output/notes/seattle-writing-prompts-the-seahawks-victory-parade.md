@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494691312196/IMG_
 twitterauto = "Seattle Writing Prompts remembers a few stories from a massive crowd"
 facebookauto = "Seattle Writing Prompts remembers a few stories from a massive crowd"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

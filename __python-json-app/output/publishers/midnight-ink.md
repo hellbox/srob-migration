@@ -10,5 +10,5 @@ last_updated = "2016-01-17T09:39:00-08:00"
 preview_url = "04bd7633-f0d3-4e18-7e3b-a33566c2030b"
 name = "Midnight Ink"
 title = "Midnight Ink"
-books_by_this_publisher = ["books/karmas-a-killer"]
+books_by_this_publisher = ["books/karmas-a-killer.md"]
 +++

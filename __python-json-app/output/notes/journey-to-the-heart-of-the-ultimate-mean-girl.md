@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482433220449/2849
 twitterauto = "Joan Rivers is the perfect subject for a biography: funny, mean, cruel, hateful, and sometimes decent."
 facebookauto = "Joan Rivers is the perfect subject for a biography: funny, mean, cruel, hateful, and sometimes decent."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/biography"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/biography.md"]
 notes_about = ""
-books = ["books/last-girl-before-freeway"]
+books = ["books/last-girl-before-freeway.md"]
 +++
 Joan Rivers was one of the most fascinating entertainers of the 20th century. Anyone over the age of 30 can probably tell you something about her life — the way Johnny Carson blacklisted her from his show, for instance, or her QVC shopping empire, or her vicious insults of celebrities, or her catchphrase, "can we talk?" — and every adult under 30 has undoubtedly seen a comedian who was profoundly influenced by Rivers's work.
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Viral poems, librarian detectives, and Sherman Alexie star in Book News Roundup."
 facebookauto = "Viral poems, librarian detectives, JK Rowling's ferocious anti-Trumpism, and Sherman Alexie star in Book News Roundup."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/activism", "tags/protest"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/activism.md", "tags/protest.md"]
 notes_about = ""
 books = ""
 +++

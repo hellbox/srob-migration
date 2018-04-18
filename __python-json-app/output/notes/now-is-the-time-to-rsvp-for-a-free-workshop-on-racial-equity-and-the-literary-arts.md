@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Next week, @seacityoflit hosts the first of three free workshops on racial equity in the literary arts."
 facebookauto = "Next week, Seattle City of Literature hosts the first of three free workshops on racial equity in the literary arts. You should go."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-city-of-literature", "tags/stesha-brandon", "tags/race"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-city-of-literature.md", "tags/stesha-brandon.md", "tags/race.md"]
 notes_about = ""
 books = ""
 +++

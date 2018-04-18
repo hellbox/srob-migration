@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466205721597/invi
 twitterauto = "Your week in literary events begins tonight with a reading from the debut novel \"Grace\" @elliottbaybooks."
 facebookauto = "Your week in readings includes a discussion on race in America, a study of the internet as art, Chuck Palahniuk, and Sherman Alexie interviewing Mary-Louise Parker."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle", "tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/town-hall-seattle.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

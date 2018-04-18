@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sponsor @stevetoutonghi's book \"Join\" imagines a future where many minds make up a single consciousness."
 facebookauto = "Sponsor Steve Toutonghi's book \"Join\" imagines a future where many minds make up a single consciousness. This one is really great."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Tennessee is about to name an official state book. Can you guess what book it is?"
 facebookauto = "Tennessee is about to name an official state book. Can you guess what book it is?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bible"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bible.md"]
 notes_about = ""
 books = ""
 +++

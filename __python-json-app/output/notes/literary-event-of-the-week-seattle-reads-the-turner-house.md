@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493265458914/turn
 twitterauto = "Seattle in 2017 can learn an awful lot from a novel about Detroit in 2008."
 facebookauto = "Seattle in 2017 can learn an awful lot from a novel about Detroit in 2008."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/seattle-reads"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/seattle-reads.md"]
 notes_about = ""
-books = ["books/the-turner-house"]
+books = ["books/the-turner-house.md"]
 +++
 Every year, the Seattle Public Library chooses one book to headline its “Seattle Reads” program. The idea is to get as many copies of a single title into as many hands as possible, to bring the author to as many of Seattle’s neighborhoods as they can in a single week, and to examine a book thoroughly. It’s a noble idea and it raises some interesting questions about place and readership: does Ballard, say, read a book differently than Rainier Valley? How does a city read?
 

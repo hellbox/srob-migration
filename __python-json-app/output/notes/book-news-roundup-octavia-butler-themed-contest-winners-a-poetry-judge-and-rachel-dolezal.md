@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Read the winners of an Octavia Butler-themed writing contest in today's Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

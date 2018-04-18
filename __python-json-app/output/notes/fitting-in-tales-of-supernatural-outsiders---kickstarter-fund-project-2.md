@@ -16,8 +16,8 @@ shareimage = "https://ksr-ugc.imgix.net/projects/1915858/photo-original.jpg?v=14
 twitterauto = "The Kickstarter Fund this week put money into @madscijournal's latest project."
 facebookauto = "The Kickstarter Fund this week puts money into a local speculative fiction project from the Mad Scientist Journal. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

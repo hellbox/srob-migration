@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup: @Sasquatchbooks news, a discussion of Amazon Books, and space opera cliches."
 facebookauto = "Today's Book News Roundup includes Sasquatch news, e-book sales, a discussion of Amazon Books, and space opera cliches."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/sasquatch", "tags/amazon-books", "tags/e-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/sasquatch.md", "tags/amazon-books.md", "tags/e-books.md"]
 notes_about = ""
 books = ""
 +++

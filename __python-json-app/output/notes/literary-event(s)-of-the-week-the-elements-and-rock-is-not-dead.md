@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This Saturday, you've got two great comics parties to choose from."
 facebookauto = "This Saturday, you'll have to choose between two great comics parties."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

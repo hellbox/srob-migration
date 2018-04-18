@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post! With pieces by @igalvin, @nappy_techie, and more."
 facebookauto = "The terrors of OxyContin from the inside, Joan Didion, a remembrance of the Hugo House building, and being gaslighted by supposedly helpful rhetoric in the tech industry. It's the Sunday Post. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

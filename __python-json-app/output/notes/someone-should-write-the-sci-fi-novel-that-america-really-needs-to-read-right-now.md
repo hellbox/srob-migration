@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "An idea for sci-fi writers: Give us a novel where humanity finally does away with Nazism once and for all."
 facebookauto = "Science fiction always skips ahead to the fascist-free future where racism is no longer an issue. Some sci-fi author should write a novel about how that happens."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/racism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/racism.md"]
 notes_about = ""
-books = ["books/seveneves"]
+books = ["books/seveneves.md"]
 +++
 Nazism is on the rise in America, even though the generation that fought Nazis is still alive. I can’t be the only person who’s wondered if humanity is destined to repeat this resurgence of racists and white nationalists every 60 to 80 years, when the memory of the last battle has grown sufficiently dim. 
 

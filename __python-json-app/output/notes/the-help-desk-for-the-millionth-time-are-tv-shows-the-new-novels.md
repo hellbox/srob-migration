@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Are novels the new TV shows? (Sigh.) No."
 facebookauto = "Are novels the new TV shows? (Sigh.) No."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/donald-trump"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Celebrate the launch of a new book on NW sculptor Tom Small with this week's sponsor, Arundel and Chatwin Books."
 facebookauto = "Celebrate the launch of a new book on NW sculptor Tom Small with this week's sponsor, Arundel and Chatwin Books! Party and exhibit opening are this Thursday, 8/3, at Arundel's Pioneer Square shop."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/stories-in-stone-and-light"]
+books = ["books/stories-in-stone-and-light.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1500937300539/Tom%20Small%20cover_225.jpeg)</p>
 

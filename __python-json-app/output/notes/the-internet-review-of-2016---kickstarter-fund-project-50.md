@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481387072333/2544
 twitterauto = "The Kickstarter fund backs the @InternetReview_"
 facebookauto = "The Kickstarter Fund backs an awesome indie magazine, that seeks to capture the garbage fire of 2016, called the Internet Review. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

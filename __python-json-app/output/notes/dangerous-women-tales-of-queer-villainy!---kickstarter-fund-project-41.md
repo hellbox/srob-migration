@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476501371115/0bac
 twitterauto = "The Kickstarter Fund backs @northwestpress's \"Dangerous Women\""
 facebookauto = "The Kickstarter Fund backs Northwest Press's \"Dangerous Women\""
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

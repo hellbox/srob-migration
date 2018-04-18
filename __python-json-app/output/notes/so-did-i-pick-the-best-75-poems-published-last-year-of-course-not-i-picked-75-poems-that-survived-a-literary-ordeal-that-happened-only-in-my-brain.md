@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "It's not often you see the words \"Best American Poetry\" and \"controversy\" in the same sentence, but here we are."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry", "tags/hugo-awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md", "tags/hugo-awards.md"]
 notes_about = ""
-books = ["books/best-american-poetry-2015"]
+books = ["books/best-american-poetry-2015.md"]
 +++
 On [the Best American Poetry blog](http://blog.bestamericanpoetry.com/the_best_american_poetry/2015/09/like-most-every-poet-i-have-viewed-the-publication-of-each-years-best-american-poetry-with-happiness-i-love-that-poem-je-1.html), Sherman Alexie explains the process of guest-editing *Best American Poetry 2015*. He also addresses a controversy that's swirling around the book: 
 

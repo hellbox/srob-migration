@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "When @kickstarter reformed as a public benefit corp, it sent a strong signal of support to creators."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter.md"]
 notes_about = ""
 books = ""
 +++

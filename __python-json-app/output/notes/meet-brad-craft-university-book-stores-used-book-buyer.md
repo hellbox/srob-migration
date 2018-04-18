@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455083530050/1262
 twitterauto = "Meet @UsedbuyerBrad from our bookstore of the month, @ubookstorereads."
 facebookauto = "The bookseller from this month's Bookstore of the Month learned to love reading thanks to bodice-ripping romances he bought at yard sales. \"They looked like classics to me,\u201d he says. The women on the covers \u201cwere in historical  costumes,\u201d"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/used-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/used-books.md"]
 notes_about = ""
 books = ""
 +++

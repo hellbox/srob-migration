@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456990623093/Blac
 twitterauto = "We loved the first issue of @MarkWaid & @ChrisSamnee's new Black Widow comic."
 facebookauto = "Who says movies are more suspenseful than comics? The first issue of Black Widow is nothing but a chase sequence, but it's a REALLY GOOD chase sequence."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics", "tags/black-widow"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/marvel-comics.md", "tags/black-widow.md"]
 notes_about = ""
 books = ""
 +++

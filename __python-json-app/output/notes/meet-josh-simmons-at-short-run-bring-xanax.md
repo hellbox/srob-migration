@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444799734815/blac
 twitterauto = ".@shortrunseattle exhibitor Josh Simmons explains what he loves about Short Run."
 facebookauto = "Cartoonist Josh Simmons is debuting a new horror comic at this year's Short Run Comix & Arts Festival. He has some suggestions for how you should prepare for this year's Short Run."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run", "tags/fantagraphics", "tags/comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md", "tags/fantagraphics.md", "tags/comics.md"]
 notes_about = ""
 books = ""
 +++

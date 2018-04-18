@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508520263831/71sA
 twitterauto = "It's fall, which around these parts is known as \"gigantic novel season.\" @ciennam offers suggestions."
 facebookauto = "It's fall, which around these parts is known as \"gigantic novel season.\" Cienna Madrid offers some literary suggestions."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
-books = ["books/wrinkle-in-time"]
+books = ["books/wrinkle-in-time.md"]
 +++
 <p class="intro">Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna Madrid can help. Send your Help Desk Questions to advice@seattlereviewofbooks.com.</p>
 

@@ -10,5 +10,5 @@ last_updated = "2015-08-19T08:43:00-07:00"
 preview_url = "28d7090c-53ac-c7bc-3aa9-f524e8ca1625"
 name = "Dock Street Press"
 title = "Dock Street Press"
-books_by_this_publisher = ["books/mesilla"]
+books_by_this_publisher = ["books/mesilla.md"]
 +++

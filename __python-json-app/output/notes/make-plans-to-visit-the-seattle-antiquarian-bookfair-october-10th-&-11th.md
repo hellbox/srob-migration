@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Thanks to the Seattle Antiquarian Bookfair for sponsoring the site this week. October 10 & 11. Mark your calendar!"
 facebookauto = "The Seattle Antiquarian Bookfair is our first event sponsor. Get ready for this great event, October 10th & 11th."
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

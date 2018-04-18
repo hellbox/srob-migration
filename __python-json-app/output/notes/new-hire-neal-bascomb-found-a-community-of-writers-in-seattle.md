@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461651424774/wint
 twitterauto = "Neal Bascomb moved to Seattle from Philadelphia last year. How does he like it here?"
 facebookauto = "Our latest New Hire interview is Neal Bascomb, a writer of historical non-fiction. What surprised him most about Seattle? What does he miss most about the east coast?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/new-hire"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/new-hire.md"]
 notes_about = ""
 books = ""
 +++

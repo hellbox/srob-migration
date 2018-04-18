@@ -16,10 +16,10 @@ shareimage = "http://seattlreviewofbooks.com/webhook-uploads/1511895389297/97808
 twitterauto = "We asked @giganticanovel to recommend a good book for holiday giving. Here's the book he picked for you:"
 facebookauto = "We asked Richard Chiem to recommend a good book for holiday giving. Here's the book he picked for you:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/holidays"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/holidays.md"]
 notes_about = ""
-books = ["books/you-private-person"]
+books = ["books/you-private-person.md"]
 +++
 <p class="intro">Every Wednesday between Thanksgiving and Christmas, we're asking some of our favorite Seattle authors to recommend the books they're most excited to give as gifts this holiday. Our second author is short story writer and novelist Richard Chiem.</p>
 

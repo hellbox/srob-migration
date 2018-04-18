@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"Why don't you serve more corndogs and stuff with olives in it?\""
 facebookauto = "\"Why don't you serve more corndogs and stuff with olives in it?\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/pageboy"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/pageboy.md"]
 notes_about = ""
 books = ""
 +++

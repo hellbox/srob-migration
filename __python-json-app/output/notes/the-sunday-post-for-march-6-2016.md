@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post has pieces by: @estherxlwang, @NerdGerhl,  and @HopeJahren"
 facebookauto = "Romance novels and race, a Seattle temperance union angel, the crap women in the sciences put up with, and Frank Miller from the perspective of a young girl comics fan -- all in this week's The Sunday Post"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

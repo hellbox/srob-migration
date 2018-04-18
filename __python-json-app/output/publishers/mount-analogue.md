@@ -10,5 +10,5 @@ last_updated = "2017-04-04T22:32:00-07:00"
 preview_url = "9f4e03dc-a2bf-469f-c6e9-e0846e6e0275"
 name = "Mount Analogue"
 title = "Mount Analogue"
-books_by_this_publisher = ["books/everyday-eros", "books/as-a-man-thinketh", "books/mar", "books/manners", "books/final-rose", "books/political-pamphlet-series", "books/fumetti-for-the-mothership"]
+books_by_this_publisher = ["books/everyday-eros.md", "books/as-a-man-thinketh.md", "books/mar.md", "books/manners.md", "books/final-rose.md", "books/political-pamphlet-series.md", "books/fumetti-for-the-mothership.md"]
 +++

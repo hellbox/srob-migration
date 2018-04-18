@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Amazon's marketing team covered a New York City subway car in Nazi symbols."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon", "tags/marketing"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md", "tags/marketing.md"]
 notes_about = ""
-books = ["books/the-man-in-the-high-castle"]
+books = ["books/the-man-in-the-high-castle.md"]
 +++
 Uh.
 

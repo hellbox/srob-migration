@@ -10,5 +10,5 @@ last_updated = "2018-02-18T16:01:00-08:00"
 preview_url = "03265868-f696-99dc-2c26-7eb5a0a7a083"
 name = "FSG Originals"
 title = "FSG Originals"
-books_by_this_publisher = ["books/annihilation"]
+books_by_this_publisher = ["books/annihilation.md"]
 +++

@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453790070429/Empi
 twitterauto = "How do you feel about books with long passages in italics? "
 facebookauto = "Dear people who don't read books with long passages in italics: sorry, but you're missing out."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/italics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/italics.md"]
 notes_about = ""
-books = ["books/empire-falls"]
+books = ["books/empire-falls.md"]
 +++
 I first encountered this tweet while I was reading Johanna Sinisalo's wonderful [*The Core of the Sun*](http://seattlereviewofbooks.com/reviews/what-a-lovely-way-to-burn/):
 

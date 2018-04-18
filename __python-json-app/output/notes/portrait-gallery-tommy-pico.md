@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499356099780/SRoB
 twitterauto = "Portrait Gallery: Poet and podcaster @heyteebs #illustration by @studiochristine. Reading July 9 @ElliottBayBooks"
 facebookauto = "Portrait Gallery: Poet and podcaster Tommy Pico illustration by Christine Marie Larsen"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

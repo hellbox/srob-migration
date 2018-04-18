@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506053229586/kuow
 twitterauto = "Here are the two things @KUOW must do to regain Seattle's trust"
 facebookauto = "All we want from KUOW is this: don't give a platform to Nazis, and apologize to groups who they imperiled with their reckless coverage. Is that really so hard?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/kuow"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/kuow.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "People who read e-books on Barnes & Noble devices in the UK might not have access to their e-books anymore. "
 facebookauto = "People who read e-books on Barnes & Noble devices in the UK might not have access to their e-books anymore. "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/e-book", "tags/barnes-&amp;-noble"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/e-book.md", "tags/barnes-&amp;-noble.md"]
 notes_about = ""
 books = ""
 +++

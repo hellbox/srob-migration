@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Sunday Post: Exhaustion = prestige, @HillaryClinton & @realDonaldTrump speeches, & the magic of the 1st #HarryPotter"
 facebookauto = "The Sunday Post: Translating fiction, exhaustion as a status symbol, how the RNC and DNC speeches compare, and the magic of the first Harry Potter book."
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
-books = ["books/harry-potter-and-the-sorcerers-stone"]
+books = ["books/harry-potter-and-the-sorcerers-stone.md"]
 +++
 <h5><a href="https://www.theguardian.com/books/2016/jul/24/subtle-art-of-translating-foreign-fiction-ferrante-knausgaard" title="The subtle art of translating foreign fiction">The subtle art of translating foreign fiction</a></h5>
 

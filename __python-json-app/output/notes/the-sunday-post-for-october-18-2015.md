@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post this week has pieces by @kathrynschulz, @mfortki, @meaghano, and @Jo_Livingstone"
 facebookauto = "Thoreau bashing, made-up languages, apologies, and the nature of reality. All in today's Sunday Post."
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

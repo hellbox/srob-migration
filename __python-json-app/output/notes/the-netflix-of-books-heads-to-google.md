@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Oyster, the \"Netflix for books,\" is closing because it forgot that the real Netflix for books is the library."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/oyster", "tags/google-play-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/oyster.md", "tags/google-play-books.md"]
 notes_about = ""
 books = ""
 +++

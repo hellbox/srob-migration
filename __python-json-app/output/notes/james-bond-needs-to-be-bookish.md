@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447750392266/UK-Q
 twitterauto = "The latest James Bond movie is a mess. How to fix it? Bring back Bond's literary spirit!"
 facebookauto = "The latest James Bond movie is a mess. How to fix it? Bring back Bond's literary spirit!"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/james-bond", "tags/movies"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/james-bond.md", "tags/movies.md"]
 notes_about = ""
-books = ["books/devil-may-care"]
+books = ["books/devil-may-care.md"]
 +++
 <p class="image">![](/webhook-uploads/1447750392266/UK-Quad-Mono-72dpi.jpg)</p>
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle's smartest writer and a poetry mainstay welcome a dearly departed poet back to town."
 facebookauto = "This week's Event of the Week: Help Rebecca Brown and Kreg Hasegawa welcome former Seattle poet Nico Vassilakis back to town!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

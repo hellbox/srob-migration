@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/death.md"]
 notes_about = ""
-books = ["books/the-march", "books/ragtime"]
+books = ["books/the-march.md", "books/ragtime.md"]
 +++
 The author of *Ragtime* has died. He was 84. The first Doctorow book I read was his 2004 novel *The March*, a story of Sherman's March which ended with a truly horrific scene that sticks with me to this day. I then went back to *Ragtime* and and *Billy Bathgate*. Historical fiction is so tough to get right, and Doctorow was a master at it; he never deluged you with details and look-at-my-research flourishes. This removal of authorial ego is the key to good historical storytelling. The reader is comforted by the sense that Doctorow always tells exactly the story he wants to tell, nothing less and nothing more. That's an impressive legacy for a storyteller, even one as celebrated as Doctorow. In his memory, I might have to finally crack a copy of *The Book of Daniel* I've been keeping for years now.

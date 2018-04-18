@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499921801175/arab
 twitterauto = "Your week in readings goes from Venus to the Lake Washington Ship Canal and back!"
 facebookauto = "Your week in readings goes from Venus to the Lake Washington Ship Canal and back!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "A pair of profiles of Seattle-area authors kick off your Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md"]
 notes_about = ""
-books = ["books/everfair", "books/the-underground-railroad"]
+books = ["books/everfair.md", "books/the-underground-railroad.md"]
 +++
 * HUGE congratulations are due to *Seattle Review of Books* contributor Nisi Shawl, whose amazing novel *Everfair* was just [announced as a John W. Campbell Memorial Award finalist](http://blog.worldswithoutend.com/2017/06/2017-john-w-campbell-memorial-award-finalists/#.WTYobUErIWp), alongside some incredible books by Colson Whitehead, Ben Winters, Don DeLillo, and Kij Johnson.
 

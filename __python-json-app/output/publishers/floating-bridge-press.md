@@ -10,5 +10,5 @@ last_updated = "2016-01-22T09:00:00-08:00"
 preview_url = "8b19b122-0949-35b5-fd21-edc75d8565c2"
 name = "Floating Bridge Press"
 title = "Floating Bridge Press"
-books_by_this_publisher = ["books/elegy--elk-river", "books/yesterday-the-bees", "books/my-idea-of-fun", "books/this-city", "books/the-myth-of-man"]
+books_by_this_publisher = ["books/elegy--elk-river.md", "books/yesterday-the-bees.md", "books/my-idea-of-fun.md", "books/this-city.md", "books/the-myth-of-man.md"]
 +++

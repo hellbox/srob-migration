@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506919762329/Scre
 twitterauto = "October's Poet in Residence @karywayson is in the house, and her first poem is called \"My Subjects\""
 facebookauto = "October's Poet in Residence Kary Wayson is in the house, and her first poem is called \"My Subjects\""
 make_image_tweet = "False"
-notes_byline = ["writers/kary-wayson"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/kary-wayson.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479515296199/indi
 twitterauto = "This Saturday, a party bus full of Seattle writers is coming to a bookstore near you."
 facebookauto = "This Saturday, a party bus full of Seattle writers is coming to a bookstore near you."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

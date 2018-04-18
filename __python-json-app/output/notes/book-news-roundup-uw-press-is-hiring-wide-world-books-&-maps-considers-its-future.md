@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "UW Press is hiring and Wide World Books & Maps considers its future in today's Book News Roundup."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/university-of-washington-press", "tags/wide-world-travel-&amp;-maps"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/university-of-washington-press.md", "tags/wide-world-travel-&amp;-maps.md"]
 notes_about = ""
 books = ""
 +++

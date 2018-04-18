@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500849484900/Read
 twitterauto = "Meet Karen Junker, the creator of Readerfest."
 facebookauto = "This morning, we told you about Readerfest, a free family-friendly book festival happening at Magnuson Park on September 9th. Here's an interview with the founder of Readerfest, Karen Junker."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/readerfest"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/readerfest.md"]
 notes_about = ""
 books = ""
 +++

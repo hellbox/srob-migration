@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.comwebhook-uploads/1464367343444/30c1f
 twitterauto = "What? @CopperCanyonPrs has a new Kickstarter? Funded! "
 facebookauto = "What? Copper Canyon Press has a new Kickstarter? Funded!"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

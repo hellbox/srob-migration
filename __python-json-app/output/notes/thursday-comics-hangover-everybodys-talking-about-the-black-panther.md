@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460007178904/blac
 twitterauto = "We loved @tanehisicoates's stylish first issue of Black Panther."
 facebookauto = "The first issue of Ta-Nehisi Coates's Black Panther comic book came out yesterday! How was it?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/black-panther"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/black-panther.md"]
 notes_about = ""
-books = ["books/between-the-world-and-me"]
+books = ["books/between-the-world-and-me.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1460007178904/blackpanther.jpg)</p>The first issue of Ta-Nehisi Coates and Brian Stelfreeze’s *Black Panther* was published yesterday, and it was one of those rare moments — like the time DC Comics killed Superman, back in the 1990s — when people who never go to comic book stores suddenly care about a single issue of a comic <sup><a href="#en-2016-04-07-01" id="enr-2016-04-07-01">1</a></sup>. The staff at [Phoenix Comics]( http://phoenixseattle.com/) yesterday estimated that they’d be sold out of all five dozen copies of the comic on their shelves by the end of the day. (That number doesn’t even include the issues that regular Phoenix customers like myself had reserved months ago.) Clearly, *Black Panther* is pulling new and long-since-lapsed readers into comics stores, a feat which not even a seemingly relentless onslaught of comic book movies can manage.
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's @rahawahaile's short story collection time, this week featuring @kashanacauley, @vincentscarpa, and others."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We have a new associate editor managing submissions, and she wants your pitches!"
 facebookauto = "Our site has a new associate editor who'll be managing submissions, and she wants your pitches!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-review-of-books", "tags/freelance"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-review-of-books.md", "tags/freelance.md"]
 notes_about = ""
 books = ""
 +++

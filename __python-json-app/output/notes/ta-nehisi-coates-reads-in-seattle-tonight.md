@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/race"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/race.md"]
 notes_about = ""
-books = ["books/between-the-world-and-me"]
+books = ["books/between-the-world-and-me.md"]
 +++
 As I noted in my [Week in Readings](http://seattlereviewofbooks.com/notes/2015/10/26/your-week-in-readings-the-best-events-from-october-26th-to-november-1st/) post on Monday, Ta-Nehisi Coates reads from his new book, *Between the World and Me*, tonight as part of the 2015-2016  Seattle Arts & Lectures season. The reading is **long since sold out**; if you don't have tickets already, you are out of luck.
 

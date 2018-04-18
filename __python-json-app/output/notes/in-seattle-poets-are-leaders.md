@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Mayoral candidate @NikkitaOliver performed spoken word to great acclaim. We love this city."
 facebookauto = "Mayoral candidate Nikkita Oliver performed spoken word to great acclaim last night. We love this city!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446836379087/imgr
 twitterauto = "In this week's Help Desk, @ciennam explains how pacifist book-lovers should protest Amazon's bookstore."
 facebookauto = "Our advice columnist tackles a question that's on a lot of book-lovers' minds this week: what is the most effective way to protest Amazon's new brick-and-mortar bookstore?"
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/amazon-books", "tags/pacifism", "tags/protest"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/amazon-books.md", "tags/pacifism.md", "tags/protest.md"]
 notes_about = ""
 books = ""
 +++

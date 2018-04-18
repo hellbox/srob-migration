@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466658087188/bitc
 twitterauto = "Is the comic series Bitch Planet really just an Orange is the New Black set in outer space?"
 facebookauto = "Is the comic series Bitch Planet really just an Orange is the New Black set in outer space?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

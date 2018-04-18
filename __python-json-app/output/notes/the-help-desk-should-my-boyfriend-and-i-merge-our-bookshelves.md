@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Can book collections stay single in monogamous relationships? Is it OK to NOT merge bookshelves with a lover?"
 facebookauto = "When you're moving in with your boyfriend, is it okay to tell him you don't want to merge your bookshelves? Our advice columnist has opinions."
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463801251875/1462
 twitterauto = "Poetry out of Spokane! The Kickstarter Project backs @SharmaShields IndieGoGo."
 facebookauto = "Today the Kickstarter Fund backs a double-book poetry project out of Spokane. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

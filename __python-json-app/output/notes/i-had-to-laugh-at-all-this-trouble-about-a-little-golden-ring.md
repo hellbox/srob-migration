@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"...they form what they call a fellowship, but can we just be honest and call it a gang?\" We love this book review."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-reviews", "tags/donald-trump", "tags/lord-of-the-rings", "tags/the-tusk"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-reviews.md", "tags/donald-trump.md", "tags/lord-of-the-rings.md", "tags/the-tusk.md"]
 notes_about = ""
 books = ""
 +++

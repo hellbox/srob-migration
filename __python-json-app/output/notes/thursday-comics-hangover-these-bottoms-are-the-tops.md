@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "An upcoming comics anthology tells stories of addiction and hitting bottom."
 facebookauto = "An upcoming comics anthology tells stories of addiction and hitting bottom."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481498732643/Meli
 twitterauto = "We asked @UBookStoreReads bookseller Melissa what book she wanted for the holidays."
 facebookauto = "We asked University Book Store bookseller Melissa Barnes what book she wanted for the holidays."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

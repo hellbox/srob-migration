@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483421508838/endo
 twitterauto = "Your first full week of readings in 2017 is packed full of fun stuff. Info here: "
 facebookauto = "Your first full week of readings in 2017 is packed full of fun stuff, including a conversation between David Schmader and Sarah Galvin, a reading from Quenton Baker, a biochemist with a book about fat, and much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

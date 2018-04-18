@@ -10,5 +10,5 @@ last_updated = "2016-05-31T23:22:00-07:00"
 preview_url = "904c9b4b-528f-74de-98cf-cc8fbea78239"
 name = "Chin Music"
 title = "Chin Music"
-books_by_this_publisher = ["books/king-of-the-worlds"]
+books_by_this_publisher = ["books/king-of-the-worlds.md"]
 +++

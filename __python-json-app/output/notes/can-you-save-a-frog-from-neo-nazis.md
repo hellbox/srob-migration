@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Is it too late to save Pepe the frog from Donald Trump's neo-Nazi supporters?"
 facebookauto = "Is it too late to save Pepe the frog from Donald Trump's neo-Nazi supporters?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics", "tags/donald-trump", "tags/racism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics.md", "tags/donald-trump.md", "tags/racism.md"]
 notes_about = ""
 books = ""
 +++

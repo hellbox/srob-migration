@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485996664343/4321
 twitterauto = "This week, Paul Auster reads @THSEA. This is a big damn deal."
 facebookauto = "Paul Auster is coming to Town Hall Seattle this week. His newest novel, about a life running on four alternate tracks, is as big and ambitious as anything he's ever attempted in his career."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

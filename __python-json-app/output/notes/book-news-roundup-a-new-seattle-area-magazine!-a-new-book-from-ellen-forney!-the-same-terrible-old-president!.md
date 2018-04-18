@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A new Seattle-area magazine! A new book from @ellen_forney! The same terrible old president!"
 facebookauto = "The new year brings with it a new Seattle-area online magazine and a new book from Seattle cartoonist Ellen Forney. See? 2018 isn't all terrible!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/donald-trump", "tags/media"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/donald-trump.md", "tags/media.md"]
 notes_about = ""
 books = ""
 +++

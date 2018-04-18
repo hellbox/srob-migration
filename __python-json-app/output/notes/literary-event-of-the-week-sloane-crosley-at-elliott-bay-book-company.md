@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523423888417/look
 twitterauto = "This week's main event: humorous essayist Sloane Crosley reading @elliottbaybooks on Friday!"
 facebookauto = "This week's main event: humorous essayist Sloane Crosley reading at Elliott Bay Book Company on Friday!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

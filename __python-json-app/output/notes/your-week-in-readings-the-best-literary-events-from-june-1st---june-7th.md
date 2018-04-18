@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464331286478/king
 twitterauto = "Your week in readings includes climate change, sci-fi books about Titanic (the movie) and fortune-telling."
 facebookauto = "Your week in readings includes climate change, sci-fi books about Titanic (the movie) and fortune-telling."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/chin-music-press", "tags/elliott-bay-book-company", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/chin-music-press.md", "tags/elliott-bay-book-company.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

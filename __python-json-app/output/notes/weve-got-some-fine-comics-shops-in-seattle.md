@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle shops @Phoenix_Comics & @OutsiderJill \u200fare figuring out the future of comics."
 facebookauto = "Seattle stores like Phoenix Comics and Outside Comics & Geek Boutique are figuring out what the future of comics shops will look like."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/free-comic-book-day", "tags/phoenix-comics-and-games", "tags/outsider-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/free-comic-book-day.md", "tags/phoenix-comics-and-games.md", "tags/outsider-comics.md"]
 notes_about = ""
 books = ""
 +++

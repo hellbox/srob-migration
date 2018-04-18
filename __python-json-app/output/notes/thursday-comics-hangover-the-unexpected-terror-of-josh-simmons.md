@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523425624310/flay
 twitterauto = "This Saturday @FantaBookstore, immerse yourself in the creepy horror of Josh Simmons."
 facebookauto = "This Saturday at the Fantagraphics Bookstore and Gallery, the creepy horror of Josh Simmons will be unleashed on the world."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

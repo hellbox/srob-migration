@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Upset with corporate presses for publishing Milo Yiannopoulos? Buy from independent presses instead!"
 facebookauto = "If you're upset with corporate presses for publishing Milo Yiannopoulos, maybe you should buy from independent presses instead."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/milo-yiannopoulos", "tags/simon-&amp;-schuster"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/milo-yiannopoulos.md", "tags/simon-&amp;-schuster.md"]
 notes_about = ""
 books = ""
 +++

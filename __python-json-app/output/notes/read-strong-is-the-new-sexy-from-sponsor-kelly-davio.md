@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509581837720/Kell
 twitterauto = "Read an essay from It's Just Nerves by this week's sponsor: writer, editor, and much-missed Seattleite @kellydavio."
 facebookauto = "Read an essay from It's Just Nerves by this week's sponsor: writer, editor, and much-missed Seattleite Kelly Davio."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/its-just-nerves"]
+books = ["books/its-just-nerves.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1509581683318/It's%20just%20nerves_150.jpeg)</p>
 

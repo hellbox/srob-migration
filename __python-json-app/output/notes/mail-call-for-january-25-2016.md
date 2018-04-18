@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453785414944/Full
 twitterauto = "Mail Call! Reader survey: how many know Brigid Brophy? If so, have you read her?"
 facebookauto = "Mail Call! How many of you reading this are familiar with Brigid Brophy? Have you read much of her work?"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

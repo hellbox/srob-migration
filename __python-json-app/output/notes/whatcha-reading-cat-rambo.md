@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515218343043/catr
 twitterauto = "What's @catrambo reading? @writerlouisa, @johnhornor, and @suddain. "
 facebookauto = "Wherein we ask: whatcha reading, Cat Rambo?"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/whatcha-reading"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/whatcha-reading.md"]
 notes_about = ""
 books = ""
 +++

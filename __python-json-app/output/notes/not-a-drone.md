@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"Not a drone.\" Wonderful! Thanks for clarifying, @ThirdPlaceBooks!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/third-place-books-ravenna", "tags/third-place-books-lake-forest-park", "tags/amazon", "tags/drones"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/third-place-books-ravenna.md", "tags/third-place-books-lake-forest-park.md", "tags/amazon.md", "tags/drones.md"]
 notes_about = ""
 books = ""
 +++

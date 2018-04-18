@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515098805004/SRoB
 twitterauto = "Portrait Gallery: #DavidSedaris reads all week long @SeattleCentral Broadway Performance Hall #art @studiochristine"
 facebookauto = "Portrait Gallery: David Sedaris illustration by Christine Marie Larsen"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Editions Checkpointed"
 title = "Editions Checkpointed"
-books_by_this_publisher = ["books/polska-1994"]
+books_by_this_publisher = ["books/polska-1994.md"]
 +++

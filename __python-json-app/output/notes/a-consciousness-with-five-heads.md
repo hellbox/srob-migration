@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Sponsor @stevetoutonghi's new science fiction novel \"Join\" is a \"conceptual powerhouse. Read a full chapter."
 facebookauto = "Sponsor Steve Toutonghi's new science fiction novel \"Join\" is a \"conceptual powerhouse. Read a full chapter on the site this week."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/join"]
+books = ["books/join.md"]
 +++
 Sponsor Steve Toutonghi's debut Science Fiction Novel _Join_ was just released, and you owe it to yourself to check out the <a href="http://seattlereviewofbooks.com/sponsorships" title="The Seattle Review of Books - sponsorships">first chapter on our sponsorship page</a>. 
 

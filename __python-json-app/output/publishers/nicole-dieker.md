@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Nicole Dieker"
 title = "Nicole Dieker"
-books_by_this_publisher = ["books/the-biographies-of-ordinary-people"]
+books_by_this_publisher = ["books/the-biographies-of-ordinary-people.md"]
 +++

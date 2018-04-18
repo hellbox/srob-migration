@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465017392855/lika
 twitterauto = "Your week in readings begins with a Ta-Nehisi Coates-approved novel @elliottbaybooks tonight."
 facebookauto = "Your week in readings includes a bike ride with some sci-fi authors, a big comics show at SAM, and an eagerly awaited debut novel that's loved by Ta-Nehisi Coates."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

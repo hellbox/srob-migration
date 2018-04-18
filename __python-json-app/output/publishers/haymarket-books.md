@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Haymarket Books"
 title = "Haymarket Books"
-books_by_this_publisher = ["books/boots-riley", "books/hope-in-the-dark"]
+books_by_this_publisher = ["books/boots-riley.md", "books/hope-in-the-dark.md"]
 +++

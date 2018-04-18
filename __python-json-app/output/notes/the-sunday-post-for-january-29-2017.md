@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485652117063/marc
 twitterauto = "Sunday Post is up! Racing the refugee ban, @kevinjameswong on Peanuts' Marcie, & space law turns 50."
 facebookauto = "In this week's Sunday Post: racing the refugee ban, a character study of Peanuts' Marcie, and celebrating the Outer Space Treaty's golden anniversary."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post", "tags/donald-trump"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

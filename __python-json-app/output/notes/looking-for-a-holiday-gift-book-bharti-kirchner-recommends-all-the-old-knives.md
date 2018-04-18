@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511895520892/9781
 twitterauto = "We asked Bharti Kirchner to recommend a good book for holiday giving. Here's the book she picked for you:"
 facebookauto = "We asked Bharti Kirchner to recommend a good book for holiday giving. Here's the book she picked for you:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/holidays"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/holidays.md"]
 notes_about = ""
 books = ""
 +++

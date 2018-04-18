@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469248510853/harr
 twitterauto = "It's time, once more, for midnight Harry Potter book release parties."
 facebookauto = "It's time, once more, for midnight Harry Potter book release parties."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/elliott-bay-book-company", "tags/university-book-store", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/elliott-bay-book-company.md", "tags/university-book-store.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

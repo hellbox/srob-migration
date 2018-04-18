@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In this week's comics column, a fan takes issue with a negative review by Paul Constant."
 facebookauto = "In this week's comics column, a fan takes issue with Paul Constant's recent negative review of a Fantagraphics book."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

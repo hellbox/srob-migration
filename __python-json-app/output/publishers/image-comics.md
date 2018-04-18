@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Image Comics"
 title = "Image Comics"
-books_by_this_publisher = ["books/maximum-minimum-wage"]
+books_by_this_publisher = ["books/maximum-minimum-wage.md"]
 +++

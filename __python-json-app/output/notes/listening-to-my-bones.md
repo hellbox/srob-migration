@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1491319679409/Joan
 twitterauto = "Joan Swift is our April Poet in Residence, in memoriam. "
 facebookauto = "Joan Swift is our April Poet in Residence, in memoriam."
 make_image_tweet = "False"
-notes_byline = ["writers/joan-swift"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/joan-swift.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

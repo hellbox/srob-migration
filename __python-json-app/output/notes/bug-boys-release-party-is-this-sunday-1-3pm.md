@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449877026262/CV-v
 twitterauto = "This Sunday, go see @lauraknetzger at @fantagraphics bookstore for the Bug Boys launch."
 facebookauto = "Laura Knetzger is having a book release party this Sunday at Fantagraphics, and you should go!"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/events"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/events.md"]
 notes_about = ""
-books = ["books/bug-boys"]
+books = ["books/bug-boys.md"]
 +++
 Nancy Pearl at Town Hall is our [official Sunday pick](http://seattlereviewofbooks.com/notes/2015/12/07/your-week-in-readings-the-best-literary-events-from-december-7th-to-13th/), but before you head there you should drop by Fantagraphics and say hey to Laura Knetzger, from 1-3pm. She's throwing a release party for _Bug Boys_.
 

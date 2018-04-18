@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485232613819/paul
 twitterauto = "A proposed Republican budget cuts all federal funding for libraries."
 facebookauto = "A proposed Republican budget cuts all federal funding for libraries and the arts."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

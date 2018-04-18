@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482277337624/turn
 twitterauto = "The next Seattle Reads title was announced today. Here it is:"
 facebookauto = "The next Seattle Reads title was announced today. Here it is:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-reads"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-reads.md"]
 notes_about = ""
 books = ""
 +++

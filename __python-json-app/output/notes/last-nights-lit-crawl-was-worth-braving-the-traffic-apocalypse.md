@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1508518524061/las
 twitterauto = "We braved rain and traffic to cover last night's Lit Crawl. It was more than worth it. #litcrawlseattle"
 facebookauto = "We braved rain and traffic to cover last night's Lit Crawl. It was more than worth it."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

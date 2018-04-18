@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453531596159/IMG_
 twitterauto = "Still awake? Any of these in tonight's Mail Call speak to you?"
 facebookauto = "Books never sleep, why should we? We're pretty excited about the Richard Stark books. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

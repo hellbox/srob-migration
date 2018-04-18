@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1459130880081/Apex
 twitterauto = "Congratulations to @ramez, winner of the Philip K. Dick Award @norwescon!"
 facebookauto = "The 39th annual Norwescon was all about community."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/norwescon", "tags/philip-k-dick-award"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/norwescon.md", "tags/philip-k-dick-award.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/ayn-rand", "tags/ted-cruz"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/ayn-rand.md", "tags/ted-cruz.md"]
 notes_about = ""
-books = ["books/watchmen"]
+books = ["books/watchmen.md"]
 +++
 This made the rounds on Twitter today:
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Hey, aspiring memoirists: got news that could change the outcome of an election? Don't save it for the book."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump", "tags/media"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md", "tags/media.md"]
 notes_about = ""
 books = ""
 +++

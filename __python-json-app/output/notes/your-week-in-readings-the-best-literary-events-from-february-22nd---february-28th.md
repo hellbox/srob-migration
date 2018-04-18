@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your week in readings begins with zombies and then gets livelier."
 facebookauto = "Your week in readings begins with zombies and then gets livelier."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

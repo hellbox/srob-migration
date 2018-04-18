@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post: book repair, animal autopsies, old young comedians, losing art critics, and megacity architecture."
 facebookauto = "The Sunday Post: book repair, animal autopsies, old young comedians, losing art critics, and megacity architecture."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

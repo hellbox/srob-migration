@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Who needs food stamps, really bad sex, and the last wave of gentrification in the Sunday Post."
 facebookauto = "Who needs food stamps, really bad sex, and the last wave of gentrification in the Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

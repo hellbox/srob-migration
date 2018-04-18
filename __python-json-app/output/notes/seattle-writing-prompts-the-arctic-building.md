@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492785766013/IMG_
 twitterauto = "Seattle Writing Prompts looks up at the walruses on the Arctic Building"
 facebookauto = "Seattle Writing Prompts looks up at the walruses on the Arctic Building"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

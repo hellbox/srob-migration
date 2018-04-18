@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455482219068/Love
 twitterauto = "Here are all the best literary events happening in Seattle this week:"
 facebookauto = "Your week in readings includes the debut of Matt Ruff's long-awaited new book, Alexander Chee, a lecture on book-to-movie adaptations, and much more:"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/elliott-bay-book-company", "tags/scarecrow-video"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/elliott-bay-book-company.md", "tags/scarecrow-video.md"]
 notes_about = ""
 books = ""
 +++

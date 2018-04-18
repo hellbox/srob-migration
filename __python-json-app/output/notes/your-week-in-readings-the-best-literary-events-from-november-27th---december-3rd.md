@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508823825503/obam
 twitterauto = "Your week in readings begins with Obama and continues through a moon-based poetry reading."
 facebookauto = "Your week in readings begins with Obama and continues through a moon-based poetry reading."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

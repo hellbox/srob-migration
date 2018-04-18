@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Good news\u2014there are fewer alt-righters on the Hugo nominee list this year."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-awards.md"]
 notes_about = ""
 books = ""
 +++

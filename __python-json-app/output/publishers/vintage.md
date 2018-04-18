@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Vintage"
 title = "Vintage"
-books_by_this_publisher = ["books/devil-may-care", "books/the-curious-incident-of-the-dog-in-the-night-time"]
+books_by_this_publisher = ["books/devil-may-care.md", "books/the-curious-incident-of-the-dog-in-the-night-time.md"]
 +++

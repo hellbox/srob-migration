@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Why didn't anyone tell us that conservative judges have a David Foster Wallace fetish?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/politics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/politics.md"]
 notes_about = ""
 books = ""
 +++

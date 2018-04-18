@@ -10,5 +10,5 @@ last_updated = "2017-04-30T16:31:00-07:00"
 preview_url = "7c38eb59-fbb9-8899-d7b3-3a7040028279"
 name = "Random House"
 title = "Random House"
-books_by_this_publisher = ["books/get-in-trouble", "books/thirteen-ways-of-looking", "books/destiny-and-power", "books/the-life-changing-magic-of-tidying", "books/lean-in"]
+books_by_this_publisher = ["books/get-in-trouble.md", "books/thirteen-ways-of-looking.md", "books/destiny-and-power.md", "books/the-life-changing-magic-of-tidying.md", "books/lean-in.md"]
 +++

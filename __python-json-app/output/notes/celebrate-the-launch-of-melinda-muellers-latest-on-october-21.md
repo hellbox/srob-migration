@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508172371252/Mary
 twitterauto = "Join sponsor @EntreRiosBooks October 21 for the launch of a new book by Seattle poet Melinda Mueller."
 facebookauto = "Join sponsor Entre R\u00edos Books October 21 for the launch of Mary's Dust,  a much-awaited new book by Seattle poet Melinda Mueller."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/marys-dust"]
+books = ["books/marys-dust.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1508172951919/Mary's%20Dust_150.jpeg)</p>
 

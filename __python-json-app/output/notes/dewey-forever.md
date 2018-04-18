@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "One library answers the question: \"Do we Dewey or do we not Dewey?\""
 facebookauto = "One library answers the question: \"Do we Dewey or do we not Dewey?\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/libraries", "tags/librarians"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/libraries.md", "tags/librarians.md"]
 notes_about = ""
 books = ""
 +++

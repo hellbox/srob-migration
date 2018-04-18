@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What does the scandal surrounding Gay Talese's upcoming book mean for New Journalism's legacy?"
 facebookauto = "Will New Journalism fall under increased scrutiny now that Gay Talese's upcoming book has been revealed to have some serious factual inaccuracies?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/journalism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/journalism.md"]
 notes_about = ""
 books = ""
 +++

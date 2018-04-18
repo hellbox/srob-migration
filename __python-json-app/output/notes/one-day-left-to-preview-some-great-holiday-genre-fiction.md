@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our sponsors are the best. One more day to read excerpts from 4 stories in Joy to the Worlds, from Grey Sun Press."
 facebookauto = "Our sponsors are the best. One more day to read excerpts from 4 stories in Joy to the Worlds, from Grey Sun Press."
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/joy-to-the-worlds"]
+books = ["books/joy-to-the-worlds.md"]
 +++
 Our sponsor Grey Sun Press has put out this wonderful collection, _Joy to the Worlds: Mysterious Speculative Fiction for the Holidays_. [On our sponsor page](http://seattlereviewofbooks.com/sponsorships "The Seattle Review of Books - sponsorships"), we have samples from four of the eight stories in the book. All from fanastic local writers: Maia Chance, Janine A. Southard, Raven Oak, and G. Clemens. 
 

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521691759505/Scre
 twitterauto = "Small Careful Fires, by local cartoonist @kagwheeler, might just be the antidote to Facebook anxiety."
 facebookauto = "Small Careful Fires, by local cartoonist Katie Wheeler, might just be the antidote to Facebook anxiety."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452228152157/APRI
 twitterauto = "We are so excited for this year's @APRILfestSEA! "
 facebookauto = "It's time to get excited for the APRIL Festival, which features a metric ton of local talent, a fireside chat, a competitive event featuring a drag queen going head-to-head with writers, and much more."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/april"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/april.md"]
 notes_about = ""
 books = ""
 +++

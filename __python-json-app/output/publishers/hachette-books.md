@@ -10,5 +10,5 @@ last_updated = "2016-05-15T14:05:00-07:00"
 preview_url = "d730cc13-da6f-a3fd-5356-16ff85b02eb8"
 name = "Hachette Books"
 title = "Hachette Books"
-books_by_this_publisher = ["books/shrill"]
+books_by_this_publisher = ["books/shrill.md"]
 +++

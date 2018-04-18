@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496442471839/CeZR
 twitterauto = "We talked with an owner of Redmond's brand-new bookstore, @BrckMrtrBooks!"
 facebookauto = "Make room for a new bookstore in the Seattle region: Brick & Mortar Books just opened last week in Redmond Town Center. We talked with one of their owners, who has no bookselling experience but who is excited to learn!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/brick-&amp;-mortar-books", "tags/adas-technical-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/brick-&amp;-mortar-books.md", "tags/adas-technical-books.md"]
 notes_about = ""
 books = ""
 +++

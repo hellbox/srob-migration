@@ -16,8 +16,8 @@ shareimage = " http://seattlereviewofbooks.com/webhook-uploads/1463631179034/SRo
 twitterauto = "Bringing back @studiochristine's portrait of @Sherman_Alexie, reading @queenannebookco Sun.!"
 facebookauto = "Throwing it back to Sherman Alexie in anticipation of his reading this Sunday at Queen Anne Book Co.!"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

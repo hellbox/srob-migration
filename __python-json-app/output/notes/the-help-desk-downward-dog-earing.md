@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "From the Help Desk archives: Is it ethically okay to dog-ear books?"
 facebookauto = "From the Help Desk archives: Is it ethically okay to dog-ear books?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

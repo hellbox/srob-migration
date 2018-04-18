@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480478234236/opti
 twitterauto = "Our literary event of the week is a book launch party and a goodbye party for Maged Zaher."
 facebookauto = "Our literary event of the week is a book launch party and a goodbye party for Maged Zaher."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/arundel-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/arundel-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458181479696/turn
 twitterauto = "We can't stop staring at @ohotnig's art for the new comic Turncoat."
 facebookauto = "A new sci-fi noir comic has such good art that we can't even focus on how interesting the story is."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/boom"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/boom.md"]
 notes_about = ""
 books = ""
 +++

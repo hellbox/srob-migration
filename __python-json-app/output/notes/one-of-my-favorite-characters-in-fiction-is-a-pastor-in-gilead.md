@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "We want to join President Obama's book club."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/barack-obama"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/barack-obama.md"]
 notes_about = ""
-books = ["books/gilead"]
+books = ["books/gilead.md"]
 +++
 If you haven't yet read [President Obama's interview with the incredible novelist Marilynne Robinson](http://www2.nybooks.com/articles/s3/2015/nov/05/president-obama-marilynne-robinson-conversation.html) in the *New York Review of Books*, please take the time to read it. I can't recall a sitting president ever doing something quite like this. It's just too delightful for words.

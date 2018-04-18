@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Catapult"
 title = "Catapult"
-books_by_this_publisher = ["books/margaret-the-first"]
+books_by_this_publisher = ["books/margaret-the-first.md"]
 +++

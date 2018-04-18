@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510627073525/Scre
 twitterauto = "Our final poem from Poet in Residence Emily Bedard is titled \"On Nakedness\""
 facebookauto = "Our final poem from Poet in Residence Emily Bedard is titled \"On Nakedness\""
 make_image_tweet = "False"
-notes_byline = ["writers/emily-bedard"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/emily-bedard.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

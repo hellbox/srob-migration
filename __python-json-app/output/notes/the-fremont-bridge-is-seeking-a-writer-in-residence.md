@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452041090453/Emai
 twitterauto = "Would you like to be a writer in residence at the Fremont Bridge? Applications are due by February 2016!"
 facebookauto = "Would you like to be a writer in residence at the Fremont Bridge? Applications are due by February 2016!"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fremont-bridge", "tags/office-of-arts-and-culture", "tags/writer-in-residence"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fremont-bridge.md", "tags/office-of-arts-and-culture.md", "tags/writer-in-residence.md"]
 notes_about = ""
 books = ""
 +++

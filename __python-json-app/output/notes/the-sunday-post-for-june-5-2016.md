@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Pieces by @alexanderchee, @slaskow, @vestal13 in the Sunday Post. "
 facebookauto = "The letter the victim read to the convicted Stanford rapist, the secret sign language of sawmill workers, a writer's father takes his family on the lam, and a young gay novelist works as a waiter in the house of William F. Buckley, all in today's Sunday Post. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

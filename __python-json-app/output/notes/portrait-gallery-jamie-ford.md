@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505412198881/SRoB
 twitterauto = "Portrait Gallery: @JamieFord reads #loveandotherconsolationprizes Sat @ThirdPlaceBooks @studiochristine #illustration"
 facebookauto = "Portrait Gallery: Jamie Ford by Christine Marie Larsen. Jamie Ford reads from \"Love and Other Consolation Prizes\" Saturday, September 16 at Third Place Books Lake Forest Park"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sunday Post: @GievesLondon's Davide Taub, the misunderstood #brokenwindows theory, & @HugoHouse student Putsata Reang"
 facebookauto = "The Sunday Post on an inimitable suit, the misunderstood broken windows theory, balancing an identity that makes your family unhappy, and the issue of preventable deaths in hospitals."
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

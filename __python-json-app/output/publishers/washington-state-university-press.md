@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Washington State University Press"
 title = "Washington State University Press"
-books_by_this_publisher = ["books/peace-weavers"]
+books_by_this_publisher = ["books/peace-weavers.md"]
 +++

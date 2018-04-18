@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Looking for a ripping good thriller for the plane? You should consider Conclave, from @AAKnopf\n"
 facebookauto = "If you've ever wondered what happens behind the scenes when the cardinals gather to choose a Pope, Conclave is the book for you."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thriller"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thriller.md"]
 notes_about = ""
-books = ["books/conclave"]
+books = ["books/conclave.md"]
 +++
 If you're going to be traveling home after the holidays and you stop in the airport bookstore looking for something to read, you could do a lot worse than Robert Harris's new novel *Conclave*. It feels like a slight read, a novella that was blown out to fit into a novel — I thought I'd been sent a large print edition when I first opened *Conclave* and saw the huge font size — but it's the perfect length for a plane ride and it'll keep you turning pages through even the worst turbulence.
 

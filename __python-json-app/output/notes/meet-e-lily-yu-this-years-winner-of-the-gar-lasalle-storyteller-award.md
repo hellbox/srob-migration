@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512268005561/E_Li
 twitterauto = "Meet E. Lily Yu, the winner of this year's @artisttrust Gar LaSalle Storyteller Award."
 facebookauto = "Meet E. Lily Yu, the winner of this year's Gar LaSalle Storyteller Award from Artist Trust! She's a major Seattle talent to watch."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/artist-trust"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/artist-trust.md"]
 notes_about = ""
 books = ""
 +++

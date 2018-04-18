@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444116161661/MY-L
 twitterauto = "David Sedaris tickets are almost sold out, & tickets to see Gloria Steinem with Cheryl Strayed are running low, too."
 facebookauto = "We're just warning you in advance: David Sedaris tickets are almost sold out. And tickets to see Gloria Steinem and Cheryl Strayed in conversation are running low, too. It's not too early to start planning your Novembers, people."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/benaroya-hall"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/benaroya-hall.md"]
 notes_about = ""
-books = ["books/my-life-on-the-road"]
+books = ["books/my-life-on-the-road.md"]
 +++
 **1**. David Sedaris will be reading at Benaroya Hall on Sunday, November 15th, 2015. I'll be introducing him, as I've done at every one of his annual Benaroya Hall appearances for the better part of a decade. The best part of introducing David Sedaris is that when you're done introducing him, you get to watch David Sedaris read. He's simply one of the funniest, best readers in the world. [Tickets for this performance are very nearly sold out](http://www.seattlesymphony.org/concerttickets/calendar/2015-2016/concerts/benaroyahall/david-sedaris). The man never seems to have a bad night. Hell, he wore *culottes* last year and he still won the crowd over. How did he do it? Three words: clever dick jokes.
 

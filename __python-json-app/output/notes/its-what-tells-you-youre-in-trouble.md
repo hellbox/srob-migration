@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem \"It's what tells you you're in trouble\" is from @Raignn"
 facebookauto = "\"It's what tells you you're in trouble\" by Ashley E. Booth is our Tuesday Poem"
 make_image_tweet = "False"
-notes_byline = ["writers/ashley-e-booth"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/ashley-e-booth.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

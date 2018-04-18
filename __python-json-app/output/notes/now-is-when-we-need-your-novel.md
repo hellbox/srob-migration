@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear @nanowrimo writer: we need you now, please don't give up. "
 facebookauto = "Dear NaNoWriMo writer: we need you now, please don't give up. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/nanowrimo"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/nanowrimo.md"]
 notes_about = ""
 books = ""
 +++

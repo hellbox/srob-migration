@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your week in readings includes #ShoutYourAbortion, an esoteric book conference, and much more."
 facebookauto = "Your fall is kicking off in style, with a call to smash the patriarchy, a celebration of esoteric books, a talk about Chinatown, a discussion of Seattle's geological facelift, and much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/elliott-bay-book-company", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/town-hall-seattle.md", "tags/elliott-bay-book-company.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

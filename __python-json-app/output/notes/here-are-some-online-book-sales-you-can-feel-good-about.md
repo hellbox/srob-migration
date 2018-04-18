@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here are some online book sales you can feel good about, from @melvillehouse, @fantagraphics, and @DandQ."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

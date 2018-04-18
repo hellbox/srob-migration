@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483417372307/Scre
 twitterauto = "In the last 2 days, Sherman Alexie, Lindy West, and Ta-Nehisi Coates have all left Twitter. What's going on?"
 facebookauto = "In the last two days, Sherman Alexie, Lindy West, and Ta-Nehisi Coates have all left Twitter. Is 2017 the year when writers get off Twitter and get back to work?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/twitter", "tags/social-media"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/twitter.md", "tags/social-media.md"]
 notes_about = ""
 books = ""
 +++

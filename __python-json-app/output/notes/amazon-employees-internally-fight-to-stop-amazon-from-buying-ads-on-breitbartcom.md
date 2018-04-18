@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Amazon employees are trying to get their company to stop advertising on Breitbart. Maybe you can help?"
 facebookauto = "Amazon employees are trying to get their company to stop advertising on Breitbart. Maybe you can help?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon", "tags/breitbart"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md", "tags/breitbart.md"]
 notes_about = ""
 books = ""
 +++

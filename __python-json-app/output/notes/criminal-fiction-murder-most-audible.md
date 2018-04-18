@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's Criminal Fiction, from @daneetsteffens: podcasts, four mini-reviews, and an interview with @jasonpinter"
 facebookauto = "It's Criminal Fiction time: this month, podcasts, four mini-reviews, and the Quintessential Interview with Jason Pinter"
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

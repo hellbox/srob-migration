@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We love The Fix, a crime comic that feels like a dirty joke crossed with a tall tale."
 facebookauto = "We love The Fix, a crime comic that feels like a dirty joke crossed with a tall tale."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/image-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/image-comics.md"]
 notes_about = ""
 books = ""
 +++

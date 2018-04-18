@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's @rahawahaile short story time, with: @kristen_arnett, @megpokrass, @ianwillwrite, @Rebecca_Schiff, @yolo_tengo!"
 facebookauto = "Rahawa Haile made up for lost time this week, with nine stories (one a simple picture story"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-stories", "tags/short-story-of-the-day"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md", "tags/short-stories.md", "tags/short-story-of-the-day.md"]
 notes_about = ""
 books = ""
 +++

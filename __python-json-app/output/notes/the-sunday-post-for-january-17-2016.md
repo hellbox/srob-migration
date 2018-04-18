@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's the Sunday Post, with pieces by @yeahchrislough, @courtwrites, and @elainesciolino. "
 facebookauto = "Today's Sunday Post: how the heck do you make a book, anyway? The allure of other people's problems, and a peek (peep?) inside the New York Public Libraries erotica collection."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

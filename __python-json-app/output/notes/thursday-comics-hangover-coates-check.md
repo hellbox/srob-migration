@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501131291016/blac
 twitterauto = "We're 16 issues into Ta-Nehisi Coates's Black Panther series. How is it?"
 facebookauto = "We're 16 issues into Ta-Nehisi Coates's Black Panther series. How is it?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/black-panther"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/black-panther.md"]
 notes_about = ""
 books = ""
 +++

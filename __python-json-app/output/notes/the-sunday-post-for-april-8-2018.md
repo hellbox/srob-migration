@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This week's Sunday reads come from @dkevrafox2, @WordsandGuitar, and @salesses."
 facebookauto = "This week's Sunday reads come from Derek Kevra, Alicia Elliott, and Matthew Salesses."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

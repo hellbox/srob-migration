@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Minotaur Books"
 title = "Minotaur Books"
-books_by_this_publisher = ["books/city-of-dragons"]
+books_by_this_publisher = ["books/city-of-dragons.md"]
 +++

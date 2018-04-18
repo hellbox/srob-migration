@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493006556700/IMG_
 twitterauto = "We took Exit West to one of the Northwest's most-loved sandwich places."
 facebookauto = "We took Exit West to one of the Northwest's most-loved sandwich places. One of these two things wound up disappointing us."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md"]
 notes_about = ""
 books = ""
 +++

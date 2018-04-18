@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem today is from @rebeccahoogs, and the first line is: \"A winner, a swinger, a ringer.\""
 facebookauto = "OurasdfasdfOur Tuesday Poem today is from Rebecca Hoogs, and the first line is: \"A winner, a swinger, a ringer.\""
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-hoogs"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/rebecca-hoogs.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

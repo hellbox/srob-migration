@@ -10,5 +10,5 @@ last_updated = "2015-10-10T14:57:00-07:00"
 preview_url = "55d5858e-0d48-fe9e-1d5b-e48b4a2b3eef"
 name = "Penguin UK"
 title = "Penguin UK"
-books_by_this_publisher = ["books/middlemarch"]
+books_by_this_publisher = ["books/middlemarch.md"]
 +++

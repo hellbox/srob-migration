@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498174821466/oath
 twitterauto = "Your week in readings includes a novel about a sentient dog-people and a biography of Dave Niehaus."
 facebookauto = "Your week in readings includes a novel about a sentient dog-people and a biography of Dave Niehaus."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

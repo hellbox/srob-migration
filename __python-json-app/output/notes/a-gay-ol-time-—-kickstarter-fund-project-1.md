@@ -16,8 +16,8 @@ shareimage = "https://ksr-ugc.imgix.net/projects/2240204/photo-original.jpg?v=14
 twitterauto = "Our inaugural @kickstarter Fund Project is \"A Gay Ol' Time\", by @zakeno."
 facebookauto = "Our inaugural Kickstarter Fund Project is \"An anthology of illustrated portraits and short biographical poems of American LGBTQIA and Two-Spirit people born in the 1800s.\" Written and illustrated by Kiernan Sjursen-Lien. Go check out this neat project, and why we decided to put our money where our mouths are with it."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521085652314/DryC
 twitterauto = "This noir story set in Miami looks like it's drawn by Dan Clowes and it features a delight on every page."
 facebookauto = "This noir story set in Miami looks like it's drawn by Dan Clowes and it features a delight on every page."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = "http://lh3.googleusercontent.com/oYkFw8ALR4Fgkw_9ggz9kFdh3E5Ed7t0e
 twitterauto = "We've just opened sponsorship dates through the end of the year. Move fast and get the pick of the litter."
 facebookauto = "We've just opened sponsorship dates through the end of the year. Move fast and get the pick of the litter."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/the-sponsorship"]
+books = ["books/the-sponsorship.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1499099932962/sponsorship-by-you-small.jpg)</p>
 

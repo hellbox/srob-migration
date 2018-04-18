@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Used bookselling shifted dramatically in 2000. How did Louis Collins make the leap to digital?"
 facebookauto = "Used bookselling shifted dramatically in 2000. How did Louis Collins make the leap to digital?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/louis-collins-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/louis-collins-books.md"]
 notes_about = ""
 books = ""
 +++

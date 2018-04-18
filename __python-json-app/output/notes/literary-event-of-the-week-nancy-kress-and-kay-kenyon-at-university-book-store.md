@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498866166667/tomo
 twitterauto = "This week brings events that remind us why Seattle is a world-class city for sci-fi."
 facebookauto = "This week brings events that remind us why Seattle is a world-class city for sci-fi."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

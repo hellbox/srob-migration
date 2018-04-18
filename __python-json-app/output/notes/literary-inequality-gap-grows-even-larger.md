@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "You're not imagining things: it's getting harder to make a living as a writer."
 facebookauto = "You're not imagining things: it's getting harder to make a living as a writer."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

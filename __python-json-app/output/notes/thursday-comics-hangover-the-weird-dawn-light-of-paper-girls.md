@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446708384301/Pape
 twitterauto = "We've gone absolutely gaga over Brian K. Vaughan and @cliffchiang's new comic book \"Paper Girls.\""
 facebookauto = "The writer of Saga and the artist of Wonder Woman have joined forces to create a comic book about teenage girls on a newspaper delivery route. (It's got monsters and time travel and stuff, too.)"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/paper-girls"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/paper-girls.md"]
 notes_about = ""
 books = ""
 +++

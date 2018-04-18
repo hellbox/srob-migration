@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com(/webhook-uploads/1500785387922/IMG
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

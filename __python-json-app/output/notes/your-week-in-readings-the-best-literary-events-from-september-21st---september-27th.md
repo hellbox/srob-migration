@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your week in readings includes a talk about dying languages, a standup comedian, and a book about grunge."
 facebookauto = "Your week in readings includes a grunge guide, a standup comedian, and a rubbernecking opportunity featuring a once-huge author whose new novel seems very questionable."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/vermillion"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/vermillion.md"]
 notes_about = ""
 books = ""
 +++

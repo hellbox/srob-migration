@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523327617970/book
 twitterauto = "We talked with the stars of the drunkest, most literary improv show in the whole universe."
 facebookauto = "We talked with the stars of the drunkest, most literary improv show in the whole universe."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

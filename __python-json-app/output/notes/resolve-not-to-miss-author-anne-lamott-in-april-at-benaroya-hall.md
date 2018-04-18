@@ -16,8 +16,8 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1514587739910/
 twitterauto = "Sponsor Northwest Associated Arts is back to make sure you don't miss Anne Lamott in April at Benaroya Hall!"
 facebookauto = "Sponsor Northwest Associated Arts is back to make sure you don't miss Anne Lamott in April at Benaroya Hall."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

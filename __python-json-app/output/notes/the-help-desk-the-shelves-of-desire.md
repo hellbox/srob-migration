@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Are you ethically required to share bookshelves with your partner?"
 facebookauto = "Are you ethically required to share bookshelves with your partner?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

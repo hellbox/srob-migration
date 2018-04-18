@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "One of the most famous translators in the world, Gregory Rabassa, has died."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/translation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/translation.md"]
 notes_about = ""
 books = ""
 +++

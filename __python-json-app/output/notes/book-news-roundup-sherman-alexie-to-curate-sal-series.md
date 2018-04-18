@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup features good news, editorial challenges, and a scandal that turned into a sale."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-arts-and-lectures", "tags/the-james-franco-review"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-arts-and-lectures.md", "tags/the-james-franco-review.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/non-fiction"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/non-fiction.md"]
 notes_about = ""
-books = ["books/give-us-the-ballot"]
+books = ["books/give-us-the-ballot.md"]
 +++
 *The Nation* contributing writer [Ari Berman](http://www.thenation.com/authors/ari-berman/)’s excellent new book *Give Us the Ballot* tracks the history of voting rights in America from the 1950s to today. No less a civil rights giant than Congressman John Lewis [calls Berman’s history](https://www.washingtonpost.com/opinions/john-lewis-how-we-won-and-are-losing-the-right-to-vote/2015/09/10/5f77e644-50bc-11e5-933e-7d06c647a395_story.html) a “must-read” that “should become a primer for every American” on the topic of voting equality. (Lewis, of course, figures heavily into *Ballot*’s narrative.) This Friday, Berman [appears in conversation with Supreme Court Justice Steven Gonzalez at Town Hall](https://townhallseattle.org/event/ari-berman-with-justice-steven-gonzalez/) to talk about the state of voting rights nationally and in Washington State. 
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "They don't even know how to use bookshelves correctly."
 facebookauto = "What's on the bookshelves at President Trump's State Department? Well, uh, not much."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

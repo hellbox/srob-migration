@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509372600321/Scre
 twitterauto = "Our November Poet in Residence is Emily Bedard, and we begin with her \"Finale\""
 facebookauto = "Our November Poet in Residence is Emily Bedard, and we begin with her \"Finale\""
 make_image_tweet = "False"
-notes_byline = ["writers/emily-bedard"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/emily-bedard.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

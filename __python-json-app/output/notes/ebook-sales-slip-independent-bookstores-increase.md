@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "E-book sales declined over the past 5 months. 302 new bookstores opened over the last 5 years. Books win."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/e-books", "tags/independent-bookstores"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/e-books.md", "tags/independent-bookstores.md"]
 notes_about = ""
 books = ""
 +++

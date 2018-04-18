@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521003179018/tell
 twitterauto = "Tonight, a mystery author and a city walks expert discuss the best places in Seattle to commit murder."
 facebookauto = "Tonight, a mystery author and a city walks expert discuss the best places in Seattle to commit murder."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

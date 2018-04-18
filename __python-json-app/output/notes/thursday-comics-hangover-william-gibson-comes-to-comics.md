@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463633553546/arch
 twitterauto = "We loved the first issue of @GreatDismal's new comic Archangel. "
 facebookauto = "Sci-fi legend William Gibson just published his very first comic book. How is it?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
-books = ["books/between-the-world-and-me", "books/neuromancer"]
+books = ["books/between-the-world-and-me.md", "books/neuromancer.md"]
 +++
 All the cool literary people are writing comics now. Ta-Nehisi Coates is [doing an excellent job with *Black Panther*](http://seattlereviewofbooks.com/notes/2016/04/07/thursday-comics-hangover-everybodys-talking-about-the-black-panther/), Margaret Atwood’s comic *Angel Catbird* is coming out sometime this year, and yesterday the very first issue of sci-fi legend William Gibson’s very first comic, *Archangel*, hit the stands. Co-created with screenwriter Michael St. John Smith and illustrated by comics veteran Butch Guice, *Archangel* is closer to Gibson's previously published work than, say, *Black Panther* is to *Between the World and Me*, but Gibson is definitely marking new territory here; this is not a lazy cash-grab *Neuromancer* sequel in comic form or anything so crass.
 

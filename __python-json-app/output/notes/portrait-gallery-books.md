@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483035538730/SRoB
 twitterauto = "Hope you have time to sit down & spend a few moments with a book you love. A #books #illustration by @studiochristine"
 facebookauto = "It's the end of the year. Hope you have time to sit down and spend a few moments with a book you love."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

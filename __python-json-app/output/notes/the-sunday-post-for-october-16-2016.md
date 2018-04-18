@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Mental health, spider venom, the nature of reality, and Ursula K Le Guin, all in today's Sunday Post."
 facebookauto = "Mental health, spider venom, the nature of reality, and Ursula K Le Guin, all in today's Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

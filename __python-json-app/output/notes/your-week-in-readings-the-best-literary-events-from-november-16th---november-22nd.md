@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478835469867/blac
 twitterauto = "This week, you'll want to attend readings by @TeaMichelle and @edskoog, among others."
 facebookauto = "Your week in readings include a reading by Ed Skoog, sci-fi and comics launch parties, and much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
-books = ["books/black-wave"]
+books = ["books/black-wave.md"]
 +++
 <p class="noindent"><h5>**Wednesday November 16th: WordsWest Literary Series**</h5></p> 
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Mothers and daughters and book-borrowing: @ciennam has some thoughts. "
 facebookauto = "Mothers and daughters and book-borrowing: our advice columnist has some thoughts."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

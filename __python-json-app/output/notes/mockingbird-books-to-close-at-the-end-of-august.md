@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sad news: Green Lake children's bookstore Mockingbird Books will close on August 27th."
 facebookauto = "Sad news: Green Lake children's bookstore Mockingbird Books will close on August 27th."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/mockingbird-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/mockingbird-books.md"]
 notes_about = ""
 books = ""
 +++

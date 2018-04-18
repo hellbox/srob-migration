@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Those Wonder Woman comics sold for HOW MUCH?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/wonder-woman"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/wonder-woman.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Congratulations to @ancawrites, who just won the first Gar LaSalle Storyteller Award from @artisttrust!"
 facebookauto = "Seattle writer Anca Szil\u00e1gyi has been having a great year, and it just got even greater\u00a0\u2014 she just won the very first Gar LaSalle Storyteller Award from the good people at Artist Trust!"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/artist-trust"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/artist-trust.md"]
 notes_about = ""
 books = ""
 +++

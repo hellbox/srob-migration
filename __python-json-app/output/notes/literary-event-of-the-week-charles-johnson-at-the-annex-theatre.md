@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521758192723/wayo
 twitterauto = "This Thursday, you have an amazing opportunity to hear Charles Johnson talk about writing."
 facebookauto = "This Thursday, you have an amazing opportunity to hear Charles Johnson talk about writing."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

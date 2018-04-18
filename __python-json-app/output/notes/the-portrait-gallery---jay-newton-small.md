@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465446841495/SRoB
 twitterauto = "It's @JNSmall, painted by @studiochristine!"
 facebookauto = "It's Jay Newton-Small, painted by Christine Marie Larsen, for this week's Portrait Gallery"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

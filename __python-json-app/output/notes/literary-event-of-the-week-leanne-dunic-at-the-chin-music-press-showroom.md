@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496426530506/comi
 twitterauto = "Seattle publisher @Chinmusicpress hosts an event in their Pike Place showroom this Saturday."
 facebookauto = "Seattle publisher Chin Music Press hosts an event in their Pike Place showroom this Saturday. It's our Event of the Week!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/chin-music-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/chin-music-press.md"]
 notes_about = ""
 books = ""
 +++

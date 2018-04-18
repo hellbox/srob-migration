@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A computer is just a tool, and like any tool, it can be used in service of prejudice."
 facebookauto = "A computer is just a tool, and like any tool, it can be used in service of prejudice."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

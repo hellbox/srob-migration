@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516071278468/jedi
 twitterauto = "Fanfic writers are saying the latest Star Wars movie is plagiarized from their work. That's nonsense."
 facebookauto = "Fanfic writers are saying the latest Star Wars movie is plagiarized from their work. That's nonsense."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/plagiarism", "tags/fan-fiction"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/plagiarism.md", "tags/fan-fiction.md"]
 notes_about = ""
 books = ""
 +++

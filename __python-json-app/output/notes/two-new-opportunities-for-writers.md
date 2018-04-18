@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Are you an aspiring writer? Check out these two new writing opportunities, from @BitchMedia and @SIFFnews."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bitch", "tags/siff"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bitch.md", "tags/siff.md"]
 notes_about = ""
 books = ""
 +++

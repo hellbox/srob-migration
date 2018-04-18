@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Bloomsbury"
 title = "Bloomsbury"
-books_by_this_publisher = ["books/the-write-crowd"]
+books_by_this_publisher = ["books/the-write-crowd.md"]
 +++

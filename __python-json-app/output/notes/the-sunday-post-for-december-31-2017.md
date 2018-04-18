@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our last words for 2017: \u201check yes\u201d to everyone who wrote for us this year."
 facebookauto = "Our last words for 2017: \u201check yes\u201d to everyone who wrote for us this year."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495081264862/brok
 twitterauto = "Your week of readings features refugees, comics memoirs, and much more."
 facebookauto = "Your week of readings features refugees, Folklife, long-awaited comics memoirs, and much more!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
-books = ["books/weed-the-users-guide", "books/the-starting-gate"]
+books = ["books/weed-the-users-guide.md", "books/the-starting-gate.md"]
 +++
 <p class="noindent"><h5>**Wednesday May 24th: Displaced: Refugee Voices in Conversation**</h5></p> 
 The Northwest Immigrant and Refugee Health Coalition is assembling a panel of refugees to discuss what it’s like to become a refugee in this country, and what life in America for refugees is like right now. These are conversations that everyone should hear — a reminder that Trump’s policies have real repercussions for real people. 

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1515126053824/yel
 twitterauto = "Topics discussed in this week's readings: self-reliance, feuding scientists, and residencies. "
 facebookauto = "Topics discussed in this week's readings: self-reliance, feuding scientists, and residencies. "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

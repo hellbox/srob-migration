@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Hey, freelancers: Today's the last day to sign up for Obamacare. Sign up today for guaranteed coverage for 2017."
 facebookauto = "A reminder for all our readers who are freelance writers: Today is the last day to sign up for Obamacare. No matter what nonsense Republicans pull over the next year, if you sign up today, you are guaranteed to have health insurance coverage for the year of 2017. Please look into it, okay? We want you to be healthy."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump", "tags/health-insurance"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md", "tags/health-insurance.md"]
 notes_about = ""
 books = ""
 +++

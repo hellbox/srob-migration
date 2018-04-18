@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here's evergreen advice from @ciennam: \"A fully employed liver is the moral compass of the heart.\" "
 facebookauto = "What do you do if two literary magazines agree to publish the same piece at the same time? Cienna Madrid's advice includes this perennially useful sentence: \"A fully employed liver is the moral compass of the heart.\" "
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

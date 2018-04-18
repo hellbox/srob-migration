@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What kind of book club brings dozens of police to a library in the afternoon? "
 facebookauto = "What kind of book club brings dozens of police to a library in the afternoon? "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-police-department", "tags/seattle-black-book-club"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-police-department.md", "tags/seattle-black-book-club.md"]
 notes_about = ""
 books = ""
 +++

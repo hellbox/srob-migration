@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516940688011/Poet
 twitterauto = "The new issue from sponsor @poetrynw is all about the visuals. Lay eyes on a sample spread right here!"
 facebookauto = "The winter/spring issue of sponsor Poetry Northwest is all about visual poetry. Lay eyes on a couple of sample spreads here, then subscribe or find them at a nearby bookstore."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/poetry-northwest-(winter-&-spring-2018)"]
+books = ["books/poetry-northwest-(winter-&-spring-2018).md"]
 +++
 <p class="image-left">![](/webhook-uploads/1516940815487/Poetry%20Northwest_150.jpg)</p>
 If you haven't picked up the winter/spring 2018 issue of *Poetry Northwest*, get to it: it's waiting in the magazine stand at your local independent bookstore. Every issue has a theme, and this time around it's visual poetry. *Poetry Northwest* always has a strong graphic element — the look of the publication gets more interesting with every issue — so we're excited to get our eyes on the pages of this one.  As part of their sponsorship of the site, the journal's sharing a couple of gorgeous inside peeks with our readers: stop by [our sponsorship page](http://www.seattlereviewofbooks.com/sponsorship/) to check it out, then [subscribe](https://www.poetrynw.org/subscribe/) to make sure you don't miss the next issue.

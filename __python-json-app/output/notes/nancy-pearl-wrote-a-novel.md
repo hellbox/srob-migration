@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Beloved Seattle librarian @Nancy_Pearl will be publishing her debut novel next year."
 facebookauto = "Beloved Seattle librarian Nancy Pearl will be publishing her debut novel next year. Did anyone even know she was writing a novel? This is very exciting!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/novel"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/novel.md"]
 notes_about = ""
 books = ""
 +++

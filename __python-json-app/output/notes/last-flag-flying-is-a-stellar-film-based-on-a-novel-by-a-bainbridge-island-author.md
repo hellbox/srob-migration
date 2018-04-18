@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510642315980/last
 twitterauto = "Based on a book by a Bainbridge Island author, Last Flag Flying follows a great American tradition."
 facebookauto = "Based on a book by a Bainbridge Island author, Last Flag Flying follows a great American tradition."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/adaptation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/adaptation.md"]
 notes_about = ""
 books = ""
 +++

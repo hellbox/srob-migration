@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sad news: Next year's @APRILFestSEA will be the last. "
 facebookauto = "Sad news: next year's APRIL Festival will be the last. Good news: next year's APRIL Festival will take place under a \"literal circus tent\" and it sounds like a lot of fun. "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/april", "tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/april.md", "tags/death.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444149810319/IMG_
 twitterauto = "Hey, men. Here's an idea: why don't you stop harassing women, okay? "
 facebookauto = "A male fan harassed a cartoonist, asking her to rub her vagina on a copy of her book before sending it to him. When the cartoonist called him out on Twitter, he got mad, saying there was nothing sexual about his request. Here's an idea: why don't men stop harassing women?"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comics", "tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comics.md", "tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

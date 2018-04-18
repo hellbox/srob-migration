@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461644831140/Bumb
 twitterauto = "We're so excited to bring @thisisEJKoh, @Misterlashley, and @Sherman_Alexie  to @Bumbershoot this year!"
 facebookauto = "The rumors are true:  the Seattle Review of Books is incredibly excited to be presenting a show at Bumbershoot this year!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bumbershoot"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bumbershoot.md"]
 notes_about = ""
 books = ""
 +++

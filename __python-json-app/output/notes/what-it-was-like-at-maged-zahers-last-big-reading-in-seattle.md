@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Maged Zaher said goodbye to Seattle over the weekend. He just can't quit this city."
 facebookauto = "Maged Zaher said goodbye to Seattle over the weekend. He just can't quit this city."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/arundel-books", "tags/chatwin-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/arundel-books.md", "tags/chatwin-books.md"]
 notes_about = ""
 books = ""
 +++

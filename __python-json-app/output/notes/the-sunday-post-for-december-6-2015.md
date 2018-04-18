@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In today's Sunday Post, a piece about jury duty, and a piece by @brophy_murdoch"
 facebookauto = "The Sunday Post, today: a true story of Jury Duty, and one of Iris Murdoch's confidants and lovers comes clean. "
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

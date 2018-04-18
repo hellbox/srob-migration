@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Reader @kerryhowell had a question for @ciennam about her Little Library response. "
 facebookauto = "We get mail! Today, a reader responds to Cienna Madrid, who responds back. Don't you love this kind of old-fashioned idea of letters and responding instead of a comments section?"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/mail-bag", "tags/the-help-desk"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/mail-bag.md", "tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Read an excerpt from our sponsor's novel Cretaceous World for a startling take on the end game for global warming."
 facebookauto = "Check out an excerpt from sponsor Howard W. Robertson's Cretaceous World for a very different take on the end game for global warming \u2014 one where metaphysics live side by side with hope, family, and a park full of thunder lizards."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/love-in-the-cretaceous"]
+books = ["books/love-in-the-cretaceous.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1501823752502/Love%20in%20the%20Cretaceous_125.jpeg)</p>
 

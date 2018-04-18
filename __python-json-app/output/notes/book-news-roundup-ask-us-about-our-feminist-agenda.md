@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup wants you to ask us about our feminist agenda."
 facebookauto = "\"The Last Bookstore in the Bronx\" sounds like a pretty good title for a movie, and \"ask me about my feminist agenda\" sounds like a pretty good anti-troll rallying cry."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/troll", "tags/hugo-house", "tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/troll.md", "tags/hugo-house.md", "tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here's @seacityoflit's announcement that Seattle is officially a UNESCO City of Literature."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-city-of-literature", "tags/unesco"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-city-of-literature.md", "tags/unesco.md"]
 notes_about = ""
 books = ""
 +++

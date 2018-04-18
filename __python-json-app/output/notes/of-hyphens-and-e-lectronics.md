@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/twitter", "tags/poll", "tags/seattle-review-of-books"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/twitter.md", "tags/poll.md", "tags/seattle-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

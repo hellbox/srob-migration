@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in Book News Roundup: a new poetry publication, a prizewinning poet, and Iceland."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/two-sylvias-press", "tags/iceland", "tags/literary-magazines", "tags/bureau-of-fearless-ideas"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/two-sylvias-press.md", "tags/iceland.md", "tags/literary-magazines.md", "tags/bureau-of-fearless-ideas.md"]
 notes_about = ""
 books = ""
 +++

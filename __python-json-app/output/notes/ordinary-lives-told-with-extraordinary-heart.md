@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Just months in, @HelloTheFuture's debut novel has a loyal following. Shouldn't you join them?"
 facebookauto = "Sponsor Nicole Dieker's Biographies of Ordinary People has a loyal following, just months after its release. Find out why with a sneak peek at the first chapter."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/the-biographies-of-ordinary-people"]
+books = ["books/the-biographies-of-ordinary-people.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1496675517276/BiographiesofOrdinaryPeople-small.jpg)</p>
 

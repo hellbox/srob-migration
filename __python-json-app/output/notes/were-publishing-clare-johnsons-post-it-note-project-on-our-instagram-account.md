@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504240768888/01.j
 twitterauto = "We're partnering with poet and artist Clare Johnson to show her Post-it Note project each week. "
 facebookauto = "We're partnering with poet and artist Clare Johnson to show her Post-it Note project each week. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/post-it-note-project"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/post-it-note-project.md"]
 notes_about = ""
 books = ""
 +++

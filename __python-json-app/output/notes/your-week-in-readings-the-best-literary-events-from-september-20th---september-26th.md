@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503459985484/sacr
 twitterauto = "Your Week in Readings includes Grab Back Comics and a new Seattle-set mystery series!"
 facebookauto = "Your Week in Readings includes Grab Back Comics and a new Seattle-set mystery series!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
-books = ["books/grab-back-comics"]
+books = ["books/grab-back-comics.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1503459985484/sacrifice.jpg)</p>
 

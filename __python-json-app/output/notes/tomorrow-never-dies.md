@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Introducing @join_scout, a new media outlet that combines sci-fi with journalism."
 facebookauto = "A brand-new Seattle media outlet combines science fiction with journalism to create something new."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/science-fiction", "tags/science"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/science-fiction.md", "tags/science.md"]
 notes_about = ""
-books = ["books/seveneves"]
+books = ["books/seveneves.md"]
 +++
 Science fiction has always inspired real-world technological advances. The very first employees of NASA were inspired by the rocket-ship and ray-gun festooned pulp sci-fi of the 1930s and 1940s. Most of the greatest innovators of the last 30 years have found their inspiration in sci-fi novels. Steve Jobs, creepily, recommended *1984* to new hires at Apple. Elon Musk is very public about his love of Robert Heinlein, Isaac Asimov, and Douglas Adams. Bill Gates grew up on science fiction and he continues to stay abreast of the new stuff: he recently nerded out over Seattle author [Neal Stephenson’s most recent novel *Seveneves*](http://seattlereviewofbooks.com/reviews/sticking-the-landing/). 
 

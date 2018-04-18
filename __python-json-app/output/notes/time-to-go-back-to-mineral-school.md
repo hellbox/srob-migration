@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our sponsor @mineralschool is now accepting applications for 2016 residencies. So cool! Come check them out."
 facebookauto = "Mineral School is our sponsor this week, and they're now accepting applications for Summer 2016 residencies. Come check out what they have to offer, and read some poetry from alumni of their program. "
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

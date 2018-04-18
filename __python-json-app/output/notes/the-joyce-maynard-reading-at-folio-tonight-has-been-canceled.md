@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Joyce Maynard event at Folio tonight has been canceled. "
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/folio-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/folio-seattle.md"]
 notes_about = ""
 books = ""
 +++

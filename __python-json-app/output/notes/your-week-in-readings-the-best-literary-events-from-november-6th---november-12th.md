@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508823248914/imag
 twitterauto = "There's all kinds of neat stuff happening this week, including art and a radio show."
 facebookauto = "There's all kinds of neat stuff happening this week, including art and a radio show."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

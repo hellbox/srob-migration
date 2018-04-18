@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Please join us @ThirdPlaceBooks Seward Park on February 1st to discuss Rebecca Solnit's book Hope In the Dark."
 facebookauto = "Thanks to everyone who came out to the Reading Through It book club last night. Please join us at Third Place Books Seward Park on February 1st to discuss Rebecca Solnit's book Hope In the Dark."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

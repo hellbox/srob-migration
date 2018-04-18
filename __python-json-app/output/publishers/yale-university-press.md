@@ -10,5 +10,5 @@ last_updated = "2016-10-05T20:33:00-07:00"
 preview_url = "19041449-4075-3ca5-5c94-4756ce02cecf"
 name = "Yale University Press"
 title = "Yale University Press"
-books_by_this_publisher = ["books/mindful-tech"]
+books_by_this_publisher = ["books/mindful-tech.md"]
 +++

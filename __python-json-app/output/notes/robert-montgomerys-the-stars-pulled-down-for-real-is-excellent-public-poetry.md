@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "You have just five days left to appreciate the gorgeous sci-fi poem installed on Denny Way."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/public-art", "tags/the-stars-pulled-down-for-real"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/public-art.md", "tags/the-stars-pulled-down-for-real.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452622710063/sean
 twitterauto = "In today's book news roundup: @HugoHouse, @fbpress, & @jackstrawarts."
 facebookauto = "Our first book news roundup of 2016 involves a series of literary fortune-telling evenings, a bunch of writers programs, and a few exciting moves for Seattle authors. "
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/sorrento-hotel", "tags/hugo-house", "tags/jack-straw", "tags/floating-bridge"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/sorrento-hotel.md", "tags/hugo-house.md", "tags/jack-straw.md", "tags/floating-bridge.md"]
 notes_about = ""
 books = ""
 +++

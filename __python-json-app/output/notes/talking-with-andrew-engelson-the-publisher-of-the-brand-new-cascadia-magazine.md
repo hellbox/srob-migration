@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516685843081/casc
 twitterauto = "We sat down with the publisher of the new @cascadiamag to discuss the state of magazine publishing."
 facebookauto = "We sat down with the publisher of the new Cascadia Magazine to discuss the state of magazine publishing."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/magazine", "tags/media"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/magazine.md", "tags/media.md"]
 notes_about = ""
 books = ""
 +++

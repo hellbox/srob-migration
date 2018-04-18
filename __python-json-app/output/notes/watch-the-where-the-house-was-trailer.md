@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Watch the trailer for @teamdemohugo's documentary about @HugoHouse's big change."
 facebookauto = "The trailer for the documentary about Hugo House is here, and it's a perfect little movie in and of itself."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

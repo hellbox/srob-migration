@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492049505964/book
 twitterauto = "Your Week in Readings brings a dystopian Joan of Arc story, a pair of plays, and much more."
 facebookauto = "Your Week in Readings brings a dystopian Joan of Arc story, a pair of plays, and much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/jack-straw"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/jack-straw.md"]
 notes_about = ""
 books = ""
 +++

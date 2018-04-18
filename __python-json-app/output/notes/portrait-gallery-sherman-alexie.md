@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463631179034/SRoB
 twitterauto = "It's @Sherman_Alexie in @studiochristine's Portrait Gallery!"
 facebookauto = "Hey look, Christine Larsen painted Sherman Alexie for this week's Portrait Gallery!"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

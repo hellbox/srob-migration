@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509082415804/Scre
 twitterauto = "For Taylor Wright Rushing, @shortrunseattle is a homecoming."
 facebookauto = "For Taylor Wright Rushing, Short Run Seattle is a homecoming."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2015-08-13T16:12:00-07:00"
 preview_url = "2cc40213-227b-736c-29e4-77b9130464a8"
 name = "Farrar, Straus and Giroux"
 title = "Farrar, Straus and Giroux"
-books_by_this_publisher = ["books/purity", "books/the-art-of-the-publisher", "books/the-heart", "books/ghetto", "books/thank-you-for-being-late", "books/the-grip-of-it", "books/seventh-function-of-language", "books/purity", "books/one-of-us"]
+books_by_this_publisher = ["books/purity.md", "books/the-art-of-the-publisher.md", "books/the-heart.md", "books/ghetto.md", "books/thank-you-for-being-late.md", "books/the-grip-of-it.md", "books/seventh-function-of-language.md", "books/purity.md", "books/one-of-us.md"]
 +++

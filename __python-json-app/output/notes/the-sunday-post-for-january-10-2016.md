@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Pieces by @DearSplenda, @jengraves, @egabbert, and more in today's Sunday Post. "
 facebookauto = "The history of the style section. a question of who deserves artist's grants, some good advice for writers, and Updike on Iris Murdoch, all in today's Sunday Post. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515389417830/Scre
 twitterauto = "Our second, from Poet in Residence Kevin Craft, is titled \"Lesson Plan\""
 facebookauto = "Our second, from Poet in Residence Kevin Craft, is titled \"Lesson Plan\""
 make_image_tweet = "False"
-notes_byline = ["writers/kevin-craft"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/kevin-craft.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

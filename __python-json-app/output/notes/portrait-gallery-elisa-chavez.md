@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493251158425/SRoB
 twitterauto = "Portrait Gallery: @elisacatrina #illustration by @studiochristine #revenge #poem"
 facebookauto = "Portrait Gallery: Elisa Chavez "
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

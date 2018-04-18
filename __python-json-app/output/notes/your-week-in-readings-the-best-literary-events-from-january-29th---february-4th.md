@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515126158105/nast
 twitterauto = "This week in readings includes a class on dismantling racism and a reading of Nasty Women."
 facebookauto = "This week in readings includes a class on dismantling racism and a reading of Nasty Women."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

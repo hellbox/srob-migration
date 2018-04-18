@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477699046468/25f9
 twitterauto = "The Kickstarter Fund backs @designersbooks latest amazing reproduction."
 facebookauto = "The Kickstarter Fund backs a reproduction of an amazing piece of design and art history."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

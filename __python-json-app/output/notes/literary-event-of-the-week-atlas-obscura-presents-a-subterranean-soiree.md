@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1475041706090/atla
 twitterauto = "Our Event of the Week is a book launch party with @atlasobscura under the streets of Seattle."
 facebookauto = "Come celebrate the new Seattle branch of Atlas Obscura with a book launch party under the streets of Seattle."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/atlas-obscura", "tags/seattle-center"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/atlas-obscura.md", "tags/seattle-center.md"]
 notes_about = ""
 books = ""
 +++

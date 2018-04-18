@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle! Don't forget to vote today, okay?"
 facebookauto = "Seattle! Don't forget to vote today, okay?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

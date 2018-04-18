@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507931653312/Scre
 twitterauto = "We talked with the anonymous cartoonist behind the Seattle Walk Report."
 facebookauto = "We talked with the anonymous cartoonist behind the hit Seattle Walk Report comics series on Instagram. She's pretty awesome."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/seattle-walk-report"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/seattle-walk-report.md"]
 notes_about = ""
 books = ""
 +++

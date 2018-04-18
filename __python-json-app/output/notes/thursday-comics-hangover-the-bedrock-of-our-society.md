@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "There's a new Flintstones comic book. It's for adults. And it's pretty good?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/satire"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/satire.md"]
 notes_about = ""
 books = ""
 +++

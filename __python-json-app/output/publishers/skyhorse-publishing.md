@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Skyhorse Publishing"
 title = "Skyhorse Publishing"
-books_by_this_publisher = ["books/now-for-the-disappointing-part", "books/the-hummingbirds"]
+books_by_this_publisher = ["books/now-for-the-disappointing-part.md", "books/the-hummingbirds.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This @KUOW report on the UW's new book conservation program is a must for book-lovers."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/kuow"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/kuow.md"]
 notes_about = ""
 books = ""
 +++

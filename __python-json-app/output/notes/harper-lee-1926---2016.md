@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Goodbye, Harper Lee. Thank you for everything."
 facebookauto = "Goodbye, Harper Lee. Thank you for everything."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/go-set-a-watchman", "tags/to-kill-a-mockinbird"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/go-set-a-watchman.md", "tags/to-kill-a-mockinbird.md"]
 notes_about = ""
 books = ""
 +++

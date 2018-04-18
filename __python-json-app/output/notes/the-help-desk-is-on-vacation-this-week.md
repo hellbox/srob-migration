@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Got questions about about life, reading, or reading life? Ask @ciennam anything at advice@seattlereviewofbooks.com"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

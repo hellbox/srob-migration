@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448387998402/IMG_
 twitterauto = "The @HugoHouse asked a farmer's market to write a collaborative poem. Is it a good poem? Well, no. But..."
 facebookauto = "The Hugo House set up a typewriter at the University District Farmer's Market and asked passersby to write a line in a collaborative poem. The resulting poem might not be great literature, but it's an accurate thermometer of the mood of a Seattle crowd in mid-November."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

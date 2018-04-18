@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "While we always love Jack Kirby's comics, it's hard to recommend the Kamandi Challenge Special."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

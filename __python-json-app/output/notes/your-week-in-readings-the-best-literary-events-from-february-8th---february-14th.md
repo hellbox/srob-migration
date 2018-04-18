@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485995889421/Scre
 twitterauto = "Your week in readings features bees and a Valentine's inquiry into love."
 facebookauto = "Your week in readings features bees, the Great American Novel, bees, a Valentine's inquiry into the nature of love, and much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/town-hall-seattle.md"]
 notes_about = ""
-books = ["books/americanah"]
+books = ["books/americanah.md"]
 +++
 <p class="noindent"><h5>**Wednesday February 8th: *Life in a Fishbowl* and *Nowhere Near You* Reading
  **</h5></p> 

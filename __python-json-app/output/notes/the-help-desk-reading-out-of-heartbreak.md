@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our literary advice column returns with a question from a lovelorn reader."
 facebookauto = "Our literary advice column returns from holiday break with a question from a lovelorn reader."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

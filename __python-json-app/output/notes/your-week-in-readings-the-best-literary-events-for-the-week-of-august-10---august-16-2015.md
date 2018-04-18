@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/university-book-store", "tags/phoenix-comics-and-games", "tags/third-place-books-lake-forest-park", "tags/seattle-public-library", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/university-book-store.md", "tags/phoenix-comics-and-games.md", "tags/third-place-books-lake-forest-park.md", "tags/seattle-public-library.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

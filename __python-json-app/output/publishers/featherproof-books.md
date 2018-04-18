@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Featherproof Books"
 title = "Featherproof Books"
-books_by_this_publisher = ["books/see-you-in-the-morning"]
+books_by_this_publisher = ["books/see-you-in-the-morning.md"]
 +++

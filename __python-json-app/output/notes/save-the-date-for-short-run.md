@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Hope you didn't already have plans for November 4th, 2017, because that's the next @shortrunseattle."
 facebookauto = "Save the date: Short Run 2017 will happen on Saturday November 4th."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

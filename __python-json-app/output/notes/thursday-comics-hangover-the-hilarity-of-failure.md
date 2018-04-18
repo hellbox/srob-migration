@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450933638915/cove
 twitterauto = "Seattle cartoonist Tom Van Deusen has published a comic book about loser named Tom Van Deusen."
 facebookauto = "A Seattle cartoonist named Tom Van Deusen has published a comic book about loser named Tom Van Deusen who suffers from a complete lack of self-awareness."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

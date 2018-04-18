@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"My husband's family knows I love books, so the problem is that they buy me books. Why is it a problem?\""
 facebookauto = "\"My husband's family knows I love books, so the problem is that they buy me books. Why is it a problem?\""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What kind of a monster breaks into a bookstore and steals almost a thousand bucks?"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/couth-buzzard", "tags/crime"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/couth-buzzard.md", "tags/crime.md"]
 notes_about = ""
 books = ""
 +++

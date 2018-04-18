@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Registration for @HugoHouse fall courses is now open. Here are some of the most promising classes:"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

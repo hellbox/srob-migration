@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496116115705/IMG_
 twitterauto = "Charles Dickens meets Ivanka Trump on the shores of Lake Washington."
 facebookauto = "Charles Dickens meets Ivanka Trump on the shores of Lake Washington."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump", "tags/audio-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md", "tags/audio-books.md"]
 notes_about = ""
 books = ""
 +++

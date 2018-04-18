@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Writer @alexdecampi is revealing some uncomfortable truths about sexism in the comics industry. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/dc-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/dc-comics.md"]
 notes_about = ""
 books = ""
 +++

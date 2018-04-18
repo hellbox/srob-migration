@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "You can travel to the other side of the world, but you'll never find another bookstore like Lion Heart."
 facebookauto = "You can travel to the other side of the world, but you'll never find another shop like our Bookstore of the Month, Lion Heart Books."
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/lion-heart-books"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/lion-heart-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Denzel Washington to produce all ten plays in Seattle playwright August Wilson's Pittsburgh Cycle for HBO."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/plays", "tags/hbo"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/plays.md", "tags/hbo.md"]
 notes_about = ""
 books = ""
 +++

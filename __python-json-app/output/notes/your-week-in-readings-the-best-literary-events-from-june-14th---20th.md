@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1496965806334/sea
 twitterauto = "This week, writers from eastern Washington and western Washington team up, bringing the state together."
 facebookauto = "This week, writers from eastern Washington and western Washington team up, bringing the state together."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/thick-as-thieves"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/thick-as-thieves.md"]
 notes_about = ""
 books = ""
 +++

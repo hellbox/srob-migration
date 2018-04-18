@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "The National Book Critics Circle Awards have been announced, and there are some damn fine books on the list."
 facebookauto = "The National Book Critics Circle Awards have been announced, and there are some damn fine books on the list."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/awards", "tags/national-book-critics-circle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/awards.md", "tags/national-book-critics-circle.md"]
 notes_about = ""
-books = ["books/the-argonauts"]
+books = ["books/the-argonauts.md"]
 +++
 Winners include:
 

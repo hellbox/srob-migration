@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1511916871408/code
 twitterauto = "Donald Trump probably doesn't want you to read this comic book. So read it!"
 facebookauto = "Donald Trump probably doesn't want you to read this comic book. So read it!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/marvel-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/marvel-comics.md"]
 notes_about = ""
 books = ""
 +++

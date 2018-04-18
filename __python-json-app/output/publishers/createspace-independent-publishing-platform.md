@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "CreateSpace Independent Publishing Platform"
 title = "CreateSpace Independent Publishing Platform"
-books_by_this_publisher = ["books/steel-blood-&-fire"]
+books_by_this_publisher = ["books/steel-blood-&-fire.md"]
 +++

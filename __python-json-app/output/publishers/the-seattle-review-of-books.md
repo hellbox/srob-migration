@@ -10,5 +10,5 @@ last_updated = "2017-06-29T19:59:00-07:00"
 preview_url = "63d801e8-813a-59d9-6e50-4ebaeb24eb3d"
 name = "The Seattle Review of Books"
 title = "The Seattle Review of Books"
-books_by_this_publisher = ["books/the-sponsorship"]
+books_by_this_publisher = ["books/the-sponsorship.md"]
 +++

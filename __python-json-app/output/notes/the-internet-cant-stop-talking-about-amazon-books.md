@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Yesterday, the internet went crazy for Amazon's physical bookstore. Here are some of the most notable accounts:"
 facebookauto = "Amazon Books launched yesterday, kicking off a bizarre hot-take that may or may not be a joke, a wonderful Twitter rant, and  some first-person accounts of what it's like to visit Amazon Books. Things are getting weird out there."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon-books", "tags/retail"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon-books.md", "tags/retail.md"]
 notes_about = ""
 books = ""
 +++

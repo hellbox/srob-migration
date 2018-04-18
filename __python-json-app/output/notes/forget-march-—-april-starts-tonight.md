@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "APRIL Festival starts tonight! Here are the hot tickets to buy in advance."
 facebookauto = "APRIL Festival starts tonight! Here are the hot tickets to buy in advance."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/april"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/april.md"]
 notes_about = ""
 books = ""
 +++

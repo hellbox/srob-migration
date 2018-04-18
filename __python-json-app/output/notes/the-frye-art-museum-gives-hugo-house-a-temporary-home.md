@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The @FryeArtMuseum is giving @HugoHouse a temporary home later this year."
 facebookauto = "The Frye Art Museum will give Hugo House a temporary home later this year."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/frye-art-museum", "tags/elliott-bay-book-company", "tags/sorrento-hotel", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/frye-art-museum.md", "tags/elliott-bay-book-company.md", "tags/sorrento-hotel.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

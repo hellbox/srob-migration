@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Three geniuses and a @paulconstant discuss the limits of genre at the @FryeArtMuseum  this Saturday!"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/frye-art-museum"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/frye-art-museum.md"]
 notes_about = ""
 books = ""
 +++

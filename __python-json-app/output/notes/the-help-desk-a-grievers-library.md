@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "When someone you love dies, what do you do with their library?"
 facebookauto = "The latest letter to our advice columnist begins, \"My husband died. It was a few years ago, so the shock is over and I'm used to the idea of living my life on my own \u2014 I keep busy and have lots of friends and hobbies. But his library, I just can't face.\""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "https://upload.wikimedia.org/wikipedia/commons/e/ee/Creedence_Clea
 twitterauto = ""
 facebookauto = "Cienna Madrid goes way down south to deal with classic rock in bookstores. "
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

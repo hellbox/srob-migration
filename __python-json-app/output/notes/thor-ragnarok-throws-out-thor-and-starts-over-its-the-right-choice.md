@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509075556925/ragn
 twitterauto = "Thor: Ragnarok is not a great movie, but it definitely contains pieces of great movies in it."
 facebookauto = "Thor: Ragnarok is not a great movie, but it definitely contains pieces of great movies in it."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/adaptation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/adaptation.md"]
 notes_about = ""
 books = ""
 +++

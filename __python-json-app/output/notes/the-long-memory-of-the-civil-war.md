@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480959223543/My%2
 twitterauto = "Sponsor Nick K Adams brought the Civil War alive with his great-grandfather's letters home"
 facebookauto = "Sponsor Nick K Adams brought the Civil War alive with his great-grandfather's letters home."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

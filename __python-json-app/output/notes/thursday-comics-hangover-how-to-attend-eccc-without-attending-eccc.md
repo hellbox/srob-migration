@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Of course @emeraldcitycon is sold out, but here are a bunch of free comics events you can attend all weekend long."
 facebookauto = "Of course Emerald City Comicon is sold out, but here are a bunch of great, free comics events you can attend all weekend long."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/phoenix-comics-and-games", "tags/outsider-comics", "tags/emerald-city-comicon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/phoenix-comics-and-games.md", "tags/outsider-comics.md", "tags/emerald-city-comicon.md"]
 notes_about = ""
 books = ""
 +++

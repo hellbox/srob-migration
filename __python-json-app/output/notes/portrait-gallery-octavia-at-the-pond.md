@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518647147517/SRoB
 twitterauto = "Portrait Gallery: Imagining Octavia Butler as a young person. #illustration @studiochristine"
 facebookauto = "Portrait Gallery: Octavia at the Pond"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

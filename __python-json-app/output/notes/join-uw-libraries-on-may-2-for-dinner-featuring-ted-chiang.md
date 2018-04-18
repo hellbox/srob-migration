@@ -16,8 +16,8 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1521520606356/
 twitterauto = "Join sponsor @uwlibraries on 5/2 for dinner with some of the PNW's most interesting writers & keynote by @Tedchiang!"
 facebookauto = "Join sponsor UW Libraries on May 2 for dinner with some of the PNW's most interesting writers \u2014\u00a0and a keynote by Ted Chiang! "
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

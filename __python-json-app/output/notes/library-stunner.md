@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Guess why people stop attending libraries? Technology has nothing to do with it."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/libraries", "tags/city-librarian"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/libraries.md", "tags/city-librarian.md"]
 notes_about = ""
 books = ""
 +++

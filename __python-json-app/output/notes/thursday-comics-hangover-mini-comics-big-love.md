@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461216118897/2016
 twitterauto = "We checked out minicomics from @eltripol, @ColleenFrakes, and @JosephLaney."
 facebookauto = "This week's comics column looks at a Chick Tract exploration of Frank Herbert's Dune series and a love letter to Ruth Bader Ginsburg."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/phoenix-comics-and-games", "tags/minicomics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/phoenix-comics-and-games.md", "tags/minicomics.md"]
 notes_about = ""
-books = ["books/prison-island"]
+books = ["books/prison-island.md"]
 +++
 <p class="image">![](/webhook-uploads/1461216118897/20160420_185901.jpg)</p>
 

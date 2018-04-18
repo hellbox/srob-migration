@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/jourdan-imani-keith"]
-tags_notes = ["tags/poetry", "tags/tuesday-poem"]
+notes_byline = ["writers/jourdan-imani-keith.md"]
+tags_notes = ["tags/poetry.md", "tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

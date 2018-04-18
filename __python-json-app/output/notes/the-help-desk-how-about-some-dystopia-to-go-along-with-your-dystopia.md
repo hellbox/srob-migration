@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485541412788/9781
 twitterauto = "Does @ciennam have dystopian fiction recommendations for our post-apocalypse?"
 facebookauto = "Now that we're living in a dystopia, does Cienna Madrid have any good dystopian fiction recommendations?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/dystopia", "tags/donald-trump"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/dystopia.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

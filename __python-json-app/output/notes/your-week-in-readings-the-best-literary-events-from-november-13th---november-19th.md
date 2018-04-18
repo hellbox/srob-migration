@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508823505984/seda
 twitterauto = "Your week in readings covers sexism in tech and five up-and-coming sci-fi authors."
 facebookauto = "Your week in readings covers sexism in tech and five great up-and-coming sci-fi authors."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

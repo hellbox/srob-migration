@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "So happy for our friends @shortrunseattle and @THSEA, who both were awarded $15,000 NEA grants."
 facebookauto = "Here's some good news on a gloomy day: we're so happy to hear that Short Run and Town Hall Seattle just picked up $15,000 each in NEA grants!"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/national-endowment-for-the-arts", "tags/town-hall-seattle", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/national-endowment-for-the-arts.md", "tags/town-hall-seattle.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

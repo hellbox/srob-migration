@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Get to know @Seattle7Writers' pocket library program."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-7-writers", "tags/graphic-novels", "tags/comics", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-7-writers.md", "tags/graphic-novels.md", "tags/comics.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

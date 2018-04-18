@@ -10,5 +10,5 @@ last_updated = "2015-08-21T16:27:00-07:00"
 preview_url = "ebf6abee-352e-9d11-31ef-f9e8df6ccd28"
 name = "W. W. Norton"
 title = "W. W. Norton"
-books_by_this_publisher = ["books/grunt", "books/the-fall-guy"]
+books_by_this_publisher = ["books/grunt.md", "books/the-fall-guy.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.co/webhook-uploads/1469293410217/97029
 twitterauto = "The Kickstarter Fund backs @OliviaPinupArt and @BabyTattoo. "
 facebookauto = "It's all pinups and monsters for the Kickstarter Fund this week. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Hey @GayCitySeattle! Surprise! Our sponsorship slot this week was donated to help support you. "
 facebookauto = "Our sponsorship slot this week was donated to help support Gay City!"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510553360425/Scre
 twitterauto = "Our second from Poet in Residence Emily Bedard is called \"Once Upon an Accountant\""
 facebookauto = "Our second from Poet in Residence Emily Bedard is called \"Once Upon an Accountant\""
 make_image_tweet = "False"
-notes_byline = ["writers/emily-bedard"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/emily-bedard.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

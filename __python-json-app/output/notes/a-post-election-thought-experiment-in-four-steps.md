@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A little post-election thought experiment pitting @JeffBezos against your local bookstore owner."
 facebookauto = "Here's a little post-election thought experiment pitting Jeff Bezos against your local bookstore owner."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon", "tags/jeff-bezos"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md", "tags/jeff-bezos.md"]
 notes_about = ""
 books = ""
 +++

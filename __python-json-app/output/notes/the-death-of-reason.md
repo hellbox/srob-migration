@@ -16,10 +16,10 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1520486956451/
 twitterauto = "Stop by for speculative political satire from sponsor @JoePonepinto, then see him read @kingsbooks this Wednesday!"
 facebookauto = "Lighten your Monday with a little speculative political satire from sponsor Joe Ponepinto \u2014\u00a0then hear him read from his latest novel at King's Books in Tacoma in March or Elliott Bay Books in July. "
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/mr-neutron"]
+books = ["books/mr-neutron.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1520487028843/Mr.%20Neutron_150.jpg)</p>
 Wondering what to read with your late lunch this Monday afternoon? Try a chapter from sponsor Joe Ponepinto's *Mr. Neutron* — a political, science-fictional satire starring a down-and-out political flunky and a cadaverous (in the best way) mayoral candidate in small-town Grand River.

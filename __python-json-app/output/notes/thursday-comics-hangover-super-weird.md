@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461819524631/batm
 twitterauto = "Man, superhero comics are pretty weird."
 facebookauto = "Superhero comics are impossibly self-referential and obsessed with meta-narratives. Of course, that doesn't necessarily mean they're bad."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/dc-comics", "tags/marvel-comics", "tags/batman"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/dc-comics.md", "tags/marvel-comics.md", "tags/batman.md"]
 notes_about = ""
 books = ""
 +++

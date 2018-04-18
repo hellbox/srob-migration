@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It is incredibly hard to avoid books with \"Girl\" or \"Wife\" in the title. What does that say about us?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library", "tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

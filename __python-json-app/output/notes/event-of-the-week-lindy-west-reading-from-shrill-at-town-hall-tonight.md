@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463601235462/01cf
 twitterauto = "Our event of the week is @thelindywest reading @THSEA tonight!"
 facebookauto = "Lindy West reads at Town Hall Seattle tonight. She is a Seattle author, through and through, and we're lucky to have her."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
-books = ["books/shrill"]
+books = ["books/shrill.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1463601235462/01cf47266a74d15fcb8855d55e7aa836.jpg)</p>
 

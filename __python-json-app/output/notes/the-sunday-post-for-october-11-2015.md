@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This week's Sunday Post has work by @mariskreizman, @samstecky, @imontheradio, and Micheal Lewis"
 facebookauto = "Today's Sunday Post wraps up some interesting pieces from the previous week, such as Maris Kreizman on landlines, Sam Stecky on the Chicago Sun-Times network, Stephanie Foo on diversity in public radio, and Michael Lewis with a long look at Tom Wolfe."
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

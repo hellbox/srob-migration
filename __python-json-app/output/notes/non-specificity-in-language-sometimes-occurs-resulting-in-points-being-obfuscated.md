@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Non-specificity in language sometimes occurs, resulting in points being obfuscated."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/boing-boing"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/boing-boing.md"]
 notes_about = ""
 books = ""
 +++

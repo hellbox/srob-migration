@@ -10,5 +10,5 @@ last_updated = "2016-04-28T09:29:00-07:00"
 preview_url = "3e967b13-f1c3-68ec-2574-ff4baa9761a2"
 name = "Wesleyan"
 title = "Wesleyan"
-books_by_this_publisher = ["books/hinge-&-sign-poems-1968-1993"]
+books_by_this_publisher = ["books/hinge-&-sign-poems-1968-1993.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Is it awful to ask for compensation if your poem is published in an anti-Trump anthology?"
 facebookauto = "Is it awful to ask for compensation if your poem is being published in an anti-Trump anthology?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/poetry"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

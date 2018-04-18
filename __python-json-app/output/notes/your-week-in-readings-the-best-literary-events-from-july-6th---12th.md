@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your week in readings includes a biscuit-baking class, a sad cartooning party, and a book club with Nancy Pearl."
 facebookauto = "Your week in readings includes a biscuit-baking class, a sad cartooning party, and a book club with Nancy Pearl."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/seattle-public-library", "tags/the-book-larder", "tags/seattle-mystery-bookshop", "tags/clarion-west"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/university-book-store.md", "tags/seattle-public-library.md", "tags/the-book-larder.md", "tags/seattle-mystery-bookshop.md", "tags/clarion-west.md"]
 notes_about = ""
 books = ""
 +++

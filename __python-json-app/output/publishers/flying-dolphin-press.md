@@ -10,5 +10,5 @@ last_updated = "2015-09-08T19:45:00-07:00"
 preview_url = "300533dc-7dbe-09e8-d448-e9a9d704bc00"
 name = "Flying Dolphin Press"
 title = "Flying Dolphin Press"
-books_by_this_publisher = ["books/three-bags-full"]
+books_by_this_publisher = ["books/three-bags-full.md"]
 +++

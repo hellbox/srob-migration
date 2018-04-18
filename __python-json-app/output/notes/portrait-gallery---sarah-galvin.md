@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1472108905280/SRoB
 twitterauto = "Portrait Gallery: It's Sarah Galvin, reading this Saturday @nevertoldcasket "
 facebookauto = "For this week's Portrait Gallery, Sarah Galvin is back! See her read this Saturday in Capitol Hill. "
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

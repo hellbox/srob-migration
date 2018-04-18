@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492442358873/9780
 twitterauto = "Sponsor @ThirdPlaceBooks is hosting @LairdHunt on Tuesday the 25th."
 facebookauto = "Join sponsor Third Place Books for an appearance by author Laird Hunt, on Tuesday the 25th."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

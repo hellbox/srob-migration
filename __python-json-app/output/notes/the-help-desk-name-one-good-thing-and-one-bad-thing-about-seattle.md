@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494004465888/Cath
 twitterauto = "In this week's Help Desk, a tourist wants to know the best and worst parts of literary Seattle."
 facebookauto = "In this week's Help Desk, a tourist wants to know the best and worst parts of literary Seattle."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/seattle-public-library"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

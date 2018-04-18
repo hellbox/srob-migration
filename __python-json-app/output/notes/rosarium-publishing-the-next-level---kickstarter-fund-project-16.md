@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461425921019/Rosa
 twitterauto = "The Kickstarter Fund backs @rosariumpub this week! "
 facebookauto = "The Kickstarter Fund backs Rosarium Publishing this week, and we think you should do the same."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

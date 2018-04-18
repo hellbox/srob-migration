@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495784040320/life
 twitterauto = "Your literary event of the week is hosted by @ShoutYrAbortion. Awesome."
 facebookauto = "This week's event of the week is a reading from a Christian doctor who makes a moral case for abortion."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/shout-your-abortion", "tags/abortion"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/shout-your-abortion.md", "tags/abortion.md"]
 notes_about = ""
 books = ""
 +++

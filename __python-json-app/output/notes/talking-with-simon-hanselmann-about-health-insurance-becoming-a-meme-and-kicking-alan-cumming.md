@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498864353674/were
 twitterauto = "Simon Hanselmann once kicked Alan Cumming while at a festival in Sydney."
 facebookauto = "Fantagraphics cartoonist Simon Hanselmann: \"I'm in my mid-thirties now. I really shouldn't be climbing cranes, breaking into construction sites. and vomiting everywhere.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/fantagraphics", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/fantagraphics.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The New York Times is making a grave mistake by reducing their bestseller list coverage."
 facebookauto = "The New York Times is making a grave mistake by removing many of their bestseller lists."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/new-york-times", "tags/new-york-times-bestseller"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/new-york-times.md", "tags/new-york-times-bestseller.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ".@GWillowWilson, @accidentaltheo, and @tvandeusen make appearances in today's book news roundup."
 facebookauto = "Here's what's going on in Seattle book news today, with a few extra links thrown in for good measure:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/ms-marvel"]
+books = ["books/ms-marvel.md"]
 +++
 * Mary Ann Gwinn [at the *Seattle Times* offers an in-depth preview](http://www.seattletimes.com/entertainment/books/seward-park-meet-your-new-bookstore/) of Third Place Books' new Seward Park store, which will open in late April.
 

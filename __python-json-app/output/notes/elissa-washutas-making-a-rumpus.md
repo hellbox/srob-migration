@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Congratulations to new @The_Rumpus Saturday editor, @misswashuta!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/the-rumpus"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/the-rumpus.md"]
 notes_about = ""
 books = ""
 +++

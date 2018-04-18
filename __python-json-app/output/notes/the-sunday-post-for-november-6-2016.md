@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday post has: Ferrante, militias, defrauding voters, and uninvited KKK party guests. "
 facebookauto = "The Sunday Post today links to four pieces that deal with: Elena Ferrante's new book, militias, defrauding voters, and how do you solve a problem like David Duke?"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

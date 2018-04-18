@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Pieces by @aworkinglibrary, @sullydish, @badaude, @rushkoff in The Sunday Post today."
 facebookauto = "Populism as the downfall of democracy, bots and gender, the importance of sex literacy to feminism, and when we advertise ourselves to death. Today in The Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520546031852/nigh
 twitterauto = "Meet two brand-new local novelists at the Dock Street Salon at Phinney Books this Thursday!"
 facebookauto = "Meet two brand-new local novelists at the Dock Street Salon at Phinney Books this Thursday!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/phinney-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/phinney-books.md"]
 notes_about = ""
 books = ""
 +++

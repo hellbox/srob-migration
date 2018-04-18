@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1437605370989/GRIF
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/feminism.md"]
 notes_about = ""
-books = ["books/hild"]
+books = ["books/hild.md"]
 +++
 <p class="image">![Nicola Griffith](/webhook-uploads/1437605370989/GRIFFITH_photo02.png)</p>
 

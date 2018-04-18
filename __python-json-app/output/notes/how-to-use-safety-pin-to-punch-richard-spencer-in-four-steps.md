@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518502058925/Scre
 twitterauto = "Our last poem, by Poet in Residence Azura Tyabji, is about punching nazis."
 facebookauto = "Our last poem, by Poet in Residence Azura Tyabji, is about punching nazis."
 make_image_tweet = "False"
-notes_byline = ["writers/azura-tyabji"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/azura-tyabji.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

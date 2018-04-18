@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498866548078/hoto
 twitterauto = "This Saturday, join @fantagraphics for a book fair that's just the right size."
 facebookauto = "This Saturday, join Fantagraphics for a book fair that's just the right size."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics-bookstore-&amp;-gallery", "tags/fantagraphics", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics-bookstore-&amp;-gallery.md", "tags/fantagraphics.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

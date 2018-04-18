@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504501411980/Scre
 twitterauto = "Our Poet in Residence for September, @estherhelfgott, shows us family and history in her first poem of the month."
 facebookauto = "Our first poem from September Poet in Residence, Esther Altshul Helfgott, is titled \"Uncle Ben: What the Number Said\""
 make_image_tweet = "False"
-notes_byline = ["writers/esther-altshul-helfgott"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/esther-altshul-helfgott.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

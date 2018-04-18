@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here are some banned comic books for you to buy. At least one of them is terrible, but many of them are wonderful."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/humble-bundle", "tags/comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/humble-bundle.md", "tags/comics.md"]
 notes_about = ""
 books = ""
 +++

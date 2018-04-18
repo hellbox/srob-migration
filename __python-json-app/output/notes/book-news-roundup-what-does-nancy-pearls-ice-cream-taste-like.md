@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Ever wonder what Nancy Pearl's ice cream would taste like?"
 facebookauto = "Ever wonder what Nancy Pearl's ice cream would taste like?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/nancy-pearl", "tags/mein-kampf"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/nancy-pearl.md", "tags/mein-kampf.md"]
 notes_about = ""
 books = ""
 +++

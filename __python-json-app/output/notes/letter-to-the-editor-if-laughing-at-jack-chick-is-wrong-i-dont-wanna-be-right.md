@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "SRoB reader @unpaginated takes issue with our recent review of Jack Chick."
 facebookauto = "A reader writes in to protest our recent comments that Jack Chick's cartoons aren't as funny as they used to be."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/letters-to-the-editor"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/letters-to-the-editor.md"]
 notes_about = ""
-books = ["books/bad-bob!"]
+books = ["books/bad-bob!.md"]
 +++
 <p class="intro">We love to hear from our readers! Please send letters to the editor through [our contact form](http://www.seattlereviewofbooks.com/about/).</p>
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Gratitude, stripped bare by her bachelors. "
 facebookauto = "Gratitude, stripped bare by her bachelors. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/thanksgiving-essay", "tags/holidays", "tags/secular-sermons"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/thanksgiving-essay.md", "tags/holidays.md", "tags/secular-sermons.md"]
 notes_about = ""
 books = ""
 +++

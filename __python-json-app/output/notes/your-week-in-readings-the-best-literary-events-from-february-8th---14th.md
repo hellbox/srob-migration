@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454706692324/Scre
 twitterauto = "Your week in readings kicks off with @HugoHouse's literary fortune-telling exhibition at the Sorrento."
 facebookauto = "Your week in readings include a literary fortune-telling exhibition at the Sorrento, a women-only period-themed reading event, and an appearance from Life of Pi author Yann Martel."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

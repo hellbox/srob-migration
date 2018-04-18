@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "An extra additional Tuesday poem today, from Seattle's Civic Poet, @ClaudiaC_L"
 facebookauto = "A timely additional Tuesday poem today, from Seattle's Civic Poet, Claudia Castro Luna"
 make_image_tweet = "False"
-notes_byline = ["writers/claudia-castro-luna"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/claudia-castro-luna.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/san-diego-comicon", "tags/vertigo", "tags/dc-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/san-diego-comicon.md", "tags/vertigo.md", "tags/dc-comics.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505140782484/Blip
 twitterauto = "Sponsor @kenboynton translated a near-death experience into a smart, funny, quick, important fable"
 facebookauto = "Sponsor Ken Boynton translated a near-death experience into a smart, funny, quick, important fable"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

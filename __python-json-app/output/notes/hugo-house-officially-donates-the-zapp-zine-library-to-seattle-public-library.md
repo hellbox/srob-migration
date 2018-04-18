@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502131668188/Scre
 twitterauto = "It's official: the 30,000 zines that made up ZAPP have changed hands from @HugoHouse to @SPLBuzz."
 facebookauto = "It's official: the 30,000 zines that made up the Zine Archive and Publishing Project library  have changed hands from the Hugo House to Seattle Public Library. The zines are currently being inventoried and they will begin to be available to patrons starting this fall."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/zapp", "tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/zapp.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

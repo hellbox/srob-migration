@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In today's Book News Roundup: @mosslitmag, @misswashuta, @VillageBksBham, and a leech named after Amy Tan."
 facebookauto = "Our book news roundup includes an honor for Bellingham's wonderful Village Books, a new issue of literary magazine Moss, and a leech named after bestselling author Amy Tan."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/moss", "tags/diversity", "tags/weneeddiversebooks", "tags/village-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/moss.md", "tags/diversity.md", "tags/weneeddiversebooks.md", "tags/village-books.md"]
 notes_about = ""
 books = ""
 +++

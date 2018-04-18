@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Scribner Book Company"
 title = "Scribner Book Company"
-books_by_this_publisher = ["books/silver-screen-fiend", "books/what-comes-next-and-how-to-like-it", "books/trump-revealed"]
+books_by_this_publisher = ["books/silver-screen-fiend.md", "books/what-comes-next-and-how-to-like-it.md", "books/trump-revealed.md"]
 +++

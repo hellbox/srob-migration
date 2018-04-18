@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506058503677/riot
 twitterauto = "Your week in readings includes Pussy Riot, white privilege, and a tribute to Hugo House. "
 facebookauto = "Your week in readings includes Pussy Riot, white privilege, and a tribute to Hugo House. "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

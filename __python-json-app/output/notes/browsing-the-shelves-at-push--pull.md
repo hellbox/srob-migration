@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453878549524/Scre
 twitterauto = "Push/Pull is packed full of weird, fun minicomics and zines. Here are a few of our favorites:"
 facebookauto = "When you spend time browsing the shelves at Push/Pull, you'll likely find a handwritten love letter that's been launched out into the universe."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/push--pull"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/push--pull.md"]
 notes_about = ""
 books = ""
 +++

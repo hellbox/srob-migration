@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "With Oprah's attention, here's hoping @colsonwhitehead finally gets all the attention he deserves."
 facebookauto = "For months, Seattle-area booksellers and librarians have been praising Colson Whitehead's new novel The Underground Railroad. Oprah agrees with them."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/oprah"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/oprah.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500402379447/Offi
 twitterauto = ""
 facebookauto = "Joe Biden is coming to town in December to read from his new book, and Elliott Bay Book Company is selling advance tickets."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/elliott-bay-book-company", "tags/benaroya-hall"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/elliott-bay-book-company.md", "tags/benaroya-hall.md"]
 notes_about = ""
 books = ""
 +++

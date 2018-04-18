@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457502019791/this
 twitterauto = "\u201cThis is probably the best job in the world,\u201d says a school librarian."
 facebookauto = "Here's an interview with a school librarian about the importance of bringing fresh-baked cookies to work on your first day."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/librarians"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/librarians.md"]
 notes_about = ""
 books = ""
 +++

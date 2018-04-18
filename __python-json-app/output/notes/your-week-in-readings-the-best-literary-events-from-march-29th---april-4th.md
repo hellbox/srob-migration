@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490151562352/thes
 twitterauto = "Your week in readings features Robert Lashley, APRIL, and a whole lot more."
 facebookauto = "Your week in readings features Robert Lashley, APRIL, and a whole lot more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/april"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/april.md"]
 notes_about = ""
 books = ""
 +++

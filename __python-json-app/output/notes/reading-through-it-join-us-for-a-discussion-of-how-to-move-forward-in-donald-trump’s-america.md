@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478911323621/hill
 twitterauto = "Join us and the @seattleweekly at @ThirdPlaceBooks Seward Park for a discussion about moving forward."
 facebookauto = "The Urban Archipelago failed. Progressives can't just shelter in our cities and expect the rest of the country to go our way. So what next? Join us for a special series of discussions about moving forward in Trump's America"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump", "tags/book-club", "tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md", "tags/book-club.md", "tags/reading-through-it.md"]
 notes_about = ""
-books = ["books/citizen"]
+books = ["books/citizen.md"]
 +++
 
 In the wake of Donald Trump’s election, it should be obvious to everyone that the Urban Archipelago concept promoted by thinkers like Richard Florida — the idea of cities as strongholds of liberal progress — was a dead end. As liberals spent twelve years building cities into citadels of progressivism and waiting for national demographics to shift our way, we allowed the Rust Belt to erode and we fostered an us-versus-them relationship with rural America. This is probably the greatest political miscalculation of our time. We learned last week that when we’re not trying to win over the whole country with our policies and our messages, we’re setting ourselves up for…well, the world outside our window.

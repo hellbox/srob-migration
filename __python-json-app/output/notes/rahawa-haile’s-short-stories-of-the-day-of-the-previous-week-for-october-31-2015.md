@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's @rahawahaile's short stories of the day wrap-up, featuring @ChiewElaine, @larimah, and big news from Rahawa!"
 facebookauto = "Rahawa Haile's Short Stories of the day, from the previous week, are here. Featuring Joy Williams, Elaine Chiew, Lesley Nneka Arimah, and others. Plus, big news from Rahawa herself!"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-story-of-the-day", "tags/short-stories"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md", "tags/short-story-of-the-day.md", "tags/short-stories.md"]
 notes_about = ""
 books = ""
 +++

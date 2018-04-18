@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481576585792/Unkn
 twitterauto = "Sponsor Conon Parks's Empty Bottle of Smoke is an wild journey through Seattle's underground"
 facebookauto = "Sponsor Conon Parks's Empty Bottle of Smoke is an wild journey through Seattle's underground"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/empty-bottle-of-smoke"]
+books = ["books/empty-bottle-of-smoke.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1515616702035/Some%20Kind%20of%20Ending_150.jpeg)</p>
 

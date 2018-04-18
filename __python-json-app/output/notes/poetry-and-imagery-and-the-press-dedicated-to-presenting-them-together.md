@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1475512901579/unna
 twitterauto = "Our sponsor @EntreRiosBooks is back to show a new incredible work. "
 facebookauto = "Our sponsor this week is Entre Rios press, back with a fantastic new book of poetry and imagery. Join them for their book launch party this Saturday: https://www.facebook.com/events/1657034167958917/"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

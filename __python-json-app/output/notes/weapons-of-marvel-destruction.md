@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A local writer is proving to be the conscience of superhero comics."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/marvel-comics", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/marvel-comics.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

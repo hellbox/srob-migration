@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460850852575/phot
 twitterauto = "The Kickstarter Fund this week backed the game Losswords, by @LocalNo12."
 facebookauto = "The Kickstarter Fund backed a game called Losswords this week \u2014 looks really fun!"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

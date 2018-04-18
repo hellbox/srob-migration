@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "How Harper Lee saved Bloom County. Yes, we freely admit that this is a very weird sentence."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comics.md"]
 notes_about = ""
-books = ["books/go-set-a-watchman"]
+books = ["books/go-set-a-watchman.md"]
 +++
 This [NPR interview with once and future *Bloom County* cartoonist Berkeley Breathed](http://www.npr.org/templates/transcript/transcript.php?storyId=447117474) is full of weird little surprises. Chief among those surprises? The connection [between *Bloom County* and Harper Lee](http://www.npr.org/templates/transcript/transcript.php?storyId=447117474).

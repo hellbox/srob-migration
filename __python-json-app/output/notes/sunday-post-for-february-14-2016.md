@@ -16,10 +16,10 @@ shareimage = "http://www.telegraph.co.uk/content/dam/books/2016/02/09/valleydoll
 twitterauto = "Three stories you should miss, from @cecianasta, @MartinChilton, and @AbrahmL in today's Sunday Post. "
 facebookauto = "An interview with Samuel R. Delany, how Jacqueline Susann earned her best-seller status by grass-roots book selling, and a look at Wall Street's invasion of the West's water crises. A pretty thrilling Sunday Post, today."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
-books = ["books/valley-of-the-dolls"]
+books = ["books/valley-of-the-dolls.md"]
 +++
 <h5>[Samuel R. Delany Speaks](http://www.thenation.com/article/samuel-r-delany-speaks/)</h5>
 

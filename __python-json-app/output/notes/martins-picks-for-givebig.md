@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462249652557/%20%
 twitterauto = "Who to #GiveBIG to? Perhaps @clarionwest, @writehedgebrook, or @Fearless_Ideas?"
 facebookauto = "Who to #GiveBIG to? Perhaps Clarion West, Hedgebrook, or the Bureau of Fearless Ideas?"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/charity", "tags/givebig"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/charity.md", "tags/givebig.md"]
 notes_about = ""
 books = ""
 +++

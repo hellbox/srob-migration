@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470429804304/walk
 twitterauto = "Our event of the week features a quintessentially Seattle poet who doesn't live in Seattle anymore."
 facebookauto = "Our event of the week features a quintessentially Seattle poet who doesn't live in Seattle anymore."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry", "tags/event-of-the-week", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md", "tags/event-of-the-week.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
-books = ["books/the-self-styled-no-child"]
+books = ["books/the-self-styled-no-child.md"]
 +++
 Before Cody Walker left Seattle to teach English in Ann Arbor, he was frequently described as a quintessential Seattle poet. Go to any open mic night and you’ll likely find some poet who doesn’t even realize he’s aping Walker’s schtick—an endearing blend of earnest and funny, formally inventive and respectful of tradition. For a time, Walker was a ringleader of the poetry scene, a funny and fun poet who was always willing to share the spotlight with up-and-coming Seattle writers. But even poets have to eat, and this city isn’t exactly throbbing with opportunity for those who want to teach poetry.
 

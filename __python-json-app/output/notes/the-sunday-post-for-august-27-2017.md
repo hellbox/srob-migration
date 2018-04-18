@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Trump's a jerk, Diana's a myth, books are good, and digital is (sometimes) bad in this week's Sunday Post."
 facebookauto = "Trump's a jerk, Diana's a myth, books are good, and digital is (sometimes) bad in this week's Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

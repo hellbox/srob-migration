@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449857695679/imag
 twitterauto = "Finally, @ciennam settles the books vs. movies argument, once and for all."
 facebookauto = "Our advice columnist answers the burning question: are movies ever better than books?"
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

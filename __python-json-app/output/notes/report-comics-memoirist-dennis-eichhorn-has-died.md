@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Cartoonist J.R. Williams is reporting on Facebook that Northwestern comics memoirist Dennis Eichhorn has died."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comics.md"]
 notes_about = ""
 books = ""
 +++

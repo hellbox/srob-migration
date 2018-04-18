@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453271288934/Push
 twitterauto = "Why don't so-called \"fine artists\" respect cartoonists?"
 facebookauto = "Push/Pull, our January bookstore of the month, is providing a home for illustrators, who get short shrift in the so-called \"fine art\" world."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/push--pull"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/push--pull.md"]
 notes_about = ""
 books = ""
 +++

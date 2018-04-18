@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1508703699978/FTA
 twitterauto = "Read an essay by Reagan Jackson from the new Fly to the Assemblies! anthology, courtesy of sponsor @3rdplacepress."
 facebookauto = "A new anthology from sponsor Third Place Press is a call to action for Seattle as a city of resistance. Read an excerpt, by Reagan Jackson, available this week only for our readers."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/fly-to-the-assemblies!"]
+books = ["books/fly-to-the-assemblies!.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1508703645203/Fly%20to%20the%20Assemblies_150.jpeg)</p>
 

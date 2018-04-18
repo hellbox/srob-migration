@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Using Duchamp as a coping metaphor"
 facebookauto = "Using Duchamp as a coping metaphor"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/politics"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/politics.md"]
 notes_about = ""
 books = ""
 +++

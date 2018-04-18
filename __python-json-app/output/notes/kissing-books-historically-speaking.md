@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512021535188/midn
 twitterauto = "Kissing Books time! @O_Waite reviews @suleikhasnyder, @AlyssaColeLit, and more!"
 facebookauto = "Kissing Books time! Olivia Waite reviews Suleikha Snyder, Alyssa Cole, and more!"
 make_image_tweet = "False"
-notes_byline = ["writers/olivia-waite"]
-tags_notes = ["tags/kissing-books"]
+notes_byline = ["writers/olivia-waite.md"]
+tags_notes = ["tags/kissing-books.md"]
 notes_about = ""
 books = ""
 +++

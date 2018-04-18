@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're excited to bring you a new interview with every Monday in 2017."
 facebookauto = "We're excited to bring you a new interview with every Monday in 2017."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

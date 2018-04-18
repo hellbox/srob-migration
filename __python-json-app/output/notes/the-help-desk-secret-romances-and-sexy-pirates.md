@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489726497829/50sh
 twitterauto = "Because @ciennam was sick last week, you get TWO Help Desk questions for the price of one this week."
 facebookauto = "This week's advice column features TWO questions: one about book-to-film adaptations and another about reading sexy books in public places."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/romance"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/romance.md"]
 notes_about = ""
 books = ""
 +++

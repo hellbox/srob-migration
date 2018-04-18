@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506057539109/IMG_
 twitterauto = "Seattle Writing Prompts steps inside the Box the Space Needle Came In. "
 facebookauto = "Seattle Writing Prompts steps inside the Box the Space Needle Came In. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

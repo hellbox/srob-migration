@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484512941604/pate
 twitterauto = "Paterson is a movie that celebrates reading and writing and life and public transit."
 facebookauto = "Paterson is a movie that celebrates reading and writing and life and public transit. You should see it while it's in theaters."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/movies", "tags/adaptation", "tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/movies.md", "tags/adaptation.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

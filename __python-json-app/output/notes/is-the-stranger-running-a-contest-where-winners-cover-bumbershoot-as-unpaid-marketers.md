@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500486817561/DFC8
 twitterauto = "Is @TheStranger running a contest where winners cover Bumbershoot as unpaid marketers?"
 facebookauto = "The Stranger is running a contest right now. The \"lucky winner\" gets to be a \"Bumbershoot Correspondent\" for the paper in exchange for an armload of swag. Does the position pay? Is the position journalism or marketing? We've reached out to The Stranger and will let you know if and when we hear back."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/the-stranger", "tags/bumbershoot"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/the-stranger.md", "tags/bumbershoot.md"]
 notes_about = ""
 books = ""
 +++

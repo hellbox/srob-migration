@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518502130082/Scre
 twitterauto = "Our second, from Poet in Residence Azura Tyabji, is titled \"Healing in Golden Repair\""
 facebookauto = "Our second, from Poet in Residence Azura Tyabji, is titled \"Healing in Golden Repair\""
 make_image_tweet = "False"
-notes_byline = ["writers/azura-tyabji"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/azura-tyabji.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

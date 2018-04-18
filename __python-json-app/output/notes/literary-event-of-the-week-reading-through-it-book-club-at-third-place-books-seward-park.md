@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1514398624174/RTI-
 twitterauto = "Join us @thirdplacebooks on Wednesday to talk about Big Data."
 facebookauto = "Join us at Third Place Books on Wednesday to talk about Big Data."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

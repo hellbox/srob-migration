@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"fare well, feels. be gone\" is the first line of our Tuesday Poem, from @afrose_fatima."
 facebookauto = "\"fare well, feels. be gone\" is the first line of our Tuesday Poem, from afrose fatima ahmed."
 make_image_tweet = "False"
-notes_byline = ["writers/afrose-fatima-ahmed"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/afrose-fatima-ahmed.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

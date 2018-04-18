@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Are people maybe overselling the smell of books a little bit? @ciennam says no."
 facebookauto = "Advice columnist Cienna Madrid takes on two questions this week, including one about whether the smell of books is maybe overrated."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

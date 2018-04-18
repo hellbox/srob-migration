@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, Matinal, is from Madeline DeFrees. "
 facebookauto = "Our Tuesday Poem, Matinal, is from Madeline DeFrees. "
 make_image_tweet = ""
-notes_byline = ["writers/madeline-defrees"]
-tags_notes = ["tags/poetry", "tags/tuesday-poem"]
+notes_byline = ["writers/madeline-defrees.md"]
+tags_notes = ["tags/poetry.md", "tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

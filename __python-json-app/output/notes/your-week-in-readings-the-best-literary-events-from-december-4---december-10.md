@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512016053944/anam
 twitterauto = "A birthday for @fantagraphics and a book launch for @ancawrites are this week's highlights."
 facebookauto = "A birthday for the Fantagraphics Bookstore and a book launch for Anca Szilagyi are this week's readings highlights."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/fantagraphics-bookstore-&amp;-gallery"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/fantagraphics-bookstore-&amp;-gallery.md"]
 notes_about = ""
 books = ""
 +++

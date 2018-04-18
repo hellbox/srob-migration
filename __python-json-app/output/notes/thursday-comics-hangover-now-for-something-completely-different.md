@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512026532140/now1
 twitterauto = "A new anthology from Fantagraphics fuses the best of magazine illustration with comics."
 facebookauto = "A new anthology from Fantagraphics fuses the best of magazine illustration with comics."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

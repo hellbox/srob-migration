@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/island", "tags/brandon-graham", "tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/island.md", "tags/brandon-graham.md", "tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

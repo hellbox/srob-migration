@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our suggested @litcrawlseattle itineraries continue with some edge-of-your-seat readings."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl", "tags/april", "tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md", "tags/april.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

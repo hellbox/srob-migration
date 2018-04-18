@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/starvation-mode", "books/my-body-is-a-book-of-rules"]
+books = ["books/starvation-mode.md", "books/my-body-is-a-book-of-rules.md"]
 +++
 Over at [*The Inlander*](http://www.inlander.com/spokane/a-song-of-my-selves/Content?oid=2736910), I wrote a piece about Seattle memoirist Elissa Washuta, who'll be reading at Get Lit!, Spokane's wonderful annual book festival. We talked about the distinction of being a memoirist versus being an essayist, whether people got mad at Washuta for the way they were presented in her memoir, and what the most surprising thing about publishing a memoir. I love introducing Seattle's authors to new audiences; I hope you'll [go take a look at the piece](http://www.inlander.com/spokane/a-song-of-my-selves/Content?oid=2736910).

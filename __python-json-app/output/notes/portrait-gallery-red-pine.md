@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452695676885/SRoB
 twitterauto = "Portrait Gallery time! Today @studiochristine paints Red Pine's beard (and face)."
 facebookauto = "Christine Marie Larsen's portrait gallery this week is a great image of Washington poet and writer Red Pine. Check out that beard!"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

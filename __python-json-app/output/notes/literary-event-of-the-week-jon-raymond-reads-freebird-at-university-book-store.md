@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484928982289/free
 twitterauto = "Jon Raymond's new novel Freebird is the rare work of fiction that keeps becoming more and more relevant."
 facebookauto = "Jon Raymond's new novel Freebird is the rare work of fiction that feels as though it's becoming more and more relevant as time passes"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/novella", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/novella.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
-books = ["books/freebird"]
+books = ["books/freebird.md"]
 +++
 At some point, you have to figure, Jon Raymond will get sick of people comparing him to Raymond Carver. In reviews, the Portland-based author is said to “evoke” or hail “from the school of” Carver. Some reviewers even make the rare and fascinating observation that Raymond’s last name and Carver’s first name are — gasp — the EXACT SAME NAME. (Full disclosure, I very well may have made that Raymond-Carver comparison in past reviews; I’m too embarrassed to Google myself and find out.) If you work in the Northwest and you’re known for writing stories featuring short, declarative sentences and quiet epiphanies, it seems, you’ll eventually get branded with Carver’s legacy, even though it’s an obvious comparison, and one that does not withstand more than a few minutes’ examination. 
 

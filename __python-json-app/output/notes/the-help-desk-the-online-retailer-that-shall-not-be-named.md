@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495215611003/ever
 twitterauto = "A bookseller asks @ciennam: should my boss really be complaining about Amazon all the time?"
 facebookauto = "A bookseller asks our advice columnist: should my boss really be complaining about Amazon all the time?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/amazon", "tags/retail"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/amazon.md", "tags/retail.md"]
 notes_about = ""
 books = ""
 +++

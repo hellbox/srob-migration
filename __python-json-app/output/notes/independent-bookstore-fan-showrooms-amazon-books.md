@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446847686683/CTJ4
 twitterauto = "We made history today. @allisonstieger became the first person to reverse-showroom Amazon Books!"
 facebookauto = "For years, Amazon has encouraged their customers to browse independent bookstores and then buy the books from Amazon. Today, one brave Seattleite turned the tables: she became the first person in the world to browse a book at Amazon Books and then buy it from an independent bookstore. Here's to reverse showrooming!"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon-books", "tags/queen-anne-book-company", "tags/elliott-bay-book-company", "tags/showrooming"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon-books.md", "tags/queen-anne-book-company.md", "tags/elliott-bay-book-company.md", "tags/showrooming.md"]
 notes_about = ""
-books = ["books/the-marriage-of-opposites"]
+books = ["books/the-marriage-of-opposites.md"]
 +++
 When the news about Amazon Books was first announced, I tweeted this out:
 

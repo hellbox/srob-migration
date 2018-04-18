@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup features Jessixa Bagley, the TSA, and Pepe the Frog."
 facebookauto = "Today's Book News Roundup features Jessixa Bagley, the TSA, and Pepe the Frog."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/tsa", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/tsa.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1491839626439/cove
 twitterauto = "We're featuring a full chapter from sponsor Jeffrey Warrens taught, technical thriller this week"
 facebookauto = "Sponsor Jeffrey Warren has brought his taut, technical thriller to us, and allowed us to run the whole first chapter."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

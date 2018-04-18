@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/university-book-store", "tags/hugo-house", "tags/adas-technical-books", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/seattle-public-library", "tags/the-book-larder"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/university-book-store.md", "tags/hugo-house.md", "tags/adas-technical-books.md", "tags/fantagraphics-bookstore-&amp;-gallery.md", "tags/seattle-public-library.md", "tags/the-book-larder.md"]
 notes_about = ""
 books = ""
 +++

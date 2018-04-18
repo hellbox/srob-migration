@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's must-read: @gwinnma says goodbye to the Seattle Times newsroom."
 facebookauto = "We're so sad to see Mary Ann Gwinn leave the Seattle Times as a full-time book review section editor. Her last column is required reading."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-times", "tags/mary-ann-gwinn"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-times.md", "tags/mary-ann-gwinn.md"]
 notes_about = ""
 books = ""
 +++

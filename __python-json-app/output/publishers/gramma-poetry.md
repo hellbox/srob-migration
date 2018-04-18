@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Gramma Poetry"
 title = "Gramma Poetry"
-books_by_this_publisher = ["books/ugly-time", "books/(v)"]
+books_by_this_publisher = ["books/ugly-time.md", "books/(v).md"]
 +++

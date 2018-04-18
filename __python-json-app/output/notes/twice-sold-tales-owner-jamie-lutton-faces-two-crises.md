@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Seattle book world must-read: @CaseyJaywork on the two crises facing Twice Sold Tales owner Jamie Lutton."
 facebookauto = "The Seattle Weekly broke the news that Twice Sold Tales owner Jamie Lutton is dealing with kidney failure."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/twice-sold-tales"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/twice-sold-tales.md"]
 notes_about = ""
 books = ""
 +++

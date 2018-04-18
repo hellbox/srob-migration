@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521265676475/matt
 twitterauto = "Hey, @mbsycamore, whatcha reading? @JustJuno1, @alexispauline, and @PKhakpour, just to name a few!"
 facebookauto = "Hey, Mattilda Bernstein Sycamore? Whatcha Reading? Juno Roche, Alexis Pauline Gumbs, Andrea Lawlor, among many others!"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-review-of-books"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

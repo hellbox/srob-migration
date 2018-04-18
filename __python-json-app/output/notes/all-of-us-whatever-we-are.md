@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447176359664/Scre
 twitterauto = "Emily Bedard is our Tuesday poet. \"All of Us, Whatever We Are\" is about uncles, hunting, weather, and the chill."
 facebookauto = "Emily Bedard is our Tuesday poet. \"All of Us, Whatever We Are\" is a sensual thicket, a beautiful work for a crisp Seattle day. "
 make_image_tweet = ""
-notes_byline = ["writers/emily-bedard"]
-tags_notes = ["tags/poetry", "tags/tuesday-poem"]
+notes_byline = ["writers/emily-bedard.md"]
+tags_notes = ["tags/poetry.md", "tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

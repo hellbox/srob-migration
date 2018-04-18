@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520527712464/Scre
 twitterauto = "For #InternationalWomensDay, the women painted by @studiochristine"
 facebookauto = "Portrait Gallery celebrates #InternationalWomensDay with a look back at all the women Christine Marie Larsen has painted on our pages"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

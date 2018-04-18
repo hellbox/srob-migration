@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455386487276/phot
 twitterauto = "The Kickstarter Fund this week is thrilled to back @WorldsofUKL."
 facebookauto = "The Kickstarter Fund, this week, backs a new documentary about Ursula K. Le Guin."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

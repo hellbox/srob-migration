@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447371205636/srob
 twitterauto = "Did you see our own @paulconstant on @nbcnews last week? "
 facebookauto = "Paul Constant was on national TV last week talking about the Amazon bookstore. Did you see him?"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-review-of-books", "tags/paul-constant", "tags/nbc-news", "tags/news"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-review-of-books.md", "tags/paul-constant.md", "tags/nbc-news.md", "tags/news.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1467184885986/drea
 twitterauto = "A new Neil Gaiman documentary screens for a week @gicinema starting tomorrow."
 facebookauto = "A new documentary about Neil Gaiman plays all week long at the Grand Illusion. How is it? If you're a fan, you'll probably love it."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/movies", "tags/dc-comics", "tags/readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/movies.md", "tags/dc-comics.md", "tags/readings.md"]
 notes_about = ""
 books = ""
 +++

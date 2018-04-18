@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1446786301743/01.p
 twitterauto = "Hey @NaNoWriMo writers! Let's talk about how we feel when we write, and if it matters to the quality of our work. "
 facebookauto = "For our second piece on NaNoWriMo, Martin McClellan looks at how it feels to write when we write, and how much we should let our emotions guide the writing process."
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/nanowrimo", "tags/writing"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/nanowrimo.md", "tags/writing.md"]
 notes_about = ""
 books = ""
 +++

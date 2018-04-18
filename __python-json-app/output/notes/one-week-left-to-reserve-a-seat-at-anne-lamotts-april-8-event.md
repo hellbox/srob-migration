@@ -16,8 +16,8 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1522448298610/
 twitterauto = "Just a few days left before Anne Lamott's event on April 8, hosted by sponsor Northwest Associated Arts."
 facebookauto = "Good news for Anne Lamott fans (current and future): she'll be at Benaroya Hall just a week from now, and there are still a few seats left. Thanks to sponsor Northwest Associated Arts for making sure our readers know!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1467256663023/blac
 twitterauto = "Let's check in on the 3rd issue of the Black Panther to see how things are going."
 facebookauto = "How's Ta-Nehisi Coates's Black Panther series going so far? It's pretty great, but there might be a weak link."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/black-panther"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/black-panther.md"]
 notes_about = ""
 books = ""
 +++

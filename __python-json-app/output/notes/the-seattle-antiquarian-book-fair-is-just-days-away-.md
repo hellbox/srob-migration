@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506038646616/Seat
 twitterauto = "Don't miss this week's sponsor, the Seattle Antiquarian Book Fair, at the Seattle Center this weekend!"
 facebookauto = "We're all anticipation for the Seattle Antiquarian Book Fair, coming up this weekend. Many thanks to the Fair for sponsoring, and we hope to see you all there!"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

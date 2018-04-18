@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Announcing a short story contest based on our column, Seattle Writing Prompts"
 facebookauto = "Announcing a short story contest based on our column, Seattle Writing Prompts"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/seattle-writing-prompts", "tags/seattle-writing-prompts-story-contest"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/seattle-writing-prompts.md", "tags/seattle-writing-prompts-story-contest.md"]
 notes_about = ""
 books = ""
 +++

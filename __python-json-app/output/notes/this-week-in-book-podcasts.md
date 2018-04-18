@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ".@ThirdPlaceBooks managing partner @rbertsindelar and @paulconstant both showed up in podcasts this week."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/third-place-books-lake-forest-park", "tags/robert-sindelar", "tags/breakfast-at-the-bookstore"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/third-place-books-lake-forest-park.md", "tags/robert-sindelar.md", "tags/breakfast-at-the-bookstore.md"]
 notes_about = ""
 books = ""
 +++

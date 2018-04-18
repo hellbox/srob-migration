@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493931055375/SRoB
 twitterauto = "Portrait Gallery: The Turner House author @angelaflournoy #illustration by @studiochristine @HMHbooks @SPLBuzz"
 facebookauto = "Portrait Gallery: Angela Flournoy"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

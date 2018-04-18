@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489417344215/anni
 twitterauto = "Sponsor @uwlibraries is here to tell you about their event \"Literary Voices\", featuring Annie Proulx!"
 facebookauto = "Sponsor UW Libraries is here to tell you about their event \"Literary Voices\", featuring Annie Proulx!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

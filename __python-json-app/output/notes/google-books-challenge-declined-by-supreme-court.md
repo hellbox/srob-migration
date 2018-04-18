@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Google Books suit is not going to the Supreme Court."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/google-books", "tags/supreme-court"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/google-books.md", "tags/supreme-court.md"]
 notes_about = ""
 books = ""
 +++

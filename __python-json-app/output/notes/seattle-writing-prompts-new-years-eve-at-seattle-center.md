@@ -16,8 +16,8 @@ shareimage = "https://farm6.staticflickr.com/5208/5312273860_e1ddfb1d33_b.jpg"
 twitterauto = "Seattle Writing Prompts visits the space needle on New Year's Eve, 18 years ago. "
 facebookauto = "Seattle Writing Prompts visits the space needle on New Year's Eve, 18 years ago. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

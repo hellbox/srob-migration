@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1482429117039/MsMa
 twitterauto = "Hey DC & Marvel: We want more superhero comics like this in 2017, please."
 facebookauto = "Hey DC and Marvel: We want more superhero comics like this in 2017, please."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

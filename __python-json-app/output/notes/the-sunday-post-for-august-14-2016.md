@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sunday Post: the #worldwideweb's 25th bday (thanks @timberners_lee), an Italian island's lone caretaker, Zika, & more"
 facebookauto = "In this week's Sunday Post, read pieces about celebrating the first website's 25th birthday, the challenges facing an island's caretaker, which couple uses more water than all LA homes combined, and being in the medical field at the time of a new disease like Zika. "
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Sweden is giving a copy of We Should All Be Feminists to every 16-year-old in the country."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/we-should-all-be-feminists"]
+books = ["books/we-should-all-be-feminists.md"]
 +++
 <blockquote>Every 16-year-old in Sweden is getting a copy of Chimamanda Ngozi Adichie’s *We Should All be Feminists*.The book, which was adapted from a TED talk Adichie—the author of *Americanah*, *Half of a Yellow Sun*, and two other works of fiction—gave in 2012 will be distributed to the country’s teens by the Swedish Women’s Lobby and publisher Albert Bonniers. The Swedish translation was released on December 1. </blockquote>
 

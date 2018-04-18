@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1485836858878/immi
 twitterauto = "An immigration story shared, from @ClaudiaC_L"
 facebookauto = "Claudia Castro Luna shares her immigration story"
 make_image_tweet = "True"
-notes_byline = ["writers/claudia-castro-luna"]
-tags_notes = ["tags/immigration", "tags/stories", "tags/politics"]
+notes_byline = ["writers/claudia-castro-luna.md"]
+tags_notes = ["tags/immigration.md", "tags/stories.md", "tags/politics.md"]
 notes_about = ""
 books = ""
 +++

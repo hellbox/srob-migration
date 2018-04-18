@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521219202468/9780
 twitterauto = "Dear @ciennam: Can you suggest a book to help my gun-loving family see the light on gun violence?"
 facebookauto = "Dear Cienna: Is there a book that will help my gun-loving family see the light on gun violence?"
 make_image_tweet = "True"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/guns"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/guns.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Event of the Week is Lit Crawl, which features 35 (!?!) terrific events in one packed evening."
 facebookauto = "Our Event of the Week is Lit Crawl, which features 35 (!?!) terrific events in one packed evening."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

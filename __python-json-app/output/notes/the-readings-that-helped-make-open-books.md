@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460337735950/Open
 twitterauto = "Open Books owner John Marshall remembers some of his favorite author events."
 facebookauto = "Open Books owner John Marshall remembers some of his favorite author events."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

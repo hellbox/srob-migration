@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Waywiser Press"
 title = "Waywiser Press"
-books_by_this_publisher = ["books/the-self-styled-no-child", "books/the-trumpiad"]
+books_by_this_publisher = ["books/the-self-styled-no-child.md", "books/the-trumpiad.md"]
 +++

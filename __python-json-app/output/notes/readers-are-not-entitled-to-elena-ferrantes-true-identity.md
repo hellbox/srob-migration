@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "As readers, we are not entitled to Elena Ferrante's true identity. Authors don't owe us their lives."
 facebookauto = "As readers, we are not entitled to Elena Ferrante's true identity. Authors don't owe us their personal lives."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/pseudonym", "tags/new-york-review-of-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/pseudonym.md", "tags/new-york-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

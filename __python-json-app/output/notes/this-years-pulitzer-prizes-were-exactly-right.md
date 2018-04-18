@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "This year's Pulitzer Prizes got everything right."
 facebookauto = "This year's Pulitzer Prizes got everything right."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/pulitzer-prize", "tags/seattle-times", "tags/mary-ann-gwinn"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/pulitzer-prize.md", "tags/seattle-times.md", "tags/mary-ann-gwinn.md"]
 notes_about = ""
-books = ["books/the-underground-railroad"]
+books = ["books/the-underground-railroad.md"]
 +++
 I don't know about you, but I feel as though [this year's list of Pulitzer Prize winners](http://www.pulitzer.org/prize-winners-by-year/2017) is a perfect representation of the year's work. David Fahrenthold of the *Washington Post* did excellent work dogging Donald Trump all year long. Oakland's *East Bay Times* is a great paper that never gets recognized for its excellent work. 
 

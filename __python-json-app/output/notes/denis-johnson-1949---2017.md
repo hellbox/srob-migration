@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Reports are coming in that author Denis Johnson has died."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/death.md"]
 notes_about = ""
 books = ""
 +++

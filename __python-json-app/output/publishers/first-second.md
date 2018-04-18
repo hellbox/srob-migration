@@ -10,5 +10,5 @@ last_updated = "2017-03-29T23:54:00-07:00"
 preview_url = "842f7c08-b15b-0eb4-f622-0304a188445a"
 name = "First Second"
 title = "First Second"
-books_by_this_publisher = ["books/the-nameless-city", "books/the-stone-heart"]
+books_by_this_publisher = ["books/the-nameless-city.md", "books/the-stone-heart.md"]
 +++

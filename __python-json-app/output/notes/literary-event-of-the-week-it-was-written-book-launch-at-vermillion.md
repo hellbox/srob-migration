@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487137119978/itwa
 twitterauto = "A book launch party celebrates the close ties between poetry and hip-hop."
 facebookauto = "Our event of the week is at Vermillion this week: A book launch party celebrates the close ties between poetry and hip-hop."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/hip-hop"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/hip-hop.md"]
 notes_about = ""
 books = ""
 +++

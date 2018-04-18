@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Freelance writing in 2015 offers a little more pay but a lot more anxiety."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/freelance", "tags/sponsorship"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/freelance.md", "tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

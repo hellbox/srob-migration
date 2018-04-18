@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Audible Studios"
 title = "Audible Studios"
-books_by_this_publisher = ["books/promise-me-dad-(audio-book)"]
+books_by_this_publisher = ["books/promise-me-dad-(audio-book).md"]
 +++

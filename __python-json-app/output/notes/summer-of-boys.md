@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"In the beginning, it was innocent\" starts today's poem by Poet in Residence @pearlpubs"
 facebookauto = "\"In the beginning, it was innocent\" starts today's poem by Poet in Residence Tammy Robacker."
 make_image_tweet = "False"
-notes_byline = ["writers/tammy-robacker"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/tammy-robacker.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

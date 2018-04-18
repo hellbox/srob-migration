@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509601934513/Tong
 twitterauto = "Anders Nilsen is a special guest @shortrunseattle. His latest comic is a creation myth set in a ruined Middle East."
 facebookauto = "Anders Nilsen is a special guest at this year's Short Run Seattle. His latest comic is a creation myth set in a ruined Middle East."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

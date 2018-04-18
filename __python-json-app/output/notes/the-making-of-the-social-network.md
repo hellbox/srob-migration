@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "So many startups fail or get bought out and shut down. What chance does Litsy have?"
 facebookauto = "What does it take to make a great social app? Will Litsy be one?"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/litsy"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/litsy.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "https://en.wikipedia.org/wiki/Ksenia_Anske#/media/File:Ksenia_Ansk
 twitterauto = "Seattle indie-writer @kseniaanske writes dark stories that come from dark places."
 facebookauto = "Seattle indie-writer Ksenia Anske writes dark stories that come from dark places."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470809472551/nece
 twitterauto = "Here are all the literary events you need to know about this week."
 facebookauto = "Your week in literary events includes an adult coloring book, a celebration of American revolution, and a barbecue."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

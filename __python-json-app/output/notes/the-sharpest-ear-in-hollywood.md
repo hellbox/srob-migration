@@ -16,10 +16,10 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1519332876752/
 twitterauto = "Artie Kane was a Hollywood insider for decades. Stop by for a glimpse of his memoir, from sponsor Amphora Books."
 facebookauto = "Composer and pianist Artie Kane was a Hollywood insider for decades. Stop in for a glimpse through his eyes, thanks to sponsor Amphora Books."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/music-to-my-years"]
+books = ["books/music-to-my-years.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1519332861751/Music%20to%20My%20Years_150.jpeg)</p>
 You've heard Artie Kane, even if you haven't heard of him. Kane spent decades in Hollywood, composing, conducting, and playing the music to a dizzying number of television shows (*Wonder Woman*!) and movies (*Eyes of Laura Mars*!) — and along the way, hobnobbing with the giants of the entertainment industry.

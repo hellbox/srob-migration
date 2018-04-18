@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "So @billclinton just visited @ElliottBayBooks and recommended a book by a Seattle author."
 facebookauto = "Bill Clinton just visited Elliott Bay Book Company and recommended a book by a Seattle author. Twitter promptly blew up."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bill-clinton", "tags/elliott-bay-book-company", "tags/2016"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bill-clinton.md", "tags/elliott-bay-book-company.md", "tags/2016.md"]
 notes_about = ""
-books = ["books/vendetta"]
+books = ["books/vendetta.md"]
 +++
 Former president Bill Clinton, who is in town for a fundraiser for Hillary Clinton's presidential campaign, just stopped by Elliott Bay Book Company. 
 

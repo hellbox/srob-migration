@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517980396090/2687
 twitterauto = "One of our contributors is debuting a kid's book at Secret Garden and you're invited!"
 facebookauto = "One of our contributors is debuting a kid's book at Secret Garden and you're invited!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/conflict-of-interest"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/conflict-of-interest.md"]
 notes_about = ""
 books = ""
 +++

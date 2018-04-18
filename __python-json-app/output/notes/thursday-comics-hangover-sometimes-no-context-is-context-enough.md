@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453356478910/Amaz
 twitterauto = "These short stories are so good you don't need context."
 facebookauto = "The thing about visiting comic book stores is that you often have no idea what the hell you're buying. Sometimes, that's okay."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

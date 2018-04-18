@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "We got a very important correction from @TeaMichelle about celebrity intercourse."
 facebookauto = "Michelle Tea wants you to know that she would never have sex with Brad Pitt."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/corrections"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/corrections.md"]
 notes_about = ""
-books = ["books/black-wave"]
+books = ["books/black-wave.md"]
 +++
 Have you read [Sarah Galvin's great review of Michelle Tea's new memoir/novel *Black Wave*](http://www.seattlereviewofbooks.com/reviews/after-the-end-of-the-world/) yet? You should! It's a wonderful celebration of Tea's impact on young readers that also includes the words "sex millionaire."
 

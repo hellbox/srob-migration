@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/kathleen-flenniken"]
-tags_notes = ["tags/tuesday-poem", "tags/poetry"]
+notes_byline = ["writers/kathleen-flenniken.md"]
+tags_notes = ["tags/tuesday-poem.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

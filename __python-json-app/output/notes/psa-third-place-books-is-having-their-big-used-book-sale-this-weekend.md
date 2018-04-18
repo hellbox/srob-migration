@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Stock up on used books this weekend at Third Place Books."
 facebookauto = "Stock up on used books this weekend at Third Place Books."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/third-place-books-ravenna", "tags/third-place-books-seward-park", "tags/third-place-books-lake-forest-park"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/third-place-books-ravenna.md", "tags/third-place-books-seward-park.md", "tags/third-place-books-lake-forest-park.md"]
 notes_about = ""
 books = ""
 +++

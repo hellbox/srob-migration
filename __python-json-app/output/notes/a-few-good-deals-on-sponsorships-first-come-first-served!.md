@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Step lively, indie authors, presses, and event-havers! We got us some sponsorships to move. Marked down! Great deals!"
 facebookauto = "Step lively, indie authors, presses, and event-havers! We got us some sponsorships to move. Marked down! Great deals to be had! Get 'em while they're hot!"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you must buy books online, do it from @Powells\u2014and get 30% off your entire purchase."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/powells"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/powells.md"]
 notes_about = ""
 books = ""
 +++

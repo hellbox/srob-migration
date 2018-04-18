@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "As Intruder prepares to disappear forever, it's getting more Intruder-ier than ever."
 facebookauto = "As Intruder prepares to disappear forever, it's getting more Intruder-ier than ever."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/intruder"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/intruder.md"]
 notes_about = ""
 books = ""
 +++

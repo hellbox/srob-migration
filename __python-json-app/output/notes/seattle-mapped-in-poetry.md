@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We can't stop investigating this poetry-centric map of Seattle."
 facebookauto = "We can't stop investigating this poetry-centric map of Seattle."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/civic-poet"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/civic-poet.md"]
 notes_about = ""
 books = ""
 +++

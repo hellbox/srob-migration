@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492187424948/impo
 twitterauto = "Some comic books aren't comic. Some graphic novels aren't novels. What to do?"
 facebookauto = "Some comic books aren't comic. Some graphic novels aren't novels. What should we call these things?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/comics"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/comics.md"]
 notes_about = ""
 books = ""
 +++

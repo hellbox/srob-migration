@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523036118536/Scre
 twitterauto = "Great point from @ciennam in this week's Help Desk:"
 facebookauto = "Cienna Madrid talks about gender-swapping the classics in this week's Help Desk!"
 make_image_tweet = "True"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

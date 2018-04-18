@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492271743082/IMG_
 twitterauto = "Seattle Writing Prompts drives the Viaduct, and takes in the view. "
 facebookauto = "Seattle Writing Prompts drives the Viaduct, and takes in the view. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

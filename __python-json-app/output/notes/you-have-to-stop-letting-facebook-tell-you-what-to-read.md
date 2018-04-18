@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Don't leave your media consumption choices to Mark Zuckerberg. Read and write for yourself."
 facebookauto = "Hello. The website you're reading this on right now is bad. Here's why:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/facebook"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/facebook.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470607077599/mcph
 twitterauto = ".@stevenarntson remembers the great James McPherson, who passed away last month."
 facebookauto = "Seattle writer Steven Arntson remembers the great James McPherson, who passed away last month, with a beautiful essay."
 make_image_tweet = "True"
-notes_byline = ["writers/steven-arntson"]
-tags_notes = ["tags/death"]
+notes_byline = ["writers/steven-arntson.md"]
+tags_notes = ["tags/death.md"]
 notes_about = ""
 books = ""
 +++

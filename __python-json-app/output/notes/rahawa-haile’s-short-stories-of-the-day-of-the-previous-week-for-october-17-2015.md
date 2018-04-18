@@ -16,8 +16,8 @@ shareimage = "https://pbs.twimg.com/media/CRAU6MgU8AAg1kb.jpg:large"
 twitterauto = "And @rahawahaile's shorts this week feature @kawikaguillermo, @meredithturits, @reemsofpaper, and @lethal_heroine"
 facebookauto = "Short story time! This week's collection of Rahawa Haile's Short Stories of the Day just went up. Not to spoil anything, but one story is a picture of her cat, FutureCat."
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/short-story-of-the-day", "tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/short-story-of-the-day.md", "tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md"]
 notes_about = ""
 books = ""
 +++

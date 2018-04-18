@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Amethyst Editions"
 title = "Amethyst Editions"
-books_by_this_publisher = ["books/black-wave"]
+books_by_this_publisher = ["books/black-wave.md"]
 +++

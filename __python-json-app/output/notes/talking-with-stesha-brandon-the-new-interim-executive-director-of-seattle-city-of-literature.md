@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456286621443/SCoL
 twitterauto = "Stesha Brandon is the new interim director of @seacityoflit. An interview:"
 facebookauto = "We talked with Stesha Brandon, the new interim executive director of Seattle's City of Literature organization. Why would the UNESCO City of Literature designation matter? What are her goals for the organization? What's next?\n"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-city-of-literature", "tags/unesco", "tags/stesha-brandon", "tags/town-hall-seattle", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-city-of-literature.md", "tags/unesco.md", "tags/stesha-brandon.md", "tags/town-hall-seattle.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

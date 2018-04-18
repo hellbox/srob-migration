@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480581588293/Wesl
 twitterauto = "What do booksellers want for the holidays? Wesley at @ThirdPlaceBooks wants new titles from @nightboatbooks."
 facebookauto = "All month long, we're talking to booksellers about the books they'd like to receive as holiday gifts. Wesley from Third Place Books is excited about two new titles from the great small press Nightboat Books."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

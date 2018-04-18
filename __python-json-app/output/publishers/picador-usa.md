@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Picador USA"
 title = "Picador USA"
-books_by_this_publisher = ["books/a-pleasure-and-a-calling", "books/hild", "books/listen-liberal"]
+books_by_this_publisher = ["books/a-pleasure-and-a-calling.md", "books/hild.md", "books/listen-liberal.md"]
 +++

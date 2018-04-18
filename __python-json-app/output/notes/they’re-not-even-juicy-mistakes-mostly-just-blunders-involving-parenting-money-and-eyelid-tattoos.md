@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"They\u2019re not even juicy mistakes, mostly just blunders involving parenting, money and eyelid tattoos.\""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/music", "tags/memoir", "tags/music-criticism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/music.md", "tags/memoir.md", "tags/music-criticism.md"]
 notes_about = ""
 books = ""
 +++

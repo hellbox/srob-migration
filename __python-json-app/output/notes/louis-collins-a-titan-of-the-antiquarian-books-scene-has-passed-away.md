@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515002301190/IMG_
 twitterauto = "Sad news: Louis Collins, a titan of the antiquarian books scene, has passed away."
 facebookauto = "Sad news: Louis Collins, a titan of the antiquarian books scene, has passed away."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/death", "tags/louis-collins-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/death.md", "tags/louis-collins-books.md"]
 notes_about = ""
 books = ""
 +++

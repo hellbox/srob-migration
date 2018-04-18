@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "How many authors in America earn poverty wages or above? The answer may depress you!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/indie-authors"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/indie-authors.md"]
 notes_about = ""
 books = ""
 +++

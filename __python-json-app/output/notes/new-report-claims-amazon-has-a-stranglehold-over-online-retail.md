@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A new report claims that Amazon captures \"nearly $1 in every $2 that Americans spend online.\""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon", "tags/retail"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md", "tags/retail.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502427659441/dark
 twitterauto = "Your week in readings includes book club discussion of Fun Home and All the Birds in the Sky!"
 facebookauto = "Your week in readings includes book club discussion of Fun Home and All the Birds in the Sky!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

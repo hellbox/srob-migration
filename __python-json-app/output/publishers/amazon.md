@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Amazon"
 title = "Amazon"
-books_by_this_publisher = ["books/gawker-an-oral-history", "books/the-elephant-in-the-room"]
+books_by_this_publisher = ["books/gawker-an-oral-history.md", "books/the-elephant-in-the-room.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489169503766/ls.p
 twitterauto = "Sad news: the University District Half Price Books on Roosevelt Way is scheduled to close on April 6th."
 facebookauto = "Sad news: the University District Half Price Books on Roosevelt Way is scheduled to close on April 6th."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/retail", "tags/half-price-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/retail.md", "tags/half-price-books.md"]
 notes_about = ""
 books = ""
 +++

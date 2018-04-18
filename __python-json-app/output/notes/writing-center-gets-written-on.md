@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462740352256/2016
 twitterauto = "A recap of the big drunky @HugoHouse party on Saturday night."
 facebookauto = "We attended the Hugo House's Epilogue/Prologue party on Saturday, and we read what everyone wrote on the walls."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444115281388/crop
 twitterauto = "Our October Bookstore of the Month will only exist for one day \u2014 Halloween \u2014 before disappearing for another year."
 facebookauto = "Every Wednesday this month, we're highlighting a different Short Run Small Press Festival presenter. Today, meet Casandra Lopez of As/Us magazine."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/as--us", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/as--us.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

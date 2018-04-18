@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear Cienna: I can't stop taking books from my Little Free Library. It's bordering on theft. Help!"
 facebookauto = "Dear Cienna: I can't stop taking books from my Little Free Library. My \"borrowing\" of books is bordering on theft. Help!"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/little-free-library"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/little-free-library.md"]
 notes_about = ""
 books = ""
 +++

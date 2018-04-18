@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Let's talk about the problem with superhero comics."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/spider-verse", "tags/marvel-comics", "tags/comics", "tags/superheroes"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/spider-verse.md", "tags/marvel-comics.md", "tags/comics.md", "tags/superheroes.md"]
 notes_about = ""
-books = ["books/ms-marvel"]
+books = ["books/ms-marvel.md"]
 +++
 <p class="intro">Every comics fan knows Wednesday is new comics day, the glorious time of the week when brand-new comics arrive at shops around the country. Thursday Comics Hangover is a weekly column reviewing some of the new books that I pick up at [Phoenix Comics and Games](http://phoenixseattle.com/), my friendly neighborhood comic book store.</p>
 

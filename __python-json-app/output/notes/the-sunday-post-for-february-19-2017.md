@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The NY Times \"failing\" up, long form Flynn, and you died of dysentery. All in today's Sunday Post."
 facebookauto = "The NY Times \"failing\" up, long form Flynn, and you died of dysentery. All in today's Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

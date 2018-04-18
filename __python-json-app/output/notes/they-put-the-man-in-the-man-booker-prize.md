@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Author @nicolaz calls the lack of women's voices in this year's Man Booker Prizes \"appalling.\" She's right."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/man-booker-prize"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/man-booker-prize.md"]
 notes_about = ""
 books = ""
 +++

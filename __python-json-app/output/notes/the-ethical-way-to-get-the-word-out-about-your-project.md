@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our sponsorship program has been a huge success. Here's a check-in and debrief."
 facebookauto = "We took a big risk with our sponsorship program. Here's some real talk on how its working, and how you can sign up for a slot, if you're interested. "
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

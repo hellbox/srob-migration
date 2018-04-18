@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's the third-to-last @rahawahaile short story wrap up! Starring, @lmillernpr, @chelsea_l_w, and many others."
 facebookauto = "Rahawa Haile is ending her Short Story of the Day project at the end of the year, and that means we're stopping our coverage of it soon. Here's our third-to-last wrap-up -- two more to go, and then Saturday is going to bring you a new treat. "
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md"]
 notes_about = ""
 books = ""
 +++

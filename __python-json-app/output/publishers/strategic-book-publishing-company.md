@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Strategic Book Publishing Company"
 title = "Strategic Book Publishing Company"
-books_by_this_publisher = ["books/my-dear-wife-and-children"]
+books_by_this_publisher = ["books/my-dear-wife-and-children.md"]
 +++

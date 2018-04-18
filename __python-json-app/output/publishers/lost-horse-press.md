@@ -10,5 +10,5 @@ last_updated = "2015-09-04T00:00:00-07:00"
 preview_url = "cf8ddfd5-a49f-73e6-de1e-c4c6ee2f6854"
 name = "Lost Horse Press"
 title = "Lost Horse Press"
-books_by_this_publisher = ["books/raising-lilly-ledbetter", "books/wonderland"]
+books_by_this_publisher = ["books/raising-lilly-ledbetter.md", "books/wonderland.md"]
 +++

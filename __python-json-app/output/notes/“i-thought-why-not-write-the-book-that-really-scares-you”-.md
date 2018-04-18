@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\u201cI thought, why not write the book that really scares you?\u201d "
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/oprah"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/oprah.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492666748117/batm
 twitterauto = "Ugh. Can someone explain this Batman comic to us?"
 facebookauto = "Ugh. Can someone explain the ending of this Batman comic to us?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics", "tags/dc-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/marvel-comics.md", "tags/dc-comics.md"]
 notes_about = ""
 books = ""
 +++

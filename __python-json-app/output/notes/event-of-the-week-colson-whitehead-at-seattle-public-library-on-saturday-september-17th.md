@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473369605443/Scre
 twitterauto = "Our event of the week is the latest entry in the Big O's Book Club."
 facebookauto = "Colson Whitehead is ten thousand times the novelist Jonathan Franzen is. So why has it taken so long for most of America to wake up to that fact?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

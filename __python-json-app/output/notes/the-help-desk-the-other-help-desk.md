@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445015515659/imgr
 twitterauto = ".@ciennam's Help Desk column responds to the @nytimes's new literary advice column, which is also named Help Desk."
 facebookauto = "In this week's Help Desk, Cienna Madrid offers some advice to the founders of the Seattle Review of Books, who are upset that the New York Times is launching a literary advice column called Help Desk. Is there any nobility in theft?"
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/new-york-times", "tags/plagiarism"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/new-york-times.md", "tags/plagiarism.md"]
 notes_about = ""
 books = ""
 +++

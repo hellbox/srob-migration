@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476118188689/spon
 twitterauto = "Sponsor @Sasquatchbooks is turning 30! Check out this awesome timeline...."
 facebookauto = "Sponsor Sasquatch Books is turning 30! They're here this week to celebrate. Check out this great timeline on our sponsor's page."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

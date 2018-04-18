@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our thanks to sponsor Chatwin Books. One day left to read three poems from Nicole Sarrocco. Don't miss out!"
 facebookauto = "One day left to read three poems from Nicole Sarrocco on the site, brought to you by sponsor Chatwin Books. Don't miss them!"
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/karate-bride"]
+books = ["books/karate-bride.md"]
 +++
 We're so thrilled to have <a href="http://www.chatwinbooks.com/" title="Chatwin Books">Chatwin Books</a> as our sponsor these last two weeks. They're here to bring you Nicole Sarrocco's book of poetry _Karate Bride_ to make sure you're familiar with her her work -- her debut novel  <a href="http://www.chatwinbooks.com/shop/litbylightning"><em>Lit by Lightning</em></a> has just been released. 
 

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503414378189/Scre
 twitterauto = "\"On the Subject of Transformation\" is the latest from August Poet in Residence @d_arrindell"
 facebookauto = "August Poet in Residence Daemond Arrindell latest is \"On the Subject of Transformation\""
 make_image_tweet = "False"
-notes_byline = ["writers/daemond-arrindell"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/daemond-arrindell.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

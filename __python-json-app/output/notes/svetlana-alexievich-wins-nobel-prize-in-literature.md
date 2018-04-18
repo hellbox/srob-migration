@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Svetlana Alexievich won the Nobel Prize for Literature. It's the first time a journalist has ever won the prize."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/nobel-prize"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/nobel-prize.md"]
 notes_about = ""
 books = ""
 +++

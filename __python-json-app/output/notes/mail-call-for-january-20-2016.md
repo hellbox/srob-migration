@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453351223827/IMG_
 twitterauto = "Mail Call! Nobody gets that @irismurdoch but me, so don't even think about it."
 facebookauto = "Mail Call! That Iris Murdoch is mine, so just back way, friend. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

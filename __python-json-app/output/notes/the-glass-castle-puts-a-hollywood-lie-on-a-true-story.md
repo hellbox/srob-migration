@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501546706816/118_
 twitterauto = "The Glass Castle isn't a perfect film, but it's got some perfection inside of it."
 facebookauto = "The film adaptation of Jeannette Walls's memoir The Glass Castle isn't a perfect film, but it's got some perfection inside of it."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/film", "tags/adaptation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/film.md", "tags/adaptation.md"]
 notes_about = ""
 books = ""
 +++

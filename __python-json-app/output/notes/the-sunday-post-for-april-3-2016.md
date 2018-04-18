@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post, with pieces from: @jiatolentino, @SofiaSamatar, @e_alexjung, @maxlyonross."
 facebookauto = "The end of the great male writing instructor, the words of fantasy, words with the most famous drag queen in the world, and sons relating to fathers, all in today's Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/john-august", "tags/movies", "tags/screenwriting", "tags/writing"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/john-august.md", "tags/movies.md", "tags/screenwriting.md", "tags/writing.md"]
 notes_about = ""
 books = ""
 +++

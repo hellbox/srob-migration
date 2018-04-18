@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Help wanted: Contribute to a new comics anthology, make some quick calls for @HugoHouse, and take part in a play."
 facebookauto = "Looking for ways to contribute to the local literary scene? Place a quick call for Hugo House, contribute to a new comics anthology about sexual assault and consent, and contribute your Spanish-speaking skills to an exciting new project from a playwright."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/atlas-obscura"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/atlas-obscura.md"]
 notes_about = ""
 books = ""
 +++

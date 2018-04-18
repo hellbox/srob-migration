@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481499392803/Emma
 twitterauto = "We asked @elliottbaybooks bookseller Emma what book she wanted for the holidays."
 facebookauto = "We asked Elliott Bay Book Company bookseller Emma what book she wanted for the holidays."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

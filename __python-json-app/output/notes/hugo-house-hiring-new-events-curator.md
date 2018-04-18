@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The @HugoHouse is looking for a new events curator! Could you be the person they're looking for?"
 facebookauto = "The Hugo House is looking for a new events curator! Could you be the person they're looking for?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

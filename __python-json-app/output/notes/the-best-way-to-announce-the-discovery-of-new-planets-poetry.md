@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "One of the astronomers who helped discover the 7 earth-like planets wrote an epic poem to celebrate."
 facebookauto = "One of the astronomers who helped discover the seven earth-like planets surrounding Trappist-1 wrote an epic poem to celebrate."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/science"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/science.md"]
 notes_about = ""
 books = ""
 +++

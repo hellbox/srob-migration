@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498867075214/doll
 twitterauto = "Your week in readings brings a pair of events about great moments in women's history."
 facebookauto = "Learn about a famous women's hotel in New York City and the first woman to play minor league baseball by attending readings this week."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/jack-straw"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/jack-straw.md"]
 notes_about = ""
 books = ""
 +++

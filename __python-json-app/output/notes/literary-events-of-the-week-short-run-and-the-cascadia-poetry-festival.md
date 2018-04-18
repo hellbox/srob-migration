@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This week, Seattle is hosting both the Short Run Festival and the Cascadia Poetry Festival."
 facebookauto = "This week, Seattle is hosting both the Short Run Festival and the Cascadia Poetry Festival."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run", "tags/cascadia-poetry-festival"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md", "tags/cascadia-poetry-festival.md"]
 notes_about = ""
 books = ""
 +++

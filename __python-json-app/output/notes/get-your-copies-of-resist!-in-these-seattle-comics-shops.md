@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here's where to pick up your copies of the Resist! anti-Trump comics newspaper this weekend:"
 facebookauto = "Here's where to pick up your copies of the Resist! anti-Trump comics newspaper this weekend:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/writers-resist", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/writers-resist.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

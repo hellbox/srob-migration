@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Pizza Party Comics"
 title = "Pizza Party Comics"
-books_by_this_publisher = ["books/punch-to-kill"]
+books_by_this_publisher = ["books/punch-to-kill.md"]
 +++

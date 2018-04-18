@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Vikings, vandals, and some serious schadenfreude around Megyn Kelly's new show in this week's Sunday Post."
 facebookauto = "In this week's Sunday Post, Michael Harriot has advice on how to protest without offending white people, a modern-day Viking leads his crew into disaster, and a lovely tree with a silly name meets a sad end, among other stories."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

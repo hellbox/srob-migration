@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456527363320/9446
 twitterauto = "Wallingford's Wide World Travel & Maps has launched a crowd-funding campaign."
 facebookauto = "In a last-ditch effort to stay open, Wallingford's Wide World Travel & Maps has launched a crowd-funding campaign."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/wide-world-travel-&amp;-maps"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/wide-world-travel-&amp;-maps.md"]
 notes_about = ""
 books = ""
 +++

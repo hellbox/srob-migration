@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our interview with Azura Tjabji might just be the most inspiring thing you'll read this week."
 facebookauto = "Our interview with Azura Tjabji might just be the most inspiring thing you'll read this week."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/slam-poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/slam-poetry.md"]
 notes_about = ""
 books = ""
 +++

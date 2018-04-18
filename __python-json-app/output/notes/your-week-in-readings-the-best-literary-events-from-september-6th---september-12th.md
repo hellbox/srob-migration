@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497824132996/klei
 twitterauto = "Your Week in Readings features a literary mixer and @haszombiesinit!"
 facebookauto = "Your Week in Readings features a literary mixer and a special poetic presentation about immigration and friendship."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/readerfest", "tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/readerfest.md", "tags/reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

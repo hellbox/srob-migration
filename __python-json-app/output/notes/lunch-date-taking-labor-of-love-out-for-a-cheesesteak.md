@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466145684914/labo
 twitterauto = "We took a book about dating in America out for a cheesesteak. Was it a love connection?"
 facebookauto = "We took a book about dating in America out for a cheesesteak. Was there a love connection?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md"]
 notes_about = ""
 books = ""
 +++

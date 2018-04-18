@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes #1000BlackGirlsBooks, a history of the Seattle Black Panthers, and more."
 facebookauto = "Today's Book News Roundup includes #1000BlackGirlsBooks, a history of the Seattle Black Panthers, and more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/1000blackgirlsbooks", "tags/seattle-public-library", "tags/education"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/1000blackgirlsbooks.md", "tags/seattle-public-library.md", "tags/education.md"]
 notes_about = ""
 books = ""
 +++

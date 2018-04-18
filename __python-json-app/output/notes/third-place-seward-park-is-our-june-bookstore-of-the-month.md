@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465152767894/TPBS
 twitterauto = "Our June Bookstore of the Month is Third Place Seward Park!"
 facebookauto = "Our June Bookstore of the Month is Third Place Seward Park!"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/third-place-books-seward-park"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/third-place-books-seward-park.md"]
 notes_about = ""
-books = ["books/between-the-world-and-me", "books/citizen"]
+books = ["books/between-the-world-and-me.md", "books/citizen.md"]
 +++
 <p class="image">![](/webhook-uploads/1465152767894/TPBSP1.JPG)</p>
 

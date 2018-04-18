@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In the Sunday Post, Rather tilts at Trump, digital and print square off, and a ghost runs the world's oddest race."
 facebookauto = "In this Sunday's Post, Dan Rather tilts at Trump, digital and print duke it out (again), and a phantom hosts the world's craziest ultramarathon. Enjoy!"
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

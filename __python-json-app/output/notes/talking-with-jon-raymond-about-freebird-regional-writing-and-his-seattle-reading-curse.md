@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484928982289/free
 twitterauto = "Jon Raymond reads @ubookstorereads tonight. He has not had good luck with Seattle readings in the past:"
 facebookauto = "Jon Raymond talked to us about why every reading he's done in Seattle so far has been awkward, sad, or just plain uncomfortable. He reads at University Book Store tonight. We should show up to make his reading good, Seattle."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/university-book-store", "tags/regional", "tags/bumbershoot"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/university-book-store.md", "tags/regional.md", "tags/bumbershoot.md"]
 notes_about = ""
 books = ""
 +++

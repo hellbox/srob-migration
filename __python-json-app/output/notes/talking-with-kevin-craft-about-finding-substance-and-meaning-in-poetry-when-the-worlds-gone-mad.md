@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517618084525/kevi
 twitterauto = "Kevin Craft offers some great insights into the public and private lives of poets."
 facebookauto = "Kevin Craft offers some great insights into the public and private lives of poets."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry-northwest", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry-northwest.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

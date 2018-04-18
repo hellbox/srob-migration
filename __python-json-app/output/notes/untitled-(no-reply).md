@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516600321506/Scre
 twitterauto = "Poet in Residence Kevin Craft returns with \"Untitled (No Reply)\""
 facebookauto = "Poet in Residence Kevin Craft returns with \"Untitled (No Reply)\""
 make_image_tweet = "False"
-notes_byline = ["writers/kevin-craft"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/kevin-craft.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

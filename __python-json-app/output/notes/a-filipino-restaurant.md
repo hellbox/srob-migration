@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, \"A Filipino Restaurant\", is from @ebobarton"
 facebookauto = "Our Tuesday Poem, \"A Filipino Restaurant\", is from Ebo Barton"
 make_image_tweet = "False"
-notes_byline = ["writers/ebo-barton"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/ebo-barton.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

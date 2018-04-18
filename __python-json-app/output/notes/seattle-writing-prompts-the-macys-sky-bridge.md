@@ -16,8 +16,8 @@ shareimage = "https://instagram.fsnc1-1.fna.fbcdn.net/t51.2885-15/e15/10802950_6
 twitterauto = "Seattle Writing Prompts walks high above the street over a sky bridge."
 facebookauto = "Seattle Writing Prompts walks high above the street over a sky bridge."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's book news roundup includes Seattle's judgiest reader of translated literature in 2018."
 facebookauto = "Today's book news roundup includes Seattle's judgiest reader of translated literature in 2018."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

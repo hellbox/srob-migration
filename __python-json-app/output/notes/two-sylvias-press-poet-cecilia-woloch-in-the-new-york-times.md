@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Take a lunchtime poetry break with @twosylviaspress author Cecilia Woloch in the @nytimes."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/two-sylvias-press", "tags/new-york-times"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/two-sylvias-press.md", "tags/new-york-times.md"]
 notes_about = ""
 books = ""
 +++

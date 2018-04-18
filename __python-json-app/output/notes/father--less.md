@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The first poem from our March Poet in Residence, @jamaicabaldwin"
 facebookauto = "The first poem from our March Poet in Residence, Jamaica Baldwin"
 make_image_tweet = "False"
-notes_byline = ["writers/jamaica-baldwin"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jamaica-baldwin.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

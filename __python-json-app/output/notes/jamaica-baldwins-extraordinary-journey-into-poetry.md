@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ".@jamaicabaldwin came to poetry late, but luckily for us she's a fast learner."
 facebookauto = "We talked with poet Jamaica Baldwin about her journey as a poet. It began a few years ago with a cancer diagnosis, and she's been learning ever since."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

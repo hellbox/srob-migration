@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "How many Amazon Books will there be? And when is @shortrunseattle this year? All the news you need is here:"
 facebookauto = "Our Book News Roundup includes more Amazon Books whispers, a rumor about a local reading series, some great Short Run news, and a little hope for diversity in the publishing industry."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/amazon-books", "tags/short-run", "tags/university-of-washington-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/amazon-books.md", "tags/short-run.md", "tags/university-of-washington-press.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's @rahawahaile's short story of the day time! This week features @ambernoelle @v_urq, and an Eritrean wedding."
 facebookauto = "It's Rahawa Haile's short stories of the day, for the previous week. "
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/short-stories", "tags/short-story-of-the-day", "tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/short-stories.md", "tags/short-story-of-the-day.md", "tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md"]
 notes_about = ""
 books = ""
 +++

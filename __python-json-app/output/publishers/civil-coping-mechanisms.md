@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Civil Coping Mechanisms"
 title = "Civil Coping Mechanisms"
-books_by_this_publisher = ["books/the-in-betweens", "books/bruja"]
+books_by_this_publisher = ["books/the-in-betweens.md", "books/bruja.md"]
 +++

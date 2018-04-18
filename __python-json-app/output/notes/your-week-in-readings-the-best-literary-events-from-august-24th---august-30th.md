@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445204810501/htun
 twitterauto = "This week, try Dungeons & Dragons, drinking with sci-fi authors, and more."
 facebookauto = "This week in literary events: a chance to try Dungeons & Dragons, a swashbuckling sci-fi reading at a bar, an anthology of journalism featuring great Seattle non-fiction authors, and more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run", "tags/elliott-bay-book-company", "tags/folio-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md", "tags/elliott-bay-book-company.md", "tags/folio-seattle.md"]
 notes_about = ""
 books = ""
 +++

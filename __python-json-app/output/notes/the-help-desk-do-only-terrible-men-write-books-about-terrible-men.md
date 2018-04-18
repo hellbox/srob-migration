@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516382678599/rabb
 twitterauto = "Should we assume that all authors of misogynistic fiction are terrible people?"
 facebookauto = "Many of the sexual predators we've seen exposed in #MeToo have produced terribly misogynistic work. Should we assume that all misogynistic authors are terrible people?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

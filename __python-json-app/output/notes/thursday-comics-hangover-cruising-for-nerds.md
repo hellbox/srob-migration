@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1471490936637/mock
 twitterauto = "A superhero faces a mystery on a nerd cruise in @ChelseaCain's Mockingbird #6."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/marvel-comics.md"]
 notes_about = ""
 books = ""
 +++

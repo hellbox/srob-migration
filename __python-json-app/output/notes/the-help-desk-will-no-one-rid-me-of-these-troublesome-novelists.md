@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Is National Novel Writing Month an insult to novelists? @ciennam has opinions."
 facebookauto = "Steve is annoyed by all the NaNoWriMo novelists who take over his coffee shop. Does Cienna Madrid have any advice for him?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/nanowrimo"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/nanowrimo.md"]
 notes_about = ""
 books = ""
 +++

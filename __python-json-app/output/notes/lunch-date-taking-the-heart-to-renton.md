@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456701685299/theh
 twitterauto = "We took a French novel about a heart transplant to an Indian restaurant in Renton."
 facebookauto = "We took a French novel about a heart transplant to Renton for curry and naan. Here's how that went:"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md"]
 notes_about = ""
-books = ["books/the-heart"]
+books = ["books/the-heart.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1456701685299/theheart.jpg)</p>*(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)*
 

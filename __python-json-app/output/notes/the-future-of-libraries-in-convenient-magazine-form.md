@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you care about libraries, here's a great (free) resource for you."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/library.md"]
 notes_about = ""
 books = ""
 +++

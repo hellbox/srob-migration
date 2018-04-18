@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The owner of our Bookstore of the Month has been selling books for a half a century, and he still loves it."
 facebookauto = "The owner of our Bookstore of the Month has been selling books for a half a century, and he still loves books with all his heart."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/louis-collins-books", "tags/half-price-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/louis-collins-books.md", "tags/half-price-books.md"]
 notes_about = ""
 books = ""
 +++

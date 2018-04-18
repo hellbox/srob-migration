@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Is it possible for a book to be over-produced? Is there anywhere to get good Turkish food in Seattle? Yes and yes."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md"]
 notes_about = ""
-books = ["books/boots-riley"]
+books = ["books/boots-riley.md"]
 +++
 <p class="intro">(Once in a while, I take a new book with me to lunch and give it a half an hour or so to grab my attention. **Lunch Date** is my judgment on that speed-dating experience.)</p>
 

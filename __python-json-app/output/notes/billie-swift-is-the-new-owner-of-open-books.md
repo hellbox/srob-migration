@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Open Books has a new owner, and she's taking over in August."
 facebookauto = "The new owner of Open Books has been announced!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/open-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/open-books.md"]
 notes_about = ""
 books = ""
 +++

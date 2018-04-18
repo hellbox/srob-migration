@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "All the book news you need:"
 facebookauto = "All the book news you need:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/zanadu-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/zanadu-comics.md"]
 notes_about = ""
 books = ""
 +++

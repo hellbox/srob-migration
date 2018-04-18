@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "November sucked, but your @nanowrimo novel is done. @ciennam tells you what to do next. And a bonus love question! "
 facebookauto = "November sucked, but your NaNoWriMo novel is done. Cienna Madrid tells you what to do next. And a bonus love question from one of today's youths!"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

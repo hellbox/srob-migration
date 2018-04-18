@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502039966861/1883
 twitterauto = "The Seattle Urban Book Expo is on August 26th at Washington Hall. Here's what to expect:"
 facebookauto = "The Seattle Urban Book Expo is on August 26th at Washington Hall. Here's what to expect:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/seattle-urban-book-expo"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/seattle-urban-book-expo.md"]
 notes_about = ""
 books = ""
 +++

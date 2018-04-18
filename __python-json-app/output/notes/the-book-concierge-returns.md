@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Why worry about year-end lists when @NPR's Book Concierge can find the perfect book for you?"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/npr"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/npr.md"]
 notes_about = ""
 books = ""
 +++

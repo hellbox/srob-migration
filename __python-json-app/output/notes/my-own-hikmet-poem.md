@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506919796659/Scre
 twitterauto = "Poet in Residence @karywayson's second piece for us is called \"My Own Hikmet Poem\""
 facebookauto = "Poet in Residence Kary Wayson's second piece for us is called \"My Own Hikmet Poem\""
 make_image_tweet = "False"
-notes_byline = ["writers/kary-wayson"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/kary-wayson.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

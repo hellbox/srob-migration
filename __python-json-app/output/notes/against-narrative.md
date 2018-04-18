@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "You should go read @mikemeginnis's essay about @NarrativeMag."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/literary-magazines", "tags/narrative-magazine"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/literary-magazines.md", "tags/narrative-magazine.md"]
 notes_about = ""
 books = ""
 +++

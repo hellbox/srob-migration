@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Meet the library's new Literature and Humanities Program Director!"
 facebookauto = "Today in Book News Roundup: the funniest damn thing you'll read all week, good news for bookstore sales, and introducing the library's new Literature and Humanities Program Director."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library", "tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

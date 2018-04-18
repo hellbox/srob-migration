@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your week in readings begins tonight @ubookstorereads and includes a drag-queen extravaganza. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/hugo-house", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/hugo-house.md", "tags/elliott-bay-book-company.md", "tags/university-book-store.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

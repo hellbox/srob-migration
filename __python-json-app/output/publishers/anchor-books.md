@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Anchor Books"
 title = "Anchor Books"
-books_by_this_publisher = ["books/americanah", "books/we-should-all-be-feminists"]
+books_by_this_publisher = ["books/americanah.md", "books/we-should-all-be-feminists.md"]
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's cause for celebration: a Seattle publisher announced a huge new collection of Maged Zaher's poems!"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry", "tags/publishing", "tags/arundel-books", "tags/arundel-press", "tags/chatwin-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md", "tags/publishing.md", "tags/arundel-books.md", "tags/arundel-press.md", "tags/chatwin-books.md"]
 notes_about = ""
 books = ""
 +++

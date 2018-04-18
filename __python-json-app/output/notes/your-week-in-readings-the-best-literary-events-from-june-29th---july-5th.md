@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466553521887/star
 twitterauto = "Your week in readings kicks off tonight with a reading from @descooper and Tara Conklin!"
 facebookauto = "Your week in readings includes a cookbook, a conversation about race and gender, a prolific sci-fi author, and a series of recommended short books for the 4th of July weekend."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/elliott-bay-book-company", "tags/university-book-store", "tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/elliott-bay-book-company.md", "tags/university-book-store.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

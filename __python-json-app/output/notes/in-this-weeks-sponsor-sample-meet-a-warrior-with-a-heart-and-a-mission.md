@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515460777875/Amas
 twitterauto = "Thanks to sponsor @greysunpress for this week's free read, from @raven_oak's fantasy epic, Amaskan's Blood."
 facebookauto = "Thanks to sponsor Grey Sun Press for this week's free read, from Raven Oak's fantasy epic, Amaskan's Blood. "
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/amaskans-blood"]
+books = ["books/amaskans-blood.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1515460762224/Amaskan's%20Blood_150.jpeg)</p>
 The fabulous [Grey Sun Press](https://www.facebook.com/greysunpress/) is this week's sponsor, and they're sharing a meaty chapter from the fast-paced fantasy epic *Amaskan's Blood* by Seattle author Raven Oak. The first book in the Boahim series, *Amaskan's Blood* introduces a young woman warrior with a bit of a problem: she's miles from home and from her people, tangled in political intrigue, and suddenly unsure that even her name is her own. The e-book is [available on Amazon.com this week for just $0.99](https://www.amazon.com/Amaskans-Blood-Boahim-Book-1-ebook/dp/B00P2ZSGUE/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) — a crazy small amount of money for this much fun.

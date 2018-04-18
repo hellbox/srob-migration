@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Feeling investigative? Check out this week's articles on garbage wars, homeless relocation, and @DHWallace's mother."
 facebookauto = "Feeling investigative? Check out this week's articles on New York's garbage wars, homeless relocation, and novelist Daniel Wallace's mother."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

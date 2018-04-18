@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507874813872/flin
 twitterauto = "Your final @litcrawlseattle itinerary takes you around the world."
 facebookauto = "Your final Lit Crawl Seattle itinerary takes you around the world without ever leaving Seattle."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

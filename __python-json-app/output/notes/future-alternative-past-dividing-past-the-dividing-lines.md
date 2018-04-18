@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In the Future Alternative Past, @nisishawl looks at books by @darylwriterguy @ChristopherRowe, and @C_Henry_Author."
 facebookauto = "It's that time: Nisi Shawl's Future Alternative Past is here, and it's a good one. Cons, sub-sub-genres, and reviews of Christina Henry, Christopher Rowe, and Daryl Gregory. "
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

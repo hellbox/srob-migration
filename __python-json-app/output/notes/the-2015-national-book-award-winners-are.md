@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Don't forget: #NBAwards-nominated author Hanya Yanagihara reads at @ubookstorereads on Friday."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/national-book-awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/national-book-awards.md"]
 notes_about = ""
-books = ["books/between-the-world-and-me"]
+books = ["books/between-the-world-and-me.md"]
 +++
 If you didn't [watch the livestream](http://seattlereviewofbooks.com/notes/2015/11/19/national-book-awards-ceremony-live-stream/), here's who won the National Book Awards this year:
 

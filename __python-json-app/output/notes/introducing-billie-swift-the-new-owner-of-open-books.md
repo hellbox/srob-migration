@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461736249331/open
 twitterauto = "Here's our exclusive interview with new Open Books owner Billie Swift."
 facebookauto = "The new owner of Open Books, Billie Swift, sat down to chat with us about the future of everyone's favorite poetry-only bookstore."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/open-books", "tags/billie-swift"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/open-books.md", "tags/billie-swift.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Your Thanksgiving week in literary events kicks off with a wine-centric reading tonight @ElliottBayBooks. "
 facebookauto = "We've got a bunch of neat events for your Thanksgiving week, including a book club, a wine expert, a brain expert, and therapy dogs that help kids learn how to read."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
-books = ["books/prison-island", "books/fup", "books/we-should-all-be-feminists"]
+books = ["books/prison-island.md", "books/fup.md", "books/we-should-all-be-feminists.md"]
 +++
 **MONDAY** [Elliott Bay Book Company](http://www.elliottbaybook.com/event/madeline-puckette) kicks off your week in readings with an event that might improve your Thanksgiving dinner:  Sommelier **Madeline Puckette** reads from her book *Wine Folly: The Essential Guide to Wine* tonight. If you ask nicely, she will probably tell you what wine goes best with turkey and stuffing.
 

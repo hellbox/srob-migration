@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our event of the week is N.K. Jemisin reading @SPLBuzz for @ClarionWest."
 facebookauto = "N.K. Jemisin's science fiction is very interested in oppression, and struggle, and triumphing even when society is against you."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.co/webhook-uploads/1495903100964/seatt
 twitterauto = "Seattle Writing Prompts looks up at the deco facade of the Seattle Tower"
 facebookauto = "Seattle Writing Prompts looks up at the deco facade of the Seattle Tower"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

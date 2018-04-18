@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503557428249/diar
 twitterauto = "When Sherman Alexie reads, you had better show up."
 facebookauto = "When Sherman Alexie reads, you had better show up. Especially now."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
-books = ["books/absolutely-true-diary-of-a-part-time-indian", "books/you-dont-have-to-say-you-love-me"]
+books = ["books/absolutely-true-diary-of-a-part-time-indian.md", "books/you-dont-have-to-say-you-love-me.md"]
 +++
 Sherman Alexie published a letter to his fans on Facebook in mid-July. It was about his book tour for his memoir about his mother’s death, *You Don’t Have to Say You Love Me*. Alexie was being haunted by his mother, Lillian. Alexie interpreted these repeated visits — in the form of coincidences and visions and emotional distress — as a sign. “I am supposed to stop this book tour… I am cancelling all of my events in August and I will be cancelling many, but not all, of my events for the rest of the year,” Alexie wrote.
 

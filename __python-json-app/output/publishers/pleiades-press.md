@@ -10,5 +10,5 @@ last_updated = "2017-09-28T22:12:00-07:00"
 preview_url = "04bfedc6-41bc-06be-1c73-4cc851c82640"
 name = "Pleiades Press"
 title = "Pleiades Press"
-books_by_this_publisher = ["books/a-lesser-love", "books/in-between"]
+books_by_this_publisher = ["books/a-lesser-love.md", "books/in-between.md"]
 +++

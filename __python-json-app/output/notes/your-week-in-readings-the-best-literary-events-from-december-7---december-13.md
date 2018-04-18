@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480477044692/told
 twitterauto = "Your week in reading includes histories of Pearl Harbor and @fantagraphics, plus @rabihalameddine! "
 facebookauto = "Your Week in Readings features our first book club discussion, books about Pearl Harbor and Fantagraphics Books, as well as a reading from Rabih Alameddine and much, much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/arundel-books", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/arundel-books.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

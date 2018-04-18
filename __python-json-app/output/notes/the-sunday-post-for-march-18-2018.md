@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We read great articles this week on writing sober, talking to satellites, and JG Ballard. You should read them too!"
 facebookauto = "We read great articles this week on writing sober, talking to satellites, and the, ahem, great responsibility that comes with great wealth. We think you should read them too! "
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

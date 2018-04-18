@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What's the bookselling secret weapon at Queen Anne Book Company? It's the back patio."
 facebookauto = "What's the bookselling secret weapon at Queen Anne Book Company? It's the back patio."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/queen-anne-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/queen-anne-book-company.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in a very off-topic Help Desk: \"Buck up and compost, Joe.\""
 facebookauto = "Today in a very off-topic Help Desk: \"Buck up and compost, Joe.\""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/environment"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/environment.md"]
 notes_about = ""
 books = ""
 +++

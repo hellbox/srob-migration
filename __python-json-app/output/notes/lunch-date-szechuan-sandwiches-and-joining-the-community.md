@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "A new Lunch Date! Martin takes @loriamay's book 'The Write Crowd' out for a Szechuan sandwich."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/lunch-date"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/lunch-date.md"]
 notes_about = ""
-books = ["books/the-write-crowd"]
+books = ["books/the-write-crowd.md"]
 +++
 <p class="intro">(Once in a while, Paul takes a new book to lunch and gives it a half an hour or so to grab his attention. Lunch Date is his judgment on that speed-dating experience, but today, Martin decided it was time to jump in.)</p>
 

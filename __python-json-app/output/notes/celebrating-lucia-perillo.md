@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "We're publishing Lucia Perillo poems every Tuesday in December, thanks to @CopperCanyonPrs."
 facebookauto = "We're publishing Lucia Perillo poems every Tuesday in December, thanks to Copper Canyon Press."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/poetry"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/poetry.md"]
 notes_about = ""
-books = ["books/time-will-clean-the-carcass-bones"]
+books = ["books/time-will-clean-the-carcass-bones.md"]
 +++
 <a href="http://www.seattlereviewofbooks.com/notes/2016/10/24/lucia-perillo-1956-2016/" title="The Seattle Review of Books - Lucia Perillo, 1956 - 2016">Lucia Perillo died</a> on October 16 of this year. A MacArthur Genius who was shortlisted for the Pulitzer, Perillo was a poet of crafted precision, observation, and wit. John W Marshall, previous owner of Open Books, <a href="http://www.seattlereviewofbooks.com/reviews/regarding-lucia-perillo/" title="The Seattle Review of Books - Regarding Lucia Perillo">eulogized her for us, in this review</a>.
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Shopping alert: all used books are 40 percent off at @ThirdPlaceBooks all weekend long."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/third-place-books-lake-forest-park", "tags/third-place-books-ravenna"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/third-place-books-lake-forest-park.md", "tags/third-place-books-ravenna.md"]
 notes_about = ""
 books = ""
 +++

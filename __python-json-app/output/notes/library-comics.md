@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "A comic book about library science scratches all our book-nerd itches at once."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/librarians"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/librarians.md"]
 notes_about = ""
-books = ["books/prison-island"]
+books = ["books/prison-island.md"]
 +++
 At her day job, Seattle cartoonist Colleen Frakes [of *Prison Island* fame](http://seattlereviewofbooks.com/reviews/journey-to-prison-island/)is a librarian. She combined those two worlds in [a (PDF) comic about information literacy and librarian science](http://libguides.seattleu.edu/ld.php?content_id=21567858). There are no fistfights or [controversial twists](http://seattlereviewofbooks.com/notes/2016/06/02/thursday-comics-hangover-coming-back-to-captain-america/), but you might just learn something about how to properly source a paper.

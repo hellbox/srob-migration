@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Geekwire has published the blueprints of that rumored University Village Amazon bookstore."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon", "tags/university-village"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md", "tags/university-village.md"]
 notes_about = ""
 books = ""
 +++

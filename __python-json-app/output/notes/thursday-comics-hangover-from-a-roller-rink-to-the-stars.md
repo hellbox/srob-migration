@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513830198165/Scre
 twitterauto = "Natalie Dupille's comics are fun, enthusiastic, and obsessed with making science fun."
 facebookauto = "Natalie Dupille's comics are fun, enthusiastic, and obsessed with making science fun."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

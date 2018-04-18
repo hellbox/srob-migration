@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455211926718/SRoB
 twitterauto = "It's the amazing @judyblume, for @studiochristine's Portrait Gallery."
 facebookauto = "Squee! Judy Blume is Christine Marie Larsen's subject for this week's Portrait Gallery."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463200600707/thun
 twitterauto = "Congratulations to the winners of the 2017 Washington State Book Awards!"
 facebookauto = "Congratulations to the winners of the 2017 Washington State Book Awards!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/washington-state-book-awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/washington-state-book-awards.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447363918946/SRoB
 twitterauto = "This week for Portrait Gallery, @studiochristine looks at Indian ornithologist and naturalist Salim Ali. "
 facebookauto = "Christine Larsen painted ornithologist and naturalist Salim Ali for today's Portrait Gallery. Today would have been his 118th birthday."
 make_image_tweet = "False"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

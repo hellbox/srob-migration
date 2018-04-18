@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/donna-miscolta"]
-tags_notes = ["tags/events", "tags/event"]
+notes_byline = ["writers/donna-miscolta.md"]
+tags_notes = ["tags/events.md", "tags/event.md"]
 notes_about = ""
 books = ""
 +++

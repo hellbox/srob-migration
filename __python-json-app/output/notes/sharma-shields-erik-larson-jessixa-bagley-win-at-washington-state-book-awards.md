@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Erik Larson, Sharma Shields, and other writers won at the Washington State Book Awards this weekend."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/washington-state-book-awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/washington-state-book-awards.md"]
 notes_about = ""
 books = ""
 +++

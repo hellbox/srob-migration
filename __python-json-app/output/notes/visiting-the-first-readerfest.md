@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505076940528/IMG_
 twitterauto = "We dropped in at the first @readerfest, and found a lot of heart on a cloudy Seattle Saturday."
 facebookauto = "We dropped in at the first Readerfest, and found a lot of heart on a cloudy Seattle Saturday."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/readerfest"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/readerfest.md"]
 notes_about = ""
 books = ""
 +++

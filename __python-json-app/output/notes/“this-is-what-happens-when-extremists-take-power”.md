@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487957771698/Whoe
 twitterauto = "Australian author detained at LAX, says she'll likely never visit the US again."
 facebookauto = "Australian kids' book author Mem Fox was detained at LAX earlier this month. Fox has visited the US over a hundred times in her career, but she says now she will likely never return."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481264572552/grin
 twitterauto = "This week brings events for kids and a reading from Donna Miscolta."
 facebookauto = "Lots of fun holiday readings for kids this week, along with other literary events."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
-books = ["books/hola-and-goodbye"]
+books = ["books/hola-and-goodbye.md"]
 +++
 <p class="noindent"><h5>**Wednesday December 14th: Lit Fix and Origin Stories**</h5></p> 
 See our Literary Event of the Week column for more details.

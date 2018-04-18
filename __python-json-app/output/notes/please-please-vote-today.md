@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Please, please, please vote today. We've got some book-themed voting inspiration for you."
 facebookauto = "Please, please, please vote today. We've got some book-themed voting inspiration for you."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/politics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/politics.md"]
 notes_about = ""
-books = ["books/ms-marvel-volume-1-no-normal"]
+books = ["books/ms-marvel-volume-1-no-normal.md"]
 +++
 Thanks to Seattle comics writer G. Willow Wilson for writing a *Ms. Marvel* panel that exactly sums up our feelings about the day:
 

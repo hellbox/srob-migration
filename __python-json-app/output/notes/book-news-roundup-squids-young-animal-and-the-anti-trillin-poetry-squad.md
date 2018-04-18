@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460081575727/ceph
 twitterauto = "Squids, Young Animal, and the anti-Trillin poetry squad. "
 facebookauto = "Today's Book News Roundup includes a cephalopod-themed writing contest, a new line of comics announced at Emerald City Comicon last night, and some response poems inspired by Calvin Trillin's racially insensitive New Yorker poem. "
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/hugo-house", "tags/emerald-city-comicon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/hugo-house.md", "tags/emerald-city-comicon.md"]
 notes_about = ""
 books = ""
 +++

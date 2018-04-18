@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504585076563/cust
 twitterauto = "Comics have taken up the blue-collar stories that modern literary fiction has mostly abandoned."
 facebookauto = "Comics have taken up the blue-collar stories that modern literary fiction has mostly abandoned."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/drawn-&amp;-quarterly"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/drawn-&amp;-quarterly.md"]
 notes_about = ""
 books = ""
 +++

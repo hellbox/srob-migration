@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457454564750/Scre
 twitterauto = "The Tuesday Poem today is from Sierra Golden, titled Triangulation"
 facebookauto = "The Tuesday Poem today is from Sierra Golden, titled Triangulation"
 make_image_tweet = "True"
-notes_byline = ["writers/sierra-golden"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/sierra-golden.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

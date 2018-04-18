@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492052525079/list
 twitterauto = "Thomas Frank reads from Listen Liberal at @THSEA on Tuesday, April 18th. We took the book out for a sandwich."
 facebookauto = "Thomas Frank reads from Listen Liberal at Town Hall Seattle on Tuesday, April 18th. We took the book out for a sandwich."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md", "tags/town-hall-seattle.md"]
 notes_about = ""
-books = ["books/listen-liberal"]
+books = ["books/listen-liberal.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1492052801885/listenliberal250.jpg)</p>
 

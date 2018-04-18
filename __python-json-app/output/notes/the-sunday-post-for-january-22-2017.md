@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Post-inauguration, reactions from @DanRather, @MargaretAtwood, and the science resistance front\u2026in the Sunday Post"
 facebookauto = "After the inauguration, an impassioned response from Dan Rather, a call to action from Margaret Atwood, and strong words from science \u2014 plus a few good rants for good measure. Enjoy."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

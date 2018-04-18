@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Book News Roundup brings a couple of neat Seattle events and some bad news about the publishing industry."
 facebookauto = "We have news of a couple neat Seattle events and some bad news about the publishing industry in today's Book News Roundup."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/bureau-of-fearless-ideas"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/bureau-of-fearless-ideas.md"]
 notes_about = ""
 books = ""
 +++

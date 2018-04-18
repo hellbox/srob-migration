@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490931176670/Ghos
 twitterauto = "Your week in readings includes two @HugoHouse events and @SeattleGhosts."
 facebookauto = "This week brings you a couple of big Hugo House events and a big party to celebrate the Ghosts of Seattle Past book launch."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

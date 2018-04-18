@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512449286494/Scre
 twitterauto = "This week's poem from Poet in Residence @writer_sejones is called \"Therapy\""
 facebookauto = "This week's poem from Poet in Residence Sarah Jones is called \"Therapy\""
 make_image_tweet = "False"
-notes_byline = ["writers/sarah-jones"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/sarah-jones.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

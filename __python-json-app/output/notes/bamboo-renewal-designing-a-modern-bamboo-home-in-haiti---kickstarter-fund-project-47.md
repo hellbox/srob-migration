@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480176229891/ab2a
 twitterauto = "The Kickstarter Fund backs a project to build shelters in Haiti, by @swoon"
 facebookauto = "The Kickstarter Fund backs a project to build shelters in Comiers, Haiti. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

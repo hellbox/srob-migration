@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Tonight's featured event is a roundtable on revision happening @HugoHouse. "
 facebookauto = "Tonight's featured event is a roundtable on revision happening at Hugo House. Go learn the (secretly) most important part of writing."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

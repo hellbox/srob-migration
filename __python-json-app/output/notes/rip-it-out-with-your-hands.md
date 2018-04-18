@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1514185113460/Scre
 twitterauto = "It\u2019s our annual Christmas Day ghost story, by @hellbox. Step carefully. Don't go in alone."
 facebookauto = "It\u2019s our annual Christmas Day ghost story. Be careful when you read it. Don't go in alone."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/christmas-ghost-story"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/christmas-ghost-story.md"]
 notes_about = ""
 books = ""
 +++

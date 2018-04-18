@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Donald Trump likes to cap off his speeches by reading a poem. What does that poem have to teach us?"
 facebookauto = "Donald Trump likes to cap off his speeches by reading a poem. What does that poem have to teach us?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump", "tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

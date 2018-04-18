@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518072896360/9781
 twitterauto = "Where are the SF schools? And reviews of @matthaig1 and @SueBurkeSpain in @NisiShawl's Future Alternative Past."
 facebookauto = "Where are the SF schools? That and reviews of Matt Haig, Sue Burke, and more in Nisi Shawl's Future Alternative Past."
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Rahawa Haile's short story picks this week feature: @laurenfgoodman, @kristinemuslim, and @Cyn_Vargas, among others."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md"]
 notes_about = ""
 books = ""
 +++

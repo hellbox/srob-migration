@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Self-published"
 title = "Self-published"
-books_by_this_publisher = ["books/tales-from-amazon-1-3", "books/the-ultimate-horatio-alger-novel", "books/sea", "books/the-important-business-ladies-guide-to-important-business-for-ladies", "books/ideas-for-short-comics", "books/dana-scully-is-always-right", "books/hey-frankenstein", "books/georges-run", "books/hitched", "books/greetings-from-cat-city-b--w-the-gluten-free-hobo", "books/cat-city", "books/i-[heart]-twin-peaks", "books/nightmare", "books/revolt-they-say", "books/white-lady-black-sons", "books/shoutyourabortion"]
+books_by_this_publisher = ["books/tales-from-amazon-1-3.md", "books/the-ultimate-horatio-alger-novel.md", "books/sea.md", "books/the-important-business-ladies-guide-to-important-business-for-ladies.md", "books/ideas-for-short-comics.md", "books/dana-scully-is-always-right.md", "books/hey-frankenstein.md", "books/georges-run.md", "books/hitched.md", "books/greetings-from-cat-city-b--w-the-gluten-free-hobo.md", "books/cat-city.md", "books/i-[heart]-twin-peaks.md", "books/nightmare.md", "books/revolt-they-say.md", "books/white-lady-black-sons.md", "books/shoutyourabortion.md"]
 +++

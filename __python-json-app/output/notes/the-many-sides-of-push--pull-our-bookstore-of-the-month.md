@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452664956341/Push
 twitterauto = "Push/Pull is more than a bookstore, a gallery, and a library."
 facebookauto = "Push/Pull is more than a bookstore, it's also a gallery. And it's more than a gallery, it's also a library. And it's more than a library, it's also a...pinball arcade?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/push--pull"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/push--pull.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2017-08-05T11:33:00-07:00"
 preview_url = "ca8d5ea2-a22b-5276-c927-e699f9b4227e"
 name = "Spirituality University Press"
 title = "Spirituality University Press"
-books_by_this_publisher = ["books/the-art-of-trapeze"]
+books_by_this_publisher = ["books/the-art-of-trapeze.md"]
 +++

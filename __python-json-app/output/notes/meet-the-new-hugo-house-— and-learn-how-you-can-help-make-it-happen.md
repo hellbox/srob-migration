@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1516498957364/hugo
 twitterauto = "Here are the plans for the new @HugoHouse. It's time to make this happen!"
 facebookauto = "The Hugo House has released the design for its new space. And now they're asking your help to make the designs a reality."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

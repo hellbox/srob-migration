@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Why can't Dick Lit authors write normal books like everyone else?"
 facebookauto = "\"I feel a bit bad now, because I just looked at my bookshelf and almost all the books are by normal authors. I should really get a couple of books by male authors to even it out.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/sexism", "tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/sexism.md", "tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

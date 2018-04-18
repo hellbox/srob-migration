@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're cautiously optimistic about the relaunch of the Evergreen Review from @orbooks."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/or-books", "tags/evergreen"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/or-books.md", "tags/evergreen.md"]
 notes_about = ""
 books = ""
 +++

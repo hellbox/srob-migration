@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What do you do if you meet a favorite author and they turn out to suck? Should you stop meeting your idols?"
 facebookauto = "Dear Cienna: Once, I met an author I loved and it was a total letdown. She was narcissistic and bored by all the people who came out to hear her read, and I disliked her so much it made my skin crawl. Now I can't enjoy her books because it reminds me of how unpleasant she was. Should I bother going to readings anymore? I don't want to lose any more favorite authors, and the risk of them being jerks is scaring me away."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

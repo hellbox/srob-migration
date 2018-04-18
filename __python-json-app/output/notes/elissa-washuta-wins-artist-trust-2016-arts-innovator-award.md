@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Congratulations to @misswashuta, who won one of this year's two Arts Innovator Awards from @artisttrust!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/ahamefule-j-oluo"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/ahamefule-j-oluo.md"]
 notes_about = ""
-books = ["books/starvation-mode", "books/my-body-is-a-book-of-rules"]
+books = ["books/starvation-mode.md", "books/my-body-is-a-book-of-rules.md"]
 +++
 This is a big one: Seattle author [Elissa Washuta](http://seattlereviewofbooks.com/authors/elissa-washuta/) is receiving $25,000 in no-strings-attached funds for the [Artist Trust 2016 Arts Innovator Award](http://artisttrust.org/index.php/award-winners/current#arts_innovator_award). (The other AIA winner this year is performer, writer, and musician Ahamefule J. Oluo, who will also probably write a book one day.) It's been a big year for Washuta, who also recently [won the Fremont Bridge Writer-in-Residence title](http://seattlereviewofbooks.com/notes/2016/04/26/elissa-washuta-is-your-first-fremont-bridge-writer-in-residence/). 
 

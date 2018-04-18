@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here's all the book news you might have missed over the holiday break:"
 facebookauto = "Here's all the book news you might have missed over the holiday break:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/south-seattle-emerald", "tags/milo-yiannopoulos"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/south-seattle-emerald.md", "tags/milo-yiannopoulos.md"]
 notes_about = ""
 books = ""
 +++

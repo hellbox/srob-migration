@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your Week in Readings includes a Hollywood-friendly thriller and a super-cheap pop-up bookstore."
 facebookauto = "Your Week in Readings includes a Hollywood-friendly thriller, a super-cheap pop-up bookstore, and a book about why Scandinavians get it right."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

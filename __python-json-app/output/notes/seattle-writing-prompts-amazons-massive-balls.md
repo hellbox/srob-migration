@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507397094060/IMG_
 twitterauto = "Seattle Writing Prompts takes a stroll past Amazon's big balls."
 facebookauto = "Seattle Writing Prompts takes a stroll past Amazon's big balls."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

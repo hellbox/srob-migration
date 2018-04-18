@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Folks, @clairevaye's @Tin_House essay about the \u201clittle white man deep inside of all of us\u201d is required reading."
 facebookauto = "Have you read \"On Pandering,\" the essay by Claire Vaye Watkins that blew up the literary internet? We have, and we love it! What did you think?"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

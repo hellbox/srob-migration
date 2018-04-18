@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Want to help libraries affected by flooding in Louisiana? Donate here:"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/disaster", "tags/library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/disaster.md", "tags/library.md"]
 notes_about = ""
 books = ""
 +++

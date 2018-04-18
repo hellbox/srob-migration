@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Go luxuriate in the wonderful too-muchness that is the 2015 @LitCrawlSeattle schedule. "
 facebookauto = "The 2015 Lit Crawl schedule has been released, and it's ridiculously, gloriously overstuffed. Go take a few minutes to soak it all in. "
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl", "tags/the-james-franco-review", "tags/spartan", "tags/hedgebrook"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md", "tags/the-james-franco-review.md", "tags/spartan.md", "tags/hedgebrook.md"]
 notes_about = ""
 books = ""
 +++

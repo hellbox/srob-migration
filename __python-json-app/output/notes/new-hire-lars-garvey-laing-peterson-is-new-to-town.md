@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"A lot of my early hopes [about Seattle] have already come true.\" We interview an author who's new to town."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lars-garvey-laing-peterson", "tags/kristen-millares-young", "tags/brian-mcguigan", "tags/hugo-house", "tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lars-garvey-laing-peterson.md", "tags/kristen-millares-young.md", "tags/brian-mcguigan.md", "tags/hugo-house.md", "tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

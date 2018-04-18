@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463372217996/geek
 twitterauto = "We all miss Katherine Dunn. @SharmaShields offers up some authors who are carrying on Geek Love's weird legacy."
 facebookauto = "Katherine Dunn's death left us with a powerful need to find more weird fiction. Here are some authors who are carrying on the Geek Love legacy."
 make_image_tweet = "False"
-notes_byline = ["writers/sharma-shields"]
-tags_notes = ["tags/death", "tags/fiction"]
+notes_byline = ["writers/sharma-shields.md"]
+tags_notes = ["tags/death.md", "tags/fiction.md"]
 notes_about = ""
-books = ["books/geek-love"]
+books = ["books/geek-love.md"]
 +++
 I came to *Geek Love* late in life — just a couple of years ago when I was 36, as I tackled edits on my own novel. I’d heard of Katherine Dunn for years, of course, but I was totally surprised by the weirdness in her work. Everything in *Geek Love* felt like a madwoman’s treasure hunt, complete with freaks, carnivals, flippers, Siamese twins, fetish strip clubs, and — yowzah — limb amputation. Here was a humpbacked narrator, powerful, vengeful, anything but a victim, and her diabolical family of misfits, humanized, metaphorical, as infinite in their weirdness as they were infinite in their reflection of us and our fragile relationship with normalcy. I loved the novel so much that I immediately went back and read it a second time, something I’ve only ever done with two other favorite books, *Haunting of Hill House* and *Dubliners*.
 

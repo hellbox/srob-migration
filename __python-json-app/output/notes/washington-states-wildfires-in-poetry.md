@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Washington Poet Laureate @EAustenPoet is publishing poetry about wildfires. Here's why that's important."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poet-laureate", "tags/wildfire"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poet-laureate.md", "tags/wildfire.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Twitter's brevity is the soul of its utility."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/twitter", "tags/constraints"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/twitter.md", "tags/constraints.md"]
 notes_about = ""
 books = ""
 +++

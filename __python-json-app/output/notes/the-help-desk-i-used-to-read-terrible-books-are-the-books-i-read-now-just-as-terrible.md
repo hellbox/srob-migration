@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1497026663097/Figh
 twitterauto = "You used to read really embarrassing books. What if the books you read now are just as embarrassing?"
 facebookauto = "You probably used to read really embarrassing books. Here's a horrifying thought: what if the books you read now are just as embarrassing? Cienna Madrid investigates."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

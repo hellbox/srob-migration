@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Do you want to support us? Here's a very simple way!"
 facebookauto = "Do you want to support us? Here's a very simple way!"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

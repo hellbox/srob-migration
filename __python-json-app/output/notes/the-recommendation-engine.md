@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "The thing that sets @SeattleMystery apart? The staff's outstanding personalized recommendations."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/seattle-mystery-bookshop"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/seattle-mystery-bookshop.md"]
 notes_about = ""
-books = ["books/three-bags-full", "books/the-curious-incident-of-the-dog-in-the-night-time", "books/the-death-and-life-of-bobby-z"]
+books = ["books/three-bags-full.md", "books/the-curious-incident-of-the-dog-in-the-night-time.md", "books/the-death-and-life-of-bobby-z.md"]
 +++
 You can’t stay in business for as long as (our September Bookstore of the Month) Seattle Mystery Bookshop has without becoming really, really good at a thing or two. The most readily apparent sign of the bookstore’s excellence is in its selection, which I [wrote about last week](http://seattlereviewofbooks.com/notes/2015/09/02/our-september-bookstore-of-the-month-is-seattle-mystery-bookshop/). The selection is really quite impressive — the shelves of Seattle Mystery Bookshop display a stock that is comprehensive enough to please the most deeply OCD mystery nerd and yet welcoming enough to appeal to a novice browser who has never before considered reading a mystery novel.
 

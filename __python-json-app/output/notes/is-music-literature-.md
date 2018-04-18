@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Is music literature?  \u00af\\_(\u30c4)_/\u00af"
 facebookauto = "Should music be considered alongside literature, or as literature?  \u00af\\_(\u30c4)_/\u00af"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/nobel-prize", "tags/literature", "tags/music"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/nobel-prize.md", "tags/literature.md", "tags/music.md"]
 notes_about = ""
 books = ""
 +++

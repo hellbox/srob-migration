@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1454092559845/12d6
 twitterauto = "Does @fantagraphics make the best books for stoners?"
 facebookauto = "Today, maybe the most useful Help Desk of all time: what should you do if you love books and you love pot, but you just can't read while high?"
 make_image_tweet = "True"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/fantagraphics", "tags/comics", "tags/marijuana"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/fantagraphics.md", "tags/comics.md", "tags/marijuana.md"]
 notes_about = ""
 books = ""
 +++

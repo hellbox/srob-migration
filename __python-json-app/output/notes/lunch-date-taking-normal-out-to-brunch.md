@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481615928610/norm
 twitterauto = "We took Warren Ellis's new novella out for brunch at Roxy's Diner."
 facebookauto = "We took Warren Ellis's new novella out for brunch at Roxy's Diner."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date", "tags/science-fiction"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md", "tags/science-fiction.md"]
 notes_about = ""
 books = ""
 +++

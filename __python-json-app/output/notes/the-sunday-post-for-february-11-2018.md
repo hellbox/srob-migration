@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This week's Sunday picks courtesy of @TheBreadloaf, @lenizumas, @molly__o, and @edyong209!"
 facebookauto = "This week's Sunday picks: Kristen Peterson on working at a Vegas gas station, Leni Zumas on motherhood, Molly Osberg on health care and almost dying -- and Ed Yong on correcting gender bias in his own journalism. "
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

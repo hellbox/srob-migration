@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here's a proposal for how to fix publishing's broken blurb system."
 facebookauto = "Here's a proposal for how to fix publishing's broken blurb system."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/blurbs"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/blurbs.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/merryweather-books", "tags/pegasus-book-exchange", "tags/west-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/merryweather-books.md", "tags/pegasus-book-exchange.md", "tags/west-seattle.md"]
 notes_about = ""
 books = ""
 +++

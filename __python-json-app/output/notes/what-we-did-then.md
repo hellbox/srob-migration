@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490931866257/what
 twitterauto = "What We Do Now was published to prepare us for Trump's election. It feels like a time capsule."
 facebookauto = "What We Do Now was published to prepare us for Trump's election. It feels like a time capsule."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

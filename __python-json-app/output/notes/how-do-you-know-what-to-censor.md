@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "About that \"censorship\" issue with @ABRAMSbooks"
 facebookauto = "About that \"censorship\" issue with Abrams Books."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/censorship"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/censorship.md"]
 notes_about = ""
 books = ""
 +++

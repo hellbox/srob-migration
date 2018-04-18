@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466755102281/conf
 twitterauto = "We all need booksellers to be matchmakers between people and books."
 facebookauto = "We all need booksellers to be matchmakers between people and books."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md"]
 notes_about = ""
-books = ["books/ancillary-justice"]
+books = ["books/ancillary-justice.md"]
 +++
 You can have the best-stocked bookstore in the world, but without booksellers it would be nearly useless. In fact, a bookstore exists in that space where the booksellers and literature intersect. We need them to direct us to books — classics, rarities, backlist, brand-new bestsellers — and explain why we should be interested in them.
 

@@ -10,5 +10,5 @@ last_updated = "2015-09-24T23:13:00-07:00"
 preview_url = "277d38f4-3bb5-3571-ecfb-848dc3c8f467"
 name = "Pharos Editions"
 title = "Pharos Editions"
-books_by_this_publisher = ["books/the-land-of-plenty"]
+books_by_this_publisher = ["books/the-land-of-plenty.md"]
 +++

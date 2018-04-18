@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Facebook wants you to watch more video and stop reading long pieces of writing. What do you want?"
 facebookauto = "Facebook wants you to watch more video and stop reading long pieces of writing. BuzzFeed just wants your attention. What do you want?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/internet", "tags/buzzfeed", "tags/facebook"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/internet.md", "tags/buzzfeed.md", "tags/facebook.md"]
 notes_about = ""
 books = ""
 +++

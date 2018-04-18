@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493140049195/tumb
 twitterauto = "Check out our own @paulconstant's guest-appearance on the fabulous @drunkbookseller podcast!"
 facebookauto = "Check out our own Paul Constant's guest-appearance on the fabulous Drunk Booksellers podcast!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/self-promotion", "tags/drunk-booksellers"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/self-promotion.md", "tags/drunk-booksellers.md"]
 notes_about = ""
 books = ""
 +++

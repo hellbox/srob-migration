@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1510949205714/Ste
 twitterauto = "Grimdark fans, don't miss the sample chapter from sponsor Allan Batchelder's epic Steel, Blood & Fire!"
 facebookauto = "Grimdark fans, don't miss the sample chapter from sponsor Allan Batchelder's epic Steel, Blood & Fire!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/steel-blood-&-fire"]
+books = ["books/steel-blood-&-fire.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1510949188255/Steel%20Blood%20and%20Fire_150.jpeg)</p>
 If you like epic dark fantasy, stop reading this post and [go immediately to the sample chapter](http://www.seattlereviewofbooks.com/sponsorships/) from sponsor Allen Batchelder's *Steel, Blood & Fire*. You'll find the not-so-heroic hero Tarmun Vykers sitting in the stocks, at the mercy of an entire village he's mysteriously offended. It's an irresistible opening, and so are the cameos by Aoife, a woman on a secret and possibly deadly mission, and Long Pete, a man whose destiny (at least for today) lies at the bottom of a flask. The first book in a series called Immortal Treachery, *Steel, Blood & Fire* is a fast-paced and gripping story, and we're delighted to share a taste with our readers.

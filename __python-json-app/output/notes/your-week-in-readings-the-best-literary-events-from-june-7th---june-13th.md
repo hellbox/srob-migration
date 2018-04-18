@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496427566388/manw
 twitterauto = "Your week in readings begins tonight @ThirdPlaceBooks Seward Park with a book about Vladimir Putin."
 facebookauto = "Your Week in Readings includes Neal Stephenson, a talk about health care, a(n unfortunately timely) book club discussion of Vladimir Putin, and much more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/reading-through-it", "tags/chin-music-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/town-hall-seattle.md", "tags/reading-through-it.md", "tags/chin-music-press.md"]
 notes_about = ""
 books = ""
 +++

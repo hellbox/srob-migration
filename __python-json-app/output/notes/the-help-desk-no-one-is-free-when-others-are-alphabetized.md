@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498848962735/51D0
 twitterauto = "Is alphabetization a tool of the patriarchy? @ciennam explains it all in this week's Help Desk."
 facebookauto = "\"The perception that we need the 'alphabet' in order to tame our collections is socially structured and enforced by the patriarchy. RESIST.\""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

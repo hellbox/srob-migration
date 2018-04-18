@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Relegation Books"
 title = "Relegation Books"
-books_by_this_publisher = ["books/the-loved-ones"]
+books_by_this_publisher = ["books/the-loved-ones.md"]
 +++

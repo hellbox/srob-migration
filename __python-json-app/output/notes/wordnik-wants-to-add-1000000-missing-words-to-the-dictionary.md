@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Go @wordnik! They're shooting to add 1,000,000 words to the dictionary through their new @kickstarter"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/wordnik", "tags/words", "tags/dictionary"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/wordnik.md", "tags/words.md", "tags/dictionary.md"]
 notes_about = ""
 books = ""
 +++

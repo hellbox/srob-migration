@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/ralph-nader", "tags/amy-devereaux", "tags/oddities"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/ralph-nader.md", "tags/amy-devereaux.md", "tags/oddities.md"]
 notes_about = ""
 books = ""
 +++

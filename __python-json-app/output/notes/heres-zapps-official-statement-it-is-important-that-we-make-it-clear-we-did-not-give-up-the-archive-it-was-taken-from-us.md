@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "ZAPP 's statement: \"it is important that we make it clear: we did not give up the archive, it was taken from us.\""
 facebookauto = "ZAPP just issued a statement on their zine library collections: \"it is important that we make it clear: we did not give up the archive, it was taken from us.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/zapp", "tags/hugo-house", "tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/zapp.md", "tags/hugo-house.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

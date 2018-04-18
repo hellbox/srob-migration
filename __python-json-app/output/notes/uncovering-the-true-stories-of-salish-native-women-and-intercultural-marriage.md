@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498447990126/9780
 twitterauto = "An interview with @Candace918. Her book Peace Weavers, from @wsu_press, covers untold stories of 4 Salish women."
 facebookauto = "Candace Wellman's new book Peace Weavers tells untold histories of four Salish women, and talks about some uncomfortable truths in the history of Bellingham, and northern Washington."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
-books = ["books/peace-weavers"]
+books = ["books/peace-weavers.md"]
 +++
 <div class="intro"><p>WSU Press just published the first book by Bellingham-based historian Candace Wellman. The full title gives you an idea of the topic: _Peace Weavers: Uniting the Salish Coast Through Cross-Cultural Marriages_. It's a book that follows the life stories of four indigenous women who married across cultural lines, making families with pioneer men.</p>
 

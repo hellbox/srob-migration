@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456904008400/open
 twitterauto = "The owner of Open Books is retiring. Anyone want to buy a poetry bookstore?"
 facebookauto = "The owner of Open Books, John Marshall, is retiring from bookselling. He's looking for someone to take over ownership of Open Books. So, uh, want to own one of the two poetry bookstores in America?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/open-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/open-books.md"]
 notes_about = ""
 books = ""
 +++

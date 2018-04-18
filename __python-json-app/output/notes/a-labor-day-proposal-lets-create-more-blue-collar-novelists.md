@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465017392855/lika
 twitterauto = "This Labor Day, let's try to imagine a world where authors are paid decent salaries for their labor."
 facebookauto = "This Labor Day, let's try to imagine a world where authors are paid decent salaries for their labor."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/labor"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/labor.md"]
 notes_about = ""
-books = ["books/windswept", "books/like-a-boss"]
+books = ["books/windswept.md", "books/like-a-boss.md"]
 +++
 It's a well-known fact that America moved its celebration of labor from May 1st, when the rest of the world observes it, to September. The reason why is clear:  government leaders were concerned that celebrating labor on May Day would encourage socialism. Because of that shift in date, Labor Day is celebrated as the early end of summer in the US. Americans barely acknowledge workers at all over Labor Day weekend — especially if we’re lucky enough to get the weekend off. (Shout-out to all you booksellers working today. We see you.) 
 

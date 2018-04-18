@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507746609198/Fant
 twitterauto = "Remember the 1990s? Boy, this comic sure does."
 facebookauto = "Remember the 1990s? Boy, this comic sure does."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics-bookstore-&amp;-gallery"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/fantagraphics-bookstore-&amp;-gallery.md"]
 notes_about = ""
 books = ""
 +++

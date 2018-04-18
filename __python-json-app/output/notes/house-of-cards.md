@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Oh, look. More live-action superhero adaptations. Hooray?"
 facebookauto = ""
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/science-fiction"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/science-fiction.md"]
 notes_about = ""
 books = ""
 +++

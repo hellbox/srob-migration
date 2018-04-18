@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458877102295/agno
 twitterauto = "Your week in readings begins tonight with a pair of international greats @elliottbaybooks."
 facebookauto = "Your week in readings includes books you can eat, a pair of well-respected literary authors, and an agnostic's manifesto."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

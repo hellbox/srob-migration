@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A bookstore owner wants to carry an alt-right monster's book. Should the booksellers resist?"
 facebookauto = "A bookstore owner wants to carry an alt-right monster's book. Should the booksellers resist?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/milo-yiannopoulos", "tags/independent-bookstores"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/milo-yiannopoulos.md", "tags/independent-bookstores.md"]
 notes_about = ""
 books = ""
 +++

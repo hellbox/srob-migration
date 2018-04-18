@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488582827950/vagr
 twitterauto = "Our event of the week is Kevin Craft's book launch party @openpoetrybooks on Friday."
 facebookauto = "Kevin Craft launches his new book into the word at Open Books on Friday. You'll want to be there."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/open-books", "tags/poetry-northwest"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/open-books.md", "tags/poetry-northwest.md"]
 notes_about = ""
 books = ""
 +++

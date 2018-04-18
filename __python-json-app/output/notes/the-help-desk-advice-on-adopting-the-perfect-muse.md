@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our latest advice column explores the ethics of adopting a child to use as a muse for your next novel."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

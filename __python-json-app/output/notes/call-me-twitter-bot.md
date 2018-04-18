@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Some days, only Herman Melville can interpret the news correctly."
 facebookauto = "Some days, only Herman Melville can interpret the news correctly."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/twitter"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/twitter.md"]
 notes_about = ""
-books = ["books/moby-dick"]
+books = ["books/moby-dick.md"]
 +++
 Are you following the *Moby Dick* bot on Twitter? It frequently posts random tweet-sized quotes from the text of *Moby Dick*, and sometimes it feels eerily appropriate for the day and time. Or maybe it's just that every tweet seems appropriate for the Trump administration. 
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Who will win this year's Nobel Prize for Literature? (Nobody knows, but we'll find out on the 13th.)"
 facebookauto = "This post contains the Seattle Review of Books's first-ever (and likely only) piece of financial advice. Pay attention to it unless you want to lose some money."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/nobel-prize"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/nobel-prize.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sponsor Barbara E Geary is showing her book \"I Can Speak Medical!\u201d, an introduction to the language of medicine."
 facebookauto = "Sponsor Barbara E Geary is here to show her book \"I Can Speak Medical!\", an introduction to the language of medicine. "
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

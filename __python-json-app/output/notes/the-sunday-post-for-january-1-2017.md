@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We hereby resolve to give you a great Sunday Post experience, starting right now."
 facebookauto = "We hereby resolve to give you a great Sunday Post experience, starting right now."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

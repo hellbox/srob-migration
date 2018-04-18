@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear Cienna: I love my bookstore, but its cafe is HORRIBLE. How do I convince them to make tastier food?"
 facebookauto = "Dear Cienna: I love my bookstore, but its cafe is HORRIBLE. How do I convince them to make tastier food?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/food"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/food.md"]
 notes_about = ""
 books = ""
 +++

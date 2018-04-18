@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sponsor Julie Manthey takes us to the tip of Southwest Washington, and we find magic."
 facebookauto = "Our sponsor Julie Manthey takes us to the tip of Southwest Washington, to Cape Disappointment, to find magic, mystery, and a little love, too. "
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

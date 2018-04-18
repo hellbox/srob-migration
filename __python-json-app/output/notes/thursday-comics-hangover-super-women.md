@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447916800302/msma
 twitterauto = "There are more comics about female superheroes out there right now than ever before. Here are three good ones:"
 facebookauto = "There are more comics about female superheroes out there right now than ever before. Even better, these comics are really well done."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/marvel-comics", "tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/marvel-comics.md", "tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

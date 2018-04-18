@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443200197055/1042
 twitterauto = "In this week's Help Desk, @ciennam advises a self-professed \"man's man\" who loves Victorian romance novels. "
 facebookauto = "A self-professed \"man's man\" has fallen in love with Victorian romance novels. Will our advice columnist tell the former military dude to stick with the Tom Clancy, or should he stop complaining and learn to openly love bodice-rippers?"
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/romance"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/romance.md"]
 notes_about = ""
 books = ""
 +++

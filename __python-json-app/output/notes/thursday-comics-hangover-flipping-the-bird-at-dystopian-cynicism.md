@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522908229867/oldw
 twitterauto = "A new series takes one of the ugliest, most cynical dystopian comics and turns it on its head."
 facebookauto = "A new series takes one of the ugliest, most cynical dystopian comics and turns it on its head."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

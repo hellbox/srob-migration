@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Bad men make everything more complicated."
 facebookauto = "Bad men make everything more complicated."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

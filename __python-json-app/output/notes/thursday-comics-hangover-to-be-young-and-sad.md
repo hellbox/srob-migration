@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The comic It's Okay to Be Sad Sometimes is about being sad, young, and desperately trying to figure it all out."
 facebookauto = "Elk Paauw's comic It's Okay to Be Sad Sometimes is about being sad, young, and desperately trying to figure it all out."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/comics.md"]
 notes_about = ""
 books = ""
 +++

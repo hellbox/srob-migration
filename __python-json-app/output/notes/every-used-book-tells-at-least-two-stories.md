@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Talking with the Mercer Street Books staff about the neat things they find inside used books. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/mercer-street-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/mercer-street-books.md"]
 notes_about = ""
 books = ""
 +++

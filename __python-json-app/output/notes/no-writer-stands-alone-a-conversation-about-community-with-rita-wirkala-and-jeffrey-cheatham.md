@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We talked with Seattle authors Rita Wirkala and Jeffrey Cheatham about creating community."
 facebookauto = "We talked with Seattle authors Rita Wirkala and Jeffrey Cheatham about creating community."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

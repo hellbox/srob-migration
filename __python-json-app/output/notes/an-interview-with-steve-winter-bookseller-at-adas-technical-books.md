@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447818308093/imag
 twitterauto = "What does @Adason15th bookseller @mister_winter love about working in a science-minded bookstore?"
 facebookauto = "We talked with Ada's Technical Books bookseller Steve Winter, who brings over two decades of bookselling experience to Capitol Hill's newest bookstore."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/adas-technical-books", "tags/bookseller"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/adas-technical-books.md", "tags/bookseller.md"]
 notes_about = ""
 books = ""
 +++

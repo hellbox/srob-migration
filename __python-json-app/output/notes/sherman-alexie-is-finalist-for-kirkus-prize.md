@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Congrats to @sherman_alexie on his Kirkus Prize nomination! Come see him, @misterlashley, and @thisisejkoh Nov 11."
 facebookauto = "Congratulations to Sherman Alexie on his Kirkus Prize nomination!"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/literary-prize"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/literary-prize.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470281060333/coin
 twitterauto = "Coin-Op is the most wonderful new comic series you haven\u2019t heard about yet."
 facebookauto = "The film-obsessed brother-sister comic Coin-Op is the most wonderful new comic series you haven't heard about yet."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/comics", "tags/film"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/comics.md", "tags/film.md"]
 notes_about = ""
 books = ""
 +++

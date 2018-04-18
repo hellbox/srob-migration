@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Making a book from absolute scratch."
 facebookauto = "Making a book from absolute scratch. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/handmade-books"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/handmade-books.md"]
 notes_about = ""
 books = ""
 +++

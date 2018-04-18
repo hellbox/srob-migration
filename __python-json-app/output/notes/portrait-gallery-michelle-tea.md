@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479417097265/SRoB
 twitterauto = "This week @studiochristine painted @TeaMichelle for our Portrait Gallery."
 facebookauto = "Portrait Gallery: Michelle Tea. Friday, November 18th at Fred Wildlife Refuge."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

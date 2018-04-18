@@ -16,8 +16,8 @@ shareimage = "https://instagram.fsnc1-1.fna.fbcdn.net/t51.2885-15/e35/22159466_3
 twitterauto = "Our wrap up of Clare Johnson's Post-it notes for the month of October. "
 facebookauto = "Our wrap up of Clare Johnson's Post-it notes for the month of October."
 make_image_tweet = "True"
-notes_byline = ["writers/clare-johnson"]
-tags_notes = ["tags/post-it-note-project"]
+notes_byline = ["writers/clare-johnson.md"]
+tags_notes = ["tags/post-it-note-project.md"]
 notes_about = ""
 books = ""
 +++

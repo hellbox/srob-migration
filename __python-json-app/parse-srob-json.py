@@ -3,10 +3,7 @@ import json
 import os
 import time
 
-def findstring( string ):
-    string.split()
-
-
+outputpath = 'output/'
 # Load JSON object
 with open('srob-firebase.json') as json_data:
     j = json.load(json_data)
@@ -24,7 +21,7 @@ def findstring( string ):
     # Looksup the correct node, returns it as a formatted string, with the folder and filename
     if breakup[0] == 'authors' or breakup[0] == 'translators':
         breakup[0] = 'writers'    
-    return breakup[0] + "/" + sanitizestring(j['data'][breakup[0]][breakup[1]]['name']) + '.md'
+    return breakup[0] + "/" + sanitizestring(j['data'][breakup[0]][breakup[1]]['name']) + ".md"
 
 # Select child
 for key in j['data']:

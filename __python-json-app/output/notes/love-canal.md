@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Presenting the winner of the very first @APRILfestSEA/@seattlereviewof writing contest:"
 facebookauto = "Presenting the winner of the very first APRIL Festival/Seattle Review of Books writing contest: \"Love Canal,\" by Jessica Mooney!"
 make_image_tweet = "False"
-notes_byline = ["writers/jessica-mooney"]
-tags_notes = ["tags/fiction", "tags/april"]
+notes_byline = ["writers/jessica-mooney.md"]
+tags_notes = ["tags/fiction.md", "tags/april.md"]
 notes_about = ""
 books = ""
 +++

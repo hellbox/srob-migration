@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/man-booker-prize"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/man-booker-prize.md"]
 notes_about = ""
 books = ""
 +++

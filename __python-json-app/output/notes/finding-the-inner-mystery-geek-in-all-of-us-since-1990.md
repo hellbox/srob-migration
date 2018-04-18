@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ".@SeattleMystery employees have pretty much seen it all\u2014except an accordion-themed mystery."
 facebookauto = "Seattle Mystery Bookshop has been around long enough that they've seen it all, and they shared their stories with us. One customer was despondent after the staff had to inform him that Sherlock Holmes wasn\u2019t a real person."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-mystery-bookshop", "tags/sherlock-holmes"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-mystery-bookshop.md", "tags/sherlock-holmes.md"]
 notes_about = ""
 books = ""
 +++

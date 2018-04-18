@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461388377379/gunn
 twitterauto = "Here are all the best literary events int he week to come."
 facebookauto = "Your week in literary events features readings about weed, poetry, guns, and spoons as moat-building tools."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/town-hall-seattle.md", "tags/hugo-house.md"]
 notes_about = ""
-books = ["books/weed-the-users-guide"]
+books = ["books/weed-the-users-guide.md"]
 +++
 <p class="noindent"><h5>**Wednesday April 27:  Local Voices**</h5></p>
 Seattle Arts and Lectures’ Writers in the Schools program delivers some of the best Seattle-area writers (and visiting authors) to local students who are hungry for writing education. Tonight, Seattle-area WitS all-star teachers present new work, including Rachel Kessler, Sierra Nelson, and Anastacia Tolbert. *Hugo House, 1634 11th Ave, 322-7030, http://hugohouse.org. Free. All ages. 7:30 p.m. *

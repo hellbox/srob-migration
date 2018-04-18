@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462599198503/phot
 twitterauto = "The Kickstarter Fund this week backs @mdabaie."
 facebookauto = "The Kickstarter Fund backs a graphic novel of a girl raised in a Sogdian family that trades on the Silk Road."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is by @RachelLaKessler and it's about selfies."
 facebookauto = "Our Tuesday Poem is by Rachel Kessler, and it's about selfies."
 make_image_tweet = "False"
-notes_byline = ["writers/rachel-kessler"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/rachel-kessler.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

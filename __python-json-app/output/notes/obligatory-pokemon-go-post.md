@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468553653662/poke
 twitterauto = "After #PokemonGo, who's going to write the first augmented reality novel?"
 facebookauto = "Someday soon, someone is going to use the technology behind Pokemon Go to write a novel. Hopefully, that person will be from Seattle."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/technology", "tags/e-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/technology.md", "tags/e-books.md"]
 notes_about = ""
 books = ""
 +++

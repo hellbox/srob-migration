@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452109705843/imag
 twitterauto = "Wait, which Republican presidential candidate believes the government should be spying on libraries?"
 facebookauto = "A Republican presidential candidate believes the government should be spying on libraries. Just let that roll around in your head for a little bit."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/2016", "tags/ben-carson"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/2016.md", "tags/ben-carson.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496903407249/come
 twitterauto = "Let's just take a moment to appreciate the fact that James Comey's testimony is very well-written."
 facebookauto = "Let's just take a moment to appreciate the fact that James Comey's testimony is very well-written. "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483644876356/unna
 twitterauto = "Act fast! Our sponsor just released some tickets for the sold-out David Sedaris shows this Sunday"
 facebookauto = "Act fast! Our sponsor just released some tickets for the sold-out David Sedaris shows this Sunday"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

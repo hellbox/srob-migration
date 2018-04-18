@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post", "tags/iris-murdoch", "tags/catherine-nicols", "tags/agatha-christie", "tags/jeanne-rejaunier"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md", "tags/iris-murdoch.md", "tags/catherine-nicols.md", "tags/agatha-christie.md", "tags/jeanne-rejaunier.md"]
 notes_about = ""
 books = ""
 +++

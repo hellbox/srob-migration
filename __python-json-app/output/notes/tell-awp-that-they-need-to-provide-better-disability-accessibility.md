@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're hearing reports that @awpwriter is not providing accessibility for disabled at this year's conference."
 facebookauto = "We're hearing reports that the AWP is not providing accessibility for disabled at this year's conference. Here's what you can do to help."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/awp", "tags/accessibility"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/awp.md", "tags/accessibility.md"]
 notes_about = ""
 books = ""
 +++

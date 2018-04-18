@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our advice columnist is taking the day off. Instead, here's some advice that nobody asked for:"
 facebookauto = "Our advice columnist is taking the day off. Instead, here's some advice that nobody asked for:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/nanowrimo", "tags/independent-bookstores"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/nanowrimo.md", "tags/independent-bookstores.md"]
 notes_about = ""
 books = ""
 +++

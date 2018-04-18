@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Next time we're up north, we'll be sure to stop by the new branch of @VillageBksBham. Hooray for new bookstores!"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/retail", "tags/independent-bookstores"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/retail.md", "tags/independent-bookstores.md"]
 notes_about = ""
 books = ""
 +++

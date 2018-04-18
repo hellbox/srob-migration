@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Go apply for the 2016 @jackstrawarts writers program, with very special guest curator Karen @finneyfrock."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/jack-straw"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/jack-straw.md"]
 notes_about = ""
 books = ""
 +++

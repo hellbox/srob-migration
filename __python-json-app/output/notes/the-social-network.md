@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456699474174/ipho
 twitterauto = "Let's take a look at Litsy, the hot new social network for book-lovers."
 facebookauto = "Let's take a look at Litsy, the hot new social network for book-lovers."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/litsy", "tags/amazon", "tags/goodreads"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/litsy.md", "tags/amazon.md", "tags/goodreads.md"]
 notes_about = ""
 books = ""
 +++

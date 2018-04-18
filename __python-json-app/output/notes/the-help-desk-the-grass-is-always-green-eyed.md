@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "I dunno, tbh, sounds like she's got a lot to be jealous about. But @ciennam sets it all right in the Help Desk."
 facebookauto = "I dunno, tbh, sounds like she's got a lot to be jealous about. But Cienna Madrid sets it all right, like always, in the Help Desk."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

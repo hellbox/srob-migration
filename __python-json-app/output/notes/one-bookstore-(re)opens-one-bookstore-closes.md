@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1441171711333/2015
 twitterauto = "This weekend: Seattle Mystery Bookshop is closing, Capitol Hill's Horizon Books is reopening."
 facebookauto = "This weekend: Seattle Mystery Bookshop is closing, Capitol Hill's Horizon Books is reopening."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-mystery-bookshop"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-mystery-bookshop.md"]
 notes_about = ""
 books = ""
 +++

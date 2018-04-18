@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504236141352/circ
 twitterauto = "The Circle is Dave Eggers's second-most influential book. It's not a great movie."
 facebookauto = "The Circle is Dave Eggers's second-most influential book. It's not a great movie."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/movies", "tags/adaptation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/movies.md", "tags/adaptation.md"]
 notes_about = ""
 books = ""
 +++

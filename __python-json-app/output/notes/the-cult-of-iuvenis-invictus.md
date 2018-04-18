@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is \"The Cult of Iuvenis Invictus\" by @mstegosaurus"
 facebookauto = "Our Tuesday Poem is \"The Cult of Iuvenis Invictus\" by Morris Stegosaurus"
 make_image_tweet = "False"
-notes_byline = ["writers/morris-stegosaurus"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/morris-stegosaurus.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

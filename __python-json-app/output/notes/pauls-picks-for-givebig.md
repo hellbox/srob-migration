@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462262652717/APRI
 twitterauto = "Paul's picks for #GiveBIG are @APRILfestSEA, @HugoHouse, and @THSEA."
 facebookauto = "For GiveBIG, Paul Constant wants you to consider three Seattle-area literary nonprofits that are about to go through some huge changes."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/april", "tags/givebig", "tags/hugo-house", "tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/april.md", "tags/givebig.md", "tags/hugo-house.md", "tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

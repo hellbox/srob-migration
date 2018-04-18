@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463979210041/elep
 twitterauto = "What's @queenannebookco superstar bookseller @ttigani been recommending lately?"
 facebookauto = "We interviewed superstar Queen Anne Book Company bookseller Tegan Tigani about what she's been recommending lately."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/queen-anne-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/queen-anne-book-company.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2016-04-26T09:09:00-07:00"
 preview_url = "0dec82b1-22db-e6bd-3aec-74717664ed21"
 name = "Siglio"
 title = "Siglio"
-books_by_this_publisher = ["books/matthias-buchinger", "books/suite-v\u00e9nitienne"]
+books_by_this_publisher = ["books/matthias-buchinger.md", "books/suite-v\u00e9nitienne.md"]
 +++

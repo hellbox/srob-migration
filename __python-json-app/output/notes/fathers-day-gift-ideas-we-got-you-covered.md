@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sponsor @justwrought has your Father's Day gift buying covered."
 facebookauto = "Sponsor Paul Mullin has your Father's Day gift-buying covered."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

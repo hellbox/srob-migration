@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Hawthorne Books"
 title = "Hawthorne Books"
-books_by_this_publisher = ["books/call-me-home", "books/california-calling"]
+books_by_this_publisher = ["books/call-me-home.md", "books/california-calling.md"]
 +++

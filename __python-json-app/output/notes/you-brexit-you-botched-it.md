@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle writers are starting to respond to Brexit."
 facebookauto = "Seattle writers are starting to respond to Brexit."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/brexit"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/brexit.md"]
 notes_about = ""
 books = ""
 +++

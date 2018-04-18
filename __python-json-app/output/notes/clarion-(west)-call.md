@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Do you write sci-fi or fantasy? Now is the time to apply for @ClarionWest's summer workshop."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/science-fiction", "tags/clarion-west"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/science-fiction.md", "tags/clarion-west.md"]
 notes_about = ""
 books = ""
 +++

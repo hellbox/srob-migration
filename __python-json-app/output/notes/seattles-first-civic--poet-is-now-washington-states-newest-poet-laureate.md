@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Congratulations to @ClaudiaC_L, the next Washington State Poet Laureate!"
 facebookauto = "Claudia Castro Luna, Seattle's first Civic Poet, has been named the next Washington State Poet Laureate!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poet-laureate", "tags/civic-poet"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poet-laureate.md", "tags/civic-poet.md"]
 notes_about = ""
 books = ""
 +++

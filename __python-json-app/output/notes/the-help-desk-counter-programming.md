@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1448043193698/9780
 twitterauto = "What should a family of avid readers do to include the one kid who hates books but loves computer programming?"
 facebookauto = "This week's advice column about the odd duck from a family of avid readers. He doesn't like books but he loves computer programming. What should they do?"
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/computer-programming"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/computer-programming.md"]
 notes_about = ""
-books = ["books/neuromancer"]
+books = ["books/neuromancer.md"]
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>
 

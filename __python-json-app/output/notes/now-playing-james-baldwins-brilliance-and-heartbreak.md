@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Now playing @SIFFNews: a literary documentary about the brilliance and heartbreak of James Baldwin."
 facebookauto = "Now playing at the Egyptian: a literary documentary about the brilliance and heartbreak of James Baldwin."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/race", "tags/documentary", "tags/siff"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/race.md", "tags/documentary.md", "tags/siff.md"]
 notes_about = ""
 books = ""
 +++

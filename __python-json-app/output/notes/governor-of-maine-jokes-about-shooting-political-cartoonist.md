@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/charlie-hebdo", "tags/paul-lepage"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/charlie-hebdo.md", "tags/paul-lepage.md"]
 notes_about = ""
 books = ""
 +++

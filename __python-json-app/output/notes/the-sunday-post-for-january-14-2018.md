@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sunday picks: the UN on poverty in the US, WWII as a black mirror, the patriarchy gets baked, and -- sports?"
 facebookauto = "Our Sunday picks: the UN investigates poverty in the US, WWII is a black mirror, the patriarchy gets baked, and -- unexpectedly -- sports."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

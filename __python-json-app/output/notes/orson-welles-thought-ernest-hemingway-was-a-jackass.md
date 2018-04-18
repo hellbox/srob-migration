@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Orson Welles co-wrote a manuscript making fun of Ernest Hemingway and we'd like to read it."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/history"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/history.md"]
 notes_about = ""
 books = ""
 +++

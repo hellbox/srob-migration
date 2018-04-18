@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = "For Banned Book Week, let's honor authors who push boundaries and booksellers & librarians who fight for freedom."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/banned-book-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/banned-book-week.md"]
 notes_about = ""
-books = ["books/absolutely-true-diary-of-a-part-time-indian"]
+books = ["books/absolutely-true-diary-of-a-part-time-indian.md"]
 +++
 Galleycat has assembled excerpts of the [ten most frequently challenged library books of 2015](http://www.adweek.com/galleycat/free-samples-of-the-most-banned-books-of-2015/110431). Seattle's own Sherman Alexie and Ellen Forney are right up at the top of the list with *The Absolutely True Diary of a Part-Time Indian*. Go give these books a try, and if you're interested in reading further, please acquire copies of the books from your local library or independent bookstore. Banned Book Week isn't just about celebrating the authors who push the boundaries of what's acceptable; it's also about celebrating the heroes who make those books available for everyone.

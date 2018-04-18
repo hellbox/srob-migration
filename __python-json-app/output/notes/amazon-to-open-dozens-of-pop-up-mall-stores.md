@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Amazon is set to open dozens of pop-up stores in malls around the country."
 facebookauto = "As Barnes & Noble sales continue to falter, Amazon is opening dozens of pop-up stores in malls around the country."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon-books", "tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon-books.md", "tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Book nerds! You have 2 chances to get your dance on this week. Proceeds benefit @LitCrawlSeattle and @CampTenTrees."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/the-rejections", "tags/elliott-bay-book-company", "tags/lit-crawl", "tags/fundraiser"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/the-rejections.md", "tags/elliott-bay-book-company.md", "tags/lit-crawl.md", "tags/fundraiser.md"]
 notes_about = ""
 books = ""
 +++

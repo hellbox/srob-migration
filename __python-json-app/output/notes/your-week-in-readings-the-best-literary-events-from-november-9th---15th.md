@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your week in readings starts tonight @elliottbaybook and also includes comics, veterans, and comics veterans."
 facebookauto = "Looking for something to do this week? Paul Constant has found the best literary event for every day from Monday to Sunday. There's a lot of different stuff packed into one week: sci-fi, comics, literary fiction, true stories from veterans, and a living magazine."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/town-hall-seattle", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/hugo-house", "tags/elliott-bay-book-company", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/town-hall-seattle.md", "tags/fantagraphics-bookstore-&amp;-gallery.md", "tags/hugo-house.md", "tags/elliott-bay-book-company.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

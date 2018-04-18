@@ -16,8 +16,8 @@ shareimage = "http://seattlreviewofbooks.com/webhook-uploads/1513146916041/mothe
 twitterauto = "This week: Engage in conversation with a local luminary about a truly great novel."
 facebookauto = "This week: Engage in conversation with a local luminary about a truly great novel."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/third-place-books-seward-park"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/third-place-books-seward-park.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1499894817293/SRoB
 twitterauto = "Portrait Gallery: @djolder #illustration by @studiochristine Battle Hill Bolero Reading 7/18 @SPLBuzz @ClarionWest"
 facebookauto = "Portrait Gallery: Daniel Jose Older painted by Christine Marie Larsen. Reading Tuesday, July 18th at the Seattle Library, Central Branch."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

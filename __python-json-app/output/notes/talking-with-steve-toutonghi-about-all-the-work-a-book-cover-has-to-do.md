@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1502476219327/side
 twitterauto = "We talked with Steve Toutonghi about why he loves his new book cover so much."
 facebookauto = "A book cover has to do so much work: it has to appeal to browsers and booksellers and it has to look good online, too. Today, we debuted the cover of Seattle author Steve Toutonghi's upcoming second novel Side Life, and we asked him what he thinks makes for a good book cover."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/cover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/cover.md"]
 notes_about = ""
 books = ""
 +++

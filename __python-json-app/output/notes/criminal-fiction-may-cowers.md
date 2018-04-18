@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495686806976/Sinc
 twitterauto = "Criminal Fiction: @daneetsteffens queries @dennis_lehane, and looks at new work from @ellygriffiths & @authorsteve "
 facebookauto = "Criminal Fiction: Daneet Steffens queries Dennis LeHane, and looks at new work from Elly Griffiths, Steve Hamilton and more."
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

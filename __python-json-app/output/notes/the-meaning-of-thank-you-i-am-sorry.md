@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're big fans of @thisisEJKoh. After you read this interview, you'll be a big fan of hers, too."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461996614932/phot
 twitterauto = "The Kickstarter Fund got behind @designersbooks this week."
 facebookauto = "The Kickstarter Fund backs a famous designers new book, with a brilliant anti-war illustration and message. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Spiegel &amp; Grau"
 title = "Spiegel &amp; Grau"
-books_by_this_publisher = ["books/between-the-world-and-me"]
+books_by_this_publisher = ["books/between-the-world-and-me.md"]
 +++

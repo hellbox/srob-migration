@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Sponsor @nirbaram has finally been translated into English. Read a sample from his compelling Good People."
 facebookauto = "Sponsor Nir Baram has finally been translated into English. Find out more about this Isreali writer's compelling novel Good People"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/good-people"]
+books = ["books/good-people.md"]
 +++
 Sponsor Nir Baram has finally been brought to the English speaking world by Australian publisher, <a href="https://www.textpublishing.com.au" title="Home — Text Publishing">the Text Publishing Company</a>. Now, his fifth novel, the gripping _Good People_, set in Leningrad and Berlin in 1938, is being released in the United States. 
 

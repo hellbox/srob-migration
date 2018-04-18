@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1500655551691/cadi
 twitterauto = "If @ciennam could force all of Seattle to read one book, what would that book be?"
 facebookauto = "A reader tells Cienna Madrid, \"If you ever wanted to start your own misanthropic version of Oprah\u2019s Book Club, I\u2019d be a charter member.\" We couldn't agree more."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

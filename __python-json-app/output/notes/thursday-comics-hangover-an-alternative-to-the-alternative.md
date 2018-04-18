@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510211820347/Scre
 twitterauto = "You can't get much more mainstream than this comic's \"special zine issue.\""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/thick-as-thieves"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/thick-as-thieves.md"]
 notes_about = ""
 books = ""
 +++

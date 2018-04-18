@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Short stories by @AlexKleeman, and @rahawahaile herself, in our weekly short story wrap up."
 facebookauto = "After reading Rahawa Haile's short story picks for months, today we link to a podcast where she reads some of her own work. And, of course, the normal weekly wrap-up. "
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week", "tags/short-story-of-the-day"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md", "tags/short-story-of-the-day.md"]
 notes_about = ""
 books = ""
 +++

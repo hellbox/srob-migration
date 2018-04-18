@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "New Harry Potter book coming? New Harry Potter book coming! (Insert drudgesiren.gif here.)"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/harry-potter"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/harry-potter.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519406151901/Ange
 twitterauto = "This Saturday, @xaimeh will be signing books @fantagraphics. We talked to him about, well, everything:"
 facebookauto = "This Saturday, Jaime Hernandez will be signing books at the Fantagraphics Bookstore in Georgetown. We talked to him about, well, everything:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

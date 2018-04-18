@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453393482218/SRoB
 twitterauto = "For Portrait Gallery this week, @studiochristine painted poet @raulralvarez"
 facebookauto = "Poet Raul Alvarez is Christine Marie Larsen's subject in this week's Portrait Gallery. He's appearing Sunday at Fred Wildlife Refuge."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

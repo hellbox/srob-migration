@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Gabalfa Press"
 title = "Gabalfa Press"
-books_by_this_publisher = ["books/zek"]
+books_by_this_publisher = ["books/zek.md"]
 +++

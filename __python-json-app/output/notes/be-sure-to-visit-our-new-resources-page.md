@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Announcing our Resources page, where you'll find dozens of ways to participate in Seattle's literary scene."
 facebookauto = "Announcing our Resources page! If you want to get involved with Seattle's literary scene, you can find any number of ways to join up, from book clubs to open mics to literary magazines to classes and volunteer opportunities. This is the page for you."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/resources"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/resources.md"]
 notes_about = ""
 books = ""
 +++

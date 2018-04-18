@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495737981609/SRoB
 twitterauto = "Portrait Gallery: Poet Gary Copeland Lilley @LilleyGary painted by @studiochristine reads @openpoetrybooks Friday "
 facebookauto = "Portrait Gallery: Poet Gary Copeland Lilley painted by Christine Marie Larsen. Copeland will be reading at Open Books Friday night with Robert Lashley."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

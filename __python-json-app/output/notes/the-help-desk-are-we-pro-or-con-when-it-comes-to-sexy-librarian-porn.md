@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461350894074/Good
 twitterauto = "Sexy librarian porn: Yea or nay?"
 facebookauto = "Is sexy librarian porn good for librarians or bad for librarians?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/porn", "tags/librarians", "tags/gary-herbert"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/porn.md", "tags/librarians.md", "tags/gary-herbert.md"]
 notes_about = ""
 books = ""
 +++

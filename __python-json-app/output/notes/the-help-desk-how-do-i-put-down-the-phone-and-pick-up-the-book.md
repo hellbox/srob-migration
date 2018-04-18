@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear @ciennam: My willpower is shot. How do I put down the phone and pick up a book?"
 facebookauto = "Dear Cienna: My willpower is shot. How do I put down the phone and pick up a book?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

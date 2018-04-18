@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This Saturday, @ThirdPlaceBooks is donating 20% of all sales to Puerto Rico relief."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/third-place-books-lake-forest-park"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/third-place-books-lake-forest-park.md"]
 notes_about = ""
 books = ""
 +++

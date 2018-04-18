@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488945840274/rule
 twitterauto = "Your week in reading features @bymattruff, @DonnaMiscolta & @NisiShawl."
 facebookauto = "Lots of great Seattle authors in Your Week in Readings this week, including Matt Ruff, Nisi Shawl, Donna Miscolta, Claire Dederer, and Sarah Galvin."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
-books = ["books/lovecraft-country", "books/everfair"]
+books = ["books/lovecraft-country.md", "books/everfair.md"]
 +++
 <p class="noindent"><h5>**Wednesday March 15th: WordsWest: Resistance and Immigration**</h5></p> 
 The West Seattle reading series celebrates the Ides of March with a very timely theme. Seattle short story author Donna Miscolta (author of *When the de La Cruz Family Danced*) and West Seattle poet Shankar Narayan will read new work and talk about life in an America that seems to have rolled up the welcome mat.

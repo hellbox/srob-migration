@@ -16,8 +16,8 @@ shareimage = "http://lh3.googleusercontent.com/E4B8Fvbtii-xdzKjoABdD44wTRbQFVdZc
 twitterauto = "It's time for @APRILfestSEA, and they're our sponsor this week!"
 facebookauto = "It's April Festival time, and they're our sponsor this week!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

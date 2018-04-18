@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you have ideas about the future of books, you should think about attending the @codexhackathon this weekend."
 facebookauto = "The CODEX Hackathon is happening in Cambridge next weekend, and it's a great way to help make the future of books and reading."
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/future-of-books", "tags/e-books"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/future-of-books.md", "tags/e-books.md"]
 notes_about = ""
 books = ""
 +++

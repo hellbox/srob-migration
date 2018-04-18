@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A wrap up of Clare Johnson's #PostItArt post, from our Instagram over March"
 facebookauto = "A wrap up of Clare Johnson's #PostItArt post, from our Instagram over March"
 make_image_tweet = "False"
-notes_byline = ["writers/clare-johnson"]
-tags_notes = ["tags/post-it-note-project"]
+notes_byline = ["writers/clare-johnson.md"]
+tags_notes = ["tags/post-it-note-project.md"]
 notes_about = ""
 books = ""
 +++

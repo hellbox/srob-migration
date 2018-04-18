@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1480354291110/silv
 twitterauto = "Sponsor @annaredsand is coming to Seattle on December 3rd. More details, and book excerpt, here:"
 facebookauto = "Sponsor Anna Redsand is coming to Seattle on December 3rd! More details, and book excerpt, on our Sponsor's page this week."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

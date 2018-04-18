@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1477852571022/a.%2
 twitterauto = "We talked with Ebo Barton, who represented Seattle at the national Poetry Slam earlier this month."
 facebookauto = "Ebo Barton, who recently represented Seattle in the national poetry slam in Flagstaff Arizona, talked with us about competitive spoken word, the divide between written and spoken poetry, and three local poets you should know."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry", "tags/slam-poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md", "tags/slam-poetry.md"]
 notes_about = ""
 books = ""
 +++

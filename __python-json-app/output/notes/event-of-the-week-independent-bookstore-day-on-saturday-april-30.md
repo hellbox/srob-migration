@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461530975603/patc
 twitterauto = "Hope you're getting ready to celebrate Independent Bookstore Day on Saturday!"
 facebookauto = "Here's eerything you need to know about Independent Bookstore Day, which is happening this Saturday"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

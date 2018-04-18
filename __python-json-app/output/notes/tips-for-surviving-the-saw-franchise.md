@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Practical poetry, as our month of @elisacatrina continues: \"Tips for Surviving the Saw Franchise\""
 facebookauto = "Practical poetry, as our month of Elise Chavez continues: \"Tips for Surviving the Saw Franchise\""
 make_image_tweet = "False"
-notes_byline = ["writers/elisa-chavez"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/elisa-chavez.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

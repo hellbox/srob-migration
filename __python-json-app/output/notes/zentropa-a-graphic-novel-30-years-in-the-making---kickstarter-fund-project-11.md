@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458370074759/phot
 twitterauto = "The Kickstarter Fund backs @johnmahoneyjohn's Zentropa this week."
 facebookauto = "A nearly deadly tumor leads an artist to create a work evoking the kind of stories you would find the magazine Heavy Metal. The Kickstarter Fund this week backs Zentropa. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

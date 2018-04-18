@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Road trip! Head to Kingston this Saturday for the @twosylviaspress open house."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/two-sylvias-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/two-sylvias-press.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2018-02-13T13:11:00-08:00"
 preview_url = "194cddf5-6e92-bb13-d773-d569a155f3a4"
 name = "Penguin"
 title = "Penguin"
-books_by_this_publisher = ["books/the-scarlet-letter-a-romance", "books/the-dying-grass", "books/this-impossible-light", "books/devils-bargain"]
+books_by_this_publisher = ["books/the-scarlet-letter-a-romance.md", "books/the-dying-grass.md", "books/this-impossible-light.md", "books/devils-bargain.md"]
 +++

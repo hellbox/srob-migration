@@ -10,5 +10,5 @@ last_updated = "2015-08-20T23:02:00-07:00"
 preview_url = "b52384f7-ddf7-0eb6-5345-a9b2ad6407a7"
 name = "Macmillan"
 title = "Macmillan"
-books_by_this_publisher = ["books/the-beautiful-bureaucrat", "books/elect-h-mouse-state-judge", "books/rosalie-lightning", "books/cheri"]
+books_by_this_publisher = ["books/the-beautiful-bureaucrat.md", "books/elect-h-mouse-state-judge.md", "books/rosalie-lightning.md", "books/cheri.md"]
 +++

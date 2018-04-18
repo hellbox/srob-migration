@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "How many books on President Obama's summer reading list have you read? "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/barack-obama", "tags/summer-reading"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/barack-obama.md", "tags/summer-reading.md"]
 notes_about = ""
 books = ""
 +++

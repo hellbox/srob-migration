@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear @ciennam: Someone is watching porn on public computers at the library! What do I do?"
 facebookauto = "Dear Cienna: Some guy is watching porn on public computers at the library! What should I do?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/porn", "tags/seattle-public-library"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/porn.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

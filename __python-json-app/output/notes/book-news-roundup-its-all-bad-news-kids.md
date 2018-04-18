@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sorry, folks, but today's Book News Roundup is packed with bad news."
 facebookauto = "Sorry, folks, but today's Book News Roundup is packed with bad news."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/amazon", "tags/barnes-&amp;-noble", "tags/hillary-clinton"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/amazon.md", "tags/barnes-&amp;-noble.md", "tags/hillary-clinton.md"]
 notes_about = ""
 books = ""
 +++

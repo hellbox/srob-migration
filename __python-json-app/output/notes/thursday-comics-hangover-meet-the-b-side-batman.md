@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498715464068/Moth
 twitterauto = "Our comics column looks at the rarest of comics rarities: a new twist on Batman."
 facebookauto = "Our comics column looks at the rarest of comics rarities: a new twist on Batman."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/dc-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/dc-comics.md"]
 notes_about = ""
 books = ""
 +++

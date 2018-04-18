@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1464131761336/Scre
 twitterauto = "It's that time of year again\u2014@SeaArtsLectures & @SPLBuzz announced #BookBingoNW2016!"
 facebookauto = "It's time again for Summer Book Bingo. Winners get a bunch of books, gift certificates to local bookstores, and more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-arts-and-lectures", "tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-arts-and-lectures.md", "tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

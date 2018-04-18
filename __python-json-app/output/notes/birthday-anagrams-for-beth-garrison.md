@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem, \"Birthday Anagrams for Beth Garrison\", is from @splabman."
 facebookauto = "Our Tuesday Poem, \"Birthday Anagrams for Beth Garrison\", is from Paul E Nelson."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-e-nelson"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/paul-e-nelson.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

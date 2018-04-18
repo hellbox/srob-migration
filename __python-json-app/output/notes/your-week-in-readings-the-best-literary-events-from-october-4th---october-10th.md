@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506058633562/from
 twitterauto = "Nasty women and mortician traditions from around the world figure into this week's readings calendar!"
 facebookauto = "Nasty women and mortician traditions from around the world figure into this week's readings calendar!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

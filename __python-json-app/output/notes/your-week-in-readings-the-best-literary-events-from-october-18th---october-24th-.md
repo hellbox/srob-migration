@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506058852264/reac
 twitterauto = "Your Week in Readings includes a kidnapping and a well-researched novel about a vivisectionist."
 facebookauto = "Your Week in Readings includes a kidnapping and a well-researched novel about a vivisectionist."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

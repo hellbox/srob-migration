@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466836092783/bbf9
 twitterauto = "The Kickstarter Fund backs @vonnegutlibrary this week."
 facebookauto = "We back the Kurt Vonnegut Memorial Library this week with the Kickstarter Fund."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

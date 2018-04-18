@@ -10,5 +10,5 @@ last_updated = "2015-11-08T08:20:00-08:00"
 preview_url = "cdf46392-ed65-baca-c01b-20fd8f9018f3"
 name = "Paper Wings Press"
 title = "Paper Wings Press"
-books_by_this_publisher = ["books/frozen-by-fire"]
+books_by_this_publisher = ["books/frozen-by-fire.md"]
 +++

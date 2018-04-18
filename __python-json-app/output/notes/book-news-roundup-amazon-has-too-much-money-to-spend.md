@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Amazon has a quarter-billion dollars to blow on a prestige TV gambit."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

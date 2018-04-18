@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484768573223/arto
 twitterauto = "\"Our incoming president simply doesn't seem to enjoy reading.\""
 facebookauto = "\"It is time to come to terms with the fact that our incoming president simply doesn't seem to enjoy reading.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump", "tags/barack-obama"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md", "tags/barack-obama.md"]
 notes_about = ""
 books = ""
 +++

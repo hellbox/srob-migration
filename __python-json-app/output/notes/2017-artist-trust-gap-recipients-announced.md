@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Congratulations to all the 2017 @artisttrust GAP winners!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/artist-trust"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/artist-trust.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Serving House Books"
 title = "Serving House Books"
-books_by_this_publisher = ["books/nine-facts-that-can-change-your-life"]
+books_by_this_publisher = ["books/nine-facts-that-can-change-your-life.md"]
 +++

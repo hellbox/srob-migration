@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1461971418548/hugo
 twitterauto = "It's time to say goodbye (and hello) to the Hugo House."
 facebookauto = "The event of the week is Epilogue/Prologue, the big goodbye party for Hugo House's old space. Go and write on the walls, while the walls are still there."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/hugo-house.md"]
 notes_about = ""
-books = ["books/whered-you-go-bernadette"]
+books = ["books/whered-you-go-bernadette.md"]
 +++
 <p class="image">![](/webhook-uploads/1461971418548/hugo-house-logo.png)</p>
 

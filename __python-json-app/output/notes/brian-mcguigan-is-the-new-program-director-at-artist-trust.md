@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/artist-trust", "tags/brian-mcguigan"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/artist-trust.md", "tags/brian-mcguigan.md"]
 notes_about = ""
 books = ""
 +++

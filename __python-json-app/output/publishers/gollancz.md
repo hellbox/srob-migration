@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Gollancz"
 title = "Gollancz"
-books_by_this_publisher = ["books/jack-glass"]
+books_by_this_publisher = ["books/jack-glass.md"]
 +++

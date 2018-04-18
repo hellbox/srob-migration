@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509078913028/shor
 twitterauto = "Here's all of our @shortrunseattle coverage in one handy spot."
 facebookauto = "Here's all of our Short Run coverage in one handy spot. See you tomorrow!"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md"]
 notes_about = ""
-books = ["books/tenements-towers-&-trash", "books/in-between"]
+books = ["books/tenements-towers-&-trash.md", "books/in-between.md"]
 +++
 <p class="image">![](/webhook-uploads/1509078913028/shortrun.jpg)</p>
 

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466391545599/ring
 twitterauto = "A new bookseller at @thirdplacebooks Seward Park is a lifelong book-lover. "
 facebookauto = "If you're looking for someone who's read deeply, widely, and smartly, there's a bookseller at Third Place Books Seward Park who you really should meet."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/third-place-books-seward-park"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/third-place-books-seward-park.md"]
 notes_about = ""
 books = ""
 +++

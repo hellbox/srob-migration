@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What's happening in the crime fiction world? @daneetsteffens's column is here to guide us through!"
 facebookauto = "What's happening in the crime fiction world? Daneet Steffens column is here to guide us through!"
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

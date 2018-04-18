@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449291707771/db_s
 twitterauto = "Your week in readings begins with a splash: @mollycrabapple reads @ElliottBayBooks tonight!"
 facebookauto = "This week brings an appearance from Molly Crabapple and a book launch party with Sarah Galvin. Plus, a chocolate tasting, the Copper Canyon Press holiday party, and a visit from Santa Claus."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/hugo-house", "tags/copper-canyon-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/hugo-house.md", "tags/copper-canyon-press.md"]
 notes_about = ""
 books = ""
 +++

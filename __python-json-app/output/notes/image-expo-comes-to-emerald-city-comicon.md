@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle is getting its very own nerd prom this year: Image Expo is coming to @emeraldcitycon! "
 facebookauto = "Seattle is getting its very own nerd prom this year: Image Expo is coming to Emerald City Comicon."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/image-comics", "tags/emerald-city-comicon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/image-comics.md", "tags/emerald-city-comicon.md"]
 notes_about = ""
 books = ""
 +++

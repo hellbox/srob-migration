@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear @artisttrust and @FryeArtMuseum and other award-givers: please stop giving money to David Shields."
 facebookauto = "David Shields takes up way too much attention as it is. Does he really need to be hoovering up $50,000 in awards money from the Frye Art Museum and Artist Trust, too?"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/frye-art-museum", "tags/artist-trust"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/frye-art-museum.md", "tags/artist-trust.md"]
 notes_about = ""
 books = ""
 +++

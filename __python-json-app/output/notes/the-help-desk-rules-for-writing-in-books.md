@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This week's advice column tackles a big bookish issue: to write in margins, or not to write in margins?"
 facebookauto = "This week's advice column tackles a big bookish issue: to write in margins, or not to write in margins?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

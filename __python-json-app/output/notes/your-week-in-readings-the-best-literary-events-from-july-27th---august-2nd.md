@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here are all the best literary events happening this week:"
 facebookauto = "The best readings of the week include readings from indigenous writers, a grand reopening of a Seattle comics store favorite, and more."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/margin-shift"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/margin-shift.md"]
 notes_about = ""
 books = ""
 +++

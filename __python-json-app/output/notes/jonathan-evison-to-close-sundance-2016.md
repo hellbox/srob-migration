@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Excited to see that The Revised Fundamentals of Caregiving adaptation is closing this year's Sundance."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/adaptation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/adaptation.md"]
 notes_about = ""
-books = ["books/the-revised-fundamentals-of-caregiving"]
+books = ["books/the-revised-fundamentals-of-caregiving.md"]
 +++
 The bad news is that the film adaptation of local author Jonathan Evison's spectacular novel *The Revised Fundamentals of Caregiving* has been changed. It's now *The Fundamentals of Caring*, a title that sacrifices specificity at the altar of sentiment.
 

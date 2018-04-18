@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "We've been thrilled to count @Gregg_Olsen as a sponsor. Read a chapter from Now That She's Gone through Sunday."
 facebookauto = "Mystery writer Gregg Olsen is our sponsor this week, and we think the first chapter from his work Now That She's Gone is just fantastic. Take a look, see if you agree. "
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/now-that-shes-gone"]
+books = ["books/now-that-shes-gone.md"]
 +++
 We [have a chapter from _Now That She's Gone_](http://seattlereviewofbooks.com/sponsorships "The Seattle Review of Books - sponsorships"), by sponsor Gregg Olsen, for one more day. Be sure to take a look &mdash; you might just get hooked.
 

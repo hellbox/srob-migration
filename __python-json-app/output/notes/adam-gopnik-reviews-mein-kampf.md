@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Adam Gopnik just reviewed Mein Kampf.  But how many stars would he give it on GoodReads?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/mein-kampf"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/mein-kampf.md"]
 notes_about = ""
 books = ""
 +++

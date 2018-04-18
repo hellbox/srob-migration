@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473895783920/Port
 twitterauto = "Super-excited to see that @openpoetrybooks reopens under new management on Saturday!"
 facebookauto = "Seattle's only poetry-only bookstore, Open Books, will reopen under new management on Saturday. Plus: who's nominated for a Washington State Book Award? And what raging idiot is publishing an art book in early 2017? Those answers and more in today's Book News Roundup!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/open-books", "tags/billie-swift", "tags/washington-state-book-awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/open-books.md", "tags/billie-swift.md", "tags/washington-state-book-awards.md"]
 notes_about = ""
-books = ["books/american-copper"]
+books = ["books/american-copper.md"]
 +++
 * Wallingford's poetry-only bookstore Open Books is reopening for business [under new management](http://www.seattlereviewofbooks.com/notes/2016/04/27/introducing-billie-swift-the-new-owner-of-open-books/) on Saturday at 11 am! There will be treats and a new art wall featuring visual work by poet Gabrielle Bates. You can [like the event on Facebook](https://www.facebook.com/events/1668907273423440/1669244030056431/?notif_t=like&notif_id=1473893932910690) and also [follow Open Books on their brand new Twitter account](https://twitter.com/openpoetrybooks).
 

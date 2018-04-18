@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/vegan-teenage-zombie-huntress"]
+books = ["books/vegan-teenage-zombie-huntress.md"]
 +++
 We think you'll really like his week's sponsor [G.G. Silverman's work](http://seattlereviewofbooks.com/sponsorships). It's funny, smart, and we think that after you look at two chapters on our sponsor page, you might even want your own copy. Those chapters will only be up through tomorrow, so [go take a look today](http://seattlereviewofbooks.com/sponsorships)!
 

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/clickbait"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/clickbait.md"]
 notes_about = ""
-books = ["books/purity", "books/freedom"]
+books = ["books/purity.md", "books/freedom.md"]
 +++
 Caleb Crain's [piece for the *Atlantic* on *Purity*](http://www.theatlantic.com/magazine/archive/2015/09/jonathan-franzen-strikes-again/399329/) bears a salacious headline — "Jonathan Franzen Strikes Again:
 His latest targets: web sleuths and feminists" — but it's really just one of those pre-publication book reviews that kind of gives out way too much information about the book. You can expect all kinds of clickbait-y headlines in the next few weeks, now that Franzen's back in town. 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/national-geographic"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/national-geographic.md"]
 notes_about = ""
 books = ""
 +++

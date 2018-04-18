@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505944714914/SRoB
 twitterauto = "Portrait Gallery: The WA Nat'l Park Fund's Discovery Group Over the Top event 9/22. Support projects at Mt. Rainier."
 facebookauto = "The Washington National Park Fund's Discovery Group hosts their Over The Top fundraiser on Friday, September 22.  Hear presentations from experts in their fields on projects happening now in your national parks in Washington State. "
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

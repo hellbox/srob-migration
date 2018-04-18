@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're excited about free Sundays at the @henryartgallery and the temporary new home for @onereel_seattle!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/borders", "tags/one-reel", "tags/hugo-house", "tags/henry-art-gallery"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/borders.md", "tags/one-reel.md", "tags/hugo-house.md", "tags/henry-art-gallery.md"]
 notes_about = ""
 books = ""
 +++

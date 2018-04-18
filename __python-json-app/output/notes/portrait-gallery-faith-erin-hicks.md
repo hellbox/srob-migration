@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490804722476/SRoB
 twitterauto = "Portrait Gallery: @FaithErinHicks #portrait #illustration by @studiochristine"
 facebookauto = "Portrait Gallery: Faith Erin Hicks  | Tuesday April 4th: The Stone Heart Reading"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

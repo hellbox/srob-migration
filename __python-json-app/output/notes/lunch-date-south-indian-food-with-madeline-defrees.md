@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1457327887325/Blue
 twitterauto = "Great South Indian food with one of Seattle's best poets."
 facebookauto = "We took Madeline DeFrees's book Blue Dusk to maybe the best South Indian restaurant in the greater Seattle area."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md"]
 notes_about = ""
 books = ""
 +++

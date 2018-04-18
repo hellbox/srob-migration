@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"Americans idealize the extrovert\" \u2014\u00a0Renee Simms talks with Stephanie Han in this wonderful, long interview"
 facebookauto = "\"Americans idealize the extrovert\" \u2014\u00a0Renee Simms talks with Stephanie Han in this wonderful, long interview"
 make_image_tweet = "False"
-notes_byline = ["writers/renee-simms"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/renee-simms.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

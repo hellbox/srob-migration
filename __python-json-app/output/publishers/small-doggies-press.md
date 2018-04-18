@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Small Doggies Press"
 title = "Small Doggies Press"
-books_by_this_publisher = ["books/up-south"]
+books_by_this_publisher = ["books/up-south.md"]
 +++

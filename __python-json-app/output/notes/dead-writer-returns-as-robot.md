@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A writer has returned 100 years after his death, in android form."
 facebookauto = "A writer has returned 100 years after his death, in android form."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/death", "tags/japan"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/death.md", "tags/japan.md"]
 notes_about = ""
 books = ""
 +++

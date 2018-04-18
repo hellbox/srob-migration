@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468298318122/as-i
 twitterauto = "\"As In\" by @LKTuffaha is our Tuesday Poem. It starts:"
 facebookauto = "Our poem today, \"As In\", is by Lena Khalaf Tuffaha. "
 make_image_tweet = "True"
-notes_byline = ["writers/lena-khalaf-tuffaha"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/lena-khalaf-tuffaha.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

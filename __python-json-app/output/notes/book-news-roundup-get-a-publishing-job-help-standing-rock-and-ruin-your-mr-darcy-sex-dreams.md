@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A fundraiser for Standing Rock, a job @Sasquatchbooks, and more in Book News Roundup."
 facebookauto = "A fundraiser for Standing Rock, a job at Sasquatch Books, and more in Book News Roundup."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/seattle-weekly", "tags/sasquatch"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/seattle-weekly.md", "tags/sasquatch.md"]
 notes_about = ""
 books = ""
 +++

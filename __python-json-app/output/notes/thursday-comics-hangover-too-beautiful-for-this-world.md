@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506569958990/fury
 twitterauto = "Turns out, these comics were too beautiful to live in this world."
 facebookauto = "These comics were too beautiful to live in this world."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/marvel-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/marvel-comics.md"]
 notes_about = ""
 books = ""
 +++

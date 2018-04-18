@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Today's book news roundup is brought to you by the concept of community."
 facebookauto = "Today's book news roundup is brought to you by the concept of community."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/fantagraphics", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/fantagraphics.md", "tags/short-run.md"]
 notes_about = ""
-books = ["books/today-will-be-different"]
+books = ["books/today-will-be-different.md"]
 +++
 * Fantagraphics Books is publishing a new comics anthology, titled *Now*. And Fantagraphics associate publisher Eric Reynolds [explained to the *Comics Reporter*'s Tom Spurgeon](http://www.comicsreporter.com/index.php/cr_sunday_interview_bundled_extra_editor_eric_reynolds_of_fantagraphics_on/) that the idea for *Now* came straight out of Seattle:
 

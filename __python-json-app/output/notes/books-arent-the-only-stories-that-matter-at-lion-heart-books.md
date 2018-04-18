@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Meet the Seattle bookseller who can tell what your parents do just by looking at you."
 facebookauto = "Our celebration of Bookstore of the Month Lion Heart Books continues with a look at all the stories that pass through the place \u2014\u00a0and we're not just talking about the books."
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/bookstore-of-the-month"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

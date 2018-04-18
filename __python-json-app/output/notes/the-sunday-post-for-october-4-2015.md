@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Sunday Post this week features pieces by @cherylmorgan, @craigmod, and @BernardHayman"
 facebookauto = "The Sunday Post looks at diversity and the future of reading this week."
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

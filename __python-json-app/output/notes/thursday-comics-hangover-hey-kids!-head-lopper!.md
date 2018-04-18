@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Reading @Andrew_MacLean's \"Head Lopper\" is like falling in love with comics all over again. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/phoenix-comics-and-games", "tags/head-lopper"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/phoenix-comics-and-games.md", "tags/head-lopper.md"]
 notes_about = ""
 books = ""
 +++

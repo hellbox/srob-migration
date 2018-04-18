@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522898179467/SRoB
 twitterauto = "Portrait Gallery: Infinite Potential. Write a poem, write a tenet, make your mark #illustration by @studiochristine"
 facebookauto = "Portrait Gallery: Infinite Potential"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

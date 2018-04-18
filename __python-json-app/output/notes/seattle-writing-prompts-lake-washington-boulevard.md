@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1488606238047/lake
 twitterauto = "Seattle Writing Prompts visits the dark side of Lake Washington Boulevard today"
 facebookauto = "Seattle Writing Prompts visits the dark side of Lake Washington Boulevard today"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

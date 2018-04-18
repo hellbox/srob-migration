@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is \"Art & Life\" by Priscilla Long. "
 facebookauto = "Our Tuesday Poem is \"Art & Life\" by Priscilla Long. "
 make_image_tweet = "False"
-notes_byline = ["writers/priscilla-long"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/priscilla-long.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

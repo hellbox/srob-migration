@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1455985726535/phot
 twitterauto = "A Lithuanian comics festival is our Kickstarter Fund recipient this week! "
 facebookauto = "A Lithuanian comic book festival is who we picked to back for the Kickstarter Fund this week. There's plenty there, even if you have no plans to travel."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

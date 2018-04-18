@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Now that Intruder is going away, what's next for Seattle's comics scene?"
 facebookauto = "Now that Intruder is going away, what's next for Seattle's comics scene?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/intruder", "tags/fantagraphics-bookstore-&amp;-gallery", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/intruder.md", "tags/fantagraphics-bookstore-&amp;-gallery.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

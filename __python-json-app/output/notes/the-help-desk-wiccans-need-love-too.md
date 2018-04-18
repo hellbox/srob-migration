@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"Is your mom aware of the fantastic work the Satanic Temple has spearheaded lately?\""
 facebookauto = "\"Is [your mom] aware of the fantastic work the Satanic Temple has spearheaded lately?\""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

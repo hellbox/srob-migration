@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Our thanks to sponsor Entre R\u00edos Books. Their book Twelve Saints is beautiful, and has a release party this Thursday!"
 facebookauto = "Our thanks to sponsor Entre R\u00edos Books. Their book Twelve Saints is beautiful, and has a release party this Thursday -- check out a poem and image from the book on our page, or take a look at the invitation to their release party here: https://www.facebook.com/events/920790967956915/"
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/twelve-saints"]
+books = ["books/twelve-saints.md"]
 +++
 Our thanks to this week's sponsor Entre Ríos Books. Their first release _Twelve Saints_ is a beautifully done collaboration between poet Knox Gardner and artist Nia Michaels. 
 

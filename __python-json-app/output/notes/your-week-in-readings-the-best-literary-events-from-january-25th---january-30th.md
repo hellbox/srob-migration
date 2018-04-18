@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484930488779/9780
 twitterauto = "This week, we're highlighting a reading for the homeless, a new barroom lit series, and a talk on residencies."
 facebookauto = "This week, we're highlighting a reading for the homeless, a new barroom lit series, and a talk on writer residencies."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

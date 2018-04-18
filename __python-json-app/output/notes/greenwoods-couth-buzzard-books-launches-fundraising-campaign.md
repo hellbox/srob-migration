@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Greenwood bookstore Couth Buzzard is running a GoFundMe campaign."
 facebookauto = "Greenwood bookstore Couth Buzzard is running a GoFundMe campaign."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fundraiser", "tags/couth-buzzard"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fundraiser.md", "tags/couth-buzzard.md"]
 notes_about = ""
 books = ""
 +++

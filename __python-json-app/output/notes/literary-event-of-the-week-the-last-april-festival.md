@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478240328459/APRI
 twitterauto = "Say goodbye to APRIL on Saturday, and say goodbye to a moment in Seattle history."
 facebookauto = "Say goodbye to APRIL on Saturday, and say goodbye to a moment in Seattle history."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/april"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/april.md"]
 notes_about = ""
 books = ""
 +++

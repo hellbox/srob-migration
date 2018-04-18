@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444408764972/SRoB
 twitterauto = "Portrait Gallery! @studiochristine paints writer @GhoshAmitav, speaking tomorrow at Town Hall."
 facebookauto = "A bonus Portrait Gallery this week! Christine Marie Larsen paints Amitav Ghosh, who is speaking tomorrow at Town Hall."
 make_image_tweet = ""
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

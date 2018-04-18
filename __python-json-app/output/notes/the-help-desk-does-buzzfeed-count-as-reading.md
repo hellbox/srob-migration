@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sure, we're reading more in the age of the internet. But does that make us more literate?"
 facebookauto = "Sure, we're reading more in the age of the internet. But does that make us more literate?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483464485652/Scre
 twitterauto = "Elisa Chavez is our first Poet in Residence."
 facebookauto = "Our first Poet in Residence is Elisa Chavez."
 make_image_tweet = "True"
-notes_byline = ["writers/elisa-chavez"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/elisa-chavez.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

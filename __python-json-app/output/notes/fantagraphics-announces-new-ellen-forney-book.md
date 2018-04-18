@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470942284478/unna
 twitterauto = "We can't wait for @ellen_forney's new book! (But we'll have to wait.)"
 facebookauto = "Fantagraphics is publishing a new book from Ellen Forney? Sign us up! "
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

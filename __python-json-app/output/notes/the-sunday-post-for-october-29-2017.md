@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "An amazing essay from @kristenmillares in @mosslitmag, an elegy to Taco Time, and more in this week's Sunday Post."
 facebookauto = "The Sunday Post is up, with an essay by Kristen Millares Young from the latest Moss; deep dives on weight bias, Nazis, and the mysterious appeal of the tiny home; and an elegy for the irresistible Mexi-Fries."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

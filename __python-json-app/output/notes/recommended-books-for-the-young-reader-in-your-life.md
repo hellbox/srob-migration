@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450037576093/9780
 twitterauto = "Shopping for the young person in your life? @chasingray compiled a list of amazing books for young readers."
 facebookauto = "It's so important for young people to love reading. What better time to sneak a book that they'll love into their hands than Christmas? Colleen Mondor has compiled a list of great young adult books \u2014\u00a0fiction and not, genre and literary \u2014 for the kid in your life. (You'll probably enjoy them, too.)"
 make_image_tweet = ""
-notes_byline = ["writers/colleen-mondor"]
-tags_notes = ["tags/young-adult", "tags/science-fiction", "tags/mystery"]
+notes_byline = ["writers/colleen-mondor.md"]
+tags_notes = ["tags/young-adult.md", "tags/science-fiction.md", "tags/mystery.md"]
 notes_about = ""
 books = ""
 +++

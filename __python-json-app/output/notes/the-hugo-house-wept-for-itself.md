@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sounds like the penultimate reading in the old Hugo House was incredibly eventful."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/tree-swenson"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/tree-swenson.md"]
 notes_about = ""
 books = ""
 +++

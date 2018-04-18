@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501124788897/evic
 twitterauto = "Your Week in Readings includes a couple of fantastic-looking mystery events."
 facebookauto = "Your Week in Readings includes a couple of fantastic-looking mystery events."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

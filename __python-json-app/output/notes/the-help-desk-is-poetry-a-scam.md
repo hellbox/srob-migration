@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A reader writes to @ciennam: \"My entire life, I\u2019ve suspected poetry to be a scam.\"  Her response:"
 facebookauto = "A reader writes to our literary advice columnist: \"My entire life, I\u2019ve suspected poetry to be a scam.\"  Her response:"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

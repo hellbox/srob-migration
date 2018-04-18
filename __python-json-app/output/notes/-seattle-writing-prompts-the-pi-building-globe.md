@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle Writing Prompts is in view of the P-I Globe this week. "
 facebookauto = "Seattle Writing Prompts is in view of the P-I Globe this week. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

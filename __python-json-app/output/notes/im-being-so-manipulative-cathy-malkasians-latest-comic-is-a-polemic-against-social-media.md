@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493969786851/eart
 twitterauto = "We talked with Cathy Malkasian about the anti-social-media sentiment in her dreamy comic Eartha."
 facebookauto = "We talked with Cathy Malkasian about the anti-social-media sentiment in her dreamy comic Eartha."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/fantagraphics.md"]
 notes_about = ""
-books = ["books/eartha"]
+books = ["books/eartha.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1493969786851/earthacover.jpeg)</p>
 

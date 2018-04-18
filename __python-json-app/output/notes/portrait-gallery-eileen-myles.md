@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444945740743/SRoB
 twitterauto = "The Portrait Gallery this week stars a dog named Honey, and next to her a human named @EileenMyles"
 facebookauto = "This week's Portrait Gallery stars a dog named Honey, and next to her a human named Eileen Myles."
 make_image_tweet = ""
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

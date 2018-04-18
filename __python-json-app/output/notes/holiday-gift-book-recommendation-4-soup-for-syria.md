@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1450154315310/soup
 twitterauto = "Our holiday bookseller recommendation series comes to a close with @elliottbaybook's pick: Soup for Syria."
 facebookauto = "Our holiday bookseller recommendation series comes to a close with Elliott Bay Book Company's pick:  Soup for Syria, an all-star celebrity cookbook that benefits Syrian refugees."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/elliott-bay-book-company", "tags/rick-simonson"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/elliott-bay-book-company.md", "tags/rick-simonson.md"]
 notes_about = ""
 books = ""
 +++

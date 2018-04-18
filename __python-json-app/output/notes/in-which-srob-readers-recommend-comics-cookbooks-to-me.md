@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494573538613/Scre
 twitterauto = "Our readers had some great comics cookbook recommendations!"
 facebookauto = "Yesterday, we wondered why there weren't any good comics cookbooks. Three of our readers responded with some great recommendations."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/cookbook", "tags/queen-anne-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/cookbook.md", "tags/queen-anne-book-company.md"]
 notes_about = ""
 books = ""
 +++

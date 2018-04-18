@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Happy pub day, Ta-Nehisi Coates!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
+notes_byline = ["writers/paul-constant.md"]
 tags_notes = ""
 notes_about = ""
-books = ["books/between-the-world-and-me"]
+books = ["books/between-the-world-and-me.md"]
 +++
 Today is the publication date for the new book by Ta-Nehisi Coates, *We Were Eight Years in Power*. It's a collection of essays which have previously been published in *The Atlantic*, along with eight new essays that look back on each year of the Obama presidency. 
 

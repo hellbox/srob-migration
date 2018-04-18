@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468627361847/heav
 twitterauto = "Our Event of the Week is Donald Ray Pollock reading @elliottbaybooks on July 25th."
 facebookauto = "Donald Ray Pollock reads at Elliott Bay Book Company on July 25th. He says the secret to writing is just to keep your butt in the seat until you finally write something."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

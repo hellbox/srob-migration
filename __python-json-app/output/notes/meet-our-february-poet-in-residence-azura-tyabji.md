@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our February Poet in Residence is one of the newest poets in the Seattle tradition: Azura Tyabji."
 facebookauto = "Our February Poet in Residence is one of the newest poets in the Seattle tradition: Azura Tyabji."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poet-in-residence"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poet-in-residence.md"]
 notes_about = ""
 books = ""
 +++

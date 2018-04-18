@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458532190053/Wint
 twitterauto = "Sponsor @poetrynw's new issue is dropping soon!"
 facebookauto = "Sponsor Poetry Northwest is keen for you to see their new issue, coming the first week of April. Get a preview on our site, and make sure you're signed up for a subscription so you can get it when it drops!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

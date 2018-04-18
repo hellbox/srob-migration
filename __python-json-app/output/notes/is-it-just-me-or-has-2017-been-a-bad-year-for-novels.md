@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Is it just me, or has 2017 been a bad year for novels?"
 facebookauto = "Paul Constant asks what may be a controversial question: \"Is it just me, or has 2017 been a bad year for novels?\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/novel"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/novel.md"]
 notes_about = ""
-books = ["books/priestdaddy", "books/you-dont-have-to-say-you-love-me", "books/citizen"]
+books = ["books/priestdaddy.md", "books/you-dont-have-to-say-you-love-me.md", "books/citizen.md"]
 +++
 We’re not quite halfway through 2017 yet, but I’ve noticed a very visible pattern to my reading this year: I’m not enjoying novels the way that I always have. It’s been a while since I’ve read a novel that has really blown me away, the way memoirs from Patricia Highsmith and Sherman Alexie did this year. No novel has wowed me with its ingenuity and energy  and passion, the way Claudia Rankine’s *Citizen* did. No novel has reached out and forced me to reconsider the world the way *The Righteous Mind* did.
 

@@ -10,5 +10,5 @@ last_updated = "2015-08-16T09:31:00-07:00"
 preview_url = "78163075-0d0e-e385-7e15-641d5c382be1"
 name = "Harper Perennial"
 title = "Harper Perennial"
-books_by_this_publisher = ["books/gutenbergs-apprentice-(paperback)", "books/dictionary-stories"]
+books_by_this_publisher = ["books/gutenbergs-apprentice-(paperback).md", "books/dictionary-stories.md"]
 +++

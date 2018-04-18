@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This morning, @SeattleMystery launched a GoFundMe campaign to raise $50,000 and save the bookshop."
 facebookauto = "This morning, Seattle Mystery Bookshop launched a GoFundMe campaign to raise $50,000 \"to make sure the rent is completely paid off, all our suppliers are happy, and to restore missing titles and depleted series to our shelves.\" "
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-mystery-bookshop"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-mystery-bookshop.md"]
 notes_about = ""
 books = ""
 +++

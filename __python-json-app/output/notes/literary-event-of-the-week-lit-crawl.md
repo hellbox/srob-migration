@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507789953108/afte
 twitterauto = "Our Event of the Week is Lit Crawl!"
 facebookauto = "Lit Crawl is a big damn deal, and it's happening on the 19th."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
-books = ["books/sorry-tree"]
+books = ["books/sorry-tree.md"]
 +++
 Sometimes you just need to throw a goddamned party, you know? Sometimes you need to show off, and invite everyone over, and throw the fuck down. In the Seattle literary scene, Lit Crawl has become that party, the one-night shindig that lays everything out in one glorious buffet. Spreading across Capitol Hill, First Hill, and downtown, Lit Crawl takes place in bars and bookstores and event spaces in five different “phases” on Thursday, October 19th. Readings begin at 6 pm, 7 pm, 8, pm, and 9 pm, with an afterparty running from 10 pm to midnight at Zoë Events on E Union Street.
 

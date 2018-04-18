@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Congratulations to @thisisEJKoh for winning a prize & publication from @Pleiades_Press!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry", "tags/awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md", "tags/awards.md"]
 notes_about = ""
 books = ""
 +++

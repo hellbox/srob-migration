@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478551789329/thor
 twitterauto = "Sponsor @Atelier26Books is here this week to show an under appreciated side of Thoreau."
 facebookauto = "Atelier26 Books is here to show a collection of Thoreau's funniest moments. Yes, that Thoreau!"
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/funny-ass-thoreau"]
+books = ["books/funny-ass-thoreau.md"]
 +++
 Our thanks to sponsor <a href="http://www.atelier26books.com" title="Atelier26 Books">Atelier26</a> for bringing the astounding book _Funny-Ass Thoreau_ to our readers this week. The book, released officially on Tuesday the 8th, covers a side of America's favorite recluse not seen in his more famous writings. 
 

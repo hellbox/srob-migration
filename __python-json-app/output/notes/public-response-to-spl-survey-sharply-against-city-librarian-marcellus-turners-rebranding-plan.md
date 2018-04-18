@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/laurel-holliday"]
-tags_notes = ["tags/seattle-public-library", "tags/marcellus-turner", "tags/city-librarian"]
+notes_byline = ["writers/laurel-holliday.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/marcellus-turner.md", "tags/city-librarian.md"]
 notes_about = ""
 books = ""
 +++

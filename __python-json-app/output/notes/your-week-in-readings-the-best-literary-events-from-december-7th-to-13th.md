@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449289163931/510F
 twitterauto = "Your week in readings kicks off with a reading about a dark time in Seattle history @ThirdPlaceBooks."
 facebookauto = "This week's reading events include Tess Gallagher, a collection of Seattle Mystery writers, and a night of musical interpretations of books written by local authors. Plus: Rick Steves!"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/phinney-books", "tags/town-hall-seattle", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/phinney-books.md", "tags/town-hall-seattle.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

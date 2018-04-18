@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ".@ciennam on Kingsolver: \"I think I suffered a rage blackout for the entirety of Prodigal Summer.\""
 facebookauto = "Our advice columnist is not a huge fan of Barbara Kingsolver: \"I think I suffered a rage blackout for the entirety of Prodigal Summer.\""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

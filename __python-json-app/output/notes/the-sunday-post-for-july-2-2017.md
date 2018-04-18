@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Clear skies for pilots and dark clouds for the New York Times and its editors in this week's Sunday Post."
 facebookauto = "Clear skies for pilots and dark clouds for the New York Times and its editors in this week's Sunday Post."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

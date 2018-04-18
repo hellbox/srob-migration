@@ -10,5 +10,5 @@ last_updated = "2017-06-25T21:48:00-07:00"
 preview_url = "9354470f-df08-2f0d-9ddc-874d0ae2f83b"
 name = "Marvel Comics"
 title = "Marvel Comics"
-books_by_this_publisher = ["books/ms-marvel-volume-1-no-normal", "books/ms-marvel-volume-2-generation-why", "books/ms-marvel-volume-3-crushed", "books/ms-marvel-volume-4-last-days", "books/ms-marvel-volume-5-super-famous"]
+books_by_this_publisher = ["books/ms-marvel-volume-1-no-normal.md", "books/ms-marvel-volume-2-generation-why.md", "books/ms-marvel-volume-3-crushed.md", "books/ms-marvel-volume-4-last-days.md", "books/ms-marvel-volume-5-super-famous.md"]
 +++

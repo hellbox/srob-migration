@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518816041234/ozek
 twitterauto = "Our Literary Event of the Week this week offers a Zen Buddhist take on writing."
 facebookauto = "Our Literary Event of the Week this week offers a Zen Buddhist take on writing."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

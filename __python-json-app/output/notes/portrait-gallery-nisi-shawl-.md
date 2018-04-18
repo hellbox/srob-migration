@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512058702171/SRoB
 twitterauto = "Portrait Gallery: @NisiShawl leads Healing Histories writing class @SPLBuzz #SeattleWrites Saturday @studiochristine"
 facebookauto = "Portrait Gallery: Nisi Shawl teaches a free writing course this Saturday at the Greenlake Branch of the Seattle Public Library illustrated by Christine Marie Larsen."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

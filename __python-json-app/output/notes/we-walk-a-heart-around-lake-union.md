@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Tuesday Poem today is from @pennyzola: \"We Walk A Heart Around Lake Union\""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/michelle-pe\u00f1aloza"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/michelle-pe\u00f1aloza.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

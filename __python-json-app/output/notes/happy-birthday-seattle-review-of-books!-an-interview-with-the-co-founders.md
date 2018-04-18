@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "For @seattlereviewof's 2nd birthday, @paulconstant and @hellbox dish on reviewing, literary Seattle, and more."
 facebookauto = "The Seattle Review of Books is turning two! In a birthday interview, the co-founders dish on the art of reviewing, literary Seattle, and what's next for the site. "
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
 books = ""
 +++

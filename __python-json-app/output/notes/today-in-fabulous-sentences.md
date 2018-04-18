@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452198615663/Scre
 twitterauto = "You should make a resolution to join \u200f@EmWatson's feminist book club."
 facebookauto = "Emma Watson is starting a book club. Wait! That's not the best part. Emma Watson is starting a feminist book club. We would like to join immediately, please."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/emma-watson", "tags/book-club", "tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/emma-watson.md", "tags/book-club.md", "tags/feminism.md"]
 notes_about = ""
 books = ""
 +++

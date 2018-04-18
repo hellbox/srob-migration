@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1476058578015/life
 twitterauto = "Here's one great event for every day this week:"
 facebookauto = "This week features a celebration of great literary mag Moss, Bryan Cranston in conversation with Sherman Alexie, and absolutely nothing related to the election. (You're welcome.)"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/moss"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/moss.md"]
 notes_about = ""
 books = ""
 +++

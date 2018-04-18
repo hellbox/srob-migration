@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your Week in Readings starts with a book about owls and includes free comics and a cemetery tour."
 facebookauto = "Your Week in Readings starts with a book about owls and includes free comics and a cemetery tour."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/secret-garden-books", "tags/open-books", "tags/seattle-obscura-society"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/secret-garden-books.md", "tags/open-books.md", "tags/seattle-obscura-society.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "This year's Magma Festival from @hollowearth includes some neat-sounding literary events."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/furnace", "tags/hollow-earth-radio", "tags/babel--salvage"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/furnace.md", "tags/hollow-earth-radio.md", "tags/babel--salvage.md"]
 notes_about = ""
 books = ""
 +++

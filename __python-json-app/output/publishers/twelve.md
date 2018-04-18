@@ -10,5 +10,5 @@ last_updated = "2016-09-27T06:20:00-07:00"
 preview_url = "28a93338-6a1f-fe54-5d30-01342223291a"
 name = "Twelve"
 title = "Twelve"
-books_by_this_publisher = ["books/tribe"]
+books_by_this_publisher = ["books/tribe.md"]
 +++

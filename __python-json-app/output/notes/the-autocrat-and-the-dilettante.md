@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1496427566388/manw
 twitterauto = "At our book club last night, people kept confusing Putin for Trump and vice versa."
 facebookauto = "At our book club last night, people kept confusing Vladimir Putin for Donald Trump, and vice versa."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reading-through-it", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reading-through-it.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

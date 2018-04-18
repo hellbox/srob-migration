@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Eugene M. Babb and @3rdplacepress are on the site for one more day!"
 facebookauto = "One more day to read all about sponsor Eugene M. Babb's experience at being a working musician for 30 years. "
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/grit-and-roses"]
+books = ["books/grit-and-roses.md"]
 +++
 Through tomorrow you can read an excerpt from Eugene M. Babb's stories of the gigging life, _Grit and Roses_. Babb and <a href="http://thirdplacepress.com" title="Third Place Press | Home | Print on demand and self publishing services">Third Place Press</a> are our sponsors this week, and we're absolutely thrilled to have them. 
 

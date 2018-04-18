@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Are you a Washington artist looking for some cash to finish a project? Click here:"
 facebookauto = "Are you a Washington artist looking for some cash to finish a project? Click here:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/artist-trust", "tags/university-of-washington-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/artist-trust.md", "tags/university-of-washington-press.md"]
 notes_about = ""
 books = ""
 +++

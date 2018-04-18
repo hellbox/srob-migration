@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520906912005/Scre
 twitterauto = "Our second from @trippweavepoet is titled \"How I Came to this World\""
 facebookauto = "Our second from Julene Tripp Weaver is titled \"How I Came to this World\""
 make_image_tweet = "False"
-notes_byline = ["writers/julene-tripp-weaver"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/julene-tripp-weaver.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

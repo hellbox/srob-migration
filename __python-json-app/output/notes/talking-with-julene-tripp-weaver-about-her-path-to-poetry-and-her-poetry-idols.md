@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521589055074/trut
 twitterauto = "We talked with poet Julene Tripp Weaver about the long road to being an overnight success."
 facebookauto = "We talked with our March 2018 Poet in Residence, Julene Tripp Weaver, about the long road to being an overnight success."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

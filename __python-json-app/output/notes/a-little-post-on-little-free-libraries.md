@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you think Little Free Libraries are the coolest, here's the post for you."
 facebookauto = "If you think Little Free Libraries are the coolest, here's the post for you."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/little-free-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/little-free-library.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1466206712506/koon
 twitterauto = "You've got a difficult choice between two readings  to make tomorrow night."
 facebookauto = "Thursday night, you'll have to choose which event you want to attend: a young, fun poetry barbecue? Or one of the grand masters of Seattle poetry?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/margin-shift", "tags/couth-buzzard"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/margin-shift.md", "tags/couth-buzzard.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A change from Amazon today will likely mean the end for some book bloggers."
 facebookauto = "A change from Amazon today will likely mean the end for some book bloggers."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

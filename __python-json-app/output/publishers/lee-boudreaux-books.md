@@ -10,5 +10,5 @@ last_updated = "2016-02-25T23:54:00-08:00"
 preview_url = "92f50997-95b4-e35d-1d97-ae9ecca337c9"
 name = "Lee Boudreaux Books"
 title = "Lee Boudreaux Books"
-books_by_this_publisher = ["books/your-heart-is-a-muscle-the-size-of-a-fist"]
+books_by_this_publisher = ["books/your-heart-is-a-muscle-the-size-of-a-fist.md"]
 +++

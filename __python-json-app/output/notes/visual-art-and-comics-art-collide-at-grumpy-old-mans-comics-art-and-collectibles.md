@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520997930192/Grum
 twitterauto = "We visited Ballard's newest comic shop/art gallery, The Grumpy Old Man Comics, Art & Collectibles."
 facebookauto = "We visited Ballard's newest comic shop/art gallery, The Grumpy Old Man Comics, Art & Collectibles."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/grumpy-old-man"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/grumpy-old-man.md"]
 notes_about = ""
 books = ""
 +++

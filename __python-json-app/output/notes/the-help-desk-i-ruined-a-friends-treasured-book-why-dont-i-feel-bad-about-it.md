@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Help Desk: I ruined a friend's treasured book. Why don't I feel guilty about it?"
 facebookauto = "Say a friend loans you a book. Say you accidentally ruin the book. Say you find out the book was inscribed by a now-dead author. What do you do?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

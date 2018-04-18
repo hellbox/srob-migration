@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "When a white customer complained about a #BlackLivesMatter display, a bookstore owner had the perfect response."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/black-lives-matter", "tags/left-bank-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/black-lives-matter.md", "tags/left-bank-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458157726248/octo
 twitterauto = "Tonight! Learn about diversity in Children's books, free for librarians."
 facebookauto = "At the SCBWI meeting tonight, the focus will be on diversity in children's books, and the program is free for librarians."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/events", "tags/scbwi", "tags/marley-dias", "tags/kelly-jones", "tags/ann-crewdson", "tags/liz-wong", "tags/philip-lee", "tags/lee-&amp;-low-publishers"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/events.md", "tags/scbwi.md", "tags/marley-dias.md", "tags/kelly-jones.md", "tags/ann-crewdson.md", "tags/liz-wong.md", "tags/philip-lee.md", "tags/lee-&amp;-low-publishers.md"]
 notes_about = ""
 books = ""
 +++

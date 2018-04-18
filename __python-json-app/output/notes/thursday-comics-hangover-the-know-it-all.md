@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452148674574/2815
 twitterauto = "The star of Mystery Girl knows everything, and she's still a nice human being."
 facebookauto = "Mystery Girl is a comic about a woman of color who knows everything, and uses that knowledge to solve mysteries. It's absolutely charming."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/dark-horse-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/dark-horse-comics.md"]
 notes_about = ""
 books = ""
 +++

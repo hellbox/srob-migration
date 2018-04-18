@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495853865827/oliv
 twitterauto = "We talked with @Oliver_delaPaz about missing Seattle and why poets need community."
 facebookauto = "We talked with Oliver de la Paz about missing Seattle, learning to love poetry from a Reader's Digest collection of Robert Penn Warren, and why poets need community."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/poetry", "tags/hugo-house", "tags/jack-straw"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/poetry.md", "tags/hugo-house.md", "tags/jack-straw.md"]
 notes_about = ""
 books = ""
 +++

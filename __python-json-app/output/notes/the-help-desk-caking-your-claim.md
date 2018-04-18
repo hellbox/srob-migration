@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you really want to get your message across, print it on an ice cream cake."
 facebookauto = "If you really want to get your message across, print it on an ice cream cake."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

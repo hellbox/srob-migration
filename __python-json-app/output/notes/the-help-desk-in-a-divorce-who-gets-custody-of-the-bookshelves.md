@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In a divorce, who gets custody of the books? @ciennam is on the case."
 facebookauto = "Even the most amicable of divorces gets testy when it comes time to determine who gets custody of the books. Cienna Madrid helps a couple figure out how to divide their bookshelves fairly."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508393286952/snow
 twitterauto = "How can an adaptation of a great thriller starring a dreamy cast turn out so badly?"
 facebookauto = "How can a cinematic adaptation of a great Norwegian crime thriller starring the dreamy Michael Fassbender turn out so badly?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/adaptation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/adaptation.md"]
 notes_about = ""
 books = ""
 +++

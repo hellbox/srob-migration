@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1462575806191/beco
 twitterauto = "Your Week in Readings begins tonight at the @pinebox."
 facebookauto = "Your Week in Readings includes a reading with free doughnuts, a young adult novel about Pablo Neruda, and a memoir about ex-gay therapy."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

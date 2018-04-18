@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're big fans of the @PhinneyBooks Resist List. Keep up on current events, and help the @ACLU."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/phinney-books", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/phinney-books.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

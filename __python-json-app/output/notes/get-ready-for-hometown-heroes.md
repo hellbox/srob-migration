@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Save the date: Hometown Heroes, a free underground comics convention, debuts on Friday, April 8."
 facebookauto = "Save the date: Hometown Heroes, a free underground comics convention, debuts on Friday, April 8."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hometown-heroes", "tags/emerald-city-comicon", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hometown-heroes.md", "tags/emerald-city-comicon.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

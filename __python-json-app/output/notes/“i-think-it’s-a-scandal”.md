@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Many thanks to the @seattletimes for writing about the wealth disparities in Seattle's school libraries."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/libraries"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/libraries.md"]
 notes_about = ""
 books = ""
 +++

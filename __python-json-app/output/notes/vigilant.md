@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"It\u2019s hard to remain human / on a day when mercy is a frozen river\" starts Jamaica Baldwin's latest poem."
 facebookauto = "\"It\u2019s hard to remain human / on a day when mercy is a frozen river\" starts Jamaica Baldwin's latest poem."
 make_image_tweet = "False"
-notes_byline = ["writers/jamaica-baldwin"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jamaica-baldwin.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

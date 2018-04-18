@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493784439376/litt
 twitterauto = "Are you excited for @SIFFnews? Here are some of the best bookish movies of the festival."
 facebookauto = "Are you excited for the Seattle International Film Festival? Here are some of the best bookish movies of the fest. (Spoiler alert; there's a lot of Roald Dahl.)"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/siff", "tags/adaptation", "tags/film"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/siff.md", "tags/adaptation.md", "tags/film.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's @SeattleLitCrawl itinerary is all poetry, all the time."
 facebookauto = "Today's Seattle Lit Crawl itinerary is all poetry, all the time."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

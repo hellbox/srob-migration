@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Autonomedia"
 title = "Autonomedia"
-books_by_this_publisher = ["books/negativeland"]
+books_by_this_publisher = ["books/negativeland.md"]
 +++

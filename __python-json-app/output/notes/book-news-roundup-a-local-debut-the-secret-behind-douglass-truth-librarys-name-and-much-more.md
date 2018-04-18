@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's roundup brings a new book from @ancawrites and a gender experiment you can try on your bookshelves."
 facebookauto = "Today's Book News Roundup features a novel debut and a gender experiment you can try on your bookshelves at home."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/seattle-public-library", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/seattle-public-library.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

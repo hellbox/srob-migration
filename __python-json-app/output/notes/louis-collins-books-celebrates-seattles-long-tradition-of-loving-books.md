@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle is a relatively new city. Is it hard to find rare and antiquarian books here?"
 facebookauto = "Seattle is a relatively new city. Is it hard to find rare and antiquarian books here?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/louis-collins-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/louis-collins-books.md"]
 notes_about = ""
 books = ""
 +++

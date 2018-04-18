@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493163446661/cols
 twitterauto = "The 2017-2018 lineup of @SeaArtsLectures \u200fauthors looks incredible:"
 facebookauto = "The 2017-2018 lineup of @SeaArtsLectures \u200fauthors looks incredible:"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-arts-and-lectures"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-arts-and-lectures.md"]
 notes_about = ""
 books = ""
 +++

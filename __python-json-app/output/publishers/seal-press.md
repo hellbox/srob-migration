@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Seal Press"
 title = "Seal Press"
-books_by_this_publisher = ["books/so-you-want-to-talk-about-race"]
+books_by_this_publisher = ["books/so-you-want-to-talk-about-race.md"]
 +++

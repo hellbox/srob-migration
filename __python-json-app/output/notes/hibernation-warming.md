@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517254684183/Scre
 twitterauto = "Our last from January Poet in Residence, Kevin Craft, is titled \"Hibernation, Warming\""
 facebookauto = "Our last from January Poet in Residence, Kevin Craft, is titled \"Hibernation, Warming\""
 make_image_tweet = "False"
-notes_byline = ["writers/kevin-craft"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/kevin-craft.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here's some book-related art we're admiring today."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/public-art", "tags/book-art"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/public-art.md", "tags/book-art.md"]
 notes_about = ""
 books = ""
 +++

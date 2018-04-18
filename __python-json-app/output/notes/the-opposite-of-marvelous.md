@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In less than a year, Marvel Comics has gone from a wildly exciting comics line to abysmal corporate dreck."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/marvel-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/marvel-comics.md"]
 notes_about = ""
 books = ""
 +++

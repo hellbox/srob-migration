@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517594786825/Brav
 twitterauto = "Today's Book News Roundup is a doozy, packed with scholarships, prizes, and residencies."
 facebookauto = "Today's Book News Roundup is a doozy, packed with scholarships, prizes, and residencies"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run", "tags/clarion-west", "tags/seattle-arts-and-lectures"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md", "tags/clarion-west.md", "tags/seattle-arts-and-lectures.md"]
 notes_about = ""
 books = ""
 +++

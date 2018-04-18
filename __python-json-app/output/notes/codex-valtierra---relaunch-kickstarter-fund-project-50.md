@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481956502556/430e
 twitterauto = "The Kickstarter Fund backs an awesome, illustrated Aztec revenge fantasy"
 facebookauto = "The Kickstarter Fund backs an awesome, illustrated Aztec revenge fantasy"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

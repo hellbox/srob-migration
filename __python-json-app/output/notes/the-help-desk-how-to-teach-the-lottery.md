@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Who wants to know where @ciennam keeps her lottery tickets?"
 facebookauto = "Who wants to know where Cienna Madrid keeps her lottery tickets?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

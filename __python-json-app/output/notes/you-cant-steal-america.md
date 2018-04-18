@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469773352577/Scre
 twitterauto = "What kind of story did Hillary Clinton tell at the DNC this week?"
 facebookauto = "What kind of story did Hillary Clinton tell at the DNC this week?"
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/politics", "tags/hillary-clinton", "tags/donald-trump", "tags/barack-obama"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/politics.md", "tags/hillary-clinton.md", "tags/donald-trump.md", "tags/barack-obama.md"]
 notes_about = ""
 books = ""
 +++

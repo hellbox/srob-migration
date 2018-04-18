@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "But really: how many action figures can we sell of this?"
 facebookauto = ""
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/dc-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/dc-comics.md"]
 notes_about = ""
 books = ""
 +++

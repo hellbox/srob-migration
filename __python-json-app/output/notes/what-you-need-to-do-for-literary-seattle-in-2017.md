@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Looking back at Seattle's literary 2016 and looking forward to what you can do for Seattle in 2017."
 facebookauto = "Looking back at Seattle's literary 2016 and looking forward to what you can do for Seattle in 2017."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/2016", "tags/donald-trump", "tags/third-place-books-seward-park", "tags/april", "tags/intruder"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/2016.md", "tags/donald-trump.md", "tags/third-place-books-seward-park.md", "tags/april.md", "tags/intruder.md"]
 notes_about = ""
-books = ["books/hola-and-goodbye", "books/lovecraft-country", "books/everfair", "books/the-in-betweens", "books/rolling-blackouts", "books/agnostic", "books/the-multitude", "books/this-city", "books/hardly-war"]
+books = ["books/hola-and-goodbye.md", "books/lovecraft-country.md", "books/everfair.md", "books/the-in-betweens.md", "books/rolling-blackouts.md", "books/agnostic.md", "books/the-multitude.md", "books/this-city.md", "books/hardly-war.md"]
 +++
 Book reviewing is a funny business. You’re expected to read, process, and devise a response to a text in a matter of weeks (at best) or (realistically) days. But really it takes months to fully digest a book, to contextualize it in your life and discern its full value. With that in mind, I’d like to open by talking about the books that stuck with me this year.
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Is there such a thing as too many Little Free Libraries? If so, is Seattle getting close to over-saturation?"
 facebookauto = "Is there such a thing as too many Little Free Libraries? If so, is Seattle getting close to over-saturation?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/little-free-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/little-free-library.md"]
 notes_about = ""
 books = ""
 +++

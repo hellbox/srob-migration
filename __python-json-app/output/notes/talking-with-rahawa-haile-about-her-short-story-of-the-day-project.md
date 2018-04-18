@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We talked to @rahawahaile about her Short Story of the Day project, now that it has come to a close."
 facebookauto = "We talked to Rahawa Haile about her Short Story of the Day project, now that it has come to a close."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/new-york-times-bestseller", "tags/ted-cruz", "tags/mark-driscoll"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/new-york-times-bestseller.md", "tags/ted-cruz.md", "tags/mark-driscoll.md"]
 notes_about = ""
 books = ""
 +++

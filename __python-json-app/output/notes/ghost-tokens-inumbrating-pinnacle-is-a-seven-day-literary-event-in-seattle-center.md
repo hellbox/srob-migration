@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1452818923247/ghos
 twitterauto = "A seven-day literary festival unfolds at Seatte Center starting Friday."
 facebookauto = "Ghost Tokens: Inumbrating Pinnacle is a free 7-day reading series unfolding at various locations around Seattle Center. It's a response to the changing face of Seattle and a celebration of the heart of the city. Who would be crazy enough to put that kind of an event on? Meet Greg Bem."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-center", "tags/brian-mcguigan", "tags/cheap-wine-&amp;-poetry", "tags/breadline"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-center.md", "tags/brian-mcguigan.md", "tags/cheap-wine-&amp;-poetry.md", "tags/breadline.md"]
 notes_about = ""
 books = ""
 +++

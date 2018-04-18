@@ -16,10 +16,10 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1511657427009/
 twitterauto = "This week's excerpt is up! Check out a sample chapter from sponsor Paul Mullin's memoir, The Starting Gate."
 facebookauto = "This week's excerpt is up! Check out a sample chapter from sponsor Paul Mullin's memoir, The Starting Gate. "
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/the-starting-gate"]
+books = ["books/the-starting-gate.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1511657631741/The%20Starting%20Gate_150.jpeg)</p>
 This week, the *Seattle Review of Books* is sponsored by Paul Mullin, playwright, poet, and creator/curator of the Loud Mouth Lit reading series. We're infinitely grateful to Paul for supporting the site and for [sharing a chapter from his memoir, *The Starting Gate*, with our readers](http://www.seattlereviewofbooks.com/sponsorships/). The excerpt is a great standalone story: the down-and-dirty (or up-and-clean) on the dangers of washing windows on a New York highrise when you're a young writer with three jobs and no time to sleep. And it's an irresistible entry point for Mullin's no-holds-barred style.

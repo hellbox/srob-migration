@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1492048432516/wate
 twitterauto = "Our event of the week brings an excellent Redmond poet and translator to @elliottbaybooks."
 facebookauto = "Our event of the week brings an excellent Redmond poet and translator to Elliott Bay Book Company."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
-books = ["books/water-&amp;-salt"]
+books = ["books/water-&amp;-salt.md"]
 +++
 It is probably no mistake that some of the best poets are translators. While translating poetry from one language into another is an impossible, thankless task — I’ve heard it described as performing open heart surgery with a chainsaw — it still teaches you to ask all the right questions. 
 

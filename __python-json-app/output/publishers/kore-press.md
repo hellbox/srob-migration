@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Kore Press"
 title = "Kore Press"
-books_by_this_publisher = ["books/pomegranate-eater", "books/giraffes-of-devotion"]
+books_by_this_publisher = ["books/pomegranate-eater.md", "books/giraffes-of-devotion.md"]
 +++

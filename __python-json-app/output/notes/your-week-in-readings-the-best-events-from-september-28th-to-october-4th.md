@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1443218059576/jenn
 twitterauto = "Your week in readings begins tonight with a group reading from an anthology of women and work @ubookstorereads."
 facebookauto = "We've got a week's worth of readings for you, including two celebrations of the new book about Seattle's literary scene, a comics and zine fair, a reading from Stacey Levine, and a book club presentation with a screening of the last Hunger Games movie."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/hugo-house", "tags/elliott-bay-book-company", "tags/seattle-public-library", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/town-hall-seattle.md", "tags/hugo-house.md", "tags/elliott-bay-book-company.md", "tags/seattle-public-library.md", "tags/university-book-store.md"]
 notes_about = ""
-books = ["books/raising-lilly-ledbetter", "books/the-octopus-rises"]
+books = ["books/raising-lilly-ledbetter.md", "books/the-octopus-rises.md"]
 +++
 <p class="image">![](/webhook-uploads/1443218059576/jennifer-lawrence-hunger-games-hd-wallpaper-for-iphone-b40.jpg)</p>
 

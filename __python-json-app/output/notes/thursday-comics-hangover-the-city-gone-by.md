@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sometimes, you suddenly get the appeal of a cartoonist. This new reissue from @DandQ is a good example."
 facebookauto = "Sometimes, you suddenly understand the appeal of a cartoonist. you never fully grasped. This new reissue of Cheap Novelties from Drawn and Quarterly is a good example."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/drawn-&amp;-quarterly"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/drawn-&amp;-quarterly.md"]
 notes_about = ""
 books = ""
 +++

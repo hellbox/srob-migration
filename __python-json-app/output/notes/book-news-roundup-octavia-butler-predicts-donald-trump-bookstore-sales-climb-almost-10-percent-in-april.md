@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in book news: Octavia Butler predicted Donald Trump and bookstore sales climbed by a lot in April."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our picks this week for Sunday reading: @giganticanovel, Iris Murdoch, Alan Lightman, and more."
 facebookauto = "Our picks this week for Sunday reading: Richard Chiem, Iris Murdoch, Alan Lightman, and more."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

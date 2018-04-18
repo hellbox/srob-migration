@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sponsor Entre Rios brings a collection of Shelley's political poems, as he wanted them presented."
 facebookauto = "Sponsor Entre Rios is back with a new volume of Shelley's political poems. What a great thing for an election year. "
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

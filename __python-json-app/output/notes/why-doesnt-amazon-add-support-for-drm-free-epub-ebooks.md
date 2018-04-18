@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"Why doesn\u2019t Amazon add support for ePub ebooks to Kindles?\" Uh, because they're Amazon?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/e-books", "tags/amazon", "tags/kindle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/e-books.md", "tags/amazon.md", "tags/kindle.md"]
 notes_about = ""
 books = ""
 +++

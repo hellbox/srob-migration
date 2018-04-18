@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We could use more bloggers."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/gawker", "tags/blogging"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/gawker.md", "tags/blogging.md"]
 notes_about = ""
 books = ""
 +++

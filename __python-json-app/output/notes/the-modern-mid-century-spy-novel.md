@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Sponsor @paulvidich has mastered the modern classic espionage novel."
 facebookauto = "Sponsor Paul Vidich has mastered the modern classic espionage novel."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/an-honorable-man"]
+books = ["books/an-honorable-man.md"]
 +++
 Sponsor Paul Vidich's _An Honorable Man_ has been getting a great reception. It's Washington D.C., 1953, and any fan of spy novels knows that this time is pivotal in the espionage game. Russia in chaos after Stalin died, McCarthyism taking root at home, the Cold War starting its long tense march. 
 

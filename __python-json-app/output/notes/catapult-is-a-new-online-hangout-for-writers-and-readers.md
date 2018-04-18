@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Will @CatapultStory finally crack the code for online writing communities?."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/catapult"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/catapult.md"]
 notes_about = ""
 books = ""
 +++

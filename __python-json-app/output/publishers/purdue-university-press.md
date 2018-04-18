@@ -10,5 +10,5 @@ last_updated = "2016-11-29T10:04:00-08:00"
 preview_url = "9175e324-3564-b293-1c03-fdd63b656de9"
 name = "Purdue University Press"
 title = "Purdue University Press"
-books_by_this_publisher = ["books/the-body-mutinies"]
+books_by_this_publisher = ["books/the-body-mutinies.md"]
 +++

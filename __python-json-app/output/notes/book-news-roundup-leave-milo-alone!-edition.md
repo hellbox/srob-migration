@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's book news roundup asks if anyone remembers sex advice columnist Dr. Ruth."
 facebookauto = "Today's book news roundup asks if anyone remembers sex advice columnist Dr. Ruth."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/nerd", "tags/milo-yiannopoulos"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/nerd.md", "tags/milo-yiannopoulos.md"]
 notes_about = ""
 books = ""
 +++

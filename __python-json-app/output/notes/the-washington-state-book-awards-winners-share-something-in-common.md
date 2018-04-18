@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Washington State Book Award winners have been announced."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/washington-state-book-awards"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/washington-state-book-awards.md"]
 notes_about = ""
 books = ""
 +++

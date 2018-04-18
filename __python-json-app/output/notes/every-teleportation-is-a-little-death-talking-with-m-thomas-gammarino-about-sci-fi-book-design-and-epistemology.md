@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1465278240535/tita
 twitterauto = "Talking with M. Thomas Gammarino about how every teleportation is a little death."
 facebookauto = "M. Thomas Gammarino wrote a sci-fi novel about the movie Titanic. In an interview, we asked him why."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fiction"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fiction.md"]
 notes_about = ""
-books = ["books/king-of-the-worlds"]
+books = ["books/king-of-the-worlds.md"]
 +++
 <p class="intro">M. Thomas Gammarino’s *King of the Worlds* is an excellent sci-fi novel that combines the interiority of literary fiction from the 50s, 60s and 70s with the all-out weirdness of the golden age of science fiction. (You can [read my review here](http://seattlereviewofbooks.com/reviews/the-final-frontier/).) It’s set in an alternate universe in which a child actor named Dylan Greenyears stars in a wildly popular Terry Gilliam-directed sequel to *ET: The Extraterrestrial.* Greenyears becomes a huge celebrity, but then he’s publicly humiliated when James Cameron fires him from *Titanic*. Greenyears teleports to a planet nearly two dozen light years away where he spends years living in anonymity as a suburban dad and teacher named Dylan Green. Eventually, Green starts digging through fan mail from his teen idol days, and that sets him down a cross-universe quest for meaning. Gammarino and I talked onstage on Sunday afternoon at University Book Store. What follows is a lightly edited transcription of that conversation.</p>
 

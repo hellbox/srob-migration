@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1518073041341/Econ
 twitterauto = "Can a cartoon book about economics change the way Democratic politicians speak to ordinary people>"
 facebookauto = "Can a cartoon book about economics change the way Democratic politicians speak to ordinary people>"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/fantagraphics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/fantagraphics.md"]
 notes_about = ""
 books = ""
 +++

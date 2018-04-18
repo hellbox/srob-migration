@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1468808814473/wing
 twitterauto = "Here's a fantasy novel that will deepen your love of reading."
 facebookauto = "A bookseller at Ravenna Third Place Books recommends a fantasy novel that will deepen your love of reading."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/third-place-books-ravenna", "tags/small-beer-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/third-place-books-ravenna.md", "tags/small-beer-press.md"]
 notes_about = ""
 books = ""
 +++

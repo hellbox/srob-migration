@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ".@KelliAgodon and @twosylviaspress announced a new poetry prize for women over the age of 50."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/two-sylvias-press", "tags/literary-prize"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/two-sylvias-press.md", "tags/literary-prize.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501364855804/SRoB
 twitterauto = "Portrait Gallery: Aug 7 @ubookstorereads Seattle Mystery Authors Tell All @Jameswziskin by @studiochristine"
 facebookauto = "Portrait Gallery: Jim Ziskin takes part August 7 in a group discussion Seattle Mystery Authors Tell All. Illustration by Christine Marie Larsen"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sponsor @johnwtreat's novel takes you inside being young, gay, and fighting for love and your life in 1983 Seattle."
 facebookauto = "Sponsor John Whittier Treat's novel shows you what it was like to be young, gay, and fighting for love and your life in 1983 Seattle. "
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

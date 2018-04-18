@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1479856670091/the-
 twitterauto = "This week's Literary Event of the Week is the Furnace Reading series @hollowearth."
 facebookauto = "The Furnace Reading Series is closing out with a bang (and violating its one mission statement) with a big show this month."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/furnace"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/furnace.md"]
 notes_about = ""
 books = ""
 +++

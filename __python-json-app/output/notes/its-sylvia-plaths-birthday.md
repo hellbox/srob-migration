@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/feminism"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/feminism.md"]
 notes_about = ""
-books = ["books/heroines"]
+books = ["books/heroines.md"]
 +++
 Had she lived, Sylvia Plath would have been 83 years old today. If you're in the mood, maybe stop by [this Brainpickings post](https://www.brainpickings.org/2014/10/27/sylvia-plath-reads-the-disquieting-muses-bbc/) and listen to Plath share her thoughts on poetry. As for me, it's a sad occasion; I tend to spend the day thinking about all the work that never made it to the page. 
 

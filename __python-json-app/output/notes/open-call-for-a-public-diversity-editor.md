@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're looking for a Public Diversity Editor. Can you spread the word and help us find one?"
 facebookauto = "We're searching for a Public Diversity Editor. Can you please help us find one?"
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/diversity", "tags/public-diversity-editor"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/diversity.md", "tags/public-diversity-editor.md"]
 notes_about = ""
 books = ""
 +++

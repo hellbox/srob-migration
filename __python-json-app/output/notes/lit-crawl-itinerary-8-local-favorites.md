@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our final @litcrawlseattle itinerary features three Seattle writers you really ought to know."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

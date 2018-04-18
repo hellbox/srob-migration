@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today we offer you a Christmas ghost story, titled \"Keys\", by @hellbox."
 facebookauto = "On Christmas, we offer a Christmas ghost story for you, titled \"Keys\""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/christmas-ghost-story", "tags/fiction"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/christmas-ghost-story.md", "tags/fiction.md"]
 notes_about = ""
 books = ""
 +++

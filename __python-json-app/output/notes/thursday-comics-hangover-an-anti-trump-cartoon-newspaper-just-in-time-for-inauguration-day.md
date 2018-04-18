@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1483606159841/resi
 twitterauto = "On Trump's inauguration day, protesters will hand out copies of a free newspaper full of comics by women."
 facebookauto = "On Donald Trump's inauguration day, protesters will hand out copies of a free newspaper full of comics by women."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/intruder"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/intruder.md"]
 notes_about = ""
 books = ""
 +++

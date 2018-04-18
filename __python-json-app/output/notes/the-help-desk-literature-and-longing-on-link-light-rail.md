@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Is it okay to tell someone that you like her book on public transportation? @ciennam has the answer:"
 facebookauto = "Say you see a stranger reading a book you like on the train. Is it okay to approach her and strike up a conversation?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/light-rail"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/light-rail.md"]
 notes_about = ""
 books = ""
 +++

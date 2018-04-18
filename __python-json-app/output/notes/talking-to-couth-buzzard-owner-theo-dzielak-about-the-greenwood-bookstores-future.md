@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520396415095/buzz
 twitterauto = "We talked with Couth Buzzard owner Theo Dzielak about his bookstore's future."
 facebookauto = "We talked with Couth Buzzard owner Theo Dzielak about his bookstore's future."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/couth-buzzard"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/couth-buzzard.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519888693909/loud
 twitterauto = "Your week in readings includes poetry, The Wire, and a doomed relationship."
 facebookauto = "Your week in readings includes poetry, The Wire, and a doomed relationship."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

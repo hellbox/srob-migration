@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Two weekend events, at @elliottbaybooks and @openpoetrybooks, have been postponed. Details here:"
 facebookauto = "Two readings scheduled for this weekend have been postponed due to the big wind storm:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/elliott-bay-book-company", "tags/open-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/elliott-bay-book-company.md", "tags/open-books.md"]
 notes_about = ""
 books = ""
 +++

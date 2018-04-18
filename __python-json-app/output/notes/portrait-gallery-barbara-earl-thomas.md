@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1486064582490/SRoB
 twitterauto = "Portrait Gallery: Barbara Earl Thomas painted by @studiochristine #lllustration #editorial #portrait @TheRoyalRoom"
 facebookauto = "Portrait Gallery: Seattle painter and author Barbara Earl Thomas with John Mullen and Kate Farrell Saturday February 4 at the Royal Room."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

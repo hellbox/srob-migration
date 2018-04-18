@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "All the book news that's fit to print, including #MakeMineMilkshake and a summer audio book roundup."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com//webhook-uploads/1461968990687/fig
 twitterauto = "Events happening this week include a dragon-riding novel and a talk about the $15 minimum wage,"
 facebookauto = "Some cool upcoming events include the fight for a $15 minimum wage, a dragon-riding novel, and a party where you get to trash the Hugo House."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/town-hall-seattle.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

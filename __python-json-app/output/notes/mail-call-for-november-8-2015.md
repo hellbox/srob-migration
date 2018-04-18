@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447027192687/IMG_
 twitterauto = "Who says the mail doesn't come on Sunday? Well, it doesn't, but here's a Sunday Mail Call anyway!"
 facebookauto = "Surprise! It's Sunday afternoon, and we have a Mail Call. See what books have been crossing our desk. See any you'd love to see reviewed?"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sunday Post: Dillard on eclipses, @proseb4bros on white theft of food, @blakersdozen on Charlottesville, and more.  "
 facebookauto = "The Sunday Post has vintage Annie Dillard on eclipses, Lauren Michele Jackson on white appropriation of black foods, Blake Montgomery with a true vision on what happened in Charlottesville, and an open letter Micheal Chabon and Ayelet Waldman have written to Jews who may support Trump. "
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478194363004/SRoB
 twitterauto = "It's @alexanderchee for this week's Portrait Gallery illustrated by @studiochristine. At @HugoHouse this Friday."
 facebookauto = "Portrait Gallery: Alexander Chee"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It's National Poetry Month: how about writing a poem each day during April?"
 facebookauto = "It's National Poetry Month: how about writing a poem each day during April?"
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/poetry", "tags/national-poetry-month"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/poetry.md", "tags/national-poetry-month.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2018-01-10T11:43:00-08:00"
 preview_url = "9733d202-9f7e-df9e-8c3b-5a713e2c7cff"
 name = "BraveDog/DeadDog Artworks"
 title = "BraveDog/DeadDog Artworks"
-books_by_this_publisher = ["books/some-kind-of-ending", "books/empty-bottle-of-smoke"]
+books_by_this_publisher = ["books/some-kind-of-ending.md", "books/empty-bottle-of-smoke.md"]
 +++

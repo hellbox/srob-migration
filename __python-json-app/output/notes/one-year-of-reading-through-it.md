@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512457606086/tale
 twitterauto = "Last night, we celebrated one year of Reading Through It. Here's what we've learned:"
 facebookauto = "Last night, we celebrated one year of Reading Through It. Here's what we've learned:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reading-through-it"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

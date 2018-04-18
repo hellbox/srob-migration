@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "University of New Mexico Pres"
 title = "University of New Mexico Pres"
-books_by_this_publisher = ["books/crossing-over", "books/the-border-is-burning"]
+books_by_this_publisher = ["books/crossing-over.md", "books/the-border-is-burning.md"]
 +++

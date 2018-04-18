@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Join us tomorrow night @ThirdPlaceBooks Seward Park to discuss the Trump/Russia connection."
 facebookauto = "Remember to join us tomorrow night at Third Place Books Seward Park to discuss the Trump/Russia connection."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reading-through-it", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reading-through-it.md", "tags/donald-trump.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "It\u2019s our annual Christmas Day ghost story, by @hellbox. Don't read it lightly. Don't read it it alone in the dark."
 facebookauto = "Our annual Christmas Day ghost story, by Martin McClellan, is up. But don't read it lightly. Don't read it alone in the dark."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/christmas-ghost-story"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/christmas-ghost-story.md"]
 notes_about = ""
 books = ""
 +++

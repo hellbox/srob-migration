@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522714101220/Scre
 twitterauto = "Our poet in residence for April. @buddy_and_buddy, delivers her first poem of the month today."
 facebookauto = "Our poet in residence for April. Jeanine Walker, delivers her first poem of the month today."
 make_image_tweet = "False"
-notes_byline = ["writers/jeanine-walker"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jeanine-walker.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem \"Five Alarms\", by @graisaac, looks at the Greenwood, after the explosion."
 facebookauto = "Our Tuesday Poem \"Five Alarms\", by Graham Isaac, looks at the Greenwood, after the explosion."
 make_image_tweet = "False"
-notes_byline = ["writers/graham-isaac"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/graham-isaac.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

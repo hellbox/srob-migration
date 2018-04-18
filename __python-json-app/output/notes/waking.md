@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1520906801327/Scre
 twitterauto = "\"Waking\" is the fourth and final poem from March Poet in Residence, @trippweavepoet"
 facebookauto = "\"Waking\" is the fourth and final poem from March Poet in Residence, Julene Tripp Weaver"
 make_image_tweet = "False"
-notes_byline = ["writers/julene-tripp-weaver"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/julene-tripp-weaver.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

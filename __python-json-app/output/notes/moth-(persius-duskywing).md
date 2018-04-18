@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our Tuesday Poem is by JM Miller, and the first line is: \"Its wings don\u2019t ground into dust, nor do they signal\""
 facebookauto = "Our Tuesday Poem is by JM Miller, and is called \"Moth (Persius Duskywing)\""
 make_image_tweet = "False"
-notes_byline = ["writers/jm-miller"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jm-miller.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

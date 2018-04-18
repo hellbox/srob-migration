@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1513283753604/SRoB
 twitterauto = "Portrait Gallery: #comics #poet Mita Mahato Fri @ElliottBayBooks /@thisisEJKoh Jane Wong @Rotholtz /@studiochristine"
 facebookauto = "Portrait Gallery: Mita Mahato by Christine Marie Larsen"
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

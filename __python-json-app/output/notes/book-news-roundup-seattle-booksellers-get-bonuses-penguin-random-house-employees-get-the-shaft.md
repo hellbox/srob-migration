@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle booksellers got bonuses this year, but Penguin Random House union workers got the shaft."
 facebookauto = "Seattle booksellers got bonuses this year, but Penguin Random House union workers got the shaft."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/labor"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/labor.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Milo Yiannopoulos sued Simon and Schuster for ten million dollars."
 facebookauto = "Simon and Schuster, which pretended to care about Milo Yiannopoulos's free speech until it became very unpopular, is now being sued for ruining Yiannopoulos's career. It's pretty hard to feel sorry for Simon and Schuster right now."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/milo-yiannopoulos", "tags/simon-&amp;-schuster", "tags/lawsuit"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/milo-yiannopoulos.md", "tags/simon-&amp;-schuster.md", "tags/lawsuit.md"]
 notes_about = ""
 books = ""
 +++

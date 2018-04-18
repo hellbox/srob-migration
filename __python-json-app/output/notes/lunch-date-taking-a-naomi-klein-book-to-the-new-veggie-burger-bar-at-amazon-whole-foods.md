@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504575478016/next
 twitterauto = "We took Naomi Klein's Trump book to a vegetarian burger chain."
 facebookauto = "We took Naomi Klein's Trump book to a vegetarian burger chain."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md"]
 notes_about = ""
 books = ""
 +++

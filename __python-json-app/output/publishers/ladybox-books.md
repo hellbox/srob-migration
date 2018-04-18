@@ -10,5 +10,5 @@ last_updated = "2016-07-22T11:48:00-07:00"
 preview_url = "59e36280-fcf5-f02a-91af-506fb7fad599"
 name = "Ladybox Books"
 title = "Ladybox Books"
-books_by_this_publisher = ["books/pretty-much-dead"]
+books_by_this_publisher = ["books/pretty-much-dead.md"]
 +++

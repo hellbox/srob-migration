@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our second poem by August Poet In Residence  @d_arrindell is titled \"Costume\""
 facebookauto = "Our second poem by August Poet In Residence  Daemond Arrindell is titled \"Costume\""
 make_image_tweet = "False"
-notes_byline = ["writers/daemond-arrindell"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/daemond-arrindell.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

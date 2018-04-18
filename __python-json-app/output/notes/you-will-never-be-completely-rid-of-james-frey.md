@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508955569011/piec
 twitterauto = "You will never completely be rid of James Frey."
 facebookauto = "Oh, my God. Him again?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/memoir", "tags/adaptation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/memoir.md", "tags/adaptation.md"]
 notes_about = ""
 books = ""
 +++

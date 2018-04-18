@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1484205712976/BMIA
 twitterauto = "Are you a Batman person or a Superman person? What would make you change your mind?"
 facebookauto = "Are you a Superman person or a Batman person? What would it take to make you change your mind?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/superman", "tags/batman"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/superman.md", "tags/batman.md"]
 notes_about = ""
 books = ""
 +++

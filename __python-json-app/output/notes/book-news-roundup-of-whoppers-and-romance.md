@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in book news: a 30-year-old comic that predicted our current political mess."
 facebookauto = "Today in book news: a 30-year-old comic that predicted our current political mess."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/jack-straw", "tags/fantagraphics", "tags/april"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/jack-straw.md", "tags/fantagraphics.md", "tags/april.md"]
 notes_about = ""
 books = ""
 +++

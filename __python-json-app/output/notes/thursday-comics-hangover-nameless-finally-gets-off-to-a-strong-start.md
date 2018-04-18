@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Maybe the fifth issue of Grant Morrison's astronaut horror comic Nameless should've been the first issue."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/comics", "tags/nameless"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/comics.md", "tags/nameless.md"]
 notes_about = ""
 books = ""
 +++

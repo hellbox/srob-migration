@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1442543610274/IMG_
 twitterauto = "Mail call for a beautiful rainy day, heavy with comics"
 facebookauto = "Mail call in a well-watered Seattle, with some great comics in the mix"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

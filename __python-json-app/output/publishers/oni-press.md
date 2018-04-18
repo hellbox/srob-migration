@@ -10,5 +10,5 @@ last_updated = "2016-05-09T22:54:00-07:00"
 preview_url = "0af33b08-401d-933b-44f1-d3f1aa0ba39c"
 name = "Oni Press"
 title = "Oni Press"
-books_by_this_publisher = ["books/bad-machinery-vol-1-the-case-of-the-team-spirit"]
+books_by_this_publisher = ["books/bad-machinery-vol-1-the-case-of-the-team-spirit.md"]
 +++

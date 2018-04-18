@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449864678945/CV1R
 twitterauto = "Tonight, @ellen_forney celebrates her new public art at the Capitol Hill light rail station with a toast."
 facebookauto = "Tonight, there will be a party to celebrate Ellen Forney's enormous portraits of hands in the Capitol Hill light rail station. Transit nerds, comics fans, and art fanatics are all invited to show up for a hot beverage and a good time."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/public-art", "tags/public-transit"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/public-art.md", "tags/public-transit.md"]
 notes_about = ""
 books = ""
 +++

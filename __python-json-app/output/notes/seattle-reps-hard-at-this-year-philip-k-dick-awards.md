@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Congratulations to @ramez, @rakdaddy, and @brendacooper for the Philip K. Dick nominations!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/philip-k-dick-award", "tags/science-fiction"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/philip-k-dick-award.md", "tags/science-fiction.md"]
 notes_about = ""
 books = ""
 +++

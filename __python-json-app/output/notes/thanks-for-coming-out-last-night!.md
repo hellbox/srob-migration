@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.co/webhook-uploads/1444321620242/marti
 twitterauto = "Thanks to everybody who showed up last night for the @cal4oclock launch party."
 facebookauto = "Thanks to everybody who came last night for the California Four O'Clock launch party!"
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/events", "tags/seattle-review-of-books"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/events.md", "tags/seattle-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

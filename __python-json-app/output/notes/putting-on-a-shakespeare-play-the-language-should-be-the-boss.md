@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495510782219/shak
 twitterauto = "\"...I recently watched a Very Bad Play in Seattle...\""
 facebookauto = "Here's a little rant about what happens when a theater company forgets the importance of language in Shakespeare plays."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/shakespeare", "tags/plays"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/shakespeare.md", "tags/plays.md"]
 notes_about = ""
 books = ""
 +++

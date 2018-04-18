@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "David Lasky"
 title = "David Lasky"
-books_by_this_publisher = ["books/the-ultimate-horatio-alger-novel"]
+books_by_this_publisher = ["books/the-ultimate-horatio-alger-novel.md"]
 +++

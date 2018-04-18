@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1494015974553/obam
 twitterauto = "Good news: President Obama's library plans look gorgeous. Bad news: it's a \"paperless library.\""
 facebookauto = "The good news: President Obama's library plans look gorgeous. The bad news: it's going to be the first paperless presidential library."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/barack-obama", "tags/presidential-libraries", "tags/paperless"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/barack-obama.md", "tags/presidential-libraries.md", "tags/paperless.md"]
 notes_about = ""
 books = ""
 +++

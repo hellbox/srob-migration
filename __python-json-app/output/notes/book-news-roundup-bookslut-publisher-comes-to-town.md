@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What have the Vis-a-Vis Society been up to lately? Find out in today's Book News Roundup!"
 facebookauto = "What have the Vis-a-Vis Society been up to lately? Find out in today's Book News Roundup!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/bookslut", "tags/vis-a-vis-society", "tags/dalkey-archive"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/bookslut.md", "tags/vis-a-vis-society.md", "tags/dalkey-archive.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Take a look at what the kids of McClure Middle School are reading this summer."
 facebookauto = "Take a look at what the kids of McClure Middle School are reading this summer."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/librarians", "tags/queen-anne-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/librarians.md", "tags/queen-anne-book-company.md"]
 notes_about = ""
 books = ""
 +++

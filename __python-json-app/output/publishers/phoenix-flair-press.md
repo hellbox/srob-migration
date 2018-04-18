@@ -10,5 +10,5 @@ last_updated = "2016-03-05T20:01:00-08:00"
 preview_url = "2dbddb15-9669-902c-5eb2-2cf3487ca273"
 name = "Phoenix Flair Press"
 title = "Phoenix Flair Press"
-books_by_this_publisher = ["books/catherines-pascha"]
+books_by_this_publisher = ["books/catherines-pascha.md"]
 +++

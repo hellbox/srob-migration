@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Memoirs from the Obamas are likely to be published by Penguin Random House in 2018."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/barack-obama"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/barack-obama.md"]
 notes_about = ""
 books = ""
 +++

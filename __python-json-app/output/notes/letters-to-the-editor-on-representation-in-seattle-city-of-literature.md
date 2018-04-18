@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1444285682433/9781
 twitterauto = "Writer @katkat_alcala sends a letter to the editor about race and representation in \"Seattle: City of Literature.\""
 facebookauto = "Writer Kathleen Alcal\u00e1 takes issue to our review of the anthology \"Seattle: City of Literature.\" She asks, why should the few writers of color who did contribute to the anthology be forced to apologize for their contributions?"
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/seattle-city-of-literature", "tags/race"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/seattle-city-of-literature.md", "tags/race.md"]
 notes_about = ""
-books = ["books/seattle-city-of-literature"]
+books = ["books/seattle-city-of-literature.md"]
 +++
 <p class="noindent">Dear Editor:</p>
 

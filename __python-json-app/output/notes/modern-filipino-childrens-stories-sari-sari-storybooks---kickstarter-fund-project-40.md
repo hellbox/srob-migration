@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1475943005420/f5bb
 twitterauto = "The Kickstarter Fund backs @sarisaristories this week."
 facebookauto = "The Kickstarter Fund goes for a project to create diverse-language Filipino children's books."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

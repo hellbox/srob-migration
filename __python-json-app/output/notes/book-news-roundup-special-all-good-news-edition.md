@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Congratulations to all the literary winners of the city's Civic Partnership grants!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/office-of-arts-and-culture", "tags/seattle-arts-and-lectures", "tags/april", "tags/hugo-house", "tags/small-beer-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/office-of-arts-and-culture.md", "tags/seattle-arts-and-lectures.md", "tags/april.md", "tags/hugo-house.md", "tags/small-beer-press.md"]
 notes_about = ""
 books = ""
 +++

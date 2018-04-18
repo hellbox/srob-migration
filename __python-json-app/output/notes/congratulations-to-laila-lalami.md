@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/american-book-award"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/american-book-award.md"]
 notes_about = ""
-books = ["books/the-moors-account"]
+books = ["books/the-moors-account.md"]
 +++
 On Twitter, the delightful author Laila Lalami [announced](http://lailalalami.com/the-moors-account/about/) that her historical novel [*The Moor’s Account*](http://lailalalami.com/the-moors-account/about/) "is the recipient of an American Book Award." *Account* was also shortlisted for a Pulitzer this past year; you should probably read it, is my point.

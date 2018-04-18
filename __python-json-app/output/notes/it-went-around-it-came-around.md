@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Is \u201cwhat goes around comes around\u201d really the \u201cimmaculate conception of clich\u00e9s?\""
 facebookauto = "On Friday night, the Hugo House asked four artists to respond to the cliche \"what goes around comes around.\" Three of the artists were successful."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

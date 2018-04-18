@@ -10,5 +10,5 @@ last_updated = "2016-01-10T17:09:00-08:00"
 preview_url = "bf9c6732-e697-4413-319a-f082d181132f"
 name = "Emblem Editions"
 title = "Emblem Editions"
-books_by_this_publisher = ["books/bear"]
+books_by_this_publisher = ["books/bear.md"]
 +++

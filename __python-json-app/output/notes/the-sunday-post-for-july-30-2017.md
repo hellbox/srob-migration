@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We love everyone in this week's Sunday Post, but @jessruliffson and @Tabitha _enbiller really sort of nailed it."
 facebookauto = "We love everyone in this week's Sunday Post, but Jess Ruliffson's graphic interview on serving as a trans person and Tabitha Blankenbiller's feisty argument for the right to wear skirts really sort of nailed it."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

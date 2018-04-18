@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Raise money for Eastside Mosque and celebrate women at work with two upcoming events."
 facebookauto = "Raise money for Eastside Mosque and celebrate women at work with two upcoming events."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/town-hall-seattle", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/town-hall-seattle.md", "tags/donald-trump.md"]
 notes_about = ""
-books = ["books/raising-lilly-ledbetter"]
+books = ["books/raising-lilly-ledbetter.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1493336318972/unnamed.png)</p>
 

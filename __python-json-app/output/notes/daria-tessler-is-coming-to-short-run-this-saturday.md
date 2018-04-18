@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1509082076908/musi
 twitterauto = "We talked with Daria Tessler about the work she's bringing to @shortrunseattle."
 facebookauto = "We talked with Daria Tessler about the work she's bringing to Short Run Seattle this year."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

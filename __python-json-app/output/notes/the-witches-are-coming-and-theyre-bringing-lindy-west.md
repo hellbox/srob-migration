@@ -16,8 +16,8 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1522977297872/
 twitterauto = "Clear your calendar on April 15, and get to Benaroya to see Lindy West!"
 facebookauto = "Clear your calendar on April 15, and get to Benaroya to see Lindy West."
 make_image_tweet = "True"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

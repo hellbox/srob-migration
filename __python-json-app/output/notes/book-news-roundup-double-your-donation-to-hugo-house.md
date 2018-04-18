@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Hugo House is doubling your money. Also: which author would survive the attack of the duck-sized horses?"
 facebookauto = "Hugo House is doubling your money. Also: which author would survive the attack of the duck-sized horses?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

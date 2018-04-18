@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1453521971105/plan
 twitterauto = "Your week in readings starts with a brainy talk about saving Earth @THSEA."
 facebookauto = "There are so many great events this week, including a sci-fi reading, a few locally sourced events, a big damn comics party, a Star Trek-themed library party, and the great Maggie Nelson."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/intruder", "tags/elliott-bay-book-company", "tags/town-hall-seattle", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/intruder.md", "tags/elliott-bay-book-company.md", "tags/town-hall-seattle.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503460438021/ruth
 twitterauto = "Criminal Fiction has an Interview with @RuthWareWriter, and reviews of @Benjamin_Percy, @kwei_quartey, @FeliciaMYap"
 facebookauto = "Daneet Steffen's Criminal Fiction interviews Ruth Ware, and has reviews of Benjamin Percy, Kwei Quartey, Felicia Yap, and Louise Penny. "
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

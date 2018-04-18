@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What does a literary agent actually DO, anyway?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/writing"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/writing.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Okay, for real this time: It's time to #GiveBIG. Seattle-area nonprofits could really use your help."
 facebookauto = "Okay, for real this time: It's time to GiveBIG. Seattle-area nonprofits could really use your help."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/givebig"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/givebig.md"]
 notes_about = ""
 books = ""
 +++

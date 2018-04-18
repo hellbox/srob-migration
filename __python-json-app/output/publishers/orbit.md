@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Orbit"
 title = "Orbit"
-books_by_this_publisher = ["books/ancillary-justice"]
+books_by_this_publisher = ["books/ancillary-justice.md"]
 +++

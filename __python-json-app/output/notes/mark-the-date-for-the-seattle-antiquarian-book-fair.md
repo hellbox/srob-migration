@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1474303684221/unna
 twitterauto = "Our sponsor, the Seattle Antiquarian Book Fair is back, Oct 8th-9th. Mark the date! "
 facebookauto = "Our sponsor, the Seattle Antiquarian Book Fair is back, Oct 8th-9th. Mark the date! "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

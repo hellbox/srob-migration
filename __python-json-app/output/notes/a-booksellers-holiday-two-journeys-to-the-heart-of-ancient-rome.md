@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1481499061589/Jaso
 twitterauto = "We asked @ubookstorereads bookseller Jason what book he wants for the holidays."
 facebookauto = "We asked University Book Store bookseller Jason what books he'd like for the holidays."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

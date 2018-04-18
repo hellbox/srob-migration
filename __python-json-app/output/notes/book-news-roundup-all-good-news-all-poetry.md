@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Let's close out the week with a special good-news-only edition of Book News Roundup, shall we?"
 facebookauto = "It's been a crazy week. Let's close it out with a special good-news-only edition of Book News Roundup, shall we?"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
-books = ["books/the-trumpiad"]
+books = ["books/the-trumpiad.md"]
 +++
 * It has been, to say the least, a crazy week. Locally, everybody is running for mayor. Nationally, our president's brain seems to be degrading at an alarming rate. So let's end the week with a piece of unabashed good news and a pair of excellent poems by Seattle poets, okay? Be good to yourself — and the moms in your life — this weekend. Spend a few hours at a bookstore. Read a book. Don't go on the internet on Mother's Day.
 

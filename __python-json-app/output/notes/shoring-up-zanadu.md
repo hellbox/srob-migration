@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Downtown comics shop @ZanaduComics is raising money to keep its doors open."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/zanadu-comics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/zanadu-comics.md"]
 notes_about = ""
 books = ""
 +++

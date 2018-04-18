@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/third-place-books-lake-forest-park", "tags/seattle-public-library", "tags/elliott-bay-book-company", "tags/university-book-store", "tags/phinney-books", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/third-place-books-lake-forest-park.md", "tags/seattle-public-library.md", "tags/elliott-bay-book-company.md", "tags/university-book-store.md", "tags/phinney-books.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

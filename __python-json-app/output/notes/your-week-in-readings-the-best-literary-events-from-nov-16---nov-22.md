@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447487791962/1862
 twitterauto = "Your week of literary events begins tonight with a biography of Lady Bird Johnson @THSEA."
 facebookauto = "Here's one great literary event for every day this week including biographies of Lady Bird Johnson and the inventor of Dungeons & Dragons, a holiday book fair, and an event featuring El Bibliobandido."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/elliott-bay-book-company", "tags/town-hall-seattle", "tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/elliott-bay-book-company.md", "tags/town-hall-seattle.md", "tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

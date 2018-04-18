@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495077841648/wond
 twitterauto = "Getting ready for Wonder Woman? Here are some comics you might enjoy."
 facebookauto = "There's an actually good Supergirl on TV. The Wonder Woman movie is coming out. And there are some great superhero comics starring women on the shelves right now."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

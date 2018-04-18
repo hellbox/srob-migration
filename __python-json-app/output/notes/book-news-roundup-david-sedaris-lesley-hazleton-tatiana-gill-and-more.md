@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup features David Sedaris, @accidentaltheo, @tats_tweets and more!"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
-books = ["books/agnostic"]
+books = ["books/agnostic.md"]
 +++
 * I'm already getting excited to introduce David Sedaris when he reads at Benaroya Hall on Wednesday, November 16th. ([Here's last year's introduction.](http://seattlereviewofbooks.com/notes/2015/11/16/why-a-dog-owner-in-maine-doesnt-like-david-sedaris/)) If you're at all interested in attending this reading, you should know that [tickets are on sale now](https://cart.seattlesymphony.org/single/SYOS.aspx?p=18398), and they usually sell out very early. I attend a lot of readings, and I can tell you that Sedaris is the best reader I've ever seen. He also sticks around and signs everyone's books before and after the reading, taking the time to have a personal conversation with everyone in line. I hope to see you in November.
 

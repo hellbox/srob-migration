@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Anybody got a spare $24,000 laying around? Here's where you ought to spend it."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/used-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/used-books.md"]
 notes_about = ""
 books = ""
 +++

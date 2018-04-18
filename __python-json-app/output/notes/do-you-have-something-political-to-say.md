@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "If you have something political you want to share with the world, submit here:"
 facebookauto = "If you have something political you want to share with the world, submit here:"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/mount-analogue"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/mount-analogue.md"]
 notes_about = ""
 books = ""
 +++

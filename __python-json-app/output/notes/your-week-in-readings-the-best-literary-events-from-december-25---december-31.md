@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1512016440326/home
 twitterauto = "We've got a lot of book clubs, storytimes, and family events in this week's reading roundup."
 facebookauto = "We've got a lot of book clubs, storytimes, and family events in this week's reading roundup."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

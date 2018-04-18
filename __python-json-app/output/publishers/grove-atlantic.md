@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Grove Atlantic"
 title = "Grove Atlantic"
-books_by_this_publisher = ["books/freemans"]
+books_by_this_publisher = ["books/freemans.md"]
 +++

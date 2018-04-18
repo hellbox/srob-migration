@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today in book news: Amazon Books' weird discount strategy and two Seattle author profiles you have to read."
 facebookauto = "Our Book News Roundup features Amazon Books' weird discount strategy and two Seattle author profiles you have to read."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/amazon-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/amazon-books.md"]
 notes_about = ""
 books = ""
 +++

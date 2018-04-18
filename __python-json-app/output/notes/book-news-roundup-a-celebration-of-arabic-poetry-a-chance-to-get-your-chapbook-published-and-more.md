@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In today's Book News Roundup: a chapbook contest, a celebration of Arabic poetry, and more!"
 facebookauto = "In today's Book News Roundup: a chapbook contest, a celebration of Arabic poetry, and more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run", "tags/poetry", "tags/two-sylvias-press"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md", "tags/poetry.md", "tags/two-sylvias-press.md"]
 notes_about = ""
 books = ""
 +++

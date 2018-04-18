@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our final poem from March's Poet in Residence Jamaica Baldwin: \"Land Mine\""
 facebookauto = "Our final poem from March's Poet in Residence Jamaica Baldwin: \"Land Mine\""
 make_image_tweet = "False"
-notes_byline = ["writers/jamaica-baldwin"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jamaica-baldwin.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

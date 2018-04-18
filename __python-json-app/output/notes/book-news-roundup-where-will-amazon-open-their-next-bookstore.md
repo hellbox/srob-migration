@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Today in things we wish weren't news: Donald Trump, Amazon Books, and Jonah Lehrer."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/amazon-books", "tags/donald-trump"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/amazon-books.md", "tags/donald-trump.md"]
 notes_about = ""
-books = ["books/lovecraft-country"]
+books = ["books/lovecraft-country.md"]
 +++
 * The fact that [Elie Wiesel passed away](http://www.newyorker.com/books/page-turner/postscript-elie-wiesel-1928-2016) on the same weekend that Donald Trump [tweeted a barely coded anti-Semitic graphic](http://talkingpointsmemo.com/livewire/david-duke-loved-trump-star-tweet) from a white supremacist group was more than just unfortunate timing: it served as a reminder that we need writers and advocates and witnesses like Wiesel in our public sphere more than ever. He will be missed.
 

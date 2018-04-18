@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489356418785/himm
 twitterauto = "We took a short story out to lunch and accidentally discovered the cure to the Northwest winter blues."
 facebookauto = "We took a short story out to lunch and accidentally discovered the cure to the Northwest winter blues."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lunch-date"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lunch-date.md"]
 notes_about = ""
-books = ["books/him-me-muhammad-ali"]
+books = ["books/him-me-muhammad-ali.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1489356418785/himmemuhammadali.jpeg)</p>
 

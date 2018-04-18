@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Verso"
 title = "Verso"
-books_by_this_publisher = ["books/the-happiness-industry", "books/trans"]
+books_by_this_publisher = ["books/the-happiness-industry.md", "books/trans.md"]
 +++

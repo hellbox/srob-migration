@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Redmond's got a great-looking celebration of poetry coming up this weekend."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Hey, @ciennam: what do you do if your friend self-publishes a book and it's absolutely terrible?"
 facebookauto = "What do you do if your friend self-publishes a book and it's absolutely terrible?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/self-publishing"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/self-publishing.md"]
 notes_about = ""
 books = ""
 +++

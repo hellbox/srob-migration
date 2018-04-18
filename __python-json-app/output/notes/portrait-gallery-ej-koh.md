@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456956389215/SRoB
 twitterauto = "Look! @studiochristine painted @thisisEJKoh! "
 facebookauto = "Christine Marie Larsen painted local poet EJ Koh for this week's Portrait Gallery. "
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

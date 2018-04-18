@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515130668545/twon
 twitterauto = "Join @PushPullSeattle's book club, apply for sweet gigs @HugoHouse, & submit to @Spartan_Lit."
 facebookauto = "Join the Push/Pull book club, apply for sweet gigs at Hugo House, and submit to Spartan"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/push--pull", "tags/hugo-house", "tags/spartan"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/push--pull.md", "tags/hugo-house.md", "tags/spartan.md"]
 notes_about = ""
 books = ""
 +++

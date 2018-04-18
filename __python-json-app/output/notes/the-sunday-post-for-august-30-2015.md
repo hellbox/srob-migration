@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Sunday Post, with pieces by @PatrickIber, @kissane, and others. "
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

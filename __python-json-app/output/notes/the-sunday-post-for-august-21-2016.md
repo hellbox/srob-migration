@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sunday Post: Mass hysteria @ JFK, @caster800m & androgyny at #Rio2016 , @NYTmag piece on the David's cracked ankles "
 facebookauto = "Michelangelo's David toppling over? Mass hysteria at JFK airport? Androgyny scandals in the Olympics? All in today's Sunday Post!"
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

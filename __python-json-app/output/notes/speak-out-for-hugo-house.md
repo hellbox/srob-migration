@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Now is the time to speak up for @HugoHouse. Contact your state legislators!"
 facebookauto = "Now is the time to speak up for Hugo House. Contact your state legislators!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

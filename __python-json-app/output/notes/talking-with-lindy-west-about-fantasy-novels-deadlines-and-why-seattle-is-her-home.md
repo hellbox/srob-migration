@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463601235462/01cf
 twitterauto = "Talking with @thelindywest about deadlines and her love of fantasy novels."
 facebookauto = "We talked with Lindy West about her relationship to deadlines, her love of fantasy novels, and why she loves Seattle."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/memoir", "tags/feminism", "tags/the-stranger", "tags/fantasy"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/memoir.md", "tags/feminism.md", "tags/the-stranger.md", "tags/fantasy.md"]
 notes_about = ""
-books = ["books/shrill"]
+books = ["books/shrill.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1463601235462/01cf47266a74d15fcb8855d55e7aa836.jpg)</p>
 <p class="intro">Lindy West’s debut memoir, *Shrill* was published yesterday to great acclaim. I had to recuse myself from reviewing it for the *Seattle Review of Books* due to personal circumstances; I was Lindy’s coworker at *The Stranger* for three years, and she asked me to read *Shrill* before its publication. And so I know I’m biased, but I do love this book: I think *Shrill* is funny and honest and heartbreaking and empowering and meaningful. It starts in the way you always expect Lindy’s writing to go, with some jokes and sharp observations, but by the end it’s become something different. Lindy’s writing gets more nuanced and vulnerable and powerful as the book goes along, creating so much more than just a collection of personal essays: it’s a story of evolution and a personal account of growing up, both as an adult and on the internet as a personality. Lindy and I met up for lunch on Tuesday, April 26th to talk about the process of publication, what she’s been reading lately, and her relationship with the internet.</p>

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Why haven't you read @mirajacob's wonderful post on race and the publishing industry yet?"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/publishing", "tags/race"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/publishing.md", "tags/race.md"]
 notes_about = ""
 books = ""
 +++

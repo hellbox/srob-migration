@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "When men get flirty on the bus, @ciennam says you should \"get comfortable with the idea of being confrontational.\""
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/public-transit"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/public-transit.md"]
 notes_about = ""
 books = ""
 +++

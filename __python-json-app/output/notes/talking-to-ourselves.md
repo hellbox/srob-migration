@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "An ambulatory interview with @_DavidShields by @ivantohelpyou takes an unexpected turn."
 facebookauto = "An ambulatory interview with David Shields by Ivan Schneider takes an unexpected turn. Shields will be at Town Hall tomorrow night with Claire Dederer, a great alternate to our Event of the Week."
 make_image_tweet = "False"
-notes_byline = ["writers/ivan-schneider"]
-tags_notes = ["tags/interviews"]
+notes_byline = ["writers/ivan-schneider.md"]
+tags_notes = ["tags/interviews.md"]
 notes_about = ""
-books = ["books/other-people"]
+books = ["books/other-people.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1496617514161/IMG_20170516_160251.jpg)</p>
 

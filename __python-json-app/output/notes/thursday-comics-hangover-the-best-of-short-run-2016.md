@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478754464069/coyo
 twitterauto = "Despite our election anxiety, we managed to pick up a stack of great comics at Short Run."
 facebookauto = "Despite our election anxiety, we managed to pick up a stack of great comics at Short Run."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We love the @seattleweekly's new hybrid comics-music interview column! We love @childbrrrth! Love all around!"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-weekly", "tags/childbirth"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-weekly.md", "tags/childbirth.md"]
 notes_about = ""
 books = ""
 +++

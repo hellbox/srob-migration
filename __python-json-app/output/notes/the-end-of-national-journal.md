@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/national-journal", "tags/media"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/national-journal.md", "tags/media.md"]
 notes_about = ""
 books = ""
 +++

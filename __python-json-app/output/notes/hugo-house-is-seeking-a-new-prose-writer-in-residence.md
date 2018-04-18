@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Why not apply to be the @HugoHouse's prose writer in residence?"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md"]
 notes_about = ""
 books = ""
 +++

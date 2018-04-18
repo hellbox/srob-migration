@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Sunday Post has pieces by @vcunningham, @charliejane, and @cindi_may."
 facebookauto = "The Sunday Post is here, with a profile of the man behind a black literary movement, an appraisal of what it means to be a modern science fiction author, and a a piece that questions whether female superheroines are good roll models for girls."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

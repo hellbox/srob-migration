@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469080396625/magi
 twitterauto = "Here's a comic that every Seattleite should read."
 facebookauto = "Tom Van Deusen's \"Bezos\" is a comic that every Seattleite should read."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/amazon", "tags/kindle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/amazon.md", "tags/kindle.md"]
 notes_about = ""
 books = ""
 +++

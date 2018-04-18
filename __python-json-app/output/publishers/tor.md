@@ -10,5 +10,5 @@ last_updated = "2016-05-07T19:50:00-07:00"
 preview_url = "ea4f0df9-b55e-7a20-96bf-8fdb3c498e35"
 name = "Tor"
 title = "Tor"
-books_by_this_publisher = ["books/company-town", "books/arabella-of-mars", "books/everfair", "books/judenstaat", "books/the-geek-feminist-revolution"]
+books_by_this_publisher = ["books/company-town.md", "books/arabella-of-mars.md", "books/everfair.md", "books/judenstaat.md", "books/the-geek-feminist-revolution.md"]
 +++

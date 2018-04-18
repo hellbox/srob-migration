@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Book critic fight! Book critic fight! (Part deux.)"
 facebookauto = "Last week, Paul Constant mocked a book review. Today, the author of the book review responds with a letter to the editor."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/letters-to-the-editor", "tags/commercialit", "tags/commercial", "tags/criticism"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/letters-to-the-editor.md", "tags/commercialit.md", "tags/commercial.md", "tags/criticism.md"]
 notes_about = ""
 books = ""
 +++

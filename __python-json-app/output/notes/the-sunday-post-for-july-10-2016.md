@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Sunday Post: a piece by @RufiThorpe, @brainpicker on creativity & mental illness, fiscal element of #police shootings"
 facebookauto = "Sunday Post: Rufi Thorpe on art and motherhood, creativity and mental illness, the fiscal element behind police shootings, the American Dream in Finland, and Adichie's election-themed short story."
 make_image_tweet = "False"
-notes_byline = ["writers/rebecca-garcia-moreno"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

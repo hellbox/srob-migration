@@ -10,5 +10,5 @@ last_updated = "2016-05-09T22:58:00-07:00"
 preview_url = "9554f82c-30be-ce31-3ca9-776c938ca071"
 name = "Dark Horse Books"
 title = "Dark Horse Books"
-books_by_this_publisher = ["books/apocalyptigirl"]
+books_by_this_publisher = ["books/apocalyptigirl.md"]
 +++

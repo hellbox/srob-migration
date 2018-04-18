@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463373017522/TPBS
 twitterauto = "Our Event of the Week is the grand opening of @ThirdPlaceBooks Seward Park!"
 facebookauto = "This Saturday, the Seward Park branch of Third Place Books finally opens, with a bunch of Seattle-area authors on the scene. It's our Even of the Week."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/third-place-books-seward-park", "tags/third-place-books-ravenna"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/third-place-books-seward-park.md", "tags/third-place-books-ravenna.md"]
 notes_about = ""
 books = ""
 +++

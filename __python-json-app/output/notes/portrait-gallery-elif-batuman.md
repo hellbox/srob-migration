@@ -16,8 +16,8 @@ shareimage = "http://www.seattlereviewofbooks.com/webhook-uploads/1490211698569/
 twitterauto = "Portrait Gallery: Elif Batuman @bananakarenina #illustration painted by @studiochristine"
 facebookauto = "Portrait Gallery: Elif Batuman painted by Christine Marie Larsen. Reading Friday, March 24th at Elliott Bay Books."
 make_image_tweet = "True"
-notes_byline = ["writers/christine-marie-larsen"]
-tags_notes = ["tags/portrait-gallery"]
+notes_byline = ["writers/christine-marie-larsen.md"]
+tags_notes = ["tags/portrait-gallery.md"]
 notes_about = ""
 books = ""
 +++

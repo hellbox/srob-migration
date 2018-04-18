@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490931866257/what
 twitterauto = "Join us @ThirdPlaceBooks Seward Park tongiht for our post-Trump book club!"
 facebookauto = "Our book club meets tonight at Third Place Books Seward Park. Join us!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md"]
 notes_about = ""
 books = ""
 +++

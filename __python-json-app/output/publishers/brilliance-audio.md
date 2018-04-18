@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Brilliance Audio"
 title = "Brilliance Audio"
-books_by_this_publisher = ["books/seveneves-(audio)"]
+books_by_this_publisher = ["books/seveneves-(audio).md"]
 +++

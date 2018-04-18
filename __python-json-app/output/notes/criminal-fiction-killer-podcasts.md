@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505879569835/Proo
 twitterauto = "Fall Crime! @daneetsteffens interviews @jajance, and reviews new books by @sophiehannahCB1, @atticalocke and others."
 facebookauto = "It's the first Criminal Fiction of Fall! Daneet Steffens interviews JA Jance, and reviews new books by Sophie Hanna, Attica Locke,  John le Carr\u00e9, and Andrea Camilleri."
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

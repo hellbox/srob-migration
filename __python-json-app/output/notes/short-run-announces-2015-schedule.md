@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our awesome small-press festival, @shortrunseattle, has announced their October schedule. Prepare for good stuff:"
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/short-run"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/short-run.md"]
 notes_about = ""
 books = ""
 +++

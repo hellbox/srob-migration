@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're reading the many tributes to Ursula Le Guin and we're learning so much."
 facebookauto = "We're reading the many tributes to Ursula Le Guin and we're learning so much."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/death.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2015-10-18T15:52:00-07:00"
 preview_url = "5f014446-9437-cc6a-fa52-3378326ecd6d"
 name = "The Intercept_"
 title = "The Intercept_"
-books_by_this_publisher = ["books/the-drone-papers"]
+books_by_this_publisher = ["books/the-drone-papers.md"]
 +++

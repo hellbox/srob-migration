@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The bad news: Seattle isn't a UNESCO City of Literature. The good news: Seattle is a great city for literature."
 facebookauto = "Bad news from UNESCO: Seattle didn't receive a City of Literature designation this year. But we're still a world-class literary city!"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-city-of-literature"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-city-of-literature.md"]
 notes_about = ""
 books = ""
 +++

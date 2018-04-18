@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1510730207652/just
 twitterauto = "That Justice League movie? Uhhhhhh, yeah, it's pretty bad."
 facebookauto = "That Justice League movie? Uhhhhhh, yeah, it's pretty bad."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/thursday-comics-hangover", "tags/dc-comics", "tags/adaptation"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/thursday-comics-hangover.md", "tags/dc-comics.md", "tags/adaptation.md"]
 notes_about = ""
 books = ""
 +++

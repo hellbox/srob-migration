@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1489978263953/neve
 twitterauto = "This month's Criminal Fiction, from @daneetsteffens, features  @ChevyStevens, @jajance, and others..."
 facebookauto = "This month's Criminal Fiction, from Daneet Steffens, features  Chevy Stevens, JA Jance, and others..."
 make_image_tweet = "True"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

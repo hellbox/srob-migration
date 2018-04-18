@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Even though he brags about not reading, Donald Trump's latest scandal involves books."
 facebookauto = "Even though he brags about not reading, Donald Trump's latest scandal involves books."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/donald-trump", "tags/politics"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/donald-trump.md", "tags/politics.md"]
 notes_about = ""
 books = ""
 +++

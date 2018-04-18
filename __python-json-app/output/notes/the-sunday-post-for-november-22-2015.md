@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Two today in the Sunday Post: one from @rachsyme, and one from @beelavender."
 facebookauto = "Two pieces in today's Sunday Post: on returning home to family, and a long look at selfies."
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

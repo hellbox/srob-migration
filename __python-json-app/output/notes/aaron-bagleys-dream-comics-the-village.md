@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1507268739733/drea
 twitterauto = "New Column by @aaronbaglady launching today! Aaron Bagley's Dream Comics. "
 facebookauto = "New Column launching today! Aaron Bagley's Dream Comics. "
 make_image_tweet = "True"
-notes_byline = ["writers/aaron-bagley"]
-tags_notes = ["tags/aaron-bagleys-dream-comics"]
+notes_byline = ["writers/aaron-bagley.md"]
+tags_notes = ["tags/aaron-bagleys-dream-comics.md"]
 notes_about = ""
 books = ""
 +++

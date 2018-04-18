@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447657658552/seda
 twitterauto = "If David Sedaris talks about the hypothetical death of your pet, you probably shouldn't take it personally."
 facebookauto = "Paul Constant introduced David Sedaris last night by reading a blog post titled \u201cMy Co-Worker Karen Had a Bad Encounter With Funny Man David Sedaris.\u201d"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/benaroya-hall"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/benaroya-hall.md"]
 notes_about = ""
 books = ""
 +++

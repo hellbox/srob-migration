@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Prince has died. Long live Prince."
 facebookauto = "Prince has died. Long live Prince."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/prince"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/prince.md"]
 notes_about = ""
 books = ""
 +++

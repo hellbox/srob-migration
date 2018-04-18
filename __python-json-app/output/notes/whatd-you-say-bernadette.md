@@ -16,9 +16,9 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/audio-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/audio-books.md"]
 notes_about = ""
-books = ["books/whered-you-go-bernadette"]
+books = ["books/whered-you-go-bernadette.md"]
 +++
 If you ever wanted to learn what the process of recording an audio book is like, [Judy Oldfield Wilson's interview with Kathleen Wilhoite](http://blog.libro.fm/book-of-the-month/narrator-kathleen-wilhoite-on-the-best-and-worst-parts-of-making-an-audiobook/) about the recording of the audio version of *Where'd You Go, Bernadette* is fascinating stuff. *Bernadette* was Wilhoite's first book recording experience — she was enlisted by *Bernadette* author Maria Semple for the job — and by all accounts, she nailed it.

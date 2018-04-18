@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "You guys, forget about the Marvel relaunches; the new Archie series keeps getting better and better."
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/archie", "tags/thursday-comics-hangover"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/archie.md", "tags/thursday-comics-hangover.md"]
 notes_about = ""
 books = ""
 +++

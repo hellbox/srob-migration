@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We're so excited to cosponsor @APRILfestSEA's first writing contest! Read all about it right here:"
 facebookauto = "We're excited to be judges in the APRIL Festival's very first writing contest! You should enter; the winner gets $100, publication on the Seattle Review of Books, and a reading slot in the 2016 APRIL Festival."
 make_image_tweet = ""
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/april"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/april.md"]
 notes_about = ""
 books = ""
 +++

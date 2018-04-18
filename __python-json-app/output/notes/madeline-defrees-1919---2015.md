@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1447397981594/blue
 twitterauto = "We are so sad to report that Seattle poet Madeline DeFrees has passed away. She was 95."
 facebookauto = "We are so sad to report that Seattle poet Madeline DeFrees has passed away. She was 95."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/death"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/death.md"]
 notes_about = ""
 books = ""
 +++

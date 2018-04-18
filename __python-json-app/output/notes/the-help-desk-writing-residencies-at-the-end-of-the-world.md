@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear @ciennam: Are writing residencies really worth all that extra work?"
 facebookauto = "Dear Cienna: Are writing residencies really worth all that extra work?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/hedgebrook"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/hedgebrook.md"]
 notes_about = ""
 books = ""
 +++

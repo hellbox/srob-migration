@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Man Booker Prize longlist has been announced! We're pulling for @LailaLalami. How about you?"
 facebookauto = "The Man Booker Prize longlist has been announced! We're pulling for Laila Lalami. How about you?"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/man-booker-prize"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/man-booker-prize.md"]
 notes_about = ""
 books = ""
 +++

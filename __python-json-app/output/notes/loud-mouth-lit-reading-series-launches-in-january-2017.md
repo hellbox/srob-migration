@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Seattle's newest reading series, Loud Mouth Lit, kicks off on Tuesday, January 31st."
 facebookauto = "Seattle's newest reading series, Loud Mouth Lit, kicks off on Tuesday, January 31st."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/loud-mouth-lit"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/loud-mouth-lit.md"]
 notes_about = ""
 books = ""
 +++

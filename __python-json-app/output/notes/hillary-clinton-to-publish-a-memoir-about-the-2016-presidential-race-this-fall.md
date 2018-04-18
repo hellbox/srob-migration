@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501173129306/DFv1
 twitterauto = "Get ready for Hillary Clinton's memoir about the 2016 presidential campaign."
 facebookauto = "Get ready for Hillary Clinton's memoir about the 2016 presidential campaign."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/2016", "tags/hillary-clinton"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/2016.md", "tags/hillary-clinton.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522798832429/broa
 twitterauto = "We talked with Expedition Press founder Myrna Keliher about her \"propaganda for poets\""
 facebookauto = "We talked with Expedition Press founder Myrna Keliher about her \"propaganda for poets.\""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/poetry"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1521695325248/kory
 twitterauto = "What does a lexicographer read for work and fun? Let @KoryStamper tell you!"
 facebookauto = "What does a lexicographer read for work and fun? Let Kory Stamper tell you all about it. "
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/whatcha-reading"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/whatcha-reading.md"]
 notes_about = ""
 books = ""
 +++

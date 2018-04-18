@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517592274170/fran
 twitterauto = "Dear @ciennam: If you had the power to remove one man from the canon and replace him with a woman, who would it be?"
 facebookauto = "Dear Cienna: If you had the power to remove one man from the canon and replace him with a woman, who would it be?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

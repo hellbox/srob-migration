@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1463552213568/siff
 twitterauto = "We're super-excited for @SIFFNews to start tonight! Here are the most bookish SIFF films:"
 facebookauto = "The Seattle International Film Festival stars tonight! We made a list of the most literary films and documentaries in the festival for you."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/siff", "tags/documentary", "tags/movies"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/siff.md", "tags/documentary.md", "tags/movies.md"]
 notes_about = ""
 books = ""
 +++

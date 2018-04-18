@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Thanks to sponsor @fbpress, showing work by 2015 chapbook finalist @mayajzeller."
 facebookauto = "Thanks to sponsor Floating Bridge Press, showing work by 2015 chapbook finalist Maya Jewell Zeller."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1503689078972/SAL_
 twitterauto = "Check out sponsor @SeaArtsLectures' deftly curated lineup for 2017/2018, with Sherman Alexie, WYNK, and more."
 facebookauto = "Fill your dance card with sponsor @SeaArtsLectures' deftly curated season, including Sherman Alexie Loves, Women You Need to Know, and one of the best poetry series in town."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
 books = ""
 +++

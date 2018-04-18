@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's Book News Roundup includes a city councilmember's most influential book and @SPLBuzz getting nerdy."
 facebookauto = "Today's Book News Roundup includes a city councilmember's most influential book and the Seattle Public Library getting nerdy with comics education programming."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

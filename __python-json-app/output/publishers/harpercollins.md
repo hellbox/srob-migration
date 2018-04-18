@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "HarperCollins"
 title = "HarperCollins"
-books_by_this_publisher = ["books/magonia", "books/charlottes-web"]
+books_by_this_publisher = ["books/magonia.md", "books/charlottes-web.md"]
 +++

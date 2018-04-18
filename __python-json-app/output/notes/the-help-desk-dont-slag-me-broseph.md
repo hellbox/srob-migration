@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Ugh. You don't want to work with your loser friend, but can you slag them? @ciennam sets you straight. "
 facebookauto = "Ugh. You don't want to work with your loser friend, but can you slag them? Cienna Madrid sets you straight. "
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

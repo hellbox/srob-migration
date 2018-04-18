@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508221496602/logi
 twitterauto = "So @ArmisteadMaupin can still tell a dirty joke with the best of them."
 facebookauto = "So Armistead Maupin can still tell a dirty joke with the best of them."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/benaroya-hall"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/benaroya-hall.md"]
 notes_about = ""
 books = ""
 +++

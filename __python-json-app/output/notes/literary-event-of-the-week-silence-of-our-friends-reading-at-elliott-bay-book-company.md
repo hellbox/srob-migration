@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1515734648219/sile
 twitterauto = "Our event of the week: an important comic about the fight for civil rights @elliottbaybooks tonight!"
 facebookauto = "Our event of the week is an important comic about the fight for civil rights at Elliott Bay Book Company s tonight!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/emerald-city-comicon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/emerald-city-comicon.md"]
 notes_about = ""
 books = ""
 +++

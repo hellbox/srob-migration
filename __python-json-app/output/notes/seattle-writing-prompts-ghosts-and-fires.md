@@ -16,8 +16,8 @@ shareimage = "https://c1.staticflickr.com/9/8364/8432331725_082bc19b89_h.jpg"
 twitterauto = "Seattle Writing Prompt: the Butterworth Building"
 facebookauto = "Seattle Writing Prompt: the Butterworth Building"
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/seattle-writing-prompts"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/seattle-writing-prompts.md"]
 notes_about = ""
 books = ""
 +++

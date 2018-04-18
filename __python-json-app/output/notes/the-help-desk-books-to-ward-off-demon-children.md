@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1501871518267/ws_b
 twitterauto = "Dear Cienna: Help! My children are demons and I need some books to ward them off."
 facebookauto = "Dear Cienna: Help! Summer boredom has hit and my children are demons. I need some books to ward them off."
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

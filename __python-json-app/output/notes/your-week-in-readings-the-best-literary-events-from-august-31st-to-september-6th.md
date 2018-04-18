@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1472079287902/ever
 twitterauto = "This week brings book debut parties from Megan Snyder-Camp and @NisiShawl!"
 facebookauto = "This week, you should attend the release parties for brand new books from Seattle authors Megan Snyder-Camp and Nisi Shawl!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

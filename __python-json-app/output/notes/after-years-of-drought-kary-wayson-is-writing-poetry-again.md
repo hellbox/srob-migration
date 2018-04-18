@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1508730685513/amer
 twitterauto = "Our October poet in residence, Kary Wayson, recently spent 3 years not writing anything."
 facebookauto = "Our October poet in residence, Kary Wayson, recently spent three years not writing anything."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/interviews", "tags/writers-block"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/interviews.md", "tags/writers-block.md"]
 notes_about = ""
 books = ""
 +++

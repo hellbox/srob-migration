@@ -16,8 +16,8 @@ shareimage = "http://http://www.seattlereviewofbooks.com/webhook-uploads/1470285
 twitterauto = "Big fat mail call. Tons more on the site."
 facebookauto = "Big fat mail call \u2014 lots more on the site."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/mail-call"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/mail-call.md"]
 notes_about = ""
 books = ""
 +++

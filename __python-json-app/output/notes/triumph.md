@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Today's poem by @alexthegb, called \"Triumph\", starts \"I always forget who lives / in my city.\""
 facebookauto = "The Tuesday Poem is by Alex Gallo-Brown, and it's called \"Triumph\""
 make_image_tweet = "False"
-notes_byline = ["writers/alex-gallo-brown"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/alex-gallo-brown.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

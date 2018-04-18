@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "You can lose whole afternoons exploring the @PENamerican \u200farchives."
 facebookauto = "Here are some highlights from the PEN America historical archives, including Haruki Murakami's first-ever public appearance."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/pen-america"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/pen-america.md"]
 notes_about = ""
 books = ""
 +++

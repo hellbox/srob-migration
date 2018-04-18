@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1469666448130/Bibl
 twitterauto = "Are you ready for a 3-day book festival featuring improv, nudity, & badass women of color? "
 facebookauto = "Are you ready for a three-day book festival featuring performance, nudity, and badass women of color? Of course you are."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/event-of-the-week", "tags/bibliophilia", "tags/word-lit-zine"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/event-of-the-week.md", "tags/bibliophilia.md", "tags/word-lit-zine.md"]
 notes_about = ""
 books = ""
 +++

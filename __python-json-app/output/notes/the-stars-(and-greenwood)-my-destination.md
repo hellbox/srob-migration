@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1473268402901/gree
 twitterauto = "Great news for Greenwood and astronauts: @Fearless_Ideas reopens its Space Travel Supply shop today!"
 facebookauto = "Great news for Greenwood, young writers, and astronauts: the Bureau of Fearless Ideas reopens its Space Travel Supply Company today! Stop by for some celebratory astronaut ice cream sometime soon."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bureau-of-fearless-ideas", "tags/greenwood-space-travel-supply-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bureau-of-fearless-ideas.md", "tags/greenwood-space-travel-supply-company.md"]
 notes_about = ""
 books = ""
 +++

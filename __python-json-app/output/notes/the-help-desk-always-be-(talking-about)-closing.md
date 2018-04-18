@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Is it polite for customers to bring up a bookstore's obvious financial woes?"
 facebookauto = "If a neighborhood bookstore is obviously failing, is it polite for customers to talk about it with booksellers? Or should they just pretend everything is fine?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/retail"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/retail.md"]
 notes_about = ""
 books = ""
 +++

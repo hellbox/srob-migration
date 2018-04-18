@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1517381112897/sphe
 twitterauto = "We visited the Understory at Amazon's Spheres. It left us with some questions."
 facebookauto = "We visited the Understory at Amazon's Spheres. It left us with some questions."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/amazon"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/amazon.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,10 +16,10 @@ shareimage = ""
 twitterauto = "Ever forget a dream you wanted to remember? Us, too. That's why we love this sample from sponsor Kevin Marshall."
 facebookauto = "Ever forget a dream you wanted to remember? Us, too. That's why we love this week's sample read from sponsor Kevin Marshall."
 make_image_tweet = "False"
-notes_byline = ["writers/the-seattle-review-of-books"]
-tags_notes = ["tags/sponsorship"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
+tags_notes = ["tags/sponsorship.md"]
 notes_about = ""
-books = ["books/not-really-an-emotion"]
+books = ["books/not-really-an-emotion.md"]
 +++
 <p class="image-left">![](/webhook-uploads/1518756199842/Not%20Really%20an%20Emotion_5_150.jpeg)</p>
 If you're interested in creative uses of the comics format, or in innovative literary fiction, this week's sponsor sample is a must-see. Kevin Marshall's *Not Really an Emotion* walks the border between reality and dream, transforming the familiar comic book conventions (panels, speech bubbles) into something strange and new. The storyline of *Not Really an Emotion* is appropriately dreamlike: a young woman, meditating, hears music she can't forget, and seeks to recreate it through means both natural and fantastic. We can't do it justice here; spend just a few minutes with it [on our sponsorship page](http://www.seattlereviewofbooks.com/sponsorships), and you'll be hooked.

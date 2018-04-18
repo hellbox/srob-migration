@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1519279786238/Into
 twitterauto = "Many reviews, and an interview with @MegGardiner1, in @daneetsteffens' Criminal Fiction"
 facebookauto = "Many reviews, and an interview with Meg Gardiner, in Daneet Steffens' Criminal Fiction column"
 make_image_tweet = "False"
-notes_byline = ["writers/daneet-steffens"]
-tags_notes = ["tags/criminal-fiction"]
+notes_byline = ["writers/daneet-steffens.md"]
+tags_notes = ["tags/criminal-fiction.md"]
 notes_about = ""
 books = ""
 +++

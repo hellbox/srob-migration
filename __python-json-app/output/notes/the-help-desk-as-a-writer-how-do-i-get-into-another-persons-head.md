@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Empathy is important for writers. How do you stop your fiction from being all about you?"
 facebookauto = "Our literary advice columnist takes a hard question from a NaNoWriMo novelist: how do you break free from your own experiences and get into the minds of others?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md"]
 notes_about = ""
 books = ""
 +++

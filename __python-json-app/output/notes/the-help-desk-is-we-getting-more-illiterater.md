@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1449267211552/s14s
 twitterauto = ".@ciennam settles a bet: Is technology making us more illiterate, or are we reading more than ever? "
 facebookauto = "Is technology making us more illiterate, or are we reading more than ever? Our advice columnist settles a reader bet."
 make_image_tweet = ""
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/illiteracy"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/illiteracy.md"]
 notes_about = ""
 books = ""
 +++

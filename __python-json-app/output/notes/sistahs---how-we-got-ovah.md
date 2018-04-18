@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "JT Stewart's third set of poems from her month-long residency"
 facebookauto = "JT Stewart's third set of poems from her month-long residency"
 make_image_tweet = "False"
-notes_byline = ["writers/jt-stewart"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/jt-stewart.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1490064449353/tamb
 twitterauto = "Today's book news roundup features Kafka, Jeffrey Tambor, and Cory Doctorow."
 facebookauto = "If you're a Jeffrey Tambor fan, you should know that he's coming to Seattle. If you're not a Jeffrey Tambor fan, you should watch something with Jeffrey Tambor in it."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup", "tags/amazon", "tags/retail", "tags/e-books", "tags/future-of-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md", "tags/amazon.md", "tags/retail.md", "tags/e-books.md", "tags/future-of-books.md"]
 notes_about = ""
 books = ""
 +++

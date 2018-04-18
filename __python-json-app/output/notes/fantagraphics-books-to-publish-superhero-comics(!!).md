@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "So 2016 just threw its weirdest curveball yet: @fantagraphics is going to publish superhero comics. (?!?)"
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/fantagraphics", "tags/superheroes"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/fantagraphics.md", "tags/superheroes.md"]
 notes_about = ""
 books = ""
 +++

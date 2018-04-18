@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "In the Sunday Post, love letters to the German language and to worry; \"dear Johns\" to Dawson, MN, and the TSA."
 facebookauto = "In the Sunday Post, love letters to the German language and to worry; \"dear Johns\" to Dawson, MN, and the TSA."
 make_image_tweet = "False"
-notes_byline = ["writers/dawn-mccarra-bass"]
-tags_notes = ["tags/the-sunday-post"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
+tags_notes = ["tags/the-sunday-post.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "\"Reading Rousseau at the Seattle Women\u2019s Clinic\" is the title of our latest from Poet in Residence @pearlepubs"
 facebookauto = "\"Reading Rousseau at the Seattle Women\u2019s Clinic\" is the title of our latest from Poet in Residence Tammy Robacker"
 make_image_tweet = "False"
-notes_byline = ["writers/tammy-robacker"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/tammy-robacker.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

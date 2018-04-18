@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1487821329785/stra
 twitterauto = "Your week in readings begins with a discussion of Strangers in Their Own Land tonight @ThirdPlaceBooks."
 facebookauto = "Your week in readings begins with a discussion of Strangers in Their Own Land tonight at Third Place Books Seward Park."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/reading-through-it", "tags/town-hall-seattle", "tags/bureau-of-fearless-ideas"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/reading-through-it.md", "tags/town-hall-seattle.md", "tags/bureau-of-fearless-ideas.md"]
 notes_about = ""
 books = ""
 +++

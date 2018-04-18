@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1505362941553/Forg
 twitterauto = "Start on the outside. @nisishawl covers the covers, and some new releases, in this month's Future Alternative Past"
 facebookauto = "Start on the outside. Nisi Shawl covers the covers, and some new releases, in this month's Future Alternative Past"
 make_image_tweet = "False"
-notes_byline = ["writers/nisi-shawl"]
-tags_notes = ["tags/the-future-alternative-past"]
+notes_byline = ["writers/nisi-shawl.md"]
+tags_notes = ["tags/the-future-alternative-past.md"]
 notes_about = ""
 books = ""
 +++

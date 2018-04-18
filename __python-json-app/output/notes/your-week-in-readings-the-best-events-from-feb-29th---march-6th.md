@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1456533731837/bloo
 twitterauto = "Your week in readings kicks off @THSEA with a reading about pandemics. (Real, not zombie.)"
 facebookauto = "Your week in readings includes a book about Winnie the Pooh, a reading at a Peruvian chicken joint, and a reading from an under-appreciated giant in Seattle poetry."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/third-place-books-lake-forest-park", "tags/elliott-bay-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/third-place-books-lake-forest-park.md", "tags/elliott-bay-book-company.md"]
 notes_about = ""
-books = ["books/call-me-home"]
+books = ["books/call-me-home.md"]
 +++
 **MONDAY** Your week starts at [Town Hall](http://www2.bookstore.washington.edu/_events/events_cal.taf?evmonth=02&evyear=2016&eventid=2015121110254900&pre=20160221&pst=20160229) with science journalist **Sonia Shah**. Her new book *Pandemic* examines the possibility of infectious disease destroying human civilization by examining the many times cholera has broken out over the last two centuries. Cholera has killed hundreds of millions of human beings. Which, you know, is depressing. But important!
 

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "We asked the staff of @SeattleMystery to recommend some mysteries for people who think they don't like mysteries."
 facebookauto = "We asked the staff of Seattle Mystery Bookshop to recommend some mysteries for people who think they don't like mysteries. Our to-read list just got a whole lot longer."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-mystery-bookshop", "tags/bookstore-of-the-month"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-mystery-bookshop.md", "tags/bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

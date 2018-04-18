@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "What should you do when your favorite used bookseller publicly shames you for dog-earing your books?"
 facebookauto = "What should you do when your favorite used bookseller publicly shames you on Facebook for dog-earing your books?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/facebook"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/facebook.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1458862701179/The%
 twitterauto = "We asked school librarians what books the kids are into."
 facebookauto = "A pair of excellent school librarians tell us what the kids are reading these days."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/libraries", "tags/librarians"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/libraries.md", "tags/librarians.md"]
 notes_about = ""
 books = ""
 +++

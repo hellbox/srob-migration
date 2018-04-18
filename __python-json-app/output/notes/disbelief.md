@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our August Poet in Residence is  @d_arrindell, and his first poem is titled \"Disbelief\""
 facebookauto = "Our August Poet in Residence is  Daemond Arrindell, and his first poem is titled \"Disbelief\""
 make_image_tweet = "False"
-notes_byline = ["writers/daemond-arrindell"]
-tags_notes = ["tags/tuesday-poem"]
+notes_byline = ["writers/daemond-arrindell.md"]
+tags_notes = ["tags/tuesday-poem.md"]
 notes_about = ""
 books = ""
 +++

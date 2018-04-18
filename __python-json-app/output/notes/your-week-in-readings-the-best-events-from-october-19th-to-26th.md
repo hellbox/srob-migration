@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1445196439733/Free
 twitterauto = "Tonight you should get drunk with librarians. Obviously. But what else is happening in literary Seattle this week?"
 facebookauto = "Tonight, you should get drunk with librarians. Obviously. But what else is going on? We've picked one fantastic event for every day of the week, including Lit Crawl, Colum McCann, a reading in West Seattle, and a signing from Seattle author G. willow Wilson."
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/town-hall-seattle", "tags/seattle-public-library", "tags/hugo-house", "tags/university-book-store"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/town-hall-seattle.md", "tags/seattle-public-library.md", "tags/hugo-house.md", "tags/university-book-store.md"]
 notes_about = ""
 books = ""
 +++

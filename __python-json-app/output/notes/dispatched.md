@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Christine Deavel is our Tuesday poet, with a new prose-poem called \"Dispatch\""
 facebookauto = "Christine Deavel is our Tuesday poet, with a new prose-poem called \"Dispatch\""
 make_image_tweet = ""
-notes_byline = ["writers/christine-deavel"]
-tags_notes = ["tags/tuesday-poem", "tags/poetry"]
+notes_byline = ["writers/christine-deavel.md"]
+tags_notes = ["tags/tuesday-poem.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

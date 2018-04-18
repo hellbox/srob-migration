@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "A Tacoma park honoring Dune author Frank Herbert is set to open this year."
 facebookauto = "A park honoring Frank Herbert, a book celebrating Seattle's Somali culture, and an award for a local kid's book author in today's Book News Roundup!"
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/book-news-roundup"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/book-news-roundup.md"]
 notes_about = ""
 books = ""
 +++

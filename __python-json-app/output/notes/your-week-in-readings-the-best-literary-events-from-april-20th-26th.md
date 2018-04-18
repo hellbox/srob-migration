@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460933036832/2016
 twitterauto = "Our picks for best literary events of the week are right here:"
 facebookauto = "Our picks for best literary events from April 20th-26th include a sci-fi thriller, a bunch of pot-themed happenings with David Schmader, and a big Fantagraphics comics party in Georgetown."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/hugo-house", "tags/town-hall-seattle", "tags/queen-anne-book-company"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/hugo-house.md", "tags/town-hall-seattle.md", "tags/queen-anne-book-company.md"]
 notes_about = ""
-books = ["books/weed-the-users-guide"]
+books = ["books/weed-the-users-guide.md"]
 +++
 <p class="noindent"><h5>**Wednesday April 20: David Schmader  **</h5></p>
 <p>It’s true that I worked with David Schmader for years at *The Stranger*, and it’s true that I’m proud to call him my friend. But there is a part of my brain — the part that tingles when it comes across a sufficiently beautiful sentence — that is still in awe of his writing ability. If you haven’t read his now-defunct Last Days column or seen his live *Showgirls* performance, you might think it’s hyperbole when I say that Schmader is the single funniest man I’ve ever met. But it’s true. And he’s not just funny because he blurts out observations that will strip the paint off walls with their truth—though he does that, too.</p>

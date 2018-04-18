@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1506058940799/pash
 twitterauto = "Your Week in Readings features a comic about an idealized India and a book about getting lost in clouds."
 facebookauto = "Your Week in Readings features a comic about an idealized India and a book about getting lost in clouds."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

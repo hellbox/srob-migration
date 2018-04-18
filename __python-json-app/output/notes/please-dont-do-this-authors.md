@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = "An author hunted down a teenager who wrote a negative review of his book and hit her with a wine bottle. Tip for authors: Don't do that!"
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/social-media", "tags/self-publishing"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/social-media.md", "tags/self-publishing.md"]
 notes_about = ""
 books = ""
 +++

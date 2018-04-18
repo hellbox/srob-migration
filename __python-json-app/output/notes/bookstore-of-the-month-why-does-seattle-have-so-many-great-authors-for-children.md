@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1470806859044/Brea
 twitterauto = "Find your new favorite Seattle-area children's author with the help of @secretgardenbooks."
 facebookauto = "Our visit with Secret Garden Books continues, as we talk about Seattle's amazing children's literature scene."
 make_image_tweet = "True"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/bookstore-of-the-month", "tags/secret-garden-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/bookstore-of-the-month.md", "tags/secret-garden-books.md"]
 notes_about = ""
 books = ""
 +++

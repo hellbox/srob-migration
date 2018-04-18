@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1522906143473/norm
 twitterauto = "Our Reading Through It Book Club had a great talk about awful online people last night."
 facebookauto = "Our Reading Through It Book Club had a great talk about awful online people last night."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/reading-through-it", "tags/third-place-books-seward-park"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/reading-through-it.md", "tags/third-place-books-seward-park.md"]
 notes_about = ""
 books = ""
 +++

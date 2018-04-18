@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/monarch-review"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/monarch-review.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1495176778119/Reag
 twitterauto = "A documentary @SIFFNews focuses on the storytelling side of Ronald Reagan's presidency."
 facebookauto = "A documentary at SIFF focuses on the storytelling side of Ronald Reagan's presidency."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/siff"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/siff.md"]
 notes_about = ""
 books = ""
 +++

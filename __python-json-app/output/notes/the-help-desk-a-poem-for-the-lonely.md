@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Dear @ciennam: Will you write me a poem?"
 facebookauto = "Dear Cienna: Will you write me a poem?"
 make_image_tweet = "False"
-notes_byline = ["writers/cienna-madrid"]
-tags_notes = ["tags/the-help-desk", "tags/poetry"]
+notes_byline = ["writers/cienna-madrid.md"]
+tags_notes = ["tags/the-help-desk.md", "tags/poetry.md"]
 notes_about = ""
 books = ""
 +++

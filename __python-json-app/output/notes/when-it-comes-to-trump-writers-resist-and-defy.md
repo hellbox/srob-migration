@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Here are two readings @THSEA to help you get ready for Donald Trump's inauguration."
 facebookauto = "No, readings aren't the only thing you can do to get ready for Trump's inauguration. But they're a good start."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/town-hall-seattle"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1498174995519/fate
 twitterauto = "Your week in readings features a book about a Tacoma trolley disaster and a beautiful poetic map of Seattle."
 facebookauto = "Your week in readings features a book about a Tacoma trolley disaster and a beautiful poetic map of Seattle."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md"]
 notes_about = ""
 books = ""
 +++

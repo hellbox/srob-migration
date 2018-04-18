@@ -16,8 +16,8 @@ shareimage = "http://d1lj9l30x2igqs.cloudfront.net/nano-2013/files/2013/09/Shiel
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/nanowrimo"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/nanowrimo.md"]
 notes_about = ""
 books = ""
 +++

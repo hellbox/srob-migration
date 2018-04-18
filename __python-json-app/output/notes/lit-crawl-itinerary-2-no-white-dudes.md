@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Our second @litcrawlseattle itinerary is blessedly free of white dudes."
 facebookauto = "You say you're sick of the Trumps and Harvey Weinsteins of the world? Fear no more! Our second suggested Lit Crawl Seattle itinerary is blessedly free of white dudes."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/lit-crawl"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/lit-crawl.md"]
 notes_about = ""
 books = ""
 +++

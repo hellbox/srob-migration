@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Tell the Seattle Times how you feel about their decision to run climate change denialist propaganda."
 facebookauto = "Tell the Seattle Times how you feel about their decision to run climate change denialist propaganda."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-times"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-times.md"]
 notes_about = ""
 books = ""
 +++

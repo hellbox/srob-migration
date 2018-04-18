@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1493964914027/love
 twitterauto = "Your week in readings includes art based on public transportation, a lecture from Jeffrey Toobin, and more."
 facebookauto = "Your week in readings includes art based on public transportation, a lecture from Jeffrey Toobin, and more."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/your-week-in-readings", "tags/open-books"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/your-week-in-readings.md", "tags/open-books.md"]
 notes_about = ""
 books = ""
 +++

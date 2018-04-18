@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Get excited! @SPLBuzz's Seattle Reads selection is Yaa Gyasi's Homegoing."
 facebookauto = "Get excited! The next Seattle Reads selection is Yaa Gyasi's Homegoing."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library", "tags/seattle-reads"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md", "tags/seattle-reads.md"]
 notes_about = ""
 books = ""
 +++

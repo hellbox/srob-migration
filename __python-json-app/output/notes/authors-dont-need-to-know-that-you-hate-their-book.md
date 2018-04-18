@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "Your semi-regular reminder that authors are human beings, too."
 facebookauto = ""
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/social-media"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/social-media.md"]
 notes_about = ""
 books = ""
 +++

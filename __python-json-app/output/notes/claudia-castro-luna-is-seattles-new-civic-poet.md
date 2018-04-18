@@ -16,8 +16,8 @@ shareimage = "http://cosartbeat.wpengine.netdna-cdn.com/wp-content/uploads/2015/
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/civic-poet"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/civic-poet.md"]
 notes_about = ""
 books = ""
 +++

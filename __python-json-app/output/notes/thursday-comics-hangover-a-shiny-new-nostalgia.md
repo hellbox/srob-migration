@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1504156629114/palo
 twitterauto = "In which the youngest grumpy old man in comics finally grows up and acts his age."
 facebookauto = "In which the youngest grumpy old man in comics finally grows up and acts his age."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/drawn-&amp;-quarterly"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/drawn-&amp;-quarterly.md"]
 notes_about = ""
 books = ""
 +++

@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = "The Seattle Public Library is hosting an event about criminal justice reform and inclusion. You should attend."
 facebookauto = "The Seattle Public Library is hosting an event on the 15th that is about criminal justice reform, Black Lives Matter, equity, and inclusion. You should definitely attend."
 make_image_tweet = "False"
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/seattle-public-library"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

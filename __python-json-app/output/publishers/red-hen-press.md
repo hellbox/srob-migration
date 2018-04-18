@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Red Hen Press"
 title = "Red Hen Press"
-books_by_this_publisher = ["books/my-body-is-a-book-of-rules", "books/burn-this-house", "books/water-&amp;-salt"]
+books_by_this_publisher = ["books/my-body-is-a-book-of-rules.md", "books/burn-this-house.md", "books/water-&amp;-salt.md"]
 +++

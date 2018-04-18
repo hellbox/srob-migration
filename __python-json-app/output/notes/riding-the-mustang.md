@@ -16,8 +16,8 @@ shareimage = ""
 twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
-notes_byline = ["writers/paul-constant"]
-tags_notes = ["tags/podcast", "tags/conflict-of-interest", "tags/theatrical-mustang"]
+notes_byline = ["writers/paul-constant.md"]
+tags_notes = ["tags/podcast.md", "tags/conflict-of-interest.md", "tags/theatrical-mustang.md"]
 notes_about = ""
 books = ""
 +++

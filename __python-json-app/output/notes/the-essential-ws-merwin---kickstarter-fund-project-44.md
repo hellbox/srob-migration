@@ -16,8 +16,8 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1478364087741/e69d
 twitterauto = "The Kickstarter Fund backs @CopperCanyonPrs's WS Merwin project."
 facebookauto = "The Kickstarter Fund backs Copper Canyon Press' project to publish the essential WS Merwin."
 make_image_tweet = "True"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/kickstarter-fund", "tags/copper-canyon-press"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/kickstarter-fund.md", "tags/copper-canyon-press.md"]
 notes_about = ""
 books = ""
 +++

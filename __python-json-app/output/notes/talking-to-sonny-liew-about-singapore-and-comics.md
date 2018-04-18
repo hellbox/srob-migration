@@ -16,10 +16,10 @@ shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1460651117946/sonn
 twitterauto = "Couldn't make it to @ElliottBayBooks on Monday to hear @sonnyliew and @hellbox? Here's a transcript of their talk."
 facebookauto = "Last Monday, Seattle Review of Books co-founder Martin McClellan sat down with Sonny Liew at Elliott Bay Book Company to talk about his graphic novel \"The Art of Charlie Chan Hock Chye\", Singapore, politics, and his inspirations. Here's a transcript of the talk."
 make_image_tweet = "False"
-notes_byline = ["writers/martin-mcclellan"]
-tags_notes = ["tags/comics", "tags/singapore"]
+notes_byline = ["writers/martin-mcclellan.md"]
+tags_notes = ["tags/comics.md", "tags/singapore.md"]
 notes_about = ""
-books = ["books/the-art-of-charlie-chan-hock-chye"]
+books = ["books/the-art-of-charlie-chan-hock-chye.md"]
 +++
 <p class="image">![](/webhook-uploads/1460651117946/sonny-liew.png)</p>
 
