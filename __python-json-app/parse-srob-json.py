@@ -280,9 +280,9 @@ for key in j['data']:
             # for the related content lookup keys
             author_temp = ('authors %s' % json.dumps(author.encode('utf-8')).replace('"',''))
             author_temp = findstring( author_temp ).replace('authors','writers').encode('utf-8')            
-            markdown.write('books_author = %s\n' % author_temp )
-            markdown.write('reviews_about = %s\n' % author_temp )            
-            markdown.write('notes_about = %s\n' % author_temp )
+            markdown.write('books_author = "%s"\n' % author_temp )
+            markdown.write('reviews_about = "%s"\n' % author_temp )            
+            markdown.write('notes_about = "%s"\n' % author_temp )
             try:
                 index_builder = []
                 for sponsorship in j['data']['authors'][author]['sponsorships_author']:
@@ -396,8 +396,8 @@ for key in j['data']:
             #     markdown.write('notes_byline = ""\n')
             writer_temp = ('writers %s' % json.dumps(writer.encode('utf-8')).replace('"',''))
             writer_temp = findstring(writer_temp).encode('utf-8')
-            markdown.write('reviews_by = %s\n' % writer_temp )
-            markdown.write('notes_byline = %s\n' % writer_temp )
+            markdown.write('reviews_by = "%s"\n' % writer_temp )
+            markdown.write('notes_byline = "%s"\n' % writer_temp )
             markdown.write('books_translator = ""\n')  
     
             markdown.write('+++\n\n')  
@@ -476,7 +476,7 @@ for key in j['data']:
             #    markdown.write('books_translator = ""\n') 
             translator_temp = ('translators %s' % json.dumps(translator.encode('utf-8')).replace('"',''))
             translator_temp = findstring( translator_temp ).replace('translators','writers').encode('utf-8')             
-            markdown.write('books_translator = %s\n' % translator_temp )        
+            markdown.write('books_translator = "%s"\n' % translator_temp )        
             markdown.write('+++\n\n')  
             markdown.close()
 
