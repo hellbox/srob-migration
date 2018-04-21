@@ -251,31 +251,6 @@ for key in j['data']:
             except KeyError:
                 markdown.write('is_seattle_pnw_writer = ""\n')
             markdown.write('written_about = ""\n')
-            #try:
-            #    index_builder = []
-            #    for book in j['data']['authors'][author]['books']:
-            #        book = findstring(book)
-            #        index_builder.append(book.encode('utf-8'))
-            #    markdown.write('books_author = %s\n' % json.dumps(index_builder))
-            #except KeyError:
-            #    markdown.write('books_author = ""\n')
-            #try:
-            #    index_builder = []
-            #    for reviews in j['data']['authors'][author]['reviews']:
-            #        reviews = findstring(reviews)
-            #        index_builder.append(reviews.encode('utf-8'))
-            #    markdown.write('reviews_about = %s\n' % json.dumps(index_builder))
-            #except KeyError:
-            #    markdown.write('reviews_about = ""\n')
-#
-            #try:
-            #    index_builder = []
-            #    for note in j['data']['authors'][author]['notes']:
-            #        note = findstring(note)
-            #        index_builder.append(note.encode('utf-8'))
-            #    markdown.write('notes_about = %s\n' % json.dumps(index_builder))
-            #except KeyError:
-            #    markdown.write('notes_about = ""\n')
 
             # for the related content lookup keys
             author_temp = ('authors %s' % json.dumps(author.encode('utf-8')).replace('"',''))
@@ -378,22 +353,6 @@ for key in j['data']:
               markdown.write('bio = %s\n' % (json.dumps(j['data']['writers'][writer]['bio']).encode('utf-8')))
             except KeyError:
               markdown.write('bio = ""\n')
-            # try:
-            #     index_builder = []
-            #     for reviews_by in j['data']['writers'][writer]['reviews_by']:
-            #         reviews_by = findstring(reviews_by)
-            #         index_builder.append(reviews_by.encode('utf-8'))
-            #     markdown.write('reviews_byline = %s\n' % json.dumps(index_builder))
-            # except KeyError:
-            #     markdown.write('reviews_byline = ""\n')
-            # try:
-            #     index_builder = []
-            #     for notes_byline in j['data']['writers'][writer]['notes_byline']:
-            #         notes_byline = findstring(notes_byline)
-            #         index_builder.append(notes_byline.encode('utf-8'))
-            #     markdown.write('notes_byline = %s\n' % json.dumps(index_builder))
-            # except KeyError:
-            #     markdown.write('notes_byline = ""\n')
             writer_temp = ('writers %s' % json.dumps(writer.encode('utf-8')).replace('"',''))
             writer_temp = findstring(writer_temp).encode('utf-8')
             markdown.write('reviews_byline = "%s"\n' % writer_temp )
@@ -466,14 +425,6 @@ for key in j['data']:
             markdown.write('bio = ""\n')
             markdown.write('reviews_byline = ""\n')
             markdown.write('notes_byline = ""\n')
-            #try:
-            #    index_builder = []
-            #    for translators in j['data']['translators'][translator]['books_translator']:
-            #        translators = findstring(translators)
-            #        index_builder.append(translators.encode('utf-8'))
-            #    markdown.write('books_translator = %s\n' % json.dumps(index_builder))
-            #except KeyError:
-            #    markdown.write('books_translator = ""\n') 
             translator_temp = ('translators %s' % json.dumps(translator.encode('utf-8')).replace('"',''))
             translator_temp = findstring( translator_temp ).replace('translators','writers').encode('utf-8')             
             markdown.write('books_translator = "%s"\n' % translator_temp )        
@@ -1078,14 +1029,17 @@ for key in j['data']:
         except KeyError:
             markdown.write('reviews_byline = ""\n')
 
-        try:
-            index_builder = []
-            for books_in_this_review in j['data']['reviews'][review]['books_in_this_review']:
-                books_in_this_review = findstring(books_in_this_review)
-                index_builder.append(books_in_this_review.encode('utf-8'))
-            markdown.write('books_in_this_review = %s\n' % json.dumps(index_builder))
-        except KeyError:
-            markdown.write('books_in_this_review = ""\n')
+        #try:
+        #    index_builder = []
+        #    for books_in_this_review in j['data']['reviews'][review]['books_in_this_review']:
+        #        books_in_this_review = findstring(books_in_this_review)
+        #        index_builder.append(books_in_this_review.encode('utf-8'))
+        #    markdown.write('books_in_this_review = %s\n' % json.dumps(index_builder))
+        #except KeyError:
+        #    markdown.write('books_in_this_review = ""\n')
+        review_temp = ('reviews %s' % json.dumps(review.encode('utf-8')).replace('"',''))
+        review_temp = findstring( review_temp ).encode('utf-8') 
+        markdown.write('review_relationship = "%s"\n' % review_temp )
 
         try:
             index_builder = []
