@@ -12,8 +12,6 @@
 <link rel="amphtml" href="http://mercury.postlight.com/amp?url=http://www.seattlereviewofbooks.com">
 {{ end }}
 
-
-
 <div class="container note">
 {{ range .Data.Pages }}
     {{ if .Date.Before now }}
@@ -21,10 +19,28 @@
         <div class="row">
             <div class="col-sm-7 inline-review">
                 <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
-                <p class="date">Published {{ .Date.Format "January 2, 2018 at 3:04pm" }}<p>
+                <p class="date">Published {{ .Date.Format "January 2, 2006 at 3:04pm" }}<p>
                 <p class="noindent review-meta">
-                {{ $writer := index (where (.Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers") 0 }}                    
-                <strong>{{ $writer.Params.byline }} </strong>                  
+
+                    {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
+
+                    {{ range $i, $v := $byline }}
+                        {{ with $v.Params.byline }}{{ $.Scratch.SetInMap "names" . . }}{{ end }}
+                    {{ end }}
+                    {{ range $.Scratch.GetSortedMapValues "names" }}{{ . }}{{ end }}
+                    {{/* TODO: do correct commas between names */}} 
+                    {{/* delimit ($.Scratch.GetSortedMapValues "names") "," ", and" */}}
+                    {{ $.Scratch.Delete "names" }}                    
+
+                    review{{ if eq (len $byline) 1}}s{{ end }}
+
+                    {{ range .Params.books_in_this_review }}{{ . }}{{ end }}
+
+
+                    
+                                     
+                                   
+                         
                 </p>
                 <div class="dek">{{ .Params.dek }}</div>
                 <p class="noindent"><a href="{{ .RelPermalink }}">Read this review now</a></p>
@@ -34,6 +50,7 @@
         </div>           
 
     {{ end }}
+
     {{ if eq .Params.type "Note"}}
         <li>Note: <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ template "theme/partials/notes.html" . }}
