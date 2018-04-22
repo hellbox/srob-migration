@@ -1,5 +1,5 @@
 # Seattle Review of Books
 
-New repository started on June 14, 2017 to handle the move from Webhook to Hugo. 
+This repository is a work in progress, and so pardon the mess. 
 
-Current pipeline: Hugo to Netflify 
+It's a migration of seattlereviewofbooks.com from Webhook.com to Hugo, with deployment through Netlify. 
