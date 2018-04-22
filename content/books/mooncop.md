@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
+reviews_books = ["books/mooncop.md"]
+books_author = ["authors/tom-gauld.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thursday-comics-hangover-they-put-a-man-on-the-moon.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/vd5CgE7l0CbaxzL0dQEiLXipIez5Yk0bOpNJc7VOKTf2UXHLxTDljYwCXStZaClKsLs9Y4sSLI5rM97f2pcpMbYSmpe4"
 url = "/webhook-uploads/1473910399396/content%3Fid%3Do9YbjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7696
 
-reviews_books = ["books/mooncop.md"]
-books_author = ["authors/tom-gauld.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thursday-comics-hangover-they-put-a-man-on-the-moon.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/university-of-washington-press.md"
 books_translator = ""
+reviews_books = ["books/seattle-walks.md"]
+books_author = ["authors/david-b-williams.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/CEwtrc1x-9dXPkk2mfuSEYefTIjyh16ktfLU-PBUl5vpmc5TGDDsg7BGCPO45qwlx-MnjIMOS_uRr1a4BnpnUDSbs1aX"
 url = "/webhook-uploads/1492050332754/seattlewalks.jpg"
@@ -32,8 +36,4 @@ width = 185
 type = "image/jpeg"
 size = 95477
 
-reviews_books = ["books/seattle-walks.md"]
-books_author = ["authors/david-b-williams.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

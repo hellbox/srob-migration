@@ -24,13 +24,13 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/william-morrow.md"
 books_translator = ""
+reviews_books = ["books/seveneves.md"]
+books_author = ["authors/neal-stephenson.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/hugo-award-finalists-announced.md", "notes/tomorrow-never-dies.md", "notes/book-news-roundup-neal-stephenson-is-going-to-the-movies.md", "notes/someone-should-write-the-sci-fi-novel-that-america-really-needs-to-read-right-now.md", "notes/literary-event-of-the-week-artemis-reading-at-third-place-books.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cEkSQ0cCszGdqpHbbqc2LkXKDdj46-FLYodIgqYsr9qxGmOJShS2zhqGiCcUba03qzyWZ-RlBEkpa7W0tWgDxZFu6NwmLQ"
 url = "/webhook-uploads/1435508906268/th_b_stephenson_seveneves.jpg"
 width = 746
 height = 1122
-reviews_books = ["books/seveneves.md"]
-books_author = ["authors/neal-stephenson.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/hugo-award-finalists-announced.md", "notes/tomorrow-never-dies.md", "notes/book-news-roundup-neal-stephenson-is-going-to-the-movies.md", "notes/someone-should-write-the-sci-fi-novel-that-america-really-needs-to-read-right-now.md", "notes/literary-event-of-the-week-artemis-reading-at-third-place-books.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Comics"
 books_publisher = "publishers/marvel-comics.md"
 books_translator = ""
+reviews_books = ["books/ms-marvel-volume-1-no-normal.md"]
+books_author = ["authors/g-willow-wilson.md", "authors/adrian-alphona.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md", "notes/please-please-vote-today.md", "notes/on-diversity-and-superheroes.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pwSXCRmI8bW8-plJ0J7HdawOdxSCBh_fpQWH3Z8yYBXd2k08uIMP1v9-Q8yCt-5REkVzBjBPeMPldemMnsi2fiu-iFUT"
 url = "/webhook-uploads/1461965169583/9780785190219.jpg"
@@ -32,8 +36,4 @@ width = 260
 type = "image/jpeg"
 size = 25987
 
-reviews_books = ["books/ms-marvel-volume-1-no-normal.md"]
-books_author = ["authors/g-willow-wilson.md", "authors/adrian-alphona.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md", "notes/please-please-vote-today.md", "notes/on-diversity-and-superheroes.md"]
 +++

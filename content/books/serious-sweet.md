@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/little-a.md"
 books_translator = ""
+reviews_books = ["books/serious-sweet.md"]
+books_author = ["authors/al-kennedy.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tDU8aJKlPTLu2Y50gLYrhDbgpnE1yt2dKSVaMidlgMQ_rX2HIAV7ls4UQ4IVZJ9zpIon9wzGewyztuV9shv0ReyjvNY"
 url = "/webhook-uploads/1482457887175/serioussweet.jpg"
@@ -32,8 +36,4 @@ width = 267
 type = "image/jpeg"
 size = 20064
 
-reviews_books = ["books/serious-sweet.md"]
-books_author = ["authors/al-kennedy.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

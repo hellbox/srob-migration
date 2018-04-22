@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/all-about-lulu.md"]
 books_author = ["authors/jonathan-evison.md"]
 sponsorships_book = ""
 notes_relationship = ""
+[[image]]
+image = ""
 +++

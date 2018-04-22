@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/nyrb-classics.md"
 books_translator = ""
+reviews_books = ["books/eves-hollywood.md"]
+books_author = ["authors/eve-babitz.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oZimdakMXZ5faJk7iP8K7WGcQjAcmNVQau8NgTDYehYvwcNlbSr8gVmJiFdOS-331uttPORP7MAcRO4yzAjgeF6HeIcP4Q"
 url = "/webhook-uploads/1439144181374/content%3Fid%3DpMzjrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 31454
 
-reviews_books = ["books/eves-hollywood.md"]
-books_author = ["authors/eve-babitz.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

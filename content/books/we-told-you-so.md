@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/fantagraphics-books.md"
 books_translator = ""
+reviews_books = ["books/we-told-you-so.md"]
+books_author = ["authors/tom-spurgeon.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0rrjMmJt-UUJJIATPVwKEixxqXghuAUO7zu1tLfEECxdDgFIjlBmreZE2W5KdHcexIWepow1OOWifAZXD8-zDd9P_Hmf"
 url = "/webhook-uploads/1483748514998/toldyouso.png"
@@ -32,8 +36,4 @@ width = 400
 type = "image/png"
 size = 267067
 
-reviews_books = ["books/we-told-you-so.md"]
-books_author = ["authors/tom-spurgeon.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

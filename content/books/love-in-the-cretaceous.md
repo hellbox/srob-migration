@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/anaphora-literary-press.md"
 books_translator = ""
+reviews_books = ["books/love-in-the-cretaceous.md"]
+books_author = ["authors/howard-w-robertson.md"]
+sponsorships_book = ["sponsorships/love-in-the-cretaceous.md"]
+notes_relationship = ["notes/love-in-the-time-of-brontosaurs.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/yATD3-rmWte2vvYbnA6-x8zesMpTirBBgxOOf9nNNjYQ-B0Ylb70NQ11rxaI-wwqrKaotCXOeTj3H4jjQdlF3DE5rkqA4w"
 url = "/webhook-uploads/1501819111526/Love%20in%20the%20Cretaceous_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 29572
 
-reviews_books = ["books/love-in-the-cretaceous.md"]
-books_author = ["authors/howard-w-robertson.md"]
-sponsorships_book = ["sponsorships/love-in-the-cretaceous.md"]
-notes_relationship = ["notes/love-in-the-time-of-brontosaurs.md"]
 +++

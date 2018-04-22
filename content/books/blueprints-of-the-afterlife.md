@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/black-cat.md"
 books_translator = ""
+reviews_books = ["books/blueprints-of-the-afterlife.md"]
+books_author = ["authors/ryan-boudinot.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Izvr0PAifoHw3ewp5AwqAmQW7is3uKfmhNYc03XXuVfDbrKk0AVubhp1gpcYuvo8yn5J38pEcJetmBQIxupy53d2RRaX"
 url = "/webhook-uploads/1439140390891/content%3Fid%3DQeXyAAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11193
 
-reviews_books = ["books/blueprints-of-the-afterlife.md"]
-books_author = ["authors/ryan-boudinot.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

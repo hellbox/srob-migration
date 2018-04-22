@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/two-sylvias-press.md"
 books_translator = ""
+reviews_books = ["books/killing-marías.md"]
+books_author = ["authors/claudia-castro-luna.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/q4_FlszU_ta8Jng5PMdY-4y1Wmq4Ks9Lnb90o_orDIW85mUyQpZWKm1xXwIwmPB2n5N5F_ap-y5-Cp109OOFvXp0gMOvHQ"
 url = "/webhook-uploads/1517204790493/killingmarias.jpeg"
@@ -32,8 +36,4 @@ width = 181
 type = "image/jpeg"
 size = 10185
 
-reviews_books = ["books/killing-marías.md"]
-books_author = ["authors/claudia-castro-luna.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

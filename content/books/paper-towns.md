@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/speak.md"
 books_translator = ""
+reviews_books = ["books/paper-towns.md"]
+books_author = ["authors/john-green.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4TKZYD1CvZqECKG-OZOX6fEMvmqvJ5CBnwtWX_HvSjfD_po_huHNvfygtWuGyjAJ_SCocJRjV_YoEVaDEbOL0iQ6x6Lt8w"
 url = "/webhook-uploads/1435299398877/9780142414934.jpg"
@@ -32,8 +36,4 @@ width = 267
 type = "image/jpeg"
 size = 16816
 
-reviews_books = ["books/paper-towns.md"]
-books_author = ["authors/john-green.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

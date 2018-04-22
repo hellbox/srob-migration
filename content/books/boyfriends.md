@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/instant-future.md"
 books_translator = ""
+reviews_books = ["books/boyfriends.md"]
+books_author = ["authors/tara-atkinson.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/literary-event-of-the-week-tara-atkinson-at-vermillion.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/IejA4nKA6RYW23DoueyyXEKkjJPuHMS1EQ54HelRNLru9Dy6E0SfjgIsOJV2vR_PC3Lu_bFW8vPgkfFsd2qOcpaAE_0"
 url = "/webhook-uploads/1507789287580/boyfriends.jpg"
@@ -32,8 +36,4 @@ width = 900
 type = "image/jpeg"
 size = 89112
 
-reviews_books = ["books/boyfriends.md"]
-books_author = ["authors/tara-atkinson.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/literary-event-of-the-week-tara-atkinson-at-vermillion.md"]
 +++

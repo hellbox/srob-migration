@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/macmillan.md"
 books_translator = ""
+reviews_books = ["books/elect-h-mouse-state-judge.md"]
+books_author = ["authors/nelly-reifler.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WXXHj8V6Q1HQrVuJ7feEzVPi8o3DhAh-I7keaQoSOWoDQzAVmBuzGXgJsCWTT_0OWvkHCESZaBmH35p6Mk9Q5ngrejJOCA"
 url = "/webhook-uploads/1450500821605/content%3Fid%3DmaUcAAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12622
 
-reviews_books = ["books/elect-h-mouse-state-judge.md"]
-books_author = ["authors/nelly-reifler.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

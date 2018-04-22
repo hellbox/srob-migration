@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/wave-books.md"
 books_translator = ""
+reviews_books = ["books/snowflake--different-streets.md"]
+books_author = ["authors/eileen-myles.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "https://lh3.googleusercontent.com/aaXppdPmsso5xNbaetvp3MN6J4rjXj6-j6GNM3Kq4w1O4iMxpuyrwMyxLkQNoR9hU4bTx12VyURtsXmHf3475bnxZos"
 url = "/webhook-uploads/1444620431270/9781933517582.jpg"
@@ -32,8 +36,4 @@ width = 285
 type = "image/jpeg"
 size = 17032
 
-reviews_books = ["books/snowflake--different-streets.md"]
-books_author = ["authors/eileen-myles.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

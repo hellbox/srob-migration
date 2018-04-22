@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Psychology"]
 books_publisher = "publishers/viking.md"
 books_translator = ""
+reviews_books = ["books/while-the-city-slept.md"]
+books_author = ["authors/eli-sanders.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-february-1st-7th.md", "notes/the-idea-was-to-learn-a-lot-more-about-the-paths-of-all-three-of-the-people-whose-lives-intersected-that-night.md", "notes/book-news-roundup-a-new-reading-series-a-contest-for-young-writers-and-the-end-of-bookslut.md", "notes/2017-washington-state-book-awards-finalists-announced.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/deOg5JTjvRwNbN6RHdiCR88wh9FLtoFxTJal8TSRGS8gI8tD4lmRwjINBvMoj6HwJ3AV-JrE3JvYGfpPhr19l_ZVwGO2"
 url = "/webhook-uploads/1454202574500/static1.squarespace.png"
@@ -32,8 +36,4 @@ width = 322
 type = "image/png"
 size = 173400
 
-reviews_books = ["books/while-the-city-slept.md"]
-books_author = ["authors/eli-sanders.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-february-1st-7th.md", "notes/the-idea-was-to-learn-a-lot-more-about-the-paths-of-all-three-of-the-people-whose-lives-intersected-that-night.md", "notes/book-news-roundup-a-new-reading-series-a-contest-for-young-writers-and-the-end-of-bookslut.md", "notes/2017-washington-state-book-awards-finalists-announced.md"]
 +++

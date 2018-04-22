@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/doubleday.md"
 books_translator = ""
+reviews_books = ["books/ranger-games.md"]
+books_author = ["authors/ben-blum.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DgOXZZrj0vdLaFpH7LONB3ICkVQQQwkAgoHtEvOJwFEnFLIi8qvGGK6r1_hd_kj19JQAcPt4SY0j4ALasmArk4PBBxHA1w"
 url = "/webhook-uploads/1517172192549/Ranger%20Games_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 24744
 
-reviews_books = ["books/ranger-games.md"]
-books_author = ["authors/ben-blum.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/university-of-chicago-press.md"
 books_translator = ""
+reviews_books = ["books/the-great-derangement.md"]
+books_author = ["authors/amitav-ghosh.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pGrZU5_Vt1ZDxMCDbEQHawnOT3mJFd4zTRqPx9Qfc1wLo4d42ZbvNNB-Bv0_B9K1-sgUN0IOVXHc9S0IaEMisgB_aVGEMQ"
 url = "/webhook-uploads/1502240086748/The%20Great%20Derangement_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 30530
 
-reviews_books = ["books/the-great-derangement.md"]
-books_author = ["authors/amitav-ghosh.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

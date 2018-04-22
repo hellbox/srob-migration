@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-stranger-beside-me.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/ann-rule-1930---2015.md"]
+[[image]]
+image = ""
 +++

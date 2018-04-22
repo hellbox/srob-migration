@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/publicaffairs.md"
 books_translator = ""
+reviews_books = ["books/crash-override.md"]
+books_author = ["authors/zo\u00eb-quinn.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/XAaJmgpa2lAgR-JF5YykQLMKkYKBryRxJSJlyi3xC0ZWSj2GZR4SgTrLv-cv5YfwcK3a5H2W6qK8Qu2oWg_IILkvvb2k"
 url = "/webhook-uploads/1518556214329/Crash%20Override_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 34494
 
-reviews_books = ["books/crash-override.md"]
-books_author = ["authors/zo\u00eb-quinn.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

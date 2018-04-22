@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/harper.md"
 books_translator = ""
+reviews_books = ["books/horns.md"]
+books_author = ["authors/joe-hill.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/y9vNaFB5Kfb4SYO4CcbvaKA8jmZldlcD58ScqzR0cdsxsMmTYTDrb0K-66FAoqckPskis783TtyOJ0_KORSx5PBi0xM"
 url = "/webhook-uploads/1435299291273/9780062360021.jpg"
@@ -32,8 +36,4 @@ width = 249
 type = "image/jpeg"
 size = 23497
 
-reviews_books = ["books/horns.md"]
-books_author = ["authors/joe-hill.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

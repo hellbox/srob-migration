@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/hillcrest-publishing-group.md"
 books_translator = ""
+reviews_books = ["books/view-master.md"]
+books_author = ["authors/gretchen-jane-gruber-.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Dmhj-QG-xlPOkC0FauHwoK8aPKb6YRmqw6xX_LY9LlOhX7e8cXXp7QedAQlGaoUX_1sbULw9zY4fJQSispZI0C_sJsM"
 url = "/webhook-uploads/1447907014097/41m4i3p2FYL._SX329_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 331
 type = "image/jpeg"
 size = 28413
 
-reviews_books = ["books/view-master.md"]
-books_author = ["authors/gretchen-jane-gruber-.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

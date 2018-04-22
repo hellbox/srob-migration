@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/harper-perennial.md"
 books_translator = ""
+reviews_books = ["books/dictionary-stories.md"]
+books_author = ["authors/jez-burrows.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qxpd4owhCNwRdRgP2b-l4AORN62zaiuZQuwW8hJ1uabvZFklhcBdBbfCtnvGqEgA4qJTdM1bRTUnUqcVu2Q6p64uFFiM"
 url = "/webhook-uploads/1523296934427/91w7jchtIaL.jpg"
@@ -32,8 +36,4 @@ width = 1600
 type = "image/jpeg"
 size = 610550
 
-reviews_books = ["books/dictionary-stories.md"]
-books_author = ["authors/jez-burrows.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

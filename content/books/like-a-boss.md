@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/angry-robot.md"
 books_translator = ""
+reviews_books = ["books/like-a-boss.md"]
+books_author = ["authors/adam-rakunas.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/a-labor-day-proposal-lets-create-more-blue-collar-novelists.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9BR3CtOcVO9uSPjITpTqUlNniu3mIJgVeLz_6hEhZFBEJoO74riYVRRZUcLKfLbOftI3wMVGL8YMckzo48KN_i70CiuO"
 url = "/webhook-uploads/1465767560597/LikeABoss-144dpi.jpg"
@@ -32,8 +36,4 @@ width = 737
 type = "image/jpeg"
 size = 437081
 
-reviews_books = ["books/like-a-boss.md"]
-books_author = ["authors/adam-rakunas.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/a-labor-day-proposal-lets-create-more-blue-collar-novelists.md"]
 +++

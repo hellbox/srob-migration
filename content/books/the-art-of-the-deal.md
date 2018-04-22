@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-art-of-the-deal.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-sunday-post-for-july-24-2016.md"]
+[[image]]
+image = ""
 +++

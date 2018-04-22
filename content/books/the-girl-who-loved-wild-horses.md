@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/aladdin.md"
 books_translator = ""
+reviews_books = ["books/the-girl-who-loved-wild-horses.md"]
+books_author = ["authors/paul-goble.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0VV2hxmtMXkpGMrwcKkkuCaUrtXfRHYLZJa-64GFa8dAW8iPjqA0nml9_7mfKQ01HuwxfLsfCbYklnwm7SdmnuMqAMUG"
 url = "/webhook-uploads/1519591084960/The%20Girl%20Who%20Loved%20Wild%20Horses.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 27594
 
-reviews_books = ["books/the-girl-who-loved-wild-horses.md"]
-books_author = ["authors/paul-goble.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

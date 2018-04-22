@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/pharos-editions.md"
 books_translator = ""
+reviews_books = ["books/the-land-of-plenty.md"]
+books_author = ["authors/robert-cantwell.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/fOl4IYBsK2sOtttdXUtUbYr_MZ2CwYr6Tx0OkeF9Q-ExyQKA7BhtI_NmIKNl3idSRlCmUL5JgCsqH-ZH68mhB9u19Ojn"
 url = "/webhook-uploads/1443161506273/9780988172562.jpg"
@@ -32,8 +36,4 @@ width = 270
 type = "image/jpeg"
 size = 14624
 
-reviews_books = ["books/the-land-of-plenty.md"]
-books_author = ["authors/robert-cantwell.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

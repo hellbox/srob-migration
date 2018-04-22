@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/vintage.md"
 books_translator = ""
+reviews_books = ["books/the-curious-incident-of-the-dog-in-the-night-time.md"]
+books_author = ["authors/mark-haddon.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/the-recommendation-engine.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/MjCuyT9UvulrbvMhNgIzA8teBVnYyEJ3KIUeTjk--IklfTIU7mmQH6GWwuyR3MPE3t3erebo1XqaLwgprTrMw_tXAeIHgw"
 url = "/webhook-uploads/1441766268675/content%3Fid%3D8riBngEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10652
 
-reviews_books = ["books/the-curious-incident-of-the-dog-in-the-night-time.md"]
-books_author = ["authors/mark-haddon.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/the-recommendation-engine.md"]
 +++

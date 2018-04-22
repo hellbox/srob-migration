@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/713-books.md"
 books_translator = ""
+reviews_books = ["books/mr-neutron.md"]
+books_author = ["authors/joe-ponepinto.md"]
+sponsorships_book = ["sponsorships/mr-neutron.md"]
+notes_relationship = ["notes/the-death-of-reason.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/KDphWvA7X73Mek3wi4VS1A71zsgXxj7Zy90mT5AQmk3EDCcLANvKdLBXMqMrVHQh3Hx6QtpRhaf9GIWzrB6mVUm1H51Rhg"
 url = "/webhook-uploads/1520484221881/Mr.%20Neutron_250.png"
@@ -32,8 +36,4 @@ width = 250
 type = "image/png"
 size = 152603
 
-reviews_books = ["books/mr-neutron.md"]
-books_author = ["authors/joe-ponepinto.md"]
-sponsorships_book = ["sponsorships/mr-neutron.md"]
-notes_relationship = ["notes/the-death-of-reason.md"]
 +++

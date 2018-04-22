@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
+reviews_books = ["books/everyday-eros.md"]
+books_author = ["authors/catherine-bresner.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/JA_Rwq6hCO8DoIBU3ljKkcckb3lDFjvnNE9wUHBCdAfWrI9QeKrZae0aMQz5za6BLZJTEEzM91AqjFezl-413ZEfPILRVQ"
 url = "/webhook-uploads/1490934724823/IMG_1538.JPG"
@@ -32,8 +36,4 @@ width = 4032
 type = "image/jpeg"
 size = 1916600
 
-reviews_books = ["books/everyday-eros.md"]
-books_author = ["authors/catherine-bresner.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/quarterly-west.md"
 books_translator = ""
+reviews_books = ["books/a-summers-lynching.md"]
+books_author = ["authors/juan-carlos-reyes.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/every-city-a-mystery.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/i9EFH6Ez2EjjGVelp09ZiQbjo7bYY1YBRSJAJNDLHa81EKoaR7H81aeI4TcYaWo7SvY2tWBCS1zKMh9sTjTuiqplgfw"
 url = "/webhook-uploads/1511236989557/cover-test-11-top-line-edit.png"
@@ -32,8 +36,4 @@ width = 864
 type = "image/png"
 size = 1801474
 
-reviews_books = ["books/a-summers-lynching.md"]
-books_author = ["authors/juan-carlos-reyes.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/every-city-a-mystery.md"]
 +++

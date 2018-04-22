@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/the-new-press.md"
 books_translator = ""
+reviews_books = ["books/strangers-in-their-own-land.md"]
+books_author = ["authors/arlie-russell-hochschild.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/lunch-date-americas-worsening-political-divide-with-a-side-of-corned-beef.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-wdMID4RPcPEpdSHKlxRRlCXQyJQ47JYUZ35I6GFqqHW2VDBqPk4-n3vWAq0ch62gDBg9J3lFu0YpAXujBUMJDzIQRBR"
 url = "/webhook-uploads/1488138284335/strangersintheirownland.jpg"
@@ -32,8 +36,4 @@ width = 333
 type = "image/jpeg"
 size = 29734
 
-reviews_books = ["books/strangers-in-their-own-land.md"]
-books_author = ["authors/arlie-russell-hochschild.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/lunch-date-americas-worsening-political-divide-with-a-side-of-corned-beef.md"]
 +++

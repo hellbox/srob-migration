@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/floating-bridge-press.md"
 books_translator = ""
+reviews_books = ["books/elegy--elk-river.md"]
+books_author = ["authors/michael-schmeltzer.md"]
+sponsorships_book = ["sponsorships/elegy--elk-river.md"]
+notes_relationship = ["notes/michael-schmeltzers-elegy--elk-river.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/JbR18eDrIa4P_r0A8n_DrvdZqSLEv4cuwmOgoTVDrQ4_s0TedT3-8TfsSujcJeptnkCGplmZnze2l27poo19cqIcxbk6"
 url = "/webhook-uploads/1453482320673/Elegy_Cover_Final_withBleed.png"
@@ -32,8 +36,4 @@ width = 891
 type = "image/png"
 size = 1624793
 
-reviews_books = ["books/elegy--elk-river.md"]
-books_author = ["authors/michael-schmeltzer.md"]
-sponsorships_book = ["sponsorships/elegy--elk-river.md"]
-notes_relationship = ["notes/michael-schmeltzers-elegy--elk-river.md"]
 +++

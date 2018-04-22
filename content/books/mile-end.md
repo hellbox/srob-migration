@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/talonbooks.md"
 books_translator = ""
+reviews_books = ["books/mile-end.md"]
+books_author = ["authors/lise-tremblay.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/29nCnE0vPsesa43RoBpYLtRAXC-y6XN7wftNRYjIf02QarH2QVYyNFb7tnRDN3j7r2P8N0HbtE00N0y0KydgD-9frtx3"
 url = "/webhook-uploads/1502050127238/Mile%20End_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 24005
 
-reviews_books = ["books/mile-end.md"]
-books_author = ["authors/lise-tremblay.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

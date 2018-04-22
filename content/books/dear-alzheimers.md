@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Poetry"]
 books_publisher = "publishers/cave-moon-press.md"
 books_translator = ""
+reviews_books = ["books/dear-alzheimers.md"]
+books_author = ["authors/esther-altshul-helfgott.md"]
+sponsorships_book = ["sponsorships/dear-alzheimers.md"]
+notes_relationship = ["notes/our-thanks-to-sponsor-esther-altshul-helfgott.md", "notes/one-day-left-to-read-some-amazing-moving-work.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Jr0e8Ar-NPh-Pj_BQ78DneeUB1sA9hbawGyq0kNCzyg6EtiWs0xDNF6OIaXg03kEqacfTYoMXI_kDe8XHN5ARS6xuKfhgA"
 url = "/webhook-uploads/1445718056115/content%3Fid%3DYowRnwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 18076
 
-reviews_books = ["books/dear-alzheimers.md"]
-books_author = ["authors/esther-altshul-helfgott.md"]
-sponsorships_book = ["sponsorships/dear-alzheimers.md"]
-notes_relationship = ["notes/our-thanks-to-sponsor-esther-altshul-helfgott.md", "notes/one-day-left-to-read-some-amazing-moving-work.md"]
 +++

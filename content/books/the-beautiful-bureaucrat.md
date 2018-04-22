@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/macmillan.md"
 books_translator = ""
+reviews_books = ["books/the-beautiful-bureaucrat.md"]
+books_author = ["authors/helen-phillips.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4sRhpVds24TKogRjb8o0N8yoUCfTOJjDGlHc0YHQfElx0sH8VGamElM4Z-dtxMrK31LMtABNsHwPuceujuDNuV-n1Fk"
 url = "/webhook-uploads/1440136905703/content%3Fid%3DBX8CCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 46410
 
-reviews_books = ["books/the-beautiful-bureaucrat.md"]
-books_author = ["authors/helen-phillips.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

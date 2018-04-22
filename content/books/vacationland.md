@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/viking.md"
 books_translator = ""
+reviews_books = ["books/vacationland.md"]
+books_author = ["authors/john-hodgman.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/TIonVjRjG-ubTrE4BdAUQDhJ3q6x305L5NDoaI1sYVqzNhjfdUmoJ-5uQrtRf1mvQdMzmk0L4siQ2S8-0e0m96QWhQEl"
 url = "/webhook-uploads/1509149944172/content%3Fid%3DQa6kAQAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8873
 
-reviews_books = ["books/vacationland.md"]
-books_author = ["authors/john-hodgman.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

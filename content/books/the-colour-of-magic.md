@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-colour-of-magic.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/todays-clickbait-alert-dont-read-the-terry-pratchett-story-thats-making-the-rounds.md"]
+[[image]]
+image = ""
 +++

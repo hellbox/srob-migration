@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/go-set-a-watchman.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/how-harper-lee-saved-bloom-county.md", "notes/the-help-desk-is-there-publishing-after-death.md"]
+[[image]]
+image = ""
 +++

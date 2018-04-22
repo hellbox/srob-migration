@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Political Science"]
 books_publisher = "publishers/penguin.md"
 books_translator = ""
+reviews_books = ["books/devils-bargain.md"]
+books_author = ["authors/joshua-green.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/amazon-is-still-advertising-on-breitbart.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/AKHT4cJsIwcQ0SmE3uBggFwvdZDLpDv0NX_gXmFkva1XOOLtFN1WRf6urPWf1krw99JAfcpDiSIcPpaxnKdv9cGEi88W"
 url = "/webhook-uploads/1503076604220/content%3Fid%3DJBkvDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8313
 
-reviews_books = ["books/devils-bargain.md"]
-books_author = ["authors/joshua-green.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/amazon-is-still-advertising-on-breitbart.md"]
 +++

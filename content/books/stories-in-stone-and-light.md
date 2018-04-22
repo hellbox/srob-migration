@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/chatwin-books.md"
 books_translator = ""
+reviews_books = ["books/stories-in-stone-and-light.md"]
+books_author = ["authors/tom-small.md"]
+sponsorships_book = ["sponsorships/stories-in-stone-and-light.md"]
+notes_relationship = ["notes/stop-by-sponsor-arundel-books-for-sculpture-sparkles-and-of-course-books.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/1evWKbuuvOUygSCC9foLJDsnj3AK8T34zXO6-fz2sSO9RUUWkZuzPa_PencEPo6hUF8IcDCZJyhnt6SWvv7GhTl8iLY"
 url = "/webhook-uploads/1500935350333/Tom%20Small%20cover_275.jpeg"
@@ -32,8 +36,4 @@ width = 275
 type = "image/jpeg"
 size = 98713
 
-reviews_books = ["books/stories-in-stone-and-light.md"]
-books_author = ["authors/tom-small.md"]
-sponsorships_book = ["sponsorships/stories-in-stone-and-light.md"]
-notes_relationship = ["notes/stop-by-sponsor-arundel-books-for-sculpture-sparkles-and-of-course-books.md"]
 +++

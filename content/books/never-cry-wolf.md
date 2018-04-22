@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Nature"]
 books_publisher = "publishers/back-bay-books.md"
 books_translator = ""
+reviews_books = ["books/never-cry-wolf.md"]
+books_author = ["authors/farley-mowat.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/PwEXdTBI8e9DH-Y1f3yZo9GxCIpYKEy0W71aOIITh0CADJBTvq1Wl8aEITD0VB53rFiq9zLpG2q2wnyHVX4nbrUb44Ff"
 url = "/webhook-uploads/1440560295360/content%3Fid%3DYbB-rgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 43831
 
-reviews_books = ["books/never-cry-wolf.md"]
-books_author = ["authors/farley-mowat.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

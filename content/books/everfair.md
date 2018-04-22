@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/tor.md"
 books_translator = ""
+reviews_books = ["books/everfair.md"]
+books_author = ["authors/nisi-shawl.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st.md", "notes/portrait-gallery-nisi-shawl.md", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel.md", "notes/looking-for-optimistic-sci-fi-head-to-the-multiplexes.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/lD8ahmLEf2Wc_au58ZS6JNyzEjh7efA5SlxLbCBgtNwBpNsjUmwB9uC9MvKWVamoyonqntbEjwKvp8mVOTayJDBv4ycC"
 url = "/webhook-uploads/1473395384498/content%3Fid%3DDI8VswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 13890
 
-reviews_books = ["books/everfair.md"]
-books_author = ["authors/nisi-shawl.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st.md", "notes/portrait-gallery-nisi-shawl.md", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel.md", "notes/looking-for-optimistic-sci-fi-head-to-the-multiplexes.md"]
 +++

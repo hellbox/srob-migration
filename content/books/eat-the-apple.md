@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/bloomsbury-usa.md"
 books_translator = ""
+reviews_books = ["books/eat-the-apple.md"]
+books_author = ["authors/matt-young.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/fCw6YW58eZ4SDMG4rWslX_j0zI2h3xX62wgKkAxW1vOWSVAKFsF_DUHQi21k4-ZcVJoRF7GztGNln-WRljZX6oxO5mAG"
 url = "/webhook-uploads/1520919706277/content%3Fid%3DbhxhvgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11125
 
-reviews_books = ["books/eat-the-apple.md"]
-books_author = ["authors/matt-young.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

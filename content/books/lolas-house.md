@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/northwestern-university-press.md"
 books_translator = ""
+reviews_books = ["books/lolas-house.md"]
+books_author = ["authors/m-evelina-galang.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/V-nokIwJ9_y__bMKWQ-eQOycUAgtrlZkdYGJWWBjyB_-bHR_9_NXvjMVfnYWIFh4lX825oyz4A3nAocrTUb5lAaFFEcmHg"
 url = "/webhook-uploads/1505930754151/Lolas%20House_125.jpeg"
@@ -32,8 +36,4 @@ width = 125
 type = "image/jpeg"
 size = 10617
 
-reviews_books = ["books/lolas-house.md"]
-books_author = ["authors/m-evelina-galang.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

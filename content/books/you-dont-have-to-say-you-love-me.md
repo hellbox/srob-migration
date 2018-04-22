@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/little-brown-and-company.md"
 books_translator = ""
+reviews_books = ["books/you-dont-have-to-say-you-love-me.md"]
+books_author = ["authors/sherman-alexie.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/in-the-recording-studio-with-sherman-alexie.md", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md", "notes/citing-a-need-to-take-a-big-step-back-and-do-most-of-my-grieving-in-private-sherman-alexie-postpones-book-tour.md", "notes/literary-event-of-the-week-absolutely-true-diary-of-a-part-time-indian-reissue-release-party.md", "notes/john-smelcer-wants-to-sing-like-sherman-alexie-but-he-sounds-more-like-a-cat-in-heat.md", "notes/sherman-alexie-jennifer-egan-win-carnegie-medals-for-literary-excellence.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/71lL2d4YeooDCfIx3xn0dgv-3bnENH_QgE8WsZG6g7D2GW7VehlmCa7K8MWCzTrjacFQQNbMCTvr22lQxDopfgZn-c4"
 url = "/webhook-uploads/1497035324232/content%3Fid%3DcrsavgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8060
 
-reviews_books = ["books/you-dont-have-to-say-you-love-me.md"]
-books_author = ["authors/sherman-alexie.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/in-the-recording-studio-with-sherman-alexie.md", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md", "notes/citing-a-need-to-take-a-big-step-back-and-do-most-of-my-grieving-in-private-sherman-alexie-postpones-book-tour.md", "notes/literary-event-of-the-week-absolutely-true-diary-of-a-part-time-indian-reissue-release-party.md", "notes/john-smelcer-wants-to-sing-like-sherman-alexie-but-he-sounds-more-like-a-cat-in-heat.md", "notes/sherman-alexie-jennifer-egan-win-carnegie-medals-for-literary-excellence.md"]
 +++

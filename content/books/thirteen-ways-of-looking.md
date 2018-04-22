@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/random-house.md"
 books_translator = ""
+reviews_books = ["books/thirteen-ways-of-looking.md"]
+books_author = ["authors/colum-mccann.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-zu3fTc9AhCjb0Nynu1SoPgZd-Xr71eDLB6dSQ3TE0zdHuoC1BEoZ5KmIqaoNVMI7h22H70Pknscy_vXVLlkg5K-UMKC"
 url = "/webhook-uploads/1445318820427/51jkI9h7e1L._SX336_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 338
 type = "image/jpeg"
 size = 55235
 
-reviews_books = ["books/thirteen-ways-of-looking.md"]
-books_author = ["authors/colum-mccann.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

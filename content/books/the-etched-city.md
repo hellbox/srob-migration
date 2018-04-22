@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/spectra.md"
 books_translator = ""
+reviews_books = ["books/the-etched-city.md"]
+books_author = ["authors/k-j-bishop.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2FTA0HgxZV4O128mlercJ476mvy4BHZs_wdM1Wg-ui4kdi30BMZgk8Df3XQZWh8qE9A0trGGLR_KooCguryr6AzoY9yy"
 url = "/webhook-uploads/1518996838841/Etched%20City.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 23927
 
-reviews_books = ["books/the-etched-city.md"]
-books_author = ["authors/k-j-bishop.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

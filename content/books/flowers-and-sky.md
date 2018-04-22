@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/entre-r\u00edos-books.md"
 books_translator = ""
+reviews_books = ["books/flowers-and-sky.md"]
+books_author = ["authors/aaron-shurin.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/come-out-november-3rd-to-hear-aaron-shurin-with-special-guest-alex-vigue.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/shUsvFFE_2TtYR6XQM5NTkeB1w1gVZTZuKEukqiY-XPjhY7b_lSCQCAWHa0y1ezD2-3qzpGL-jacJeU_R_Qi9yiEfQ2AyQ"
 url = "/webhook-uploads/1508263844055/Flowers%20and%20sky_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 51049
 
-reviews_books = ["books/flowers-and-sky.md"]
-books_author = ["authors/aaron-shurin.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/come-out-november-3rd-to-hear-aaron-shurin-with-special-guest-alex-vigue.md"]
 +++

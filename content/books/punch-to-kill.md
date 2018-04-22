@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/pizza-party-comics.md"
 books_translator = ""
+reviews_books = ["books/punch-to-kill.md"]
+books_author = ["authors/kevin-clarke.md", "authors/will-long.md", "authors/marc-palm.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/when-this-cartoonist-broke-his-right-arm-he-taught-himself-how-to-draw-with-his-left.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/afAaA_MrTpd4-J4LkYJAzH4KsGW5yyG06xuwOyIZEDjJLUzEhDc_YIzZT5Ffvbeuv1TGaErhnyeahUT5BA7VFvjYePk"
 url = "/webhook-uploads/1447746891492/punch-to-kill.jpg"
@@ -32,8 +36,4 @@ width = 628
 type = "image/jpeg"
 size = 100763
 
-reviews_books = ["books/punch-to-kill.md"]
-books_author = ["authors/kevin-clarke.md", "authors/will-long.md", "authors/marc-palm.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/when-this-cartoonist-broke-his-right-arm-he-taught-himself-how-to-draw-with-his-left.md"]
 +++

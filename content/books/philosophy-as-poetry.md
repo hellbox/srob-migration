@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "nonfiction, philosophy"
 books_publisher = "publishers/the-university-of-virginia-press.mdpublishers/university-of-virginia-press.md"
 books_translator = ""
+reviews_books = ["books/philosophy-as-poetry.md"]
+books_author = ["authors/richard-rorty.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/MEpiNIXSYHo_5h27sIGnlsOyftBTEnUpWAd2m-lzfx9n_ZbCkd3xvhJ0x8ozIGg-EJmxhSnxGdSBkdK0FfZw5jC10o-s"
 url = "/webhook-uploads/1497238179504/5060.jpg"
@@ -32,8 +36,4 @@ width = 419
 type = "image/jpeg"
 size = 102808
 
-reviews_books = ["books/philosophy-as-poetry.md"]
-books_author = ["authors/richard-rorty.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

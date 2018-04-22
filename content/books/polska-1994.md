@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/editions-checkpointed.md"
 books_translator = ""
+reviews_books = ["books/polska-1994.md"]
+books_author = ["authors/isla-mcketta.md"]
+sponsorships_book = ["sponsorships/polska-1994.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oY5PE4tWiUYtl1QLr0XOdyXuCenvM3UQEMoCGOTkAkF3xS0fRCTseAA7hy-_59Cb7l8lcqq8C4tu0xAs7WKV2oN8DBIy"
 url = "/webhook-uploads/1470620724365/Polska-1994-Cover.png"
@@ -32,8 +36,4 @@ width = 874
 type = "image/png"
 size = 367774
 
-reviews_books = ["books/polska-1994.md"]
-books_author = ["authors/isla-mcketta.md"]
-sponsorships_book = ["sponsorships/polska-1994.md"]
-notes_relationship = ""
 +++

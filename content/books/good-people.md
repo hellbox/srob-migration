@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/text-publishing-company.md"
 books_translator = ""
+reviews_books = ["books/good-people.md"]
+books_author = ["authors/nir-baram.md"]
+sponsorships_book = ["sponsorships/good-people.md"]
+notes_relationship = ["notes/a-gripping-drama-from-an-emerging-israeli-novelist.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4ydBEBknVGihSbILTSqEcQk5ZzMqonN-hiAiu4PioSKtz4HYbYCLhESWahYaU677plXKiqgTXh44NaOobPzNO5fU1Ede8A"
 url = "/webhook-uploads/1467486934114/Baram_GoodPeople_rgb.jpg"
@@ -32,8 +36,4 @@ width = 1807
 type = "image/jpeg"
 size = 1007315
 
-reviews_books = ["books/good-people.md"]
-books_author = ["authors/nir-baram.md"]
-sponsorships_book = ["sponsorships/good-people.md"]
-notes_relationship = ["notes/a-gripping-drama-from-an-emerging-israeli-novelist.md"]
 +++

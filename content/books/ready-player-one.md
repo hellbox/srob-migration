@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/ready-player-one.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/make-something-new-ye-nerds!.md", "notes/the-help-desk-are-adult-coloring-books-a-fad.md"]
+[[image]]
+image = ""
 +++

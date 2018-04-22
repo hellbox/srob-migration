@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
+reviews_books = ["books/the-line-becomes-a-river.md"]
+books_author = ["authors/francisco-cant\u00fa.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/XPWr7LRbYQpWCqiNW6WPqBiFmGtKS61v8y8s_URhSoxLMzCEztUHGlQGxSsT7SYRSK4n-0vdPSFfpcd7Wok3HzpKuHNx"
 url = "/webhook-uploads/1522364320890/line%20becomes%20a%20river_500.jpeg"
@@ -32,8 +36,4 @@ width = 331
 type = "image/jpeg"
 size = 38264
 
-reviews_books = ["books/the-line-becomes-a-river.md"]
-books_author = ["authors/francisco-cant\u00fa.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

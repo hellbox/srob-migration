@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/entre-r\u00edos-books.md"
 books_translator = ""
+reviews_books = ["books/twelve-saints.md"]
+books_author = ["authors/nia-michaels.md", "authors/knox-gardner.md"]
+sponsorships_book = ["sponsorships/purchase-twelve-saints.md"]
+notes_relationship = ["notes/twelve-saints-is-poetry-and-art-in-collaboration.md", "notes/one-day-left-to-check-out-twelve-saints.md", "notes/collage-and-poetry-together.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BkvoGzZdmW38YmTw_zYpBbdITC4sfJvo1mxI2Gs3-4CKJpfylk7JeU0u5xfM3Jjkxrwj-bUivuIae2ai8xtIvULftjzf"
 url = "/webhook-uploads/1446440542830/Twelve-Saints-Cover-1.jpg"
@@ -32,8 +36,4 @@ width = 825
 type = "image/jpeg"
 size = 984462
 
-reviews_books = ["books/twelve-saints.md"]
-books_author = ["authors/nia-michaels.md", "authors/knox-gardner.md"]
-sponsorships_book = ["sponsorships/purchase-twelve-saints.md"]
-notes_relationship = ["notes/twelve-saints-is-poetry-and-art-in-collaboration.md", "notes/one-day-left-to-check-out-twelve-saints.md", "notes/collage-and-poetry-together.md"]
 +++

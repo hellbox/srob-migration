@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/anchor-books.md"
 books_translator = ""
+reviews_books = ["books/we-should-all-be-feminists.md"]
+books_author = ["authors/chimamanda-ngozi-adichie.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-november-23---29.md", "notes/another-reason-to-love-sweden.md", "notes/seventeen-bookstores-in-a-single-day-my-independent-bookstore-day-journey.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/32ayRTlxFER8bPiX-AhtUcH0x8yieoaVdDX_qM5LUQvloOziBnwBT9j97c7BZaV4gshU0Gns2-LgeGka-8dEMMMne3g"
 url = "/webhook-uploads/1437361828669/9781101911761.jpg"
@@ -32,8 +36,4 @@ width = 280
 type = "image/jpeg"
 size = 26391
 
-reviews_books = ["books/we-should-all-be-feminists.md"]
-books_author = ["authors/chimamanda-ngozi-adichie.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-november-23---29.md", "notes/another-reason-to-love-sweden.md", "notes/seventeen-bookstores-in-a-single-day-my-independent-bookstore-day-journey.md"]
 +++

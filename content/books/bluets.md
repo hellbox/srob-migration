@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/bluets.md"]
 books_author = ["authors/maggie-nelson.md"]
 sponsorships_book = ""
 notes_relationship = ""
+[[image]]
+image = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/alice-james-books.md"
 books_translator = ""
+reviews_books = ["books/calling-a-wolf-a-wolf.md"]
+books_author = ["authors/kaveh-akbar.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/nCZxz0HdtEzHD-iMzsTHQPuFIVrTvpUzbARmgUbCuPztXRM38q4_l34Aqgl-B4Q54FwxwwtW0rUeTyfaCZVcKReK0is"
 url = "/webhook-uploads/1519710012378/Calling%20a%20Wolf%20a%20Wolf_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 13469
 
-reviews_books = ["books/calling-a-wolf-a-wolf.md"]
-books_author = ["authors/kaveh-akbar.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

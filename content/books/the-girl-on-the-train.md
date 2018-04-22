@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-girl-on-the-train.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/anatomy-of-a-bestseller.md"]
+[[image]]
+image = ""
 +++

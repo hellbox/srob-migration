@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
+reviews_books = ["books/fumetti-for-the-mothership.md"]
+books_author = ["authors/colleen-louise-barry.md", "authors/stephanie-passantino.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cClydRTavQQExItXrCztRQIfBK2TASidQb392Sa76IEETshsN2rv617ba3SW2c49Ltk2Wqm4S6tKitfMOfujkOl5vAo"
 url = "/webhook-uploads/1504841739891/fumetti%2Bstill.jpg"
@@ -32,8 +36,4 @@ width = 1500
 type = "image/jpeg"
 size = 596581
 
-reviews_books = ["books/fumetti-for-the-mothership.md"]
-books_author = ["authors/colleen-louise-barry.md", "authors/stephanie-passantino.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

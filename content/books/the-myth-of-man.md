@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/floating-bridge-press.md"
 books_translator = ""
+reviews_books = ["books/the-myth-of-man.md"]
+books_author = ["authors/alex-vigue.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/come-out-november-3rd-to-hear-aaron-shurin-with-special-guest-alex-vigue.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jP-3a1bseIQYd_JMxAgFPGdybq_mq6M6D_zNBLDalKEDObpLpGoBfI2EEwr7ngjlg9uIakGeMJWC7rf-gljUmR0U3le3"
 url = "/webhook-uploads/1508264040121/Myth%20of%20Man_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 20431
 
-reviews_books = ["books/the-myth-of-man.md"]
-books_author = ["authors/alex-vigue.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/come-out-november-3rd-to-hear-aaron-shurin-with-special-guest-alex-vigue.md"]
 +++

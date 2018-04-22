@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/harper.md"
 books_translator = ""
+reviews_books = ["books/second-life.md"]
+books_author = ["authors/sj-watson.md"]
+sponsorships_book = ["sponsorships/second-life.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jgNIJlv4PRzd6ne_ow7tFBaVrHMl4zG_RKocKD1Wu2XCE1bUrmGotgwQkC1IycTMiNFv4H1r0xJgiDUO2fVxHuY58jrk"
 url = "/webhook-uploads/1466949697308/y648.png"
@@ -32,8 +36,4 @@ width = 398
 type = "image/png"
 size = 298324
 
-reviews_books = ["books/second-life.md"]
-books_author = ["authors/sj-watson.md"]
-sponsorships_book = ["sponsorships/second-life.md"]
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Political Science"]
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
+reviews_books = ["books/ghetto.md"]
+books_author = ["authors/mitchell-duneier.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/EYc26LelrtMgcO5TQRURjBPILWyu5beubJcb6wYl668DCpUvXyujwmwInJas03fWbNQLr2lGir8TxENeQO4oAG0AEduG"
 url = "/webhook-uploads/1465275625113/Unknown.jpeg"
@@ -32,8 +36,4 @@ width = 192
 type = "image/jpeg"
 size = 18692
 
-reviews_books = ["books/ghetto.md"]
-books_author = ["authors/mitchell-duneier.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

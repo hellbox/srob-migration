@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/pantheon-books.md"
 books_translator = ""
+reviews_books = ["books/imagine-wanting-only-this.md"]
+books_author = ["authors/kristen-radtke.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QL7gEejMc7lfunWuia2HyE2-6jH2i_yixAUHNgLMensfK2pWc-3QLhG3aSuHJyOfoSk5PAfj1EXqfj47FkvibxA9MGMZ"
 url = "/webhook-uploads/1506362065208/Imagine%20Wanting%20Only%20This_125.jpeg"
@@ -32,8 +36,4 @@ width = 125
 type = "image/jpeg"
 size = 7286
 
-reviews_books = ["books/imagine-wanting-only-this.md"]
-books_author = ["authors/kristen-radtke.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/coffeetown-press.md"
 books_translator = ""
+reviews_books = ["books/minding-the-muse.md"]
+books_author = ["authors/priscilla-long.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/vhevp3qYfKALwWQV1IpRlbQALDGdMnrHYqQXcEq_u0gdJRM3kY9YOciORJfeB2QS54lGV18sAJSpDqRL5fFPu7gqKKLSIA"
 url = "/webhook-uploads/1478489401167/mindingthemuse.jpg"
@@ -32,8 +36,4 @@ width = 313
 type = "image/jpeg"
 size = 54497
 
-reviews_books = ["books/minding-the-muse.md"]
-books_author = ["authors/priscilla-long.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

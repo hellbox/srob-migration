@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Poetry"]
 books_publisher = "publishers/pleiades-press.md"
 books_translator = ""
+reviews_books = ["books/in-between.md"]
+books_author = ["authors/mita-mahato.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/getting-ready-for-short-run-read-our-coverage-first!.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cOSNuJdJCUaWCvPnMyuaUABwbQ3a3sPaV4Z7TxJ4AfP_9G6tclziOrwubDQfu1uIjSbgPUJl-t3xxaCyf6oA5YZwKBA"
 url = "/webhook-uploads/1509427251247/content%3Fid%3D0a-PDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9516
 
-reviews_books = ["books/in-between.md"]
-books_author = ["authors/mita-mahato.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/getting-ready-for-short-run-read-our-coverage-first!.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/fsg-originals.md"
 books_translator = ""
+reviews_books = ["books/annihilation.md"]
+books_author = ["authors/jeff-vandermeer.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6KJA-ubbnpcVTm8koeUbXgiKakK2RY5lUuBDdxy0vHcXWK2TocZ8WIoME24gjHOTMvK4oOSPbXWkKV5L_QBDMTp4GrM"
 url = "/webhook-uploads/1518996457570/Annihilation.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 29280
 
-reviews_books = ["books/annihilation.md"]
-books_author = ["authors/jeff-vandermeer.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

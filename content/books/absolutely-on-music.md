@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/knopf.md"
 books_translator = ""
+reviews_books = ["books/absolutely-on-music.md"]
+books_author = ["authors/haruki-murakami.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hnazkBFVZzNchaOfoc5mt3wpY4WpLUx9Xc6W4eOmw_ystImRPkHPA8BMgeDMJwM0nPV-zUmoLD65LTy3nSuOF-yWYQ0"
 url = "/webhook-uploads/1482458012211/absolutelymusic.jpg"
@@ -32,8 +36,4 @@ width = 251
 type = "image/jpeg"
 size = 15779
 
-reviews_books = ["books/absolutely-on-music.md"]
-books_author = ["authors/haruki-murakami.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

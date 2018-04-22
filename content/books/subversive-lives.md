@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/ohio-university-press.md"
 books_translator = ""
+reviews_books = ["books/subversive-lives.md"]
+books_author = ["authors/nathan-quimpo.md", "authors/susan-quimpo.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/OaHGCVu4AlVLGVy8wgs5Mm1rHj_K2ZTF2CChj9hO932JyDoJJ2YRjz3H_KaH6LNCI8vPwyhcUIqBrfvla_ClGXoGTxfh"
 url = "/webhook-uploads/1519619199737/subversive%20lives_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 48075
 
-reviews_books = ["books/subversive-lives.md"]
-books_author = ["authors/nathan-quimpo.md", "authors/susan-quimpo.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

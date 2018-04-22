@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/del-rey-books.md"
 books_translator = ""
+reviews_books = ["books/perdido-street-station.md"]
+books_author = ["authors/china-mi\u00e9ville.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/sqJTkBshqKFGfhLnOvfCZ6oYEn7cjMvTwC3rgdilRE55ECAIPcrRFuIqQveD4l3AH73WtcVWVDW1B1tEs5OAs4fZzE4H"
 url = "/webhook-uploads/1518996693009/Perdido.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 36642
 
-reviews_books = ["books/perdido-street-station.md"]
-books_author = ["authors/china-mi\u00e9ville.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

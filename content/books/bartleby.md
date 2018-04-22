@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/bartleby.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/heres-something-to-do-if-youd-prefer-not-to-work.md"]
+[[image]]
+image = ""
 +++

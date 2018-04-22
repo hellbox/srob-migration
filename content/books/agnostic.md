@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
+reviews_books = ["books/agnostic.md"]
+books_author = ["authors/lesley-hazleton.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/book-news-roundup-david-sedaris-lesley-hazleton-tatiana-gill-and-more.md", "notes/book-news-roundup-four-books-you-should-really-look-into.md", "notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/talking-with-reza-aslan-about-why-were-wired-for-faith-and-how-farming-was-a-bad-bet-for-humanity.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pP0ILhLUAkTTF2sN6bT_OkK7nRM9pMiP5A-Qe7uXIw9V1NIKLcugELumSx60-gVRq0cB-j8uzehFIAWgQikHm0VgzePu"
 url = "/webhook-uploads/1459545374851/41v4hZr1euL._SX318_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 320
 type = "image/jpeg"
 size = 21252
 
-reviews_books = ["books/agnostic.md"]
-books_author = ["authors/lesley-hazleton.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/book-news-roundup-david-sedaris-lesley-hazleton-tatiana-gill-and-more.md", "notes/book-news-roundup-four-books-you-should-really-look-into.md", "notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/talking-with-reza-aslan-about-why-were-wired-for-faith-and-how-farming-was-a-bad-bet-for-humanity.md"]
 +++

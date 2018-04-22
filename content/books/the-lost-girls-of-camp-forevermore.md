@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/houghton-mifflin-harcourt.md"
 books_translator = ""
+reviews_books = ["books/the-lost-girls-of-camp-forevermore.md"]
+books_author = ["authors/kim-fu.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/RAYyJeffVpi3UunE4bfV0eXoA0SHQIgaBdPyIJbkbJ62u_aNBcOlJ7Zb4LNJJx5lFKUFyokkOLePevWMHeyDN-qdBmFD4A"
 url = "/webhook-uploads/1518482487473/content%3Fid%3D8ZhIDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10874
 
-reviews_books = ["books/the-lost-girls-of-camp-forevermore.md"]
-books_author = ["authors/kim-fu.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

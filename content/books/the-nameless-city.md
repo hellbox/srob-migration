@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/first-second.md"
 books_translator = ""
+reviews_books = ["books/the-nameless-city.md"]
+books_author = ["authors/faith-erin-hicks.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/comics-in-conversation.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/C6rSHM1dP7tdZ0HWqqKOGVuTyC8CrS32GbDcN1d-yFfK7oSJViJmpkbjsIUF_UzfyKRbqlqjX3fG_AtQoZMZn8t49M9j"
 url = "/webhook-uploads/1490856760722/namelesscity.jpeg"
@@ -32,8 +36,4 @@ width = 189
 type = "image/jpeg"
 size = 15597
 
-reviews_books = ["books/the-nameless-city.md"]
-books_author = ["authors/faith-erin-hicks.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/comics-in-conversation.md"]
 +++

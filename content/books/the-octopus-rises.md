@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Short Stories"
 books_publisher = "publishers/fantagraphics.md"
 books_translator = ""
+reviews_books = ["books/the-octopus-rises.md"]
+books_author = ["authors/ryan-boudinot.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-events-from-september-28th-to-october-4th.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2nQOfo0qzkLqqZYbQLhlVsUQO8vaos3HOh5ZfGAtmAS0geVWvG1E2qoOXKBpU0fZ7rGpbXGqu4wG6ggog_Dk-QhVydY1"
 url = "/webhook-uploads/1439138068743/61W8JDD5txL.jpg"
@@ -32,8 +36,4 @@ width = 500
 type = "image/jpeg"
 size = 79796
 
-reviews_books = ["books/the-octopus-rises.md"]
-books_author = ["authors/ryan-boudinot.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-events-from-september-28th-to-october-4th.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/nicole-dieker.md"
 books_translator = ""
+reviews_books = ["books/the-biographies-of-ordinary-people.md"]
+books_author = ["authors/nicole-dieker.md"]
+sponsorships_book = ["sponsorships/the-biographies-of-ordinary-people.md", "sponsorships/the-biographies-of-ordinary-people-vol-1.md"]
+notes_relationship = ["notes/ordinary-lives-told-with-extraordinary-heart.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/n-Z2BgJ1arIy2ICEgf0MrJ80QvvovB_eh-4sWBgZPteeqsi3rrbMzh85s3GtgpLQ-Igr9O0bIJTP96_6bb7gIypR9rQ8"
 url = "/webhook-uploads/1496290010886/BiographiesofOrdinaryPeople1.jpg"
@@ -32,8 +36,4 @@ width = 1410
 type = "image/jpeg"
 size = 268398
 
-reviews_books = ["books/the-biographies-of-ordinary-people.md"]
-books_author = ["authors/nicole-dieker.md"]
-sponsorships_book = ["sponsorships/the-biographies-of-ordinary-people.md", "sponsorships/the-biographies-of-ordinary-people-vol-1.md"]
-notes_relationship = ["notes/ordinary-lives-told-with-extraordinary-heart.md"]
 +++

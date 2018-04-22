@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sorry-house.md"
 books_translator = ""
+reviews_books = ["books/you-private-person.md"]
+books_author = ["authors/richard-chiem.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/looking-for-a-holiday-gift-book-richard-chiem-recommends-the-passion-according-to-gh.md", "notes/book-news-roundup-a-king-of-joy-a-book-bunker-and-a-chance-to-win-a-washington-state-book-award.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/b63lB1-fLpExNZd6f5aVpAkPb-dViR8lOwV5W803h1lo3D8BkfmQRcWfw8VU-mpkvytH18tWeFuG85LMyh_vaGbh_BE"
 url = "/webhook-uploads/1502222973980/unnamed.jpg"
@@ -32,8 +36,4 @@ width = 4310
 type = "image/jpeg"
 size = 471648
 
-reviews_books = ["books/you-private-person.md"]
-books_author = ["authors/richard-chiem.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/looking-for-a-holiday-gift-book-richard-chiem-recommends-the-passion-according-to-gh.md", "notes/book-news-roundup-a-king-of-joy-a-book-bunker-and-a-chance-to-win-a-washington-state-book-award.md"]
 +++

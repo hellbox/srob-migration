@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/smithsonian-books.md"
 books_translator = ""
+reviews_books = ["books/the-sweat-of-their-face.md"]
+books_author = ["authors/david-c-ward.md", "authors/dorothy-moss.md", "authors/john-fagg.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oC96zjtfF9phEjgA7D0HEgyH8pVFW-TdeXum89lUKjNR0Zd8w8CUSsDceKuPX3mZflzk6mZQzP26NTl71uBtnL4f3Hsg"
 url = "/webhook-uploads/1520721302583/sweat%20of%20their%20face_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 19551
 
-reviews_books = ["books/the-sweat-of-their-face.md"]
-books_author = ["authors/david-c-ward.md", "authors/dorothy-moss.md", "authors/john-fagg.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

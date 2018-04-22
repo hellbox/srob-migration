@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/the-magic-of-cape-disappointment.md"]
+books_author = ["authors/julie-manthey.md"]
+sponsorships_book = ["sponsorships/the-magic-of-cape-disappointment.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/5biaWSxbKkYHd2OI1sh24OPePT4ZEbJRoeobBYTADE3iNVMW0Na-x4VIlCmWSPzuAyQpAxrvyHIM-BwXTYYH71mFsYzQ"
 url = "/webhook-uploads/1456293010919/content%3Fid%3D8KD-jgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8559
 
-reviews_books = ["books/the-magic-of-cape-disappointment.md"]
-books_author = ["authors/julie-manthey.md"]
-sponsorships_book = ["sponsorships/the-magic-of-cape-disappointment.md"]
-notes_relationship = ""
 +++

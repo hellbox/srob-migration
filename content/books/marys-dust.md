@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/entre-r\u00edos-books.md"
 books_translator = ""
+reviews_books = ["books/marys-dust.md"]
+books_author = ["authors/melinda-mueller.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/celebrate-the-launch-of-melinda-muellers-latest-on-october-21.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/aVZYgUqsikf3EoWeBYjF9AMDWNRpMgyM9KSlsQiiztstwzFB453jPX0GrkSKsDDlSl0M7xI-d-HIlh4fAHU0mRFIF-Boug"
 url = "/webhook-uploads/1508173282270/Mary's%20Dust_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 19323
 
-reviews_books = ["books/marys-dust.md"]
-books_author = ["authors/melinda-mueller.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/celebrate-the-launch-of-melinda-muellers-latest-on-october-21.md"]
 +++

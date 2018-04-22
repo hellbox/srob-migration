@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/vertigo-comics.md"
 books_translator = ""
+reviews_books = ["books/how-to-understand-israel-in-60-days-or-less.md"]
+books_author = ["authors/sarah-glidden.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/new-hire-sarah-glidden-doesnt-believe-in-the-seattle-freeze.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/D2hTPE4mMfJpuIYQFQwM3-53Qv6OiIfofGi9QcvwwnoHoiwr_1BFFKvuAcABYthvU6I8cij8wt4W3dP-xr3P7dVZ-5Uw_w"
 url = "/webhook-uploads/1445204016749/htunderisraelcover11.jpg"
@@ -32,8 +36,4 @@ width = 275
 type = "image/jpeg"
 size = 159790
 
-reviews_books = ["books/how-to-understand-israel-in-60-days-or-less.md"]
-books_author = ["authors/sarah-glidden.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/new-hire-sarah-glidden-doesnt-believe-in-the-seattle-freeze.md"]
 +++

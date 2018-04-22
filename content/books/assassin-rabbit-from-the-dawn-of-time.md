@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/impossibly-small-press.md"
 books_translator = ""
+reviews_books = ["books/assassin-rabbit-from-the-dawn-of-time.md"]
+books_author = ["authors/mark-taylor.md"]
+sponsorships_book = ["sponsorships/assassin-rabbit-from-the-dawn-of-time.md", "sponsorships/assassin-rabbit-from-the-dawn-of-time-.md"]
+notes_relationship = ["notes/thanks-to-mark-taylor-for-sponsoring-this-week!.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/3m_vRBQQDbUJsoA7Qnx7WH-QDu5awc-afPkRUC4zFF0ne9jbWdvKXpT-Bsq3HT6J-VnJSVTc5ui6P5YqEwvhGYRMRoo"
 url = "/webhook-uploads/1441864046110/content%3Fid%3DbkQ5rgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 34650
 
-reviews_books = ["books/assassin-rabbit-from-the-dawn-of-time.md"]
-books_author = ["authors/mark-taylor.md"]
-sponsorships_book = ["sponsorships/assassin-rabbit-from-the-dawn-of-time.md", "sponsorships/assassin-rabbit-from-the-dawn-of-time-.md"]
-notes_relationship = ["notes/thanks-to-mark-taylor-for-sponsoring-this-week!.md"]
 +++

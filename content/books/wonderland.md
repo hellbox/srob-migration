@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/lost-horse-press.md"
 books_translator = ""
+reviews_books = ["books/wonderland.md"]
+books_author = ["authors/sam-ligon.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bMe9X5RjOymQmN4zwU2Lef1yLWAiY2O61uYJM5mPlQTFfNpdP6Hu4wmVR4hQL6i0Jb8VipQKNBV_Fa3bNHemOHp2guGb"
 url = "/webhook-uploads/1463201509029/wonderland.jpg"
@@ -32,8 +36,4 @@ width = 853
 type = "image/jpeg"
 size = 1119586
 
-reviews_books = ["books/wonderland.md"]
-books_author = ["authors/sam-ligon.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

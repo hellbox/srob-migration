@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/2000-ad.md"
 books_translator = ""
+reviews_books = ["books/judge-dredd-america.md"]
+books_author = ["authors/john-wagner.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4NtnXk3FrkRhglGBc1D7jzPISfhTulGwGP8v71k5UvPf5l1PJj5gN7w5XSzp3Q-khv_4nDswrTJwi034c1ygsbA-SSPV"
 url = "/webhook-uploads/1470635745810/content%3Fid%3DOrj3oQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12081
 
-reviews_books = ["books/judge-dredd-america.md"]
-books_author = ["authors/john-wagner.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

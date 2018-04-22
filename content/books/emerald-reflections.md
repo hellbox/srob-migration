@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/third-place-press.md"
 books_translator = ""
+reviews_books = ["books/emerald-reflections.md"]
+books_author = ["authors/marcus-harrison-green.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/wDynpfLAIwh_MxI_z30e1XKTrita36U-bM6N9e0_a_qynkq755XrrjcNBGVN_hiH3nk29fgUKDwYRxmMhuVG5WToQRnB"
 url = "/webhook-uploads/1477277860734/Emerald%20FINAL%20promo.jpg"
@@ -32,8 +36,4 @@ width = 265
 type = "image/jpeg"
 size = 16819
 
-reviews_books = ["books/emerald-reflections.md"]
-books_author = ["authors/marcus-harrison-green.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/a-taste-of-honey.md"]
+books_author = ["authors/rose-lerner.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/never-trust-aaron-burr-and-other-research-tips-from-a-historical-romance-author.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/P5_kTcpiXU87AgpBtKj5m_kj4VzhD2DbmIl74RKhtJ8wyWmzPyNTjGQnsy1y1mCtXC1S6ln3iDLLJJ8iY5lE1OUdWczaTg"
 url = "/webhook-uploads/1504388550080/Taste%20of%20Honey_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 35319
 
-reviews_books = ["books/a-taste-of-honey.md"]
-books_author = ["authors/rose-lerner.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/never-trust-aaron-burr-and-other-research-tips-from-a-historical-romance-author.md"]
 +++

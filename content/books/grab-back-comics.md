@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/grabbackcomicscom.md"
 books_translator = ""
+reviews_books = ["books/grab-back-comics.md"]
+books_author = ["authors/erma-blood.md", "authors/various.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-september-20th---september-26th.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/98Vy_fP6ktBaNcwZJ6NllwARv3TCTiefknk0Q_u6lMeKsV4tjAHERklG220fr1TjgdSl9Byzd1iXJd7bvEVmftAZsHy4gA"
 url = "/webhook-uploads/1499407453494/grabback.jpg"
@@ -32,8 +36,4 @@ width = 2743
 type = "image/jpeg"
 size = 8930046
 
-reviews_books = ["books/grab-back-comics.md"]
-books_author = ["authors/erma-blood.md", "authors/various.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-september-20th---september-26th.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/hawthorne-books.md"
 books_translator = ""
+reviews_books = ["books/call-me-home.md"]
+books_author = ["authors/megan-kruse.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-events-from-feb-29th---march-6th.md", "notes/literary-event-of-the-week-hugo-literary-series-exile.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/AvHeeF0M9JHchmjG3L0WVX1DST47WoZHSUA7ICeByFJi6eIx7T4ePf_CPU6WKDb8taduJyoSKaJ_FxfV_zWvws5m7N0"
 url = "/webhook-uploads/1436856738200/9780990437000.jpg"
@@ -32,8 +36,4 @@ width = 248
 type = "image/jpeg"
 size = 20241
 
-reviews_books = ["books/call-me-home.md"]
-books_author = ["authors/megan-kruse.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-events-from-feb-29th---march-6th.md", "notes/literary-event-of-the-week-hugo-literary-series-exile.md"]
 +++

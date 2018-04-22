@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/thank-you-for-the-corner-office.md"]
 books_author = ["authors/maged-zaher.md"]
 sponsorships_book = ""
 notes_relationship = ""
+[[image]]
+image = ""
 +++

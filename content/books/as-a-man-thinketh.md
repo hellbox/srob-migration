@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
+reviews_books = ["books/as-a-man-thinketh.md"]
+books_author = ["authors/andrew-s-mcalpine.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bJDcOF6b00rINkYFEDJjvVxESin4Ssu8ipSsUQqOVowJ7H9RyZZcKNxbnxfot1K4F9TXp5gmqaivERnnDk1A2OkpDiM2JA"
 url = "/webhook-uploads/1490934766299/IMG_1880.JPG"
@@ -32,8 +36,4 @@ width = 2282
 type = "image/jpeg"
 size = 1142585
 
-reviews_books = ["books/as-a-man-thinketh.md"]
-books_author = ["authors/andrew-s-mcalpine.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

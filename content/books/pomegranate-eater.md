@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/kore-press.md"
 books_translator = ""
+reviews_books = ["books/pomegranate-eater.md"]
+books_author = ["authors/amaranth-borsuk.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/R0kxwlJt7CHeIhxvxPswwfBFfwfIa-1kqo5oJc0Z4SgojERK4PgZkvMNg0SCwTCwTtmCXFZoETb6-8ZlzmiZlr86KNY6"
 url = "/webhook-uploads/1466750384815/pomegranate.jpg"
@@ -32,8 +36,4 @@ width = 355
 type = "image/jpeg"
 size = 32787
 
-reviews_books = ["books/pomegranate-eater.md"]
-books_author = ["authors/amaranth-borsuk.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

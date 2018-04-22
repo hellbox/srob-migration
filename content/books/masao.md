@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/dma-books.md"
 books_translator = ""
+reviews_books = ["books/masao.md"]
+books_author = ["authors/sandra-vea.md"]
+sponsorships_book = ["sponsorships/masao-a-nisei-soldiers-secret-and-heroic-role-in-world-war-ii.md"]
+notes_relationship = ["notes/an-amazing-story-of-american-sacrifice-and-duty.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9LCOqPo-Lx5gFyJU0cf1eXQCr0di-n3pIEl_BxcQl4T0INOA7eQernNyDOJI5yXmQ9SYsLYazSef-v05abim_E8Xi1-C"
 url = "/webhook-uploads/1478841096675/71sAcreUtkL.jpg"
@@ -32,8 +36,4 @@ width = 667
 type = "image/jpeg"
 size = 131662
 
-reviews_books = ["books/masao.md"]
-books_author = ["authors/sandra-vea.md"]
-sponsorships_book = ["sponsorships/masao-a-nisei-soldiers-secret-and-heroic-role-in-world-war-ii.md"]
-notes_relationship = ["notes/an-amazing-story-of-american-sacrifice-and-duty.md"]
 +++

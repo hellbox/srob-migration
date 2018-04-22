@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/pie-school.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane.md"]
+[[image]]
+image = ""
 +++

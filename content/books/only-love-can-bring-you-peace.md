@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/only-love-can-bring-you-peace.md"]
+books_author = ["authors/simon-joyner.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/O4EKmQvBp13_kq4h4pB8QxTDxamWQzhlfMc3oqXUyOdhi8hPZ0vRxY1-eNkm4cSUbSrsgB-1hObqdSUJy_0DY7IMUmXU"
 url = "/webhook-uploads/1455084870687/content%3Fid%3D1FY4jgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 35703
 
-reviews_books = ["books/only-love-can-bring-you-peace.md"]
-books_author = ["authors/simon-joyner.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

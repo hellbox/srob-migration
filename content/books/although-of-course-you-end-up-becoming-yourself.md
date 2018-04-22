@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/broadway-books.md"
 books_translator = ""
+reviews_books = ["books/although-of-course-you-end-up-becoming-yourself.md"]
+books_author = ["authors/david-lipsky.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/b6klVU7tQEcNQPPOxzLDDk0uj_lKlSi1unhgm9E5I1ZLXLn6PG76tJ-892qER2-ht1FBpdA7lcisAcyvX1pqxkXE6no"
 url = "/webhook-uploads/1439014766179/9780307592439.jpg"
@@ -32,8 +36,4 @@ width = 273
 type = "image/jpeg"
 size = 23952
 
-reviews_books = ["books/although-of-course-you-end-up-becoming-yourself.md"]
-books_author = ["authors/david-lipsky.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/transcentainment-comics.md"
 books_translator = ""
+reviews_books = ["books/not-really-an-emotion.md"]
+books_author = ["authors/kevin-marshall.md"]
+sponsorships_book = ["sponsorships/not-really-an-emotion.md"]
+notes_relationship = ["notes/not-really-a-comic-book.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ZHCfeuCC_8GlVAGIekIElfWrtCsQ3yHXi-OxtBn6sIXydrvYB9G52wxcIQwmln6sfeig67ewJUlry1ggh9Z5VqOhf5U"
 url = "/webhook-uploads/1518566077395/Not%20Really%20an%20Emotion_cover_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 20254
 
-reviews_books = ["books/not-really-an-emotion.md"]
-books_author = ["authors/kevin-marshall.md"]
-sponsorships_book = ["sponsorships/not-really-an-emotion.md"]
-notes_relationship = ["notes/not-really-a-comic-book.md"]
 +++

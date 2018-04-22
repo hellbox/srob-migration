@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sartoris-literary-group.md"
 books_translator = ""
+reviews_books = ["books/treys-company.md"]
+books_author = ["authors/frank-murtaugh.md"]
+sponsorships_book = ["sponsorships/treys-company.md"]
+notes_relationship = ["notes/this-summer-brought-to-you-courtesy-of-.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/LJQeVunQwq6z4Qd4ULi9poCQdgW022FIm2jqAQw-nS6F-4yPGvYLUS1z5e6wyl2ozakgtxIMzCavpeiqqKmVCVMYDro7"
 url = "/webhook-uploads/1498024605625/Trey's%20Company%20-%20cover%202.jpg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 115723
 
-reviews_books = ["books/treys-company.md"]
-books_author = ["authors/frank-murtaugh.md"]
-sponsorships_book = ["sponsorships/treys-company.md"]
-notes_relationship = ["notes/this-summer-brought-to-you-courtesy-of-.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/entre-r\u00edos-books.md"
 books_translator = ""
+reviews_books = ["books/the-after.md"]
+books_author = ["authors/melinda-mueller.md"]
+sponsorships_book = ["sponsorships/the-after.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uYGwHa9IqQxJLOvIG-MtA-bKXb_XQR7gfou4WTGjjE-WpcZO7vLfohNRWiSNaKaZzHnR4xA5C-7EE5N0GyEQ-W5mntA"
 url = "/webhook-uploads/1475251777819/Screen%20Shot%202016-09-30%20at%209.08.37%20AM.png"
@@ -32,8 +36,4 @@ width = 1970
 type = "image/png"
 size = 970429
 
-reviews_books = ["books/the-after.md"]
-books_author = ["authors/melinda-mueller.md"]
-sponsorships_book = ["sponsorships/the-after.md"]
-notes_relationship = ""
 +++

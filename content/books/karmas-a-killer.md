@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Murder"]
 books_publisher = "publishers/midnight-ink.md"
 books_translator = ""
+reviews_books = ["books/karmas-a-killer.md"]
+books_author = ["authors/tracy-weber.md"]
+sponsorships_book = ["sponsorships/karmas-a-killer.md"]
+notes_relationship = ["notes/karmas-a-killer-book-release-party.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BqhrXxF8G41ptk7EsXx1DAYSUNqAr1oYVEzCFAYalHzXgQyDh70Ctgf3hArtcjybPSdMESVGzDyGtH_ye_bLrsIpzFOnig"
 url = "/webhook-uploads/1453052304935/content%3Fid%3D-RzKsgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12169
 
-reviews_books = ["books/karmas-a-killer.md"]
-books_author = ["authors/tracy-weber.md"]
-sponsorships_book = ["sponsorships/karmas-a-killer.md"]
-notes_relationship = ["notes/karmas-a-killer-book-release-party.md"]
 +++

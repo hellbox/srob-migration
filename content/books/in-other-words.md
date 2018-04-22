@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/knopf.md"
 books_translator = ""
+reviews_books = ["books/in-other-words.md"]
+books_author = ["authors/jhumpa-lahiri.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Lp28hBB7O4EPRHjUFO0YEHgxd3alZ9a6zPXOYIQLVdpslZ-iA9Eiz7xu57fRS7JaSSkn0TuDFSNasHAMFXIrFl7vrCFT2A"
 url = "/webhook-uploads/1464761963327/content%3Fid%3D5RpjrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 42147
 
-reviews_books = ["books/in-other-words.md"]
-books_author = ["authors/jhumpa-lahiri.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

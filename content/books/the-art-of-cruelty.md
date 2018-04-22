@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Art"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/the-art-of-cruelty.md"]
+books_author = ["authors/maggie-nelson.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/the-kind-of-genius-you-cant-ignore.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/obx2XvwNFRsEN10vzxJaBnVVWYIft7-23irK7p5BtsyQSlOJqn9mQjrc8cK_0XIvQz6BG8GRoeZOnrH7m-mnAcfHb3E8Ow"
 url = "/webhook-uploads/1440199626240/content%3Fid%3DosDJnQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7912
 
-reviews_books = ["books/the-art-of-cruelty.md"]
-books_author = ["authors/maggie-nelson.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/the-kind-of-genius-you-cant-ignore.md"]
 +++

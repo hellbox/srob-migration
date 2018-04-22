@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/macmillan.md"
 books_translator = ""
+reviews_books = ["books/rosalie-lightning.md"]
+books_author = ["authors/tom-hart.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/talking-with-cartoonist-noel-franklin-about-her-new-award-short-run-and-her-next-book.md", "notes/literary-event-of-the-week-short-run.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0b46oq0JXYUNYExrBl9HsrHXNtOOEvYVZ5Wb6Y3L1q0BEFIVHykb90ogBMQHZ7585oJYtebLyHHaR5ZfafgBiuLn8mp0"
 url = "/webhook-uploads/1453787507462/content%3Fid%3D5vo6CwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8262
 
-reviews_books = ["books/rosalie-lightning.md"]
-books_author = ["authors/tom-hart.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/talking-with-cartoonist-noel-franklin-about-her-new-award-short-run-and-her-next-book.md", "notes/literary-event-of-the-week-short-run.md"]
 +++

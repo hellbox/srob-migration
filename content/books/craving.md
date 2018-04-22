@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/world-books.md"
 books_translator = ""
+reviews_books = ["books/craving.md"]
+books_author = ["authors/esther-gerritsen.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-xgsQmPzpLjpjwNv_sSWTYdCwSDbzON_CI-qHY2MRJDGyNlTfnz0zkeqX6Ko8R6krfOvgzLy6inw3I6sJ5oxJ0OCalywWw"
 url = "/webhook-uploads/1502048726851/Craving_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 20180
 
-reviews_books = ["books/craving.md"]
-books_author = ["authors/esther-gerritsen.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

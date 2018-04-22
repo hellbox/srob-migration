@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/random-house.md"
 books_translator = ""
+reviews_books = ["books/destiny-and-power.md"]
+books_author = ["authors/jon-meacham.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/3aWj9sUeRu2A1-9nu4M_WDaG1f8TM_Lda8dRxAne81punBAJPuSUefbFJ7S2USqWC5s3PEZdL71cfhM0mMCvpMLg-wo"
 url = "/webhook-uploads/1448847993266/9781400067657.jpg"
@@ -32,8 +36,4 @@ width = 268
 type = "image/jpeg"
 size = 20118
 
-reviews_books = ["books/destiny-and-power.md"]
-books_author = ["authors/jon-meacham.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

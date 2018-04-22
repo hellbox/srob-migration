@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/pantheon-books.md"
 books_translator = ""
+reviews_books = ["books/the-art-of-charlie-chan-hock-chye.md"]
+books_author = ["authors/sonny-liew.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/talking-to-sonny-liew-about-singapore-and-comics.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ZpC6oJoGT9y9SL0oR6w47I-LIY_19YXWR8HKjCSmWHkhDZ6g6SL13CYdHTzUcU3RUvGtdqhP7xFXJb-V1jJu1nVkww0W"
 url = "/webhook-uploads/1460328122302/content%3Fid%3DrZTNsgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 59206
 
-reviews_books = ["books/the-art-of-charlie-chan-hock-chye.md"]
-books_author = ["authors/sonny-liew.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/talking-to-sonny-liew-about-singapore-and-comics.md"]
 +++

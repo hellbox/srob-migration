@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
+reviews_books = ["books/fire!!-.md"]
+books_author = ["authors/peter-bagge.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tNl2LFdtnuf_aTI0P9iS4Ti4S2VsHVxM5-wi00e2kbvs49bzp3nMsR_i_SrNItcyf8Tbt4Y96Ql_7iq5wV_IN6U9-UaX"
 url = "/webhook-uploads/1489729789325/fire.jpg"
@@ -32,8 +36,4 @@ width = 267
 type = "image/jpeg"
 size = 33229
 
-reviews_books = ["books/fire!!-.md"]
-books_author = ["authors/peter-bagge.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

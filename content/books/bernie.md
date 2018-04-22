@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/seven-stories-press.md"
 books_translator = ""
+reviews_books = ["books/bernie.md"]
+books_author = ["authors/ted-rall.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thursday-comics-hangover-bernie-sanders-comic-book-hero.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/OsK4cFmlx75gf2Xl2-WwPNCBROfOrEn9d-QI6lmlmi2UbSVzeTJ5NcQBBEfvZqHhDbQ5RrJkYZZQEM_LWyvEKwv6oYE"
 url = "/webhook-uploads/1454563279530/content%3Fid%3DvtIgswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 22150
 
-reviews_books = ["books/bernie.md"]
-books_author = ["authors/ted-rall.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thursday-comics-hangover-bernie-sanders-comic-book-hero.md"]
 +++

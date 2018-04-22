@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/how-to-grow-an-addict.md"]
+books_author = ["authors/ja-wright.md"]
+sponsorships_book = ["sponsorships/how-to-grow-an-addict.md"]
+notes_relationship = ["notes/a-how-to-in-making-sure-your-child-becomes-an-addict.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/7C3c0egH2zwUq569oA5b8CsLWEcNAuzMLk9RvtTG07fF8Czs5cFm5tw-DyeAvEj6rbX5-tMtIcR0poSEBip0FB_VNSOz"
 url = "/webhook-uploads/1470003272157/content%3Fid%3Dcg8jrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 13861
 
-reviews_books = ["books/how-to-grow-an-addict.md"]
-books_author = ["authors/ja-wright.md"]
-sponsorships_book = ["sponsorships/how-to-grow-an-addict.md"]
-notes_relationship = ["notes/a-how-to-in-making-sure-your-child-becomes-an-addict.md"]
 +++

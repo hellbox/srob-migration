@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Juvenile Nonfiction"]
 books_publisher = "publishers/houghton-mifflin-harcourt.md"
 books_translator = ""
+reviews_books = ["books/prison-island.md"]
+books_author = ["authors/colleen-frakes.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-november-23---29.md", "notes/dont-forget-to-celebrate-small-business-saturday.md", "notes/for-the-comics-fan-who-has-everything.md", "notes/thursday-comics-hangover-mini-comics-big-love.md", "notes/library-comics.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/PnypyHipR4mzWA8btp7rwqrxfWyn8ksx9eTWuaVCl0Va__bmjGQwhWAh-RfzTdu3dOwsF6Y5FgIE1s73xklNg8bS1dpS"
 url = "/webhook-uploads/1442810849506/content%3Fid%3DutFwCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 36697
 
-reviews_books = ["books/prison-island.md"]
-books_author = ["authors/colleen-frakes.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-november-23---29.md", "notes/dont-forget-to-celebrate-small-business-saturday.md", "notes/for-the-comics-fan-who-has-everything.md", "notes/thursday-comics-hangover-mini-comics-big-love.md", "notes/library-comics.md"]
 +++

@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/random-house.md"
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/get-in-trouble.md"]
 books_author = ["authors/kelly-link.md"]
 sponsorships_book = ""
 notes_relationship = ""
+[[image]]
+image = ""
 +++

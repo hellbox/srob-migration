@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/moon-city-press.md"
 books_translator = ""
+reviews_books = ["books/field-guide-to-the-end-of-the-world.md"]
+books_author = ["authors/jeannine-hall-gailey.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6rCH7_wGCqvshkLzc1FY0UY3BW50CM2wfOCNVLFFTfxIBxpyUkDy-Jd2G4hf2NEocXZpxeyX5wgFcbG_Rr05EVZzTTFw"
 url = "/webhook-uploads/1476053872405/Field-Guide-medium.jpg"
@@ -32,8 +36,4 @@ width = 658
 type = "image/jpeg"
 size = 435813
 
-reviews_books = ["books/field-guide-to-the-end-of-the-world.md"]
-books_author = ["authors/jeannine-hall-gailey.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/washington-state-university-press.md"
 books_translator = ""
+reviews_books = ["books/peace-weavers.md"]
+books_author = ["authors/candace-wellman.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/uncovering-the-true-stories-of-salish-native-women-and-intercultural-marriage.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dZj54P2hojgS28OIb-9DZqT_q8_v2EryHATuJ6Gk07EVw9iBK_oYH57iYDtd8OHiV5MDZqK-UuK6DSbbOvsi4UCrS9E"
 url = "/webhook-uploads/1498483822121/content%3Fid%3DRC_3MAAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7515
 
-reviews_books = ["books/peace-weavers.md"]
-books_author = ["authors/candace-wellman.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/uncovering-the-true-stories-of-salish-native-women-and-intercultural-marriage.md"]
 +++

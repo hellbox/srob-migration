@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Creative nonfiction"
 books_publisher = "publishers/knopf.md"
 books_translator = ""
+reviews_books = ["books/other-people.md"]
+books_author = ["authors/david-shields.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/talking-to-ourselves.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dX0NULNUripUTiscHUDyP9zDTG_i1kwhYNT4ffZ79Mclo5y0muRVud3-6skRcCQ6_8mBdzAQPsR7h2e0sUGH90zitIxi"
 url = "/webhook-uploads/1496609987926/51z52w5QxoL.jpg"
@@ -32,8 +36,4 @@ width = 336
 type = "image/jpeg"
 size = 57642
 
-reviews_books = ["books/other-people.md"]
-books_author = ["authors/david-shields.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/talking-to-ourselves.md"]
 +++

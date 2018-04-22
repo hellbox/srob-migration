@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/gilead.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/one-of-my-favorite-characters-in-fiction-is-a-pastor-in-gilead.md"]
+[[image]]
+image = ""
 +++

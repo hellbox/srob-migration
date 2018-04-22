@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
+reviews_books = ["books/the-face.md"]
+books_author = ["authors/ruth-ozeki.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/xYAkYQPBA5aK_BRc2hzdDYr_JqSaos_8xeSjCcsLJ1jaSxQX1cHLKJ2yVSg2dQ3xeY0dn3U2tNf0d6chpF5ax-lBiAk_"
 url = "/webhook-uploads/1460095334668/content%3Fid%3DLKYiswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7667
 
-reviews_books = ["books/the-face.md"]
-books_author = ["authors/ruth-ozeki.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

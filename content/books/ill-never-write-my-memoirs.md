@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/ill-never-write-my-memoirs.md"]
 books_author = ["authors/grace-jones.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/a-permanent-state-of-grace.md"]
+[[image]]
+image = ""
 +++

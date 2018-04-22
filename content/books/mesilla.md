@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/dock-street-press.md"
 books_translator = ""
+reviews_books = ["books/mesilla.md"]
+books_author = ["authors/robert-james-russell.md"]
+sponsorships_book = ["sponsorships/mesilla.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/lks5w5ma0emMggwnX4n_78ybycAxxoJykk9qpPnM-Z36MIt-5sw9p9L9mC1awuB2ijJv_0MW-Lf7Ve_niZtiTasATqnw9Q"
 url = "/webhook-uploads/1439998997596/Screen%20Shot%202015-08-19%20at%208.39.02%20AM.png"
@@ -32,8 +36,4 @@ width = 702
 type = "image/png"
 size = 831541
 
-reviews_books = ["books/mesilla.md"]
-books_author = ["authors/robert-james-russell.md"]
-sponsorships_book = ["sponsorships/mesilla.md"]
-notes_relationship = ""
 +++

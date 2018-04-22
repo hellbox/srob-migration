@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/black-cat.md"
 books_translator = ""
+reviews_books = ["books/the-core-of-the-sun.md"]
+books_author = ["authors/johanna-sinisalo.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "https://lh3.googleusercontent.com/btuiHl6jJmXcwcVEuCQ1_j5nZyZg0-Y-v384u5oRE4s9QgXJBK5YY6QMoSqZRjha5-USQiJtlHkBkdW9OGSy09aFSAo"
 url = "/webhook-uploads/1445117989259/9780802124647.jpg"
@@ -32,8 +36,4 @@ width = 270
 type = "image/jpeg"
 size = 29899
 
-reviews_books = ["books/the-core-of-the-sun.md"]
-books_author = ["authors/johanna-sinisalo.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

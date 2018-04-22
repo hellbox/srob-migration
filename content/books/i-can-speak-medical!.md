@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/epigraph-publishing.md"
 books_translator = ""
+reviews_books = ["books/i-can-speak-medical!.md"]
+books_author = ["authors/barbara-e-geary.md"]
+sponsorships_book = ["sponsorships/i-can-speak-medical!.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6wzeUheajdIOnt9vljGKAJRWSTJgRonm__xk8sry2_iMJXbQ0Yi-l6OCjYJcvIVF6E9pDNvrUa5Evy5Gdl_CEy_i-K3o"
 url = "/webhook-uploads/1473522174520/FullSizeRender-16.jpg"
@@ -32,8 +36,4 @@ width = 764
 type = "image/jpeg"
 size = 123775
 
-reviews_books = ["books/i-can-speak-medical!.md"]
-books_author = ["authors/barbara-e-geary.md"]
-sponsorships_book = ["sponsorships/i-can-speak-medical!.md"]
-notes_relationship = ""
 +++

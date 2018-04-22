@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
+reviews_books = ["books/step-aside-pops.md"]
+books_author = ["authors/kate-beaton.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/portrait-gallery-kate-beaton.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hMCifBaU6OfBWnon3Edz2Vf9X6ejvqd0qg_GeIHyHpxezwH7oagaypkjwVr1Lo8epa_h9WLPcVhODjiEWNMmVVKeTnY"
 url = "/webhook-uploads/1443125115845/content%3Fid%3D0OzFrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9359
 
-reviews_books = ["books/step-aside-pops.md"]
-books_author = ["authors/kate-beaton.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/portrait-gallery-kate-beaton.md"]
 +++

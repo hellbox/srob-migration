@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "poetry"
 books_publisher = "publishers/arundel-books.md"
 books_translator = ""
+reviews_books = ["books/karate-bride.md"]
+books_author = ["authors/nicole-sarrocco.md"]
+sponsorships_book = ["sponsorships/karate-bride.md"]
+notes_relationship = ["notes/one-day-left-to-read-three-poems-from-nicole-sarrocco.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/l-lfWXh3ufylB6Bt48-IJmu0OcMZnKiPxHNhswPg9ZHgKFkvegWSzet6X1avZQX62TzNtnEK1bly1Orsgrhpih4duQM"
 url = "/webhook-uploads/1448214105245/315_karate.jpg"
@@ -32,8 +36,4 @@ width = 328
 type = "image/jpeg"
 size = 27063
 
-reviews_books = ["books/karate-bride.md"]
-books_author = ["authors/nicole-sarrocco.md"]
-sponsorships_book = ["sponsorships/karate-bride.md"]
-notes_relationship = ["notes/one-day-left-to-read-three-poems-from-nicole-sarrocco.md"]
 +++

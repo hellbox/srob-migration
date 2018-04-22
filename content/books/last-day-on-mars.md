@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Juvenile Fiction"]
 books_publisher = "publishers/walden-pond-press.md"
 books_translator = ""
+reviews_books = ["books/last-day-on-mars.md"]
+books_author = ["authors/kevin-emerson.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/s9hCl7_2bkMvXYUAi9-6k8b0kiSvuEv9aFMTTkyGexiQUBHsP8jxrnrw_T4H4g6aHBz6zdO6HWrjNCMgcoVgDw8pIAgJfQ"
 url = "/webhook-uploads/1488583423129/content%3Fid%3DYoDRjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9310
 
-reviews_books = ["books/last-day-on-mars.md"]
-books_author = ["authors/kevin-emerson.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/peter-owen-publishers.md"
 books_translator = ""
+reviews_books = ["books/the-blood-of-angels.md"]
+books_author = ["authors/johanna-sinisalo.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HdOlfehi9G-RkW1p9fYPCXffEZ1NabmVLyqMbfw6Y3BPbq9BvZxxGYMDxHFEiuHV6Y-FzO6Zdr1nMLrXXphvCHkCD0y6"
 url = "/webhook-uploads/1445117319644/content%3Fid%3DSx6zBwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 36182
 
-reviews_books = ["books/the-blood-of-angels.md"]
-books_author = ["authors/johanna-sinisalo.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

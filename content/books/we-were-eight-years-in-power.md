@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/one-world.md"
 books_translator = ""
+reviews_books = ["books/we-were-eight-years-in-power.md"]
+books_author = ["authors/ta-nehisi-coates.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qBlaHuG5eWVXI1AocumYuVKhJ_yO7kLysxmqTNbdy-8H3Q6-D7fMnUBU-rBWJ9RKDexffNwb63NPns6nBW0A5ibyU4OuYA"
 url = "/webhook-uploads/1512504591147/Eight%20Years%20in%20Power_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 19336
 
-reviews_books = ["books/we-were-eight-years-in-power.md"]
-books_author = ["authors/ta-nehisi-coates.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

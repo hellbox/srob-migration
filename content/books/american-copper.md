@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/american-copper.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-shann-ray-about-forgiveness-masculinity-and-the-violence-of-western-literature.md", "notes/book-news-roundup-open-books-reopens-this-saturday!.md"]
+[[image]]
+image = ""
 +++

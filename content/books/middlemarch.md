@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/penguin-uk.md"
 books_translator = ""
+reviews_books = ["books/middlemarch.md"]
+books_author = ["authors/george-eliot.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/N_5_j_6N1giJvXZDL7K8v5HiRv4RnN9cg-7GQB_Ub43-maUgWnRx62dLJqwMrAbhH1ZZbPFOIgzHLRSQ7pfLRgBD2Dbp4A"
 url = "/webhook-uploads/1444514226127/content%3Fid%3DxliEmT57qt4C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11090
 
-reviews_books = ["books/middlemarch.md"]
-books_author = ["authors/george-eliot.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

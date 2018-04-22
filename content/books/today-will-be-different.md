@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/little-brown-and-company.md"
 books_translator = ""
+reviews_books = ["books/today-will-be-different.md"]
+books_author = ["authors/maria-semple.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/book-news-roundup-community-is-something-you-make.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NdRM3AtUr6R-ELx2YxNm0Q_tC-aVu0CHY_5ftFcNyd88B-FvzEznjYtoDgwA8utBizppaPPYdnfgFa80aCZcax1yg7Dt"
 url = "/webhook-uploads/1472936165461/content%3Fid%3Dw784jwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8813
 
-reviews_books = ["books/today-will-be-different.md"]
-books_author = ["authors/maria-semple.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/book-news-roundup-community-is-something-you-make.md"]
 +++

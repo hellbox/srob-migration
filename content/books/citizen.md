@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Literary Collections"]
 books_publisher = "publishers/graywolf-press.md"
 books_translator = ""
+reviews_books = ["books/citizen.md"]
+books_author = ["authors/claudia-rankine.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/third-place-seward-park-is-our-june-bookstore-of-the-month.md", "notes/the-kind-of-genius-you-cant-ignore.md", "notes/reading-through-it-join-us-for-a-discussion-of-how-to-move-forward-in-donald-trump\u2019s-america.md", "notes/literary-event-of-the-week-come-discuss-citizen-an-american-lyric-with-us-tonight.md", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md", "notes/book-news-roundup-the-georgetown-steam-plant-has-its-official-cartoonist-biographers.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/R8TsU0xCeka23EfDp3R7Xu1Zp2YYPdP4h6ZEFW6f9V_YVyHkTYKcq7vd3lXUQM-4pg8qZF8Nxw4z6pgUT9-FEesS4Ai-dA"
 url = "/webhook-uploads/1447991770360/content%3Fid%3DoGT3ngEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 6243
 
-reviews_books = ["books/citizen.md"]
-books_author = ["authors/claudia-rankine.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/third-place-seward-park-is-our-june-bookstore-of-the-month.md", "notes/the-kind-of-genius-you-cant-ignore.md", "notes/reading-through-it-join-us-for-a-discussion-of-how-to-move-forward-in-donald-trump\u2019s-america.md", "notes/literary-event-of-the-week-come-discuss-citizen-an-american-lyric-with-us-tonight.md", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md", "notes/book-news-roundup-the-georgetown-steam-plant-has-its-official-cartoonist-biographers.md"]
 +++

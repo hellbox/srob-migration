@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Poetry"]
 books_publisher = "publishers/pleiades-press.md"
 books_translator = ""
+reviews_books = ["books/a-lesser-love.md"]
+books_author = ["authors/ej-koh.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/talking-with-ej-koh-about-translation-and-what-it-means-to-be-a-seattle-poet.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NdxXZQyTxCnI_Ezr00MObP-MBe1-oySdJW0H1stwN4YfXsH8uTjtc8_WjLOmOS2AYj5UTvlewi37uYlm8pZZqdT_1Wc"
 url = "/webhook-uploads/1506661829754/content%3Fid%3D9q-PDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12052
 
-reviews_books = ["books/a-lesser-love.md"]
-books_author = ["authors/ej-koh.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/talking-with-ej-koh-about-translation-and-what-it-means-to-be-a-seattle-poet.md"]
 +++

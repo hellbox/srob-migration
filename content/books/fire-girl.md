@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/two-sylvias-press.md"
 books_translator = ""
+reviews_books = ["books/fire-girl.md"]
+books_author = ["authors/sayantani-dasgupta.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/LTF3PzErc82O2dMAhSHTGEm9bA2tZdIxqTOs0DbCIlszPQg20OUjSKF5vWq7ndi__97SXXjGdFC5teGhgZvgOMYd2k3R"
 url = "/webhook-uploads/1489034801070/1465096658944.jpeg"
@@ -32,8 +36,4 @@ width = 1000
 type = "image/jpeg"
 size = 1372943
 
-reviews_books = ["books/fire-girl.md"]
-books_author = ["authors/sayantani-dasgupta.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

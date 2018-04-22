@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
+reviews_books = ["books/the-art-of-the-publisher.md"]
+books_author = ["authors/roberto-calasso.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-iuN2rhLLkVeBlgIv0RIry_IGtF7hOZ-wCOKdJeb1CJulDUHU_WWyPuv274vV28btYoRBOnY4xbBDhTDg4JBhiwGjXdw"
 url = "/webhook-uploads/1447990850630/artofthepublisher.jpg"
@@ -32,8 +36,4 @@ width = 333
 type = "image/jpeg"
 size = 18815
 
-reviews_books = ["books/the-art-of-the-publisher.md"]
-books_author = ["authors/roberto-calasso.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

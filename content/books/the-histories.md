@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Poetry"]
 books_publisher = "publishers/carnegie-mellon-university-press.md"
 books_translator = ""
+reviews_books = ["books/the-histories.md"]
+books_author = ["authors/jason-whitmarsh.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/VtEEW8p2u3a0NQpu1Uvg6C_NFxzwhnhEbDKc-xo0ukEjgiD1p3Xn5-cJ8vJQ-EhtH1HdNw7GAF1poIP3IY5sK2QTHsAZ"
 url = "/webhook-uploads/1493442760082/content%3Fid%3DR5ZBvgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 6882
 
-reviews_books = ["books/the-histories.md"]
-books_author = ["authors/jason-whitmarsh.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/squares-&-rebels.md"
 books_translator = ""
+reviews_books = ["books/its-just-nerves.md"]
+books_author = ["authors/kelly-davio.md"]
+sponsorships_book = ["sponsorships/its-just-nerves.md"]
+notes_relationship = ["notes/read-strong-is-the-new-sexy-from-sponsor-kelly-davio.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-e9sGaoQw0pUcrui4WmX49rKsQ79uy3wiypvSnWFM4WWNv7lDAaRhV12hGdn6m0FEiRPD4YPzi7xLTJ4gSrGkAuspJRrmg"
 url = "/webhook-uploads/1509310940808/It's%20just%20nerves_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 34519
 
-reviews_books = ["books/its-just-nerves.md"]
-books_author = ["authors/kelly-davio.md"]
-sponsorships_book = ["sponsorships/its-just-nerves.md"]
-notes_relationship = ["notes/read-strong-is-the-new-sexy-from-sponsor-kelly-davio.md"]
 +++

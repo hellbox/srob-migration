@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/tor.md"
 books_translator = ""
+reviews_books = ["books/arabella-of-mars.md"]
+books_author = ["authors/david-d-levine.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Shub7qCj0AK10u90EWsUI3dCH06l9GXwdM77_Z9RtZRootfZjL1NZTpYzhKS2wM1iLUudBtcXz998eKgXPRO3c1ySmo"
 url = "/webhook-uploads/1471500772645/content%3Fid%3D-UIzDAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11143
 
-reviews_books = ["books/arabella-of-mars.md"]
-books_author = ["authors/david-d-levine.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

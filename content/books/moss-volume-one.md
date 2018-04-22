@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/moss.md"
 books_translator = ""
+reviews_books = ["books/moss-volume-one.md"]
+books_author = ["authors/connor-guy.md", "authors/alex-davis-lawrence.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/GmruDbQxzeQI7r0KmJBnXtLg6EhZtS9BgPTLPgKjhQYbXh043Su2tp-tpVj4596CNmzmDjuZfkJhUthtinQqKkkMMCbR"
 url = "/webhook-uploads/1460931007750/Screen%20Shot%202016-04-17%20at%203.09.21%20PM.png"
@@ -32,8 +36,4 @@ width = 566
 type = "image/png"
 size = 1231850
 
-reviews_books = ["books/moss-volume-one.md"]
-books_author = ["authors/connor-guy.md", "authors/alex-davis-lawrence.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

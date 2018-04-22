@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/small-beer-press.md"
 books_translator = ""
+reviews_books = ["books/solitaire.md"]
+books_author = ["authors/kelley-eskridge.md"]
+sponsorships_book = ["sponsorships/solitaire---old.md", "sponsorships/purchase-solitaire.md"]
+notes_relationship = ["notes/seattle-author-kelley-eskridge-is-our-sponsor-this-week.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0A4ab0X0Jb-7HEoLlKaIai-wfSggZL2r2PE9_O1XUlo7Lyap_kBKDA04jtaZjCW4H8wAKtuwvC9N3Vhwuj54KXMJ8XI"
 url = "/webhook-uploads/1439266001684/Screen%20Shot%202015-08-10%20at%209.04.56%20PM.png"
@@ -32,8 +36,4 @@ width = 966
 type = "image/png"
 size = 1489967
 
-reviews_books = ["books/solitaire.md"]
-books_author = ["authors/kelley-eskridge.md"]
-sponsorships_book = ["sponsorships/solitaire---old.md", "sponsorships/purchase-solitaire.md"]
-notes_relationship = ["notes/seattle-author-kelley-eskridge-is-our-sponsor-this-week.md"]
 +++

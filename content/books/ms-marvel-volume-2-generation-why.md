@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/marvel-comics.md"
 books_translator = ""
+reviews_books = ["books/ms-marvel-volume-2-generation-why.md"]
+books_author = ["authors/g-willow-wilson.md", "authors/adrian-alphona.md", "authors/jacob-wyatt.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/sKYs36C2By3MHqz5NR90XLGisk_nNd3TEBtM0Qym62seUuL2l5NoTM0mekaiNQUJiQW8X_Z--oJGzKVjGkSlHkkCLOGc"
 url = "/webhook-uploads/1461965355628/9780785190226.jpg"
@@ -32,8 +36,4 @@ width = 257
 type = "image/jpeg"
 size = 26661
 
-reviews_books = ["books/ms-marvel-volume-2-generation-why.md"]
-books_author = ["authors/g-willow-wilson.md", "authors/adrian-alphona.md", "authors/jacob-wyatt.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"]
 +++

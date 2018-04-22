@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sagging-meniscus-press.md"
 books_translator = ""
+reviews_books = ["books/the-button-thief-of-east-14th-street.md"]
+books_author = ["authors/fay-webern.md"]
+sponsorships_book = ["sponsorships/the-button-thief-of-east-14th-street.md"]
+notes_relationship = ["notes/remembering-a-new-york-now-gone-from-an-eye-witness.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/nWNY7mWqjjZIW8BOwKSXBriB0TCOGyHpt09GAsqJD3OnvrXBXLrEHdKbzANkTBx5l6Csor1VHjNHaqlU3TS6Z8JJgYy6"
 url = "/webhook-uploads/1481944610398/unspecified.jpeg"
@@ -32,8 +36,4 @@ width = 1000
 type = "image/jpeg"
 size = 170619
 
-reviews_books = ["books/the-button-thief-of-east-14th-street.md"]
-books_author = ["authors/fay-webern.md"]
-sponsorships_book = ["sponsorships/the-button-thief-of-east-14th-street.md"]
-notes_relationship = ["notes/remembering-a-new-york-now-gone-from-an-eye-witness.md"]
 +++

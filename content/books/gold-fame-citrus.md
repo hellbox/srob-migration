@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
+reviews_books = ["books/gold-fame-citrus.md"]
+books_author = ["authors/claire-vaye-watkins.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-13th---april-19th.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/_K1LJSr2oActOnuXYhk3o4Ke_tf4v-q5M0CqTkJm_vetCpX5sDsSnntt6a2r88wO1KVwaI7SSgl5yjQnHhTLpM-Da669CA"
 url = "/webhook-uploads/1458617921354/content%3Fid%3DRpVmrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 43869
 
-reviews_books = ["books/gold-fame-citrus.md"]
-books_author = ["authors/claire-vaye-watkins.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-13th---april-19th.md"]
 +++

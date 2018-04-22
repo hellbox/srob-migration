@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/image-comics.md"
 books_translator = ""
+reviews_books = ["books/maximum-minimum-wage.md"]
+books_author = ["authors/bob-fingerman.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thursday-comics-hangover-raise-the-minimum-wage.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4acGyiMFUfCN8_-nrnsKsUkyiAGhLxVyBo4vqqg2V9axiJ_kPZ_eIUA726JbZ-Eg7T_yvkmtG8WhmyUyqgSPs4DU5-ji"
 url = "/webhook-uploads/1441259869801/content%3Fid%3DI9TnMgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 18062
 
-reviews_books = ["books/maximum-minimum-wage.md"]
-books_author = ["authors/bob-fingerman.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thursday-comics-hangover-raise-the-minimum-wage.md"]
 +++

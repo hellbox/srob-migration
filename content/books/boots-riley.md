@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Music"]
 books_publisher = "publishers/haymarket-books.md"
 books_translator = ""
+reviews_books = ["books/boots-riley.md"]
+books_author = ["authors/boots-riley.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/lunch-date-turkish-food-with-boots-riley.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9Vsgi-9MA8dubZ99M9Fh8TC_cETEfrBGQm1fWuE2RXjf5ls4tbf0eaCs7BuYR3kI27IfeqpIjjfYrkKm4pAM7YO8IGg"
 url = "/webhook-uploads/1439775537776/content%3Fid%3Dm7WYuAAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10472
 
-reviews_books = ["books/boots-riley.md"]
-books_author = ["authors/boots-riley.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/lunch-date-turkish-food-with-boots-riley.md"]
 +++

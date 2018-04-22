@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/fantagraphics.md"
 books_translator = ""
+reviews_books = ["books/northwest-cartoonists-cookbook.md"]
+books_author = ["authors/various.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qSpsXsDfjtRoh8M9rWMdo-lM95ByNnPQYyTwX3JtUfTAOT_H7u2-sd28ZMuSJ-Fe3ZIsTKWARa1JDnwkd7c69UyjE62iUg"
 url = "/webhook-uploads/1494484633162/ncc.jpg"
@@ -32,8 +36,4 @@ width = 450
 type = "image/jpeg"
 size = 89469
 
-reviews_books = ["books/northwest-cartoonists-cookbook.md"]
-books_author = ["authors/various.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

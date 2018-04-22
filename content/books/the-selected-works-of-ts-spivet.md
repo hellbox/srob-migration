@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-selected-works-of-ts-spivet.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/welcome-to-our-bookstore-we-sell-books-that-cannot-be-printed.md"]
+[[image]]
+image = ""
 +++

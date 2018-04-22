@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
+reviews_books = ["books/shoutyourabortion.md"]
+books_author = ["authors/various.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/TPD_tuE6sXXp3yB30nNJwL5wUs7YcNZhyxzgPWEKhwtWbKkCzbb2kAS6iELVAI9vH_4PEA2nnzfqXzsEZGUqk-EDS8Vg"
 url = "/webhook-uploads/1467097982958/shoutyourabortion.jpg"
@@ -32,8 +36,4 @@ width = 834
 type = "image/jpeg"
 size = 236885
 
-reviews_books = ["books/shoutyourabortion.md"]
-books_author = ["authors/various.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

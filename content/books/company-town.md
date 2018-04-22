@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Science Fiction"
 books_publisher = "publishers/tor.md"
 books_translator = ""
+reviews_books = ["books/company-town.md"]
+books_author = ["authors/madeline-ashby.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6dvDMNkGYTDqXWJo_xU2xSQDa2HX70f9jnS7B5PYLLI-G1dE3A54USEvBaleZ7sjtYXTTsQLBtUdVrcrMMmUIKCTU115"
 url = "/webhook-uploads/1462675937608/20447745.jpg"
@@ -32,8 +36,4 @@ width = 313
 type = "image/jpeg"
 size = 68985
 
-reviews_books = ["books/company-town.md"]
-books_author = ["authors/madeline-ashby.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

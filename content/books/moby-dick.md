@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/moby-dick.md"]
 books_author = ["authors/herman-melville.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/call-me-twitter-bot.md"]
+[[image]]
+image = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/flying-dolphin-press.md"
 books_translator = ""
+reviews_books = ["books/three-bags-full.md"]
+books_author = ["authors/leonie-swann.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/the-recommendation-engine.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uzaMCynQXGxuThSy-fQFQNFYRGbtTIHuVHMn_LRiHlhHj5VCrD9EZPo3eb6B_qHE6VfE6Y6apGB8cNrHMZ_ooKTIhDKJ"
 url = "/webhook-uploads/1441766220272/content%3Fid%3D6RwjrmPGj0kC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 18720
 
-reviews_books = ["books/three-bags-full.md"]
-books_author = ["authors/leonie-swann.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/the-recommendation-engine.md"]
 +++

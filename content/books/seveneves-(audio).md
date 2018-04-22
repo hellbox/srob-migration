@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/brilliance-audio.md"
 books_translator = ""
+reviews_books = ["books/seveneves-(audio).md"]
+books_author = ["authors/neal-stephenson.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QvERbSQMX_SNRLX0LVLipsPfOFNvkFB5W4rUzEssFwnZ2rezRhCRW2u_fSlDcJjYc4odHSlvxwDlfxqw-kV2ldquEtb6hQ"
 url = "/webhook-uploads/1489354025243/sevenevesaudio.jpg"
@@ -32,8 +36,4 @@ width = 400
 type = "image/jpeg"
 size = 38660
 
-reviews_books = ["books/seveneves-(audio).md"]
-books_author = ["authors/neal-stephenson.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

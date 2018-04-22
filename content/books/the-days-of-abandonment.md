@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/europa-editions.md"
 books_translator = ""
+reviews_books = ["books/the-days-of-abandonment.md"]
+books_author = ["authors/elena-ferrante.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ES0drk2W8vJ3iWDKudi6wlgor40-UKtFGiFtdgNOy1RKmEQ-v47Vk67M3oNil5zVmBudgplJEG0eTClCCJ6v9WlL5fNw"
 url = "/webhook-uploads/1502049772877/The%20Days%20of%20Abandonment_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 19301
 
-reviews_books = ["books/the-days-of-abandonment.md"]
-books_author = ["authors/elena-ferrante.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

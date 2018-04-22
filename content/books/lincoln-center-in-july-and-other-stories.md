@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sagging-meniscus-press.md"
 books_translator = ""
+reviews_books = ["books/lincoln-center-in-july-and-other-stories.md"]
+books_author = ["authors/roy-lisker.md"]
+sponsorships_book = ["sponsorships/lincoln-center-in-july-and-other-stories.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/rVTdJV1JaWb__8AhQpupll6IYQ3tHWAyu8oYaGXAvYjnZwAcQIcWeGymkOsVwdBm4ELTUDD6ZHvoYXNNYlxNMlI1uD7O"
 url = "/webhook-uploads/1470886820116/612J3KXya8L.jpg"
@@ -32,8 +36,4 @@ width = 1000
 type = "image/jpeg"
 size = 125414
 
-reviews_books = ["books/lincoln-center-in-july-and-other-stories.md"]
-books_author = ["authors/roy-lisker.md"]
-sponsorships_book = ["sponsorships/lincoln-center-in-july-and-other-stories.md"]
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/donate-to-the-aclu.md"]
+books_author = ""
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/iHeKkeGGMs506XEB8CcjQ9zMWrcE3mY653pbNSS4dlJQMBHULu5XhSBZhOoMDCauWAS1z2lacijQBIoT9Wlz-TYeffA"
 url = "/webhook-uploads/1485150804062/aclu.png"
@@ -32,8 +36,4 @@ width = 600
 type = "image/png"
 size = 85686
 
-reviews_books = ["books/donate-to-the-aclu.md"]
-books_author = ""
-sponsorships_book = ""
-notes_relationship = ""
 +++

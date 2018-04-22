@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Literary Collections"]
 books_publisher = "publishers/farrar-straus-giroux.md"
 books_translator = ""
+reviews_books = ["books/words-in-air.md"]
+books_author = ["authors/elizabeth-bishop.md", "authors/robert-lowell.md", "authors/thomas-travisano.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oiH2K-1NQ_7r6_X9WWEkmbxeeiKaSLw09YK2T90NJWaCMHlbtFZjKPv7eCbFWrDOxM1Zv5Rs4XLJSD5Zfcn8i1JWrEI"
 url = "/webhook-uploads/1449604952710/words-in-air.jpg"
@@ -32,8 +36,4 @@ width = 332
 type = "image/jpeg"
 size = 29961
 
-reviews_books = ["books/words-in-air.md"]
-books_author = ["authors/elizabeth-bishop.md", "authors/robert-lowell.md", "authors/thomas-travisano.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

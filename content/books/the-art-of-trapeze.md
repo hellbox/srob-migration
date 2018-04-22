@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/spirituality-university-press.md"
 books_translator = ""
+reviews_books = ["books/the-art-of-trapeze.md"]
+books_author = ["authors/molly-mccord.md"]
+sponsorships_book = ["sponsorships/the-art-of-trapeze.md"]
+notes_relationship = ["notes/with-the-greatest-of-ease.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bEBOfq7ZqTSFEND2-w4j-7P5rv3RpBnzLKsU_VIWYHvLXWKOw_83tR5g4p-m8lXZG220mkcVoNv8gEx04D6gWGivT6rc"
 url = "/webhook-uploads/1501704129518/The%20Art%20of%20Trapeze_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 155543
 
-reviews_books = ["books/the-art-of-trapeze.md"]
-books_author = ["authors/molly-mccord.md"]
-sponsorships_book = ["sponsorships/the-art-of-trapeze.md"]
-notes_relationship = ["notes/with-the-greatest-of-ease.md"]
 +++

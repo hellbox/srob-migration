@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/mcd.md"
 books_translator = ""
+reviews_books = ["books/borne.md"]
+books_author = ["authors/jeff-vandermeer.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/A3tdIetcp--rfmWArl5ADGpot_BXNimJDHlanVNZxvIxyiBzwcFnEMbnKk7_p-sSQA5u6dFRozQpfEpLToJ_sp8ylEc1Ug"
 url = "/webhook-uploads/1518995834696/Borne.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 35407
 
-reviews_books = ["books/borne.md"]
-books_author = ["authors/jeff-vandermeer.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

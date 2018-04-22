@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "fiction"
 books_publisher = "publishers/back-bay-books.md"
 books_translator = ""
+reviews_books = ["books/the-fishermen.md"]
+books_author = ["authors/chigozie-obioma.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/UUBG6wQ_8WQue06cdcjjEN4DjTWfmJb02HQlwiXny8-O-ajxaIhSPxGQmlS28nvDPOdi1vdWkqulTjJnBwpMiEeQo9S3qA"
 url = "/webhook-uploads/1470282062014/thefishermen.jpg"
@@ -32,8 +36,4 @@ width = 333
 type = "image/jpeg"
 size = 47968
 
-reviews_books = ["books/the-fishermen.md"]
-books_author = ["authors/chigozie-obioma.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

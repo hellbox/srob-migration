@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/manic-thrills-press.md"
 books_translator = ""
+reviews_books = ["books/plus.md"]
+books_author = ["authors/tatiana-gill.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WZofMQ_lDy4T1jxZXoFeRKdYWhg188R-5ySZilQtI-n2l4DPxoFHFVHOxY9Jss1lfZ9_ajV4W3f4g3lBqZNOWziv0_IKoA"
 url = "/webhook-uploads/1447133573721/plus.png"
@@ -32,8 +36,4 @@ width = 1292
 type = "image/png"
 size = 925783
 
-reviews_books = ["books/plus.md"]
-books_author = ["authors/tatiana-gill.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

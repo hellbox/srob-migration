@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
+reviews_books = ["books/mary-wept-over-the-feet-of-jesus.md"]
+books_author = ["authors/chester-brown.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/book-news-roundup-a-conversation-about-disability-and-the-arts-is-happening-this-afternoon.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/eknQiLK4kldBp4m_CMz52dokksE3gfw6l7ZQ4YORT1deGgSrHOBhmcYiTZvKYXpJjz9CUgqlRG40iwaH4jQCvXd7hJVblQ"
 url = "/webhook-uploads/1460692563692/marywept.jpg"
@@ -32,8 +36,4 @@ width = 275
 type = "image/jpeg"
 size = 30681
 
-reviews_books = ["books/mary-wept-over-the-feet-of-jesus.md"]
-books_author = ["authors/chester-brown.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/book-news-roundup-a-conversation-about-disability-and-the-arts-is-happening-this-afternoon.md"]
 +++

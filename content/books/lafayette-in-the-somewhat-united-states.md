@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
+reviews_books = ["books/lafayette-in-the-somewhat-united-states.md"]
+books_author = ["authors/sarah-vowell.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/vNFwtyRRiPs3v_-Dl7oHyEo1WfLKGGY4PpEdijLXKCz29bDKMOG6I0ydswMNd_eSguAzJXtLWDsHVNsBIMs-INVke0o1"
 url = "/webhook-uploads/1446011506520/content%3Fid%3DrX_wrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 49028
 
-reviews_books = ["books/lafayette-in-the-somewhat-united-states.md"]
-books_author = ["authors/sarah-vowell.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

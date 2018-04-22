@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sagging-meniscus-press.md"
 books_translator = ""
+reviews_books = ["books/the-me-theme.md"]
+books_author = ["authors/doug-nufer.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/from-constraint-comes-a-new-small-poetry-book.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/vgK3Djb9tfMFZtqKK9fqwNlS_ESm_M3BSxGJvIaH-g-IUz-frsCQ9BeF8VsqVog7mMeFkXhe7AE-A5OkIsxM0fR8MaA"
 url = "/webhook-uploads/1497509480561/b1b286db3df9c170da6994ae8e51faaf.jpg"
@@ -32,8 +36,4 @@ width = 428
 type = "image/jpeg"
 size = 75683
 
-reviews_books = ["books/the-me-theme.md"]
-books_author = ["authors/doug-nufer.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/from-constraint-comes-a-new-small-poetry-book.md"]
 +++

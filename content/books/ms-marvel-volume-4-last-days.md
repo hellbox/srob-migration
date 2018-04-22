@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/marvel-comics.md"
 books_translator = ""
+reviews_books = ["books/ms-marvel-volume-4-last-days.md"]
+books_author = ["authors/g-willow-wilson.md", "authors/adrian-alphona.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9x6v-FonNNAbMlOd6qNwSiQlv7939cHFDhXyVGhOdFjDzOX-6A1RPIbWUYHcJIafhVrxSOxgFSTJZ2FG1ny0UW5iVR1ZWw"
 url = "/webhook-uploads/1461965975285/9780785197362.jpg"
@@ -32,8 +36,4 @@ width = 260
 type = "image/jpeg"
 size = 28297
 
-reviews_books = ["books/ms-marvel-volume-4-last-days.md"]
-books_author = ["authors/g-willow-wilson.md", "authors/adrian-alphona.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"]
 +++

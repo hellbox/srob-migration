@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-man-in-the-high-castle.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/amazon-covers-new-york-city-subway-cars-in-nazi-insignias.md"]
+[[image]]
+image = ""
 +++

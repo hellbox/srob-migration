@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/rainbow.md"]
+books_author = ["authors/kesha.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/wa6kmktZZapK30HUeBMeT64EVevXnXPcLXZT4xPfoFPU2vFihuzTKTyenQ1wp6y8YKMNHTyHXy1d4SfQFiqitxPEt0GVmQ"
 url = "/webhook-uploads/1504672716632/Kesha_-_Rainbow_(Official_Album_Cover).png"
@@ -32,8 +36,4 @@ width = 300
 type = "image/png"
 size = 39736
 
-reviews_books = ["books/rainbow.md"]
-books_author = ["authors/kesha.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

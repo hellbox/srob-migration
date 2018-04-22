@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Music"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/how-music-works.md"]
+books_author = ""
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WLgJ0-3yvwx_MsKHmsEkxkuAOmLCPGwucSPmZBiY10i-8ZvDGC26tZY0SZvikXM-m2-2R4MVVsqrVCP8I3rAHdb4NXUlYQ"
 url = "/webhook-uploads/1438144269529/content%3Fid%3DFH2mmAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 6001
 
-reviews_books = ["books/how-music-works.md"]
-books_author = ""
-sponsorships_book = ""
-notes_relationship = ""
 +++

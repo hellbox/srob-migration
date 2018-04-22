@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/thomas-dunne-books.md"
 books_translator = ""
+reviews_books = ["books/our-revolution.md"]
+books_author = ["authors/bernie-sanders.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pc0Ud97E50Q-FZAxCYpNticgFMqIGqFXDRbyKQ4CSu4of2lkApNx53btf8gSJKJe3keivLRIioT3lMKx6q8WWrHEDsLv"
 url = "/webhook-uploads/1480578261532/sanders.jpg"
@@ -32,8 +36,4 @@ width = 329
 type = "image/jpeg"
 size = 34458
 
-reviews_books = ["books/our-revolution.md"]
-books_author = ["authors/bernie-sanders.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

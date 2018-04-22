@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/mariner-books.md"
 books_translator = ""
+reviews_books = ["books/the-turner-house.md"]
+books_author = ["authors/angela-flournoy.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/literary-event-of-the-week-seattle-reads-the-turner-house.md", "notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Vf8q9yurbMK_RxbY_15OTEE2TV4UWvpiI8AoP1CzXPzyXuOy4N37c6cFKZQEOqQSigEmPNG6obV0_eb4n2D42tKyRQzE"
 url = "/webhook-uploads/1493264974672/content%3Fid%3DGPf-sgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 29225
 
-reviews_books = ["books/the-turner-house.md"]
-books_author = ["authors/angela-flournoy.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/literary-event-of-the-week-seattle-reads-the-turner-house.md", "notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th.md"]
 +++

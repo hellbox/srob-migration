@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/atelier26-books.md"
 books_translator = ""
+reviews_books = ["books/funny-ass-thoreau.md"]
+books_author = ["authors/m-allen-cunningham.md"]
+sponsorships_book = ["sponsorships/funny-ass-thoreau.md"]
+notes_relationship = ["notes/waitwho-was-really-funny-really.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/d6FGsOpi33nBhQZYWun3eghMkk8ygO0fuOanIqd2sxcd_UenXJrMkUJvdyO7DdawSg2qNLXhcqaX4NZ1goWSLTpsPIEZ"
 url = "/webhook-uploads/1478477158976/9780989302388.jpg"
@@ -32,8 +36,4 @@ width = 3600
 type = "image/jpeg"
 size = 2505763
 
-reviews_books = ["books/funny-ass-thoreau.md"]
-books_author = ["authors/m-allen-cunningham.md"]
-sponsorships_book = ["sponsorships/funny-ass-thoreau.md"]
-notes_relationship = ["notes/waitwho-was-really-funny-really.md"]
 +++

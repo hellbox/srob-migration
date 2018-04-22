@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/pinnacle.md"
 books_translator = ""
+reviews_books = ["books/now-that-shes-gone.md"]
+books_author = ["authors/gregg-olsen.md"]
+sponsorships_book = ["sponsorships/now-that-shes-gone.md"]
+notes_relationship = ["notes/a-mystery-in-our-own-back-yard.md", "notes/read-a-chapter-from-gregg-olsen-through-tomorrow.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/zRr31V0_wRU-iISse0QmP5swn5TOBI14GY9TGilcGHUMmrP9pHa1w1bqeUdIU5f0jWyBC_Bor56_91ufVgH7OarKiww_"
 url = "/webhook-uploads/1449436386943/content%3Fid%3DziMxrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 22964
 
-reviews_books = ["books/now-that-shes-gone.md"]
-books_author = ["authors/gregg-olsen.md"]
-sponsorships_book = ["sponsorships/now-that-shes-gone.md"]
-notes_relationship = ["notes/a-mystery-in-our-own-back-yard.md", "notes/read-a-chapter-from-gregg-olsen-through-tomorrow.md"]
 +++

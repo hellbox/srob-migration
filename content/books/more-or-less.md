@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/cold-cube-press.md"
 books_translator = ""
+reviews_books = ["books/more-or-less.md"]
+books_author = ["authors/elissa-ball.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/V1WJ6aPsUGfy8uKiCdlDx_CMEsS6rObQLkil8TVjhisvMit7LQcq2GGbSmxFIq1yE8-piOZYlGUMDOwg4W6Bzqo3MgmK"
 url = "/webhook-uploads/1522127128017/MoreOrLess.jpg"
@@ -32,8 +36,4 @@ width = 800
 type = "image/jpeg"
 size = 154323
 
-reviews_books = ["books/more-or-less.md"]
-books_author = ["authors/elissa-ball.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

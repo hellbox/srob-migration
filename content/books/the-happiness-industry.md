@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/verso.md"
 books_translator = ""
+reviews_books = ["books/the-happiness-industry.md"]
+books_author = ["authors/william-davies.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/W5D7v2gJt4qYshJFx_Slil1_KYhktOk0TP7c4fcBpSOYwn-vCyiQnYCJCajuoDBagq3D0pCwqAYr6bsPHxKBLx1D6nM"
 url = "/webhook-uploads/1435299746753/9781781688458.jpg"
@@ -32,8 +36,4 @@ width = 254
 type = "image/jpeg"
 size = 10993
 
-reviews_books = ["books/the-happiness-industry.md"]
-books_author = ["authors/william-davies.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

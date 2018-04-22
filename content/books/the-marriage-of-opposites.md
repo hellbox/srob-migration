@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-marriage-of-opposites.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/independent-bookstore-fan-showrooms-amazon-books.md"]
+[[image]]
+image = ""
 +++

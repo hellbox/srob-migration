@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/and-other-stories.md"
 books_translator = ""
+reviews_books = ["books/lunatics-lovers-and-poets.md"]
+books_author = ["authors/multiple-authors.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NydfNoVUahdM5015V9dJqxek8Sh1iaCrbWjMkqF7l2iqZuYdIjjjZI-HNmKAvOnSjdOKTUljzPLOs4imuUSiPLgEqZw"
 url = "/webhook-uploads/1460852097721/61pNSsS9tYL._SX324_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 326
 type = "image/jpeg"
 size = 63144
 
-reviews_books = ["books/lunatics-lovers-and-poets.md"]
-books_author = ["authors/multiple-authors.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

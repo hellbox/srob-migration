@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/hausfrau.md"]
+books_author = ["authors/jill-alexander-essbaum.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/C-BTyqveBFefbznnKyZM89tWl89Vp4hX07E2yX1oQlkIIsyOp18N3MF5BiyyJVqkVJox_CBcy6RNhN9Fp-ou0gzwkag"
 url = "/webhook-uploads/1439958155421/content%3Fid%3DU3C9oAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 13701
 
-reviews_books = ["books/hausfrau.md"]
-books_author = ["authors/jill-alexander-essbaum.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

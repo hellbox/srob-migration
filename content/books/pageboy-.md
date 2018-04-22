@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Literary Magazine"
 books_publisher = "publishers/pageboy.md"
 books_translator = ""
+reviews_books = ["books/pageboy-.md"]
+books_author = ["authors/various.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/xJsv9YKHZWf5pC4I2gNltlq3nABGfwrKAo76LWAZuEbRianohDeb3lAuNJn1-jca976ebK3JRnjT32DNmPkKutY56D85uQ"
 url = "/webhook-uploads/1494642964420/IMG_0154.JPG"
@@ -32,8 +36,4 @@ width = 4032
 type = "image/jpeg"
 size = 121992
 
-reviews_books = ["books/pageboy-.md"]
-books_author = ["authors/various.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/scribner-book-company.md"
 books_translator = ""
+reviews_books = ["books/trump-revealed.md"]
+books_author = ["authors/michael-kranish.md", "authors/marc-fisher.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/TiRLm21JpSyVqaegmz5wPf15JKTKuFWe6wZIQ_IvCvsU-Gt6tdawHUUzj6fC8910X37SGJl8IZzWu1dKCdIsf-8m6pE"
 url = "/webhook-uploads/1477892712354/trumprevealed.jpg"
@@ -32,8 +36,4 @@ width = 1400
 type = "image/jpeg"
 size = 151229
 
-reviews_books = ["books/trump-revealed.md"]
-books_author = ["authors/michael-kranish.md", "authors/marc-fisher.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

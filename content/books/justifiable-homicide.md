@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/jeffrey-dean.md"
 books_translator = ""
+reviews_books = ["books/justifiable-homicide.md"]
+books_author = ["authors/jeffrey-warren.md"]
+sponsorships_book = ["sponsorships/justifiable-homicide.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/o5TwFzCSFXTH4LqLp2VXuu48ZO0QM4tAdzIfu6n1VvLL_iKULoyfN_fU_nBTbkyRUL5IdK4fa51HwgRYHVxykI5VxbI"
 url = "/webhook-uploads/1491673393215/aAste320SecD05R0lWBQ_full_JHeCover.jpg"
@@ -32,8 +36,4 @@ width = 1660
 type = "image/jpeg"
 size = 733616
 
-reviews_books = ["books/justifiable-homicide.md"]
-books_author = ["authors/jeffrey-warren.md"]
-sponsorships_book = ["sponsorships/justifiable-homicide.md"]
-notes_relationship = ""
 +++

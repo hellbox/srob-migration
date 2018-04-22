@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/red-hen-press.md"
 books_translator = ""
+reviews_books = ["books/burn-this-house.md"]
+books_author = ["authors/kelly-davio.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/exit-interview-kelly-davio-is-moving-to-london.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/UDfRFVDQ4SSe46fUY2OhZKmoIZgryFUphSGSEgccVhYm98I6bpDcPM88eITIWSBwhbkbXONtQPhu95vSwSd2tWZy1HA"
 url = "/webhook-uploads/1441411400480/9781597092364.jpg"
@@ -32,8 +36,4 @@ width = 270
 type = "image/jpeg"
 size = 12945
 
-reviews_books = ["books/burn-this-house.md"]
-books_author = ["authors/kelly-davio.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/exit-interview-kelly-davio-is-moving-to-london.md"]
 +++

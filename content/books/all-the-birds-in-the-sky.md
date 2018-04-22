@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["FICTION"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/all-the-birds-in-the-sky.md"]
+books_author = ["authors/charlie-jane-anders.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/lunch-date-all-the-birds-in-the-sky.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/RO6SYolU9cPKyr3BDCXtk4G1GyZc1tTqhNci3453UckXWha3skChOaLeu09ZloRL5GNSKJyrlGCek7D0Wll2O1SGXrUk"
 url = "/webhook-uploads/1461539947822/content%3Fid%3DAQlXrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10881
 
-reviews_books = ["books/all-the-birds-in-the-sky.md"]
-books_author = ["authors/charlie-jane-anders.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/lunch-date-all-the-birds-in-the-sky.md"]
 +++

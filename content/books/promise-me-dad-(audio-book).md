@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/audible-studios.md"
 books_translator = ""
+reviews_books = ["books/promise-me-dad-(audio-book).md"]
+books_author = ["authors/joe-biden.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/IvjYr_IhPRf9nvbSXvqonfmON2K0338ExJtjNl8kme34q2w30mwyf01tEbqxZ9K1Pd1VscEmYrWjj6P1U9-4rYyZ5Zj0"
 url = "/webhook-uploads/1511850550039/biden.jpg"
@@ -32,8 +36,4 @@ width = 331
 type = "image/jpeg"
 size = 20558
 
-reviews_books = ["books/promise-me-dad-(audio-book).md"]
-books_author = ["authors/joe-biden.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

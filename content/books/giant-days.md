@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/giant-days.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-strong-women-everywhere.md"]
+[[image]]
+image = ""
 +++

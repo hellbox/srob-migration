@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/skyhorse-publishing.md"
 books_translator = ""
+reviews_books = ["books/the-hummingbirds.md"]
+books_author = ["authors/ross-mcmeekin.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-16th---april-22nd.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jAujuBqJOJMXt_B_9JHE5hqCwqAUp_KRdnYYVVcPtxPZ912GBt9S-2_lHuAm8rOLwOm1XxcULB0v_7XXOodbBgvj3wHe"
 url = "/webhook-uploads/1517899562562/content%3Fid%3DpYLwnAAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 14076
 
-reviews_books = ["books/the-hummingbirds.md"]
-books_author = ["authors/ross-mcmeekin.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-16th---april-22nd.md"]
 +++

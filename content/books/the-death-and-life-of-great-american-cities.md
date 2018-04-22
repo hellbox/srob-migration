@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/penguin-random-house-audio.md"
 books_translator = ""
+reviews_books = ["books/the-death-and-life-of-great-american-cities.md"]
+books_author = ["authors/jane-jacobs.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HUzjEaM3CCCAI8H_l1wAo5O3ufbtUkLmWfrEgmU_NR1hYK-Pr0uIfrbB9vbEHE9RnmO1EvyDZKEcEoKuJTT_TOjoSac"
 url = "/webhook-uploads/1510621634779/9780307969651_400.jpg"
@@ -32,8 +36,4 @@ width = 400
 type = "image/jpeg"
 size = 31288
 
-reviews_books = ["books/the-death-and-life-of-great-american-cities.md"]
-books_author = ["authors/jane-jacobs.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/macmillan.md"
 books_translator = ""
+reviews_books = ["books/cheri.md"]
+books_author = ["authors/colette.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0CGlKiyUE_5ZJXQy-W-kZTMETVJbemsxdcPQuK8TOc3H7wtsjjWG43PpxfsVp3xBJnW6D2OsNr2KjJlfkdwEJBBd8ZQHGQ"
 url = "/webhook-uploads/1468207841853/89841.jpg"
@@ -32,8 +36,4 @@ width = 317
 type = "image/jpeg"
 size = 28620
 
-reviews_books = ["books/cheri.md"]
-books_author = ["authors/colette.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

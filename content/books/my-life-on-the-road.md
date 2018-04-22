@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/my-life-on-the-road.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/thats-the-ticket-david-sedaris-and-gloria-steinem-shows-are-selling-quickly.md"]
+[[image]]
+image = ""
 +++

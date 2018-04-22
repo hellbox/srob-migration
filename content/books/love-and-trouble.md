@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/love-and-trouble.md"]
+books_author = ["authors/claire-dederer.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/8TTBg9YWCP2VST4FSHjKZZqbeK-v73Qas7DHtq7-75p036XsZWPmP2Y_AIpWZgXXfZ5lHVzbCplZOu_p51BoUbhKJkiI"
 url = "/webhook-uploads/1494353003558/9781101946503.jpg"
@@ -32,8 +36,4 @@ width = 424
 type = "image/jpeg"
 size = 69657
 
-reviews_books = ["books/love-and-trouble.md"]
-books_author = ["authors/claire-dederer.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

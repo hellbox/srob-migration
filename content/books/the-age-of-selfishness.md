@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/abrams-comic-arts.md"
 books_translator = ""
+reviews_books = ["books/the-age-of-selfishness.md"]
+books_author = ["authors/darryl-cunningham.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/mfm3iAAMu2664zKPfw0ADq4GAi0uBwn1tJvCk9hRORDh7GJOm8uvNsLAVKTrG3TbI59y21MGi9D7I0xlFaWRPiqRx6zc"
 url = "/webhook-uploads/1435018304071/9781419715983.jpg"
@@ -32,8 +36,4 @@ width = 271
 type = "image/jpeg"
 size = 34755
 
-reviews_books = ["books/the-age-of-selfishness.md"]
-books_author = ["authors/darryl-cunningham.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

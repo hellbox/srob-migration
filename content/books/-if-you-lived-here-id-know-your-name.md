@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/algonquin-books.md"
 books_translator = ""
+reviews_books = ["books/-if-you-lived-here-id-know-your-name.md"]
+books_author = ["authors/heather-lende.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/g0y3jSxnob7aq5usnE0x4AJD1GQ6D4Zh8O3Bv4RpONtzGAj5232A1WtNJmCaNfkhnX0ozKuSm1cNeHISN_J-Eezzp4N09Q"
 url = "/webhook-uploads/1442557018783/9781565125247.jpg"
@@ -32,8 +36,4 @@ width = 261
 type = "image/jpeg"
 size = 23839
 
-reviews_books = ["books/-if-you-lived-here-id-know-your-name.md"]
-books_author = ["authors/heather-lende.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

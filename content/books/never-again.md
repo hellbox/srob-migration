@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/thunder&x27;s-mouth-press.md"
 books_translator = ""
+reviews_books = ["books/never-again.md"]
+books_author = ["authors/doug-nufer.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/n9_fktLq8MJSQBSQ1fVsWFoDNZq8LP09Vda8A9RcTtMakCp5ROWNDS08cbITRu3atLjbq2NAnQ8WROYumqUP3FkNAdhstg"
 url = "/webhook-uploads/1439873049164/9780971248564.jpg"
@@ -32,8 +36,4 @@ width = 259
 type = "image/jpeg"
 size = 10657
 
-reviews_books = ["books/never-again.md"]
-books_author = ["authors/doug-nufer.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"]
 +++

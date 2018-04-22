@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/manic-thrills-press.md"
 books_translator = ""
+reviews_books = ["books/blackoutings.md"]
+books_author = ["authors/tatiana-gill.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QzroAYq_8eFSC2VoVW5Web63lQgjk9Rt2ZVT8KfEvYplGywV_xfEZPhlo9DL5nOHSqiRMqD4B1z7bGkrDwhfC_iPiI1f"
 url = "/webhook-uploads/1447133924258/blackoutings.png"
@@ -32,8 +36,4 @@ width = 1292
 type = "image/png"
 size = 328387
 
-reviews_books = ["books/blackoutings.md"]
-books_author = ["authors/tatiana-gill.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

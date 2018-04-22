@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Self-Help"]
 books_publisher = "publishers/aviva-publishing.md"
 books_translator = ""
+reviews_books = ["books/the-courage-of-a-samurai.md"]
+books_author = ["authors/lori-tsugawa-whaley.md"]
+sponsorships_book = ["sponsorships/the-courage-of-a-samurai.md", "sponsorships/the-courage-of-a-samurai.md"]
+notes_relationship = ["notes/modern-life-\u2014-guided-by-a-set-of-tested-principles.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/N3NhtybXystCNpwUfRnq95LZ5pZ2X8FUaQtuntPrALPZmFvcEFXxihpeZ5spAT4BxqcOa7yDK7atuAQKgY4qIixuvcBu"
 url = "/webhook-uploads/1497279441724/unnamed.jpg"
@@ -32,8 +36,4 @@ width = 840
 type = "image/jpeg"
 size = 125842
 
-reviews_books = ["books/the-courage-of-a-samurai.md"]
-books_author = ["authors/lori-tsugawa-whaley.md"]
-sponsorships_book = ["sponsorships/the-courage-of-a-samurai.md", "sponsorships/the-courage-of-a-samurai.md"]
-notes_relationship = ["notes/modern-life-\u2014-guided-by-a-set-of-tested-principles.md"]
 +++

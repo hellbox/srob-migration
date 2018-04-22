@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/doubleday.md"
 books_translator = ""
+reviews_books = ["books/dark-money.md"]
+books_author = ["authors/jane-mayer.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/37Wwe3XHFgzvPWsYRMVWp7qAOyAmppYMWuuU1LnzPrYOKNrfKCnybbXG1YUgyiBK3naWZUi55fdz-4WQEdx1JKESLJu4"
 url = "/webhook-uploads/1499320251908/darkmoney.jpeg"
@@ -32,8 +36,4 @@ width = 468
 type = "image/jpeg"
 size = 52778
 
-reviews_books = ["books/dark-money.md"]
-books_author = ["authors/jane-mayer.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

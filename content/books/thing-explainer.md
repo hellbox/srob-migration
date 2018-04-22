@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/thing-explainer.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/holiday-gift-book-recommendation-1-thing-explainer.md"]
+[[image]]
+image = ""
 +++

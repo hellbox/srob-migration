@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/nightboat-books.md"
 books_translator = ""
+reviews_books = ["books/the-consequences-of-my-body.md"]
+books_author = ["authors/maged-zaher.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/RTGF_hIZLgelIMexCL7brAxPdjQMUewqK1GWPxKRfX8ukavkv38LmPHDDpfEmUuQRFy8rraLid-qNT2Zh_0Ai_RWWhU"
 url = "/webhook-uploads/1458528031092/consequences.jpg"
@@ -32,8 +36,4 @@ width = 100
 type = "image/jpeg"
 size = 86419
 
-reviews_books = ["books/the-consequences-of-my-body.md"]
-books_author = ["authors/maged-zaher.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

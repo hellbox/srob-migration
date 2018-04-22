@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics-books.md"
 books_translator = ""
+reviews_books = ["books/the-complete-neat-stuff.md"]
+books_author = ["authors/peter-bagge.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ErF5OZA7kTV4ovBvzCWr9QisV7FCJo1Qf7tJxER9x-67D8nJIvLdr8V3655dAXSwH0_c8NqSG10ShP556D0EIXjGIFOn5A"
 url = "/webhook-uploads/1470633395592/content%3Fid%3Dfj3NCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 5391
 
-reviews_books = ["books/the-complete-neat-stuff.md"]
-books_author = ["authors/peter-bagge.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

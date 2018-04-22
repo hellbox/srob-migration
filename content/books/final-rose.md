@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
+reviews_books = ["books/final-rose.md"]
+books_author = ["authors/halie-theoharides.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/book-news-roundup-politicians-we-love.md", "notes/literary-event-of-the-week-x-y-z-gallery-opening.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/B-PWpoUEkRx7TnWJeWDjG7sIw1PHK0Lw2Ka2pIfCAH_F4prL14CSm0AI5N829k2FpeQoc-L6yENz1xkrXcekiQAvLmk"
 url = "/webhook-uploads/1491369932874/content%3Fid%3D1kZFvgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 3263
 
-reviews_books = ["books/final-rose.md"]
-books_author = ["authors/halie-theoharides.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/book-news-roundup-politicians-we-love.md", "notes/literary-event-of-the-week-x-y-z-gallery-opening.md"]
 +++

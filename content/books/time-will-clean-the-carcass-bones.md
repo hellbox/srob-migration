@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Poetry"]
 books_publisher = "publishers/copper-canyon-press.md"
 books_translator = ""
+reviews_books = ["books/time-will-clean-the-carcass-bones.md"]
+books_author = ["authors/lucia-perillo.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/celebrating-lucia-perillo.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/3hRQtnbaCJicknWX17ch41O3EZXaCBEfcAB8Glt0A-PMoM1XeEdegeCbKkpI3Pr29owClSnwOcZNmDbJdXQOQ7vYUbI7"
 url = "/webhook-uploads/1480441006380/content%3Fid%3Dc0kjrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12918
 
-reviews_books = ["books/time-will-clean-the-carcass-bones.md"]
-books_author = ["authors/lucia-perillo.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/celebrating-lucia-perillo.md"]
 +++

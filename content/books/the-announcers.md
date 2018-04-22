@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/chatwin-books.md"
 books_translator = ""
+reviews_books = ["books/the-announcers.md"]
+books_author = ["authors/jg-perkins.md"]
+sponsorships_book = ["sponsorships/the-announcers.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bvCIJ35QUB6Sg2iVbs9V3P40uQ8Hl05feFVGiMXe39BbEt0ji2HN1eaAyZntFE0RVqR_GT3kW8HvMV2Q190ntOT6Fsc"
 url = "/webhook-uploads/1440864988623/TheAnnouncers_Cover1%2Bcopy.jpg"
@@ -32,8 +36,4 @@ width = 573
 type = "image/jpeg"
 size = 372942
 
-reviews_books = ["books/the-announcers.md"]
-books_author = ["authors/jg-perkins.md"]
-sponsorships_book = ["sponsorships/the-announcers.md"]
-notes_relationship = ""
 +++

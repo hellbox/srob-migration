@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/floating-bridge-press.md"
 books_translator = ""
+reviews_books = ["books/my-idea-of-fun.md"]
+books_author = ["authors/brian-cooney.md"]
+sponsorships_book = ["sponsorships/my-idea-of-fun.md"]
+notes_relationship = ["notes/everybodys-idea-of-fun.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/b3x6fDe5irhalbQcqDcy0RZc2lZQN5Vw9LIma28cyOLnoCInSNese1jAe2jkSLihzL1NSWRfXVFPNjIKk4PvyCZpzO_p"
 url = "/webhook-uploads/1461530325055/MyIdeaofFun.png"
@@ -32,8 +36,4 @@ width = 400
 type = "image/png"
 size = 587628
 
-reviews_books = ["books/my-idea-of-fun.md"]
-books_author = ["authors/brian-cooney.md"]
-sponsorships_book = ["sponsorships/my-idea-of-fun.md"]
-notes_relationship = ["notes/everybodys-idea-of-fun.md"]
 +++

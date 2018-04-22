@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/vintage-books.md"
 books_translator = ""
+reviews_books = ["books/give-me-everything-you-have.md"]
+books_author = ["authors/james-lasdun.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/KCKxFbLVe6nKaoMc-hk-lIG7IPDhf7zbglBbxO6TPHIAP0gcSVFm4pA1JMNwPwQA77yr1ApHybdDDy9JMtJmpIzSnXc"
 url = "/webhook-uploads/1480583825493/everythingyouhave.jpg"
@@ -32,8 +36,4 @@ width = 326
 type = "image/jpeg"
 size = 70199
 
-reviews_books = ["books/give-me-everything-you-have.md"]
-books_author = ["authors/james-lasdun.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

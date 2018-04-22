@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-revised-fundamentals-of-caregiving.md"]
 books_author = ["authors/jonathan-evison.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/ask-jonathan-evison-anything.md", "notes/jonathan-evison-to-close-sundance-2016.md"]
+[[image]]
+image = ""
 +++

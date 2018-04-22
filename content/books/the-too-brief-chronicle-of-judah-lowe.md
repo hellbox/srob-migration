@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sagging-meniscus-press.md"
 books_translator = ""
+reviews_books = ["books/the-too-brief-chronicle-of-judah-lowe.md"]
+books_author = ["authors/christopher-carter-sanderson.md"]
+sponsorships_book = ["sponsorships/the-too-brief-chronicle-of-judah-lowe.md"]
+notes_relationship = ["notes/the-art-that-comes-from-restriction.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/z-nknNymiiIav6MISke5t3U7TVdSEbLiKOu3fQpWe_hb8TtmC_RNkiejRvwLGaOR11ERaXZ2fVQtxSJU41YF7P5SjKk"
 url = "/webhook-uploads/1455480106598/content%3Fid%3D5s7esgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12263
 
-reviews_books = ["books/the-too-brief-chronicle-of-judah-lowe.md"]
-books_author = ["authors/christopher-carter-sanderson.md"]
-sponsorships_book = ["sponsorships/the-too-brief-chronicle-of-judah-lowe.md"]
-notes_relationship = ["notes/the-art-that-comes-from-restriction.md"]
 +++

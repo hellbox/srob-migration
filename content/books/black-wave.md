@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Memoir"
 books_publisher = "publishers/amethyst-editions.md"
 books_translator = ""
+reviews_books = ["books/black-wave.md"]
+books_author = ["authors/michelle-tea.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/brad-pitt-or-matt-dillon-michelle-tea-has-opinions.md", "notes/your-week-in-readings-the-best-literary-events-from-november-16th---november-22nd.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/5Tj-LDgekd_9yQaHGF7vvdp5levA4kQiXP14MnIWjrYgrtgXFM3zHXoEuk5xp9BPB9Aa9munMeXiBsO9iY2okFkWAD9f"
 url = "/webhook-uploads/1477280711948/blackwave.jpg"
@@ -32,8 +36,4 @@ width = 344
 type = "image/jpeg"
 size = 30578
 
-reviews_books = ["books/black-wave.md"]
-books_author = ["authors/michelle-tea.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/brad-pitt-or-matt-dillon-michelle-tea-has-opinions.md", "notes/your-week-in-readings-the-best-literary-events-from-november-16th---november-22nd.md"]
 +++

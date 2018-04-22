@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/peter-owen-publishers.md"
 books_translator = ""
+reviews_books = ["books/birdbrain.md"]
+books_author = ["authors/johanna-sinisalo.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Zc2q6eu1-LBihi98aaVSq6HFZUz71gc-6q6yGd7HyYW1W_3sInbuDQVucZ5eFpyqv7jjjkfxO71SADLME1vA61F5m_zB"
 url = "/webhook-uploads/1445117813185/51cXhNcYNhL._SX324_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 326
 type = "image/jpeg"
 size = 35588
 
-reviews_books = ["books/birdbrain.md"]
-books_author = ["authors/johanna-sinisalo.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

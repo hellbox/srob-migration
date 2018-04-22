@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["African Americans"]
 books_publisher = "publishers/scholastic-press.md"
 books_translator = ""
+reviews_books = ["books/a-birthday-cake-for-george-washington.md"]
+books_author = ["authors/ramin-ganeshram.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/anti-censorship-group-alarmed-by-decision-to-pull-a-birthday-cake-for-george-washington.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/i_PbinbT7lJeHHgC49E6HlcySLMdzmJZdbioLx0MT2fvEiHeUpVINGNpMjz2QURo4ER4nwu0GjCLc-RHNall9IFxkP4"
 url = "/webhook-uploads/1453151984079/content%3Fid%3DlNXDsgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 45049
 
-reviews_books = ["books/a-birthday-cake-for-george-washington.md"]
-books_author = ["authors/ramin-ganeshram.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/anti-censorship-group-alarmed-by-decision-to-pull-a-birthday-cake-for-george-washington.md"]
 +++

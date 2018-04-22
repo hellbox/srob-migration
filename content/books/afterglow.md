@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/-grove-press.md"
 books_translator = ""
+reviews_books = ["books/afterglow.md"]
+books_author = ["authors/eileen-myles.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/xOJjdN1CuZ28VwwMsBoJkvWe_vX21y_iUKpwT7Mbqmhata2coTEe5-llNuYyUlWnxg3bbFUeXWi5qgqpc3qAtwBlKb75"
 url = "/webhook-uploads/1511843300311/Afterglow_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 22802
 
-reviews_books = ["books/afterglow.md"]
-books_author = ["authors/eileen-myles.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

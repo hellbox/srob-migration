@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/knopf.md"
 books_translator = ""
+reviews_books = ["books/dear-fang-with-love.md"]
+books_author = ["authors/rufi-thorpe.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/talking-with-rufi-thorpe-about-writing-and-her-latest-novel.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/8AX5xjsg5r5s9on397BH7jM1GsXtbZf5DzGHnlfrCOIgiYzfaR5GIMO8y0nYBK8TQLpDytcJrLOcx5htCKUc-6H2cmqR"
 url = "/webhook-uploads/1463870858257/26192644.jpg"
@@ -32,8 +36,4 @@ width = 318
 type = "image/jpeg"
 size = 27149
 
-reviews_books = ["books/dear-fang-with-love.md"]
-books_author = ["authors/rufi-thorpe.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/talking-with-rufi-thorpe-about-writing-and-her-latest-novel.md"]
 +++

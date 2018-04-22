@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/the-seattle-review-of-books.md"
 books_translator = ""
+reviews_books = ["books/the-sponsorship.md"]
+books_author = ["authors/you.md"]
+sponsorships_book = ["sponsorships/the-sponsorship.md", "sponsorships/the-sponsorship-(by-you).md"]
+notes_relationship = ["notes/sponsorships-now-open-through-january-2018.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6yFL2deV0WXVEADIup53cdBr9JfgcOtEVVXJpTKs08LAT1IVdzHKx_Qe3G0U5o-cUEXHjFVr6BpzqxVau1o4p_gZd0Wghg"
 url = "/webhook-uploads/1498853358192/sponsorship-by-you.jpg"
@@ -32,8 +36,4 @@ width = 1200
 type = "image/jpeg"
 size = 471745
 
-reviews_books = ["books/the-sponsorship.md"]
-books_author = ["authors/you.md"]
-sponsorships_book = ["sponsorships/the-sponsorship.md", "sponsorships/the-sponsorship-(by-you).md"]
-notes_relationship = ["notes/sponsorships-now-open-through-january-2018.md"]
 +++

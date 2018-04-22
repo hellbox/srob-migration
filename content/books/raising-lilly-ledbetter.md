@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Poetry"]
 books_publisher = "publishers/lost-horse-press.md"
 books_translator = ""
+reviews_books = ["books/raising-lilly-ledbetter.md"]
+books_author = ["authors/carolyne-wright.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-events-from-september-28th-to-october-4th.md", "notes/two-more-events-to-keep-in-mind-trivia-for-a-cause-and-raising-lily-ledbetter.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/zA1EyCtmJ0yM3S8bpO8SDRZJssXd2GNhxlEgM2-1wiK-ui8XrIaxRJmaamOIf5mM1eFenvPCH86q9zLWof7QXYYAnXWd"
 url = "/webhook-uploads/1441349981847/content%3Fid%3DpnPbrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 26990
 
-reviews_books = ["books/raising-lilly-ledbetter.md"]
-books_author = ["authors/carolyne-wright.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-events-from-september-28th-to-october-4th.md", "notes/two-more-events-to-keep-in-mind-trivia-for-a-cause-and-raising-lily-ledbetter.md"]
 +++

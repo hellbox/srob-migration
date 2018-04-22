@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/strategic-book-publishing-company.md"
 books_translator = ""
+reviews_books = ["books/my-dear-wife-and-children.md"]
+books_author = ["authors/nick-k-adams.md"]
+sponsorships_book = ["sponsorships/my-dear-wife-and-children.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kn7C72tfSubi3iCw0G9LcNldqwv_whcxHWHoWfNNrLPqg3A2YAXsZaJVHfwROzol3jIRdvoFvptyww2O_Y8R0uYl_7w"
 url = "/webhook-uploads/1480908213468/My%20Dear%20Wife%20Cover.jpg"
@@ -32,8 +36,4 @@ width = 563
 type = "image/jpeg"
 size = 190081
 
-reviews_books = ["books/my-dear-wife-and-children.md"]
-books_author = ["authors/nick-k-adams.md"]
-sponsorships_book = ["sponsorships/my-dear-wife-and-children.md"]
-notes_relationship = ""
 +++

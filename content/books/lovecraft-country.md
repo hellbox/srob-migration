@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/harper.md"
 books_translator = ""
+reviews_books = ["books/lovecraft-country.md"]
+books_author = ["authors/matt-ruff.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/talking-with-matt-ruff-about-science-fictions-racist-past.md", "notes/book-news-roundup-where-will-amazon-open-their-next-bookstore.md", "notes/bad-monkeys-optioned-for-film.md", "notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/go-ask-matt-ruff-anything.md", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st.md", "notes/jordan-peele-signs-on-to-produce-matt-ruffs-lovecraft-country-as-a-tv-series.md", "notes/2017-washington-state-book-awards-finalists-announced.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dmy_XFbBt0W9jjMmOASJ2xfVt0t2gvvKXJh4lHAjWxZ-X1PZ7doY1yMrAKWostS8I1ONTOKQQjrmOOTK-3XtzDDYD57y"
 url = "/webhook-uploads/1454434961267/1600x2417sr.jpg"
@@ -32,8 +36,4 @@ width = 1600
 type = "image/jpeg"
 size = 1945985
 
-reviews_books = ["books/lovecraft-country.md"]
-books_author = ["authors/matt-ruff.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/talking-with-matt-ruff-about-science-fictions-racist-past.md", "notes/book-news-roundup-where-will-amazon-open-their-next-bookstore.md", "notes/bad-monkeys-optioned-for-film.md", "notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/go-ask-matt-ruff-anything.md", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st.md", "notes/jordan-peele-signs-on-to-produce-matt-ruffs-lovecraft-country-as-a-tv-series.md", "notes/2017-washington-state-book-awards-finalists-announced.md"]
 +++

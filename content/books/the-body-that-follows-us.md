@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/cave-moon-press.md"
 books_translator = ""
+reviews_books = ["books/the-body-that-follows-us.md"]
+books_author = ["authors/joan-swift.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/5v3ngo3KWaiygIgr3fCmPXU4vNH8Pq9S3g-myTVJ15nVY6VbhQaJwDJUjIQGi-T7uQ-xGzRhXK6wX1N8_yojlSaWlt4y"
 url = "/webhook-uploads/1495782025079/bodythatfollowsus.jpg"
@@ -32,8 +36,4 @@ width = 333
 type = "image/jpeg"
 size = 19350
 
-reviews_books = ["books/the-body-that-follows-us.md"]
-books_author = ["authors/joan-swift.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

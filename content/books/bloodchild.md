@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/bloodchild.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-a-cute-boy-only-reads-self-important-books-by-self-important-men-\u2014\u00a0what-do-i-do.md"]
+[[image]]
+image = ""
 +++

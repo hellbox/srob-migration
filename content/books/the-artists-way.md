@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Religion"]
 books_publisher = "publishers/penguin-books.md"
 books_translator = ""
+reviews_books = ["books/the-artists-way.md"]
+books_author = ["authors/julia-cameron.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ZAe6jt8rTh43-6wbhRLM3cbzJPorCci8nWrDrEVlyLjRYUh7Oan2q53X1Ekf49AOpGiyzwBWuvsbqMP03kWvSixJ5P6D"
 url = "/webhook-uploads/1520313678216/TAW-25-Cover.jpg"
@@ -32,8 +36,4 @@ width = 984
 type = "image/jpeg"
 size = 269642
 
-reviews_books = ["books/the-artists-way.md"]
-books_author = ["authors/julia-cameron.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

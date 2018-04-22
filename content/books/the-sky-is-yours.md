@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/the-sky-is-yours.md"]
+books_author = ["authors/chandler-klang-smith.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tu6j4Eo1NEzDHkHMwl-ZH5Mk2hpEAwTOqbfBxJTyLFCPNLIbNduVrvrC5-d0D3eHPAdE8x9Fl0NRqSRn9RxESTl3qAyL"
 url = "/webhook-uploads/1519090113868/content%3Fid%3D-4xEDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 13652
 
-reviews_books = ["books/the-sky-is-yours.md"]
-books_author = ["authors/chandler-klang-smith.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

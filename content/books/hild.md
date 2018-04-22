@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/picador-usa.md"
 books_translator = ""
+reviews_books = ["books/hild.md"]
+books_author = ["authors/nicola-griffith.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/talking-with-nicola-griffith-about-the-importance-of-counting-womens-stories.md", "notes/add-a-personal-touch-to-your-holiday-shopping-at-phinney-books.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/RbvM7Zpz0Fia7xH8iErYQw04IWy30-OOYHHnSFPx6jJ430-9jAJ_GkrmVJcI7PMxHcRDEHQpZKmMzgQac0e3LGiCkow"
 url = "/webhook-uploads/1437606511153/9781250056092.jpg"
@@ -32,8 +36,4 @@ width = 267
 type = "image/jpeg"
 size = 32882
 
-reviews_books = ["books/hild.md"]
-books_author = ["authors/nicola-griffith.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/talking-with-nicola-griffith-about-the-importance-of-counting-womens-stories.md", "notes/add-a-personal-touch-to-your-holiday-shopping-at-phinney-books.md"]
 +++

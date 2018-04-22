@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/underland-press.md"
 books_translator = ""
+reviews_books = ["books/chimpanzee.md"]
+books_author = ["authors/darin-bradley.md"]
+sponsorships_book = ["sponsorships/chimpanzee.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dOPyE5arj5A3Fc_lJizx7Tnh3ejjpNjd4oh4ZogDiWDsFIaB0_k5ErpVxNfiCCBffjaxsxxVvSryLbK-6JzUuPJofs543Q"
 url = "/webhook-uploads/1439100910463/9781630230142.png"
@@ -32,8 +36,4 @@ width = 1745
 type = "image/png"
 size = 6865759
 
-reviews_books = ["books/chimpanzee.md"]
-books_author = ["authors/darin-bradley.md"]
-sponsorships_book = ["sponsorships/chimpanzee.md"]
-notes_relationship = ""
 +++

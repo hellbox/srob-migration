@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/dune.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-dun-dun-dun-dun-dun-dun-dun-dun-dun-duuuuun.md"]
+[[image]]
+image = ""
 +++

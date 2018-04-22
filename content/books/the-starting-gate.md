@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sweet-air-publishing.md"
 books_translator = ""
+reviews_books = ["books/the-starting-gate.md"]
+books_author = ["authors/paul-mullin.md"]
+sponsorships_book = ["sponsorships/the-starting-gate-05--30--2016.md", "sponsorships/the-starting-gate.md"]
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th.md", "notes/literary-event-of-the-week-loud-mouth-lit.md", "notes/check-out-a-sample-from-the-starting-gate-courtesy-of-sponsor-paul-mullin.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/3na6wm7BTlm7ILsFCBp8Sqgu9aecokmYql2DxOkXRopUaFg_AbzULw5BVYmGwIcFo3Ja1ZVHDk5S4N2gf0EhQrBzntIr"
 url = "/webhook-uploads/1464500965559/51PxYlXwwYL.jpg"
@@ -32,8 +36,4 @@ width = 333
 type = "image/jpeg"
 size = 42038
 
-reviews_books = ["books/the-starting-gate.md"]
-books_author = ["authors/paul-mullin.md"]
-sponsorships_book = ["sponsorships/the-starting-gate-05--30--2016.md", "sponsorships/the-starting-gate.md"]
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th.md", "notes/literary-event-of-the-week-loud-mouth-lit.md", "notes/check-out-a-sample-from-the-starting-gate-courtesy-of-sponsor-paul-mullin.md"]
 +++

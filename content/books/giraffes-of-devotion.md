@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/kore-press.md"
 books_translator = ""
+reviews_books = ["books/giraffes-of-devotion.md"]
+books_author = ["authors/sarah-mangold.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/k7R0MGP12MC0UA_KzxFjkhIQVJjGp0qHBe0jrAmk7Ncb0kHF5lQVmsGwfs8q66PqJhQoHmiapbfnzCK45-B6N7jq8JEI"
 url = "/webhook-uploads/1466750809879/giraffes.jpeg"
@@ -32,8 +36,4 @@ width = 184
 type = "image/jpeg"
 size = 3538
 
-reviews_books = ["books/giraffes-of-devotion.md"]
-books_author = ["authors/sarah-mangold.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

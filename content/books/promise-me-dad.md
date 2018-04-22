@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/flatiron-books.md"
 books_translator = ""
+reviews_books = ["books/promise-me-dad.md"]
+books_author = ["authors/joe-biden.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/mBYRFKXqwEB3vJOrwe5YdecYaQF0wHmhD69CDZDvE6-gsKpIfvVIZMrQzYyvsXe3ua6eQL6VtdwZCUYgjG0m3-3m3Js"
 url = "/webhook-uploads/1511850337867/biden.jpg"
@@ -32,8 +36,4 @@ width = 331
 type = "image/jpeg"
 size = 20558
 
-reviews_books = ["books/promise-me-dad.md"]
-books_author = ["authors/joe-biden.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

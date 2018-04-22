@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/bloomsbury.md"
 books_translator = ""
+reviews_books = ["books/the-write-crowd.md"]
+books_author = ["authors/lori-a-may.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/lunch-date-szechuan-sandwiches-and-joining-the-community.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/PskWFHEC3Egjy2wSnsveU9PcAGMPFtxLG2caCtwPvi9JrxpNfSUNIHiEIwtci9P4JZGo6lAGlOEE7qhsJPGQsz80rsDSbQ"
 url = "/webhook-uploads/1440272704602/417DHLVOPvL._SX321_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 323
 type = "image/jpeg"
 size = 31062
 
-reviews_books = ["books/the-write-crowd.md"]
-books_author = ["authors/lori-a-may.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/lunch-date-szechuan-sandwiches-and-joining-the-community.md"]
 +++

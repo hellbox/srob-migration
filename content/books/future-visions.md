@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Science Fiction"
 books_publisher = "publishers/melcher-media.md"
 books_translator = ""
+reviews_books = ["books/future-visions.md"]
+books_author = ["authors/multiple-authors.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BFIJ8j95lh8So_UZ9a_GpqZQJzCh7RRKswKNuBsD8urJJb7tomr_08lApkz_3vqNeZY3I484FNaC1aTz8ZNZBIijxGzi"
 url = "/webhook-uploads/1449552212163/27844376.jpg"
@@ -32,8 +36,4 @@ width = 287
 type = "image/jpeg"
 size = 26781
 
-reviews_books = ["books/future-visions.md"]
-books_author = ["authors/multiple-authors.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

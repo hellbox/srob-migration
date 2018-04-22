@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/knopf-publishing-group.md"
 books_translator = ""
+reviews_books = ["books/south-and-west.md"]
+books_author = ["authors/joan-didion.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/AAXAhfFfOMRPaocRdoyo4hUG5sP5P24t-weG-wFP4-zPV1urUfFNXp8Mp_WsSpxo4wxnqynpSZ96voT3UZLfFoDEI8E"
 url = "/webhook-uploads/1504239977280/content%3Fid%3DKEsmDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7268
 
-reviews_books = ["books/south-and-west.md"]
-books_author = ["authors/joan-didion.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

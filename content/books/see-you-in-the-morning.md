@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "novel"
 books_publisher = "publishers/featherproof-books.md"
 books_translator = ""
+reviews_books = ["books/see-you-in-the-morning.md"]
+books_author = ["authors/mairead-case.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/36yPgte2PYt4cNFjD9jOKbZLO8Dqf4s9uHI5ObU7wJywtn2jj1ZnH3j9u6rt_zExKMavAzgKq2_aVAFuLqig6eN2_-M"
 url = "/webhook-uploads/1448937700507/seeyouinthemorning.jpg"
@@ -32,8 +36,4 @@ width = 270
 type = "image/jpeg"
 size = 22986
 
-reviews_books = ["books/see-you-in-the-morning.md"]
-books_author = ["authors/mairead-case.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

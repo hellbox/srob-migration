@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/scribner-book-company.md"
 books_translator = ""
+reviews_books = ["books/silver-screen-fiend.md"]
+books_author = ["authors/patton-oswalt.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/XXWL2fD7kcl4B7xHpaWJsp-P_4738lTcai41wiGFKLcW_viKXj7t-zXIkJcJwhVU44e9QHYwn6H7y8PQvl3ua1-MK84"
 url = "/webhook-uploads/1435299648905/9781451673210.jpg"
@@ -32,8 +36,4 @@ width = 256
 type = "image/jpeg"
 size = 14576
 
-reviews_books = ["books/silver-screen-fiend.md"]
-books_author = ["authors/patton-oswalt.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

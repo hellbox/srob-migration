@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Dystopias"]
 books_publisher = "publishers/brackets-press.md"
 books_translator = ""
+reviews_books = ["books/etiquette-for-an-apocalypse.md"]
+books_author = ["authors/anne-mendel.md"]
+sponsorships_book = ["sponsorships/etiquette-for-an-apocalypse.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/lcshk54eDa28es9TxENyAwhjIuoe0NtL4moLOJxFjfnE6cVgKBHZotYHLwXOWrKvplEUyd5uZHrhK6PtawEsuFik7eY"
 url = "/webhook-uploads/1494210134599/content%3Fid%3D_47QuQAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12659
 
-reviews_books = ["books/etiquette-for-an-apocalypse.md"]
-books_author = ["authors/anne-mendel.md"]
-sponsorships_book = ["sponsorships/etiquette-for-an-apocalypse.md"]
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/lanternfish-press.md"
 books_translator = ""
+reviews_books = ["books/daughters-of-the-air.md"]
+books_author = ["authors/anca-l-szil\u00e1gyi.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-16th---april-22nd.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kv-FdBZ6yJFyIQNHQoUfXhIRZ54peYx35jIqGi8a97pwlCZMzeLdF-goo3G4zJxJbVwVcdXf30aZkHFaxTCAvAtvsL-NmQ"
 url = "/webhook-uploads/1512265155948/daughtersoftheair.jpg"
@@ -32,8 +36,4 @@ width = 328
 type = "image/jpeg"
 size = 45888
 
-reviews_books = ["books/daughters-of-the-air.md"]
-books_author = ["authors/anca-l-szil\u00e1gyi.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-16th---april-22nd.md"]
 +++

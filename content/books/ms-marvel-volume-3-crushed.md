@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/marvel-comics.md"
 books_translator = ""
+reviews_books = ["books/ms-marvel-volume-3-crushed.md"]
+books_author = ["authors/g-willow-wilson.md", "authors/takeshi-miyazawa.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9GJ1CTL4AArtPV2XZ2miNx_L3gFvWUfe0Uob3BLjsB3oM32Dwsrik26Mq6l7Lz6EG0mq9etHQwjAU9Y07EXhAediCHg"
 url = "/webhook-uploads/1461965597042/9780785192275.jpg"
@@ -32,8 +36,4 @@ width = 260
 type = "image/jpeg"
 size = 32676
 
-reviews_books = ["books/ms-marvel-volume-3-crushed.md"]
-books_author = ["authors/g-willow-wilson.md", "authors/takeshi-miyazawa.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"]
 +++

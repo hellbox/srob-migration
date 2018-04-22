@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/big-table-publishing-company.md"
 books_translator = ""
+reviews_books = ["books/the-rise-and-fall-of-the-yellow-house.md"]
+books_author = ["authors/john-whittier-treat.md"]
+sponsorships_book = ["sponsorships/the-rise-and-fall-of-the-yellow-house.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dGEQQAJ5jlZhnJVouKzh3siRy7UDAojzDRDmEuUT8J0VEcX3XkFcUHlgCmmd855venCgsiG9P_5SAjzlNHYpO9Xfh20"
 url = "/webhook-uploads/1468553643676/Yellow-House-web.jpg"
@@ -32,8 +36,4 @@ width = 600
 type = "image/jpeg"
 size = 214780
 
-reviews_books = ["books/the-rise-and-fall-of-the-yellow-house.md"]
-books_author = ["authors/john-whittier-treat.md"]
-sponsorships_book = ["sponsorships/the-rise-and-fall-of-the-yellow-house.md"]
-notes_relationship = ""
 +++

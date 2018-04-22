@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/little-brown-and-company.md"
 books_translator = ""
+reviews_books = ["books/vendetta.md"]
+books_author = ["authors/james-neff.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/you-wont-ever-meet-bill-clinton-on-amazoncom.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/RvP46Ax6_nVyOu3Cc_qdYSdBhgzjx1CD9UXqwotJVjnNsPZ3QUFIFaejawBAuBCUT2x8ZwNzwStUTxTJhB5YO3XHk5ki"
 url = "/webhook-uploads/1439189801021/9780316738347.jpg"
@@ -32,8 +36,4 @@ width = 258
 type = "image/jpeg"
 size = 18375
 
-reviews_books = ["books/vendetta.md"]
-books_author = ["authors/james-neff.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/you-wont-ever-meet-bill-clinton-on-amazoncom.md"]
 +++

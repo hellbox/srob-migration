@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/entre-r\u00edos-books.md"
 books_translator = ""
+reviews_books = ["books/popular-songs.md"]
+books_author = ["authors/percy-bysshe-shelley.md"]
+sponsorships_book = ["sponsorships/popular-songs-the-political-poems-of-1819-1820.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uHVI9HXmnBd2gji6mkyQzKfcBKJ4PRZ1fwBDrS55gekoeKLd6hITy-H9VVYYzdbl4uxXCCiuoLvsjZ-3Pwc4FEm89zV-rw"
 url = "/webhook-uploads/1458877592054/Popular%20Songs%20Percy%20Bysshe%20Shelley.png"
@@ -32,8 +36,4 @@ width = 422
 type = "image/png"
 size = 295462
 
-reviews_books = ["books/popular-songs.md"]
-books_author = ["authors/percy-bysshe-shelley.md"]
-sponsorships_book = ["sponsorships/popular-songs-the-political-poems-of-1819-1820.md"]
-notes_relationship = ""
 +++

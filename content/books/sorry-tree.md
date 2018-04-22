@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/wave-books.md"
 books_translator = ""
+reviews_books = ["books/sorry-tree.md"]
+books_author = ["authors/eileen-myles.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/literary-event-of-the-week-lit-crawl.md"]
 [[image]]
 resize_url = "https://lh3.googleusercontent.com/v-k4prPCqLz5lq1Zubx05tHjOycCTEWkC7alZUPEhmCjSVLOGcgqEkwOZsqAeTLKsjWiawfl7FtgOSE39ud6NLtrnWGd"
 url = "/webhook-uploads/1444620312293/9781933517209.jpg"
@@ -32,8 +36,4 @@ width = 268
 type = "image/jpeg"
 size = 25698
 
-reviews_books = ["books/sorry-tree.md"]
-books_author = ["authors/eileen-myles.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/literary-event-of-the-week-lit-crawl.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Language Arts & Disciplines"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/the-writers-portable-mentor.md"]
+books_author = ""
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/IpEiBKV6_T49EDWDfri2YpJNB4laoxATWGsczFz2Efd64iEZuLpBxA7uAPCEbJRKD1FvtGw4GGjMib0e11O6DqoZY475"
 url = "/webhook-uploads/1441636335052/content%3Fid%3Dao2mQQAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9173
 
-reviews_books = ["books/the-writers-portable-mentor.md"]
-books_author = ""
-sponsorships_book = ""
-notes_relationship = ""
 +++

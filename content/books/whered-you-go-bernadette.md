@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/back-bay-books.md"
 books_translator = ""
+reviews_books = ["books/whered-you-go-bernadette.md"]
+books_author = ["authors/maria-semple.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/whatd-you-say-bernadette.md", "notes/event-of-the-week-epilogue--prologue-at-hugo-house.md", "notes/literary-event-of-the-week-happy-family-with-maria-semple.md", "notes/cate-blanchett-spotted-at-downtown-seattle-public-library.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/fwbc8vbU1xNU0prM11MfdrX_0_cvYSS5QqoEN27QCT2gT4aMuUS5MAWyotzNAQlxHIkxvgX9LpMjRuZ5fsUdNyh_q0SNLQ"
 url = "/webhook-uploads/1435300570961/9780316204262.jpg"
@@ -32,8 +36,4 @@ width = 263
 type = "image/jpeg"
 size = 16936
 
-reviews_books = ["books/whered-you-go-bernadette.md"]
-books_author = ["authors/maria-semple.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/whatd-you-say-bernadette.md", "notes/event-of-the-week-epilogue--prologue-at-hugo-house.md", "notes/literary-event-of-the-week-happy-family-with-maria-semple.md", "notes/cate-blanchett-spotted-at-downtown-seattle-public-library.md"]
 +++

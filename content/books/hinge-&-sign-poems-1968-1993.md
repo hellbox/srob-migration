@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/wesleyan.md"
 books_translator = ""
+reviews_books = ["books/hinge-&-sign-poems-1968-1993.md"]
+books_author = ["authors/heather-mchugh.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/t-OV9YARHp2tqtFUplFtvfY81kPgsRvHB7y5OUcjiyMl1FrteYfP6cjilcdm4m8fLNNuxjqe4-Z_EeZ6qXhDesRvNFkQ"
 url = "/webhook-uploads/1461857687064/513F70gdTtL.jpg"
@@ -32,8 +36,4 @@ width = 331
 type = "image/jpeg"
 size = 65397
 
-reviews_books = ["books/hinge-&-sign-poems-1968-1993.md"]
-books_author = ["authors/heather-mchugh.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "nonfiction"
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
+reviews_books = ["books/weed-the-users-guide.md"]
+books_author = ["authors/david-schmader.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/everybody-is-dying-so-you-shouldn\u2019t-waste-people\u2019s-time.md", "notes/your-week-in-readings-the-best-literary-events-from-april-20th-26th.md", "notes/your-week-in-readings-the-best-literary-events-from-april-27---may-3.md", "notes/book-news-roundup-anybody-need-ten-thousand-dollars.md", "notes/literary-event-of-the-week-nevertold-casket-company-reading-1.md", "notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/IpyzTO3YtGGI7KndifQls92Cc2bycdC_OlOV6SqaD0YGRYjDLInkIO2vVFueaDG7u_nHOeJEAUamB9ywPSNQCyM3DA0G"
 url = "/webhook-uploads/1460352677377/weed.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 48350
 
-reviews_books = ["books/weed-the-users-guide.md"]
-books_author = ["authors/david-schmader.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/everybody-is-dying-so-you-shouldn\u2019t-waste-people\u2019s-time.md", "notes/your-week-in-readings-the-best-literary-events-from-april-20th-26th.md", "notes/your-week-in-readings-the-best-literary-events-from-april-27---may-3.md", "notes/book-news-roundup-anybody-need-ten-thousand-dollars.md", "notes/literary-event-of-the-week-nevertold-casket-company-reading-1.md", "notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th.md"]
 +++

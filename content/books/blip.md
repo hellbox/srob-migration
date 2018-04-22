@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/bookbaby.md"
 books_translator = ""
+reviews_books = ["books/blip.md"]
+books_author = ["authors/ken-boynton.md"]
+sponsorships_book = ["sponsorships/blip.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/wA69qZ8Vf82Y8y5_x22eT5k-VXhbfYkwMmOQXSH8kQ9CYx_dSOpyWw1L3A7X3LPkj2TwKwO8nwHavN3Z--5lARHksKHonA"
 url = "/webhook-uploads/1503960882995/Blip_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 7550
 
-reviews_books = ["books/blip.md"]
-books_author = ["authors/ken-boynton.md"]
-sponsorships_book = ["sponsorships/blip.md"]
-notes_relationship = ""
 +++

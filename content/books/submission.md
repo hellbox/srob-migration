@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/farrar-straus-giroux.md"
 books_translator = ""
+reviews_books = ["books/submission.md"]
+books_author = ["authors/michel-houellebecq.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/USzUMwtUUh8y71iH4yPDgtzjAXn7Hx0qK0Pdyk8at2CjUj03bH6NQCsqs5RqCciAZjLcHGQzGmBoNzWDCaTtmoJikwXM"
 url = "/webhook-uploads/1448848146925/9780374271572.jpg"
@@ -32,8 +36,4 @@ width = 267
 type = "image/jpeg"
 size = 10593
 
-reviews_books = ["books/submission.md"]
-books_author = ["authors/michel-houellebecq.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

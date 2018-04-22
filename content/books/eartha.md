@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics-books.md"
 books_translator = ""
+reviews_books = ["books/eartha.md"]
+books_author = ["authors/cathy-malkasian.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/im-being-so-manipulative-cathy-malkasians-latest-comic-is-a-polemic-against-social-media.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DLZDUWbAjFHiCTAnlumLKM7Xqlz4n5gHUUYvrvmOuYk2UlLRnsaqOQ1Of4z3OmutOWzF67ZgwSs-myINv_2V_XXPOuDx"
 url = "/webhook-uploads/1493969922178/content%3Fid%3DkuLGDAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 5304
 
-reviews_books = ["books/eartha.md"]
-books_author = ["authors/cathy-malkasian.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/im-being-so-manipulative-cathy-malkasians-latest-comic-is-a-polemic-against-social-media.md"]
 +++

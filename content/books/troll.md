@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/atlantic-monthly-press.md"
 books_translator = ""
+reviews_books = ["books/troll.md"]
+books_author = ["authors/johanna-sinisalo.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/iQt6KWEyrTslGT4uiL-Q7vR6kZ_CZggS3o9fMJtVRsOAKTiWVtl4w8i4ABvQRz8l-3VPyeBFoPJgLYm3SkSohplEzoq2"
 url = "/webhook-uploads/1445117470225/content%3Fid%3DgGeAAAAAIAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12807
 
-reviews_books = ["books/troll.md"]
-books_author = ["authors/johanna-sinisalo.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

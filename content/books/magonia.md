@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Juvenile Fiction"]
 books_publisher = "publishers/harpercollins.md"
 books_translator = ""
+reviews_books = ["books/magonia.md"]
+books_author = ["authors/maria-dahvana-headley.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/nO3bZfi3g21eCRPrzz80SLDBo5OtS2AGRCO9zxksTqWUsY3HkTsYrLEQAj53bpdYX50woghyPVVajieUmOz5XUlmS7lP"
 url = "/webhook-uploads/1442778771812/content%3Fid%3D0mXeoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12138
 
-reviews_books = ["books/magonia.md"]
-books_author = ["authors/maria-dahvana-headley.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

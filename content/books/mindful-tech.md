@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/yale-university-press.md"
 books_translator = ""
+reviews_books = ["books/mindful-tech.md"]
+books_author = ["authors/david-m-levy.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kp4TSJqTB92EgqnOAtrVtyGOfGVwm2Cco6lLLZyVaV1QV230hwOvUQkLP-rIVio2yx8nQVFCu5ClUIdVtmFdJEfQiKlk"
 url = "/webhook-uploads/1475724679746/mindful-tech.jpg"
@@ -32,8 +36,4 @@ width = 388
 type = "image/jpeg"
 size = 50727
 
-reviews_books = ["books/mindful-tech.md"]
-books_author = ["authors/david-m-levy.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

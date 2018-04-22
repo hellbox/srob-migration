@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/atria--emily-bestler-books.md"
 books_translator = ""
+reviews_books = ["books/an-honorable-man.md"]
+books_author = ["authors/paul-vidich.md"]
+sponsorships_book = ["sponsorships/an-honorable-man.md"]
+notes_relationship = ["notes/the-modern-mid-century-spy-novel.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/1b-MqfR7ry2O0k1miKy6mhhgBXxd2a98McR9qxeokPbn0QMa7fh4bKP-qgeVuhn_ctDWev0lTy4F8cYronDmDjzkQgw"
 url = "/webhook-uploads/1465603862583/an-honorable-man-9781501110382_hr.jpg"
@@ -32,8 +36,4 @@ width = 1399
 type = "image/jpeg"
 size = 244700
 
-reviews_books = ["books/an-honorable-man.md"]
-books_author = ["authors/paul-vidich.md"]
-sponsorships_book = ["sponsorships/an-honorable-man.md"]
-notes_relationship = ["notes/the-modern-mid-century-spy-novel.md"]
 +++

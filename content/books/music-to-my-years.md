@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/amphora-editions.md"
 books_translator = ""
+reviews_books = ["books/music-to-my-years.md"]
+books_author = ["authors/artie-kane.md"]
+sponsorships_book = ["sponsorships/music-to-my-years.md"]
+notes_relationship = ["notes/the-sharpest-ear-in-hollywood.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uNz3KDYCnVSNJTmyVsXmr-bexYCVCUeHv098O7gQZ1XQ3JwHXBXbocLMR113LeO0hSntVAO0iibI2IXUq8hp2d_Rk50RkA"
 url = "/webhook-uploads/1519262939546/Music%20to%20My%20Years_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 92468
 
-reviews_books = ["books/music-to-my-years.md"]
-books_author = ["authors/artie-kane.md"]
-sponsorships_book = ["sponsorships/music-to-my-years.md"]
-notes_relationship = ["notes/the-sharpest-ear-in-hollywood.md"]
 +++

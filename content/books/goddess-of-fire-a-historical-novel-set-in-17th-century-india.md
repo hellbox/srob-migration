@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/severn-house.md"
 books_translator = ""
+reviews_books = ["books/goddess-of-fire-a-historical-novel-set-in-17th-century-india.md"]
+books_author = ["authors/bharti-kirchner.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Htw9w1du8RfyOudT3-CaTb61ptWZrRc6xn9_bQ2ml2uX356FvGY5uhhURn9VVpOxN7h4rvRzlQUEF9JA097EdmR010X7PQ"
 url = "/webhook-uploads/1458283315351/content%3Fid%3DsOJirgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 46379
 
-reviews_books = ["books/goddess-of-fire-a-historical-novel-set-in-17th-century-india.md"]
-books_author = ["authors/bharti-kirchner.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

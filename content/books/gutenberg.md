@@ -24,13 +24,13 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/john-wiley-&-sons-incorporated.md"
 books_translator = ""
+reviews_books = ["books/gutenberg.md"]
+books_author = ["authors/john-man.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0wwtA726nUFeOQlrWzvaI46i8eDwkh4Agolv0miKAVF2Bk3NC7VJfaJ4pF1-ZJXH7ScfljQx829ycVM1L9bhsH4EUgd0SA"
 url = "/webhook-uploads/1439437815846/517Z5RP5J2L._SX317_BO1%2C204%2C203%2C200_.jpg"
 width = 319
 height = 474
-reviews_books = ["books/gutenberg.md"]
-books_author = ["authors/john-man.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

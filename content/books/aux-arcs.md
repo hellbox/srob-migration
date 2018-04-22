@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Poetry"]
 books_publisher = "publishers/la-alameda-press.md"
 books_translator = ""
+reviews_books = ["books/aux-arcs.md"]
+books_author = ["authors/shin-yu-pai.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/in-carkeek-park-the-words-grow-on-trees.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/CQ-tClFEeVj-37szexv-sk74E5ukIs1-gU5yAGjPWZLik9yyr3AKpBqAZP2FcN4RfQgXVl6DFG0x17TqCQoibj6rb4E"
 url = "/webhook-uploads/1440571401945/content%3Fid%3DBYz4ngEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12330
 
-reviews_books = ["books/aux-arcs.md"]
-books_author = ["authors/shin-yu-pai.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/in-carkeek-park-the-words-grow-on-trees.md"]
 +++

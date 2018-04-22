@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/dalkey-archive-press.md"
 books_translator = ""
+reviews_books = ["books/why-the-child-is-cooking-in-the-polenta.md"]
+books_author = ["authors/aglaja-veteranyi.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/95oY2KNpF72YK_o7JG5_tZ6o3mF_IipskMeBftIxc98hWEeYyvFBL-Ar-_91dG-B1G5W4R4arWxcKD7PTkmbLlEqVgZf"
 url = "/webhook-uploads/1502050379234/Why%20the%20Child%20Is%20Cooking_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 16883
 
-reviews_books = ["books/why-the-child-is-cooking-in-the-polenta.md"]
-books_author = ["authors/aglaja-veteranyi.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

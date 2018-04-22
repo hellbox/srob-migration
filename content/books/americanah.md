@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/anchor-books.md"
 books_translator = ""
+reviews_books = ["books/americanah.md"]
+books_author = ["authors/chimamanda-ngozi-adichie.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-february-8th---february-14th.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/d1vXOLvqSQQMsT1HBkMHwsDpTlVso1jijQNd6prt4Y7Jdyq1dh-20pHj03lzW96h9BUIrm4VyfCu6UHmgzotJP2p8GmG"
 url = "/webhook-uploads/1437361763807/9780307455925.jpg"
@@ -32,8 +36,4 @@ width = 259
 type = "image/jpeg"
 size = 24424
 
-reviews_books = ["books/americanah.md"]
-books_author = ["authors/chimamanda-ngozi-adichie.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-february-8th---february-14th.md"]
 +++

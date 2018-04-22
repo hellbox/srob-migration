@@ -24,6 +24,10 @@ alt_ebook_label = "Buy indie ePub ebook"
 category = "Memoir"
 books_publisher = "publishers/instant-future.md"
 books_translator = ""
+reviews_books = ["books/starvation-mode.md"]
+books_author = ["authors/elissa-washuta.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/lit-crawl-itinerary-1-meet-the-new-publishers.md", "notes/sometimes-our-writers-go-east.md", "notes/elissa-washuta-is-your-first-fremont-bridge-writer-in-residence.md", "notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jZv6WEhF-Il4HCmLEqAz_8uE5Dc5XRCJ-YYue5wQvBct86z49iouqnCg2jwIPTmy1mNRvHnSwI0rDrWxN2khIH9u0FnD"
 url = "/webhook-uploads/1435816867705/SMode.jpg"
@@ -32,8 +36,4 @@ width = 640
 type = "image/jpeg"
 size = 477233
 
-reviews_books = ["books/starvation-mode.md"]
-books_author = ["authors/elissa-washuta.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/lit-crawl-itinerary-1-meet-the-new-publishers.md", "notes/sometimes-our-writers-go-east.md", "notes/elissa-washuta-is-your-first-fremont-bridge-writer-in-residence.md", "notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award.md"]
 +++

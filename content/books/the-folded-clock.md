@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["BIOGRAPHY & AUTOBIOGRAPHY"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/the-folded-clock.md"]
+books_author = ["authors/heidi-julavits.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HIqh_3hPck5P859umyN7j1oa-_Yohtm1IOZvYHikWeV9HPNYnjV_WJJk7bY6JB6dOXHy_Ly0sp3lRcgwtbwSD4uvwlRQ"
 url = "/webhook-uploads/1454888543515/content%3Fid%3DROGSoAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 29631
 
-reviews_books = ["books/the-folded-clock.md"]
-books_author = ["authors/heidi-julavits.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

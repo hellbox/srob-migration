@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/the-intercept_.md"
 books_translator = ""
+reviews_books = ["books/the-drone-papers.md"]
+books_author = ["authors/the-intercept_.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hh31a_T5tJM3vhdFyqYSzW5ja-NjiJQiq6wFCiNgDANRDVkGspUM--NlSoIBaOtTsg818UEQE_Zp94COEmTmseHKQ2WTKg"
 url = "/webhook-uploads/1445208537980/drone-cover.png"
@@ -32,8 +36,4 @@ width = 750
 type = "image/png"
 size = 395757
 
-reviews_books = ["books/the-drone-papers.md"]
-books_author = ["authors/the-intercept_.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

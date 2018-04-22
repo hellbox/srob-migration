@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/absolutely-true-diary-of-a-part-time-indian.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/its-banned-book-week!.md", "notes/book-news-roundup-celebrate-sherman-alexie-get-a-new-job-and-change-the-font-on-your-e-reader.md", "notes/sherman-alexie-to-adapt-the-absolutely-true-diary-of-a-part-time-indian-into-a-film.md", "notes/literary-event-of-the-week-absolutely-true-diary-of-a-part-time-indian-reissue-release-party.md"]
+[[image]]
+image = ""
 +++

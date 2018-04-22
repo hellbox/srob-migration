@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Poetry"]
 books_publisher = "publishers/waywiser-press.md"
 books_translator = ""
+reviews_books = ["books/the-self-styled-no-child.md"]
+books_author = ["authors/cody-walker.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/literary-event-of-the-week-cody-walker-and-friends-at-elliott-bay-book-company.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/752FDgLOjxMvVQu280axVEod0hfkoBDIxDN6oNAacT6F7DOjbMlvj09CTWhGy0a3w7p8t6Iz_2K4iZiGqebvXmgW-a7t"
 url = "/webhook-uploads/1470429890299/content%3Fid%3DQZMNjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7519
 
-reviews_books = ["books/the-self-styled-no-child.md"]
-books_author = ["authors/cody-walker.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/literary-event-of-the-week-cody-walker-and-friends-at-elliott-bay-book-company.md"]
 +++

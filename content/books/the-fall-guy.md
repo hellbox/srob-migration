@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/w-w-norton.md"
 books_translator = ""
+reviews_books = ["books/the-fall-guy.md"]
+books_author = ["authors/james-lasdun.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/sPH0kBa2HfTiHqPY4RSrqTgS7tFyt_c-jiOLAsCQNAki0HouaQryxW1W6O9e6gn_BpPT3bwlBLr4RsZt1XkcmPAeNi5i6A"
 url = "/webhook-uploads/1480583668308/fallguy.jpg"
@@ -32,8 +36,4 @@ width = 331
 type = "image/jpeg"
 size = 41712
 
-reviews_books = ["books/the-fall-guy.md"]
-books_author = ["authors/james-lasdun.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

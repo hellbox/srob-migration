@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
+reviews_books = ["books/the-heart.md"]
+books_author = ""
+sponsorships_book = ""
+notes_relationship = ["notes/lunch-date-taking-the-heart-to-renton.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jwWuTOuqPIZF2FB6aNCtuIY-JG2DMulT1IFj0J2bycrWDRJKvCdoD-IT6ijycghNlvvAuU40bwkQNilfjIMrv-ZWM_ZrWA"
 url = "/webhook-uploads/1456701526686/content%3Fid%3DT_k6CwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 14120
 
-reviews_books = ["books/the-heart.md"]
-books_author = ""
-sponsorships_book = ""
-notes_relationship = ["notes/lunch-date-taking-the-heart-to-renton.md"]
 +++

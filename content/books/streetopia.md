@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/booklyn.md"
 books_translator = ""
+reviews_books = ["books/streetopia.md"]
+books_author = ["authors/erick-lyle.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-DE3jPA4AhTOtSTXPz66RHgSQOHB7cBhu06nOpvyRRXtWI78AoSuG5r_1aCmuNeyBAF5QXR1hisVW06ssPzF20Vt92ZJ"
 url = "/webhook-uploads/1457679274079/content%3Fid%3DWPjisgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 44727
 
-reviews_books = ["books/streetopia.md"]
-books_author = ["authors/erick-lyle.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

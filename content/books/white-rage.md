@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["History"]
 books_publisher = "publishers/bloomsbury-usa.md"
 books_translator = ""
+reviews_books = ["books/white-rage.md"]
+books_author = ["authors/carol-anderson.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/XjuGbDdTya9NtHB0r0qVrjsnZO5EcKIKzt4RK-OrvUHkdJ3ANb4aEWlzB-ypAV06WLdNsq4PnAmt4HQNTpjSBpCMDu_A"
 url = "/webhook-uploads/1509600110697/content%3Fid%3DPwDBjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8186
 
-reviews_books = ["books/white-rage.md"]
-books_author = ["authors/carol-anderson.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

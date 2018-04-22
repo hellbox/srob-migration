@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/brookings-institution-press.md"
 books_translator = ""
+reviews_books = ["books/dream-hoarders.md"]
+books_author = ["authors/richard-reeves.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/t_5nxdFYv27cb5xtcu0ua6xuYJQaGykizKLdBOHswrk9UyPQ4yhNy1HdoDLwBvHP2NAHK7_UK_7eLwAaaG8eYcUTtSw"
 url = "/webhook-uploads/1502234231244/Dream%20Hoarders_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 20885
 
-reviews_books = ["books/dream-hoarders.md"]
-books_author = ["authors/richard-reeves.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/third-place-press.md"
 books_translator = ""
+reviews_books = ["books/grit-and-roses.md"]
+books_author = ["authors/eugene-m-babb.md"]
+sponsorships_book = ["sponsorships/grit-and-roses.md"]
+notes_relationship = ["notes/its-a-musicians-life.md", "notes/one-more-day-before-the-band-stops-playing.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ZlV9o1sOXjDVbOmEcHa5v7s5Ql_PZxFedNyoqiwt1sOEmi1BUyLul0NrP8_WF3qEkAYu-7o42BGP__gA8AI-YKdKQH6ojA"
 url = "/webhook-uploads/1449960875138/content%3Fid%3DH3EgrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 15236
 
-reviews_books = ["books/grit-and-roses.md"]
-books_author = ["authors/eugene-m-babb.md"]
-sponsorships_book = ["sponsorships/grit-and-roses.md"]
-notes_relationship = ["notes/its-a-musicians-life.md", "notes/one-more-day-before-the-band-stops-playing.md"]
 +++

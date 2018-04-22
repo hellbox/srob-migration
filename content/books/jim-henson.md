@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/ballantine-books.md"
 books_translator = ""
+reviews_books = ["books/jim-henson.md"]
+books_author = ["authors/brian-jay-jones.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/itl2fYTYi5ZrVmo1LKIuP-rg87dpomvWEy4VCJPKvffsqaTWBLnwnW5l66q-YPvYhzBwJQzVzHP16g-zzEUpOo87d44"
 url = "/webhook-uploads/1505708490511/17262134.jpg"
@@ -32,8 +36,4 @@ width = 314
 type = "image/jpeg"
 size = 42092
 
-reviews_books = ["books/jim-henson.md"]
-books_author = ["authors/brian-jay-jones.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

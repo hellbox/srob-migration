@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/doubleday.md"
 books_translator = ""
+reviews_books = ["books/the-underground-railroad.md"]
+books_author = ["authors/colson-whitehead.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/this-years-pulitzer-prizes-were-exactly-right.md", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/5hgJvdnSlCpgax5YSofFIQM3NMeVBSR6I5gNK1RAAF0lMDHbO6Vw-piZT63hixMYJAQrtGdvzpehcjclRV1uIjYGkew"
 url = "/webhook-uploads/1473662001435/9780385542364.jpeg"
@@ -32,8 +36,4 @@ width = 296
 type = "image/jpeg"
 size = 61788
 
-reviews_books = ["books/the-underground-railroad.md"]
-books_author = ["authors/colson-whitehead.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/this-years-pulitzer-prizes-were-exactly-right.md", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel.md"]
 +++

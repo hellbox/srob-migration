@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "science fiction"
 books_publisher = "publishers/broadway-books.md"
 books_translator = ""
+reviews_books = ["books/doctor-who-the-drostens-curse.md"]
+books_author = ["authors/al-kennedy.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/OFBys_igtr1Zy6UYckO82k_LqcDLRpIAYGsVxlR7iJGht6kKvm4cGV2xAZdFrcdWEIISxd8YQMMxx-NOmY1NvfFBxbppfw"
 url = "/webhook-uploads/1450410035407/imgres.jpg"
@@ -32,8 +36,4 @@ width = 182
 type = "image/jpeg"
 size = 16157
 
-reviews_books = ["books/doctor-who-the-drostens-curse.md"]
-books_author = ["authors/al-kennedy.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

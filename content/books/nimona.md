@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Juvenile Fiction"]
 books_publisher = "publishers/harperteen.md"
 books_translator = ""
+reviews_books = ["books/nimona.md"]
+books_author = ["authors/noelle-stevenson.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/seattle-shows-up-for-the-2016-eisner-award-nominations.md", "notes/book-news-roundup-seattle-cleans-up-at-the-eisner-awards.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/iAjZKVY1o4a57sqwC2sWvdQhyhXu2edblbYZvUW5FGpLij0zRKA4yA-MB3bG62W7LDNSoyu6ogomCcjga_HQ8FEWrwk"
 url = "/webhook-uploads/1456937782958/content%3Fid%3DMXizoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 15329
 
-reviews_books = ["books/nimona.md"]
-books_author = ["authors/noelle-stevenson.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/seattle-shows-up-for-the-2016-eisner-award-nominations.md", "notes/book-news-roundup-seattle-cleans-up-at-the-eisner-awards.md"]
 +++

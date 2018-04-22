@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/starseed-publications.md"
 books_translator = ""
+reviews_books = ["books/lonely-refugee.md"]
+books_author = ["authors/elizabeth-c-fowler.md"]
+sponsorships_book = ["sponsorships/lonely-refugee.md"]
+notes_relationship = ["notes/a-refugee-on-two-continents-from-sydney-to-seattle.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/H2RGupJ7JI6Oe7nhiWH49GxsChGJwUpWlnplnvPvBGKgGsU09PSEZX_KpfL41gTpU0WSMWfWnU9NH5fcHVix2dtMx9naCw"
 url = "/webhook-uploads/1501693467907/Lonely%20Refugee_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 21110
 
-reviews_books = ["books/lonely-refugee.md"]
-books_author = ["authors/elizabeth-c-fowler.md"]
-sponsorships_book = ["sponsorships/lonely-refugee.md"]
-notes_relationship = ["notes/a-refugee-on-two-continents-from-sydney-to-seattle.md"]
 +++

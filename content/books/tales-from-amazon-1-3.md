@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
+reviews_books = ["books/tales-from-amazon-1-3.md"]
+books_author = ["authors/kelly-froh.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/for-the-comics-fan-who-has-everything.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6PXaM05MOlOXHe8iCwPkrXUzT6h01vL-J72bCRK_nCUhwe-qaSBkHS4G2o1yPqt2rZvbpkQz2RprQQ35B65xvxqDuBl9"
 url = "/webhook-uploads/1438149115309/il_570xN.496826470_dhtb.jpg"
@@ -32,8 +36,4 @@ width = 570
 type = "image/jpeg"
 size = 143272
 
-reviews_books = ["books/tales-from-amazon-1-3.md"]
-books_author = ["authors/kelly-froh.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/for-the-comics-fan-who-has-everything.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
+reviews_books = ["books/janesville.md"]
+books_author = ["authors/amy-goldstein.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/is-a-company-town-with-no-company-still-a-town.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cM6a6GjwG8rKEx8yNF3ZfgWSryiv6X6mS1fNV2m7Z2pEuow3axZZSerVD9xu9Ee3XFi3hzKYOujxd-ZegTuWy5mK0h0"
 url = "/webhook-uploads/1498806132933/janesville.jpeg"
@@ -32,8 +36,4 @@ width = 715
 type = "image/jpeg"
 size = 78572
 
-reviews_books = ["books/janesville.md"]
-books_author = ["authors/amy-goldstein.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/is-a-company-town-with-no-company-still-a-town.md"]
 +++

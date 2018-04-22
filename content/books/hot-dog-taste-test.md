@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
+reviews_books = ["books/hot-dog-taste-test.md"]
+books_author = ["authors/lisa-hanawalt.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4SSNhw4F99BKG_2-0Gw1WDMi2u6tlz0afmvX0ajgMTqQmLHwsMmpjgWExMzDALTnpq9ga0e0AWmj2-rH0i-MJPTroPn9"
 url = "/webhook-uploads/1467877826554/hotdog.jpg"
@@ -32,8 +36,4 @@ width = 311
 type = "image/jpeg"
 size = 21314
 
-reviews_books = ["books/hot-dog-taste-test.md"]
-books_author = ["authors/lisa-hanawalt.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

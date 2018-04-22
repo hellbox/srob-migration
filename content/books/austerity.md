@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/new-internationalist-.md"
 books_translator = ""
+reviews_books = ["books/austerity.md"]
+books_author = ["authors/kerry-anne-mendoza.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/edoPxDZBBmv1Bj4w00L8pMqti_FvcPg9SBzPUIKyP7ybh_Xk-LW9skDgn7qG2JFjWib1sN_pdg_FTPrgeV-QhjU94OYV"
 url = "/webhook-uploads/1435299141007/9k%3D.jpg"
@@ -32,8 +36,4 @@ width = 221
 type = "image/jpeg"
 size = 19535
 
-reviews_books = ["books/austerity.md"]
-books_author = ["authors/kerry-anne-mendoza.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

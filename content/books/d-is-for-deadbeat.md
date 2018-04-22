@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/st-martin&x27;s-press.md"
 books_translator = ""
+reviews_books = ["books/d-is-for-deadbeat.md"]
+books_author = ["authors/sue-grafton.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tvfHskdRv_y5m77x1vh_dvsGsexBuWoPLdvYnUkVRDVxq12wrtsDW4YEXvzXfHEUwSsrf1-wRujPQJBzqlhNroOSK3mP"
 url = "/webhook-uploads/1514875215045/deadbeat.jpg"
@@ -32,8 +36,4 @@ width = 242
 type = "image/jpeg"
 size = 18202
 
-reviews_books = ["books/d-is-for-deadbeat.md"]
-books_author = ["authors/sue-grafton.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

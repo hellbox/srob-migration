@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/southern-indiana-review-press.md"
 books_translator = ""
+reviews_books = ["books/the-multitude.md"]
+books_author = ["authors/hannah-faith-notess.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/7Rfs76l4OT--xBcBXXobP5oUlkmwTNiMqcr6bhzlBOsNrl0MQduifp8x8EgrrfbO65VSXFYNPpTg-H53m2QVmNM-ItE"
 url = "/webhook-uploads/1466750214466/multitude.jpg"
@@ -32,8 +36,4 @@ width = 331
 type = "image/jpeg"
 size = 50416
 
-reviews_books = ["books/the-multitude.md"]
-books_author = ["authors/hannah-faith-notess.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 +++

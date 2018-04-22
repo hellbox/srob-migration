@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/chin-music.md"
 books_translator = ""
+reviews_books = ["books/king-of-the-worlds.md"]
+books_author = ["authors/m-thomas-gammarino.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/every-teleportation-is-a-little-death-talking-with-m-thomas-gammarino-about-sci-fi-book-design-and-epistemology.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Y2Mgujo0tSwpsTwcVoOayrWa7zkfHcd9DaRm7hmOHq9MbsgU_z8RSuQBRy5v36vXwW-7wFDbBnjIccSUSEuFDA9htxs"
 url = "/webhook-uploads/1464761885722/content%3Fid%3Dbz7_sgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7317
 
-reviews_books = ["books/king-of-the-worlds.md"]
-books_author = ["authors/m-thomas-gammarino.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/every-teleportation-is-a-little-death-talking-with-m-thomas-gammarino-about-sci-fi-book-design-and-epistemology.md"]
 +++

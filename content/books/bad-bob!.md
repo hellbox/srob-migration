@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/chick-publications.md"
 books_translator = ""
+reviews_books = ["books/bad-bob!.md"]
+books_author = ["authors/jack-chick.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/letter-to-the-editor-if-laughing-at-jack-chick-is-wrong-i-dont-wanna-be-right.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/anmGOudpmQEI39V-TbCtxf8z6BVH2BSuSUMKEj4Y6LVCh8i_LjZr5BtTAWleuzjuwyp6yNyv07J4Y5vx-1zHD_hYMsks"
 url = "/webhook-uploads/1477542778990/bad%20bob.gif"
@@ -32,8 +36,4 @@ width = 231
 type = "image/gif"
 size = 13048
 
-reviews_books = ["books/bad-bob!.md"]
-books_author = ["authors/jack-chick.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/letter-to-the-editor-if-laughing-at-jack-chick-is-wrong-i-dont-wanna-be-right.md"]
 +++

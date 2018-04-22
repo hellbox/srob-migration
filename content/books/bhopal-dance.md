@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/fc2.md"
 books_translator = ""
+reviews_books = ["books/bhopal-dance.md"]
+books_author = ["authors/jennifer-natalya-fink.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HoBShGNc0zCjQDXw0k9RLIR3lvSdx0FDDM3vABisC33lwpQoUDbgIaVTmaGec6mhbZXL8mdR7F8MMyk7-mC3FtbqNvgA"
 url = "/webhook-uploads/1521521250849/bhopaldance.jpg"
@@ -32,8 +36,4 @@ width = 323
 type = "image/jpeg"
 size = 41953
 
-reviews_books = ["books/bhopal-dance.md"]
-books_author = ["authors/jennifer-natalya-fink.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

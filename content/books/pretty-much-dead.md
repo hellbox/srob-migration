@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/ladybox-books.md"
 books_translator = ""
+reviews_books = ["books/pretty-much-dead.md"]
+books_author = ["authors/daphne-gotlieb.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/l-DeSzpZ2vWByGcODWJYtlp4SzNhQpZRPQpXCuFy73dZr35RPIioQnuoMRn24aBfwgvI8TVCUsXPcBMOTAm0lIczI8wV"
 url = "/webhook-uploads/1468555330747/prettymuchdead.jpg"
@@ -32,8 +36,4 @@ width = 313
 type = "image/jpeg"
 size = 52563
 
-reviews_books = ["books/pretty-much-dead.md"]
-books_author = ["authors/daphne-gotlieb.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

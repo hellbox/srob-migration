@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/red-hen-press.md"
 books_translator = ""
+reviews_books = ["books/water-&amp;-salt.md"]
+books_author = ["authors/lena-khalaf-tuffaha-.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/event-of-the-week-lena-khalaf-tuffaha-at-elliott-bay-book-company.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ybnuLXcarklt1BTi6d7A2WdLdNWTDYM_zasUAg1vIhYM3N4xvFz5e6jAyw8dYpUPdnApOnhIbGAZrSIbDQi2fRU4RgNW"
 url = "/webhook-uploads/1492048547309/waterandsalt.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 38260
 
-reviews_books = ["books/water-&amp;-salt.md"]
-books_author = ["authors/lena-khalaf-tuffaha-.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/event-of-the-week-lena-khalaf-tuffaha-at-elliott-bay-book-company.md"]
 +++

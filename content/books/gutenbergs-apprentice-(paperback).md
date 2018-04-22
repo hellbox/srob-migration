@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/harper-perennial.md"
 books_translator = ""
+reviews_books = ["books/gutenbergs-apprentice-(paperback).md"]
+books_author = ["authors/alix-christie.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/_jSpu5EeyAIyMqJ2cjnrWtFOCHjSyxl4CucpIgYm7WDLGfC8xqO67ZSQg-N0tXM1EUuqs069gbHVeyGcceC_rFoe-GDg"
 url = "/webhook-uploads/1439742821913/91SllUhXmFL.jpg"
@@ -32,8 +36,4 @@ width = 1600
 type = "image/jpeg"
 size = 949280
 
-reviews_books = ["books/gutenbergs-apprentice-(paperback).md"]
-books_author = ["authors/alix-christie.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

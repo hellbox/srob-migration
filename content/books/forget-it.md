@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/black-radish-press.md"
 books_translator = ""
+reviews_books = ["books/forget-it.md"]
+books_author = ["authors/anastacia-renee.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/no-pastors-or-pews-talking-with-anastacia-rene\u00e9.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BtA16Qgk9C_QG0hVv6RY3ewJBd7fzaA_vM9j8ihAoioABuMV_TKrJudJp2lc6iQvelQCKqAPxUvVdgQ-WmVYi75OHPvB"
 url = "/webhook-uploads/1500157802293/forget-it-cover_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 38316
 
-reviews_books = ["books/forget-it.md"]
-books_author = ["authors/anastacia-renee.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/no-pastors-or-pews-talking-with-anastacia-rene\u00e9.md"]
 +++

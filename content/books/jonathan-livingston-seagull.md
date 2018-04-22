@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/jonathan-livingston-seagull.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-jonathan-livingston-see-ya.md"]
+[[image]]
+image = ""
 +++

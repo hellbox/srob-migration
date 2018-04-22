@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Political Science"]
 books_publisher = "publishers/seven-stories-press.md"
 books_translator = ""
+reviews_books = ["books/requiem-for-the-american-dream.md"]
+books_author = ["authors/noam-chomsky.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Y4Gosu_nsqcbEywLouoj1qRFB0EcK7nlAfWeRZVU8wIb7I51bX4xtdusiW4u48dSrxqHNzBv-HvYXYEYiRAec6GVF8s"
 url = "/webhook-uploads/1507181403016/content%3Fid%3DJcigDAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11391
 
-reviews_books = ["books/requiem-for-the-american-dream.md"]
-books_author = ["authors/noam-chomsky.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

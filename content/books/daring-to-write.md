@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/university-of-georgia-press.md"
 books_translator = ""
+reviews_books = ["books/daring-to-write.md"]
+books_author = ["authors/erika-m-martinez.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2R3jrli59HFVHuf8-4HMivFZLLjtycg43C04BrCZ-MpOTOC70uWgvL65Cei6n9USbIki5gwML85rCAuk2U5KhvLtVSCm"
 url = "/webhook-uploads/1464669027186/7142324uPnL.jpg"
@@ -32,8 +36,4 @@ width = 667
 type = "image/jpeg"
 size = 175141
 
-reviews_books = ["books/daring-to-write.md"]
-books_author = ["authors/erika-m-martinez.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

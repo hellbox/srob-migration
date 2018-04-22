@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/algonquin-books.md"
 books_translator = ""
+reviews_books = ["books/this-is-your-life-harriet-chance!.md"]
+books_author = ["authors/jonathan-evison.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/ask-jonathan-evison-anything.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tJ5C5kFebLxRAX1Y6A1NQ6GcZNnxewm34-1R0UCwGlXLzMHuuyY5IEkLAhlpg0hTKCWeq_LitPeooFu0F1b3WP6zuSFr"
 url = "/webhook-uploads/1441675587675/content%3Fid%3DI4cdrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 39281
 
-reviews_books = ["books/this-is-your-life-harriet-chance!.md"]
-books_author = ["authors/jonathan-evison.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/ask-jonathan-evison-anything.md"]
 +++

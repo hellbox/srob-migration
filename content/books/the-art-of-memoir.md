@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Literary Criticism"]
 books_publisher = "publishers/harper.md"
 books_translator = ""
+reviews_books = ["books/the-art-of-memoir.md"]
+books_author = ["authors/mary-karr.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/zNx5SVERCU_qZ5V8zfRAMFuDkiG4dpxYghf8Rkyuo8S85KYvriFE8x4krryIAjJe9rA6AkkD6HC1DPGtPK-g3A_ctSmPhA"
 url = "/webhook-uploads/1441925581997/51vsbCa7mKL._SX329_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 331
 type = "image/jpeg"
 size = 31073
 
-reviews_books = ["books/the-art-of-memoir.md"]
-books_author = ["authors/mary-karr.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

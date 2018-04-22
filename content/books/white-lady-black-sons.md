@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "memoir"
 books_publisher = "publishers/self-published.md"
 books_translator = ""
+reviews_books = ["books/white-lady-black-sons.md"]
+books_author = ["authors/lisa-richesson.md"]
+sponsorships_book = ["sponsorships/white-lady-black-sons.md"]
+notes_relationship = ["notes/talking-about-race-in-seattle-through-personal-experience.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/u4YM-H9AIMUg2ACPFtCsRPT_wOOBSxOGACVVaPB0xYqHbg3QGiPbHYz46JKhEvG0M8A6c-Ra81I7IP6eFrTI6TxzHxA"
 url = "/webhook-uploads/1463323644852/white-lady-black-sons.png"
@@ -32,8 +36,4 @@ width = 360
 type = "image/png"
 size = 135296
 
-reviews_books = ["books/white-lady-black-sons.md"]
-books_author = ["authors/lisa-richesson.md"]
-sponsorships_book = ["sponsorships/white-lady-black-sons.md"]
-notes_relationship = ["notes/talking-about-race-in-seattle-through-personal-experience.md"]
 +++

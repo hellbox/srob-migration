@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Architecture"]
 books_publisher = "publishers/island-press.md"
 books_translator = ""
+reviews_books = ["books/seeing-the-better-city.md"]
+books_author = ["authors/charles-r-wolfe.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/z_len0MhCmC1dJsB5vMVU8MNGN1n2Z8tVOeE0zXzxGNlnU1TQmKKVeI1b9XbvfrmYcsgMx4U8Z3ibsGy06UBE_IAIeCx"
 url = "/webhook-uploads/1504243173279/content%3Fid%3DqtO1DQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11318
 
-reviews_books = ["books/seeing-the-better-city.md"]
-books_author = ["authors/charles-r-wolfe.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

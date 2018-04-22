@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/2000-ad.md"
 books_translator = ""
+reviews_books = ["books/judge-dredd-case-files-01.md"]
+books_author = ["authors/john-wagner.md", "authors/pat-mills.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QZlO9zIaESV7ZGq_rRub7578pqJvtzTyQNrP-MukktoAcms7qS18_BN_8okQziokPqr_aGSRpSflf0j7vEPU6652NXM"
 url = "/webhook-uploads/1470637153095/81%2BC7u2KH9L.jpg"
@@ -32,8 +36,4 @@ width = 1186
 type = "image/jpeg"
 size = 450544
 
-reviews_books = ["books/judge-dredd-case-files-01.md"]
-books_author = ["authors/john-wagner.md", "authors/pat-mills.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

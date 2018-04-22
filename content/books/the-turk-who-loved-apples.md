@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/da-capo.md"
 books_translator = ""
+reviews_books = ["books/the-turk-who-loved-apples.md"]
+books_author = ["authors/matt-gross.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/D8EPYIBJFPCKsRicqwIRvbhtNvHwa5MI3IX9GbazVbGJuVBpOoyG0eZWf4ytgtbNu1TuPlsdyS1sAEFfjAIHbu7RoQhj"
 url = "/webhook-uploads/1473129787192/turk.jpg"
@@ -32,8 +36,4 @@ width = 328
 type = "image/jpeg"
 size = 37609
 
-reviews_books = ["books/the-turk-who-loved-apples.md"]
-books_author = ["authors/matt-gross.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

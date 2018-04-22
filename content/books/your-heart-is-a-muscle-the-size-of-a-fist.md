@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/lee-boudreaux-books.md"
 books_translator = ""
+reviews_books = ["books/your-heart-is-a-muscle-the-size-of-a-fist.md"]
+books_author = ["authors/sunil-yapa.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/0f6LF9ZQOPzmtOCrXkf5rhSvHxBM0wPlb1P6bfkfObGKDuHx4qcTQ8DF2S_C8M2e1bR1ozN9hnLCScLQN6vwqpMYJZBO"
 url = "/webhook-uploads/1456473173568/content%3Fid%3DxqNdrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 30153
 
-reviews_books = ["books/your-heart-is-a-muscle-the-size-of-a-fist.md"]
-books_author = ["authors/sunil-yapa.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

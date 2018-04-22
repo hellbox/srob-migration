@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/letters-from-the-hellbox-press.md"
 books_translator = ""
+reviews_books = ["books/california-four-oclock.md"]
+books_author = ["authors/martin-mcclellan.md"]
+sponsorships_book = ["sponsorships/california-four-oclock.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uul5Nl4UGdf0nE4-zb0E5JHP1tLuE8bV79TGml-31OdstgxedR5EmPoYFuUxMunUdIpYwjJjCYcsdJ6CXFSmKxn84m0gLQ"
 url = "/webhook-uploads/1482697308137/california-four-oclock.jpg"
@@ -32,8 +36,4 @@ width = 1654
 type = "image/jpeg"
 size = 965355
 
-reviews_books = ["books/california-four-oclock.md"]
-books_author = ["authors/martin-mcclellan.md"]
-sponsorships_book = ["sponsorships/california-four-oclock.md"]
-notes_relationship = ""
 +++

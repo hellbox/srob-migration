@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-three-einsteins.md"]
 books_author = ["authors/sarah-galvin.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-nevertold-casket-company-reading-1.md"]
+[[image]]
+image = ""
 +++

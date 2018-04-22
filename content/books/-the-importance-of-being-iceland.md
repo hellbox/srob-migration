@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/mit-press.md"
 books_translator = ""
+reviews_books = ["books/-the-importance-of-being-iceland.md"]
+books_author = ["authors/eileen-myles.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qygZqjRuubRnQHnpoOyG7Hre5WEBONHv6xA7IpOyqOgbMdWpXUWUG9HjHpjuws4z37pfLsFNYGrGFna7s3uv54Xv51KL"
 url = "/webhook-uploads/1444620512447/9781584350668.jpg"
@@ -32,8 +36,4 @@ width = 267
 type = "image/jpeg"
 size = 23132
 
-reviews_books = ["books/-the-importance-of-being-iceland.md"]
-books_author = ["authors/eileen-myles.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

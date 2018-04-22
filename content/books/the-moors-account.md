@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-moors-account.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/congratulations-to-laila-lalami.md"]
+[[image]]
+image = ""
 +++

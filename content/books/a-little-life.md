@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/doubleday.md"
 books_translator = ""
+reviews_books = ["books/a-little-life.md"]
+books_author = ["authors/hanya-yanagihara.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/a-big-feud-over-a-little-life.md", "notes/man-booker-prize-shortlist-announced.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hKvyVj64DQt9fPQUtj-UfabwHDvFViiHHEHvr_L3tIH2W1nRVnQp8zu9UztSwso4pKlooBRyDHrwF5yro1LcxVNGNUU"
 url = "/webhook-uploads/1468945718451/content%3Fid%3DrKy7oAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10861
 
-reviews_books = ["books/a-little-life.md"]
-books_author = ["authors/hanya-yanagihara.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/a-big-feud-over-a-little-life.md", "notes/man-booker-prize-shortlist-announced.md"]
 +++

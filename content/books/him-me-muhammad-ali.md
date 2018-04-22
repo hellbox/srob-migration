@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/sarabande-books.md"
 books_translator = ""
+reviews_books = ["books/him-me-muhammad-ali.md"]
+books_author = ["authors/randa-jarrar.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/lunch-date-healthy-eating-with-a-collection-of-stories-about-muslim-women.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6UPNz7_DJ_kHIy2W9nY4kG1R8LtCRGNOS6pM61YwWdME2a24l7lZncHD9d4Uz8ckfzE03_pVn42w08lWsJuOyhc0ARXx0g"
 url = "/webhook-uploads/1489354835449/content%3Fid%3DUliFjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 17885
 
-reviews_books = ["books/him-me-muhammad-ali.md"]
-books_author = ["authors/randa-jarrar.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/lunch-date-healthy-eating-with-a-collection-of-stories-about-muslim-women.md"]
 +++

@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/ms-marvel.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-let\u2019s-sell-some-action-figures!.md", "notes/i-hid-both-pregnancies-from-my-publishers-because-i-knew-it-would-affect-my-chances-of-getting-work.md", "notes/g-willow-wilson-on-commercial-art-ethics-and-donald-trump.md", "notes/ms-marvel-wins-international-comics-award.md", "notes/book-news-roundup-seattles-housing-crisis-in-comic-form.md", "notes/seattle-shows-up-for-the-2016-eisner-award-nominations.md"]
+[[image]]
+image = ""
 +++

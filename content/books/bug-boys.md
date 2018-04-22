@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/czap-books.md"
 books_translator = ""
+reviews_books = ["books/bug-boys.md"]
+books_author = ["authors/laura-knetzger.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/bug-boys-release-party-is-this-sunday-1-3pm.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Fj1JY5hvGfBU5xmri9g4wAh25TPJU85xF_s_7RdqxDVapB16I1sMPiLI4coSng2swy2QoYek7poI56ftN14F624V2X8"
 url = "/webhook-uploads/1446527400728/tumblr_nx70d10Fjg1unewf6o5_1280.png"
@@ -32,8 +36,4 @@ width = 900
 type = "image/png"
 size = 1290308
 
-reviews_books = ["books/bug-boys.md"]
-books_author = ["authors/laura-knetzger.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/bug-boys-release-party-is-this-sunday-1-3pm.md"]
 +++

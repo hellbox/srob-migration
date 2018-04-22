@@ -24,14 +24,14 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/serving-house-books.md"
 books_translator = ""
+reviews_books = ["books/nine-facts-that-can-change-your-life.md"]
+books_author = ["authors/ronna-wineberg.md"]
+sponsorships_book = ["sponsorships/nine-facts-that-can-change-your-life.md"]
+notes_relationship = ["notes/a-full-short-story-from-a-talented-writer.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BGdrSXPbVCEc2d1mV7VNZvOt-EvDGZPTInQZu8apZffJx3a1VZnYj_XxNzIgYPAw9ndb2OjohYDHdGPYmnDrqmnJCj7i"
 url = "/webhook-uploads/1477176702774/nine-facts.jpg"
 type = "image/jpeg"
 size = 868962
 
-reviews_books = ["books/nine-facts-that-can-change-your-life.md"]
-books_author = ["authors/ronna-wineberg.md"]
-sponsorships_book = ["sponsorships/nine-facts-that-can-change-your-life.md"]
-notes_relationship = ["notes/a-full-short-story-from-a-talented-writer.md"]
 +++

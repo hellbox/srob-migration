@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["House & Home"]
 books_publisher = "publishers/random-house.md"
 books_translator = ""
+reviews_books = ["books/the-life-changing-magic-of-tidying.md"]
+books_author = ["authors/marie-kondo.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/U7xPe-yiYdbWS8z7mVHttOobgW0B7P5bh6KC5pv2-o4NDu5KbcXkgnvw7PzIIVQFDpL6G-xTz6vdGVEdjayoF5Hcm3qr"
 url = "/webhook-uploads/1458049838525/content%3Fid%3Dom6DCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 5668
 
-reviews_books = ["books/the-life-changing-magic-of-tidying.md"]
-books_author = ["authors/marie-kondo.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-important-business-ladies-guide-to-important-business-for-ladies.md"]
 books_author = ["authors/abigail-rae-young.md", "authors/jennie-yim.md", "authors/emily-alden-foster.md"]
 sponsorships_book = ""
 notes_relationship = ""
+[[image]]
+image = ""
 +++

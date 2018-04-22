@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/georges-run.md"]
 books_author = ["authors/henry-chamberlain.md"]
 sponsorships_book = ""
 notes_relationship = ""
+[[image]]
+image = ""
 +++

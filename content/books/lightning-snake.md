@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Zine/comic"
 books_publisher = "publishers/cold-cube-press.md"
 books_translator = ""
+reviews_books = ["books/lightning-snake.md"]
+books_author = ["authors/jason-t-miles.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/JFD5oFHB073JTDmSI_tPzCewnigJbSG9WJksl7fJNjatSu-CmXZtFEQoVSHiiFboYAAyiK9Rzhz5T0Z8zLP324_gtFbV"
 url = "/webhook-uploads/1496815577144/LS-1%20(1).jpg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 29923
 
-reviews_books = ["books/lightning-snake.md"]
-books_author = ["authors/jason-t-miles.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

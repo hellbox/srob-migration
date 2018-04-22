@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/university-of-washington-press.md"
 books_translator = ""
+reviews_books = ["books/a-time-to-rise.md"]
+books_author = ["authors/rene-ciria-cruz.md", "authors/cindy-domingo.md", "authors/bruce-occena.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/I5rpDiro8_cLVg7qUrXjgCPd2OMqxrFS6kGhiFAtoue_gavIGImKtltEnQ-wqV-2cDyYZdDY3hoViqsux0BCYrhA--s"
 url = "/webhook-uploads/1519619548005/A%20Time%20to%20Rise.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 35505
 
-reviews_books = ["books/a-time-to-rise.md"]
-books_author = ["authors/rene-ciria-cruz.md", "authors/cindy-domingo.md", "authors/bruce-occena.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

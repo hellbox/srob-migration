@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/seven-stories-press.md"
 books_translator = ""
+reviews_books = ["books/snowden.md"]
+books_author = ["authors/ted-rall.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thursday-comics-hangover-bernie-sanders-comic-book-hero.md", "notes/help-ted-rall-fight-the-la-times.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-7ooyakJF_1JCigULoKfrh-fk5eHwEyOQ-MMaJ5qlfdsxLK69cRvOckqOJAj-9ZfyCQD4aTjUI9PEHwblkXV0vlQ5YDY"
 url = "/webhook-uploads/1443408344820/content%3Fid%3DJAnSrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11115
 
-reviews_books = ["books/snowden.md"]
-books_author = ["authors/ted-rall.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thursday-comics-hangover-bernie-sanders-comic-book-hero.md", "notes/help-ted-rall-fight-the-la-times.md"]
 +++

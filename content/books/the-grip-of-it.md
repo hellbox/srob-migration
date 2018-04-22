@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["FICTION"]
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
+reviews_books = ["books/the-grip-of-it.md"]
+books_author = ["authors/jac-jemc.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/EtBaRXFhCG0UubL526z4SapqUr3q4cSSWkoNmRb8jp-7lYum1mKV_3Uym5I6px9H4iiGumiU16__dEgUU0KWZ65SSlhpcg"
 url = "/webhook-uploads/1502264235174/content%3Fid%3DOl4qDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9152
 
-reviews_books = ["books/the-grip-of-it.md"]
-books_author = ["authors/jac-jemc.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

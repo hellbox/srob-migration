@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/floating-bridge-press.md"
 books_translator = ""
+reviews_books = ["books/yesterday-the-bees.md"]
+books_author = ["authors/maya-jewell-zeller.md"]
+sponsorships_book = ["sponsorships/yesterday-the-bees.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BGVQhLTFpFylhPFoM2AbfnqNy_ls0b6x7gyFT-sqkXKt5yqvscuzcZVLl-kYT5e7vIfxZ4VVU9r5-j4vDMVH6eb-dg"
 url = "/webhook-uploads/1459661489046/YesterdayTheBees_Final_WithBleed.png"
@@ -32,8 +36,4 @@ width = 896
 type = "image/png"
 size = 2071188
 
-reviews_books = ["books/yesterday-the-bees.md"]
-books_author = ["authors/maya-jewell-zeller.md"]
-sponsorships_book = ["sponsorships/yesterday-the-bees.md"]
-notes_relationship = ""
 +++

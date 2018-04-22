@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/the-peripheral.md"]
+books_author = ""
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/mRviek76k54kXIufnCFDEGzXCL805qJsg-DO_j6gf3gFlZDyymBRq9u_NrkNHpNxkh6h1YkdQiPSxGPsifWGwhlrbIs"
 url = "/webhook-uploads/1433521358452/content%3Fid%3DVDEqoAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8227
 
-reviews_books = ["books/the-peripheral.md"]
-books_author = ""
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/greenleaf-book-group-press.md"
 books_translator = ""
+reviews_books = ["books/the-telling-image.md"]
+books_author = ["authors/lois-farfel-stark.md"]
+sponsorships_book = ["sponsorships/the-telling-image.md"]
+notes_relationship = ["notes/look-again.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/wQfBvrkJpdzT448GfC4i9BpK7DIrg3AJ-VBoClIZukanhbglDgRXcFgiKUosCKgWW-isbFJ0lwBEhyN732gD6eK_MVk"
 url = "/webhook-uploads/1519883350402/Telling%20Image_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 20738
 
-reviews_books = ["books/the-telling-image.md"]
-books_author = ["authors/lois-farfel-stark.md"]
-sponsorships_book = ["sponsorships/the-telling-image.md"]
-notes_relationship = ["notes/look-again.md"]
 +++

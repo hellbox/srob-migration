@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/bobtimystic-books.md"
 books_translator = ""
+reviews_books = ["books/the-cant-idates.md"]
+books_author = ["authors/craig-tomashoff.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DGc6N84YrXie-ERuc-F5IKwPjhwuoCwsesLD2rdXB68kXcNQTZFdjUQ79QhHfeJGasC0_fw54yxrh4vKK0awubVvxevC"
 url = "/webhook-uploads/1474838319193/cantidates.jpg"
@@ -32,8 +36,4 @@ width = 324
 type = "image/jpeg"
 size = 50814
 
-reviews_books = ["books/the-cant-idates.md"]
-books_author = ["authors/craig-tomashoff.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Education"]
 books_publisher = "publishers/phoenix-flair-press.md"
 books_translator = ""
+reviews_books = ["books/catherines-pascha.md"]
+books_author = ["authors/charlotte-riggle.md"]
+sponsorships_book = ["sponsorships/catherines-pascha.md"]
+notes_relationship = ["notes/easter-in-the-middle-of-the-night.md", "notes/isnt-easter-already-past-not-if-youre-in-the-orthodox-church.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QF9rcaI2mg7Zs4u6kcecBiv01k5MSb2xUDlgkjCxYwvPw9PHvSR-HuuaKhRYVKsnn3JaMnQu_cfEdvn8KOIj_frJvpw"
 url = "/webhook-uploads/1457236774318/content%3Fid%3DvGoCrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 13938
 
-reviews_books = ["books/catherines-pascha.md"]
-books_author = ["authors/charlotte-riggle.md"]
-sponsorships_book = ["sponsorships/catherines-pascha.md"]
-notes_relationship = ["notes/easter-in-the-middle-of-the-night.md", "notes/isnt-easter-already-past-not-if-youre-in-the-orthodox-church.md"]
 +++

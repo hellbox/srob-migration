@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/farrar-straus-giroux.md"
 books_translator = ""
+reviews_books = ["books/give-us-the-ballot.md"]
+books_author = ["authors/ari-berman.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/voting-is-power-a-conversation-with-ari-berman-about-the-struggle-for-voting-rights-in-america.md", "notes/wear-your-i-voted-stickers-to-town-hall-tonight.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/7oQ9ES0nQ0jWn0VGxmvakll5K8rFo6CoCOsMVMtTxuOBfxxkaEpAQspCNs65YRJnEYrfFzu8YfTaGTYGHoHKE8SPmY3x"
 url = "/webhook-uploads/1446575812466/9780374158279.jpg"
@@ -32,8 +36,4 @@ width = 265
 type = "image/jpeg"
 size = 25785
 
-reviews_books = ["books/give-us-the-ballot.md"]
-books_author = ["authors/ari-berman.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/voting-is-power-a-conversation-with-ari-berman-about-the-struggle-for-voting-rights-in-america.md", "notes/wear-your-i-voted-stickers-to-town-hall-tonight.md"]
 +++

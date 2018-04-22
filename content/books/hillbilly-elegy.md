@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "memoir"
 books_publisher = "publishers/harper.md"
 books_translator = ""
+reviews_books = ["books/hillbilly-elegy.md"]
+books_author = ["authors/jd-vance.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thank-you-for-coming-to-the-first-reading-through-it-book-club.md", "notes/book-news-roundup-politicians-we-love.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Lt8vySHsSHacsK1qURL1b0WLvh8EG19XIFS7L1MJcmes8KU0OUTgSD7RJ4UhQbju0zgWvgj6_MX9Si8PaMJo4Im4dd-r"
 url = "/webhook-uploads/1479832355339/27161156.jpg"
@@ -32,8 +36,4 @@ width = 264
 type = "image/jpeg"
 size = 17647
 
-reviews_books = ["books/hillbilly-elegy.md"]
-books_author = ["authors/jd-vance.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thank-you-for-coming-to-the-first-reading-through-it-book-club.md", "notes/book-news-roundup-politicians-we-love.md"]
 +++

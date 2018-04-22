@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/harper.md"
 books_translator = ""
+reviews_books = ["books/drawing-blood.md"]
+books_author = ["authors/molly-crabapple.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/RnSjUyfDJRByCLGfG3aprPUEltLuSGo4BiiTwXnQMNFeHjqffcfWyCzOFNYGbMUXpcVtzoJpKAgj5c18XOGFQYtLKTQ"
 url = "/webhook-uploads/1449463824446/content%3Fid%3Dx0z6rQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 47085
 
-reviews_books = ["books/drawing-blood.md"]
-books_author = ["authors/molly-crabapple.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

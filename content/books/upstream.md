@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/ballantine-books.md"
 books_translator = ""
+reviews_books = ["books/upstream.md"]
+books_author = ["authors/langdon-cook.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/7Jbr8N8wvJ6Fdf8E844si9wkhp2Z1BLtE4BVBYlDz1rSOh7ciA701g22rZI53rJHjMJ7ZH43h7_0cO4I35fcWvHkeAnwEA"
 url = "/webhook-uploads/1498430541667/upstream.jpg"
@@ -32,8 +36,4 @@ width = 263
 type = "image/jpeg"
 size = 25177
 
-reviews_books = ["books/upstream.md"]
-books_author = ["authors/langdon-cook.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

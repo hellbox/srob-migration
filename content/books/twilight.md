@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/twilight.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/stephenie-meyer-wrote-a-gender-flipped-version-of-twilight.md"]
+[[image]]
+image = ""
 +++

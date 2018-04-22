@@ -24,14 +24,14 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/crown.md"
 books_translator = ""
+reviews_books = ["books/vurt.md"]
+books_author = ["authors/jeff-noon.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ycT8ZFW8IQm-7J2Hjzpxxw_u5QwMwHRMk7kh9igJjhbpj_kP_sxSG4hk0I_URySkFPVjd1GSmdpDPQ8qNWWec751cAQ"
 url = "/webhook-uploads/1518996167549/Vurt.jpeg"
 type = "image/jpeg"
 size = 15666
 
-reviews_books = ["books/vurt.md"]
-books_author = ["authors/jeff-noon.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

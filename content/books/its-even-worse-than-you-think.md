@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Political Science"]
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
+reviews_books = ["books/its-even-worse-than-you-think.md"]
+books_author = ["authors/david-cay-johnston.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qg6iBSTD2RoWdXJvBD0bm-4SheOYWfXvohYFxWOWs3CIipHcHC60TMGDov8oYhDfmdnYSH2uCZLMr2fmLsoczCumVpQ"
 url = "/webhook-uploads/1516583541208/worse.jpg"
@@ -32,8 +36,4 @@ width = 180
 type = "image/jpeg"
 size = 8663
 
-reviews_books = ["books/its-even-worse-than-you-think.md"]
-books_author = ["authors/david-cay-johnston.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

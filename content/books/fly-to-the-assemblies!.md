@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/third-place-press.md"
 books_translator = ""
+reviews_books = ["books/fly-to-the-assemblies!.md"]
+books_author = ["authors/marcus-harrison-green.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/fly-to-the-assemblies!-calls-seattle-to-action.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/sUq3B5OVUAnbSt2ZjQxRU80D4ZDqNXZB37-C3FiEs3PFi1RzAy7DiMGPtjiBwmBBhDlGeRK4mm52Al4zpBIZg2piVVpc"
 url = "/webhook-uploads/1508528581536/Fly%20to%20the%20Assemblies_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 113354
 
-reviews_books = ["books/fly-to-the-assemblies!.md"]
-books_author = ["authors/marcus-harrison-green.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/fly-to-the-assemblies!-calls-seattle-to-action.md"]
 +++

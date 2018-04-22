@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/epicenter-press.md"
 books_translator = ""
+reviews_books = ["books/inside.md"]
+books_author = ["authors/susan-marie-conrad.md"]
+sponsorships_book = ["sponsorships/inside-one-woman\u2019s-journey-though-the-inside-passage.md"]
+notes_relationship = ["notes/an-adventure-in-northwest-waters.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pFy13Tl5Xp8GGKPs_e0SSAb58KjqpiFIywa4j9UlFRjTByw-RH4v19DMFPfr1MA_5CWDd3cHJNhJWnwA6pMV8PIx7XEf"
 url = "/webhook-uploads/1479442719782/INSIDE%20Cover.jpg"
@@ -32,8 +36,4 @@ width = 2333
 type = "image/jpeg"
 size = 3020974
 
-reviews_books = ["books/inside.md"]
-books_author = ["authors/susan-marie-conrad.md"]
-sponsorships_book = ["sponsorships/inside-one-woman\u2019s-journey-though-the-inside-passage.md"]
-notes_relationship = ["notes/an-adventure-in-northwest-waters.md"]
 +++

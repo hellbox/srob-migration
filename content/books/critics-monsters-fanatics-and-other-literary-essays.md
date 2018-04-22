@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/houghton-mifflin-harcourt.md"
 books_translator = ""
+reviews_books = ["books/critics-monsters-fanatics-and-other-literary-essays.md"]
+books_author = ["authors/cynthia-ozick.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/FUzyuyB55tlxTTHEIjvKux3n0f8GvHU8yeYHhPrJUrdo7xwdjjBTyQNtt0bMeM5ICBrnVxtvCsUitXI6Z5Y8kIFjJDuQ"
 url = "/webhook-uploads/1472490195396/content%3Fid%3D8OkQswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 18586
 
-reviews_books = ["books/critics-monsters-fanatics-and-other-literary-essays.md"]
-books_author = ["authors/cynthia-ozick.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

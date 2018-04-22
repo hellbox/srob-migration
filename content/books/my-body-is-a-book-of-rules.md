@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/red-hen-press.md"
 books_translator = ""
+reviews_books = ["books/my-body-is-a-book-of-rules.md"]
+books_author = ["authors/elissa-washuta.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/washington-state-book-awards-finalists-announced.md", "notes/sometimes-our-writers-go-east.md", "notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NzmBcBxdndm7OqMXtuHLUszjSMUi81O8mghsSd2gH8yrlfQloNZHXxah7UkaJfI6pmu7PqLiiUzKNYcr5qf8PExtT3Zw"
 url = "/webhook-uploads/1435817063273/9781597099691.jpg"
@@ -32,8 +36,4 @@ width = 260
 type = "image/jpeg"
 size = 17756
 
-reviews_books = ["books/my-body-is-a-book-of-rules.md"]
-books_author = ["authors/elissa-washuta.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/washington-state-book-awards-finalists-announced.md", "notes/sometimes-our-writers-go-east.md", "notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award.md"]
 +++

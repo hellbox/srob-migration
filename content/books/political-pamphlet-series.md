@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
+reviews_books = ["books/political-pamphlet-series.md"]
+books_author = ["authors/various.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/book-news-roundup-politicians-we-love.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/it6b_vnCJWQ6qVivCMq6vXQ1Nz9cF0Ff0QUtYITvR24yUNAMaRtjCNbD-co4R7B4v62kkntCobir45CbK1pal4jS-Tpj"
 url = "/webhook-uploads/1491538268394/Screen%20Shot%202017-04-06%20at%209.10.19%20PM.png"
@@ -32,8 +36,4 @@ width = 890
 type = "image/png"
 size = 739402
 
-reviews_books = ["books/political-pamphlet-series.md"]
-books_author = ["authors/various.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/book-news-roundup-politicians-we-love.md"]
 +++

@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/big-stone-gap.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/big-stone-gap-and-the-problem-of-authors-who-want-to-direct.md"]
+[[image]]
+image = ""
 +++

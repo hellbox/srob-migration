@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/manic-thrills-press.md"
 books_translator = ""
+reviews_books = ["books/living-in-the-now.md"]
+books_author = ["authors/tatiana-gill.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/L-m2itgZDXesIZvb4fAftqKLjGhSC8m_Y7SiWB5e5k-j9eM8vrFvW_LDwsOzgrkmdtXW5GfwwIxod0SV9xMYdvUV4hT7-w"
 url = "/webhook-uploads/1447133798137/livinginthenow.png"
@@ -32,8 +36,4 @@ width = 1292
 type = "image/png"
 size = 2039340
 
-reviews_books = ["books/living-in-the-now.md"]
-books_author = ["authors/tatiana-gill.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

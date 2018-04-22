@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/marvel-comics.md"
 books_translator = ""
+reviews_books = ["books/ms-marvel-volume-5-super-famous.md"]
+books_author = ["authors/g-willow-wilson.md", "authors/takeshi-miyazawa.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4zVPyVKGjokxO_4LaNBrOe31jJmQRBHUO7BIA7cRiMzUHke9Vw4pjv6vhl2-imp94DUM2hvBwToc4CMwGoti9dZhlmlZpQ"
 url = "/webhook-uploads/1461966264421/9780785196112.jpg"
@@ -32,8 +36,4 @@ width = 263
 type = "image/jpeg"
 size = 25585
 
-reviews_books = ["books/ms-marvel-volume-5-super-famous.md"]
-books_author = ["authors/g-willow-wilson.md", "authors/takeshi-miyazawa.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"]
 +++

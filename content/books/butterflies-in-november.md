@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/black-cat.md"
 books_translator = ""
+reviews_books = ["books/butterflies-in-november.md"]
+books_author = ["authors/au\u00f0ur-ava-\u00f3lafsd\u00f3ttir.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/lunch-date-butterflies-in-november.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/q_396Th6IrHgApWtdGIoOELN6lVnDmY-StBASYWd4ch7KU0l7ebfRR0MkEcTRf3o2uw0SVoafX_PdmAC6c2LanDRGdaD"
 url = "/webhook-uploads/1435027817951/content%3Fid%3DHhDIoAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10029
 
-reviews_books = ["books/butterflies-in-november.md"]
-books_author = ["authors/au\u00f0ur-ava-\u00f3lafsd\u00f3ttir.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/lunch-date-butterflies-in-november.md"]
 +++

@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/fortress-of-solitude.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/seattle-writing-prompt-2-writing-the-city.md"]
+[[image]]
+image = ""
 +++

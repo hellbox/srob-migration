@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/amazon.md"
 books_translator = ""
+reviews_books = ["books/the-elephant-in-the-room.md"]
+books_author = ["authors/jon-ronson.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/b2n0v7hDn7fi1RTfrSpj1dB7OoCmFws4LVeVfzhh9RYowrRh0D51sX--56ei43OmPstvCmnYSN6VtqBcYcMkMd43RL4r"
 url = "/webhook-uploads/1477893071442/elephantintheroom.jpg"
@@ -32,8 +36,4 @@ width = 333
 type = "image/jpeg"
 size = 45104
 
-reviews_books = ["books/the-elephant-in-the-room.md"]
-books_author = ["authors/jon-ronson.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

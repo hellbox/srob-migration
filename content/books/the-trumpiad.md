@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/waywiser-press.md"
 books_translator = ""
+reviews_books = ["books/the-trumpiad.md"]
+books_author = ["authors/cody-walker.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/book-news-roundup-all-good-news-all-poetry.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tOmdBjg9vSKx6X15bpvcd_dJtVnQcAy-c4d8XbeTAShJtsUs8VyyazXcnq6jAffEdRraWcvogt8ZMEE5axPuiI8VYwVB"
 url = "/webhook-uploads/1493443098558/trumpiad_cover.jpg"
@@ -32,8 +36,4 @@ width = 1870
 type = "image/jpeg"
 size = 78684
 
-reviews_books = ["books/the-trumpiad.md"]
-books_author = ["authors/cody-walker.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/book-news-roundup-all-good-news-all-poetry.md"]
 +++

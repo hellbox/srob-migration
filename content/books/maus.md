@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/maus.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-sunday-post-for-august-28-2016.md"]
+[[image]]
+image = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/vine-leaves-press.md"
 books_translator = ""
+reviews_books = ["books/guts.md"]
+books_author = ["authors/janet-buttenwieser.md"]
+sponsorships_book = ["sponsorships/guts.md"]
+notes_relationship = ["notes/get-a-peek-at-janet-buttenwiesers-new-memoir.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/7ETwAiAg8WpE361vW37GlMdbAAg8ppxVuEvzVU7K2TaGtamNoSoxTW0i6BxU-6v0YeLdmGmJu1w-l4jpUY34-UI-jAc"
 url = "/webhook-uploads/1521162456484/GUTS__250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 163775
 
-reviews_books = ["books/guts.md"]
-books_author = ["authors/janet-buttenwieser.md"]
-sponsorships_book = ["sponsorships/guts.md"]
-notes_relationship = ["notes/get-a-peek-at-janet-buttenwiesers-new-memoir.md"]
 +++

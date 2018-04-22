@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/relegation-books.md"
 books_translator = ""
+reviews_books = ["books/the-loved-ones.md"]
+books_author = ["authors/sonya-chung.md"]
+sponsorships_book = ["sponsorships/the-loved-ones.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/l7mLWF25uLg55khzAV3P4QbXQtFWaS5mGT6YlcGf7UjiZGsqrNJmLjQOOiHE0_eUqqlyh2PgEWLzbQIbQBSDuhqufDY"
 url = "/webhook-uploads/1468182525163/cover-the-loved-ones.jpg"
@@ -32,8 +36,4 @@ width = 500
 type = "image/jpeg"
 size = 71045
 
-reviews_books = ["books/the-loved-ones.md"]
-books_author = ["authors/sonya-chung.md"]
-sponsorships_book = ["sponsorships/the-loved-ones.md"]
-notes_relationship = ""
 +++

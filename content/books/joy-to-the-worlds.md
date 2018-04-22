@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/grey-sun-press.md"
 books_translator = ""
+reviews_books = ["books/joy-to-the-worlds.md"]
+books_author = ["authors/maia-chance.md", "authors/janine-a-southard.md", "authors/raven-oak.md"]
+sponsorships_book = ["sponsorships/joy-to-the-worlds.md"]
+notes_relationship = ["notes/a-great-holiday-story-collection.md", "notes/one-day-left-to-preview-some-great-holiday-genre-fiction.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cYoi60Amoet60QebLwyn70M7kXrKyMFVF1utufMfJbGKdl4i5AttAp5uCI_kDxblOSmbAcxXDKXKf-Oo2IESCq0KDBJo"
 url = "/webhook-uploads/1447536540533/51Hy2lFgzjL._SX311_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 313
 type = "image/jpeg"
 size = 45779
 
-reviews_books = ["books/joy-to-the-worlds.md"]
-books_author = ["authors/maia-chance.md", "authors/janine-a-southard.md", "authors/raven-oak.md"]
-sponsorships_book = ["sponsorships/joy-to-the-worlds.md"]
-notes_relationship = ["notes/a-great-holiday-story-collection.md", "notes/one-day-left-to-preview-some-great-holiday-genre-fiction.md"]
 +++

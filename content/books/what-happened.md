@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
+reviews_books = ["books/what-happened.md"]
+books_author = ["authors/hillary-rodham-clinton.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2MOG2O2j-qXCdeeM_HUae4AZ7oh4Ani5_xAdHAa3KrkZ5s4Aju9tZqoTlzfqa13zVfY8Uy3xJZfGr8QpsgzWNEQ8aJU"
 url = "/webhook-uploads/1505705528987/whathappened.jpg"
@@ -32,8 +36,4 @@ width = 663
 type = "image/jpeg"
 size = 59681
 
-reviews_books = ["books/what-happened.md"]
-books_author = ["authors/hillary-rodham-clinton.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

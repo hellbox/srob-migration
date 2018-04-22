@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/fup.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/phinney-books-the-elkin-test-and-the-eternal-joy-of-fup.md", "notes/your-week-in-readings-the-best-literary-events-from-november-23---29.md"]
+[[image]]
+image = ""
 +++

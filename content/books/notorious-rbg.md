@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/dey-street-books.md"
 books_translator = ""
+reviews_books = ["books/notorious-rbg.md"]
+books_author = ["authors/irin-carmon.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/opU2XqXg1gYxBl_yjaW_aD1hBmpGTN4Qpzr0-3QhJeXbLbtN_ABa93Fh1eevzirKIaZBqOfRjc04GXGwa0G-L5n6J9Mg"
 url = "/webhook-uploads/1469249000734/content%3Fid%3DCVAhrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7373
 
-reviews_books = ["books/notorious-rbg.md"]
-books_author = ["authors/irin-carmon.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

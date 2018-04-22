@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/picador-usa.md"
 books_translator = ""
+reviews_books = ["books/a-pleasure-and-a-calling.md"]
+books_author = ["authors/phil-hogan.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/yjZskU1-DZ-5h2goXvUTzLe9evW7haeEUWO1ZvphM8ZdriDIyq_1YbAWbWwpm2GlZz0u0k73kpSAE_Mybr65DXylFICWcg"
 url = "/webhook-uploads/1435300094139/9781250060631.jpg"
@@ -32,8 +36,4 @@ width = 271
 type = "image/jpeg"
 size = 22603
 
-reviews_books = ["books/a-pleasure-and-a-calling.md"]
-books_author = ["authors/phil-hogan.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

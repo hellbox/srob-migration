@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["History"]
 books_publisher = "publishers/haymarket-books.md"
 books_translator = ""
+reviews_books = ["books/hope-in-the-dark.md"]
+books_author = ["authors/rebecca-solnit.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/nJP-guesb-y_lAEDQb3GMnhr0_NfN8DQbH715TgVGROje_7caFx_1evFRWkM5773zBIYgYUky7PD972ptaXBsgDHbhfr"
 url = "/webhook-uploads/1486024998435/content%3Fid%3D2ptDrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12458
 
-reviews_books = ["books/hope-in-the-dark.md"]
-books_author = ["authors/rebecca-solnit.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

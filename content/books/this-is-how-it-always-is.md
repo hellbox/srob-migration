@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/flatiron-books.md"
 books_translator = ""
+reviews_books = ["books/this-is-how-it-always-is.md"]
+books_author = ["authors/laurie-frankel.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/second-times-the-charm-talking-with-laurie-frankel-about-the-pleasures-and-pains-of-paperbacks.md", "notes/literary-event-of-the-week-this-is-how-it-always-is-paperback-release-reading-at-seattle-public-library.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/zK2bVSMSj5rtm0tqBXlZtr31aTluXBqTtP-JNvvTB4OFKuJ0VZw8HwNj4Yf65cLyjy5-jO30JhqXe4E-0eDPcnAsNHEX"
 url = "/webhook-uploads/1486337380946/content%3Fid%3DD_gvjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11158
 
-reviews_books = ["books/this-is-how-it-always-is.md"]
-books_author = ["authors/laurie-frankel.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/second-times-the-charm-talking-with-laurie-frankel-about-the-pleasures-and-pains-of-paperbacks.md", "notes/literary-event-of-the-week-this-is-how-it-always-is-paperback-release-reading-at-seattle-public-library.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/cave-moon-press.md"
 books_translator = ""
+reviews_books = ["books/listening-to-mozart.md"]
+books_author = ["authors/esther-altshul-helfgott.md"]
+sponsorships_book = ["sponsorships/listening-to-mozart.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/J4Rz-2UZRG0vRn26vNN26VPM1NNWhKzeWhLAv5JbbIzDumoGN-WYpHl3zngbKiyrJpw1u2PL6QpZjRL-WmTsA5NU5k4"
 url = "/webhook-uploads/1456031249412/content%3Fid%3DiYOJoAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10817
 
-reviews_books = ["books/listening-to-mozart.md"]
-books_author = ["authors/esther-altshul-helfgott.md"]
-sponsorships_book = ["sponsorships/listening-to-mozart.md"]
-notes_relationship = ""
 +++

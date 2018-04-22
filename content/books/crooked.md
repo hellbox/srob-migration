@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/mulholland-books.md"
 books_translator = ""
+reviews_books = ["books/crooked.md"]
+books_author = ["authors/austin-grossman.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/1qe5iSQ0z6fWdY_BYh4MS2-L_WfgM5dFxQNNRQ-53CDWsVXxyfb8kqosknx-BNEt0_N709Uz146vHQV2iTkmGqKUp4JavA"
 url = "/webhook-uploads/1450882517984/content%3Fid%3DL9MTogEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10913
 
-reviews_books = ["books/crooked.md"]
-books_author = ["authors/austin-grossman.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

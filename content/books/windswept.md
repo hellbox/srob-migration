@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/angry-robot.md"
 books_translator = ""
+reviews_books = ["books/windswept.md"]
+books_author = ["authors/adam-rakunas.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/dont-forget-to-celebrate-small-business-saturday.md", "notes/a-labor-day-proposal-lets-create-more-blue-collar-novelists.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/PGg9kkSTGv1shJFwsYyWtOQjjzx3N8VaAXPqGxo5JtW9IDBMN7sKh8xUBqBVf5lucwZ1DnMYjBFA3FpXX_0ri8XTpp3n6w"
 url = "/webhook-uploads/1443161413377/9780857664785.jpg"
@@ -32,8 +36,4 @@ width = 264
 type = "image/jpeg"
 size = 26492
 
-reviews_books = ["books/windswept.md"]
-books_author = ["authors/adam-rakunas.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/dont-forget-to-celebrate-small-business-saturday.md", "notes/a-labor-day-proposal-lets-create-more-blue-collar-novelists.md"]
 +++

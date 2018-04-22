@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Poetry"]
 books_publisher = "publishers/purdue-university-press.md"
 books_translator = ""
+reviews_books = ["books/the-body-mutinies.md"]
+books_author = ["authors/lucia-perillo.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/uPt8w-3xVEyB9DLYu94v7MSXv-BbV1cOE2dTy_R3LeCcLu39obm_a2dhpkSKy-Ffrk9gyO6H7RjKGry4YWwxUwzX2GUCyA"
 url = "/webhook-uploads/1480441390914/content%3Fid%3DGpDrn6dIl5QC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 4695
 
-reviews_books = ["books/the-body-mutinies.md"]
-books_author = ["authors/lucia-perillo.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

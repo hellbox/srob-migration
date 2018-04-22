@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/oni-press.md"
 books_translator = ""
+reviews_books = ["books/bad-machinery-vol-1-the-case-of-the-team-spirit.md"]
+books_author = ["authors/john-allison.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Agd_w5GaEkrLnFyk7zxi-_BV-wtbV8uxn3GJ7eQtrfbpjWfuZ9lyS29mFh8jdJo31tVc1ETQ7Og4lGMT8Rt-mrp6Z4E"
 url = "/webhook-uploads/1462859639968/content%3Fid%3Dzu3FMgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8888
 
-reviews_books = ["books/bad-machinery-vol-1-the-case-of-the-team-spirit.md"]
-books_author = ["authors/john-allison.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

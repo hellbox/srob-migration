@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/counterpoint.md"
 books_translator = ""
+reviews_books = ["books/bird.md"]
+books_author = ["authors/noy-holland.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/a3uVltfRV1uq_L9kzavTLuuZBBfVS_7sVu7fPuOuOsNq-iqzDN3Vcx0bpd8pRpTFjkeRLhuFBUqMbzeVj-QbSzlqlerK"
 url = "/webhook-uploads/1451253164314/content%3Fid%3DlyD2rQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9067
 
-reviews_books = ["books/bird.md"]
-books_author = ["authors/noy-holland.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

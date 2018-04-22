@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/poetry-northwest.md"
 books_translator = ""
+reviews_books = ["books/poetry-northwest-volume-x-issue-2.md"]
+books_author = ["authors/poetry-northwest.md"]
+sponsorships_book = ["sponsorships/poetry-northwest-3--2016.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DF2RygchGMwwN6E4hdbP1OIwVlae4NnyOMYfS1sfc3hifZ903ILuDj2aX_uYEfBt_zLmkm3RUE6f_9Xslc6XkrZK8GCTLA"
 url = "/webhook-uploads/1458529906846/Winter_Spring_2016_cover.jpg"
@@ -32,8 +36,4 @@ width = 1200
 type = "image/jpeg"
 size = 571444
 
-reviews_books = ["books/poetry-northwest-volume-x-issue-2.md"]
-books_author = ["authors/poetry-northwest.md"]
-sponsorships_book = ["sponsorships/poetry-northwest-3--2016.md"]
-notes_relationship = ""
 +++

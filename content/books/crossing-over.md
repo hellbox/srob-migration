@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Poetry"]
 books_publisher = "publishers/university-of-new-mexico-pres.md"
 books_translator = ""
+reviews_books = ["books/crossing-over.md"]
+books_author = ["authors/priscilla-long.md"]
+sponsorships_book = ["sponsorships/crossing-over.md"]
+notes_relationship = ["notes/a-local-poets-latest.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/KIQHIYXf0UZW_H4Sh_1R7xHJ2rWfDNEIEcVEMzpPMCsy8MI3bP4r2ilZbtXR6dWOj7dhFKaomv7Kzph7CLcF8xRP42o"
 url = "/webhook-uploads/1440976135481/content%3Fid%3DL6QSogEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 38089
 
-reviews_books = ["books/crossing-over.md"]
-books_author = ["authors/priscilla-long.md"]
-sponsorships_book = ["sponsorships/crossing-over.md"]
-notes_relationship = ["notes/a-local-poets-latest.md"]
 +++

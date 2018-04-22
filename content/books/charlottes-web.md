@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Juvenile Fiction"]
 books_publisher = "publishers/harpercollins.md"
 books_translator = ""
+reviews_books = ["books/charlottes-web.md"]
+books_author = ""
+sponsorships_book = ""
+notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HzVNfHTbI0X8LeW2qdM6hKjsFdRdZOdxiUZaZdn4vYdmio61k6NlHiUYi83JTkXd9dAcYgaK79VkiUAUaph-oLXWRO0SrQ"
 url = "/webhook-uploads/1470890217281/content%3Fid%3D7NEul8arWTMC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12885
 
-reviews_books = ["books/charlottes-web.md"]
-books_author = ""
-sponsorships_book = ""
-notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad.md"]
 +++

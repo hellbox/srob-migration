@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/emblem-editions.md"
 books_translator = ""
+reviews_books = ["books/bear.md"]
+books_author = ["authors/marian-engel.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/aZxWUhgwV9qITRQVN8khFfq2rxA4Kro2QEJ_05TGrcK8fvEAj-18ABTpmgAt7W5djCWB427Qq5_2obOhryNbEz7qSEgk"
 url = "/webhook-uploads/1452474512515/content%3Fid%3DKnPboQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10085
 
-reviews_books = ["books/bear.md"]
-books_author = ["authors/marian-engel.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

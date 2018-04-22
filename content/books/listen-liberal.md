@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/picador-usa.md"
 books_translator = ""
+reviews_books = ["books/listen-liberal.md"]
+books_author = ["authors/thomas-frank.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/lunch-date-persecuting-liberal-elites-at-a-fancy-banh-mi-shop.md", "notes/the-populist-who-crashed-the-party.md", "notes/talking-with-thomas-frank-about-the-fraud-and-scam-of-american-higher-education.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dRrdIZ20_0tqTXXZbeOepPN67bY389u4yeYdfwh4a0OkP9E2I9sMcH_Njq6DP9Y3hmeOWrlqFdGg5HN-xf2cU2N2agNi"
 url = "/webhook-uploads/1492580035296/listenliberal.jpg"
@@ -32,8 +36,4 @@ width = 334
 type = "image/jpeg"
 size = 36854
 
-reviews_books = ["books/listen-liberal.md"]
-books_author = ["authors/thomas-frank.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/lunch-date-persecuting-liberal-elites-at-a-fancy-banh-mi-shop.md", "notes/the-populist-who-crashed-the-party.md", "notes/talking-with-thomas-frank-about-the-fraud-and-scam-of-american-higher-education.md"]
 +++

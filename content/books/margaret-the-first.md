@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "historical fiction"
 books_publisher = "publishers/catapult.md"
 books_translator = ""
+reviews_books = ["books/margaret-the-first.md"]
+books_author = ["authors/danielle-dutton.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/danielle-dutton\u2019s-paper-bodies.md", "notes/heres-what-vlad-from-third-place-books-is-most-looking-forward-to-this-fall.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Af3qD8bQqc0pfkJJNoXqDJ_UMltuLpyfs57kld956Xa8ZZnmGn2zKiCdRf0EgZMGx9KFYWvbnhOae0mEHnpgw9XL6Onp"
 url = "/webhook-uploads/1460695544588/margaretthefirst.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 32892
 
-reviews_books = ["books/margaret-the-first.md"]
-books_author = ["authors/danielle-dutton.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/danielle-dutton\u2019s-paper-bodies.md", "notes/heres-what-vlad-from-third-place-books-is-most-looking-forward-to-this-fall.md"]
 +++

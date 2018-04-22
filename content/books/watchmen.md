@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/watchmen.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-ayn-rand-parody-candidate-likes-the-ayn-rand-parody-superhero.md"]
+[[image]]
+image = ""
 +++

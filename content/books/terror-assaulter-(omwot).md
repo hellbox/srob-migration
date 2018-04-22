@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics.md"
 books_translator = ""
+reviews_books = ["books/terror-assaulter-(omwot).md"]
+books_author = ["authors/benjamin-marra.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/eTwWqRfaw5PG4zdtW2JlgMAesF6XZggvYdTrdouwR1N0jspKFajnbrSmAXPmx7rurByFBoS8FCONIjhcLluA94sLk5yd"
 url = "/webhook-uploads/1447746516022/content%3Fid%3DIiH9rQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 17193
 
-reviews_books = ["books/terror-assaulter-(omwot).md"]
-books_author = ["authors/benjamin-marra.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

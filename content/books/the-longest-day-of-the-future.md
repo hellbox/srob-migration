@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics-books.md"
 books_translator = ""
+reviews_books = ["books/the-longest-day-of-the-future.md"]
+books_author = ["authors/lucas-varela.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/AeeY4KL72L5-Perfw55zp3EQKUq-xYnYmHAKEOdIhSklieT4vKp1tPZ8ACcQTVgpyOsUnZuIKVvspkh8YotkLWWBdZA"
 url = "/webhook-uploads/1472706186276/content%3Fid%3DY59mjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 13245
 
-reviews_books = ["books/the-longest-day-of-the-future.md"]
-books_author = ["authors/lucas-varela.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/first-second.md"
 books_translator = ""
+reviews_books = ["books/the-stone-heart.md"]
+books_author = ["authors/faith-erin-hicks.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/comics-in-conversation.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NeMhpdD2WrkUMGLTlLAI_vHPvqGbj0CLCbcrVU3aA5C87hVDhqxfw56vFUNYGPNV91itP9AcR65IhmlNqCG_U-X2hsZT"
 url = "/webhook-uploads/1490856922684/stoneheart.jpeg"
@@ -32,8 +36,4 @@ width = 190
 type = "image/jpeg"
 size = 15077
 
-reviews_books = ["books/the-stone-heart.md"]
-books_author = ["authors/faith-erin-hicks.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/comics-in-conversation.md"]
 +++

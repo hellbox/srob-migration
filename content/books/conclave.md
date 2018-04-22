@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "thriller"
 books_publisher = "publishers/knopf.md"
 books_translator = ""
+reviews_books = ["books/conclave.md"]
+books_author = ["authors/robert-harris.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/choosing-a-pope-is-messy-human-work.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/gD301J9PPleTnvcIjyvyfxlCS9FrdUcvHEGBw2zmqWfhkClwaOZ7fr4Uzbt-RQ7qdUZty0qs5TrwLnolFuEG5qWP81Ie"
 url = "/webhook-uploads/1482458648243/conclave.jpg"
@@ -32,8 +36,4 @@ width = 208
 type = "image/jpeg"
 size = 25409
 
-reviews_books = ["books/conclave.md"]
-books_author = ["authors/robert-harris.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/choosing-a-pope-is-messy-human-work.md"]
 +++

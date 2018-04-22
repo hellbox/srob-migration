@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/soho-press.md"
 books_translator = ""
+reviews_books = ["books/join.md"]
+books_author = ["authors/steve-toutonghi.md"]
+sponsorships_book = ["sponsorships/join.md", "sponsorships/join-now-in-paperback.md"]
+notes_relationship = ["notes/a-consciousness-with-five-heads.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/UA4iyatUQ7MRMAboYh-2Qkg_9CFsK9NaUUZT9UJHM00Z3zKCBrEsyFyL_C_lx5hn-TrBbfVUrJTOiBo4ocZ9ePe2dtqiDw"
 url = "/webhook-uploads/1460785866165/Join_Cover_1200px_wide.jpg"
@@ -32,8 +36,4 @@ width = 1200
 type = "image/jpeg"
 size = 2126374
 
-reviews_books = ["books/join.md"]
-books_author = ["authors/steve-toutonghi.md"]
-sponsorships_book = ["sponsorships/join.md", "sponsorships/join-now-in-paperback.md"]
-notes_relationship = ["notes/a-consciousness-with-five-heads.md"]
 +++

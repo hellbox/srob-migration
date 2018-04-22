@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/atlantic-monthly-press.md"
 books_translator = ""
+reviews_books = ["books/coming-of-age-at-the-end-of-days.md"]
+books_author = ["authors/alice-laplante.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/j8-a5_9pnZxXYQ0GDe6kPjPuFxPuwUYIqrYdSy93a4d0N-nGJPAhYpi_d-82XpKoAaFeXQftBmt7Vw3nAx2Vq5voMuGrjA"
 url = "/webhook-uploads/1444620664434/content%3Fid%3D2o7PoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12292
 
-reviews_books = ["books/coming-of-age-at-the-end-of-days.md"]
-books_author = ["authors/alice-laplante.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

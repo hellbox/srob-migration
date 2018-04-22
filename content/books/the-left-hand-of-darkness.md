@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/ace-trade.md"
 books_translator = ""
+reviews_books = ["books/the-left-hand-of-darkness.md"]
+books_author = ["authors/ursula-k-le-guin.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qlMesR6JZz3Usts7vrg8lDXe8ERM0_QFwRLkKp_2wovQCYuoJm6LClo_52aiMJoXNRYqRnrnTqQRFyyGjtL0hDmwONeXOg"
 url = "/webhook-uploads/1440820582872/content%3Fid%3DYsOhPwAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9284
 
-reviews_books = ["books/the-left-hand-of-darkness.md"]
-books_author = ["authors/ursula-k-le-guin.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

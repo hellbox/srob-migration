@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/bison-books.md"
 books_translator = ""
+reviews_books = ["books/death-as-a-side-effect.md"]
+books_author = ["authors/ana-mar\u00eda-shua.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/KTHQKGG5kGBCSt1X2oXlafPWkbsulkIkRi9NJ9X9uM-d9yVLwspIW5hZ0MjsnM6-u8vDmQuWlugayMw9YeSq4xci7Uqd"
 url = "/webhook-uploads/1502050702666/Death%20as%20a%20Side%20Effect_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 16767
 
-reviews_books = ["books/death-as-a-side-effect.md"]
-books_author = ["authors/ana-mar\u00eda-shua.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

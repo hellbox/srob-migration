@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/phinney-by-post.md"]
+books_author = ["authors/phinney-books.md"]
+sponsorships_book = ["sponsorships/phinney-books-subscription-service.md"]
+notes_relationship = ["notes/a-year-of-great-books-delivered-to-you.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/l_h-ZIr-FTtoZfnD7IVuI92crhp0glAIV_kK-znevkbN2vp2O_k_mXjaIDUzVL8pDBuBTeGvyVi0TP5E4WHu8WdoOCJI"
 url = "/webhook-uploads/1512071863524/Phinney_by_Post.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 14650
 
-reviews_books = ["books/phinney-by-post.md"]
-books_author = ["authors/phinney-books.md"]
-sponsorships_book = ["sponsorships/phinney-books-subscription-service.md"]
-notes_relationship = ["notes/a-year-of-great-books-delivered-to-you.md"]
 +++

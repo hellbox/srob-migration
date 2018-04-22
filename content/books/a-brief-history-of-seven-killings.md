@@ -24,13 +24,13 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
+reviews_books = ["books/a-brief-history-of-seven-killings.md"]
+books_author = ["authors/marlon-james.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/marlon-james-takes-the-booker.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DluRcu8k4R18ogfVnqkLdyn8iyneY1Y4WjC2n9Di-R-6Qg07r2qsqHMfTTw5hKVyud4V-RUxur0fY97KVDv6DSDgutQ"
 url = "/webhook-uploads/1430694819325/content%3Fid%3Da3-ooAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
 width = 128
 height = 193
-reviews_books = ["books/a-brief-history-of-seven-killings.md"]
-books_author = ["authors/marlon-james.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/marlon-james-takes-the-booker.md"]
 +++

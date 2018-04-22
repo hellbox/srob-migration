@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "political science"
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
+reviews_books = ["books/becoming-a-citizen-activist.md"]
+books_author = ["authors/nick-licata.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/GxoGsWs0IMnXufyNRAXGkJXC0fy7__CFBS2azStmcNAmOuC8_6Ip1_ZioIV8nPZgMut0Fm-9E7P0ewPzTKCjqKxiJ-y5VA"
 url = "/webhook-uploads/1451879843789/9781632170446.jpg"
@@ -32,8 +36,4 @@ width = 267
 type = "image/jpeg"
 size = 25186
 
-reviews_books = ["books/becoming-a-citizen-activist.md"]
-books_author = ["authors/nick-licata.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

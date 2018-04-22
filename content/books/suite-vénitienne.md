@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "art"
 books_publisher = "publishers/siglio.md"
 books_translator = ""
+reviews_books = ["books/suite-vénitienne.md"]
+books_author = ["authors/sophie-calle.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ocLzw1U3RGMn_6a0iVDsxPjX4LfiT59_fvBxG-V3q4x7NGZytzxB8VDfdstOFReJvk9UXzqZH9t7dCS1dAaDP81HgM03"
 url = "/webhook-uploads/1472100743749/suitevenitienne.jpg"
@@ -32,8 +36,4 @@ width = 339
 type = "image/jpeg"
 size = 9944
 
-reviews_books = ["books/suite-vénitienne.md"]
-books_author = ["authors/sophie-calle.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

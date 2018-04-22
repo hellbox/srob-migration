@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/rare-bird-books.md"
 books_translator = ""
+reviews_books = ["books/the-lights.md"]
+books_author = ["authors/brian-mcgreevy.md"]
+sponsorships_book = ["sponsorships/the-lights-a-novel.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oQNj1m3yDOlsadPnXgjRnzcf4fr-SaDwe7H7NHP8R0VOnu4_DB6xCYyuluuTZdF8kPWDkxUBcq2jgG668epObm7i23m-"
 url = "/webhook-uploads/1493593531131/51SVn6PIcuL._SX321_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 323
 type = "image/jpeg"
 size = 42012
 
-reviews_books = ["books/the-lights.md"]
-books_author = ["authors/brian-mcgreevy.md"]
-sponsorships_book = ["sponsorships/the-lights-a-novel.md"]
-notes_relationship = ""
 +++

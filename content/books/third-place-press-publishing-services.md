@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/third-place-press.md"
 books_translator = ""
+reviews_books = ["books/third-place-press-publishing-services.md"]
+books_author = ["authors/third-place-press.md"]
+sponsorships_book = ["sponsorships/third-place-press-publishing.md"]
+notes_relationship = ["notes/publish-beautiful-books-with-third-place-press.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/62y9DJN3FTVzJoEeS730iCJl_gQL___c2Kb8AEhkfVpiYIJ3q3LjyUjS0qwcaycnentkJweOjgqV6vN3VDYZnxUdeE4"
 url = "/webhook-uploads/1509835026122/Third%20Place%20Press_225.png"
@@ -32,8 +36,4 @@ width = 225
 type = "image/png"
 size = 12000
 
-reviews_books = ["books/third-place-press-publishing-services.md"]
-books_author = ["authors/third-place-press.md"]
-sponsorships_book = ["sponsorships/third-place-press-publishing.md"]
-notes_relationship = ["notes/publish-beautiful-books-with-third-place-press.md"]
 +++

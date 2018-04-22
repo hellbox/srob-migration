@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics.md"
 books_translator = ""
+reviews_books = ["books/patience.md"]
+books_author = ["authors/dan-clowes.md", "authors/daniel-clowes.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ruBe-ng89RxkO-koN5viE_wPABMbcJxCBwwB6CIp0cpN_phYGNuefSZVpI4j6ahmV0syvMnCOF9U134PVRQZ3E0DKzrW"
 url = "/webhook-uploads/1459495667056/content%3Fid%3DsgLtsgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 40291
 
-reviews_books = ["books/patience.md"]
-books_author = ["authors/dan-clowes.md", "authors/daniel-clowes.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/st-martin&x27;s-press.md"
 books_translator = ""
+reviews_books = ["books/strawberry-days.md"]
+books_author = ["authors/david-a-neiwert-.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/yX4NMcqpArlPgOMZLqAzud0zvFH7aiNIy4z7L45OGqNY0kXw3ovdItuWkYyHo2zJewwtTQFSOOHhrkL5G8daMUxxd_YM"
 url = "/webhook-uploads/1477238851767/images.jpg"
@@ -32,8 +36,4 @@ width = 711
 type = "image/jpeg"
 size = 71821
 
-reviews_books = ["books/strawberry-days.md"]
-books_author = ["authors/david-a-neiwert-.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

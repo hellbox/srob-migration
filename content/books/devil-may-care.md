@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/vintage.md"
 books_translator = ""
+reviews_books = ["books/devil-may-care.md"]
+books_author = ["authors/sebastian-faulks.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/james-bond-needs-to-be-bookish.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/eN9LEn1PXjqmGggM160goif7irZg2kpx9Gw4lKNCevIGeRZAzYKyoe1xyvgKxx5Bf0vU3umkSNElALCPCaa-iBfqU8GGWA"
 url = "/webhook-uploads/1435299840840/9780307473318.jpg"
@@ -32,8 +36,4 @@ width = 243
 type = "image/jpeg"
 size = 37223
 
-reviews_books = ["books/devil-may-care.md"]
-books_author = ["authors/sebastian-faulks.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/james-bond-needs-to-be-bookish.md"]
 +++

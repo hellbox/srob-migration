@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/floating-bridge-press.md"
 books_translator = ""
+reviews_books = ["books/this-city.md"]
+books_author = ["authors/claudia-castro-luna.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/book-news-roundup-opportunities-for-writers-a-book-swap-and-benedict-cumberbatch-news.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-wPZybXIPH1JSq3820IPEfUlst5BZFKTvUhIPJjkjt0203SoOg552R2EZmW_CF3fu9JsFuwniVM-mrRSSS-VYpsg4VFh"
 url = "/webhook-uploads/1475823363658/thiscity.png"
@@ -32,8 +36,4 @@ width = 682
 type = "image/png"
 size = 1247747
 
-reviews_books = ["books/this-city.md"]
-books_author = ["authors/claudia-castro-luna.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/book-news-roundup-opportunities-for-writers-a-book-swap-and-benedict-cumberbatch-news.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/civil-coping-mechanisms.md"
 books_translator = ""
+reviews_books = ["books/bruja.md"]
+books_author = ["authors/wendy-c-ortiz.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/vUB-2i-PQauDP1u_0WMthrcuLSlsCpA1YWbks1dlKyzV5IcxHndpq4wGz90t6qpFYwNhKhUXT1KTuuap_JvUK4Vzd3Y"
 url = "/webhook-uploads/1491094444480/61IVa2-E5vL._SX327_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 329
 type = "image/jpeg"
 size = 70631
 
-reviews_books = ["books/bruja.md"]
-books_author = ["authors/wendy-c-ortiz.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

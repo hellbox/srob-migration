@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Comics"
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
+reviews_books = ["books/sticks-angelica-folk-hero.md"]
+books_author = ["authors/michael-deforge.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/thursday-comics-hangover-queen-of-the-wild-frontier.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WeqHwNSfwQwxZrSeOIXJBf8Qcx17T2Oc4Hf8AgUSiOlq7k8nWUN8-gdzjD3aGlr4FLa5xuXLI7uQXeEiULmrBycELYAY"
 url = "/webhook-uploads/1490250048445/sticksangelica.jpeg"
@@ -32,8 +36,4 @@ width = 306
 type = "image/jpeg"
 size = 19934
 
-reviews_books = ["books/sticks-angelica-folk-hero.md"]
-books_author = ["authors/michael-deforge.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/thursday-comics-hangover-queen-of-the-wild-frontier.md"]
 +++

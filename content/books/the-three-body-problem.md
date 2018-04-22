@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-three-body-problem.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/hugo-award-winners-announced.md"]
+[[image]]
+image = ""
 +++

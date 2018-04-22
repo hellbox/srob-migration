@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/st-martin&x27;s-press.md"
 books_translator = ""
+reviews_books = ["books/death-in-the-dark-continent.md"]
+books_author = ["authors/peter-hathaway-capstick.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/scpviCmWY-AG5Tor0KQl5fITl51QxKaI7mT3kFDoc0WKBgRzBEeCO9PAEbg-hd-FRq_UNGE0A6VD5IBTXi1Q9eH5H-E7"
 url = "/webhook-uploads/1438581554273/0312916086.01._SL130_SCLZZZZZZZ__.jpg"
@@ -32,8 +36,4 @@ width = 77
 type = "image/jpeg"
 size = 3875
 
-reviews_books = ["books/death-in-the-dark-continent.md"]
-books_author = ["authors/peter-hathaway-capstick.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

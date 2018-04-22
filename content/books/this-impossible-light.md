@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Young Adult Fiction"]
 books_publisher = "publishers/penguin.md"
 books_translator = ""
+reviews_books = ["books/this-impossible-light.md"]
+books_author = ["authors/lily-myers.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/T7n36RLNVjsazK3-lvR6H6uN8MJd3PTp4wAvXV0dulsdfJPSd0USEnMMwjp8OmBkOJN_PeRpaBnlIowiumboi8pQwN3C"
 url = "/webhook-uploads/1502941757334/content%3Fid%3DmHjNDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 6643
 
-reviews_books = ["books/this-impossible-light.md"]
-books_author = ["authors/lily-myers.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

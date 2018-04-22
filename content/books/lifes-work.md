@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
+reviews_books = ["books/lifes-work.md"]
+books_author = ["authors/dr-willie-parker.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bGbLRkPjd4UyMuRUBKAPK8rZO1KShZmRL7Vvu9C8wQs_wRsuvyTwmtNpLs-Haljs8dUqVu1a2glZvhYSmFtQ_9KbzHU"
 url = "/webhook-uploads/1496381448766/content%3Fid%3DfCSLDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10561
 
-reviews_books = ["books/lifes-work.md"]
-books_author = ["authors/dr-willie-parker.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

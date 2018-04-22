@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Literary Criticism"]
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
+reviews_books = ["books/seattle-city-of-literature.md"]
+books_author = ["authors/ryan-boudinot.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/on-diversity-criticism-and-seattle-city-of-literature.md", "notes/letters-to-the-editor-on-representation-in-seattle-city-of-literature.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/J6Oglmee2KUDuI8hz4MJ2R0UGh5U7blrgXAjRA1oH1kki_umKhHwNwPAXLaoLF2FW1qD_ToiqLwaKnaK-JZ6ZLbvNEr_kw"
 url = "/webhook-uploads/1443669680773/content%3Fid%3DCAHOrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 14343
 
-reviews_books = ["books/seattle-city-of-literature.md"]
-books_author = ["authors/ryan-boudinot.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/on-diversity-criticism-and-seattle-city-of-literature.md", "notes/letters-to-the-editor-on-representation-in-seattle-city-of-literature.md"]
 +++

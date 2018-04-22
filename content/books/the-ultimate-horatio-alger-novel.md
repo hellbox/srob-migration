@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-ultimate-horatio-alger-novel.md"]
 books_author = ["authors/david-lasky.md"]
 sponsorships_book = ""
 notes_relationship = ""
+[[image]]
+image = ""
 +++

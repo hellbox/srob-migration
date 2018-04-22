@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/algonquin-books.md"
 books_translator = ""
+reviews_books = ["books/find-the-good.md"]
+books_author = ["authors/heather-lende.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ke625iqUzHqoeQTlVtfOXVXwe6NpovQieDrwMpMuNHYIVzKrONsRg-dBAIZbh0Q2ubeuz8FId9Aco0jlCmUbbHC9oxNF"
 url = "/webhook-uploads/1442178154130/9781616201678.jpg"
@@ -32,8 +36,4 @@ width = 300
 type = "image/jpeg"
 size = 19948
 
-reviews_books = ["books/find-the-good.md"]
-books_author = ["authors/heather-lende.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

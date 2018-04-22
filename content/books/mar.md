@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
+reviews_books = ["books/mar.md"]
+books_author = ["authors/caroline-crew.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/aDuICosDh1T7nxisGqSBTPFFLUnsqfJLrUNKnXaqwg5bjs8O7BO5KeBiZCJT3JPk_Css1mPRUaaunPLKRFNmMkhZJaE"
 url = "/webhook-uploads/1490934883658/IMG_4887.JPG"
@@ -32,8 +36,4 @@ width = 2493
 type = "image/jpeg"
 size = 1038377
 
-reviews_books = ["books/mar.md"]
-books_author = ["authors/caroline-crew.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

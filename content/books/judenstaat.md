@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/tor.md"
 books_translator = ""
+reviews_books = ["books/judenstaat.md"]
+books_author = ["authors/simone-zelitch.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/LRz6c9S0P4f28xayuhMpk89QxDdkS01Tsib4KyetVWgTIA1z3fyWC0jhuX_rijISKn3E3ba4xfxPIzqQFXNwzLdMYwY4xg"
 url = "/webhook-uploads/1474033182992/content%3Fid%3DBmH_sgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 44995
 
-reviews_books = ["books/judenstaat.md"]
-books_author = ["authors/simone-zelitch.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

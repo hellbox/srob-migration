@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/random-house.md"
 books_translator = ""
+reviews_books = ["books/lean-in.md"]
+books_author = ["authors/sheryl-sandberg.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/UmNjtNOWvcoy5hFCN2xsowVxic1AkgKBM9EpwHRfTZxZEHQEG3_rKJJTnmrZ52BOHz1Epg9Mlfz8uDUSAgNQw9WG2ZOnUg"
 url = "/webhook-uploads/1470890334681/content%3Fid%3DHAtQCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8481
 
-reviews_books = ["books/lean-in.md"]
-books_author = ["authors/sheryl-sandberg.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad.md"]
 +++

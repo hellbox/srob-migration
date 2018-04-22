@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/dark-horse-books.md"
 books_translator = ""
+reviews_books = ["books/apocalyptigirl.md"]
+books_author = ["authors/andrew-maclean.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-twM58KFKxxhw1r0jzeiJtogo_OJQosK5cSbKLtczdLNTO5W6VT8rnYqXad1OREO4X77sO6f-IqwboyQHzhPbhuKn1RItA"
 url = "/webhook-uploads/1462859792046/content%3Fid%3DUgaOoAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7343
 
-reviews_books = ["books/apocalyptigirl.md"]
-books_author = ["authors/andrew-maclean.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

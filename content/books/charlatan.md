@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/broadway-books.md"
 books_translator = ""
+reviews_books = ["books/charlatan.md"]
+books_author = ["authors/pope-brock.md"]
+sponsorships_book = ["sponsorships/charlatan.md", "sponsorships/pope-brocks-charlatan.md"]
+notes_relationship = ["notes/the-flimflam-man-is-back.md", "notes/the-flimflam-man-is-back-again-(with-a-new-chapter-for-you).md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cREEzsvXlDbFZ-WHwhPeeLrcwIWNuctAE_rMl0hewRpMM8tINhqClzox_9A0RaoOhcNnrMkov6n0xNuHx5t8NHZ3nAbIxQ"
 url = "/webhook-uploads/1517276381340/Charlatan_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 42392
 
-reviews_books = ["books/charlatan.md"]
-books_author = ["authors/pope-brock.md"]
-sponsorships_book = ["sponsorships/charlatan.md", "sponsorships/pope-brocks-charlatan.md"]
-notes_relationship = ["notes/the-flimflam-man-is-back.md", "notes/the-flimflam-man-is-back-again-(with-a-new-chapter-for-you).md"]
 +++

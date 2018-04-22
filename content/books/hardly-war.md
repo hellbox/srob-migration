@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/wave-books.md"
 books_translator = ""
+reviews_books = ["books/hardly-war.md"]
+books_author = ["authors/don-mee-choi.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/the-trouble-with-genius.md", "notes/event-of-the-week-a-night-with-wave-books-at-fred-wildlife-refuge.md", "notes/book-news-roundup-an-international-publishing-partnership-a-lannan-fellowship-and-blacklivesmatter.md", "notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DC6MsQV9HN8Uo7nUr-ejfGaSr7jMCITzxqOEEJYLmm_koe5AavvgPiq1I5ufuRI--6TGcKS1jT73R-nZrwX9clkMX5d4fg"
 url = "/webhook-uploads/1457138805423/content%3Fid%3DA4YZswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 19521
 
-reviews_books = ["books/hardly-war.md"]
-books_author = ["authors/don-mee-choi.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/the-trouble-with-genius.md", "notes/event-of-the-week-a-night-with-wave-books-at-fred-wildlife-refuge.md", "notes/book-news-roundup-an-international-publishing-partnership-a-lannan-fellowship-and-blacklivesmatter.md", "notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 +++

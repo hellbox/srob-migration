@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/freebird.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-jon-raymond-reads-freebird-at-university-book-store.md"]
+[[image]]
+image = ""
 +++

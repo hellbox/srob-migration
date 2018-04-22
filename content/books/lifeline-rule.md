@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/spuyten-duyvil.md"
 books_translator = ""
+reviews_books = ["books/lifeline-rule.md"]
+books_author = ["authors/doug-nufer.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kiOx6JYKCHVufAR1TkZd7gR0DhzxNLElOthonwTcPe1Xd6V0lcsbmyPhSMYb-6MvQ8bxevcqn-CkUtJRpnn7OfXdUuI"
 url = "/webhook-uploads/1439872825513/lifelinerule.jpg"
@@ -32,8 +36,4 @@ width = 339
 type = "image/jpeg"
 size = 104309
 
-reviews_books = ["books/lifeline-rule.md"]
-books_author = ["authors/doug-nufer.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"]
 +++

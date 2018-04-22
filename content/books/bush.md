@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
+reviews_books = ["books/bush.md"]
+books_author = ["authors/jean-edward-smith.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9cyASBQ60RgZswEu4YsbNb50VDz87lWPKPXKqXdW6s3ln1EKfQgPmshVOxsYUcI4iua7GzRcFZ0IVNOBuu1Rn5IUBLT0sA"
 url = "/webhook-uploads/1470029250337/content%3Fid%3DMtOODAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7318
 
-reviews_books = ["books/bush.md"]
-books_author = ["authors/jean-edward-smith.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

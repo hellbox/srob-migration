@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/mountaineers-books.md"
 books_translator = ""
+reviews_books = ["books/turning-homeward.md"]
+books_author = ["authors/adrienne-ross-scanlan.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dyDEded8pRoYdhtiaNJv4F-2thbox7rF4dj478KABeGo25wTvzLGTFVHg4ubkqm-_5jrA5CzwNRoJQyCXPcuP4-PhQRMWw"
 url = "/webhook-uploads/1515396579096/turninghomeward.jpg"
@@ -32,8 +36,4 @@ width = 288
 type = "image/jpeg"
 size = 11356
 
-reviews_books = ["books/turning-homeward.md"]
-books_author = ["authors/adrienne-ross-scanlan.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

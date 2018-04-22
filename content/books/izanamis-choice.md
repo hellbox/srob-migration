@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/broken-eye-books.md"
 books_translator = ""
+reviews_books = ["books/izanamis-choice.md"]
+books_author = ["authors/adam-heine.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/01dr_DeiDX-sqHgTqbHZIbr6gF4p-VIroVBx3SWIfelQ_fSTDgz50N2Bc254pg0kRqDep0mf5f_jjtlS0dOyZgxSpkWW"
 url = "/webhook-uploads/1468012419702/izanamischoice.jpeg"
@@ -32,8 +36,4 @@ width = 426
 type = "image/jpeg"
 size = 166843
 
-reviews_books = ["books/izanamis-choice.md"]
-books_author = ["authors/adam-heine.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

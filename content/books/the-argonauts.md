@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/graywolf-press.md"
 books_translator = ""
+reviews_books = ["books/the-argonauts.md"]
+books_author = ["authors/maggie-nelson.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/2016-national-book-critics-circle-awards-announced.md", "notes/the-kind-of-genius-you-cant-ignore.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WNqm0lgxkBOiL2cmhjG3giQsaAbm0dP_H1JwkpN9pJjhZdSVJIBzUdZ7i1_kXNillp4vO9P0NQRi3noT5cdMUOGK_7wcPg"
 url = "/webhook-uploads/1453780172207/content%3Fid%3DY4tergEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 22944
 
-reviews_books = ["books/the-argonauts.md"]
-books_author = ["authors/maggie-nelson.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/2016-national-book-critics-circle-awards-announced.md", "notes/the-kind-of-genius-you-cant-ignore.md"]
 +++

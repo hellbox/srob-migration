@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/gg-silverman.md"
 books_translator = ""
+reviews_books = ["books/vegan-teenage-zombie-huntress.md"]
+books_author = ["authors/gg-silverman.md"]
+sponsorships_book = ["sponsorships/vegan-teenage-zombie-huntress.md"]
+notes_relationship = ["notes/have-you-looked-at-vegan-teenage-zombie-huntress-yet.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/16Gm7dd77KczPAQAzrVnO72EndDPdpAeTZnwHDVsj2nCA_Vi-QrFdDDmFYhDc6oDmlA3nrL8Y3Zs4kwQaS4qdXGnOY-fPQ"
 url = "/webhook-uploads/1444593291698/content%3Fid%3D_sCxoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 15227
 
-reviews_books = ["books/vegan-teenage-zombie-huntress.md"]
-books_author = ["authors/gg-silverman.md"]
-sponsorships_book = ["sponsorships/vegan-teenage-zombie-huntress.md"]
-notes_relationship = ["notes/have-you-looked-at-vegan-teenage-zombie-huntress-yet.md"]
 +++

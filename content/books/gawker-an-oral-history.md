@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/amazon.md"
 books_translator = ""
+reviews_books = ["books/gawker-an-oral-history.md"]
+books_author = ["authors/brian-abrams.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/8K0MHbhMrOBNUbk7RmJwGW-SPJz17RAnfp6K3Nm608UDq_JcQSdAb-TUXkQjK7Zm9mRshMr0jiKNAHRVdnwkEmBqTLvA"
 url = "/webhook-uploads/1437972188460/51ujWrAQyGL._SX322_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 324
 type = "image/jpeg"
 size = 52521
 
-reviews_books = ["books/gawker-an-oral-history.md"]
-books_author = ["authors/brian-abrams.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

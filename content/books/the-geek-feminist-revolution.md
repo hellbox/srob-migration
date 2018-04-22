@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Social Science"]
 books_publisher = "publishers/tor.md"
 books_translator = ""
+reviews_books = ["books/the-geek-feminist-revolution.md"]
+books_author = ["authors/kameron-hurley.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Zi4wbICAyWhy30X2WEA99R-xwDeBpeWIUfT5yAPCNYaq1KUIj2DfO5egwbsd8x5kaKhRpjn1sgouKUf3gfJ_dmfVv124"
 url = "/webhook-uploads/1474343177909/content%3Fid%3D5Y8OswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 23010
 
-reviews_books = ["books/the-geek-feminist-revolution.md"]
-books_author = ["authors/kameron-hurley.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sagging-meniscus-press.md"
 books_translator = ""
+reviews_books = ["books/the-most-wretched-thing-imaginable-or-beneath-the-burnt-umbrella.md"]
+books_author = ["authors/stephen-moles.md"]
+sponsorships_book = ["sponsorships/the-most-wretched-thing-imaginable.md"]
+notes_relationship = ["notes/a-book-of-amazing-deadpan-surrealism.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hOAEGD9oyMOQ3BToCa-3mI_Q6W2dZJuBdcrofFhF8ttuVcFEv4eiuc9IDd5jToUwrKRldgYOM8t1dgyFXmqZk5gKJbE"
 url = "/webhook-uploads/1488213912120/WretchedThing_RGB_300dpi_1000pxWide.jpg"
@@ -32,8 +36,4 @@ width = 1000
 type = "image/jpeg"
 size = 514020
 
-reviews_books = ["books/the-most-wretched-thing-imaginable-or-beneath-the-burnt-umbrella.md"]
-books_author = ["authors/stephen-moles.md"]
-sponsorships_book = ["sponsorships/the-most-wretched-thing-imaginable.md"]
-notes_relationship = ["notes/a-book-of-amazing-deadpan-surrealism.md"]
 +++

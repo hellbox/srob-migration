@@ -24,13 +24,13 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/harper.md"
 books_translator = ""
+reviews_books = ["books/gutenbergs-apprentice.md"]
+books_author = ["authors/alix-christie.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/xCnl8PHmWoSl4NKFiEVfmnWDNr4RYQSfkn1DTzFAKDfD_2VpSsljXKogsHnSgkkI4SQgi6E6ulUc4wrLar5yOJ929roq"
 url = "/webhook-uploads/1431012796289/9780062336019.jpg"
 width = 265
 height = 400
-reviews_books = ["books/gutenbergs-apprentice.md"]
-books_author = ["authors/alix-christie.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

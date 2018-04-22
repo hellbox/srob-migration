@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/skyhorse-publishing.md"
 books_translator = ""
+reviews_books = ["books/now-for-the-disappointing-part.md"]
+books_author = ["authors/steven-barker.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/W8Rez13H-0UQxPhSuvbYIYOECylHSw59MqqrXDAF80i7vzPNNwqxT5u8tgd9hAaNbjoIgoSYjwEMkkDy3HmjpVkVd1HX"
 url = "/webhook-uploads/1479619434348/disappointing.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 28112
 
-reviews_books = ["books/now-for-the-disappointing-part.md"]
-books_author = ["authors/steven-barker.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

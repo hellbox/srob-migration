@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/gollancz.md"
 books_translator = ""
+reviews_books = ["books/jack-glass.md"]
+books_author = ["authors/adam-roberts.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/j-2x5-le5k1ul7Ask8C64pvffdybtY6F1CLLdh0Vv1fif5Q4u7xnEvyfhQY7NRX0MgLnUWn86oC5QKHut4TD3fBDeMU"
 url = "/webhook-uploads/1435299508642/Z.jpg"
@@ -32,8 +36,4 @@ width = 226
 type = "image/jpeg"
 size = 32661
 
-reviews_books = ["books/jack-glass.md"]
-books_author = ["authors/adam-roberts.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

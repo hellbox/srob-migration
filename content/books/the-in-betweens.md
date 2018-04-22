@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "short stories"
 books_publisher = "publishers/civil-coping-mechanisms.md"
 books_translator = ""
+reviews_books = ["books/the-in-betweens.md"]
+books_author = ["authors/matthew-simmons.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/TtwydxN3ki7UfA2rXeGZlPPiSbBhMrvQKCGFLx8MzJJXGX6anEX8k7_Qn-if4EkhNIEKjFx7h2YtrpHcbe4gYMv4LlI"
 url = "/webhook-uploads/1480490689366/SimmonsCover.jpg"
@@ -32,8 +36,4 @@ width = 1344
 type = "image/jpeg"
 size = 138980
 
-reviews_books = ["books/the-in-betweens.md"]
-books_author = ["authors/matthew-simmons.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 +++

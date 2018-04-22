@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/counterpoint.md"
 books_translator = ""
+reviews_books = ["books/trace.md"]
+books_author = ["authors/lauret-savoy.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/A-OC6-mwmkKOnb9KZJXm4RL_Met8ayYnxQ7inzw36QB7fuW8mSIygTpeQLWYoepcVvimE-qb_1IR-SxpO1Y_bXKiJsE"
 url = "/webhook-uploads/1492008546290/Trace-pen-finalist.jpg"
@@ -32,8 +36,4 @@ width = 324
 type = "image/jpeg"
 size = 67839
 
-reviews_books = ["books/trace.md"]
-books_author = ["authors/lauret-savoy.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

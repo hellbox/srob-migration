@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/fluke-press.md"
 books_translator = ""
+reviews_books = ["books/desperate-times.md"]
+books_author = ["authors/maire-m-masco.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/IRsZtQ_-ddXGu6ywHhkml6UQmruxmhXmLlWZfEpmdmkOuVJYC-KudWOo4SXchp6VSjojQ6ifx2ST5oPYCaELVkzsdIIS"
 url = "/webhook-uploads/1453826795671/DTbookCover-606x786.jpg"
@@ -32,8 +36,4 @@ width = 606
 type = "image/jpeg"
 size = 205202
 
-reviews_books = ["books/desperate-times.md"]
-books_author = ["authors/maire-m-masco.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

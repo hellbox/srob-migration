@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/orbit.md"
 books_translator = ""
+reviews_books = ["books/ancillary-justice.md"]
+books_author = ["authors/ann-leckie.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/hugo-award-finalists-announced.md", "notes/meet-the-matchmakers.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/T4OUr5T_d1La1yV0fDUrb5padUVBd714mI5dtC844B-ZavIsQybJQjfKuFWHakIMC25qzhJJ2GE6wi3pZ-4kF5J60nRP"
 url = "/webhook-uploads/1440819289200/9780316246620.jpg"
@@ -32,8 +36,4 @@ width = 262
 type = "image/jpeg"
 size = 25575
 
-reviews_books = ["books/ancillary-justice.md"]
-books_author = ["authors/ann-leckie.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/hugo-award-finalists-announced.md", "notes/meet-the-matchmakers.md"]
 +++

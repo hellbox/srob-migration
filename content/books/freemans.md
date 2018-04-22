@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/grove-atlantic.md"
 books_translator = ""
+reviews_books = ["books/freemans.md"]
+books_author = ["authors/john-freeman.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "https://lh3.googleusercontent.com/OejSrbT5kqfOhbyVyFI1lgiHNM8mSYeYyNPTomQULgd6-iJ0m6JM8Eix-t4tNwOFI1af9nwdwgDAc2y--04F4OZXHKEUGQ"
 url = "/webhook-uploads/1445216880990/Freemans.jpg"
@@ -32,8 +36,4 @@ width = 181
 type = "image/jpeg"
 size = 13849
 
-reviews_books = ["books/freemans.md"]
-books_author = ["authors/john-freeman.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

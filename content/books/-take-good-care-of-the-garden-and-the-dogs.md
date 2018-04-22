@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/algonquin-books.md"
 books_translator = ""
+reviews_books = ["books/-take-good-care-of-the-garden-and-the-dogs.md"]
+books_author = ["authors/heather-lende.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NLA6nNTWqv_V8j84wrNKq1ng35vMasEAyQO_AErnHjPLyhJdyAdlKex8gI7DOnH2RfN3Neiqvg7ZX9DKm0ikXSzOhz1A"
 url = "/webhook-uploads/1442556905801/9781616200510.jpg"
@@ -32,8 +36,4 @@ width = 266
 type = "image/jpeg"
 size = 30936
 
-reviews_books = ["books/-take-good-care-of-the-garden-and-the-dogs.md"]
-books_author = ["authors/heather-lende.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
+reviews_books = ["books/the-best-party-of-our-lives.md"]
+books_author = ["authors/sarah-galvin.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/FbJVSaZGynaS_iJZQIyh8qb8e8AVoEa5BWZZM9q8Fa2XXRKp84yDiAxRDYkY-FFP3JV0ghhdMV3hFOtcmv47QisYXT4"
 url = "/webhook-uploads/1449873249972/9781632170132.jpg"
@@ -32,8 +36,4 @@ width = 286
 type = "image/jpeg"
 size = 21572
 
-reviews_books = ["books/the-best-party-of-our-lives.md"]
-books_author = ["authors/sarah-galvin.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

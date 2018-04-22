@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "poetry"
 books_publisher = "publishers/button-poetry.md"
 books_translator = ""
+reviews_books = ["books/the-crown-aint-worth-much.md"]
+books_author = ["authors/hanif-willis-abdurraqib.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NGLx48qncvCnE-KmZS8HFzj9Z7fPmzDw6-kFBiXa4hS5iDuon6oUgNZyxF6-1R9Xb_UAeT6Ii95w6P-8hfb2PKdYp3Y"
 url = "/webhook-uploads/1488777326315/tcawm.jpg"
@@ -32,8 +36,4 @@ width = 323
 type = "image/jpeg"
 size = 34553
 
-reviews_books = ["books/the-crown-aint-worth-much.md"]
-books_author = ["authors/hanif-willis-abdurraqib.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
+reviews_books = ["books/one-of-us.md"]
+books_author = ["authors/\u00e5sne-seierstad.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4zZOxgVSoBRjsZ2kN1WZ55vV__h2VVE5R6CTbjMl6aHS7mix3hYY7_KDsk2p1MB-EmEvFn40gK9FhGeCz82Yss6qSXxgEQ"
 url = "/webhook-uploads/1435298949268/9780374277895.jpg"
@@ -32,8 +36,4 @@ width = 267
 type = "image/jpeg"
 size = 20671
 
-reviews_books = ["books/one-of-us.md"]
-books_author = ["authors/\u00e5sne-seierstad.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

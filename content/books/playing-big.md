@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Self-actualization (Psychology)"]
 books_publisher = "publishers/avery-publishing-group.md"
 books_translator = ""
+reviews_books = ["books/playing-big.md"]
+books_author = ["authors/tara-mohr.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/m9-DMzsom5Fhd-Hkv8VNjoJs932hY7jUk8Jf1xF6joBECNH8LhUX7F3Vdno_RVpZzF3FBAexpOMEdNCWz36-zn1B33Kotg"
 url = "/webhook-uploads/1478489190758/content%3Fid%3DIkQ-rgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11946
 
-reviews_books = ["books/playing-big.md"]
-books_author = ["authors/tara-mohr.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

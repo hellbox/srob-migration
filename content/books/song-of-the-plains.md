@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/she-writes-press.md"
 books_translator = ""
+reviews_books = ["books/song-of-the-plains.md"]
+books_author = ["authors/linda-joy-myers.md"]
+sponsorships_book = ["sponsorships/song-of-the-plains.md"]
+notes_relationship = ["notes/wide-open-spaces-tightly-knit-lives.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4cuqZe3myQANIfeFvxCdwTVuPJn15nR_J4aROP9wxpJL9gbkILbpX9dquaHMWJE4iBbEjoU5Zin2mFV0uYRysUZLUBnv"
 url = "/webhook-uploads/1503875211468/Song%20of%20the%20Plains_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 87299
 
-reviews_books = ["books/song-of-the-plains.md"]
-books_author = ["authors/linda-joy-myers.md"]
-sponsorships_book = ["sponsorships/song-of-the-plains.md"]
-notes_relationship = ["notes/wide-open-spaces-tightly-knit-lives.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/poetry-northwest.md"
 books_translator = ""
+reviews_books = ["books/poetry-northwest-(winter-&-spring-2018).md"]
+books_author = ["authors/poetry-northwest.md"]
+sponsorships_book = ["sponsorships/poetry-northwest.md"]
+notes_relationship = ["notes/a-winter-cento-courtesy-of-sponsor-poetry-northwest.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bFQaoFuxXu4BaYZ3AIOGd-Q8ASBjohL9_UUiPHbO6NrJOiRq-o00k60B-TwT90rVV4Te4XLFx96-Phn6HHnmhAmDdbw"
 url = "/webhook-uploads/1516904458849/Poetry%20Northwest_250.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 79752
 
-reviews_books = ["books/poetry-northwest-(winter-&-spring-2018).md"]
-books_author = ["authors/poetry-northwest.md"]
-sponsorships_book = ["sponsorships/poetry-northwest.md"]
-notes_relationship = ["notes/a-winter-cento-courtesy-of-sponsor-poetry-northwest.md"]
 +++

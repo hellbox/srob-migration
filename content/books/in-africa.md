@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/the-bobbs-merrill-company.md"
 books_translator = ""
+reviews_books = ["books/in-africa.md"]
+books_author = ["authors/john-tinney-mccutcheon.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/TPhjHexo-DNDCsu1tnY7tIGNxEzw0UjvgL098wFCZdEFW77qZhjAVZKAdfvKR6FY-DI9nEs6L_r_jWx_J0NgewgPPAU6"
 url = "/webhook-uploads/1438581301044/419JQmqXfJL._SX200_.jpg"
@@ -32,8 +36,4 @@ width = 200
 type = "image/jpeg"
 size = 13166
 
-reviews_books = ["books/in-africa.md"]
-books_author = ["authors/john-tinney-mccutcheon.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

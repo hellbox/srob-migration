@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Novel"
 books_publisher = "publishers/farrar-straus-giroux.md"
 books_translator = ""
+reviews_books = ["books/outline.md"]
+books_author = ["authors/rachel-cusk.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tsV1EZRSw3zX6gdxhayyxAYOyCP6iLrIFW7QP05wyEBL8U5kWfdpbD5LMY0PWfGQ6XyBhFdGUFvDzFwNI250K9wK3F2e"
 url = "/webhook-uploads/1436132520671/9780374228347.jpg"
@@ -32,8 +36,4 @@ width = 268
 type = "image/jpeg"
 size = 10334
 
-reviews_books = ["books/outline.md"]
-books_author = ["authors/rachel-cusk.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

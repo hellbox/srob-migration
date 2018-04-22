@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/-e-greater-seattle-bureau-of-fearless-ideas.md"
 books_translator = ""
+reviews_books = ["books/encyclopedia-greenwoodia.md"]
+books_author = ["authors/multiple-authors.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/NZ2_rYn6q5xnyMvFRMG6SLE_BcAOWSXy82-CQ4YLHquwwF5se-qG_5gx0W_li5M_DqFJna4KI0k6rnT6lA9OP6iGdBnw"
 url = "/webhook-uploads/1459914354088/BFI_REVIEW_FINAL.jpg"
@@ -32,8 +36,4 @@ width = 975
 type = "image/jpeg"
 size = 263225
 
-reviews_books = ["books/encyclopedia-greenwoodia.md"]
-books_author = ["authors/multiple-authors.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

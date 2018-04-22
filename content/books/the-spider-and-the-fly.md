@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["True Crime"]
 books_publisher = "publishers/dey-street-books.md"
 books_translator = ""
+reviews_books = ["books/the-spider-and-the-fly.md"]
+books_author = ["authors/claudia-rowe.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kGv75DFy3X-5nek4mBD26FlRFreJ_aPPss4IDboLMYrz6Zu2_cdmTeiaDpOJyfX_2EdGGWR9SZa8d5XaL_QuHxSOT5fk"
 url = "/webhook-uploads/1484927299973/content%3Fid%3DMB9TjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7881
 
-reviews_books = ["books/the-spider-and-the-fly.md"]
-books_author = ["authors/claudia-rowe.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

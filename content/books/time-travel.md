@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Literary Criticism"]
 books_publisher = "publishers/pantheon-books.md"
 books_translator = ""
+reviews_books = ["books/time-travel.md"]
+books_author = ["authors/james-gleick.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/E_pUQeUN2TR3ETsQRz1DHmScCUZkfRScLhh1NSAZaPFbyXe4VXfDV-TCSxyF-cLo45HagmfN_Tr0T148NDiNldqOspX4XQ"
 url = "/webhook-uploads/1481691434835/content%3Fid%3DgG8qjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 2967
 
-reviews_books = ["books/time-travel.md"]
-books_author = ["authors/james-gleick.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

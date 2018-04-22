@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/bravedog--deaddog-artworks.md"
 books_translator = ""
+reviews_books = ["books/empty-bottle-of-smoke.md"]
+books_author = ["authors/conon-parks.md"]
+sponsorships_book = ["sponsorships/empty-bottle-of-smoke-12--2016.md"]
+notes_relationship = ["notes/the-paranoid-genie-in-the-bottle.md", "notes/a-bizarre-trek-though-a-bizarre-world.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2ChD73jnQJCIba302yw85axoH6TPw_Z2p64tL2Qtz3m_RcrctxIQkj0l1i5DMi7uB5vp3BZ0rajgThstw_wCGgDpbIWX"
 url = "/webhook-uploads/1515087578822/Empty%20Bottle%20of%20Smoke_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 10609
 
-reviews_books = ["books/empty-bottle-of-smoke.md"]
-books_author = ["authors/conon-parks.md"]
-sponsorships_book = ["sponsorships/empty-bottle-of-smoke-12--2016.md"]
-notes_relationship = ["notes/the-paranoid-genie-in-the-bottle.md", "notes/a-bizarre-trek-though-a-bizarre-world.md"]
 +++

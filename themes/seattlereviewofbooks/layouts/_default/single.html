@@ -7,7 +7,7 @@
 
 Reviews byline: {{ range $byline }}{{ .Params.byline }}{{ end }}<br>
 Reviews tags: {{ range $reviewtags }}{{ .Params.name }}{{ end }}<br>
-Reviews books (not working): {{ $books }}<br>
+Reviews books: {{ range $books }}{{ .Params.name }}{{ end }}<br>
 Notes tags: {{ range $notestags }}{{ .Params.name }}{{ end }}<br>
 
 

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
+reviews_books = ["books/26-songs-in-30-days.md"]
+books_author = ["authors/greg-vandy.md", "authors/daniel-person.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/zcPeNUeZ5u1yi9bLi9maV5b8uy29xbNpA2OOQsDS6MMt69qCIRBFJVmq65CVIm19WyN93O_Rk1zZYn1h7kyz10v_-A8"
 url = "/webhook-uploads/1463546686286/51DGer6RZ-L.jpg"
@@ -32,8 +36,4 @@ width = 426
 type = "image/jpeg"
 size = 64048
 
-reviews_books = ["books/26-songs-in-30-days.md"]
-books_author = ["authors/greg-vandy.md", "authors/daniel-person.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

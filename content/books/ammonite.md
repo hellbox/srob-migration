@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/del-rey-books.md"
 books_translator = ""
+reviews_books = ["books/ammonite.md"]
+books_author = ["authors/nicola-griffith.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4RmHDvieKxq1uHgnFlKVQNJTeyeM9RSZh7DAfki03RuZF6tYVhGZeuSDxNFwuvGRZTwK-Mz-1vf2nQbxKBqeOegC_qT_Zw"
 url = "/webhook-uploads/1439144048329/content%3Fid%3DNvFzZO4Rw8EC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9063
 
-reviews_books = ["books/ammonite.md"]
-books_author = ["authors/nicola-griffith.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

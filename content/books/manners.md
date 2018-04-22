@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/manners.md"]
+books_author = ""
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-Xi7S76lYheay5jBhtDHmXWG8imwi_H7D7U6sTBJ8ZWf1Km_pK_fOqeGG6d05ABfKxVsjWGlPXI0FxDBYA8TnO1LAmdP"
 url = "/webhook-uploads/1491369982920/content%3Fid%3DGFQ9MQAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 3376
 
-reviews_books = ["books/manners.md"]
-books_author = ""
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/gabalfa-press.md"
 books_translator = ""
+reviews_books = ["books/zek.md"]
+books_author = ["authors/arthur-longworth.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/1T5qea_SVoMLQMz4H2R8L4GVVRSr3hqtUFQhcn7qX0l7YCRjp0TVfFNaAXZEt6_s2r58T3_mPNhXduWN5dNLm6FTz9Qk"
 url = "/webhook-uploads/1472074400502/zek.jpg"
@@ -32,8 +36,4 @@ width = 313
 type = "image/jpeg"
 size = 37751
 
-reviews_books = ["books/zek.md"]
-books_author = ["authors/arthur-longworth.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

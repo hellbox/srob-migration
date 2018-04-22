@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/melville-house.md"
 books_translator = ""
+reviews_books = ["books/definitely-maybe.md"]
+books_author = ["authors/arkady-strugatsky.md", "authors/boris-strugatsky.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/6xQjTWg3IlSC9Wnys5LgCansgtLaEJffwmIPZPF4yy67pO_TuDLcCoLVrSlxeEy9snyl5l4Rvavq-4hKpcoJfZpTh3JZ"
 url = "/webhook-uploads/1435299955436/9781612192819.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 13456
 
-reviews_books = ["books/definitely-maybe.md"]
-books_author = ["authors/arkady-strugatsky.md", "authors/boris-strugatsky.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

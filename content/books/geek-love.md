@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/geek-love.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/katherine-dunn-1945-2016.md", "notes/heroes-of-weirdness-in-honor-of-katherine-dunn.md"]
+[[image]]
+image = ""
 +++

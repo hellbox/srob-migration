@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/neuromancer.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-counter-programming.md", "notes/thursday-comics-hangover-william-gibson-comes-to-comics.md"]
+[[image]]
+image = ""
 +++

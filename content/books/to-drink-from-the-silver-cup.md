@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/terra-nova-books.md"
 books_translator = ""
+reviews_books = ["books/to-drink-from-the-silver-cup.md"]
+books_author = ["authors/anna-redsand.md"]
+sponsorships_book = ["sponsorships/to-drink-from-the-silver-cup.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/bISIpGzlLD_T3Knp-3hLkCAgYvZtW2cmMrNVGxmiyBdzcXjTL6_TbfBv9pKw9XdG_-5kld6UaLkteKYHsNVmYTDjm5bW"
 url = "/webhook-uploads/1480114193440/silver%20cup%20cover%20small%20rgb%20(7-5-16).jpg"
@@ -32,8 +36,4 @@ width = 900
 type = "image/jpeg"
 size = 1071032
 
-reviews_books = ["books/to-drink-from-the-silver-cup.md"]
-books_author = ["authors/anna-redsand.md"]
-sponsorships_book = ["sponsorships/to-drink-from-the-silver-cup.md"]
-notes_relationship = ""
 +++

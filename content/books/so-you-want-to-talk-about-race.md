@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/seal-press.md"
 books_translator = ""
+reviews_books = ["books/so-you-want-to-talk-about-race.md"]
+books_author = ["authors/ijeoma-oluo.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/event-of-the-week-so-you-want-to-talk-about-race-at-elliott-bay-book-company.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/lOWS92vQY0LqW0_j4n3BC2zRwM4tBq8fHOxb0bdKctRIidWQx-IZfGWI6JDJLxm5jSaX6l10vth8tyCNgPHIQSaE8zQ"
 url = "/webhook-uploads/1519977218888/soyouwant.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 19035
 
-reviews_books = ["books/so-you-want-to-talk-about-race.md"]
-books_author = ["authors/ijeoma-oluo.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/event-of-the-week-so-you-want-to-talk-about-race-at-elliott-bay-book-company.md"]
 +++

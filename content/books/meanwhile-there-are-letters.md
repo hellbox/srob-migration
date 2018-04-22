@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/arcade-publishing.md"
 books_translator = ""
+reviews_books = ["books/meanwhile-there-are-letters.md"]
+books_author = ["authors/eudora-welty.md", "authors/ross-macdonald.md", "authors/suzanne-marrs.md", "authors/tom-nolan-.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/_jjQycqpScYWzq1_GUuqr9hGDVtzMapuRWcUHTPnyWSl_ZrojV_Av8NRqb1t30Z8LHc7fPW4rO-HxQ-D1eaWQ96I0O1n"
 url = "/webhook-uploads/1449605692827/41zVId30HPL._SX323_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 325
 type = "image/jpeg"
 size = 30270
 
-reviews_books = ["books/meanwhile-there-are-letters.md"]
-books_author = ["authors/eudora-welty.md", "authors/ross-macdonald.md", "authors/suzanne-marrs.md", "authors/tom-nolan-.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

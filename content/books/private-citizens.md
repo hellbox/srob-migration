@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/william-morrow-paperbacks.md"
 books_translator = ""
+reviews_books = ["books/private-citizens.md"]
+books_author = ["authors/tony-tulathimutte.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/-Ts42nGNP05KVjvs0o7sueBPVtvRcuRDPPX8lWV1g2B6T5MEaVUvIbpiEETYAc750G3GP_dsb99q7XHL6t5oMi0Bz-z7"
 url = "/webhook-uploads/1485567294438/content%3Fid%3DX3ONrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 50530
 
-reviews_books = ["books/private-citizens.md"]
-books_author = ["authors/tony-tulathimutte.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/nakano-books.md"
 books_translator = ""
+reviews_books = ["books/our-secret-better-lives.md"]
+books_author = ["authors/matthew-amster-burton.md"]
+sponsorships_book = ["sponsorships/our-secret-better-lives.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/VkVazCz4Z-V0WBu_wJH0q2E9wantjxIVCamh94K1njeLqrzb7cXHqoUt03tz6Dat4Bqu-aeQi-BLRcBYLeO37h-1W5zv"
 url = "/webhook-uploads/1486617535655/Our%20Better%20-%20High%20Resolution%20-%20Poster%20Version%20copy%202.jpg"
@@ -32,8 +36,4 @@ width = 1563
 type = "image/jpeg"
 size = 3764896
 
-reviews_books = ["books/our-secret-better-lives.md"]
-books_author = ["authors/matthew-amster-burton.md"]
-sponsorships_book = ["sponsorships/our-secret-better-lives.md"]
-notes_relationship = ""
 +++

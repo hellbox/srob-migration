@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/little-brown.md"
 books_translator = ""
+reviews_books = ["books/gather-the-daughters.md"]
+books_author = ["authors/jennie-melamed.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/e75GOq5bvywqHk8UO2igg-KUUhJwVdli5HSBL8RnMV4Y6lr28r9dY7A4dn8lsB6GPzDwmXvvK6bismWnMSel8p1rbY4I"
 url = "/webhook-uploads/1503987455970/content%3Fid%3DGQx9vgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10715
 
-reviews_books = ["books/gather-the-daughters.md"]
-books_author = ["authors/jennie-melamed.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/bravedog--deaddog-artworks.md"
 books_translator = ""
+reviews_books = ["books/some-kind-of-ending.md"]
+books_author = ["authors/conon-parks.md", "authors/mike-macneil.md", "authors/randy-jones.md"]
+sponsorships_book = ["sponsorships/some-kind-of-ending.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ksjR19pwHS5pM9RJ19H0zhLnIbd3pg0elOkXr3St7dRNK-AWJqHJiepT9wPWOdOUHdQlZ3L2GNCq7VvLySyNtyX0MVvx"
 url = "/webhook-uploads/1515613121357/Some%20Kind%20of%20Ending_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 25953
 
-reviews_books = ["books/some-kind-of-ending.md"]
-books_author = ["authors/conon-parks.md", "authors/mike-macneil.md", "authors/randy-jones.md"]
-sponsorships_book = ["sponsorships/some-kind-of-ending.md"]
-notes_relationship = ""
 +++

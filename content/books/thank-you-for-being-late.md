@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
+reviews_books = ["books/thank-you-for-being-late.md"]
+books_author = ["authors/thomas-friedman.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/drm3u_91Dca4CxZ6KkL3eDsVvrYzce4dGBQyArb-OZp9f19Leet4oNeCYpg4lAkYeMSIU5mgUFI9pD6MJHeyDGyMEHNSQw"
 url = "/webhook-uploads/1481262583923/late.jpg"
@@ -32,8 +36,4 @@ width = 333
 type = "image/jpeg"
 size = 33180
 
-reviews_books = ["books/thank-you-for-being-late.md"]
-books_author = ["authors/thomas-friedman.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

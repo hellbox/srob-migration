@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
+reviews_books = ["books/full-rip-90.md"]
+books_author = ["authors/sandi-doughton.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/a-bigger-look-at-the-really-big-one.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/qs8-qQAyroBVywj365uoR5_O0AiTH6Iw2OgcCJ1zcUQA-FAWdehmHanI4xn8_6A4BOm4EZapipSaGZTJnTD3-nmug-dS"
 url = "/webhook-uploads/1436814608902/9781570619427.jpg"
@@ -32,8 +36,4 @@ width = 259
 type = "image/jpeg"
 size = 20333
 
-reviews_books = ["books/full-rip-90.md"]
-books_author = ["authors/sandi-doughton.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/a-bigger-look-at-the-really-big-one.md"]
 +++

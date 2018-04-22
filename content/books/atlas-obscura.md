@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Travel"]
 books_publisher = "publishers/workman-publishing.md"
 books_translator = ""
+reviews_books = ["books/atlas-obscura.md"]
+books_author = ["authors/joshua-foer.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QMiU1oKUXJK9Hj97QraJWp9iGLtQ7FPXduQn0QLP0UOTzkTFbyrKCXOKaMKHZSeUlaEN7qp8lw9jp9q-vyzA05GFLTXuzg"
 url = "/webhook-uploads/1475649643458/content%3Fid%3DNVczDAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9820
 
-reviews_books = ["books/atlas-obscura.md"]
-books_author = ["authors/joshua-foer.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

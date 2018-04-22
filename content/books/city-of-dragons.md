@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/minotaur-books.md"
 books_translator = ""
+reviews_books = ["books/city-of-dragons.md"]
+books_author = ["authors/kelli-stanley.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/2Iwi-NQkacZ6xSVfxnHPG_SQpAUxCQa5rYBSRpb9pbV-dmAalKb7gvIMtkFdd7MZQpDk-iJ_DjfYu3yjNf8DgdmE1nqZCw"
 url = "/webhook-uploads/1441766643764/9780312668792.jpg"
@@ -32,8 +36,4 @@ width = 268
 type = "image/jpeg"
 size = 55742
 
-reviews_books = ["books/city-of-dragons.md"]
-books_author = ["authors/kelli-stanley.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/autonomedia.md"
 books_translator = ""
+reviews_books = ["books/negativeland.md"]
+books_author = ["authors/doug-nufer.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/UHceIDdzxbzvYLLKcQbjiWesJ8S0G7aa10nfAH8r9lQZct-NhMw6hvRf-S0XVVfd9HGhJ00ALeptCY9wPeXjXEBF2ym16Q"
 url = "/webhook-uploads/1439872958771/9781570271595.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 16708
 
-reviews_books = ["books/negativeland.md"]
-books_author = ["authors/doug-nufer.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"]
 +++

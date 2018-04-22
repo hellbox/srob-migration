@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/pumpkinflowers.md"]
+books_author = ""
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ANwn0MUSHcBYdO-baRQla4m3McO8HFJE07-5myfrRq4Wn_Y_rxWtm6zWrl4PFJwU9X-qJ6CMzMWXaPaZsiuvTvxbBGx7"
 url = "/webhook-uploads/1486842001505/content%3Fid%3DAvnnCwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11070
 
-reviews_books = ["books/pumpkinflowers.md"]
-books_author = ""
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/redhook.md"
 books_translator = ""
+reviews_books = ["books/the-tourist.md"]
+books_author = ["authors/robert-dickinson.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Z-RD3q8X3JdJTcLXobBKe85n26h_PT48M_wdHGpplq96pilR3cMjiUyIqVHTY1bLW2D3UCjJ_oNdDzCvFe7aVpv9mQ0"
 url = "/webhook-uploads/1481691388551/content%3Fid%3D5YCFjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8898
 
-reviews_books = ["books/the-tourist.md"]
-books_author = ["authors/robert-dickinson.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

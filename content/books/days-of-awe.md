@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/knopf.md"
 books_translator = ""
+reviews_books = ["books/days-of-awe.md"]
+books_author = ["authors/lauren-fox.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Y0CJojasU-gPRrppP2tQg93Lb76p-uG_McdbrJvSMVOcUbolw9FKQlB_-QMQmwsgXcId0dsjVxTypR2v7fg_fCYBWSQ"
 url = "/webhook-uploads/1440818966234/9780307268129.jpg"
@@ -32,8 +36,4 @@ width = 269
 type = "image/jpeg"
 size = 17183
 
-reviews_books = ["books/days-of-awe.md"]
-books_author = ["authors/lauren-fox.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

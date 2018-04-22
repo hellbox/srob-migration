@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Social Science"]
 books_publisher = "publishers/twelve.md"
 books_translator = ""
+reviews_books = ["books/tribe.md"]
+books_author = ["authors/sebastian-junger.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/9oU6ORYhXlufpWo2NTGY_kZE_vtBjvuGyqi96lmRw2lqGWWXUO9-k0I_PIOv8fynmCegNREMg79MSjNMCTxVGiWBIHMW"
 url = "/webhook-uploads/1474982392449/content%3Fid%3DVA8KjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9527
 
-reviews_books = ["books/tribe.md"]
-books_author = ["authors/sebastian-junger.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

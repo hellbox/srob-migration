@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/princeton-university-press.md"
 books_translator = ""
+reviews_books = ["books/against-democracy.md"]
+books_author = ["authors/jason-brennan.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Et-hQzXB_6psMiWK7SE7UJcrLkpwpq5_lGU0ot38vF9n2oHsIvCEWluARO3139p08cF_VHaxtvJKZRIaBVHDIOGhBgo"
 url = "/webhook-uploads/1478319175922/againstdemocracy.jpeg"
@@ -32,8 +36,4 @@ width = 103
 type = "image/jpeg"
 size = 4686
 
-reviews_books = ["books/against-democracy.md"]
-books_author = ["authors/jason-brennan.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

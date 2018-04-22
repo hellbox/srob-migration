@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/gramma-poetry.md"
 books_translator = ""
+reviews_books = ["books/ugly-time.md"]
+books_author = ["authors/sarah-galvin.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/literary-event-of-the-week-sarah-galvin-at-the-gramma-poetry-party.md", "notes/book-news-roundup-sarah-galvins-going-on-a-european-book-tour-jim-demonakos-is-leaving-emerald-city-comicon.md", "notes/literary-event-of-the-week-x-y-z-gallery-opening.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/d9AkPJT5f_Kxf1WNeM_4JZhkahWAiNrbmAA6RXCcm4K9LaFVkaLV1d5dSOlmlMirFANkeskSi2xbTrG3-Xueu_S1n3yMVw"
 url = "/webhook-uploads/1489354486410/GALVIN-COVER-FOR-WEB.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 11561
 
-reviews_books = ["books/ugly-time.md"]
-books_author = ["authors/sarah-galvin.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/literary-event-of-the-week-sarah-galvin-at-the-gramma-poetry-party.md", "notes/book-news-roundup-sarah-galvins-going-on-a-european-book-tour-jim-demonakos-is-leaving-emerald-city-comicon.md", "notes/literary-event-of-the-week-x-y-z-gallery-opening.md"]
 +++

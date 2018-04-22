@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "biography"
 books_publisher = "publishers/little-brown-and-company.md"
 books_translator = ""
+reviews_books = ["books/last-girl-before-freeway.md"]
+books_author = ["authors/leslie-bennetts.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/journey-to-the-heart-of-the-ultimate-mean-girl.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/pfmr4po3O9AAX437GJQwYVvnKUCIeR40fUam2gY4AmcJRq4P-RTlytm943fi61WiFtY36S5asMJZ9rLrHWeRQ8j7Ev8"
 url = "/webhook-uploads/1482459018838/2849f99e918759430f94afcb3fe5253e.jpg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 39417
 
-reviews_books = ["books/last-girl-before-freeway.md"]
-books_author = ["authors/leslie-bennetts.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/journey-to-the-heart-of-the-ultimate-mean-girl.md"]
 +++

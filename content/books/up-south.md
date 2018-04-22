@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "poetry"
 books_publisher = "publishers/small-doggies-press.md"
 books_translator = ""
+reviews_books = ["books/up-south.md"]
+books_author = ["authors/robert-lashley.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/dftmIDxgs1TczLUAOJxI-19jurIC34KlKiNAFdHZ5C1sfZtWUGYtzzF7_2El2SkgDP4bH-C9i7lxcUxD91guB8bg7h5IqA"
 url = "/webhook-uploads/1490932550540/up%20south.jpg"
@@ -32,8 +36,4 @@ width = 547
 type = "image/jpeg"
 size = 42031
 
-reviews_books = ["books/up-south.md"]
-books_author = ["authors/robert-lashley.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

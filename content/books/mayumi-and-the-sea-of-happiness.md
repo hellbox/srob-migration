@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/europa-editions.md"
 books_translator = ""
+reviews_books = ["books/mayumi-and-the-sea-of-happiness.md"]
+books_author = ["authors/jennifer-tseng.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/H8q9g91Cpz80Bkm1lKX2sdQy2gmYgMo_VQ_7gTk3wTEpdx4igQgJbrFgt90FD4FEWsEB1HE1jNWYTmPMONWUpbTbhn51OQ"
 url = "/webhook-uploads/1447747028537/51fFcDHBgGL._SX319_BO1%2C204%2C203%2C200_.jpg"
@@ -32,8 +36,4 @@ width = 321
 type = "image/jpeg"
 size = 46089
 
-reviews_books = ["books/mayumi-and-the-sea-of-happiness.md"]
-books_author = ["authors/jennifer-tseng.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

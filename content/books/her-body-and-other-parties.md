@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/graywolf-press.md"
 books_translator = ""
+reviews_books = ["books/her-body-and-other-parties.md"]
+books_author = ["authors/carmen-maria-machado.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WI9CzaE8P08X93fMHx9xCee7r2kOIbnN2pJQLfcikb1w8Du5oNXQXk0M8XDv00xsuGAH-Vc0q3agaBG-cf0sOqpZIIU"
 url = "/webhook-uploads/1510253942862/Her%20Body_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 21354
 
-reviews_books = ["books/her-body-and-other-parties.md"]
-books_author = ["authors/carmen-maria-machado.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

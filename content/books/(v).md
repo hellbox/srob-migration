@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/gramma-poetry.md"
 books_translator = ""
+reviews_books = ["books/(v).md"]
+books_author = ["authors/anastacia-renee.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/no-pastors-or-pews-talking-with-anastacia-rene\u00e9.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ZO651es9Y1pC27RonnptPyZaZXuuzCkCoObRCwygcDusNceIc63BrzzylV6LeJIQsxreh3R6YbJdSPYcITi7StMkZtFa"
 url = "/webhook-uploads/1500157935585/v-cover_225.jpeg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 7469
 
-reviews_books = ["books/(v).md"]
-books_author = ["authors/anastacia-renee.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/no-pastors-or-pews-talking-with-anastacia-rene\u00e9.md"]
 +++

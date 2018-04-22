@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/the-march.md"]
 books_author = ["authors/el-doctorow.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/el-doctorow-1931---2015.md"]
+[[image]]
+image = ""
 +++

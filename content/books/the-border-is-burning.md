@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/university-of-new-mexico-pres.md"
 books_translator = ""
+reviews_books = ["books/the-border-is-burning.md"]
+books_author = ["authors/ito-romo.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/oz4IW_ffDdcpMH5nAgmawKSFRP7LglSb52yU-GsVJE0J7rHdsWoSJiWMQAYQP35KKtNmvoHGJjWA5hQ4cTm9zoW0RuGz"
 url = "/webhook-uploads/1457499178572/content%3Fid%3DOMAFmwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12862
 
-reviews_books = ["books/the-border-is-burning.md"]
-books_author = ["authors/ito-romo.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/manic-thrills-press.md"
 books_translator = ""
+reviews_books = ["books/omnibusted.md"]
+books_author = ["authors/tatiana-gill.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/xqyb1h5OM-wAz7iMozmRAL68xGP4u_D--NymdffOKnUr01v0JzIzrxQMEy-Qc3b5RwwRqzGOlthb8PCUKzepoWFrqqEJ"
 url = "/webhook-uploads/1447134084458/omnibusted.jpg"
@@ -32,8 +36,4 @@ width = 225
 type = "image/jpeg"
 size = 27335
 
-reviews_books = ["books/omnibusted.md"]
-books_author = ["authors/tatiana-gill.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

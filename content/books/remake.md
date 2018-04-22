@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/remake.md"]
+books_author = ["authors/connie-willis.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hP0ztHy8GTn9K28d0-KwHBlwehfNNFeYrLkmaAgZmkFmuJRSNpgkC2sh7hBqXPzWda7zgIomL2wV7plAqhLipTx-qCo"
 url = "/webhook-uploads/1451253010496/content%3Fid%3DvUmJmAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 18271
 
-reviews_books = ["books/remake.md"]
-books_author = ["authors/connie-willis.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

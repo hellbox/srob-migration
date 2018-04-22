@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/bold-strokes-books.md"
 books_translator = ""
+reviews_books = ["books/tartarus.md"]
+books_author = ["authors/eric-andrews-katz.md"]
+sponsorships_book = ["sponsorships/tartarus.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Gyj03l6IGi8U_hPvegOPckugEq5TOedsvWIkk9m_MVKsKG3ZtCSU-hjAUuyxIPSqs2WFZb1a0E4TnBnmzEO1eb3mFtfN"
 url = "/webhook-uploads/1491026226553/cover.jpg"
@@ -32,8 +36,4 @@ width = 1725
 type = "image/jpeg"
 size = 4599009
 
-reviews_books = ["books/tartarus.md"]
-books_author = ["authors/eric-andrews-katz.md"]
-sponsorships_book = ["sponsorships/tartarus.md"]
-notes_relationship = ""
 +++

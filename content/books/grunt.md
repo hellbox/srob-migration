@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Science"]
 books_publisher = "publishers/w-w-norton.md"
 books_translator = ""
+reviews_books = ["books/grunt.md"]
+books_author = ["authors/mary-roach.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/BCgAMK1O7n6LQbvA98pZx280qEraoTybg4tAnDxr53-2Shtb0qOmkc28ywJUXahX3-OTUCnecVh2HdNM5M35swtexEQ"
 url = "/webhook-uploads/1465976474903/content%3Fid%3DnxMtjgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7992
 
-reviews_books = ["books/grunt.md"]
-books_author = ["authors/mary-roach.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

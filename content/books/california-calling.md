@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/hawthorne-books.md"
 books_translator = ""
+reviews_books = ["books/california-calling.md"]
+books_author = ["authors/natalie-singer.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/TBJh4Lo6dtIjZ3YiUkuzif4HMkMZAF3qqKkJT7XQRzC7--3P_ws5VD2GSXpXP0ZtpcC3Z8W3Op2MOWpJ7woK0mLlI5E"
 url = "/webhook-uploads/1520318581000/california%20calling.jpg"
@@ -32,8 +36,4 @@ width = 244
 type = "image/jpeg"
 size = 16929
 
-reviews_books = ["books/california-calling.md"]
-books_author = ["authors/natalie-singer.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

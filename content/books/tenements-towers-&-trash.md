@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/black-dog-&-leventhal.md"
 books_translator = ""
+reviews_books = ["books/tenements-towers-&-trash.md"]
+books_author = ["authors/julia-wertz.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/getting-ready-for-short-run-read-our-coverage-first!.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/4bIhGTepVZEM1Q68dK5BTxbFHU02q6iTBVVjdl1CPKPerf46CRweKsgVQmQJTZf7Y1CpHHSFkHwO8OYF99K8KJG66HObCw"
 url = "/webhook-uploads/1509427288416/content%3Fid%3D3ceFAQAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 7629
 
-reviews_books = ["books/tenements-towers-&-trash.md"]
-books_author = ["authors/julia-wertz.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/getting-ready-for-short-run-read-our-coverage-first!.md"]
 +++

@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/wrinkle-in-time.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-dun-dun-dun-dun-dun-dun-dun-dun-dun-duuuuun.md", "notes/the-help-desk-its-thick-book-season!.md"]
+[[image]]
+image = ""
 +++

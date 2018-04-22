@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/verso.md"
 books_translator = ""
+reviews_books = ["books/trans.md"]
+books_author = ["authors/juliet-jacques.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tqYrveOPEb2Ys2RL1PBUm5212cqBNWfy-gLpBtj55HzZG53GnUaPiPD6xAlc_HrzvhERXLhJUUgTJ62-hwZgiCqsETParA"
 url = "/webhook-uploads/1455640926659/content%3Fid%3D07DurQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 10072
 
-reviews_books = ["books/trans.md"]
-books_author = ["authors/juliet-jacques.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

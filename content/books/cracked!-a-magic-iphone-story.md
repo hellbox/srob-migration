@@ -24,13 +24,13 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
+reviews_books = ["books/cracked!-a-magic-iphone-story.md"]
+books_author = ["authors/janine-a-southard.md"]
+sponsorships_book = ["sponsorships/cracked!-a-magic-iphone-story.md"]
+notes_relationship = ["notes/janine-a-southards-cracked!-a-magic-iphone-story.md", "notes/read-a-chapter-from-janine-a-southards-cracked!-a-magic-iphone-story.md", "notes/one-last-thanks-to-janine-a-southard.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/QTRznKTinzbfqNbF5S5Vrxnr5ws6FNx90aqhzHKhh3-Km75Y2uYJm-Ogq4CCSco74KdCa-lV1p_kzybnJvBUTHca3kvWFQ"
 url = "/webhook-uploads/1437620874288/Cracked-High-Resolution-188x300.jpg"
 width = 188
 height = 300
-reviews_books = ["books/cracked!-a-magic-iphone-story.md"]
-books_author = ["authors/janine-a-southard.md"]
-sponsorships_book = ["sponsorships/cracked!-a-magic-iphone-story.md"]
-notes_relationship = ["notes/janine-a-southards-cracked!-a-magic-iphone-story.md", "notes/read-a-chapter-from-janine-a-southards-cracked!-a-magic-iphone-story.md", "notes/one-last-thanks-to-janine-a-southard.md"]
 +++

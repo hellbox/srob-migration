@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = "Science Fiction & Fantasy"
 books_publisher = "publishers/pond-house-press.md"
 books_translator = ""
+reviews_books = ["books/the-jesus-gene.md"]
+books_author = ["authors/anne-kelleher.md"]
+sponsorships_book = ["sponsorships/the-jesus-gene.md"]
+notes_relationship = ["notes/its-all-in-the-bloodline.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/GLM5OIVXR65jBJ6BG3GZbNy4m3kZSbtPZbKffY5-V1_SpijHhMtqvdOvsHNTNLc2Zq5P1y8xqXZPf0Wo9Yk9WPAwz_s8cQ"
 url = "/webhook-uploads/1451322824635/0.jpeg"
@@ -32,8 +36,4 @@ width = 314
 type = "image/jpeg"
 size = 32743
 
-reviews_books = ["books/the-jesus-gene.md"]
-books_author = ["authors/anne-kelleher.md"]
-sponsorships_book = ["sponsorships/the-jesus-gene.md"]
-notes_relationship = ["notes/its-all-in-the-bloodline.md"]
 +++

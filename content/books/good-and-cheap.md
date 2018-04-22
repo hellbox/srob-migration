@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/workman-publishing.md"
 books_translator = ""
+reviews_books = ["books/good-and-cheap.md"]
+books_author = ["authors/leanne-brown.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/ox5VJ6Yja6VdQWZ1CxkCf2iXn2lntFV_V4FvV1osXdCjcF2GpxsaGu22sd74SG1Cni5DUHwV6pm21IOHWfUxmmAtAKLF"
 url = "/webhook-uploads/1441865124430/9780761184997.jpg"
@@ -32,8 +36,4 @@ width = 400
 type = "image/jpeg"
 size = 38142
 
-reviews_books = ["books/good-and-cheap.md"]
-books_author = ["authors/leanne-brown.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

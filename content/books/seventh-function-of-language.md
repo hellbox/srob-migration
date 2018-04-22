@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
+reviews_books = ["books/seventh-function-of-language.md"]
+books_author = ["authors/laurent-binet.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/Bw3q3YjzLfmnvY4GNkepisafqJMpSrumh_JWSKpc5_CHmHNgGuxrugCCT7ADQXku4Cvy1B3ytqcdoU3KflvqQzTU2uQ"
 url = "/webhook-uploads/1517203638753/Seventh%20Function_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 15647
 
-reviews_books = ["books/seventh-function-of-language.md"]
-books_author = ["authors/laurent-binet.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

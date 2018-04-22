@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
+reviews_books = ["books/fates-and-furies.md"]
+books_author = ["authors/lauren-groff.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/EnJjb7ripu6Ns---BPXMtxw8ubsIEG2hbt5_WAuckQf3bNlootay6FmIpsv7CTynPE2T00qPKQ_2iKA50iUSP6m5CY1h"
 url = "/webhook-uploads/1443676659992/9781594634475.jpg"
@@ -32,8 +36,4 @@ width = 265
 type = "image/jpeg"
 size = 35957
 
-reviews_books = ["books/fates-and-furies.md"]
-books_author = ["authors/lauren-groff.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

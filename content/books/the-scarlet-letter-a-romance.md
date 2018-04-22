@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/penguin.md"
 books_translator = ""
+reviews_books = ["books/the-scarlet-letter-a-romance.md"]
+books_author = ["authors/nathaniel-hawthorne.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/w3ob2HaxEBXlqtvWexYhqyI_XC5eyQtI7CGpiqNPb5WQsIPdS02D3HooW7ePOdzxvpHWg_USVwIUwNxKdLssMdSx3rE"
 url = "/webhook-uploads/1456095743397/content%3Fid%3D5Dm7gtbHJcoC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 14278
 
-reviews_books = ["books/the-scarlet-letter-a-romance.md"]
-books_author = ["authors/nathaniel-hawthorne.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

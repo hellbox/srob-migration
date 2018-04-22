@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Social Science"]
 books_publisher = "publishers/publicaffairs.md"
 books_translator = ""
+reviews_books = ["books/we-were-feminists-once.md"]
+books_author = ["authors/andi-zeisler.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DZGnwepJN_PJ1kzBxhVUaVVqdVzuqA-jklusmMNUmUODMElqwq8UZ5n6pxmOIIzH3MUI0ap1QZDq7w6eFOE3PfzR_Is"
 url = "/webhook-uploads/1474343373558/WeWereFeministsOnce.jpg"
@@ -32,8 +36,4 @@ width = 908
 type = "image/jpeg"
 size = 495028
 
-reviews_books = ["books/we-were-feminists-once.md"]
-books_author = ["authors/andi-zeisler.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

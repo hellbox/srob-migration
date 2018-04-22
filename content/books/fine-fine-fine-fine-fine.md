@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/mcsweeneys-books.md"
 books_translator = ""
+reviews_books = ["books/fine-fine-fine-fine-fine.md"]
+books_author = ["authors/diane-williams.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/DqUs8YP2IEXhkq5H-HFSztT9fYMuo37rLain66voogqoNbHwRB6Vr2Nhx8TjgMeTBrmDC7_s4zvwdZXXxfobSyyzTwiS"
 url = "/webhook-uploads/1468945846915/51gi-diZNHL.jpg"
@@ -32,8 +36,4 @@ width = 350
 type = "image/jpeg"
 size = 50055
 
-reviews_books = ["books/fine-fine-fine-fine-fine.md"]
-books_author = ["authors/diane-williams.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

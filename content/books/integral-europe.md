@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["History"]
 books_publisher = "publishers/princeton-university-press.md"
 books_translator = ""
+reviews_books = ["books/integral-europe.md"]
+books_author = ["authors/douglas-r-holmes.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/cEy8VWInZZRLlZxme1XlWtQJbjiLz8vkNAuC1yRj7OltBxI0gkQK-eeWVm43TtOl6hrsQJLh5RdnDKAPkphzbVSKry6i"
 url = "/webhook-uploads/1472076200229/content%3Fid%3DAp6RTvWyLTkC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 8634
 
-reviews_books = ["books/integral-europe.md"]
-books_author = ["authors/douglas-r-holmes.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

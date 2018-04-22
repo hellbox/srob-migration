@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/paper-wings-press.md"
 books_translator = ""
+reviews_books = ["books/frozen-by-fire.md"]
+books_author = ["authors/donald-kentop.md"]
+sponsorships_book = ["sponsorships/frozen-by-fire.md"]
+notes_relationship = ["notes/the-triangle-factory-fire-of-1911-documented-in-verse.md", "notes/one-day-left-to-see-donald-kentops-frozen-by-fire.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/X4d5c_ZMs75BEgdJFRF-nJbsmhHzUI3sVZ5pp8XXlqK14IfM6RDqWHYer3g3qVY6wwD5S8DLX4iYqvpNcrdN8V2ActXP"
 url = "/webhook-uploads/1446999661308/Frozenbyfire.jpg"
@@ -32,8 +36,4 @@ width = 285
 type = "image/jpeg"
 size = 133986
 
-reviews_books = ["books/frozen-by-fire.md"]
-books_author = ["authors/donald-kentop.md"]
-sponsorships_book = ["sponsorships/frozen-by-fire.md"]
-notes_relationship = ["notes/the-triangle-factory-fire-of-1911-documented-in-verse.md", "notes/one-day-left-to-see-donald-kentops-frozen-by-fire.md"]
 +++

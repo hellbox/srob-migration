@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
+reviews_books = ["books/purity.md"]
+books_author = ["authors/jonathan-franzen.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/the-help-desk-a-cute-boy-only-reads-self-important-books-by-self-important-men-\u2014\u00a0what-do-i-do.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/EloDoa5eit6DLyiOrPOKZenNAM0j0K5Ozy3-JSemqb9t5eOTY2Vs751k4xUKBohyxWnIa0t8bd1AmM6o6h7qpl_garo"
 url = "/webhook-uploads/1439507301995/content%3Fid%3DLDYbrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 9897
 
-reviews_books = ["books/purity.md"]
-books_author = ["authors/jonathan-franzen.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/the-help-desk-a-cute-boy-only-reads-self-important-books-by-self-important-men-\u2014\u00a0what-do-i-do.md"]
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/houghton-mifflin-harcourt.md"
 books_translator = ""
+reviews_books = ["books/the-best-american-comics-2015.md"]
+books_author = ["authors/jonathan-lethem.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/yhWwEtk5i2vmi636tMBlPQP22TcmWx0X3JgmnFRLF1ylrBNMUpW3XFuWn1ES1smWcramst9zfaNBky3IdfHCj4N3IyfLLA"
 url = "/webhook-uploads/1447309841374/content%3Fid%3DWfKOCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 29437
 
-reviews_books = ["books/the-best-american-comics-2015.md"]
-books_author = ["authors/jonathan-lethem.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

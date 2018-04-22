@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/siglio.md"
 books_translator = ""
+reviews_books = ["books/matthias-buchinger.md"]
+books_author = ["authors/ricky-jay.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/5smL91jaVjGTAZIb8DVGuW9hwdyjrqX2JJka2w2Ewr44oEHbDx6lgNGC9L0tjW6HDYgdEizuijtRXJobmklMHF3RM43L"
 url = "/webhook-uploads/1461687738245/814M37-O6TL.jpg"
@@ -32,8 +36,4 @@ width = 930
 type = "image/jpeg"
 size = 348807
 
-reviews_books = ["books/matthias-buchinger.md"]
-books_author = ["authors/ricky-jay.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

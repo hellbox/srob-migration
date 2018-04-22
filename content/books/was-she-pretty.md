@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
+reviews_books = ["books/was-she-pretty.md"]
+books_author = ["authors/leanne-shapton.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/kquux2UmEccVgP3_torQAd_eCkcByxbkWefP93nrccH2DLIsILG9zVHvDYEqLYvwPkRd23l-WeAfDfN6ujWJ5w72HgE4"
 url = "/webhook-uploads/1467877740830/wasshepretty.jpg"
@@ -32,8 +36,4 @@ width = 271
 type = "image/jpeg"
 size = 18793
 
-reviews_books = ["books/was-she-pretty.md"]
-books_author = ["authors/leanne-shapton.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

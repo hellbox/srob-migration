@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = ""
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/freedom.md"]
 books_author = ""
 sponsorships_book = ""
 notes_relationship = ["notes/everybody-take-cover-\u2014\u00a0franzens-back.md"]
+[[image]]
+image = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/lola-e-peters.md"
 books_translator = ""
+reviews_books = ["books/the-truth-about-white-people.md"]
+books_author = ["authors/lola-e-peters.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/hLLBzpxQ0EsuL4SK1a4gtxwbTp8yVN0F1EaRWYLgpp---RgBN44X8sKLeXfbypuwv2S_HHXMOs4ZHG_-TNVXVeudURkpiw"
 url = "/webhook-uploads/1444623597104/content.png"
@@ -32,8 +36,4 @@ width = 128
 type = "image/png"
 size = 3885
 
-reviews_books = ["books/the-truth-about-white-people.md"]
-books_author = ["authors/lola-e-peters.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

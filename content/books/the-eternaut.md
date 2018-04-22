@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics-books.md"
 books_translator = ""
+reviews_books = ["books/the-eternaut.md"]
+books_author = ["authors/h\u00e9ctor-germ\u00e1n-oesterheld.md", "authors/francisco-solano-lopez.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/seattle-shows-up-for-the-2016-eisner-award-nominations.md", "notes/book-news-roundup-seattle-cleans-up-at-the-eisner-awards.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/tzn0uu2uYlfKnseanY8M0VgHCnsZzqXLcPwMTxqx97SqQg9yfFos0QluacVMg-qeGRQtnPMkgCULW8SuYEJ81VjvZCGl"
 url = "/webhook-uploads/1450161704503/content%3Fid%3DnpByCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 6198
 
-reviews_books = ["books/the-eternaut.md"]
-books_author = ["authors/h\u00e9ctor-germ\u00e1n-oesterheld.md", "authors/francisco-solano-lopez.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/seattle-shows-up-for-the-2016-eisner-award-nominations.md", "notes/book-news-roundup-seattle-cleans-up-at-the-eisner-awards.md"]
 +++

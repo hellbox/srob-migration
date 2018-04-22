@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/chatwin-books.md"
 books_translator = ""
+reviews_books = ["books/opting-out.md"]
+books_author = ["authors/maged-zaher.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/where-can-you-get-maged-zahers-new-book.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/_sZqpv-GaRrH6a85wFjwHzsPAa0kun7zantZuqZhuAMCWnSO_1pargcv1RYJxpX3u6m8cy1pcURD5a8Br4Z1G7_71idU"
 url = "/webhook-uploads/1487232135540/optingout.jpeg"
@@ -32,8 +36,4 @@ width = 1500
 type = "image/jpeg"
 size = 1058438
 
-reviews_books = ["books/opting-out.md"]
-books_author = ["authors/maged-zaher.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/where-can-you-get-maged-zahers-new-book.md"]
 +++

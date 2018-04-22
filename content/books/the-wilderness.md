@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Political Science"]
 books_publisher = "publishers/little-brown-and-company.md"
 books_translator = ""
+reviews_books = ["books/the-wilderness.md"]
+books_author = ["authors/mckay-coppins.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HnQ3xQENAAUE2cUOUv2xftcZLP85Q65Q0YebPgXuL_jKF2sCkvjj7_nKxvjX3-7F-OiloY0e6q1izQ6gU6J-FkvZqP4"
 url = "/webhook-uploads/1452238517978/content%3Fid%3D3cEhrgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 12846
 
-reviews_books = ["books/the-wilderness.md"]
-books_author = ["authors/mckay-coppins.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

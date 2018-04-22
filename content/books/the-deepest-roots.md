@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/university-of-washington-press.md"
 books_translator = ""
+reviews_books = ["books/the-deepest-roots.md"]
+books_author = ["authors/kathleen-alcala.md"]
+sponsorships_book = ["sponsorships/the-deepest-roots.md"]
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/HF9QBsEkuSLCXVVtMw-IN8dJ_sz-2CeTiceHYFF8K6ppv1nAzKR53Qr5w00lCUI8iM1cbnzewWtcByVTU5UpcFQmQc9Vhw"
 url = "/webhook-uploads/1476328062422/DeepestRoots_Alcala.jpg"
@@ -32,8 +36,4 @@ width = 825
 type = "image/jpeg"
 size = 936594
 
-reviews_books = ["books/the-deepest-roots.md"]
-books_author = ["authors/kathleen-alcala.md"]
-sponsorships_book = ["sponsorships/the-deepest-roots.md"]
-notes_relationship = ""
 +++

@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/spiegel-&amp;-grau.md"
 books_translator = ""
+reviews_books = ["books/between-the-world-and-me.md"]
+books_author = ["authors/ta-nehisi-coates.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/ta-nehisi-coates-to-write-black-panther-comic-book-for-marvel.md", "notes/ta-nehisi-coates-reads-in-seattle-tonight.md", "notes/the-problem-of-applause.md", "notes/the-2015-national-book-award-winners-are.md", "notes/thursday-comics-hangover-everybodys-talking-about-the-black-panther.md", "notes/thursday-comics-hangover-william-gibson-comes-to-comics.md", "notes/third-place-seward-park-is-our-june-bookstore-of-the-month.md", "notes/ta-nehisi-coatess-new-book-is-on-the-stands-in-bookstores-now.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/q4oMSYfUWSo0AdVuqSxPfRefCJpg2RPsHoeGgvFPVscwP4i7Cckld4GGqQYsM4DZtd4XM3tc9vmgKiAy5qWlj7F9qs7L"
 url = "/webhook-uploads/1439507029689/content%3Fid%3Dp5LyrQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 45046
 
-reviews_books = ["books/between-the-world-and-me.md"]
-books_author = ["authors/ta-nehisi-coates.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/ta-nehisi-coates-to-write-black-panther-comic-book-for-marvel.md", "notes/ta-nehisi-coates-reads-in-seattle-tonight.md", "notes/the-problem-of-applause.md", "notes/the-2015-national-book-award-winners-are.md", "notes/thursday-comics-hangover-everybodys-talking-about-the-black-panther.md", "notes/thursday-comics-hangover-william-gibson-comes-to-comics.md", "notes/third-place-seward-park-is-our-june-bookstore-of-the-month.md", "notes/ta-nehisi-coatess-new-book-is-on-the-stands-in-bookstores-now.md"]
 +++

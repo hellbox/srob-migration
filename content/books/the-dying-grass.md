@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Fiction"]
 books_publisher = "publishers/penguin.md"
 books_translator = ""
+reviews_books = ["books/the-dying-grass.md"]
+books_author = ["authors/william-t-vollmann.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/lVbzSCyRWbIkS1i_6nWHZt9Uaf3G7mA3yRDAK85gblR5HlNo4tfSkGVLLJdojVCjbKmIWAeyysLS8rq0jmDNhOseoRx5"
 url = "/webhook-uploads/1456852842352/content%3Fid%3DmkCojgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api"
@@ -32,8 +36,4 @@ width = 128
 type = "application/octet-stream"
 size = 11504
 
-reviews_books = ["books/the-dying-grass.md"]
-books_author = ["authors/william-t-vollmann.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++

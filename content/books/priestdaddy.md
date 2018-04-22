@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ["Biography & Autobiography"]
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
+reviews_books = ["books/priestdaddy.md"]
+books_author = ["authors/patricia-lockwood.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th.md", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md"]
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/WuWX_TolNFQXXwev6x7lip6B_b7vX9PmRiwVhG_S2ye8NMIwYZHqaK7sq7WuxpIH9bhyzmK-crEvwvppe-7zp3_1280"
 url = "/webhook-uploads/1493002350633/priestdaddy.jpg"
@@ -32,8 +36,4 @@ width = 331
 type = "image/jpeg"
 size = 38136
 
-reviews_books = ["books/priestdaddy.md"]
-books_author = ["authors/patricia-lockwood.md"]
-sponsorships_book = ""
-notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th.md", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md"]
 +++

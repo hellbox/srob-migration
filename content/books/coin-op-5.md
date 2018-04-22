@@ -24,10 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/coin-op-books.md"
 books_translator = ""
-[[image]]
-image = ""
 reviews_books = ["books/coin-op-5.md"]
 books_author = ["authors/peter-and-maria-hoey.md"]
 sponsorships_book = ""
 notes_relationship = ""
+[[image]]
+image = ""
 +++

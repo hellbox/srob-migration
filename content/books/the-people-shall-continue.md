@@ -24,6 +24,10 @@ alt_ebook_label = ""
 category = ""
 books_publisher = "publishers/childrens-book-press.md"
 books_translator = ""
+reviews_books = ["books/the-people-shall-continue.md"]
+books_author = ["authors/simon-j-ortiz.md", "authors/sharol-graves.md"]
+sponsorships_book = ""
+notes_relationship = ""
 [[image]]
 resize_url = "http://lh3.googleusercontent.com/jPib6fUbbDrdf3blYf5CM6v_OB_PiuLfkP21HPYLje2w3ZLLb8TSEXXx1FZ_xdyCF4XjeSVhmeMmWnbG9LwrCNW3niYk"
 url = "/webhook-uploads/1519591070006/The%20People%20Shall%20Continue_250.jpeg"
@@ -32,8 +36,4 @@ width = 250
 type = "image/jpeg"
 size = 46810
 
-reviews_books = ["books/the-people-shall-continue.md"]
-books_author = ["authors/simon-j-ortiz.md", "authors/sharol-graves.md"]
-sponsorships_book = ""
-notes_relationship = ""
 +++
