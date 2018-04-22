@@ -1,11 +1,14 @@
 {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
-{{ $tags := where ( .Site.RegularPages.RelatedIndices . "reviews_tags" ) "Type" "tags" }}
-{{ $reviewbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
+{{ $reviewtags := where ( .Site.RegularPages.RelatedIndices . "reviews_tags" ) "Type" "tags" }}
+{{ $notestags := where ( .Site.RegularPages.RelatedIndices . "notes_tags" ) "Type" "tags" }}
+{{ $books := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
 
-{{ range $byline }}{{ . }}{{ end }}<br>
-{{ range $tags }}{{ . }}{{ end }}<br>
-{{ range $reviewbooks }}{{ . }}{{ end }}<br>
 
+
+Reviews byline: {{ range $byline }}{{ .Params.byline }}{{ end }}<br>
+Reviews tags: {{ range $reviewtags }}{{ .Params.name }}{{ end }}<br>
+Reviews books (not working): {{ $books }}<br>
+Notes tags: {{ $notestags }}<br>
 
 
 {{ .Content }}

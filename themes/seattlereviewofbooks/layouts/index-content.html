@@ -19,7 +19,7 @@
     {{/* Set up related records for the reviews loop */}}
     {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
     {{ $reviewbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
-    {{ $tags := where ( .Site.RegularPages.RelatedIndices . "reviews_tags" ) "Type" "tags" }}
+    {{ $reviewstags := where ( .Site.RegularPages.RelatedIndices . "reviews_tags" ) "Type" "tags" }}    
         <div class="row">
             <div class="col-sm-7 inline-review">
                 <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
