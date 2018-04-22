@@ -1,0 +1,24 @@
++++
+index = "-KBOymCZ2AgOR3Puec5p"
+sort_create_date = 1456429800
+sort_last_updated = 1456432380
+sort_publish_date = 1456429800
+create_date = "2016-02-25T11:50:00-08:00"
+publish_date = "2016-02-25T11:50:00-08:00"
+date = "2016-02-25T11:50:00-08:00"
+last_updated = "2016-02-25T12:33:00-08:00"
+preview_url = "1e84d5b7-dcf1-c817-bad2-b401c88a0696"
+name = "\"It\u2019s the whitest place I\u2019ve ever been.\""
+title = "\"It\u2019s the whitest place I\u2019ve ever been.\""
+type = "Note"
+link = "http://www.bkmag.com/2016/02/24/you-will-be-tokenized-speaking-out-about-the-state-of-diversity-in-publishing/"
+shareimage = ""
+twitterauto = "See why at least one person calls the New York publishing industry \"the whitest place I\u2019ve ever been.\""
+facebookauto = ""
+make_image_tweet = "False"
+notes_byline = ["writers/paul-constant.md"]
+notes_tags = "notes/it’s-the-whitest-place-i’ve-ever-been.md"
+notes_about = ["authors/rahawa-haile.md"]
+books = ""
++++
+The [*Brooklyn Magazine* piece about the whiteness of the New York publishing industry](http://www.bkmag.com/2016/02/24/you-will-be-tokenized-speaking-out-about-the-state-of-diversity-in-publishing/) is a must-read, and not just because it prominently features friend of the *Seattle Review of Books* Rahawa Haile. Go [take it all in](http://www.bkmag.com/2016/02/24/you-will-be-tokenized-speaking-out-about-the-state-of-diversity-in-publishing/).

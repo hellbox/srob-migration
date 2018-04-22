@@ -1,0 +1,38 @@
++++
+index = "-K5sqnZCBjXtm28yu_jR"
+sort_create_date = 1450505340
+sort_last_updated = 1450505640
+sort_publish_date = 1450544400
+create_date = "2015-12-18T22:09:00-08:00"
+publish_date = "2015-12-19T09:00:00-08:00"
+date = "2015-12-19T09:00:00-08:00"
+last_updated = "2015-12-18T22:14:00-08:00"
+preview_url = "a22ba0ff-142f-b27d-e543-05e41f0b5a59"
+name = "Rahawa Haile\u2019s short stories of the day, of the previous week, for December 19, 2015"
+title = "Rahawa Haile\u2019s short stories of the day, of the previous week, for December 19, 2015"
+type = "Column"
+link = ""
+shareimage = ""
+twitterauto = "It's the third-to-last @rahawahaile short story wrap up! Starring, @lmillernpr, @chelsea_l_w, and many others."
+facebookauto = "Rahawa Haile is ending her Short Story of the Day project at the end of the year, and that means we're stopping our coverage of it soon. Here's our third-to-last wrap-up -- two more to go, and then Saturday is going to bring you a new treat. "
+make_image_tweet = ""
+notes_byline = ["writers/martin-mcclellan.md"]
+notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-december-19-2015.md"
+notes_about = ""
+books = ""
++++
+<p class="intro">Every day, friend of the _SRoB_ Rahawa Haile tweets a short story. She gave us permission to collect them every week. She's archiving the <a href="https://t.co/5E27ceRIvV" title="Short Story of the Day (2015)  (with images, tweets) Âˇ RahawaHaile Âˇ Storify">entire project on Storify</a>.</p>
+
+<p class="intro">Since Rahawa is ending this project at the end of the year, this is the third-to-last posting of our wrap-up. Two more to go, and then we launch something new on Saturdays, starting January 10th.</p>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #342&#10;Leena Khron&#39;s &quot;Lucilia Illustris&quot; (1992)&#10;<a href="https://t.co/Vj5G1k4vmt">https://t.co/Vj5G1k4vmt</a> <a href="https://t.co/lz3Oo9F6q4">pic.twitter.com/lz3Oo9F6q4</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/675826462037950464">December 12, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #343&#10;Lulu Miller&#39;s &quot;Me and Jane&quot;&#10;Catapult (2015)&#10;<a href="https://t.co/XqkTke6GbK">https://t.co/XqkTke6GbK</a> <a href="https://t.co/281azNzFJm">pic.twitter.com/281azNzFJm</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/675826517507575808">December 12, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Short Story of the Day #344&#10;On a red-eye back to New York City, my last for what I suspect will be a very long time.</p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/676287908194615296">December 14, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #345&#10;Chelsea Laine Wells&#39;s &quot;We Are the Hallwalkers&quot;&#10;Hobart (2015)&#10;<a href="https://t.co/pPJcrfwBRM">https://t.co/pPJcrfwBRM</a> <a href="https://t.co/k0qqi4yE3Q">pic.twitter.com/k0qqi4yE3Q</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/677264090037936128">December 16, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #346&#10;Megan Louise Rowe&#39;s &quot;Lampshades&quot;&#10;SmokeLong (2015)&#10;<a href="https://t.co/8gVHTxETDW">https://t.co/8gVHTxETDW</a> <a href="https://t.co/Q7oMlFybJ5">pic.twitter.com/Q7oMlFybJ5</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/677264119108640769">December 16, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #347&#10;Aysegul Savas&#39;s &quot;The Road to Alpullu&quot;&#10;Guernica (2015)&#10;<a href="https://t.co/tKcMH1Qyhu">https://t.co/tKcMH1Qyhu</a> <a href="https://t.co/5MQJHbEuVY">pic.twitter.com/5MQJHbEuVY</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/677264156882505728">December 16, 2015</a></blockquote> 

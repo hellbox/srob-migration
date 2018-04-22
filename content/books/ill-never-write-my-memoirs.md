@@ -1,0 +1,33 @@
++++
+index = "-Jt9tOOoJMfIc_kMkQ8q"
+sort_create_date = 1435793520
+sort_last_updated = 1435793520
+sort_publish_date = 1435793520
+create_date = "2015-07-01T16:32:00-07:00"
+publish_date = "2015-07-01T16:32:00-07:00"
+date = "2015-07-01T16:32:00-07:00"
+last_updated = "2015-07-01T16:32:00-07:00"
+preview_url = "5f9a5e59-fa8b-c3ae-edb1-bde3eaee3a81"
+name = "Ill Never Write My Memoirs"
+subtitle = ""
+isbn = ""
+isbn_13 = ""
+page_count = ""
+description = ""
+publication_date = ""
+how_we_acquired = "Provided by publisher"
+is_sponsorship = false
+alt_purchase_link = ""
+alt_purchase_label = ""
+ebook_purchase = ""
+alt_ebook_label = ""
+category = ""
+books_publisher = ""
+books_translator = ""
+[[image]]
+image = ""
+reviews_books = ["books/ill-never-write-my-memoirs.md"]
+books_author = ["authors/grace-jones.md"]
+sponsorships_book = ""
+notes_relationship = ["notes/a-permanent-state-of-grace.md"]
++++

@@ -1,0 +1,40 @@
++++
+index = "-JwjmrGX6jWj1_I5M6Uz"
+sort_create_date = 1439615880
+sort_last_updated = 1440221040
+sort_publish_date = 1439654400
+create_date = "2015-08-14T22:18:00-07:00"
+publish_date = "2015-08-15T09:00:00-07:00"
+date = "2015-08-15T09:00:00-07:00"
+last_updated = "2015-08-21T22:24:00-07:00"
+preview_url = "a8ada91b-c7a9-2135-8450-c76a15f81a35"
+name = "Rahawa Haile\u2019s short stories of the day, of the previous week, for August 15, 2015"
+title = "Rahawa Haile\u2019s short stories of the day, of the previous week, for August 15, 2015"
+type = "Column"
+link = ""
+shareimage = ""
+twitterauto = "Here are @rahawahaile's short story picks from the previous week. Some good Saturday reading. "
+facebookauto = ""
+make_image_tweet = ""
+notes_byline = ["writers/martin-mcclellan.md"]
+notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-august-15-2015.md"
+notes_about = ""
+books = ""
++++
+<p class="intro">(Every day, friend of the SRoB Rahawa Haile tweets a short story. She gave us permission to collect them every week.)</p>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #220&#10;Dawn S. Davies&#39;s &quot;Punkin&quot;&#10;Literary Orphans (2015)&#10;<a href="http://t.co/5kYnICaH8q">http://t.co/5kYnICaH8q</a> <a href="http://t.co/1vJsZSfZt9">pic.twitter.com/1vJsZSfZt9</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/630153564124487680">August 8, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #221&#10;Olivia Wolfgang-Smith&#39;s &quot;Greatest Hits&quot;&#10;Gulf Stream (2015)&#10;<a href="http://t.co/qbvNQgqrlH">http://t.co/qbvNQgqrlH</a> <a href="http://t.co/xYYWsv0nFD">pic.twitter.com/xYYWsv0nFD</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/630477860873048064">August 9, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #222&#10;Quinn Gancedo&#39;s &quot;Dog Weather&quot; (scroll down)&#10;3:AM Magazine (2015)&#10;<a href="http://t.co/OKWlMheJxu">http://t.co/OKWlMheJxu</a> <a href="http://t.co/XZF15o376G">pic.twitter.com/XZF15o376G</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/630928306892767235">August 11, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #223&#10;Susan Lin&#39;s &quot;Peple Are People Who Have Misplaced Their Belly Buttons&quot;&#10;Mad Hatters&#39; Review <a href="http://t.co/t5y2dQuzmk">pic.twitter.com/t5y2dQuzmk</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/631272119129767936">August 12, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #224&#10;Ravi Mangla &quot;Greenly, Everett and Marion, 1878-1903&quot;&#10;Booth (2015)&#10;<a href="http://t.co/Fzz2l0lUsK">http://t.co/Fzz2l0lUsK</a> <a href="http://t.co/ZP2q0qTBYs">pic.twitter.com/ZP2q0qTBYs</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/631668355255140352">August 13, 2015</a></blockquote> 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #225&#10;Michelle Richmond&#39;s &quot;Hum&quot;&#10;The Missouri Review (2007)&#10;<a href="http://t.co/zGQLcAuAxu">http://t.co/zGQLcAuAxu</a> <a href="http://t.co/En9C4bfxhl">pic.twitter.com/En9C4bfxhl</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/631966043712438273">August 13, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Short Story of the Day #226&#10;Ashley Farmer&#39;s &quot;DMV&quot;&#10;elimae (2009)&#10;<a href="http://t.co/39Otq1qNR7">http://t.co/39Otq1qNR7</a> <a href="http://t.co/IYXh6bWdnY">pic.twitter.com/IYXh6bWdnY</a></p>&mdash; Rahawa Haile (@RahawaHaile) <a href="https://twitter.com/RahawaHaile/status/632331746743320576">August 14, 2015</a></blockquote>
+
+
