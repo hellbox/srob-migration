@@ -11,7 +11,7 @@ preview_url = "9c3553cc-4f87-897f-1888-1b19fa510ce4"
 name = "In a virtual world, trolls are real"
 title = "In a virtual world, trolls are real"
 dek = "After Gamergate \u2014 correction, a petty, dangerous ex-boyfriend \u2014 unbuilt her life, Zo\u00eb Quinn used her game-designer smarts to turn the tables on online harassers. It's time for the rest of us to do the same. "
-facebookauto = "Zo\u00eb Quinn's Crash Override was a call to action. Are we listening? asks Pam Mandel."
+type = "Review"facebookauto = "Zo\u00eb Quinn's Crash Override was a call to action. Are we listening? asks Pam Mandel."
 twitterauto = "In Crash Override, @UnburntWitch issued a call to action. Are we listening? asks @nerdseyeview."
 reviews_byline = ["writers/pam-mandel.md"]
 reviews_books = ["books/crash-override.md"]

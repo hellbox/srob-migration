@@ -11,7 +11,7 @@ preview_url = "38efcd1f-fd05-7b3d-59d6-d6d6e1e50b84"
 name = "Dreaming beyond fiction and nonfiction"
 title = "Dreaming beyond fiction and nonfiction"
 dek = "This Wednesday, Wendy C. Ortiz debuts her latest book in Seattle. It's a memoir of dreams. But wait \u2014 aren't dreams fiction? Or is a dream memoir maybe the truest memoir of all?"
-facebookauto = "\"A memoir is nonfiction by definition, and yet it usually expresses only one person\u2019s perspective on interactions and events experienced by many. Some sensational memoirs have been exposed as frauds, and this lends an air of disbelief to the genre. But only one person experiences a dream. And, if an author is recounting her own dreams, this must be nonfiction, because these dreams really happened, right?\""
+type = "Review"facebookauto = "\"A memoir is nonfiction by definition, and yet it usually expresses only one person\u2019s perspective on interactions and events experienced by many. Some sensational memoirs have been exposed as frauds, and this lends an air of disbelief to the genre. But only one person experiences a dream. And, if an author is recounting her own dreams, this must be nonfiction, because these dreams really happened, right?\""
 twitterauto = "In which @mbsycamore tries to categorize (or uncategorize) @WendyCOrtiz's latest book."
 reviews_byline = ["writers/mattilda-bernstein-sycamore.md"]
 reviews_books = ["books/bruja.md"]

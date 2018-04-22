@@ -11,7 +11,7 @@ preview_url = "e8947db5-fd7c-9a4b-c316-fc40e065d5c9"
 name = "A portrait, in black and white"
 title = "A portrait, in black and white"
 dek = "Peter Bagge presents his newest book at Elliott Bay Book Company on Saturday, March 25th at 7 pm. It's a complex love letter to Zora Neale Hurston's complicated genius."
-facebookauto = "Tacoma cartoonist Peter Bagge's latest comic is a complex exploration of the life of Zora Neale Hurston."
+type = "Review"facebookauto = "Tacoma cartoonist Peter Bagge's latest comic is a complex exploration of the life of Zora Neale Hurston."
 twitterauto = "Tacoma cartoonist Peter Bagge's latest comic is a complex exploration of the life of Zora Neale Hurston."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/fire!!-.md"]

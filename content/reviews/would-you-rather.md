@@ -11,7 +11,7 @@ preview_url = "799150ef-5eb1-b14b-2e08-abfe352d913d"
 name = "Would you rather"
 title = "Would you rather"
 dek = "You put humor in my poetry book! You put poetry in my humor book! Hey, wait a minute..."
-facebookauto = "In which Elissa Ball happily blurs the line between poetry and comedy."
+type = "Review"facebookauto = "In which Elissa Ball happily blurs the line between poetry and comedy."
 twitterauto = "In which @ElissaBall happily blurs the line between poetry and comedy."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/more-or-less.md"]

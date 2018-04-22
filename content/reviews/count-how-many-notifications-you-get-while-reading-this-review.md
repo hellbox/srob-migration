@@ -11,7 +11,7 @@ preview_url = "eb9b41a0-0ceb-9eb2-566b-13bd3db7ca26"
 name = "Count how many notifications you get while reading this review"
 title = "Count how many notifications you get while reading this review"
 dek = "What you hear all the time is: you should stop looking at your phone. Or, there's nothing wrong with looking at your phone. What about looking at distraction from a different perspective? That's what David M Levy has done in Mindful Tech, and Jonathan HIskes takes us through it. "
-facebookauto = "Leave a comment here without how many notifications you received in the time it took to read this review of David M Levy's Mindful Tech."
+type = "Review"facebookauto = "Leave a comment here without how many notifications you received in the time it took to read this review of David M Levy's Mindful Tech."
 twitterauto = "Reply and tell us how many notifications you got while you were reading this review by @jhiskes"
 reviews_byline = ["writers/jonathan-hiskes.md"]
 reviews_books = ["books/mindful-tech.md"]

@@ -11,7 +11,7 @@ preview_url = "bcb76ea8-5f82-21f7-6fb9-515f716768ad"
 name = "Take this sentence, for example"
 title = "Take this sentence, for example"
 dek = "Jez Burrows created a book of stories made up of example sentences from dictionaries, and in doing so, created a new form of wordplay and entertainment. "
-facebookauto = "In Dictionary Stories, Jez Burrows has created a novel form of crafting stories."
+type = "Review"facebookauto = "In Dictionary Stories, Jez Burrows has created a novel form of crafting stories."
 twitterauto = "In Dictionary Stories, @jezburrows has created a novel form of crafting stories. "
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/dictionary-stories.md"]

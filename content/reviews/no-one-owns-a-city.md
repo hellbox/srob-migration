@@ -11,7 +11,7 @@ preview_url = "286245f9-9198-3898-6452-5754c8bd7b9c"
 name = "No one owns a city"
 title = "No one owns a city"
 dek = "Next Tuesday, Faith Erin Hicks debuts the second book in her impressive Nameless City trilogy at Elliott Bay Book Company. Her books draw you in with their easy kinetic energy, and they keep you impressed with their nuanced political intrigue."
-facebookauto = "Faith Erin Hicks reads at Elliott Bay Book Company next Tuesday. We're crazy about her Nameless City books."
+type = "Review"facebookauto = "Faith Erin Hicks reads at Elliott Bay Book Company next Tuesday. We're crazy about her Nameless City books."
 twitterauto = "We love the Nameless City books by @FaithErinHicks. She reads @ElliottBayBooks on Tuesday."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-nameless-city.md", "books/the-stone-heart.md"]

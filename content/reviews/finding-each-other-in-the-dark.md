@@ -11,7 +11,7 @@ preview_url = "5b351128-d534-a957-308a-a8f0e5d0f31a"
 name = "Finding each other in the dark"
 title = "Finding each other in the dark"
 dek = "Last night, the Reading Through It Book Club got together to discuss Hope in the Dark. Here's what the meeting was like."
-facebookauto = "Last night, the Reading Through It Book Club got together to discuss Rebecca Solnit's great book Hope in the Dark. Here's what it was like:"
+type = "Review"facebookauto = "Last night, the Reading Through It Book Club got together to discuss Rebecca Solnit's great book Hope in the Dark. Here's what it was like:"
 twitterauto = "Last night, we gathered to discuss Hope in the Dark. Here's what it was like:"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/hope-in-the-dark.md"]

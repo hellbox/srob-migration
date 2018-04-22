@@ -11,7 +11,7 @@ preview_url = "f168f66b-1796-963d-4a2e-e533700e31ad"
 name = "Reviewing is a strong word for what happens here"
 title = "Reviewing is a strong word for what happens here"
 dek = "Claire Dederer's much-anticipated new memoir \"Love and Trouble\" has arrived, and the questions it covers are not only hard to answer but also hard to ask."
-facebookauto = "We looked at Claire Dederer's new memoir \"Love and Trouble\", on its publication day."
+type = "Review"facebookauto = "We looked at Claire Dederer's new memoir \"Love and Trouble\", on its publication day."
 twitterauto = "We looked at Claire Dederer's new memoir \"Love and Trouble\", on its publication day."
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/love-and-trouble.md"]

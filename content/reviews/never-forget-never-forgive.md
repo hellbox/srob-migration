@@ -11,7 +11,7 @@ preview_url = "098f3847-1c60-de70-51be-edc82f5f4ac1"
 name = "Never forget, never forgive"
 title = "Never forget, never forgive"
 dek = "Jennifer Natalya Fink reads from her remarkable novel at Elliott Bay Book Company this Friday. It's about the way we forget all the tragedies that make us into who we are, and how that's maybe the biggest tragedy of all."
-facebookauto = "If we forget the tragedies that shape us, Bhopal Dance asks, are we turning our backs on our own humanity?"
+type = "Review"facebookauto = "If we forget the tragedies that shape us, Bhopal Dance asks, are we turning our backs on our own humanity?"
 twitterauto = "If we forget the tragedies that shape us, Bhopal Dance asks, are we turning our backs on our own humanity?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/bhopal-dance.md"]

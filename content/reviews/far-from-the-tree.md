@@ -11,7 +11,7 @@ preview_url = "d766298b-d959-29b6-9f75-7205b126ff01"
 name = "Far from the tree"
 title = "Far from the tree"
 dek = "Everybody likes to get lost in a good travel essay every now and again. But when a straight white male is writing the essay, women and minorities can sometimes feel left out."
-facebookauto = "In travel essays, some straight white male authors are oblivious to their own privilege. For readers who are not straight white guys, that can sometimes make travel writing feel alienating, rather than invigorating."
+type = "Review"facebookauto = "In travel essays, some straight white male authors are oblivious to their own privilege. For readers who are not straight white guys, that can sometimes make travel writing feel alienating, rather than invigorating."
 twitterauto = "In travel essays, some straight white male authors are oblivious to their own privilege."
 reviews_byline = ["writers/rebecca-garcia-moreno.md"]
 reviews_books = ["books/the-turk-who-loved-apples.md"]

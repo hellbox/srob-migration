@@ -11,7 +11,7 @@ preview_url = "a7ae59e6-0385-313c-49b5-2378348055a5"
 name = "Unstacking the deck"
 title = "Unstacking the deck"
 dek = "It's comforting to blame the 1 percent for economic inequity in the US. But surprise \u2014 the enemy is us."
-facebookauto = "Reviewing Richard Reeves's Dream Hoarders, Nick Cassella has a wake-up call for the next 19 percent."
+type = "Review"facebookauto = "Reviewing Richard Reeves's Dream Hoarders, Nick Cassella has a wake-up call for the next 19 percent."
 twitterauto = "Reviewing @RichardvReeves's Dream Hoarders, @Nick_Cassella has a wake-up call for the next 19%."
 reviews_byline = ["writers/nick-cassella.md"]
 reviews_books = ["books/dream-hoarders.md"]

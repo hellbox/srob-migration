@@ -11,7 +11,7 @@ preview_url = "403c94af-f3d7-0331-d51b-9520584af024"
 name = "Soldiering on"
 title = "Soldiering on"
 dek = "If you don't read military stories, Olympia author Matt Young's memoir about life in the Marine Corps might be just the book for you."
-facebookauto = "If you don't read military books, this beautiful memoir about the Marine Corps might change your mind."
+type = "Review"facebookauto = "If you don't read military books, this beautiful memoir about the Marine Corps might change your mind."
 twitterauto = "Don't read military books? This beautiful memoir about the Marine Corps might change your mind."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/eat-the-apple.md"]

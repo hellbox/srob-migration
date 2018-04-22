@@ -11,7 +11,7 @@ preview_url = "0e1821d4-ef7b-24d6-95ec-a10fdef9aca3"
 name = "Stand up poetry"
 title = "Stand up poetry"
 dek = "Cody Walker and Jason Whitmarsh demonstrate two very different approaches to funny poems."
-facebookauto = "Two writers bring us poems about Donald Trump and Aquaman."
+type = "Review"facebookauto = "Two writers bring us poems about Donald Trump and Aquaman."
 twitterauto = "Two writers bring us poems about Donald Trump and Aquaman."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-trumpiad.md", "books/the-histories.md"]

@@ -11,7 +11,7 @@ preview_url = "c208b493-b96b-d9ce-93d8-03b1590c0b39"
 name = "Picking wires from a bowl of noodles"
 title = "Picking wires from a bowl of noodles"
 dek = "Ryan Boudinot's first book of short stories since his very controversial statements about MFA programs has arrived. Can we separate the work from the public statements?"
-reviews_byline = ["writers/martin-mcclellan.md"]
+type = "Review"reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/the-octopus-rises.md", "books/blueprints-of-the-afterlife.md"]
 reviews_tags = ["reviews/picking-wires-from-a-bowl-of-noodles.md"]
 reviews_about = ["authors/ryan-boudinot.md"]

@@ -11,7 +11,7 @@ preview_url = "d9f7bd75-b299-a649-cf67-c29c95fb3d14"
 name = "The devil eats his own tail"
 title = "The devil eats his own tail"
 dek = "Today's news that Steve Bannon was fired from the White House is good news because it means a self-described villain no longer has direct access to the levers of power. But it's bad news because it means Bannon is free to do whatever he wants. What's his plan?"
-facebookauto = "Now that Steve Bannon has been fired from the White House, let's look at the book about his relationship with Donald Trump to figure out what his next move might be."
+type = "Review"facebookauto = "Now that Steve Bannon has been fired from the White House, let's look at the book about his relationship with Donald Trump to figure out what his next move might be."
 twitterauto = "White House advisor Steve Bannon has been fired! That's good news. Uh, right?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/devils-bargain.md"]

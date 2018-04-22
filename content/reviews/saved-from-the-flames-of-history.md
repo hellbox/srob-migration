@@ -11,7 +11,7 @@ preview_url = "c7699ccf-f2ef-45e7-94a0-383f5deeba30"
 name = "Saved from the flames of history"
 title = "Saved from the flames of history"
 dek = "A new novel by Seattle author Bharti Kirschner imagines a life for a forgotten, nameless woman in Indian history."
-facebookauto = "A new novel by Seattle author Bharti Kirschner imagines a life for a forgotten, nameless woman in Indian history."
+type = "Review"facebookauto = "A new novel by Seattle author Bharti Kirschner imagines a life for a forgotten, nameless woman in Indian history."
 twitterauto = "A new novel by Seattle author Bharti Kirschner imagines a life for a forgotten, nameless woman in Indian history."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/goddess-of-fire-a-historical-novel-set-in-17th-century-india.md"]

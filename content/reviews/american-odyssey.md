@@ -11,7 +11,7 @@ preview_url = "7a3f6f5e-f504-3095-ddf6-dc7b8800de10"
 name = "American odyssey"
 title = "American odyssey"
 dek = "Colson Whitehead's novels are all about the alternate realities that keep us from truly understanding each other. In his latest, The Underground Railroad, can he finally find a way to bring us together?"
-facebookauto = "The Underground Railroad is like Cormac McCarthy's novel The Road, only it's actually about something."
+type = "Review"facebookauto = "The Underground Railroad is like Cormac McCarthy's novel The Road, only it's actually about something."
 twitterauto = "The Underground Railroad is like Cormac McCarthy's The Road, only it's actually about something."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-underground-railroad.md"]

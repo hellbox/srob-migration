@@ -11,7 +11,7 @@ preview_url = "35e21ed5-59f1-eb98-cc7f-9e2d1c582d45"
 name = "Feminism a la carte"
 title = "Feminism a la carte"
 dek = "Two indie feminists come at commerce, advertising, and how to best love media from different angles. "
-facebookauto = "Feminism a la carte: Amy R Peloff looks at Andi Zeisler and Kameron Hurley's books. "
+type = "Review"facebookauto = "Feminism a la carte: Amy R Peloff looks at Andi Zeisler and Kameron Hurley's books. "
 twitterauto = "Feminism a la carte: @AmyRPeloff looks at @andizeisler and @KameronHurley's books. "
 reviews_byline = ["writers/amy-r-peloff.md"]
 reviews_books = ["books/the-geek-feminist-revolution.md", "books/we-were-feminists-once.md"]

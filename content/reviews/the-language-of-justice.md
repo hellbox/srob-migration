@@ -11,7 +11,7 @@ preview_url = "4d4fbfa6-d9ac-63df-d994-80f91836a1be"
 name = "The language of justice"
 title = "The language of justice"
 dek = "Among the \"comfort women\" abducted and raped by Japanese soldiers during World War II were more than a thousand from the Philippines. M. Evelina Galang gave them a place to tell their stories."
-facebookauto = "Among the \"comfort women\" abducted and raped by Japanese soldiers during World War II were more than a thousand from the Philippines. In a new book, the \"lolas\" tell their own stories after decades of silence."
+type = "Review"facebookauto = "Among the \"comfort women\" abducted and raped by Japanese soldiers during World War II were more than a thousand from the Philippines. In a new book, the \"lolas\" tell their own stories after decades of silence."
 twitterauto = "Lolas' House, reviewed by @DonnaMiscolta, tells the devastating story of WWII's Filipino \"comfort women.\""
 reviews_byline = ["writers/donna-miscolta.md"]
 reviews_books = ["books/lolas-house.md"]

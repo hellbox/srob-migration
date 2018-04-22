@@ -11,7 +11,7 @@ preview_url = "cb376007-838b-04fe-710c-1a2ecfd82d1b"
 name = "Women are from Mars"
 title = "Women are from Mars"
 dek = "There's still room in your summer reading lists for a novel about a strong female lead who smuggles herself onto a spacefaring boat, right?"
-facebookauto = "If the idea of a novel about spacefaring ships traveling between Earth and Mars doesn't capture your interest, you may already be dead."
+type = "Review"facebookauto = "If the idea of a novel about spacefaring ships traveling between Earth and Mars doesn't capture your interest, you may already be dead."
 twitterauto = "Bring @daviddlevine's Arabella of Mars (from @torbooks) along on your summer vacation."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/arabella-of-mars.md"]

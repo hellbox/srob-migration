@@ -11,7 +11,7 @@ preview_url = "a3c24113-7ca4-ef36-8c14-608dcff148ae"
 name = "The stars my destination"
 title = "The stars my destination"
 dek = "Young adult author Kevin Emerson's latest book is a sci-fi spectacle about a young man trying to save his family from an exploding sun. It's just might point to a happy new Northwest trend in science fiction."
-facebookauto = "Seattle author Kevin Emerson's latest novel continues in a modern Northwest sci-fi tradition."
+type = "Review"facebookauto = "Seattle author Kevin Emerson's latest novel continues in a modern Northwest sci-fi tradition."
 twitterauto = "Seattle author @kcemerson's latest novel for young readers is a sci-fi epic about an exploding sun."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/last-day-on-mars.md"]

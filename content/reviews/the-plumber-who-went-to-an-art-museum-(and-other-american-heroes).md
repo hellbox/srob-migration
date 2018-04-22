@@ -11,7 +11,7 @@ preview_url = "dcc0d25e-6bd5-f59a-441b-361e13bc58f6"
 name = "The plumber who went to an art museum (and other American heroes)"
 title = "The plumber who went to an art museum (and other American heroes)"
 dek = "Art tells us who we are, sometimes more than we want to know. The catalog from a recent exhibition at the Smithsonian National Portrait Gallery turns a mirror on American attitudes toward work, race, and gender."
-facebookauto = "A sharp-eyed review by Emily Pothast looks at race and gender in America through the art we make about work."
+type = "Review"facebookauto = "A sharp-eyed review by Emily Pothast looks at race and gender in America through the art we make about work."
 twitterauto = "A sharp-eyed review by @emilypothast \u200flooks at race and gender in America through the art we make about work."
 reviews_byline = ["writers/emily-pothast.md"]
 reviews_books = ["books/the-sweat-of-their-face.md"]

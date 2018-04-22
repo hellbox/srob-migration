@@ -11,7 +11,7 @@ preview_url = "755df247-a4cb-93e1-3e04-e6673b51e231"
 name = "Intoxicating and irresistible and maybe untrue"
 title = "Intoxicating and irresistible and maybe untrue"
 dek = "What is it about writing advice? Mary Karr shows how lyrical and inspiring, and maybe also how awkward and frustrating, it can be. "
-twitterauto = "The many shades of memoir. @ofbooksandbikes looks at Mary Karr's approach in a new review, now on the site. "
+type = "Review"twitterauto = "The many shades of memoir. @ofbooksandbikes looks at Mary Karr's approach in a new review, now on the site. "
 reviews_byline = ["writers/rebecca-hussey.md"]
 reviews_books = ["books/the-art-of-memoir.md"]
 reviews_tags = ["reviews/intoxicating-and-irresistible-and-maybe-untrue.md"]

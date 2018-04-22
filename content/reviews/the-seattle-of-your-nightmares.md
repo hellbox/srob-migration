@@ -11,7 +11,7 @@ preview_url = "896ca0c4-d206-0ece-ea4c-78bafc6118e4"
 name = "The Seattle of your nightmares"
 title = "The Seattle of your nightmares"
 dek = "If you raise your hackles when someone tells you that Seattle is a racist city, you need to read Ta-Nehisi Coates's new book. It won't make you feel any better, but it will absolutely open your eyes."
-twitterauto = "Seattle is a racist city. If that sentence makes you mad, you really need to read  \"Between the World and Me.\""
+type = "Review"twitterauto = "Seattle is a racist city. If that sentence makes you mad, you really need to read  \"Between the World and Me.\""
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/between-the-world-and-me.md"]
 reviews_tags = ["reviews/the-seattle-of-your-nightmares.md"]

@@ -11,7 +11,7 @@ preview_url = "4529d851-4f33-b484-dcfd-648af37b12c2"
 name = "A self-made man"
 title = "A self-made man"
 dek = "Sometimes a word is more than its definition. The latest novel from Port Townsend author Rikki Ducornet is full of sentences that are divorced from meaning, in the liveliest way possible."
-facebookauto = "Port Townsend author Rikki Ducornet's new novel is about a feral boy who goes to college."
+type = "Review"facebookauto = "Port Townsend author Rikki Ducornet's new novel is about a feral boy who goes to college."
 twitterauto = "Port Townsend author Rikki Ducornet's new novel is about a feral boy who goes to college."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/brightfellow.md"]

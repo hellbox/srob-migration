@@ -11,7 +11,7 @@ preview_url = "b90b3b93-822b-7384-4fad-04ce830aae05"
 name = "How to Celebrate a Calendrical Coincidence"
 title = "How to Celebrate a Calendrical Coincidence"
 dek = "Has anybody seen our reviewer Ivan Schneider? All we have is a battered, marked-up version of a book about Cervantes and Shakespeare, and this...well, I guess you could call it a \"review\"."
-facebookauto = "Has anybody seen our reviewer Ivan Schneider? We found this review in our system with no idea how it got there."
+type = "Review"facebookauto = "Has anybody seen our reviewer Ivan Schneider? We found this review in our system with no idea how it got there."
 twitterauto = "Has anybody seen @ivantohelpyou? We found this review in our system with no idea how it got there."
 reviews_byline = ["writers/ivan-schneider.md"]
 reviews_books = ["books/lunatics-lovers-and-poets.md"]

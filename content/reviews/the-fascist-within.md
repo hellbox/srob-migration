@@ -11,7 +11,7 @@ preview_url = "521802ab-5428-1220-c45b-dac4ee491ea9"
 name = "The fascist within"
 title = "The fascist within"
 dek = "If you're still reeling from the thought of President Trump, it's time to compose yourself. We must prepare to fight the fascist future. "
-facebookauto = "Now that President Trump has been elected, how do we stop America from sliding into fascism? (This piece originally ran in August, but we're re-running it because it seems even more pertinent now.)"
+type = "Review"facebookauto = "Now that President Trump has been elected, how do we stop America from sliding into fascism? (This piece originally ran in August, but we're re-running it because it seems even more pertinent now.)"
 twitterauto = "We published this piece in August, but it's more relevant now than ever. How do we stop fascism in America?"
 reviews_byline = ["writers/sarah-bakker-kellogg.md"]
 reviews_books = ["books/integral-europe.md"]

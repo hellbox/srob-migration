@@ -11,7 +11,7 @@ preview_url = "97ab7cec-d58e-f5dd-7978-e6a70dce3479"
 name = "Picking up the pencil"
 title = "Picking up the pencil"
 dek = "Artist and illustrator Laura Knetzger tries the famous 12-week course in creativity to see how well it works."
-facebookauto = "The Artist's Way? Is that the only way to do it? Laura Knetzger explores in this great review in comic form."
+type = "Review"facebookauto = "The Artist's Way? Is that the only way to do it? Laura Knetzger explores in this great review in comic form."
 twitterauto = "The Artist's Way? Is that the only way to do it? @lauraknetzger explores in this great review in comic form."
 reviews_byline = ["writers/laura-knetzger.md"]
 reviews_books = ["books/the-artists-way.md"]

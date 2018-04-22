@@ -11,7 +11,7 @@ preview_url = "4739521c-3492-68f3-1489-9c3cf65f6143"
 name = "It all works out, in theory"
 title = "It all works out, in theory"
 dek = "Literary theory: a mystery, or murder? Ivan Schneider dons deerstalker in pursuit of the truth."
-facebookauto = "Literary theory is serious fun, says Ivan Schneider in his review of Laurent Binet's latest."
+type = "Review"facebookauto = "Literary theory is serious fun, says Ivan Schneider in his review of Laurent Binet's latest."
 twitterauto = "Literary theory is serious fun, says @ivantohelpyou in his review of Laurent Binet's latest."
 reviews_byline = ["writers/ivan-schneider.md"]
 reviews_books = ["books/seventh-function-of-language.md"]

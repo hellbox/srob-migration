@@ -11,7 +11,7 @@ preview_url = "6026d278-5a03-b931-11d1-00c11dd50fbb"
 name = "Living up to the best"
 title = "Living up to the best"
 dek = "Jonathan Lethem's Best American Comics 2015 might not be the best comics anthology out there, but it is certainly the best comics anthology edited by Jonathan Lethem this year."
-facebookauto = "This Sunday, the brilliant Jonathan Lethem reads at Fantagraphics Bookstore & Gallery in support of his new anthology, The Best American Comics 2015. How's the book? Depends how you define \"best.\""
+type = "Review"facebookauto = "This Sunday, the brilliant Jonathan Lethem reads at Fantagraphics Bookstore & Gallery in support of his new anthology, The Best American Comics 2015. How's the book? Depends how you define \"best.\""
 twitterauto = "Our review of Jonathan Lethem's Best American Comics 2015 keeps bumping against the word \"best.\""
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-best-american-comics-2015.md"]

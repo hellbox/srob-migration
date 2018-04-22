@@ -11,7 +11,7 @@ preview_url = "0ae4443f-9011-a014-683a-d0f62a60aebd"
 name = "Fun, food, and fear: Farley Mowat and the lessons of Never Cry Wolf"
 title = "Fun, food, and fear: Farley Mowat and the lessons of Never Cry Wolf"
 dek = "In the 1940s, a young man named Farley Mowat traveled to northern Canada to study wolf attacks.  What he discovered would inspire a classic story about the animals, fear, and expectations."
-twitterauto = "In the 1940s, a young man traveled to northern Canada to study wolf attacks.  He found something unexpected."
+type = "Review"twitterauto = "In the 1940s, a young man traveled to northern Canada to study wolf attacks.  He found something unexpected."
 reviews_byline = ["writers/benjamin-corey.md"]
 reviews_books = ["books/never-cry-wolf.md"]
 reviews_tags = ["reviews/fun-food-and-fear-farley-mowat-and-the-lessons-of-never-cry-wolf.md"]

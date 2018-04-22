@@ -11,7 +11,7 @@ preview_url = "444cdd87-ec51-4715-bf96-d94b3d36f23d"
 name = "A message from the future"
 title = "A message from the future"
 dek = "Many authors use the future as a painless way to tell uncomfortable truths about the present. What is cartoonist Lucas Varela trying to tell us with his wordless slapstick comedy about an alien, a robot, and a clutch of creepy pink tentacles on a rampage?"
-facebookauto = "Here's a screwball sci-fi comic about aliens and tentacles and robots. What does it mean? Maybe nothing."
+type = "Review"facebookauto = "Here's a screwball sci-fi comic about aliens and tentacles and robots. What does it mean? Maybe nothing."
 twitterauto = "Here's a screwball sci-fi comic about aliens and tentacles and robots. What does it mean? Maybe nothing."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-longest-day-of-the-future.md"]

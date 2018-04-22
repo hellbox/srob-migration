@@ -11,7 +11,7 @@ preview_url = "70b1b038-1c44-e270-8d5d-7b0f3b135412"
 name = "Unreal estate"
 title = "Unreal estate"
 dek = "Tonight, Chicago novelist Jac Jemc reads at Elliott Bay Book Company. Her latest novel is a haunted house story that will keep you turning pages until you die from lack of sleep."
-facebookauto = "Every haunted house story is a story about a broken family.  Tonight, author Jac Jemc reads from her exemplary new horror novel at Elliott Bay Book Company."
+type = "Review"facebookauto = "Every haunted house story is a story about a broken family.  Tonight, author Jac Jemc reads from her exemplary new horror novel at Elliott Bay Book Company."
 twitterauto = " Tonight, author Jac Jemc reads from her actually scary new haunted house novel at @elliottbaybooks. "
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-grip-of-it.md"]

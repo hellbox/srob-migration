@@ -11,7 +11,7 @@ preview_url = "b43fada4-a60e-5dc9-700d-cd63715d5c77"
 name = "Tolstoy's unhappy family moves to the Northwest"
 title = "Tolstoy's unhappy family moves to the Northwest"
 dek = "Raw, naked, and unadorned in its language, Kruse's *Call Me Home* takes us inside a violent family from multiple points of view."
-reviews_byline = ["writers/paul-constant.md"]
+type = "Review"reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/call-me-home.md"]
 reviews_tags = ["reviews/tolstoys-unhappy-family-moves-to-the-northwest.md"]
 reviews_about = ["authors/megan-kruse.md"]

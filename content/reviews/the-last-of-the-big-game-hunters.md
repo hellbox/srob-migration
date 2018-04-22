@@ -11,7 +11,7 @@ preview_url = "34b96a18-34d1-f4fe-c7ab-d0e0372e833b"
 name = "The last of the big game hunters"
 title = "The last of the big game hunters"
 dek = "Cecil wasn't the only lion to be killed by a rich white American with way too much time on his hands. The Great White Hunter narrative has a long (and until recently, a proud) tradition in literature."
-reviews_byline = ["writers/paul-constant.md"]
+type = "Review"reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/death-in-the-dark-continent.md", "books/in-africa.md"]
 reviews_tags = ["reviews/the-last-of-the-big-game-hunters.md"]
 reviews_about = ["authors/peter-hathaway-capstick.md", "authors/john-tinney-mccutcheon.md", "authors/ernest-hemingway.md", "authors/aj-hunter.md"]

@@ -11,7 +11,7 @@ preview_url = "b68555e6-35fc-948a-7bab-bd71cce63a54"
 name = "Writing in between the lines"
 title = "Writing in between the lines"
 dek = "The latest issue of local literary magazine PageBoy invites writers to write about writers they love."
-facebookauto = "The latest issue of PageBoy magazine invites local writers to write  honestly about writers they love, from Kafka to Wodehouse."
+type = "Review"facebookauto = "The latest issue of PageBoy magazine invites local writers to write  honestly about writers they love, from Kafka to Wodehouse."
 twitterauto = "PageBoy's latest issue invites writers to write about writers."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/pageboy-.md"]

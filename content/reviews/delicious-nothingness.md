@@ -11,7 +11,7 @@ preview_url = "a80a62d7-1633-da52-f2f3-c675ecb394b5"
 name = "Delicious nothingness"
 title = "Delicious nothingness"
 dek = "A new book offers up all the dish about the 2016 Republican presidential candidates. But does any of this salacious gossip really matter?"
-facebookauto = "Here's something Marco Rubio actually said, according to a friend: \u201dIt\u2019s amazing...I can call up a lobbyist at four in the morning, and he\u2019ll meet me anywhere with a bag of forty thousand dollars in cash.\u201d"
+type = "Review"facebookauto = "Here's something Marco Rubio actually said, according to a friend: \u201dIt\u2019s amazing...I can call up a lobbyist at four in the morning, and he\u2019ll meet me anywhere with a bag of forty thousand dollars in cash.\u201d"
 twitterauto = "Why would anyone read a 400-page book about presidential candidates with no policy in it? Because gossip."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-wilderness.md"]

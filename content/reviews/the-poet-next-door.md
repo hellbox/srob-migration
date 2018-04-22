@@ -11,7 +11,7 @@ preview_url = "7fb94637-e50a-bbb4-d927-6cdf4f56981f"
 name = "The poet next door"
 title = "The poet next door"
 dek = "Three new books from Seattle poets have absolutely nothing in common \u2014 or do they?\n"
-facebookauto = "New poetry books by Hannah Faith Notess, Sarah Mangold, and Amaranth Borsuk have nothing at all in common, unless you consider their Seattle-ness, in which case they have everything in common."
+type = "Review"facebookauto = "New poetry books by Hannah Faith Notess, Sarah Mangold, and Amaranth Borsuk have nothing at all in common, unless you consider their Seattle-ness, in which case they have everything in common."
 twitterauto = "Three new books from Seattle poets have absolutely nothing in common \u2014 or do they?\n"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-multitude.md", "books/giraffes-of-devotion.md", "books/pomegranate-eater.md"]

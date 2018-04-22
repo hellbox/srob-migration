@@ -11,7 +11,7 @@ preview_url = "8d98b324-38e9-49e4-a118-f71a10465bdb"
 name = "The embedded cartoonist"
 title = "The embedded cartoonist"
 dek = "Seattle cartoonist Sarah Glidden's new book follows two Seattle Globalist reporters through Iraq and Syria. After America broke a country into a million tiny pieces, can American journalists help put it back together again?"
-facebookauto = "Seattle cartoonist Sarah Glidden's new book is about some local reporters in Iraq, trying not to screw the country up any worse than we already screwed it up in the war."
+type = "Review"facebookauto = "Seattle cartoonist Sarah Glidden's new book is about some local reporters in Iraq, trying not to screw the country up any worse than we already screwed it up in the war."
 twitterauto = "Sarah Glidden's new book from @DandQ is about Seattle reporters in Iraq, trying not to screw anything up."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/rolling-blackouts.md"]

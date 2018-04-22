@@ -11,7 +11,7 @@ preview_url = "b876a5e9-5448-86b5-cce6-48e7a42f9256"
 name = "Sharing the last of our food"
 title = "Sharing the last of our food"
 dek = "When you're setting a place at the table for all, what if you don't see who you're leaving out?"
-facebookauto = "PTSD and the price of inclusion: Sonya Lea looks at Sebastian Junger's Tribe. "
+type = "Review"facebookauto = "PTSD and the price of inclusion: Sonya Lea looks at Sebastian Junger's Tribe. "
 twitterauto = "PTSD and the price of inclusion: @sonya_lea looks at @sebastianjunger's Tribe. "
 reviews_byline = ["writers/sonya-lea.md"]
 reviews_books = ["books/tribe.md"]

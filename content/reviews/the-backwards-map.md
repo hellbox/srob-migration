@@ -11,7 +11,7 @@ preview_url = "7c762d10-63ab-a433-69ed-cb8317375086"
 name = "The backwards map"
 title = "The backwards map"
 dek = "Your eyes might resist the idea of reading Ted Powers's poems in the normal way. That's perfectly okay. These poems reveal themselves to you by turning inside out."
-facebookauto = "You can't just barge into a Ted Powers poem. You've gotta turn it inside out first."
+type = "Review"facebookauto = "You can't just barge into a Ted Powers poem. You've gotta turn it inside out first."
 twitterauto = "You can't just barge into a Ted Powers poem. You've gotta turn it inside out first."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/manners.md"]

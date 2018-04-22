@@ -11,7 +11,7 @@ preview_url = "eb9dd2c6-ce31-9bbc-194c-a8b184eea83f"
 name = "Ave Mar\u00edas"
 title = "Ave Mar\u00edas"
 dek = "Washington State Poet Laureate Claudia Castro Luna reads tomorrow night at Seattle Public Library at 7 pm. Her latest book memorializes women who were murdered in Juarez Mexico."
-facebookauto = "Tomorrow night, Claudia Castro Luna reads at the Seattle Public Library. Her latest poetry collection is a memorial for women who were murdered in Juarez, Mexico."
+type = "Review"facebookauto = "Tomorrow night, Claudia Castro Luna reads at the Seattle Public Library. Her latest poetry collection is a memorial for women who were murdered in Juarez, Mexico."
 twitterauto = "Claudia Castro Luna reads @SPLBuzz tomorrow night! Here's our review of her latest book:"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/killing-mar\u00edas.md"]

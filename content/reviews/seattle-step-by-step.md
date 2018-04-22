@@ -11,7 +11,7 @@ preview_url = "7176bfa4-7837-5579-b3b9-f2fe60f3c0c0"
 name = "Seattle, step by step"
 title = "Seattle, step by step"
 dek = "From Madam Damnable\u2019s Hotel to Profanity Hill, a new guide walks you through Seattle history."
-facebookauto = "From Madam Damnable\u2019s Hotel to Profanity Hill, a new guide walks you through Seattle history."
+type = "Review"facebookauto = "From Madam Damnable\u2019s Hotel to Profanity Hill, a new guide walks you through Seattle history."
 twitterauto = "From Madam Damnable\u2019s Hotel to Profanity Hill, a new guide walks you through Seattle history."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/seattle-walks.md"]

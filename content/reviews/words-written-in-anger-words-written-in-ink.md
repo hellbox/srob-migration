@@ -11,7 +11,7 @@ preview_url = "480cb586-5683-7478-aa8b-8df713bb0077"
 name = "Words written in anger, words written in ink"
 title = "Words written in anger, words written in ink"
 dek = "The hot takes said Ta-Nehisi Coates's reporting on the Obama presidency aids and abets white supremacy. Robert Lashley found something different in the words written on the page."
-facebookauto = "Robert Lashley finds a complex, brilliant book behind the hot takes on Ta-Nehisi Coates's We Were Eight Years in Power. "
+type = "Review"facebookauto = "Robert Lashley finds a complex, brilliant book behind the hot takes on Ta-Nehisi Coates's We Were Eight Years in Power. "
 twitterauto = "Robert Lashley finds a complex, brilliant book behind the hot takes on @tanehisicoates's We Were Eight Years in Power"
 reviews_byline = ["writers/robert-lashley.md"]
 reviews_books = ["books/we-were-eight-years-in-power.md"]

@@ -11,7 +11,7 @@ preview_url = "7c4631a5-2944-71a2-6150-47cfc2bc5c8e"
 name = "The Angry Doodler reviews Private Citizens by Tony Tulathimutte"
 title = "The Angry Doodler reviews Private Citizens by Tony Tulathimutte"
 dek = "In our first-ever piece of comics criticism, Seattle cartoonist Siolo Thompson takes on a novel about San Francisco tech nerds."
-facebookauto = "Our first piece of criticism in comic book form! Seattle cartoonist Siolo Thompson reviews a novel about San Francisco tech bros."
+type = "Review"facebookauto = "Our first piece of criticism in comic book form! Seattle cartoonist Siolo Thompson reviews a novel about San Francisco tech bros."
 twitterauto = "Seattle cartoonist @TheAngryDoodler reviews a novel about San Francisco tech bros."
 reviews_byline = ["writers/siolo-thompson.md"]
 reviews_books = ["books/private-citizens.md"]

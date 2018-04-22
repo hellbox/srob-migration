@@ -11,7 +11,7 @@ preview_url = "239a9d81-178b-e859-becb-4dc4a44999d7"
 name = "Alphabetical order"
 title = "Alphabetical order"
 dek = "When Sue Grafton died last week, she left a remarkable series of books behind: complex but accessible, comprehensive yet entertaining. And her hero, Kinsey Millhone, is one of the liveliest private investigators you'll ever meet."
-facebookauto = "Sue Grafton's alphabet mysteries are a master class in how to write a great fictional series."
+type = "Review"facebookauto = "Sue Grafton's alphabet mysteries are a master class in how to write a great fictional series."
 twitterauto = "Sue Grafton's alphabet mysteries are a master class in how to write a great fictional series."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/d-is-for-deadbeat.md"]

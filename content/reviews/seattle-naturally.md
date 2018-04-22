@@ -11,7 +11,7 @@ preview_url = "63c147ab-a0cd-3f7a-a0ea-65260c27c352"
 name = "Seattle, naturally"
 title = "Seattle, naturally"
 dek = "It's easy to think of cities and nature as two opposing forces, but Adrienne Ross Scanlan reminds us that Seattle is nature and a city, and you can't have the one without the other."
-facebookauto = "Nature isn't separate from Seattle; it's in Seattle, throughout it, and an essential part of it."
+type = "Review"facebookauto = "Nature isn't separate from Seattle; it's in Seattle, throughout it, and an essential part of it."
 twitterauto = "Nature isn't separate from Seattle; it's in Seattle, throughout it, and an essential part of it."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/turning-homeward.md"]

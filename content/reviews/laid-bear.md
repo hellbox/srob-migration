@@ -11,7 +11,7 @@ preview_url = "51b6a393-d1a5-d3e1-6a5b-6360b6199014"
 name = "Laid bear"
 title = "Laid bear"
 dek = "The internet lost its collective mind over an 40 year-old Canadian novel featuring a woman having an erotic relationship with a bear. Why do bears and sex freak people out so much?"
-facebookauto = "Sure, they say you can't judge a book by its cover. But what about if the book is about a woman who has sexual relations with a bear?"
+type = "Review"facebookauto = "Sure, they say you can't judge a book by its cover. But what about if the book is about a woman who has sexual relations with a bear?"
 twitterauto = "The internet lost its mind over a 40 year-old novel about a woman having an erotic relationship with a bear. "
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/bear.md"]

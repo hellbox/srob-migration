@@ -11,7 +11,7 @@ preview_url = "3fa73c60-42c3-1266-de32-2a8b86dbdfce"
 name = "Un-perfumed letters"
 title = "Un-perfumed letters"
 dek = "Books of letters can teach you so much about the correspondence, but what makes one fall flat while another one sings? "
-facebookauto = "Catherine Nichols wonders after books of letters -- why do some appeal, and some lay flat? She compares the letters between Robert Lowell and Elizabeth Bishop, to those between Eudora Welty and Ross Macdonald."
+type = "Review"facebookauto = "Catherine Nichols wonders after books of letters -- why do some appeal, and some lay flat? She compares the letters between Robert Lowell and Elizabeth Bishop, to those between Eudora Welty and Ross Macdonald."
 twitterauto = "It's poets vs. prose writers in this exploration of books of letters, from @clnichols6. "
 reviews_byline = ["writers/catherine-nichols.md"]
 reviews_books = ["books/words-in-air.md", "books/meanwhile-there-are-letters.md"]

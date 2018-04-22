@@ -11,7 +11,7 @@ preview_url = "88ed5443-c217-8052-72f4-ab059b7329b4"
 name = "Everfair, in love and war"
 title = "Everfair, in love and war"
 dek = "In her first novel, Seattle author Nisi Shawl reimagines a colonial tragedy as a steampunk African kingdom."
-facebookauto = "With Everfair, Seattle author Nisi Shawl tackles the inherent colonialism in steampunk while also addressing the very real, and horrific consequences of colonialism in real-world history."
+type = "Review"facebookauto = "With Everfair, Seattle author Nisi Shawl tackles the inherent colonialism in steampunk while also addressing the very real, and horrific consequences of colonialism in real-world history."
 twitterauto = "In her first novel, Seattle author @NisiShawl reimagines a colonial tragedy as a steampunk African kingdom."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/everfair.md"]

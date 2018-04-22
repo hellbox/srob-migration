@@ -11,7 +11,7 @@ preview_url = "7e9e97cd-e8f5-2cb4-c1bc-93cbee1a91bf"
 name = "The visible women"
 title = "The visible women"
 dek = "A new zine from Shout Your Abortion offers gratitude and celebration for an invisible subset of everyday hero: abortion providers."
-facebookauto = "A new zine from Shout Your Abortion celebrates and thanks abortion providers for all their tireless hard work."
+type = "Review"facebookauto = "A new zine from Shout Your Abortion celebrates and thanks abortion providers for all their tireless hard work."
 twitterauto = "A new zine from @ShoutYrAbortion is full of love letters to abortion providers."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/shoutyourabortion.md"]

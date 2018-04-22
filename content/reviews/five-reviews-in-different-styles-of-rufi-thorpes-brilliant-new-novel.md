@@ -11,7 +11,7 @@ preview_url = "bf468bc9-7828-f48e-43bc-b338ad875f58"
 name = "Five reviews in different styles of Rufi Thorpe's brilliant new novel"
 title = "Five reviews in different styles of Rufi Thorpe's brilliant new novel"
 dek = "Even by our standards, Martin went a bit overboard with this review, but what else can you do when you fall hard for a novel?"
-facebookauto = "We went a little overboard with this review of Rufi Thorpe's new book. We regret nothing. This book is wonderful."
+type = "Review"facebookauto = "We went a little overboard with this review of Rufi Thorpe's new book. We regret nothing. This book is wonderful."
 twitterauto = "We went a little overboard with this review of @rufithorpe's new book. We regret nothing. This book is wonderful."
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/dear-fang-with-love.md"]

@@ -11,7 +11,7 @@ preview_url = "f477eb11-5bad-18c4-8239-52eabbde2cd1"
 name = "The idiot"
 title = "The idiot"
 dek = "The opening line of Jean Edward Smith's biography of George W. Bush: \"Rarely in the history of the United States has the nation been so ill-served as during the presidency of George W. Bush.\u201d Is this the anti-Bush bio we've all been waiting for?"
-facebookauto = "Now that Republicans have nominated Trump for president, maybe it's a good idea to look at what happened the last time we let a rich dimbulb with character issues have the presidency?"
+type = "Review"facebookauto = "Now that Republicans have nominated Trump for president, maybe it's a good idea to look at what happened the last time we let a rich dimbulb with character issues have the presidency?"
 twitterauto = "The newest George W. Bush biography doesn't even try to be objective about how terrible Bush was."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/bush.md"]

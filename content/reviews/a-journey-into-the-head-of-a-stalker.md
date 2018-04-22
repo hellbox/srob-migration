@@ -11,7 +11,7 @@ preview_url = "1cc1d88e-6459-b68b-1d84-cf178f517437"
 name = "A journey into the head of a stalker"
 title = "A journey into the head of a stalker"
 dek = "What happens when an author who has written a book about being stalked then goes on to write a thriller about a stalker?"
-facebookauto = "James Lasdun's latest book is a whip-smart thriller. But is genre just genre when you know it reflects the horrifying real-life experiences of the author."
+type = "Review"facebookauto = "James Lasdun's latest book is a whip-smart thriller. But is genre just genre when you know it reflects the horrifying real-life experiences of the author."
 twitterauto = "What happens when an author who has written about being stalked then goes on to write a thriller about a stalker?"
 reviews_byline = ["writers/alex-gallo-brown.md"]
 reviews_books = ["books/the-fall-guy.md", "books/give-me-everything-you-have.md"]

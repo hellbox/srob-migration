@@ -11,7 +11,7 @@ preview_url = "c195d456-e14b-e301-491d-614baea5c834"
 name = "The mourning pause"
 title = "The mourning pause"
 dek = "Eileen Myles named Afterglow a \"dog memoir\"; if you're surprised that it's more rich and dark and complicated than that, you haven't read Eileen Myles."
-facebookauto = "Sophia Shalmiyev reviewed Eileen Myles' Afterglow for us, in a fabulous cascade of images, words, and insight."
+type = "Review"facebookauto = "Sophia Shalmiyev reviewed Eileen Myles' Afterglow for us, in a fabulous cascade of images, words, and insight."
 twitterauto = "Sophia Shalmiyev reviewed Eileen Myles' Afterglow for us, in a fabulous cascade of images, words, and insight."
 reviews_byline = ["writers/sophia-shalmiyev.md"]
 reviews_books = ["books/afterglow.md"]

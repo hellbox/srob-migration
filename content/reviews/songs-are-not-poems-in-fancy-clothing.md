@@ -11,7 +11,7 @@ preview_url = "33c702bb-4de8-b80d-a0e5-ea17898296c6"
 name = "Songs are not poems in fancy clothing"
 title = "Songs are not poems in fancy clothing"
 dek = "It's one thing to love Simon Joyner's music. Is it possible to love the lyrics, when they're stripped of the music and bound in a book?"
-facebookauto = "It's one thing to love Simon Joyner's music. Is it possible to love the lyrics, when they're stripped of the music and bound in a book?"
+type = "Review"facebookauto = "It's one thing to love Simon Joyner's music. Is it possible to love the lyrics, when they're stripped of the music and bound in a book?"
 twitterauto = ".@maireadcase reviews a published collection of @SimonJoyner1's song lyrics."
 reviews_byline = ["writers/mairead-case.md"]
 reviews_books = ["books/only-love-can-bring-you-peace.md"]

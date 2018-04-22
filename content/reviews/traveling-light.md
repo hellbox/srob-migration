@@ -11,7 +11,7 @@ preview_url = "64cd71fd-4471-6dea-4960-e57ddde53588"
 name = "Traveling light"
 title = "Traveling light"
 dek = "When he gets ready to go on vacation, Paul Constant crams his backpack full of as many heavy books as possible. There's a reason for this, and it's not masochism."
-reviews_byline = ["writers/paul-constant.md"]
+type = "Review"reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/a-pleasure-and-a-calling.md", "books/definitely-maybe.md", "books/devil-may-care.md", "books/the-happiness-industry.md", "books/silver-screen-fiend.md", "books/jack-glass.md", "books/paper-towns.md", "books/horns.md", "books/austerity.md", "books/one-of-us.md"]
 reviews_tags = ["reviews/traveling-light.md"]
 reviews_about = ["authors/phil-hogan.md", "authors/boris-strugatsky.md", "authors/arkady-strugatsky.md", "authors/sebastian-faulks.md", "authors/william-davies.md", "authors/patton-oswalt.md", "authors/adam-roberts.md", "authors/john-green.md", "authors/joe-hill.md", "authors/kerry-anne-mendoza.md", "authors/\u00e5sne-seierstad.md"]

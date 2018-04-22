@@ -11,7 +11,7 @@ preview_url = "af3c7828-7b20-0bb1-4b0e-94499e0abb83"
 name = "Translation is not kale"
 title = "Translation is not kale"
 dek = "Why aren't more books by women translated and available in English? Anca Szil\u00e1gyi takes the hot air out of publishing industry excuses."
-facebookauto = "Translation is delicious, says Anca Szilagyi in her review of Craving for Women in Translation Month."
+type = "Review"facebookauto = "Translation is delicious, says Anca Szilagyi in her review of Craving for Women in Translation Month."
 twitterauto = "Translation is delicious, says @ancawrites in her review of Craving for #WITMonth. #translationthurs"
 reviews_byline = ["writers/anca-l-szil\u00e1gyi.md"]
 reviews_books = ["books/the-days-of-abandonment.md", "books/mile-end.md", "books/why-the-child-is-cooking-in-the-polenta.md", "books/death-as-a-side-effect.md", "books/craving.md"]

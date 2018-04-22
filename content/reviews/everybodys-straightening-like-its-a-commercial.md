@@ -11,7 +11,7 @@ preview_url = "f5b648f8-97ca-3dbe-69ca-cae0b16274ba"
 name = "Everybody's straightening like it's a commercial"
 title = "Everybody's straightening like it's a commercial"
 dek = "\"Does this spark joy?\" Marie Kondo implores us to ask of the things in our life. Dawn McCarra Bass stretches that idea to include some of the things that come to us through hardship and change."
-facebookauto = "What happens when your hardship makes your life untidy? Dawn McCarra Bass turned to Marie Kondo to find out."
+type = "Review"facebookauto = "What happens when your hardship makes your life untidy? Dawn McCarra Bass turned to Marie Kondo to find out."
 twitterauto = "Tidying in the time hardship. @despra holds @mariekondo's first book through the moments in life we most dread.\n"
 reviews_byline = ["writers/dawn-mccarra-bass.md"]
 reviews_books = ["books/the-life-changing-magic-of-tidying.md"]

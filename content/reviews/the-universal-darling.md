@@ -11,7 +11,7 @@ preview_url = "9bd33e01-c77d-1bb5-c26f-a71b5dd03b8c"
 name = "The universal darling"
 title = "The universal darling"
 dek = "What does Belle Epoque France have to tell us about our modern Instgramming ways? Swati Nair digs into a famous novel to find out."
-facebookauto = "What does Belle Epoque France have to tell us about our modern Instgramming ways? Swati Nair looks at Colette's Cheri, and has some answers. "
+type = "Review"facebookauto = "What does Belle Epoque France have to tell us about our modern Instgramming ways? Swati Nair looks at Colette's Cheri, and has some answers. "
 twitterauto = "What does Belle Epoque France have to tell us about our modern Instgramming ways?"
 reviews_byline = ["writers/swati-nair.md"]
 reviews_books = ["books/cheri.md"]

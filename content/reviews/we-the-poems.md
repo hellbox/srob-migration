@@ -11,7 +11,7 @@ preview_url = "8867b561-2309-4534-3d34-3101bd61a275"
 name = "We the poems"
 title = "We the poems"
 dek = "Government-sponsored poets are defining Seattle and Washington State. You couldn't ask for a better investment of your tax dollars.\n"
-facebookauto = "Should your hard-earned tax dollars go toward poets and poetry? God, yes!"
+type = "Review"facebookauto = "Should your hard-earned tax dollars go toward poets and poetry? God, yes!"
 twitterauto = "Should your hard-earned tax dollars go toward poets and poetry? God, yes!"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/wa-129.md"]

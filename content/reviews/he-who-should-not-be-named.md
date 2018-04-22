@@ -11,7 +11,7 @@ preview_url = "445e41b9-6739-9512-c8f9-2eeea7e30b29"
 name = "He who should not be named"
 title = "He who should not be named"
 dek = "Can any book truly capture the fact-free horror that is Donald Trump?"
-facebookauto = "You, and everyone you know, is sick of hearing about Donald Trump. But Donald Trump is probably not through with us."
+type = "Review"facebookauto = "You, and everyone you know, is sick of hearing about Donald Trump. But Donald Trump is probably not through with us."
 twitterauto = "Can any book truly capture the fact-free horror that is Donald Trump?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/trump-revealed.md", "books/the-elephant-in-the-room.md"]

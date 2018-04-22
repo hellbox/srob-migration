@@ -11,7 +11,7 @@ preview_url = "825d88c9-f474-bab8-3574-6245d4f2af6d"
 name = "The one-sided deal"
 title = "The one-sided deal"
 dek = "There is an agreement between every author and reader. By abandoning English for Italian, Jhumpa Lahiri has violated that agreement. Is that an okay thing to do?"
-facebookauto = "When Jhumpa Lahiri announced that she was only writing in Italian from now on, she was abandoning her fans. Is that an okay thing to do?"
+type = "Review"facebookauto = "When Jhumpa Lahiri announced that she was only writing in Italian from now on, she was abandoning her fans. Is that an okay thing to do?"
 twitterauto = "Jhumpa Lahiri announced she was only writing in Italian from now on. Does that violate the author-reader contract?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/in-other-words.md"]

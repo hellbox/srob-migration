@@ -11,7 +11,7 @@ preview_url = "b3897835-77cc-99c7-f279-f52d4fc46dc7"
 name = "Walking around Seattle with Jane Jacobs"
 title = "Walking around Seattle with Jane Jacobs"
 dek = "Taking the audio version of Jane Jacobs's urbanist classic The Death and Life of Great American Cities out on a walk through Seattle is like reading a great piece of writing with an editor."
-facebookauto = "We walked Seattle with Jane Jacobs's book about Great Cities in our ear. Here's what we learned:"
+type = "Review"facebookauto = "We walked Seattle with Jane Jacobs's book about Great Cities in our ear. Here's what we learned:"
 twitterauto = "We walked Seattle with Jane Jacobs's book about Great Cities in our ear. Here's what we learned:"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-death-and-life-of-great-american-cities.md"]

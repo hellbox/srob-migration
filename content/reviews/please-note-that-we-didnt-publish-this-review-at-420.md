@@ -11,7 +11,7 @@ preview_url = "a568c574-b346-4adb-2cb8-f1a93721e27b"
 name = "Please note that we didn't publish this review at 4:20"
 title = "Please note that we didn't publish this review at 4:20"
 dek = "David Schmader's new book about weed is here. Is it worth cracking? What if you're a weed expert? What if you're a weed newbie?"
-facebookauto = "David Schmader's new book about weed is here. We turned to subject expert, and marijuana journalist, Al Olson to give us his take."
+type = "Review"facebookauto = "David Schmader's new book about weed is here. We turned to subject expert, and marijuana journalist, Al Olson to give us his take."
 twitterauto = "We turned to @alolson59 to peek inside @davidschmader's new book about weed."
 reviews_byline = ["writers/al-olson.md"]
 reviews_books = ["books/weed-the-users-guide.md"]

@@ -11,7 +11,7 @@ preview_url = "e940ca8c-fa75-f593-53f8-4c45b9fa9fd3"
 name = "I like to be in America"
 title = "I like to be in America"
 dek = "\nDonna Miscolta\u2019s exquisite short stories about Mexican-American immigrants are the balm for our troubulent times.\n"
-facebookauto = "The stories in Seattle author Donna Miscolta's new book are the perfect response to Donald Trump's Deplorable America."
+type = "Review"facebookauto = "The stories in Seattle author Donna Miscolta's new book are the perfect response to Donald Trump's Deplorable America."
 twitterauto = "Seattle author @DonnaMiscolta's short stories are the perfect response to Deplorable America."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/hola-and-goodbye.md"]

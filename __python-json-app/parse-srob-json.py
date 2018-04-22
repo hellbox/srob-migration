@@ -1020,6 +1020,7 @@ for key in j['data']:
         markdown.write('name = %s\n' % (json.dumps(j['data']['reviews'][review]['name']).encode('utf-8')))
         markdown.write('title = %s\n' % (json.dumps(j['data']['reviews'][review]['name']).encode('utf-8')))
         markdown.write('dek = %s\n' % (json.dumps(j['data']['reviews'][review]['dek']).encode('utf-8')))
+        markdown.write('type = "Review"')
         try:
           markdown.write('facebookauto = %s\n' % (json.dumps(j['data']['reviews'][review]['facebookauto']).encode('utf-8')))
         except KeyError:

@@ -11,7 +11,7 @@ preview_url = "4bc0a2c6-8454-ef44-5d3b-eff64af5ec7c"
 name = "Uncommitted"
 title = "Uncommitted"
 dek = "Eli Sanders won a Pulitzer Prize for his coverage of a horrific South Park home invasion that ended in murder. His new book expands the story, and asks a fundamental question: are we doing enough to help mentally ill offenders before a crime happens?"
-facebookauto = "It's release day for Eli Sanders book-length exploration of the South Park home invasion and murder, which he covered extensively for the Stranger. That work won him the Pulitzer Prize \u2014 read our review of the longer work, and see how we felt about his extended coverage."
+type = "Review"facebookauto = "It's release day for Eli Sanders book-length exploration of the South Park home invasion and murder, which he covered extensively for the Stranger. That work won him the Pulitzer Prize \u2014 read our review of the longer work, and see how we felt about his extended coverage."
 twitterauto = "Our review of @elijsanders stunning new book \"While the City Slept\""
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/while-the-city-slept.md"]

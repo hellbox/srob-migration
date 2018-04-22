@@ -11,7 +11,7 @@ preview_url = "9d93fda3-b963-0051-7bcf-cd086b7f22fa"
 name = "Journey to prison island"
 title = "Journey to prison island"
 dek = "Mayumi is a woman in love. Mayumi is a married woman in love. Mayumi is a married woman in love with a 17 year-old boy. The more she confesses, the more you have to listen."
-facebookauto = "Are forbidden love stories the only kind of love story that matters? What if the love story is about a 41 year-old woman who seduces a 17 year-old boy?"
+type = "Review"facebookauto = "Are forbidden love stories the only kind of love story that matters? What if the love story is about a 41 year-old woman who seduces a 17 year-old boy?"
 twitterauto = "A librarian falls for a much younger man\u2014a boy, if we're being honest\u2014in Mayumi and the Sea of Happiness."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/mayumi-and-the-sea-of-happiness.md"]

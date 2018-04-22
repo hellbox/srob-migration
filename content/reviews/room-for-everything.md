@@ -11,7 +11,7 @@ preview_url = "bfa3bdcf-de1f-b68d-6e1e-779afa00dbbe"
 name = "Room for everything"
 title = "Room for everything"
 dek = "Chandler Klang Smith's new book crams everything it can inside itself, from Batman to Jane Austen to dystopian fiction to dragons. Are you ready for the first big everything novel of 2018?"
-facebookauto = "From Batman to Jane Austen, Chandler Klang Smith's new novel has it all."
+type = "Review"facebookauto = "From Batman to Jane Austen, Chandler Klang Smith's new novel has it all."
 twitterauto = "From Batman to Jane Austen, Chandler Klang Smith's new novel has it all."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-sky-is-yours.md"]

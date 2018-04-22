@@ -11,7 +11,7 @@ preview_url = "da0cd317-c55a-260d-7459-5e6a57c55672"
 name = "Too complicated to feel"
 title = "Too complicated to feel"
 dek = "Alex Blum came out of the Army Rangers broken \u2014\u00a0so badly broken he mistook robbing a bank for a training exercise. His cousin wrote a book about the fracture lines running through them both."
-facebookauto = "Reviewing Ben Blum's Ranger Games, Tessa Hulls asks what keeps a mind together (or breaks it apart)."
+type = "Review"facebookauto = "Reviewing Ben Blum's Ranger Games, Tessa Hulls asks what keeps a mind together (or breaks it apart)."
 twitterauto = "Reviewing @BenBlum's Ranger Games, Tessa Hulls asks what keeps a mind together (or breaks it apart)."
 reviews_byline = ["writers/tessa-hulls.md"]
 reviews_books = ["books/ranger-games.md"]

@@ -11,7 +11,7 @@ preview_url = "ef7a6e15-4ce8-99f9-5426-b6b0b6c6df56"
 name = "The ballad of Rosie the Riveter"
 title = "The ballad of Rosie the Riveter"
 dek = "Women write about work in a new poetry anthology. It's maybe the most political book you'll read all year. (This is a compliment)"
-twitterauto = "As we head into Labor Day weekend, you should spend some time reading this collection of women's work stories."
+type = "Review"twitterauto = "As we head into Labor Day weekend, you should spend some time reading this collection of women's work stories."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/raising-lilly-ledbetter.md"]
 reviews_tags = ["reviews/the-ballad-of-rosie-the-riveter.md"]

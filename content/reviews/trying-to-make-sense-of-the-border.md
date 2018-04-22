@@ -11,7 +11,7 @@ preview_url = "f95c781f-43ea-ff2f-b690-162739ebd5dd"
 name = "Trying to make sense of the border"
 title = "Trying to make sense of the border"
 dek = "At the border between Mexico and the United States, lines run much deeper than the surface of a map. "
-facebookauto = "Near the border, lines can blur, says Donna Miscolta, reviewing Francisco Cant\u00fa's memoir of his time as a border agent."
+type = "Review"facebookauto = "Near the border, lines can blur, says Donna Miscolta, reviewing Francisco Cant\u00fa's memoir of his time as a border agent."
 twitterauto = "Near the border, lines blur, says @DonnaMiscolta in her sharp-eyed review of @_franciscocantu's Line Becomes a River"
 reviews_byline = ["writers/donna-miscolta.md"]
 reviews_books = ["books/the-line-becomes-a-river.md"]

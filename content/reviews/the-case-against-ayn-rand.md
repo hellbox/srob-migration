@@ -11,7 +11,7 @@ preview_url = "25281ac6-af4d-6873-83a4-8534988fcc17"
 name = "The case against Ayn Rand"
 title = "The case against Ayn Rand"
 dek = "If you only read one comic book takedown of Ayn Rand's philosophy, Paul Constant writes, it should be *The Age of Selfishness*."
-reviews_byline = ["writers/paul-constant.md"]
+type = "Review"reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-age-of-selfishness.md"]
 reviews_tags = ["reviews/the-case-against-ayn-rand.md"]
 reviews_about = ["authors/darryl-cunningham.md"]

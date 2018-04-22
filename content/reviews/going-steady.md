@@ -11,7 +11,7 @@ preview_url = "56007605-7888-1f4a-dd01-a9e3382d268b"
 name = "Going steady"
 title = "Going steady"
 dek = "Tara Atkinson's new book is about a nameless woman who dates faceless men."
-facebookauto = "Tara Atkinson's new book is a tragic comedy or a comic tragedy about boyfriends."
+type = "Review"facebookauto = "Tara Atkinson's new book is a tragic comedy or a comic tragedy about boyfriends."
 twitterauto = "The new novella from @t_m_at is a tragic comedy or a comic tragedy about boyfriends."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/boyfriends.md"]

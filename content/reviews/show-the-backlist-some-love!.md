@@ -11,7 +11,7 @@ preview_url = "32acfcac-9891-ee18-a2c4-d52dee061829"
 name = "Show the backlist some love!"
 title = "Show the backlist some love!"
 dek = "Debbie Reese, of American Indians in Children's Literature, writes for us about how awards and best-of lists privilege the new -- at a high cost to books that represent diversity for kids from diverse backgrounds."
-facebookauto = "We know who wins awards for children's books, but who loses? Non-White kids, says Debbie Reese."
+type = "Review"facebookauto = "We know who wins awards for children's books, but who loses? Non-White kids, says Debbie Reese."
 twitterauto = "We know who wins awards for children's books, but who loses? Non-White kids, says @debreese."
 reviews_byline = ["writers/debbie-reese.md"]
 reviews_books = ["books/the-people-shall-continue.md", "books/the-girl-who-loved-wild-horses.md"]

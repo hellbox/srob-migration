@@ -11,7 +11,7 @@ preview_url = "319c2204-df1c-4032-ae75-846094445413"
 name = "American elegy"
 title = "American elegy"
 dek = "JD Vance is being hailed as a prophet of the working class, but what does his book really teach us about rural America?"
-facebookauto = "Our first book for our new reading group Reading Through It, in partnership with The Seattle Weekly, and Third Place Books in Seward Park, is Hillbilly Elegy by JD Vance. Here's our review, in advance of meeting to discuss it. "
+type = "Review"facebookauto = "Our first book for our new reading group Reading Through It, in partnership with The Seattle Weekly, and Third Place Books in Seward Park, is Hillbilly Elegy by JD Vance. Here's our review, in advance of meeting to discuss it. "
 twitterauto = "Hillbilly Elegy is our first pick for our reading group with @seattleweekly and @thirdplacebooks. Here's our review:"
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/hillbilly-elegy.md"]

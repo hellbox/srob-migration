@@ -11,7 +11,7 @@ preview_url = "cbea7767-3f55-cd7e-6175-c29bac74508a"
 name = "Finding his voice"
 title = "Finding his voice"
 dek = "Robert Lashley is an incredible performing poet \u2014 one of the finest in the region. His latest book identifies him as one of the best on the page, in addition to one of the best on the stage."
-facebookauto = "We already know that Robert Lashley is a poetry genius on the stage. HIs new book proves he's a genius on the page."
+type = "Review"facebookauto = "We already know that Robert Lashley is a poetry genius on the stage. HIs new book proves he's a genius on the page."
 twitterauto = ".@Misterlashley is a poetry genius on the stage. HIs new book proves he's a genius on the page."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/up-south.md"]

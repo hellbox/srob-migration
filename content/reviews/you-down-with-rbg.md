@@ -11,7 +11,7 @@ preview_url = "76366746-beca-bdef-d48e-400976c079e0"
 name = "You down with RBG?"
 title = "You down with RBG?"
 dek = "An examination of one of the weirdest \u2014 and coolest \u2014 popular reappraisals in American political history.\n"
-facebookauto = "Anna Minard reflects on the life, legacy, and all-around general bad-assedness of Ruth Bader Ginsburg."
+type = "Review"facebookauto = "Anna Minard reflects on the life, legacy, and all-around general bad-assedness of Ruth Bader Ginsburg."
 twitterauto = "The life, legacy, and all-around general bad-assedness of Ruth Bader Ginsburg, as told by @minardanna."
 reviews_byline = ["writers/anna-minard.md"]
 reviews_books = ["books/notorious-rbg.md"]

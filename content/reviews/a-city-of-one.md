@@ -11,7 +11,7 @@ preview_url = "f9d4adc6-5c7c-c735-6ece-8fae7d389878"
 name = "A city of one"
 title = "A city of one"
 dek = "Cartoonist Julia Wertz is a special guest at the Short Run Comix & Arts Festival this weekend. Her latest book is a love letter to New York City, and it's a guidebook for how to fall in love with a city."
-facebookauto = "Julia Wertz's newest book will teach you how to love a city."
+type = "Review"facebookauto = "Julia Wertz's newest book will teach you how to love a city."
 twitterauto = ".@Julia_Wertz's newest book will teach you how to love a city."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/tenements-towers-&-trash.md"]

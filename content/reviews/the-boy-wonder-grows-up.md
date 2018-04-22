@@ -11,7 +11,7 @@ preview_url = "378291e5-1f64-4b58-db38-dbc1aa3b38f8"
 name = "The boy wonder grows up"
 title = "The boy wonder grows up"
 dek = "This Saturday, Peter Bagge will debut a collection of his earliest comics, The Complete Neat Stuff, at Fantagraphics Bookstore & Gallery in Georgetown. Neat Stuff tells the story of how Bagge went from a promising young talent to one of the finest cartoonists in his generation."
-facebookauto = "The Complete Neat Stuff documents how Peter Bagge grew from a promising talent to a once-in-a-generation talent."
+type = "Review"facebookauto = "The Complete Neat Stuff documents how Peter Bagge grew from a promising talent to a once-in-a-generation talent."
 twitterauto = "A new collection documents how Peter Bagge grew from a promising cartoonist to a once-in-a-generation talent."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-complete-neat-stuff.md"]

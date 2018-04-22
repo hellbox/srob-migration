@@ -11,7 +11,7 @@ preview_url = "ca06a540-b914-2c0e-f4ef-a4d0f4c264b3"
 name = "Make it hurt so good"
 title = "Make it hurt so good"
 dek = "Lauren Groff's short fiction is what you'd get if Carver or Yates tried to write a fairy tale. Does her new novel live up to her best work?"
-twitterauto = "Lauren Groff reads @ubookstorereads tonight. Does her new novel, \"Fates and Furies,\" match up to her best?"
+type = "Review"twitterauto = "Lauren Groff reads @ubookstorereads tonight. Does her new novel, \"Fates and Furies,\" match up to her best?"
 reviews_byline = ["writers/julia-cook.md"]
 reviews_books = ["books/fates-and-furies.md"]
 reviews_tags = ["reviews/make-it-hurt-so-good.md"]

@@ -11,7 +11,7 @@ preview_url = "d5edd04f-56cc-4cf7-b403-4076283a36a8"
 name = "What's one more American death, give or take?"
 title = "What's one more American death, give or take?"
 dek = "A new history by James Neff documents the long-running battle between Bobby Kennedy and Jimmy Hoffa, two men with enormous personalities and a distinct loathing for one another."
-reviews_byline = ["writers/paul-constant.md"]
+type = "Review"reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/vendetta.md"]
 reviews_tags = ["reviews/whats-one-more-american-death-give-or-take.md"]
 reviews_about = ["authors/james-neff.md"]

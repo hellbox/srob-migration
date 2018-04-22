@@ -11,7 +11,7 @@ preview_url = "ca57913a-b03a-6f80-b0c8-ff0375774d17"
 name = "Enemies of the state"
 title = "Enemies of the state"
 dek = "What can progressives do to fight when they've been outspent and out-planned by libertarian billionaires at every turn? Is there any hope?"
-facebookauto = "The vast right-wing conspiracy is real. Is there any hope for progressives?"
+type = "Review"facebookauto = "The vast right-wing conspiracy is real. Is there any hope for progressives?"
 twitterauto = "Progressives have been outspent & out-planned by billionaires. Is there any hope?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/dark-money.md"]

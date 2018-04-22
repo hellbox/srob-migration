@@ -11,7 +11,7 @@ preview_url = "2316de9a-a0ac-6774-2937-49f2febedc1f"
 name = "A city holds its breath"
 title = "A city holds its breath"
 dek = "San Francisco's Streetopia exhibition tried to imagine a better, more utopian city.  Is it time to wonder what a utopian Seattle  would look like?"
-facebookauto = "The Streetopia exhibition examined what a utopian San Francisco would look like. Now that the editor of the Streetopia book is coming to Seattle, maybe it's time to ask what a utopian Seattle would look like, too."
+type = "Review"facebookauto = "The Streetopia exhibition examined what a utopian San Francisco would look like. Now that the editor of the Streetopia book is coming to Seattle, maybe it's time to ask what a utopian Seattle would look like, too."
 twitterauto = "Sometime a city just has to stop, catch its breath, and think about what the city it wants to become."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/streetopia.md"]

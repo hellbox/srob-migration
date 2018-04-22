@@ -11,7 +11,7 @@ preview_url = "5ba2d4c4-1d6d-ad5f-80ea-903e121b5149"
 name = "Pronouns in space"
 title = "Pronouns in space"
 dek = "In the tradition of sci-fi novels reimagining the male/female dyad, Ann Leckie's \"Ancillary Justice\" delivers something new, suggesting that gender isn't necessary."
-twitterauto = "Ann Leckie's \"Ancillary Justice\" reimagines gender roles by reinventing pronoun use. "
+type = "Review"twitterauto = "Ann Leckie's \"Ancillary Justice\" reimagines gender roles by reinventing pronoun use. "
 reviews_byline = ["writers/kate-macdonald.md"]
 reviews_books = ["books/ancillary-justice.md", "books/the-left-hand-of-darkness.md", "books/ammonite.md"]
 reviews_tags = ["reviews/pronouns-in-space.md"]

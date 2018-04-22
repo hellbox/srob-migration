@@ -11,7 +11,7 @@ preview_url = "0503f049-7551-434b-282c-07ec66428e87"
 name = "The line between \"you\" and \"me\""
 title = "The line between \"you\" and \"me\""
 dek = "The latest book from Mount Analogue is a book, an art installation, and a friendship."
-facebookauto = "It's a book! It's an art installation! It's a friendship!"
+type = "Review"facebookauto = "It's a book! It's an art installation! It's a friendship!"
 twitterauto = "It's a book! It's an art installation! It's a friendship!"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/fumetti-for-the-mothership.md"]

@@ -11,7 +11,7 @@ preview_url = "9fc98033-3219-eb0f-51e8-a44d4a5d4cc9"
 name = "Among the ruins"
 title = "Among the ruins"
 dek = "Jessica Mooney confronts what it is about disaster tourism that both compels and repels, as she reads Kristen Radtke's _Imagine Wanting Only This_."
-facebookauto = "In a moving and lovely review, Jessica Mooney strolls through Kristen Radtke's Imagine Only This"
+type = "Review"facebookauto = "In a moving and lovely review, Jessica Mooney strolls through Kristen Radtke's Imagine Only This"
 twitterauto = "In a moving and lovely review, @jessleimoon strolls through @kristenradtke's Imagine Only This"
 reviews_byline = ["writers/jessica-mooney.md"]
 reviews_books = ["books/imagine-wanting-only-this.md"]

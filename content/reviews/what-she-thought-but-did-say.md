@@ -11,7 +11,7 @@ preview_url = "097fa52c-1b29-95ed-8aee-9b61a190a6b4"
 name = "What she thought, but did say"
 title = "What she thought, but did say"
 dek = "At the end of National Poetry Month, one writer looks back at a book he never fully walked away from. "
-facebookauto = "Some love for Seattle's own Heather McHugh today, starting with a look back at her well-loved collection \"Hinge & Sign\"."
+type = "Review"facebookauto = "Some love for Seattle's own Heather McHugh today, starting with a look back at her well-loved collection \"Hinge & Sign\"."
 twitterauto = "Some love for @heathermchugh on the site today, starting with a look at her well-loved collection \"Hinge & Sign\"."
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/hinge-&-sign-poems-1968-1993.md"]

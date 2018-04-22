@@ -11,7 +11,7 @@ preview_url = "9efc620f-1693-3a8d-4003-da98261eff6c"
 name = "What a lovely way to burn"
 title = "What a lovely way to burn"
 dek = "A Finnish novel about a dystopian gender-centric society and an underground economy built around hot peppers offers a solution to the problem with apocalyptic fiction. Rather than ripping off the Hunger Games, authors, why  not try to be original for a change?"
-facebookauto = "A Finnish novel about a dystopian gender-centric society and an underground economy built around hot peppers offers a solution to the problem with apocalyptic fiction. Rather than ripping off the Hunger Games, authors, why  not try to be original for a change?"
+type = "Review"facebookauto = "A Finnish novel about a dystopian gender-centric society and an underground economy built around hot peppers offers a solution to the problem with apocalyptic fiction. Rather than ripping off the Hunger Games, authors, why  not try to be original for a change?"
 twitterauto = "We live in a dystopian future in which the publishing industry puts out way too many works of dystopian fiction."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-core-of-the-sun.md"]

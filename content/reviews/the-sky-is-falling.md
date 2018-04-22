@@ -11,7 +11,7 @@ preview_url = "7ea02eca-b9a2-8549-4b39-72c0b196d205"
 name = "The sky is falling"
 title = "The sky is falling"
 dek = "In the late 1950s, two men from Argentina published a comic about a horrific alien invasion that quickly became embraced as a classic in Latin American science fiction. It's finally just been published in English for the very first time. Lucky you."
-facebookauto = "A classic Argentinian comic book about an alien invasion has finally been translated into English. (And yeah, it's even better than it sounds.)"
+type = "Review"facebookauto = "A classic Argentinian comic book about an alien invasion has finally been translated into English. (And yeah, it's even better than it sounds.)"
 twitterauto = "Paul Constant calls @fantagraphics' new comic The Eternaut \"the best genre comic book I\u2019ve read all year.\""
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-eternaut.md"]

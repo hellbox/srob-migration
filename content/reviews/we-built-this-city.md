@@ -11,7 +11,7 @@ preview_url = "a8c3991f-a13b-cfbd-e73d-6665d4ccc797"
 name = "We built this city"
 title = "We built this city"
 dek = "Can urban diaries help shape Seattle into the city that we want it to be?"
-facebookauto = "Can keeping an urban diary help shape Seattle into the city you want it to be?"
+type = "Review"facebookauto = "Can keeping an urban diary help shape Seattle into the city you want it to be?"
 twitterauto = "Can keeping an urban diary help shape Seattle into the city you want it to be?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/seeing-the-better-city.md"]

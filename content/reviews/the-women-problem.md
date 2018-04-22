@@ -11,7 +11,7 @@ preview_url = "5a735e49-9240-7170-865c-02bd002d6217"
 name = "The women problem"
 title = "The women problem"
 dek = "The idea that feelings are the province of women's fiction is silly, Mia Lipman argues. Instead, she suggests a new name for fiction about female protagonists."
-twitterauto = "Let's talk about women's fiction, and the weird idea that stories by and for women are all about feelings."
+type = "Review"twitterauto = "Let's talk about women's fiction, and the weird idea that stories by and for women are all about feelings."
 reviews_byline = ["writers/mia-lipman.md"]
 reviews_books = ["books/days-of-awe.md"]
 reviews_tags = ["reviews/the-women-problem.md"]
