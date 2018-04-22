@@ -36,7 +36,14 @@
 
                     review{{ if eq (len $byline) 1}}s{{ end }}
 
-                    {{ $reviewsbooks }}                    
+                    {{ range $i, $v := $reviewsbooks }}
+                        {{ with $v.Params.name }}{{ $.Scratch.SetInMap "books" . . }}{{ end }}
+                    {{ end }}
+                    {{ with ($.Scratch.Get "books") }}
+                        {{ delimit . ", " ", and " }}
+                    {{ end }}
+                    {{ $.Scratch.Delete "books" }}
+
 
                 </p>
                 <div class="dek">{{ .Params.dek }}</div>

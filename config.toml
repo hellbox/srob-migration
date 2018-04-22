@@ -19,7 +19,6 @@ includeNewer = true
 [[related.indices]]
     name = "reviews_books"
     weight = 100
-    tolower = true
 [[related.indices]]
     name = "reviews_byline"
     weight = 101
@@ -29,5 +28,8 @@ includeNewer = true
 [[related.indices]]
     name = "notes_tags"
     weight = 103
+[[related.indices]]
+    name = "books_author"
+    weight = 104
 
 
