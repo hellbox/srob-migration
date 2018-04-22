@@ -578,24 +578,6 @@ for key in j['data']:
             except KeyError:
                 markdown.write('books_translator = ""\n')
 
-            try:
-                markdown.write('[[image]]\n')
-                for image in j['data']['books'][book]['image']:
-                    if image == 'width':
-                        markdown.write('width = %d\n' % j['data']['books'][book]['image'][image])
-                    elif image == 'height':
-                        markdown.write('height = %d\n' % j['data']['books'][book]['image'][image])
-                    elif image == 'resize_url':
-                        markdown.write('resize_url = %s\n' % json.dumps(j['data']['books'][book]['image'][image]).encode('utf-8'))
-                    elif image == 'url':
-                        markdown.write('url = %s\n' % json.dumps(j['data']['books'][book]['image'][image]).encode('utf-8'))
-                    elif image == 'type':
-                        markdown.write('type = %s\n' % json.dumps(j['data']['books'][book]['image'][image]).encode('utf-8'))
-                    elif image == 'size':
-                        markdown.write('size = %d\n\n' % j['data']['books'][book]['image'][image])
-            except KeyError:
-                markdown.write('image = ""\n')
-
             #try:
             #    index_builder = []
             #    for review in j['data']['books'][book]['review_relationship']:
@@ -607,8 +589,6 @@ for key in j['data']:
             books_temp = ('books %s' % json.dumps(book.encode('utf-8')).replace('"',''))
             books_temp = findstring( books_temp ).encode('utf-8') 
             markdown.write('reviews_books = ["%s"]\n' % books_temp )                
-
-
 
             try:
                 index_builder = []
@@ -636,6 +616,24 @@ for key in j['data']:
                 markdown.write('notes_relationship = %s\n' % json.dumps(index_builder))
             except KeyError:
                 markdown.write('notes_relationship = ""\n')
+
+            try:
+                markdown.write('[[image]]\n')
+                for image in j['data']['books'][book]['image']:
+                    if image == 'width':
+                        markdown.write('width = %d\n' % j['data']['books'][book]['image'][image])
+                    elif image == 'height':
+                        markdown.write('height = %d\n' % j['data']['books'][book]['image'][image])
+                    elif image == 'resize_url':
+                        markdown.write('resize_url = %s\n' % json.dumps(j['data']['books'][book]['image'][image]).encode('utf-8'))
+                    elif image == 'url':
+                        markdown.write('url = %s\n' % json.dumps(j['data']['books'][book]['image'][image]).encode('utf-8'))
+                    elif image == 'type':
+                        markdown.write('type = %s\n' % json.dumps(j['data']['books'][book]['image'][image]).encode('utf-8'))
+                    elif image == 'size':
+                        markdown.write('size = %d\n\n' % j['data']['books'][book]['image'][image])
+            except KeyError:
+                markdown.write('image = ""\n')                
 
             markdown.write('+++\n')
             markdown.close()
