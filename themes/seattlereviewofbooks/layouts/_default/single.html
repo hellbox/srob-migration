@@ -1,1 +1,12 @@
+{{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
+{{ $tags := where ( .Site.RegularPages.RelatedIndices . "reviews_tags" ) "Type" "tags" }}
+{{ $reviewbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
+
+{{ range $byline }}{{ . }}{{ end }}<br>
+{{ range $tags }}{{ . }}{{ end }}<br>
+{{ range $reviewbooks }}{{ . }}{{ end }}<br>
+
+
+
 {{ .Content }}
+
