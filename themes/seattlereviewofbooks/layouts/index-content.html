@@ -29,9 +29,9 @@
                     {{ range $i, $v := $byline }}
                         {{ with $v.Params.byline }}{{ $.Scratch.SetInMap "names" . . }}{{ end }}
                     {{ end }}
-                    {{ range $.Scratch.GetSortedMapValues "names" }}{{ . }}{{ end }}
-                    {{/* TODO: do correct commas between names */}} 
-                    {{/* delimit ($.Scratch.GetSortedMapValues "names") "," ", and" */}}
+                    {{ with ($.Scratch.Get "names") }}
+                        {{ delimit . "," ", and " }}
+                    {{ end }}
                     {{ $.Scratch.Delete "names" }}                    
 
                     review{{ if eq (len $byline) 1}}s{{ end }}
