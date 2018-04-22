@@ -11,7 +11,8 @@ preview_url = "0517a2bd-d91f-d9c4-6ee2-bb5525077f3b"
 name = "The one where we talk about books and sitcoms"
 title = "The one where we talk about books and sitcoms"
 dek = "Hanya Yanagihara and Diane Williams offer a certain kind of prosperity in their novels, that Jack Chelgren felt obligated to investigate. He started with the TV show Friends."
-type = "Review"facebookauto = "What do the novels \"A Little Life\" and \"Fine, Fine, Fine, Fine, Fine\" have in common with the TV show Friends?"
+type = "Review"
+facebookauto = "What do the novels \"A Little Life\" and \"Fine, Fine, Fine, Fine, Fine\" have in common with the TV show Friends?"
 twitterauto = "The one where we review Hanya Yanagihara and Diane Williams together."
 reviews_byline = ["writers/jack-chelgren.md"]
 reviews_books = ["books/a-little-life.md", "books/fine-fine-fine-fine-fine.md"]

@@ -11,7 +11,8 @@ preview_url = "8e908cc1-9765-4f56-bfa0-853480e7fefa"
 name = "Wait your turn"
 title = "Wait your turn"
 dek = "Arlie Russell Hochschild went to Louisiana to uncover what Republican voters really think. What she found there might just help us figure out how to bring the country closer together."
-type = "Review"facebookauto = "Strangers In Their Own Land contains at least one solid epiphany on the red-state/blue-state divide."
+type = "Review"
+facebookauto = "Strangers In Their Own Land contains at least one solid epiphany on the red-state/blue-state divide."
 twitterauto = "Strangers In Their Own Land contains at least one solid epiphany on the red-state/blue-state divide."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/strangers-in-their-own-land.md"]

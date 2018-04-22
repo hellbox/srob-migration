@@ -11,7 +11,8 @@ preview_url = "49c57062-5073-9572-9797-43fa6bc28878"
 name = "Rational Exuberance"
 title = "Rational Exuberance"
 dek = "Mary Roach's books are packed with poop and sex jokes, but they're really love letters to the obsessive nerds who make good science possible."
-type = "Review"facebookauto = "Mary Roach reads at Town Hall Seattle tonight. Her latest book, Grunt, is all about the people who try to make war safer for our soldiers. Topics discussed include hearing loss, explosion-proof underpants, and the many problems with submarines."
+type = "Review"
+facebookauto = "Mary Roach reads at Town Hall Seattle tonight. Her latest book, Grunt, is all about the people who try to make war safer for our soldiers. Topics discussed include hearing loss, explosion-proof underpants, and the many problems with submarines."
 twitterauto = "Mary Roach reads @THSEA tonight! Here's a review of her excellent new book about keeping soldiers alive."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/grunt.md"]

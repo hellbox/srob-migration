@@ -11,7 +11,8 @@ preview_url = "271cd600-0d3f-f0ff-6940-59d8f3f6bf2f"
 name = "The fire is in the book"
 title = "The fire is in the book"
 dek = "Donna Miscolta unpacks the powerful essays in Sayantani Dasgupta's Fire Girl"
-type = "Review"facebookauto = "SRoB regular Donna Miscolta unpacks the powerful essays in Sayantani Dasgupta's Fire Girl, from Two Sylvias Press"
+type = "Review"
+facebookauto = "SRoB regular Donna Miscolta unpacks the powerful essays in Sayantani Dasgupta's Fire Girl, from Two Sylvias Press"
 twitterauto = "SRoB regular @donnamiscolta unpacks the powerful essays in Sayantani Dasgupta's Fire Girl, from @twosylviaspress"
 reviews_byline = ["writers/donna-miscolta.md"]
 reviews_books = ["books/fire-girl.md"]

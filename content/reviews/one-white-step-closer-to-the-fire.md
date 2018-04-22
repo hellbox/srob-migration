@@ -11,7 +11,8 @@ preview_url = "1521560b-008a-0ef8-3eb6-ba528c7c788a"
 name = "One white step closer to the fire"
 title = "One white step closer to the fire"
 dek = "Seattle poet and writer Lola E. Peters penned a personal, and moving, book about being black in America."
-type = "Review"facebookauto = "A new review is up -- Martin McClellan looks at a thin powerful book by Lola E. Peters titled \"The Truth About White People\""
+type = "Review"
+facebookauto = "A new review is up -- Martin McClellan looks at a thin powerful book by Lola E. Peters titled \"The Truth About White People\""
 twitterauto = "Today @hellbox looks at a thin powerful book called \"The Truth About White People\" by @lepetersseattle"
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/the-truth-about-white-people.md"]

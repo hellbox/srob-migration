@@ -11,7 +11,8 @@ preview_url = "1516a62f-02e2-4217-c6bb-f3117b4c4078"
 name = "Reclaiming the story of women's bodies"
 title = "Reclaiming the story of women's bodies"
 dek = "Carmen Maria Machado's debut, a finalist for the National Book Award, does beautiful violence to traditional stories about women. It's past time for men to read along."
-type = "Review"facebookauto = "Carmen Maria Machado's debut collection re-writes the narrative around women's bodies and lives -- for women and, especially, for men."
+type = "Review"
+facebookauto = "Carmen Maria Machado's debut collection re-writes the narrative around women's bodies and lives -- for women and, especially, for men."
 twitterauto = "In her review of @carmenmmachado's debut collection, @DonnaMiscolta asks who should read stories by and about women."
 reviews_byline = ["writers/donna-miscolta.md"]
 reviews_books = ["books/her-body-and-other-parties.md"]

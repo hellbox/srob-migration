@@ -11,7 +11,8 @@ preview_url = "2d4e47b1-dad7-ae27-a8f9-7486f66fba66"
 name = "Where, and when, history happens"
 title = "Where, and when, history happens"
 dek = "Do we really know the land we live, or grew up, on? What histories preceded us? Lauret Savoy's book asks these \"literary geology\" questions, and brings us on a journey through places we thought we knew."
-type = "Review"facebookauto = "\"Literary geology\" is what Lauret Savoy calls her work \"Trace\". Donna Miscolta explores, in this review."
+type = "Review"
+facebookauto = "\"Literary geology\" is what Lauret Savoy calls her work \"Trace\". Donna Miscolta explores, in this review."
 twitterauto = "\"Literary geology\" is what @LauretSavoy calls her work \"Trace\". @donnamiscolta explores, in this review."
 reviews_byline = ["writers/donna-miscolta.md"]
 reviews_books = ["books/trace.md"]

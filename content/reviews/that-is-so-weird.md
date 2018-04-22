@@ -11,7 +11,8 @@ preview_url = "0dc5072b-da44-6330-faac-d931fe047978"
 name = "That is so weird"
 title = "That is so weird"
 dek = "The Queen of Finnish Weird is coming to Seattle, and her translator Lola Rogers gives us the scoop on why we should be excited."
-type = "Review"reviews_byline = ["writers/lola-rogers.md"]
+type = "Review"
+reviews_byline = ["writers/lola-rogers.md"]
 reviews_books = ["books/the-core-of-the-sun.md", "books/the-blood-of-angels.md", "books/troll.md", "books/birdbrain.md"]
 reviews_tags = ["reviews/that-is-so-weird.md"]
 reviews_about = ["authors/johanna-sinisalo.md"]

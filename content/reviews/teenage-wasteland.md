@@ -11,7 +11,8 @@ preview_url = "035f890e-b8f1-8342-a53d-d252f8b17bea"
 name = "Teenage wasteland"
 title = "Teenage wasteland"
 dek = "In Alice LaPlante's new novel, a depressed teenager finds religion. Unfortunately, the religion is a doomsday cult."
-type = "Review"facebookauto = "In Alice LaPlante's new novel, a depressed teenager finds religion. Unfortunately, the religion is a doomsday cult."
+type = "Review"
+facebookauto = "In Alice LaPlante's new novel, a depressed teenager finds religion. Unfortunately, the religion is a doomsday cult."
 twitterauto = "In Alice LaPlante's novel, a depressed teenager finds religion. Unfortunately, the religion is a doomsday cult."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/coming-of-age-at-the-end-of-days.md"]

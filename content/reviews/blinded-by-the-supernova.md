@@ -11,7 +11,8 @@ preview_url = "3d4c1ceb-dd04-c482-211e-2efafd496dff"
 name = "Blinded by the supernova"
 title = "Blinded by the supernova"
 dek = "Critics are attacking Thomas Friedman's new book. They have a point. But they're also missing out on some very important insights."
-type = "Review"facebookauto = "Thomas Friedman's new book offers a great view of the world, Nick Cassella argues, but it misses out on fine details from its high-up perch."
+type = "Review"
+facebookauto = "Thomas Friedman's new book offers a great view of the world, Nick Cassella argues, but it misses out on fine details from its high-up perch."
 twitterauto = "Thomas Friedman's new book offers a great view, but it misses out on fine details."
 reviews_byline = ["writers/nick-cassella.md"]
 reviews_books = ["books/thank-you-for-being-late.md"]

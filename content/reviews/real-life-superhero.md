@@ -11,7 +11,8 @@ preview_url = "9d841633-dcc1-e7dd-64a9-ef0db1eadde1"
 name = "Real life superhero"
 title = "Real life superhero"
 dek = "What Seattle author G. Willow Wilson has done with her run on the Ms. Marvel comic is something remarkable: she's telling a deeply personal story using corporate superhero comics as a medium."
-type = "Review"facebookauto = "Free Comic Book Day is this Saturday! Go get your free comics. And if you're looking for a comic to buy, may we suggest Ms. Marvel by G. Willow Wilson?"
+type = "Review"
+facebookauto = "Free Comic Book Day is this Saturday! Go get your free comics. And if you're looking for a comic to buy, may we suggest Ms. Marvel by G. Willow Wilson?"
 twitterauto = "In praise of @GWillowWilson's Ms. Marvel series \u2014 a deeply personal corporate superhero comic."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/ms-marvel-volume-1-no-normal.md", "books/ms-marvel-volume-2-generation-why.md", "books/ms-marvel-volume-3-crushed.md", "books/ms-marvel-volume-4-last-days.md", "books/ms-marvel-volume-5-super-famous.md"]

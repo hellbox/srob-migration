@@ -11,7 +11,8 @@ preview_url = "fddb7a70-c2ba-c998-f336-374f8409f7c9"
 name = "The Second Coming"
 title = "The Second Coming"
 dek = "In 2013, Richard Chiem published a short story collection that was ahead of its time. Time\u2019s up.\n"
-type = "Review"facebookauto = "It's not very often you see a reissue of a book of short stories that feels more timely than its first publication. You Private Person is that kind of a book."
+type = "Review"
+facebookauto = "It's not very often you see a reissue of a book of short stories that feels more timely than its first publication. You Private Person is that kind of a book."
 twitterauto = "Sorry House has reissued @giganticanovel 's book of short stories. You have to read it now."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/you-private-person.md"]

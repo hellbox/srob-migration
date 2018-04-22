@@ -11,7 +11,8 @@ preview_url = "5bd0ce81-6d92-d423-b60c-1b98b89d3c38"
 name = "Explaining the inexplicable"
 title = "Explaining the inexplicable"
 dek = "If Hillary Clinton's new book about the 2016 election makes you mad, then you are exactly the kind of person who should read Hillary Clinton's new book about the 2016 election."
-type = "Review"facebookauto = "Hillary Clinton's book about the 2016 presidential campaign is inspiring a lot of hate. That's kind of the point."
+type = "Review"
+facebookauto = "Hillary Clinton's book about the 2016 presidential campaign is inspiring a lot of hate. That's kind of the point."
 twitterauto = "Hillary Clinton's book about the 2016 presidential campaign is inspiring a lot of hate. That's the point."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/what-happened.md"]

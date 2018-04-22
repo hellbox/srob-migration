@@ -11,7 +11,8 @@ preview_url = "52ab5071-8d4c-94c9-0b3d-ab25aafdd5cb"
 name = "You, specifically, should be a feminist"
 title = "You, specifically, should be a feminist"
 dek = "Finding inspiration and comfort in Adichie's clear vision of why feminism is needed in our world."
-type = "Review"reviews_byline = ["writers/paul-constant.md"]
+type = "Review"
+reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/we-should-all-be-feminists.md", "books/americanah.md"]
 reviews_tags = ["reviews/you-specifically-should-be-a-feminist.md"]
 reviews_about = ["authors/chimamanda-ngozi-adichie.md"]

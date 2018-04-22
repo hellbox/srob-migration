@@ -11,7 +11,8 @@ preview_url = "085c6525-db12-8b4f-b9ab-5ee4bf006d94"
 name = "A room full of citizens"
 title = "A room full of citizens"
 dek = "Last night, the Seattle Review of Books and the Seattle Weekly hosted a book club to discuss Claudia Rankine's brilliant book Citizen. Here's what they learned."
-type = "Review"facebookauto = "\"I love everything about this book,\" Paul Constant gushes about Claudia Rankine's book Citizen. \"I love the look of it, the feel of it, the words and the design and the passion and the craft of it.\""
+type = "Review"
+facebookauto = "\"I love everything about this book,\" Paul Constant gushes about Claudia Rankine's book Citizen. \"I love the look of it, the feel of it, the words and the design and the passion and the craft of it.\""
 twitterauto = "Last night, we co-hosted an event with @SeattleWeekly to discuss Claudia Rankine's Citizen. Here's what happened:"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/citizen.md"]

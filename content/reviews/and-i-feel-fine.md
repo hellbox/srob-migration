@@ -11,7 +11,8 @@ preview_url = "7009b83a-f7c3-122f-cbe8-ea0611f3eacc"
 name = "...and I feel fine"
 title = "...and I feel fine"
 dek = "You'll find a thousand ends of the world in Jeannine Hall Gailey's new poetry collection, which she'll sign this Saturday afternoon at Open Books."
-type = "Review"facebookauto = "Jeannine Hall Gailey signs her newest, apocalpyse-obsesssed book at Open Books this Saturday. Here's our review:"
+type = "Review"
+facebookauto = "Jeannine Hall Gailey signs her newest, apocalpyse-obsesssed book at Open Books this Saturday. Here's our review:"
 twitterauto = "Jeannine Hall Gailey signs her newest book at @openpoetrybooks this Saturday. Our review:"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/field-guide-to-the-end-of-the-world.md"]

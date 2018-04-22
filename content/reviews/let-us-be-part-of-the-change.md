@@ -11,7 +11,8 @@ preview_url = "b8f842f0-3171-8ab3-13ea-a286b961f15c"
 name = "\"Let us be part of the change\""
 title = "\"Let us be part of the change\""
 dek = "On the anniversary month of the ouster of Ferdinand Marcos, Donna Miscolta traces the stories of ten siblings caught in the crucible of  revolution."
-type = "Review"facebookauto = "What choice would you make against injustice? asks Donna Miscolta in her review of Subversive Lives."
+type = "Review"
+facebookauto = "What choice would you make against injustice? asks Donna Miscolta in her review of Subversive Lives."
 twitterauto = "What choice would you make against injustice? asks @DonnaMiscolta in her review of Subversive Lives."
 reviews_byline = ["writers/donna-miscolta.md"]
 reviews_books = ["books/subversive-lives.md", "books/a-time-to-rise.md"]

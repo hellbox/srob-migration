@@ -11,7 +11,8 @@ preview_url = "424553f7-d084-3bb4-9129-e4a146cb402b"
 name = "The poet says what the politician cannot"
 title = "The poet says what the politician cannot"
 dek = "It would be easy for Claudia Castro Luna to write fluffy poems that make us feel good about Seattle. Thankfully, she doesn't do that."
-type = "Review"facebookauto = "The poems in Claudia Castro Luna's chapbook This City are interested in having a conversation with Seattle, with making the city better than it is."
+type = "Review"
+facebookauto = "The poems in Claudia Castro Luna's chapbook This City are interested in having a conversation with Seattle, with making the city better than it is."
 twitterauto = "Seattle's first Civic Poet is writing poems that engage with the idea of Seattle."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/this-city.md"]

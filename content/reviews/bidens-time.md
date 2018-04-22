@@ -11,7 +11,8 @@ preview_url = "eb1d574d-b774-808a-b37b-d57d1dc5ead2"
 name = "Biden's time"
 title = "Biden's time"
 dek = "Joe Biden reads from his memoir of loss and politics at Benaroya Hall on Sunday, December 3rd. His book raises a question that Biden himself seems to be wrestling with: should he run for president in 2020?"
-type = "Review"facebookauto = "Joe Biden reads from his affecting memoir in Seattle on Sunday. Should he run for president in 2020?"
+type = "Review"
+facebookauto = "Joe Biden reads from his affecting memoir in Seattle on Sunday. Should he run for president in 2020?"
 twitterauto = "Joe Biden reads in Seattle on Sunday. Should he run for president in 2020?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/promise-me-dad.md", "books/promise-me-dad-(audio-book).md"]

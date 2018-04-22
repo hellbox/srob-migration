@@ -11,7 +11,8 @@ preview_url = "de752de0-2fbf-860e-47e7-2204b34f6a09"
 name = "Knowing and doing and the passive sin of hipster privilege"
 title = "Knowing and doing and the passive sin of hipster privilege"
 dek = "John Hodgman reads from his new book Vacationland at the Neptune on Friday, November 11th. His new book desperately wants you to know that he's rich and he's white and he's famous and he feels very, very bad about it."
-type = "Review"facebookauto = "John Hodgman reads in Seattle on Friday. His new book is funny, smart, and also packed with hipster privilege."
+type = "Review"
+facebookauto = "John Hodgman reads in Seattle on Friday. His new book is funny, smart, and also packed with hipster privilege."
 twitterauto = "John Hodgman reads in Seattle on Friday. His new book is funny, smart, and also packed with hipster privilege."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/vacationland.md"]

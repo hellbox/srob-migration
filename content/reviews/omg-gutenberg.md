@@ -11,7 +11,8 @@ preview_url = "ef6c3607-48fb-a49d-3ae0-a1b9d604a1c1"
 name = "OMG Gutenberg"
 title = "OMG Gutenberg"
 dek = "Alix Christie explores a fictionalized version of the making of one of the greatest books ever printed, and the men who drove the fifteenth century startup that created widespread literacy."
-type = "Review"twitterauto = ""
+type = "Review"
+twitterauto = ""
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/gutenbergs-apprentice.md", "books/gutenbergs-apprentice-(paperback).md", "books/gutenberg.md"]
 reviews_tags = ["reviews/omg-gutenberg.md"]

@@ -11,7 +11,8 @@ preview_url = "77c7e912-7627-a5cc-21a8-c9c7c87a4301"
 name = "Be prepared"
 title = "Be prepared"
 dek = "Tonight, Seattle author Kim Fu reads at Elliott Bay Book Company. Her new novel, about a group of girls at summer camp who get lost and must fend for themselves, is a remarkable book that adds something new to the lost-in-the-wilderness genre."
-type = "Review"facebookauto = "Seattle author Kim Fu reads at Elliott Bay Book Company tonight. Her new novel, the Lost Girls of Camp Forevermore, is AMAZING. Read about it here:"
+type = "Review"
+facebookauto = "Seattle author Kim Fu reads at Elliott Bay Book Company tonight. Her new novel, the Lost Girls of Camp Forevermore, is AMAZING. Read about it here:"
 twitterauto = "Seattle author @skimfu reads @elliottbaybooks tonight. Her new novel is AMAZING."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-lost-girls-of-camp-forevermore.md"]

@@ -11,7 +11,8 @@ preview_url = "afce0166-ae32-85de-6950-45341151a9d8"
 name = "Sitting in the middle of a clock"
 title = "Sitting in the middle of a clock"
 dek = "Mairead Case's debut novel \"is a love story if a love story means trying to become someone who doesn\u2019t always feel shut off.\""
-type = "Review"facebookauto = "Mattilda Bernstein Sycamore calls Mairead Case's debut novel, See You in the Morning, a story about living in a permanent state of between-ness."
+type = "Review"
+facebookauto = "Mattilda Bernstein Sycamore calls Mairead Case's debut novel, See You in the Morning, a story about living in a permanent state of between-ness."
 twitterauto = ".@mbsycamore says @maireadcase's debut novel is about living in a permanent state of between-ness."
 reviews_byline = ["writers/mattilda-bernstein-sycamore.md"]
 reviews_books = ["books/see-you-in-the-morning.md"]

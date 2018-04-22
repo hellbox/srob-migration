@@ -11,7 +11,8 @@ preview_url = "cd5373bd-78e5-7ea2-9c75-724e96f8f6d0"
 name = "New Years Day"
 title = "New Years Day"
 dek = "The first day of the year is a weird holiday \u2014 part future, part past. Noy Holland's new novel Bird demonstrates the problem with giving the past too much power."
-type = "Review"facebookauto = "The first day of the year is a weird holiday \u2014 part future, part past. Noy Holland's new novel Bird demonstrates the problem with giving the past too much power."
+type = "Review"
+facebookauto = "The first day of the year is a weird holiday \u2014 part future, part past. Noy Holland's new novel Bird demonstrates the problem with giving the past too much power."
 twitterauto = "Noy Holland's new novel Bird demonstrates the problem with giving the past too much power."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/bird.md"]

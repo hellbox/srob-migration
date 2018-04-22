@@ -11,7 +11,8 @@ preview_url = "1f4741d8-f488-86c9-daec-8df31baa588e"
 name = "Whose streets? Our streets!"
 title = "Whose streets? Our streets!"
 dek = "Why is it so hard to successfully tell a story about the 1999 WTO protests?"
-type = "Review"facebookauto = "Why is it so hard to successfully tell a story about the 1999 WTO protests?"
+type = "Review"
+facebookauto = "Why is it so hard to successfully tell a story about the 1999 WTO protests?"
 twitterauto = "Why is it so hard to successfully tell a story about the 1999 WTO protests?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/your-heart-is-a-muscle-the-size-of-a-fist.md"]

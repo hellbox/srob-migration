@@ -11,7 +11,8 @@ preview_url = "9093b8a6-3c7d-1f6f-6035-ffc2f0ebc3dd"
 name = "The final frontier"
 title = "The final frontier"
 dek = "A new science fiction novel from Seattle publisher Chin Music Press employs sci-fi tropes to deliver an interior novel about a man who has forgotten how to feel."
-type = "Review"facebookauto = "A novel about a former child star who got kicked off the set of Titanic uses science fiction to explore the interiority of self."
+type = "Review"
+facebookauto = "A novel about a former child star who got kicked off the set of Titanic uses science fiction to explore the interiority of self."
 twitterauto = "A new sci-fi novel looks at quantum physics, James Cameron's Titanic, and the disappointment of exploration."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/king-of-the-worlds.md"]

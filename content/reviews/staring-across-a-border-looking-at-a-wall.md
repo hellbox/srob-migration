@@ -11,7 +11,8 @@ preview_url = "cf5b9162-7123-256d-5c5f-6f87af6b1b12"
 name = "Staring across a border, looking at a wall"
 title = "Staring across a border, looking at a wall"
 dek = "With politicians mouthing off about the border, what if we listened to stories from people who live there?"
-type = "Review"facebookauto = "Ito Romo writes about life on the border in Texas. Donna Miscolta looks in his works and sees humanity."
+type = "Review"
+facebookauto = "Ito Romo writes about life on the border in Texas. Donna Miscolta looks in his works and sees humanity."
 twitterauto = "Instead of building a wall today, see what @DonnaMiscolta has to say about @omoroti's \"The Border is Burning\""
 reviews_byline = ["writers/donna-miscolta.md"]
 reviews_books = ["books/the-border-is-burning.md"]

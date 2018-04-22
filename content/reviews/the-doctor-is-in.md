@@ -11,7 +11,8 @@ preview_url = "e7f18d40-3c7d-a0f6-e18f-d75165a59150"
 name = "The Doctor is in"
 title = "The Doctor is in"
 dek = "A.L. Kennedy writes gorgeous literary fiction. Now she's written a Doctor Who novelization. What's up with that?"
-type = "Review"facebookauto = "A.L. Kennedy writes gorgeous literary fiction. Now she's written a Doctor Who novelization. What's up with that?"
+type = "Review"
+facebookauto = "A.L. Kennedy writes gorgeous literary fiction. Now she's written a Doctor Who novelization. What's up with that?"
 twitterauto = "A.L. Kennedy writes gorgeous literary fiction. Now she's written a Doctor Who novelization. How is it?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/doctor-who-the-drostens-curse.md"]

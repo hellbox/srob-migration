@@ -11,7 +11,8 @@ preview_url = "af24096a-e2a7-c0bc-f2eb-114e9397cff9"
 name = "Myself, my self"
 title = "Myself, my self"
 dek = "Doug Nufer's latest book is a fascinating literary constraint that will make you wonder how much weight words can bear."
-type = "Review"facebookauto = "How much weight can words bear before they're devoid of meaning? Does a word have to carry meaning to still be a word? Doug Nufer's latest book will leave you wondering if we're using words to their fullest potential."
+type = "Review"
+facebookauto = "How much weight can words bear before they're devoid of meaning? Does a word have to carry meaning to still be a word? Doug Nufer's latest book will leave you wondering if we're using words to their fullest potential."
 twitterauto = "How much weight can words bear before they're devoid of meaning?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-me-theme.md"]

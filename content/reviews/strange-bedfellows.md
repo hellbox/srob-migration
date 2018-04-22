@@ -11,7 +11,8 @@ preview_url = "2651e3c6-53c6-ddd7-43f0-ff784bb6a102"
 name = "Strange bedfellows"
 title = "Strange bedfellows"
 dek = "A classic argument between philosophy and poetry resolved twice: by the logical Richard Rorty and the lyrical Maged Zaher."
-type = "Review"facebookauto = "Richard Rorty asks the big questions about philosophy, poetry, and the nature of existence; Maged Zaher may have the answers."
+type = "Review"
+facebookauto = "Richard Rorty asks the big questions about philosophy, poetry, and the nature of existence; Maged Zaher may have the answers."
 twitterauto = "Richard Rorty asks the big questions about philosophy, poetry, and existence; Maged Zaher has the answers."
 reviews_byline = ["writers/samuel-filby.md"]
 reviews_books = ["books/philosophy-as-poetry.md", "books/opting-out.md"]

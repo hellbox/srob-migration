@@ -11,7 +11,8 @@ preview_url = "4a3a07cb-5147-f303-596d-00e969f47918"
 name = "There's something about Mary"
 title = "There's something about Mary"
 dek = "Two reviewers discuss why they're having such a hard time reviewing Chester Brown's latest book of Bible scholarship."
-type = "Review"facebookauto = "Two reviewers discuss why they're having such a hard time reviewing Chester Brown's latest book of Bible scholarship."
+type = "Review"
+facebookauto = "Two reviewers discuss why they're having such a hard time reviewing Chester Brown's latest book of Bible scholarship."
 twitterauto = "Two reviewers discuss why they're having such a hard time reviewing Chester Brown's latest book of Bible scholarship."
 reviews_byline = ["writers/paul-constant.md", "writers/martin-mcclellan.md"]
 reviews_books = ["books/mary-wept-over-the-feet-of-jesus.md"]

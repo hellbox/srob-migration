@@ -11,7 +11,8 @@ preview_url = "35abe95c-00ff-e2e0-43f6-72ab0edd528d"
 name = "The dark side of the sun"
 title = "The dark side of the sun"
 dek = "Tonight, Seattle author Ross McMeekin reads from his brand-new noir thriller, The Hummingbirds. It's a book that seems aware of the genre conventions that came before it, while still falling prey to the occasional oft-repeated cliche."
-type = "Review"twitterauto = ""
+type = "Review"
+twitterauto = ""
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-hummingbirds.md"]
 reviews_tags = ["reviews/the-dark-side-of-the-sun.md"]

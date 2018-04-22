@@ -11,7 +11,8 @@ preview_url = "4b3bf3ca-b64b-e1ae-348f-259cf6c21e80"
 name = "Derrick noir"
 title = "Derrick noir"
 dek = "A futurist writes a science fiction novel in the near future. How much did she get right?"
-type = "Review"facebookauto = "Forget it, Hwa, it's Company Town. Madeline Ashby's sci-fi noir from Tor Books drops today. Here\u2019s our review:"
+type = "Review"
+facebookauto = "Forget it, Hwa, it's Company Town. Madeline Ashby's sci-fi noir from Tor Books drops today. Here\u2019s our review:"
 twitterauto = "Forget it, Hwa, it's Company Town. @MadelineAshby's sci-fi noir from @torbooks drops today. Here\u2019s our review:"
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/company-town.md"]

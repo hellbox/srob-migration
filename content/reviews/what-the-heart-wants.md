@@ -11,7 +11,8 @@ preview_url = "2a72ae45-0285-a317-d366-637b496746d2"
 name = "What the heart wants"
 title = "What the heart wants"
 dek = "If you\u2019re a human being with a working heart, you will cry when you read Sarah Galvin's The Best Party of Our Lives."
-type = "Review"facebookauto = "We defy you to read The Best Party of Our Lives and not shed happy tears. Try it. We dare you."
+type = "Review"
+facebookauto = "We defy you to read The Best Party of Our Lives and not shed happy tears. Try it. We dare you."
 twitterauto = "We defy you to read The Best Party of Our Lives and not shed happy tears. Try it. We dare you."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-best-party-of-our-lives.md"]

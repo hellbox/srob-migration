@@ -11,7 +11,8 @@ preview_url = "32b0772d-a61a-e4c3-82ae-f9b352794779"
 name = "Across the transverse"
 title = "Across the transverse"
 dek = "Juliet Jacques documented her transition from male to female in a Guardian column, collected and expanded into a recent memoir. What does she have to tell us, in the modern day, about that transition?"
-type = "Review"facebookauto = "A review of Juliet Jacques' memoir, Trans, that documented her transition from male-to-female, and seeks to educate about what the experience is like in the modern age. "
+type = "Review"
+facebookauto = "A review of Juliet Jacques' memoir, Trans, that documented her transition from male-to-female, and seeks to educate about what the experience is like in the modern age. "
 twitterauto = "A review, by @hellbox, of Juliet Jacques' memoir, Trans, recently published by @versobooks. "
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/trans.md"]

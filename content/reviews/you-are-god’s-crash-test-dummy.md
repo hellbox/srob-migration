@@ -11,7 +11,8 @@ preview_url = "2c655b99-16d9-c489-6450-665d061cd422"
 name = "You are God\u2019s crash test dummy"
 title = "You are God\u2019s crash test dummy"
 dek = "While reading a short story collection about being utterly destroyed by forces beyond your control, Paul Constant realizes that Donald Trump has forever changed the way he reads."
-type = "Review"facebookauto = "Local author Matthew Simmons's new short story collection is primal and elemental and full of angry gods screwing over vulnerable humans. It's pretty much the perfect book for America right now."
+type = "Review"
+facebookauto = "Local author Matthew Simmons's new short story collection is primal and elemental and full of angry gods screwing over vulnerable humans. It's pretty much the perfect book for America right now."
 twitterauto = "We love @matthewjsimmons's new book, and we hate that @RealDonaldTrump has affected our reading of it."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-in-betweens.md"]

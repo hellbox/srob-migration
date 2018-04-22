@@ -11,7 +11,8 @@ preview_url = "59ba819f-4501-1017-46de-2bd10d4dd124"
 name = "Sometimes you do the job and sometimes the job does you"
 title = "Sometimes you do the job and sometimes the job does you"
 dek = "Seattle cartoonist Kelly Froh's \"Tales from Amazon\" minicomics are friendly like a handwritten letter, but they're all about bad behavior in the workplace."
-type = "Review"reviews_byline = ["writers/paul-constant.md"]
+type = "Review"
+reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/tales-from-amazon-1-3.md"]
 reviews_tags = ["reviews/sometimes-you-do-the-job-and-sometimes-the-job-does-you.md"]
 reviews_about = ["authors/kelly-froh.md"]

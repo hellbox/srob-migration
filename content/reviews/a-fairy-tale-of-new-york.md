@@ -11,7 +11,8 @@ preview_url = "a7a44d69-f2d0-fd8d-542b-4cb1be720ca7"
 name = "A fairy tale of New York"
 title = "A fairy tale of New York"
 dek = "Seattle author Anca Szil\u00e1gyi launches her debut novel at the Sorrento tonight. It's a gritty, realistic fantasy, a fairy tale set in a gutter, and the main character will take up residence in your head."
-type = "Review"facebookauto = "Seattle author Anca Szil\u00e1gyi launches her debut novel tonight! Here's our review of Daughters of the Air:"
+type = "Review"
+facebookauto = "Seattle author Anca Szil\u00e1gyi launches her debut novel tonight! Here's our review of Daughters of the Air:"
 twitterauto = "Seattle author @ancawrites launches her debut novel tonight! Here's our review of Daughters of the Air:"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/daughters-of-the-air.md"]

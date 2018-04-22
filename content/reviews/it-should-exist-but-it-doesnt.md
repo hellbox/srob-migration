@@ -11,7 +11,8 @@ preview_url = "2b35a6ee-d3df-29a2-27a6-f7c562e5263b"
 name = "It should exist, but it doesn't"
 title = "It should exist, but it doesn't"
 dek = "A minicomic packed with recipes by Seattle-area cartoonists proves that a comics cookbook is the best idea for a book that hasn't been published yet."
-type = "Review"facebookauto = "Comics are perfect for recipes. Why, then, doesn't a comics cookbook exist?"
+type = "Review"
+facebookauto = "Comics are perfect for recipes. Why, then, doesn't a comics cookbook exist?"
 twitterauto = "Are you listening publishers? Here's the best idea for a book that doesn't exist yet."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/northwest-cartoonists-cookbook.md"]

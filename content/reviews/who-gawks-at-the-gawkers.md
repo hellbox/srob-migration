@@ -11,7 +11,8 @@ preview_url = "b2656c26-0d68-5071-7a3e-90c534470856"
 name = "Who gawks at the Gawkers?"
 title = "Who gawks at the Gawkers?"
 dek = "As Gawker reboots itself after a controversial few weeks, Brian Abrams' new ebook *Gawker: An Oral History* tells the behind-the-scenes story of how the gossip site came to be."
-type = "Review"reviews_byline = ["writers/paul-constant.md"]
+type = "Review"
+reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/gawker-an-oral-history.md"]
 reviews_tags = ["reviews/who-gawks-at-the-gawkers.md"]
 reviews_about = ["authors/brian-abrams.md"]

@@ -11,7 +11,8 @@ preview_url = "4379619b-f9d3-1a98-7078-79a1ee5e0d04"
 name = "Poking at death with a long stick"
 title = "Poking at death with a long stick"
 dek = "Abigail Thomas does brave work looking at the things nobody wants to look at. But why should the living want to read writing about death and loss?"
-type = "Review"facebookauto = "What is it about death? Bonnie J Rough pokes a long stick at Abigail Thomas' latest book, out in paperback tomorrow."
+type = "Review"
+facebookauto = "What is it about death? Bonnie J Rough pokes a long stick at Abigail Thomas' latest book, out in paperback tomorrow."
 twitterauto = "What is it about death? @BonnieJRough pokes a long stick at Abigail Thomas' latest book, out in paperback tomorrow."
 reviews_byline = ["writers/bonnie-j-rough.md"]
 reviews_books = ["books/what-comes-next-and-how-to-like-it.md"]

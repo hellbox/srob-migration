@@ -11,7 +11,8 @@ preview_url = "b52a44d5-ef51-9a1d-1031-2900b269601e"
 name = "Things come together, things fall apart again"
 title = "Things come together, things fall apart again"
 dek = "Nigerian author Chigozie Obioma's novel builds on the foundation established by Chinua Achebe's seminal Things Fall Apart. Can it climb out from the shadow of Achebe's famous work?"
-type = "Review"facebookauto = "If Things Fall Apart is all you know about Nigerian literature, have we got a book for you."
+type = "Review"
+facebookauto = "If Things Fall Apart is all you know about Nigerian literature, have we got a book for you."
 twitterauto = "If Things Fall Apart is all you know about Nigerian literature, have we got a book for you."
 reviews_byline = ["writers/rebecca-garcia-moreno.md"]
 reviews_books = ["books/the-fishermen.md"]

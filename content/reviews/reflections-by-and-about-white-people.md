@@ -11,7 +11,8 @@ preview_url = "6a6b3da6-fe9b-d98f-db7d-b99058422b69"
 name = "Reflections by and about white people"
 title = "Reflections by and about white people"
 dek = "Donna Miscolta looks at the new Seattle, City of Literature anthology, and finds it missing something important."
-type = "Review"facebookauto = "Donna Miscolta looks at the new Seattle, City of Literature anthology, and finds it missing something important."
+type = "Review"
+facebookauto = "Donna Miscolta looks at the new Seattle, City of Literature anthology, and finds it missing something important."
 twitterauto = "Writer @DonnaMiscolta takes issue with the Seattle, City of Literature anthology being called \"comprehensive\""
 reviews_byline = ["writers/donna-miscolta.md"]
 reviews_books = ["books/seattle-city-of-literature.md"]

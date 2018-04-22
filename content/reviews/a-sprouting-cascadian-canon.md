@@ -11,7 +11,8 @@ preview_url = "5b7a8831-b04d-a747-acb4-c7985782b3ba"
 name = "A sprouting Cascadian canon"
 title = "A sprouting Cascadian canon"
 dek = "What does Northwest literature mean? Can it be defined in relation to what it is not? Or is there a common theme in literature from this corner of the world?"
-type = "Review"facebookauto = "The first volume of Moss celebrates the continuing quest for a Cascadian voice in literature."
+type = "Review"
+facebookauto = "The first volume of Moss celebrates the continuing quest for a Cascadian voice in literature."
 twitterauto = "The first volume of @mosslitmag celebrates the continuing quest for a Cascadian voice in literature."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/moss-volume-one.md"]

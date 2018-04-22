@@ -11,7 +11,8 @@ preview_url = "c18b2d52-c316-1f07-3459-ad2ff942ad6e"
 name = "Help selfie"
 title = "Help selfie"
 dek = "Helping herself when faced with self-help, Bonnie J Rough ends up helping us all."
-type = "Review"facebookauto = "Self-help!? Bonnie J Rough finds jewels in the maligned genre \u2014 something helpful on a day we all need some help."
+type = "Review"
+facebookauto = "Self-help!? Bonnie J Rough finds jewels in the maligned genre \u2014 something helpful on a day we all need some help."
 twitterauto = "Self-help!? @bonniejrough finds jewels in the maligned genre \u2014 something helpful on a day we all need some help."
 reviews_byline = ["writers/bonnie-j-rough.md"]
 reviews_books = ["books/minding-the-muse.md", "books/playing-big.md"]

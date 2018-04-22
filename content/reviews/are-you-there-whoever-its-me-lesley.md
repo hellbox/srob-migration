@@ -11,7 +11,8 @@ preview_url = "574b5e37-8813-9643-bc35-95b94cc744db"
 name = "Are you there, whoever? It's me, Lesley"
 title = "Are you there, whoever? It's me, Lesley"
 dek = "Can a whole-hearted atheist find any comfort in Lesley Hazleton's defense of agnosticism?"
-type = "Review"facebookauto = "Lesley Hazleton's newest book is a strong defense of agnosticism. Can even a lifelong atheist find anything to love in the book?"
+type = "Review"
+facebookauto = "Lesley Hazleton's newest book is a strong defense of agnosticism. Can even a lifelong atheist find anything to love in the book?"
 twitterauto = "A committed atheist reads @accidentaltheo's defense of agnosticism. Does a religious experience follow?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/agnostic.md"]

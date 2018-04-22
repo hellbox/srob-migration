@@ -11,7 +11,8 @@ preview_url = "dc3b54f7-6112-94a5-e9fe-ed08ea83d182"
 name = "The Adverbs of War"
 title = "The Adverbs of War"
 dek = "Don Mee Choi\u2019s new book Hardly War is a linguistic battlefield of a book that looks like nothing else you've ever seen."
-type = "Review"facebookauto = "Don Mee Choi's latest poetry collection is gorgeous, testy, and unlike anything you've ever read."
+type = "Review"
+facebookauto = "Don Mee Choi's latest poetry collection is gorgeous, testy, and unlike anything you've ever read."
 twitterauto = "Seattle poet @DonMeeChoi's  latest collection is gorgeous, testy, and unlike anything you've ever read."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/hardly-war.md"]

@@ -11,7 +11,8 @@ preview_url = "2e5ad37e-3fa4-a674-acc7-1688d199c97d"
 name = "Good Bones"
 title = "Good Bones"
 dek = "Great Northwest poet Joan Swift never published a book that was worthy of her talent. Until now."
-type = "Review"facebookauto = "\"The recurring images in The Body that Follows Us \u2014\u00a0bones, stargazing, pregnancy, aging \u2014 tell a story not just of Joan Swift\u2019s final years but of her entire life.\""
+type = "Review"
+facebookauto = "\"The recurring images in The Body that Follows Us \u2014\u00a0bones, stargazing, pregnancy, aging \u2014 tell a story not just of Joan Swift\u2019s final years but of her entire life.\""
 twitterauto = "Great Northwest poet Joan Swift never had a book that was worthy of her talent. Until now."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-body-that-follows-us.md"]

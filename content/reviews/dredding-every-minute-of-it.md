@@ -11,7 +11,8 @@ preview_url = "7589f4ec-cfdb-82c5-1203-a69f3b461a9e"
 name = "Dredding every minute of it"
 title = "Dredding every minute of it"
 dek = "Has Judge Dredd changed over the years, or have we? Arthur Wyatt is the man who should know: he was a Dredd reader as a boy in England, and now writes for the comic. "
-type = "Review"facebookauto = "What is it about Judge Dredd that captured the zeitgeist in England so well? He's a perfect parody of America, in a time when perfect parodies seem all to real. British ex-pat, and Judge Dredd writer, Arthur Wyatt explains the appeal. "
+type = "Review"
+facebookauto = "What is it about Judge Dredd that captured the zeitgeist in England so well? He's a perfect parody of America, in a time when perfect parodies seem all to real. British ex-pat, and Judge Dredd writer, Arthur Wyatt explains the appeal. "
 twitterauto = "We had Judge Dredd writer @arthurwyatt lay it all out: what makes the comic so vital after all these years?"
 reviews_byline = ["writers/arthur-wyatt.md"]
 reviews_books = ["books/judge-dredd-america.md", "books/judge-dredd-case-files-01.md"]

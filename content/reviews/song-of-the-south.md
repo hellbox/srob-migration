@@ -11,7 +11,8 @@ preview_url = "1d5acb40-3de5-3784-13ec-74ee7fbbe986"
 name = "Song of the South"
 title = "Song of the South"
 dek = "Even Joan Didion's unfinished story notes are absolutely motherfucking perfect."
-type = "Review"facebookauto = "Joan Didion is too good. Even her rough drafts are perfect."
+type = "Review"
+facebookauto = "Joan Didion is too good. Even her rough drafts are perfect."
 twitterauto = "Joan Didion is too good. Even her rough drafts are perfect."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/south-and-west.md"]

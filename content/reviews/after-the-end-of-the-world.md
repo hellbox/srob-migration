@@ -11,7 +11,8 @@ preview_url = "90e0fe88-680e-f34f-a821-a31e8719fb41"
 name = "After the end of the world"
 title = "After the end of the world"
 dek = "In Michelle Tea's latest memoir/novel hybrid, her years as a queer literary youth icon have caught up with her."
-type = "Review"facebookauto = "Michelle Tea's latest book is a novel/memoir hybrid set in a post-apocalyptic San Francisco in the summer of 1999. "
+type = "Review"
+facebookauto = "Michelle Tea's latest book is a novel/memoir hybrid set in a post-apocalyptic San Francisco in the summer of 1999. "
 twitterauto = "Michelle Tea has always been a queer icon/sex symbol. Her latest novel/memoir hybrid tackles that idea head-on."
 reviews_byline = ["writers/sarah-galvin.md"]
 reviews_books = ["books/black-wave.md"]

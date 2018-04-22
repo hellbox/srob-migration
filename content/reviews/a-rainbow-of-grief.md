@@ -11,7 +11,8 @@ preview_url = "95322358-c345-582d-e3d7-abdb0cc42048"
 name = "A rainbow of grief"
 title = "A rainbow of grief"
 dek = "Cartoonist Tom Hart's daughter died in her sleep for no apparent reason just shy of her second birthday. How do you find the words for that kind of a loss? You don't."
-type = "Review"facebookauto = "Cartoonist Tom Hart's daughter died in her sleep for no apparent reason just shy of her second birthday. How do you find the words for that kind of a loss? You don't."
+type = "Review"
+facebookauto = "Cartoonist Tom Hart's daughter died in her sleep for no apparent reason just shy of her second birthday. How do you find the words for that kind of a loss? You don't."
 twitterauto = "\"Rosalie Lightning\" is a gorgeous book about grief and naming the unnameable."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/rosalie-lightning.md"]

@@ -11,7 +11,8 @@ preview_url = "f379991f-c42b-0ded-789c-09638932264e"
 name = "How to Throw Yourself at the Ground and Miss"
 title = "How to Throw Yourself at the Ground and Miss"
 dek = "Nobody ever gave Seattle's Fantagraphics Books the respect it deserves. So Fantagraphics had to celebrate itself in a giant, gorgeous autobiography."
-type = "Review"facebookauto = "Seattle's own comics publisher Fantagraphics sings a song of itself. And that song is a doozy."
+type = "Review"
+facebookauto = "Seattle's own comics publisher Fantagraphics sings a song of itself. And that song is a doozy."
 twitterauto = "Seattle's own @fantagraphics sings a song of itself. And that song is a doozy."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/we-told-you-so.md"]

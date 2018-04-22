@@ -11,7 +11,8 @@ preview_url = "2b263ab5-3c51-b48c-7ef7-b6ddb93aa68e"
 name = "Regarding Lucia Perillo"
 title = "Regarding Lucia Perillo"
 dek = "When Lucia Perillo passed away in October, the Seattle area lost a poet of grace and gratitude who wrote beautifully about the limitations of the body. John Marshall, co-founder of Open Books, remembers her and reflects on what she's left behind."
-type = "Review"facebookauto = "We're so pleased to publish this beautiful piece of writing: John W Marshall, co-founder of Open Books, remembers Seattle-area poet Lucia Perillo, who died in October of this year."
+type = "Review"
+facebookauto = "We're so pleased to publish this beautiful piece of writing: John W Marshall, co-founder of Open Books, remembers Seattle-area poet Lucia Perillo, who died in October of this year."
 twitterauto = "John W Marshall, co-founder of @openpoetrybooks, remembers Seattle-area poet Lucia Perillo."
 reviews_byline = ["writers/john-w-marshall.md"]
 reviews_books = ["books/time-will-clean-the-carcass-bones.md", "books/the-body-mutinies.md"]

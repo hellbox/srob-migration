@@ -11,7 +11,8 @@ preview_url = "c31a2fa8-6d5d-a1a2-bc6c-edee7d7c7731"
 name = "Something fishy"
 title = "Something fishy"
 dek = "A book about salmon in the Northwest makes a big splash, but you should probably throw it back."
-type = "Review"facebookauto = "This new book about salmon in the Northwest? You should probably throw it back."
+type = "Review"
+facebookauto = "This new book about salmon in the Northwest? You should probably throw it back."
 twitterauto = "This new book about salmon in the Northwest? You should probably throw it back."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/upstream.md"]

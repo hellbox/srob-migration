@@ -11,7 +11,8 @@ preview_url = "bc3f2512-0d86-7dc7-793a-158604ee3830"
 name = "Upstairs, downstairs"
 title = "Upstairs, downstairs"
 dek = "Leanne Brown's book about eating well on four dollars a day went from a thesis to a free download to a Reddit sensation to a New York Times bestseller in less than two years. Can a cookbook change the world?"
-type = "Review"twitterauto = ".@leelb, not Jonathan Franzen, was the most world-changing author reading @THSEA last night. "
+type = "Review"
+twitterauto = ".@leelb, not Jonathan Franzen, was the most world-changing author reading @THSEA last night. "
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/good-and-cheap.md"]
 reviews_tags = ["reviews/upstairs-downstairs.md"]

@@ -11,7 +11,8 @@ preview_url = "d41ce181-2ec8-c4cc-8e9b-b100693e6964"
 name = "The man who paints tigers on an island"
 title = "The man who paints tigers on an island"
 dek = "Sonny Liew sold out his first run of the Art of Charlie Chan Hock Chye in Singapore, and no wonder. He's one of the first artists to grapple with Singapore's recent history in such a modern medium. What does this book say to us in the West?"
-type = "Review"facebookauto = "Sonny Liew wrote the most comprehensive look back at the birth of modern Singapore, but he did it as a thrilling graphic novel that looks back at the career of a fictional comic book artist. We review it today, and ask how much it matters for people from a place to be the ones writing about it. "
+type = "Review"
+facebookauto = "Sonny Liew wrote the most comprehensive look back at the birth of modern Singapore, but he did it as a thrilling graphic novel that looks back at the career of a fictional comic book artist. We review it today, and ask how much it matters for people from a place to be the ones writing about it. "
 twitterauto = "How much does it matter if people writing about a place are from that place? Our review of @sonnyliew's new work."
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/the-art-of-charlie-chan-hock-chye.md"]

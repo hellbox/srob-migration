@@ -11,7 +11,8 @@ preview_url = "3b0631c7-ddbf-8fc3-54cb-18c726d63ac5"
 name = "Although of course you end up being played by Jesse Eisenberg in the movie"
 title = "Although of course you end up being played by Jesse Eisenberg in the movie"
 dek = "A new movie adaptation of a bad book about David Foster Wallace succeeds because it understands all of the flaws of its source text."
-type = "Review"reviews_byline = ["writers/paul-constant.md"]
+type = "Review"
+reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/although-of-course-you-end-up-becoming-yourself.md"]
 reviews_tags = ["reviews/although-of-course-you-end-up-being-played-by-jesse-eisenberg-in-the-movie.md"]
 reviews_about = ["authors/david-lipsky.md"]

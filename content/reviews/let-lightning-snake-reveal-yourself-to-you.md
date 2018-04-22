@@ -11,7 +11,8 @@ preview_url = "12cc2d85-864e-b4a4-2894-81be6ba33499"
 name = "Let Lightning Snake reveal yourself to you"
 title = "Let Lightning Snake reveal yourself to you"
 dek = "This Saturday, Fantagraphics hosts a launch party for Cold Cube\u2019s newly released Lightning Snake collection. Colleen Louise Barry is our tour guide through its colorful and confounding pages."
-type = "Review"facebookauto = "In a sharp review by Colleen Louise Barry, Cold Cube's Lightning Snake takes the universe apart and puts it back together."
+type = "Review"
+facebookauto = "In a sharp review by Colleen Louise Barry, Cold Cube's Lightning Snake takes the universe apart and puts it back together."
 twitterauto = "In a review by Colleen Louise Barry, Cold Cube's Lightning Snake takes the universe apart and puts it back together."
 reviews_byline = ["writers/colleen-louise-barry.md"]
 reviews_books = ["books/lightning-snake.md"]

@@ -11,7 +11,8 @@ preview_url = "109359a7-3451-b978-8ff4-c5dee0fe5793"
 name = "Collateral Damage"
 title = "Collateral Damage"
 dek = "A found poem constructed out of the  The Intercept_\u2019s report on the Obama administration's drone war."
-type = "Review"facebookauto = "Seattle poet Doug Nufer read The Intercept_'s troubling report on the Obama administration drone war and saw poetry, in this rare (in form, and that we're publishing it on Sunday) review."
+type = "Review"
+facebookauto = "Seattle poet Doug Nufer read The Intercept_'s troubling report on the Obama administration drone war and saw poetry, in this rare (in form, and that we're publishing it on Sunday) review."
 twitterauto = "Seattle poet Doug Nufer read @the_intercept troubling report on the Obama administration drone war and saw poetry"
 reviews_byline = ["writers/doug-nufer.md"]
 reviews_books = ["books/the-drone-papers.md"]

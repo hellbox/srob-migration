@@ -11,7 +11,8 @@ preview_url = "1db01849-6d89-8d8c-384a-92bdcab2ecda"
 name = "The most thoughtful obituary writer in all of southeastern Alaska"
 title = "The most thoughtful obituary writer in all of southeastern Alaska"
 dek = "A new book from a big-hearted obituary writer proves that Alaska isn't all Sarah Palin and wilderness reality shows."
-type = "Review"facebookauto = "Obituary writer Heather Lende's newest book proves that there's so much more to Alaskan literature than wilderness survival stories."
+type = "Review"
+facebookauto = "Obituary writer Heather Lende's newest book proves that there's so much more to Alaskan literature than wilderness survival stories."
 twitterauto = "Heather Lende's newest book proves there's so much more to Alaskan literature than wilderness survival stories."
 reviews_byline = ["writers/colleen-mondor.md"]
 reviews_books = ["books/find-the-good.md", "books/-if-you-lived-here-id-know-your-name.md", "books/-take-good-care-of-the-garden-and-the-dogs.md"]

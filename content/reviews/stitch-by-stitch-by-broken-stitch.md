@@ -11,7 +11,8 @@ preview_url = "ec349ad0-017e-f28a-ce87-c006ed05a11f"
 name = "Stitch by stitch by broken stitch"
 title = "Stitch by stitch by broken stitch"
 dek = "When the world tries to kill Sherman Alexie, he just gets bigger and better."
-type = "Review"facebookauto = "Sherman Alexie's newest book is a memoir and a quilt and a narrative about a damaged brain."
+type = "Review"
+facebookauto = "Sherman Alexie's newest book is a memoir and a quilt and a narrative about a damaged brain."
 twitterauto = "Sherman Alexie's new book is a memoir and a quilt and a narrative about a damaged brain."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/you-dont-have-to-say-you-love-me.md"]

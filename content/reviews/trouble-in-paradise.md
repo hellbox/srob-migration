@@ -11,7 +11,8 @@ preview_url = "abe11114-6a10-978e-2587-86a5f8be6d15"
 name = "Trouble in paradise"
 title = "Trouble in paradise"
 dek = "For our Thursday comics column, we look at a book made up entirely of screenshots taken from episodes of The Bachelor and The Bachelorette. Is it comics? Is it poetry? Is it art? Is it a desperate howl from the inside of the human heart? Yes, yes, yes, and absolutely."
-type = "Review"facebookauto = "Here's a book made entirely from screenshots of Bachelor episodes. It might make you cry."
+type = "Review"
+facebookauto = "Here's a book made entirely from screenshots of Bachelor episodes. It might make you cry."
 twitterauto = "Here's a book made entirely from screenshots of Bachelor episodes. It might make you cry."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/final-rose.md"]

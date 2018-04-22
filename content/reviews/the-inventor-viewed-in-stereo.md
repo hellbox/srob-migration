@@ -11,7 +11,8 @@ preview_url = "f01a7af9-2f0c-a0fd-67a7-600ca9ac0a54"
 name = "The inventor, viewed in stereo"
 title = "The inventor, viewed in stereo"
 dek = "William Gruber invented the View-Master, which let millions of children see 3D stereo images. His daughter wrote a biography, but didn't flinch from the truth of the man, and why he was under investigation by the FBI."
-type = "Review"facebookauto = "William Gruber invented the View-Master, which let millions of children see 3D stereo images. His daughter wrote a biography, but didn't flinch from the truth of the man, and why he was under investigation by the FBI."
+type = "Review"
+facebookauto = "William Gruber invented the View-Master, which let millions of children see 3D stereo images. His daughter wrote a biography, but didn't flinch from the truth of the man, and why he was under investigation by the FBI."
 twitterauto = "It's not all nostalgia when @GaelFC takes a look at a biography of the View-Master inventor."
 reviews_byline = ["writers/gael-fashingbauer-cooper.md"]
 reviews_books = ["books/view-master.md"]

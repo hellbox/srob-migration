@@ -11,7 +11,8 @@ preview_url = "f3638bbf-357a-61ec-f6bb-58eec87c8cd6"
 name = "Traveled the world and the seven seas"
 title = "Traveled the world and the seven seas"
 dek = "Atlas Obscura's new book is a compulsively readable travel guide to some of the world's strangest locations, from Galileo's Middle Finger to a pair of Necropants."
-type = "Review"facebookauto = "Atlas Obscura is a catalog of the world's strangest locations, experiences, and destinations."
+type = "Review"
+facebookauto = "Atlas Obscura is a catalog of the world's strangest locations, experiences, and destinations."
 twitterauto = "Atlas Obscura's new book is a compulsively readable travel guide to the world's strangest places."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/atlas-obscura.md"]

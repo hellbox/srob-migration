@@ -11,7 +11,8 @@ preview_url = "f7487ef4-e0b5-3259-a047-7b8945f7b075"
 name = "Strange huge illuminations"
 title = "Strange huge illuminations"
 dek = "If Cynthia Ozick shows allegiance to the canon, but the canon has excluded her, does this say more about Ozick's writing, or the canon that doesn't include her?"
-type = "Review"facebookauto = "It's Cynthia Ozick vs. a canon of western literature that inspired her, and that she has, largely, been left outside of."
+type = "Review"
+facebookauto = "It's Cynthia Ozick vs. a canon of western literature that inspired her, and that she has, largely, been left outside of."
 twitterauto = "Whose afraid of Cynthia Ozick? Possibly the canon that she loves so acutely."
 reviews_byline = ["writers/rebecca-j-novelli.md"]
 reviews_books = ["books/critics-monsters-fanatics-and-other-literary-essays.md"]

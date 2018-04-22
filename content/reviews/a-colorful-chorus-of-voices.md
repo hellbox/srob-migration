@@ -11,7 +11,8 @@ preview_url = "96f480f1-2a63-1b98-f45d-9ab402e6424c"
 name = "A colorful chorus of voices"
 title = "A colorful chorus of voices"
 dek = "In the final entry in our weeklong investigation of Mount Analogue's books, we investigate their line of political pamphlets. Somehow, the long-dead art of pamphleteering now feels more immediate and relevant than even magazines."
-type = "Review"facebookauto = "The ancient art of political pamphleteering has found a renewed purpose in the age of Trump."
+type = "Review"
+facebookauto = "The ancient art of political pamphleteering has found a renewed purpose in the age of Trump."
 twitterauto = "The ancient art of political pamphleteering has found a renewed purpose in the age of Trump."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/political-pamphlet-series.md"]

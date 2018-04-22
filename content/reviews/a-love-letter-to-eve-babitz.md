@@ -11,7 +11,8 @@ preview_url = "783ed18f-4686-2b3b-c8c1-14d29577c8dc"
 name = "A love letter to Eve Babitz"
 title = "A love letter to Eve Babitz"
 dek = "Everybody who writes about Eve Babitz wants to either be inside her bubble of cool, or pop it. Martin just wants to show some love and appreciation for an under-appreciated writer."
-type = "Review"facebookauto = ""
+type = "Review"
+facebookauto = ""
 twitterauto = ""
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/eves-hollywood.md"]

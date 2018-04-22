@@ -11,7 +11,8 @@ preview_url = "42cfa8ed-fcae-309d-cdc5-4d6cd1039f7a"
 name = "Counterfactual, counterhistory, counter memory"
 title = "Counterfactual, counterhistory, counter memory"
 dek = "We love to build alternative Jewish homelands in literature. Ivan Schneider looks at the latest."
-type = "Review"facebookauto = "A new imagined Jewish homeland appears in Simone Zelitch's Judenstaat. Ivan Schneider has our review."
+type = "Review"
+facebookauto = "A new imagined Jewish homeland appears in Simone Zelitch's Judenstaat. Ivan Schneider has our review."
 twitterauto = "A new imagined Jewish homeland appears in @simonezelitch\u2019s Judenstaat. @ivantohelpyou has our review."
 reviews_byline = ["writers/ivan-schneider.md"]
 reviews_books = ["books/judenstaat.md"]

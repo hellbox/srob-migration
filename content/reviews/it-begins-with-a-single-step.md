@@ -11,7 +11,8 @@ preview_url = "9bfa565e-01a7-b29c-a35e-afc25377e22a"
 name = "It begins with a single step"
 title = "It begins with a single step"
 dek = "On Saturday, Paul Constant walked 14 miles to visit six comic book stores in the greater Seattle area. This is what he saw."
-type = "Review"facebookauto = "How was your Free Comic Book Day? Here's what we saw on our epic 14-mile walk to visit six stores in the greater Seattle area."
+type = "Review"
+facebookauto = "How was your Free Comic Book Day? Here's what we saw on our epic 14-mile walk to visit six stores in the greater Seattle area."
 twitterauto = "Paul Constant walked 14 miles to visit six comic book stores in the greater Seattle area. This is what he saw."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/bad-machinery-vol-1-the-case-of-the-team-spirit.md", "books/apocalyptigirl.md"]

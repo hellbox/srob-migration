@@ -11,7 +11,8 @@ preview_url = "4de1b73a-e026-0134-4275-2a6d1b3d2130"
 name = "All happy families are alike"
 title = "All happy families are alike"
 dek = "Novels are amazing engines of social change, and Seattle author Laurie Frankel's latest is a generous, charming example of a good book that can do good."
-type = "Review"facebookauto = "Seattle author Laurie Frankel's latest novel is a big-hearted example of the novel as a social change agent."
+type = "Review"
+facebookauto = "Seattle author Laurie Frankel's latest novel is a big-hearted example of the novel as a social change agent."
 twitterauto = "Seattle author Laurie Frankel's latest novel is a big-hearted example of novel as social change agent."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/this-is-how-it-always-is.md"]

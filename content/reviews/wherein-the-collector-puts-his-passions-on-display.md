@@ -11,7 +11,8 @@ preview_url = "2d05d4f4-221a-bf49-19f7-babd40985d81"
 name = "Wherein the collector puts his passions on display"
 title = "Wherein the collector puts his passions on display"
 dek = "Ricky Jay is many things: magician, actor, historian of magical lore. He is also a collector, and in his new book, he opens the flat-files in his archive to share a few tidbits. "
-type = "Review"facebookauto = "Why do collectors collect? If they're like Ricky Jay, perhaps they do so to share their collections with you, as he has done, in his latest book."
+type = "Review"
+facebookauto = "Why do collectors collect? If they're like Ricky Jay, perhaps they do so to share their collections with you, as he has done, in his latest book."
 twitterauto = "Why do collectors collect? If they're like Ricky Jay, perhaps to share the obscurities with you."
 reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/matthias-buchinger.md"]

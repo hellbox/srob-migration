@@ -11,7 +11,8 @@ preview_url = "d23824a3-3750-eb3c-0435-376311483ae5"
 name = "\"...the goddamn Great American Landscaping Novel\""
 title = "\"...the goddamn Great American Landscaping Novel\""
 dek = "Jonathan Evison reads from his new novel, Lawn Boy, tonight at University Book Store. It's a book that draws a line in the class war and lands squarely on the side of America's blue-collar workers."
-type = "Review"facebookauto = "Jonathan Evison reads at University Book Store tonight. His new novel Lawn Boy is a salvo in the class war."
+type = "Review"
+facebookauto = "Jonathan Evison reads at University Book Store tonight. His new novel Lawn Boy is a salvo in the class war."
 twitterauto = "Jonathan Evison reads @ubookstorereads tonight. His new novel Lawn Boy is a salvo in the class war."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/lawn-boy.md"]

@@ -11,7 +11,8 @@ preview_url = "645e6755-16e5-0c0b-5b37-2aeb5805a895"
 name = "Written under the influence"
 title = "Written under the influence"
 dek = "Clare Vaye Watkins wrote an essay that questioned her motivation for writing this book that we now review."
-type = "Review"facebookauto = "If you listened and appreciated what Claire Vaye Watkins said in \"On Pandering\", then how does it change your reading of her novel?"
+type = "Review"
+facebookauto = "If you listened and appreciated what Claire Vaye Watkins said in \"On Pandering\", then how does it change your reading of her novel?"
 twitterauto = "If you appreciated what @clairevaye said in \"On Pandering\", how does it change your reading of her novel?"
 reviews_byline = ["writers/john-englehardt.md"]
 reviews_books = ["books/gold-fame-citrus.md"]

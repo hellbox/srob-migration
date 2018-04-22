@@ -11,7 +11,8 @@ preview_url = "4cfc67b9-2b99-360a-d2e5-b9fd2ecb1d73"
 name = "Sticking the landing"
 title = "Sticking the landing"
 dek = "Even Neal Stephenson has to acknowledge that \"Neal Stephenson has trouble ending his novels\" is a popular opinion. Does *Seveneves* end well? Is it even worth getting to the end?"
-type = "Review"reviews_byline = ["writers/martin-mcclellan.md"]
+type = "Review"
+reviews_byline = ["writers/martin-mcclellan.md"]
 reviews_books = ["books/seveneves.md"]
 reviews_tags = ["reviews/sticking-the-landing.md"]
 reviews_about = ["authors/neal-stephenson.md"]

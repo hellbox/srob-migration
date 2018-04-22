@@ -11,7 +11,8 @@ preview_url = "5cc7255a-13ce-f7fd-a228-189c5ba0c585"
 name = " \u201cThe idea of freedom might be too great a temptation for them to resist\""
 title = " \u201cThe idea of freedom might be too great a temptation for them to resist\""
 dek = "Scholastic took the rare step of withdrawing a controversial children's book from publication after outrage about the depiction of George Washington's slaves started to spread across social media. Was this the right thing to do? And what does this say about America's tendency to whitewash our history?"
-type = "Review"facebookauto = "A new children's book was withdrawn by its publisher because of its controversial depiction of slavery. How bad was it? Were George Washington's slaves really happy to be there?"
+type = "Review"
+facebookauto = "A new children's book was withdrawn by its publisher because of its controversial depiction of slavery. How bad was it? Were George Washington's slaves really happy to be there?"
 twitterauto = ".@bylisagold reviews a controversial children's book about slavery that was withdrawn by its own publisher."
 reviews_byline = ["writers/lisa-gold.md"]
 reviews_books = ["books/a-birthday-cake-for-george-washington.md"]

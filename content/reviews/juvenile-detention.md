@@ -11,7 +11,8 @@ preview_url = "0be06200-1f44-222e-4c5e-8dcb843c60ca"
 name = "Juvenile, detention"
 title = "Juvenile, detention"
 dek = "Local cartoonist Colleen Frakes grew up on a prison island in Washington state. Her comic book memoir proves that this situation was even weirder, and even more normal, than you might suspect."
-type = "Review"facebookauto = "\"Prison Island\" is a memoir by local cartoonist Colleen Frakes about growing up on a prison island in Washington state. What was life on a prison island like? Well, her birthday party was once ruined by a jailbreak."
+type = "Review"
+facebookauto = "\"Prison Island\" is a memoir by local cartoonist Colleen Frakes about growing up on a prison island in Washington state. What was life on a prison island like? Well, her birthday party was once ruined by a jailbreak."
 twitterauto = "Local cartoonist @ColleenFrakes grew up on a prison island. Here's our review of her comic book memoir."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/prison-island.md"]

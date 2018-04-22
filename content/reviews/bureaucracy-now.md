@@ -11,7 +11,8 @@ preview_url = "ac253624-4ad4-2dfd-054c-1b4f5767bfc5"
 name = "Bureaucracy now"
 title = "Bureaucracy now"
 dek = "An absurdist novel about a frustrating data-entry job and a bureaucrat named Trishiffany will remind you that the important thing about life is that it ends. You'll be happy for the reminder."
-type = "Review"reviews_byline = ["writers/sharma-shields.md"]
+type = "Review"
+reviews_byline = ["writers/sharma-shields.md"]
 reviews_books = ["books/the-beautiful-bureaucrat.md"]
 reviews_tags = ["reviews/bureaucracy-now.md"]
 reviews_about = ["authors/helen-phillips.md"]

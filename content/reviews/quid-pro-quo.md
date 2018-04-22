@@ -11,7 +11,8 @@ preview_url = "3abbf3ad-1928-6c57-e7b0-75c955acd6f5"
 name = "Quid pro quo"
 title = "Quid pro quo"
 dek = "Seattle Times reporter Claudia Rowe's The Spider and the Fly begins as a successor to Ann Rule's brilliant The Stranger Beside Me. Then it turns into something much different."
-type = "Review"facebookauto = "Seattle Times reporter Claudia Rowe's new book The Spider and the Fly is about a serial killer who is the exact opposite of the sleek, calculating killers we see in TV and movies."
+type = "Review"
+facebookauto = "Seattle Times reporter Claudia Rowe's new book The Spider and the Fly is about a serial killer who is the exact opposite of the sleek, calculating killers we see in TV and movies."
 twitterauto = ".@RoweReport's The Spider and the Fly begins as a true crime story. It becomes something much different."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/the-spider-and-the-fly.md"]

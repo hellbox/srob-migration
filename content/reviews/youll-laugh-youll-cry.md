@@ -11,7 +11,8 @@ preview_url = "c7550bf4-798d-bff3-59c5-fa0eb8c9a2ae"
 name = "You'll laugh, you'll cry"
 title = "You'll laugh, you'll cry"
 dek = "Patricia Lockwood reads from her new memoir Priestdaddy at Elliott Bay Book Company next Wednesday, May 3rd. Does one of America's best poets have what it takes to be a memoirist?"
-type = "Review"facebookauto = "She's one of our best poets. Can Patricia Lockwood succeed as a memoirist, too?"
+type = "Review"
+facebookauto = "She's one of our best poets. Can Patricia Lockwood succeed as a memoirist, too?"
 twitterauto = "She's one of our best poets. Can @TriciaLockwood succeed as a memoirist, too?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/priestdaddy.md"]

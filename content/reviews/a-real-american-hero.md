@@ -11,7 +11,8 @@ preview_url = "ea0bac41-0a51-c432-fc52-0d3570319eb0"
 name = "A real American hero"
 title = "A real American hero"
 dek = "Edward Snowden's revelations changed the world, but we as a nation have done almost nothing to solve the problem of NSA wiretapping.. In a biography of Snowden, cartoonist Ted Rall argues that our inaction is letting a hero down."
-type = "Review"facebookauto = "A new comic book biography argues that Edward Snowden is an American hero and wonders why we're not acting on the revelations he gave us."
+type = "Review"
+facebookauto = "A new comic book biography argues that Edward Snowden is an American hero and wonders why we're not acting on the revelations he gave us."
 twitterauto = "Cartoonist Ted Rall's latest book is a biography of a real American hero: Edward Snowden."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/snowden.md"]

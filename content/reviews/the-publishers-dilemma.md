@@ -11,7 +11,8 @@ preview_url = "366fc6e2-5015-5dbd-0b3e-e26e625b6365"
 name = "The publishers' dilemma"
 title = "The publishers' dilemma"
 dek = "We live in an age where anyone can publish a book in a matter of minutes. Why, then, do we need publishers?"
-type = "Review"facebookauto = "A new book by Roberto Calasso explains why, in an age of Twitter and e-books, we still need publishers to bring us quality literature."
+type = "Review"
+facebookauto = "A new book by Roberto Calasso explains why, in an age of Twitter and e-books, we still need publishers to bring us quality literature."
 twitterauto = "We live in an age where anyone can publish a book in a matter of minutes. Why, then, do we need publishers?"
 reviews_byline = ["writers/willie-fitzgerald.md"]
 reviews_books = ["books/the-art-of-the-publisher.md", "books/citizen.md"]

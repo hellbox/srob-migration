@@ -11,7 +11,8 @@ preview_url = "acbca6fd-1e3b-4d4b-c08b-d2fd0baed2d0"
 name = "Looking and seeing are two different things"
 title = "Looking and seeing are two different things"
 dek = "Colum McCann's newest story collection is about the surveillance state and violence and whether justice can ever truly be served in a society where everyone is always watching."
-type = "Review"reviews_byline = ["writers/paul-constant.md"]
+type = "Review"
+reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/thirteen-ways-of-looking.md"]
 reviews_tags = ["reviews/looking-and-seeing-are-two-different-things.md"]
 reviews_about = ["authors/colum-mccann.md"]

@@ -11,7 +11,8 @@ preview_url = "e93f8b5e-d68f-71c9-1565-eeb4cf3a2897"
 name = "Not-so-living history"
 title = "Not-so-living history"
 dek = "Sarah Vowell is unquestionably the funniest history nerd in America. Why don't her books quite live up to that promise?"
-type = "Review"reviews_byline = ["writers/paul-constant.md"]
+type = "Review"
+reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/lafayette-in-the-somewhat-united-states.md"]
 reviews_tags = ["reviews/not-so-living-history.md"]
 reviews_about = ["authors/sarah-vowell.md"]

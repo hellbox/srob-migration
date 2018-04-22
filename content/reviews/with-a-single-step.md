@@ -11,7 +11,8 @@ preview_url = "a999d71f-7100-59d2-e19c-7fbdc1948e41"
 name = "With a single step"
 title = "With a single step"
 dek = "On the pleasures of walking marathon distances, listening to audio books, and exploring Neal Stephenson's novel about a space catastrophe."
-type = "Review"facebookauto = "We took Neal Stephenson's most recent novel on some long walks. It taught us about the future."
+type = "Review"
+facebookauto = "We took Neal Stephenson's most recent novel on some long walks. It taught us about the future."
 twitterauto = "We took Neal Stephenson's most recent novel on some long walks. It taught us about the future."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/seveneves-(audio).md", "books/seveneves.md"]

@@ -11,7 +11,8 @@ preview_url = "8863ccf3-30bd-25fd-ce1e-7b5c1f05174d"
 name = "Body of work"
 title = "Body of work"
 dek = "Is pregnancy inherently heteronormative? Can writers like Maggie Nelson and Jen Graves help us push through some of our assumptions about gender and motherhood and art?"
-type = "Review"facebookauto = "Is pregnancy inherently heteronormative? Can writers like Maggie Nelson and Jen Graves help us push through some of our assumptions about gender and motherhood and art?"
+type = "Review"
+facebookauto = "Is pregnancy inherently heteronormative? Can writers like Maggie Nelson and Jen Graves help us push through some of our assumptions about gender and motherhood and art?"
 twitterauto = "What can the work of Maggie Nelson and @JenGraves teach us about gender and motherhood and art?"
 reviews_byline = ["writers/cate-mcgehee.md"]
 reviews_books = ["books/the-argonauts.md"]

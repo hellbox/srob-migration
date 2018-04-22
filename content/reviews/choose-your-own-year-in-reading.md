@@ -11,7 +11,8 @@ preview_url = "ec968e39-bbb3-e06e-4688-00bd48e56eeb"
 name = "Choose your own year in reading"
 title = "Choose your own year in reading"
 dek = "Which book are you starting 2017 with? Here are two good options \u2014\u00a0one fiction, and one non-fiction."
-type = "Review"facebookauto = "So what\u2019s your first new book of 2017 going to be? "
+type = "Review"
+facebookauto = "So what\u2019s your first new book of 2017 going to be? "
 twitterauto = "So what\u2019s your first new book of 2017 going to be? "
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/serious-sweet.md", "books/absolutely-on-music.md"]

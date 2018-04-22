@@ -11,7 +11,8 @@ preview_url = "767667f2-f693-41c2-9132-2193c71c3f44"
 name = "Drink to forget, ink to remember"
 title = "Drink to forget, ink to remember"
 dek = "The important thing about Tatiana Gill's comics is that they're unfailingly honest, whether she's talking about drinking or sobriety or a bad Facebook habit. If you're sick of phony narratives imposed on top of memoirs, maybe Gill's comics are the cure you didn't know you needed."
-type = "Review"facebookauto = "Seattle cartoonist Tatiana Gill is drawing her entire life, one panel at a time. Whether she's telling stories about her days as a blackout drunk or her life as a recovering alcoholic, you can be sure that she's laying the truth out there in black and white."
+type = "Review"
+facebookauto = "Seattle cartoonist Tatiana Gill is drawing her entire life, one panel at a time. Whether she's telling stories about her days as a blackout drunk or her life as a recovering alcoholic, you can be sure that she's laying the truth out there in black and white."
 twitterauto = "Seattle cartoonist Tatiana Gill is drawing her entire life, one panel at a time."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/blackoutings.md", "books/omnibusted.md", "books/living-in-the-now.md", "books/plus.md"]

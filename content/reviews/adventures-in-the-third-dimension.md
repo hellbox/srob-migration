@@ -11,7 +11,8 @@ preview_url = "243e0332-3728-a15f-562d-c75499dc0485"
 name = "Adventures in the third dimension"
 title = "Adventures in the third dimension"
 dek = "Mita Mahato debuts her first book of poetry comics at Short Run this year. In the book, she finally breaks free from one of the longest-lasting comics constraints."
-type = "Review"facebookauto = "These comics break a long-standing blockade and pierce into the third dimension."
+type = "Review"
+facebookauto = "These comics break a long-standing blockade and pierce into the third dimension."
 twitterauto = "These comics break a long-standing blockade and pierce into the third dimension."
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/in-between.md"]

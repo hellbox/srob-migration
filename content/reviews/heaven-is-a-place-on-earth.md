@@ -11,7 +11,8 @@ preview_url = "e071802e-e583-938d-33ba-3e8402f3c79d"
 name = "Heaven is a place on Earth"
 title = "Heaven is a place on Earth"
 dek = "The newest novel from Seattle author Jonathan Evison seems at first like a broad comedy about a 78-year-old woman on an Alaskan cruise. Then things start to get weird. And then things get dark. What the hell is going on here?"
-type = "Review"twitterauto = "Seattle author Jonathan Evison's new novel is set partly in the afterlife. It's a weird choice. Does it pay off?"
+type = "Review"
+twitterauto = "Seattle author Jonathan Evison's new novel is set partly in the afterlife. It's a weird choice. Does it pay off?"
 reviews_byline = ["writers/paul-constant.md"]
 reviews_books = ["books/this-is-your-life-harriet-chance!.md"]
 reviews_tags = ["reviews/heaven-is-a-place-on-earth.md"]
