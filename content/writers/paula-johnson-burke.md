@@ -22,8 +22,8 @@ email = "paulaburke@earthlink.net"
 twitter = "RealPaulaBurke"
 website = ""
 bio = "Paula is a professional archaeologist and book lover. "
-reviews_byline = "writers/paula-johnson-burke.md"
-notes_byline = "writers/paula-johnson-burke.md"
+reviews_byline = ["writers/paula-johnson-burke.md"]
+notes_byline = ["writers/paula-johnson-burke.md"]
 books_translator = ""
 +++
 

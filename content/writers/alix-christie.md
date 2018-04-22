@@ -22,8 +22,8 @@ email = "aechristie@googlemail.com"
 twitter = "alixechristie"
 website = "http://alixchristie.com/"
 bio = "Alix Christie is a writer, journalist and letterpress printer. Her debut novel, \"Gutenberg's Apprentice,\" is available in many languages and has been longlisted for the International Dublin Literary Award."
-reviews_byline = "writers/alix-christie.md"
-notes_byline = "writers/alix-christie.md"
+reviews_byline = ["writers/alix-christie.md"]
+notes_byline = ["writers/alix-christie.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "bswift@gmail.com"
 twitter = ""
 website = ""
 bio = "Billie Swift is a few centimeters away from receiving her MFA from the Rainier Writing Workshop, and an inch or two from becoming the new owner of Open Books, a poetry-only bookstore located in Wallingford. \n"
-reviews_byline = "writers/billie-swift.md"
-notes_byline = "writers/billie-swift.md"
+reviews_byline = ["writers/billie-swift.md"]
+notes_byline = ["writers/billie-swift.md"]
 books_translator = ""
 +++
 

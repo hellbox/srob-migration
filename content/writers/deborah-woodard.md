@@ -22,8 +22,8 @@ email = "karpwood@gmail.com"
 twitter = ""
 website = ""
 bio = "Deborah Woodard's most recent collection of poetry is Borrowed Tales (Stockport Flats, 2012). She teaches at Hugo House, and is offering a class on Frank Stanford this spring."
-reviews_byline = "writers/deborah-woodard.md"
-notes_byline = "writers/deborah-woodard.md"
+reviews_byline = ["writers/deborah-woodard.md"]
+notes_byline = ["writers/deborah-woodard.md"]
 books_translator = ""
 +++
 

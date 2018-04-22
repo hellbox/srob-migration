@@ -22,8 +22,8 @@ email = "feliciargonzalez@yahoo.com"
 twitter = ""
 website = ""
 bio = "Felicia was born in Havana, Cuba, and believes writing has a geographic presence."
-reviews_byline = "writers/felicia-gonzalez.md"
-notes_byline = "writers/felicia-gonzalez.md"
+reviews_byline = ["writers/felicia-gonzalez.md"]
+notes_byline = ["writers/felicia-gonzalez.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "colleenlouisebarry@gmail.com"
 twitter = ""
 website = "http://www.mount-analogue.com"
 bio = "Colleen Louise Barry is a writer and artist living in Seattle, WA. She runs the bookshop/publishing project Mount Analogue. Find her on Instagram at @colleenlouisebarry."
-reviews_byline = "writers/colleen-louise-barry.md"
-notes_byline = "writers/colleen-louise-barry.md"
+reviews_byline = ["writers/colleen-louise-barry.md"]
+notes_byline = ["writers/colleen-louise-barry.md"]
 books_translator = ""
 +++
 

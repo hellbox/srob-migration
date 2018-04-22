@@ -22,8 +22,8 @@ email = ""
 twitter = ""
 website = ""
 bio = ""
-reviews_byline = "writers/joan-swift.md"
-notes_byline = "writers/joan-swift.md"
+reviews_byline = ["writers/joan-swift.md"]
+notes_byline = ["writers/joan-swift.md"]
 books_translator = ""
 +++
 

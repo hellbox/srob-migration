@@ -22,8 +22,8 @@ email = "edwardahall@gmail.com"
 twitter = "edwardahall"
 website = "http://edwardaustinhall.com"
 bio = "Atlanta author/editor Edward Austin Hall co-edited, with novelist Bill Campbell, the anthology Mothership: Tales from Afrofuturism and Beyond."
-reviews_byline = "writers/edward-austin-hall.md"
-notes_byline = "writers/edward-austin-hall.md"
+reviews_byline = ["writers/edward-austin-hall.md"]
+notes_byline = ["writers/edward-austin-hall.md"]
 books_translator = ""
 +++
 

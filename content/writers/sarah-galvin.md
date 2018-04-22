@@ -22,8 +22,8 @@ email = "sgalvin1000@gmail.com"
 twitter = ""
 website = ""
 bio = "Sarah Galvin is a the author of *The Three Einsteins* and *Best Party of our Lives*; contributor to *The Guardian*, *Vice Magazine*, the *Stranger*, *City Arts*, and *New Ohio Review*; and also a human bottle rocket."
-reviews_byline = "writers/sarah-galvin.md"
-notes_byline = "writers/sarah-galvin.md"
+reviews_byline = ["writers/sarah-galvin.md"]
+notes_byline = ["writers/sarah-galvin.md"]
 books_translator = ""
 +++
 

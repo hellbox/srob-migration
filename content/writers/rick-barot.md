@@ -22,8 +22,8 @@ email = "barotrp@plu.edu"
 twitter = ""
 website = "http://rickbarot.com/"
 bio = "Rick Barot's most recent collection of poems is Chord. He lives in Tacoma and directs The Rainier Writing Workshop, the low-res MFA program at Pacific Lutheran University."
-reviews_byline = "writers/rick-barot.md"
-notes_byline = "writers/rick-barot.md"
+reviews_byline = ["writers/rick-barot.md"]
+notes_byline = ["writers/rick-barot.md"]
 books_translator = ""
 +++
 

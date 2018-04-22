@@ -22,8 +22,8 @@ email = "nicola@nicolagriffith.com"
 twitter = "nicolaz"
 website = "https://nicolagriffith.com/blog/"
 bio = "British-American in Seattle. Writer (So Lucky, May 2018; Hild, 2013; both from FSG). Queer cripple with a PhD. Married to writer Kelley Eskridge."
-reviews_byline = "writers/nicola-griffith.md"
-notes_byline = "writers/nicola-griffith.md"
+reviews_byline = ["writers/nicola-griffith.md"]
+notes_byline = ["writers/nicola-griffith.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = ""
 twitter = ""
 website = ""
 bio = ""
-reviews_byline = "writers/anca-szilagyi.md"
-notes_byline = "writers/anca-szilagyi.md"
+reviews_byline = ["writers/anca-szilagyi.md"]
+notes_byline = ["writers/anca-szilagyi.md"]
 books_translator = ""
 +++
 

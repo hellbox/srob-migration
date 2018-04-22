@@ -22,8 +22,8 @@ email = "wongmalone@mac.com"
 twitter = "erinmalonepoet"
 website = "http://www.erinmalone.net"
 bio = "Erin Malone's recently released collection, Hover, was chosen by Ralph Angel as the winner of The Patricia Bibby First Book Award from Tebot Bach Press. Her website is [erinmalone.net.](http://www.erinmalone.net)."
-reviews_byline = "writers/erin-malone.md"
-notes_byline = "writers/erin-malone.md"
+reviews_byline = ["writers/erin-malone.md"]
+notes_byline = ["writers/erin-malone.md"]
 books_translator = ""
 +++
 

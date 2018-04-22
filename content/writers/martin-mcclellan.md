@@ -22,8 +22,8 @@ email = "martin@seattlereviewofbooks.com"
 twitter = "hellbox"
 website = ""
 bio = "Martin is a co-founder of *The Seattle Review of Books*. He's a novelist (his first, *[California Four O'Clock](http://californiafouroclock.com)*, was published in 2015 by a successful Kickstarter campaign). He designs websites, apps, and other things for a living."
-reviews_byline = "writers/martin-mcclellan.md"
-notes_byline = "writers/martin-mcclellan.md"
+reviews_byline = ["writers/martin-mcclellan.md"]
+notes_byline = ["writers/martin-mcclellan.md"]
 books_translator = ""
 +++
 

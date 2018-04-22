@@ -22,8 +22,8 @@ email = "frances.dinger@gmail.com"
 twitter = "f_e_chiem"
 website = ""
 bio = "Frances Chiem is the marketing director for APRIL (Authors, Publishers and Readers of Independent Literature) whose day job is in environmental advocacy. She has written for Kill Screen, Fanzine, and other publications.\n"
-reviews_byline = "writers/frances-chiem.md"
-notes_byline = "writers/frances-chiem.md"
+reviews_byline = ["writers/frances-chiem.md"]
+notes_byline = ["writers/frances-chiem.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "christine@christinelarsen.com"
 twitter = "studiochristine"
 website = "http://www.christinelarsen.com"
 bio = "Illustrator of images zingy, raucous, sweet, sly, serious, & occasionally snarky. Loves robots, accordions, music, birds, geeky stuff, old movies, science, technology, snacks, roller boogie & the mighty NW. "
-reviews_byline = "writers/christine-marie-larsen.md"
-notes_byline = "writers/christine-marie-larsen.md"
+reviews_byline = ["writers/christine-marie-larsen.md"]
+notes_byline = ["writers/christine-marie-larsen.md"]
 books_translator = ""
 +++
 

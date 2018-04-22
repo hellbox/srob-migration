@@ -22,8 +22,8 @@ email = "ciennam@gmail.com"
 twitter = "ciennam"
 website = ""
 bio = "I write some, read more, and my friendship can be bought with food. Buy me a bouquet of truck stop Slim Jims and we're halfway to married."
-reviews_byline = "writers/cienna-madrid.md"
-notes_byline = "writers/cienna-madrid.md"
+reviews_byline = ["writers/cienna-madrid.md"]
+notes_byline = ["writers/cienna-madrid.md"]
 books_translator = ""
 +++
 

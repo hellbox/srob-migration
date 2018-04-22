@@ -22,8 +22,8 @@ email = "tessa.hulls@gmail.com"
 twitter = ""
 website = "http://www.tessahulls.com"
 bio = "Tessa Hulls is an artist/writer/adventurer who is currently trying to hide in her studio for the next few years in order to finish a nonfiction graphic novel about the life of her Chinese grandmother, Sun Yi. Visit her [website](http://www.tessahulls.com)."
-reviews_byline = "writers/tessa-hulls.md"
-notes_byline = "writers/tessa-hulls.md"
+reviews_byline = ["writers/tessa-hulls.md"]
+notes_byline = ["writers/tessa-hulls.md"]
 books_translator = ""
 +++
 

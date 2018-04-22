@@ -22,8 +22,8 @@ email = "priscillalong2020@gmail.com"
 twitter = ""
 website = "http://www.priscillalong.com/"
 bio = "Priscilla Long is a poet and writer of science, literary nonfiction, history, and fiction. She teaches writing and is to date author of five books."
-reviews_byline = "writers/priscilla-long.md"
-notes_byline = "writers/priscilla-long.md"
+reviews_byline = ["writers/priscilla-long.md"]
+notes_byline = ["writers/priscilla-long.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "brianna@giantspacekat.com"
 twitter = "spacekatgal"
 website = "http://cosmodrome.org"
 bio = "Brianna Wu is Head of Development at Giant Spacekat, the producers of the videogame \"Revolution 60\", soon to be released on PC. She is also host of the podcasts Disruption and Rocket on Relay. Brianna, who is a co-author on the book \"Women in Tech\", has been described as the Godzilla of tech feminists. "
-reviews_byline = "writers/brianna-wu.md"
-notes_byline = "writers/brianna-wu.md"
+reviews_byline = ["writers/brianna-wu.md"]
+notes_byline = ["writers/brianna-wu.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "elisa@rchavez.net"
 twitter = "elisacatrina"
 website = "http://ecc-poetry.tumblr.com"
 bio = "Elisa Chavez is a Seattle poet, writer, and nonprofit foot soldier. She serves on the board of Rain City Poetry Slam.\n"
-reviews_byline = "writers/elisa-chavez.md"
-notes_byline = "writers/elisa-chavez.md"
+reviews_byline = ["writers/elisa-chavez.md"]
+notes_byline = ["writers/elisa-chavez.md"]
 books_translator = ""
 +++
 

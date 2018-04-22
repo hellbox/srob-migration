@@ -22,8 +22,8 @@ email = "ccdeavel@gmail.com"
 twitter = ""
 website = ""
 bio = "Christine Deavel works as a patient and family liaison at Harborview Medical Center and is co-owner of Open Books."
-reviews_byline = "writers/christine-deavel.md"
-notes_byline = "writers/christine-deavel.md"
+reviews_byline = ["writers/christine-deavel.md"]
+notes_byline = ["writers/christine-deavel.md"]
 books_translator = ""
 +++
 

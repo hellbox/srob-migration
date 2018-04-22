@@ -22,8 +22,8 @@ email = "andrew.hamlin@gmail.com"
 twitter = ""
 website = "http://www.andrewhamlin.org"
 bio = "Andrew Hamlin was born and raised in Seattle, Washington, USA, where he resides today. He is the film critic for the Northwest Asian Weekly and his work has appeared in the Village Voice, Rolling Stone Online, Seattle Times, San Diego Reader, Goldmine, Seattle Weekly, The SunBreak, and other publications."
-reviews_byline = "writers/andrew-hamlin.md"
-notes_byline = "writers/andrew-hamlin.md"
+reviews_byline = ["writers/andrew-hamlin.md"]
+notes_byline = ["writers/andrew-hamlin.md"]
 books_translator = ""
 +++
 

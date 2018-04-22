@@ -22,8 +22,8 @@ email = "ebobarton@gmail.com"
 twitter = "Ela_Vader"
 website = "http://facebook.com/ebobartonpoetry"
 bio = "Ebo Barton is a genderqueer Black and Filipino poet and artist. They placed 7th in the nation on the Rain City Slam National Team in 2014, 14th in the nation on the Seattle Poetry Slam Team in 2016 and 5th in the world at Individual World Poetry Slam in 2016."
-reviews_byline = "writers/ebo-barton.md"
-notes_byline = "writers/ebo-barton.md"
+reviews_byline = ["writers/ebo-barton.md"]
+notes_byline = ["writers/ebo-barton.md"]
 books_translator = ""
 +++
 

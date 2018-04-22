@@ -22,8 +22,8 @@ email = "sshalmiyev@gmail.com"
 twitter = "@sshalmiyev"
 website = ""
 bio = "Sophia Shalmiyev's lyric memoir, _MOTHER WINTER_, recounting the author's childhood emigration to the United States from the Soviet Union, will be published by Simon & Schuster in January 2019. She has written for _Vela_, _Ravishly_, _Visitant_, _Electric Lit_, _Portland Review_, and many more. Shalmiyev lives in Portland, Oregon, with her two children."
-reviews_byline = "writers/sophia-shalmiyev.md"
-notes_byline = "writers/sophia-shalmiyev.md"
+reviews_byline = ["writers/sophia-shalmiyev.md"]
+notes_byline = ["writers/sophia-shalmiyev.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "clare_e_johnson@yahoo.com"
 twitter = ""
 website = "http://www.clarejohnson.com"
 bio = "Clare Johnson is a writer and artist, with awards from Seattle Magazine, Artist Trust, Jack Straw, and 4Culture, currently working on her book Will I live here when I grow up. For 10 years and counting she\u2019s made a post-it note drawing each night to record a memory from the ending day.\n"
-reviews_byline = "writers/clare-johnson.md"
-notes_byline = "writers/clare-johnson.md"
+reviews_byline = ["writers/clare-johnson.md"]
+notes_byline = ["writers/clare-johnson.md"]
 books_translator = ""
 +++
 

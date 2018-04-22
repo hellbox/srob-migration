@@ -22,8 +22,8 @@ email = "atyabji@novafolios.com"
 twitter = ""
 website = ""
 bio = "Azura Tyabji is a senior at Nova High School and poet through Youth Speaks Seattle. She writes to heal and to command attention to racial and gender injustice, invoking a future without it."
-reviews_byline = "writers/azura-tyabji.md"
-notes_byline = "writers/azura-tyabji.md"
+reviews_byline = ["writers/azura-tyabji.md"]
+notes_byline = ["writers/azura-tyabji.md"]
 books_translator = ""
 +++
 

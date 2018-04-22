@@ -22,8 +22,8 @@ email = "amaranthb@gmail.com"
 twitter = "amaranthborsuk"
 website = "http://www.amaranthborsuk.com"
 bio = "Amaranth Borsuk's most recent book is As We Know, a collaboration with Andy Fitch. Previous books include Handiwork and Between Page and Screen (created with Brad Bouse). She teaches in the School of Interdisciplinary Arts and Sciences and the MFA in Creative Writing & Poetics at the University of Washington, Bothell.\n"
-reviews_byline = "writers/amaranth-borsuk.md"
-notes_byline = "writers/amaranth-borsuk.md"
+reviews_byline = ["writers/amaranth-borsuk.md"]
+notes_byline = ["writers/amaranth-borsuk.md"]
 books_translator = ""
 +++
 

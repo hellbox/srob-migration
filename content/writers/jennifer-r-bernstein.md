@@ -22,8 +22,8 @@ email = "jennifer.r.bernstein@gmail.com"
 twitter = "jennifermoonka"
 website = "http://thenewinquiry.com/"
 bio = "Jennifer is a Seattle-based writer and co-founder of [*The New Inquiry*](http://thenewinquiry.com/). \n"
-reviews_byline = "writers/jennifer-r-bernstein.md"
-notes_byline = "writers/jennifer-r-bernstein.md"
+reviews_byline = ["writers/jennifer-r-bernstein.md"]
+notes_byline = ["writers/jennifer-r-bernstein.md"]
 books_translator = ""
 +++
 

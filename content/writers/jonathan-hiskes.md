@@ -22,8 +22,8 @@ email = "jhiskes@gmail.com"
 twitter = "jhiskes"
 website = "http://www.jonathanhiskes.com"
 bio = "Jonathan Hiskes is a writer in Seattle and communications director at the University of Washington Simpson Center for the Humanities. [Jonathanhiskes.com](http://www.jonathanhiskes.com)"
-reviews_byline = "writers/jonathan-hiskes.md"
-notes_byline = "writers/jonathan-hiskes.md"
+reviews_byline = ["writers/jonathan-hiskes.md"]
+notes_byline = ["writers/jonathan-hiskes.md"]
 books_translator = ""
 +++
 

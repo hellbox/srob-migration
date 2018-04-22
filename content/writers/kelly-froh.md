@@ -22,8 +22,8 @@ email = "frohkelly@gmail.com"
 twitter = "kellyfroh"
 website = "http://www.cargocollective.com/kefroh"
 bio = "Comic artist, Executive Director of Short Run Seattle, teaching artist "
-reviews_byline = "writers/kelly-froh.md"
-notes_byline = "writers/kelly-froh.md"
+reviews_byline = ["writers/kelly-froh.md"]
+notes_byline = ["writers/kelly-froh.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "the.brass.archer@gmail.com"
 twitter = ""
 website = "http://brassarcher.wordpress.com/"
 bio = "Sarra Scherb is an arts writer, freelance journalist, gallerist, and nerd-about-town in Seattle. She has written for museums, galleries, artists, and publications around Washington and at any given moment can be found wearing too much eyeshadow. Visit her website at [brassarcher.wordpress.com](http://brassarcher.wordpress.com/)."
-reviews_byline = "writers/sarra-scherb.md"
-notes_byline = "writers/sarra-scherb.md"
+reviews_byline = ["writers/sarra-scherb.md"]
+notes_byline = ["writers/sarra-scherb.md"]
 books_translator = ""
 +++
 

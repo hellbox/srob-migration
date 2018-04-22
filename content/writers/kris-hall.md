@@ -22,8 +22,8 @@ email = "k.m.hall.seattle@gmail.com"
 twitter = ""
 website = ""
 bio = "Kris Hall is the event coordinator for Ogopogo. Author of the chapbooks Dillinger on the Beach (Horse Less Press) and Notes for Xenos Vesparum (Shotgun Wedding). His work has been featured or is set to appear in DREGINALD, Fog Machine, Reality Beach, Vanilla Sex Magazine, and SHARKPACK annual. He is from Seattle, WA."
-reviews_byline = "writers/kris-hall.md"
-notes_byline = "writers/kris-hall.md"
+reviews_byline = ["writers/kris-hall.md"]
+notes_byline = ["writers/kris-hall.md"]
 books_translator = ""
 +++
 

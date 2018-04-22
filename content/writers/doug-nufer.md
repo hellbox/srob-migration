@@ -22,8 +22,8 @@ email = "doug.nufer@gmail.com"
 twitter = ""
 website = ""
 bio = "Doug Nufer is the author of at least seven novels and three books of poetry. He runs a wine shop in Seattle."
-reviews_byline = "writers/doug-nufer.md"
-notes_byline = "writers/doug-nufer.md"
+reviews_byline = ["writers/doug-nufer.md"]
+notes_byline = ["writers/doug-nufer.md"]
 books_translator = ""
 +++
 

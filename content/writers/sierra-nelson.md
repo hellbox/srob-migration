@@ -22,8 +22,8 @@ email = "songsforsquid@gmail.com"
 twitter = "songsforsquid"
 website = "http://songsforsquid.tumblr.com"
 bio = "Sierra Nelson is a poet, performer, installation artist, and teacher. Her books include *I Take Back the Sponge Cake: A Lyrical Choose-Your-Own-Adventure* and *In Case of Loss*. She is also co-founder of collaborative groups The Typing Explosion and Vis-\u00e0-Vis Society, and creator of the Cephalopod Appreciation Society.\n"
-reviews_byline = "writers/sierra-nelson.md"
-notes_byline = "writers/sierra-nelson.md"
+reviews_byline = ["writers/sierra-nelson.md"]
+notes_byline = ["writers/sierra-nelson.md"]
 books_translator = ""
 +++
 

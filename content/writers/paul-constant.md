@@ -22,8 +22,8 @@ email = "paul@seattlereviewofbooks.com"
 twitter = "paulconstant"
 website = "http://seattlereviewofbooks.com"
 bio = "Paul is a co-founder of *The Seattle Review of Books*. He has written for *The Progressive*, *Newsweek*, Re/Code, the *Utne Reader*, the *LA Times*, the New York *Observer*, and many North American alternative weeklies. Paul has worked in the book business for two decades, starting as a bookseller (originally at [Borders Books and Music](https://medium.com/@paulconstant/books-without-borders-b8ccb08b5b8a), then at Boston's grand old Brattle Bookshop and Seattle's own Elliott Bay Book Company) and then becoming a literary critic. Formerly the books editor for the *Stranger*, Paul is now a fellow at [Civic Ventures](http://civic-ventures.com/), a public policy incubator based out of Seattle."
-reviews_byline = "writers/paul-constant.md"
-notes_byline = "writers/paul-constant.md"
+reviews_byline = ["writers/paul-constant.md"]
+notes_byline = ["writers/paul-constant.md"]
 books_translator = ""
 +++
 

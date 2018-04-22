@@ -22,8 +22,8 @@ email = "wordmercury@gmail.com"
 twitter = "evanjpeterson"
 website = "http://evanjpeterson.com"
 bio = "Evan J. Peterson's work is featured in Weird Tales, BoingBoing, The Stranger, Queers Destroy Horror, and many poetry publications. His first nonfiction book, The PrEP Diaries, is forthcoming in 2017 from Lethe Press."
-reviews_byline = "writers/evan-j-peterson.md"
-notes_byline = "writers/evan-j-peterson.md"
+reviews_byline = ["writers/evan-j-peterson.md"]
+notes_byline = ["writers/evan-j-peterson.md"]
 books_translator = ""
 +++
 

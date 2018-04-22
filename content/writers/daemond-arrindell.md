@@ -22,8 +22,8 @@ email = "daemondarrindell@gmail.com"
 twitter = "d_arrindell"
 website = ""
 bio = "Daemond Arrindell is a poet, playwright, performer, and teaching artist. He is a 2014 Jack Straw Writer, a VONA Voices Writers\u2019 Workshop fellow and his work has been published by City Arts, Poetry NW, Specter and Crosscut magazines.\n"
-reviews_byline = "writers/daemond-arrindell.md"
-notes_byline = "writers/daemond-arrindell.md"
+reviews_byline = ["writers/daemond-arrindell.md"]
+notes_byline = ["writers/daemond-arrindell.md"]
 books_translator = ""
 +++
 

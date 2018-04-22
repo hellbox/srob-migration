@@ -22,8 +22,8 @@ email = "ivan@ivantohelpyou.com"
 twitter = "ivantohelpyou"
 website = "http://ivantohelpyou.com"
 bio = "Ivan writes shelf talkers for Mercer Street Books. You can also find him at [www.ivantohelpyou.com](http://www.ivantohelpyou.com/)."
-reviews_byline = "writers/ivan-schneider.md"
-notes_byline = "writers/ivan-schneider.md"
+reviews_byline = ["writers/ivan-schneider.md"]
+notes_byline = ["writers/ivan-schneider.md"]
 books_translator = ""
 +++
 

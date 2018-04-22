@@ -22,8 +22,8 @@ email = "dmccarra@me.com"
 twitter = "despra"
 website = ""
 bio = "Associate editor at the Seattle Review of Books."
-reviews_byline = "writers/dawn-mccarra-bass.md"
-notes_byline = "writers/dawn-mccarra-bass.md"
+reviews_byline = ["writers/dawn-mccarra-bass.md"]
+notes_byline = ["writers/dawn-mccarra-bass.md"]
 books_translator = ""
 +++
 

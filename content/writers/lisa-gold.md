@@ -22,8 +22,8 @@ email = "lisa@lisagold.com"
 twitter = "bylisagold"
 website = "http://www.lisagold.com"
 bio = "Lisa Gold is a freelance researcher, fact-checker, writer, and rare book expert. She lives in Seattle with her husband, novelist Matt Ruff. "
-reviews_byline = "writers/lisa-gold.md"
-notes_byline = "writers/lisa-gold.md"
+reviews_byline = ["writers/lisa-gold.md"]
+notes_byline = ["writers/lisa-gold.md"]
 books_translator = ""
 +++
 

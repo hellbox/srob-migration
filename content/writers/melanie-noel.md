@@ -22,8 +22,8 @@ email = "melanienoel@gmail.com"
 twitter = ""
 website = "http://www.lovepossum.com"
 bio = "Melanie Noel is the author of The Monarchs (Stockport Flats, 2013). Her poems have also appeared in THERMOS, Weekday, La Norda Especialo, Poetry Northwest, and THE ARCADIA PROJECT."
-reviews_byline = "writers/melanie-noel.md"
-notes_byline = "writers/melanie-noel.md"
+reviews_byline = ["writers/melanie-noel.md"]
+notes_byline = ["writers/melanie-noel.md"]
 books_translator = ""
 +++
 

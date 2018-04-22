@@ -22,8 +22,8 @@ email = "glenn@glennf.com"
 twitter = "glennf"
 website = "http://glog.glennf.com/"
 bio = "Glenn is a veteran technology and science reporter, who has contributed over the last two decades to the Economist, the New York Times, Wired, Fast Company, Macworld, and many other publications. He\u2019s live in Seattle since the mid-90s, and remembers when it still felt like a big small town."
-reviews_byline = "writers/glenn-fleishman.md"
-notes_byline = "writers/glenn-fleishman.md"
+reviews_byline = ["writers/glenn-fleishman.md"]
+notes_byline = ["writers/glenn-fleishman.md"]
 books_translator = ""
 +++
 

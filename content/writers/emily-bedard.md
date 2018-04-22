@@ -22,8 +22,8 @@ email = "emilybedard@gmail.com"
 twitter = ""
 website = ""
 bio = "Emily Bedard writes and teaches in Seattle. She is at work on a series of tiny mutant essays and a collection of poetry about stuntmen, memory's tricks, and the sand traps of sex ed."
-reviews_byline = "writers/emily-bedard.md"
-notes_byline = "writers/emily-bedard.md"
+reviews_byline = ["writers/emily-bedard.md"]
+notes_byline = ["writers/emily-bedard.md"]
 books_translator = ""
 +++
 

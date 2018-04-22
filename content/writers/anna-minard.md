@@ -22,8 +22,8 @@ email = "annamina@gmail.com"
 twitter = "minardanna"
 website = ""
 bio = "Anna is a mammal, writer, copy editor, former City Hall reporter for *The Stranger* and author of the music column Never Heard of 'Em. She's done digital organizing and communications work for progressive workers' rights and reproductive rights organizations, and spent six years as a bookseller in Seattle.\n"
-reviews_byline = "writers/anna-minard.md"
-notes_byline = "writers/anna-minard.md"
+reviews_byline = ["writers/anna-minard.md"]
+notes_byline = ["writers/anna-minard.md"]
 books_translator = ""
 +++
 

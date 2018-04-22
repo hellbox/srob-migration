@@ -22,8 +22,8 @@ email = "gaelfc@gmail.com"
 twitter = "gaelfc"
 website = "http://amzn.to/1O7TH7W"
 bio = "Gael Fashingbauer Cooper is the co-author of [_Whatever Happened to Pudding Pops? The Lost Toys, Tastes and Trends of the '70s and '80s_](http://amzn.to/1S9gDD1) and of [_The Totally Sweet '90s._](http://amzn.to/1O7U4zi) She is the former books editor for NBC News Digital and Msnbc.com."
-reviews_byline = "writers/gael-fashingbauer-cooper.md"
-notes_byline = "writers/gael-fashingbauer-cooper.md"
+reviews_byline = ["writers/gael-fashingbauer-cooper.md"]
+notes_byline = ["writers/gael-fashingbauer-cooper.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "Laurel.Holliday@gmail.com"
 twitter = "LaurelHolliday"
 website = ""
 bio = "Laurel has served as a psychotherapist and college instructor in Seattle, and she's the author of eight books. "
-reviews_byline = "writers/laurel-holliday.md"
-notes_byline = "writers/laurel-holliday.md"
+reviews_byline = ["writers/laurel-holliday.md"]
+notes_byline = ["writers/laurel-holliday.md"]
 books_translator = ""
 +++
 

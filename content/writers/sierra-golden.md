@@ -22,8 +22,8 @@ email = "sierrahgolden@gmail.com"
 twitter = ""
 website = "http://www.sierrahgolden.com"
 bio = "Sierra Golden received her MFA in poetry from North Carolina State University. Although she calls Washington State home, she has spent many summers in Alaska, working as a commercial fisherman. "
-reviews_byline = "writers/sierra-golden.md"
-notes_byline = "writers/sierra-golden.md"
+reviews_byline = ["writers/sierra-golden.md"]
+notes_byline = ["writers/sierra-golden.md"]
 books_translator = ""
 +++
 

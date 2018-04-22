@@ -22,8 +22,8 @@ email = "kkshields@gmail.com"
 twitter = "SharmaShields"
 website = "http://sharmashields.com/"
 bio = "Author of *Favorite Monster: Stories* and *The Sasquatch Hunter's Almanac*.\n"
-reviews_byline = "writers/sharma-shields.md"
-notes_byline = "writers/sharma-shields.md"
+reviews_byline = ["writers/sharma-shields.md"]
+notes_byline = ["writers/sharma-shields.md"]
 books_translator = ""
 +++
 

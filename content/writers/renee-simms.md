@@ -22,8 +22,8 @@ email = "ReneeElizabethSimms@gmail.com"
 twitter = ""
 website = ""
 bio = "Originally from Detroit, Renee Simms is an assistant professor of African American studies and a contributing faculty member to English at University of Puget Sound. Her published work appears or is forthcoming in Callaloo, Southwest Review, North American Review, The Rumpus, Salon, and elsewhere. "
-reviews_byline = "writers/renee-simms.md"
-notes_byline = "writers/renee-simms.md"
+reviews_byline = ["writers/renee-simms.md"]
+notes_byline = ["writers/renee-simms.md"]
 books_translator = ""
 +++
 

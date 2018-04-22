@@ -22,8 +22,8 @@ email = "jcook@seattleweekly.com"
 twitter = "KOCooked "
 website = "http://m.pghcitypaper.com/pittsburgh/ArticleArchives?author=1730882"
 bio = "Peddles pages for _Seattle Weekly_.  Clandestine Cuddler of Community Cats."
-reviews_byline = "writers/julia-cook.md"
-notes_byline = "writers/julia-cook.md"
+reviews_byline = ["writers/julia-cook.md"]
+notes_byline = ["writers/julia-cook.md"]
 books_translator = ""
 +++
 

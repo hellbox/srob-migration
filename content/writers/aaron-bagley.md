@@ -22,8 +22,8 @@ email = "russiansteamroller@gmail.com"
 twitter = "aaronbaglady"
 website = "http://aaronbagley.com"
 bio = "Aaron Bagley is an illustrator and comics maker from Seattle, Washington. He recently illustrated Rocking Fatherhood (De Capo 2016) and is collaborating with his wife, Jessixa Bagley, on Vincent Comes Home his first picture book for Roaring Brook Press due out 2018."
-reviews_byline = "writers/aaron-bagley.md"
-notes_byline = "writers/aaron-bagley.md"
+reviews_byline = ["writers/aaron-bagley.md"]
+notes_byline = ["writers/aaron-bagley.md"]
 books_translator = ""
 +++
 

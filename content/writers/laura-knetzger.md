@@ -22,8 +22,8 @@ email = "lauraknetz@gmail.com"
 twitter = "lauraknetzger"
 website = "http://lauraknetzger.com"
 bio = "Laura Knetzger is an artist from Kirkland. She makes comics about feelings."
-reviews_byline = "writers/laura-knetzger.md"
-notes_byline = "writers/laura-knetzger.md"
+reviews_byline = ["writers/laura-knetzger.md"]
+notes_byline = ["writers/laura-knetzger.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "bonnie@bonniejrough.com"
 twitter = "BonnieJRough"
 website = "http://www.bonniejrough.com"
 bio = "Bonnie J. Rough is the author of _The Girls, Alone: Six Days in Estonia_, selected by Amazon as one of the Best Kindle Singles of 2015, and the memoir _Carrier: Untangling the Danger in My DNA_ (Counterpoint), winner of a 2011 Minnesota Book Award. She lives in Seattle."
-reviews_byline = "writers/bonnie-j-rough.md"
-notes_byline = "writers/bonnie-j-rough.md"
+reviews_byline = ["writers/bonnie-j-rough.md"]
+notes_byline = ["writers/bonnie-j-rough.md"]
 books_translator = ""
 +++
 

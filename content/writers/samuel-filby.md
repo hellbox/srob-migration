@@ -22,8 +22,8 @@ email = "filby.sam@gmail.com"
 twitter = ""
 website = ""
 bio = "Graduate student in philosophy and religion at the University of Oxford."
-reviews_byline = "writers/samuel-filby.md"
-notes_byline = "writers/samuel-filby.md"
+reviews_byline = ["writers/samuel-filby.md"]
+notes_byline = ["writers/samuel-filby.md"]
 books_translator = ""
 +++
 

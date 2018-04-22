@@ -22,8 +22,8 @@ email = "colleen@chasingray.com"
 twitter = "chasingray"
 website = "http://www.chasingray.com"
 bio = "Colleen Mondor is the author of *The Map of My Dead Pilots: The Dangerous Game of Flying in Alaska*. She lives in the Pacific Northwest and Alaska."
-reviews_byline = "writers/colleen-mondor.md"
-notes_byline = "writers/colleen-mondor.md"
+reviews_byline = ["writers/colleen-mondor.md"]
+notes_byline = ["writers/colleen-mondor.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "jandrolson12@comcast.net"
 twitter = ""
 website = ""
 bio = "John Olson's most recent collection of prose poetry is Larynx Galaxy. His novel In Advance of the Broken Justy came out last May from Quale Press. \n"
-reviews_byline = "writers/john-olson.md"
-notes_byline = "writers/john-olson.md"
+reviews_byline = ["writers/john-olson.md"]
+notes_byline = ["writers/john-olson.md"]
 books_translator = ""
 +++
 

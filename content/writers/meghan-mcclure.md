@@ -22,8 +22,8 @@ email = "meghantabitha@gmail.com"
 twitter = "meghantmcclure"
 website = "http://meghantmcclure.com"
 bio = "Meghan McClure is a Washington based writer and her collaborative book, A Single Throat Opens, is forthcoming from Black Lawrence Press in 2017."
-reviews_byline = "writers/meghan-mcclure.md"
-notes_byline = "writers/meghan-mcclure.md"
+reviews_byline = ["writers/meghan-mcclure.md"]
+notes_byline = ["writers/meghan-mcclure.md"]
 books_translator = ""
 +++
 

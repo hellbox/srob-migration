@@ -22,8 +22,8 @@ email = "anne@annemcduffie.com"
 twitter = "anne_mcduffie"
 website = "http://annemcduffie.com/"
 bio = "Anne McDuffie writes poetry, essays and book reviews. Recent work has appeared in *Signs of Life 2015* and *Colorado Review*.\n"
-reviews_byline = "writers/anne-mcduffie.md"
-notes_byline = "writers/anne-mcduffie.md"
+reviews_byline = ["writers/anne-mcduffie.md"]
+notes_byline = ["writers/anne-mcduffie.md"]
 books_translator = ""
 +++
 

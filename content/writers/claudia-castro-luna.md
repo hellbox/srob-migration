@@ -22,8 +22,8 @@ email = "claudia@civicpoet.org"
 twitter = "ClaudiaC_L"
 website = "http://cipotabajolaluna.blogspot.com"
 bio = "Claudia Castro Luna is Seattle's Civic Poet. Aside from words and nighttime ferries gliding over the Sound, she loves long walks and excellent rum. "
-reviews_byline = "writers/claudia-castro-luna.md"
-notes_byline = "writers/claudia-castro-luna.md"
+reviews_byline = ["writers/claudia-castro-luna.md"]
+notes_byline = ["writers/claudia-castro-luna.md"]
 books_translator = ""
 +++
 

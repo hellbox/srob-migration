@@ -22,8 +22,8 @@ email = "matson.andrew@gmail.com"
 twitter = "andrewmatson"
 website = "http://instagram.com/andrewmatson"
 bio = "Andrew Matson freelances around town as well as for NPR and Rolling Stone. Follow him @andrewmatson where he posts photos of his dog and talks endlessly about his monthly BAD RAP music event and its thrilling new comedy spinoff, BAD JOKES. "
-reviews_byline = "writers/andrew-matson.md"
-notes_byline = "writers/andrew-matson.md"
+reviews_byline = ["writers/andrew-matson.md"]
+notes_byline = ["writers/andrew-matson.md"]
 books_translator = ""
 +++
 

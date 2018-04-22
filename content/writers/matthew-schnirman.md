@@ -22,8 +22,8 @@ email = "matthew.levi.s@gmail.com"
 twitter = "lionvitamin"
 website = "http://lionvitamin.com"
 bio = "Matthew Schnirman received his MFA from the University of Arizona. His poetry appears in PHANTOM, CutBank, Whiskey Island, Poetry Northwest, and elsewhere. He has received fellowships from Vermont Studio Center, Jack Straw, and the Richard Hugo House. He lives in Seattle."
-reviews_byline = "writers/matthew-schnirman.md"
-notes_byline = "writers/matthew-schnirman.md"
+reviews_byline = ["writers/matthew-schnirman.md"]
+notes_byline = ["writers/matthew-schnirman.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "michellepenaloza@gmail.com"
 twitter = "pennyzola"
 website = "http://www.michellepenaloza.com"
 bio = "Michelle Pe\u00f1aloza is the author of two chapbooks: *landscape/heartbreak* (Two Sylvias Press) and *Last Night I Dreamt of Volcanoes* (Organic Weapon Arts). Her poetry can be found in *Asian American Literary Review*, *New England Review*, *TriQuarterly*, *The Collagist* and among many others. "
-reviews_byline = "writers/michelle-peñaloza.md"
-notes_byline = "writers/michelle-peñaloza.md"
+reviews_byline = ["writers/michelle-peñaloza.md"]
+notes_byline = ["writers/michelle-peñaloza.md"]
 books_translator = ""
 +++
 

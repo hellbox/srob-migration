@@ -22,8 +22,8 @@ email = "smang@mac.com"
 twitter = "SarahEMangold"
 website = "http://sarahmangold.com"
 bio = "Sarah Mangold is the author of Electrical Theories of Femininity (Black Radish Books) and Household Mechanics (New Issues Poetry & Prose). She is the recipient of a 2013 NEA Poetry Fellowship."
-reviews_byline = "writers/sarah-mangold.md"
-notes_byline = "writers/sarah-mangold.md"
+reviews_byline = ["writers/sarah-mangold.md"]
+notes_byline = ["writers/sarah-mangold.md"]
 books_translator = ""
 +++
 

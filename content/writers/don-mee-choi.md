@@ -22,8 +22,8 @@ email = "dmchoi@w-link.net"
 twitter = "DonMeeChoi"
 website = ""
 bio = "Don Mee Choi is a poet living in Seattle. "
-reviews_byline = "writers/don-mee-choi.md"
-notes_byline = "writers/don-mee-choi.md"
+reviews_byline = ["writers/don-mee-choi.md"]
+notes_byline = ["writers/don-mee-choi.md"]
 books_translator = ""
 +++
 

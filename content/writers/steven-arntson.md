@@ -22,8 +22,8 @@ email = "steven@stevenarntson.com"
 twitter = "stevenarntson"
 website = "http://www.stevenarntson.com"
 bio = "Steven is a writer and musician in Seattle."
-reviews_byline = "writers/steven-arntson.md"
-notes_byline = "writers/steven-arntson.md"
+reviews_byline = ["writers/steven-arntson.md"]
+notes_byline = ["writers/steven-arntson.md"]
 books_translator = ""
 +++
 

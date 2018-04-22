@@ -22,8 +22,8 @@ email = "ashley.booth17@gmail.com"
 twitter = "Raignn"
 website = ""
 bio = "Ashley Booth was born in the Midwest and has lived on both coasts. She currently lives in Seattle working as a Director of Organic Search at Catalyst. When not at work, you can probably find her drinking whiskey."
-reviews_byline = "writers/ashley-e-booth.md"
-notes_byline = "writers/ashley-e-booth.md"
+reviews_byline = ["writers/ashley-e-booth.md"]
+notes_byline = ["writers/ashley-e-booth.md"]
 books_translator = ""
 +++
 

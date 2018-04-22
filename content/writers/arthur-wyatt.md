@@ -22,8 +22,8 @@ email = "Arthur_Wyatt@hotmail.com"
 twitter = "arthurwyatt"
 website = ""
 bio = "British comics writer living in the Northwest. \n"
-reviews_byline = "writers/arthur-wyatt.md"
-notes_byline = "writers/arthur-wyatt.md"
+reviews_byline = ["writers/arthur-wyatt.md"]
+notes_byline = ["writers/arthur-wyatt.md"]
 books_translator = ""
 +++
 

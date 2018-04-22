@@ -22,8 +22,8 @@ email = "kate.brussels@yahoo.com"
 twitter = "KateRLTB"
 website = "http://katemacdonald.net"
 bio = "Kate is a Visiting Fellow at the University of Reading, UK, and has been researching, teaching, podcasting and writing about popular culture for years. "
-reviews_byline = "writers/kate-macdonald.md"
-notes_byline = "writers/kate-macdonald.md"
+reviews_byline = ["writers/kate-macdonald.md"]
+notes_byline = ["writers/kate-macdonald.md"]
 books_translator = ""
 +++
 

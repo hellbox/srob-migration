@@ -22,8 +22,8 @@ email = "lenakt@hotmail.com"
 twitter = "LKTuffaha"
 website = "http://www.lenakhalaftuffaha.com"
 bio = "Lena Khalaf Tuffaha is a poet, translator, essayist, and a firm believer in the healing powers of good cup of coffee. She is an MFA candidate at Rainier Writing Workshop. Her first book, _Water & Salt_, is forthcoming from Red Hen Press in April, 2017."
-reviews_byline = "writers/lena-khalaf-tuffaha.md"
-notes_byline = "writers/lena-khalaf-tuffaha.md"
+reviews_byline = ["writers/lena-khalaf-tuffaha.md"]
+notes_byline = ["writers/lena-khalaf-tuffaha.md"]
 books_translator = ""
 +++
 

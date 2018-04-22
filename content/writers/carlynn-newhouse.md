@@ -22,8 +22,8 @@ email = "Poetryprincess1@gmail.com"
 twitter = "youthspeaks206"
 website = ""
 bio = "Carlynn Newhouse is an African American poet, activist, and performer. She was the 2015 Youth Speaks Seattle Grand Slam Champion and has represented Seattle on the YSS slam team at Brave New Voices the past two years. Carlynn uses poetry an an emotional outlet, a healing agent, and a tool for social change. "
-reviews_byline = "writers/carlynn-newhouse.md"
-notes_byline = "writers/carlynn-newhouse.md"
+reviews_byline = ["writers/carlynn-newhouse.md"]
+notes_byline = ["writers/carlynn-newhouse.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "angelaejkoh@gmail.com"
 twitter = "thisisEJKoh"
 website = "http://thisisejkoh.com"
 bio = "Poet and translator appeared in TriQuarterly, Columbia Review, Pleiades, Southeast Review. Fellowships received from Kundiman, MacDowell Colony, Vermont Studio Center. MFA, Columbia University. Currently teaches at the Richard Hugo House in Seattle."
-reviews_byline = "writers/ej-koh.md"
-notes_byline = "writers/ej-koh.md"
+reviews_byline = ["writers/ej-koh.md"]
+notes_byline = ["writers/ej-koh.md"]
 books_translator = ""
 +++
 

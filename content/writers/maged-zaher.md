@@ -22,8 +22,8 @@ email = "esodergran2@gmail.com"
 twitter = ""
 website = ""
 bio = "Born in Cairo, lives in Seattle, six books out."
-reviews_byline = "writers/maged-zaher.md"
-notes_byline = "writers/maged-zaher.md"
+reviews_byline = ["writers/maged-zaher.md"]
+notes_byline = ["writers/maged-zaher.md"]
 books_translator = ""
 +++
 

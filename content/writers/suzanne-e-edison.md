@@ -22,8 +22,8 @@ email = "seedison@seanet.com"
 twitter = ""
 website = "http://www.seedison.com"
 bio = "Suzanne Edison is a poet, educator and former therapist. Her chapbook, The Moth Eaten World, from Finishing Line Press, was published in June 2014. Other work appears in the following journals and anthologies: Ekphrasitc Review, July 2016; Ars Medica; Spillway; EDGE; and The Healing Art of Writing. \n"
-reviews_byline = "writers/suzanne-e-edison.md"
-notes_byline = "writers/suzanne-e-edison.md"
+reviews_byline = ["writers/suzanne-e-edison.md"]
+notes_byline = ["writers/suzanne-e-edison.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "graisaac@gmail.com"
 twitter = "graisaac"
 website = "http://www.somewhereincolorado.blogspot.com"
 bio = "Graham Isaac is a writer, illustrator, and performer out of Seattle, Wa, and author of \"Filthy Jerry's Guide to Parking Lots\" and \"The Third Best of All Possible Outcomes,\" on Babel/Salvage and Alice Blue, respectively."
-reviews_byline = "writers/graham-isaac.md"
-notes_byline = "writers/graham-isaac.md"
+reviews_byline = ["writers/graham-isaac.md"]
+notes_byline = ["writers/graham-isaac.md"]
 books_translator = ""
 +++
 

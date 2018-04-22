@@ -22,8 +22,8 @@ email = "susanrich007@gmail.com"
 twitter = "@susanrichpoet"
 website = "http://poet.susanrich.net/"
 bio = "Susan Rich is the author of four collections of poems including *Cloud Pharmacy* and *The Alchemist\u2019s Kitchen*, a Finalist for the Washington State Book Award. She co-curates the WordsWest Literary Series in West Seattle and teaches writing and film at Highline College."
-reviews_byline = "writers/susan-rich.md"
-notes_byline = "writers/susan-rich.md"
+reviews_byline = ["writers/susan-rich.md"]
+notes_byline = ["writers/susan-rich.md"]
 books_translator = ""
 +++
 

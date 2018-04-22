@@ -22,8 +22,8 @@ email = "jessleimooney@gmail.com"
 twitter = "jessleimoon"
 website = ""
 bio = "Seattle-based prose writer and global health civil servant\n"
-reviews_byline = "writers/jessica-mooney.md"
-notes_byline = "writers/jessica-mooney.md"
+reviews_byline = ["writers/jessica-mooney.md"]
+notes_byline = ["writers/jessica-mooney.md"]
 books_translator = ""
 +++
 

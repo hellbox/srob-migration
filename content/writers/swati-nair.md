@@ -22,8 +22,8 @@ email = "swati.nair@gmail.com"
 twitter = ""
 website = "http://travellingbirdy.com"
 bio = "I am a wanderer and a wonderer. I love to travel and explore, not just literally but also through books, movies, and photography. "
-reviews_byline = "writers/swati-nair.md"
-notes_byline = "writers/swati-nair.md"
+reviews_byline = ["writers/swati-nair.md"]
+notes_byline = ["writers/swati-nair.md"]
 books_translator = ""
 +++
 

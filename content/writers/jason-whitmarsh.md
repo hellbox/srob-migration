@@ -22,8 +22,8 @@ email = "jwhitmarsh@gmail.com"
 twitter = ""
 website = "http://jasonwhitmarsh.com"
 bio = "Jason Whitmarsh's first book, _Tomorrow's Living Room_, won the 2009 May Swenson prize. His second book, _The Histories_, is forthcoming from the Carnegie Mellon Poetry Series in early 2017."
-reviews_byline = "writers/jason-whitmarsh.md"
-notes_byline = "writers/jason-whitmarsh.md"
+reviews_byline = ["writers/jason-whitmarsh.md"]
+notes_byline = ["writers/jason-whitmarsh.md"]
 books_translator = ""
 +++
 

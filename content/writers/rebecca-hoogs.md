@@ -22,8 +22,8 @@ email = "rhoogs@gmail.com"
 twitter = "rebeccahoogs"
 website = ""
 bio = "Rebecca Hoogs is the author of Self-Storage. She is the Associate Director of Seattle Arts & Lectures."
-reviews_byline = "writers/rebecca-hoogs.md"
-notes_byline = "writers/rebecca-hoogs.md"
+reviews_byline = ["writers/rebecca-hoogs.md"]
+notes_byline = ["writers/rebecca-hoogs.md"]
 books_translator = ""
 +++
 

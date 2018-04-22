@@ -22,8 +22,8 @@ email = "sonyalea@gmail.com"
 twitter = "sonya_lea"
 website = "http://www.wonderingwhoyouare.com"
 bio = "Lea\u2019s memoir, _Wondering Who You Are_ has garnered praise in Oprah Magazine, People, and the BBC, who named it a \u201ctop ten book.\u201d Lea teaches writing at Hugo House in Seattle, and for women veterans through the Red Badge Project."
-reviews_byline = "writers/sonya-lea.md"
-notes_byline = "writers/sonya-lea.md"
+reviews_byline = ["writers/sonya-lea.md"]
+notes_byline = ["writers/sonya-lea.md"]
 books_translator = ""
 +++
 

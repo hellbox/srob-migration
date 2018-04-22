@@ -22,8 +22,8 @@ email = ""
 twitter = "ofbooksandbikes"
 website = "http://ofbooksandbikes.wordpress.com"
 bio = "Rebecca Hussey is a critic and professor at Norwalk Community College in Connecticut."
-reviews_byline = "writers/rebecca-hussey.md"
-notes_byline = "writers/rebecca-hussey.md"
+reviews_byline = ["writers/rebecca-hussey.md"]
+notes_byline = ["writers/rebecca-hussey.md"]
 books_translator = ""
 +++
 

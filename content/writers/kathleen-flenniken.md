@@ -22,8 +22,8 @@ email = "flenniken@comcast.net"
 twitter = ""
 website = ""
 bio = "Kathleen Flenniken is the author of two poetry collections, *Plume* and *Famous*."
-reviews_byline = "writers/kathleen-flenniken.md"
-notes_byline = "writers/kathleen-flenniken.md"
+reviews_byline = ["writers/kathleen-flenniken.md"]
+notes_byline = ["writers/kathleen-flenniken.md"]
 books_translator = ""
 +++
 

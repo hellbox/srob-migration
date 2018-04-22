@@ -22,8 +22,8 @@ email = "clnichols6@gmail.com"
 twitter = "clnichols6"
 website = ""
 bio = "Catherine Nichols lives in Massachusetts. "
-reviews_byline = "writers/catherine-nichols.md"
-notes_byline = "writers/catherine-nichols.md"
+reviews_byline = ["writers/catherine-nichols.md"]
+notes_byline = ["writers/catherine-nichols.md"]
 books_translator = ""
 +++
 

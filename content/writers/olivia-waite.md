@@ -22,8 +22,8 @@ email = "olivia.waite.books@gmail.com"
 twitter = "O_Waite"
 website = "http://www.oliviawaite.com"
 bio = "Olivia Waite writes romance and historical fantasy, mostly."
-reviews_byline = "writers/olivia-waite.md"
-notes_byline = "writers/olivia-waite.md"
+reviews_byline = ["writers/olivia-waite.md"]
+notes_byline = ["writers/olivia-waite.md"]
 books_translator = ""
 +++
 

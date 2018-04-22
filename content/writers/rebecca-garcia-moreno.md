@@ -22,8 +22,8 @@ email = "rebecca@seattlereviewofbooks.com"
 twitter = "The_Bexican"
 website = ""
 bio = "English major at American University, soon to be studying abroad in London. Corgi & coffee enthusiast. First intern at Seattle Review of Books. "
-reviews_byline = "writers/rebecca-garcia-moreno.md"
-notes_byline = "writers/rebecca-garcia-moreno.md"
+reviews_byline = ["writers/rebecca-garcia-moreno.md"]
+notes_byline = ["writers/rebecca-garcia-moreno.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "arlenek@mailmight.com"
 twitter = "quietlybananas"
 website = "http://arlenekim.com"
 bio = "Arlene Kim's first collection of poems _What have you done to our ears to make us hear echoes?_ (Milkweed Editions) was a recipient of the American Book Award and a finalist for the Washington State Book Award. She lives in Seattle where she edits by day and writes by night.\n"
-reviews_byline = "writers/arlene-kim.md"
-notes_byline = "writers/arlene-kim.md"
+reviews_byline = ["writers/arlene-kim.md"]
+notes_byline = ["writers/arlene-kim.md"]
 books_translator = ""
 +++
 

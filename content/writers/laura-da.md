@@ -22,8 +22,8 @@ email = "da.laura.l@gmail.com"
 twitter = ""
 website = "http://laurada.com"
 bio = "Laura Da\u2019 is the author of Tributaries and a chapbook, The Tecumseh Motel. In 2015, Da\u2019 was a Made at Hugo House and Jack Straw Fellow. Da\u2019 lives near Seattle with her husband and son. "
-reviews_byline = "writers/laura-da.md"
-notes_byline = "writers/laura-da.md"
+reviews_byline = ["writers/laura-da.md"]
+notes_byline = ["writers/laura-da.md"]
 books_translator = ""
 +++
 

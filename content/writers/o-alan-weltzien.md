@@ -22,8 +22,8 @@ email = "alanweltzien@gmail.com"
 twitter = ""
 website = ""
 bio = "Weltzien, a longtime English professor at the University of Montana Western, has published dozens of articles and nine books including three books of poetry. Weltzien still skis in winter and scrambles peaks in summer."
-reviews_byline = "writers/o-alan-weltzien.md"
-notes_byline = "writers/o-alan-weltzien.md"
+reviews_byline = ["writers/o-alan-weltzien.md"]
+notes_byline = ["writers/o-alan-weltzien.md"]
 books_translator = ""
 +++
 

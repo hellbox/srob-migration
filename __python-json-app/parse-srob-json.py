@@ -255,9 +255,9 @@ for key in j['data']:
             # for the related content lookup keys
             author_temp = ('authors %s' % json.dumps(author.encode('utf-8')).replace('"',''))
             author_temp = findstring( author_temp ).replace('authors','writers').encode('utf-8')            
-            markdown.write('books_author = "%s"\n' % author_temp )
-            markdown.write('reviews_about = "%s"\n' % author_temp )            
-            markdown.write('notes_about = "%s"\n' % author_temp )
+            markdown.write('books_author = ["%s"]\n' % author_temp )
+            markdown.write('reviews_about = ["%s"]\n' % author_temp )            
+            markdown.write('notes_about = ["%s"]\n' % author_temp )
             try:
                 index_builder = []
                 for sponsorship in j['data']['authors'][author]['sponsorships_author']:
@@ -355,8 +355,8 @@ for key in j['data']:
               markdown.write('bio = ""\n')
             writer_temp = ('writers %s' % json.dumps(writer.encode('utf-8')).replace('"',''))
             writer_temp = findstring(writer_temp).encode('utf-8')
-            markdown.write('reviews_byline = "%s"\n' % writer_temp )
-            markdown.write('notes_byline = "%s"\n' % writer_temp )
+            markdown.write('reviews_byline = ["%s"]\n' % writer_temp )
+            markdown.write('notes_byline = ["%s"]\n' % writer_temp )
             markdown.write('books_translator = ""\n')  
     
             markdown.write('+++\n\n')  
@@ -444,8 +444,7 @@ for key in j['data']:
                 try:
                     thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['books'][book]['_sort_publish_date']))
                 except KeyError:
-                    thedate = 'xxxx-xx-xx'
-           # print( j['data']['books'][book]['name'] )
+                    thedate = 'xxxx-xx-xx'           
             lc_name = sanitizestring(j['data']['books'][book]['name'])            
             markdown = open('output/books/' + lc_name + '.md','w')
             markdown.write('+++\n')         
@@ -561,8 +560,7 @@ for key in j['data']:
             try:
                 index_builder = ""
                 for relationship in j['data']['books'][book]['publisher_relationship']:
-                    relationship = findstring(relationship)
-                    print(relationship)
+                    relationship = findstring(relationship)                    
                     index_builder = index_builder + relationship.encode('utf-8')
                 markdown.write('books_publisher = %s\n' % json.dumps(index_builder))
             except KeyError:

@@ -22,8 +22,8 @@ email = "courtney@inseattle.me"
 twitter = "seattlecourtney"
 website = ""
 bio = "Courtney's favorite poem might be \"It Was Like This: You Were Happy,\" by Jane Hirshfield, and her favorite scotch might be Bunnahabhain. Sometimes she practices law and sometimes she writes poems and essays."
-reviews_byline = "writers/courtney-hudak.md"
-notes_byline = "writers/courtney-hudak.md"
+reviews_byline = ["writers/courtney-hudak.md"]
+notes_byline = ["writers/courtney-hudak.md"]
 books_translator = ""
 +++
 

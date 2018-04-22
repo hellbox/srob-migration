@@ -22,8 +22,8 @@ email = "dreese.nambe@gmail.com"
 twitter = "@debreese"
 website = "http://americanindiansinchildrensliterature.blogspot.com/"
 bio = "Tribally enrolled at Nambe Pueblo \u2014 a sovereign Native Nation \u2014 Debbie's writings on representation of Indigenous peoples are taught in English, Education, and Library Science courses in the United States and Canada. In February of 2018, the American Library Association selected her to give its prestigious 2019 Arbuthnot Lecture. Visit her at [americanindiansinchildrensliterature.blogspot.com/](https://americanindiansinchildrensliterature.blogspot.com/)."
-reviews_byline = "writers/debbie-reese.md"
-notes_byline = "writers/debbie-reese.md"
+reviews_byline = ["writers/debbie-reese.md"]
+notes_byline = ["writers/debbie-reese.md"]
 books_translator = ""
 +++
 

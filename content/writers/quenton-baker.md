@@ -22,8 +22,8 @@ email = "darkboynews@gmail.com"
 twitter = ""
 website = ""
 bio = "Quenton Baker is a poet and educator from Seattle. His current focus is the fact of blackness in American society. He is a 2015-16 Made at Hugo House fellow and a 2014 Pushcart Prize nominee. He is the author of This Glittering Republic, forthcoming from Willow Books in 2017."
-reviews_byline = "writers/quenton-baker.md"
-notes_byline = "writers/quenton-baker.md"
+reviews_byline = ["writers/quenton-baker.md"]
+notes_byline = ["writers/quenton-baker.md"]
 books_translator = ""
 +++
 

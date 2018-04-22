@@ -22,8 +22,8 @@ email = "dmiscolta@yahoo.com"
 twitter = "DonnaMiscolta"
 website = "https://donnamiscolta.com"
 bio = "Donna Miscolta is the author of the story collection _Hola and Goodbye_ (Carolina Wren Press, 2016) and the novel _When the de la Cruz Family Danced_ (Signal 8 Press, 2011). Follow her on [Facebook](https://www.facebook.com/DonnaMiscoltaWriter/) or visit her [website](https://donnamiscolta.com)."
-reviews_byline = "writers/donna-miscolta.md"
-notes_byline = "writers/donna-miscolta.md"
+reviews_byline = ["writers/donna-miscolta.md"]
+notes_byline = ["writers/donna-miscolta.md"]
 books_translator = ""
 +++
 

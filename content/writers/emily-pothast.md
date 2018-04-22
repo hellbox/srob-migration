@@ -22,8 +22,8 @@ email = ""
 twitter = "@emilypothast"
 website = "http://www.emilypothast.com"
 bio = "Emily Pothast is a visual artist, musician, writer, and lecturer. She has an MFA from the University of Washington and currently teaches a monthly art history series at Gage Academy of Art. She is a regular contributor to The Wire Magazine, Art Practical, and The Stranger. Find her at [www.emilypothast.com](http://www.emilypothast.com)."
-reviews_byline = "writers/emily-pothast.md"
-notes_byline = "writers/emily-pothast.md"
+reviews_byline = ["writers/emily-pothast.md"]
+notes_byline = ["writers/emily-pothast.md"]
 books_translator = ""
 +++
 

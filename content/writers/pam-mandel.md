@@ -22,8 +22,8 @@ email = "nerdseyeview@gmail.com"
 twitter = "nerdseyeview"
 website = "http://www.nerdseyeview.com"
 bio = "Pam Mandel is a freelance writer from West Seattle. She plays super loud ukulele and really likes cake. Read her blog at [www.nerdseyeview.com/blog](http://www.nerdseyeview.com/blog)."
-reviews_byline = "writers/pam-mandel.md"
-notes_byline = "writers/pam-mandel.md"
+reviews_byline = ["writers/pam-mandel.md"]
+notes_byline = ["writers/pam-mandel.md"]
 books_translator = ""
 +++
 

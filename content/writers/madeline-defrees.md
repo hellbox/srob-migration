@@ -22,8 +22,8 @@ email = ""
 twitter = ""
 website = "http://www.madelinedefrees.com/"
 bio = "Madeline DeFrees spent 38 years as a nun with the Catholic Congregation of Sisters of the Holy Names of Jesus and Mary. She entered the community after high school and later requested release because, in her words, \u201creligious life and poetry both demand an absolute commitment.\u201d She published two chapbooks and eight full-length poetry collections, including *Spectral Waves* and *Blue Dusk* with Copper Canyon Press. DeFrees passed away on November 11, 2015."
-reviews_byline = "writers/madeline-defrees.md"
-notes_byline = "writers/madeline-defrees.md"
+reviews_byline = ["writers/madeline-defrees.md"]
+notes_byline = ["writers/madeline-defrees.md"]
 books_translator = ""
 +++
 

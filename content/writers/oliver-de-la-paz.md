@@ -22,8 +22,8 @@ email = "odelapaz@holycross.edu"
 twitter = "oliver_delapaz"
 website = "http://oliverdelapaz.com"
 bio = "Oliver de la Paz is the author of four books of poetry. His most recent book, POST SUBJECT: A FABLE was published by the University of Akron Press. He teaches at the College of the Holy Cross and in the low residency MFA program at PLU."
-reviews_byline = "writers/oliver-de-la-paz.md"
-notes_byline = "writers/oliver-de-la-paz.md"
+reviews_byline = ["writers/oliver-de-la-paz.md"]
+notes_byline = ["writers/oliver-de-la-paz.md"]
 books_translator = ""
 +++
 

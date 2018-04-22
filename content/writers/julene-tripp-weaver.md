@@ -22,8 +22,8 @@ email = "trippweaver@gmail.com"
 twitter = "trippweavepoet"
 website = "http://www.julenetrippweaver.com"
 bio = "Julene Tripp Weaver is a psychotherapist and writer in Seattle. She is the author of three poetry books: _truth be bold\u2014Serenading Life & Death in the Age of AIDS_, (Finishing Line Press, 2017), _No Father Can Save Her_ (Plain View Press, 2011), and a chapbook, _Case Walking: An AIDS Case Manager Wails Her Blues_ (Finishing Line Press, 2007). Julene worked for 21 years in AIDS services. \n\n<a href=\"http://julenetrippweaver.com\">julenetrippweaver.com</a>"
-reviews_byline = "writers/julene-tripp-weaver.md"
-notes_byline = "writers/julene-tripp-weaver.md"
+reviews_byline = ["writers/julene-tripp-weaver.md"]
+notes_byline = ["writers/julene-tripp-weaver.md"]
 books_translator = ""
 +++
 

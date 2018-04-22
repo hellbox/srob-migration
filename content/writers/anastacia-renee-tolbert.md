@@ -22,8 +22,8 @@ email = "writenow2day@hotmail.com"
 twitter = ""
 website = ""
 bio = "Anastacia Renee Tolbert is a queer super-shero of color moonlighting as a writer, performance artist and creative writing workshop facilitator. She has received awards and fellowships from Cave Canem, Hedgebrook, VONA, Jack Straw, Ragdale and Artist Trust. She was recently selected as the 2015-16 poet-in-residence at Hugo House, a place for writers in Seattle. Her _Chapbook 26_, recently published by Dancing Girl Press, is an abbreviated alphabet expression of the lower and uppercase lives of women and girls. A Pushcart nominee (2015), her poetry, fiction & nonfiction have been published widely. Recently Tolbert has been expanding her creative repertoire into the field of visual art, and has exhibited her painting and photography surrounding the body as a polarized place of both the private and political. This year she has begun a yearlong theatrical mixed-media project in collaboration with the Project Room, 9_ Ounces: A One Woman Show_. Lately she\u2019s been obsessed with the body & the stories (true & not true) it holds."
-reviews_byline = "writers/anastacia-renee-tolbert.md"
-notes_byline = "writers/anastacia-renee-tolbert.md"
+reviews_byline = ["writers/anastacia-renee-tolbert.md"]
+notes_byline = ["writers/anastacia-renee-tolbert.md"]
 books_translator = ""
 +++
 

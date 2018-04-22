@@ -22,8 +22,8 @@ email = "apeloff@gmail.com"
 twitter = "AmyRPeloff"
 website = "https://amypeloff.wordpress.com/"
 bio = "Feminist historian/media studies scholar and voracious consumer of female detective stories, sci-fi and fantasy television series, and Hollywood gossip."
-reviews_byline = "writers/amy-r-peloff.md"
-notes_byline = "writers/amy-r-peloff.md"
+reviews_byline = ["writers/amy-r-peloff.md"]
+notes_byline = ["writers/amy-r-peloff.md"]
 books_translator = ""
 +++
 

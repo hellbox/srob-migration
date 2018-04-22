@@ -22,8 +22,8 @@ email = "nobodypasses@gmail.com"
 twitter = "mbsycamore"
 website = "http://www.mattildabernsteinsycamore.com/"
 bio = "Mattilda Bernstein Sycamore is most recently the author of [*The End of San Francisco*](http://www.mattildabernsteinsycamore.com/endofsanfrancisco.html)."
-reviews_byline = "writers/mattilda-bernstein-sycamore.md"
-notes_byline = "writers/mattilda-bernstein-sycamore.md"
+reviews_byline = ["writers/mattilda-bernstein-sycamore.md"]
+notes_byline = ["writers/mattilda-bernstein-sycamore.md"]
 books_translator = ""
 +++
 

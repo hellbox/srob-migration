@@ -22,8 +22,8 @@ email = "karybwayson@ymail.com"
 twitter = "karywayson"
 website = ""
 bio = "Born in New Hampshire and raised all over the US, Kary has lived and worked in Seattle since 1995."
-reviews_byline = "writers/kary-wayson.md"
-notes_byline = "writers/kary-wayson.md"
+reviews_byline = ["writers/kary-wayson.md"]
+notes_byline = ["writers/kary-wayson.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "imani.sims@gmail.com"
 twitter = "7eights"
 website = "http://masonjaroceans.com"
 bio = "Imani Sims is a port, performer, and educator from Seattle, WA. She believes words are a way to make room for the marginalized and is adamant about passing those skills to youth and adults. "
-reviews_byline = "writers/imani-sims.md"
-notes_byline = "writers/imani-sims.md"
+reviews_byline = ["writers/imani-sims.md"]
+notes_byline = ["writers/imani-sims.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "brothermansoul22@hotmail.com"
 twitter = "Misterlashley"
 website = "https://www.instagram.com/misterlashley/"
 bio = "A 2016 Jack Straw Fellow, Artist Trust Fellow, and nominee for a Stranger Genius Award, Robert Lashley has had poems published in such journals as Feminete, NAILED No Regrets, Drunk In a Midnight Choir, and The Cascadia Review"
-reviews_byline = "writers/robert-lashley.md"
-notes_byline = "writers/robert-lashley.md"
+reviews_byline = ["writers/robert-lashley.md"]
+notes_byline = ["writers/robert-lashley.md"]
 books_translator = ""
 +++
 

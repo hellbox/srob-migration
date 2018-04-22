@@ -22,8 +22,8 @@ email = "vanessa.willoughby@gmail.com"
 twitter = "book_nerd212"
 website = "http://www.my-strangefruit.tumblr.com/"
 bio = "Vanessa Willoughby is a writer and editor. Her bylines have appeared on Vice, Hazlitt, The Toast, Book Riot, Mask Magazine, and Bitch."
-reviews_byline = "writers/vanessa-willoughby.md"
-notes_byline = "writers/vanessa-willoughby.md"
+reviews_byline = ["writers/vanessa-willoughby.md"]
+notes_byline = ["writers/vanessa-willoughby.md"]
 books_translator = ""
 +++
 

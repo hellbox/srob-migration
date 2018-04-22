@@ -22,8 +22,8 @@ email = "tahatdh@gmail.com"
 twitter = "dujietahat"
 website = "https://medium.com/@dujietahat/"
 bio = "Dujie Tahat is a writer and political hack from Washington State. His essays on poetry and politics have been published in the *Seattle Review of Books* and *Civic Skunk Works*. Dujie is a fellow at the Jack Straw Writing Program and serves as a contributing poetry editor for Pacific Northwest literary magazine *Moss*. He\u2019s been a Seattle Poetry Slam finalist, a collegiate grand slam champion, and a Youth Speaks grand slam champion, representing Seattle at HBO\u2019s Brave New Voices. His poetry has not yet been published, but if you\u2019d like to change that, you can find him @dujietahat on all social media."
-reviews_byline = "writers/dujie-tahat.md"
-notes_byline = "writers/dujie-tahat.md"
+reviews_byline = ["writers/dujie-tahat.md"]
+notes_byline = ["writers/dujie-tahat.md"]
 books_translator = ""
 +++
 

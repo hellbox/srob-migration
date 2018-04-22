@@ -22,8 +22,8 @@ email = "fallsapart.junior.11@icloud.com"
 twitter = "Sherman_Alexie"
 website = "http://fallsapart.com/"
 bio = "Sherman Alexie will publish his picture book, *Thunder Boy, Jr.*, this May. Yuyi Morales drew the illustrations and she is awesome. He lives in Seattle with his family."
-reviews_byline = "writers/sherman-alexie.md"
-notes_byline = "writers/sherman-alexie.md"
+reviews_byline = ["writers/sherman-alexie.md"]
+notes_byline = ["writers/sherman-alexie.md"]
 books_translator = ""
 +++
 

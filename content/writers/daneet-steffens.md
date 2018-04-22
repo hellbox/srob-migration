@@ -22,8 +22,8 @@ email = "daneetsteffens@btinternet.com"
 twitter = "daneetsteffens"
 website = ""
 bio = "Daneet Steffens is happiest when writing about books and the people who write them.\n"
-reviews_byline = "writers/daneet-steffens.md"
-notes_byline = "writers/daneet-steffens.md"
+reviews_byline = ["writers/daneet-steffens.md"]
+notes_byline = ["writers/daneet-steffens.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "johnenglehardt1@gmail.com"
 twitter = ""
 website = ""
 bio = "John Englehardt is a Seattle-based fiction writer whose work can be found in The Stranger, Sycamore Review, and The James Franco Review. "
-reviews_byline = "writers/john-englehardt.md"
-notes_byline = "writers/john-englehardt.md"
+reviews_byline = ["writers/john-englehardt.md"]
+notes_byline = ["writers/john-englehardt.md"]
 books_translator = ""
 +++
 

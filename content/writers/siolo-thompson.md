@@ -22,8 +22,8 @@ email = "siolo.thompson@gmail.com"
 twitter = "TheAngryDoodler"
 website = "http://www.siolothompson.com"
 bio = "Siolo Thompson is a Seattle-based illustrator and writer. Her spirit animal is the manatee.\n"
-reviews_byline = "writers/siolo-thompson.md"
-notes_byline = "writers/siolo-thompson.md"
+reviews_byline = ["writers/siolo-thompson.md"]
+notes_byline = ["writers/siolo-thompson.md"]
 books_translator = ""
 +++
 

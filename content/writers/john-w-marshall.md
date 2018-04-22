@@ -22,8 +22,8 @@ email = "jwmarshall52@gmail.com"
 twitter = ""
 website = "http://jwmarshall.net"
 bio = "John W Marshall, writing as J.W. Marshall, has had work published in Poetry Northwest, Hubbub, and other magazines. His full-length collection, *Meaning A Cloud*, won the Field Poetry Prize and was published by Oberlin College Press. He sometimes offers classes through the Hugo House"
-reviews_byline = "writers/john-w-marshall.md"
-notes_byline = "writers/john-w-marshall.md"
+reviews_byline = ["writers/john-w-marshall.md"]
+notes_byline = ["writers/john-w-marshall.md"]
 books_translator = ""
 +++
 

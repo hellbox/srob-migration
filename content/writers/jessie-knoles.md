@@ -22,8 +22,8 @@ email = "jessieknoles@gmail.com"
 twitter = "jrkjrkjrkjrkjrk"
 website = ""
 bio = "Jessie Knoles grew up in a small farm town in central Illinois. She currently lives in Seattle and works at a garden store. Her poems can be found on Hobart, Queen Mob's Tea House, and Green Mountains Review."
-reviews_byline = "writers/jessie-knoles.md"
-notes_byline = "writers/jessie-knoles.md"
+reviews_byline = ["writers/jessie-knoles.md"]
+notes_byline = ["writers/jessie-knoles.md"]
 books_translator = ""
 +++
 

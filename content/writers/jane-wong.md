@@ -22,8 +22,8 @@ email = "janewong07@gmail.com"
 twitter = "officialjwong"
 website = "http://janewong.tumblr.com/"
 bio = "Jane Wong is the author of Overpour (Action Books, 2016). Her poems have appeared in Best American Poetry 2015, Best New Poets 2012, Pleiades, Hayden's Ferry Review, and others. She has received fellowships from Kundiman, the U.S. Fulbright Program, Bread Loaf, and the Fine Arts Work Center. She teaches at UW Bothell."
-reviews_byline = "writers/jane-wong.md"
-notes_byline = "writers/jane-wong.md"
+reviews_byline = ["writers/jane-wong.md"]
+notes_byline = ["writers/jane-wong.md"]
 books_translator = ""
 +++
 

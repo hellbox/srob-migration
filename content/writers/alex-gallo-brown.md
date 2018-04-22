@@ -22,8 +22,8 @@ email = "mrgallobrown@gmail.com"
 twitter = "AlextheGB"
 website = "http://www.alexgallobrown.com"
 bio = "Born and raised in Seattle, Alex Gallo-Brown is an essayist and poet whose work has appeared in publications that include Los Angeles Review of Books, The Brooklyn Rail, Vice's Motherboard, Tahoma Literary Review, and Pacifica Literary Review. He is a former contributing writer for City Arts magazine."
-reviews_byline = "writers/alex-gallo-brown.md"
-notes_byline = "writers/alex-gallo-brown.md"
+reviews_byline = ["writers/alex-gallo-brown.md"]
+notes_byline = ["writers/alex-gallo-brown.md"]
 books_translator = ""
 +++
 

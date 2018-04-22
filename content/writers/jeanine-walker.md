@@ -22,8 +22,8 @@ email = "jeaninemariewalker@gmail.com"
 twitter = "buddy_and_buddy"
 website = "http://www.jeaninewalker.com/"
 bio = "Jeanine Walker has poems forthcoming in Chiron Review, Hotel Amerika, and The Meadow, and other poems and reviews have found homes in Cimarron Review, Gulf Coast, Hobart, PageBoy, Pleiades, and elsewhere. A recipient of a Jack Straw Writers Fellowship, Jeanine teaches poetry to students at Alki Elementary and Leschi Elementary through Seattle Arts & Lectures\u2019 Writers in the Schools program and works as a writing coach. She co-produces and hosts [Mixed Bag](http://mixedbagshow.com/). Find her on [Twitter](http://twitter.com/buddy_and_buddy) or visit her [website](http://jeaninewalker.com/)."
-reviews_byline = "writers/jeanine-walker.md"
-notes_byline = "writers/jeanine-walker.md"
+reviews_byline = ["writers/jeanine-walker.md"]
+notes_byline = ["writers/jeanine-walker.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "mallorntree@gmail.com"
 twitter = ""
 website = ""
 bio = "Sarah teaches cultural anthropology and ethnographic writing at a university on the West Coast. "
-reviews_byline = "writers/sarah-bakker-kellogg.md"
-notes_byline = "writers/sarah-bakker-kellogg.md"
+reviews_byline = ["writers/sarah-bakker-kellogg.md"]
+notes_byline = ["writers/sarah-bakker-kellogg.md"]
 books_translator = ""
 +++
 

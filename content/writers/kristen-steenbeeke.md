@@ -22,8 +22,8 @@ email = "ksteenbeeke@gmail.com"
 twitter = "ksteenbeeke"
 website = "http://kristensteenbeeke.com"
 bio = "Kristen Steenbeeke is a poet and fiction writer living in Seattle, soon to be living in Iowa City. Her work has appeared in Pleiades, Poetry Northwest, Tin House blog, NPR's Snap Judgment, and McSweeney's Internet Tendency, among other places."
-reviews_byline = "writers/kristen-steenbeeke.md"
-notes_byline = "writers/kristen-steenbeeke.md"
+reviews_byline = ["writers/kristen-steenbeeke.md"]
+notes_byline = ["writers/kristen-steenbeeke.md"]
 books_translator = ""
 +++
 

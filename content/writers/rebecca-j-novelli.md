@@ -22,8 +22,8 @@ email = "rjnovelli@comcast.net"
 twitter = ""
 website = "http://rebeccajnovelli.com/"
 bio = "Rebecca J. Novelli is a writer and a painter. Her novel, _The Train to Orvieto_, will be released in October by Black Heron Press."
-reviews_byline = "writers/rebecca-j-novelli.md"
-notes_byline = "writers/rebecca-j-novelli.md"
+reviews_byline = ["writers/rebecca-j-novelli.md"]
+notes_byline = ["writers/rebecca-j-novelli.md"]
 books_translator = ""
 +++
 

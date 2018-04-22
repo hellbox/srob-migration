@@ -22,8 +22,8 @@ email = "tamsugah@aol.com"
 twitter = "pearlepubs"
 website = "http://www.tammyrobacker.com"
 bio = "Poet and author of Villain Songs and R. MFA RWW Grad. Greener. Keystone Chapbook Prize Winner 2015. Hedgebrook Alum: [tammyrobacker.com](tammyrobacker.com)"
-reviews_byline = "writers/tammy-robacker.md"
-notes_byline = "writers/tammy-robacker.md"
+reviews_byline = ["writers/tammy-robacker.md"]
+notes_byline = ["writers/tammy-robacker.md"]
 books_translator = ""
 +++
 

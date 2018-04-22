@@ -22,8 +22,8 @@ email = "moineau@gmail.com"
 twitter = ""
 website = "http://meredithclark.net"
 bio = "Meredith Clark is a poet and writer whose work has received Black Warrior Review's nonfiction prize, and appeared in the Dusie Kollektiv. She is currently completing \"Lyrebird\" &mdash; a book-length collection of poetic nonfiction."
-reviews_byline = "writers/meredith-clark.md"
-notes_byline = "writers/meredith-clark.md"
+reviews_byline = ["writers/meredith-clark.md"]
+notes_byline = ["writers/meredith-clark.md"]
 books_translator = ""
 +++
 

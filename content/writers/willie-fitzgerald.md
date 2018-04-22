@@ -22,8 +22,8 @@ email = "william.fitzgerald2@gmail.com"
 twitter = "williefitz"
 website = "http://www.aprilfestival.com/"
 bio = "Willie Fitzgerald is a co-founder of APRIL, Seattle's festival of independent publishing. "
-reviews_byline = "writers/willie-fitzgerald.md"
-notes_byline = "writers/willie-fitzgerald.md"
+reviews_byline = ["writers/willie-fitzgerald.md"]
+notes_byline = ["writers/willie-fitzgerald.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "ben.corey@live.com"
 twitter = ""
 website = "http://hereswhatithinkaboutthesebooks.blogspot.com/"
 bio = "Husband of Jillaine, father of Bobcat, teacher of 4th graders, grower of pumpkins, eater of ice cream. All hail Cascadia! "
-reviews_byline = "writers/benjamin-corey.md"
-notes_byline = "writers/benjamin-corey.md"
+reviews_byline = ["writers/benjamin-corey.md"]
+notes_byline = ["writers/benjamin-corey.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "natashamarin7@gmail.com"
 twitter = "mikokuro"
 website = "http://www.natasha-marin.com"
 bio = "Natasha Marin is a poet and conceptual artist. Join her Red Lineage project at [www.redlineage.com](http://www.redlineage.com). "
-reviews_byline = "writers/natasha-marin.md"
-notes_byline = "writers/natasha-marin.md"
+reviews_byline = ["writers/natasha-marin.md"]
+notes_byline = ["writers/natasha-marin.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "splabman@gmail.com"
 twitter = "splabman"
 website = "http://www.paulenelson.com"
 bio = "Poet/interviewer Paul Nelson founded SPLAB & the Cascadia Poetry Festival, published: American Sentences; A Time Before Slaughter and Organic in Cascadia: A Sequence of Energies. [PaulENelson.com](http://www.PaulENelson.com)"
-reviews_byline = "writers/paul-e-nelson.md"
-notes_byline = "writers/paul-e-nelson.md"
+reviews_byline = ["writers/paul-e-nelson.md"]
+notes_byline = ["writers/paul-e-nelson.md"]
 books_translator = ""
 +++
 

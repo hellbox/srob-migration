@@ -22,8 +22,8 @@ email = "anca.l.szilagyi@gmail.com"
 twitter = "@ancawrites"
 website = "http://www.ancawrites.com"
 bio = "Anca L. Szil\u00e1gyi is the author of the novel Daughters of the Air, forthcoming from Lanternfish Press in December 2017. Her work appears in the Los Angeles Review of Books, Electric Literature, Gastronomica, and elsewhere. She is the recipient of awards from Artist Trust and 4Culture, among others."
-reviews_byline = "writers/anca-l-szilágyi.md"
-notes_byline = "writers/anca-l-szilágyi.md"
+reviews_byline = ["writers/anca-l-szilágyi.md"]
+notes_byline = ["writers/anca-l-szilágyi.md"]
 books_translator = ""
 +++
 

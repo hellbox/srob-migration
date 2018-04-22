@@ -22,8 +22,8 @@ email = "jack.chelgren@gmail.com"
 twitter = ""
 website = ""
 bio = "Jack Chelgren is a poet and essayist living in Seattle. He's an associate editor and contributor at Poetry Northwest. His writing has appeared in a number of publications including Alien Mouth, Mare Nostrum, and Gap Tooth."
-reviews_byline = "writers/jack-chelgren.md"
-notes_byline = "writers/jack-chelgren.md"
+reviews_byline = ["writers/jack-chelgren.md"]
+notes_byline = ["writers/jack-chelgren.md"]
 books_translator = ""
 +++
 

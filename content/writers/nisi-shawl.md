@@ -22,8 +22,8 @@ email = "nisis@aol.com"
 twitter = "NisiShawl"
 website = "http://nisishawl.com/"
 bio = "Nisi Shawl writes science fiction, fantasy, and horror, and she watches birds for a different reason than her cat does."
-reviews_byline = "writers/nisi-shawl.md"
-notes_byline = "writers/nisi-shawl.md"
+reviews_byline = ["writers/nisi-shawl.md"]
+notes_byline = ["writers/nisi-shawl.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "fondalee@gmail.com"
 twitter = "FondaJLee"
 website = "http://www.fondalee.com"
 bio = "Fonda Lee is the award-winning science fiction and fantasy author of *Jade City* (Orbit), *Zeroboxer* (Flux) and *Exo* (Scholastic). Fonda is a recovering corporate strategist, black belt martial artist, and action movie aficionado living in Portland, Oregon. "
-reviews_byline = "writers/fonda-lee.md"
-notes_byline = "writers/fonda-lee.md"
+reviews_byline = ["writers/fonda-lee.md"]
+notes_byline = ["writers/fonda-lee.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "nick@cassella.com"
 twitter = "Nick_Cassella"
 website = ""
 bio = "A human that almost exclusively reads non-fiction and has a particular fondness for political theory. "
-reviews_byline = "writers/nick-cassella.md"
-notes_byline = "writers/nick-cassella.md"
+reviews_byline = ["writers/nick-cassella.md"]
+notes_byline = ["writers/nick-cassella.md"]
 books_translator = ""
 +++
 

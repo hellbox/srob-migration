@@ -22,8 +22,8 @@ email = "mairead.case@gmail.com"
 twitter = "maireadcase"
 website = "http://maireadcase.tumblr.com"
 bio = "Mairead Case is a working writer in Colorado. Her novel *See You In the Morning* is newly out from featherproof, and a poetry chapbook, *Tenderness*, is forthcoming from Meekling Press"
-reviews_byline = "writers/mairead-case.md"
-notes_byline = "writers/mairead-case.md"
+reviews_byline = ["writers/mairead-case.md"]
+notes_byline = ["writers/mairead-case.md"]
 books_translator = ""
 +++
 

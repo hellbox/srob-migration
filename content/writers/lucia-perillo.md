@@ -22,8 +22,8 @@ email = ""
 twitter = ""
 website = ""
 bio = ""
-reviews_byline = "writers/lucia-perillo.md"
-notes_byline = "writers/lucia-perillo.md"
+reviews_byline = ["writers/lucia-perillo.md"]
+notes_byline = ["writers/lucia-perillo.md"]
 books_translator = ""
 +++
 

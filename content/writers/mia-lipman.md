@@ -22,8 +22,8 @@ email = "mlipman@hotmail.com"
 twitter = "editormia"
 website = "http://www.dotdotdashes.com"
 bio = "Mia Lipman is senior editor at Yesler, a Seattle-based creative agency, and principal editor at Dots & Dashes. She cofounded *Canteen* literary magazine and hosts the reading series Lit Fix. Her writing has appeared in *Kirkus Reviews*, *Modern Farmer*, *San Francisco* magazine, and elsewhere.\n"
-reviews_byline = "writers/mia-lipman.md"
-notes_byline = "writers/mia-lipman.md"
+reviews_byline = ["writers/mia-lipman.md"]
+notes_byline = ["writers/mia-lipman.md"]
 books_translator = ""
 +++
 

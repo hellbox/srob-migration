@@ -22,8 +22,8 @@ email = "writer.sejones@gmail.com"
 twitter = "writer_sejones"
 website = "http://sarahjonespoet.com"
 bio = "Sarah Jones is a poet and content writer living in Seattle. She is a Poetry Northwest staff member. Her poems have appeared in Entropy magazine, The Normal School, New Ohio Review, American Literary Review, Yes, Poetry, and many other places."
-reviews_byline = "writers/sarah-jones.md"
-notes_byline = "writers/sarah-jones.md"
+reviews_byline = ["writers/sarah-jones.md"]
+notes_byline = ["writers/sarah-jones.md"]
 books_translator = ""
 +++
 

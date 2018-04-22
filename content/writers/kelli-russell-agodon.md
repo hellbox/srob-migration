@@ -22,8 +22,8 @@ email = "kelli@agodon.com"
 twitter = "kelliagodon"
 website = "http://www.agodon.com/"
 bio = "[Kelli Russell Agodon](http://www.agodon.com/) is a poet, writer, editor, and essayist. She\u2019s the author of six books, including *Hourglass Museum* & *The Daily Poet: Day-By-Day Prompts For Your Writing Practice*. She is the cofounder of [Two Sylvias Press](http://twosylviaspress.com) where she\u2019s an editor and book cover designer. Her work has appeared in magazines such as _The Atlantic_ and _O, The Oprah Magazine_. Follow her on [Twitter,](https://twitter.com/kelliagodon) [Facebook](https://www.facebook.com/agodon), or [visit her homepage](http://www.agodon.com)."
-reviews_byline = "writers/kelli-russell-agodon.md"
-notes_byline = "writers/kelli-russell-agodon.md"
+reviews_byline = ["writers/kelli-russell-agodon.md"]
+notes_byline = ["writers/kelli-russell-agodon.md"]
 books_translator = ""
 +++
 

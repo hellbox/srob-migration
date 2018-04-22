@@ -22,8 +22,8 @@ email = "kc@poetrynw.org"
 twitter = ""
 website = "http://www.washington.edu/uwpress/search/books/CRAVAG.html"
 bio = "Kevin Craft is the director of the Written Arts Program at Everett Community College. His first book, Solar Prominence, won the Gorsline Prize from Cloudbank Books (2005). His newest book, Vagrants & Accidentals, was recently published by UW Press (2017). A longtime editor at Poetry Northwest, he also teaches in the University of Washington's Creative Writing in Rome Program. He lives with his family in Greenwood, Seattle."
-reviews_byline = "writers/kevin-craft.md"
-notes_byline = "writers/kevin-craft.md"
+reviews_byline = ["writers/kevin-craft.md"]
+notes_byline = ["writers/kevin-craft.md"]
 books_translator = ""
 +++
 

@@ -22,8 +22,8 @@ email = "mstegosaurus@gmail.com"
 twitter = "astricannum"
 website = ""
 bio = "Morris Stegosaurus is the author of the collection Zebra Feathers on Seattle's Minor Arcana Press and lives in Bellevue with his husband, experimental artist and musician Eric Maden."
-reviews_byline = "writers/morris-stegosaurus.md"
-notes_byline = "writers/morris-stegosaurus.md"
+reviews_byline = ["writers/morris-stegosaurus.md"]
+notes_byline = ["writers/morris-stegosaurus.md"]
 books_translator = ""
 +++
 

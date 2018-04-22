@@ -22,8 +22,8 @@ email = "mschmeltzer01@gmail.com"
 twitter = "mschmeltzer01"
 website = "http://www.michaelschmeltzer.com"
 bio = "Michael Schmeltzer is the author of \u201cElegy/Elk River,\u201d winner of the 2015 Floating Bridge Press chapbook award, and \u201cBlood Song,\u201d his full-length debut out now from Two Sylvias Press."
-reviews_byline = "writers/michael-schmeltzer.md"
-notes_byline = "writers/michael-schmeltzer.md"
+reviews_byline = ["writers/michael-schmeltzer.md"]
+notes_byline = ["writers/michael-schmeltzer.md"]
 books_translator = ""
 +++
 

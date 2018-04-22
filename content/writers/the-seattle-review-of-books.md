@@ -22,8 +22,8 @@ email = "info@seattlereviewofbooks.com"
 twitter = "seattlereviewof"
 website = "http://seattlereviewofbooks.com"
 bio = ""
-reviews_byline = "writers/the-seattle-review-of-books.md"
-notes_byline = "writers/the-seattle-review-of-books.md"
+reviews_byline = ["writers/the-seattle-review-of-books.md"]
+notes_byline = ["writers/the-seattle-review-of-books.md"]
 books_translator = ""
 +++
 

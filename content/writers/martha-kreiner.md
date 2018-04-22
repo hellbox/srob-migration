@@ -22,8 +22,8 @@ email = "mjkreiner@hotmail.com"
 twitter = ""
 website = ""
 bio = "Martha Kreiner works as an RN with Healthcare for the Homeless in Seattle and was a 2015 Jack Straw Writing Fellow."
-reviews_byline = "writers/martha-kreiner.md"
-notes_byline = "writers/martha-kreiner.md"
+reviews_byline = ["writers/martha-kreiner.md"]
+notes_byline = ["writers/martha-kreiner.md"]
 books_translator = ""
 +++
 

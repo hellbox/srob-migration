@@ -22,8 +22,8 @@ email = "cate.mcgehee@gmail.com"
 twitter = "closetomyself"
 website = ""
 bio = "Cate is a writer and reader in Seattle who's living la vida washed-up comedian in LA."
-reviews_byline = "writers/cate-mcgehee.md"
-notes_byline = "writers/cate-mcgehee.md"
+reviews_byline = ["writers/cate-mcgehee.md"]
+notes_byline = ["writers/cate-mcgehee.md"]
 books_translator = ""
 +++
 

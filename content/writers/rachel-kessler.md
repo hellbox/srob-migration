@@ -22,8 +22,8 @@ email = "reallygoodgirl@hotmail.com"
 twitter = "RachelLaKessler"
 website = "http://www.rachelkessler.org"
 bio = "Rachel Kessler is cofounder of poetry performance collaborations The Typing Explosion and Vis-\u00e0-Vis Society. Her poems and essays are published in The Stranger, Narrative Magazine, Tin House, USA Today, Poetry Northwest and elsewhere. \n"
-reviews_byline = "writers/rachel-kessler.md"
-notes_byline = "writers/rachel-kessler.md"
+reviews_byline = ["writers/rachel-kessler.md"]
+notes_byline = ["writers/rachel-kessler.md"]
 books_translator = ""
 +++
 

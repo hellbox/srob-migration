@@ -22,8 +22,8 @@ email = "bezsmertni@gmail.com"
 twitter = "coolniceghost"
 website = "http://sonyavatomsky.tumblr.com"
 bio = "Sonya Vatomsky is a Russian American non-binary artist and the author of Salt Is For Curing (Sator Press). "
-reviews_byline = "writers/sonya-vatomsky.md"
-notes_byline = "writers/sonya-vatomsky.md"
+reviews_byline = ["writers/sonya-vatomsky.md"]
+notes_byline = ["writers/sonya-vatomsky.md"]
 books_translator = ""
 +++
 

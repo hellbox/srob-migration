@@ -22,8 +22,8 @@ email = "afrose.fatima.ahmed@gmail.com"
 twitter = "afrosefatima"
 website = "http://www.afrosefatimaahmed.com"
 bio = "afrose fatima ahmed writes on city streets and at the tops of evergreens. read more at www.afrosefatimaahmed.com. "
-reviews_byline = "writers/afrose-fatima-ahmed.md"
-notes_byline = "writers/afrose-fatima-ahmed.md"
+reviews_byline = ["writers/afrose-fatima-ahmed.md"]
+notes_byline = ["writers/afrose-fatima-ahmed.md"]
 books_translator = ""
 +++
 

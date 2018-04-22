@@ -22,8 +22,8 @@ email = "wjcarty@gmail.com"
 twitter = "bill_carty"
 website = ""
 bio = "Bill Carty has received fellowships from the Fine Arts Work Center and Richard Hugo House. His poems have recently appeared or are forthcoming in the Boston Review, the Iowa Review, Willow Springs, Conduit, Pleiades, and Oversound."
-reviews_byline = "writers/bill-carty.md"
-notes_byline = "writers/bill-carty.md"
+reviews_byline = ["writers/bill-carty.md"]
+notes_byline = ["writers/bill-carty.md"]
 books_translator = ""
 +++
 

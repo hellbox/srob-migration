@@ -22,8 +22,8 @@ email = "janiemiller76@gmail.com"
 twitter = ""
 website = "http://janieelizabethmiller.com"
 bio = "JM is a trans-identified eco-writer whose first book, Wilderness Lessons, is forthcoming in 2016. They teach creative writing at the University of Washington Tacoma."
-reviews_byline = "writers/jm-miller.md"
-notes_byline = "writers/jm-miller.md"
+reviews_byline = ["writers/jm-miller.md"]
+notes_byline = ["writers/jm-miller.md"]
 books_translator = ""
 +++
 
