@@ -15,11 +15,11 @@
 <div class="container note">
 {{ range .Data.Pages }}
     {{ if .Date.Before now }}
-    {{ if .Params.reviews_books }}
+    {{ if eq .Params.type "Review" }}
     {{/* Set up related records for the reviews loop */}}
     {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
     {{ $reviewsbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
-    {{ $reviewstags := where ( .Site.RegularPages.RelatedIndices . "reviews_tags" ) "Type" "tags" }}    
+    {{ $reviewstags := where ( .Site.RegularPages.RelatedIndices . "reviews_tags" ) "Type" "tags" }}
         <div class="row">
             <div class="col-sm-7 inline-review">
                 <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
@@ -32,17 +32,25 @@
                     {{ with ($.Scratch.Get "names") }}
                         {{ delimit . "," ", and " }}
                     {{ end }}
-                    {{ $.Scratch.Delete "names" }}                    
+                    {{ $.Scratch.Delete "names" }}            
 
                     review{{ if eq (len $byline) 1}}s{{ end }}
 
                     {{ range $i, $v := $reviewsbooks }}
                         {{ with $v.Params.name }}{{ $.Scratch.SetInMap "books" . . }}{{ end }}
                     {{ end }}
-                    {{ with ($.Scratch.Get "books") }}
-                        {{ delimit . ", " ", and " }}
+                    {{ with ($.Scratch.Get "books") }}                        
+                        <em>{{ delimit . ", " ", and " }}</em>
+                        
                     {{ end }}
                     {{ $.Scratch.Delete "books" }}
+
+                    {{ range $reviewsbooks }}
+                        {{ . }} by 
+                        {{ range where ( $.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers" }}
+                            {{ . }}           
+                        {{ end }}
+                    {{ end }}
 
 
                 </p>
