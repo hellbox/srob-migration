@@ -16,11 +16,17 @@ copyright = "All content \u00A9{ year } the Seattle Review of Books, and respect
 
 [related]
 includeNewer = true
-
-[[related.indices]]
-    name = "reviews_byline"
-    weight = 2
 [[related.indices]]
     name = "reviews_books"
-    weight = 1
+    weight = 100
+[[related.indices]]
+    name = "reviews_byline"
+    weight = 101
+[[related.indices]]
+    name = "reviews_tags"
+    weight = 102
+[[related.indices]]
+    name = "notes_tags"
+    weight = 103
+
 

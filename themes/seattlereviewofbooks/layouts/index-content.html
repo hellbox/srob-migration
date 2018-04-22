@@ -16,14 +16,15 @@
 {{ range .Data.Pages }}
     {{ if .Date.Before now }}
     {{ if .Params.reviews_books }}
+    {{/* Set up related records for the reviews loop */}}
+    {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
+    {{ $reviewbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
+    {{ $tags := where ( .Site.RegularPages.RelatedIndices . "reviews_tags" ) "Type" "tags" }}
         <div class="row">
             <div class="col-sm-7 inline-review">
                 <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
                 <p class="date">Published {{ .Date.Format "January 2, 2006 at 3:04pm" }}<p>
                 <p class="noindent review-meta">
-                    {{ $books := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
-                    {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
-
 
                     {{ range $i, $v := $byline }}
                         {{ with $v.Params.byline }}{{ $.Scratch.SetInMap "names" . . }}{{ end }}
@@ -35,8 +36,7 @@
 
                     review{{ if eq (len $byline) 1}}s{{ end }}
 
-                    {{ $books }}
-                    {{ $byline }}
+                    {{ $reviewbooks }}                    
 
                 </p>
                 <div class="dek">{{ .Params.dek }}</div>

@@ -562,12 +562,11 @@ for key in j['data']:
                 index_builder = ""
                 for relationship in j['data']['books'][book]['publisher_relationship']:
                     relationship = findstring(relationship)
-                    relationship = findstring(relationship)
                     print(relationship)
                     index_builder = index_builder + relationship.encode('utf-8')
-                markdown.write('publisher_relationship = %s\n' % json.dumps(index_builder))
+                markdown.write('books_publisher = %s\n' % json.dumps(index_builder))
             except KeyError:
-                markdown.write('publisher_relationship = ""\n')
+                markdown.write('books_publisher = ""\n')
 
             try:
                 index_builder = ""
@@ -645,143 +644,143 @@ for key in j['data']:
 
     # CALENDAR #
 
-    elif key == 'calendar':
-        if not os.path.exists('output/calendar'):
-            os.makedirs('output/calendar')
-
-        for calendar in j['data']['calendar']:
-            try:
-                thedate = j['data']['calendars'][calendar]['publish_date']
-            except KeyError:
-                try:
-                    thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['calendars'][calendar]['_sort_publish_date']))
-                except KeyError:
-                    thedate = 'xxxx-xx-xx'
-            lc_name = sanitizestring(j['data']['calendar'][calendar]['name'])
-            markdown = open('output/calendar/' + lc_name + '.md', 'w')
-            markdown.write('+++\n')
-            markdown.write('index = %s\n' % json.dumps((calendar).encode('utf-8')))
-            # # STANDARD DATA BLOCK ## 
-            try:       
-              markdown.write('sort_create_date = %d\n' % j['data']['calendar'][calendar]['_sort_create_date'])
-            except KeyError:
-              markdown.write('sort_create_date = ""\n')
-            try:
-              markdown.write('sort_last_updated = %d\n' % j['data']['calendar'][calendar]['_sort_last_updated'])
-            except KeyError:
-              markdown.write('sort_last_updated = ""\n')
-            try:
-              markdown.write('sort_publish_date = %d\n' % j['data']['calendar'][calendar]['_sort_publish_date']) 
-            except KeyError:
-              markdown.write('sort_publish_date = ""\n')
-            try:
-              markdown.write('create_date = %s\n' % (json.dumps(j['data']['calendar'][calendar]['create_date']).encode('utf-8')))
-            except KeyError:
-              markdown.write('create_date = ""\n')
-            try:
-              markdown.write('publish_date = %s\n' % json.dumps(j['data']['calendar'][calendar]['publish_date'].encode('utf-8')))
-            except KeyError:   
-              markdown.write('publish_date = ""\n')
-            try:
-              markdown.write('date = %s\n' % json.dumps(j['data']['calendar'][calendar]['publish_date'].encode('utf-8')))
-            except KeyError:   
-              markdown.write('date = %s\n' % (json.dumps(j['data']['calendar'][calendar]['create_date']).encode('utf-8')))               
-            try:    
-              markdown.write('last_updated = %s\n' % (json.dumps(j['data']['calendar'][calendar]['last_updated']).encode('utf-8')))
-            except KeyError:
-              markdown.write('last_updated = ""\n')
-            try:
-              markdown.write('preview_url = %s\n' % (json.dumps(j['data']['calendar'][calendar]['preview_url']).encode('utf-8')))
-            except KeyError:
-              markdown.write('preview_url = ""\n')
-            ## END STANDARD DATA BLOCK ##             
-            markdown.write('name = %s\n' % (json.dumps(j['data']['calendar'][calendar]['name']).encode('utf-8')))
-            markdown.write('title = %s\n' % (json.dumps(j['data']['calendar'][calendar]['name']).encode('utf-8')))
-            # IMAGE
-            try:
-                markdown.write('[[image]]\n')
-                for image in j['data']['calendar'][calendar]['image']:
-                    if image == 'width':
-                        markdown.write('width = %d\n' % j['data']['calendar'][calendar]['image'][image])
-                    elif image == 'height':
-                        markdown.write('height = %d\n' % j['data']['calendar'][calendar]['image'][image])
-                    elif image == 'resize_url':
-                        markdown.write('resize_url = %s\n' % json.dumps(j['data']['calendar'][calendar]['image'][image]).encode('utf-8'))
-                    elif image == 'url':
-                        markdown.write('url = %s\n' % json.dumps(j['data']['calendar'][calendar]['image'][image]).encode('utf-8'))
-                    elif image == 'type':
-                        markdown.write('type = %s\n' % json.dumps(j['data']['calendar'][calendar]['image'][image]).encode('utf-8'))
-                    elif image == 'size':
-                        markdown.write('size = %d\n\n' % j['data']['calendar'][calendar]['image'][image])                
-            except KeyError:
-                markdown.write('image = ""\n')
-            
-            try:
-              markdown.write('link = %s\n' % (json.dumps(j['data']['calendar'][calendar]['link']).encode('utf-8')))
-            except:
-              markdown.write('link = ""\n')
-    
-            try:
-              markdown.write('date = %s\n' % (json.dumps(j['data']['calendar'][calendar]['date']).encode('utf-8')))
-            except:
-              markdown.write('date = ""\n') 
-            try:
-              markdown.write('start_time = %s\n' % (json.dumps(j['data']['calendar'][calendar]['start_time']).encode('utf-8')))
-            except:
-              markdown.write('start_time = ""\n') 
-            try:
-              markdown.write('end_time = %s\n' % (json.dumps(j['data']['calendar'][calendar]['end_time']).encode('utf-8')))
-            except:
-              markdown.write('end_time = ""\n')  
-            try:
-              markdown.write('time_description = %s\n' % (json.dumps(j['data']['calendar'][calendar]['time_description']).encode('utf-8')))
-            except:
-              markdown.write('time_description = "\n')
-            try:
-              markdown.write('end_time = %s\n' % (json.dumps(j['data']['calendar'][calendar]['end_time']).encode('utf-8')))
-            except:
-              markdown.write('end_time = ""\n')   
-            try:
-              markdown.write('enddate = %s\n' % (json.dumps(j['data']['calendar'][calendar]['enddate']).encode('utf-8')))
-            except:
-              markdown.write('enddate = ""\n')
-            try:
-                markdown.write('is_sponsorship = %s\n' % (json.dumps(j['data']['calendar'][calendar]['is_sponsorship'])))
-            except KeyError:
-                markdown.write('is_sponsorship = ""\n')  
-
-            try:
-                index_builder = []
-                for authors in j['data']['calendar'][calendar]['authors']:
-                    authors = findstring(authors)
-                    index_builder.append(authors.encode('utf-8'))
-                markdown.write('authors = %s\n' % json.dumps(index_builder))
-            except KeyError:
-                markdown.write('authors = ""\n')
-    
-            try:
-                index_builder = []
-                for sponsorship_event in j['data']['calendar'][calendar]['sponsorship_event']:
-                    sponsorship_event = findstring(sponsorship_event)
-                    index_builder.append(sponsorship_event.encode('utf-8'))
-                markdown.write('sponsorship_event = %s\n' % json.dumps(index_builder))
-            except KeyError:
-                markdown.write('sponsorship_event = ""\n')                  
-    
-            try:
-              index_builder = ""
-              for venues in j['data']['calendar'][calendar]['venues']:
-                venues = findstring(venues)
-                venue = index_builder + venue.encode('utf-8')
-              markdown.write('venues = %s\n' % json.dumps(index_builder))
-            except KeyError:
-              markdown.write('venues = ""\n')
-    
-            try:
-              markdown.write((j['data']['calendar'][calendar]['details']).encode('utf-8')) 
-            except:
-              markdown.write('')
-            markdown.close() 
+    #elif key == 'calendar':
+    #    if not os.path.exists('output/calendar'):
+    #        os.makedirs('output/calendar')
+#
+    #    for calendar in j['data']['calendar']:
+    #        try:
+    #            thedate = j['data']['calendars'][calendar]['publish_date']
+    #        except KeyError:
+    #            try:
+    #                thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['calendars'][calendar]['_sort_publish_date']))
+    #            except KeyError:
+    #                thedate = 'xxxx-xx-xx'
+    #        lc_name = sanitizestring(j['data']['calendar'][calendar]['name'])
+    #        markdown = open('output/calendar/' + lc_name + '.md', 'w')
+    #        markdown.write('+++\n')
+    #        markdown.write('index = %s\n' % json.dumps((calendar).encode('utf-8')))
+    #        # # STANDARD DATA BLOCK ## 
+    #        try:       
+    #          markdown.write('sort_create_date = %d\n' % j['data']['calendar'][calendar]['_sort_create_date'])
+    #        except KeyError:
+    #          markdown.write('sort_create_date = ""\n')
+    #        try:
+    #          markdown.write('sort_last_updated = %d\n' % j['data']['calendar'][calendar]['_sort_last_updated'])
+    #        except KeyError:
+    #          markdown.write('sort_last_updated = ""\n')
+    #        try:
+    #          markdown.write('sort_publish_date = %d\n' % j['data']['calendar'][calendar]['_sort_publish_date']) 
+    #        except KeyError:
+    #          markdown.write('sort_publish_date = ""\n')
+    #        try:
+    #          markdown.write('create_date = %s\n' % (json.dumps(j['data']['calendar'][calendar]['create_date']).encode('utf-8')))
+    #        except KeyError:
+    #          markdown.write('create_date = ""\n')
+    #        try:
+    #          markdown.write('publish_date = %s\n' % json.dumps(j['data']['calendar'][calendar]['publish_date'].encode('utf-8')))
+    #        except KeyError:   
+    #          markdown.write('publish_date = ""\n')
+    #        try:
+    #          markdown.write('date = %s\n' % json.dumps(j['data']['calendar'][calendar]['publish_date'].encode('utf-8')))
+    #        except KeyError:   
+    #          markdown.write('date = %s\n' % (json.dumps(j['data']['calendar'][calendar]['create_date']).encode('utf-8')))               
+    #        try:    
+    #          markdown.write('last_updated = %s\n' % (json.dumps(j['data']['calendar'][calendar]['last_updated']).encode('utf-8')))
+    #        except KeyError:
+    #          markdown.write('last_updated = ""\n')
+    #        try:
+    #          markdown.write('preview_url = %s\n' % (json.dumps(j['data']['calendar'][calendar]['preview_url']).encode('utf-8')))
+    #        except KeyError:
+    #          markdown.write('preview_url = ""\n')
+    #        ## END STANDARD DATA BLOCK ##             
+    #        markdown.write('name = %s\n' % (json.dumps(j['data']['calendar'][calendar]['name']).encode('utf-8')))
+    #        markdown.write('title = %s\n' % (json.dumps(j['data']['calendar'][calendar]['name']).encode('utf-8')))
+    #        # IMAGE
+    #        try:
+    #            markdown.write('[[image]]\n')
+    #            for image in j['data']['calendar'][calendar]['image']:
+    #                if image == 'width':
+    #                    markdown.write('width = %d\n' % j['data']['calendar'][calendar]['image'][image])
+    #                elif image == 'height':
+    #                    markdown.write('height = %d\n' % j['data']['calendar'][calendar]['image'][image])
+    #                elif image == 'resize_url':
+    #                    markdown.write('resize_url = %s\n' % json.dumps(j['data']['calendar'][calendar]['image'][image]).encode('utf-8'))
+    #                elif image == 'url':
+    #                    markdown.write('url = %s\n' % json.dumps(j['data']['calendar'][calendar]['image'][image]).encode('utf-8'))
+    #                elif image == 'type':
+    #                    markdown.write('type = %s\n' % json.dumps(j['data']['calendar'][calendar]['image'][image]).encode('utf-8'))
+    #                elif image == 'size':
+    #                    markdown.write('size = %d\n\n' % j['data']['calendar'][calendar]['image'][image])                
+    #        except KeyError:
+    #            markdown.write('image = ""\n')
+    #        
+    #        try:
+    #          markdown.write('link = %s\n' % (json.dumps(j['data']['calendar'][calendar]['link']).encode('utf-8')))
+    #        except:
+    #          markdown.write('link = ""\n')
+    #
+    #        try:
+    #          markdown.write('date = %s\n' % (json.dumps(j['data']['calendar'][calendar]['date']).encode('utf-8')))
+    #        except:
+    #          markdown.write('date = ""\n') 
+    #        try:
+    #          markdown.write('start_time = %s\n' % (json.dumps(j['data']['calendar'][calendar]['start_time']).encode('utf-8')))
+    #        except:
+    #          markdown.write('start_time = ""\n') 
+    #        try:
+    #          markdown.write('end_time = %s\n' % (json.dumps(j['data']['calendar'][calendar]['end_time']).encode('utf-8')))
+    #        except:
+    #          markdown.write('end_time = ""\n')  
+    #        try:
+    #          markdown.write('time_description = %s\n' % (json.dumps(j['data']['calendar'][calendar]['time_description']).encode('utf-8')))
+    #        except:
+    #          markdown.write('time_description = "\n')
+    #        try:
+    #          markdown.write('end_time = %s\n' % (json.dumps(j['data']['calendar'][calendar]['end_time']).encode('utf-8')))
+    #        except:
+    #          markdown.write('end_time = ""\n')   
+    #        try:
+    #          markdown.write('enddate = %s\n' % (json.dumps(j['data']['calendar'][calendar]['enddate']).encode('utf-8')))
+    #        except:
+    #          markdown.write('enddate = ""\n')
+    #        try:
+    #            markdown.write('is_sponsorship = %s\n' % (json.dumps(j['data']['calendar'][calendar]['is_sponsorship'])))
+    #        except KeyError:
+    #            markdown.write('is_sponsorship = ""\n')  
+#
+    #        try:
+    #            index_builder = []
+    #            for authors in j['data']['calendar'][calendar]['authors']:
+    #                authors = findstring(authors)
+    #                index_builder.append(authors.encode('utf-8'))
+    #            markdown.write('authors = %s\n' % json.dumps(index_builder))
+    #        except KeyError:
+    #            markdown.write('authors = ""\n')
+    #
+    #        try:
+    #            index_builder = []
+    #            for sponsorship_event in j['data']['calendar'][calendar]['sponsorship_event']:
+    #                sponsorship_event = findstring(sponsorship_event)
+    #                index_builder.append(sponsorship_event.encode('utf-8'))
+    #            markdown.write('sponsorship_event = %s\n' % json.dumps(index_builder))
+    #        except KeyError:
+    #            markdown.write('sponsorship_event = ""\n')                  
+    #
+    #        try:
+    #          index_builder = ""
+    #          for venues in j['data']['calendar'][calendar]['venues']:
+    #            venues = findstring(venues)
+    #            venue = index_builder + venue.encode('utf-8')
+    #          markdown.write('venues = %s\n' % json.dumps(index_builder))
+    #        except KeyError:
+    #          markdown.write('venues = ""\n')
+    #
+    #        try:
+    #          markdown.write((j['data']['calendar'][calendar]['details']).encode('utf-8')) 
+    #        except:
+    #          markdown.write('')
+    #        markdown.close() 
 
     elif key == 'notes':
       if not os.path.exists('output/notes'):
@@ -866,14 +865,18 @@ for key in j['data']:
             markdown.write('notes_byline = %s\n' % json.dumps(index_builder))
         except KeyError:
             markdown.write('notes_byline = ""\n')
-        try:
-            index_builder = []
-            for tags_notes in j['data']['notes'][note]['tags_notes']:
-                tags_notes = findstring(tags_notes)
-                index_builder.append(tags_notes.encode('utf-8'))
-            markdown.write('tags_notes = %s\n' % json.dumps(index_builder))
-        except KeyError:
-            markdown.write('tags_notes = ""\n')
+        #try:
+        #    index_builder = []
+        #    for tags_notes in j['data']['notes'][note]['tags_notes']:
+        #        tags_notes = findstring(tags_notes)
+        #        index_builder.append(tags_notes.encode('utf-8'))
+        #    markdown.write('tags_notes = %s\n' % json.dumps(index_builder))
+        #except KeyError:
+        #    markdown.write('tags_notes = ""\n')
+        tags_temp = ('notes %s' % json.dumps(note.encode('utf-8')).replace('"',''))
+        tags_temp = findstring(tags_temp).encode('utf-8')
+        markdown.write('notes_tags = "%s"\n' % tags_temp )         
+
         try:
             index_builder = []
             for authors_notes in j['data']['notes'][note]['authors_notes']:
@@ -950,15 +953,19 @@ for key in j['data']:
         ## END STANDARD DATA BLOCK ##           
         markdown.write('name = %s\n' % (json.dumps(j['data']['publishers'][publisher]['name']).encode('utf-8')))
         markdown.write('title = %s\n' % (json.dumps(j['data']['publishers'][publisher]['name']).encode('utf-8')))
-        try:
-            index_builder = []
-            for publisher in j['data']['publishers'][publisher]['books_by_this_publisher']:
-                publisher = findstring(publisher)
-                index_builder.append(publisher.encode('utf-8'))
-            markdown.write('books_by_this_publisher = %s\n' % json.dumps(index_builder))
-        except KeyError:
-            markdown.write('books_by_this_publisher = ""\n')          
+        #try:
+        #    index_builder = []
+        #    for publisher in j['data']['publishers'][publisher]['books_by_this_publisher']:
+        #        publisher = findstring(publisher)
+        #        index_builder.append(publisher.encode('utf-8'))
+        #    markdown.write('books_by_this_publisher = %s\n' % json.dumps(index_builder))
+        #except KeyError:
+        #    markdown.write('books_by_this_publisher = ""\n')          
         # books_by_this_publisher
+        # publisher_relationship books_publisher
+        publisher_temp = ('publishers %s' % json.dumps(publisher.encode('utf-8')).replace('"',''))
+        publisher_temp = findstring(publisher_temp).encode('utf-8')
+        markdown.write('books_publisher = "%s"\n' % publisher_temp )        
         markdown.write('+++\n')
         markdown.close()
 
@@ -1046,14 +1053,17 @@ for key in j['data']:
         #review_temp = findstring( review_temp ).encode('utf-8') 
         #markdown.write('review_relationship = ["%s"]\n' % review_temp )
 
-        try:
-            index_builder = []
-            for tags_reviews in j['data']['reviews'][review]['tags_reviews']:
-                tags_reviews = findstring(tags_reviews)
-                index_builder.append(tags_reviews.encode('utf-8'))
-            markdown.write('tags_reviews = %s\n' % json.dumps(index_builder))
-        except KeyError:
-            markdown.write('tags_reviews = ""\n')
+        #try:
+        #    index_builder = []
+        #    for tags_reviews in j['data']['reviews'][review]['tags_reviews']:
+        #        tags_reviews = findstring(tags_reviews)
+        #        index_builder.append(tags_reviews.encode('utf-8'))
+        #    markdown.write('reviews_tags = %s\n' % json.dumps(index_builder))
+        #except KeyError:
+        #    markdown.write('reviews_tags = ""\n')
+        tags_temp = ('reviews %s' % json.dumps(review.encode('utf-8')).replace('"',''))
+        tags_temp = findstring( tags_temp ).encode('utf-8') 
+        markdown.write('reviews_tags = ["%s"]\n' % tags_temp )            
 
         try:
             index_builder = []
@@ -1129,17 +1139,17 @@ for key in j['data']:
             for reviews in j['data']['tags'][tag]['reviews']:
                 reviews = findstring(reviews)
                 index_builder.append(reviews.encode('utf-8'))
-            markdown.write('reviews = %s\n' % json.dumps(index_builder))
+            markdown.write('reviews_tags = %s\n' % json.dumps(index_builder))
         except KeyError:
-            markdown.write('reviews = ""\n')
+            markdown.write('reviews_tags = ""\n')
         try:
             index_builder = []
             for notes in j['data']['tags'][tag]['notes']:
                 notes = findstring(notes)
                 index_builder.append(notes.encode('utf-8'))
-            markdown.write('notes = %s\n' % json.dumps(index_builder))
+            markdown.write('notes_tags = %s\n' % json.dumps(index_builder))
         except KeyError:
-            markdown.write('notes = ""\n')        
+            markdown.write('notes_tags = ""\n')        
 
         markdown.write('+++\n\n')  
         markdown.close()
