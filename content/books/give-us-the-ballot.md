@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/farrar-straus-giroux.md"
 books_translator = ""
 reviews_books = ["books/give-us-the-ballot.md"]
-books_author = ["authors/ari-berman.md"]
+books_author = ["books/give-us-the-ballot.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/voting-is-power-a-conversation-with-ari-berman-about-the-struggle-for-voting-rights-in-america.md", "notes/wear-your-i-voted-stickers-to-town-hall-tonight.md"]
 [[image]]

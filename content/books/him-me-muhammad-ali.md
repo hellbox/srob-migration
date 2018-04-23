@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/sarabande-books.md"
 books_translator = ""
 reviews_books = ["books/him-me-muhammad-ali.md"]
-books_author = ["authors/randa-jarrar.md"]
+books_author = ["books/him-me-muhammad-ali.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-healthy-eating-with-a-collection-of-stories-about-muslim-women.md"]
 [[image]]

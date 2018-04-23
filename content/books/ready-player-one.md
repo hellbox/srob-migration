@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/ready-player-one.md"]
-books_author = ""
+books_author = ["books/ready-player-one.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/make-something-new-ye-nerds!.md", "notes/the-help-desk-are-adult-coloring-books-a-fad.md"]
 [[image]]

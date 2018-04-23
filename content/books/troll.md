@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/atlantic-monthly-press.md"
 books_translator = ""
 reviews_books = ["books/troll.md"]
-books_author = ["authors/johanna-sinisalo.md"]
+books_author = ["books/troll.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

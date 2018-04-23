@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/ladybox-books.md"
 books_translator = ""
 reviews_books = ["books/pretty-much-dead.md"]
-books_author = ["authors/daphne-gotlieb.md"]
+books_author = ["books/pretty-much-dead.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

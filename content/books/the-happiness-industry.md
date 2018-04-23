@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/verso.md"
 books_translator = ""
 reviews_books = ["books/the-happiness-industry.md"]
-books_author = ["authors/william-davies.md"]
+books_author = ["books/the-happiness-industry.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

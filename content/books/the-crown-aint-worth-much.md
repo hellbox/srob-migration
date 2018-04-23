@@ -25,7 +25,7 @@ category = "poetry"
 books_publisher = "publishers/button-poetry.md"
 books_translator = ""
 reviews_books = ["books/the-crown-aint-worth-much.md"]
-books_author = ["authors/hanif-willis-abdurraqib.md"]
+books_author = ["books/the-crown-aint-worth-much.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

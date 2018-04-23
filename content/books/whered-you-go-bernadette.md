@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/back-bay-books.md"
 books_translator = ""
 reviews_books = ["books/whered-you-go-bernadette.md"]
-books_author = ["authors/maria-semple.md"]
+books_author = ["books/whered-you-go-bernadette.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/whatd-you-say-bernadette.md", "notes/event-of-the-week-epilogue--prologue-at-hugo-house.md", "notes/literary-event-of-the-week-happy-family-with-maria-semple.md", "notes/cate-blanchett-spotted-at-downtown-seattle-public-library.md"]
 [[image]]

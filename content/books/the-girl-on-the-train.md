@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-girl-on-the-train.md"]
-books_author = ""
+books_author = ["books/the-girl-on-the-train.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/anatomy-of-a-bestseller.md"]
 [[image]]

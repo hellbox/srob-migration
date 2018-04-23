@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/moss.md"
 books_translator = ""
 reviews_books = ["books/moss-volume-one.md"]
-books_author = ["authors/connor-guy.md", "authors/alex-davis-lawrence.md"]
+books_author = ["books/moss-volume-one.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/jonathan-livingston-seagull.md"]
-books_author = ""
+books_author = ["books/jonathan-livingston-seagull.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-jonathan-livingston-see-ya.md"]
 [[image]]

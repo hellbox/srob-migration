@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/cold-cube-press.md"
 books_translator = ""
 reviews_books = ["books/more-or-less.md"]
-books_author = ["authors/elissa-ball.md"]
+books_author = ["books/more-or-less.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

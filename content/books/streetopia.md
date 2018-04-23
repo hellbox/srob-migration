@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/booklyn.md"
 books_translator = ""
 reviews_books = ["books/streetopia.md"]
-books_author = ["authors/erick-lyle.md"]
+books_author = ["books/streetopia.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

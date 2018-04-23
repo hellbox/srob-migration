@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/washington-state-university-press.md"
 books_translator = ""
 reviews_books = ["books/peace-weavers.md"]
-books_author = ["authors/candace-wellman.md"]
+books_author = ["books/peace-weavers.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/uncovering-the-true-stories-of-salish-native-women-and-intercultural-marriage.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = "political science"
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
 reviews_books = ["books/becoming-a-citizen-activist.md"]
-books_author = ["authors/nick-licata.md"]
+books_author = ["books/becoming-a-citizen-activist.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

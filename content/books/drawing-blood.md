@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/harper.md"
 books_translator = ""
 reviews_books = ["books/drawing-blood.md"]
-books_author = ["authors/molly-crabapple.md"]
+books_author = ["books/drawing-blood.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

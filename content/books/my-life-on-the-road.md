@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/my-life-on-the-road.md"]
-books_author = ""
+books_author = ["books/my-life-on-the-road.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/thats-the-ticket-david-sedaris-and-gloria-steinem-shows-are-selling-quickly.md"]
 [[image]]

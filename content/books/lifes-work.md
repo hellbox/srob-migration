@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
 reviews_books = ["books/lifes-work.md"]
-books_author = ["authors/dr-willie-parker.md"]
+books_author = ["books/lifes-work.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

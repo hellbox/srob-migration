@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/serving-house-books.md"
 books_translator = ""
 reviews_books = ["books/nine-facts-that-can-change-your-life.md"]
-books_author = ["authors/ronna-wineberg.md"]
+books_author = ["books/nine-facts-that-can-change-your-life.md"]
 sponsorships_book = ["sponsorships/nine-facts-that-can-change-your-life.md"]
 notes_relationship = ["notes/a-full-short-story-from-a-talented-writer.md"]
 [[image]]

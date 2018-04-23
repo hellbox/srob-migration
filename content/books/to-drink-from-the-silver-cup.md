@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/terra-nova-books.md"
 books_translator = ""
 reviews_books = ["books/to-drink-from-the-silver-cup.md"]
-books_author = ["authors/anna-redsand.md"]
+books_author = ["books/to-drink-from-the-silver-cup.md"]
 sponsorships_book = ["sponsorships/to-drink-from-the-silver-cup.md"]
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/fantagraphics.md"
 books_translator = ""
 reviews_books = ["books/northwest-cartoonists-cookbook.md"]
-books_author = ["authors/various.md"]
+books_author = ["books/northwest-cartoonists-cookbook.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

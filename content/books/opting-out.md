@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/chatwin-books.md"
 books_translator = ""
 reviews_books = ["books/opting-out.md"]
-books_author = ["authors/maged-zaher.md"]
+books_author = ["books/opting-out.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/where-can-you-get-maged-zahers-new-book.md"]
 [[image]]

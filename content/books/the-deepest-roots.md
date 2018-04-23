@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/university-of-washington-press.md"
 books_translator = ""
 reviews_books = ["books/the-deepest-roots.md"]
-books_author = ["authors/kathleen-alcala.md"]
+books_author = ["books/the-deepest-roots.md"]
 sponsorships_book = ["sponsorships/the-deepest-roots.md"]
 notes_relationship = ""
 [[image]]

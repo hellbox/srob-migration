@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
 reviews_books = ["books/ideas-for-short-comics.md"]
-books_author = ["authors/david-lasky.md"]
+books_author = ["books/ideas-for-short-comics.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/pharos-editions.md"
 books_translator = ""
 reviews_books = ["books/the-land-of-plenty.md"]
-books_author = ["authors/robert-cantwell.md"]
+books_author = ["books/the-land-of-plenty.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

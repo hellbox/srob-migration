@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/moon-city-press.md"
 books_translator = ""
 reviews_books = ["books/field-guide-to-the-end-of-the-world.md"]
-books_author = ["authors/jeannine-hall-gailey.md"]
+books_author = ["books/field-guide-to-the-end-of-the-world.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

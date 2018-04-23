@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
 reviews_books = ["books/tales-from-amazon-1-3.md"]
-books_author = ["authors/kelly-froh.md"]
+books_author = ["books/tales-from-amazon-1-3.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/for-the-comics-fan-who-has-everything.md"]
 [[image]]

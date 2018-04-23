@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/dma-books.md"
 books_translator = ""
 reviews_books = ["books/masao.md"]
-books_author = ["authors/sandra-vea.md"]
+books_author = ["books/masao.md"]
 sponsorships_book = ["sponsorships/masao-a-nisei-soldiers-secret-and-heroic-role-in-world-war-ii.md"]
 notes_relationship = ["notes/an-amazing-story-of-american-sacrifice-and-duty.md"]
 [[image]]

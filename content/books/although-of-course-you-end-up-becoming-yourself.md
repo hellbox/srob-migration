@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/broadway-books.md"
 books_translator = ""
 reviews_books = ["books/although-of-course-you-end-up-becoming-yourself.md"]
-books_author = ["authors/david-lipsky.md"]
+books_author = ["books/although-of-course-you-end-up-becoming-yourself.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

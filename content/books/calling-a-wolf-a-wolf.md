@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/alice-james-books.md"
 books_translator = ""
 reviews_books = ["books/calling-a-wolf-a-wolf.md"]
-books_author = ["authors/kaveh-akbar.md"]
+books_author = ["books/calling-a-wolf-a-wolf.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

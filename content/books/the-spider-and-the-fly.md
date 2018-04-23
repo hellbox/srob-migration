@@ -25,7 +25,7 @@ category = ["True Crime"]
 books_publisher = "publishers/dey-street-books.md"
 books_translator = ""
 reviews_books = ["books/the-spider-and-the-fly.md"]
-books_author = ["authors/claudia-rowe.md"]
+books_author = ["books/the-spider-and-the-fly.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

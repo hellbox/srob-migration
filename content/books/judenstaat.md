@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/tor.md"
 books_translator = ""
 reviews_books = ["books/judenstaat.md"]
-books_author = ["authors/simone-zelitch.md"]
+books_author = ["books/judenstaat.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

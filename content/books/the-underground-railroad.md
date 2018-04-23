@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/doubleday.md"
 books_translator = ""
 reviews_books = ["books/the-underground-railroad.md"]
-books_author = ["authors/colson-whitehead.md"]
+books_author = ["books/the-underground-railroad.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/this-years-pulitzer-prizes-were-exactly-right.md", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel.md"]
 [[image]]

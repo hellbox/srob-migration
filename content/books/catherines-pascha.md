@@ -25,7 +25,7 @@ category = ["Education"]
 books_publisher = "publishers/phoenix-flair-press.md"
 books_translator = ""
 reviews_books = ["books/catherines-pascha.md"]
-books_author = ["authors/charlotte-riggle.md"]
+books_author = ["books/catherines-pascha.md"]
 sponsorships_book = ["sponsorships/catherines-pascha.md"]
 notes_relationship = ["notes/easter-in-the-middle-of-the-night.md", "notes/isnt-easter-already-past-not-if-youre-in-the-orthodox-church.md"]
 [[image]]

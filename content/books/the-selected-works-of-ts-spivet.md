@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-selected-works-of-ts-spivet.md"]
-books_author = ""
+books_author = ["books/the-selected-works-of-ts-spivet.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/welcome-to-our-bookstore-we-sell-books-that-cannot-be-printed.md"]
 [[image]]

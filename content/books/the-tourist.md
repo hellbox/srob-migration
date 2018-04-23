@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/redhook.md"
 books_translator = ""
 reviews_books = ["books/the-tourist.md"]
-books_author = ["authors/robert-dickinson.md"]
+books_author = ["books/the-tourist.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

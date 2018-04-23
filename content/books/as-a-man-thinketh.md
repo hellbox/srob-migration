@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
 reviews_books = ["books/as-a-man-thinketh.md"]
-books_author = ["authors/andrew-s-mcalpine.md"]
+books_author = ["books/as-a-man-thinketh.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

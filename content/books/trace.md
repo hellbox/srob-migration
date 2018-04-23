@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/counterpoint.md"
 books_translator = ""
 reviews_books = ["books/trace.md"]
-books_author = ["authors/lauret-savoy.md"]
+books_author = ["books/trace.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = "biography"
 books_publisher = "publishers/little-brown-and-company.md"
 books_translator = ""
 reviews_books = ["books/last-girl-before-freeway.md"]
-books_author = ["authors/leslie-bennetts.md"]
+books_author = ["books/last-girl-before-freeway.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/journey-to-the-heart-of-the-ultimate-mean-girl.md"]
 [[image]]

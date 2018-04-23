@@ -25,7 +25,7 @@ category = ["Social Science"]
 books_publisher = "publishers/twelve.md"
 books_translator = ""
 reviews_books = ["books/tribe.md"]
-books_author = ["authors/sebastian-junger.md"]
+books_author = ["books/tribe.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

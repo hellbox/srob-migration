@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/st-martin&x27;s-press.md"
 books_translator = ""
 reviews_books = ["books/death-in-the-dark-continent.md"]
-books_author = ["authors/peter-hathaway-capstick.md"]
+books_author = ["books/death-in-the-dark-continent.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

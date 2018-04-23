@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/entre-r\u00edos-books.md"
 books_translator = ""
 reviews_books = ["books/flowers-and-sky.md"]
-books_author = ["authors/aaron-shurin.md"]
+books_author = ["books/flowers-and-sky.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/come-out-november-3rd-to-hear-aaron-shurin-with-special-guest-alex-vigue.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
 reviews_books = ["books/one-of-us.md"]
-books_author = ["authors/\u00e5sne-seierstad.md"]
+books_author = ["books/one-of-us.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

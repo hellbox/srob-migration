@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/little-brown-and-company.md"
 books_translator = ""
 reviews_books = ["books/today-will-be-different.md"]
-books_author = ["authors/maria-semple.md"]
+books_author = ["books/today-will-be-different.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-community-is-something-you-make.md"]
 [[image]]

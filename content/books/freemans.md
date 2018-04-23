@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/grove-atlantic.md"
 books_translator = ""
 reviews_books = ["books/freemans.md"]
-books_author = ["authors/john-freeman.md"]
+books_author = ["books/freemans.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

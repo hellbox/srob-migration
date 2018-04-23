@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
 reviews_books = ["books/political-pamphlet-series.md"]
-books_author = ["authors/various.md"]
+books_author = ["books/political-pamphlet-series.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-politicians-we-love.md"]
 [[image]]

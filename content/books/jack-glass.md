@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/gollancz.md"
 books_translator = ""
 reviews_books = ["books/jack-glass.md"]
-books_author = ["authors/adam-roberts.md"]
+books_author = ["books/jack-glass.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

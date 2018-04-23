@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/impossibly-small-press.md"
 books_translator = ""
 reviews_books = ["books/assassin-rabbit-from-the-dawn-of-time.md"]
-books_author = ["authors/mark-taylor.md"]
+books_author = ["books/assassin-rabbit-from-the-dawn-of-time.md"]
 sponsorships_book = ["sponsorships/assassin-rabbit-from-the-dawn-of-time.md", "sponsorships/assassin-rabbit-from-the-dawn-of-time-.md"]
 notes_relationship = ["notes/thanks-to-mark-taylor-for-sponsoring-this-week!.md"]
 [[image]]

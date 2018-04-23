@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/doubleday.md"
 books_translator = ""
 reviews_books = ["books/a-little-life.md"]
-books_author = ["authors/hanya-yanagihara.md"]
+books_author = ["books/a-little-life.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/a-big-feud-over-a-little-life.md", "notes/man-booker-prize-shortlist-announced.md"]
 [[image]]

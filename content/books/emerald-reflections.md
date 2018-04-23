@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/third-place-press.md"
 books_translator = ""
 reviews_books = ["books/emerald-reflections.md"]
-books_author = ["authors/marcus-harrison-green.md"]
+books_author = ["books/emerald-reflections.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

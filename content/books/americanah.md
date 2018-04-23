@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/anchor-books.md"
 books_translator = ""
 reviews_books = ["books/americanah.md"]
-books_author = ["authors/chimamanda-ngozi-adichie.md"]
+books_author = ["books/americanah.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-february-8th---february-14th.md"]
 [[image]]

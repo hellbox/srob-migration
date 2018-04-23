@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-marriage-of-opposites.md"]
-books_author = ""
+books_author = ["books/the-marriage-of-opposites.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/independent-bookstore-fan-showrooms-amazon-books.md"]
 [[image]]

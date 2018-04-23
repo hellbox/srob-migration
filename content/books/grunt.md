@@ -25,7 +25,7 @@ category = ["Science"]
 books_publisher = "publishers/w-w-norton.md"
 books_translator = ""
 reviews_books = ["books/grunt.md"]
-books_author = ["authors/mary-roach.md"]
+books_author = ["books/grunt.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/lanternfish-press.md"
 books_translator = ""
 reviews_books = ["books/daughters-of-the-air.md"]
-books_author = ["authors/anca-l-szil\u00e1gyi.md"]
+books_author = ["books/daughters-of-the-air.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-16th---april-22nd.md"]
 [[image]]

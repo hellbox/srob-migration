@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
 reviews_books = ["books/what-happened.md"]
-books_author = ["authors/hillary-rodham-clinton.md"]
+books_author = ["books/what-happened.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

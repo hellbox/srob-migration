@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
 reviews_books = ["books/hot-dog-taste-test.md"]
-books_author = ["authors/lisa-hanawalt.md"]
+books_author = ["books/hot-dog-taste-test.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

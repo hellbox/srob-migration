@@ -25,7 +25,7 @@ category = ["Psychology"]
 books_publisher = "publishers/viking.md"
 books_translator = ""
 reviews_books = ["books/while-the-city-slept.md"]
-books_author = ["authors/eli-sanders.md"]
+books_author = ["books/while-the-city-slept.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-february-1st-7th.md", "notes/the-idea-was-to-learn-a-lot-more-about-the-paths-of-all-three-of-the-people-whose-lives-intersected-that-night.md", "notes/book-news-roundup-a-new-reading-series-a-contest-for-young-writers-and-the-end-of-bookslut.md", "notes/2017-washington-state-book-awards-finalists-announced.md"]
 [[image]]

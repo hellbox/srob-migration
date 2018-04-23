@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
 reviews_books = ["books/thank-you-for-being-late.md"]
-books_author = ["authors/thomas-friedman.md"]
+books_author = ["books/thank-you-for-being-late.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

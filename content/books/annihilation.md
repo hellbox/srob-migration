@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/fsg-originals.md"
 books_translator = ""
 reviews_books = ["books/annihilation.md"]
-books_author = ["authors/jeff-vandermeer.md"]
+books_author = ["books/annihilation.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

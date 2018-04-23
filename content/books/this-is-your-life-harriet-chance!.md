@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/algonquin-books.md"
 books_translator = ""
 reviews_books = ["books/this-is-your-life-harriet-chance!.md"]
-books_author = ["authors/jonathan-evison.md"]
+books_author = ["books/this-is-your-life-harriet-chance!.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/ask-jonathan-evison-anything.md"]
 [[image]]

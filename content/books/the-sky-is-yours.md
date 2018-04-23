@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-sky-is-yours.md"]
-books_author = ["authors/chandler-klang-smith.md"]
+books_author = ["books/the-sky-is-yours.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

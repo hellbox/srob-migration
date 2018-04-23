@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/university-of-new-mexico-pres.md"
 books_translator = ""
 reviews_books = ["books/the-border-is-burning.md"]
-books_author = ["authors/ito-romo.md"]
+books_author = ["books/the-border-is-burning.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

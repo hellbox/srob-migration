@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/pizza-party-comics.md"
 books_translator = ""
 reviews_books = ["books/punch-to-kill.md"]
-books_author = ["authors/kevin-clarke.md", "authors/will-long.md", "authors/marc-palm.md"]
+books_author = ["books/punch-to-kill.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/when-this-cartoonist-broke-his-right-arm-he-taught-himself-how-to-draw-with-his-left.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/spirituality-university-press.md"
 books_translator = ""
 reviews_books = ["books/the-art-of-trapeze.md"]
-books_author = ["authors/molly-mccord.md"]
+books_author = ["books/the-art-of-trapeze.md"]
 sponsorships_book = ["sponsorships/the-art-of-trapeze.md"]
 notes_relationship = ["notes/with-the-greatest-of-ease.md"]
 [[image]]

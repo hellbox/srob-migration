@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/createspace-independent-publishing-platform.md"
 books_translator = ""
 reviews_books = ["books/steel-blood-&-fire.md"]
-books_author = ["authors/allan-batchelder.md"]
+books_author = ["books/steel-blood-&-fire.md"]
 sponsorships_book = ["sponsorships/steel-blood-&-fire.md"]
 notes_relationship = ["notes/in-a-world-of-betrayal-and-dark-magic.md"]
 [[image]]

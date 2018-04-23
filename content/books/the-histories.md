@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/carnegie-mellon-university-press.md"
 books_translator = ""
 reviews_books = ["books/the-histories.md"]
-books_author = ["authors/jason-whitmarsh.md"]
+books_author = ["books/the-histories.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

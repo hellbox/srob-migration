@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/talonbooks.md"
 books_translator = ""
 reviews_books = ["books/mile-end.md"]
-books_author = ["authors/lise-tremblay.md"]
+books_author = ["books/mile-end.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/bobtimystic-books.md"
 books_translator = ""
 reviews_books = ["books/the-cant-idates.md"]
-books_author = ["authors/craig-tomashoff.md"]
+books_author = ["books/the-cant-idates.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/speak.md"
 books_translator = ""
 reviews_books = ["books/paper-towns.md"]
-books_author = ["authors/john-green.md"]
+books_author = ["books/paper-towns.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

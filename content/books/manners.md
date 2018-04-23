@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/manners.md"]
-books_author = ""
+books_author = ["books/manners.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

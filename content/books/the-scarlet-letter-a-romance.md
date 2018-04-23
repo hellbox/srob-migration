@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/penguin.md"
 books_translator = ""
 reviews_books = ["books/the-scarlet-letter-a-romance.md"]
-books_author = ["authors/nathaniel-hawthorne.md"]
+books_author = ["books/the-scarlet-letter-a-romance.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

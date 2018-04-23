@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/manic-thrills-press.md"
 books_translator = ""
 reviews_books = ["books/omnibusted.md"]
-books_author = ["authors/tatiana-gill.md"]
+books_author = ["books/omnibusted.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

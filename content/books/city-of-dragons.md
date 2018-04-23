@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/minotaur-books.md"
 books_translator = ""
 reviews_books = ["books/city-of-dragons.md"]
-books_author = ["authors/kelli-stanley.md"]
+books_author = ["books/city-of-dragons.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

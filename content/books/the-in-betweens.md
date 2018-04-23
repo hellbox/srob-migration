@@ -25,7 +25,7 @@ category = "short stories"
 books_publisher = "publishers/civil-coping-mechanisms.md"
 books_translator = ""
 reviews_books = ["books/the-in-betweens.md"]
-books_author = ["authors/matthew-simmons.md"]
+books_author = ["books/the-in-betweens.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
 reviews_books = ["books/the-face.md"]
-books_author = ["authors/ruth-ozeki.md"]
+books_author = ["books/the-face.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

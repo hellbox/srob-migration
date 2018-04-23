@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/mcsweeneys-books.md"
 books_translator = ""
 reviews_books = ["books/fine-fine-fine-fine-fine.md"]
-books_author = ["authors/diane-williams.md"]
+books_author = ["books/fine-fine-fine-fine-fine.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

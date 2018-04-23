@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
 reviews_books = ["books/fates-and-furies.md"]
-books_author = ["authors/lauren-groff.md"]
+books_author = ["books/fates-and-furies.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

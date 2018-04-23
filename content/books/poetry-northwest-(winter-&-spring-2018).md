@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/poetry-northwest.md"
 books_translator = ""
 reviews_books = ["books/poetry-northwest-(winter-&-spring-2018).md"]
-books_author = ["authors/poetry-northwest.md"]
+books_author = ["books/poetry-northwest-(winter-&-spring-2018).md"]
 sponsorships_book = ["sponsorships/poetry-northwest.md"]
 notes_relationship = ["notes/a-winter-cento-courtesy-of-sponsor-poetry-northwest.md"]
 [[image]]

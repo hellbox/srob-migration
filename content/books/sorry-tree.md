@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/wave-books.md"
 books_translator = ""
 reviews_books = ["books/sorry-tree.md"]
-books_author = ["authors/eileen-myles.md"]
+books_author = ["books/sorry-tree.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-lit-crawl.md"]
 [[image]]

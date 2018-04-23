@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/best-american-poetry-2015.md"]
-books_author = ""
+books_author = ["books/best-american-poetry-2015.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/so-did-i-pick-the-best-75-poems-published-last-year-of-course-not-i-picked-75-poems-that-survived-a-literary-ordeal-that-happened-only-in-my-brain.md", "notes/actualasianpoets-speak-out.md", "notes/your-week-in-readings-the-best-literary-events-from-october-5-to-october-11.md"]
 [[image]]

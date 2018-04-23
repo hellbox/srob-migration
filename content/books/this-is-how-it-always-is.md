@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/flatiron-books.md"
 books_translator = ""
 reviews_books = ["books/this-is-how-it-always-is.md"]
-books_author = ["authors/laurie-frankel.md"]
+books_author = ["books/this-is-how-it-always-is.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/second-times-the-charm-talking-with-laurie-frankel-about-the-pleasures-and-pains-of-paperbacks.md", "notes/literary-event-of-the-week-this-is-how-it-always-is-paperback-release-reading-at-seattle-public-library.md"]
 [[image]]

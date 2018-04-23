@@ -25,7 +25,7 @@ category = ["Young Adult Fiction"]
 books_publisher = "publishers/penguin.md"
 books_translator = ""
 reviews_books = ["books/this-impossible-light.md"]
-books_author = ["authors/lily-myers.md"]
+books_author = ["books/this-impossible-light.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

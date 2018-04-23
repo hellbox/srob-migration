@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/grey-sun-press.md"
 books_translator = ""
 reviews_books = ["books/joy-to-the-worlds.md"]
-books_author = ["authors/maia-chance.md", "authors/janine-a-southard.md", "authors/raven-oak.md"]
+books_author = ["books/joy-to-the-worlds.md"]
 sponsorships_book = ["sponsorships/joy-to-the-worlds.md"]
 notes_relationship = ["notes/a-great-holiday-story-collection.md", "notes/one-day-left-to-preview-some-great-holiday-genre-fiction.md"]
 [[image]]

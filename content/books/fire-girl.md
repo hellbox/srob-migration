@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/two-sylvias-press.md"
 books_translator = ""
 reviews_books = ["books/fire-girl.md"]
-books_author = ["authors/sayantani-dasgupta.md"]
+books_author = ["books/fire-girl.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

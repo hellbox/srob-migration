@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/bison-books.md"
 books_translator = ""
 reviews_books = ["books/death-as-a-side-effect.md"]
-books_author = ["authors/ana-mar\u00eda-shua.md"]
+books_author = ["books/death-as-a-side-effect.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

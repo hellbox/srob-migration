@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
 reviews_books = ["books/i-[heart]-twin-peaks.md"]
-books_author = ["authors/jessixa-bagley.md"]
+books_author = ["books/i-[heart]-twin-peaks.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

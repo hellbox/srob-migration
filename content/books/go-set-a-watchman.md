@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/go-set-a-watchman.md"]
-books_author = ""
+books_author = ["books/go-set-a-watchman.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/how-harper-lee-saved-bloom-county.md", "notes/the-help-desk-is-there-publishing-after-death.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/bluets.md"]
-books_author = ["authors/maggie-nelson.md"]
+books_author = ["books/bluets.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

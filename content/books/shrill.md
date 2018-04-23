@@ -25,7 +25,7 @@ category = ["Social Science"]
 books_publisher = "publishers/hachette-books.md"
 books_translator = ""
 reviews_books = ["books/shrill.md"]
-books_author = ["authors/lindy-west.md"]
+books_author = ["books/shrill.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-lindy-west-about-fantasy-novels-deadlines-and-why-seattle-is-her-home.md", "notes/your-week-in-readings-the-best-literary-events-from-may-25th---may-31st.md", "notes/event-of-the-week-lindy-west-reading-from-shrill-at-town-hall-tonight.md", "notes/portrait-gallery-lindy-west.md", "notes/lindy-wests-writing-process-involves-a-bat-haunted-cabin-in-maine.md", "notes/2017-washington-state-book-awards-finalists-announced.md"]
 [[image]]

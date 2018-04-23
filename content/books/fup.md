@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/fup.md"]
-books_author = ""
+books_author = ["books/fup.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/phinney-books-the-elkin-test-and-the-eternal-joy-of-fup.md", "notes/your-week-in-readings-the-best-literary-events-from-november-23---29.md"]
 [[image]]

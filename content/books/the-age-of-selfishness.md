@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/abrams-comic-arts.md"
 books_translator = ""
 reviews_books = ["books/the-age-of-selfishness.md"]
-books_author = ["authors/darryl-cunningham.md"]
+books_author = ["books/the-age-of-selfishness.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

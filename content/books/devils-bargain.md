@@ -25,7 +25,7 @@ category = ["Political Science"]
 books_publisher = "publishers/penguin.md"
 books_translator = ""
 reviews_books = ["books/devils-bargain.md"]
-books_author = ["authors/joshua-green.md"]
+books_author = ["books/devils-bargain.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/amazon-is-still-advertising-on-breitbart.md"]
 [[image]]

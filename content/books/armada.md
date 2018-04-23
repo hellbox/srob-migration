@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/armada.md"]
-books_author = ""
+books_author = ["books/armada.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/make-something-new-ye-nerds!.md"]
 [[image]]

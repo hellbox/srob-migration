@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/random-house.md"
 books_translator = ""
 reviews_books = ["books/get-in-trouble.md"]
-books_author = ["authors/kelly-link.md"]
+books_author = ["books/get-in-trouble.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

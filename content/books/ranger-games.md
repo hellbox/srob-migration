@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/doubleday.md"
 books_translator = ""
 reviews_books = ["books/ranger-games.md"]
-books_author = ["authors/ben-blum.md"]
+books_author = ["books/ranger-games.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

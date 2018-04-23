@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/oni-press.md"
 books_translator = ""
 reviews_books = ["books/bad-machinery-vol-1-the-case-of-the-team-spirit.md"]
-books_author = ["authors/john-allison.md"]
+books_author = ["books/bad-machinery-vol-1-the-case-of-the-team-spirit.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

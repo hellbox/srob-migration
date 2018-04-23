@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/small-beer-press.md"
 books_translator = ""
 reviews_books = ["books/solitaire.md"]
-books_author = ["authors/kelley-eskridge.md"]
+books_author = ["books/solitaire.md"]
 sponsorships_book = ["sponsorships/solitaire---old.md", "sponsorships/purchase-solitaire.md"]
 notes_relationship = ["notes/seattle-author-kelley-eskridge-is-our-sponsor-this-week.md"]
 [[image]]

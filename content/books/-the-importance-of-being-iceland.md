@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/mit-press.md"
 books_translator = ""
 reviews_books = ["books/-the-importance-of-being-iceland.md"]
-books_author = ["authors/eileen-myles.md"]
+books_author = ["books/-the-importance-of-being-iceland.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

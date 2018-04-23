@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/entre-r\u00edos-books.md"
 books_translator = ""
 reviews_books = ["books/marys-dust.md"]
-books_author = ["authors/melinda-mueller.md"]
+books_author = ["books/marys-dust.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/celebrate-the-launch-of-melinda-muellers-latest-on-october-21.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/bravedog--deaddog-artworks.md"
 books_translator = ""
 reviews_books = ["books/empty-bottle-of-smoke.md"]
-books_author = ["authors/conon-parks.md"]
+books_author = ["books/empty-bottle-of-smoke.md"]
 sponsorships_book = ["sponsorships/empty-bottle-of-smoke-12--2016.md"]
 notes_relationship = ["notes/the-paranoid-genie-in-the-bottle.md", "notes/a-bizarre-trek-though-a-bizarre-world.md"]
 [[image]]

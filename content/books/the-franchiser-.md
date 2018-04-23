@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-franchiser-.md"]
-books_author = ""
+books_author = ["books/the-franchiser-.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/phinney-books-the-elkin-test-and-the-eternal-joy-of-fup.md"]
 [[image]]

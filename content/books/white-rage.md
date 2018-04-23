@@ -25,7 +25,7 @@ category = ["History"]
 books_publisher = "publishers/bloomsbury-usa.md"
 books_translator = ""
 reviews_books = ["books/white-rage.md"]
-books_author = ["authors/carol-anderson.md"]
+books_author = ["books/white-rage.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

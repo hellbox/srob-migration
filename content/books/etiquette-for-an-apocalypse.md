@@ -25,7 +25,7 @@ category = ["Dystopias"]
 books_publisher = "publishers/brackets-press.md"
 books_translator = ""
 reviews_books = ["books/etiquette-for-an-apocalypse.md"]
-books_author = ["authors/anne-mendel.md"]
+books_author = ["books/etiquette-for-an-apocalypse.md"]
 sponsorships_book = ["sponsorships/etiquette-for-an-apocalypse.md"]
 notes_relationship = ""
 [[image]]

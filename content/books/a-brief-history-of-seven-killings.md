@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
 reviews_books = ["books/a-brief-history-of-seven-killings.md"]
-books_author = ["authors/marlon-james.md"]
+books_author = ["books/a-brief-history-of-seven-killings.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/marlon-james-takes-the-booker.md"]
 [[image]]

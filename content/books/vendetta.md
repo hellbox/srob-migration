@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/little-brown-and-company.md"
 books_translator = ""
 reviews_books = ["books/vendetta.md"]
-books_author = ["authors/james-neff.md"]
+books_author = ["books/vendetta.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/you-wont-ever-meet-bill-clinton-on-amazoncom.md"]
 [[image]]

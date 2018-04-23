@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
 reviews_books = ["books/the-line-becomes-a-river.md"]
-books_author = ["authors/francisco-cant\u00fa.md"]
+books_author = ["books/the-line-becomes-a-river.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

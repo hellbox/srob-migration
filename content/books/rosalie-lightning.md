@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/macmillan.md"
 books_translator = ""
 reviews_books = ["books/rosalie-lightning.md"]
-books_author = ["authors/tom-hart.md"]
+books_author = ["books/rosalie-lightning.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-cartoonist-noel-franklin-about-her-new-award-short-run-and-her-next-book.md", "notes/literary-event-of-the-week-short-run.md"]
 [[image]]

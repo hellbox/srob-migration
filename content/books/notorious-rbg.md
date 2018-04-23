@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/dey-street-books.md"
 books_translator = ""
 reviews_books = ["books/notorious-rbg.md"]
-books_author = ["authors/irin-carmon.md"]
+books_author = ["books/notorious-rbg.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

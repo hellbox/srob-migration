@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/ohio-university-press.md"
 books_translator = ""
 reviews_books = ["books/subversive-lives.md"]
-books_author = ["authors/nathan-quimpo.md", "authors/susan-quimpo.md"]
+books_author = ["books/subversive-lives.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

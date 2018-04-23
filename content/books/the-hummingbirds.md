@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/skyhorse-publishing.md"
 books_translator = ""
 reviews_books = ["books/the-hummingbirds.md"]
-books_author = ["authors/ross-mcmeekin.md"]
+books_author = ["books/the-hummingbirds.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-16th---april-22nd.md"]
 [[image]]

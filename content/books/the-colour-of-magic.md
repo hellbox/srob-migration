@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-colour-of-magic.md"]
-books_author = ""
+books_author = ["books/the-colour-of-magic.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/todays-clickbait-alert-dont-read-the-terry-pratchett-story-thats-making-the-rounds.md"]
 [[image]]

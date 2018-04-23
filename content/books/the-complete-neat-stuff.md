@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics-books.md"
 books_translator = ""
 reviews_books = ["books/the-complete-neat-stuff.md"]
-books_author = ["authors/peter-bagge.md"]
+books_author = ["books/the-complete-neat-stuff.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/southern-indiana-review-press.md"
 books_translator = ""
 reviews_books = ["books/the-multitude.md"]
-books_author = ["authors/hannah-faith-notess.md"]
+books_author = ["books/the-multitude.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 [[image]]

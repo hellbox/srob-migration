@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/transcentainment-comics.md"
 books_translator = ""
 reviews_books = ["books/not-really-an-emotion.md"]
-books_author = ["authors/kevin-marshall.md"]
+books_author = ["books/not-really-an-emotion.md"]
 sponsorships_book = ["sponsorships/not-really-an-emotion.md"]
 notes_relationship = ["notes/not-really-a-comic-book.md"]
 [[image]]

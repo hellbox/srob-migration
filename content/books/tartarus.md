@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/bold-strokes-books.md"
 books_translator = ""
 reviews_books = ["books/tartarus.md"]
-books_author = ["authors/eric-andrews-katz.md"]
+books_author = ["books/tartarus.md"]
 sponsorships_book = ["sponsorships/tartarus.md"]
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/vintage-books.md"
 books_translator = ""
 reviews_books = ["books/the-death-and-life-of-bobby-z.md"]
-books_author = ["authors/don-winslow.md"]
+books_author = ["books/the-death-and-life-of-bobby-z.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-recommendation-engine.md"]
 [[image]]

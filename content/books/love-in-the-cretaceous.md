@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/anaphora-literary-press.md"
 books_translator = ""
 reviews_books = ["books/love-in-the-cretaceous.md"]
-books_author = ["authors/howard-w-robertson.md"]
+books_author = ["books/love-in-the-cretaceous.md"]
 sponsorships_book = ["sponsorships/love-in-the-cretaceous.md"]
 notes_relationship = ["notes/love-in-the-time-of-brontosaurs.md"]
 [[image]]

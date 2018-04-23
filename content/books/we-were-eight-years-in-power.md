@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/one-world.md"
 books_translator = ""
 reviews_books = ["books/we-were-eight-years-in-power.md"]
-books_author = ["authors/ta-nehisi-coates.md"]
+books_author = ["books/we-were-eight-years-in-power.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

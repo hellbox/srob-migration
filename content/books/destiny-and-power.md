@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/random-house.md"
 books_translator = ""
 reviews_books = ["books/destiny-and-power.md"]
-books_author = ["authors/jon-meacham.md"]
+books_author = ["books/destiny-and-power.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

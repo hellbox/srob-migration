@@ -25,7 +25,7 @@ category = "poetry"
 books_publisher = "publishers/small-doggies-press.md"
 books_translator = ""
 reviews_books = ["books/up-south.md"]
-books_author = ["authors/robert-lashley.md"]
+books_author = ["books/up-south.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

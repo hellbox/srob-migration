@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/europa-editions.md"
 books_translator = ""
 reviews_books = ["books/the-days-of-abandonment.md"]
-books_author = ["authors/elena-ferrante.md"]
+books_author = ["books/the-days-of-abandonment.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

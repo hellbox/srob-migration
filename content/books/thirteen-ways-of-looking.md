@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/random-house.md"
 books_translator = ""
 reviews_books = ["books/thirteen-ways-of-looking.md"]
-books_author = ["authors/colum-mccann.md"]
+books_author = ["books/thirteen-ways-of-looking.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

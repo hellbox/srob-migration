@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/floating-bridge-press.md"
 books_translator = ""
 reviews_books = ["books/yesterday-the-bees.md"]
-books_author = ["authors/maya-jewell-zeller.md"]
+books_author = ["books/yesterday-the-bees.md"]
 sponsorships_book = ["sponsorships/yesterday-the-bees.md"]
 notes_relationship = ""
 [[image]]

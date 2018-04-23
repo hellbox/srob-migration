@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/childrens-book-press.md"
 books_translator = ""
 reviews_books = ["books/the-people-shall-continue.md"]
-books_author = ["authors/simon-j-ortiz.md", "authors/sharol-graves.md"]
+books_author = ["books/the-people-shall-continue.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

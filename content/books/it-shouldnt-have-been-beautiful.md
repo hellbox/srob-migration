@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/penguin-books.md"
 books_translator = ""
 reviews_books = ["books/it-shouldnt-have-been-beautiful.md"]
-books_author = ["authors/lia-purpura.md"]
+books_author = ["books/it-shouldnt-have-been-beautiful.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

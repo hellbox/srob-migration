@@ -25,7 +25,7 @@ category = ["Art"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-art-of-cruelty.md"]
-books_author = ["authors/maggie-nelson.md"]
+books_author = ["books/the-art-of-cruelty.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-kind-of-genius-you-cant-ignore.md"]
 [[image]]

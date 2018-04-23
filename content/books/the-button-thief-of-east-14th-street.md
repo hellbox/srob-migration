@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sagging-meniscus-press.md"
 books_translator = ""
 reviews_books = ["books/the-button-thief-of-east-14th-street.md"]
-books_author = ["authors/fay-webern.md"]
+books_author = ["books/the-button-thief-of-east-14th-street.md"]
 sponsorships_book = ["sponsorships/the-button-thief-of-east-14th-street.md"]
 notes_relationship = ["notes/remembering-a-new-york-now-gone-from-an-eye-witness.md"]
 [[image]]

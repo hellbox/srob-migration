@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/amazon.md"
 books_translator = ""
 reviews_books = ["books/the-elephant-in-the-room.md"]
-books_author = ["authors/jon-ronson.md"]
+books_author = ["books/the-elephant-in-the-room.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

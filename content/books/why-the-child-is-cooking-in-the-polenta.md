@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/dalkey-archive-press.md"
 books_translator = ""
 reviews_books = ["books/why-the-child-is-cooking-in-the-polenta.md"]
-books_author = ["authors/aglaja-veteranyi.md"]
+books_author = ["books/why-the-child-is-cooking-in-the-polenta.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

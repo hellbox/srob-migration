@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/arcade-publishing.md"
 books_translator = ""
 reviews_books = ["books/meanwhile-there-are-letters.md"]
-books_author = ["authors/eudora-welty.md", "authors/ross-macdonald.md", "authors/suzanne-marrs.md", "authors/tom-nolan-.md"]
+books_author = ["books/meanwhile-there-are-letters.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

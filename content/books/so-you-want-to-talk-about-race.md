@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/seal-press.md"
 books_translator = ""
 reviews_books = ["books/so-you-want-to-talk-about-race.md"]
-books_author = ["authors/ijeoma-oluo.md"]
+books_author = ["books/so-you-want-to-talk-about-race.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/event-of-the-week-so-you-want-to-talk-about-race-at-elliott-bay-book-company.md"]
 [[image]]

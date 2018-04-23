@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/picador-usa.md"
 books_translator = ""
 reviews_books = ["books/listen-liberal.md"]
-books_author = ["authors/thomas-frank.md"]
+books_author = ["books/listen-liberal.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-persecuting-liberal-elites-at-a-fancy-banh-mi-shop.md", "notes/the-populist-who-crashed-the-party.md", "notes/talking-with-thomas-frank-about-the-fraud-and-scam-of-american-higher-education.md"]
 [[image]]

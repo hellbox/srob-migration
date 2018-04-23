@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/cave-moon-press.md"
 books_translator = ""
 reviews_books = ["books/dear-alzheimers.md"]
-books_author = ["authors/esther-altshul-helfgott.md"]
+books_author = ["books/dear-alzheimers.md"]
 sponsorships_book = ["sponsorships/dear-alzheimers.md"]
 notes_relationship = ["notes/our-thanks-to-sponsor-esther-altshul-helfgott.md", "notes/one-day-left-to-read-some-amazing-moving-work.md"]
 [[image]]

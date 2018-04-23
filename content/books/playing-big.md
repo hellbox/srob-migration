@@ -25,7 +25,7 @@ category = ["Self-actualization (Psychology)"]
 books_publisher = "publishers/avery-publishing-group.md"
 books_translator = ""
 reviews_books = ["books/playing-big.md"]
-books_author = ["authors/tara-mohr.md"]
+books_author = ["books/playing-big.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

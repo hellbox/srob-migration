@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/spuyten-duyvil.md"
 books_translator = ""
 reviews_books = ["books/lifeline-rule.md"]
-books_author = ["authors/doug-nufer.md"]
+books_author = ["books/lifeline-rule.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"]
 [[image]]

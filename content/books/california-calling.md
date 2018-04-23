@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/hawthorne-books.md"
 books_translator = ""
 reviews_books = ["books/california-calling.md"]
-books_author = ["authors/natalie-singer.md"]
+books_author = ["books/california-calling.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

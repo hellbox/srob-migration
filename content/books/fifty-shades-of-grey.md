@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/fifty-shades-of-grey.md"]
-books_author = ["authors/el-james.md"]
+books_author = ["books/fifty-shades-of-grey.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/fifty-shades-of-ama.md"]
 [[image]]

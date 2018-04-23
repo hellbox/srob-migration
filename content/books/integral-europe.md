@@ -25,7 +25,7 @@ category = ["History"]
 books_publisher = "publishers/princeton-university-press.md"
 books_translator = ""
 reviews_books = ["books/integral-europe.md"]
-books_author = ["authors/douglas-r-holmes.md"]
+books_author = ["books/integral-europe.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

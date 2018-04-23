@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/john-wiley-&-sons-incorporated.md"
 books_translator = ""
 reviews_books = ["books/gutenberg.md"]
-books_author = ["authors/john-man.md"]
+books_author = ["books/gutenberg.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

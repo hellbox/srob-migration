@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/broadway-books.md"
 books_translator = ""
 reviews_books = ["books/charlatan.md"]
-books_author = ["authors/pope-brock.md"]
+books_author = ["books/charlatan.md"]
 sponsorships_book = ["sponsorships/charlatan.md", "sponsorships/pope-brocks-charlatan.md"]
 notes_relationship = ["notes/the-flimflam-man-is-back.md", "notes/the-flimflam-man-is-back-again-(with-a-new-chapter-for-you).md"]
 [[image]]

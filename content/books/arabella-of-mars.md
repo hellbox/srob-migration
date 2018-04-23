@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/tor.md"
 books_translator = ""
 reviews_books = ["books/arabella-of-mars.md"]
-books_author = ["authors/david-d-levine.md"]
+books_author = ["books/arabella-of-mars.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

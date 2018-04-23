@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/relegation-books.md"
 books_translator = ""
 reviews_books = ["books/the-loved-ones.md"]
-books_author = ["authors/sonya-chung.md"]
+books_author = ["books/the-loved-ones.md"]
 sponsorships_book = ["sponsorships/the-loved-ones.md"]
 notes_relationship = ""
 [[image]]

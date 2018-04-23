@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
 reviews_books = ["books/mooncop.md"]
-books_author = ["authors/tom-gauld.md"]
+books_author = ["books/mooncop.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-they-put-a-man-on-the-moon.md"]
 [[image]]

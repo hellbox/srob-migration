@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/scribner-book-company.md"
 books_translator = ""
 reviews_books = ["books/what-comes-next-and-how-to-like-it.md"]
-books_author = ["authors/abigail-thomas.md"]
+books_author = ["books/what-comes-next-and-how-to-like-it.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

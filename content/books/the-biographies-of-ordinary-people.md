@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/nicole-dieker.md"
 books_translator = ""
 reviews_books = ["books/the-biographies-of-ordinary-people.md"]
-books_author = ["authors/nicole-dieker.md"]
+books_author = ["books/the-biographies-of-ordinary-people.md"]
 sponsorships_book = ["sponsorships/the-biographies-of-ordinary-people.md", "sponsorships/the-biographies-of-ordinary-people-vol-1.md"]
 notes_relationship = ["notes/ordinary-lives-told-with-extraordinary-heart.md"]
 [[image]]

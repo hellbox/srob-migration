@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/mariner-books.md"
 books_translator = ""
 reviews_books = ["books/the-turner-house.md"]
-books_author = ["authors/angela-flournoy.md"]
+books_author = ["books/the-turner-house.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-seattle-reads-the-turner-house.md", "notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th.md"]
 [[image]]

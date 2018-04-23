@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/amphora-editions.md"
 books_translator = ""
 reviews_books = ["books/music-to-my-years.md"]
-books_author = ["authors/artie-kane.md"]
+books_author = ["books/music-to-my-years.md"]
 sponsorships_book = ["sponsorships/music-to-my-years.md"]
 notes_relationship = ["notes/the-sharpest-ear-in-hollywood.md"]
 [[image]]

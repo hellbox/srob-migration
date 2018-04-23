@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/pantheon-books.md"
 books_translator = ""
 reviews_books = ["books/the-art-of-charlie-chan-hock-chye.md"]
-books_author = ["authors/sonny-liew.md"]
+books_author = ["books/the-art-of-charlie-chan-hock-chye.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-to-sonny-liew-about-singapore-and-comics.md"]
 [[image]]

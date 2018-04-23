@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/da-capo.md"
 books_translator = ""
 reviews_books = ["books/the-turk-who-loved-apples.md"]
-books_author = ["authors/matt-gross.md"]
+books_author = ["books/the-turk-who-loved-apples.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

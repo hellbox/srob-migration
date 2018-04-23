@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/freebird.md"]
-books_author = ""
+books_author = ["books/freebird.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-jon-raymond-reads-freebird-at-university-book-store.md"]
 [[image]]

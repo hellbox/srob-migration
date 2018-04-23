@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/atelier26-books.md"
 books_translator = ""
 reviews_books = ["books/funny-ass-thoreau.md"]
-books_author = ["authors/m-allen-cunningham.md"]
+books_author = ["books/funny-ass-thoreau.md"]
 sponsorships_book = ["sponsorships/funny-ass-thoreau.md"]
 notes_relationship = ["notes/waitwho-was-really-funny-really.md"]
 [[image]]

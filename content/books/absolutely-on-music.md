@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/knopf.md"
 books_translator = ""
 reviews_books = ["books/absolutely-on-music.md"]
-books_author = ["authors/haruki-murakami.md"]
+books_author = ["books/absolutely-on-music.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

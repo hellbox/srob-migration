@@ -25,7 +25,7 @@ category = ["Political Science"]
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
 reviews_books = ["books/its-even-worse-than-you-think.md"]
-books_author = ["authors/david-cay-johnston.md"]
+books_author = ["books/its-even-worse-than-you-think.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

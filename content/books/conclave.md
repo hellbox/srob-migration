@@ -25,7 +25,7 @@ category = "thriller"
 books_publisher = "publishers/knopf.md"
 books_translator = ""
 reviews_books = ["books/conclave.md"]
-books_author = ["authors/robert-harris.md"]
+books_author = ["books/conclave.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/choosing-a-pope-is-messy-human-work.md"]
 [[image]]

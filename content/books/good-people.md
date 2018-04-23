@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/text-publishing-company.md"
 books_translator = ""
 reviews_books = ["books/good-people.md"]
-books_author = ["authors/nir-baram.md"]
+books_author = ["books/good-people.md"]
 sponsorships_book = ["sponsorships/good-people.md"]
 notes_relationship = ["notes/a-gripping-drama-from-an-emerging-israeli-novelist.md"]
 [[image]]

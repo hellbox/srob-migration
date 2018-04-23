@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/wrinkle-in-time.md"]
-books_author = ""
+books_author = ["books/wrinkle-in-time.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-dun-dun-dun-dun-dun-dun-dun-dun-dun-duuuuun.md", "notes/the-help-desk-its-thick-book-season!.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/harper-perennial.md"
 books_translator = ""
 reviews_books = ["books/gutenbergs-apprentice-(paperback).md"]
-books_author = ["authors/alix-christie.md"]
+books_author = ["books/gutenbergs-apprentice-(paperback).md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/anchor-books.md"
 books_translator = ""
 reviews_books = ["books/we-should-all-be-feminists.md"]
-books_author = ["authors/chimamanda-ngozi-adichie.md"]
+books_author = ["books/we-should-all-be-feminists.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-november-23---29.md", "notes/another-reason-to-love-sweden.md", "notes/seventeen-bookstores-in-a-single-day-my-independent-bookstore-day-journey.md"]
 [[image]]

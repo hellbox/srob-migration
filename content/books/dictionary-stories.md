@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/harper-perennial.md"
 books_translator = ""
 reviews_books = ["books/dictionary-stories.md"]
-books_author = ["authors/jez-burrows.md"]
+books_author = ["books/dictionary-stories.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

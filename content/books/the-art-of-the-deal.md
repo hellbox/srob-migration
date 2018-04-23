@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-art-of-the-deal.md"]
-books_author = ""
+books_author = ["books/the-art-of-the-deal.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-sunday-post-for-july-24-2016.md"]
 [[image]]

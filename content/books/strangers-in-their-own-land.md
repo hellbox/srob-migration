@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/the-new-press.md"
 books_translator = ""
 reviews_books = ["books/strangers-in-their-own-land.md"]
-books_author = ["authors/arlie-russell-hochschild.md"]
+books_author = ["books/strangers-in-their-own-land.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-americas-worsening-political-divide-with-a-side-of-corned-beef.md"]
 [[image]]

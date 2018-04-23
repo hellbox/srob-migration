@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/pleiades-press.md"
 books_translator = ""
 reviews_books = ["books/a-lesser-love.md"]
-books_author = ["authors/ej-koh.md"]
+books_author = ["books/a-lesser-love.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-ej-koh-about-translation-and-what-it-means-to-be-a-seattle-poet.md"]
 [[image]]

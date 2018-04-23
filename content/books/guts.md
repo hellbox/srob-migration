@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/vine-leaves-press.md"
 books_translator = ""
 reviews_books = ["books/guts.md"]
-books_author = ["authors/janet-buttenwieser.md"]
+books_author = ["books/guts.md"]
 sponsorships_book = ["sponsorships/guts.md"]
 notes_relationship = ["notes/get-a-peek-at-janet-buttenwiesers-new-memoir.md"]
 [[image]]

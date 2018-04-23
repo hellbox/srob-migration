@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-stranger-beside-me.md"]
-books_author = ""
+books_author = ["books/the-stranger-beside-me.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/ann-rule-1930---2015.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/gramma-poetry.md"
 books_translator = ""
 reviews_books = ["books/ugly-time.md"]
-books_author = ["authors/sarah-galvin.md"]
+books_author = ["books/ugly-time.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-sarah-galvin-at-the-gramma-poetry-party.md", "notes/book-news-roundup-sarah-galvins-going-on-a-european-book-tour-jim-demonakos-is-leaving-emerald-city-comicon.md", "notes/literary-event-of-the-week-x-y-z-gallery-opening.md"]
 [[image]]

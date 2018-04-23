@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/dark-horse-books.md"
 books_translator = ""
 reviews_books = ["books/apocalyptigirl.md"]
-books_author = ["authors/andrew-maclean.md"]
+books_author = ["books/apocalyptigirl.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

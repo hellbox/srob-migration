@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
 reviews_books = ["books/mar.md"]
-books_author = ["authors/caroline-crew.md"]
+books_author = ["books/mar.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

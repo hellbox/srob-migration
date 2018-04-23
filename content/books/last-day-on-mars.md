@@ -25,7 +25,7 @@ category = ["Juvenile Fiction"]
 books_publisher = "publishers/walden-pond-press.md"
 books_translator = ""
 reviews_books = ["books/last-day-on-mars.md"]
-books_author = ["authors/kevin-emerson.md"]
+books_author = ["books/last-day-on-mars.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/cracked!-a-magic-iphone-story.md"]
-books_author = ["authors/janine-a-southard.md"]
+books_author = ["books/cracked!-a-magic-iphone-story.md"]
 sponsorships_book = ["sponsorships/cracked!-a-magic-iphone-story.md"]
 notes_relationship = ["notes/janine-a-southards-cracked!-a-magic-iphone-story.md", "notes/read-a-chapter-from-janine-a-southards-cracked!-a-magic-iphone-story.md", "notes/one-last-thanks-to-janine-a-southard.md"]
 [[image]]

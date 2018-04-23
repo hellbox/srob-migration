@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sagging-meniscus-press.md"
 books_translator = ""
 reviews_books = ["books/the-most-wretched-thing-imaginable-or-beneath-the-burnt-umbrella.md"]
-books_author = ["authors/stephen-moles.md"]
+books_author = ["books/the-most-wretched-thing-imaginable-or-beneath-the-burnt-umbrella.md"]
 sponsorships_book = ["sponsorships/the-most-wretched-thing-imaginable.md"]
 notes_relationship = ["notes/a-book-of-amazing-deadpan-surrealism.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
 reviews_books = ["books/was-she-pretty.md"]
-books_author = ["authors/leanne-shapton.md"]
+books_author = ["books/was-she-pretty.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

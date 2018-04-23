@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics.md"
 books_translator = ""
 reviews_books = ["books/patience.md"]
-books_author = ["authors/dan-clowes.md", "authors/daniel-clowes.md"]
+books_author = ["books/patience.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

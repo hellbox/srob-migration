@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/how-to-win-friends-and-influence-people.md"]
-books_author = ""
+books_author = ["books/how-to-win-friends-and-influence-people.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-introducing-our-new-literary-advice-column.md", "notes/the-help-desk-my-bookish-friend-drinks-too-much-can-books-save-him.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/university-of-washington-press.md"
 books_translator = ""
 reviews_books = ["books/a-time-to-rise.md"]
-books_author = ["authors/rene-ciria-cruz.md", "authors/cindy-domingo.md", "authors/bruce-occena.md"]
+books_author = ["books/a-time-to-rise.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

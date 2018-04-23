@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
 reviews_books = ["books/step-aside-pops.md"]
-books_author = ["authors/kate-beaton.md"]
+books_author = ["books/step-aside-pops.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/portrait-gallery-kate-beaton.md"]
 [[image]]

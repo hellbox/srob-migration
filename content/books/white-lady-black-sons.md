@@ -25,7 +25,7 @@ category = "memoir"
 books_publisher = "publishers/self-published.md"
 books_translator = ""
 reviews_books = ["books/white-lady-black-sons.md"]
-books_author = ["authors/lisa-richesson.md"]
+books_author = ["books/white-lady-black-sons.md"]
 sponsorships_book = ["sponsorships/white-lady-black-sons.md"]
 notes_relationship = ["notes/talking-about-race-in-seattle-through-personal-experience.md"]
 [[image]]

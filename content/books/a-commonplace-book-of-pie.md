@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/a-commonplace-book-of-pie.md"]
-books_author = ""
+books_author = ["books/a-commonplace-book-of-pie.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane.md"]
 [[image]]

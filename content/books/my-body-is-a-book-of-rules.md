@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/red-hen-press.md"
 books_translator = ""
 reviews_books = ["books/my-body-is-a-book-of-rules.md"]
-books_author = ["authors/elissa-washuta.md"]
+books_author = ["books/my-body-is-a-book-of-rules.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/washington-state-book-awards-finalists-announced.md", "notes/sometimes-our-writers-go-east.md", "notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award.md"]
 [[image]]

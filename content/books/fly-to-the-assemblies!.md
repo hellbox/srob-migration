@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/third-place-press.md"
 books_translator = ""
 reviews_books = ["books/fly-to-the-assemblies!.md"]
-books_author = ["authors/marcus-harrison-green.md"]
+books_author = ["books/fly-to-the-assemblies!.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/fly-to-the-assemblies!-calls-seattle-to-action.md"]
 [[image]]

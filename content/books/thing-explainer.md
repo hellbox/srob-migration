@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/thing-explainer.md"]
-books_author = ""
+books_author = ["books/thing-explainer.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/holiday-gift-book-recommendation-1-thing-explainer.md"]
 [[image]]

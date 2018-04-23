@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/counterpoint.md"
 books_translator = ""
 reviews_books = ["books/bird.md"]
-books_author = ["authors/noy-holland.md"]
+books_author = ["books/bird.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

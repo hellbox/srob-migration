@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/strategic-book-publishing-company.md"
 books_translator = ""
 reviews_books = ["books/my-dear-wife-and-children.md"]
-books_author = ["authors/nick-k-adams.md"]
+books_author = ["books/my-dear-wife-and-children.md"]
 sponsorships_book = ["sponsorships/my-dear-wife-and-children.md"]
 notes_relationship = ""
 [[image]]

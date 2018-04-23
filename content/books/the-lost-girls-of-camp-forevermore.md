@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/houghton-mifflin-harcourt.md"
 books_translator = ""
 reviews_books = ["books/the-lost-girls-of-camp-forevermore.md"]
-books_author = ["authors/kim-fu.md"]
+books_author = ["books/the-lost-girls-of-camp-forevermore.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

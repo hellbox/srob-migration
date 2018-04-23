@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/red-hen-press.md"
 books_translator = ""
 reviews_books = ["books/water-&amp;-salt.md"]
-books_author = ["authors/lena-khalaf-tuffaha-.md"]
+books_author = ["books/water-&amp;-salt.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/event-of-the-week-lena-khalaf-tuffaha-at-elliott-bay-book-company.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/gg-silverman.md"
 books_translator = ""
 reviews_books = ["books/vegan-teenage-zombie-huntress.md"]
-books_author = ["authors/gg-silverman.md"]
+books_author = ["books/vegan-teenage-zombie-huntress.md"]
 sponsorships_book = ["sponsorships/vegan-teenage-zombie-huntress.md"]
 notes_relationship = ["notes/have-you-looked-at-vegan-teenage-zombie-huntress-yet.md"]
 [[image]]

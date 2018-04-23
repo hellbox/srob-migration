@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/copper-canyon-press.md"
 books_translator = ""
 reviews_books = ["books/time-will-clean-the-carcass-bones.md"]
-books_author = ["authors/lucia-perillo.md"]
+books_author = ["books/time-will-clean-the-carcass-bones.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/celebrating-lucia-perillo.md"]
 [[image]]

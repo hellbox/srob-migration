@@ -25,7 +25,7 @@ category = ["Literary Collections"]
 books_publisher = "publishers/graywolf-press.md"
 books_translator = ""
 reviews_books = ["books/citizen.md"]
-books_author = ["authors/claudia-rankine.md"]
+books_author = ["books/citizen.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/third-place-seward-park-is-our-june-bookstore-of-the-month.md", "notes/the-kind-of-genius-you-cant-ignore.md", "notes/reading-through-it-join-us-for-a-discussion-of-how-to-move-forward-in-donald-trump\u2019s-america.md", "notes/literary-event-of-the-week-come-discuss-citizen-an-american-lyric-with-us-tonight.md", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md", "notes/book-news-roundup-the-georgetown-steam-plant-has-its-official-cartoonist-biographers.md"]
 [[image]]

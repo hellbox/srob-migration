@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/william-morrow-paperbacks.md"
 books_translator = ""
 reviews_books = ["books/private-citizens.md"]
-books_author = ["authors/tony-tulathimutte.md"]
+books_author = ["books/private-citizens.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

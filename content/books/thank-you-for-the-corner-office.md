@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/thank-you-for-the-corner-office.md"]
-books_author = ["authors/maged-zaher.md"]
+books_author = ["books/thank-you-for-the-corner-office.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

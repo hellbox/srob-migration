@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/black-dog-&-leventhal.md"
 books_translator = ""
 reviews_books = ["books/tenements-towers-&-trash.md"]
-books_author = ["authors/julia-wertz.md"]
+books_author = ["books/tenements-towers-&-trash.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/getting-ready-for-short-run-read-our-coverage-first!.md"]
 [[image]]

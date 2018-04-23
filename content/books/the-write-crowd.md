@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/bloomsbury.md"
 books_translator = ""
 reviews_books = ["books/the-write-crowd.md"]
-books_author = ["authors/lori-a-may.md"]
+books_author = ["books/the-write-crowd.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-szechuan-sandwiches-and-joining-the-community.md"]
 [[image]]

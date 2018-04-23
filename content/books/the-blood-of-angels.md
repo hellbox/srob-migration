@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/peter-owen-publishers.md"
 books_translator = ""
 reviews_books = ["books/the-blood-of-angels.md"]
-books_author = ["authors/johanna-sinisalo.md"]
+books_author = ["books/the-blood-of-angels.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

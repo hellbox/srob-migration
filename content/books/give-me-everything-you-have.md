@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/vintage-books.md"
 books_translator = ""
 reviews_books = ["books/give-me-everything-you-have.md"]
-books_author = ["authors/james-lasdun.md"]
+books_author = ["books/give-me-everything-you-have.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

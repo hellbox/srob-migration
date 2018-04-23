@@ -25,7 +25,7 @@ category = ["Self-Help"]
 books_publisher = "publishers/aviva-publishing.md"
 books_translator = ""
 reviews_books = ["books/the-courage-of-a-samurai.md"]
-books_author = ["authors/lori-tsugawa-whaley.md"]
+books_author = ["books/the-courage-of-a-samurai.md"]
 sponsorships_book = ["sponsorships/the-courage-of-a-samurai.md", "sponsorships/the-courage-of-a-samurai.md"]
 notes_relationship = ["notes/modern-life-\u2014-guided-by-a-set-of-tested-principles.md"]
 [[image]]

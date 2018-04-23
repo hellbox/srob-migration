@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/crown.md"
 books_translator = ""
 reviews_books = ["books/vurt.md"]
-books_author = ["authors/jeff-noon.md"]
+books_author = ["books/vurt.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/nightboat-books.md"
 books_translator = ""
 reviews_books = ["books/the-consequences-of-my-body.md"]
-books_author = ["authors/maged-zaher.md"]
+books_author = ["books/the-consequences-of-my-body.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

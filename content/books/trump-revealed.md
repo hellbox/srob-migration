@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/scribner-book-company.md"
 books_translator = ""
 reviews_books = ["books/trump-revealed.md"]
-books_author = ["authors/michael-kranish.md", "authors/marc-fisher.md"]
+books_author = ["books/trump-revealed.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

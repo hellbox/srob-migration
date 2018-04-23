@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/third-place-press.md"
 books_translator = ""
 reviews_books = ["books/grit-and-roses.md"]
-books_author = ["authors/eugene-m-babb.md"]
+books_author = ["books/grit-and-roses.md"]
 sponsorships_book = ["sponsorships/grit-and-roses.md"]
 notes_relationship = ["notes/its-a-musicians-life.md", "notes/one-more-day-before-the-band-stops-playing.md"]
 [[image]]

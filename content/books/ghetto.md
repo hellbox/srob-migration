@@ -25,7 +25,7 @@ category = ["Political Science"]
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
 reviews_books = ["books/ghetto.md"]
-books_author = ["authors/mitchell-duneier.md"]
+books_author = ["books/ghetto.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

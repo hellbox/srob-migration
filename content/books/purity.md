@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
 reviews_books = ["books/purity.md"]
-books_author = ["authors/jonathan-franzen.md"]
+books_author = ["books/purity.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-a-cute-boy-only-reads-self-important-books-by-self-important-men-\u2014\u00a0what-do-i-do.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/thunder&x27;s-mouth-press.md"
 books_translator = ""
 reviews_books = ["books/never-again.md"]
-books_author = ["authors/doug-nufer.md"]
+books_author = ["books/never-again.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"]
 [[image]]

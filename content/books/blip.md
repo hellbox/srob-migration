@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/bookbaby.md"
 books_translator = ""
 reviews_books = ["books/blip.md"]
-books_author = ["authors/ken-boynton.md"]
+books_author = ["books/blip.md"]
 sponsorships_book = ["sponsorships/blip.md"]
 notes_relationship = ""
 [[image]]

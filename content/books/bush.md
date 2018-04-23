@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
 reviews_books = ["books/bush.md"]
-books_author = ["authors/jean-edward-smith.md"]
+books_author = ["books/bush.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

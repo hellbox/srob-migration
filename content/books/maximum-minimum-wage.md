@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/image-comics.md"
 books_translator = ""
 reviews_books = ["books/maximum-minimum-wage.md"]
-books_author = ["authors/bob-fingerman.md"]
+books_author = ["books/maximum-minimum-wage.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-raise-the-minimum-wage.md"]
 [[image]]

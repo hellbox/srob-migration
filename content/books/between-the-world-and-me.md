@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/spiegel-&amp;-grau.md"
 books_translator = ""
 reviews_books = ["books/between-the-world-and-me.md"]
-books_author = ["authors/ta-nehisi-coates.md"]
+books_author = ["books/between-the-world-and-me.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/ta-nehisi-coates-to-write-black-panther-comic-book-for-marvel.md", "notes/ta-nehisi-coates-reads-in-seattle-tonight.md", "notes/the-problem-of-applause.md", "notes/the-2015-national-book-award-winners-are.md", "notes/thursday-comics-hangover-everybodys-talking-about-the-black-panther.md", "notes/thursday-comics-hangover-william-gibson-comes-to-comics.md", "notes/third-place-seward-park-is-our-june-bookstore-of-the-month.md", "notes/ta-nehisi-coatess-new-book-is-on-the-stands-in-bookstores-now.md"]
 [[image]]

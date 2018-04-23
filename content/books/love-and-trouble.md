@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/love-and-trouble.md"]
-books_author = ["authors/claire-dederer.md"]
+books_author = ["books/love-and-trouble.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

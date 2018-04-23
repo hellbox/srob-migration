@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/little-brown-and-company.md"
 books_translator = ""
 reviews_books = ["books/you-dont-have-to-say-you-love-me.md"]
-books_author = ["authors/sherman-alexie.md"]
+books_author = ["books/you-dont-have-to-say-you-love-me.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/in-the-recording-studio-with-sherman-alexie.md", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md", "notes/citing-a-need-to-take-a-big-step-back-and-do-most-of-my-grieving-in-private-sherman-alexie-postpones-book-tour.md", "notes/literary-event-of-the-week-absolutely-true-diary-of-a-part-time-indian-reissue-release-party.md", "notes/john-smelcer-wants-to-sing-like-sherman-alexie-but-he-sounds-more-like-a-cat-in-heat.md", "notes/sherman-alexie-jennifer-egan-win-carnegie-medals-for-literary-excellence.md"]
 [[image]]

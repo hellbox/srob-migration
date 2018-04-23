@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/w-w-norton.md"
 books_translator = ""
 reviews_books = ["books/the-fall-guy.md"]
-books_author = ["authors/james-lasdun.md"]
+books_author = ["books/the-fall-guy.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

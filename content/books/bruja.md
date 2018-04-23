@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/civil-coping-mechanisms.md"
 books_translator = ""
 reviews_books = ["books/bruja.md"]
-books_author = ["authors/wendy-c-ortiz.md"]
+books_author = ["books/bruja.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

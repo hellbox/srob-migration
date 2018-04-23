@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/emblem-editions.md"
 books_translator = ""
 reviews_books = ["books/bear.md"]
-books_author = ["authors/marian-engel.md"]
+books_author = ["books/bear.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-orchid-thief.md"]
-books_author = ["authors/susan-orlean.md"]
+books_author = ["books/the-orchid-thief.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

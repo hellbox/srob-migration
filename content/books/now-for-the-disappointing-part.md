@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/skyhorse-publishing.md"
 books_translator = ""
 reviews_books = ["books/now-for-the-disappointing-part.md"]
-books_author = ["authors/steven-barker.md"]
+books_author = ["books/now-for-the-disappointing-part.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

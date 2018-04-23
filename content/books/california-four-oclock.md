@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/letters-from-the-hellbox-press.md"
 books_translator = ""
 reviews_books = ["books/california-four-oclock.md"]
-books_author = ["authors/martin-mcclellan.md"]
+books_author = ["books/california-four-oclock.md"]
 sponsorships_book = ["sponsorships/california-four-oclock.md"]
 notes_relationship = ""
 [[image]]

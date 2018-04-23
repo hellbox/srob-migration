@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/american-copper.md"]
-books_author = ""
+books_author = ["books/american-copper.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-shann-ray-about-forgiveness-masculinity-and-the-violence-of-western-literature.md", "notes/book-news-roundup-open-books-reopens-this-saturday!.md"]
 [[image]]

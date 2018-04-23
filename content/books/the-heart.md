@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
 reviews_books = ["books/the-heart.md"]
-books_author = ""
+books_author = ["books/the-heart.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-taking-the-heart-to-renton.md"]
 [[image]]

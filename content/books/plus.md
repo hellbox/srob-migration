@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/manic-thrills-press.md"
 books_translator = ""
 reviews_books = ["books/plus.md"]
-books_author = ["authors/tatiana-gill.md"]
+books_author = ["books/plus.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

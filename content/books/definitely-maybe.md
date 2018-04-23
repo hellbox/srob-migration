@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/melville-house.md"
 books_translator = ""
 reviews_books = ["books/definitely-maybe.md"]
-books_author = ["authors/arkady-strugatsky.md", "authors/boris-strugatsky.md"]
+books_author = ["books/definitely-maybe.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

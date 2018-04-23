@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/macmillan.md"
 books_translator = ""
 reviews_books = ["books/elect-h-mouse-state-judge.md"]
-books_author = ["authors/nelly-reifler.md"]
+books_author = ["books/elect-h-mouse-state-judge.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

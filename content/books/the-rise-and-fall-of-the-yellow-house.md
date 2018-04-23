@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/big-table-publishing-company.md"
 books_translator = ""
 reviews_books = ["books/the-rise-and-fall-of-the-yellow-house.md"]
-books_author = ["authors/john-whittier-treat.md"]
+books_author = ["books/the-rise-and-fall-of-the-yellow-house.md"]
 sponsorships_book = ["sponsorships/the-rise-and-fall-of-the-yellow-house.md"]
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/workman-publishing.md"
 books_translator = ""
 reviews_books = ["books/good-and-cheap.md"]
-books_author = ["authors/leanne-brown.md"]
+books_author = ["books/good-and-cheap.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

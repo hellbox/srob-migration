@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/audible-studios.md"
 books_translator = ""
 reviews_books = ["books/promise-me-dad-(audio-book).md"]
-books_author = ["authors/joe-biden.md"]
+books_author = ["books/promise-me-dad-(audio-book).md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
 reviews_books = ["books/the-art-of-the-publisher.md"]
-books_author = ["authors/roberto-calasso.md"]
+books_author = ["books/the-art-of-the-publisher.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

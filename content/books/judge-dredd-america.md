@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/2000-ad.md"
 books_translator = ""
 reviews_books = ["books/judge-dredd-america.md"]
-books_author = ["authors/john-wagner.md"]
+books_author = ["books/judge-dredd-america.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

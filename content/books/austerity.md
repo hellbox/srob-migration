@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/new-internationalist-.md"
 books_translator = ""
 reviews_books = ["books/austerity.md"]
-books_author = ["authors/kerry-anne-mendoza.md"]
+books_author = ["books/austerity.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

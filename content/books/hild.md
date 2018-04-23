@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/picador-usa.md"
 books_translator = ""
 reviews_books = ["books/hild.md"]
-books_author = ["authors/nicola-griffith.md"]
+books_author = ["books/hild.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-nicola-griffith-about-the-importance-of-counting-womens-stories.md", "notes/add-a-personal-touch-to-your-holiday-shopping-at-phinney-books.md"]
 [[image]]

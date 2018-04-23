@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/peter-owen-publishers.md"
 books_translator = ""
 reviews_books = ["books/birdbrain.md"]
-books_author = ["authors/johanna-sinisalo.md"]
+books_author = ["books/birdbrain.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

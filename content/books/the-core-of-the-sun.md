@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/black-cat.md"
 books_translator = ""
 reviews_books = ["books/the-core-of-the-sun.md"]
-books_author = ["authors/johanna-sinisalo.md"]
+books_author = ["books/the-core-of-the-sun.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

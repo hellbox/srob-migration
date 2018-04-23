@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/william-morrow.md"
 books_translator = ""
 reviews_books = ["books/seveneves.md"]
-books_author = ["authors/neal-stephenson.md"]
+books_author = ["books/seveneves.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/hugo-award-finalists-announced.md", "notes/tomorrow-never-dies.md", "notes/book-news-roundup-neal-stephenson-is-going-to-the-movies.md", "notes/someone-should-write-the-sci-fi-novel-that-america-really-needs-to-read-right-now.md", "notes/literary-event-of-the-week-artemis-reading-at-third-place-books.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/marvel-comics.md"
 books_translator = ""
 reviews_books = ["books/ms-marvel-volume-4-last-days.md"]
-books_author = ["authors/g-willow-wilson.md", "authors/adrian-alphona.md"]
+books_author = ["books/ms-marvel-volume-4-last-days.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"]
 [[image]]

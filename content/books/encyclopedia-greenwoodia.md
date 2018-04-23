@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/-e-greater-seattle-bureau-of-fearless-ideas.md"
 books_translator = ""
 reviews_books = ["books/encyclopedia-greenwoodia.md"]
-books_author = ["authors/multiple-authors.md"]
+books_author = ["books/encyclopedia-greenwoodia.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

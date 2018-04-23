@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-joy-of-sex.md"]
-books_author = ""
+books_author = ["books/the-joy-of-sex.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-the-joy-of-parenting-and-the-joy-of-sex.md"]
 [[image]]

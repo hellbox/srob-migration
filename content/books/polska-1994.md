@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/editions-checkpointed.md"
 books_translator = ""
 reviews_books = ["books/polska-1994.md"]
-books_author = ["authors/isla-mcketta.md"]
+books_author = ["books/polska-1994.md"]
 sponsorships_book = ["sponsorships/polska-1994.md"]
 notes_relationship = ""
 [[image]]

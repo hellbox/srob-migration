@@ -25,7 +25,7 @@ category = ["Social Science"]
 books_publisher = "publishers/tor.md"
 books_translator = ""
 reviews_books = ["books/the-geek-feminist-revolution.md"]
-books_author = ["authors/kameron-hurley.md"]
+books_author = ["books/the-geek-feminist-revolution.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

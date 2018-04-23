@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/ill-never-write-my-memoirs.md"]
-books_author = ["authors/grace-jones.md"]
+books_author = ["books/ill-never-write-my-memoirs.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/a-permanent-state-of-grace.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/valley-of-the-dolls.md"]
-books_author = ""
+books_author = ["books/valley-of-the-dolls.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/sunday-post-for-february-14-2016.md"]
 [[image]]

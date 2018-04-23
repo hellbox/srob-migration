@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/autonomedia.md"
 books_translator = ""
 reviews_books = ["books/negativeland.md"]
-books_author = ["authors/doug-nufer.md"]
+books_author = ["books/negativeland.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"]
 [[image]]

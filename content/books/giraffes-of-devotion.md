@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/kore-press.md"
 books_translator = ""
 reviews_books = ["books/giraffes-of-devotion.md"]
-books_author = ["authors/sarah-mangold.md"]
+books_author = ["books/giraffes-of-devotion.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

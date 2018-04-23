@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/713-books.md"
 books_translator = ""
 reviews_books = ["books/mr-neutron.md"]
-books_author = ["authors/joe-ponepinto.md"]
+books_author = ["books/mr-neutron.md"]
 sponsorships_book = ["sponsorships/mr-neutron.md"]
 notes_relationship = ["notes/the-death-of-reason.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/flying-dolphin-press.md"
 books_translator = ""
 reviews_books = ["books/three-bags-full.md"]
-books_author = ["authors/leonie-swann.md"]
+books_author = ["books/three-bags-full.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-recommendation-engine.md"]
 [[image]]

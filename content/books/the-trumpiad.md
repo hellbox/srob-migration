@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/waywiser-press.md"
 books_translator = ""
 reviews_books = ["books/the-trumpiad.md"]
-books_author = ["authors/cody-walker.md"]
+books_author = ["books/the-trumpiad.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-all-good-news-all-poetry.md"]
 [[image]]

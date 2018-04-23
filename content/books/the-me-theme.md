@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sagging-meniscus-press.md"
 books_translator = ""
 reviews_books = ["books/the-me-theme.md"]
-books_author = ["authors/doug-nufer.md"]
+books_author = ["books/the-me-theme.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/from-constraint-comes-a-new-small-poetry-book.md"]
 [[image]]

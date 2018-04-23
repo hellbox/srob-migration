@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/harper.md"
 books_translator = ""
 reviews_books = ["books/second-life.md"]
-books_author = ["authors/sj-watson.md"]
+books_author = ["books/second-life.md"]
 sponsorships_book = ["sponsorships/second-life.md"]
 notes_relationship = ""
 [[image]]

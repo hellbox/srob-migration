@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/doubleday.md"
 books_translator = ""
 reviews_books = ["books/dark-money.md"]
-books_author = ["authors/jane-mayer.md"]
+books_author = ["books/dark-money.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
 reviews_books = ["books/everyday-eros.md"]
-books_author = ["authors/catherine-bresner.md"]
+books_author = ["books/everyday-eros.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

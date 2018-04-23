@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/smithsonian-books.md"
 books_translator = ""
 reviews_books = ["books/the-sweat-of-their-face.md"]
-books_author = ["authors/david-c-ward.md", "authors/dorothy-moss.md", "authors/john-fagg.md"]
+books_author = ["books/the-sweat-of-their-face.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

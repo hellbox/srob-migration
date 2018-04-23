@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/bloody-pussy.md"]
-books_author = ""
+books_author = ["books/bloody-pussy.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-strong-women-everywhere.md"]
 [[image]]

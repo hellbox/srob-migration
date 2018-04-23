@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/tor.md"
 books_translator = ""
 reviews_books = ["books/everfair.md"]
-books_author = ["authors/nisi-shawl.md"]
+books_author = ["books/everfair.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st.md", "notes/portrait-gallery-nisi-shawl.md", "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel.md", "notes/looking-for-optimistic-sci-fi-head-to-the-multiplexes.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/black-radish-press.md"
 books_translator = ""
 reviews_books = ["books/forget-it.md"]
-books_author = ["authors/anastacia-renee.md"]
+books_author = ["books/forget-it.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/no-pastors-or-pews-talking-with-anastacia-rene\u00e9.md"]
 [[image]]

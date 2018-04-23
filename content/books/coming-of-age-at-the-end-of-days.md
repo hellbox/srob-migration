@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/atlantic-monthly-press.md"
 books_translator = ""
 reviews_books = ["books/coming-of-age-at-the-end-of-days.md"]
-books_author = ["authors/alice-laplante.md"]
+books_author = ["books/coming-of-age-at-the-end-of-days.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

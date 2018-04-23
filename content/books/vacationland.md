@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/viking.md"
 books_translator = ""
 reviews_books = ["books/vacationland.md"]
-books_author = ["authors/john-hodgman.md"]
+books_author = ["books/vacationland.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

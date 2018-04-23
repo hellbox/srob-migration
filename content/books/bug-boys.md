@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/czap-books.md"
 books_translator = ""
 reviews_books = ["books/bug-boys.md"]
-books_author = ["authors/laura-knetzger.md"]
+books_author = ["books/bug-boys.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/bug-boys-release-party-is-this-sunday-1-3pm.md"]
 [[image]]

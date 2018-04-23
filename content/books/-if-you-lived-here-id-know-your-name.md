@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/algonquin-books.md"
 books_translator = ""
 reviews_books = ["books/-if-you-lived-here-id-know-your-name.md"]
-books_author = ["authors/heather-lende.md"]
+books_author = ["books/-if-you-lived-here-id-know-your-name.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

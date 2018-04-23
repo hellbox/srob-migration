@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/twilight.md"]
-books_author = ""
+books_author = ["books/twilight.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/stephenie-meyer-wrote-a-gender-flipped-version-of-twilight.md"]
 [[image]]

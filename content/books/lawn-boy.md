@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/algonquin-books.md"
 books_translator = ""
 reviews_books = ["books/lawn-boy.md"]
-books_author = ["authors/jonathan-evison.md"]
+books_author = ["books/lawn-boy.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

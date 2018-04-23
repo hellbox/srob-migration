@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/little-a.md"
 books_translator = ""
 reviews_books = ["books/serious-sweet.md"]
-books_author = ["authors/al-kennedy.md"]
+books_author = ["books/serious-sweet.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

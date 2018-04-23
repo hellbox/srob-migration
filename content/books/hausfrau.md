@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/hausfrau.md"]
-books_author = ["authors/jill-alexander-essbaum.md"]
+books_author = ["books/hausfrau.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

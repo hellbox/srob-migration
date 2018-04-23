@@ -25,7 +25,7 @@ category = ["History"]
 books_publisher = "publishers/haymarket-books.md"
 books_translator = ""
 reviews_books = ["books/hope-in-the-dark.md"]
-books_author = ["authors/rebecca-solnit.md"]
+books_author = ["books/hope-in-the-dark.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

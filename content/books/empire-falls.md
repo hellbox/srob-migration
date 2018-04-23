@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/empire-falls.md"]
-books_author = ""
+books_author = ["books/empire-falls.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/in-defense-of-italics.md"]
 [[image]]

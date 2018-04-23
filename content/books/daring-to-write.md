@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/university-of-georgia-press.md"
 books_translator = ""
 reviews_books = ["books/daring-to-write.md"]
-books_author = ["authors/erika-m-martinez.md"]
+books_author = ["books/daring-to-write.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

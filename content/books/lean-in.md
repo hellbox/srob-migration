@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/random-house.md"
 books_translator = ""
 reviews_books = ["books/lean-in.md"]
-books_author = ["authors/sheryl-sandberg.md"]
+books_author = ["books/lean-in.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad.md"]
 [[image]]

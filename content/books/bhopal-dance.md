@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/fc2.md"
 books_translator = ""
 reviews_books = ["books/bhopal-dance.md"]
-books_author = ["authors/jennifer-natalya-fink.md"]
+books_author = ["books/bhopal-dance.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = "Memoir"
 books_publisher = "publishers/instant-future.md"
 books_translator = ""
 reviews_books = ["books/starvation-mode.md"]
-books_author = ["authors/elissa-washuta.md"]
+books_author = ["books/starvation-mode.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/lit-crawl-itinerary-1-meet-the-new-publishers.md", "notes/sometimes-our-writers-go-east.md", "notes/elissa-washuta-is-your-first-fremont-bridge-writer-in-residence.md", "notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award.md"]
 [[image]]

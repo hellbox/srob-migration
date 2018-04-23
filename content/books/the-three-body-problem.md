@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-three-body-problem.md"]
-books_author = ""
+books_author = ["books/the-three-body-problem.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/hugo-award-winners-announced.md"]
 [[image]]

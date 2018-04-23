@@ -25,7 +25,7 @@ category = "Zine/comic"
 books_publisher = "publishers/cold-cube-press.md"
 books_translator = ""
 reviews_books = ["books/lightning-snake.md"]
-books_author = ["authors/jason-t-miles.md"]
+books_author = ["books/lightning-snake.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

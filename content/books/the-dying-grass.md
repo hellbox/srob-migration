@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/penguin.md"
 books_translator = ""
 reviews_books = ["books/the-dying-grass.md"]
-books_author = ["authors/william-t-vollmann.md"]
+books_author = ["books/the-dying-grass.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

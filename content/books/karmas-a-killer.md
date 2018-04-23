@@ -25,7 +25,7 @@ category = ["Murder"]
 books_publisher = "publishers/midnight-ink.md"
 books_translator = ""
 reviews_books = ["books/karmas-a-killer.md"]
-books_author = ["authors/tracy-weber.md"]
+books_author = ["books/karmas-a-killer.md"]
 sponsorships_book = ["sponsorships/karmas-a-killer.md"]
 notes_relationship = ["notes/karmas-a-killer-book-release-party.md"]
 [[image]]

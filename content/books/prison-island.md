@@ -25,7 +25,7 @@ category = ["Juvenile Nonfiction"]
 books_publisher = "publishers/houghton-mifflin-harcourt.md"
 books_translator = ""
 reviews_books = ["books/prison-island.md"]
-books_author = ["authors/colleen-frakes.md"]
+books_author = ["books/prison-island.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-november-23---29.md", "notes/dont-forget-to-celebrate-small-business-saturday.md", "notes/for-the-comics-fan-who-has-everything.md", "notes/thursday-comics-hangover-mini-comics-big-love.md", "notes/library-comics.md"]
 [[image]]

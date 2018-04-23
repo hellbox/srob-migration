@@ -25,7 +25,7 @@ category = ["Literary Criticism"]
 books_publisher = "publishers/pantheon-books.md"
 books_translator = ""
 reviews_books = ["books/time-travel.md"]
-books_author = ["authors/james-gleick.md"]
+books_author = ["books/time-travel.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

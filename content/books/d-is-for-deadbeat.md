@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/st-martin&x27;s-press.md"
 books_translator = ""
 reviews_books = ["books/d-is-for-deadbeat.md"]
-books_author = ["authors/sue-grafton.md"]
+books_author = ["books/d-is-for-deadbeat.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

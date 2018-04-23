@@ -25,7 +25,7 @@ category = "novel"
 books_publisher = "publishers/featherproof-books.md"
 books_translator = ""
 reviews_books = ["books/see-you-in-the-morning.md"]
-books_author = ["authors/mairead-case.md"]
+books_author = ["books/see-you-in-the-morning.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

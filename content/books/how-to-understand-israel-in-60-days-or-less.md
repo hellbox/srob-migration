@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/vertigo-comics.md"
 books_translator = ""
 reviews_books = ["books/how-to-understand-israel-in-60-days-or-less.md"]
-books_author = ["authors/sarah-glidden.md"]
+books_author = ["books/how-to-understand-israel-in-60-days-or-less.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/new-hire-sarah-glidden-doesnt-believe-in-the-seattle-freeze.md"]
 [[image]]

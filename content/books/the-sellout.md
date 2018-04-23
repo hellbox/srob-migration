@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-sellout.md"]
-books_author = ""
+books_author = ["books/the-sellout.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/paul-beatty-takes-the-booker.md"]
 [[image]]

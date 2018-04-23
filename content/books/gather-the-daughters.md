@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/little-brown.md"
 books_translator = ""
 reviews_books = ["books/gather-the-daughters.md"]
-books_author = ["authors/jennie-melamed.md"]
+books_author = ["books/gather-the-daughters.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

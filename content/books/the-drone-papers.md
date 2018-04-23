@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/the-intercept_.md"
 books_translator = ""
 reviews_books = ["books/the-drone-papers.md"]
-books_author = ["authors/the-intercept_.md"]
+books_author = ["books/the-drone-papers.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/atria--emily-bestler-books.md"
 books_translator = ""
 reviews_books = ["books/an-honorable-man.md"]
-books_author = ["authors/paul-vidich.md"]
+books_author = ["books/an-honorable-man.md"]
 sponsorships_book = ["sponsorships/an-honorable-man.md"]
 notes_relationship = ["notes/the-modern-mid-century-spy-novel.md"]
 [[image]]

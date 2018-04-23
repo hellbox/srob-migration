@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/and-other-stories.md"
 books_translator = ""
 reviews_books = ["books/lunatics-lovers-and-poets.md"]
-books_author = ["authors/multiple-authors.md"]
+books_author = ["books/lunatics-lovers-and-poets.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

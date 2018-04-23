@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/third-place-press.md"
 books_translator = ""
 reviews_books = ["books/third-place-press-publishing-services.md"]
-books_author = ["authors/third-place-press.md"]
+books_author = ["books/third-place-press-publishing-services.md"]
 sponsorships_book = ["sponsorships/third-place-press-publishing.md"]
 notes_relationship = ["notes/publish-beautiful-books-with-third-place-press.md"]
 [[image]]

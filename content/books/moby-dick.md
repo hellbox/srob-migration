@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/moby-dick.md"]
-books_author = ["authors/herman-melville.md"]
+books_author = ["books/moby-dick.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/call-me-twitter-bot.md"]
 [[image]]

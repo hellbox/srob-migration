@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/st-martin&x27;s-press.md"
 books_translator = ""
 reviews_books = ["books/strawberry-days.md"]
-books_author = ["authors/david-a-neiwert-.md"]
+books_author = ["books/strawberry-days.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

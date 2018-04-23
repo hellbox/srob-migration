@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/severn-house.md"
 books_translator = ""
 reviews_books = ["books/goddess-of-fire-a-historical-novel-set-in-17th-century-india.md"]
-books_author = ["authors/bharti-kirchner.md"]
+books_author = ["books/goddess-of-fire-a-historical-novel-set-in-17th-century-india.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/macmillan.md"
 books_translator = ""
 reviews_books = ["books/the-beautiful-bureaucrat.md"]
-books_author = ["authors/helen-phillips.md"]
+books_author = ["books/the-beautiful-bureaucrat.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

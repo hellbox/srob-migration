@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/chick-publications.md"
 books_translator = ""
 reviews_books = ["books/bad-bob!.md"]
-books_author = ["authors/jack-chick.md"]
+books_author = ["books/bad-bob!.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/letter-to-the-editor-if-laughing-at-jack-chick-is-wrong-i-dont-wanna-be-right.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/a-young-mans-guide-to-late-capitalism.md"]
-books_author = ["authors/peter-mountford.md"]
+books_author = ["books/a-young-mans-guide-to-late-capitalism.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

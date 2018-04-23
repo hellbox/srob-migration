@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/knopf.md"
 books_translator = ""
 reviews_books = ["books/dear-fang-with-love.md"]
-books_author = ["authors/rufi-thorpe.md"]
+books_author = ["books/dear-fang-with-love.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-with-rufi-thorpe-about-writing-and-her-latest-novel.md"]
 [[image]]

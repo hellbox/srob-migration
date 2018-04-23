@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-brief-wondrous-life-of-oscar-wao.md"]
-books_author = ""
+books_author = ["books/the-brief-wondrous-life-of-oscar-wao.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-sunday-post-for-january-31-2016.md"]
 [[image]]

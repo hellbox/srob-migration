@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
 reviews_books = ["books/fire!!-.md"]
-books_author = ["authors/peter-bagge.md"]
+books_author = ["books/fire!!-.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

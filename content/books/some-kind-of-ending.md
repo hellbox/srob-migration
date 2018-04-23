@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/bravedog--deaddog-artworks.md"
 books_translator = ""
 reviews_books = ["books/some-kind-of-ending.md"]
-books_author = ["authors/conon-parks.md", "authors/mike-macneil.md", "authors/randy-jones.md"]
+books_author = ["books/some-kind-of-ending.md"]
 sponsorships_book = ["sponsorships/some-kind-of-ending.md"]
 notes_relationship = ""
 [[image]]

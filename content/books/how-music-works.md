@@ -25,7 +25,7 @@ category = ["Music"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/how-music-works.md"]
-books_author = ""
+books_author = ["books/how-music-works.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

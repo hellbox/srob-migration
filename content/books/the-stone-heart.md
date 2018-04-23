@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/first-second.md"
 books_translator = ""
 reviews_books = ["books/the-stone-heart.md"]
-books_author = ["authors/faith-erin-hicks.md"]
+books_author = ["books/the-stone-heart.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/comics-in-conversation.md"]
 [[image]]

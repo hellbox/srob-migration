@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/cave-moon-press.md"
 books_translator = ""
 reviews_books = ["books/the-body-that-follows-us.md"]
-books_author = ["authors/joan-swift.md"]
+books_author = ["books/the-body-that-follows-us.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

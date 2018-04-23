@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/warner-books.md"
 books_translator = ""
 reviews_books = ["books/seattle.md"]
-books_author = ["authors/jack-lynch.md"]
+books_author = ["books/seattle.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

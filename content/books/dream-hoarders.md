@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/brookings-institution-press.md"
 books_translator = ""
 reviews_books = ["books/dream-hoarders.md"]
-books_author = ["authors/richard-reeves.md"]
+books_author = ["books/dream-hoarders.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

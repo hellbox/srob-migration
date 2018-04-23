@@ -25,7 +25,7 @@ category = ["FICTION"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/all-the-birds-in-the-sky.md"]
-books_author = ["authors/charlie-jane-anders.md"]
+books_author = ["books/all-the-birds-in-the-sky.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-all-the-birds-in-the-sky.md"]
 [[image]]

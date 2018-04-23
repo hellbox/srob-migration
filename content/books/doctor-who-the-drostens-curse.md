@@ -25,7 +25,7 @@ category = "science fiction"
 books_publisher = "publishers/broadway-books.md"
 books_translator = ""
 reviews_books = ["books/doctor-who-the-drostens-curse.md"]
-books_author = ["authors/al-kennedy.md"]
+books_author = ["books/doctor-who-the-drostens-curse.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

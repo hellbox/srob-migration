@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/vintage.md"
 books_translator = ""
 reviews_books = ["books/the-curious-incident-of-the-dog-in-the-night-time.md"]
-books_author = ["authors/mark-haddon.md"]
+books_author = ["books/the-curious-incident-of-the-dog-in-the-night-time.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-recommendation-engine.md"]
 [[image]]

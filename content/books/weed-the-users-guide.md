@@ -25,7 +25,7 @@ category = "nonfiction"
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
 reviews_books = ["books/weed-the-users-guide.md"]
-books_author = ["authors/david-schmader.md"]
+books_author = ["books/weed-the-users-guide.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/everybody-is-dying-so-you-shouldn\u2019t-waste-people\u2019s-time.md", "notes/your-week-in-readings-the-best-literary-events-from-april-20th-26th.md", "notes/your-week-in-readings-the-best-literary-events-from-april-27---may-3.md", "notes/book-news-roundup-anybody-need-ten-thousand-dollars.md", "notes/literary-event-of-the-week-nevertold-casket-company-reading-1.md", "notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th.md"]
 [[image]]

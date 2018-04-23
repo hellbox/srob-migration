@@ -25,7 +25,7 @@ category = ["FICTION"]
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
 reviews_books = ["books/the-grip-of-it.md"]
-books_author = ["authors/jac-jemc.md"]
+books_author = ["books/the-grip-of-it.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

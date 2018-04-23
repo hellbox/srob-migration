@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/publicaffairs.md"
 books_translator = ""
 reviews_books = ["books/crash-override.md"]
-books_author = ["authors/zo\u00eb-quinn.md"]
+books_author = ["books/crash-override.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

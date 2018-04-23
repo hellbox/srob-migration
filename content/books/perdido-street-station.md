@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/del-rey-books.md"
 books_translator = ""
 reviews_books = ["books/perdido-street-station.md"]
-books_author = ["authors/china-mi\u00e9ville.md"]
+books_author = ["books/perdido-street-station.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

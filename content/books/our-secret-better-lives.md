@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/nakano-books.md"
 books_translator = ""
 reviews_books = ["books/our-secret-better-lives.md"]
-books_author = ["authors/matthew-amster-burton.md"]
+books_author = ["books/our-secret-better-lives.md"]
 sponsorships_book = ["sponsorships/our-secret-better-lives.md"]
 notes_relationship = ""
 [[image]]

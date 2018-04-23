@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/algonquin-books.md"
 books_translator = ""
 reviews_books = ["books/-take-good-care-of-the-garden-and-the-dogs.md"]
-books_author = ["authors/heather-lende.md"]
+books_author = ["books/-take-good-care-of-the-garden-and-the-dogs.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

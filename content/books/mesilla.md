@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/dock-street-press.md"
 books_translator = ""
 reviews_books = ["books/mesilla.md"]
-books_author = ["authors/robert-james-russell.md"]
+books_author = ["books/mesilla.md"]
 sponsorships_book = ["sponsorships/mesilla.md"]
 notes_relationship = ""
 [[image]]

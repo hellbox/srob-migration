@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/phinney-by-post.md"]
-books_author = ["authors/phinney-books.md"]
+books_author = ["books/phinney-by-post.md"]
 sponsorships_book = ["sponsorships/phinney-books-subscription-service.md"]
 notes_relationship = ["notes/a-year-of-great-books-delivered-to-you.md"]
 [[image]]

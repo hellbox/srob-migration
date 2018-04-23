@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/manic-thrills-press.md"
 books_translator = ""
 reviews_books = ["books/living-in-the-now.md"]
-books_author = ["authors/tatiana-gill.md"]
+books_author = ["books/living-in-the-now.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

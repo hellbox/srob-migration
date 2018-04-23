@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/aladdin.md"
 books_translator = ""
 reviews_books = ["books/the-girl-who-loved-wild-horses.md"]
-books_author = ["authors/paul-goble.md"]
+books_author = ["books/the-girl-who-loved-wild-horses.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

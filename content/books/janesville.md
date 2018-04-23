@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/simon-and-schuster.md"
 books_translator = ""
 reviews_books = ["books/janesville.md"]
-books_author = ["authors/amy-goldstein.md"]
+books_author = ["books/janesville.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/is-a-company-town-with-no-company-still-a-town.md"]
 [[image]]

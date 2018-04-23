@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
 reviews_books = ["books/fumetti-for-the-mothership.md"]
-books_author = ["authors/colleen-louise-barry.md", "authors/stephanie-passantino.md"]
+books_author = ["books/fumetti-for-the-mothership.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

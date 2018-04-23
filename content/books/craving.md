@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/world-books.md"
 books_translator = ""
 reviews_books = ["books/craving.md"]
-books_author = ["authors/esther-gerritsen.md"]
+books_author = ["books/craving.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

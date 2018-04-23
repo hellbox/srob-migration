@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/she-writes-press.md"
 books_translator = ""
 reviews_books = ["books/song-of-the-plains.md"]
-books_author = ["authors/linda-joy-myers.md"]
+books_author = ["books/song-of-the-plains.md"]
 sponsorships_book = ["sponsorships/song-of-the-plains.md"]
 notes_relationship = ["notes/wide-open-spaces-tightly-knit-lives.md"]
 [[image]]

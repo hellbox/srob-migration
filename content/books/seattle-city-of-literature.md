@@ -25,7 +25,7 @@ category = ["Literary Criticism"]
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
 reviews_books = ["books/seattle-city-of-literature.md"]
-books_author = ["authors/ryan-boudinot.md"]
+books_author = ["books/seattle-city-of-literature.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/on-diversity-criticism-and-seattle-city-of-literature.md", "notes/letters-to-the-editor-on-representation-in-seattle-city-of-literature.md"]
 [[image]]

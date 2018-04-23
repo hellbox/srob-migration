@@ -25,7 +25,7 @@ category = "historical fiction"
 books_publisher = "publishers/catapult.md"
 books_translator = ""
 reviews_books = ["books/margaret-the-first.md"]
-books_author = ["authors/danielle-dutton.md"]
+books_author = ["books/margaret-the-first.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/danielle-dutton\u2019s-paper-bodies.md", "notes/heres-what-vlad-from-third-place-books-is-most-looking-forward-to-this-fall.md"]
 [[image]]

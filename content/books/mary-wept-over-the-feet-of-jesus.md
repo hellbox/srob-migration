@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
 reviews_books = ["books/mary-wept-over-the-feet-of-jesus.md"]
-books_author = ["authors/chester-brown.md"]
+books_author = ["books/mary-wept-over-the-feet-of-jesus.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-a-conversation-about-disability-and-the-arts-is-happening-this-afternoon.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/knopf-publishing-group.md"
 books_translator = ""
 reviews_books = ["books/south-and-west.md"]
-books_author = ["authors/joan-didion.md"]
+books_author = ["books/south-and-west.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/orbit.md"
 books_translator = ""
 reviews_books = ["books/ancillary-justice.md"]
-books_author = ["authors/ann-leckie.md"]
+books_author = ["books/ancillary-justice.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/hugo-award-finalists-announced.md", "notes/meet-the-matchmakers.md"]
 [[image]]

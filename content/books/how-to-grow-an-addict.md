@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/how-to-grow-an-addict.md"]
-books_author = ["authors/ja-wright.md"]
+books_author = ["books/how-to-grow-an-addict.md"]
 sponsorships_book = ["sponsorships/how-to-grow-an-addict.md"]
 notes_relationship = ["notes/a-how-to-in-making-sure-your-child-becomes-an-addict.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/gabalfa-press.md"
 books_translator = ""
 reviews_books = ["books/zek.md"]
-books_author = ["authors/arthur-longworth.md"]
+books_author = ["books/zek.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

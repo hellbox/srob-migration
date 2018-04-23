@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics-books.md"
 books_translator = ""
 reviews_books = ["books/the-eternaut.md"]
-books_author = ["authors/h\u00e9ctor-germ\u00e1n-oesterheld.md", "authors/francisco-solano-lopez.md"]
+books_author = ["books/the-eternaut.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/seattle-shows-up-for-the-2016-eisner-award-nominations.md", "notes/book-news-roundup-seattle-cleans-up-at-the-eisner-awards.md"]
 [[image]]

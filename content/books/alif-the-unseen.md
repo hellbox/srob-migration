@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/alif-the-unseen.md"]
-books_author = ""
+books_author = ["books/alif-the-unseen.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/i-hid-both-pregnancies-from-my-publishers-because-i-knew-it-would-affect-my-chances-of-getting-work.md"]
 [[image]]

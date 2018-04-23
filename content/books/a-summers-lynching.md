@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/quarterly-west.md"
 books_translator = ""
 reviews_books = ["books/a-summers-lynching.md"]
-books_author = ["authors/juan-carlos-reyes.md"]
+books_author = ["books/a-summers-lynching.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/every-city-a-mystery.md"]
 [[image]]

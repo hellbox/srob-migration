@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/lost-horse-press.md"
 books_translator = ""
 reviews_books = ["books/raising-lilly-ledbetter.md"]
-books_author = ["authors/carolyne-wright.md"]
+books_author = ["books/raising-lilly-ledbetter.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-events-from-september-28th-to-october-4th.md", "notes/two-more-events-to-keep-in-mind-trivia-for-a-cause-and-raising-lily-ledbetter.md"]
 [[image]]

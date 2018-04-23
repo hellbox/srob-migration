@@ -25,7 +25,7 @@ category = "Comics"
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
 reviews_books = ["books/sticks-angelica-folk-hero.md"]
-books_author = ["authors/michael-deforge.md"]
+books_author = ["books/sticks-angelica-folk-hero.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-queen-of-the-wild-frontier.md"]
 [[image]]

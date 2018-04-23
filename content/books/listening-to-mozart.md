@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/cave-moon-press.md"
 books_translator = ""
 reviews_books = ["books/listening-to-mozart.md"]
-books_author = ["authors/esther-altshul-helfgott.md"]
+books_author = ["books/listening-to-mozart.md"]
 sponsorships_book = ["sponsorships/listening-to-mozart.md"]
 notes_relationship = ""
 [[image]]

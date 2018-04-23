@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/flatiron-books.md"
 books_translator = ""
 reviews_books = ["books/promise-me-dad.md"]
-books_author = ["authors/joe-biden.md"]
+books_author = ["books/promise-me-dad.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/pantheon-books.md"
 books_translator = ""
 reviews_books = ["books/imagine-wanting-only-this.md"]
-books_author = ["authors/kristen-radtke.md"]
+books_author = ["books/imagine-wanting-only-this.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

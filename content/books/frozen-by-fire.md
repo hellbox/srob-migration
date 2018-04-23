@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/paper-wings-press.md"
 books_translator = ""
 reviews_books = ["books/frozen-by-fire.md"]
-books_author = ["authors/donald-kentop.md"]
+books_author = ["books/frozen-by-fire.md"]
 sponsorships_book = ["sponsorships/frozen-by-fire.md"]
 notes_relationship = ["notes/the-triangle-factory-fire-of-1911-documented-in-verse.md", "notes/one-day-left-to-see-donald-kentops-frozen-by-fire.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/spectra.md"
 books_translator = ""
 reviews_books = ["books/the-etched-city.md"]
-books_author = ["authors/k-j-bishop.md"]
+books_author = ["books/the-etched-city.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

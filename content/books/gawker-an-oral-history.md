@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/amazon.md"
 books_translator = ""
 reviews_books = ["books/gawker-an-oral-history.md"]
-books_author = ["authors/brian-abrams.md"]
+books_author = ["books/gawker-an-oral-history.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

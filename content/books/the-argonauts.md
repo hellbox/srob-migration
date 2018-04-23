@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/graywolf-press.md"
 books_translator = ""
 reviews_books = ["books/the-argonauts.md"]
-books_author = ["authors/maggie-nelson.md"]
+books_author = ["books/the-argonauts.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/2016-national-book-critics-circle-awards-announced.md", "notes/the-kind-of-genius-you-cant-ignore.md"]
 [[image]]

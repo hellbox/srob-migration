@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/mountaineers-books.md"
 books_translator = ""
 reviews_books = ["books/turning-homeward.md"]
-books_author = ["authors/adrienne-ross-scanlan.md"]
+books_author = ["books/turning-homeward.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

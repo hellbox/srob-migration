@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-magic-of-cape-disappointment.md"]
-books_author = ["authors/julie-manthey.md"]
+books_author = ["books/the-magic-of-cape-disappointment.md"]
 sponsorships_book = ["sponsorships/the-magic-of-cape-disappointment.md"]
 notes_relationship = ""
 [[image]]

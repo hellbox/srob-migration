@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sagging-meniscus-press.md"
 books_translator = ""
 reviews_books = ["books/the-too-brief-chronicle-of-judah-lowe.md"]
-books_author = ["authors/christopher-carter-sanderson.md"]
+books_author = ["books/the-too-brief-chronicle-of-judah-lowe.md"]
 sponsorships_book = ["sponsorships/the-too-brief-chronicle-of-judah-lowe.md"]
 notes_relationship = ["notes/the-art-that-comes-from-restriction.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = "short stories"
 books_publisher = "publishers/carolina-wren-press.md"
 books_translator = ""
 reviews_books = ["books/hola-and-goodbye.md"]
-books_author = ["authors/donna-miscolta.md"]
+books_author = ["books/hola-and-goodbye.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-four-books-you-should-really-look-into.md", "notes/your-week-in-readings-the-best-literary-events-from-december-14th---december-20th.md", "notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 [[image]]

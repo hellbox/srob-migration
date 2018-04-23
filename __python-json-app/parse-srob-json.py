@@ -252,10 +252,18 @@ for key in j['data']:
                 markdown.write('is_seattle_pnw_writer = ""\n')
             markdown.write('written_about = ""\n')
 
+            try:
+                index_builder = []
+                for book in j['data']['authors'][author]['books']:
+                    book = findstring(book)
+                    index_builder.append(book.encode('utf-8'))
+                markdown.write('books_author = %s\n' % json.dumps(index_builder))
+            except KeyError:
+                markdown.write('books_author = ""\n')
+
             # for the related content lookup keys
             author_temp = ('authors %s' % json.dumps(author.encode('utf-8')).replace('"',''))
             author_temp = findstring( author_temp ).replace('authors','writers').encode('utf-8')            
-            markdown.write('books_author = ["%s"]\n' % author_temp )
             markdown.write('reviews_about = ["%s"]\n' % author_temp )            
             markdown.write('notes_about = ["%s"]\n' % author_temp )
             try:
@@ -586,16 +594,18 @@ for key in j['data']:
             #    markdown.write('reviews_books = ""\n')
             books_temp = ('books %s' % json.dumps(book.encode('utf-8')).replace('"',''))
             books_temp = findstring( books_temp ).encode('utf-8') 
-            markdown.write('reviews_books = ["%s"]\n' % books_temp )                
+            markdown.write('reviews_books = ["%s"]\n' % books_temp )
+            markdown.write('books_author = ["%s"]\n' % books_temp )                 
 
-            try:
-                index_builder = []
-                for author in j['data']['books'][book]['author_relationship']:
-                    author = findstring(author)
-                    index_builder.append(author.encode('utf-8'))                    
-                markdown.write('books_author = %s\n' % json.dumps(index_builder))
-            except KeyError:
-                markdown.write('books_author = ""\n')                                
+            #try:
+            #    index_builder = []
+            #    for author in j['data']['books'][book]['author_relationship']:
+            #        author = findstring(author)
+            #        index_builder.append(author.encode('utf-8'))                    
+            #    markdown.write('books_author = %s\n' % json.dumps(index_builder))
+            #except KeyError:
+            #    markdown.write('books_author = ""\n') 
+#
 
             try:
                 index_builder = []

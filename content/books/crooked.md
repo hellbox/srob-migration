@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/mulholland-books.md"
 books_translator = ""
 reviews_books = ["books/crooked.md"]
-books_author = ["authors/austin-grossman.md"]
+books_author = ["books/crooked.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

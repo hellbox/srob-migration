@@ -25,7 +25,7 @@ category = ["House & Home"]
 books_publisher = "publishers/random-house.md"
 books_translator = ""
 reviews_books = ["books/the-life-changing-magic-of-tidying.md"]
-books_author = ["authors/marie-kondo.md"]
+books_author = ["books/the-life-changing-magic-of-tidying.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

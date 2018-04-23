@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/black-cat.md"
 books_translator = ""
 reviews_books = ["books/butterflies-in-november.md"]
-books_author = ["authors/au\u00f0ur-ava-\u00f3lafsd\u00f3ttir.md"]
+books_author = ["books/butterflies-in-november.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-butterflies-in-november.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/rainbow.md"]
-books_author = ["authors/kesha.md"]
+books_author = ["books/rainbow.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
 reviews_books = ["books/26-songs-in-30-days.md"]
-books_author = ["authors/greg-vandy.md", "authors/daniel-person.md"]
+books_author = ["books/26-songs-in-30-days.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/underland-press.md"
 books_translator = ""
 reviews_books = ["books/chimpanzee.md"]
-books_author = ["authors/darin-bradley.md"]
+books_author = ["books/chimpanzee.md"]
 sponsorships_book = ["sponsorships/chimpanzee.md"]
 notes_relationship = ""
 [[image]]

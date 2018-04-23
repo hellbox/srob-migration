@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/maus.md"]
-books_author = ""
+books_author = ["books/maus.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-sunday-post-for-august-28-2016.md"]
 [[image]]

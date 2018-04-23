@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/-grove-press.md"
 books_translator = ""
 reviews_books = ["books/afterglow.md"]
-books_author = ["authors/eileen-myles.md"]
+books_author = ["books/afterglow.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

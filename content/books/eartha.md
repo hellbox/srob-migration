@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics-books.md"
 books_translator = ""
 reviews_books = ["books/eartha.md"]
-books_author = ["authors/cathy-malkasian.md"]
+books_author = ["books/eartha.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/im-being-so-manipulative-cathy-malkasians-latest-comic-is-a-polemic-against-social-media.md"]
 [[image]]

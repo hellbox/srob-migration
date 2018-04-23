@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/pinnacle.md"
 books_translator = ""
 reviews_books = ["books/now-that-shes-gone.md"]
-books_author = ["authors/gregg-olsen.md"]
+books_author = ["books/now-that-shes-gone.md"]
 sponsorships_book = ["sponsorships/now-that-shes-gone.md"]
 notes_relationship = ["notes/a-mystery-in-our-own-back-yard.md", "notes/read-a-chapter-from-gregg-olsen-through-tomorrow.md"]
 [[image]]

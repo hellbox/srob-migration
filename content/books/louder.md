@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/louder.md"]
-books_author = ["authors/robyn-jordan.md"]
+books_author = ["books/louder.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

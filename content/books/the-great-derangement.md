@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/university-of-chicago-press.md"
 books_translator = ""
 reviews_books = ["books/the-great-derangement.md"]
-books_author = ["authors/amitav-ghosh.md"]
+books_author = ["books/the-great-derangement.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

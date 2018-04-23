@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sartoris-literary-group.md"
 books_translator = ""
 reviews_books = ["books/treys-company.md"]
-books_author = ["authors/frank-murtaugh.md"]
+books_author = ["books/treys-company.md"]
 sponsorships_book = ["sponsorships/treys-company.md"]
 notes_relationship = ["notes/this-summer-brought-to-you-courtesy-of-.md"]
 [[image]]

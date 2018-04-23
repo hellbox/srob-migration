@@ -25,7 +25,7 @@ category = ["Literary Collections"]
 books_publisher = "publishers/farrar-straus-giroux.md"
 books_translator = ""
 reviews_books = ["books/words-in-air.md"]
-books_author = ["authors/elizabeth-bishop.md", "authors/robert-lowell.md", "authors/thomas-travisano.md"]
+books_author = ["books/words-in-air.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

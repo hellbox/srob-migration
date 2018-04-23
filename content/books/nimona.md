@@ -25,7 +25,7 @@ category = ["Juvenile Fiction"]
 books_publisher = "publishers/harperteen.md"
 books_translator = ""
 reviews_books = ["books/nimona.md"]
-books_author = ["authors/noelle-stevenson.md"]
+books_author = ["books/nimona.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/seattle-shows-up-for-the-2016-eisner-award-nominations.md", "notes/book-news-roundup-seattle-cleans-up-at-the-eisner-awards.md"]
 [[image]]

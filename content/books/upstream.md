@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/ballantine-books.md"
 books_translator = ""
 reviews_books = ["books/upstream.md"]
-books_author = ["authors/langdon-cook.md"]
+books_author = ["books/upstream.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

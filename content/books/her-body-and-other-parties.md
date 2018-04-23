@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/graywolf-press.md"
 books_translator = ""
 reviews_books = ["books/her-body-and-other-parties.md"]
-books_author = ["authors/carmen-maria-machado.md"]
+books_author = ["books/her-body-and-other-parties.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

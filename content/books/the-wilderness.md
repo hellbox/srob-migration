@@ -25,7 +25,7 @@ category = ["Political Science"]
 books_publisher = "publishers/little-brown-and-company.md"
 books_translator = ""
 reviews_books = ["books/the-wilderness.md"]
-books_author = ["authors/mckay-coppins.md"]
+books_author = ["books/the-wilderness.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sweet-air-publishing.md"
 books_translator = ""
 reviews_books = ["books/the-starting-gate.md"]
-books_author = ["authors/paul-mullin.md"]
+books_author = ["books/the-starting-gate.md"]
 sponsorships_book = ["sponsorships/the-starting-gate-05--30--2016.md", "sponsorships/the-starting-gate.md"]
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th.md", "notes/literary-event-of-the-week-loud-mouth-lit.md", "notes/check-out-a-sample-from-the-starting-gate-courtesy-of-sponsor-paul-mullin.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/europa-editions.md"
 books_translator = ""
 reviews_books = ["books/mayumi-and-the-sea-of-happiness.md"]
-books_author = ["authors/jennifer-tseng.md"]
+books_author = ["books/mayumi-and-the-sea-of-happiness.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

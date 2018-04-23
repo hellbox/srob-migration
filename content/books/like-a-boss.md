@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/angry-robot.md"
 books_translator = ""
 reviews_books = ["books/like-a-boss.md"]
-books_author = ["authors/adam-rakunas.md"]
+books_author = ["books/like-a-boss.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/a-labor-day-proposal-lets-create-more-blue-collar-novelists.md"]
 [[image]]

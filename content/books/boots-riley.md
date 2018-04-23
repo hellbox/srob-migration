@@ -25,7 +25,7 @@ category = ["Music"]
 books_publisher = "publishers/haymarket-books.md"
 books_translator = ""
 reviews_books = ["books/boots-riley.md"]
-books_author = ["authors/boots-riley.md"]
+books_author = ["books/boots-riley.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/lunch-date-turkish-food-with-boots-riley.md"]
 [[image]]

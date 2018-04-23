@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/heroines.md"]
-books_author = ""
+books_author = ["books/heroines.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/its-sylvia-plaths-birthday.md"]
 [[image]]

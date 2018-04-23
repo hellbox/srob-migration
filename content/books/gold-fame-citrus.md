@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
 reviews_books = ["books/gold-fame-citrus.md"]
-books_author = ["authors/claire-vaye-watkins.md"]
+books_author = ["books/gold-fame-citrus.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-april-13th---april-19th.md"]
 [[image]]

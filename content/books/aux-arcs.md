@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/la-alameda-press.md"
 books_translator = ""
 reviews_books = ["books/aux-arcs.md"]
-books_author = ["authors/shin-yu-pai.md"]
+books_author = ["books/aux-arcs.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/in-carkeek-park-the-words-grow-on-trees.md"]
 [[image]]

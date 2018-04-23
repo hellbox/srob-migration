@@ -25,7 +25,7 @@ category = ["Nature"]
 books_publisher = "publishers/back-bay-books.md"
 books_translator = ""
 reviews_books = ["books/never-cry-wolf.md"]
-books_author = ["authors/farley-mowat.md"]
+books_author = ["books/never-cry-wolf.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

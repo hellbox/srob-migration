@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/yale-university-press.md"
 books_translator = ""
 reviews_books = ["books/mindful-tech.md"]
-books_author = ["authors/david-m-levy.md"]
+books_author = ["books/mindful-tech.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

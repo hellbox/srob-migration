@@ -25,7 +25,7 @@ category = ["BIOGRAPHY & AUTOBIOGRAPHY"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-folded-clock.md"]
-books_author = ["authors/heidi-julavits.md"]
+books_author = ["books/the-folded-clock.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/hillcrest-publishing-group.md"
 books_translator = ""
 reviews_books = ["books/view-master.md"]
-books_author = ["authors/gretchen-jane-gruber-.md"]
+books_author = ["books/view-master.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

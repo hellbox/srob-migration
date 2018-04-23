@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
 reviews_books = ["books/dana-scully-is-always-right.md"]
-books_author = ["authors/sarah-mirk.md"]
+books_author = ["books/dana-scully-is-always-right.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = "Creative nonfiction"
 books_publisher = "publishers/knopf.md"
 books_translator = ""
 reviews_books = ["books/other-people.md"]
-books_author = ["authors/david-shields.md"]
+books_author = ["books/other-people.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/talking-to-ourselves.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
 reviews_books = ["books/greetings-from-cat-city-b--w-the-gluten-free-hobo.md"]
-books_author = ["authors/aaron-bagley.md"]
+books_author = ["books/greetings-from-cat-city-b--w-the-gluten-free-hobo.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

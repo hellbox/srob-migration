@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/lost-horse-press.md"
 books_translator = ""
 reviews_books = ["books/wonderland.md"]
-books_author = ["authors/sam-ligon.md"]
+books_author = ["books/wonderland.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

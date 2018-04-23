@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/ace-trade.md"
 books_translator = ""
 reviews_books = ["books/the-left-hand-of-darkness.md"]
-books_author = ["authors/ursula-k-le-guin.md"]
+books_author = ["books/the-left-hand-of-darkness.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/ragtime.md"]
-books_author = ""
+books_author = ["books/ragtime.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/el-doctorow-1931---2015.md"]
 [[image]]

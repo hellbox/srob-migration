@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/2000-ad.md"
 books_translator = ""
 reviews_books = ["books/judge-dredd-case-files-01.md"]
-books_author = ["authors/john-wagner.md", "authors/pat-mills.md"]
+books_author = ["books/judge-dredd-case-files-01.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

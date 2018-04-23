@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/wesleyan.md"
 books_translator = ""
 reviews_books = ["books/hinge-&-sign-poems-1968-1993.md"]
-books_author = ["authors/heather-mchugh.md"]
+books_author = ["books/hinge-&-sign-poems-1968-1993.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

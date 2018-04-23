@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/epicenter-press.md"
 books_translator = ""
 reviews_books = ["books/inside.md"]
-books_author = ["authors/susan-marie-conrad.md"]
+books_author = ["books/inside.md"]
 sponsorships_book = ["sponsorships/inside-one-woman\u2019s-journey-though-the-inside-passage.md"]
 notes_relationship = ["notes/an-adventure-in-northwest-waters.md"]
 [[image]]

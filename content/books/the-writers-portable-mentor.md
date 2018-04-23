@@ -25,7 +25,7 @@ category = ["Language Arts & Disciplines"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-writers-portable-mentor.md"]
-books_author = ""
+books_author = ["books/the-writers-portable-mentor.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

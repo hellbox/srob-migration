@@ -25,7 +25,7 @@ category = "Science Fiction"
 books_publisher = "publishers/melcher-media.md"
 books_translator = ""
 reviews_books = ["books/future-visions.md"]
-books_author = ["authors/multiple-authors.md"]
+books_author = ["books/future-visions.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

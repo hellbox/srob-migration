@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/angry-robot.md"
 books_translator = ""
 reviews_books = ["books/windswept.md"]
-books_author = ["authors/adam-rakunas.md"]
+books_author = ["books/windswept.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/dont-forget-to-celebrate-small-business-saturday.md", "notes/a-labor-day-proposal-lets-create-more-blue-collar-novelists.md"]
 [[image]]

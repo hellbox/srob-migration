@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/mcd.md"
 books_translator = ""
 reviews_books = ["books/borne.md"]
-books_author = ["authors/jeff-vandermeer.md"]
+books_author = ["books/borne.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

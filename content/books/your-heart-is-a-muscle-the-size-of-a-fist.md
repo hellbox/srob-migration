@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/lee-boudreaux-books.md"
 books_translator = ""
 reviews_books = ["books/your-heart-is-a-muscle-the-size-of-a-fist.md"]
-books_author = ["authors/sunil-yapa.md"]
+books_author = ["books/your-heart-is-a-muscle-the-size-of-a-fist.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/jeffrey-dean.md"
 books_translator = ""
 reviews_books = ["books/justifiable-homicide.md"]
-books_author = ["authors/jeffrey-warren.md"]
+books_author = ["books/justifiable-homicide.md"]
 sponsorships_book = ["sponsorships/justifiable-homicide.md"]
 notes_relationship = ""
 [[image]]

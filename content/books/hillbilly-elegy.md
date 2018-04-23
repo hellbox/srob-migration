@@ -25,7 +25,7 @@ category = "memoir"
 books_publisher = "publishers/harper.md"
 books_translator = ""
 reviews_books = ["books/hillbilly-elegy.md"]
-books_author = ["authors/jd-vance.md"]
+books_author = ["books/hillbilly-elegy.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/thank-you-for-coming-to-the-first-reading-through-it-book-club.md", "notes/book-news-roundup-politicians-we-love.md"]
 [[image]]

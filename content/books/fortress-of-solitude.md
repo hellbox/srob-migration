@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/fortress-of-solitude.md"]
-books_author = ""
+books_author = ["books/fortress-of-solitude.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/seattle-writing-prompt-2-writing-the-city.md"]
 [[image]]

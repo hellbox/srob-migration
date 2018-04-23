@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/mount-analogue.md"
 books_translator = ""
 reviews_books = ["books/final-rose.md"]
-books_author = ["authors/halie-theoharides.md"]
+books_author = ["books/final-rose.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-politicians-we-love.md", "notes/literary-event-of-the-week-x-y-z-gallery-opening.md"]
 [[image]]

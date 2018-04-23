@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/chatwin-books.md"
 books_translator = ""
 reviews_books = ["books/stories-in-stone-and-light.md"]
-books_author = ["authors/tom-small.md"]
+books_author = ["books/stories-in-stone-and-light.md"]
 sponsorships_book = ["sponsorships/stories-in-stone-and-light.md"]
 notes_relationship = ["notes/stop-by-sponsor-arundel-books-for-sculpture-sparkles-and-of-course-books.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/entre-r\u00edos-books.md"
 books_translator = ""
 reviews_books = ["books/popular-songs.md"]
-books_author = ["authors/percy-bysshe-shelley.md"]
+books_author = ["books/popular-songs.md"]
 sponsorships_book = ["sponsorships/popular-songs-the-political-poems-of-1819-1820.md"]
 notes_relationship = ""
 [[image]]

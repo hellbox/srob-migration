@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/hawthorne-books.md"
 books_translator = ""
 reviews_books = ["books/call-me-home.md"]
-books_author = ["authors/megan-kruse.md"]
+books_author = ["books/call-me-home.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-events-from-feb-29th---march-6th.md", "notes/literary-event-of-the-week-hugo-literary-series-exile.md"]
 [[image]]

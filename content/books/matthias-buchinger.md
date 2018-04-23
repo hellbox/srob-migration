@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/siglio.md"
 books_translator = ""
 reviews_books = ["books/matthias-buchinger.md"]
-books_author = ["authors/ricky-jay.md"]
+books_author = ["books/matthias-buchinger.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

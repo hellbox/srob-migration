@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
 reviews_books = ["books/agnostic.md"]
-books_author = ["authors/lesley-hazleton.md"]
+books_author = ["books/agnostic.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/book-news-roundup-david-sedaris-lesley-hazleton-tatiana-gill-and-more.md", "notes/book-news-roundup-four-books-you-should-really-look-into.md", "notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/talking-with-reza-aslan-about-why-were-wired-for-faith-and-how-farming-was-a-bad-bet-for-humanity.md"]
 [[image]]

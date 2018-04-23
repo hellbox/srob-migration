@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
 reviews_books = ["books/priestdaddy.md"]
-books_author = ["authors/patricia-lockwood.md"]
+books_author = ["books/priestdaddy.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th.md", "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md"]
 [[image]]

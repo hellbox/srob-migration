@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sorry-house.md"
 books_translator = ""
 reviews_books = ["books/you-private-person.md"]
-books_author = ["authors/richard-chiem.md"]
+books_author = ["books/you-private-person.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/looking-for-a-holiday-gift-book-richard-chiem-recommends-the-passion-according-to-gh.md", "notes/book-news-roundup-a-king-of-joy-a-book-bunker-and-a-chance-to-win-a-washington-state-book-award.md"]
 [[image]]

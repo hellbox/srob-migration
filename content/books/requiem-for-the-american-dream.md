@@ -25,7 +25,7 @@ category = ["Political Science"]
 books_publisher = "publishers/seven-stories-press.md"
 books_translator = ""
 reviews_books = ["books/requiem-for-the-american-dream.md"]
-books_author = ["authors/noam-chomsky.md"]
+books_author = ["books/requiem-for-the-american-dream.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

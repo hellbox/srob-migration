@@ -25,7 +25,7 @@ category = "art"
 books_publisher = "publishers/siglio.md"
 books_translator = ""
 reviews_books = ["books/suite-vénitienne.md"]
-books_author = ["authors/sophie-calle.md"]
+books_author = ["books/suite-vénitienne.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

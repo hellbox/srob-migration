@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/picador-usa.md"
 books_translator = ""
 reviews_books = ["books/a-pleasure-and-a-calling.md"]
-books_author = ["authors/phil-hogan.md"]
+books_author = ["books/a-pleasure-and-a-calling.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/red-hen-press.md"
 books_translator = ""
 reviews_books = ["books/burn-this-house.md"]
-books_author = ["authors/kelly-davio.md"]
+books_author = ["books/burn-this-house.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/exit-interview-kelly-davio-is-moving-to-london.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/the-bobbs-merrill-company.md"
 books_translator = ""
 reviews_books = ["books/in-africa.md"]
-books_author = ["authors/john-tinney-mccutcheon.md"]
+books_author = ["books/in-africa.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

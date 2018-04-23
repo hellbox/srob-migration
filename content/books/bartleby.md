@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/bartleby.md"]
-books_author = ""
+books_author = ["books/bartleby.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/heres-something-to-do-if-youd-prefer-not-to-work.md"]
 [[image]]

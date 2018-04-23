@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/soho-press.md"
 books_translator = ""
 reviews_books = ["books/join.md"]
-books_author = ["authors/steve-toutonghi.md"]
+books_author = ["books/join.md"]
 sponsorships_book = ["sponsorships/join.md", "sponsorships/join-now-in-paperback.md"]
 notes_relationship = ["notes/a-consciousness-with-five-heads.md"]
 [[image]]

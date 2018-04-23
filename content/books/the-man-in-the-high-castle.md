@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-man-in-the-high-castle.md"]
-books_author = ""
+books_author = ["books/the-man-in-the-high-castle.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/amazon-covers-new-york-city-subway-cars-in-nazi-insignias.md"]
 [[image]]

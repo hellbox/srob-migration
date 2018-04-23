@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/penguin-uk.md"
 books_translator = ""
 reviews_books = ["books/middlemarch.md"]
-books_author = ["authors/george-eliot.md"]
+books_author = ["books/middlemarch.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

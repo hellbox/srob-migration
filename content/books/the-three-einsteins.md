@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/the-three-einsteins.md"]
-books_author = ["authors/sarah-galvin.md"]
+books_author = ["books/the-three-einsteins.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-nevertold-casket-company-reading-1.md"]
 [[image]]

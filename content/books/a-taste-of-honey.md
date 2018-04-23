@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/a-taste-of-honey.md"]
-books_author = ["authors/rose-lerner.md"]
+books_author = ["books/a-taste-of-honey.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/never-trust-aaron-burr-and-other-research-tips-from-a-historical-romance-author.md"]
 [[image]]

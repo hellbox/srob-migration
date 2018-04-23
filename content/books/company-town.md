@@ -25,7 +25,7 @@ category = "Science Fiction"
 books_publisher = "publishers/tor.md"
 books_translator = ""
 reviews_books = ["books/company-town.md"]
-books_author = ["authors/madeline-ashby.md"]
+books_author = ["books/company-town.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

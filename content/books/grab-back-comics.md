@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/grabbackcomicscom.md"
 books_translator = ""
 reviews_books = ["books/grab-back-comics.md"]
-books_author = ["authors/erma-blood.md", "authors/various.md"]
+books_author = ["books/grab-back-comics.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-literary-events-from-september-20th---september-26th.md"]
 [[image]]

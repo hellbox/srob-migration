@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/remake.md"]
-books_author = ["authors/connie-willis.md"]
+books_author = ["books/remake.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/university-of-new-mexico-pres.md"
 books_translator = ""
 reviews_books = ["books/crossing-over.md"]
-books_author = ["authors/priscilla-long.md"]
+books_author = ["books/crossing-over.md"]
 sponsorships_book = ["sponsorships/crossing-over.md"]
 notes_relationship = ["notes/a-local-poets-latest.md"]
 [[image]]

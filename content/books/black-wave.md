@@ -25,7 +25,7 @@ category = "Memoir"
 books_publisher = "publishers/amethyst-editions.md"
 books_translator = ""
 reviews_books = ["books/black-wave.md"]
-books_author = ["authors/michelle-tea.md"]
+books_author = ["books/black-wave.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/brad-pitt-or-matt-dillon-michelle-tea-has-opinions.md", "notes/your-week-in-readings-the-best-literary-events-from-november-16th---november-22nd.md"]
 [[image]]

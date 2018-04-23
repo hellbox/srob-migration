@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/houghton-mifflin-harcourt.md"
 books_translator = ""
 reviews_books = ["books/the-best-american-comics-2015.md"]
-books_author = ["authors/jonathan-lethem.md"]
+books_author = ["books/the-best-american-comics-2015.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

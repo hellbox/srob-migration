@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/verso.md"
 books_translator = ""
 reviews_books = ["books/trans.md"]
-books_author = ["authors/juliet-jacques.md"]
+books_author = ["books/trans.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

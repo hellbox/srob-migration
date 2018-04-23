@@ -25,7 +25,7 @@ category = ["Juvenile Fiction"]
 books_publisher = "publishers/harpercollins.md"
 books_translator = ""
 reviews_books = ["books/magonia.md"]
-books_author = ["authors/maria-dahvana-headley.md"]
+books_author = ["books/magonia.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

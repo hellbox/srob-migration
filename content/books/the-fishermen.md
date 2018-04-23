@@ -25,7 +25,7 @@ category = "fiction"
 books_publisher = "publishers/back-bay-books.md"
 books_translator = ""
 reviews_books = ["books/the-fishermen.md"]
-books_author = ["authors/chigozie-obioma.md"]
+books_author = ["books/the-fishermen.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

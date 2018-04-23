@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/donate-to-the-aclu.md"]
-books_author = ""
+books_author = ["books/donate-to-the-aclu.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

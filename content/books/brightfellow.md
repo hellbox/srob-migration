@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/coffee-house-press.md"
 books_translator = ""
 reviews_books = ["books/brightfellow.md"]
-books_author = ["authors/rikki-ducornet.md"]
+books_author = ["books/brightfellow.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

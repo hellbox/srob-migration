@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/university-of-washington-press.md"
 books_translator = ""
 reviews_books = ["books/the-tao-of-raven.md"]
-books_author = ["authors/ernestine-hayes.md"]
+books_author = ["books/the-tao-of-raven.md"]
 sponsorships_book = ["sponsorships/the-tao-of-raven.md"]
 notes_relationship = ""
 [[image]]

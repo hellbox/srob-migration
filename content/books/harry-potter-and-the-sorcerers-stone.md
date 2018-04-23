@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/harry-potter-and-the-sorcerers-stone.md"]
-books_author = ""
+books_author = ["books/harry-potter-and-the-sorcerers-stone.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-sunday-post-for-july-31-2016.md"]
 [[image]]

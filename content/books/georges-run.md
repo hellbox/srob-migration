@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
 reviews_books = ["books/georges-run.md"]
-books_author = ["authors/henry-chamberlain.md"]
+books_author = ["books/georges-run.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

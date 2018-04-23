@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/waywiser-press.md"
 books_translator = ""
 reviews_books = ["books/the-self-styled-no-child.md"]
-books_author = ["authors/cody-walker.md"]
+books_author = ["books/the-self-styled-no-child.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-cody-walker-and-friends-at-elliott-bay-book-company.md"]
 [[image]]

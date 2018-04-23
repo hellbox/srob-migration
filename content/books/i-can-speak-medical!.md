@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/epigraph-publishing.md"
 books_translator = ""
 reviews_books = ["books/i-can-speak-medical!.md"]
-books_author = ["authors/barbara-e-geary.md"]
+books_author = ["books/i-can-speak-medical!.md"]
 sponsorships_book = ["sponsorships/i-can-speak-medical!.md"]
 notes_relationship = ""
 [[image]]

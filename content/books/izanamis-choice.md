@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/broken-eye-books.md"
 books_translator = ""
 reviews_books = ["books/izanamis-choice.md"]
-books_author = ["authors/adam-heine.md"]
+books_author = ["books/izanamis-choice.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

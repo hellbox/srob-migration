@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/pie-school.md"]
-books_author = ""
+books_author = ["books/pie-school.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane.md"]
 [[image]]

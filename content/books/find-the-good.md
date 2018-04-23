@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/algonquin-books.md"
 books_translator = ""
 reviews_books = ["books/find-the-good.md"]
-books_author = ["authors/heather-lende.md"]
+books_author = ["books/find-the-good.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

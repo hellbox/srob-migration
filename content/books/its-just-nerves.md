@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/squares-&-rebels.md"
 books_translator = ""
 reviews_books = ["books/its-just-nerves.md"]
-books_author = ["authors/kelly-davio.md"]
+books_author = ["books/its-just-nerves.md"]
 sponsorships_book = ["sponsorships/its-just-nerves.md"]
 notes_relationship = ["notes/read-strong-is-the-new-sexy-from-sponsor-kelly-davio.md"]
 [[image]]

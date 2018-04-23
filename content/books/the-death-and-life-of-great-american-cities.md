@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/penguin-random-house-audio.md"
 books_translator = ""
 reviews_books = ["books/the-death-and-life-of-great-american-cities.md"]
-books_author = ["authors/jane-jacobs.md"]
+books_author = ["books/the-death-and-life-of-great-american-cities.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

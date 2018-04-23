@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/instant-future.md"
 books_translator = ""
 reviews_books = ["books/boyfriends.md"]
-books_author = ["authors/tara-atkinson.md"]
+books_author = ["books/boyfriends.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/literary-event-of-the-week-tara-atkinson-at-vermillion.md"]
 [[image]]

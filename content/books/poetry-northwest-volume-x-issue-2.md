@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/poetry-northwest.md"
 books_translator = ""
 reviews_books = ["books/poetry-northwest-volume-x-issue-2.md"]
-books_author = ["authors/poetry-northwest.md"]
+books_author = ["books/poetry-northwest-volume-x-issue-2.md"]
 sponsorships_book = ["sponsorships/poetry-northwest-3--2016.md"]
 notes_relationship = ""
 [[image]]

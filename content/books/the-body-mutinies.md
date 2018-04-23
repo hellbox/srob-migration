@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/purdue-university-press.md"
 books_translator = ""
 reviews_books = ["books/the-body-mutinies.md"]
-books_author = ["authors/lucia-perillo.md"]
+books_author = ["books/the-body-mutinies.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

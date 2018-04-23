@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/greenleaf-book-group-press.md"
 books_translator = ""
 reviews_books = ["books/the-telling-image.md"]
-books_author = ["authors/lois-farfel-stark.md"]
+books_author = ["books/the-telling-image.md"]
 sponsorships_book = ["sponsorships/the-telling-image.md"]
 notes_relationship = ["notes/look-again.md"]
 [[image]]

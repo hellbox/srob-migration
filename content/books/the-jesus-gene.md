@@ -25,7 +25,7 @@ category = "Science Fiction & Fantasy"
 books_publisher = "publishers/pond-house-press.md"
 books_translator = ""
 reviews_books = ["books/the-jesus-gene.md"]
-books_author = ["authors/anne-kelleher.md"]
+books_author = ["books/the-jesus-gene.md"]
 sponsorships_book = ["sponsorships/the-jesus-gene.md"]
 notes_relationship = ["notes/its-all-in-the-bloodline.md"]
 [[image]]

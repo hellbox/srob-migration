@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/only-love-can-bring-you-peace.md"]
-books_author = ["authors/simon-joyner.md"]
+books_author = ["books/only-love-can-bring-you-peace.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

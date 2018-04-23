@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
 reviews_books = ["books/the-important-business-ladies-guide-to-important-business-for-ladies.md"]
-books_author = ["authors/abigail-rae-young.md", "authors/jennie-yim.md", "authors/emily-alden-foster.md"]
+books_author = ["books/the-important-business-ladies-guide-to-important-business-for-ladies.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/black-cat.md"
 books_translator = ""
 reviews_books = ["books/blueprints-of-the-afterlife.md"]
-books_author = ["authors/ryan-boudinot.md"]
+books_author = ["books/blueprints-of-the-afterlife.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

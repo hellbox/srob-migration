@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/chatwin-books.md"
 books_translator = ""
 reviews_books = ["books/the-announcers.md"]
-books_author = ["authors/jg-perkins.md"]
+books_author = ["books/the-announcers.md"]
 sponsorships_book = ["sponsorships/the-announcers.md"]
 notes_relationship = ""
 [[image]]

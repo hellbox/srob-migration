@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/knopf.md"
 books_translator = ""
 reviews_books = ["books/days-of-awe.md"]
-books_author = ["authors/lauren-fox.md"]
+books_author = ["books/days-of-awe.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

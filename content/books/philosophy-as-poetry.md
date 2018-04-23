@@ -25,7 +25,7 @@ category = "nonfiction, philosophy"
 books_publisher = "publishers/the-university-of-virginia-press.mdpublishers/university-of-virginia-press.md"
 books_translator = ""
 reviews_books = ["books/philosophy-as-poetry.md"]
-books_author = ["authors/richard-rorty.md"]
+books_author = ["books/philosophy-as-poetry.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

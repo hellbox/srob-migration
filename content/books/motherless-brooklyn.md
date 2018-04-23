@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/motherless-brooklyn.md"]
-books_author = ["authors/jonathan-lethem.md"]
+books_author = ["books/motherless-brooklyn.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

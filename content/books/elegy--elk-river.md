@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/floating-bridge-press.md"
 books_translator = ""
 reviews_books = ["books/elegy--elk-river.md"]
-books_author = ["authors/michael-schmeltzer.md"]
+books_author = ["books/elegy--elk-river.md"]
 sponsorships_book = ["sponsorships/elegy--elk-river.md"]
 notes_relationship = ["notes/michael-schmeltzers-elegy--elk-river.md"]
 [[image]]

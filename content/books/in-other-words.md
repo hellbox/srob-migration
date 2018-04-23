@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/knopf.md"
 books_translator = ""
 reviews_books = ["books/in-other-words.md"]
-books_author = ["authors/jhumpa-lahiri.md"]
+books_author = ["books/in-other-words.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

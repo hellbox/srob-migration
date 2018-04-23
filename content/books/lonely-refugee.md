@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/starseed-publications.md"
 books_translator = ""
 reviews_books = ["books/lonely-refugee.md"]
-books_author = ["authors/elizabeth-c-fowler.md"]
+books_author = ["books/lonely-refugee.md"]
 sponsorships_book = ["sponsorships/lonely-refugee.md"]
 notes_relationship = ["notes/a-refugee-on-two-continents-from-sydney-to-seattle.md"]
 [[image]]

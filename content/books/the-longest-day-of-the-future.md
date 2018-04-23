@@ -25,7 +25,7 @@ category = ["Comics & Graphic Novels"]
 books_publisher = "publishers/fantagraphics-books.md"
 books_translator = ""
 reviews_books = ["books/the-longest-day-of-the-future.md"]
-books_author = ["authors/lucas-varela.md"]
+books_author = ["books/the-longest-day-of-the-future.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

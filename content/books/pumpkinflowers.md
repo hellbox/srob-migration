@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/pumpkinflowers.md"]
-books_author = ""
+books_author = ["books/pumpkinflowers.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

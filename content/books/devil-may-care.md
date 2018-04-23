@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/vintage.md"
 books_translator = ""
 reviews_books = ["books/devil-may-care.md"]
-books_author = ["authors/sebastian-faulks.md"]
+books_author = ["books/devil-may-care.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/james-bond-needs-to-be-bookish.md"]
 [[image]]

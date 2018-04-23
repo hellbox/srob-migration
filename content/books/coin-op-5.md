@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/coin-op-books.md"
 books_translator = ""
 reviews_books = ["books/coin-op-5.md"]
-books_author = ["authors/peter-and-maria-hoey.md"]
+books_author = ["books/coin-op-5.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = "poetry"
 books_publisher = "publishers/arundel-books.md"
 books_translator = ""
 reviews_books = ["books/karate-bride.md"]
-books_author = ["authors/nicole-sarrocco.md"]
+books_author = ["books/karate-bride.md"]
 sponsorships_book = ["sponsorships/karate-bride.md"]
 notes_relationship = ["notes/one-day-left-to-read-three-poems-from-nicole-sarrocco.md"]
 [[image]]

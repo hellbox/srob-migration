@@ -25,7 +25,7 @@ category = ["Religion"]
 books_publisher = "publishers/penguin-books.md"
 books_translator = ""
 reviews_books = ["books/the-artists-way.md"]
-books_author = ["authors/julia-cameron.md"]
+books_author = ["books/the-artists-way.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

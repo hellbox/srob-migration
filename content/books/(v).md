@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/gramma-poetry.md"
 books_translator = ""
 reviews_books = ["books/(v).md"]
-books_author = ["authors/anastacia-renee.md"]
+books_author = ["books/(v).md"]
 sponsorships_book = ""
 notes_relationship = ["notes/no-pastors-or-pews-talking-with-anastacia-rene\u00e9.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/northwestern-university-press.md"
 books_translator = ""
 reviews_books = ["books/lolas-house.md"]
-books_author = ["authors/m-evelina-galang.md"]
+books_author = ["books/lolas-house.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

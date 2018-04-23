@@ -25,7 +25,7 @@ category = ["Social Science"]
 books_publisher = "publishers/publicaffairs.md"
 books_translator = ""
 reviews_books = ["books/we-were-feminists-once.md"]
-books_author = ["authors/andi-zeisler.md"]
+books_author = ["books/we-were-feminists-once.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/entre-r\u00edos-books.md"
 books_translator = ""
 reviews_books = ["books/the-after.md"]
-books_author = ["authors/melinda-mueller.md"]
+books_author = ["books/the-after.md"]
 sponsorships_book = ["sponsorships/the-after.md"]
 notes_relationship = ""
 [[image]]

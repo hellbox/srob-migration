@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/harper.md"
 books_translator = ""
 reviews_books = ["books/gutenbergs-apprentice.md"]
-books_author = ["authors/alix-christie.md"]
+books_author = ["books/gutenbergs-apprentice.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

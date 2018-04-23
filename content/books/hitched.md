@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
 reviews_books = ["books/hitched.md"]
-books_author = ["authors/mita-mahato.md"]
+books_author = ["books/hitched.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/neuromancer.md"]
-books_author = ""
+books_author = ["books/neuromancer.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-counter-programming.md", "notes/thursday-comics-hangover-william-gibson-comes-to-comics.md"]
 [[image]]

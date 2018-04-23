@@ -25,7 +25,7 @@ category = ["African Americans"]
 books_publisher = "publishers/scholastic-press.md"
 books_translator = ""
 reviews_books = ["books/a-birthday-cake-for-george-washington.md"]
-books_author = ["authors/ramin-ganeshram.md"]
+books_author = ["books/a-birthday-cake-for-george-washington.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/anti-censorship-group-alarmed-by-decision-to-pull-a-birthday-cake-for-george-washington.md"]
 [[image]]

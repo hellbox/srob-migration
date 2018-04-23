@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/floating-bridge-press.md"
 books_translator = ""
 reviews_books = ["books/my-idea-of-fun.md"]
-books_author = ["authors/brian-cooney.md"]
+books_author = ["books/my-idea-of-fun.md"]
 sponsorships_book = ["sponsorships/my-idea-of-fun.md"]
 notes_relationship = ["notes/everybodys-idea-of-fun.md"]
 [[image]]

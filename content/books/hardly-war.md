@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/wave-books.md"
 books_translator = ""
 reviews_books = ["books/hardly-war.md"]
-books_author = ["authors/don-mee-choi.md"]
+books_author = ["books/hardly-war.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-trouble-with-genius.md", "notes/event-of-the-week-a-night-with-wave-books-at-fred-wildlife-refuge.md", "notes/book-news-roundup-an-international-publishing-partnership-a-lannan-fellowship-and-blacklivesmatter.md", "notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 [[image]]

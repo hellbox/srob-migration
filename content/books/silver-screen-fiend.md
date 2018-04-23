@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/scribner-book-company.md"
 books_translator = ""
 reviews_books = ["books/silver-screen-fiend.md"]
-books_author = ["authors/patton-oswalt.md"]
+books_author = ["books/silver-screen-fiend.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

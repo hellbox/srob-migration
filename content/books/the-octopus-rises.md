@@ -25,7 +25,7 @@ category = "Short Stories"
 books_publisher = "publishers/fantagraphics.md"
 books_translator = ""
 reviews_books = ["books/the-octopus-rises.md"]
-books_author = ["authors/ryan-boudinot.md"]
+books_author = ["books/the-octopus-rises.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/your-week-in-readings-the-best-events-from-september-28th-to-october-4th.md"]
 [[image]]

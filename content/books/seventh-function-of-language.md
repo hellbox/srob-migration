@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/farrar-straus-and-giroux.md"
 books_translator = ""
 reviews_books = ["books/seventh-function-of-language.md"]
-books_author = ["authors/laurent-binet.md"]
+books_author = ["books/seventh-function-of-language.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

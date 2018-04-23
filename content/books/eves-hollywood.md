@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/nyrb-classics.md"
 books_translator = ""
 reviews_books = ["books/eves-hollywood.md"]
-books_author = ["authors/eve-babitz.md"]
+books_author = ["books/eves-hollywood.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

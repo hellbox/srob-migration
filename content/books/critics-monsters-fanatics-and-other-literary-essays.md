@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/houghton-mifflin-harcourt.md"
 books_translator = ""
 reviews_books = ["books/critics-monsters-fanatics-and-other-literary-essays.md"]
-books_author = ["authors/cynthia-ozick.md"]
+books_author = ["books/critics-monsters-fanatics-and-other-literary-essays.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

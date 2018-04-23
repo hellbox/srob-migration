@@ -25,7 +25,7 @@ category = ["Architecture"]
 books_publisher = "publishers/island-press.md"
 books_translator = ""
 reviews_books = ["books/seeing-the-better-city.md"]
-books_author = ["authors/charles-r-wolfe.md"]
+books_author = ["books/seeing-the-better-city.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

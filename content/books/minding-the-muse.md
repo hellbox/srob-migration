@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/coffeetown-press.md"
 books_translator = ""
 reviews_books = ["books/minding-the-muse.md"]
-books_author = ["authors/priscilla-long.md"]
+books_author = ["books/minding-the-muse.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

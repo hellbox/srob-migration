@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/kore-press.md"
 books_translator = ""
 reviews_books = ["books/pomegranate-eater.md"]
-books_author = ["authors/amaranth-borsuk.md"]
+books_author = ["books/pomegranate-eater.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

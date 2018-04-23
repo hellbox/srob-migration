@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/drawn-and-quarterly.md"
 books_translator = ""
 reviews_books = ["books/rolling-blackouts.md"]
-books_author = ["authors/sarah-glidden.md"]
+books_author = ["books/rolling-blackouts.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/you-need-distance-to-tell-a-story-talking-with-sarah-glidden-about-comics-journalism.md", "notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/sarah-glidden-gets-animated-for-the-seattle-globalist.md", "notes/seattle-cartoonist-sarah-glidden-wins-lynd-ward-prize-for-graphic-novel-of-the-year.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
 reviews_books = ["books/the-best-party-of-our-lives.md"]
-books_author = ["authors/sarah-galvin.md"]
+books_author = ["books/the-best-party-of-our-lives.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

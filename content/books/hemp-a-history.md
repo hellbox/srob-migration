@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/hemp-a-history.md"]
-books_author = ""
+books_author = ["books/hemp-a-history.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-introducing-our-new-literary-advice-column.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = ""
 books_translator = ""
 reviews_books = ["books/gilead.md"]
-books_author = ""
+books_author = ["books/gilead.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/one-of-my-favorite-characters-in-fiction-is-a-pastor-in-gilead.md"]
 [[image]]

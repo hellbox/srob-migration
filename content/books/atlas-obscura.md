@@ -25,7 +25,7 @@ category = ["Travel"]
 books_publisher = "publishers/workman-publishing.md"
 books_translator = ""
 reviews_books = ["books/atlas-obscura.md"]
-books_author = ["authors/joshua-foer.md"]
+books_author = ["books/atlas-obscura.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

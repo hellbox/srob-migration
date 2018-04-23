@@ -25,7 +25,7 @@ category = ["Juvenile Fiction"]
 books_publisher = "publishers/harpercollins.md"
 books_translator = ""
 reviews_books = ["books/charlottes-web.md"]
-books_author = ""
+books_author = ["books/charlottes-web.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/the-help-desk-are-adult-coloring-books-a-fad.md"]
 [[image]]

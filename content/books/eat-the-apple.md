@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/bloomsbury-usa.md"
 books_translator = ""
 reviews_books = ["books/eat-the-apple.md"]
-books_author = ["authors/matt-young.md"]
+books_author = ["books/eat-the-apple.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

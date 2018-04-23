@@ -25,7 +25,7 @@ category = "Novel"
 books_publisher = "publishers/farrar-straus-giroux.md"
 books_translator = ""
 reviews_books = ["books/outline.md"]
-books_author = ["authors/rachel-cusk.md"]
+books_author = ["books/outline.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

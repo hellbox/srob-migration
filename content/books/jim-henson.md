@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/ballantine-books.md"
 books_translator = ""
 reviews_books = ["books/jim-henson.md"]
-books_author = ["authors/brian-jay-jones.md"]
+books_author = ["books/jim-henson.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

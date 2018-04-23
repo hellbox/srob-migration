@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/floating-bridge-press.md"
 books_translator = ""
 reviews_books = ["books/this-city.md"]
-books_author = ["authors/claudia-castro-luna.md"]
+books_author = ["books/this-city.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md", "notes/book-news-roundup-opportunities-for-writers-a-book-swap-and-benedict-cumberbatch-news.md"]
 [[image]]

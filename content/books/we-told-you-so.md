@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/fantagraphics-books.md"
 books_translator = ""
 reviews_books = ["books/we-told-you-so.md"]
-books_author = ["authors/tom-spurgeon.md"]
+books_author = ["books/we-told-you-so.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

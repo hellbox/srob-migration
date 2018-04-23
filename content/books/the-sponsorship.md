@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/the-seattle-review-of-books.md"
 books_translator = ""
 reviews_books = ["books/the-sponsorship.md"]
-books_author = ["authors/you.md"]
+books_author = ["books/the-sponsorship.md"]
 sponsorships_book = ["sponsorships/the-sponsorship.md", "sponsorships/the-sponsorship-(by-you).md"]
 notes_relationship = ["notes/sponsorships-now-open-through-january-2018.md"]
 [[image]]

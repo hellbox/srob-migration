@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/riverhead-books.md"
 books_translator = ""
 reviews_books = ["books/lafayette-in-the-somewhat-united-states.md"]
-books_author = ["authors/sarah-vowell.md"]
+books_author = ["books/lafayette-in-the-somewhat-united-states.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

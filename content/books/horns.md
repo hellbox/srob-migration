@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/harper.md"
 books_translator = ""
 reviews_books = ["books/horns.md"]
-books_author = ["authors/joe-hill.md"]
+books_author = ["books/horns.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

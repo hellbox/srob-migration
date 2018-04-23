@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/entre-r\u00edos-books.md"
 books_translator = ""
 reviews_books = ["books/twelve-saints.md"]
-books_author = ["authors/nia-michaels.md", "authors/knox-gardner.md"]
+books_author = ["books/twelve-saints.md"]
 sponsorships_book = ["sponsorships/purchase-twelve-saints.md"]
 notes_relationship = ["notes/twelve-saints-is-poetry-and-art-in-collaboration.md", "notes/one-day-left-to-check-out-twelve-saints.md", "notes/collage-and-poetry-together.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/wave-books.md"
 books_translator = ""
 reviews_books = ["books/snowflake--different-streets.md"]
-books_author = ["authors/eileen-myles.md"]
+books_author = ["books/snowflake--different-streets.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

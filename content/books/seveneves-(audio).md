@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/brilliance-audio.md"
 books_translator = ""
 reviews_books = ["books/seveneves-(audio).md"]
-books_author = ["authors/neal-stephenson.md"]
+books_author = ["books/seveneves-(audio).md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

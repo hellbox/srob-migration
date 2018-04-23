@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/self-published.md"
 books_translator = ""
 reviews_books = ["books/shoutyourabortion.md"]
-books_author = ["authors/various.md"]
+books_author = ["books/shoutyourabortion.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

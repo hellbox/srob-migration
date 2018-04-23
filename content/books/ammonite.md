@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/del-rey-books.md"
 books_translator = ""
 reviews_books = ["books/ammonite.md"]
-books_author = ["authors/nicola-griffith.md"]
+books_author = ["books/ammonite.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

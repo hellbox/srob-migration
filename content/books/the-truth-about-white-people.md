@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/lola-e-peters.md"
 books_translator = ""
 reviews_books = ["books/the-truth-about-white-people.md"]
-books_author = ["authors/lola-e-peters.md"]
+books_author = ["books/the-truth-about-white-people.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

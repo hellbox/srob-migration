@@ -25,7 +25,7 @@ category = "Literary Magazine"
 books_publisher = "publishers/pageboy.md"
 books_translator = ""
 reviews_books = ["books/pageboy-.md"]
-books_author = ["authors/various.md"]
+books_author = ["books/pageboy-.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

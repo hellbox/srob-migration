@@ -25,7 +25,7 @@ category = ["Poetry"]
 books_publisher = "publishers/pleiades-press.md"
 books_translator = ""
 reviews_books = ["books/in-between.md"]
-books_author = ["authors/mita-mahato.md"]
+books_author = ["books/in-between.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/getting-ready-for-short-run-read-our-coverage-first!.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/macmillan.md"
 books_translator = ""
 reviews_books = ["books/cheri.md"]
-books_author = ["authors/colette.md"]
+books_author = ["books/cheri.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

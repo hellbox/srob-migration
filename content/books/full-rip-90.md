@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sasquatch-books.md"
 books_translator = ""
 reviews_books = ["books/full-rip-90.md"]
-books_author = ["authors/sandi-doughton.md"]
+books_author = ["books/full-rip-90.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/a-bigger-look-at-the-really-big-one.md"]
 [[image]]

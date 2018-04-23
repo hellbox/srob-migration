@@ -25,7 +25,7 @@ category = ["Fiction"]
 books_publisher = "publishers/chin-music.md"
 books_translator = ""
 reviews_books = ["books/king-of-the-worlds.md"]
-books_author = ["authors/m-thomas-gammarino.md"]
+books_author = ["books/king-of-the-worlds.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/every-teleportation-is-a-little-death-talking-with-m-thomas-gammarino-about-sci-fi-book-design-and-epistemology.md"]
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/grey-sun-press.md"
 books_translator = ""
 reviews_books = ["books/amaskans-blood.md"]
-books_author = ["authors/raven-oak.md"]
+books_author = ["books/amaskans-blood.md"]
 sponsorships_book = ["sponsorships/amaskans-blood.md"]
 notes_relationship = ["notes/in-this-weeks-sponsor-sample-meet-a-warrior-with-a-heart-and-a-mission.md"]
 [[image]]

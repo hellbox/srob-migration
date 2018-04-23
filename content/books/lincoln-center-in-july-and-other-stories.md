@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/sagging-meniscus-press.md"
 books_translator = ""
 reviews_books = ["books/lincoln-center-in-july-and-other-stories.md"]
-books_author = ["authors/roy-lisker.md"]
+books_author = ["books/lincoln-center-in-july-and-other-stories.md"]
 sponsorships_book = ["sponsorships/lincoln-center-in-july-and-other-stories.md"]
 notes_relationship = ""
 [[image]]

@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/floating-bridge-press.md"
 books_translator = ""
 reviews_books = ["books/the-myth-of-man.md"]
-books_author = ["authors/alex-vigue.md"]
+books_author = ["books/the-myth-of-man.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/come-out-november-3rd-to-hear-aaron-shurin-with-special-guest-alex-vigue.md"]
 [[image]]

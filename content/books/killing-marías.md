@@ -25,7 +25,7 @@ category = ""
 books_publisher = "publishers/two-sylvias-press.md"
 books_translator = ""
 reviews_books = ["books/killing-marías.md"]
-books_author = ["authors/claudia-castro-luna.md"]
+books_author = ["books/killing-marías.md"]
 sponsorships_book = ""
 notes_relationship = ""
 [[image]]

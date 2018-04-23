@@ -25,7 +25,7 @@ category = ["Biography & Autobiography"]
 books_publisher = "publishers/seven-stories-press.md"
 books_translator = ""
 reviews_books = ["books/snowden.md"]
-books_author = ["authors/ted-rall.md"]
+books_author = ["books/snowden.md"]
 sponsorships_book = ""
 notes_relationship = ["notes/thursday-comics-hangover-bernie-sanders-comic-book-hero.md", "notes/help-ted-rall-fight-the-la-times.md"]
 [[image]]
