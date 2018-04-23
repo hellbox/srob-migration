@@ -27,7 +27,7 @@
                 <p class="noindent review-meta">
 
                     {{ range $i, $v := $byline }}
-                        {{ with $v.Params.byline }}{{ $.Scratch.SetInMap "names" . . }}{{ end }}
+                        {{ with $v.Params.name }}{{ $.Scratch.SetInMap "names" . . }}{{ end }}
                     {{ end }}
                     {{ with ($.Scratch.Get "names") }}
                         {{ delimit . "," ", and " }}
