@@ -1,16 +1,20 @@
+{{ .Section }}<br><br>
+
 {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
+{{ $reviews_byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "reviews" }}
 {{ $reviewtags := where ( .Site.RegularPages.RelatedIndices . "reviews_tags" ) "Type" "tags" }}
 {{ $notestags := where ( .Site.RegularPages.RelatedIndices . "notes_tags" ) "Type" "tags" }}
 {{ $books := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
 {{ $author := where ( .Site.RegularPages.RelatedIndices . "books_author" ) "Type" "books" }}
 
-
-
-Reviews byline: {{ range $byline }}{{ .Params.byline }}{{ end }}<br>
-Reviews tags: {{ range $reviewtags }}{{ .Params.name }}{{ end }}<br>
+Reviews byline: {{ range $byline }}<a href="{{ .Permalink }}">{{ .Params.byline }}</a>{{ end }}<br>
+writers to reviews byline: {{ range $reviews_byline }}<a href="{{ .Permalink }}">{{ .Params.name }}</a>{{ end }}<br>
+Reviews tags: {{ range $reviewtags }}<a href="{{ .Permalink }}">{{ .Params.name }}</a>{{ end }}<br>
 Reviews books: {{ range $books }}<a href="{{ .Permalink }}">{{ .Params.name }}</a>{{ end }}<br>
-Books author: {{ range $author }}{{ .Params.name }}{{ end }}<br>
-Notes tags: {{ range $notestags }}{{ .Params.name }}{{ end }}<br>
+Books author: {{ range $author }}{{ . }}{{ end }}<br>
+Notes tags: {{ range $notestags }}{{ .Params.name }}{{ end }}<br><br><br>
+
+{{ range where ( $.Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "reviews" }}{{ .Params.name }}{{ end }}
 
 
 {{ .Content }}
