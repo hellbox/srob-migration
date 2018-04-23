@@ -17,7 +17,7 @@ twitterauto = "The Toast is ending today with a special sendoff from @HillaryCli
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hillary-clinton-says-goodbye-to-the-toast.md"
+notes_tags = ["notes/hillary-clinton-says-goodbye-to-the-toast.md"]
 notes_about = ""
 books = ""
 +++

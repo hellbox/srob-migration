@@ -17,7 +17,7 @@ twitterauto = "Sponsor @HelloTheFuture is here with her anything-but-ordinary de
 facebookauto = "Sponsor Nicole Dieker is here with her anything-but-ordinary debut."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/ordinary-people-not-ordinary-reading.md"
+notes_tags = ["notes/ordinary-people-not-ordinary-reading.md"]
 notes_about = ""
 books = ""
 +++

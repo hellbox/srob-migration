@@ -17,7 +17,7 @@ twitterauto = ". @studiochristine's Portrait Gallery offering today is Nellie Bl
 facebookauto = "Nellie Bly is Christine Marie's Topic today, for the Portrait Gallery."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-nellie-bly.md"
+notes_tags = ["notes/portrait-gallery-nellie-bly.md"]
 notes_about = ""
 books = ""
 +++

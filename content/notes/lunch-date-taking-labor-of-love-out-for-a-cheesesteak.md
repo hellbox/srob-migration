@@ -17,7 +17,7 @@ twitterauto = "We took a book about dating in America out for a cheesesteak. Was
 facebookauto = "We took a book about dating in America out for a cheesesteak. Was there a love connection?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-taking-labor-of-love-out-for-a-cheesesteak.md"
+notes_tags = ["notes/lunch-date-taking-labor-of-love-out-for-a-cheesesteak.md"]
 notes_about = ""
 books = ""
 +++

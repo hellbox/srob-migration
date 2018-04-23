@@ -17,7 +17,7 @@ twitterauto = "Is it possible for a book to be over-produced? Is there anywhere 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-turkish-food-with-boots-riley.md"
+notes_tags = ["notes/lunch-date-turkish-food-with-boots-riley.md"]
 notes_about = ["authors/boots-riley.md"]
 books = ["books/boots-riley.md"]
 +++

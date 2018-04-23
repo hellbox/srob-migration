@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: #BarrettMartin on air today w/ @djkevincole @ke
 facebookauto = "Seattle musician Barrett Martin has a a new book: \"The Singing Earth\" See him in conversation today at KEXP. Portrait by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-barrett-martin.md"
+notes_tags = ["notes/portrait-gallery-barrett-martin.md"]
 notes_about = ["authors/barrett-martin.md"]
 books = ""
 +++

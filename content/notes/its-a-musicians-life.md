@@ -17,7 +17,7 @@ twitterauto = "Our thanks to this week's sponsor @3rdplacepress, bringing you lo
 facebookauto = "A local writer, Eugene M. Babb, and a local press, Third Place Press, come together to bring you this week's sponsorship, all about what it's like to be a working musician. "
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/its-a-musicians-life.md"
+notes_tags = ["notes/its-a-musicians-life.md"]
 notes_about = ["authors/eugene-m-babb.md"]
 books = ["books/grit-and-roses.md"]
 +++

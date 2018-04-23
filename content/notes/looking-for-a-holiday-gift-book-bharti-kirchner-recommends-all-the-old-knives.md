@@ -17,7 +17,7 @@ twitterauto = "We asked Bharti Kirchner to recommend a good book for holiday giv
 facebookauto = "We asked Bharti Kirchner to recommend a good book for holiday giving. Here's the book she picked for you:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/looking-for-a-holiday-gift-book-bharti-kirchner-recommends-all-the-old-knives.md"
+notes_tags = ["notes/looking-for-a-holiday-gift-book-bharti-kirchner-recommends-all-the-old-knives.md"]
 notes_about = ["authors/bharti-kirchner.md"]
 books = ""
 +++

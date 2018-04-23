@@ -17,7 +17,7 @@ twitterauto = "We took Exit West to one of the Northwest's most-loved sandwich p
 facebookauto = "We took Exit West to one of the Northwest's most-loved sandwich places. One of these two things wound up disappointing us."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-taking-exit-west-to-one-of-the-northwests-famous-sandwich-joints.md"
+notes_tags = ["notes/lunch-date-taking-exit-west-to-one-of-the-northwests-famous-sandwich-joints.md"]
 notes_about = ""
 books = ""
 +++

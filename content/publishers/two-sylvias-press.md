@@ -10,5 +10,5 @@ last_updated = "2018-01-30T15:04:00-08:00"
 preview_url = "bce08ef9-a94f-04ae-e09c-2fa6e6df79e3"
 name = "Two Sylvias Press"
 title = "Two Sylvias Press"
-books_publisher = "publishers/two-sylvias-press.md"
+books_publisher = ["publishers/two-sylvias-press.md"]
 +++

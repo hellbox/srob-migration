@@ -17,7 +17,7 @@ twitterauto = "This week's main event: humorous essayist Sloane Crosley reading 
 facebookauto = "This week's main event: humorous essayist Sloane Crosley reading at Elliott Bay Book Company on Friday!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-sloane-crosley-at-elliott-bay-book-company.md"
+notes_tags = ["notes/literary-event-of-the-week-sloane-crosley-at-elliott-bay-book-company.md"]
 notes_about = ["authors/david-sedaris.md"]
 books = ""
 +++

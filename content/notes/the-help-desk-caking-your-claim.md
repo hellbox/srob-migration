@@ -17,7 +17,7 @@ twitterauto = "If you really want to get your message across, print it on an ice
 facebookauto = "If you really want to get your message across, print it on an ice cream cake."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-help-desk-caking-your-claim.md"
+notes_tags = ["notes/the-help-desk-caking-your-claim.md"]
 notes_about = ""
 books = ""
 +++

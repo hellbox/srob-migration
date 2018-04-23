@@ -17,7 +17,7 @@ twitterauto = "What should you do if your once-challenging book club keeps leani
 facebookauto = "\"...occasionally, mama likes to shake off her spiders, put on pants that button and listen to other women discuss their blood-sucking dependents in a wine-infused setting.\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-my-book-club-is-going-soft!.md"
+notes_tags = ["notes/the-help-desk-my-book-club-is-going-soft!.md"]
 notes_about = ""
 books = ""
 +++

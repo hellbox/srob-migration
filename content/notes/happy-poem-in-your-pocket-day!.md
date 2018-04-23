@@ -17,7 +17,7 @@ twitterauto = "Happy Poem In Your Pocket Day! Here's how to celebrate in Seattle
 facebookauto = "Happy Poem In Your Pocket Day! Here's how to celebrate in Seattle. #pocketpoem"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/happy-poem-in-your-pocket-day!.md"
+notes_tags = ["notes/happy-poem-in-your-pocket-day!.md"]
 notes_about = ["authors/claudia-castro-luna.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "In this week's Help Desk, @ciennam advises a self-professed \"man
 facebookauto = "A self-professed \"man's man\" has fallen in love with Victorian romance novels. Will our advice columnist tell the former military dude to stick with the Tom Clancy, or should he stop complaining and learn to openly love bodice-rippers?"
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-so-youre-a-mans-man-who-loves-romance-novels.md"
+notes_tags = ["notes/the-help-desk-so-youre-a-mans-man-who-loves-romance-novels.md"]
 notes_about = ["authors/courtney-milan.md", "authors/cecelia-grant.md", "authors/sarah-maclean.md"]
 books = ""
 +++

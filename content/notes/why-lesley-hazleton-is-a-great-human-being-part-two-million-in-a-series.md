@@ -17,7 +17,7 @@ twitterauto = "On her blog, Lesley Hazleton (@accidentaltheo) shared her abortio
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/why-lesley-hazleton-is-a-great-human-being-part-two-million-in-a-series.md"
+notes_tags = ["notes/why-lesley-hazleton-is-a-great-human-being-part-two-million-in-a-series.md"]
 notes_about = ["authors/lesley-hazleton.md"]
 books = ""
 +++

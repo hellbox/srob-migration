@@ -17,7 +17,7 @@ twitterauto = "Your final @litcrawlseattle itinerary takes you around the world.
 facebookauto = "Your final Lit Crawl Seattle itinerary takes you around the world without ever leaving Seattle."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary-4-its-a-small-world-after-all.md"
+notes_tags = ["notes/lit-crawl-itinerary-4-its-a-small-world-after-all.md"]
 notes_about = ["authors/willie-fitzgerald.md"]
 books = ""
 +++

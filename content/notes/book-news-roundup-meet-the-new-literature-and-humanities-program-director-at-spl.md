@@ -17,7 +17,7 @@ twitterauto = "Meet the library's new Literature and Humanities Program Director
 facebookauto = "Today in Book News Roundup: the funniest damn thing you'll read all week, good news for bookstore sales, and introducing the library's new Literature and Humanities Program Director."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-meet-the-new-literature-and-humanities-program-director-at-spl.md"
+notes_tags = ["notes/book-news-roundup-meet-the-new-literature-and-humanities-program-director-at-spl.md"]
 notes_about = ""
 books = ""
 +++

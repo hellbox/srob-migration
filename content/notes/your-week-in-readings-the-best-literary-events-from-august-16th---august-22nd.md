@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes book club discussion of Fun Home a
 facebookauto = "Your week in readings includes book club discussion of Fun Home and All the Birds in the Sky!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-august-16th---august-22nd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-august-16th---august-22nd.md"]
 notes_about = ""
 books = ""
 +++

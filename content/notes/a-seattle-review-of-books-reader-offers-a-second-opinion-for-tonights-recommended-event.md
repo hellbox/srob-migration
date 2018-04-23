@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-seattle-review-of-books-reader-offers-a-second-opinion-for-tonights-recommended-event.md"
+notes_tags = ["notes/a-seattle-review-of-books-reader-offers-a-second-opinion-for-tonights-recommended-event.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Tonight, @ellen_forney celebrates her new public art at the Capit
 facebookauto = "Tonight, there will be a party to celebrate Ellen Forney's enormous portraits of hands in the Capitol Hill light rail station. Transit nerds, comics fans, and art fanatics are all invited to show up for a hot beverage and a good time."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/party-with-ellen-forney-tonight.md"
+notes_tags = ["notes/party-with-ellen-forney-tonight.md"]
 notes_about = ["authors/ellen-forney.md"]
 books = ""
 +++

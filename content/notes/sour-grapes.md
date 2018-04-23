@@ -17,7 +17,7 @@ twitterauto = "Charles Dickens meets Ivanka Trump on the shores of Lake Washingt
 facebookauto = "Charles Dickens meets Ivanka Trump on the shores of Lake Washington."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sour-grapes.md"
+notes_tags = ["notes/sour-grapes.md"]
 notes_about = ["authors/charles-dickens.md"]
 books = ""
 +++

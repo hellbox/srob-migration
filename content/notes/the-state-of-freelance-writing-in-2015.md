@@ -17,7 +17,7 @@ twitterauto = "Freelance writing in 2015 offers a little more pay but a lot more
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-state-of-freelance-writing-in-2015.md"
+notes_tags = ["notes/the-state-of-freelance-writing-in-2015.md"]
 notes_about = ""
 books = ""
 +++

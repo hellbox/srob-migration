@@ -17,7 +17,7 @@ twitterauto = "Joan Rivers is the perfect subject for a biography: funny, mean, 
 facebookauto = "Joan Rivers is the perfect subject for a biography: funny, mean, cruel, hateful, and sometimes decent."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/journey-to-the-heart-of-the-ultimate-mean-girl.md"
+notes_tags = ["notes/journey-to-the-heart-of-the-ultimate-mean-girl.md"]
 notes_about = ["authors/leslie-bennetts.md"]
 books = ["books/last-girl-before-freeway.md"]
 +++

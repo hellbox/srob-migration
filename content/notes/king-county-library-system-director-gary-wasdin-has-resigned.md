@@ -17,7 +17,7 @@ twitterauto = "King County Library System says director Gary Wasdin \"violated K
 facebookauto = "King County Library System director Gary Wasdin has resigned. The press release indicates he \"violated KCLS\u2019 code of conduct.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/king-county-library-system-director-gary-wasdin-has-resigned.md"
+notes_tags = ["notes/king-county-library-system-director-gary-wasdin-has-resigned.md"]
 notes_about = ""
 books = ""
 +++

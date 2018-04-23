@@ -17,7 +17,7 @@ twitterauto = "It\u2019s Sunday Post time, with links by @nicolaz @vijithassar, 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-september-6-2015.md"
+notes_tags = ["notes/the-sunday-post-for-september-6-2015.md"]
 notes_about = ""
 books = ""
 +++

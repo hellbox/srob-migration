@@ -17,7 +17,7 @@ twitterauto = ".@paulconstant on Vice: \" Does the world really need a Fox News:
 facebookauto = "Vice magazine is aging, and it's not aging gracefully."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-vice-paradox-how-do-you-attract-mass-audiences-while-pretending-youre-cooler-than-everyone-else.md"
+notes_tags = ["notes/the-vice-paradox-how-do-you-attract-mass-audiences-while-pretending-youre-cooler-than-everyone-else.md"]
 notes_about = ["authors/david-carr.md"]
 books = ""
 +++

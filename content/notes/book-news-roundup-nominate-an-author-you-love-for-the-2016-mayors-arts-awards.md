@@ -17,7 +17,7 @@ twitterauto = "Find Jonathan Franzen, #1000BlackGirlBooks, @shortrunseattle, and
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-nominate-an-author-you-love-for-the-2016-mayors-arts-awards.md"
+notes_tags = ["notes/book-news-roundup-nominate-an-author-you-love-for-the-2016-mayors-arts-awards.md"]
 notes_about = ["authors/jonathan-franzen.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Are we supposed to believe that John Smelcer rode in a car with J
 facebookauto = "Are we supposed to believe that John Smelcer rode in a car with John Updike to meet J.D. Salinger?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/john-smelcer-wants-to-sing-like-sherman-alexie-but-he-sounds-more-like-a-cat-in-heat.md"
+notes_tags = ["notes/john-smelcer-wants-to-sing-like-sherman-alexie-but-he-sounds-more-like-a-cat-in-heat.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ["books/you-dont-have-to-say-you-love-me.md"]
 +++

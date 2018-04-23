@@ -17,7 +17,7 @@ twitterauto = "\"As In\" by @LKTuffaha is our Tuesday Poem. It starts:"
 facebookauto = "Our poem today, \"As In\", is by Lena Khalaf Tuffaha. "
 make_image_tweet = "True"
 notes_byline = ["writers/lena-khalaf-tuffaha.md"]
-notes_tags = "notes/as-in.md"
+notes_tags = ["notes/as-in.md"]
 notes_about = ""
 books = ""
 +++

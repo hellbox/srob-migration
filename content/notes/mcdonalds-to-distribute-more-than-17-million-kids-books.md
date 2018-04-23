@@ -17,7 +17,7 @@ twitterauto = "The good news: 17 million children's books will be distributed ov
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/mcdonalds-to-distribute-more-than-17-million-kids-books.md"
+notes_tags = ["notes/mcdonalds-to-distribute-more-than-17-million-kids-books.md"]
 notes_about = ""
 books = ""
 +++

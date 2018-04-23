@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "University of New Mexico Pres"
 title = "University of New Mexico Pres"
-books_publisher = "publishers/university-of-new-mexico-pres.md"
+books_publisher = ["publishers/university-of-new-mexico-pres.md"]
 +++

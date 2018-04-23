@@ -17,7 +17,7 @@ twitterauto = "Sponsor Pope Brock's Charlatan is a vivid look at a famous quack.
 facebookauto = "Sponsor Pope Brock is back for a second week, and with a second \u2014 and just as can't-look-away fascinating  \u2014 chapter of Charlatan for your enjoyment."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-flimflam-man-is-back-again-(with-a-new-chapter-for-you).md"
+notes_tags = ["notes/the-flimflam-man-is-back-again-(with-a-new-chapter-for-you).md"]
 notes_about = ["authors/pope-brock.md"]
 books = ["books/charlatan.md"]
 +++

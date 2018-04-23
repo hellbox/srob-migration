@@ -10,5 +10,5 @@ last_updated = "2015-10-11T21:34:00-07:00"
 preview_url = "f439a9d8-4e00-b2ba-bd61-16d95b585619"
 name = "Lola E. Peters"
 title = "Lola E. Peters"
-books_publisher = "publishers/lola-e-peters.md"
+books_publisher = ["publishers/lola-e-peters.md"]
 +++

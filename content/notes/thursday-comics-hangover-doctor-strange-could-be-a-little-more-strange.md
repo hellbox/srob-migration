@@ -17,7 +17,7 @@ twitterauto = "Does Doctor Strange (the movie) capture the real weirdness of Doc
 facebookauto = "Does Doctor Strange (the movie) capture the real weirdness of Doctor Strange (the comic)?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-doctor-strange-could-be-a-little-more-strange.md"
+notes_tags = ["notes/thursday-comics-hangover-doctor-strange-could-be-a-little-more-strange.md"]
 notes_about = ""
 books = ""
 +++

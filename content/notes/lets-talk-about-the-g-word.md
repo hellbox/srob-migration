@@ -17,7 +17,7 @@ twitterauto = "Three geniuses and a @paulconstant discuss the limits of genre at
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lets-talk-about-the-g-word.md"
+notes_tags = ["notes/lets-talk-about-the-g-word.md"]
 notes_about = ["authors/gary-groth.md", "authors/matt-briggs.md", "authors/john-olson.md"]
 books = ""
 +++

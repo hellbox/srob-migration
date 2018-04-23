@@ -17,7 +17,7 @@ twitterauto = "Our Event of the Week is Lit Crawl!"
 facebookauto = "Lit Crawl is a big damn deal, and it's happening on the 19th."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-lit-crawl.md"
+notes_tags = ["notes/literary-event-of-the-week-lit-crawl.md"]
 notes_about = ["authors/eileen-myles.md"]
 books = ["books/sorry-tree.md"]
 +++

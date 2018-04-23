@@ -10,5 +10,5 @@ last_updated = "2015-12-14T22:42:00-08:00"
 preview_url = "882a444f-a236-b863-d92a-8d2a689870f4"
 name = "Fantagraphics Books"
 title = "Fantagraphics Books"
-books_publisher = "publishers/fantagraphics-books.md"
+books_publisher = ["publishers/fantagraphics-books.md"]
 +++

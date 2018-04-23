@@ -17,7 +17,7 @@ twitterauto = "This Saturday, @xaimeh will be signing books @fantagraphics. We t
 facebookauto = "This Saturday, Jaime Hernandez will be signing books at the Fantagraphics Bookstore in Georgetown. We talked to him about, well, everything:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/for-jaime-hernandez-love-and-rockets-is-everything.md"
+notes_tags = ["notes/for-jaime-hernandez-love-and-rockets-is-everything.md"]
 notes_about = ["authors/jaime-hernandez.md"]
 books = ""
 +++

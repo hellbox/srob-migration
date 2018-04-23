@@ -17,7 +17,7 @@ twitterauto = "Book News Roundup: Sarah Galvin is going on a European tour! Jim 
 facebookauto = "How many Seattle writers have gone on a European tour? However large (or small) the number may be, you can add Sarah Galvin to the ranks. Plus: the founder of Emerald City Comicon is leaving the organization."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-sarah-galvins-going-on-a-european-book-tour-jim-demonakos-is-leaving-emerald-city-comicon.md"
+notes_tags = ["notes/book-news-roundup-sarah-galvins-going-on-a-european-book-tour-jim-demonakos-is-leaving-emerald-city-comicon.md"]
 notes_about = ["authors/sarah-galvin.md"]
 books = ["books/ugly-time.md"]
 +++

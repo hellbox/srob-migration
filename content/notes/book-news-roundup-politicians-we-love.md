@@ -17,7 +17,7 @@ twitterauto = "Our book news roundup includes a few politicians we love and a po
 facebookauto = "Our book news roundup includes a few politicians we love and a political book we do not love."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-politicians-we-love.md"
+notes_tags = ["notes/book-news-roundup-politicians-we-love.md"]
 notes_about = ["authors/ted-powers.md", "authors/halie-theoharides.md", "authors/jd-vance.md", "authors/colleen-louise-barry.md"]
 books = ["books/political-pamphlet-series.md", "books/hillbilly-elegy.md", "books/manners.md", "books/final-rose.md"]
 +++

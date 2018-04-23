@@ -17,7 +17,7 @@ twitterauto = "It's a new year! Go buy some comics. "
 facebookauto = "It's a new year! Go buy some comics."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/its-a-new-year!-go-buy-some-comics.md"
+notes_tags = ["notes/its-a-new-year!-go-buy-some-comics.md"]
 notes_about = ""
 books = ""
 +++

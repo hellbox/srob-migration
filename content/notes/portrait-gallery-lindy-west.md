@@ -17,7 +17,7 @@ twitterauto = "Awww, hi @thelindywest. "
 facebookauto = "Awww, Christine Marie Larsen painted Lindy West. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-lindy-west.md"
+notes_tags = ["notes/portrait-gallery-lindy-west.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ["books/shrill.md"]
 +++

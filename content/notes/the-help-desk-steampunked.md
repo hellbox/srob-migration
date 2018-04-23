@@ -17,7 +17,7 @@ twitterauto = "For those about to Steampunk, @ciennam salutes you."
 facebookauto = "For those about to Steampunk, we salute you."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-steampunked.md"
+notes_tags = ["notes/the-help-desk-steampunked.md"]
 notes_about = ""
 books = ""
 +++

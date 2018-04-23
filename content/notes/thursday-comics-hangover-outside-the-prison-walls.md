@@ -17,7 +17,7 @@ twitterauto = "Is the comic series Bitch Planet really just an Orange is the New
 facebookauto = "Is the comic series Bitch Planet really just an Orange is the New Black set in outer space?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-outside-the-prison-walls.md"
+notes_tags = ["notes/thursday-comics-hangover-outside-the-prison-walls.md"]
 notes_about = ""
 books = ""
 +++

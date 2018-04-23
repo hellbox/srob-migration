@@ -17,7 +17,7 @@ twitterauto = "For Portrait Gallery this week, @studiochristine painted poet @ra
 facebookauto = "Poet Raul Alvarez is Christine Marie Larsen's subject in this week's Portrait Gallery. He's appearing Sunday at Fred Wildlife Refuge."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-raul-alvarez.md"
+notes_tags = ["notes/portrait-gallery-raul-alvarez.md"]
 notes_about = ["authors/raul-alvarez.md"]
 books = ""
 +++

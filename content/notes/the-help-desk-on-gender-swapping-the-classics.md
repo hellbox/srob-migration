@@ -17,7 +17,7 @@ twitterauto = "Great point from @ciennam in this week's Help Desk:"
 facebookauto = "Cienna Madrid talks about gender-swapping the classics in this week's Help Desk!"
 make_image_tweet = "True"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-on-gender-swapping-the-classics.md"
+notes_tags = ["notes/the-help-desk-on-gender-swapping-the-classics.md"]
 notes_about = ""
 books = ""
 +++

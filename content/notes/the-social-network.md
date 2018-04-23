@@ -17,7 +17,7 @@ twitterauto = "Let's take a look at Litsy, the hot new social network for book-l
 facebookauto = "Let's take a look at Litsy, the hot new social network for book-lovers."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-social-network.md"
+notes_tags = ["notes/the-social-network.md"]
 notes_about = ""
 books = ""
 +++

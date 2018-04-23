@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Manic Thrills Press"
 title = "Manic Thrills Press"
-books_publisher = "publishers/manic-thrills-press.md"
+books_publisher = ["publishers/manic-thrills-press.md"]
 +++

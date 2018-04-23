@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Coin-Op Books"
 title = "Coin-Op Books"
-books_publisher = "publishers/coin-op-books.md"
+books_publisher = ["publishers/coin-op-books.md"]
 +++

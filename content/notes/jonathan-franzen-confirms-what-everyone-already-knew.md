@@ -17,7 +17,7 @@ twitterauto = "Jonathan Franzen, please stop. Just stop, Jonathan Franzen. Pleas
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jonathan-franzen-confirms-what-everyone-already-knew.md"
+notes_tags = ["notes/jonathan-franzen-confirms-what-everyone-already-knew.md"]
 notes_about = ["authors/jonathan-franzen.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post: Talese, the Texas University Tower Shooting, and
 facebookauto = "All about Mr. Talese, a shooting victim fifty years after the event, and the man who taught Donald Trump to speak in public like Donald Trump. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-april-10-2016.md"
+notes_tags = ["notes/the-sunday-post-for-april-10-2016.md"]
 notes_about = ""
 books = ""
 +++

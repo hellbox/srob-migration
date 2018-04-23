@@ -17,7 +17,7 @@ twitterauto = "Here's a website that will make (occasionally intelligible) poetr
 facebookauto = "Here's a website that will make (occasionally intelligible) poetry out of your Twitter feed."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/unearthing-the-accidental-poetry-of-twitter.md"
+notes_tags = ["notes/unearthing-the-accidental-poetry-of-twitter.md"]
 notes_about = ""
 books = ""
 +++

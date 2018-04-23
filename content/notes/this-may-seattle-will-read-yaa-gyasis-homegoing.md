@@ -17,7 +17,7 @@ twitterauto = "Get excited! @SPLBuzz's Seattle Reads selection is Yaa Gyasi's Ho
 facebookauto = "Get excited! The next Seattle Reads selection is Yaa Gyasi's Homegoing."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-may-seattle-will-read-yaa-gyasis-homegoing.md"
+notes_tags = ["notes/this-may-seattle-will-read-yaa-gyasis-homegoing.md"]
 notes_about = ""
 books = ""
 +++

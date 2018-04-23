@@ -17,7 +17,7 @@ twitterauto = "We had a conversation with one of @elliottbaybooks's newest emplo
 facebookauto = "We had a conversation with one of the newest employees at Elliott Bay Book Company. Meet Mary Thompson:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-mary-thompson-one-of-elliott-bay-book-companys-newest-employees.md"
+notes_tags = ["notes/talking-with-mary-thompson-one-of-elliott-bay-book-companys-newest-employees.md"]
 notes_about = ""
 books = ""
 +++

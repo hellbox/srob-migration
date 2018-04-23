@@ -17,7 +17,7 @@ twitterauto = "Post-inauguration, reactions from @DanRather, @MargaretAtwood, an
 facebookauto = "After the inauguration, an impassioned response from Dan Rather, a call to action from Margaret Atwood, and strong words from science \u2014 plus a few good rants for good measure. Enjoy."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-january-22-2017.md"
+notes_tags = ["notes/the-sunday-post-for-january-22-2017.md"]
 notes_about = ["authors/margaret-atwood.md"]
 books = ""
 +++

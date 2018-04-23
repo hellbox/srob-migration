@@ -17,7 +17,7 @@ twitterauto = "A new Seattle-area magazine! A new book from @ellen_forney! The s
 facebookauto = "The new year brings with it a new Seattle-area online magazine and a new book from Seattle cartoonist Ellen Forney. See? 2018 isn't all terrible!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-a-new-seattle-area-magazine!-a-new-book-from-ellen-forney!-the-same-terrible-old-president!.md"
+notes_tags = ["notes/book-news-roundup-a-new-seattle-area-magazine!-a-new-book-from-ellen-forney!-the-same-terrible-old-president!.md"]
 notes_about = ["authors/ellen-forney.md"]
 books = ""
 +++

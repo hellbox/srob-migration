@@ -17,7 +17,7 @@ twitterauto = "It's that time of year again\u2014@SeaArtsLectures & @SPLBuzz ann
 facebookauto = "It's time again for Summer Book Bingo. Winners get a bunch of books, gift certificates to local bookstores, and more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-return-of-summer-book-bingo.md"
+notes_tags = ["notes/the-return-of-summer-book-bingo.md"]
 notes_about = ""
 books = ""
 +++

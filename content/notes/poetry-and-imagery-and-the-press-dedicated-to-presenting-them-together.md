@@ -17,7 +17,7 @@ twitterauto = "Our sponsor @EntreRiosBooks is back to show a new incredible work
 facebookauto = "Our sponsor this week is Entre Rios press, back with a fantastic new book of poetry and imagery. Join them for their book launch party this Saturday: https://www.facebook.com/events/1657034167958917/"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/poetry-and-imagery-and-the-press-dedicated-to-presenting-them-together.md"
+notes_tags = ["notes/poetry-and-imagery-and-the-press-dedicated-to-presenting-them-together.md"]
 notes_about = ""
 books = ""
 +++

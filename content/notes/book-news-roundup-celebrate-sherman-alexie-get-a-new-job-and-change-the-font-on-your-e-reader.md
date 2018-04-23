@@ -17,7 +17,7 @@ twitterauto = "Pierce County celebrates Sherman Alexie and Seattle Arts & Lectur
 facebookauto = "Pierce County celebrates Sherman Alexie and Seattle Arts & Lectures is hiring in today's Book News Roundup."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-celebrate-sherman-alexie-get-a-new-job-and-change-the-font-on-your-e-reader.md"
+notes_tags = ["notes/book-news-roundup-celebrate-sherman-alexie-get-a-new-job-and-change-the-font-on-your-e-reader.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ["books/absolutely-true-diary-of-a-part-time-indian.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Sunday Post: the most exclusive/secretive restaurant, #Maus is th
 facebookauto = "This week's Sunday Post: a suspiciously secretive and exclusive restaurant, why Spiegelman's Maus is the greatest graphic novel, what happens when you announce that you won't read any white authors for a year, and more!"
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/the-sunday-post-for-august-28-2016.md"
+notes_tags = ["notes/the-sunday-post-for-august-28-2016.md"]
 notes_about = ["authors/art-spiegelman.md"]
 books = ["books/maus.md"]
 +++

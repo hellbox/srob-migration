@@ -17,7 +17,7 @@ twitterauto = "These short stories are so good you don't need context."
 facebookauto = "The thing about visiting comic book stores is that you often have no idea what the hell you're buying. Sometimes, that's okay."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-sometimes-no-context-is-context-enough.md"
+notes_tags = ["notes/thursday-comics-hangover-sometimes-no-context-is-context-enough.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = "Cienna Madrid goes way down south to deal with classic rock in bookstores. "
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-dont-forget-what-your-good-book-said.md"
+notes_tags = ["notes/the-help-desk-dont-forget-what-your-good-book-said.md"]
 notes_about = ""
 books = ""
 +++

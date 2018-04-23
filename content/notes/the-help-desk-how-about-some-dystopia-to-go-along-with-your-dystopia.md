@@ -17,7 +17,7 @@ twitterauto = "Does @ciennam have dystopian fiction recommendations for our post
 facebookauto = "Now that we're living in a dystopia, does Cienna Madrid have any good dystopian fiction recommendations?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-how-about-some-dystopia-to-go-along-with-your-dystopia.md"
+notes_tags = ["notes/the-help-desk-how-about-some-dystopia-to-go-along-with-your-dystopia.md"]
 notes_about = ""
 books = ""
 +++

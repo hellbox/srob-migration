@@ -17,7 +17,7 @@ twitterauto = "Say it ain't so, @1JessWalter & @Sherman_Alexie: please don't sto
 facebookauto = "Jess Walter seems to have confirmed that his podcast with Sherman Alexie, A Tiny Sense of Accomplishment, is more or less over. This would be incredibly sad."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-tiny-sense-of-closure.md"
+notes_tags = ["notes/a-tiny-sense-of-closure.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/jess-walter.md"]
 books = ""
 +++

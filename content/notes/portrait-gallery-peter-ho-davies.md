@@ -17,7 +17,7 @@ twitterauto = "It's Peter Ho Davies, by @studiochristine! "
 facebookauto = "It's Peter Ho Davies, by Christine Marie Larsen!"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-peter-ho-davies.md"
+notes_tags = ["notes/portrait-gallery-peter-ho-davies.md"]
 notes_about = ""
 books = ""
 +++

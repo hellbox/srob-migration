@@ -17,7 +17,7 @@ twitterauto = "Last summer, @paulconstant wrote about Gawker's \"mission creep.\
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/gawker-files-for-bankruptcy.md"
+notes_tags = ["notes/gawker-files-for-bankruptcy.md"]
 notes_about = ""
 books = ""
 +++

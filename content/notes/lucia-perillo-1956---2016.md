@@ -17,7 +17,7 @@ twitterauto = "So sad to hear about the passing of Olympia poet Lucia Perillo."
 facebookauto = "So sad to hear about the passing of Olympia poet Lucia Perillo."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lucia-perillo-1956---2016.md"
+notes_tags = ["notes/lucia-perillo-1956---2016.md"]
 notes_about = ""
 books = ""
 +++

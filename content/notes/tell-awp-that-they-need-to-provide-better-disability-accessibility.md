@@ -17,7 +17,7 @@ twitterauto = "We're hearing reports that @awpwriter is not providing accessibil
 facebookauto = "We're hearing reports that the AWP is not providing accessibility for disabled at this year's conference. Here's what you can do to help."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/tell-awp-that-they-need-to-provide-better-disability-accessibility.md"
+notes_tags = ["notes/tell-awp-that-they-need-to-provide-better-disability-accessibility.md"]
 notes_about = ""
 books = ""
 +++

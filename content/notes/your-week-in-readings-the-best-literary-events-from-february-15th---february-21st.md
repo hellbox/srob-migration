@@ -17,7 +17,7 @@ twitterauto = "So many great events this week, including @PeterMountford and @mo
 facebookauto = "So many great events this week, including events with Peter Mountford, a new series out of Vermillion, and John Darnielle's new book."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-15th---february-21st.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-15th---february-21st.md"]
 notes_about = ["authors/elissa-washuta.md", "authors/anca-l-szil\u00e1gyi.md", "authors/peter-mountford.md", "authors/sonora-jha.md"]
 books = ""
 +++

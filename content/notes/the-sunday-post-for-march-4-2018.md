@@ -17,7 +17,7 @@ twitterauto = "In the Sunday Post, three angles on storytelling, from @nicole_so
 facebookauto = "In the Sunday Post, three angles on storytelling: Nicole Chung on writing a memoir interrupted by her father's death; Stephanie M. Lee on lies, damned lies, and statistics; and alternate views on life behind bars."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-march-4-2018.md"
+notes_tags = ["notes/the-sunday-post-for-march-4-2018.md"]
 notes_about = ""
 books = ""
 +++

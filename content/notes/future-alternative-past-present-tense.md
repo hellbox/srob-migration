@@ -17,7 +17,7 @@ twitterauto = "As always, @NisiShawl delivers in her Future Alternative Past, fe
 facebookauto = "As always, Nisi Shawl delivers with her Future Alternative Past column, featuring reviews of Tal M. Klein & Daniel H. Wilson"
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/future-alternative-past-present-tense.md"
+notes_tags = ["notes/future-alternative-past-present-tense.md"]
 notes_about = ["authors/joe-abercrombie.md", "authors/daniel-h-wilson.md", "authors/tal-klein.md", "authors/usman-t-malik.md", "authors/ken-liu.md", "authors/nils-odlun.md", "authors/karen-lord.md", "authors/sofia-samatar.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts gets you to the church on time. "
 facebookauto = "Seattle Writing Prompts gets you to the church on time. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-church-doors.md"
+notes_tags = ["notes/seattle-writing-prompts-the-church-doors.md"]
 notes_about = ""
 books = ""
 +++

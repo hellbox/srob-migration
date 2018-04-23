@@ -17,7 +17,7 @@ twitterauto = "Seattle indie-writer @kseniaanske writes dark stories that come f
 facebookauto = "Seattle indie-writer Ksenia Anske writes dark stories that come from dark places."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/processing-abuse-with-art-how-ksenia-anske-makes-horror-and-dark-fantasy-from-real-horror.md"
+notes_tags = ["notes/processing-abuse-with-art-how-ksenia-anske-makes-horror-and-dark-fantasy-from-real-horror.md"]
 notes_about = ""
 books = ""
 +++

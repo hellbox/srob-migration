@@ -17,7 +17,7 @@ twitterauto = "Correction: we mistakenly attributed a poem by a different poet t
 facebookauto = "Correction: we mistakenly attributed a poem by a different poet to Jane Wong"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-correction-on-an-earlier-post.md"
+notes_tags = ["notes/a-correction-on-an-earlier-post.md"]
 notes_about = ""
 books = ""
 +++

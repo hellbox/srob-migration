@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes a novel about a sentient dog-peopl
 facebookauto = "Your week in readings includes a novel about a sentient dog-people and a biography of Dave Niehaus."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-july-5th---july-11th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-july-5th---july-11th.md"]
 notes_about = ["authors/sarah-galvin.md"]
 books = ""
 +++

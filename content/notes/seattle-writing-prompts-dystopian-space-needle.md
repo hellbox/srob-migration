@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts visits the dystopian Space Needle. "
 facebookauto = "Seattle Writing Prompts visits the dystopian Space Needle. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-dystopian-space-needle.md"
+notes_tags = ["notes/seattle-writing-prompts-dystopian-space-needle.md"]
 notes_about = ""
 books = ""
 +++

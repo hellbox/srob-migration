@@ -17,7 +17,7 @@ twitterauto = "Margaret Atwood is writing a superhero comic about a half-bird, h
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/margaret-atwood-to-write-superhero-comic.md"
+notes_tags = ["notes/margaret-atwood-to-write-superhero-comic.md"]
 notes_about = ["authors/margaret-atwood.md"]
 books = ""
 +++

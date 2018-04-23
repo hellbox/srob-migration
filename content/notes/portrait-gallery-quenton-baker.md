@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Quenton Baker by @studiochristine"
 facebookauto = "Portrait Gallery: Quenton Baker by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-quenton-baker.md"
+notes_tags = ["notes/portrait-gallery-quenton-baker.md"]
 notes_about = ["authors/quenton-baker.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Here's a fantasy novel that will deepen your love of reading."
 facebookauto = "A bookseller at Ravenna Third Place Books recommends a fantasy novel that will deepen your love of reading."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/christina-from-ravenna-third-place-books-recommends-your-next-summer-read.md"
+notes_tags = ["notes/christina-from-ravenna-third-place-books-recommends-your-next-summer-read.md"]
 notes_about = ""
 books = ""
 +++

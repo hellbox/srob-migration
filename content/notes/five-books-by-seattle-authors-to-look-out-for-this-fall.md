@@ -17,7 +17,7 @@ twitterauto = "Here are five Seattle books we're excited to read this fall."
 facebookauto = "Here are five books by Seattle authors we're excited to read this fall."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/five-books-by-seattle-authors-to-look-out-for-this-fall.md"
+notes_tags = ["notes/five-books-by-seattle-authors-to-look-out-for-this-fall.md"]
 notes_about = ["authors/bharti-kirchner.md", "authors/mita-mahato.md", "authors/ej-koh.md"]
 books = ""
 +++

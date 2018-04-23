@@ -17,7 +17,7 @@ twitterauto = "The latest James Bond movie is a mess. How to fix it? Bring back 
 facebookauto = "The latest James Bond movie is a mess. How to fix it? Bring back Bond's literary spirit!"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/james-bond-needs-to-be-bookish.md"
+notes_tags = ["notes/james-bond-needs-to-be-bookish.md"]
 notes_about = ["authors/sebastian-faulks.md"]
 books = ["books/devil-may-care.md"]
 +++

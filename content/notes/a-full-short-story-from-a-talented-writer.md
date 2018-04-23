@@ -17,7 +17,7 @@ twitterauto = "Sponsor @ronnawineberg let us run a whole short story this week, 
 facebookauto = "Sponsor Ronna Wineberg let us run a whole short story this week, from her wonderful collection \"Nine Facts That Can Change Your Life\""
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-full-short-story-from-a-talented-writer.md"
+notes_tags = ["notes/a-full-short-story-from-a-talented-writer.md"]
 notes_about = ["authors/ronna-wineberg.md"]
 books = ["books/nine-facts-that-can-change-your-life.md"]
 +++

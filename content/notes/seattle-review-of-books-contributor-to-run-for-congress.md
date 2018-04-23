@@ -17,7 +17,7 @@ twitterauto = "We're so excited to hear that SRoB contributor @Spacekatgal is ru
 facebookauto = "The first Seattle Review of Books contributor to run for public office just announced her campaign. If we lived in Massachusetts, we'd vote for her."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-review-of-books-contributor-to-run-for-congress.md"
+notes_tags = ["notes/seattle-review-of-books-contributor-to-run-for-congress.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2015-11-01T21:05:00-08:00"
 preview_url = "9b74c733-b4ae-6d91-ec03-596ec2323616"
 name = "Entre R\u00edos Books"
 title = "Entre R\u00edos Books"
-books_publisher = "publishers/entre-ríos-books.md"
+books_publisher = ["publishers/entre-ríos-books.md"]
 +++

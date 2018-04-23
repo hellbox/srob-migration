@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-writing-prompt-1.md"
+notes_tags = ["notes/seattle-writing-prompt-1.md"]
 notes_about = ""
 books = ""
 +++

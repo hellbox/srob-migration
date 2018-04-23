@@ -17,7 +17,7 @@ twitterauto = "We can learn some important lessons from Seattle: City of Literat
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/on-diversity-criticism-and-seattle-city-of-literature.md"
+notes_tags = ["notes/on-diversity-criticism-and-seattle-city-of-literature.md"]
 notes_about = ["authors/ryan-boudinot.md"]
 books = ["books/seattle-city-of-literature.md"]
 +++

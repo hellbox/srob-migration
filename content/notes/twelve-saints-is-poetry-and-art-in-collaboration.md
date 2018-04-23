@@ -17,7 +17,7 @@ twitterauto = "Our thanks to sponsor Entre R\u00edos Books. Their book Twelve Sa
 facebookauto = "Our thanks to sponsor Entre R\u00edos Books. Their book Twelve Saints is beautiful, and has a release party this Thursday -- check out a poem and image from the book on our page, or take a look at the invitation to their release party here: https://www.facebook.com/events/920790967956915/"
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/twelve-saints-is-poetry-and-art-in-collaboration.md"
+notes_tags = ["notes/twelve-saints-is-poetry-and-art-in-collaboration.md"]
 notes_about = ["authors/knox-gardner.md"]
 books = ["books/twelve-saints.md"]
 +++

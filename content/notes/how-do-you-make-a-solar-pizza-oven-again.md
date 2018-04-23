@@ -17,7 +17,7 @@ twitterauto = "Sponsor @anne_mendel brings etiquette to barbarous future Portlan
 facebookauto = "Sponsor Anne Mendel brings etiquette to barbarous future Portland. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/how-do-you-make-a-solar-pizza-oven-again.md"
+notes_tags = ["notes/how-do-you-make-a-solar-pizza-oven-again.md"]
 notes_about = ""
 books = ""
 +++

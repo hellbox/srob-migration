@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: How do I talk to my kids about authors and #MeToo?
 facebookauto = "Dear Cienna: How do I talk to my kids about authors and #MeToo?"
 make_image_tweet = "True"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-how-do-i-talk-to-my-kids-about-authors-and-metoo.md"
+notes_tags = ["notes/the-help-desk-how-do-i-talk-to-my-kids-about-authors-and-metoo.md"]
 notes_about = ""
 books = ""
 +++

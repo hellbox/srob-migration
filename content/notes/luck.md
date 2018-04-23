@@ -17,7 +17,7 @@ twitterauto = "Our final poem, from July Poet in Residence @kelliagodon, is call
 facebookauto = "Our final poem, from July Poet in Residence Kelli Russell Agodon, is called \"Luck\""
 make_image_tweet = "False"
 notes_byline = ["writers/kelli-russell-agodon.md"]
-notes_tags = "notes/luck.md"
+notes_tags = ["notes/luck.md"]
 notes_about = ""
 books = ""
 +++

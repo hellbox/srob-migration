@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Literary Giant Charles Johnson #WordWorks @Hugo
 facebookauto = "Portrait Gallery: Charles Johnson"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-charles-johnson-.md"
+notes_tags = ["notes/portrait-gallery-charles-johnson-.md"]
 notes_about = ["authors/charles-johnson.md"]
 books = ""
 +++

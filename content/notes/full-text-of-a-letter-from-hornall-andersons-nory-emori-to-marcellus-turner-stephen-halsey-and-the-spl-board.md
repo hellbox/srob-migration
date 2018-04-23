@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/full-text-of-a-letter-from-hornall-andersons-nory-emori-to-marcellus-turner-stephen-halsey-and-the-spl-board.md"
+notes_tags = ["notes/full-text-of-a-letter-from-hornall-andersons-nory-emori-to-marcellus-turner-stephen-halsey-and-the-spl-board.md"]
 notes_about = ""
 books = ""
 +++

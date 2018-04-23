@@ -17,7 +17,7 @@ twitterauto = "So your friend is publishing a book. How can you help? @FondaJLee
 facebookauto = "So your friend is publishing a book. How can you help? Fonda Lee offers some tips."
 make_image_tweet = "False"
 notes_byline = ["writers/fonda-lee.md"]
-notes_tags = "notes/how-to-support-an-author-during-launch-a-guide-for-family-friends-and-fans.md"
+notes_tags = ["notes/how-to-support-an-author-during-launch-a-guide-for-family-friends-and-fans.md"]
 notes_about = ""
 books = ""
 +++

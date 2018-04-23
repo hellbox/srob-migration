@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "GG Silverman"
 title = "GG Silverman"
-books_publisher = "publishers/gg-silverman.md"
+books_publisher = ["publishers/gg-silverman.md"]
 +++

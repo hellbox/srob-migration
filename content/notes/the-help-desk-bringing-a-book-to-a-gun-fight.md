@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: Can you suggest a book to help my gun-loving famil
 facebookauto = "Dear Cienna: Is there a book that will help my gun-loving family see the light on gun violence?"
 make_image_tweet = "True"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-bringing-a-book-to-a-gun-fight.md"
+notes_tags = ["notes/the-help-desk-bringing-a-book-to-a-gun-fight.md"]
 notes_about = ""
 books = ""
 +++

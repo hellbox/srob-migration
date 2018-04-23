@@ -17,7 +17,7 @@ twitterauto = "A birthday for @fantagraphics and a book launch for @ancawrites a
 facebookauto = "A birthday for the Fantagraphics Bookstore and a book launch for Anca Szilagyi are this week's readings highlights."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-december-4---december-10.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-december-4---december-10.md"]
 notes_about = ["authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

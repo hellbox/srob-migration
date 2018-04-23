@@ -17,7 +17,7 @@ twitterauto = "And the two Northwest poets who best reflect the nature of Open B
 facebookauto = "We asked Open Books owner John Marshall to choose a few books that perfectly reflected the character of his store. Here are the books he chose:"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-patron-poets-of-open-books.md"
+notes_tags = ["notes/the-patron-poets-of-open-books.md"]
 notes_about = ""
 books = ""
 +++

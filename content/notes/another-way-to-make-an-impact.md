@@ -17,7 +17,7 @@ twitterauto = "Here's a neat way to support a bookstore and help people educate 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/another-way-to-make-an-impact.md"
+notes_tags = ["notes/another-way-to-make-an-impact.md"]
 notes_about = ""
 books = ""
 +++

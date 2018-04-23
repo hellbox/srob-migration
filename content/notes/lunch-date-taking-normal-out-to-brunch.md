@@ -17,7 +17,7 @@ twitterauto = "We took Warren Ellis's new novella out for brunch at Roxy's Diner
 facebookauto = "We took Warren Ellis's new novella out for brunch at Roxy's Diner."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-taking-normal-out-to-brunch.md"
+notes_tags = ["notes/lunch-date-taking-normal-out-to-brunch.md"]
 notes_about = ""
 books = ""
 +++

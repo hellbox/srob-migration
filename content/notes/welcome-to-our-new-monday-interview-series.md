@@ -17,7 +17,7 @@ twitterauto = "We're excited to bring you a new interview with every Monday in 2
 facebookauto = "We're excited to bring you a new interview with every Monday in 2017."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/welcome-to-our-new-monday-interview-series.md"
+notes_tags = ["notes/welcome-to-our-new-monday-interview-series.md"]
 notes_about = ""
 books = ""
 +++

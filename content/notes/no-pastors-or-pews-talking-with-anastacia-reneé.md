@@ -17,7 +17,7 @@ twitterauto = "In an interview with @mbsycamore, Anastacia-Renee talks poetry an
 facebookauto = "Mattilda Bernstein Sycamore interviews Anastacia-Renee about poetry, injustice, and where Seattle is falling down (hint: it's not the rain). See them both at Elliott Bay Book Company on July 25."
 make_image_tweet = "False"
 notes_byline = ["writers/mattilda-bernstein-sycamore.md"]
-notes_tags = "notes/no-pastors-or-pews-talking-with-anastacia-reneé.md"
+notes_tags = ["notes/no-pastors-or-pews-talking-with-anastacia-reneé.md"]
 notes_about = ["authors/anastacia-renee.md"]
 books = ["books/(v).md", "books/forget-it.md"]
 +++

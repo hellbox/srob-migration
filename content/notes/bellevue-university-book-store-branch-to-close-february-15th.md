@@ -17,7 +17,7 @@ twitterauto = "Sad news: the Bellevue branch of University Book Store will close
 facebookauto = "Sad news from the Seattle Times: the Bellevue branch of University Book Store will close on February 15th."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/bellevue-university-book-store-branch-to-close-february-15th.md"
+notes_tags = ["notes/bellevue-university-book-store-branch-to-close-february-15th.md"]
 notes_about = ""
 books = ""
 +++

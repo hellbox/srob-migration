@@ -17,7 +17,7 @@ twitterauto = "Reminder: you can always send your literary advice questions to a
 facebookauto = "Our advice columnist, Cienna Madrid, is on vacation this weekend and will return next week. (Reminder: you can always send your literary advice questions to advice@seattlereviewofbooks.com!)"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/no-new-help-desk-today.md"
+notes_tags = ["notes/no-new-help-desk-today.md"]
 notes_about = ""
 books = ""
 +++

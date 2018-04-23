@@ -17,7 +17,7 @@ twitterauto = "Meet our Public Diversity Editor, @book_nerd212!"
 facebookauto = "Meet our Public Diversity Editor, Vanessa Willoughby!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/interview-with-our-new-public-diversity-editor.md"
+notes_tags = ["notes/interview-with-our-new-public-diversity-editor.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Your semi-regular reminder that authors are human beings, too."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/authors-dont-need-to-know-that-you-hate-their-book.md"
+notes_tags = ["notes/authors-dont-need-to-know-that-you-hate-their-book.md"]
 notes_about = ""
 books = ""
 +++

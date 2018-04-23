@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes 4 (!) book launches and a very spe
 facebookauto = "This week brings four brand-new books being launched into the world, as well as science-minded books about astronomy and sex."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-9th---november-15th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-9th---november-15th.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/donna-miscolta.md"]
 books = ""
 +++

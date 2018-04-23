@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter fund gets behind @kcgreenn (and it's fine)"
 facebookauto = "This is a fine Kickstarter. Really. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/this-is-fine-plush-dog---kickstarter-fund-project-31.md"
+notes_tags = ["notes/this-is-fine-plush-dog---kickstarter-fund-project-31.md"]
 notes_about = ""
 books = ""
 +++

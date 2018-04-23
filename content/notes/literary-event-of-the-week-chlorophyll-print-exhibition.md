@@ -17,7 +17,7 @@ twitterauto = "Our Event of the Week is an exhibition of chlorophyll prints in R
 facebookauto = "Our Event of the Week is an exhibition of chlorophyll prints in Redmond."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-chlorophyll-print-exhibition.md"
+notes_tags = ["notes/literary-event-of-the-week-chlorophyll-print-exhibition.md"]
 notes_about = ["authors/shin-yu-pai.md"]
 books = ""
 +++

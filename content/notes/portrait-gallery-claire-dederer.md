@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: #LoveandTrouble author #ClaireDederer painted b
 facebookauto = "Portrait Gallery: Claire Dederer"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-claire-dederer.md"
+notes_tags = ["notes/portrait-gallery-claire-dederer.md"]
 notes_about = ["authors/claire-dederer.md"]
 books = ""
 +++

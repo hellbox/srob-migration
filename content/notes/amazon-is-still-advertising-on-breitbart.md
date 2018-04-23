@@ -17,7 +17,7 @@ twitterauto = "Why is @amazon still advertising on Breitbart?"
 facebookauto = "Over 2,500 advertisers have joined a boycott against Steve Bannon's news outlet Breitbart. Amazon is one of a handful of advertisers left. Why is Amazon still giving Breitbart money?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-is-still-advertising-on-breitbart.md"
+notes_tags = ["notes/amazon-is-still-advertising-on-breitbart.md"]
 notes_about = ""
 books = ["books/devils-bargain.md"]
 +++

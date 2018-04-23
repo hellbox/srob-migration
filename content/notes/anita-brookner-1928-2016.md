@@ -17,7 +17,7 @@ twitterauto = "British novelist Anita Brookner has died, the BBC reports."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/anita-brookner-1928-2016.md"
+notes_tags = ["notes/anita-brookner-1928-2016.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Save the date for the 4th annual Cascadia Poetry Festival, Novemb
 facebookauto = "Now that it's fall, you should start planning your literary season. Here's a must-attend: the fourth annual Cascadia Poetry Festival happens from November 3rd to November 6th. This one is going to be especially good."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/save-the-date-for-the-4th-annual-cascadia-poetry-festival.md"
+notes_tags = ["notes/save-the-date-for-the-4th-annual-cascadia-poetry-festival.md"]
 notes_about = ["authors/denise-levertov.md"]
 books = ""
 +++

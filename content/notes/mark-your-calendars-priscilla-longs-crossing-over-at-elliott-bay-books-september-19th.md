@@ -17,7 +17,7 @@ twitterauto = "Join our sponsor Priscilla Long at @ElliottBayBooks Sept 19th for
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/mark-your-calendars-priscilla-longs-crossing-over-at-elliott-bay-books-september-19th.md"
+notes_tags = ["notes/mark-your-calendars-priscilla-longs-crossing-over-at-elliott-bay-books-september-19th.md"]
 notes_about = ["authors/priscilla-long.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Because we're a classy book review outlet, we review Fart Magazin
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-[fart-noise].md"
+notes_tags = ["notes/thursday-comics-hangover-[fart-noise].md"]
 notes_about = ["authors/marc-palm.md", "authors/seth-goodkind.md"]
 books = ""
 +++

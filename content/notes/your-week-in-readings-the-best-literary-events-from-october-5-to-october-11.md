@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with a fascinating book inspired by 
 facebookauto = "Any week with sci-fi novelists, Geek Girl Con, Amitav Ghosh, and a spoken-word story featuring Seattle as the protagonist is a great week in our book."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-october-5-to-october-11.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-october-5-to-october-11.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ["books/best-american-poetry-2015.md"]
 +++

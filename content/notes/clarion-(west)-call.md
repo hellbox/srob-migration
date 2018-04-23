@@ -17,7 +17,7 @@ twitterauto = "Do you write sci-fi or fantasy? Now is the time to apply for @Cla
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/clarion-(west)-call.md"
+notes_tags = ["notes/clarion-(west)-call.md"]
 notes_about = ""
 books = ""
 +++

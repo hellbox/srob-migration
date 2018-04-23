@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery! @studiochristine gives us a glorious image of P
 facebookauto = "Christine Marie Larsen gives us the ineffable Patti Smith in today's Portrait Gallery. "
 make_image_tweet = ""
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-patti-smith.md"
+notes_tags = ["notes/portrait-gallery-patti-smith.md"]
 notes_about = ["authors/patti-smith.md"]
 books = ""
 +++

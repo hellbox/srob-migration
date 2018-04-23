@@ -17,7 +17,7 @@ twitterauto = "\"A lot of my early hopes [about Seattle] have already come true.
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/new-hire-lars-garvey-laing-peterson-is-new-to-town.md"
+notes_tags = ["notes/new-hire-lars-garvey-laing-peterson-is-new-to-town.md"]
 notes_about = ""
 books = ""
 +++

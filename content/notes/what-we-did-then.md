@@ -17,7 +17,7 @@ twitterauto = "What We Do Now was published to prepare us for Trump's election. 
 facebookauto = "What We Do Now was published to prepare us for Trump's election. It feels like a time capsule."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/what-we-did-then.md"
+notes_tags = ["notes/what-we-did-then.md"]
 notes_about = ""
 books = ""
 +++

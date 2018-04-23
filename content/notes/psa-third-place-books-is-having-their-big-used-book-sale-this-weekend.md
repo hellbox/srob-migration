@@ -17,7 +17,7 @@ twitterauto = "Stock up on used books this weekend at Third Place Books."
 facebookauto = "Stock up on used books this weekend at Third Place Books."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/psa-third-place-books-is-having-their-big-used-book-sale-this-weekend.md"
+notes_tags = ["notes/psa-third-place-books-is-having-their-big-used-book-sale-this-weekend.md"]
 notes_about = ""
 books = ""
 +++

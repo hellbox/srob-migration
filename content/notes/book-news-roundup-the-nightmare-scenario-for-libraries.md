@@ -17,7 +17,7 @@ twitterauto = "Find out what news @paulconstant calls \"an absolute [expletive] 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-nightmare-scenario-for-libraries.md"
+notes_tags = ["notes/book-news-roundup-the-nightmare-scenario-for-libraries.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "When you let your hate rule your life, you wind up like this lose
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-sad-troll-gets-sadder.md"
+notes_tags = ["notes/the-sad-troll-gets-sadder.md"]
 notes_about = ""
 books = ""
 +++

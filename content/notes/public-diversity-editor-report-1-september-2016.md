@@ -17,7 +17,7 @@ twitterauto = "We asked our Public Diversity Editor @book_nerd212 to look at how
 facebookauto = "Our first report from our Public Diversity Editor, Vanessa Willoughby, is in. See what she had to say about how we are handling inclusion and diversity. "
 make_image_tweet = "False"
 notes_byline = ["writers/vanessa-willoughby.md"]
-notes_tags = "notes/public-diversity-editor-report-1-september-2016.md"
+notes_tags = ["notes/public-diversity-editor-report-1-september-2016.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poet is Meredith Clark, with an excerpt from her long
 facebookauto = "Our Tuesday Poet is Meredith Clark, with an excerpt from her longer work, \"Lyrebird\""
 make_image_tweet = "False"
 notes_byline = ["writers/meredith-clark.md"]
-notes_tags = "notes/excerpt-from-lyrebird.md"
+notes_tags = ["notes/excerpt-from-lyrebird.md"]
 notes_about = ""
 books = ""
 +++

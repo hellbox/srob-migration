@@ -17,7 +17,7 @@ twitterauto = "Is \u201cwhat goes around comes around\u201d really the \u201cimm
 facebookauto = "On Friday night, the Hugo House asked four artists to respond to the cliche \"what goes around comes around.\" Three of the artists were successful."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/it-went-around-it-came-around.md"
+notes_tags = ["notes/it-went-around-it-came-around.md"]
 notes_about = ["authors/peter-mountford.md", "authors/sierra-nelson.md", "authors/heidi-julavits.md"]
 books = ""
 +++

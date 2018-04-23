@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/voting-is-power-a-conversation-with-ari-berman-about-the-struggle-for-voting-rights-in-america.md"
+notes_tags = ["notes/voting-is-power-a-conversation-with-ari-berman-about-the-struggle-for-voting-rights-in-america.md"]
 notes_about = ["authors/ari-berman.md"]
 books = ["books/give-us-the-ballot.md"]
 +++

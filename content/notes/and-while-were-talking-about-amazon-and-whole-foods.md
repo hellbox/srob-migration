@@ -17,7 +17,7 @@ twitterauto = "We went to the new Amazon-run Whole Foods. The big grocery chains
 facebookauto = "We went to the new Amazon-run Whole Foods. The big grocery chains are in trouble."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/and-while-were-talking-about-amazon-and-whole-foods.md"
+notes_tags = ["notes/and-while-were-talking-about-amazon-and-whole-foods.md"]
 notes_about = ""
 books = ""
 +++

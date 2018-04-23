@@ -17,7 +17,7 @@ twitterauto = "Talking with @thelindywest about deadlines and her love of fantas
 facebookauto = "We talked with Lindy West about her relationship to deadlines, her love of fantasy novels, and why she loves Seattle."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-lindy-west-about-fantasy-novels-deadlines-and-why-seattle-is-her-home.md"
+notes_tags = ["notes/talking-with-lindy-west-about-fantasy-novels-deadlines-and-why-seattle-is-her-home.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ["books/shrill.md"]
 +++

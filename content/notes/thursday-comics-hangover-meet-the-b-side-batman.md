@@ -17,7 +17,7 @@ twitterauto = "Our comics column looks at the rarest of comics rarities: a new t
 facebookauto = "Our comics column looks at the rarest of comics rarities: a new twist on Batman."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-meet-the-b-side-batman.md"
+notes_tags = ["notes/thursday-comics-hangover-meet-the-b-side-batman.md"]
 notes_about = ""
 books = ""
 +++

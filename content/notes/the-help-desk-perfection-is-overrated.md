@@ -17,7 +17,7 @@ twitterauto = "This week's @NaNoWriMo question: what do you do when you can't le
 facebookauto = "Our literary advice columnist tackles an important question: as a writer, what do you do when you can't let go of a sentence until it's absolutely perfect?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-perfection-is-overrated.md"
+notes_tags = ["notes/the-help-desk-perfection-is-overrated.md"]
 notes_about = ""
 books = ""
 +++

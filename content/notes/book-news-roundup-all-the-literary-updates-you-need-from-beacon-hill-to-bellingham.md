@@ -17,7 +17,7 @@ twitterauto = "All the book news that's fit to print, with stories ranging from 
 facebookauto = "In today's book news roundup: Village Books has new owners, Spokane's alternative weekly has published a poetry issue, the Seattle Antiquarian Book Fair has announced its dates for the year, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-all-the-literary-updates-you-need-from-beacon-hill-to-bellingham.md"
+notes_tags = ["notes/book-news-roundup-all-the-literary-updates-you-need-from-beacon-hill-to-bellingham.md"]
 notes_about = ""
 books = ""
 +++

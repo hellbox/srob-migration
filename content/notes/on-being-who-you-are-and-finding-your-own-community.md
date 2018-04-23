@@ -17,7 +17,7 @@ twitterauto = "Sponsor @annaredsand is coming to Seattle on December 3rd. More d
 facebookauto = "Sponsor Anna Redsand is coming to Seattle on December 3rd! More details, and book excerpt, on our Sponsor's page this week."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/on-being-who-you-are-and-finding-your-own-community.md"
+notes_tags = ["notes/on-being-who-you-are-and-finding-your-own-community.md"]
 notes_about = ""
 books = ""
 +++

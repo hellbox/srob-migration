@@ -17,7 +17,7 @@ twitterauto = "Meet @ubookstorereads's Duane Wilkins, Seattle's godfather of sci
 facebookauto = "Did you know that University Book Store has the best sci-fi/fantasy section in the entire state? Do you know that one person is responsible for that? Meet Duane Wilkins, Seattle's godfather of sci-fi."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/duane-wilkins-is-seattles-godfather-of-sci-fi-and-fantasy.md"
+notes_tags = ["notes/duane-wilkins-is-seattles-godfather-of-sci-fi-and-fantasy.md"]
 notes_about = ["authors/robert-heinlein.md", "authors/neal-stephenson.md"]
 books = ""
 +++

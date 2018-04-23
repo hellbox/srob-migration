@@ -10,5 +10,5 @@ last_updated = "2017-06-11T09:37:00-07:00"
 preview_url = "84ad52f1-a21e-4483-c579-de940e4d6b94"
 name = "Aviva Publishing"
 title = "Aviva Publishing"
-books_publisher = "publishers/aviva-publishing.md"
+books_publisher = ["publishers/aviva-publishing.md"]
 +++

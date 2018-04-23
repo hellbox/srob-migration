@@ -17,7 +17,7 @@ twitterauto = "A germophobe reader is grossed out by people who keep books on th
 facebookauto = "A germophobe reader asks: isn't keeping books on the back of your toilet kind of gross?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-flushing-out-bathroom-books.md"
+notes_tags = ["notes/the-help-desk-flushing-out-bathroom-books.md"]
 notes_about = ""
 books = ""
 +++

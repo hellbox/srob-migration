@@ -17,7 +17,7 @@ twitterauto = "We're publishing Lucia Perillo poems every Tuesday in December, t
 facebookauto = "We're publishing Lucia Perillo poems every Tuesday in December, thanks to Copper Canyon Press."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/celebrating-lucia-perillo.md"
+notes_tags = ["notes/celebrating-lucia-perillo.md"]
 notes_about = ["authors/lucia-perillo.md"]
 books = ["books/time-will-clean-the-carcass-bones.md"]
 +++

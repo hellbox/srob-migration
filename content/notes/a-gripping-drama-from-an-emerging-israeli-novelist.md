@@ -17,7 +17,7 @@ twitterauto = "Sponsor @nirbaram has finally been translated into English. Read 
 facebookauto = "Sponsor Nir Baram has finally been translated into English. Find out more about this Isreali writer's compelling novel Good People"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-gripping-drama-from-an-emerging-israeli-novelist.md"
+notes_tags = ["notes/a-gripping-drama-from-an-emerging-israeli-novelist.md"]
 notes_about = ["authors/nir-baram.md"]
 books = ["books/good-people.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "We took a sci-fi/fantasy novel to the @SunlightCafe."
 facebookauto = "We took the bestselling novel All the Birds in the Sky as our lunch date to the Sunlight Cafe in Roosevelt. Everything was great, except for one thing: a note that the Sunlight will likely be moving."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-all-the-birds-in-the-sky.md"
+notes_tags = ["notes/lunch-date-all-the-birds-in-the-sky.md"]
 notes_about = ["authors/charlie-jane-anders.md"]
 books = ["books/all-the-birds-in-the-sky.md"]
 +++

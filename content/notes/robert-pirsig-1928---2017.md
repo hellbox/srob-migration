@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/robert-pirsig-1928---2017.md"
+notes_tags = ["notes/robert-pirsig-1928---2017.md"]
 notes_about = ""
 books = ""
 +++

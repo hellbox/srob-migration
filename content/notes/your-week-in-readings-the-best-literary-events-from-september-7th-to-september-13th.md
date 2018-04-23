@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes #ShoutYourAbortion, an esoteric bo
 facebookauto = "Your fall is kicking off in style, with a call to smash the patriarchy, a celebration of esoteric books, a talk about Chinatown, a discussion of Seattle's geological facelift, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-7th-to-september-13th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-7th-to-september-13th.md"]
 notes_about = ""
 books = ""
 +++

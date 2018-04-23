@@ -17,7 +17,7 @@ twitterauto = "The James Franco Review is changing its name and getting a new pu
 facebookauto = "The James Franco Review is changing its name and getting a new publisher.  "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-james-franco-review-is-getting-a-new-name-and-new-leadership.md"
+notes_tags = ["notes/the-james-franco-review-is-getting-a-new-name-and-new-leadership.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is \"Fir\" by Kris Hall"
 facebookauto = "Our Tuesday Poem is \"Fir\" by Kris Hall"
 make_image_tweet = "False"
 notes_byline = ["writers/kris-hall.md"]
-notes_tags = "notes/fir.md"
+notes_tags = ["notes/fir.md"]
 notes_about = ""
 books = ""
 +++

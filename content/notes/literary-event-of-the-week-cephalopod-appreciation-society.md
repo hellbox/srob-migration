@@ -17,7 +17,7 @@ twitterauto = "This weekend, go join a poet in her quest to celebrate everything
 facebookauto = "This weekend, go join a poet in her quest to celebrate everything having to do with cephalopods."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-cephalopod-appreciation-society.md"
+notes_tags = ["notes/literary-event-of-the-week-cephalopod-appreciation-society.md"]
 notes_about = ["authors/sierra-nelson.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our final poem from Poet in Residence Emily Bedard is titled \"On
 facebookauto = "Our final poem from Poet in Residence Emily Bedard is titled \"On Nakedness\""
 make_image_tweet = "False"
 notes_byline = ["writers/emily-bedard.md"]
-notes_tags = "notes/on-nakedness.md"
+notes_tags = ["notes/on-nakedness.md"]
 notes_about = ""
 books = ""
 +++

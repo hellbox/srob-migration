@@ -17,7 +17,7 @@ twitterauto = "Non-specificity in language sometimes occurs, resulting in points
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/non-specificity-in-language-sometimes-occurs-resulting-in-points-being-obfuscated.md"
+notes_tags = ["notes/non-specificity-in-language-sometimes-occurs-resulting-in-points-being-obfuscated.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "This Saturday, you've got two great comics parties to choose from
 facebookauto = "This Saturday, you'll have to choose between two great comics parties."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event(s)-of-the-week-the-elements-and-rock-is-not-dead.md"
+notes_tags = ["notes/literary-event(s)-of-the-week-the-elements-and-rock-is-not-dead.md"]
 notes_about = ""
 books = ""
 +++

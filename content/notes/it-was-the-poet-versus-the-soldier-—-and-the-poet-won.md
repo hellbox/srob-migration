@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/it-was-the-poet-versus-the-soldier-—-and-the-poet-won.md"
+notes_tags = ["notes/it-was-the-poet-versus-the-soldier-—-and-the-poet-won.md"]
 notes_about = ""
 books = ""
 +++

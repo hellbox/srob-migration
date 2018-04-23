@@ -17,7 +17,7 @@ twitterauto = "Gardening, sacredness, happiness, and much more in this week's be
 facebookauto = "Gardening, sacredness, happiness, and much more in this week's best readings."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-march-19th---march-25th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-march-19th---march-25th.md"]
 notes_about = ""
 books = ""
 +++

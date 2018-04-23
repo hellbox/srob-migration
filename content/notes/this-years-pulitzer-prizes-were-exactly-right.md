@@ -17,7 +17,7 @@ twitterauto = "This year's Pulitzer Prizes got everything right."
 facebookauto = "This year's Pulitzer Prizes got everything right."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-years-pulitzer-prizes-were-exactly-right.md"
+notes_tags = ["notes/this-years-pulitzer-prizes-were-exactly-right.md"]
 notes_about = ["authors/colson-whitehead.md"]
 books = ["books/the-underground-railroad.md"]
 +++

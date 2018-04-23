@@ -17,7 +17,7 @@ twitterauto = "Jon Raymond's new novel Freebird is the rare work of fiction that
 facebookauto = "Jon Raymond's new novel Freebird is the rare work of fiction that feels as though it's becoming more and more relevant as time passes"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-jon-raymond-reads-freebird-at-university-book-store.md"
+notes_tags = ["notes/literary-event-of-the-week-jon-raymond-reads-freebird-at-university-book-store.md"]
 notes_about = ["authors/jon-raymond.md"]
 books = ["books/freebird.md"]
 +++

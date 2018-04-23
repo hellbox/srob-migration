@@ -17,7 +17,7 @@ twitterauto = "Meet Karen Junker, the creator of Readerfest."
 facebookauto = "This morning, we told you about Readerfest, a free family-friendly book festival happening at Magnuson Park on September 9th. Here's an interview with the founder of Readerfest, Karen Junker."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-karen-junker-the-creator-and-director-of-readerfest.md"
+notes_tags = ["notes/meet-karen-junker-the-creator-and-director-of-readerfest.md"]
 notes_about = ""
 books = ""
 +++

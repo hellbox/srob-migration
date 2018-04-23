@@ -17,7 +17,7 @@ twitterauto = "Despite our election anxiety, we managed to pick up a stack of gr
 facebookauto = "Despite our election anxiety, we managed to pick up a stack of great comics at Short Run."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-best-of-short-run-2016.md"
+notes_tags = ["notes/thursday-comics-hangover-the-best-of-short-run-2016.md"]
 notes_about = ["authors/mita-mahato.md", "authors/kelly-froh.md", "authors/marc-palm.md", "authors/noel-franklin.md", "authors/david-lasky.md", "authors/greg-stump.md"]
 books = ""
 +++

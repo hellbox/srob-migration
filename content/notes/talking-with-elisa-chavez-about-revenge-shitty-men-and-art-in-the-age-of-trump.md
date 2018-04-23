@@ -17,7 +17,7 @@ twitterauto = "We talked with @elisacatrina about her explosive poem \"Revenge.\
 facebookauto = "We talked with Elisa Chavez about her explosive poem \"Revenge,\" the two times she went viral as a poet, and what she's working on next."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-elisa-chavez-about-revenge-shitty-men-and-art-in-the-age-of-trump.md"
+notes_tags = ["notes/talking-with-elisa-chavez-about-revenge-shitty-men-and-art-in-the-age-of-trump.md"]
 notes_about = ["authors/elisa-chavez.md"]
 books = ""
 +++

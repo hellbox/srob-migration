@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post takes down Little House on the Prairie, bad apolo
 facebookauto = "The Sunday Post got feisty this week, with takedowns of Little House on the Prairie, bad apologizers, and anyone who disagrees with Cormac McCarthy."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-december-3-2017.md"
+notes_tags = ["notes/the-sunday-post-for-december-3-2017.md"]
 notes_about = ""
 books = ""
 +++

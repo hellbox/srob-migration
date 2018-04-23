@@ -17,7 +17,7 @@ twitterauto = "Introducing @join_scout, a new media outlet that combines sci-fi 
 facebookauto = "A brand-new Seattle media outlet combines science fiction with journalism to create something new."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/tomorrow-never-dies.md"
+notes_tags = ["notes/tomorrow-never-dies.md"]
 notes_about = ["authors/neal-stephenson.md"]
 books = ["books/seveneves.md"]
 +++

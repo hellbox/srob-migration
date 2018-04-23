@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts logged off of @Twitter yesterday. "
 facebookauto = "Seattle Writing Prompts logged off of Twitter yesterday. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-twitter.md"
+notes_tags = ["notes/seattle-writing-prompts-twitter.md"]
 notes_about = ""
 books = ""
 +++

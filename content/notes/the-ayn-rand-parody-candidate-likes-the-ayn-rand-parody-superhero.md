@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-ayn-rand-parody-candidate-likes-the-ayn-rand-parody-superhero.md"
+notes_tags = ["notes/the-ayn-rand-parody-candidate-likes-the-ayn-rand-parody-superhero.md"]
 notes_about = ["authors/alan-moore.md"]
 books = ["books/watchmen.md"]
 +++

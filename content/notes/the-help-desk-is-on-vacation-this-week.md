@@ -17,7 +17,7 @@ twitterauto = "Got questions about about life, reading, or reading life? Ask @ci
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-help-desk-is-on-vacation-this-week.md"
+notes_tags = ["notes/the-help-desk-is-on-vacation-this-week.md"]
 notes_about = ""
 books = ""
 +++

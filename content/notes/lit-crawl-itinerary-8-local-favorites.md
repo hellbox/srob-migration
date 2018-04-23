@@ -17,7 +17,7 @@ twitterauto = "Our final @litcrawlseattle itinerary features three Seattle write
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary-8-local-favorites.md"
+notes_tags = ["notes/lit-crawl-itinerary-8-local-favorites.md"]
 notes_about = ["authors/stacey-levine.md", "authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

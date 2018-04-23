@@ -10,5 +10,5 @@ last_updated = "2018-02-26T21:42:00-08:00"
 preview_url = "d119fb64-0691-fbd7-5fb5-76b40e3b7cb5"
 name = "Alice James Books"
 title = "Alice James Books"
-books_publisher = "publishers/alice-james-books.md"
+books_publisher = ["publishers/alice-james-books.md"]
 +++

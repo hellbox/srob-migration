@@ -10,5 +10,5 @@ last_updated = "2017-06-25T15:45:00-07:00"
 preview_url = "1f061eb8-6a27-cd02-6013-affca6e106a2"
 name = "Ballantine Books"
 title = "Ballantine Books"
-books_publisher = "publishers/ballantine-books.md"
+books_publisher = ["publishers/ballantine-books.md"]
 +++

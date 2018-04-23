@@ -17,7 +17,7 @@ twitterauto = "An ambulatory interview with @_DavidShields by @ivantohelpyou tak
 facebookauto = "An ambulatory interview with David Shields by Ivan Schneider takes an unexpected turn. Shields will be at Town Hall tomorrow night with Claire Dederer, a great alternate to our Event of the Week."
 make_image_tweet = "False"
 notes_byline = ["writers/ivan-schneider.md"]
-notes_tags = "notes/talking-to-ourselves.md"
+notes_tags = ["notes/talking-to-ourselves.md"]
 notes_about = ["authors/david-shields.md"]
 books = ["books/other-people.md"]
 +++

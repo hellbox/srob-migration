@@ -17,7 +17,7 @@ twitterauto = "Svetlana Alexievich won the Nobel Prize for Literature. It's the 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/svetlana-alexievich-wins-nobel-prize-in-literature.md"
+notes_tags = ["notes/svetlana-alexievich-wins-nobel-prize-in-literature.md"]
 notes_about = ["authors/svetlana-alexievitch.md"]
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2016-05-07T19:50:00-07:00"
 preview_url = "ea4f0df9-b55e-7a20-96bf-8fdb3c498e35"
 name = "Tor"
 title = "Tor"
-books_publisher = "publishers/tor.md"
+books_publisher = ["publishers/tor.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Just when you thought the publishing industry couldn't get any sa
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/no-the-answer-is-no.md"
+notes_tags = ["notes/no-the-answer-is-no.md"]
 notes_about = ""
 books = ""
 +++

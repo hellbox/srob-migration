@@ -17,7 +17,7 @@ twitterauto = "Here's everything you need to know to celebrate @Freecomicbook Da
 facebookauto = "This Saturday is Free Comic Book Day, in which Seattle's comic shops give away comics to anyone who visits. Here's everything you need to know about the day, including which books to grab, where to go, and what to do."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"
+notes_tags = ["notes/thursday-comics-hangover-everything-you-need-to-know-about-free-comic-book-day.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ["books/ms-marvel-volume-1-no-normal.md", "books/ms-marvel-volume-2-generation-why.md", "books/ms-marvel-volume-4-last-days.md", "books/ms-marvel-volume-3-crushed.md", "books/ms-marvel-volume-5-super-famous.md"]
 +++

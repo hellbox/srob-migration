@@ -10,5 +10,5 @@ last_updated = "2017-04-30T16:31:00-07:00"
 preview_url = "7c38eb59-fbb9-8899-d7b3-3a7040028279"
 name = "Random House"
 title = "Random House"
-books_publisher = "publishers/random-house.md"
+books_publisher = ["publishers/random-house.md"]
 +++

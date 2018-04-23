@@ -17,7 +17,7 @@ twitterauto = "We talked with the anonymous cartoonist behind the Seattle Walk R
 facebookauto = "We talked with the anonymous cartoonist behind the hit Seattle Walk Report comics series on Instagram. She's pretty awesome."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-the-cartoonist-behind-seattle-walk-report-if-you-want-the-worst-time-of-your-life-go-on-a-walk-with-me.md"
+notes_tags = ["notes/meet-the-cartoonist-behind-seattle-walk-report-if-you-want-the-worst-time-of-your-life-go-on-a-walk-with-me.md"]
 notes_about = ""
 books = ""
 +++

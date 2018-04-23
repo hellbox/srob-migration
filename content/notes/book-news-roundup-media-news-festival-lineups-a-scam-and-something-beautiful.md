@@ -17,7 +17,7 @@ twitterauto = "Read the full lineups of Lit Crawl and Short Run in today's Book 
 facebookauto = "Read the full lineups of Lit Crawl and Short Run in today's Book News Roundup!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-media-news-festival-lineups-a-scam-and-something-beautiful.md"
+notes_tags = ["notes/book-news-roundup-media-news-festival-lineups-a-scam-and-something-beautiful.md"]
 notes_about = ""
 books = ""
 +++

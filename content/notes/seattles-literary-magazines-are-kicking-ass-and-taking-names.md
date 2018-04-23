@@ -17,7 +17,7 @@ twitterauto = "Two local literary magazines, @mosslitmag and the James Franco Re
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattles-literary-magazines-are-kicking-ass-and-taking-names.md"
+notes_tags = ["notes/seattles-literary-magazines-are-kicking-ass-and-taking-names.md"]
 notes_about = ["authors/nancy-jooyoun-kim.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our thanks to @TracyWeberTypes for her sponsorship this week! We 
 facebookauto = "Our thanks to Tracy Weber for sponsoring the site this week. Her third book in her popular and well-reviewed Downward Dog Mystery series has just been released, and we have a full chapter for you to read."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/karmas-a-killer-book-release-party.md"
+notes_tags = ["notes/karmas-a-killer-book-release-party.md"]
 notes_about = ["authors/tracy-weber.md"]
 books = ["books/karmas-a-killer.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = ".@paulconstant says preparing for @ignitesea was scary, but he's 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-and-the-future-of-books.md"
+notes_tags = ["notes/seattle-and-the-future-of-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "In which the youngest grumpy old man in comics finally grows up a
 facebookauto = "In which the youngest grumpy old man in comics finally grows up and acts his age."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-a-shiny-new-nostalgia.md"
+notes_tags = ["notes/thursday-comics-hangover-a-shiny-new-nostalgia.md"]
 notes_about = ""
 books = ""
 +++

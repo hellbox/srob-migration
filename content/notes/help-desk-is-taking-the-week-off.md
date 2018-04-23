@@ -17,7 +17,7 @@ twitterauto = "No Help Desk this week. Send your literary etiquette questions to
 facebookauto = "No Help Desk this week. Send your literary etiquette questions to advice@seattlereviewofbooks.com. If you want Cienna Madrid to run for mayor of Seattle, you should also send suggested campaign slogans to advice@seattlereviewofbooks.com."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/help-desk-is-taking-the-week-off.md"
+notes_tags = ["notes/help-desk-is-taking-the-week-off.md"]
 notes_about = ""
 books = ""
 +++

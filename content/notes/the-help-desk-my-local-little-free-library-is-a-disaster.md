@@ -17,7 +17,7 @@ twitterauto = "This week's Help Desk takes a slightly supernatural, slightly ero
 facebookauto = "This week's Help Desk takes a slightly supernatural, slightly erotic turn. It's about Little Free Libraries."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-my-local-little-free-library-is-a-disaster.md"
+notes_tags = ["notes/the-help-desk-my-local-little-free-library-is-a-disaster.md"]
 notes_about = ""
 books = ""
 +++

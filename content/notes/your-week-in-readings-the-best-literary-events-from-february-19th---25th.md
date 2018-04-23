@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes Khizr Khan, humanity's dawn, and S
 facebookauto = "Your week in readings includes Khizr Khan, humanity's dawn, and She Who Has No Master(s)."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-19th---25th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-19th---25th.md"]
 notes_about = ""
 books = ""
 +++

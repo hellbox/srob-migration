@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-last-thanks-to-janine-a-southard.md"
+notes_tags = ["notes/one-last-thanks-to-janine-a-southard.md"]
 notes_about = ["authors/janine-a-southard.md"]
 books = ["books/cracked!-a-magic-iphone-story.md"]
 +++

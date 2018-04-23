@@ -17,7 +17,7 @@ twitterauto = "A story problem, from May's Poet in Residence @Oliver_delaPaz."
 facebookauto = "A story problem, from May's Poet in Residence Oliver de la Paz."
 make_image_tweet = "False"
 notes_byline = ["writers/oliver-de-la-paz.md"]
-notes_tags = "notes/a-story-problem-2.md"
+notes_tags = ["notes/a-story-problem-2.md"]
 notes_about = ""
 books = ""
 +++

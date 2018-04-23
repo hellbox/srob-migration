@@ -17,7 +17,7 @@ twitterauto = "Our September bookstore of the month is Lion Heart Book Store in 
 facebookauto = "Our September bookstore of the month is Lion Heart Book Store at Pike Place Market! "
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/our-september-bookstore-of-the-month-is-lion-heart-book-store.md"
+notes_tags = ["notes/our-september-bookstore-of-the-month-is-lion-heart-book-store.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "What kind of book club brings dozens of police to a library in th
 facebookauto = "What kind of book club brings dozens of police to a library in the afternoon? "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-most-heavily-policed-book-club-in-the-history-of-seattle.md"
+notes_tags = ["notes/the-most-heavily-policed-book-club-in-the-history-of-seattle.md"]
 notes_about = ""
 books = ""
 +++

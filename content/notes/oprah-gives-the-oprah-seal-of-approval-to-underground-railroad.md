@@ -17,7 +17,7 @@ twitterauto = "With Oprah's attention, here's hoping @colsonwhitehead finally ge
 facebookauto = "For months, Seattle-area booksellers and librarians have been praising Colson Whitehead's new novel The Underground Railroad. Oprah agrees with them."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/oprah-gives-the-oprah-seal-of-approval-to-underground-railroad.md"
+notes_tags = ["notes/oprah-gives-the-oprah-seal-of-approval-to-underground-railroad.md"]
 notes_about = ["authors/colson-whitehead.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Come join us tonight @ThirdPlaceBooks Seward Park to discuss Clau
 facebookauto = "Come join us tonight at Third Place Books Seward Park to discuss Claudia Rankine's beautiful book Citizen."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-come-discuss-citizen-an-american-lyric-with-us-tonight.md"
+notes_tags = ["notes/literary-event-of-the-week-come-discuss-citizen-an-american-lyric-with-us-tonight.md"]
 notes_about = ["authors/claudia-rankine.md"]
 books = ["books/citizen.md"]
 +++

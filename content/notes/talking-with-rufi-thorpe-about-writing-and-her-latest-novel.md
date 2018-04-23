@@ -17,7 +17,7 @@ twitterauto = "We really enjoyed talked to @rufithorpe about her sublime new boo
 facebookauto = "We sat down and talked to Rufi Thorpe about her new book \u2014 that one we were all gushy about yesterday."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/talking-with-rufi-thorpe-about-writing-and-her-latest-novel.md"
+notes_tags = ["notes/talking-with-rufi-thorpe-about-writing-and-her-latest-novel.md"]
 notes_about = ["authors/rufi-thorpe.md"]
 books = ["books/dear-fang-with-love.md"]
 +++

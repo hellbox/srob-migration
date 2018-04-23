@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jack-straws-writers-program-is-on-tv.md"
+notes_tags = ["notes/jack-straws-writers-program-is-on-tv.md"]
 notes_about = ""
 books = ""
 +++

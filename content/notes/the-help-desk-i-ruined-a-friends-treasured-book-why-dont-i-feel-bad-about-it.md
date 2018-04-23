@@ -17,7 +17,7 @@ twitterauto = "Today's Help Desk: I ruined a friend's treasured book. Why don't 
 facebookauto = "Say a friend loans you a book. Say you accidentally ruin the book. Say you find out the book was inscribed by a now-dead author. What do you do?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-i-ruined-a-friends-treasured-book-why-dont-i-feel-bad-about-it.md"
+notes_tags = ["notes/the-help-desk-i-ruined-a-friends-treasured-book-why-dont-i-feel-bad-about-it.md"]
 notes_about = ""
 books = ""
 +++

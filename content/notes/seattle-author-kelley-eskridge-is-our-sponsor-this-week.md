@@ -17,7 +17,7 @@ twitterauto = "Our thanks to @kelleyeskridge for her sponsorship. Come read full
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/seattle-author-kelley-eskridge-is-our-sponsor-this-week.md"
+notes_tags = ["notes/seattle-author-kelley-eskridge-is-our-sponsor-this-week.md"]
 notes_about = ["authors/kelley-eskridge.md"]
 books = ["books/solitaire.md"]
 +++

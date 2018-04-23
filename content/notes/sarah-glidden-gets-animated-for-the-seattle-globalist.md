@@ -17,7 +17,7 @@ twitterauto = "Why is the @SeaGlobalist deserving of your time? Allow @sarahglid
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sarah-glidden-gets-animated-for-the-seattle-globalist.md"
+notes_tags = ["notes/sarah-glidden-gets-animated-for-the-seattle-globalist.md"]
 notes_about = ["authors/sarah-glidden.md"]
 books = ["books/rolling-blackouts.md"]
 +++

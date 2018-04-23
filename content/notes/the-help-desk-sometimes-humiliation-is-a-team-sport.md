@@ -17,7 +17,7 @@ twitterauto = "\"Author readings are often death by a thousand public humiliatio
 facebookauto = "\"Author readings are often death by a thousand public humiliations, followed by short Q&A.\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-sometimes-humiliation-is-a-team-sport.md"
+notes_tags = ["notes/the-help-desk-sometimes-humiliation-is-a-team-sport.md"]
 notes_about = ""
 books = ""
 +++

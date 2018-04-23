@@ -17,7 +17,7 @@ twitterauto = "Please, please, please vote today. We've got some book-themed vot
 facebookauto = "Please, please, please vote today. We've got some book-themed voting inspiration for you."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/please-please-vote-today.md"
+notes_tags = ["notes/please-please-vote-today.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ["books/ms-marvel-volume-1-no-normal.md"]
 +++

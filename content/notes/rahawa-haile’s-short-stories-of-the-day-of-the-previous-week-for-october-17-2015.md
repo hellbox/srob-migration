@@ -17,7 +17,7 @@ twitterauto = "And @rahawahaile's shorts this week feature @kawikaguillermo, @me
 facebookauto = "Short story time! This week's collection of Rahawa Haile's Short Stories of the Day just went up. Not to spoil anything, but one story is a picture of her cat, FutureCat."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-october-17-2015.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-october-17-2015.md"]
 notes_about = ""
 books = ""
 +++

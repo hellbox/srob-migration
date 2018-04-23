@@ -17,7 +17,7 @@ twitterauto = "Here are all the best literary events happening this week:"
 facebookauto = "The best readings of the week include readings from indigenous writers, a grand reopening of a Seattle comics store favorite, and more."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-july-27th---august-2nd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-july-27th---august-2nd.md"]
 notes_about = ["authors/elissa-washuta.md"]
 books = ""
 +++

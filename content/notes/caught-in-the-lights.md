@@ -17,7 +17,7 @@ twitterauto = "Get ready for sponsor @literaltiger's new novel, The Lights"
 facebookauto = "Get ready for sponsor Brian McGreevy's new novel, The Lights"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/caught-in-the-lights.md"
+notes_tags = ["notes/caught-in-the-lights.md"]
 notes_about = ""
 books = ""
 +++

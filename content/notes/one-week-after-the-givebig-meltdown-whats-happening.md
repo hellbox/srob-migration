@@ -17,7 +17,7 @@ twitterauto = "Remember when GiveBIG blew up in everyone's face last week? What'
 facebookauto = "Remember when GiveBIG blew up in everyone's face last week? What's happened in the time since?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/one-week-after-the-givebig-meltdown-whats-happening.md"
+notes_tags = ["notes/one-week-after-the-givebig-meltdown-whats-happening.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Horrifying bookstores, crowdfunding, and the problem with Marvel 
 facebookauto = "Horrifying bookstores, crowdfunding, and the problem with Marvel Comics in today's Book news Roundup."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-neil-gaiman-at-the-cheesecake-factory.md"
+notes_tags = ["notes/book-news-roundup-neil-gaiman-at-the-cheesecake-factory.md"]
 notes_about = ""
 books = ""
 +++

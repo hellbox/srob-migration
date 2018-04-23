@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-g-willow-wilson.md"
+notes_tags = ["notes/portrait-gallery-g-willow-wilson.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ""
 +++

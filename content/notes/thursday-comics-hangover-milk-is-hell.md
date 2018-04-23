@@ -17,7 +17,7 @@ twitterauto = "It's finally happened! Superhero crossover comics have become sel
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-milk-is-hell.md"
+notes_tags = ["notes/thursday-comics-hangover-milk-is-hell.md"]
 notes_about = ""
 books = ""
 +++

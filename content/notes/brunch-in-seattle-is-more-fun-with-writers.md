@@ -17,7 +17,7 @@ twitterauto = "Sponsor Seattle7Writers wants you to eat brunch with a bunch of w
 facebookauto = "Sponsor Seattle7Writers wants you to eat brunch with a bunch of writers. This is gonna be awesome."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/brunch-in-seattle-is-more-fun-with-writers.md"
+notes_tags = ["notes/brunch-in-seattle-is-more-fun-with-writers.md"]
 notes_about = ""
 books = ""
 +++

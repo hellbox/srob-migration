@@ -17,7 +17,7 @@ twitterauto = "It's time for harassers in the publishing industry to face their 
 facebookauto = "It's time for harassers in the publishing industry to face their reckoning."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/metoo-finally-starts-making-a-mark-in-the-publishing-industry.md"
+notes_tags = ["notes/metoo-finally-starts-making-a-mark-in-the-publishing-industry.md"]
 notes_about = ""
 books = ""
 +++

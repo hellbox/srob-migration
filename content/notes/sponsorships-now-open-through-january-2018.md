@@ -17,7 +17,7 @@ twitterauto = "We've just opened sponsorship dates through the end of the year. 
 facebookauto = "We've just opened sponsorship dates through the end of the year. Move fast and get the pick of the litter."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/sponsorships-now-open-through-january-2018.md"
+notes_tags = ["notes/sponsorships-now-open-through-january-2018.md"]
 notes_about = ["authors/you.md"]
 books = ["books/the-sponsorship.md"]
 +++

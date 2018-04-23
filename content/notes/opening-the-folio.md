@@ -17,7 +17,7 @@ twitterauto = "Folio Seattle, a new private library, will open in January of nex
 facebookauto = "The man who founded the Seattle Weekly, Crosscut.com, and Town Hall Seattle has a new idea: Folio Seattle, a brand-new private library in downtown Seattle. It's a gorgeous space, but does Seattle really need another literary venue?"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/opening-the-folio.md"
+notes_tags = ["notes/opening-the-folio.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Reading @Andrew_MacLean's \"Head Lopper\" is like falling in love
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-hey-kids!-head-lopper!.md"
+notes_tags = ["notes/thursday-comics-hangover-hey-kids!-head-lopper!.md"]
 notes_about = ""
 books = ""
 +++

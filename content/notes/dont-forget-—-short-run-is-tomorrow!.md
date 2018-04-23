@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/dont-forget-—-short-run-is-tomorrow!.md"
+notes_tags = ["notes/dont-forget-—-short-run-is-tomorrow!.md"]
 notes_about = ""
 books = ""
 +++

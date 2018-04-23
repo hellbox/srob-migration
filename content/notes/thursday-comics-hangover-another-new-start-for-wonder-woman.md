@@ -17,7 +17,7 @@ twitterauto = "Finally, a Wonder Woman comic you can give to a girl who's lookin
 facebookauto = "Finally, a Wonder Woman comic you can give to a girl who's looking for a superhero to love."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-another-new-start-for-wonder-woman.md"
+notes_tags = ["notes/thursday-comics-hangover-another-new-start-for-wonder-woman.md"]
 notes_about = ""
 books = ""
 +++

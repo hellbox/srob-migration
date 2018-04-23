@@ -17,7 +17,7 @@ twitterauto = "Making a book from absolute scratch."
 facebookauto = "Making a book from absolute scratch. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/how-to-make-a-$400-book-entirely-from-scratch.md"
+notes_tags = ["notes/how-to-make-a-$400-book-entirely-from-scratch.md"]
 notes_about = ""
 books = ""
 +++

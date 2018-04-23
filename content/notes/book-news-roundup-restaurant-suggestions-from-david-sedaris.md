@@ -17,7 +17,7 @@ twitterauto = "\"Why don't you serve more corndogs and stuff with olives in it?\
 facebookauto = "\"Why don't you serve more corndogs and stuff with olives in it?\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-restaurant-suggestions-from-david-sedaris.md"
+notes_tags = ["notes/book-news-roundup-restaurant-suggestions-from-david-sedaris.md"]
 notes_about = ["authors/david-sedaris.md"]
 books = ""
 +++

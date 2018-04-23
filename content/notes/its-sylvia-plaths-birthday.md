@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/its-sylvia-plaths-birthday.md"
+notes_tags = ["notes/its-sylvia-plaths-birthday.md"]
 notes_about = ["authors/sylvia-plath.md", "authors/kate-zambreno.md"]
 books = ["books/heroines.md"]
 +++

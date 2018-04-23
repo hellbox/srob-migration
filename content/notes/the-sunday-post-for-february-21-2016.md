@@ -17,7 +17,7 @@ twitterauto = "Five engrossing reads on the Sunday Post today, from @elspethreev
 facebookauto = "Five engrossing reads today, from Tumblr teens to social networks of trees, from Amazon's data to Seattle's luxury skyscrapers. Plenty to get you through morning brunch (and afternoon coffee) in the Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-february-21-2016.md"
+notes_tags = ["notes/the-sunday-post-for-february-21-2016.md"]
 notes_about = ""
 books = ""
 +++

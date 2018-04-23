@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @northwestpress's \"Dangerous Women\""
 facebookauto = "The Kickstarter Fund backs Northwest Press's \"Dangerous Women\""
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/dangerous-women-tales-of-queer-villainy!---kickstarter-fund-project-41.md"
+notes_tags = ["notes/dangerous-women-tales-of-queer-villainy!---kickstarter-fund-project-41.md"]
 notes_about = ""
 books = ""
 +++

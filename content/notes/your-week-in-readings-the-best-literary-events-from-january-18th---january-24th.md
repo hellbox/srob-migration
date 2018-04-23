@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes books about Betty MacDonald, seria
 facebookauto = "Your week in readings includes books about Betty MacDonald, serial killers, and America."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-18th---january-24th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-18th---january-24th.md"]
 notes_about = ""
 books = ""
 +++

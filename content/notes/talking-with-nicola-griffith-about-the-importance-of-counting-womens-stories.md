@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-nicola-griffith-about-the-importance-of-counting-womens-stories.md"
+notes_tags = ["notes/talking-with-nicola-griffith-about-the-importance-of-counting-womens-stories.md"]
 notes_about = ["authors/nicola-griffith.md"]
 books = ["books/hild.md"]
 +++

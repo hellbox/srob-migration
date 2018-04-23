@@ -17,7 +17,7 @@ twitterauto = "Our Event of the Week combines local musicians with Octavia Butle
 facebookauto = "Our Event of the Week combines local musicians with Octavia Butler. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-bushwick-book-club-at-langston-hughes-performing-arts-center.md"
+notes_tags = ["notes/literary-event-of-the-week-bushwick-book-club-at-langston-hughes-performing-arts-center.md"]
 notes_about = ["authors/octavia-butler.md"]
 books = ""
 +++

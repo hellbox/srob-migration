@@ -17,7 +17,7 @@ twitterauto = "Seattle Times books editor @gwinnma is stepping down, creating bi
 facebookauto = "What's going to happen with books coverage at the Seattle Times, now that books editor Mary Ann Gwinn has been bought out? And what does this mean for the future of Seattle's literary scene?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/with-mary-ann-gwinn-leaving-seattle-times-books-editor-job-what-will-happen-to-seattles-literary-scene.md"
+notes_tags = ["notes/with-mary-ann-gwinn-leaving-seattle-times-books-editor-job-what-will-happen-to-seattles-literary-scene.md"]
 notes_about = ""
 books = ""
 +++

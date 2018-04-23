@@ -17,7 +17,7 @@ twitterauto = "Letizia at @ubookstorereads recommends Sandra Cisneros's A House 
 facebookauto = "University Book Store bookseller Letizia recommends Sandra Cisneros's A House of My Own for all the travelers and writers on your holiday shopping list."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/holiday-gift-book-recommendation-2-a-house-of-my-own.md"
+notes_tags = ["notes/holiday-gift-book-recommendation-2-a-house-of-my-own.md"]
 notes_about = ""
 books = ""
 +++

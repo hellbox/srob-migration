@@ -17,7 +17,7 @@ twitterauto = "We're looking for a Public Diversity Editor. Can you spread the w
 facebookauto = "We're searching for a Public Diversity Editor. Can you please help us find one?"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/open-call-for-a-public-diversity-editor.md"
+notes_tags = ["notes/open-call-for-a-public-diversity-editor.md"]
 notes_about = ""
 books = ""
 +++

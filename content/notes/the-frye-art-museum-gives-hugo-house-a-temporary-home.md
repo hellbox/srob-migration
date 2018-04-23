@@ -17,7 +17,7 @@ twitterauto = "The @FryeArtMuseum is giving @HugoHouse a temporary home later th
 facebookauto = "The Frye Art Museum will give Hugo House a temporary home later this year."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-frye-art-museum-gives-hugo-house-a-temporary-home.md"
+notes_tags = ["notes/the-frye-art-museum-gives-hugo-house-a-temporary-home.md"]
 notes_about = ""
 books = ""
 +++

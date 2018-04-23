@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/phinney-books-the-elkin-test-and-the-eternal-joy-of-fup.md"
+notes_tags = ["notes/phinney-books-the-elkin-test-and-the-eternal-joy-of-fup.md"]
 notes_about = ["authors/stanley-elkin.md", "authors/jim-dodge.md", "authors/tom-nissley.md"]
 books = ["books/fup.md", "books/the-franchiser-.md"]
 +++

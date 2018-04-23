@@ -17,7 +17,7 @@ twitterauto = "Your week in readings covers sexism in tech and five up-and-comin
 facebookauto = "Your week in readings covers sexism in tech and five great up-and-coming sci-fi authors."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-13th---november-19th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-13th---november-19th.md"]
 notes_about = ["authors/david-sedaris.md"]
 books = ""
 +++

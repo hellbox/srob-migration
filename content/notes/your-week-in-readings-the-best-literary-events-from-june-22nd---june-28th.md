@@ -17,7 +17,7 @@ twitterauto = "Your week in literary events begins tonight with a reading from t
 facebookauto = "Your week in readings includes a discussion on race in America, a study of the internet as art, Chuck Palahniuk, and Sherman Alexie interviewing Mary-Louise Parker."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-june-22nd---june-28th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-june-22nd---june-28th.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"...to have it in still form on a page, it\u2019s almost like it
 facebookauto = "\"...to have it in still form on a page, it\u2019s almost like it\u2019s eternal, in a sense.\""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-matthew-mcintosh-about-the-rhythm-of-incorporating-videos-into-print-books.md"
+notes_tags = ["notes/talking-with-matthew-mcintosh-about-the-rhythm-of-incorporating-videos-into-print-books.md"]
 notes_about = ["authors/matthew-mcintosh.md"]
 books = ""
 +++

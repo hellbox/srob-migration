@@ -17,7 +17,7 @@ twitterauto = "We talked with @thisisejkoh about being a Seattle poet and transl
 facebookauto = "We talked with EJ Koh about being a Seattle poet and what it's like translating \"raunchy\" poetry with her dad."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-ej-koh-about-translation-and-what-it-means-to-be-a-seattle-poet.md"
+notes_tags = ["notes/talking-with-ej-koh-about-translation-and-what-it-means-to-be-a-seattle-poet.md"]
 notes_about = ["authors/ej-koh.md"]
 books = ["books/a-lesser-love.md"]
 +++

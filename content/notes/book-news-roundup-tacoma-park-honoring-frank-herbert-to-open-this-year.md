@@ -17,7 +17,7 @@ twitterauto = "A Tacoma park honoring Dune author Frank Herbert is set to open t
 facebookauto = "A park honoring Frank Herbert, a book celebrating Seattle's Somali culture, and an award for a local kid's book author in today's Book News Roundup!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-tacoma-park-honoring-frank-herbert-to-open-this-year.md"
+notes_tags = ["notes/book-news-roundup-tacoma-park-honoring-frank-herbert-to-open-this-year.md"]
 notes_about = ["authors/frank-herbert.md", "authors/jessixa-bagley.md"]
 books = ""
 +++

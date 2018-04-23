@@ -17,7 +17,7 @@ twitterauto = "Today's @litcrawlseattle itinerary features food writing, comics,
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary-6-no-literary-fiction.md"
+notes_tags = ["notes/lit-crawl-itinerary-6-no-literary-fiction.md"]
 notes_about = ""
 books = ""
 +++

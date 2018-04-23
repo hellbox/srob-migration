@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup includes the NRA, e-books and the liter
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-nras-fairy-tales-are-just-as-awful-as-youd-expect.md"
+notes_tags = ["notes/book-news-roundup-the-nras-fairy-tales-are-just-as-awful-as-youd-expect.md"]
 notes_about = ""
 books = ""
 +++

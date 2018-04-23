@@ -17,7 +17,7 @@ twitterauto = "We talked with @pennyzola about what she'll miss about Seattle, a
 facebookauto = "We talked with Michelle Pe\u00f1aloza about what she'll miss about Seattle, and what Seattle could do better."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/exit-interview-michelle-peñaloza-says-goodbye-to-seattle.md"
+notes_tags = ["notes/exit-interview-michelle-peñaloza-says-goodbye-to-seattle.md"]
 notes_about = ["authors/michelle-pe\u00f1aloza.md"]
 books = ""
 +++

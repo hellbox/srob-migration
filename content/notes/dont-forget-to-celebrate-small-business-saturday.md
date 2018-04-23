@@ -17,7 +17,7 @@ twitterauto = "This Saturday, a small army of Seattle-area authors are going to 
 facebookauto = "This Saturday, a small army of Seattle-area authors are going to be selling books at local independent bookstores. Here's a list of where to go and who you'll see."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/dont-forget-to-celebrate-small-business-saturday.md"
+notes_tags = ["notes/dont-forget-to-celebrate-small-business-saturday.md"]
 notes_about = ["authors/adam-rakunas.md", "authors/colleen-frakes.md", "authors/sherman-alexie.md", "authors/jessixa-bagley.md"]
 books = ["books/windswept.md", "books/prison-island.md"]
 +++

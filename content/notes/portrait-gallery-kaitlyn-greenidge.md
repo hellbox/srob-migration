@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Poet Kaitlyn Greenidge will be part of a @HugoH
 facebookauto = "Portrait Gallery: Poet Kaitlyn Greenidge"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-kaitlyn-greenidge.md"
+notes_tags = ["notes/portrait-gallery-kaitlyn-greenidge.md"]
 notes_about = ["authors/kaitlyn-greenidge.md"]
 books = ""
 +++

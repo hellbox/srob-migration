@@ -17,7 +17,7 @@ twitterauto = "One of the most famous translators in the world, Gregory Rabassa,
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/gregory-rabassa-1922---2016.md"
+notes_tags = ["notes/gregory-rabassa-1922---2016.md"]
 notes_about = ""
 books = ""
 +++

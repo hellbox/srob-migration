@@ -17,7 +17,7 @@ twitterauto = "Kurt Russell meets Patrick Swayze in a greasy fist-fight."
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-product-of-the-80s.md"
+notes_tags = ["notes/thursday-comics-hangover-product-of-the-80s.md"]
 notes_about = ""
 books = ""
 +++

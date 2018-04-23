@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: I want my husband's mistress to recommend books fo
 facebookauto = "Help! I want my husband's mistress to recommend books for me"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-i-want-my-husbands-mistress-to-recommend-books-for-me.md"
+notes_tags = ["notes/the-help-desk-i-want-my-husbands-mistress-to-recommend-books-for-me.md"]
 notes_about = ""
 books = ""
 +++

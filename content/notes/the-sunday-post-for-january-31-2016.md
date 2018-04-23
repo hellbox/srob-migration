@@ -17,7 +17,7 @@ twitterauto = "Tech futures, a girl named Molly, British children\u2019s books, 
 facebookauto = "Techno-libertarian-utopianism, teenage aspiring politicians, Junot Diaz, and a challenge to American children's book authors. Just another Sunday Post, now arriving at platform 1/31th."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-january-31-2016.md"
+notes_tags = ["notes/the-sunday-post-for-january-31-2016.md"]
 notes_about = ["authors/junot-diaz.md", "authors/steven-johnson.md"]
 books = ["books/the-brief-wondrous-life-of-oscar-wao.md"]
 +++

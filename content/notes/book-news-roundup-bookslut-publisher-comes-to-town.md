@@ -17,7 +17,7 @@ twitterauto = "What have the Vis-a-Vis Society been up to lately? Find out in to
 facebookauto = "What have the Vis-a-Vis Society been up to lately? Find out in today's Book News Roundup!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-bookslut-publisher-comes-to-town.md"
+notes_tags = ["notes/book-news-roundup-bookslut-publisher-comes-to-town.md"]
 notes_about = ""
 books = ""
 +++

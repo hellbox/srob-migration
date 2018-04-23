@@ -17,7 +17,7 @@ twitterauto = "Late night Mail Call -- what looks good?"
 facebookauto = "A little late night Mail Call -- what looks good?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-january-6-2016.md"
+notes_tags = ["notes/mail-call-for-january-6-2016.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "A bookstore is a conversation, and Open Books has been a better c
 facebookauto = "A bookstore is a conversation, and Open Books has been a better conversation than most."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-many-voices-that-make-up-open-books.md"
+notes_tags = ["notes/the-many-voices-that-make-up-open-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins tonight with a talk about native Sea
 facebookauto = "You've got a lot coming up this week including a memoir by a Portland Olympian, a conversation about native Seattle, Timothy Egan, and much, much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-march-8---march-14.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-march-8---march-14.md"]
 notes_about = ["authors/elissa-washuta.md", "authors/timothy-egan.md"]
 books = ""
 +++

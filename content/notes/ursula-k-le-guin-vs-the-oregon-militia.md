@@ -17,7 +17,7 @@ twitterauto = "Ursula K. Le Guin vs. the Oregon militia: whose side are you on? 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ursula-k-le-guin-vs-the-oregon-militia.md"
+notes_tags = ["notes/ursula-k-le-guin-vs-the-oregon-militia.md"]
 notes_about = ["authors/ursula-k-le-guin.md"]
 books = ""
 +++

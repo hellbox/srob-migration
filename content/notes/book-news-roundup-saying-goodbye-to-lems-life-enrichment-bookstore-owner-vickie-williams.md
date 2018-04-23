@@ -17,7 +17,7 @@ twitterauto = "Book News Roundup: Great local book stories from @SoSeaEmerald, @
 facebookauto = "Today's Book News Roundup includes great local literary stories from the South Seattle Emerald, Shelf Awareness, Vanguard Seattle, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-saying-goodbye-to-lems-life-enrichment-bookstore-owner-vickie-williams.md"
+notes_tags = ["notes/book-news-roundup-saying-goodbye-to-lems-life-enrichment-bookstore-owner-vickie-williams.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Upset with corporate presses for publishing Milo Yiannopoulos? Bu
 facebookauto = "If you're upset with corporate presses for publishing Milo Yiannopoulos, maybe you should buy from independent presses instead."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/publisher-issues-unsatisfying-letter-to-justify-publishing-a-book-by-milo-yiannopoulos.md"
+notes_tags = ["notes/publisher-issues-unsatisfying-letter-to-justify-publishing-a-book-by-milo-yiannopoulos.md"]
 notes_about = ""
 books = ""
 +++

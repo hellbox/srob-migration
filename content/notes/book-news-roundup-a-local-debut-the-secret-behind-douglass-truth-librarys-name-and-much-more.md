@@ -17,7 +17,7 @@ twitterauto = "Today's roundup brings a new book from @ancawrites and a gender e
 facebookauto = "Today's Book News Roundup features a novel debut and a gender experiment you can try on your bookshelves at home."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-a-local-debut-the-secret-behind-douglass-truth-librarys-name-and-much-more.md"
+notes_tags = ["notes/book-news-roundup-a-local-debut-the-secret-behind-douglass-truth-librarys-name-and-much-more.md"]
 notes_about = ["authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

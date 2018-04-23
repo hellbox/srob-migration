@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Anne-Christine d\u2019Adesky #illustration by @
 facebookauto = "Portrait Gallery: Anne-Christine d\u2019Adesky painted by Christine Marie Larsen. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-anne-christine-d’adesky.md"
+notes_tags = ["notes/portrait-gallery-anne-christine-d’adesky.md"]
 notes_about = ["authors/anne-christine-d\u2019adesky.md"]
 books = ""
 +++

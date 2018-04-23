@@ -17,7 +17,7 @@ twitterauto = "We can't wait for @ellen_forney's new book! (But we'll have to wa
 facebookauto = "Fantagraphics is publishing a new book from Ellen Forney? Sign us up! "
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/fantagraphics-announces-new-ellen-forney-book.md"
+notes_tags = ["notes/fantagraphics-announces-new-ellen-forney-book.md"]
 notes_about = ["authors/ellen-forney.md"]
 books = ""
 +++

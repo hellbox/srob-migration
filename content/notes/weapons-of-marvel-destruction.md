@@ -17,7 +17,7 @@ twitterauto = "A local writer is proving to be the conscience of superhero comic
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/weapons-of-marvel-destruction.md"
+notes_tags = ["notes/weapons-of-marvel-destruction.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ""
 +++

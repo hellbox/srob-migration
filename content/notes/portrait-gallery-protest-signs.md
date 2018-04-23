@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Protest Signs, a portrait of some good ones pai
 facebookauto = "Portrait Gallery: Protest Signs"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-protest-signs.md"
+notes_tags = ["notes/portrait-gallery-protest-signs.md"]
 notes_about = ""
 books = ""
 +++

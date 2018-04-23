@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/it-is-the-day-of-the-library-today.md"
+notes_tags = ["notes/it-is-the-day-of-the-library-today.md"]
 notes_about = ""
 books = ""
 +++

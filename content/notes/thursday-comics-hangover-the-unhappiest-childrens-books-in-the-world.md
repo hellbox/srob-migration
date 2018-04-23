@@ -17,7 +17,7 @@ twitterauto = "Author Raymond Briggs has an important message for kids: If you'r
 facebookauto = "Author Raymond Briggs has an important message for kids: If you're okay with being unhappy, that's okay."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-unhappiest-childrens-books-in-the-world.md"
+notes_tags = ["notes/thursday-comics-hangover-the-unhappiest-childrens-books-in-the-world.md"]
 notes_about = ["authors/raymond-briggs.md"]
 books = ""
 +++

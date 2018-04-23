@@ -17,7 +17,7 @@ twitterauto = "Here's a tip: read Richard Morgan's Altered Carbon before everyon
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/altered-carbon-to-be-a-netflix-series.md"
+notes_tags = ["notes/altered-carbon-to-be-a-netflix-series.md"]
 notes_about = ""
 books = ""
 +++

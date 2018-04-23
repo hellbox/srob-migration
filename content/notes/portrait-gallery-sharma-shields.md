@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @SharmaShields #illustration by @studiochristin
 facebookauto = "Portrait Gallery: Sharma Shields painted by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-sharma-shields.md"
+notes_tags = ["notes/portrait-gallery-sharma-shields.md"]
 notes_about = ["authors/sharma-shields.md"]
 books = ""
 +++

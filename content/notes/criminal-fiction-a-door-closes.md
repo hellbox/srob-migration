@@ -17,7 +17,7 @@ twitterauto = "It's Criminal Fiction! @daneetsteffens interviews @joeidetweets, 
 facebookauto = "It's Criminal Fiction! Daneet Steffens interviews Joe Ide, and reviews many others. "
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-a-door-closes.md"
+notes_tags = ["notes/criminal-fiction-a-door-closes.md"]
 notes_about = ["authors/ann-cleeves.md", "authors/sarah-pinborough.md", "authors/julia-keller.md", "authors/amber-patterson.md", "authors/joe-ide.md"]
 books = ""
 +++

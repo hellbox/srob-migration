@@ -17,7 +17,7 @@ twitterauto = "No, terrorists did not open a gift shop in Denver."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/maybe-dont-vandalize-bookstores.md"
+notes_tags = ["notes/maybe-dont-vandalize-bookstores.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings features a comic about an idealized India a
 facebookauto = "Your Week in Readings features a comic about an idealized India and a book about getting lost in clouds."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-october-25th---october-29th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-october-25th---october-29th.md"]
 notes_about = ""
 books = ""
 +++

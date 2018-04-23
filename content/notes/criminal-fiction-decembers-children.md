@@ -17,7 +17,7 @@ twitterauto = "It's December's Criminal Fiction column, by @daneetsteffens!"
 facebookauto = "It's December's Criminal Fiction column, by Daneet Steffens!"
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-decembers-children.md"
+notes_tags = ["notes/criminal-fiction-decembers-children.md"]
 notes_about = ["authors/o-henry.md", "authors/edith-wharton.md", "authors/edgar-allan-poe.md", "authors/aj-banner.md", "authors/federico-axat.md", "authors/catriona-mcpherson.md", "authors/anne-holt.md", "authors/jayne-ann-krentz.md"]
 books = ""
 +++

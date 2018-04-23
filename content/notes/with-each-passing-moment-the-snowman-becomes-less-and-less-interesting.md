@@ -17,7 +17,7 @@ twitterauto = "How can an adaptation of a great thriller starring a dreamy cast 
 facebookauto = "How can a cinematic adaptation of a great Norwegian crime thriller starring the dreamy Michael Fassbender turn out so badly?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/with-each-passing-moment-the-snowman-becomes-less-and-less-interesting.md"
+notes_tags = ["notes/with-each-passing-moment-the-snowman-becomes-less-and-less-interesting.md"]
 notes_about = ""
 books = ""
 +++

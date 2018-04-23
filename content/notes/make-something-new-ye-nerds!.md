@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/make-something-new-ye-nerds!.md"
+notes_tags = ["notes/make-something-new-ye-nerds!.md"]
 notes_about = ["authors/ernest-cline.md"]
 books = ["books/armada.md", "books/ready-player-one.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "You can tell a lot about David Sedaris based on the edits to his 
 facebookauto = "\"What emerges from the Wikipedia edits is a kind of erasure portrait of David Sedaris, a biography constructed from deletions and errors.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/you-can-tell-a-lot-about-david-sedaris-from-the-edits-on-his-wikipedia-page.md"
+notes_tags = ["notes/you-can-tell-a-lot-about-david-sedaris-from-the-edits-on-his-wikipedia-page.md"]
 notes_about = ""
 books = ""
 +++

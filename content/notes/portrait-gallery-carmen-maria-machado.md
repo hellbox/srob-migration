@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @carmenmmachado reads Her Body and Other Partie
 facebookauto = "Portrait Gallery: Carmen Maria Machado by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-carmen-maria-machado.md"
+notes_tags = ["notes/portrait-gallery-carmen-maria-machado.md"]
 notes_about = ""
 books = ""
 +++

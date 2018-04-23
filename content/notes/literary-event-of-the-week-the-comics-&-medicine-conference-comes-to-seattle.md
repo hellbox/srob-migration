@@ -17,7 +17,7 @@ twitterauto = "This week, the Comics and Medicine conference comes to Seattle. W
 facebookauto = "Our literary event of the week is the Comics and Medicine Conference, a celebration of the intersection between comics and health."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-the-comics-&-medicine-conference-comes-to-seattle.md"
+notes_tags = ["notes/literary-event-of-the-week-the-comics-&-medicine-conference-comes-to-seattle.md"]
 notes_about = ["authors/tatiana-gill.md"]
 books = ""
 +++

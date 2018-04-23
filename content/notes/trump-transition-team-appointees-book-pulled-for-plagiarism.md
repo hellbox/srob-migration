@@ -17,7 +17,7 @@ twitterauto = "HarperCollins has pulled a Trump appointee's book for plagiarism.
 facebookauto = "HarperCollins has pulled a Trump appointee's book for plagiarism. She's still working for Trump, though."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/trump-transition-team-appointees-book-pulled-for-plagiarism.md"
+notes_tags = ["notes/trump-transition-team-appointees-book-pulled-for-plagiarism.md"]
 notes_about = ""
 books = ""
 +++

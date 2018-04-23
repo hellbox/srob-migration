@@ -17,7 +17,7 @@ twitterauto = "An early coordinator of the Zine Archive and Publishing Project s
 facebookauto = "An early coordinator of the Zine Archive and Publishing Project says ZAPP is no more. The collection of zines and minicomics\u2014one of the world's largest, if not the world's largest\u2014will reportedly go to the Seattle Public Library."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/zine-archive-&-publishing-project-to-fold-collection-to-go-to-seattle-public-library.md"
+notes_tags = ["notes/zine-archive-&-publishing-project-to-fold-collection-to-go-to-seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

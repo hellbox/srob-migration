@@ -10,5 +10,5 @@ last_updated = "2016-11-06T19:27:00-08:00"
 preview_url = "a92baa33-a5a5-cfc6-a6bb-8d66aa871bc8"
 name = "Avery Publishing Group"
 title = "Avery Publishing Group"
-books_publisher = "publishers/avery-publishing-group.md"
+books_publisher = ["publishers/avery-publishing-group.md"]
 +++

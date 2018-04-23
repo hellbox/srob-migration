@@ -10,5 +10,5 @@ last_updated = "2015-12-06T13:15:00-08:00"
 preview_url = "45c24412-3eed-ea90-3b2f-88baac345bf5"
 name = "Pinnacle"
 title = "Pinnacle"
-books_publisher = "publishers/pinnacle.md"
+books_publisher = ["publishers/pinnacle.md"]
 +++

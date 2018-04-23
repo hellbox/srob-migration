@@ -17,7 +17,7 @@ twitterauto = "Your week in reading includes histories of Pearl Harbor and @fant
 facebookauto = "Your Week in Readings features our first book club discussion, books about Pearl Harbor and Fantagraphics Books, as well as a reading from Rabih Alameddine and much, much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-december-7---december-13.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-december-7---december-13.md"]
 notes_about = ["authors/maged-zaher.md"]
 books = ""
 +++

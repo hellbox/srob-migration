@@ -17,7 +17,7 @@ twitterauto = "APRIL Festival starts tonight! Here are the hot tickets to buy in
 facebookauto = "APRIL Festival starts tonight! Here are the hot tickets to buy in advance."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/forget-march-—-april-starts-tonight.md"
+notes_tags = ["notes/forget-march-—-april-starts-tonight.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "A Sunday night short-stack. What looks good?"
 facebookauto = "A Sunday night short-stack. What looks good?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-may-22-2016.md"
+notes_tags = ["notes/mail-call-for-may-22-2016.md"]
 notes_about = ""
 books = ""
 +++

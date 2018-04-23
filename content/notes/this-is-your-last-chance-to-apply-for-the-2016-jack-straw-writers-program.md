@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-is-your-last-chance-to-apply-for-the-2016-jack-straw-writers-program.md"
+notes_tags = ["notes/this-is-your-last-chance-to-apply-for-the-2016-jack-straw-writers-program.md"]
 notes_about = ["authors/shin-yu-pai.md"]
 books = ""
 +++

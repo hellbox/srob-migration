@@ -17,7 +17,7 @@ twitterauto = "How do I get the people in my book club to show up having actuall
 facebookauto = "How do I get the people in my book club to show up having actually read the book?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-i-did-not-sign-up-for-a-spoiler-free-book-club.md"
+notes_tags = ["notes/the-help-desk-i-did-not-sign-up-for-a-spoiler-free-book-club.md"]
 notes_about = ""
 books = ""
 +++

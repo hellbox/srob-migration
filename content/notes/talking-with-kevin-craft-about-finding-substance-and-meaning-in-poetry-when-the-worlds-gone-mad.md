@@ -17,7 +17,7 @@ twitterauto = "Kevin Craft offers some great insights into the public and privat
 facebookauto = "Kevin Craft offers some great insights into the public and private lives of poets."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-kevin-craft-about-finding-substance-and-meaning-in-poetry-when-the-worlds-gone-mad.md"
+notes_tags = ["notes/talking-with-kevin-craft-about-finding-substance-and-meaning-in-poetry-when-the-worlds-gone-mad.md"]
 notes_about = ["authors/kevin-craft.md"]
 books = ""
 +++

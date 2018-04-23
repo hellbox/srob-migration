@@ -17,7 +17,7 @@ twitterauto = "One day left to read two excerpts from J.G. Perkins' The Announce
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-day-left-to-read-two-excerpts-from-jg-perkins-the-announcers.md"
+notes_tags = ["notes/one-day-left-to-read-two-excerpts-from-jg-perkins-the-announcers.md"]
 notes_about = ""
 books = ""
 +++

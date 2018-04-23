@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/future-alternative-past-hope-for-the-ecospec-future.md"
+notes_tags = ["notes/future-alternative-past-hope-for-the-ecospec-future.md"]
 notes_about = ""
 books = ""
 +++

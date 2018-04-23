@@ -17,7 +17,7 @@ twitterauto = "Cartoonist J.R. Williams is reporting on Facebook that Northweste
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/report-comics-memoirist-dennis-eichhorn-has-died.md"
+notes_tags = ["notes/report-comics-memoirist-dennis-eichhorn-has-died.md"]
 notes_about = ["authors/dennis-eichhorn.md", "authors/jr-williams.md"]
 books = ""
 +++

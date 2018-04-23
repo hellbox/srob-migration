@@ -17,7 +17,7 @@ twitterauto = "You're probably not going to retire on the royalties from that no
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-truth-about-book-sales.md"
+notes_tags = ["notes/the-truth-about-book-sales.md"]
 notes_about = ""
 books = ""
 +++

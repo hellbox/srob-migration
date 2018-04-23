@@ -17,7 +17,7 @@ twitterauto = "Mail Call! And hello @donnamiscolta..."
 facebookauto = "Mail Call! And hello Donna Miscolta..."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-september-29-2016.md"
+notes_tags = ["notes/mail-call-for-september-29-2016.md"]
 notes_about = ""
 books = ""
 +++

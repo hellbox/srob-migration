@@ -17,7 +17,7 @@ twitterauto = "We talked with Cathy Malkasian about the anti-social-media sentim
 facebookauto = "We talked with Cathy Malkasian about the anti-social-media sentiment in her dreamy comic Eartha."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/im-being-so-manipulative-cathy-malkasians-latest-comic-is-a-polemic-against-social-media.md"
+notes_tags = ["notes/im-being-so-manipulative-cathy-malkasians-latest-comic-is-a-polemic-against-social-media.md"]
 notes_about = ["authors/gary-groth.md", "authors/cathy-malkasian.md"]
 books = ["books/eartha.md"]
 +++

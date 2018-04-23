@@ -10,5 +10,5 @@ last_updated = "2016-01-22T09:00:00-08:00"
 preview_url = "8b19b122-0949-35b5-fd21-edc75d8565c2"
 name = "Floating Bridge Press"
 title = "Floating Bridge Press"
-books_publisher = "publishers/floating-bridge-press.md"
+books_publisher = ["publishers/floating-bridge-press.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "The deadline for the Seattle Writing Prompts story contest, judge
 facebookauto = "The deadline for the Seattle Writing Prompts story contest, judged by Matt Ruff, is this Tuesday, August 15! Send your stories now."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/only-a-few-days-left-in-the-seattle-writing-prompts-short-story-contest-judged-by-matt-ruff.md"
+notes_tags = ["notes/only-a-few-days-left-in-the-seattle-writing-prompts-short-story-contest-judged-by-matt-ruff.md"]
 notes_about = ["authors/matt-ruff.md"]
 books = ""
 +++

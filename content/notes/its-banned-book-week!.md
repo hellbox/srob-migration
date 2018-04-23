@@ -17,7 +17,7 @@ twitterauto = "For Banned Book Week, let's honor authors who push boundaries and
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/its-banned-book-week!.md"
+notes_tags = ["notes/its-banned-book-week!.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/ellen-forney.md"]
 books = ["books/absolutely-true-diary-of-a-part-time-indian.md"]
 +++

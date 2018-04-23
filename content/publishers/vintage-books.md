@@ -10,5 +10,5 @@ last_updated = "2015-09-08T19:38:00-07:00"
 preview_url = "520621ad-dce7-1e85-b7ec-97cd7aafbaf5"
 name = "Vintage Books"
 title = "Vintage Books"
-books_publisher = "publishers/vintage-books.md"
+books_publisher = ["publishers/vintage-books.md"]
 +++

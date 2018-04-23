@@ -17,7 +17,7 @@ twitterauto = "It's the amazing @judyblume, for @studiochristine's Portrait Gall
 facebookauto = "Squee! Judy Blume is Christine Marie Larsen's subject for this week's Portrait Gallery."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-judy-blume.md"
+notes_tags = ["notes/portrait-gallery-judy-blume.md"]
 notes_about = ["authors/judy-blume.md"]
 books = ""
 +++

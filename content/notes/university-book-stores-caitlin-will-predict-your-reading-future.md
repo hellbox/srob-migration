@@ -17,7 +17,7 @@ twitterauto = "An interview with @ubookstorereads bookseller @Cait_onthe_Luce."
 facebookauto = "University Book Store bookseller Caitlin can tell you what you'll be reading weeks from now."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/university-book-stores-caitlin-will-predict-your-reading-future.md"
+notes_tags = ["notes/university-book-stores-caitlin-will-predict-your-reading-future.md"]
 notes_about = ""
 books = ""
 +++

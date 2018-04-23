@@ -17,7 +17,7 @@ twitterauto = "Let's just take a moment to appreciate the fact that James Comey'
 facebookauto = "Let's just take a moment to appreciate the fact that James Comey's testimony is very well-written. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lets-acknowledge-the-fact-that-james-comey-is-a-very-good-writer.md"
+notes_tags = ["notes/lets-acknowledge-the-fact-that-james-comey-is-a-very-good-writer.md"]
 notes_about = ""
 books = ""
 +++

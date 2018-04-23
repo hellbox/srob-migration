@@ -17,7 +17,7 @@ twitterauto = "It's Memorial Day, which means it's time for summer reading. But 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-note-on-summer-reading.md"
+notes_tags = ["notes/a-note-on-summer-reading.md"]
 notes_about = ""
 books = ""
 +++

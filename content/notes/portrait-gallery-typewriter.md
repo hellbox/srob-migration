@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Typewriter #illustration by @studiochristine. Y
 facebookauto = "Portrait Gallery: Typewriter"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-typewriter.md"
+notes_tags = ["notes/portrait-gallery-typewriter.md"]
 notes_about = ""
 books = ""
 +++

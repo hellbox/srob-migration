@@ -17,7 +17,7 @@ twitterauto = "On Friday, we're presenting @Sherman_Alexie, @Misterlashley, & @h
 facebookauto = "Sherman Alexie has had a hell of a year: his mother passed away, he survived serious brain surgery to remove a large tumor, and now he's sharing the stage with younger writers who deserve your attention. Join him this Friday at Elliott Bay Book Company."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-sherman-alexie-robert-lashley-and-ej-koh.md"
+notes_tags = ["notes/literary-event-of-the-week-sherman-alexie-robert-lashley-and-ej-koh.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/robert-lashley.md", "authors/ej-koh.md"]
 books = ""
 +++

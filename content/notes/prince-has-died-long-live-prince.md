@@ -17,7 +17,7 @@ twitterauto = "Prince has died. Long live Prince."
 facebookauto = "Prince has died. Long live Prince."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/prince-has-died-long-live-prince.md"
+notes_tags = ["notes/prince-has-died-long-live-prince.md"]
 notes_about = ""
 books = ""
 +++

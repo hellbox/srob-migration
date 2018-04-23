@@ -17,7 +17,7 @@ twitterauto = "When an NPR affiliate stops running author interviews, should rea
 facebookauto = "When an NPR affiliate stops running author interviews, should readers stop donating?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-maybe-it-stands-for-not-pleasing-readers.md"
+notes_tags = ["notes/the-help-desk-maybe-it-stands-for-not-pleasing-readers.md"]
 notes_about = ""
 books = ""
 +++

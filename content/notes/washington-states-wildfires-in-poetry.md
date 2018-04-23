@@ -17,7 +17,7 @@ twitterauto = "Washington Poet Laureate @EAustenPoet is publishing poetry about 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/washington-states-wildfires-in-poetry.md"
+notes_tags = ["notes/washington-states-wildfires-in-poetry.md"]
 notes_about = ["authors/elizabeth-austen.md", "authors/kelli-russell-agodon.md", "authors/william-stafford.md"]
 books = ""
 +++

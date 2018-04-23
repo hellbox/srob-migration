@@ -17,7 +17,7 @@ twitterauto = "Sponsor Conon Parks' novel is a weird trip we think you'll love"
 facebookauto = "Sponsor Conon Parks' novel is a weird trip we think you'll love"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-bizarre-trek-though-a-bizarre-world.md"
+notes_tags = ["notes/a-bizarre-trek-though-a-bizarre-world.md"]
 notes_about = ["authors/conon-parks.md"]
 books = ["books/empty-bottle-of-smoke.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "The Portrait Gallery this week stars a dog named Honey, and next 
 facebookauto = "This week's Portrait Gallery stars a dog named Honey, and next to her a human named Eileen Myles."
 make_image_tweet = ""
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-eileen-myles.md"
+notes_tags = ["notes/portrait-gallery-eileen-myles.md"]
 notes_about = ["authors/eileen-myles.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "This week brings events that remind us why Seattle is a world-cla
 facebookauto = "This week brings events that remind us why Seattle is a world-class city for sci-fi."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-nancy-kress-and-kay-kenyon-at-university-book-store.md"
+notes_tags = ["notes/literary-event-of-the-week-nancy-kress-and-kay-kenyon-at-university-book-store.md"]
 notes_about = ["authors/nancy-kress.md"]
 books = ""
 +++

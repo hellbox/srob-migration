@@ -10,5 +10,5 @@ last_updated = "2017-02-08T21:21:00-08:00"
 preview_url = "da32ab2d-a3d7-f22e-48f6-670043cde2d4"
 name = "Nakano Books"
 title = "Nakano Books"
-books_publisher = "publishers/nakano-books.md"
+books_publisher = ["publishers/nakano-books.md"]
 +++

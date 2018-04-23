@@ -17,7 +17,7 @@ twitterauto = "We asked @giganticanovel to recommend a good book for holiday giv
 facebookauto = "We asked Richard Chiem to recommend a good book for holiday giving. Here's the book he picked for you:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/looking-for-a-holiday-gift-book-richard-chiem-recommends-the-passion-according-to-gh.md"
+notes_tags = ["notes/looking-for-a-holiday-gift-book-richard-chiem-recommends-the-passion-according-to-gh.md"]
 notes_about = ["authors/richard-chiem.md"]
 books = ["books/you-private-person.md"]
 +++

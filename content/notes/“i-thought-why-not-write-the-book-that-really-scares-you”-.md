@@ -17,7 +17,7 @@ twitterauto = "\u201cI thought, why not write the book that really scares you?\u
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/“i-thought-why-not-write-the-book-that-really-scares-you”-.md"
+notes_tags = ["notes/“i-thought-why-not-write-the-book-that-really-scares-you”-.md"]
 notes_about = ["authors/colson-whitehead.md"]
 books = ""
 +++

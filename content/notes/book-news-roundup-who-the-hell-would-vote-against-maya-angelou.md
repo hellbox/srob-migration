@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup features @HugoHouse, @shortrunseattle, 
 facebookauto = "In Book News today, we've got two awesome opportunities \u2014 one comics-related, one prose or poetry \u2014\u00a0for new local talent and the nine worst Republicans in the House."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-who-the-hell-would-vote-against-maya-angelou.md"
+notes_tags = ["notes/book-news-roundup-who-the-hell-would-vote-against-maya-angelou.md"]
 notes_about = ""
 books = ""
 +++

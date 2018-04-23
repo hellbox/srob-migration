@@ -17,7 +17,7 @@ twitterauto = "Good news: President Obama's library plans look gorgeous. Bad new
 facebookauto = "The good news: President Obama's library plans look gorgeous. The bad news: it's going to be the first paperless presidential library."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/barack-obama-announces-plans-for-his-presidential-library.md"
+notes_tags = ["notes/barack-obama-announces-plans-for-his-presidential-library.md"]
 notes_about = ""
 books = ""
 +++

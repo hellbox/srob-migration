@@ -17,7 +17,7 @@ twitterauto = "Today's Portrait Gallery is Seattle writer Nancy Rawles"
 facebookauto = "Today's Portrait Gallery is Seattle writer Nancy Rawles"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-nancy-rawles.md"
+notes_tags = ["notes/portrait-gallery-nancy-rawles.md"]
 notes_about = ""
 books = ""
 +++

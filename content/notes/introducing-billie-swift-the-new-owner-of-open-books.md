@@ -17,7 +17,7 @@ twitterauto = "Here's our exclusive interview with new Open Books owner Billie S
 facebookauto = "The new owner of Open Books, Billie Swift, sat down to chat with us about the future of everyone's favorite poetry-only bookstore."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/introducing-billie-swift-the-new-owner-of-open-books.md"
+notes_tags = ["notes/introducing-billie-swift-the-new-owner-of-open-books.md"]
 notes_about = ""
 books = ""
 +++

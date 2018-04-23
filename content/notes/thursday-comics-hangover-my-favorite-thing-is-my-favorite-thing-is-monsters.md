@@ -17,7 +17,7 @@ twitterauto = "You've never seen a comic like My Favorite Thing Is Monsters from
 facebookauto = "My Favorite Thing Is Monsters is one of those once-in-a-generation comics debuts, like Chris Ware or Robert Crumb."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-my-favorite-thing-is-my-favorite-thing-is-monsters.md"
+notes_tags = ["notes/thursday-comics-hangover-my-favorite-thing-is-my-favorite-thing-is-monsters.md"]
 notes_about = ["authors/emil-ferris.md"]
 books = ""
 +++

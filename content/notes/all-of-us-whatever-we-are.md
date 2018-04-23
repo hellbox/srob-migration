@@ -17,7 +17,7 @@ twitterauto = "Emily Bedard is our Tuesday poet. \"All of Us, Whatever We Are\" 
 facebookauto = "Emily Bedard is our Tuesday poet. \"All of Us, Whatever We Are\" is a sensual thicket, a beautiful work for a crisp Seattle day. "
 make_image_tweet = ""
 notes_byline = ["writers/emily-bedard.md"]
-notes_tags = "notes/all-of-us-whatever-we-are.md"
+notes_tags = ["notes/all-of-us-whatever-we-are.md"]
 notes_about = ""
 books = ""
 +++

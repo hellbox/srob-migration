@@ -17,7 +17,7 @@ twitterauto = "And then @studiochristine painted @mbsycamore!"
 facebookauto = "And then Christine Marie Larsen painted Mattilda Bernstein Sycamore."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery---mattilda-bernstein-sycamore.md"
+notes_tags = ["notes/portrait-gallery---mattilda-bernstein-sycamore.md"]
 notes_about = ["authors/mattilda-bernstein-sycamore.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "So @billclinton just visited @ElliottBayBooks and recommended a b
 facebookauto = "Bill Clinton just visited Elliott Bay Book Company and recommended a book by a Seattle author. Twitter promptly blew up."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/you-wont-ever-meet-bill-clinton-on-amazoncom.md"
+notes_tags = ["notes/you-wont-ever-meet-bill-clinton-on-amazoncom.md"]
 notes_about = ["authors/james-neff.md"]
 books = ["books/vendetta.md"]
 +++

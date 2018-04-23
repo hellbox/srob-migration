@@ -17,7 +17,7 @@ twitterauto = "\"Reading Rousseau at the Seattle Women\u2019s Clinic\" is the ti
 facebookauto = "\"Reading Rousseau at the Seattle Women\u2019s Clinic\" is the title of our latest from Poet in Residence Tammy Robacker"
 make_image_tweet = "False"
 notes_byline = ["writers/tammy-robacker.md"]
-notes_tags = "notes/reading-rousseau-at-the-seattle-women’s-clinic.md"
+notes_tags = ["notes/reading-rousseau-at-the-seattle-women’s-clinic.md"]
 notes_about = ""
 books = ""
 +++

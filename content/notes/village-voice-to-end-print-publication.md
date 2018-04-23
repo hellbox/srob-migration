@@ -17,7 +17,7 @@ twitterauto = "The Village Voice is ending its print publication. Things are get
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/village-voice-to-end-print-publication.md"
+notes_tags = ["notes/village-voice-to-end-print-publication.md"]
 notes_about = ""
 books = ""
 +++

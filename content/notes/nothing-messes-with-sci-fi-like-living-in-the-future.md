@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/nothing-messes-with-sci-fi-like-living-in-the-future.md"
+notes_tags = ["notes/nothing-messes-with-sci-fi-like-living-in-the-future.md"]
 notes_about = ["authors/william-gibson.md"]
 books = ""
 +++

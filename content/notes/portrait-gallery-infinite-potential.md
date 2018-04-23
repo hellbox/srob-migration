@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Infinite Potential. Write a poem, write a tenet
 facebookauto = "Portrait Gallery: Infinite Potential"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-infinite-potential.md"
+notes_tags = ["notes/portrait-gallery-infinite-potential.md"]
 notes_about = ""
 books = ""
 +++

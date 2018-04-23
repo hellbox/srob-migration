@@ -10,5 +10,5 @@ last_updated = "2016-11-10T21:13:00-08:00"
 preview_url = "482c21e6-1470-74d3-98c8-83138ed29be7"
 name = "Dma Books"
 title = "Dma Books"
-books_publisher = "publishers/dma-books.md"
+books_publisher = ["publishers/dma-books.md"]
 +++

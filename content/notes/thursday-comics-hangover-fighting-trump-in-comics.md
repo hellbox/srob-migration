@@ -17,7 +17,7 @@ twitterauto = "Cartoonists versus Trump: who wins?"
 facebookauto = "A new comic book imagines a world in which California secedes from Trump's United States, and the book feels as fresh as breaking news."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-fighting-trump-in-comics.md"
+notes_tags = ["notes/thursday-comics-hangover-fighting-trump-in-comics.md"]
 notes_about = ""
 books = ""
 +++

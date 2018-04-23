@@ -17,7 +17,7 @@ twitterauto = "We all need booksellers to be matchmakers between people and book
 facebookauto = "We all need booksellers to be matchmakers between people and books."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-the-matchmakers.md"
+notes_tags = ["notes/meet-the-matchmakers.md"]
 notes_about = ["authors/ann-leckie.md"]
 books = ["books/ancillary-justice.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "We asked school librarians what books the kids are into."
 facebookauto = "A pair of excellent school librarians tell us what the kids are reading these days."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/what-are-the-kids-reading.md"
+notes_tags = ["notes/what-are-the-kids-reading.md"]
 notes_about = ""
 books = ""
 +++

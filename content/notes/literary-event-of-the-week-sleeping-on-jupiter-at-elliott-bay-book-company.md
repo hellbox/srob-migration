@@ -17,7 +17,7 @@ twitterauto = "A celebrated Indian author is making her very first trip to the U
 facebookauto = "A celebrated Indian author is making her very first trip to the US this week."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-sleeping-on-jupiter-at-elliott-bay-book-company.md"
+notes_tags = ["notes/literary-event-of-the-week-sleeping-on-jupiter-at-elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

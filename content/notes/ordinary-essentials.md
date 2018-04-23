@@ -17,7 +17,7 @@ twitterauto = "Our first, by March Poet in Residence @trippweavepoet, is titled 
 facebookauto = "Our first, by March Poet in Residence Julene Tripp Weaver, is titled \"Ordinary Essentials\""
 make_image_tweet = "False"
 notes_byline = ["writers/julene-tripp-weaver.md"]
-notes_tags = "notes/ordinary-essentials.md"
+notes_tags = ["notes/ordinary-essentials.md"]
 notes_about = ""
 books = ""
 +++

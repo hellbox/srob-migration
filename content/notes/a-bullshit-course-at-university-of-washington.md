@@ -17,7 +17,7 @@ twitterauto = "The University of Washington is hosting a timely class on calling
 facebookauto = "The University of Washington is hosting a timely class on calling people out on their bullshit."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-bullshit-course-at-university-of-washington.md"
+notes_tags = ["notes/a-bullshit-course-at-university-of-washington.md"]
 notes_about = ""
 books = ""
 +++

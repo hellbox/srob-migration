@@ -17,7 +17,7 @@ twitterauto = "Kickstarter Fund backs @Microcosmmm today!"
 facebookauto = "The Kickstarter Fund backs Defensive Eating w/Morrissey & Comfort Eating w/Nick Cave. Yeah, that's the literal project title, and I don't think we can improve on it. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/defensive-eating-w--morrissey-&-comfort-eating-w--nick-cave---kickstarter-fund-project-24.md"
+notes_tags = ["notes/defensive-eating-w--morrissey-&-comfort-eating-w--nick-cave---kickstarter-fund-project-24.md"]
 notes_about = ""
 books = ""
 +++

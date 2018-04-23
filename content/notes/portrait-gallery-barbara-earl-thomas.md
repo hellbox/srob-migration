@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Barbara Earl Thomas painted by @studiochristine
 facebookauto = "Portrait Gallery: Seattle painter and author Barbara Earl Thomas with John Mullen and Kate Farrell Saturday February 4 at the Royal Room."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-barbara-earl-thomas.md"
+notes_tags = ["notes/portrait-gallery-barbara-earl-thomas.md"]
 notes_about = ["authors/barbara-earl-thomas.md"]
 books = ""
 +++

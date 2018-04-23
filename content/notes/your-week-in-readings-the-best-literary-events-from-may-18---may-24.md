@@ -17,7 +17,7 @@ twitterauto = "Your week in readings kicks off tonight with Christine Texeria re
 facebookauto = "This week in readings includes a brand-new bookstore, a reading from Sherman Alexie, and a discussion about fear and memoir."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-may-18---may-24.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-may-18---may-24.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/rebecca-brown.md"]
 books = ""
 +++

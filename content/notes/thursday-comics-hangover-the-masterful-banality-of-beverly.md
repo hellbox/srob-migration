@@ -17,7 +17,7 @@ twitterauto = "Finally, someone made a comic book as impossible to ignore as bad
 facebookauto = "Beverly is the creepiest, most banal comic book about lonely people living lonely lives that you'll ever read. It's like a Todd Solondz movie in cartoon form."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-masterful-banality-of-beverly.md"
+notes_tags = ["notes/thursday-comics-hangover-the-masterful-banality-of-beverly.md"]
 notes_about = ""
 books = ""
 +++

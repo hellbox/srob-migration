@@ -17,7 +17,7 @@ twitterauto = "A plaque celebrating Seattle poet Denise Levertov has been instal
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/denise-levertov-plaque-unveiled.md"
+notes_tags = ["notes/denise-levertov-plaque-unveiled.md"]
 notes_about = ["authors/denise-levertov.md"]
 books = ""
 +++

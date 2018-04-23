@@ -17,7 +17,7 @@ twitterauto = "Bruce Springsteen will be reading from his memoir @elliottbaybook
 facebookauto = "Bruce Springsteen will be reading from his memoir at Elliott Bay Book Company on October 1st. How many encores do you think he'll do?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-bruce-springsteens-book-tour-is-coming-to-seattle.md"
+notes_tags = ["notes/book-news-roundup-bruce-springsteens-book-tour-is-coming-to-seattle.md"]
 notes_about = ""
 books = ""
 +++

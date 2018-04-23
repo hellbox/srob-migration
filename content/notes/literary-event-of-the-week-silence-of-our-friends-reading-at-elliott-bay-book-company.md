@@ -17,7 +17,7 @@ twitterauto = "Our event of the week: an important comic about the fight for civ
 facebookauto = "Our event of the week is an important comic about the fight for civil rights at Elliott Bay Book Company s tonight!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-silence-of-our-friends-reading-at-elliott-bay-book-company.md"
+notes_tags = ["notes/literary-event-of-the-week-silence-of-our-friends-reading-at-elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "We're interviewing some great Seattle-area school librarians this
 facebookauto = "This month, we're interviewing a different school librarian every week. Our first librarian is Queen Anne Elementary's own Jeffrey Riley."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-jeffrey-riley-the-school-librarian-at-queen-anne-elementary.md"
+notes_tags = ["notes/meet-jeffrey-riley-the-school-librarian-at-queen-anne-elementary.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Talking with @elijsanders about \"While the City Slept.\""
 facebookauto = "Here's an interview with Eli Sanders about his new book, \"While the City Slept.\" Topics discussed include Ann Rule, journalism, the importance of time and compassion in writing, and what every Seattleite can do to fix our broken mental health care system."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-idea-was-to-learn-a-lot-more-about-the-paths-of-all-three-of-the-people-whose-lives-intersected-that-night.md"
+notes_tags = ["notes/the-idea-was-to-learn-a-lot-more-about-the-paths-of-all-three-of-the-people-whose-lives-intersected-that-night.md"]
 notes_about = ["authors/eli-sanders.md", "authors/ann-rule.md"]
 books = ["books/while-the-city-slept.md"]
 +++

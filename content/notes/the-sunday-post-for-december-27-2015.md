@@ -17,7 +17,7 @@ twitterauto = "Sunday Post time, with piece by: @ka_brooks, @hpmacd, @zunguzungu
 facebookauto = "The Sunday Post looks at female friendship, a new conservatism, and -- yes, there is no escape -- that space opera movie. "
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-december-27-2015.md"
+notes_tags = ["notes/the-sunday-post-for-december-27-2015.md"]
 notes_about = ""
 books = ""
 +++

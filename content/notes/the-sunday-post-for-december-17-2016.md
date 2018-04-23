@@ -17,7 +17,7 @@ twitterauto = "It\u2019s the Sunday Post holiday cheer edition! (If you consider
 facebookauto = "It\u2019s the Sunday Post holiday cheer edition! (If you consider climate change, economic theory, and birdsong cheerful)"
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-december-17-2016.md"
+notes_tags = ["notes/the-sunday-post-for-december-17-2016.md"]
 notes_about = ""
 books = ""
 +++

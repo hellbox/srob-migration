@@ -17,7 +17,7 @@ twitterauto = "For @seattlereviewof's 2nd birthday, @paulconstant and @hellbox d
 facebookauto = "The Seattle Review of Books is turning two! In a birthday interview, the co-founders dish on the art of reviewing, literary Seattle, and what's next for the site. "
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/happy-birthday-seattle-review-of-books!-an-interview-with-the-co-founders.md"
+notes_tags = ["notes/happy-birthday-seattle-review-of-books!-an-interview-with-the-co-founders.md"]
 notes_about = ""
 books = ""
 +++

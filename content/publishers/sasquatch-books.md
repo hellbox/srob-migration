@@ -10,5 +10,5 @@ last_updated = "2018-02-18T15:39:00-08:00"
 preview_url = "f5cea875-707d-e649-c441-16b4ee81a329"
 name = "Sasquatch Books"
 title = "Sasquatch Books"
-books_publisher = "publishers/sasquatch-books.md"
+books_publisher = ["publishers/sasquatch-books.md"]
 +++

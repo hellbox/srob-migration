@@ -17,7 +17,7 @@ twitterauto = "Book News Roundup features a fun @ClarionWest reading and a troub
 facebookauto = "Today's Book News Roundup features a fun Clarion West reading and a troubling story of librarians in peril."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-get-ready-for-a-sci-fi-reading-(with-beer).md"
+notes_tags = ["notes/book-news-roundup-get-ready-for-a-sci-fi-reading-(with-beer).md"]
 notes_about = ""
 books = ""
 +++

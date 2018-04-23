@@ -10,5 +10,5 @@ last_updated = "2015-09-27T19:47:00-07:00"
 preview_url = "53ba0a20-30c9-ef27-7a2d-0f21a7cb9f63"
 name = "Seven Stories Press"
 title = "Seven Stories Press"
-books_publisher = "publishers/seven-stories-press.md"
+books_publisher = ["publishers/seven-stories-press.md"]
 +++

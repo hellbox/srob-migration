@@ -17,7 +17,7 @@ twitterauto = "Here's a comic that every Seattleite should read."
 facebookauto = "Tom Van Deusen's \"Bezos\" is a comic that every Seattleite should read."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-jeff-bezos-destroyer-of-worlds.md"
+notes_tags = ["notes/thursday-comics-hangover-jeff-bezos-destroyer-of-worlds.md"]
 notes_about = ["authors/tom-van-deusen.md"]
 books = ""
 +++

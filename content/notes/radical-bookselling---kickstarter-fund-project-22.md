@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @moesbooks this week."
 facebookauto = "The Kickstarter Fund backs Joe's Books this week. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/radical-bookselling---kickstarter-fund-project-22.md"
+notes_tags = ["notes/radical-bookselling---kickstarter-fund-project-22.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Is alphabetization a tool of the patriarchy? @ciennam explains it
 facebookauto = "\"The perception that we need the 'alphabet' in order to tame our collections is socially structured and enforced by the patriarchy. RESIST.\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-no-one-is-free-when-others-are-alphabetized.md"
+notes_tags = ["notes/the-help-desk-no-one-is-free-when-others-are-alphabetized.md"]
 notes_about = ""
 books = ""
 +++

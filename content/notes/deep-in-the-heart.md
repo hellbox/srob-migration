@@ -17,7 +17,7 @@ twitterauto = "Our last poem from January's Poet in Residence, @elisacatrina."
 facebookauto = "Our last poem from January's Poet in Residence, Elisa Chavez."
 make_image_tweet = "False"
 notes_byline = ["writers/elisa-chavez.md"]
-notes_tags = "notes/deep-in-the-heart.md"
+notes_tags = ["notes/deep-in-the-heart.md"]
 notes_about = ""
 books = ""
 +++

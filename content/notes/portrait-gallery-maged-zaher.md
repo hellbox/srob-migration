@@ -17,7 +17,7 @@ twitterauto = "Maged Zaher is @studiochristine's subject for today's Portrait Ga
 facebookauto = "Maged Zaher is Christine Marie Larsen's subject this week! "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-maged-zaher.md"
+notes_tags = ["notes/portrait-gallery-maged-zaher.md"]
 notes_about = ["authors/maged-zaher.md"]
 books = ""
 +++

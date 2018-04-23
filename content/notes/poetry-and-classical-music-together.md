@@ -17,7 +17,7 @@ twitterauto = "Sponsor @estherhelfgott wants you to be aware of an upcoming even
 facebookauto = "Esther Altshul Helfgott is back this week as a sponsor, and wants you to save the date March 6th -- she'll be appearing to read poetry from her book Listening to Mozart, with musicians who will be performing Mozart's music. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/poetry-and-classical-music-together.md"
+notes_tags = ["notes/poetry-and-classical-music-together.md"]
 notes_about = ""
 books = ""
 +++

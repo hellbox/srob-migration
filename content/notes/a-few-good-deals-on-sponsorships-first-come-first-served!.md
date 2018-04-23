@@ -17,7 +17,7 @@ twitterauto = "Step lively, indie authors, presses, and event-havers! We got us 
 facebookauto = "Step lively, indie authors, presses, and event-havers! We got us some sponsorships to move. Marked down! Great deals to be had! Get 'em while they're hot!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-few-good-deals-on-sponsorships-first-come-first-served!.md"
+notes_tags = ["notes/a-few-good-deals-on-sponsorships-first-come-first-served!.md"]
 notes_about = ""
 books = ""
 +++

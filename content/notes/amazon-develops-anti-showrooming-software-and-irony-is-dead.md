@@ -17,7 +17,7 @@ twitterauto = "Now that Amazon owns brick-and-mortar stores, they're trying to s
 facebookauto = "Irony of ironies: now that Amazon owns brick-and-mortar stores, they're trying to stop customers from showrooming."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-develops-anti-showrooming-software-and-irony-is-dead.md"
+notes_tags = ["notes/amazon-develops-anti-showrooming-software-and-irony-is-dead.md"]
 notes_about = ""
 books = ""
 +++

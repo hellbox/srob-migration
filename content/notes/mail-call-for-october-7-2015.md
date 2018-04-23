@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = "Some amazing picks in today's bursting-at-the-seems mail call."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-october-7-2015.md"
+notes_tags = ["notes/mail-call-for-october-7-2015.md"]
 notes_about = ""
 books = ""
 +++

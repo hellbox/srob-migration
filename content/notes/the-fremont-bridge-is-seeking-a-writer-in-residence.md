@@ -17,7 +17,7 @@ twitterauto = "Would you like to be a writer in residence at the Fremont Bridge?
 facebookauto = "Would you like to be a writer in residence at the Fremont Bridge? Applications are due by February 2016!"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-fremont-bridge-is-seeking-a-writer-in-residence.md"
+notes_tags = ["notes/the-fremont-bridge-is-seeking-a-writer-in-residence.md"]
 notes_about = ""
 books = ""
 +++

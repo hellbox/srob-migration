@@ -17,7 +17,7 @@ twitterauto = "Sponsor @UWAPress is here to show @katkat_alcala's latest."
 facebookauto = "Sponsor University of Washington Press is here to show Kathleen Alcala's latest work. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/walking-and-writing-about-the-land.md"
+notes_tags = ["notes/walking-and-writing-about-the-land.md"]
 notes_about = ["authors/kathleen-alcala.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Sweden is giving a copy of We Should All Be Feminists to every 16
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/another-reason-to-love-sweden.md"
+notes_tags = ["notes/another-reason-to-love-sweden.md"]
 notes_about = ["authors/chimamanda-ngozi-adichie.md"]
 books = ["books/we-should-all-be-feminists.md"]
 +++

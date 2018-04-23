@@ -17,7 +17,7 @@ twitterauto = "Tennessee is about to name an official state book. Can you guess 
 facebookauto = "Tennessee is about to name an official state book. Can you guess what book it is?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/tennessee-to-name-an-official-state-book.md"
+notes_tags = ["notes/tennessee-to-name-an-official-state-book.md"]
 notes_about = ""
 books = ""
 +++

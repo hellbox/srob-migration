@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-2nd---8th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-2nd---8th.md"]
 notes_about = ["authors/maria-semple.md"]
 books = ""
 +++

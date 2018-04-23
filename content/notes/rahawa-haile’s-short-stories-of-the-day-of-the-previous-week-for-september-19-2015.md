@@ -17,7 +17,7 @@ twitterauto = "Our weekly round up of @rahawahaile's short story project is up, 
 facebookauto = "Our weekly roundup of Rahawa Haile's Short Story of the Day project is up. A great way to spend a weekend morning, reading through some writers you may not know. "
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-september-19-2015.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-september-19-2015.md"]
 notes_about = ""
 books = ""
 +++

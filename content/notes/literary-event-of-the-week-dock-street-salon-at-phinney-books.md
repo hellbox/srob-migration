@@ -17,7 +17,7 @@ twitterauto = "Meet two brand-new local novelists at the Dock Street Salon at Ph
 facebookauto = "Meet two brand-new local novelists at the Dock Street Salon at Phinney Books this Thursday!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-dock-street-salon-at-phinney-books.md"
+notes_tags = ["notes/literary-event-of-the-week-dock-street-salon-at-phinney-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup features good news, editorial challenge
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-sherman-alexie-to-curate-sal-series.md"
+notes_tags = ["notes/book-news-roundup-sherman-alexie-to-curate-sal-series.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/corinne-manning.md"]
 books = ""
 +++

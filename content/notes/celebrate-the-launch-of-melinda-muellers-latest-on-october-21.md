@@ -17,7 +17,7 @@ twitterauto = "Join sponsor @EntreRiosBooks October 21 for the launch of a new b
 facebookauto = "Join sponsor Entre R\u00edos Books October 21 for the launch of Mary's Dust,  a much-awaited new book by Seattle poet Melinda Mueller."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/celebrate-the-launch-of-melinda-muellers-latest-on-october-21.md"
+notes_tags = ["notes/celebrate-the-launch-of-melinda-muellers-latest-on-october-21.md"]
 notes_about = ["authors/melinda-mueller.md"]
 books = ["books/marys-dust.md"]
 +++

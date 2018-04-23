@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-end-of-national-journal.md"
+notes_tags = ["notes/the-end-of-national-journal.md"]
 notes_about = ""
 books = ""
 +++

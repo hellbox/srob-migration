@@ -17,7 +17,7 @@ twitterauto = "We talked with the stars of the drunkest, most literary improv sh
 facebookauto = "We talked with the stars of the drunkest, most literary improv show in the whole universe."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/bring-your-own-book-to-book-club-the-most-literary-improv-show-in-the-known-universe.md"
+notes_tags = ["notes/bring-your-own-book-to-book-club-the-most-literary-improv-show-in-the-known-universe.md"]
 notes_about = ""
 books = ""
 +++

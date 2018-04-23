@@ -17,7 +17,7 @@ twitterauto = "Before you use a work of fiction to advance your political agenda
 facebookauto = "Before you use a work of fiction to advance your political agenda, make sure you're reflecting the text."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/what-sean-spicer-a-christmas-carol-and-star-wars-can-teach-us-about-criticism.md"
+notes_tags = ["notes/what-sean-spicer-a-christmas-carol-and-star-wars-can-teach-us-about-criticism.md"]
 notes_about = ["authors/charles-dickens.md"]
 books = ""
 +++

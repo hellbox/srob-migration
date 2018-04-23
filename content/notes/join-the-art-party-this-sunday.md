@@ -17,7 +17,7 @@ twitterauto = "Art Party this Sunday! Art Party this Sunday!"
 facebookauto = "A new series of pop-up art parties tries to \"counteract the disappearance of art spaces, bookshops, galleries, etc. throughout the city, and their systematic replacement with sterile architecture, sterile businesses, and profiteering development.\" The first one is this Sunday."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/join-the-art-party-this-sunday.md"
+notes_tags = ["notes/join-the-art-party-this-sunday.md"]
 notes_about = ["authors/stacey-levine.md"]
 books = ""
 +++

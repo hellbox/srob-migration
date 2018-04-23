@@ -17,7 +17,7 @@ twitterauto = "Here\u2019s what the Seattle Review of Books took away from an ex
 facebookauto = "This year\u2019s Short Run was an exuberant success. Here\u2019s what the Seattle Review of Books staff took away."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/what-we-saw-(and-loved)-at-short-run.md"
+notes_tags = ["notes/what-we-saw-(and-loved)-at-short-run.md"]
 notes_about = ["authors/tommi-parrish.md", "authors/tatiana-gill.md", "authors/lacy-davis.md", "authors/jim-kettner.md", "authors/rebecca-artemisa.md", "authors/rachel-scheer.md", "authors/eli-bishop.md", "authors/laura-graves.md", "authors/marc-palm.md", "authors/ben-horak.md", "authors/tom-van-deusen.md", "authors/laura-knetzger.md", "authors/lawrence-lindell.md", "authors/daria-tessler.md", "authors/shing-yin-khor.md", "authors/jessica-hoffman.md", "authors/cole-johnson.md", "authors/jessie-nicely.md", "authors/jaya-nicely.md", "authors/amy-burek.md", "authors/michael-sabine-rear.md", "authors/julia-wertz.md", "authors/emil-ferris.md", "authors/leela-corman.md", "authors/kelly-froh.md", "authors/eroyn-franklin.md"]
 books = ""
 +++

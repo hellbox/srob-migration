@@ -17,7 +17,7 @@ twitterauto = "Sarah Galvin reads at the Gramma Poetry party on Friday night. It
 facebookauto = "Sarah Galvin reads at the Gramma Poetry party on Friday night. It's our pick for event of the week."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-sarah-galvin-at-the-gramma-poetry-party.md"
+notes_tags = ["notes/literary-event-of-the-week-sarah-galvin-at-the-gramma-poetry-party.md"]
 notes_about = ["authors/sarah-galvin.md"]
 books = ["books/ugly-time.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle's own @closetomyself profiled two of Seattle's hottest yo
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ghosts-dont-denote-terror-or-a-burden-for-me-as-a-poet.md"
+notes_tags = ["notes/ghosts-dont-denote-terror-or-a-burden-for-me-as-a-poet.md"]
 notes_about = ["authors/jane-wong.md", "authors/quenton-baker.md"]
 books = ""
 +++

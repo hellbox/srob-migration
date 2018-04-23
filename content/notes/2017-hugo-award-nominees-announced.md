@@ -17,7 +17,7 @@ twitterauto = "Good news\u2014there are fewer alt-righters on the Hugo nominee l
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/2017-hugo-award-nominees-announced.md"
+notes_tags = ["notes/2017-hugo-award-nominees-announced.md"]
 notes_about = ["authors/g-willow-wilson.md", "authors/ta-nehisi-coates.md", "authors/brian-k-vaughan.md"]
 books = ""
 +++

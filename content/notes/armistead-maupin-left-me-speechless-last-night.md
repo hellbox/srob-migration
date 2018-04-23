@@ -17,7 +17,7 @@ twitterauto = "So @ArmisteadMaupin can still tell a dirty joke with the best of 
 facebookauto = "So Armistead Maupin can still tell a dirty joke with the best of them."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/armistead-maupin-left-me-speechless-last-night.md"
+notes_tags = ["notes/armistead-maupin-left-me-speechless-last-night.md"]
 notes_about = ["authors/armistead-maupin.md"]
 books = ""
 +++

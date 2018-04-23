@@ -17,7 +17,7 @@ twitterauto = "Did you know that @RepJayapal has a book club @ThirdPlaceBooks?"
 facebookauto = "Today in Book News: Pramila Jayapal has a book club and the Georgetown Steam Plant has its cartoonist biographers."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-georgetown-steam-plant-has-its-official-cartoonist-biographers.md"
+notes_tags = ["notes/book-news-roundup-the-georgetown-steam-plant-has-its-official-cartoonist-biographers.md"]
 notes_about = ["authors/david-lasky.md", "authors/claudia-rankine.md"]
 books = ["books/citizen.md"]
 +++

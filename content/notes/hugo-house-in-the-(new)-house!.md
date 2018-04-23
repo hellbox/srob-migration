@@ -17,7 +17,7 @@ twitterauto = "Sponsor @hugohouse is in the new house, and has a big Write-O-Ram
 facebookauto = "Sponsor Hugo House is in the new house, and has a big Write-O-Rama coming up!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/hugo-house-in-the-(new)-house!.md"
+notes_tags = ["notes/hugo-house-in-the-(new)-house!.md"]
 notes_about = ""
 books = ""
 +++

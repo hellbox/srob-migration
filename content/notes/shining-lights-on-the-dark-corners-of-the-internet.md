@@ -17,7 +17,7 @@ twitterauto = "Our Reading Through It Book Club had a great talk about awful onl
 facebookauto = "Our Reading Through It Book Club had a great talk about awful online people last night."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/shining-lights-on-the-dark-corners-of-the-internet.md"
+notes_tags = ["notes/shining-lights-on-the-dark-corners-of-the-internet.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/time-needs-diverse-books.md"
+notes_tags = ["notes/time-needs-diverse-books.md"]
 notes_about = ""
 books = ""
 +++

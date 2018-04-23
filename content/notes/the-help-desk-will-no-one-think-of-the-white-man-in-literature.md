@@ -17,7 +17,7 @@ twitterauto = "A reader from Bellevue asks, \"Just because you like a white male
 facebookauto = "A reader from Bellevue asks, \"Just because you like a white male writer doesn't make you bad, right?\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-will-no-one-think-of-the-white-man-in-literature.md"
+notes_tags = ["notes/the-help-desk-will-no-one-think-of-the-white-man-in-literature.md"]
 notes_about = ""
 books = ""
 +++

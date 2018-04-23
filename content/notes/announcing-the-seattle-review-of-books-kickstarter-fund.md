@@ -17,7 +17,7 @@ twitterauto = "Announcing the Seattle Review of Books @kickstarter fund. Let's b
 facebookauto = "Announcing the Seattle Review of Books Kickstarter fund. Let's spend this year backing some cool projects, yes? "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/announcing-the-seattle-review-of-books-kickstarter-fund.md"
+notes_tags = ["notes/announcing-the-seattle-review-of-books-kickstarter-fund.md"]
 notes_about = ""
 books = ""
 +++

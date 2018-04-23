@@ -17,7 +17,7 @@ twitterauto = "One dynamo of an author is hosting two amazing readings this Sund
 facebookauto = "One dynamo of an author is hosting two amazing readings this Sunday. Can you keep up with her?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-sunday-anastasia-renee-is-having-a-big-day-(and-you-can-too!).md"
+notes_tags = ["notes/this-sunday-anastasia-renee-is-having-a-big-day-(and-you-can-too!).md"]
 notes_about = ["authors/anastacia-renee.md", "authors/claudia-castro-luna.md", "authors/lena-khalaf-tuffaha-.md", "authors/quenton-baker.md", "authors/sonora-jha.md"]
 books = ""
 +++

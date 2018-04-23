@@ -17,7 +17,7 @@ twitterauto = ".@JHickman has written a superhero comic about the joy of superhe
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-secret-war-is-over-(if-you-want-it).md"
+notes_tags = ["notes/thursday-comics-hangover-secret-war-is-over-(if-you-want-it).md"]
 notes_about = ""
 books = ""
 +++

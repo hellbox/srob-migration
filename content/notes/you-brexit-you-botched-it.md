@@ -17,7 +17,7 @@ twitterauto = "Seattle writers are starting to respond to Brexit."
 facebookauto = "Seattle writers are starting to respond to Brexit."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/you-brexit-you-botched-it.md"
+notes_tags = ["notes/you-brexit-you-botched-it.md"]
 notes_about = ["authors/g-willow-wilson.md", "authors/adam-rakunas.md", "authors/nicola-griffith.md"]
 books = ""
 +++

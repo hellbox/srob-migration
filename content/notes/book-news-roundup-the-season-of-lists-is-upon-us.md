@@ -17,7 +17,7 @@ twitterauto = "Do you smell that in the air? It's book list season."
 facebookauto = "Do you smell that in the air? It's book list season."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-season-of-lists-is-upon-us.md"
+notes_tags = ["notes/book-news-roundup-the-season-of-lists-is-upon-us.md"]
 notes_about = ""
 books = ""
 +++

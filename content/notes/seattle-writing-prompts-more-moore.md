@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts drops by the Moore Theater."
 facebookauto = "Seattle Writing Prompts drops by the Moore Theater."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-more-moore.md"
+notes_tags = ["notes/seattle-writing-prompts-more-moore.md"]
 notes_about = ""
 books = ""
 +++

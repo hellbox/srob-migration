@@ -17,7 +17,7 @@ twitterauto = "Our Poet in Residence for September, @estherhelfgott, shows us fa
 facebookauto = "Our first poem from September Poet in Residence, Esther Altshul Helfgott, is titled \"Uncle Ben: What the Number Said\""
 make_image_tweet = "False"
 notes_byline = ["writers/esther-altshul-helfgott.md"]
-notes_tags = "notes/uncle-ben-what-the-number-said-.md"
+notes_tags = ["notes/uncle-ben-what-the-number-said-.md"]
 notes_about = ""
 books = ""
 +++

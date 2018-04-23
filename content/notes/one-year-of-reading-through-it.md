@@ -17,7 +17,7 @@ twitterauto = "Last night, we celebrated one year of Reading Through It. Here's 
 facebookauto = "Last night, we celebrated one year of Reading Through It. Here's what we've learned:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/one-year-of-reading-through-it.md"
+notes_tags = ["notes/one-year-of-reading-through-it.md"]
 notes_about = ""
 books = ""
 +++

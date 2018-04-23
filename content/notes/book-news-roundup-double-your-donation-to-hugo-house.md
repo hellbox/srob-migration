@@ -17,7 +17,7 @@ twitterauto = "Hugo House is doubling your money. Also: which author would survi
 facebookauto = "Hugo House is doubling your money. Also: which author would survive the attack of the duck-sized horses?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-double-your-donation-to-hugo-house.md"
+notes_tags = ["notes/book-news-roundup-double-your-donation-to-hugo-house.md"]
 notes_about = ["authors/colson-whitehead.md"]
 books = ""
 +++

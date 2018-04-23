@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes climate change, sci-fi books about
 facebookauto = "Your week in readings includes climate change, sci-fi books about Titanic (the movie) and fortune-telling."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-june-1st---june-7th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-june-1st---june-7th.md"]
 notes_about = ["authors/mattilda-bernstein-sycamore.md"]
 books = ""
 +++

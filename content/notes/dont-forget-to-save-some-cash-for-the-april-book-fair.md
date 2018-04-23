@@ -17,7 +17,7 @@ twitterauto = "Far be it from us to tell you how to budget, but the @APRILfestSE
 facebookauto = "Far be it from us to tell you how to budget, but the APRIL Book Festival book fair is this weekend, so you might want to save some cash for the big day."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/dont-forget-to-save-some-cash-for-the-april-book-fair.md"
+notes_tags = ["notes/dont-forget-to-save-some-cash-for-the-april-book-fair.md"]
 notes_about = ""
 books = ""
 +++

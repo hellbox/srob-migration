@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup shares wonderful celebrations of librar
 facebookauto = "Today's book news roundup shares wonderful celebrations of libraries and some Amazon news."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-is-amazon-getting-into-the-convenience-store-business.md"
+notes_tags = ["notes/book-news-roundup-is-amazon-getting-into-the-convenience-store-business.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/was-pablo-neruda-murdered.md"
+notes_tags = ["notes/was-pablo-neruda-murdered.md"]
 notes_about = ["authors/pablo-neruda.md"]
 books = ""
 +++

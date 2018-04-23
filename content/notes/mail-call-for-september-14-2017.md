@@ -17,7 +17,7 @@ twitterauto = "Mail Call! Two fat stacks of some amazing looking books"
 facebookauto = "Mail Call! Two fat stacks of some amazing looking books"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-september-14-2017.md"
+notes_tags = ["notes/mail-call-for-september-14-2017.md"]
 notes_about = ""
 books = ""
 +++

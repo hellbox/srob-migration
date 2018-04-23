@@ -17,7 +17,7 @@ twitterauto = "God, the testosterone in this story is just overpowering."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thats-a-dick-move-hunter.md"
+notes_tags = ["notes/thats-a-dick-move-hunter.md"]
 notes_about = ["authors/ernest-hemingway.md"]
 books = ""
 +++

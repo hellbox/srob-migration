@@ -17,7 +17,7 @@ twitterauto = "It's time to say goodbye (and hello) to the Hugo House."
 facebookauto = "The event of the week is Epilogue/Prologue, the big goodbye party for Hugo House's old space. Go and write on the walls, while the walls are still there."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-epilogue--prologue-at-hugo-house.md"
+notes_tags = ["notes/event-of-the-week-epilogue--prologue-at-hugo-house.md"]
 notes_about = ["authors/maria-semple.md", "authors/stacey-levine.md"]
 books = ["books/whered-you-go-bernadette.md"]
 +++

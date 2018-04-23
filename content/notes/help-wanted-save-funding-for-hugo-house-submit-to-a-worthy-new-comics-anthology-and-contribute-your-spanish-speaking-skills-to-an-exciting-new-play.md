@@ -17,7 +17,7 @@ twitterauto = "Help wanted: Contribute to a new comics anthology, make some quic
 facebookauto = "Looking for ways to contribute to the local literary scene? Place a quick call for Hugo House, contribute to a new comics anthology about sexual assault and consent, and contribute your Spanish-speaking skills to an exciting new project from a playwright."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/help-wanted-save-funding-for-hugo-house-submit-to-a-worthy-new-comics-anthology-and-contribute-your-spanish-speaking-skills-to-an-exciting-new-play.md"
+notes_tags = ["notes/help-wanted-save-funding-for-hugo-house-submit-to-a-worthy-new-comics-anthology-and-contribute-your-spanish-speaking-skills-to-an-exciting-new-play.md"]
 notes_about = ["authors/shin-yu-pai.md"]
 books = ""
 +++

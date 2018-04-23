@@ -17,7 +17,7 @@ twitterauto = "Happy pub day, Ta-Nehisi Coates!"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ta-nehisi-coatess-new-book-is-on-the-stands-in-bookstores-now.md"
+notes_tags = ["notes/ta-nehisi-coatess-new-book-is-on-the-stands-in-bookstores-now.md"]
 notes_about = ["authors/ta-nehisi-coates.md"]
 books = ["books/between-the-world-and-me.md"]
 +++

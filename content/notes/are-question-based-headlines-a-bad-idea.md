@@ -17,7 +17,7 @@ twitterauto = "Funnily enough, a new study says people don't like clickbaity hea
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/are-question-based-headlines-a-bad-idea.md"
+notes_tags = ["notes/are-question-based-headlines-a-bad-idea.md"]
 notes_about = ""
 books = ""
 +++

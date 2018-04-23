@@ -17,7 +17,7 @@ twitterauto = "If @ciennam could force all of Seattle to read one book, what wou
 facebookauto = "A reader tells Cienna Madrid, \"If you ever wanted to start your own misanthropic version of Oprah\u2019s Book Club, I\u2019d be a charter member.\" We couldn't agree more."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-if-cienna-madrid-could-force-all-seattle-to-read-one-book.md"
+notes_tags = ["notes/the-help-desk-if-cienna-madrid-could-force-all-seattle-to-read-one-book.md"]
 notes_about = ["authors/octavia-butler.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Today we debut a new column! Criminal Fiction, by @daneetsteffens
 facebookauto = "Today we debut a new column! Criminal Fiction, by Daneet Steffens, updates on mystery, suspense, and crime fiction"
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-our-inaugural-mystery-suspense-and-thriller-column.md"
+notes_tags = ["notes/criminal-fiction-our-inaugural-mystery-suspense-and-thriller-column.md"]
 notes_about = ["authors/christopher-brookmyre.md", "authors/glen-erik-hamilton.md", "authors/mark-billingham.md", "authors/doug-johnstone.md", "authors/stuart-neville.md", "authors/bill-loehfelm.md", "authors/ian-rankin.md", "authors/denise-mina.md", "authors/eva-dolan.md", "authors/sarah-hilary.md", "authors/peter-james.md", "authors/dreda-say-mitchell.md", "authors/harlan-coben.md", "authors/sophie-hannah.md", "authors/amy-stewart.md", "authors/thomas-mullen.md", "authors/chris-holm.md"]
 books = ""
 +++

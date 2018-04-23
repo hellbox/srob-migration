@@ -17,7 +17,7 @@ twitterauto = "And then @kelliagodon interviewed @maggiesmithpoet and the editor
 facebookauto = "And then Kelli Russell Agodon interviewed Maggie Smith and the editors of Waxwing Magazine for us. What\u2019s it like to go viral?"
 make_image_tweet = "False"
 notes_byline = ["writers/kelli-russell-agodon.md"]
-notes_tags = "notes/interviewing-maggie-smith-and-the-editors-of-waxwing-magazine-about-the-poem-good-bones-going-viral.md"
+notes_tags = ["notes/interviewing-maggie-smith-and-the-editors-of-waxwing-magazine-about-the-poem-good-bones-going-viral.md"]
 notes_about = ["authors/maggie-smith.md"]
 books = ""
 +++

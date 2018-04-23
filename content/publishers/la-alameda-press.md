@@ -10,5 +10,5 @@ last_updated = "2015-08-25T23:43:00-07:00"
 preview_url = "403259f5-b6ef-0d71-dee2-94ce81d53076"
 name = "LA Alameda Press"
 title = "LA Alameda Press"
-books_publisher = "publishers/la-alameda-press.md"
+books_publisher = ["publishers/la-alameda-press.md"]
 +++

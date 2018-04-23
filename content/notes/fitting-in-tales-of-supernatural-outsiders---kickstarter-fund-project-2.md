@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund this week put money into @madscijournal's la
 facebookauto = "The Kickstarter Fund this week puts money into a local speculative fiction project from the Mad Scientist Journal. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/fitting-in-tales-of-supernatural-outsiders---kickstarter-fund-project-2.md"
+notes_tags = ["notes/fitting-in-tales-of-supernatural-outsiders---kickstarter-fund-project-2.md"]
 notes_about = ""
 books = ""
 +++

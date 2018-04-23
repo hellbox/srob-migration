@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings features a literary mixer and @haszombiesin
 facebookauto = "Your Week in Readings features a literary mixer and a special poetic presentation about immigration and friendship."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-6th---september-12th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-6th---september-12th.md"]
 notes_about = ""
 books = ""
 +++

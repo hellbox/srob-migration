@@ -17,7 +17,7 @@ twitterauto = "Sponsor @UWAPress has come to show Ernestine Hayes' brilliant mem
 facebookauto = "Sponsor University of Washington Press has come to show Ernestine Hayes' brilliant memoir."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/stories-from-north-of-our-north.md"
+notes_tags = ["notes/stories-from-north-of-our-north.md"]
 notes_about = ""
 books = ""
 +++

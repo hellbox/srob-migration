@@ -17,7 +17,7 @@ twitterauto = "When @kickstarter reformed as a public benefit corp, it sent a st
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/it-matters-that-kickstarter-has-reformed-as-a-public-benefit-corporation.md"
+notes_tags = ["notes/it-matters-that-kickstarter-has-reformed-as-a-public-benefit-corporation.md"]
 notes_about = ["authors/maris-kreizman.md"]
 books = ""
 +++

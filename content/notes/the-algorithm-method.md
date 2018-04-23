@@ -17,7 +17,7 @@ twitterauto = "We went to Amazon Books over the weekend. Here's our full report.
 facebookauto = "Paul Constant went to Amazon Books. How was it? For starters, he calls it \"nothing less than the world\u2019s greatest airport bookstore.\""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-algorithm-method.md"
+notes_tags = ["notes/the-algorithm-method.md"]
 notes_about = ""
 books = ""
 +++

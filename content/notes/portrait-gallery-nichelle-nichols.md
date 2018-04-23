@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-nichelle-nichols.md"
+notes_tags = ["notes/portrait-gallery-nichelle-nichols.md"]
 notes_about = ""
 books = ""
 +++

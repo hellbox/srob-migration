@@ -10,5 +10,5 @@ last_updated = "2018-02-28T21:49:00-08:00"
 preview_url = "1b1f29d7-6125-d644-b058-6bd97fa4be19"
 name = "Greenleaf Book Group Press"
 title = "Greenleaf Book Group Press"
-books_publisher = "publishers/greenleaf-book-group-press.md"
+books_publisher = ["publishers/greenleaf-book-group-press.md"]
 +++

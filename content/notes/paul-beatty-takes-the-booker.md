@@ -17,7 +17,7 @@ twitterauto = "Paul Beatty has won the Booker!"
 facebookauto = "Paul Beatty has won the Booker!"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/paul-beatty-takes-the-booker.md"
+notes_tags = ["notes/paul-beatty-takes-the-booker.md"]
 notes_about = ["authors/paul-beatty.md"]
 books = ["books/the-sellout.md"]
 +++

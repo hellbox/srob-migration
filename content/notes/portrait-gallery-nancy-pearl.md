@@ -17,7 +17,7 @@ twitterauto = "Look at @studiochristine's great portrait of @Nancy_Pearl!"
 facebookauto = "It's Portrait Gallery time, and this time, Christine Marie Larsen keeps it local, with a picture of the wonderful Nancy Pearl. "
 make_image_tweet = ""
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-nancy-pearl.md"
+notes_tags = ["notes/portrait-gallery-nancy-pearl.md"]
 notes_about = ""
 books = ""
 +++

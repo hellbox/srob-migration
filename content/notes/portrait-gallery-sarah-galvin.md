@@ -17,7 +17,7 @@ twitterauto = "We're all about Sarah Galvin this week, and in this week's Portra
 facebookauto = "Christine Marie Larsen paints Sarah Galvin for this week's Portrait Gallery."
 make_image_tweet = "False"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-sarah-galvin.md"
+notes_tags = ["notes/portrait-gallery-sarah-galvin.md"]
 notes_about = ["authors/sarah-galvin.md"]
 books = ""
 +++

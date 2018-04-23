@@ -17,7 +17,7 @@ twitterauto = "Here are @rahawahaile's short story picks from the previous week.
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-august-15-2015.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-august-15-2015.md"]
 notes_about = ""
 books = ""
 +++

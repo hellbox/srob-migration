@@ -17,7 +17,7 @@ twitterauto = "Sunday Post: @GievesLondon's Davide Taub, the misunderstood #brok
 facebookauto = "The Sunday Post on an inimitable suit, the misunderstood broken windows theory, balancing an identity that makes your family unhappy, and the issue of preventable deaths in hospitals."
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/the-sunday-post-for-july-17-2016.md"
+notes_tags = ["notes/the-sunday-post-for-july-17-2016.md"]
 notes_about = ""
 books = ""
 +++

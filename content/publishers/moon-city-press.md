@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Moon City Press"
 title = "Moon City Press"
-books_publisher = "publishers/moon-city-press.md"
+books_publisher = ["publishers/moon-city-press.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"The Way of the Writer\" (@ScribnerBooks) author Charles Johnson
 facebookauto = "Portrait Gallery: Charles Johnson"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-charles-johnson.md"
+notes_tags = ["notes/portrait-gallery-charles-johnson.md"]
 notes_about = ["authors/charles-johnson.md"]
 books = ""
 +++

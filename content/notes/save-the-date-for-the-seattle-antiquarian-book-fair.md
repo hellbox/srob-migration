@@ -17,7 +17,7 @@ twitterauto = "Save October 14th and 15th for this week's sponsor, the Seattle A
 facebookauto = "Save October 14th and 15th for this week's sponsor, the Seattle Antiquarian Book Fair. Don't miss this iconic book event!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/save-the-date-for-the-seattle-antiquarian-book-fair.md"
+notes_tags = ["notes/save-the-date-for-the-seattle-antiquarian-book-fair.md"]
 notes_about = ""
 books = ""
 +++

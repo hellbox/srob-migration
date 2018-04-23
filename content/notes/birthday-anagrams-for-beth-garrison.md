@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem, \"Birthday Anagrams for Beth Garrison\", is fro
 facebookauto = "Our Tuesday Poem, \"Birthday Anagrams for Beth Garrison\", is from Paul E Nelson."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-e-nelson.md"]
-notes_tags = "notes/birthday-anagrams-for-beth-garrison.md"
+notes_tags = ["notes/birthday-anagrams-for-beth-garrison.md"]
 notes_about = ""
 books = ""
 +++

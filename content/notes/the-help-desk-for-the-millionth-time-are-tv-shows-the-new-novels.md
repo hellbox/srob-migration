@@ -17,7 +17,7 @@ twitterauto = "Are novels the new TV shows? (Sigh.) No."
 facebookauto = "Are novels the new TV shows? (Sigh.) No."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-for-the-millionth-time-are-tv-shows-the-new-novels.md"
+notes_tags = ["notes/the-help-desk-for-the-millionth-time-are-tv-shows-the-new-novels.md"]
 notes_about = ""
 books = ""
 +++

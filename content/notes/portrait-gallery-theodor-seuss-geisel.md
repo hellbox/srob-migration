@@ -17,7 +17,7 @@ twitterauto = "Dr. Seuss #illustration by @studiochristine for the #Portrait Gal
 facebookauto = "Portrait Gallery: Happy Birthday Theodor Seuss Geisel"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-theodor-seuss-geisel.md"
+notes_tags = ["notes/portrait-gallery-theodor-seuss-geisel.md"]
 notes_about = ["authors/theodor-seuss-geisel.md"]
 books = ""
 +++

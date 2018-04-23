@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup is brought to you by the concept of com
 facebookauto = "Today's book news roundup is brought to you by the concept of community."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-community-is-something-you-make.md"
+notes_tags = ["notes/book-news-roundup-community-is-something-you-make.md"]
 notes_about = ["authors/robert-lashley.md", "authors/maria-semple.md"]
 books = ["books/today-will-be-different.md"]
 +++

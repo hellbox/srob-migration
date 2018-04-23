@@ -10,5 +10,5 @@ last_updated = "2015-08-20T23:02:00-07:00"
 preview_url = "b52384f7-ddf7-0eb6-5345-a9b2ad6407a7"
 name = "Macmillan"
 title = "Macmillan"
-books_publisher = "publishers/macmillan.md"
+books_publisher = ["publishers/macmillan.md"]
 +++

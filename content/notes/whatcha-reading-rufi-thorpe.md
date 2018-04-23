@@ -17,7 +17,7 @@ twitterauto = "Now we know what @rufithorpe is reading, and you can too by click
 facebookauto = "Whatcha Reading, Rufi Thorpe? Carl Sagan, Jane Smiley, and Jesmyn Ward"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-rufi-thorpe.md"
+notes_tags = ["notes/whatcha-reading-rufi-thorpe.md"]
 notes_about = ["authors/rufi-thorpe.md", "authors/jane-smiley.md", "authors/carl-sagan.md", "authors/jesmyn-ward.md"]
 books = ""
 +++

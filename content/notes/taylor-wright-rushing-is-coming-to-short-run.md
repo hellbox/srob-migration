@@ -17,7 +17,7 @@ twitterauto = "For Taylor Wright Rushing, @shortrunseattle is a homecoming."
 facebookauto = "For Taylor Wright Rushing, Short Run Seattle is a homecoming."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/taylor-wright-rushing-is-coming-to-short-run.md"
+notes_tags = ["notes/taylor-wright-rushing-is-coming-to-short-run.md"]
 notes_about = ""
 books = ""
 +++

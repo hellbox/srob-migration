@@ -17,7 +17,7 @@ twitterauto = "Criminal Fiction: @daneetsteffens queries @dennis_lehane, and loo
 facebookauto = "Criminal Fiction: Daneet Steffens queries Dennis LeHane, and looks at new work from Elly Griffiths, Steve Hamilton and more."
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-may-cowers.md"
+notes_tags = ["notes/criminal-fiction-may-cowers.md"]
 notes_about = ["authors/cara-black.md", "authors/jill-dawson.md", "authors/paula-hawkins.md", "authors/elly-griffiths.md", "authors/neil-smith.md", "authors/steve-hamilton.md", "authors/dennis-lehane.md"]
 books = ""
 +++

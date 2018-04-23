@@ -17,7 +17,7 @@ twitterauto = "It's Thanksgiving in Seattle. We've got some tough years ahead. W
 facebookauto = "It's Thanksgiving in Seattle. We've got some tough years ahead. What do we have to be thankful for?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/its-thanksgiving-in-seattle.md"
+notes_tags = ["notes/its-thanksgiving-in-seattle.md"]
 notes_about = ""
 books = ""
 +++

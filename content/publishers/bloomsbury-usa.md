@@ -10,5 +10,5 @@ last_updated = "2017-11-01T22:22:00-07:00"
 preview_url = "2eb185ae-b214-d868-688b-80fc6c3fdb61"
 name = "Bloomsbury USA"
 title = "Bloomsbury USA"
-books_publisher = "publishers/bloomsbury-usa.md"
+books_publisher = ["publishers/bloomsbury-usa.md"]
 +++

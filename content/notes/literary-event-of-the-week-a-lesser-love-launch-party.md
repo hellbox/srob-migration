@@ -17,7 +17,7 @@ twitterauto = "Don't miss EJ Koh's reading @HugoHouse this week."
 facebookauto = "Don't miss EJ Koh's reading @HugoHouse this week."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-a-lesser-love-launch-party.md"
+notes_tags = ["notes/literary-event-of-the-week-a-lesser-love-launch-party.md"]
 notes_about = ["authors/ej-koh.md"]
 books = ""
 +++

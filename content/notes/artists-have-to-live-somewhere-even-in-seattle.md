@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/artists-have-to-live-somewhere-even-in-seattle.md"
+notes_tags = ["notes/artists-have-to-live-somewhere-even-in-seattle.md"]
 notes_about = ["authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Go check out these comics experiments from @H_Chamberlain (starri
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-pair-of-comics-experiments.md"
+notes_tags = ["notes/a-pair-of-comics-experiments.md"]
 notes_about = ["authors/henry-chamberlain.md"]
 books = ""
 +++

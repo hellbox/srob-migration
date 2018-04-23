@@ -17,7 +17,7 @@ twitterauto = "Alec Baldwin's whining about errors in his memoir. Never trust wr
 facebookauto = "Alec Baldwin is complaining about errors in his memoir. Never trust a writer who throws his editor under the bus."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/alec-baldwin-reads-tonight-at-the-paramount-lets-remember-that-alec-baldwin-is-terrible.md"
+notes_tags = ["notes/alec-baldwin-reads-tonight-at-the-paramount-lets-remember-that-alec-baldwin-is-terrible.md"]
 notes_about = ""
 books = ""
 +++

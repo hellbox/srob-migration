@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings starts with a book about owls and includes 
 facebookauto = "Your Week in Readings starts with a book about owls and includes free comics and a cemetery tour."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-october-26th---november-1st.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-october-26th---november-1st.md"]
 notes_about = ["authors/maged-zaher.md"]
 books = ""
 +++

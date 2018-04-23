@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @recompilermag's Responsible Communica
 facebookauto = "The Kickstarter Fund backs Recompiler Mag's Responsible Communication Style Guide"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-responsible-communication-style-guide---kickstarter-fund-project-38.md"
+notes_tags = ["notes/the-responsible-communication-style-guide---kickstarter-fund-project-38.md"]
 notes_about = ""
 books = ""
 +++

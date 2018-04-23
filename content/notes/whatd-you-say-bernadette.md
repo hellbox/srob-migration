@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/whatd-you-say-bernadette.md"
+notes_tags = ["notes/whatd-you-say-bernadette.md"]
 notes_about = ["authors/maria-semple.md"]
 books = ["books/whered-you-go-bernadette.md"]
 +++

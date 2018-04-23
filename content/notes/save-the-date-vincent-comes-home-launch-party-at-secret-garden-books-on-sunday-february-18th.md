@@ -17,7 +17,7 @@ twitterauto = "One of our contributors is debuting a kid's book at Secret Garden
 facebookauto = "One of our contributors is debuting a kid's book at Secret Garden and you're invited!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/save-the-date-vincent-comes-home-launch-party-at-secret-garden-books-on-sunday-february-18th.md"
+notes_tags = ["notes/save-the-date-vincent-comes-home-launch-party-at-secret-garden-books-on-sunday-february-18th.md"]
 notes_about = ""
 books = ""
 +++

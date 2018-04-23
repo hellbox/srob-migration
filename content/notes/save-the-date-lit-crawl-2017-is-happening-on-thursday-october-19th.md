@@ -17,7 +17,7 @@ twitterauto = "Save the date: This year's Lit Crawl will happen on Thursday, Oct
 facebookauto = "Save the date: This year's Lit Crawl will happen on Thursday, October 19th!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/save-the-date-lit-crawl-2017-is-happening-on-thursday-october-19th.md"
+notes_tags = ["notes/save-the-date-lit-crawl-2017-is-happening-on-thursday-october-19th.md"]
 notes_about = ""
 books = ""
 +++

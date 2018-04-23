@@ -17,7 +17,7 @@ twitterauto = "In this week's Help Desk, @ciennam explains how pacifist book-lov
 facebookauto = "Our advice columnist tackles a question that's on a lot of book-lovers' minds this week: what is the most effective way to protest Amazon's new brick-and-mortar bookstore?"
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-how-should-a-pacifist-book-lover-protest-amazons-bookstore.md"
+notes_tags = ["notes/the-help-desk-how-should-a-pacifist-book-lover-protest-amazons-bookstore.md"]
 notes_about = ""
 books = ""
 +++

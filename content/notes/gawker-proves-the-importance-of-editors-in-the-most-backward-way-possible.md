@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/gawker-proves-the-importance-of-editors-in-the-most-backward-way-possible.md"
+notes_tags = ["notes/gawker-proves-the-importance-of-editors-in-the-most-backward-way-possible.md"]
 notes_about = ""
 books = ""
 +++

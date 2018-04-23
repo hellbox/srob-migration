@@ -17,7 +17,7 @@ twitterauto = "Amazon's marketing team covered a New York City subway car in Naz
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-covers-new-york-city-subway-cars-in-nazi-insignias.md"
+notes_tags = ["notes/amazon-covers-new-york-city-subway-cars-in-nazi-insignias.md"]
 notes_about = ["authors/philip-k-dick.md"]
 books = ["books/the-man-in-the-high-castle.md"]
 +++

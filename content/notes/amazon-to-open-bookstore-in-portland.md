@@ -17,7 +17,7 @@ twitterauto = "The third Amazon Books brick-and-mortar store is coming to Portla
 facebookauto = "Brace yourselves, Portland: an Amazon bookstore is coming."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-to-open-bookstore-in-portland.md"
+notes_tags = ["notes/amazon-to-open-bookstore-in-portland.md"]
 notes_about = ""
 books = ""
 +++

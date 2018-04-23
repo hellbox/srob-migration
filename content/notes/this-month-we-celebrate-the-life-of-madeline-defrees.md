@@ -17,7 +17,7 @@ twitterauto = "Join us as we celebrate the poetry of Madeline DeFrees, all Decem
 facebookauto = "Join us as we celebrate the poetry of Madeline DeFrees all December long."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-month-we-celebrate-the-life-of-madeline-defrees.md"
+notes_tags = ["notes/this-month-we-celebrate-the-life-of-madeline-defrees.md"]
 notes_about = ["authors/madeline-defrees.md"]
 books = ""
 +++

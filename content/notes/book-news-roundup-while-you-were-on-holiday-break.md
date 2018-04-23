@@ -17,7 +17,7 @@ twitterauto = "Here's all the book news you might have missed over the holiday b
 facebookauto = "Here's all the book news you might have missed over the holiday break:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-while-you-were-on-holiday-break.md"
+notes_tags = ["notes/book-news-roundup-while-you-were-on-holiday-break.md"]
 notes_about = ""
 books = ""
 +++

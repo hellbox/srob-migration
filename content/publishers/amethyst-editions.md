@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Amethyst Editions"
 title = "Amethyst Editions"
-books_publisher = "publishers/amethyst-editions.md"
+books_publisher = ["publishers/amethyst-editions.md"]
 +++

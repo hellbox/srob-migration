@@ -17,7 +17,7 @@ twitterauto = "E-book sales declined over the past 5 months. 302 new bookstores 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ebook-sales-slip-independent-bookstores-increase.md"
+notes_tags = ["notes/ebook-sales-slip-independent-bookstores-increase.md"]
 notes_about = ""
 books = ""
 +++

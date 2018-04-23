@@ -17,7 +17,7 @@ twitterauto = "Is it okay to tell someone that you like her book on public trans
 facebookauto = "Say you see a stranger reading a book you like on the train. Is it okay to approach her and strike up a conversation?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-literature-and-longing-on-link-light-rail.md"
+notes_tags = ["notes/the-help-desk-literature-and-longing-on-link-light-rail.md"]
 notes_about = ""
 books = ""
 +++

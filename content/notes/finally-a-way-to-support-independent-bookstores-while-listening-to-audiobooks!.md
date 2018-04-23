@@ -17,7 +17,7 @@ twitterauto = "Finally\u00a0\u2014\u00a0an way to listen to audio books and supp
 facebookauto = "Finally\u00a0\u2014\u00a0an way to listen to audio books and support independent bookstores."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/finally-a-way-to-support-independent-bookstores-while-listening-to-audiobooks!.md"
+notes_tags = ["notes/finally-a-way-to-support-independent-bookstores-while-listening-to-audiobooks!.md"]
 notes_about = ["authors/neal-stephenson.md"]
 books = ""
 +++

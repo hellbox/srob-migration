@@ -17,7 +17,7 @@ twitterauto = "We braved rain and traffic to cover last night's Lit Crawl. It wa
 facebookauto = "We braved rain and traffic to cover last night's Lit Crawl. It was more than worth it."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/last-nights-lit-crawl-was-worth-braving-the-traffic-apocalypse.md"
+notes_tags = ["notes/last-nights-lit-crawl-was-worth-braving-the-traffic-apocalypse.md"]
 notes_about = ["authors/cat-rambo.md", "authors/eva-l-elasigue.md", "authors/caren-gussoff-sumption.md", "authors/nick-offerman.md", "authors/jl-cheatham-ii.md", "authors/kristin-alana.md", "authors/natasha-rivers.md", "authors/kamari-bright.md", "authors/molly-thornton.md", "authors/ross-mcmeekin.md", "authors/anca-l-szil\u00e1gyi.md", "authors/laura-da.md", "authors/quenton-baker.md", "authors/rachel-edelman.md", "authors/gabrielle-bates.md", "authors/urban-waite.md", "authors/putsata-reang.md", "authors/nic-low.md", "authors/willie-fitzgerald.md", "authors/kait-heacock.md", "authors/margaret-adams.md", "authors/corinne-manning.md", "authors/meredith-arena.md", "authors/sarah-jones.md", "authors/sarah-galvin.md", "authors/robert-lashley.md", "authors/timmy-straw.md", "authors/claudia-castro-luna.md", "authors/lynn-miller.md", "authors/brian-roth.md", "authors/shin-yu-pai.md", "authors/brian-mcguigan.md", "authors/sasha-lapointe.md", "authors/kristen-millares-young.md"]
 books = ""
 +++

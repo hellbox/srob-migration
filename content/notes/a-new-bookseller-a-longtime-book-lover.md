@@ -17,7 +17,7 @@ twitterauto = "A new bookseller at @thirdplacebooks Seward Park is a lifelong bo
 facebookauto = "If you're looking for someone who's read deeply, widely, and smartly, there's a bookseller at Third Place Books Seward Park who you really should meet."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-new-bookseller-a-longtime-book-lover.md"
+notes_tags = ["notes/a-new-bookseller-a-longtime-book-lover.md"]
 notes_about = ""
 books = ""
 +++

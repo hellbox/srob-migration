@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with a splash: @mollycrabapple reads
 facebookauto = "This week brings an appearance from Molly Crabapple and a book launch party with Sarah Galvin. Plus, a chocolate tasting, the Copper Canyon Press holiday party, and a visit from Santa Claus."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-december-14th---20th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-december-14th---20th.md"]
 notes_about = ["authors/sarah-galvin.md"]
 books = ""
 +++

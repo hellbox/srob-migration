@@ -17,7 +17,7 @@ twitterauto = "Is National Novel Writing Month an insult to novelists? @ciennam 
 facebookauto = "Steve is annoyed by all the NaNoWriMo novelists who take over his coffee shop. Does Cienna Madrid have any advice for him?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-will-no-one-rid-me-of-these-troublesome-novelists.md"
+notes_tags = ["notes/the-help-desk-will-no-one-rid-me-of-these-troublesome-novelists.md"]
 notes_about = ""
 books = ""
 +++

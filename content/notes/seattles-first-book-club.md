@@ -17,7 +17,7 @@ twitterauto = "Did @KnuteBerger dig up a piece of Seattle library history? "
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattles-first-book-club.md"
+notes_tags = ["notes/seattles-first-book-club.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem by @jrkjrkjrkjrkjrk starts like this:"
 facebookauto = "Our Tuesday Poet is Jessie Knoles, and her poem is called Star Lab."
 make_image_tweet = "True"
 notes_byline = ["writers/jessie-knoles.md"]
-notes_tags = "notes/star-lab.md"
+notes_tags = ["notes/star-lab.md"]
 notes_about = ""
 books = ""
 +++

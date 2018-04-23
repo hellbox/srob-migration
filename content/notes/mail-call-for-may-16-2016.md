@@ -17,7 +17,7 @@ twitterauto = "That book on top sure doesn't look like a book..."
 facebookauto = "That top book sure doesn't look like a real book...."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-may-16-2016.md"
+notes_tags = ["notes/mail-call-for-may-16-2016.md"]
 notes_about = ""
 books = ""
 +++

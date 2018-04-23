@@ -17,7 +17,7 @@ twitterauto = "It\u2019s our annual Christmas Day ghost story, by @hellbox. Step
 facebookauto = "It\u2019s our annual Christmas Day ghost story. Be careful when you read it. Don't go in alone."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rip-it-out-with-your-hands.md"
+notes_tags = ["notes/rip-it-out-with-your-hands.md"]
 notes_about = ""
 books = ""
 +++

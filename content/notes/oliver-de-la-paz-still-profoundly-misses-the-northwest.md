@@ -17,7 +17,7 @@ twitterauto = "We talked with @Oliver_delaPaz about missing Seattle and why poet
 facebookauto = "We talked with Oliver de la Paz about missing Seattle, learning to love poetry from a Reader's Digest collection of Robert Penn Warren, and why poets need community."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/oliver-de-la-paz-still-profoundly-misses-the-northwest.md"
+notes_tags = ["notes/oliver-de-la-paz-still-profoundly-misses-the-northwest.md"]
 notes_about = ["authors/oliver-de-la-paz.md"]
 books = ""
 +++

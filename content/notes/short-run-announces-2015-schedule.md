@@ -17,7 +17,7 @@ twitterauto = "Our awesome small-press festival, @shortrunseattle, has announced
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/short-run-announces-2015-schedule.md"
+notes_tags = ["notes/short-run-announces-2015-schedule.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"Facebook is predicting the end of the written word on its platf
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/facebook-is-predicting-the-end-of-the-written-word-on-its-platform.md"
+notes_tags = ["notes/facebook-is-predicting-the-end-of-the-written-word-on-its-platform.md"]
 notes_about = ""
 books = ""
 +++

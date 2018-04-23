@@ -17,7 +17,7 @@ twitterauto = "The last in our December tribute to Lucia Perillo: \"The Body Mut
 facebookauto = "The last in our December tribute to Lucia Perillo: \"The Body Mutinies\""
 make_image_tweet = "False"
 notes_byline = ["writers/lucia-perillo.md"]
-notes_tags = "notes/the-body-mutinies.md"
+notes_tags = ["notes/the-body-mutinies.md"]
 notes_about = ""
 books = ""
 +++

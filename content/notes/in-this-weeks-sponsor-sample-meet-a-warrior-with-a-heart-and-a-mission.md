@@ -17,7 +17,7 @@ twitterauto = "Thanks to sponsor @greysunpress for this week's free read, from @
 facebookauto = "Thanks to sponsor Grey Sun Press for this week's free read, from Raven Oak's fantasy epic, Amaskan's Blood. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/in-this-weeks-sponsor-sample-meet-a-warrior-with-a-heart-and-a-mission.md"
+notes_tags = ["notes/in-this-weeks-sponsor-sample-meet-a-warrior-with-a-heart-and-a-mission.md"]
 notes_about = ["authors/raven-oak.md"]
 books = ["books/amaskans-blood.md"]
 +++

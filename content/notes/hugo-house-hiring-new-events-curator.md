@@ -17,7 +17,7 @@ twitterauto = "The @HugoHouse is looking for a new events curator! Could you be 
 facebookauto = "The Hugo House is looking for a new events curator! Could you be the person they're looking for?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hugo-house-hiring-new-events-curator.md"
+notes_tags = ["notes/hugo-house-hiring-new-events-curator.md"]
 notes_about = ["authors/peter-mountford.md"]
 books = ""
 +++

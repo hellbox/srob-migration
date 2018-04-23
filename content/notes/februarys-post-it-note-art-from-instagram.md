@@ -17,7 +17,7 @@ twitterauto = "Miss any of Clare Johnson's Post It Notes on our Instagram? See t
 facebookauto = "Miss any of Clare Johnson's Post It Notes on our Instagram? See the February wrap-up here. "
 make_image_tweet = "False"
 notes_byline = ["writers/clare-johnson.md"]
-notes_tags = "notes/februarys-post-it-note-art-from-instagram.md"
+notes_tags = ["notes/februarys-post-it-note-art-from-instagram.md"]
 notes_about = ""
 books = ""
 +++

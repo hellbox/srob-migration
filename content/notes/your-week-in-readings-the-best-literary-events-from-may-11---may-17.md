@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings begins tonight at the @pinebox."
 facebookauto = "Your Week in Readings includes a reading with free doughnuts, a young adult novel about Pablo Neruda, and a memoir about ex-gay therapy."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-may-11---may-17.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-may-11---may-17.md"]
 notes_about = ["authors/jane-wong.md", "authors/quenton-baker.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "A new Portrait Gallery from @studiochristine, of @gloriasteinem. 
 facebookauto = "Gloria Steinem is this week's Portrait Gallery, by Christine Marie Larsen. Hedgebrook is bringing her to Benaroya Hall this Sunday, in conversation with Cheryl Strayed. We can't wait."
 make_image_tweet = ""
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-gloria-steinem.md"
+notes_tags = ["notes/portrait-gallery-gloria-steinem.md"]
 notes_about = ["authors/gloria-steinem.md"]
 books = ""
 +++

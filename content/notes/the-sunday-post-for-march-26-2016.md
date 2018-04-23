@@ -17,7 +17,7 @@ twitterauto = "The drug wars, historical fiction, honesty on social media, and @
 facebookauto = "The drug wars, historical fiction, Feminism and Playboy, honesty in transit social media, and a book tour."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-march-26-2016.md"
+notes_tags = ["notes/the-sunday-post-for-march-26-2016.md"]
 notes_about = ""
 books = ""
 +++

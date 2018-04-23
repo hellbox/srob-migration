@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Back Bay Books"
 title = "Back Bay Books"
-books_publisher = "publishers/back-bay-books.md"
+books_publisher = ["publishers/back-bay-books.md"]
 +++

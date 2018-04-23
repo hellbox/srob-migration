@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Frederica Jansz painted by @studiochristine"
 facebookauto = "Portrait Gallery! Frederica Jansz painted by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-frederica-jansz.md"
+notes_tags = ["notes/portrait-gallery-frederica-jansz.md"]
 notes_about = ["authors/frederica-jansz.md"]
 books = ""
 +++

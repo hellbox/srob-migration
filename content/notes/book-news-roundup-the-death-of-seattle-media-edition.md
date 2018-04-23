@@ -17,7 +17,7 @@ twitterauto = "This year is looking really bad for the Seattle media scene."
 facebookauto = "This year is looking really bad for the Seattle media scene."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-death-of-seattle-media-edition.md"
+notes_tags = ["notes/book-news-roundup-the-death-of-seattle-media-edition.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @mbrockenbrough teaches free #seattlewrites cla
 facebookauto = "Portrait Gallery: Martha Brokenbrough by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-martha-brokenbrough.md"
+notes_tags = ["notes/portrait-gallery-martha-brokenbrough.md"]
 notes_about = ["authors/martha-brokenbrough.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "In the last 2 days, Sherman Alexie, Lindy West, and Ta-Nehisi Coa
 facebookauto = "In the last two days, Sherman Alexie, Lindy West, and Ta-Nehisi Coates have all left Twitter. Is 2017 the year when writers get off Twitter and get back to work?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sherman-alexie-lindy-west-and-ta-nehisi-coates-all-quit-twitter-this-week.md"
+notes_tags = ["notes/sherman-alexie-lindy-west-and-ta-nehisi-coates-all-quit-twitter-this-week.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/ta-nehisi-coates.md", "authors/lindy-west.md"]
 books = ""
 +++

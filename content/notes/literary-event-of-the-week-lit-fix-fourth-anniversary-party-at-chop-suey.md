@@ -17,7 +17,7 @@ twitterauto = "Tonight, celebrate @Lit_Fix's 4th anniversary with @katkat_alcala
 facebookauto = "The Lit Fix reading series celebrates its fourth anniversary tonight. What's the secret for building a long-lasting reading series?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-lit-fix-fourth-anniversary-party-at-chop-suey.md"
+notes_tags = ["notes/literary-event-of-the-week-lit-fix-fourth-anniversary-party-at-chop-suey.md"]
 notes_about = ["authors/robert-lashley.md", "authors/kathleen-alcala.md", "authors/corinne-manning.md", "authors/laurie-frankel.md"]
 books = ""
 +++

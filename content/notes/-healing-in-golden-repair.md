@@ -17,7 +17,7 @@ twitterauto = "Our second, from Poet in Residence Azura Tyabji, is titled \"Heal
 facebookauto = "Our second, from Poet in Residence Azura Tyabji, is titled \"Healing in Golden Repair\""
 make_image_tweet = "False"
 notes_byline = ["writers/azura-tyabji.md"]
-notes_tags = "notes/-healing-in-golden-repair.md"
+notes_tags = ["notes/-healing-in-golden-repair.md"]
 notes_about = ""
 books = ""
 +++

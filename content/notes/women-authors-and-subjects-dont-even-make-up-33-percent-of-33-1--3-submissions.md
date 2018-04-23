@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/women-authors-and-subjects-dont-even-make-up-33-percent-of-33-1--3-submissions.md"
+notes_tags = ["notes/women-authors-and-subjects-dont-even-make-up-33-percent-of-33-1--3-submissions.md"]
 notes_about = ["authors/nicola-griffith.md"]
 books = ""
 +++

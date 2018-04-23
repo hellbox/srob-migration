@@ -17,7 +17,7 @@ twitterauto = "Did a negative book review by Norman Mailer drive a writer into n
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-means-war.md"
+notes_tags = ["notes/this-means-war.md"]
 notes_about = ""
 books = ""
 +++

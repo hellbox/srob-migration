@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/next-week-could-be-yours.md"
+notes_tags = ["notes/next-week-could-be-yours.md"]
 notes_about = ""
 books = ""
 +++

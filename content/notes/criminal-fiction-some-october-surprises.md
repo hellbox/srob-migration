@@ -17,7 +17,7 @@ twitterauto = "It's Criminal Fiction, or crime fiction column by @daneetsteffens
 facebookauto = "It's Criminal Fiction, or crime fiction column by Daneet Steffens. Some October surprises...."
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-some-october-surprises.md"
+notes_tags = ["notes/criminal-fiction-some-october-surprises.md"]
 notes_about = ["authors/janet-rudolph.md", "authors/tana-french.md", "authors/rob-hart.md", "authors/graeme-macrae-burnet.md", "authors/steven-price.md", "authors/peter-may.md", "authors/elizabeth-george.md"]
 books = ""
 +++

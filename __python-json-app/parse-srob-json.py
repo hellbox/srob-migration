@@ -871,7 +871,7 @@ for key in j['data']:
         #    markdown.write('tags_notes = ""\n')
         tags_temp = ('notes %s' % json.dumps(note.encode('utf-8')).replace('"',''))
         tags_temp = findstring(tags_temp).encode('utf-8')
-        markdown.write('notes_tags = "%s"\n' % tags_temp )         
+        markdown.write('notes_tags = ["%s"]\n' % tags_temp )         
 
         try:
             index_builder = []
@@ -961,7 +961,7 @@ for key in j['data']:
         # publisher_relationship books_publisher
         publisher_temp = ('publishers %s' % json.dumps(publisher.encode('utf-8')).replace('"',''))
         publisher_temp = findstring(publisher_temp).encode('utf-8')
-        markdown.write('books_publisher = "%s"\n' % publisher_temp )        
+        markdown.write('books_publisher = ["%s"]\n' % publisher_temp )        
         markdown.write('+++\n')
         markdown.close()
 

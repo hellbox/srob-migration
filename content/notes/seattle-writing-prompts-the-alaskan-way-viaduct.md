@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts drives the Viaduct, and takes in the view
 facebookauto = "Seattle Writing Prompts drives the Viaduct, and takes in the view. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-alaskan-way-viaduct.md"
+notes_tags = ["notes/seattle-writing-prompts-the-alaskan-way-viaduct.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Show off where you write for @HugoHouse's #WhereWeWrite campaign.
 facebookauto = "Here's the hammock where Paul Constant does a lot of his writing. Where do you do your writing?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-hammock-where-this-site-is-written.md"
+notes_tags = ["notes/the-hammock-where-this-site-is-written.md"]
 notes_about = ""
 books = ""
 +++

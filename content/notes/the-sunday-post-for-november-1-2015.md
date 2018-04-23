@@ -17,7 +17,7 @@ twitterauto = "Today's Sunday Post has pieces by Seattle's own @greene, as well 
 facebookauto = "Today's Sunday Post has Seattle's Jay Greene on Amazon comments, Daniel Johnson on Iris Murdoch, Dan Nosowitz on online discount book retailers, and Rosemary Hill on Angela Carter's poetry."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-november-1-2015.md"
+notes_tags = ["notes/the-sunday-post-for-november-1-2015.md"]
 notes_about = ""
 books = ""
 +++

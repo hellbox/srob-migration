@@ -17,7 +17,7 @@ twitterauto = "There's a fine line between \"cleverly utilizing genre fiction tr
 facebookauto = "There's a fine line between \"cleverly utilizing genre fiction tropes\" and \"being wildly uncreative.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/to-boldly-go-where-someone-else-has-gone-before.md"
+notes_tags = ["notes/to-boldly-go-where-someone-else-has-gone-before.md"]
 notes_about = ""
 books = ""
 +++

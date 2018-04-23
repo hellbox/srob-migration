@@ -17,7 +17,7 @@ twitterauto = "Every Seattleite should listen to @1JessWalter's remarkable poem 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jess-walter-destroyed-seattle.md"
+notes_tags = ["notes/jess-walter-destroyed-seattle.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/jess-walter.md"]
 books = ""
 +++

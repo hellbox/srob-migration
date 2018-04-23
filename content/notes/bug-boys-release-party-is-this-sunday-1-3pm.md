@@ -17,7 +17,7 @@ twitterauto = "This Sunday, go see @lauraknetzger at @fantagraphics bookstore fo
 facebookauto = "Laura Knetzger is having a book release party this Sunday at Fantagraphics, and you should go!"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/bug-boys-release-party-is-this-sunday-1-3pm.md"
+notes_tags = ["notes/bug-boys-release-party-is-this-sunday-1-3pm.md"]
 notes_about = ["authors/laura-knetzger.md"]
 books = ["books/bug-boys.md"]
 +++

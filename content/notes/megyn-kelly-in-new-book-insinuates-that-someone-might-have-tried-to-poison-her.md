@@ -17,7 +17,7 @@ twitterauto = "Hey, aspiring memoirists: got news that could change the outcome 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/megyn-kelly-in-new-book-insinuates-that-someone-might-have-tried-to-poison-her.md"
+notes_tags = ["notes/megyn-kelly-in-new-book-insinuates-that-someone-might-have-tried-to-poison-her.md"]
 notes_about = ""
 books = ""
 +++

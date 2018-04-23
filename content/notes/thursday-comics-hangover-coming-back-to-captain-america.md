@@ -17,7 +17,7 @@ twitterauto = "Some thoughts about fandom, Captain America, and cultural critici
 facebookauto = "Last week Paul Constant wrote a flippant post about the whole Captain America controversy. Here's why he regrets writing that post:"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-coming-back-to-captain-america.md"
+notes_tags = ["notes/thursday-comics-hangover-coming-back-to-captain-america.md"]
 notes_about = ""
 books = ""
 +++

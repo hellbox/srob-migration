@@ -17,7 +17,7 @@ twitterauto = "Here's all of our @shortrunseattle coverage in one handy spot."
 facebookauto = "Here's all of our Short Run coverage in one handy spot. See you tomorrow!"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/getting-ready-for-short-run-read-our-coverage-first!.md"
+notes_tags = ["notes/getting-ready-for-short-run-read-our-coverage-first!.md"]
 notes_about = ["authors/julia-wertz.md", "authors/mita-mahato.md", "authors/emil-ferris.md"]
 books = ["books/tenements-towers-&-trash.md", "books/in-between.md"]
 +++

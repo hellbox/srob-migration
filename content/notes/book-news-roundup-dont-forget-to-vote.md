@@ -17,7 +17,7 @@ twitterauto = "Seattle! Don't forget to vote today, okay?"
 facebookauto = "Seattle! Don't forget to vote today, okay?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-dont-forget-to-vote.md"
+notes_tags = ["notes/book-news-roundup-dont-forget-to-vote.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ""
 +++

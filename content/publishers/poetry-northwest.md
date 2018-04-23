@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Poetry Northwest"
 title = "Poetry Northwest"
-books_publisher = "publishers/poetry-northwest.md"
+books_publisher = ["publishers/poetry-northwest.md"]
 +++

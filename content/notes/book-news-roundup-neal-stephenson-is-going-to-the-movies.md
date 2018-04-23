@@ -17,7 +17,7 @@ twitterauto = "Neal Stephenson's latest book is going to the movies."
 facebookauto = "Neal Stephenson is going to the movies! Plus more in our Book News Roundup."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-neal-stephenson-is-going-to-the-movies.md"
+notes_tags = ["notes/book-news-roundup-neal-stephenson-is-going-to-the-movies.md"]
 notes_about = ["authors/neal-stephenson.md"]
 books = ["books/seveneves.md"]
 +++

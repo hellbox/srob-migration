@@ -17,7 +17,7 @@ twitterauto = "Is it okay to send a mash note to an author if you think she's cu
 facebookauto = "Is it okay to send a mash note to an author if you think she's cute? Our advice columnist offers a brief, spider-filled explanation of the male gaze."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-portrait-of-the-author-as-a-total-hottie.md"
+notes_tags = ["notes/the-help-desk-portrait-of-the-author-as-a-total-hottie.md"]
 notes_about = ["authors/vladimir-nabokov.md", "authors/charles-dickens.md"]
 books = ""
 +++

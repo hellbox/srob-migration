@@ -17,7 +17,7 @@ twitterauto = "Our response to our Public Diversity Editor's first report. "
 facebookauto = "Our response to our Public Diversity Editor's first report. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/our-response-to-the-public-diversity-editor-report-1-september-2016.md"
+notes_tags = ["notes/our-response-to-the-public-diversity-editor-report-1-september-2016.md"]
 notes_about = ""
 books = ""
 +++

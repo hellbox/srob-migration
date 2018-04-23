@@ -17,7 +17,7 @@ twitterauto = "Is it possible to \"ironically\" like noted dirtbag Tucker Max? @
 facebookauto = "In this week's advice column, Cienna Madrid responds to a letter-writer who is concerned about her friend's so-called \"ironic\" appreciation of Tucker Max."
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-the-tucker-max-book-club.md"
+notes_tags = ["notes/the-help-desk-the-tucker-max-book-club.md"]
 notes_about = ""
 books = ""
 +++

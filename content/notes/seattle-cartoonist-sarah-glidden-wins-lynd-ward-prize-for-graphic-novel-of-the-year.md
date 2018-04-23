@@ -17,7 +17,7 @@ twitterauto = "Congratulations to Seattle cartoonist @sarahglidden for winning t
 facebookauto = "Congratulations to Seattle cartoonist Sarah Glidden, whose book Rolling Blackouts just won the prestigious Lind Ward Prize for Best Graphic Novel of the Year!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-cartoonist-sarah-glidden-wins-lynd-ward-prize-for-graphic-novel-of-the-year.md"
+notes_tags = ["notes/seattle-cartoonist-sarah-glidden-wins-lynd-ward-prize-for-graphic-novel-of-the-year.md"]
 notes_about = ["authors/sarah-glidden.md"]
 books = ["books/rolling-blackouts.md"]
 +++

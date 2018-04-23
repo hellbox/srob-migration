@@ -17,7 +17,7 @@ twitterauto = "To celebrate  #SDCC2017, here are 7 comics we look forward to rea
 facebookauto = "To celebrate San Diego Comic Con, here are seven comics we look forward to reading every month."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-say-something-nice.md"
+notes_tags = ["notes/thursday-comics-hangover-say-something-nice.md"]
 notes_about = ["authors/g-willow-wilson.md", "authors/brian-k-vaughan.md"]
 books = ""
 +++

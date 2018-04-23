@@ -17,7 +17,7 @@ twitterauto = "An artist caught at sea, a parent trapped by spite,  people who r
 facebookauto = "An artist caught at sea, a parent trapped by spite, and people who refuse to believe hard truths, today on the Sunday Post. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-september-11-2016.md"
+notes_tags = ["notes/the-sunday-post-for-september-11-2016.md"]
 notes_about = ""
 books = ""
 +++

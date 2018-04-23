@@ -17,7 +17,7 @@ twitterauto = "It's hard to discuss The Righteous Mind by @JonHaidt, but it just
 facebookauto = "Last night, our book club found it hard to discuss The Righteous Mind. But the way the difficult conversation unfolded seemed to prove the book's thesis perfectly."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/why-its-hard-to-talk-about-the-righteous-mind.md"
+notes_tags = ["notes/why-its-hard-to-talk-about-the-righteous-mind.md"]
 notes_about = ""
 books = ""
 +++

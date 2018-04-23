@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @TyehimbaJess reads OLIO Sunday @SeaArtsLecture
 facebookauto = "Portrait Gallery: Tyehimba Jess painted by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-tyehimba-jess.md"
+notes_tags = ["notes/portrait-gallery-tyehimba-jess.md"]
 notes_about = ["authors/tyehimba-jess.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our thanks to sponsor Chatwin Books. One day left to read three p
 facebookauto = "One day left to read three poems from Nicole Sarrocco on the site, brought to you by sponsor Chatwin Books. Don't miss them!"
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-day-left-to-read-three-poems-from-nicole-sarrocco.md"
+notes_tags = ["notes/one-day-left-to-read-three-poems-from-nicole-sarrocco.md"]
 notes_about = ["authors/nicole-sarrocco.md"]
 books = ["books/karate-bride.md"]
 +++

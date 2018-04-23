@@ -17,7 +17,7 @@ twitterauto = "#JournalismSoWhite happens tonight at @THSEA, so we're recalling 
 facebookauto = "#JournalismSoWhite happens tonight at Town Hall Seattle, so we're recalling our own diversity report by our Public Diversity Editor, Vanessa Willoughby."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/journalismsowhite.md"
+notes_tags = ["notes/journalismsowhite.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Sponsor @anne_mendel finds culture in post-collapse Portland."
 facebookauto = "Sponsor Anne Mendel finds culture in post-collapse Portland."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/cocktail-hour-in-portland-after-the-fall.md"
+notes_tags = ["notes/cocktail-hour-in-portland-after-the-fall.md"]
 notes_about = ""
 books = ""
 +++

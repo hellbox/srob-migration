@@ -10,5 +10,5 @@ last_updated = "2015-10-17T14:35:00-07:00"
 preview_url = "d56d1222-9ff7-a087-535f-3e195d30b43e"
 name = "Peter Owen Publishers"
 title = "Peter Owen Publishers"
-books_publisher = "publishers/peter-owen-publishers.md"
+books_publisher = ["publishers/peter-owen-publishers.md"]
 +++

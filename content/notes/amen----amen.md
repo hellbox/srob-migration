@@ -17,7 +17,7 @@ twitterauto = "Our final set of poems by February Poet in Residence, JT Stewart"
 facebookauto = "Our final set of poems by February Poet in Residence, JT Stewart"
 make_image_tweet = "False"
 notes_byline = ["writers/jt-stewart.md"]
-notes_tags = "notes/amen----amen.md"
+notes_tags = ["notes/amen----amen.md"]
 notes_about = ""
 books = ""
 +++

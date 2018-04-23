@@ -17,7 +17,7 @@ twitterauto = "Sponsor Conon Parks's Empty Bottle of Smoke is an wild journey th
 facebookauto = "Sponsor Conon Parks's Empty Bottle of Smoke is an wild journey through Seattle's underground"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-paranoid-genie-in-the-bottle.md"
+notes_tags = ["notes/the-paranoid-genie-in-the-bottle.md"]
 notes_about = ["authors/conon-parks.md"]
 books = ["books/empty-bottle-of-smoke.md"]
 +++

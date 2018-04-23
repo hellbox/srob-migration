@@ -17,7 +17,7 @@ twitterauto = "Our weekly comics column discusses a comics book club for women, 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-strong-women-everywhere.md"
+notes_tags = ["notes/thursday-comics-hangover-strong-women-everywhere.md"]
 notes_about = ""
 books = ["books/bloody-pussy.md", "books/giant-days.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is \"Passive Voice\" by Laura Da'"
 facebookauto = "Our Tuesday Poem is \"Passive Voice\" by Laura Da'"
 make_image_tweet = "False"
 notes_byline = ["writers/laura-da.md"]
-notes_tags = "notes/passive-voice.md"
+notes_tags = ["notes/passive-voice.md"]
 notes_about = ["authors/laura-da.md"]
 books = ""
 +++

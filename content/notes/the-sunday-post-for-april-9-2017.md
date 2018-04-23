@@ -17,7 +17,7 @@ twitterauto = "Nixon's nose, Nabokov's butterflies, and a love note from Carroll
 facebookauto = "Nixon's nose, Nabokov's butterflies, and a love note from Carroll to Buk in this week's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-april-9-2017.md"
+notes_tags = ["notes/the-sunday-post-for-april-9-2017.md"]
 notes_about = ""
 books = ""
 +++

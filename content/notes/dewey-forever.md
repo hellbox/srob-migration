@@ -17,7 +17,7 @@ twitterauto = "One library answers the question: \"Do we Dewey or do we not Dewe
 facebookauto = "One library answers the question: \"Do we Dewey or do we not Dewey?\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/dewey-forever.md"
+notes_tags = ["notes/dewey-forever.md"]
 notes_about = ""
 books = ""
 +++

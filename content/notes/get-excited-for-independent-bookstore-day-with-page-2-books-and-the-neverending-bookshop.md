@@ -17,7 +17,7 @@ twitterauto = "We talked with bookstore owners from north and south Seattle abou
 facebookauto = "We talked with bookstore owners from north and south Seattle about Independent Bookstore Day."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/get-excited-for-independent-bookstore-day-with-page-2-books-and-the-neverending-bookshop.md"
+notes_tags = ["notes/get-excited-for-independent-bookstore-day-with-page-2-books-and-the-neverending-bookshop.md"]
 notes_about = ""
 books = ""
 +++

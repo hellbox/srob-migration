@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post this week features pieces by @cherylmorgan, @crai
 facebookauto = "The Sunday Post looks at diversity and the future of reading this week."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-october-4-2015.md"
+notes_tags = ["notes/the-sunday-post-for-october-4-2015.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The internet is fighting over whether longform storytelling is ne
 facebookauto = "The internet is fighting over whether longform storytelling is necessary or not. Here's where we think people should be putting that energy instead:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/against-longform.md"
+notes_tags = ["notes/against-longform.md"]
 notes_about = ""
 books = ""
 +++

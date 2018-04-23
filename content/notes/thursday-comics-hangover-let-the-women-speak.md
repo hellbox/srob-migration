@@ -17,7 +17,7 @@ twitterauto = "Women have always gotten short shrift in superhero comics. This b
 facebookauto = "Women have always gotten short shrift in superhero comics. This book liberates them."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-let-the-women-speak.md"
+notes_tags = ["notes/thursday-comics-hangover-let-the-women-speak.md"]
 notes_about = ""
 books = ""
 +++

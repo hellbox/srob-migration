@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/don-mee-choi.md"]
-notes_tags = "notes/manegg.md"
+notes_tags = ["notes/manegg.md"]
 notes_about = ""
 books = ""
 +++

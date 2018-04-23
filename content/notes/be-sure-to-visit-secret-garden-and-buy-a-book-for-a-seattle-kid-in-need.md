@@ -17,7 +17,7 @@ twitterauto = "Make sure to visit @SecretGardenBks to pick up some books for loc
 facebookauto = "Secret Garden Books makes it easy for you to give a book to a Seattle-area kid who really needs one."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/be-sure-to-visit-secret-garden-and-buy-a-book-for-a-seattle-kid-in-need.md"
+notes_tags = ["notes/be-sure-to-visit-secret-garden-and-buy-a-book-for-a-seattle-kid-in-need.md"]
 notes_about = ""
 books = ""
 +++

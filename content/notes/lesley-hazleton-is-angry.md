@@ -17,7 +17,7 @@ twitterauto = "Please watch @accidentaltheo's talk about Trump, the shooting in 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lesley-hazleton-is-angry.md"
+notes_tags = ["notes/lesley-hazleton-is-angry.md"]
 notes_about = ["authors/lesley-hazleton.md"]
 books = ""
 +++

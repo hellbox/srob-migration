@@ -17,7 +17,7 @@ twitterauto = "Our Literary Event of the Week is a collection of immigrants' sto
 facebookauto = "Our Literary Event of the Week is a collection of immigrants' stories at Elliott Bay Book Company."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-*two-countries-us-daughters-and-sons-of-immigrant-parents*-reading.md"
+notes_tags = ["notes/event-of-the-week-*two-countries-us-daughters-and-sons-of-immigrant-parents*-reading.md"]
 notes_about = ["authors/shin-yu-pai.md"]
 books = ""
 +++

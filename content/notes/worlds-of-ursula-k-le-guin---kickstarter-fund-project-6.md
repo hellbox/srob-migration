@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund this week is thrilled to back @WorldsofUKL."
 facebookauto = "The Kickstarter Fund, this week, backs a new documentary about Ursula K. Le Guin."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/worlds-of-ursula-k-le-guin---kickstarter-fund-project-6.md"
+notes_tags = ["notes/worlds-of-ursula-k-le-guin---kickstarter-fund-project-6.md"]
 notes_about = ["authors/ursula-k-le-guin.md"]
 books = ""
 +++

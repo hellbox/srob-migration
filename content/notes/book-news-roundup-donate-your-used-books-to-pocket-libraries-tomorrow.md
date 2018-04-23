@@ -17,7 +17,7 @@ twitterauto = "Get to know @Seattle7Writers' pocket library program."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-donate-your-used-books-to-pocket-libraries-tomorrow.md"
+notes_tags = ["notes/book-news-roundup-donate-your-used-books-to-pocket-libraries-tomorrow.md"]
 notes_about = ""
 books = ""
 +++

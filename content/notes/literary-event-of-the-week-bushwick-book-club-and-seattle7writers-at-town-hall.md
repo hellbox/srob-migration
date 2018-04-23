@@ -17,7 +17,7 @@ twitterauto = "This week's Event of the Week pairs Seattle musicians with Seattl
 facebookauto = "This week's Event of the Week pairs Seattle musicians with Seattle authors. What happens next? A whole lot of really great music."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-bushwick-book-club-and-seattle7writers-at-town-hall.md"
+notes_tags = ["notes/literary-event-of-the-week-bushwick-book-club-and-seattle7writers-at-town-hall.md"]
 notes_about = ""
 books = ""
 +++

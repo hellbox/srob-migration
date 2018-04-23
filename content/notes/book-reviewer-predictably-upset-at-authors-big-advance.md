@@ -17,7 +17,7 @@ twitterauto = "Book critic fight! Book critic fight!"
 facebookauto = "The Daily Beast recently published an aggressive review of a debut novel. We take issue with the review's premise."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-reviewer-predictably-upset-at-authors-big-advance.md"
+notes_tags = ["notes/book-reviewer-predictably-upset-at-authors-big-advance.md"]
 notes_about = ""
 books = ""
 +++

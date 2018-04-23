@@ -17,7 +17,7 @@ twitterauto = "We loved the first issue of @GreatDismal's new comic Archangel. "
 facebookauto = "Sci-fi legend William Gibson just published his very first comic book. How is it?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-william-gibson-comes-to-comics.md"
+notes_tags = ["notes/thursday-comics-hangover-william-gibson-comes-to-comics.md"]
 notes_about = ["authors/william-gibson.md", "authors/ta-nehisi-coates.md"]
 books = ["books/between-the-world-and-me.md", "books/neuromancer.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"They\u2019re not even juicy mistakes, mostly just blunders invo
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/they’re-not-even-juicy-mistakes-mostly-just-blunders-involving-parenting-money-and-eyelid-tattoos.md"
+notes_tags = ["notes/they’re-not-even-juicy-mistakes-mostly-just-blunders-involving-parenting-money-and-eyelid-tattoos.md"]
 notes_about = ""
 books = ""
 +++

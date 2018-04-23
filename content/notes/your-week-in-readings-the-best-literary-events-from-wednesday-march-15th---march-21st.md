@@ -17,7 +17,7 @@ twitterauto = "Your week in reading features @bymattruff, @DonnaMiscolta & @Nisi
 facebookauto = "Lots of great Seattle authors in Your Week in Readings this week, including Matt Ruff, Nisi Shawl, Donna Miscolta, Claire Dederer, and Sarah Galvin."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-wednesday-march-15th---march-21st.md"]
 notes_about = ["authors/donna-miscolta.md", "authors/matt-ruff.md", "authors/nisi-shawl.md"]
 books = ["books/lovecraft-country.md", "books/everfair.md"]
 +++

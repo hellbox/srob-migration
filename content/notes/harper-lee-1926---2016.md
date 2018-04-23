@@ -17,7 +17,7 @@ twitterauto = "Goodbye, Harper Lee. Thank you for everything."
 facebookauto = "Goodbye, Harper Lee. Thank you for everything."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/harper-lee-1926---2016.md"
+notes_tags = ["notes/harper-lee-1926---2016.md"]
 notes_about = ["authors/harper-lee.md"]
 books = ""
 +++

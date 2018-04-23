@@ -17,7 +17,7 @@ twitterauto = "Newly announced Man Booker shortlister Hanya Yanagihara will be v
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/man-booker-prize-shortlist-announced.md"
+notes_tags = ["notes/man-booker-prize-shortlist-announced.md"]
 notes_about = ["authors/hanya-yanagihara.md"]
 books = ["books/a-little-life.md"]
 +++

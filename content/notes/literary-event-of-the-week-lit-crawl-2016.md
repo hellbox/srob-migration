@@ -17,7 +17,7 @@ twitterauto = "Our Event of the Week is Lit Crawl, which features 35 (!?!) terri
 facebookauto = "Our Event of the Week is Lit Crawl, which features 35 (!?!) terrific events in one packed evening."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-lit-crawl-2016.md"
+notes_tags = ["notes/literary-event-of-the-week-lit-crawl-2016.md"]
 notes_about = ["authors/quenton-baker.md", "authors/robert-lashley.md", "authors/mattilda-bernstein-sycamore.md", "authors/anastacia-renee.md", "authors/jane-wong.md", "authors/sierra-nelson.md", "authors/peter-mountford.md"]
 books = ""
 +++

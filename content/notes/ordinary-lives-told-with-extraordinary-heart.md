@@ -17,7 +17,7 @@ twitterauto = "Just months in, @HelloTheFuture's debut novel has a loyal followi
 facebookauto = "Sponsor Nicole Dieker's Biographies of Ordinary People has a loyal following, just months after its release. Find out why with a sneak peek at the first chapter."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/ordinary-lives-told-with-extraordinary-heart.md"
+notes_tags = ["notes/ordinary-lives-told-with-extraordinary-heart.md"]
 notes_about = ["authors/nicole-dieker.md"]
 books = ["books/the-biographies-of-ordinary-people.md"]
 +++

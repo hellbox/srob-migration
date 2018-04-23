@@ -17,7 +17,7 @@ twitterauto = "Sorry, fans of books, booze, and literary etiquette advice: The H
 facebookauto = "The Help Desk is out sick this week. Please send your get-well-soon e-cards and literary etiquette questions to advice@seattlereviewofbooks.com."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-help-desk-has-strep-throat.md"
+notes_tags = ["notes/the-help-desk-has-strep-throat.md"]
 notes_about = ""
 books = ""
 +++

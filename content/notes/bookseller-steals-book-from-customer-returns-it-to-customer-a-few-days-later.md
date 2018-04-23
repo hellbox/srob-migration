@@ -17,7 +17,7 @@ twitterauto = "Imagine a world in which booksellers can break into your home and
 facebookauto = "Imagine a world in which booksellers can break into your home and steal back books that you bought from them. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/bookseller-steals-book-from-customer-returns-it-to-customer-a-few-days-later.md"
+notes_tags = ["notes/bookseller-steals-book-from-customer-returns-it-to-customer-a-few-days-later.md"]
 notes_about = ""
 books = ""
 +++

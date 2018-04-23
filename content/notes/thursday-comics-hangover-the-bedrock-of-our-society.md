@@ -17,7 +17,7 @@ twitterauto = "There's a new Flintstones comic book. It's for adults. And it's p
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-bedrock-of-our-society.md"
+notes_tags = ["notes/thursday-comics-hangover-the-bedrock-of-our-society.md"]
 notes_about = ""
 books = ""
 +++

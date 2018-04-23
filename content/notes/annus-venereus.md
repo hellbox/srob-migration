@@ -17,7 +17,7 @@ twitterauto = "For our romance readers, a poem by @O_Waite. "
 facebookauto = "For our romance readers, a poem by Olivia Waite. "
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/annus-venereus.md"
+notes_tags = ["notes/annus-venereus.md"]
 notes_about = ""
 books = ""
 +++

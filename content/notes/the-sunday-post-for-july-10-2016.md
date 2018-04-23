@@ -17,7 +17,7 @@ twitterauto = "Sunday Post: a piece by @RufiThorpe, @brainpicker on creativity &
 facebookauto = "Sunday Post: Rufi Thorpe on art and motherhood, creativity and mental illness, the fiscal element behind police shootings, the American Dream in Finland, and Adichie's election-themed short story."
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/the-sunday-post-for-july-10-2016.md"
+notes_tags = ["notes/the-sunday-post-for-july-10-2016.md"]
 notes_about = ["authors/rufi-thorpe.md", "authors/chimamanda-ngozi-adichie.md"]
 books = ""
 +++

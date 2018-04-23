@@ -17,7 +17,7 @@ twitterauto = "\"I think a lot of people go to poetry in a time of crisis.\" -an
 facebookauto = "\"I think a lot of people go to poetry in a time of crisis.\" Here's an interview with our July Poet in Residence, Kelli Russell Agodon."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/an-interview-with-our-july-poet-in-residence-kelli-russell-agodon.md"
+notes_tags = ["notes/an-interview-with-our-july-poet-in-residence-kelli-russell-agodon.md"]
 notes_about = ["authors/kelli-russell-agodon.md"]
 books = ""
 +++

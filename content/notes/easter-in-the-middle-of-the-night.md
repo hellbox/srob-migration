@@ -17,7 +17,7 @@ twitterauto = "Our thanks to sponsor Charlotte Riggle, her book is about Easter 
 facebookauto = "This week's sponsor Charlotte Riggle is showing her charming book about a girl's attempt to stay awake for her Orthodox church's overnight Pascha service. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/easter-in-the-middle-of-the-night.md"
+notes_tags = ["notes/easter-in-the-middle-of-the-night.md"]
 notes_about = ["authors/charlotte-riggle.md"]
 books = ["books/catherines-pascha.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery is back with @ClaudiaC_L, Seattle's Civic Poet, 
 facebookauto = "Portrait Gallery is back! Check out this rendition of Claudia Castro Luna, Seattle's Civic Poet"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery---claudia-castro-luna.md"
+notes_tags = ["notes/portrait-gallery---claudia-castro-luna.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "An alternative for our calendar pick on Thursday: @priscillalong 
 facebookauto = "Another option for Thursday night: Priscilla Long"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/or-you-might-want-to-go-see-priscilla-long-on-thursday.md"
+notes_tags = ["notes/or-you-might-want-to-go-see-priscilla-long-on-thursday.md"]
 notes_about = ["authors/priscilla-long.md"]
 books = ""
 +++

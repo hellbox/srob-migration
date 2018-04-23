@@ -17,7 +17,7 @@ twitterauto = "In Criminal Fiction, @daneetsteffens interviews @jon_mcgregor, an
 facebookauto = "In Criminal Fiction, Daneet Steffens interviews Jon McGregor, and reviews Winnie M Li, and more."
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-winter-in-review.md"
+notes_tags = ["notes/criminal-fiction-winter-in-review.md"]
 notes_about = ["authors/matthew-weiner.md", "authors/roddy-doyle.md", "authors/alexander-mccall-smith.md", "authors/winnie-m-li.md", "authors/jon-mcgregor.md"]
 books = ""
 +++

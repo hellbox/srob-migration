@@ -17,7 +17,7 @@ twitterauto = "Poet, and Washington State Book Awards judge Linda Andrews, respo
 facebookauto = "Poet, and Washington State Book Awards judge Linda Andrews, responds to our piece on the awards."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/letters-to-the-editor-more-on-the-washington-state-book-awards.md"
+notes_tags = ["notes/letters-to-the-editor-more-on-the-washington-state-book-awards.md"]
 notes_about = ["authors/carl-phillips.md", "authors/linda-andrews.md"]
 books = ""
 +++

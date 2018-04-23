@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @OliviaPinupArt and @BabyTattoo. "
 facebookauto = "It's all pinups and monsters for the Kickstarter Fund this week. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/beauties----beasts---kickstarter-fund-project-29.md"
+notes_tags = ["notes/beauties----beasts---kickstarter-fund-project-29.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Sponsor Julie Manthey takes us to the tip of Southwest Washington
 facebookauto = "Our sponsor Julie Manthey takes us to the tip of Southwest Washington, to Cape Disappointment, to find magic, mystery, and a little love, too. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-magic-of-alternate-histories-and-books-set-in-washington.md"
+notes_tags = ["notes/the-magic-of-alternate-histories-and-books-set-in-washington.md"]
 notes_about = ""
 books = ""
 +++

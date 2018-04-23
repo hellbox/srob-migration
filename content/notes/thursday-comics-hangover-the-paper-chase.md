@@ -17,7 +17,7 @@ twitterauto = "We loved the first issue of @MarkWaid & @ChrisSamnee's new Black 
 facebookauto = "Who says movies are more suspenseful than comics? The first issue of Black Widow is nothing but a chase sequence, but it's a REALLY GOOD chase sequence."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-paper-chase.md"
+notes_tags = ["notes/thursday-comics-hangover-the-paper-chase.md"]
 notes_about = ""
 books = ""
 +++

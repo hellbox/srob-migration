@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @rosariumpub this week! "
 facebookauto = "The Kickstarter Fund backs Rosarium Publishing this week, and we think you should do the same."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rosarium-publishing-the-next-level---kickstarter-fund-project-16.md"
+notes_tags = ["notes/rosarium-publishing-the-next-level---kickstarter-fund-project-16.md"]
 notes_about = ""
 books = ""
 +++

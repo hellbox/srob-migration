@@ -17,7 +17,7 @@ twitterauto = "Mark the date: sponsor @saggingmeniscus wants you to see Doug Nuf
 facebookauto = "Mark the date: sponsor Sagging Meniscus wants you to come see Doug Nufer, and his new work, Thursday at Gallery 1412"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/from-constraint-comes-a-new-small-poetry-book.md"
+notes_tags = ["notes/from-constraint-comes-a-new-small-poetry-book.md"]
 notes_about = ["authors/doug-nufer.md"]
 books = ["books/the-me-theme.md"]
 +++

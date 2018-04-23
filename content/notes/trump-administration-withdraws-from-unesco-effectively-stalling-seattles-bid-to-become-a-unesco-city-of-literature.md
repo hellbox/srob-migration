@@ -17,7 +17,7 @@ twitterauto = "Donald Trump just divorced the United States from the world of li
 facebookauto = "Just this morning, Donald Trump withdrew the United States from the Unesco program of international culture. What does this mean for Seattle's literary scene and how do we fight back?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/trump-administration-withdraws-from-unesco-effectively-stalling-seattles-bid-to-become-a-unesco-city-of-literature.md"
+notes_tags = ["notes/trump-administration-withdraws-from-unesco-effectively-stalling-seattles-bid-to-become-a-unesco-city-of-literature.md"]
 notes_about = ""
 books = ""
 +++

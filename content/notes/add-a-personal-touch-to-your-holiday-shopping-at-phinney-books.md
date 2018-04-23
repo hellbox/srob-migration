@@ -17,7 +17,7 @@ twitterauto = "Looking to finish up your holiday book buying? Let @PhinneyBooks 
 facebookauto = "Looking to finish up your holiday book buying? Let Phinney Books offer a personal touch."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/add-a-personal-touch-to-your-holiday-shopping-at-phinney-books.md"
+notes_tags = ["notes/add-a-personal-touch-to-your-holiday-shopping-at-phinney-books.md"]
 notes_about = ["authors/nicola-griffith.md"]
 books = ["books/hild.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Trees are exploding all around Seattle Writing Prompts"
 facebookauto = "Trees are exploding all around Seattle Writing Prompts"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-fall-colors.md"
+notes_tags = ["notes/seattle-writing-prompts-fall-colors.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "We hope you'll join us for the Reading Through It Book Club tomor
 facebookauto = "We hope you'll join us for the Reading Through It Book Club tomorrow at Third Place Books Seward Park. This month's book is amazing!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/dont-forget-to-join-us-for-reading-through-it-tomorrow-night.md"
+notes_tags = ["notes/dont-forget-to-join-us-for-reading-through-it-tomorrow-night.md"]
 notes_about = ""
 books = ""
 +++

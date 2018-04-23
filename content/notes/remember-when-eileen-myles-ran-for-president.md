@@ -17,7 +17,7 @@ twitterauto = "Eileen Myles for (openly female) president!"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/remember-when-eileen-myles-ran-for-president.md"
+notes_tags = ["notes/remember-when-eileen-myles-ran-for-president.md"]
 notes_about = ["authors/eileen-myles.md"]
 books = ""
 +++

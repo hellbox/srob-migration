@@ -10,5 +10,5 @@ last_updated = "2017-04-08T10:43:00-07:00"
 preview_url = "97fb76ef-d590-51b8-8a4f-9e8ec8ffa42d"
 name = "Jeffrey Dean"
 title = "Jeffrey Dean"
-books_publisher = "publishers/jeffrey-dean.md"
+books_publisher = ["publishers/jeffrey-dean.md"]
 +++

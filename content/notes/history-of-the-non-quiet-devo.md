@@ -17,7 +17,7 @@ twitterauto = "\"History of the non-quiet Devo\" by Jason Whitmarsh is our Tuesd
 facebookauto = "\"History of the non-quiet Devo\" by Jason Whitmarsh is our Tuesday Poem."
 make_image_tweet = "False"
 notes_byline = ["writers/jason-whitmarsh.md"]
-notes_tags = "notes/history-of-the-non-quiet-devo.md"
+notes_tags = ["notes/history-of-the-non-quiet-devo.md"]
 notes_about = ""
 books = ""
 +++

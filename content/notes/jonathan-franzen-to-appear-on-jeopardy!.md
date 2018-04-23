@@ -17,7 +17,7 @@ twitterauto = "Jonathan Franzen will be on Celebrity Jeopardy! We'll be rooting 
 facebookauto = "Jonathan Franzen will be a guest on the celebrity edition of Jeopardy! We'll be rooting for Louis CK."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jonathan-franzen-to-appear-on-jeopardy!.md"
+notes_tags = ["notes/jonathan-franzen-to-appear-on-jeopardy!.md"]
 notes_about = ["authors/jonathan-franzen.md"]
 books = ""
 +++

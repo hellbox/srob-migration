@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is by Billie Swift: Roof Deck with Child"
 facebookauto = "Our Tuesday Poem is by Billie Swift: Roof Deck with Child"
 make_image_tweet = "False"
 notes_byline = ["writers/billie-swift.md"]
-notes_tags = "notes/roof-deck-with-child.md"
+notes_tags = ["notes/roof-deck-with-child.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"Family Tree\" is the third poem from August Poet in Residence @
 facebookauto = "\"Family Tree\" is the third poem from August Poet in Residence Daemond Arrindell"
 make_image_tweet = "False"
 notes_byline = ["writers/daemond-arrindell.md"]
-notes_tags = "notes/family-tree.md"
+notes_tags = ["notes/family-tree.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "A new Neil Gaiman documentary screens for a week @gicinema starti
 facebookauto = "A new documentary about Neil Gaiman plays all week long at the Grand Illusion. How is it? If you're a fan, you'll probably love it."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-stuff-that-dreams-are-made-of.md"
+notes_tags = ["notes/the-stuff-that-dreams-are-made-of.md"]
 notes_about = ["authors/g-willow-wilson.md", "authors/neil-gaiman.md"]
 books = ""
 +++

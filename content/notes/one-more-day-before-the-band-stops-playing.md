@@ -17,7 +17,7 @@ twitterauto = "Eugene M. Babb and @3rdplacepress are on the site for one more da
 facebookauto = "One more day to read all about sponsor Eugene M. Babb's experience at being a working musician for 30 years. "
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-more-day-before-the-band-stops-playing.md"
+notes_tags = ["notes/one-more-day-before-the-band-stops-playing.md"]
 notes_about = ["authors/eugene-m-babb.md"]
 books = ["books/grit-and-roses.md"]
 +++

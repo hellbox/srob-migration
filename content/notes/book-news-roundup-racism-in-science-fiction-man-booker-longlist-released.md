@@ -17,7 +17,7 @@ twitterauto = "This study of racism in science fiction is an absolute must-read.
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-racism-in-science-fiction-man-booker-longlist-released.md"
+notes_tags = ["notes/book-news-roundup-racism-in-science-fiction-man-booker-longlist-released.md"]
 notes_about = ""
 books = ""
 +++

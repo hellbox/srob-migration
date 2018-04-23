@@ -17,7 +17,7 @@ twitterauto = "If you buy your books at independent bookstores but you buy every
 facebookauto = "Today's advice column from Cienna Madrid contains this useful piece of advice: \"If it helps, I've found chanting, 'I condemn thee' at my cookies before I eat them makes me feel better about my personal choices.\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-hypocrisy-is-so-much-cheaper-when-you-buy-it-online.md"
+notes_tags = ["notes/the-help-desk-hypocrisy-is-so-much-cheaper-when-you-buy-it-online.md"]
 notes_about = ""
 books = ""
 +++

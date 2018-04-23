@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts pops into the Re-bar"
 facebookauto = "Seattle Writing Prompts pops into the Re-bar"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-re-bar.md"
+notes_tags = ["notes/seattle-writing-prompts-the-re-bar.md"]
 notes_about = ""
 books = ""
 +++

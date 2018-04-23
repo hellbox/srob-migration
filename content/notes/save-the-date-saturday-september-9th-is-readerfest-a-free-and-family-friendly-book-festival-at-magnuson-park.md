@@ -17,7 +17,7 @@ twitterauto = "Save the date: September 9th is Readerfest, a free book festival 
 facebookauto = "Save the date: September 9th is Readerfest, a free book festival at Magnuson Park!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/save-the-date-saturday-september-9th-is-readerfest-a-free-and-family-friendly-book-festival-at-magnuson-park.md"
+notes_tags = ["notes/save-the-date-saturday-september-9th-is-readerfest-a-free-and-family-friendly-book-festival-at-magnuson-park.md"]
 notes_about = ["authors/nisi-shawl.md"]
 books = ""
 +++

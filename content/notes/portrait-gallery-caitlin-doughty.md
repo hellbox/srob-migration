@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @TheGoodDeath reads 10/6 @thsea #illustration b
 facebookauto = "Portrait Gallery: Caitlin Doughty"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-caitlin-doughty.md"
+notes_tags = ["notes/portrait-gallery-caitlin-doughty.md"]
 notes_about = ["authors/caitlin-doughty.md"]
 books = ""
 +++

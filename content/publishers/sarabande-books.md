@@ -10,5 +10,5 @@ last_updated = "2017-03-12T14:41:00-07:00"
 preview_url = "9926c7ff-22a7-ee19-d098-0dee4c52c636"
 name = "Sarabande Books"
 title = "Sarabande Books"
-books_publisher = "publishers/sarabande-books.md"
+books_publisher = ["publishers/sarabande-books.md"]
 +++

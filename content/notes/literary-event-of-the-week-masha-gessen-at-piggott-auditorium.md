@@ -17,7 +17,7 @@ twitterauto = "Masha Gessen is the best writer in the world on the topic of Russ
 facebookauto = "Masha Gessen is the best writer in the world on the topic of Russia. That means she might just be the most important writer in the world."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-masha-gessen-at-piggott-auditorium.md"
+notes_tags = ["notes/literary-event-of-the-week-masha-gessen-at-piggott-auditorium.md"]
 notes_about = ["authors/masha-gessen.md"]
 books = ""
 +++

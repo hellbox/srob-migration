@@ -17,7 +17,7 @@ twitterauto = "The NY Times \"failing\" up, long form Flynn, and you died of dys
 facebookauto = "The NY Times \"failing\" up, long form Flynn, and you died of dysentery. All in today's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-february-19-2017.md"
+notes_tags = ["notes/the-sunday-post-for-february-19-2017.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-is-it-okay-to-lie-about-books.md"
+notes_tags = ["notes/the-help-desk-is-it-okay-to-lie-about-books.md"]
 notes_about = ["authors/gore-vidal.md"]
 books = ""
 +++

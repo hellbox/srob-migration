@@ -17,7 +17,7 @@ twitterauto = "Hey @Jennifer_Haupt, whatcha reading? @elisehooper, @victoria_red
 facebookauto = "Hey Jennifer Haupt, whatcha reading? Elise Hooper, Victoria Redel, and Jhumpa Lahiri."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-jennifer-haupt.md"
+notes_tags = ["notes/whatcha-reading-jennifer-haupt.md"]
 notes_about = ["authors/elise-hooper.md", "authors/jhumpa-lahiri.md", "authors/jennifer-haupt.md", "authors/victoria-redel.md"]
 books = ""
 +++

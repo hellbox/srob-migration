@@ -17,7 +17,7 @@ twitterauto = "Looking for something to do? Here's the best literary event for e
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-the-week-of-august-17---august-23.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-the-week-of-august-17---august-23.md"]
 notes_about = ""
 books = ""
 +++

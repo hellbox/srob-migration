@@ -17,7 +17,7 @@ twitterauto = "Our second, from Poet in Residence Kevin Craft, is titled \"Lesso
 facebookauto = "Our second, from Poet in Residence Kevin Craft, is titled \"Lesson Plan\""
 make_image_tweet = "False"
 notes_byline = ["writers/kevin-craft.md"]
-notes_tags = "notes/lesson-plan.md"
+notes_tags = ["notes/lesson-plan.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post has pieces by: @estherxlwang, @NerdGerhl,  and @H
 facebookauto = "Romance novels and race, a Seattle temperance union angel, the crap women in the sciences put up with, and Frank Miller from the perspective of a young girl comics fan -- all in this week's The Sunday Post"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-march-6-2016.md"
+notes_tags = ["notes/the-sunday-post-for-march-6-2016.md"]
 notes_about = ""
 books = ""
 +++

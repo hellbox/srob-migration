@@ -17,7 +17,7 @@ twitterauto = "Seattle will play a major part in the upcoming August Wilson biog
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/major-new-august-wilson-biography-on-the-way.md"
+notes_tags = ["notes/major-new-august-wilson-biography-on-the-way.md"]
 notes_about = ["authors/august-wilson.md"]
 books = ""
 +++

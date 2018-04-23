@@ -17,7 +17,7 @@ twitterauto = "Lipstick betrayal, angry young men, a pocket full of tardigrades,
 facebookauto = "Lipstick betrayal, angry young men, a pocket full of tardigrades, and more in the Sunday Post"
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-february-26-2017.md"
+notes_tags = ["notes/the-sunday-post-for-february-26-2017.md"]
 notes_about = ""
 books = ""
 +++

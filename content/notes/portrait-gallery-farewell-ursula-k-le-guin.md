@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Farewell to #UrsulaLeGuin "
 facebookauto = "Portrait Gallery: Farewell Ursula K. LeGuin"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-farewell-ursula-k-le-guin.md"
+notes_tags = ["notes/portrait-gallery-farewell-ursula-k-le-guin.md"]
 notes_about = ["authors/ursula-k-le-guin.md"]
 books = ""
 +++

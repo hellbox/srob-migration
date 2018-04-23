@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/elisa-chavez.md"]
-notes_tags = "notes/ways-of-devouring-a-man.md"
+notes_tags = ["notes/ways-of-devouring-a-man.md"]
 notes_about = ""
 books = ""
 +++

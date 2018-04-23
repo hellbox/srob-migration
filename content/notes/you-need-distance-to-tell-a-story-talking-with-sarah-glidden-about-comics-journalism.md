@@ -17,7 +17,7 @@ twitterauto = "Talking with Sarah Glidden about protesting, refugees, and the di
 facebookauto = "Talking with Sarah Glidden about protesting, refugees, and the distance you need to tell a story."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/you-need-distance-to-tell-a-story-talking-with-sarah-glidden-about-comics-journalism.md"
+notes_tags = ["notes/you-need-distance-to-tell-a-story-talking-with-sarah-glidden-about-comics-journalism.md"]
 notes_about = ["authors/sarah-glidden.md"]
 books = ["books/rolling-blackouts.md"]
 +++

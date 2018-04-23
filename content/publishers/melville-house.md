@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Melville House"
 title = "Melville House"
-books_publisher = "publishers/melville-house.md"
+books_publisher = ["publishers/melville-house.md"]
 +++

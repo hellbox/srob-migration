@@ -17,7 +17,7 @@ twitterauto = "In which @ciennam tells you everything you need to know to fake a
 facebookauto = "In which Cienna Madrid tells you everything you need to know to fake an English degree."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-how-to-get-an-english-degree-from-cienna-madrid-university.md"
+notes_tags = ["notes/the-help-desk-how-to-get-an-english-degree-from-cienna-madrid-university.md"]
 notes_about = ["authors/ernest-hemingway.md"]
 books = ""
 +++

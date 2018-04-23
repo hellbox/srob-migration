@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is \"The Cult of Iuvenis Invictus\" by @mstegosa
 facebookauto = "Our Tuesday Poem is \"The Cult of Iuvenis Invictus\" by Morris Stegosaurus"
 make_image_tweet = "False"
 notes_byline = ["writers/morris-stegosaurus.md"]
-notes_tags = "notes/the-cult-of-iuvenis-invictus.md"
+notes_tags = ["notes/the-cult-of-iuvenis-invictus.md"]
 notes_about = ""
 books = ""
 +++

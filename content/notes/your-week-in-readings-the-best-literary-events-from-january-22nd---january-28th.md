@@ -17,7 +17,7 @@ twitterauto = "Topics discussed in this week's readings: self-reliance, feuding 
 facebookauto = "Topics discussed in this week's readings: self-reliance, feuding scientists, and residencies. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-22nd---january-28th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-22nd---january-28th.md"]
 notes_about = ""
 books = ""
 +++

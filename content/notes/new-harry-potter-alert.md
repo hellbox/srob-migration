@@ -17,7 +17,7 @@ twitterauto = "New Harry Potter book coming? New Harry Potter book coming! (Inse
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/new-harry-potter-alert.md"
+notes_tags = ["notes/new-harry-potter-alert.md"]
 notes_about = ""
 books = ""
 +++

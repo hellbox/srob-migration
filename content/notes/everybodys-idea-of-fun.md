@@ -17,7 +17,7 @@ twitterauto = "Sponsor @fbpress is showing the work of chapbook finalist @bccoon
 facebookauto = "Sponsor Floating Bridge Press is showing the work of chapbook finalist Brian Cooney this week."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/everybodys-idea-of-fun.md"
+notes_tags = ["notes/everybodys-idea-of-fun.md"]
 notes_about = ["authors/brian-cooney.md"]
 books = ["books/my-idea-of-fun.md"]
 +++

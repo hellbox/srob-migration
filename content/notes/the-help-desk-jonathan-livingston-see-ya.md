@@ -17,7 +17,7 @@ twitterauto = "Is Jonathan Livingston Seagull a get-out-of-a-relationship-free c
 facebookauto = "A reader wants to break up with a new-ish girlfriend because he saw Jonathan Livingston Seagull in her house. What's Cienna's advice?"
 make_image_tweet = "True"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-jonathan-livingston-see-ya.md"
+notes_tags = ["notes/the-help-desk-jonathan-livingston-see-ya.md"]
 notes_about = ""
 books = ["books/jonathan-livingston-seagull.md"]
 +++

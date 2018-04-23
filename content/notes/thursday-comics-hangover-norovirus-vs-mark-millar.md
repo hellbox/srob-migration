@@ -17,7 +17,7 @@ twitterauto = "Which is worse: Mark Millar's comic books or norovirus? Finally, 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-norovirus-vs-mark-millar.md"
+notes_tags = ["notes/thursday-comics-hangover-norovirus-vs-mark-millar.md"]
 notes_about = ["authors/mark-millar.md"]
 books = ""
 +++

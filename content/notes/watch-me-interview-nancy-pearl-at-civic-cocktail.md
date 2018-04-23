@@ -17,7 +17,7 @@ twitterauto = "Watch @paulconstant interview @Nancy_Pearl on Civic Cocktail."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/watch-me-interview-nancy-pearl-at-civic-cocktail.md"
+notes_tags = ["notes/watch-me-interview-nancy-pearl-at-civic-cocktail.md"]
 notes_about = ["authors/nancy-pearl.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The third poem from March's Poet in Residence, Jamaica Baldwin, i
 facebookauto = "The third poem from March's Poet in Residence, Jamaica Baldwin, is titled \"Discarded\""
 make_image_tweet = "False"
 notes_byline = ["writers/jamaica-baldwin.md"]
-notes_tags = "notes/discarded.md"
+notes_tags = ["notes/discarded.md"]
 notes_about = ""
 books = ""
 +++

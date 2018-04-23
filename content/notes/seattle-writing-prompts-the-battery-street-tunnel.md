@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts drives through the Battery Street Tunnel.
 facebookauto = "Seattle Writing Prompts drives through the Battery Street Tunnel. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-battery-street-tunnel.md"
+notes_tags = ["notes/seattle-writing-prompts-the-battery-street-tunnel.md"]
 notes_about = ""
 books = ""
 +++

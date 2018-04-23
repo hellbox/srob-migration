@@ -17,7 +17,7 @@ twitterauto = "Our sponsor, the Seattle Antiquarian Book Fair is back, Oct 8th-9
 facebookauto = "Our sponsor, the Seattle Antiquarian Book Fair is back, Oct 8th-9th. Mark the date! "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mark-the-date-for-the-seattle-antiquarian-book-fair.md"
+notes_tags = ["notes/mark-the-date-for-the-seattle-antiquarian-book-fair.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our November Bookstore of the Month is @elliottbaybooks!"
 facebookauto = "Our November Bookstore of the Month is Elliott Bay Book Company!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/elliott-bay-book-company-is-our-november-bookstore-of-the-month.md"
+notes_tags = ["notes/elliott-bay-book-company-is-our-november-bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

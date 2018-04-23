@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Melcher Media"
 title = "Melcher Media"
-books_publisher = "publishers/melcher-media.md"
+books_publisher = ["publishers/melcher-media.md"]
 +++

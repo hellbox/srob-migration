@@ -17,7 +17,7 @@ twitterauto = "Your week in readings brings a pair of events about great moments
 facebookauto = "Learn about a famous women's hotel in New York City and the first woman to play minor league baseball by attending readings this week."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-july-12th---july-18th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-july-12th---july-18th.md"]
 notes_about = ["authors/nancy-kress.md"]
 books = ""
 +++

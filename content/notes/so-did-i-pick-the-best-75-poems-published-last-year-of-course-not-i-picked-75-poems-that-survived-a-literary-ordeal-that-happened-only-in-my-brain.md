@@ -17,7 +17,7 @@ twitterauto = "It's not often you see the words \"Best American Poetry\" and \"c
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/so-did-i-pick-the-best-75-poems-published-last-year-of-course-not-i-picked-75-poems-that-survived-a-literary-ordeal-that-happened-only-in-my-brain.md"
+notes_tags = ["notes/so-did-i-pick-the-best-75-poems-published-last-year-of-course-not-i-picked-75-poems-that-survived-a-literary-ordeal-that-happened-only-in-my-brain.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ["books/best-american-poetry-2015.md"]
 +++

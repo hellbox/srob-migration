@@ -17,7 +17,7 @@ twitterauto = "Could this be the worst comic of 2016?"
 facebookauto = "A new comic promises class warfare, with a main character who murders the corrupt wealthy one percent. "
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-class-war-is-hell.md"
+notes_tags = ["notes/thursday-comics-hangover-class-war-is-hell.md"]
 notes_about = ""
 books = ""
 +++

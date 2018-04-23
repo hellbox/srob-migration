@@ -17,7 +17,7 @@ twitterauto = "Push/Pull is more than a bookstore, a gallery, and a library."
 facebookauto = "Push/Pull is more than a bookstore, it's also a gallery. And it's more than a gallery, it's also a library. And it's more than a library, it's also a...pinball arcade?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-many-sides-of-push--pull-our-bookstore-of-the-month.md"
+notes_tags = ["notes/the-many-sides-of-push--pull-our-bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

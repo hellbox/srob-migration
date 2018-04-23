@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup is about Cheap Wine & Poetry, the Lulu 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-cheap-wine-&-poetry-the-lulu-fund-and-anonymous-targets-a-bookstore.md"
+notes_tags = ["notes/book-news-roundup-cheap-wine-&-poetry-the-lulu-fund-and-anonymous-targets-a-bookstore.md"]
 notes_about = ""
 books = ""
 +++

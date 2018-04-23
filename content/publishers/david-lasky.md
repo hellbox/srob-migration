@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "David Lasky"
 title = "David Lasky"
-books_publisher = "publishers/david-lasky.md"
+books_publisher = ["publishers/david-lasky.md"]
 +++

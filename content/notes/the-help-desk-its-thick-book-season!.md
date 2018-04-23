@@ -17,7 +17,7 @@ twitterauto = "It's fall, which around these parts is known as \"gigantic novel 
 facebookauto = "It's fall, which around these parts is known as \"gigantic novel season.\" Cienna Madrid offers some literary suggestions."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-its-thick-book-season!.md"
+notes_tags = ["notes/the-help-desk-its-thick-book-season!.md"]
 notes_about = ["authors/madeleine-lengle.md"]
 books = ["books/wrinkle-in-time.md"]
 +++

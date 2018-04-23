@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins tonight @ubookstorereads and include
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-21---27.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-21---27.md"]
 notes_about = ["authors/david-schmader.md", "authors/matthew-simmons.md", "authors/sarah-galvin.md", "authors/kelly-davio.md"]
 books = ""
 +++

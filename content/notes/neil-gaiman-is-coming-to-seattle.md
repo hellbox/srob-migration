@@ -17,7 +17,7 @@ twitterauto = "Our sponsor is bringing @neilhimself to @benaroyahall, there's le
 facebookauto = "Less than 150 tickets left to see Neil Gaiman at Benaroya Hall!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/neil-gaiman-is-coming-to-seattle.md"
+notes_tags = ["notes/neil-gaiman-is-coming-to-seattle.md"]
 notes_about = ["authors/neil-gaiman.md"]
 books = ""
 +++

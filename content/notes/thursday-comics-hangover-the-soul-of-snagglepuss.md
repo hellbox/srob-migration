@@ -17,7 +17,7 @@ twitterauto = "Someone's using old Hanna Barbera cartoons to mock economics and 
 facebookauto = "If you can turn old Hanna Barbera cartoons into a deft satire of economics and a Tennessee Williams biopic, you're automatically one of our new favorite writers.."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-soul-of-snagglepuss.md"
+notes_tags = ["notes/thursday-comics-hangover-the-soul-of-snagglepuss.md"]
 notes_about = ""
 books = ""
 +++

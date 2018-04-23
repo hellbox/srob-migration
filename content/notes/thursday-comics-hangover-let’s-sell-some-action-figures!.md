@@ -17,7 +17,7 @@ twitterauto = "Let's talk about the problem with superhero comics."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-let’s-sell-some-action-figures!.md"
+notes_tags = ["notes/thursday-comics-hangover-let’s-sell-some-action-figures!.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ["books/ms-marvel.md"]
 +++

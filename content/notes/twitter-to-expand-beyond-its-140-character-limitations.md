@@ -17,7 +17,7 @@ twitterauto = "Twitter's brevity is the soul of its utility."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/twitter-to-expand-beyond-its-140-character-limitations.md"
+notes_tags = ["notes/twitter-to-expand-beyond-its-140-character-limitations.md"]
 notes_about = ""
 books = ""
 +++

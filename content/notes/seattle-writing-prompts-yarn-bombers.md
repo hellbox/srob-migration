@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts gets yarn bombed"
 facebookauto = "Seattle Writing Prompts gets yarn bombed"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-yarn-bombers.md"
+notes_tags = ["notes/seattle-writing-prompts-yarn-bombers.md"]
 notes_about = ""
 books = ""
 +++

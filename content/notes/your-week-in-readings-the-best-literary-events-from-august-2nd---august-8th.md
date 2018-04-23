@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings includes a couple of fantastic-looking myst
 facebookauto = "Your Week in Readings includes a couple of fantastic-looking mystery events."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-august-2nd---august-8th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-august-2nd---august-8th.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post has pieces by @vanessaveselka, @jessicagross, and
 facebookauto = "Native Alaska, library story times, interviews with wonderful illustrators, and more, in today's Sunday Post."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-november-8-2015.md"
+notes_tags = ["notes/the-sunday-post-for-november-8-2015.md"]
 notes_about = ""
 books = ""
 +++

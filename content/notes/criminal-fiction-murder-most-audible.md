@@ -17,7 +17,7 @@ twitterauto = "It's Criminal Fiction, from @daneetsteffens: podcasts, four mini-
 facebookauto = "It's Criminal Fiction time: this month, podcasts, four mini-reviews, and the Quintessential Interview with Jason Pinter"
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-murder-most-audible.md"
+notes_tags = ["notes/criminal-fiction-murder-most-audible.md"]
 notes_about = ["authors/anthony-horowitz.md", "authors/stuart-neville.md", "authors/mark-billingham.md", "authors/francine-mathews-soho.md", "authors/jason-pinter.md"]
 books = ""
 +++

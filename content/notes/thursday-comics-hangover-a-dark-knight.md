@@ -17,7 +17,7 @@ twitterauto = "Is that supposed to be the Eiffel Tower?"
 facebookauto = "Whoa, is that...is that supposed to be the Eiffel Tower?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-a-dark-knight.md"
+notes_tags = ["notes/thursday-comics-hangover-a-dark-knight.md"]
 notes_about = ""
 books = ""
 +++

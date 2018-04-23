@@ -17,7 +17,7 @@ twitterauto = "The thing that sets @SeattleMystery apart? The staff's outstandin
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-recommendation-engine.md"
+notes_tags = ["notes/the-recommendation-engine.md"]
 notes_about = ["authors/kelli-stanley.md", "authors/don-winslow.md", "authors/mark-haddon.md", "authors/leonie-swann.md"]
 books = ["books/three-bags-full.md", "books/the-curious-incident-of-the-dog-in-the-night-time.md", "books/the-death-and-life-of-bobby-z.md"]
 +++

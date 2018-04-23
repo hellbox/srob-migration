@@ -17,7 +17,7 @@ twitterauto = "Sponsor @Sasquatchbooks is turning 30! Check out this awesome tim
 facebookauto = "Sponsor Sasquatch Books is turning 30! They're here this week to celebrate. Check out this great timeline on our sponsor's page."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/30-years-of-an-amazing-local-publisher.md"
+notes_tags = ["notes/30-years-of-an-amazing-local-publisher.md"]
 notes_about = ""
 books = ""
 +++

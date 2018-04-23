@@ -17,7 +17,7 @@ twitterauto = "We're super-excited for @SIFFNews to start tonight! Here are the 
 facebookauto = "The Seattle International Film Festival stars tonight! We made a list of the most literary films and documentaries in the festival for you."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/here-are-the-most-bookish-movies-at-siff-this-year.md"
+notes_tags = ["notes/here-are-the-most-bookish-movies-at-siff-this-year.md"]
 notes_about = ["authors/jane-austen.md"]
 books = ""
 +++

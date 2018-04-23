@@ -17,7 +17,7 @@ twitterauto = "There are all sorts of neat opportunities for writers over at @Hu
 facebookauto = "If you're a writer in Seattle, Hugo House has some neat opportunities that you should know about."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hugo-house-is-looking-for-a-few-good-writers.md"
+notes_tags = ["notes/hugo-house-is-looking-for-a-few-good-writers.md"]
 notes_about = ""
 books = ""
 +++

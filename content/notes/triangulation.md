@@ -17,7 +17,7 @@ twitterauto = "The Tuesday Poem today is from Sierra Golden, titled Triangulatio
 facebookauto = "The Tuesday Poem today is from Sierra Golden, titled Triangulation"
 make_image_tweet = "True"
 notes_byline = ["writers/sierra-golden.md"]
-notes_tags = "notes/triangulation.md"
+notes_tags = ["notes/triangulation.md"]
 notes_about = ""
 books = ""
 +++

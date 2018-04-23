@@ -17,7 +17,7 @@ twitterauto = "Congratulations to @PeterMountford, the recipient of the 2016 Gar
 facebookauto = "Congratulations to Peter Mountford, the recipient of the 2016 Gar LeSalle Storyteller Award from Artist Trust."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/peter-mountford-named-2016-recipient-of-gar-lasalle-storyteller-award-.md"
+notes_tags = ["notes/peter-mountford-named-2016-recipient-of-gar-lasalle-storyteller-award-.md"]
 notes_about = ["authors/peter-mountford.md", "authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

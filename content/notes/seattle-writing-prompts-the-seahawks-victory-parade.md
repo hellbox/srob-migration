@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts remembers a few stories from a massive cr
 facebookauto = "Seattle Writing Prompts remembers a few stories from a massive crowd"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-seahawks-victory-parade.md"
+notes_tags = ["notes/seattle-writing-prompts-the-seahawks-victory-parade.md"]
 notes_about = ""
 books = ""
 +++

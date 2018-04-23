@@ -17,7 +17,7 @@ twitterauto = "Now is the time to speak up for @HugoHouse. Contact your state le
 facebookauto = "Now is the time to speak up for Hugo House. Contact your state legislators!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/speak-out-for-hugo-house.md"
+notes_tags = ["notes/speak-out-for-hugo-house.md"]
 notes_about = ""
 books = ""
 +++

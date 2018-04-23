@@ -17,7 +17,7 @@ twitterauto = "Those Wonder Woman comics sold for HOW MUCH?"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/federal-way-comics-store-hits-the-jackpot.md"
+notes_tags = ["notes/federal-way-comics-store-hits-the-jackpot.md"]
 notes_about = ""
 books = ""
 +++

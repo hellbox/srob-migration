@@ -17,7 +17,7 @@ twitterauto = "This week for Portrait Gallery, @studiochristine looks at Indian 
 facebookauto = "Christine Larsen painted ornithologist and naturalist Salim Ali for today's Portrait Gallery. Today would have been his 118th birthday."
 make_image_tweet = "False"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-salim-ali.md"
+notes_tags = ["notes/portrait-gallery-salim-ali.md"]
 notes_about = ["authors/salim-ali.md"]
 books = ""
 +++

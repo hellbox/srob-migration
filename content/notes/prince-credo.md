@@ -17,7 +17,7 @@ twitterauto = "The second week's poem of Poet in Residence @Oliver_delaPaz is ti
 facebookauto = "The second week's poem of Poet in Residence Oliver de la Paz is titled \"Prince Credo\""
 make_image_tweet = "False"
 notes_byline = ["writers/oliver-de-la-paz.md"]
-notes_tags = "notes/prince-credo.md"
+notes_tags = ["notes/prince-credo.md"]
 notes_about = ""
 books = ""
 +++

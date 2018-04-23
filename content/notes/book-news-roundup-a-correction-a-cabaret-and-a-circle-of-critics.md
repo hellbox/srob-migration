@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup includes a correction, a cabaret, and a
 facebookauto = "Today's Book News Roundup includes a correction, a cabaret, and a circle of critics."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-a-correction-a-cabaret-and-a-circle-of-critics.md"
+notes_tags = ["notes/book-news-roundup-a-correction-a-cabaret-and-a-circle-of-critics.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Elif Batuman @bananakarenina #illustration pain
 facebookauto = "Portrait Gallery: Elif Batuman painted by Christine Marie Larsen. Reading Friday, March 24th at Elliott Bay Books."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-elif-batuman.md"
+notes_tags = ["notes/portrait-gallery-elif-batuman.md"]
 notes_about = ["authors/elif-batuman.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Anybody got a spare $24,000 laying around? Here's where you ought
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/prepare-to-drool-rare-book-lovers.md"
+notes_tags = ["notes/prepare-to-drool-rare-book-lovers.md"]
 notes_about = ""
 books = ""
 +++

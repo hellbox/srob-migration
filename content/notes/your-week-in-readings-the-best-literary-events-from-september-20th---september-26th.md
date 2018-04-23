@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings includes Grab Back Comics and a new Seattle
 facebookauto = "Your Week in Readings includes Grab Back Comics and a new Seattle-set mystery series!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-20th---september-26th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-20th---september-26th.md"]
 notes_about = ["authors/erma-blood.md", "authors/tatiana-gill.md"]
 books = ["books/grab-back-comics.md"]
 +++

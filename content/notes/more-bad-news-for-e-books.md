@@ -17,7 +17,7 @@ twitterauto = "Recent studies show that somewhere between 40 and 60 percent of a
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/more-bad-news-for-e-books.md"
+notes_tags = ["notes/more-bad-news-for-e-books.md"]
 notes_about = ""
 books = ""
 +++

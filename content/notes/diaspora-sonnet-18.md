@@ -17,7 +17,7 @@ twitterauto = "Our final piece from May Poet in Residence @Oliver_delaPaz, \"Dia
 facebookauto = "Our final piece from May Poet in Residence Oliver de la Paz, \"Diaspora Sonnet 18\""
 make_image_tweet = "False"
 notes_byline = ["writers/oliver-de-la-paz.md"]
-notes_tags = "notes/diaspora-sonnet-18.md"
+notes_tags = ["notes/diaspora-sonnet-18.md"]
 notes_about = ""
 books = ""
 +++

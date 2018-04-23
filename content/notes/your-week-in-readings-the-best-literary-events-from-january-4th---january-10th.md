@@ -17,7 +17,7 @@ twitterauto = "Your first full week of readings in 2017 is packed full of fun st
 facebookauto = "Your first full week of readings in 2017 is packed full of fun stuff, including a conversation between David Schmader and Sarah Galvin, a reading from Quenton Baker, a biochemist with a book about fat, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-4th---january-10th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-4th---january-10th.md"]
 notes_about = ["authors/quenton-baker.md", "authors/corinne-manning.md"]
 books = ""
 +++

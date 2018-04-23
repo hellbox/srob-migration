@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup includes Seattle's judgiest reader of t
 facebookauto = "Today's book news roundup includes Seattle's judgiest reader of translated literature in 2018."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-tired-of-writing-try-writing-near-tires.md"
+notes_tags = ["notes/book-news-roundup-tired-of-writing-try-writing-near-tires.md"]
 notes_about = ""
 books = ""
 +++

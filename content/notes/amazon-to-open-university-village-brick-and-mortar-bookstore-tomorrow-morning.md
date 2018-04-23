@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-to-open-university-village-brick-and-mortar-bookstore-tomorrow-morning.md"
+notes_tags = ["notes/amazon-to-open-university-village-brick-and-mortar-bookstore-tomorrow-morning.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Dear @artisttrust and @FryeArtMuseum and other award-givers: plea
 facebookauto = "David Shields takes up way too much attention as it is. Does he really need to be hoovering up $50,000 in awards money from the Frye Art Museum and Artist Trust, too?"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/its-time-to-stop-giving-cash-awards-to-david-shields.md"
+notes_tags = ["notes/its-time-to-stop-giving-cash-awards-to-david-shields.md"]
 notes_about = ["authors/david-shields.md"]
 books = ""
 +++

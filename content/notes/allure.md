@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem, Allure, is from @7eights"
 facebookauto = "Our Tuesday Poem, Allure, is from Imani Sims."
 make_image_tweet = "False"
 notes_byline = ["writers/imani-sims.md"]
-notes_tags = "notes/allure.md"
+notes_tags = ["notes/allure.md"]
 notes_about = ""
 books = ""
 +++

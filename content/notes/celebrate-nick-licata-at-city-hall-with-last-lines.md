@@ -17,7 +17,7 @@ twitterauto = "Seattle's poets are about to say thanks to Councilmember Licata i
 facebookauto = "Our artsiest city council member is leaving the job, and Seattle's poets are preparing a weird and wonderful sendoff for him."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/celebrate-nick-licata-at-city-hall-with-last-lines.md"
+notes_tags = ["notes/celebrate-nick-licata-at-city-hall-with-last-lines.md"]
 notes_about = ["authors/sierra-nelson.md"]
 books = ""
 +++

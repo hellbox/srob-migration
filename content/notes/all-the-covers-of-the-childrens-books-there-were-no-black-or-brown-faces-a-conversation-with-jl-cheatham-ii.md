@@ -17,7 +17,7 @@ twitterauto = "Meet J.L. Cheatham II, the author behind the Seattle Urban Book E
 facebookauto = "We talked with J.L. Cheatham II, the author who created the Seattle Urban Book Expo."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/all-the-covers-of-the-childrens-books-there-were-no-black-or-brown-faces-a-conversation-with-jl-cheatham-ii.md"
+notes_tags = ["notes/all-the-covers-of-the-childrens-books-there-were-no-black-or-brown-faces-a-conversation-with-jl-cheatham-ii.md"]
 notes_about = ""
 books = ""
 +++

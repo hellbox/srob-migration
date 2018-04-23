@@ -17,7 +17,7 @@ twitterauto = "Next week, @seacityoflit hosts the first of three free workshops 
 facebookauto = "Next week, Seattle City of Literature hosts the first of three free workshops on racial equity in the literary arts. You should go."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/now-is-the-time-to-rsvp-for-a-free-workshop-on-racial-equity-and-the-literary-arts.md"
+notes_tags = ["notes/now-is-the-time-to-rsvp-for-a-free-workshop-on-racial-equity-and-the-literary-arts.md"]
 notes_about = ""
 books = ""
 +++

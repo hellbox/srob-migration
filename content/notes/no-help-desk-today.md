@@ -17,7 +17,7 @@ twitterauto = "Our advice columnist is taking the day off. Instead, here's some 
 facebookauto = "Our advice columnist is taking the day off. Instead, here's some advice that nobody asked for:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/no-help-desk-today.md"
+notes_tags = ["notes/no-help-desk-today.md"]
 notes_about = ""
 books = ""
 +++

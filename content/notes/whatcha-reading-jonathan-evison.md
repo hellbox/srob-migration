@@ -17,7 +17,7 @@ twitterauto = "Hey @jonathanevison, whatcha reading?"
 facebookauto = "Hey Jonathan Evison, whatcha reading?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-jonathan-evison.md"
+notes_tags = ["notes/whatcha-reading-jonathan-evison.md"]
 notes_about = ""
 books = ""
 +++

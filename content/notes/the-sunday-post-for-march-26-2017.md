@@ -17,7 +17,7 @@ twitterauto = "Sunday Post is up: Kellyanne Conway, Mario Batali dines with Jim 
 facebookauto = "Sunday Post is up: Kellyanne Conway, Mario Batali dines with Jim Harrison, and Easter eggs both fresh & rotten."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-march-26-2017.md"
+notes_tags = ["notes/the-sunday-post-for-march-26-2017.md"]
 notes_about = ""
 books = ""
 +++

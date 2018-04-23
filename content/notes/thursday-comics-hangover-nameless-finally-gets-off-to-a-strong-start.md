@@ -17,7 +17,7 @@ twitterauto = "Maybe the fifth issue of Grant Morrison's astronaut horror comic 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-nameless-finally-gets-off-to-a-strong-start.md"
+notes_tags = ["notes/thursday-comics-hangover-nameless-finally-gets-off-to-a-strong-start.md"]
 notes_about = ["authors/grant-morrison.md"]
 books = ""
 +++

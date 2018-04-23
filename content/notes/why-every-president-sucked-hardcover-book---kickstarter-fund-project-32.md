@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs a book that explains why every US pres
 facebookauto = "The Kickstarter Fund backs a project that seeks to explain exactly how every American president has sucked. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/why-every-president-sucked-hardcover-book---kickstarter-fund-project-32.md"
+notes_tags = ["notes/why-every-president-sucked-hardcover-book---kickstarter-fund-project-32.md"]
 notes_about = ""
 books = ""
 +++

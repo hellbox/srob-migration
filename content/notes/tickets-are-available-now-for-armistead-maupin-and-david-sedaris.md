@@ -17,7 +17,7 @@ twitterauto = "Reminder: Tickets are available now for readings from Armistead M
 facebookauto = "Reminder: Tickets are available now for readings from Armistead Maupin and David Sedaris!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/tickets-are-available-now-for-armistead-maupin-and-david-sedaris.md"
+notes_tags = ["notes/tickets-are-available-now-for-armistead-maupin-and-david-sedaris.md"]
 notes_about = ["authors/david-sedaris.md"]
 books = ""
 +++

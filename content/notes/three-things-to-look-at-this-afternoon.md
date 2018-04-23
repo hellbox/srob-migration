@@ -17,7 +17,7 @@ twitterauto = "Here's some book-related art we're admiring today."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/three-things-to-look-at-this-afternoon.md"
+notes_tags = ["notes/three-things-to-look-at-this-afternoon.md"]
 notes_about = ""
 books = ""
 +++

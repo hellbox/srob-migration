@@ -17,7 +17,7 @@ twitterauto = "Mail call for a beautiful rainy day, heavy with comics"
 facebookauto = "Mail call in a well-watered Seattle, with some great comics in the mix"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-september-17-2015.md"
+notes_tags = ["notes/mail-call-for-september-17-2015.md"]
 notes_about = ""
 books = ""
 +++

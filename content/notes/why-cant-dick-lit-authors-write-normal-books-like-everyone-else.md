@@ -17,7 +17,7 @@ twitterauto = "Why can't Dick Lit authors write normal books like everyone else?
 facebookauto = "\"I feel a bit bad now, because I just looked at my bookshelf and almost all the books are by normal authors. I should really get a couple of books by male authors to even it out.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/why-cant-dick-lit-authors-write-normal-books-like-everyone-else.md"
+notes_tags = ["notes/why-cant-dick-lit-authors-write-normal-books-like-everyone-else.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Here are all the literary events you need to know about this week
 facebookauto = "Your week in literary events includes an adult coloring book, a celebration of American revolution, and a barbecue."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-august-17th---august-23rd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-august-17th---august-23rd.md"]
 notes_about = ""
 books = ""
 +++

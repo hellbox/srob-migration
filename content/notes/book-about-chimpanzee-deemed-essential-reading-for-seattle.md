@@ -17,7 +17,7 @@ twitterauto = "Remember \"If All Seattle Read the Same Book?\" That was a lot of
 facebookauto = "Remember \"If All Seattle Read the Same Book?\" That was a lot of fun. Did you know that program is still going? And are you ready to hear what this year's selection is?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-about-chimpanzee-deemed-essential-reading-for-seattle.md"
+notes_tags = ["notes/book-about-chimpanzee-deemed-essential-reading-for-seattle.md"]
 notes_about = ["authors/karen-joy-fowler.md"]
 books = ""
 +++

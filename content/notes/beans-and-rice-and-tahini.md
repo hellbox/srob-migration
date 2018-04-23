@@ -17,7 +17,7 @@ twitterauto = "This post was almost a tweetstorm. Support our writers in their c
 facebookauto = "This post was almost a tweetstorm. Support our writers in their choices to not tweetstorm by reading  it."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/beans-and-rice-and-tahini.md"
+notes_tags = ["notes/beans-and-rice-and-tahini.md"]
 notes_about = ""
 books = ""
 +++

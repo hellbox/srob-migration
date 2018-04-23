@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/youth-speaks-on-beacon-hill.md"
+notes_tags = ["notes/youth-speaks-on-beacon-hill.md"]
 notes_about = ""
 books = ""
 +++

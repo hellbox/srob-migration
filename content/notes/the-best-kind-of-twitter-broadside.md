@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-best-kind-of-twitter-broadside.md"
+notes_tags = ["notes/the-best-kind-of-twitter-broadside.md"]
 notes_about = ["authors/maria-dahvana-headley.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "If you live in Tacoma, you should help name a beautiful 11-acre p
 facebookauto = "If you live in Tacoma, you should help name a beautiful 11-acre park after Dune author Frank Herbert."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/tacoma-is-very-close-to-finally-honoring-dune-author-frank-herbert-with-a-park.md"
+notes_tags = ["notes/tacoma-is-very-close-to-finally-honoring-dune-author-frank-herbert-with-a-park.md"]
 notes_about = ""
 books = ""
 +++

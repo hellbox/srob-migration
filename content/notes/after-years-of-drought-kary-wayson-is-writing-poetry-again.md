@@ -17,7 +17,7 @@ twitterauto = "Our October poet in residence, Kary Wayson, recently spent 3 year
 facebookauto = "Our October poet in residence, Kary Wayson, recently spent three years not writing anything."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/after-years-of-drought-kary-wayson-is-writing-poetry-again.md"
+notes_tags = ["notes/after-years-of-drought-kary-wayson-is-writing-poetry-again.md"]
 notes_about = ["authors/kary-wayson.md"]
 books = ""
 +++

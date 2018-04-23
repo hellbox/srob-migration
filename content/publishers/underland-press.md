@@ -10,5 +10,5 @@ last_updated = "2015-08-08T16:23:00-07:00"
 preview_url = "66f5f4ce-42d5-1868-167a-7fd5cdeaa39c"
 name = "Underland Press"
 title = "Underland Press"
-books_publisher = "publishers/underland-press.md"
+books_publisher = ["publishers/underland-press.md"]
 +++

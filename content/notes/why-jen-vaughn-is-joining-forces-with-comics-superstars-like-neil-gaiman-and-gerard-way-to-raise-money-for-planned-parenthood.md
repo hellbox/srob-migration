@@ -17,7 +17,7 @@ twitterauto = "We talked with @TheJenya about a comics anthology that raises mon
 facebookauto = "We talked with Seattle comics superstar Jen Vaughn about her contribution to a comics anthology fundraiser for Planned Parenthood."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/why-jen-vaughn-is-joining-forces-with-comics-superstars-like-neil-gaiman-and-gerard-way-to-raise-money-for-planned-parenthood.md"
+notes_tags = ["notes/why-jen-vaughn-is-joining-forces-with-comics-superstars-like-neil-gaiman-and-gerard-way-to-raise-money-for-planned-parenthood.md"]
 notes_about = ["authors/jen-vaughn.md", "authors/neil-gaiman.md"]
 books = ""
 +++

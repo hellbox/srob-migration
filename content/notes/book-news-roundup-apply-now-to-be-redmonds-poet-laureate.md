@@ -17,7 +17,7 @@ twitterauto = "You have until December 15th to apply for Redmond's Poet Laureate
 facebookauto = "You have until December 15th to apply for Redmond's Poet Laureate position."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-apply-now-to-be-redmonds-poet-laureate.md"
+notes_tags = ["notes/book-news-roundup-apply-now-to-be-redmonds-poet-laureate.md"]
 notes_about = ""
 books = ""
 +++

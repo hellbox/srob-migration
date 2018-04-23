@@ -17,7 +17,7 @@ twitterauto = "It's @nisishawl time! Dystopia vs. Utopia, upcoming cons, and gre
 facebookauto = "It's Nisi Shawl time! Dystopia vs. Utopia, upcoming cons, and great SFFH books in this Future Alternative Past.\n"
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/the-future-alternative-past-this-dystopian-hope.md"
+notes_tags = ["notes/the-future-alternative-past-this-dystopian-hope.md"]
 notes_about = ""
 books = ""
 +++

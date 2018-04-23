@@ -17,7 +17,7 @@ twitterauto = "Two weekend events, at @elliottbaybooks and @openpoetrybooks, hav
 facebookauto = "Two readings scheduled for this weekend have been postponed due to the big wind storm:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/two-weekend-literary-events-postponed-due-to-wind-storm.md"
+notes_tags = ["notes/two-weekend-literary-events-postponed-due-to-wind-storm.md"]
 notes_about = ""
 books = ""
 +++

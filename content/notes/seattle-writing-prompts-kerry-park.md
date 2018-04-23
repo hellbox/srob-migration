@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts takes a look at the view from Kerry Park"
 facebookauto = "Seattle Writing Prompts takes a look at the view from Kerry Park"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-kerry-park.md"
+notes_tags = ["notes/seattle-writing-prompts-kerry-park.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Bob Dylan won the Nobel Prize in Literature? Okay. But..."
 facebookauto = "Bob Dylan won the Nobel Prize in Literature? Okay. But..."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/bob-dylan-wins-2016-nobel-prize-for-literature.md"
+notes_tags = ["notes/bob-dylan-wins-2016-nobel-prize-for-literature.md"]
 notes_about = ["authors/marilynne-robinson.md", "authors/claudia-rankine.md", "authors/joan-didion.md"]
 books = ""
 +++

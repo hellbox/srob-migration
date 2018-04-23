@@ -10,5 +10,5 @@ last_updated = "2016-01-18T13:22:00-08:00"
 preview_url = "5b8b0249-f8f1-fbcf-bc9c-3de5c17c9381"
 name = "Scholastic Press"
 title = "Scholastic Press"
-books_publisher = "publishers/scholastic-press.md"
+books_publisher = ["publishers/scholastic-press.md"]
 +++

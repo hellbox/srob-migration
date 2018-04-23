@@ -17,7 +17,7 @@ twitterauto = "Send literary complaints & passive-aggressive bookstore etiquette
 facebookauto = "Our wonderful advice columnist, Cienna Madrid, is taking a much-needed vacation. In the meantime, please send your literary complaints, passive-aggressive bookstore etiquette issues, and library-related romance questions to advice@seattlereviewofbooks.com."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/help-desk-has-gone-fishin.md"
+notes_tags = ["notes/help-desk-has-gone-fishin.md"]
 notes_about = ""
 books = ""
 +++

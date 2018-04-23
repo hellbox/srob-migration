@@ -17,7 +17,7 @@ twitterauto = "Glen Canyon returns, LeGuin on Gaiman, and the devil on the desig
 facebookauto = "Glen Canyon returns, Ursula LeGuin on Neil Gaiman, and the devil on the designer's shoulder, in this week's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-april-2-2017.md"
+notes_tags = ["notes/the-sunday-post-for-april-2-2017.md"]
 notes_about = ""
 books = ""
 +++

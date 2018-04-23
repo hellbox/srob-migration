@@ -17,7 +17,7 @@ twitterauto = "The future of comics is YA, and @ScottWesterfeld's Spill Zone is 
 facebookauto = "The future of comics is young adult, and Scott Westerfeld's new book Spill Zone is right out at the forefront."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-true-colors.md"
+notes_tags = ["notes/thursday-comics-hangover-true-colors.md"]
 notes_about = ""
 books = ""
 +++

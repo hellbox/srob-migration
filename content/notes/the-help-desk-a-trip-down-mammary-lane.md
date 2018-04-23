@@ -17,7 +17,7 @@ twitterauto = "Don't be a boob! Here's some important advice for men who write a
 facebookauto = "Don't be a boob! Here's some important advice for men who write about breasts:"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-a-trip-down-mammary-lane.md"
+notes_tags = ["notes/the-help-desk-a-trip-down-mammary-lane.md"]
 notes_about = ""
 books = ""
 +++

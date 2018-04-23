@@ -17,7 +17,7 @@ twitterauto = "We're sponsored this week by the terrific @Gregg_Olsen. Read a fu
 facebookauto = "Gregg Olsen is our sponsor this week. You can read a full chapter from the second book in his Waterman/Stark series on the site all week. You won't regret it!"
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-mystery-in-our-own-back-yard.md"
+notes_tags = ["notes/a-mystery-in-our-own-back-yard.md"]
 notes_about = ["authors/gregg-olsen.md"]
 books = ["books/now-that-shes-gone.md"]
 +++

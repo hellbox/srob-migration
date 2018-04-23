@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts stops for a soda just off Broadway"
 facebookauto = "Seattle Writing Prompts stops for a soda just off Broadway"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-mystery-coke-machine.md"
+notes_tags = ["notes/seattle-writing-prompts-the-mystery-coke-machine.md"]
 notes_about = ""
 books = ""
 +++

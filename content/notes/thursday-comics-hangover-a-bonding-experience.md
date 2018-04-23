@@ -17,7 +17,7 @@ twitterauto = "You know how sometimes there's a sequel that makes you hate the o
 facebookauto = "You know how sometimes there's a sequel that makes you hate the original film even more?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-a-bonding-experience.md"
+notes_tags = ["notes/thursday-comics-hangover-a-bonding-experience.md"]
 notes_about = ["authors/mark-millar.md"]
 books = ""
 +++

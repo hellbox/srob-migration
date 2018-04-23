@@ -17,7 +17,7 @@ twitterauto = "Our Book News Roundup features @fantagraphics, @DonMeeChoi, and @
 facebookauto = "Our book news roundup celebrates a British publisher teaming up with a beloved Seattle press, a great honor for Seattle poet Don Mee Choi, and a #BlackLivesMatter collection at Seattle Public Library."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-an-international-publishing-partnership-a-lannan-fellowship-and-blacklivesmatter.md"
+notes_tags = ["notes/book-news-roundup-an-international-publishing-partnership-a-lannan-fellowship-and-blacklivesmatter.md"]
 notes_about = ["authors/don-mee-choi.md"]
 books = ["books/hardly-war.md"]
 +++

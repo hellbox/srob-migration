@@ -17,7 +17,7 @@ twitterauto = "Our second by July Poet in Residence, @KelliAgodon starts with th
 facebookauto = "Our second by July Poet in Residence, Kelli Russell Agodon starts with the line \"My friend on the couch trembles.\""
 make_image_tweet = "False"
 notes_byline = ["writers/kelli-russell-agodon.md"]
-notes_tags = "notes/present-tense.md"
+notes_tags = ["notes/present-tense.md"]
 notes_about = ""
 books = ""
 +++

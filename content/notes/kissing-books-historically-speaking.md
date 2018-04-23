@@ -17,7 +17,7 @@ twitterauto = "Kissing Books time! @O_Waite reviews @suleikhasnyder, @AlyssaCole
 facebookauto = "Kissing Books time! Olivia Waite reviews Suleikha Snyder, Alyssa Cole, and more!"
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/kissing-books-historically-speaking.md"
+notes_tags = ["notes/kissing-books-historically-speaking.md"]
 notes_about = ["authors/jeannie-lin.md", "authors/jane-austen.md", "authors/margaret-mitchell.md", "authors/mary-balogh.md", "authors/susanne-lord.md", "authors/genevieve-turner.md", "authors/suleikha-snyder.md", "authors/alyssa-cole.md", "authors/beverly-jenkins.md", "authors/kathleen-woodiwiss.md", "authors/laura-ingalls-wilder.md", "authors/eloisa-james.md", "authors/charlotte-bront\u00eb.md", "authors/bertrice-small.md", "authors/stephanie-laurens.md"]
 books = ""
 +++

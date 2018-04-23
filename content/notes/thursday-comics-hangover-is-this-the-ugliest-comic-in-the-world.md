@@ -17,7 +17,7 @@ twitterauto = "Is this the ugliest comic book in the world?"
 facebookauto = "Is this the ugliest comic book in the world?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-is-this-the-ugliest-comic-in-the-world.md"
+notes_tags = ["notes/thursday-comics-hangover-is-this-the-ugliest-comic-in-the-world.md"]
 notes_about = ""
 books = ""
 +++

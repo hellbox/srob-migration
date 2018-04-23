@@ -17,7 +17,7 @@ twitterauto = "With Obamacare in peril again, here's a political poem for @cathy
 facebookauto = "With Obamacare in peril again, here's a political poem for Cathy McMorris Rodgers, from Kate Lebo."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-love-song-of-cathy-mcmorris-rodgers.md"
+notes_tags = ["notes/the-love-song-of-cathy-mcmorris-rodgers.md"]
 notes_about = ["authors/kate-lebo.md"]
 books = ""
 +++

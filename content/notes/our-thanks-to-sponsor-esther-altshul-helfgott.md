@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/our-thanks-to-sponsor-esther-altshul-helfgott.md"
+notes_tags = ["notes/our-thanks-to-sponsor-esther-altshul-helfgott.md"]
 notes_about = ["authors/esther-altshul-helfgott.md"]
 books = ["books/dear-alzheimers.md"]
 +++

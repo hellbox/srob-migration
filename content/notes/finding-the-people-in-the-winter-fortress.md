@@ -17,7 +17,7 @@ twitterauto = "Get ready to celebrate The Winter Fortress tomorrow @HugoHouse"
 facebookauto = "Seattle author Neal Bascomb discusses the perils of moving cross-country when you're in the middle of a research-heavy book."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/finding-the-people-in-the-winter-fortress.md"
+notes_tags = ["notes/finding-the-people-in-the-winter-fortress.md"]
 notes_about = ["authors/neal-bascomb.md"]
 books = ""
 +++

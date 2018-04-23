@@ -17,7 +17,7 @@ twitterauto = "You're not imagining things: it's getting harder to make a living
 facebookauto = "You're not imagining things: it's getting harder to make a living as a writer."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-inequality-gap-grows-even-larger.md"
+notes_tags = ["notes/literary-inequality-gap-grows-even-larger.md"]
 notes_about = ""
 books = ""
 +++

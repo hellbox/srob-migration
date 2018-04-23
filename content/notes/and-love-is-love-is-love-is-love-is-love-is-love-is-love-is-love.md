@@ -17,7 +17,7 @@ twitterauto = "The literary traditions behind Lin-Manuel Miranda's love sonnet."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/and-love-is-love-is-love-is-love-is-love-is-love-is-love-is-love.md"
+notes_tags = ["notes/and-love-is-love-is-love-is-love-is-love-is-love-is-love-is-love.md"]
 notes_about = ""
 books = ""
 +++

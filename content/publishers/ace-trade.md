@@ -10,5 +10,5 @@ last_updated = "2015-08-28T21:00:00-07:00"
 preview_url = "4a03dd3b-45b6-f511-067b-ae4607dcb87a"
 name = "Ace Trade"
 title = "Ace Trade"
-books_publisher = "publishers/ace-trade.md"
+books_publisher = ["publishers/ace-trade.md"]
 +++

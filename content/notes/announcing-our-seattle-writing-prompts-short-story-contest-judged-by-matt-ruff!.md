@@ -17,7 +17,7 @@ twitterauto = "Announcing a short story contest based on our column, Seattle Wri
 facebookauto = "Announcing a short story contest based on our column, Seattle Writing Prompts"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/announcing-our-seattle-writing-prompts-short-story-contest-judged-by-matt-ruff!.md"
+notes_tags = ["notes/announcing-our-seattle-writing-prompts-short-story-contest-judged-by-matt-ruff!.md"]
 notes_about = ["authors/matt-ruff.md"]
 books = ""
 +++

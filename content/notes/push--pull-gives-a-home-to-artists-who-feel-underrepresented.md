@@ -17,7 +17,7 @@ twitterauto = "Why don't so-called \"fine artists\" respect cartoonists?"
 facebookauto = "Push/Pull, our January bookstore of the month, is providing a home for illustrators, who get short shrift in the so-called \"fine art\" world."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/push--pull-gives-a-home-to-artists-who-feel-underrepresented.md"
+notes_tags = ["notes/push--pull-gives-a-home-to-artists-who-feel-underrepresented.md"]
 notes_about = ""
 books = ""
 +++

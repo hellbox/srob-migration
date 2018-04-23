@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts gets sudsed up at the Elephant Car Wash"
 facebookauto = "Seattle Writing Prompts gets sudsed up at the Elephant Car Wash"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-elephant-car-wash-.md"
+notes_tags = ["notes/seattle-writing-prompts-elephant-car-wash-.md"]
 notes_about = ""
 books = ""
 +++

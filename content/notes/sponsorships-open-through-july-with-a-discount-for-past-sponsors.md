@@ -17,7 +17,7 @@ twitterauto = "We've just released sponsorships through July, with a $25 discoun
 facebookauto = "We've just released site sponsorships through July, with a $25 discount for current sponsors through the end of the day!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/sponsorships-open-through-july-with-a-discount-for-past-sponsors.md"
+notes_tags = ["notes/sponsorships-open-through-july-with-a-discount-for-past-sponsors.md"]
 notes_about = ""
 books = ""
 +++

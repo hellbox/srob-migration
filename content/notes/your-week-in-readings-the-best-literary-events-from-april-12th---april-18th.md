@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes a comic biography and two great po
 facebookauto = "Your week in readings includes a comic biography and two great political events."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-12th---april-18th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-12th---april-18th.md"]
 notes_about = ["authors/ej-koh.md", "authors/quenton-baker.md"]
 books = ""
 +++

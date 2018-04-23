@@ -17,7 +17,7 @@ twitterauto = "Maged Zaher said goodbye to Seattle over the weekend. He just can
 facebookauto = "Maged Zaher said goodbye to Seattle over the weekend. He just can't quit this city."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/what-it-was-like-at-maged-zahers-last-big-reading-in-seattle.md"
+notes_tags = ["notes/what-it-was-like-at-maged-zahers-last-big-reading-in-seattle.md"]
 notes_about = ["authors/maged-zaher.md"]
 books = ""
 +++

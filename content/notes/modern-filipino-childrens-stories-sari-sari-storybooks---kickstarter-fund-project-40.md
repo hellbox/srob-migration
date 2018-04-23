@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @sarisaristories this week."
 facebookauto = "The Kickstarter Fund goes for a project to create diverse-language Filipino children's books."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/modern-filipino-childrens-stories-sari-sari-storybooks---kickstarter-fund-project-40.md"
+notes_tags = ["notes/modern-filipino-childrens-stories-sari-sari-storybooks---kickstarter-fund-project-40.md"]
 notes_about = ""
 books = ""
 +++

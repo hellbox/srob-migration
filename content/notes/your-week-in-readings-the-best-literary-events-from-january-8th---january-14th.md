@@ -17,7 +17,7 @@ twitterauto = "Lots of great events this week, including two from the African Am
 facebookauto = "Lots of great events this week, including two from the African American Writers' Alliance."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-8th---january-14th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-8th---january-14th.md"]
 notes_about = ""
 books = ""
 +++

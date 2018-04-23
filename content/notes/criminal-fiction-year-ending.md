@@ -17,7 +17,7 @@ twitterauto = "It's the end of the year for Criminal Fiction. @daneetsteffens br
 facebookauto = "It's the end of the year for Criminal Fiction. Daneet Steffens brings the December books home. "
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-year-ending.md"
+notes_tags = ["notes/criminal-fiction-year-ending.md"]
 notes_about = ["authors/lawrence-block.md", "authors/garry-disher.md", "authors/peter-lovesey.md", "authors/joyce-carol-oates.md", "authors/jeffrey-deaver.md", "authors/nicholas-christopher.md", "authors/michael-connelly.md", "authors/lee-child.md", "authors/sarah-weinman.md"]
 books = ""
 +++

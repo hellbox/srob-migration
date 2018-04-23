@@ -17,7 +17,7 @@ twitterauto = "Erik Larson, Sharma Shields, and other writers won at the Washing
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sharma-shields-erik-larson-jessixa-bagley-win-at-washington-state-book-awards.md"
+notes_tags = ["notes/sharma-shields-erik-larson-jessixa-bagley-win-at-washington-state-book-awards.md"]
 notes_about = ["authors/erik-larson.md", "authors/jessixa-bagley.md"]
 books = ""
 +++

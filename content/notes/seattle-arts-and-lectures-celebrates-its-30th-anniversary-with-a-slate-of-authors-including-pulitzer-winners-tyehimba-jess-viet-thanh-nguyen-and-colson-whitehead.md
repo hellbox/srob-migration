@@ -17,7 +17,7 @@ twitterauto = "The 2017-2018 lineup of @SeaArtsLectures \u200fauthors looks incr
 facebookauto = "The 2017-2018 lineup of @SeaArtsLectures \u200fauthors looks incredible:"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-arts-and-lectures-celebrates-its-30th-anniversary-with-a-slate-of-authors-including-pulitzer-winners-tyehimba-jess-viet-thanh-nguyen-and-colson-whitehead.md"
+notes_tags = ["notes/seattle-arts-and-lectures-celebrates-its-30th-anniversary-with-a-slate-of-authors-including-pulitzer-winners-tyehimba-jess-viet-thanh-nguyen-and-colson-whitehead.md"]
 notes_about = ["authors/colson-whitehead.md"]
 books = ""
 +++

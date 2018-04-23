@@ -17,7 +17,7 @@ twitterauto = "That Justice League movie? Uhhhhhh, yeah, it's pretty bad."
 facebookauto = "That Justice League movie? Uhhhhhh, yeah, it's pretty bad."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-justice-is-blind-justice-league-is-dumb.md"
+notes_tags = ["notes/thursday-comics-hangover-justice-is-blind-justice-league-is-dumb.md"]
 notes_about = ""
 books = ""
 +++

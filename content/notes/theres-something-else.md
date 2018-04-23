@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/clare-johnson.md"]
-notes_tags = "notes/theres-something-else.md"
+notes_tags = ["notes/theres-something-else.md"]
 notes_about = ""
 books = ""
 +++

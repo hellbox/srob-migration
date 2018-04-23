@@ -17,7 +17,7 @@ twitterauto = "New Philip Pullman! New Philip Pullman! New Phiip Pullman! Octobe
 facebookauto = "We haven't seen literary folks this giddy since before the election."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/philip-pullman-to-publish-new-trilogy-starting-this-fall.md"
+notes_tags = ["notes/philip-pullman-to-publish-new-trilogy-starting-this-fall.md"]
 notes_about = ""
 books = ""
 +++

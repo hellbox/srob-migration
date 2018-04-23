@@ -17,7 +17,7 @@ twitterauto = "\"We experimentalists are so lucky \u2014 we are always emerging!
 facebookauto = "\"We experimentalists are so lucky \u2014 we are always emerging!\" Mattilda Bernstein Sycamore interviews Robert Gl\u00fcck."
 make_image_tweet = "True"
 notes_byline = ["writers/mattilda-bernstein-sycamore.md"]
-notes_tags = "notes/“i’ll-put-‘still-emerging’-on-my-gravestone”-an-interview-with-robert-glück.md"
+notes_tags = ["notes/“i’ll-put-‘still-emerging’-on-my-gravestone”-an-interview-with-robert-glück.md"]
 notes_about = ["authors/mattilda-bernstein-sycamore.md", "authors/robert-gl\u00fcck.md"]
 books = ""
 +++

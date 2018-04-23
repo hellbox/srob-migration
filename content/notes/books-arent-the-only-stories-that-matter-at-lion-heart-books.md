@@ -17,7 +17,7 @@ twitterauto = "Meet the Seattle bookseller who can tell what your parents do jus
 facebookauto = "Our celebration of Bookstore of the Month Lion Heart Books continues with a look at all the stories that pass through the place \u2014\u00a0and we're not just talking about the books."
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/books-arent-the-only-stories-that-matter-at-lion-heart-books.md"
+notes_tags = ["notes/books-arent-the-only-stories-that-matter-at-lion-heart-books.md"]
 notes_about = ""
 books = ""
 +++

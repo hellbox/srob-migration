@@ -17,7 +17,7 @@ twitterauto = "Sponsor @stevetoutonghi's new science fiction novel \"Join\" is a
 facebookauto = "Sponsor Steve Toutonghi's new science fiction novel \"Join\" is a \"conceptual powerhouse. Read a full chapter on the site this week."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-consciousness-with-five-heads.md"
+notes_tags = ["notes/a-consciousness-with-five-heads.md"]
 notes_about = ["authors/steve-toutonghi.md"]
 books = ["books/join.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-cannot-tell-you-how-strange-this-feels-i-wrote-the-book-hoping-to-fend-it-off-and-i-believe-it-will-be-fended-off.md"
+notes_tags = ["notes/i-cannot-tell-you-how-strange-this-feels-i-wrote-the-book-hoping-to-fend-it-off-and-i-believe-it-will-be-fended-off.md"]
 notes_about = ["authors/margaret-atwood.md"]
 books = ""
 +++

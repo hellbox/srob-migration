@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: Will you write me a poem?"
 facebookauto = "Dear Cienna: Will you write me a poem?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-a-poem-for-the-lonely.md"
+notes_tags = ["notes/the-help-desk-a-poem-for-the-lonely.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Remember back when people used to manipulate the truth? Now they 
 facebookauto = "Remember back when people used to manipulate the truth? Now they just outright lie."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/another-book-that-wasnt-prepared-for-a-trump-victory.md"
+notes_tags = ["notes/another-book-that-wasnt-prepared-for-a-trump-victory.md"]
 notes_about = ""
 books = ""
 +++

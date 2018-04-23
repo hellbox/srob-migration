@@ -17,7 +17,7 @@ twitterauto = "We asked @UBookStoreReads bookseller Melissa what book she wanted
 facebookauto = "We asked University Book Store bookseller Melissa Barnes what book she wanted for the holidays."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-booksellers-holiday-a-kids-book-about-not-taking-no-for-an-answer.md"
+notes_tags = ["notes/a-booksellers-holiday-a-kids-book-about-not-taking-no-for-an-answer.md"]
 notes_about = ""
 books = ""
 +++

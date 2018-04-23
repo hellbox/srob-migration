@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Reading with Rover, 1st Sundays @ubookstoreread
 facebookauto = "Portrait Gallery: Reading with Rover at UBookstore Mill Creek, the first Sunday of every month."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-reading-with-rover.md"
+notes_tags = ["notes/portrait-gallery-reading-with-rover.md"]
 notes_about = ""
 books = ""
 +++

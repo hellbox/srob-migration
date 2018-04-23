@@ -17,7 +17,7 @@ twitterauto = "Here are the events you need to know about this week, including t
 facebookauto = "Here are all the events you need to know about this week, including two festivals and an event where adorable kids read to adorable dogs."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-august-3rd---august-9th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-august-3rd---august-9th.md"]
 notes_about = ["authors/michelle-pe\u00f1aloza.md", "authors/greg-bem.md", "authors/claudia-castro-luna.md"]
 books = ""
 +++

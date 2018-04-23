@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes Pussy Riot, white privilege, and a
 facebookauto = "Your week in readings includes Pussy Riot, white privilege, and a tribute to Hugo House. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-27th---october-3rd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-27th---october-3rd.md"]
 notes_about = ""
 books = ""
 +++

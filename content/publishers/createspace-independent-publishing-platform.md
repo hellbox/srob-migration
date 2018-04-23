@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "CreateSpace Independent Publishing Platform"
 title = "CreateSpace Independent Publishing Platform"
-books_publisher = "publishers/createspace-independent-publishing-platform.md"
+books_publisher = ["publishers/createspace-independent-publishing-platform.md"]
 +++

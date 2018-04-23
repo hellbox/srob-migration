@@ -17,7 +17,7 @@ twitterauto = "Today in book news: Why you should start a computer science book 
 facebookauto = "Today in book news: More women are buying digital comics than ever before, and why you should start a computer science book club."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-united-airlines-vs-comic-con-nerds.md"
+notes_tags = ["notes/book-news-roundup-united-airlines-vs-comic-con-nerds.md"]
 notes_about = ""
 books = ""
 +++

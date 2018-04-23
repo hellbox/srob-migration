@@ -17,7 +17,7 @@ twitterauto = "Hey, @ciennam: what do you do if your friend self-publishes a boo
 facebookauto = "What do you do if your friend self-publishes a book and it's absolutely terrible?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-you-sure-did-write-a-book-didnt-you.md"
+notes_tags = ["notes/the-help-desk-you-sure-did-write-a-book-didnt-you.md"]
 notes_about = ""
 books = ""
 +++

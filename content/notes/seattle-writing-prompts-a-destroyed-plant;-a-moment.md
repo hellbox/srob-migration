@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts wonders over a confusion of flowers cast 
 facebookauto = "Seattle Writing Prompts wonders over a confusion of flowers cast on the ground."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-a-destroyed-plant;-a-moment.md"
+notes_tags = ["notes/seattle-writing-prompts-a-destroyed-plant;-a-moment.md"]
 notes_about = ""
 books = ""
 +++

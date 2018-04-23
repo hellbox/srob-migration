@@ -17,7 +17,7 @@ twitterauto = "This Saturday, a party bus full of Seattle writers is coming to a
 facebookauto = "This Saturday, a party bus full of Seattle writers is coming to a bookstore near you."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-indies-first-party-bus.md"
+notes_tags = ["notes/literary-event-of-the-week-indies-first-party-bus.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/david-schmader.md", "authors/g-willow-wilson.md", "authors/donna-miscolta.md", "authors/jane-wong.md", "authors/quenton-baker.md", "authors/claudia-castro-luna.md"]
 books = ""
 +++

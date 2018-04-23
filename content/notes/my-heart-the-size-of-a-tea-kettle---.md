@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem, by @mschmeltzer01, is titled \"My Heart the Siz
 facebookauto = "Our Tuesday Poem, by Michael Schmeltzer, is titled \"My Heart the Size of a Tea Kettle\""
 make_image_tweet = "False"
 notes_byline = ["writers/michael-schmeltzer.md"]
-notes_tags = "notes/my-heart-the-size-of-a-tea-kettle---.md"
+notes_tags = ["notes/my-heart-the-size-of-a-tea-kettle---.md"]
 notes_about = ""
 books = ""
 +++

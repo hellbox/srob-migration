@@ -17,7 +17,7 @@ twitterauto = "The event of the week this week is @ShortRunSeattle, which is big
 facebookauto = "The event of the week this week is the Short Run Comix & Arts Festival, which is bigger and better than ever."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-short-run.md"
+notes_tags = ["notes/literary-event-of-the-week-short-run.md"]
 notes_about = ["authors/julia-wertz.md", "authors/willie-fitzgerald.md", "authors/stacey-levine.md", "authors/tom-hart.md", "authors/emil-ferris.md"]
 books = ["books/rosalie-lightning.md"]
 +++

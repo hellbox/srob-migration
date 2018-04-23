@@ -17,7 +17,7 @@ twitterauto = "We can't stop staring at @ohotnig's art for the new comic Turncoa
 facebookauto = "A new sci-fi noir comic has such good art that we can't even focus on how interesting the story is."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-love-at-first-sight.md"
+notes_tags = ["notes/thursday-comics-hangover-love-at-first-sight.md"]
 notes_about = ""
 books = ""
 +++

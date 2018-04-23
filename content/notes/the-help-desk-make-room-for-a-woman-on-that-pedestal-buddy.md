@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: If you had the power to remove one man from the ca
 facebookauto = "Dear Cienna: If you had the power to remove one man from the canon and replace him with a woman, who would it be?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-make-room-for-a-woman-on-that-pedestal-buddy.md"
+notes_tags = ["notes/the-help-desk-make-room-for-a-woman-on-that-pedestal-buddy.md"]
 notes_about = ["authors/stacey-levine.md"]
 books = ""
 +++

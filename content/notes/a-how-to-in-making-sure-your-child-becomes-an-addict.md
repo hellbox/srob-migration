@@ -17,7 +17,7 @@ twitterauto = "Sponsor @jawright8 brings her stellar debut novel of addiction an
 facebookauto = "Sponsor JA Wright brings a moving and poignant novel about addiction and recovery to our sponsorship program this week. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-how-to-in-making-sure-your-child-becomes-an-addict.md"
+notes_tags = ["notes/a-how-to-in-making-sure-your-child-becomes-an-addict.md"]
 notes_about = ["authors/ja-wright.md"]
 books = ["books/how-to-grow-an-addict.md"]
 +++

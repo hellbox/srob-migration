@@ -17,7 +17,7 @@ twitterauto = "Men in hot tubs, trigger warnings, and some of the best readings 
 facebookauto = "Men in hot tubs, trigger warnings, and some of the best readings at #AWP16, from our correspondent Rachel Kessler."
 make_image_tweet = "False"
 notes_byline = ["writers/rachel-kessler.md"]
-notes_tags = "notes/notes-from-the-field---awp-day-2.md"
+notes_tags = ["notes/notes-from-the-field---awp-day-2.md"]
 notes_about = ["authors/natalie-diaz.md", "authors/danez-smith.md", "authors/willie-fitzgerald.md", "authors/cheryl-strayed.md", "authors/eileen-myles.md", "authors/tc-tolbert.md", "authors/christopher-soto.md", "authors/junot-diaz.md", "authors/geoff-dyer.md", "authors/leslie-jamison.md", "authors/maggie-nelson.md", "authors/douglas-kearny.md", "authors/robin-coste-lewis.md", "authors/gregory-pardlo.md", "authors/daemond-arrindell.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Sponsor @fbpress published @mschmeltzer01\u2019s titular poem fro
 facebookauto = "Floating Bridge Press once again showed their knack for uncovering new talent when Michael Schmeltzer won their 2015 Chapbook Competition. We've published the titular poem from his chapbook \"Elegy/Elk River\" on the site for Floating Bridge's sponsorship this week. Don't miss it."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/michael-schmeltzers-elegy--elk-river.md"
+notes_tags = ["notes/michael-schmeltzers-elegy--elk-river.md"]
 notes_about = ["authors/michael-schmeltzer.md"]
 books = ["books/elegy--elk-river.md"]
 +++

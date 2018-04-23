@@ -17,7 +17,7 @@ twitterauto = "Another take on @shortrunseattle!"
 facebookauto = "Another take on Short Run Comix & Arts"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/another-take-on-short-run.md"
+notes_tags = ["notes/another-take-on-short-run.md"]
 notes_about = ["authors/laura-knetzger.md", "authors/aaron-bagley.md", "authors/jessixa-bagley.md", "authors/noel-franklin.md", "authors/hatem-imam.md", "authors/colleen-frakes.md", "authors/gabrielle-bates.md", "authors/catherine-bresner.md", "authors/kerasco\u00ebt.md"]
 books = ""
 +++

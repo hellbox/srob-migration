@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts passes through King Street Station"
 facebookauto = "Seattle Writing Prompts passes through King Street Station"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-king-street-station.md"
+notes_tags = ["notes/seattle-writing-prompts-king-street-station.md"]
 notes_about = ""
 books = ""
 +++

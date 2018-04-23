@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery - it's @koonwoon by @studiochristine  "
 facebookauto = "Christine Marie Larsen paints Koon Woon in this week's Portrait Gallery. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/the-portrait-gallery---koon-woon.md"
+notes_tags = ["notes/the-portrait-gallery---koon-woon.md"]
 notes_about = ["authors/koon-woon.md"]
 books = ""
 +++

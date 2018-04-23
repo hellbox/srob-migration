@@ -17,7 +17,7 @@ twitterauto = "Oh, look. Another establishment male who wants to complain about 
 facebookauto = "Oh, look. Another establishment male who wants to complain about accessible literature."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/against-against-readability.md"
+notes_tags = ["notes/against-against-readability.md"]
 notes_about = ""
 books = ""
 +++

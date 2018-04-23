@@ -17,7 +17,7 @@ twitterauto = "Criminal Fiction has an Interview with @RuthWareWriter, and revie
 facebookauto = "Daneet Steffen's Criminal Fiction interviews Ruth Ware, and has reviews of Benjamin Percy, Kwei Quartey, Felicia Yap, and Louise Penny. "
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-(books-about)-criminals-take-no-vacation.md"
+notes_tags = ["notes/criminal-fiction-(books-about)-criminals-take-no-vacation.md"]
 notes_about = ["authors/ruth-ware.md", "authors/benjamin-percy.md", "authors/louise-penny.md", "authors/kwei-quartey.md", "authors/felicia-yap.md"]
 books = ""
 +++

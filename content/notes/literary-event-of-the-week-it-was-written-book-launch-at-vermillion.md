@@ -17,7 +17,7 @@ twitterauto = "A book launch party celebrates the close ties between poetry and 
 facebookauto = "Our event of the week is at Vermillion this week: A book launch party celebrates the close ties between poetry and hip-hop."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-it-was-written-book-launch-at-vermillion.md"
+notes_tags = ["notes/literary-event-of-the-week-it-was-written-book-launch-at-vermillion.md"]
 notes_about = ""
 books = ""
 +++

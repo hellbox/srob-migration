@@ -17,7 +17,7 @@ twitterauto = "Super-excited to see that @openpoetrybooks reopens under new mana
 facebookauto = "Seattle's only poetry-only bookstore, Open Books, will reopen under new management on Saturday. Plus: who's nominated for a Washington State Book Award? And what raging idiot is publishing an art book in early 2017? Those answers and more in today's Book News Roundup!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-open-books-reopens-this-saturday!.md"
+notes_tags = ["notes/book-news-roundup-open-books-reopens-this-saturday!.md"]
 notes_about = ["authors/shann-ray.md"]
 books = ["books/american-copper.md"]
 +++

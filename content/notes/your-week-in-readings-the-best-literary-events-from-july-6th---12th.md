@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes a biscuit-baking class, a sad cart
 facebookauto = "Your week in readings includes a biscuit-baking class, a sad cartooning party, and a book club with Nancy Pearl."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-july-6th---12th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-july-6th---12th.md"]
 notes_about = ""
 books = ""
 +++

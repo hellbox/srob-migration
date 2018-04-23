@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/yi-fen-chou-what’s-good.md"
+notes_tags = ["notes/yi-fen-chou-what’s-good.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

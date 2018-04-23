@@ -17,7 +17,7 @@ twitterauto = "Sponsor @johnwtreat's novel takes you inside being young, gay, an
 facebookauto = "Sponsor John Whittier Treat's novel shows you what it was like to be young, gay, and fighting for love and your life in 1983 Seattle. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/an-important-novel-about-gay-men-and-aids-in-1980s-seattle.md"
+notes_tags = ["notes/an-important-novel-about-gay-men-and-aids-in-1980s-seattle.md"]
 notes_about = ""
 books = ""
 +++

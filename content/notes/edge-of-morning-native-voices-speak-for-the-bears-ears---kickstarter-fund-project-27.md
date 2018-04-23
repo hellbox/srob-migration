@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @torreyhouse today"
 facebookauto = "The Kickstarter Fund backs a great project looking to bring awareness to historical sites, by publishing native voices. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/edge-of-morning-native-voices-speak-for-the-bears-ears---kickstarter-fund-project-27.md"
+notes_tags = ["notes/edge-of-morning-native-voices-speak-for-the-bears-ears---kickstarter-fund-project-27.md"]
 notes_about = ""
 books = ""
 +++

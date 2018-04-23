@@ -17,7 +17,7 @@ twitterauto = "We've got a lot of book clubs, storytimes, and family events in t
 facebookauto = "We've got a lot of book clubs, storytimes, and family events in this week's reading roundup."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-december-25---december-31.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-december-25---december-31.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts takes a stroll past Amazon's big balls."
 facebookauto = "Seattle Writing Prompts takes a stroll past Amazon's big balls."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-amazons-massive-balls.md"
+notes_tags = ["notes/seattle-writing-prompts-amazons-massive-balls.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts steps inside the Box the Space Needle Cam
 facebookauto = "Seattle Writing Prompts steps inside the Box the Space Needle Came In. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-safeco-plaza.md"
+notes_tags = ["notes/seattle-writing-prompts-safeco-plaza.md"]
 notes_about = ""
 books = ""
 +++

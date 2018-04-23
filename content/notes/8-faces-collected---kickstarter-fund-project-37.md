@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @8faces."
 facebookauto = "The Kickstarter Fund 8 Faces, a typography magazine being collected into a single volume."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/8-faces-collected---kickstarter-fund-project-37.md"
+notes_tags = ["notes/8-faces-collected---kickstarter-fund-project-37.md"]
 notes_about = ""
 books = ""
 +++

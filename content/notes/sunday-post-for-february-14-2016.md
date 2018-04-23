@@ -17,7 +17,7 @@ twitterauto = "Three stories you should miss, from @cecianasta, @MartinChilton, 
 facebookauto = "An interview with Samuel R. Delany, how Jacqueline Susann earned her best-seller status by grass-roots book selling, and a look at Wall Street's invasion of the West's water crises. A pretty thrilling Sunday Post, today."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/sunday-post-for-february-14-2016.md"
+notes_tags = ["notes/sunday-post-for-february-14-2016.md"]
 notes_about = ["authors/jacqueline-susann.md"]
 books = ["books/valley-of-the-dolls.md"]
 +++

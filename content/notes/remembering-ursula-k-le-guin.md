@@ -17,7 +17,7 @@ twitterauto = "\"I had always admired the writer, but I seriously like the woman
 facebookauto = "\"I had always admired the writer, but I seriously like the woman.\" \u2014 Nicola Griffith remembers Ursula K. Le Guin"
 make_image_tweet = "False"
 notes_byline = ["writers/nicola-griffith.md"]
-notes_tags = "notes/remembering-ursula-k-le-guin.md"
+notes_tags = ["notes/remembering-ursula-k-le-guin.md"]
 notes_about = ["authors/ursula-k-le-guin.md"]
 books = ""
 +++

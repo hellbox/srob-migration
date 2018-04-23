@@ -17,7 +17,7 @@ twitterauto = "Get ready for Hillary Clinton's memoir about the 2016 presidentia
 facebookauto = "Get ready for Hillary Clinton's memoir about the 2016 presidential campaign."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hillary-clinton-to-publish-a-memoir-about-the-2016-presidential-race-this-fall.md"
+notes_tags = ["notes/hillary-clinton-to-publish-a-memoir-about-the-2016-presidential-race-this-fall.md"]
 notes_about = ""
 books = ""
 +++

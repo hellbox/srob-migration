@@ -17,7 +17,7 @@ twitterauto = "Our final poem from April's Poet in Residence, Joan Swift is titl
 facebookauto = "Our final poem from April's Poet in Residence, Joan Swift is titled \"For Theodore Roethke\""
 make_image_tweet = "False"
 notes_byline = ["writers/joan-swift.md"]
-notes_tags = "notes/for-theodore-roethke.md"
+notes_tags = ["notes/for-theodore-roethke.md"]
 notes_about = ""
 books = ""
 +++

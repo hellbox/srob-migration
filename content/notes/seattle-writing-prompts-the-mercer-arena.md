@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts visits the currently-in-demolition Mercer
 facebookauto = "Seattle Writing Prompts visits the currently-in-demolition Mercer Arena."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-mercer-arena.md"
+notes_tags = ["notes/seattle-writing-prompts-the-mercer-arena.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "A Russian cartoonist will be presenting her new book of journalis
 facebookauto = "Fantagraphics will be presenting Russian cartooning journalist Victoria Lomasko this weekend. In a time when Russia has become a political football, it's more important than ever to understand what's going on in that corner of the world."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/from-russia-to-fantagraphics-with-love.md"
+notes_tags = ["notes/from-russia-to-fantagraphics-with-love.md"]
 notes_about = ""
 books = ""
 +++

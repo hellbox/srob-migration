@@ -17,7 +17,7 @@ twitterauto = "Dash Shaw's comic Cosplayers provides a nuanced look at nerd cult
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-nerd-culture-stops-eating-itself.md"
+notes_tags = ["notes/thursday-comics-hangover-nerd-culture-stops-eating-itself.md"]
 notes_about = ""
 books = ""
 +++

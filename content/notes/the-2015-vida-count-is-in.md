@@ -17,7 +17,7 @@ twitterauto = "The 2015 @VIDA_lit count is in! How inclusive are your favorite l
 facebookauto = "The 2015 VIDA count is in! How inclusive are your favorite literary publications?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-2015-vida-count-is-in.md"
+notes_tags = ["notes/the-2015-vida-count-is-in.md"]
 notes_about = ["authors/nicola-griffith.md"]
 books = ""
 +++

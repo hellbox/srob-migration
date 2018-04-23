@@ -17,7 +17,7 @@ twitterauto = "Here are all the best literary events happening in Seattle this w
 facebookauto = "Your week in readings includes the debut of Matt Ruff's long-awaited new book, Alexander Chee, a lecture on book-to-movie adaptations, and much more:"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-15th---21st.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-15th---21st.md"]
 notes_about = ["authors/matt-ruff.md"]
 books = ""
 +++

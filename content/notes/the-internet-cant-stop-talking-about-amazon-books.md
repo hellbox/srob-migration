@@ -17,7 +17,7 @@ twitterauto = "Yesterday, the internet went crazy for Amazon's physical bookstor
 facebookauto = "Amazon Books launched yesterday, kicking off a bizarre hot-take that may or may not be a joke, a wonderful Twitter rant, and  some first-person accounts of what it's like to visit Amazon Books. Things are getting weird out there."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-internet-cant-stop-talking-about-amazon-books.md"
+notes_tags = ["notes/the-internet-cant-stop-talking-about-amazon-books.md"]
 notes_about = ""
 books = ""
 +++

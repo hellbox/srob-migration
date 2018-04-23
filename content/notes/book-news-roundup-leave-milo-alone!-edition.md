@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup asks if anyone remembers sex advice col
 facebookauto = "Today's book news roundup asks if anyone remembers sex advice columnist Dr. Ruth."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-leave-milo-alone!-edition.md"
+notes_tags = ["notes/book-news-roundup-leave-milo-alone!-edition.md"]
 notes_about = ""
 books = ""
 +++

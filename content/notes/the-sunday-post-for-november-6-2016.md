@@ -17,7 +17,7 @@ twitterauto = "The Sunday post has: Ferrante, militias, defrauding voters, and u
 facebookauto = "The Sunday Post today links to four pieces that deal with: Elena Ferrante's new book, militias, defrauding voters, and how do you solve a problem like David Duke?"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-november-6-2016.md"
+notes_tags = ["notes/the-sunday-post-for-november-6-2016.md"]
 notes_about = ""
 books = ""
 +++

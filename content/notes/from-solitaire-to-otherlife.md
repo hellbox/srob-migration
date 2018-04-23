@@ -17,7 +17,7 @@ twitterauto = "We're thrilled to have sponsor @kelleyeskridge back, with the fir
 facebookauto = "We're thrilled to have Kelley Eskridge back as a sponsor, with the first chapter from her amazing book Solitaire."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/from-solitaire-to-otherlife.md"
+notes_tags = ["notes/from-solitaire-to-otherlife.md"]
 notes_about = ""
 books = ""
 +++

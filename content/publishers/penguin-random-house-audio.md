@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Penguin Random House Audio"
 title = "Penguin Random House Audio"
-books_publisher = "publishers/penguin-random-house-audio.md"
+books_publisher = ["publishers/penguin-random-house-audio.md"]
 +++

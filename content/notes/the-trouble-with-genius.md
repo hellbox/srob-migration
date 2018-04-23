@@ -17,7 +17,7 @@ twitterauto = "Seattle poet Maged Zaher wonders why Seattle publisher Wave Books
 facebookauto = "Seattle poet Maged Zaher wonders why Seattle publisher Wave Books has not published more Seattle poets."
 make_image_tweet = "False"
 notes_byline = ["writers/maged-zaher.md"]
-notes_tags = "notes/the-trouble-with-genius.md"
+notes_tags = ["notes/the-trouble-with-genius.md"]
 notes_about = ["authors/don-mee-choi.md"]
 books = ["books/hardly-war.md"]
 +++

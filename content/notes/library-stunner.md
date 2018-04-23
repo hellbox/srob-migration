@@ -17,7 +17,7 @@ twitterauto = "Guess why people stop attending libraries? Technology has nothing
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/library-stunner.md"
+notes_tags = ["notes/library-stunner.md"]
 notes_about = ""
 books = ""
 +++

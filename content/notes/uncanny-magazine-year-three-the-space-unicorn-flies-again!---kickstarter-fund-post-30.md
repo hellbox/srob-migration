@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @uncannymagazine"
 facebookauto = "The Kickstarter Fund backs a fun SF anthology this week."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/uncanny-magazine-year-three-the-space-unicorn-flies-again!---kickstarter-fund-post-30.md"
+notes_tags = ["notes/uncanny-magazine-year-three-the-space-unicorn-flies-again!---kickstarter-fund-post-30.md"]
 notes_about = ""
 books = ""
 +++

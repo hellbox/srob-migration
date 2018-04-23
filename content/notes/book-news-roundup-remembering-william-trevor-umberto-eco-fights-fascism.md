@@ -17,7 +17,7 @@ twitterauto = "Remembering William Trevor, Umberto Eco fights fascists, and Barn
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-remembering-william-trevor-umberto-eco-fights-fascism.md"
+notes_tags = ["notes/book-news-roundup-remembering-william-trevor-umberto-eco-fights-fascism.md"]
 notes_about = ""
 books = ""
 +++

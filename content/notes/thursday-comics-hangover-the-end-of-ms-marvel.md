@@ -17,7 +17,7 @@ twitterauto = "Local author @GWillowWilson ends her popular Ms. Marvel comics se
 facebookauto = "Local author G. Willow Wilson has been doing great work with her series Ms. Marvel, about a Pakistani-American Muslim teenage superhero. Now she's published the last issue of Ms. Marvel, and it's probably the best issue yet."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-end-of-ms-marvel.md"
+notes_tags = ["notes/thursday-comics-hangover-the-end-of-ms-marvel.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ""
 +++

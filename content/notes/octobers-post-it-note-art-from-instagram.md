@@ -17,7 +17,7 @@ twitterauto = "Our wrap up of Clare Johnson's Post-it notes for the month of Oct
 facebookauto = "Our wrap up of Clare Johnson's Post-it notes for the month of October."
 make_image_tweet = "True"
 notes_byline = ["writers/clare-johnson.md"]
-notes_tags = "notes/octobers-post-it-note-art-from-instagram.md"
+notes_tags = ["notes/octobers-post-it-note-art-from-instagram.md"]
 notes_about = ""
 books = ""
 +++

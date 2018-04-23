@@ -17,7 +17,7 @@ twitterauto = "Congratulations to Kazuo Ishiguro, the winner of the 2017 Nobel P
 facebookauto = "Congratulations to Kazuo Ishiguro, the winner of the 2017 Nobel Prize for Literature!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/kazuo-ishiguro-wins-nobel-prize-for-literature.md"
+notes_tags = ["notes/kazuo-ishiguro-wins-nobel-prize-for-literature.md"]
 notes_about = ""
 books = ""
 +++

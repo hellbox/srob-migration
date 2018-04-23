@@ -17,7 +17,7 @@ twitterauto = "This weekend: Seattle Mystery Bookshop is closing, Capitol Hill's
 facebookauto = "This weekend: Seattle Mystery Bookshop is closing, Capitol Hill's Horizon Books is reopening."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/one-bookstore-(re)opens-one-bookstore-closes.md"
+notes_tags = ["notes/one-bookstore-(re)opens-one-bookstore-closes.md"]
 notes_about = ""
 books = ""
 +++

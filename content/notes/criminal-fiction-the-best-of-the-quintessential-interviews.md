@@ -17,7 +17,7 @@ twitterauto = "Catch up with the best of @daneetsteffens's Criminal Fiction!"
 facebookauto = "Catch up with the best of Daneet Steffen's Criminal Fiction!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/criminal-fiction-the-best-of-the-quintessential-interviews.md"
+notes_tags = ["notes/criminal-fiction-the-best-of-the-quintessential-interviews.md"]
 notes_about = ""
 books = ""
 +++

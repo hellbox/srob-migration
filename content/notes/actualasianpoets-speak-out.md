@@ -17,7 +17,7 @@ twitterauto = "\"I haven't read a literary burn like that since Gore Vidal died.
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/actualasianpoets-speak-out.md"
+notes_tags = ["notes/actualasianpoets-speak-out.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ["books/best-american-poetry-2015.md"]
 +++

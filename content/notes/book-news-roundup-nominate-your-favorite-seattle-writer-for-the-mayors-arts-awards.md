@@ -17,7 +17,7 @@ twitterauto = "Now is the time to nominate your favorite Seattle author for the 
 facebookauto = "If you're a poet, you should apply to be the new Washington State Poet Laureate. If you love a Seattle writer, you should nominate them for the Mayor's Arts Awards."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-nominate-your-favorite-seattle-writer-for-the-mayors-arts-awards.md"
+notes_tags = ["notes/book-news-roundup-nominate-your-favorite-seattle-writer-for-the-mayors-arts-awards.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

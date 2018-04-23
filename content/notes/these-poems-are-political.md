@@ -17,7 +17,7 @@ twitterauto = "Sponsor Entre Rios brings a collection of Shelley's political poe
 facebookauto = "Sponsor Entre Rios is back with a new volume of Shelley's political poems. What a great thing for an election year. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/these-poems-are-political.md"
+notes_tags = ["notes/these-poems-are-political.md"]
 notes_about = ""
 books = ""
 +++

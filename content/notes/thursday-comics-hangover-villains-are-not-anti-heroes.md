@@ -17,7 +17,7 @@ twitterauto = "Villains aren't anti-heroes. They're villains."
 facebookauto = "Villains aren't anti-heroes. They're villains."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-villains-are-not-anti-heroes.md"
+notes_tags = ["notes/thursday-comics-hangover-villains-are-not-anti-heroes.md"]
 notes_about = ""
 books = ""
 +++

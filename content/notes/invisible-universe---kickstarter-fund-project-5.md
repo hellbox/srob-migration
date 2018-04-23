@@ -17,7 +17,7 @@ twitterauto = "Our Kickstarter Fund this week went off Kickstarter to give a bit
 facebookauto = "We left Kickstarter today to back a film project called Invisible Universe, a \"history of blackness is science fiction\". It looks totally amazing!"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/invisible-universe---kickstarter-fund-project-5.md"
+notes_tags = ["notes/invisible-universe---kickstarter-fund-project-5.md"]
 notes_about = ""
 books = ""
 +++

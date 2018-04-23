@@ -17,7 +17,7 @@ twitterauto = "Sponsor @anne_mendel is here to offer a guided tour of Portland..
 facebookauto = "Sponsor Anne Mendel is here to offer a guided tour of Portland...after it all falls apart. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/keeping-our-sense-of-decorum-as-the-world-falls-apart.md"
+notes_tags = ["notes/keeping-our-sense-of-decorum-as-the-world-falls-apart.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Why are authors upset at Amazon now?"
 facebookauto = "Today in book news: Folio opens, Welcome to Night Vale expands, and Amazon continues to screw over its authors."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-amazon-finds-a-new-way-to-screw-over-authors.md"
+notes_tags = ["notes/book-news-roundup-amazon-finds-a-new-way-to-screw-over-authors.md"]
 notes_about = ""
 books = ""
 +++

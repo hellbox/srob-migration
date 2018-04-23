@@ -17,7 +17,7 @@ twitterauto = "Sponsor Northwest Associated Arts is bringing David Sedaris to th
 facebookauto = "Sponsor Northwest Associated Arts is bringing David Sedaris to the Broadway Performance Hall for eight shows!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/grab-tickets-fast-to-workshop-calypso-with-david-sedaris.md"
+notes_tags = ["notes/grab-tickets-fast-to-workshop-calypso-with-david-sedaris.md"]
 notes_about = ["authors/david-sedaris.md"]
 books = ""
 +++

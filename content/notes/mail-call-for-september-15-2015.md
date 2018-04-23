@@ -17,7 +17,7 @@ twitterauto = "Mail call! A few items that passed our desk today."
 facebookauto = "Mail call! Here's what passed our desk today."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-september-15-2015.md"
+notes_tags = ["notes/mail-call-for-september-15-2015.md"]
 notes_about = ""
 books = ""
 +++

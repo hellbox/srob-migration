@@ -17,7 +17,7 @@ twitterauto = "It's @JNSmall, painted by @studiochristine!"
 facebookauto = "It's Jay Newton-Small, painted by Christine Marie Larsen, for this week's Portrait Gallery"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/the-portrait-gallery---jay-newton-small.md"
+notes_tags = ["notes/the-portrait-gallery---jay-newton-small.md"]
 notes_about = ""
 books = ""
 +++

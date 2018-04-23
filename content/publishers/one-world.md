@@ -10,5 +10,5 @@ last_updated = "2017-12-05T12:11:00-08:00"
 preview_url = "9a981cb3-c2e8-db51-b30c-cad8c3462ba3"
 name = "One World"
 title = "One World"
-books_publisher = "publishers/one-world.md"
+books_publisher = ["publishers/one-world.md"]
 +++

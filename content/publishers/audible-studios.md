@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Audible Studios"
 title = "Audible Studios"
-books_publisher = "publishers/audible-studios.md"
+books_publisher = ["publishers/audible-studios.md"]
 +++

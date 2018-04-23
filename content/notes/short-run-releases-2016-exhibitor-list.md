@@ -17,7 +17,7 @@ twitterauto = "So @shortrunseattle just released their exhibitor list and it's a
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/short-run-releases-2016-exhibitor-list.md"
+notes_tags = ["notes/short-run-releases-2016-exhibitor-list.md"]
 notes_about = ""
 books = ""
 +++

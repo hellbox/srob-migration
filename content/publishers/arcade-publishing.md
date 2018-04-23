@@ -10,5 +10,5 @@ last_updated = "2015-12-08T12:16:00-08:00"
 preview_url = "4eb4814c-ce8e-c203-e87e-4020918d76d9"
 name = "Arcade Publishing"
 title = "Arcade Publishing"
-books_publisher = "publishers/arcade-publishing.md"
+books_publisher = ["publishers/arcade-publishing.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "A new comic tells Bible stories, only with nudity, cussing, and f
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-preachers-curse.md"
+notes_tags = ["notes/thursday-comics-hangover-the-preachers-curse.md"]
 notes_about = ""
 books = ""
 +++

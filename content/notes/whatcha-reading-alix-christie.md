@@ -17,7 +17,7 @@ twitterauto = "We asked @alixechristie what she was reading, and she was kind en
 facebookauto = "We asked Alix Christie what she was reading, and she was kind enough to tell us."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-alix-christie.md"
+notes_tags = ["notes/whatcha-reading-alix-christie.md"]
 notes_about = ["authors/alix-christie.md"]
 books = ""
 +++

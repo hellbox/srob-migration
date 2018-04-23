@@ -17,7 +17,7 @@ twitterauto = "\"fare well, feels. be gone\" is the first line of our Tuesday Po
 facebookauto = "\"fare well, feels. be gone\" is the first line of our Tuesday Poem, from afrose fatima ahmed."
 make_image_tweet = "False"
 notes_byline = ["writers/afrose-fatima-ahmed.md"]
-notes_tags = "notes/breaking-up-is-a-honeycomb-harvested-from-the-buzzing-hive-of-the-heart.md"
+notes_tags = ["notes/breaking-up-is-a-honeycomb-harvested-from-the-buzzing-hive-of-the-heart.md"]
 notes_about = ""
 books = ""
 +++

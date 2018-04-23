@@ -17,7 +17,7 @@ twitterauto = "Two authors walk into a bar and tell stories about punching."
 facebookauto = "Your literary event of the week: Two authors walk into a bar and tell stories about punching."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-loud-mouth-lit.md"
+notes_tags = ["notes/literary-event-of-the-week-loud-mouth-lit.md"]
 notes_about = ["authors/paul-mullin.md", "authors/david-schmader.md"]
 books = ["books/the-starting-gate.md"]
 +++

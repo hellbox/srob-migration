@@ -17,7 +17,7 @@ twitterauto = "An interview with @bymattruff about his new novel, Lovecraft Coun
 facebookauto = "Matt Ruff's new novel, Lovecraft Country, started as a rejected pitch for a TV series. We're lucky it was rejected, though, because the book is so good\u2014a study of sci-fi's racist past disguised as a series of weird tales. Here's an interview with Ruff about the book:"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-matt-ruff-about-science-fictions-racist-past.md"
+notes_tags = ["notes/talking-with-matt-ruff-about-science-fictions-racist-past.md"]
 notes_about = ["authors/matt-ruff.md"]
 books = ["books/lovecraft-country.md"]
 +++

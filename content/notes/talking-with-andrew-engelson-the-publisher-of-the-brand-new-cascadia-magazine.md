@@ -17,7 +17,7 @@ twitterauto = "We sat down with the publisher of the new @cascadiamag to discuss
 facebookauto = "We sat down with the publisher of the new Cascadia Magazine to discuss the state of magazine publishing."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-andrew-engelson-the-publisher-of-the-brand-new-cascadia-magazine.md"
+notes_tags = ["notes/talking-with-andrew-engelson-the-publisher-of-the-brand-new-cascadia-magazine.md"]
 notes_about = ""
 books = ""
 +++

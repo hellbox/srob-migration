@@ -17,7 +17,7 @@ twitterauto = "Sunday Post: Exhaustion = prestige, @HillaryClinton & @realDonald
 facebookauto = "The Sunday Post: Translating fiction, exhaustion as a status symbol, how the RNC and DNC speeches compare, and the magic of the first Harry Potter book."
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/the-sunday-post-for-july-31-2016.md"
+notes_tags = ["notes/the-sunday-post-for-july-31-2016.md"]
 notes_about = ["authors/jk-rowling.md"]
 books = ["books/harry-potter-and-the-sorcerers-stone.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "It's time for sponsor Arundel & Chatwin Books holiday party! Join
 facebookauto = "It's time for sponsor Arundel Books holiday party! This year's special guest is celebrated wood engraver Carl Montford. Join them Friday for music, art, books, and a little bit of bubbly."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/dont-wait-for-an-engraved-invitation.md"
+notes_tags = ["notes/dont-wait-for-an-engraved-invitation.md"]
 notes_about = ""
 books = ""
 +++

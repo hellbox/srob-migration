@@ -17,7 +17,7 @@ twitterauto = "Sad news: Next year's @APRILFestSEA will be the last. "
 facebookauto = "Sad news: next year's APRIL Festival will be the last. Good news: next year's APRIL Festival will take place under a \"literal circus tent\" and it sounds like a lot of fun. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/april-festival-to-shut-down-after-one-big-circus-in-2017.md"
+notes_tags = ["notes/april-festival-to-shut-down-after-one-big-circus-in-2017.md"]
 notes_about = ""
 books = ""
 +++

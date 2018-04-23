@@ -17,7 +17,7 @@ twitterauto = "We have a new associate editor managing submissions, and she want
 facebookauto = "Our site has a new associate editor who'll be managing submissions, and she wants your pitches!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-seattle-review-of-books-wants-your-pitches.md"
+notes_tags = ["notes/the-seattle-review-of-books-wants-your-pitches.md"]
 notes_about = ""
 books = ""
 +++

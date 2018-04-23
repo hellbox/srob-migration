@@ -17,7 +17,7 @@ twitterauto = "There are more comics about female superheroes out there right no
 facebookauto = "There are more comics about female superheroes out there right now than ever before. Even better, these comics are really well done."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-super-women.md"
+notes_tags = ["notes/thursday-comics-hangover-super-women.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Full house in @RahawaHaile story picks! @ravi_mangla, @jessalex81
 facebookauto = "So many stories to love in our weekly wrap up of Rahawa Haile's short story of the day project."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-october-10-2015.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-october-10-2015.md"]
 notes_about = ""
 books = ""
 +++

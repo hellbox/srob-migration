@@ -17,7 +17,7 @@ twitterauto = "Your week in readings delivers an edible city, life on Mars, and 
 facebookauto = "Your week in readings delivers an edible city, life on Mars, and a Republican."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-26th---may-2nd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-26th---may-2nd.md"]
 notes_about = ["authors/jamaica-baldwin.md", "authors/elisa-chavez.md", "authors/anastacia-renee.md", "authors/kevin-emerson.md"]
 books = ""
 +++

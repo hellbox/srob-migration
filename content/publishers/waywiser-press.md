@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Waywiser Press"
 title = "Waywiser Press"
-books_publisher = "publishers/waywiser-press.md"
+books_publisher = ["publishers/waywiser-press.md"]
 +++

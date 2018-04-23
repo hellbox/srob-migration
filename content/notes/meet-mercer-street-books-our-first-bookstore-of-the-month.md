@@ -17,7 +17,7 @@ twitterauto = "The beautiful Mercer Street Books is our very first Bookstore of 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-mercer-street-books-our-first-bookstore-of-the-month.md"
+notes_tags = ["notes/meet-mercer-street-books-our-first-bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

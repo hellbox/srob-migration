@@ -17,7 +17,7 @@ twitterauto = "Today's @rahawahaile wrap up has stories from @kathyfish and Rach
 facebookauto = "Our weekly Rahawa Haile wrap up has stories from Kathy Fish and Rachel Kushner."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-december-5-2015.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-december-5-2015.md"]
 notes_about = ""
 books = ""
 +++

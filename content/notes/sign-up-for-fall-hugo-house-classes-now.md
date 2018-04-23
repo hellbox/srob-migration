@@ -17,7 +17,7 @@ twitterauto = "Go sign up for your fall @HugoHouse classes right now."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sign-up-for-fall-hugo-house-classes-now.md"
+notes_tags = ["notes/sign-up-for-fall-hugo-house-classes-now.md"]
 notes_about = ["authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

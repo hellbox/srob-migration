@@ -17,7 +17,7 @@ twitterauto = "Grimdark fans, don't miss the sample chapter from sponsor Allan B
 facebookauto = "Grimdark fans, don't miss the sample chapter from sponsor Allan Batchelder's epic Steel, Blood & Fire!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/in-a-world-of-betrayal-and-dark-magic.md"
+notes_tags = ["notes/in-a-world-of-betrayal-and-dark-magic.md"]
 notes_about = ["authors/allan-batchelder.md"]
 books = ["books/steel-blood-&-fire.md"]
 +++

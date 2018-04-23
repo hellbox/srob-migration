@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs a book of @lancewymannews's notebooks"
 facebookauto = "The Kickstarter Fund backs a book of Lance Wyman's notebooks"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/lance-wyman-the-visual-diaries-1973—1982---kickstarter-fund-project-33.md"
+notes_tags = ["notes/lance-wyman-the-visual-diaries-1973—1982---kickstarter-fund-project-33.md"]
 notes_about = ""
 books = ""
 +++

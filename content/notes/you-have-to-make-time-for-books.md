@@ -17,7 +17,7 @@ twitterauto = "Want to read more? There's only one way to do it: make time in li
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/you-have-to-make-time-for-books.md"
+notes_tags = ["notes/you-have-to-make-time-for-books.md"]
 notes_about = ""
 books = ""
 +++

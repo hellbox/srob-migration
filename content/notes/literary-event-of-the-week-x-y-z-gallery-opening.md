@@ -17,7 +17,7 @@ twitterauto = "It's not every day that a new literary venue opens in Seattle."
 facebookauto = "It's not every day that a new literary venue opens in Seattle. Come to the X Y Z Gallery opening party tomorrow night!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-x-y-z-gallery-opening.md"
+notes_tags = ["notes/literary-event-of-the-week-x-y-z-gallery-opening.md"]
 notes_about = ["authors/halie-theoharides.md", "authors/sarah-galvin.md", "authors/colleen-louise-barry.md"]
 books = ["books/final-rose.md", "books/ugly-time.md"]
 +++

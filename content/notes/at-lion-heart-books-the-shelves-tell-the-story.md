@@ -17,7 +17,7 @@ twitterauto = "Our September Bookstore of the Month might be small, but it's rem
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/at-lion-heart-books-the-shelves-tell-the-story.md"
+notes_tags = ["notes/at-lion-heart-books-the-shelves-tell-the-story.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts climbs the radio towers atop Capitol Hill
 facebookauto = "Seattle Writing Prompts climbs the radio towers atop Capitol Hill. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-capitol-hill-radio-antennas.md"
+notes_tags = ["notes/seattle-writing-prompts-the-capitol-hill-radio-antennas.md"]
 notes_about = ""
 books = ""
 +++

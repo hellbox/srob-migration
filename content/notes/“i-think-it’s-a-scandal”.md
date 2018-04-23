@@ -17,7 +17,7 @@ twitterauto = "Many thanks to the @seattletimes for writing about the wealth dis
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/“i-think-it’s-a-scandal”.md"
+notes_tags = ["notes/“i-think-it’s-a-scandal”.md"]
 notes_about = ""
 books = ""
 +++

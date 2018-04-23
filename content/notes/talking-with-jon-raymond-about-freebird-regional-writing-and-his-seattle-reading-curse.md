@@ -17,7 +17,7 @@ twitterauto = "Jon Raymond reads @ubookstorereads tonight. He has not had good l
 facebookauto = "Jon Raymond talked to us about why every reading he's done in Seattle so far has been awkward, sad, or just plain uncomfortable. He reads at University Book Store tonight. We should show up to make his reading good, Seattle."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-jon-raymond-about-freebird-regional-writing-and-his-seattle-reading-curse.md"
+notes_tags = ["notes/talking-with-jon-raymond-about-freebird-regional-writing-and-his-seattle-reading-curse.md"]
 notes_about = ["authors/jon-raymond.md"]
 books = ""
 +++

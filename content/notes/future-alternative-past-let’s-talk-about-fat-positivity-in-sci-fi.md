@@ -17,7 +17,7 @@ twitterauto = "In @NisiShawl's column: fat positivity in SFFH, and reviews of @M
 facebookauto = "In Nisi Shawl's Future Alternative Past, fat positivity in SFFH, and reviews of Maggie Shen King, Elizabeth Bear, and David Walton"
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/future-alternative-past-let’s-talk-about-fat-positivity-in-sci-fi.md"
+notes_tags = ["notes/future-alternative-past-let’s-talk-about-fat-positivity-in-sci-fi.md"]
 notes_about = ""
 books = ""
 +++

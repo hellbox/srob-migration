@@ -17,7 +17,7 @@ twitterauto = "\"Love Letter\" by Quenton Baker is our Tuesday Poem. "
 facebookauto = "\"Love Letter\" by Quenton Baker is our Tuesday Poem. "
 make_image_tweet = "False"
 notes_byline = ["writers/quenton-baker.md"]
-notes_tags = "notes/love-letter.md"
+notes_tags = ["notes/love-letter.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes art based on public transportation
 facebookauto = "Your week in readings includes art based on public transportation, a lecture from Jeffrey Toobin, and more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-may-10th-to-may-16th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-may-10th-to-may-16th.md"]
 notes_about = ["authors/joan-swift.md", "authors/elissa-washuta.md"]
 books = ""
 +++

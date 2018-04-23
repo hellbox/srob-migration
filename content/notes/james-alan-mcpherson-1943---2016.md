@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/james-alan-mcpherson-1943---2016.md"
+notes_tags = ["notes/james-alan-mcpherson-1943---2016.md"]
 notes_about = ""
 books = ""
 +++

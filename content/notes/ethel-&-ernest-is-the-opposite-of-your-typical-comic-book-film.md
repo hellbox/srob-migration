@@ -17,7 +17,7 @@ twitterauto = "Raymond Briggs's loving biography of his parents is playing @SIFF
 facebookauto = "Today and Sunday at SIFF, be sure to watch a comic book adaptation that's nothing like all the other comic book adaptations coming out this summer."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ethel-&-ernest-is-the-opposite-of-your-typical-comic-book-film.md"
+notes_tags = ["notes/ethel-&-ernest-is-the-opposite-of-your-typical-comic-book-film.md"]
 notes_about = ["authors/raymond-briggs.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Are you ready for the world's first robot-operated bookstore?"
 facebookauto = "Are you ready for the world's first robot-operated bookstore?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-rise-of-the-machines.md"
+notes_tags = ["notes/book-news-roundup-rise-of-the-machines.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/e-lily-yu.md"]
 books = ""
 +++

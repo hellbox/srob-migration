@@ -17,7 +17,7 @@ twitterauto = "Hey, @mbsycamore, whatcha reading? @JustJuno1, @alexispauline, an
 facebookauto = "Hey, Mattilda Bernstein Sycamore? Whatcha Reading? Juno Roche, Alexis Pauline Gumbs, Andrea Lawlor, among many others!"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-mattilda-bernstein-sycamore.md"
+notes_tags = ["notes/whatcha-reading-mattilda-bernstein-sycamore.md"]
 notes_about = ["authors/reina-gossett.md", "authors/caconrad.md", "authors/johanna-burton.md", "authors/eric-a-stanley.md", "authors/porochista-khakpour.md", "authors/andrea-lawlor.md", "authors/juno-roche.md", "authors/alexis-pauline-gumbs.md"]
 books = ""
 +++

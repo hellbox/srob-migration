@@ -17,7 +17,7 @@ twitterauto = "Seattle folks won big at the Eisner Awards this year in the archi
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-seattle-cleans-up-at-the-eisner-awards.md"
+notes_tags = ["notes/book-news-roundup-seattle-cleans-up-at-the-eisner-awards.md"]
 notes_about = ["authors/noelle-stevenson.md", "authors/brian-k-vaughan.md"]
 books = ["books/nimona.md", "books/the-eternaut.md"]
 +++

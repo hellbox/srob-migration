@@ -17,7 +17,7 @@ twitterauto = "We took a French novel about a heart transplant to an Indian rest
 facebookauto = "We took a French novel about a heart transplant to Renton for curry and naan. Here's how that went:"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-taking-the-heart-to-renton.md"
+notes_tags = ["notes/lunch-date-taking-the-heart-to-renton.md"]
 notes_about = ["authors/maylis-de-kerangal.md"]
 books = ["books/the-heart.md"]
 +++

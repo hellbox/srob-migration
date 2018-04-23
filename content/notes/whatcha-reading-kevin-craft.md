@@ -17,7 +17,7 @@ twitterauto = "What's our Poet in Residence Kevin Craft reading?"
 facebookauto = "What's our Poet in Residence Kevin Craft reading?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-kevin-craft.md"
+notes_tags = ["notes/whatcha-reading-kevin-craft.md"]
 notes_about = ["authors/langdon-cook.md", "authors/paisley-rekdal.md", "authors/jason-whitmarsh.md", "authors/laurie-halse-anderson.md", "authors/kirstin-levine.md", "authors/erica-sanchez.md"]
 books = ""
 +++

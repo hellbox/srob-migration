@@ -17,7 +17,7 @@ twitterauto = "We hate clickbait but we want you to click: the Sunday Post has a
 facebookauto = "We hate clickbait but we want you to click: the Sunday Post has an identity crisis."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-march-19-2017.md"
+notes_tags = ["notes/the-sunday-post-for-march-19-2017.md"]
 notes_about = ""
 books = ""
 +++

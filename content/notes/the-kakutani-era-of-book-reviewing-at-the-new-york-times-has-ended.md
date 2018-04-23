@@ -17,7 +17,7 @@ twitterauto = "A big damn deal in the book reviewing world: Michiko Kakutani has
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-kakutani-era-of-book-reviewing-at-the-new-york-times-has-ended.md"
+notes_tags = ["notes/the-kakutani-era-of-book-reviewing-at-the-new-york-times-has-ended.md"]
 notes_about = ""
 books = ""
 +++

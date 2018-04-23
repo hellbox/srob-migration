@@ -17,7 +17,7 @@ twitterauto = "Let's take one last tour inside the Guild 45th."
 facebookauto = "Let's take one last tour inside the Guild 45th."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-guild-45th-theater.md"
+notes_tags = ["notes/seattle-writing-prompts-the-guild-45th-theater.md"]
 notes_about = ""
 books = ""
 +++

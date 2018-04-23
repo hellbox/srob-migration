@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @elisacatrina #illustration by @studiochristine
 facebookauto = "Portrait Gallery: Elisa Chavez "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-elisa-chavez.md"
+notes_tags = ["notes/portrait-gallery-elisa-chavez.md"]
 notes_about = ["authors/elisa-chavez.md"]
 books = ""
 +++

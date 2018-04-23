@@ -17,7 +17,7 @@ twitterauto = "It's time for @aaronbaglady's Dream Comics!"
 facebookauto = "It's time for Aaron Bagley's Dream Comics!"
 make_image_tweet = "True"
 notes_byline = ["writers/aaron-bagley.md"]
-notes_tags = "notes/aaron-bagleys-dream-comics-loom.md"
+notes_tags = ["notes/aaron-bagleys-dream-comics-loom.md"]
 notes_about = ""
 books = ""
 +++

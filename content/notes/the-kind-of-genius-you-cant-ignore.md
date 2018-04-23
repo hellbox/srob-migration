@@ -17,7 +17,7 @@ twitterauto = "Congratulations to the MacArthur \"Genius\" grant winners! We've 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-kind-of-genius-you-cant-ignore.md"
+notes_tags = ["notes/the-kind-of-genius-you-cant-ignore.md"]
 notes_about = ["authors/maggie-nelson.md", "authors/gene-lueng-yang.md", "authors/claudia-rankine.md"]
 books = ["books/citizen.md", "books/the-art-of-cruelty.md", "books/the-argonauts.md"]
 +++

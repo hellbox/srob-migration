@@ -17,7 +17,7 @@ twitterauto = "We're so happy for Teri Hein, and we can't wait to see what the B
 facebookauto = "We're so happy for Teri Hein, and we can't wait to see what the Bureau of Fearless Ideas does next."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/teri-hein-stepping-down-as-leader-of-the-bureau-of-fearless-ideas.md"
+notes_tags = ["notes/teri-hein-stepping-down-as-leader-of-the-bureau-of-fearless-ideas.md"]
 notes_about = ["authors/david-lasky.md"]
 books = ""
 +++

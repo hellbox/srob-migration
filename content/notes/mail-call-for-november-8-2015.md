@@ -17,7 +17,7 @@ twitterauto = "Who says the mail doesn't come on Sunday? Well, it doesn't, but h
 facebookauto = "Surprise! It's Sunday afternoon, and we have a Mail Call. See what books have been crossing our desk. See any you'd love to see reviewed?"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-november-8-2015.md"
+notes_tags = ["notes/mail-call-for-november-8-2015.md"]
 notes_about = ""
 books = ""
 +++

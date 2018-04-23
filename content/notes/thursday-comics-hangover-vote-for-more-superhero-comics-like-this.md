@@ -17,7 +17,7 @@ twitterauto = "Hey DC & Marvel: We want more superhero comics like this in 2017,
 facebookauto = "Hey DC and Marvel: We want more superhero comics like this in 2017, please."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-vote-for-more-superhero-comics-like-this.md"
+notes_tags = ["notes/thursday-comics-hangover-vote-for-more-superhero-comics-like-this.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ""
 +++

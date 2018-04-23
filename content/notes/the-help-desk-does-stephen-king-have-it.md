@@ -17,7 +17,7 @@ twitterauto = "Is Stephen King a good writer or not? "
 facebookauto = "Is Stephen King a good writer or not? Here's a definitive answer:"
 make_image_tweet = "True"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-does-stephen-king-have-it.md"
+notes_tags = ["notes/the-help-desk-does-stephen-king-have-it.md"]
 notes_about = ["authors/stephen-king.md"]
 books = ""
 +++

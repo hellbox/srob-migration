@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/philip-k-dick-the-fortune-teller-and-jrr-tolkien-the-crypto-fascist.md"
+notes_tags = ["notes/philip-k-dick-the-fortune-teller-and-jrr-tolkien-the-crypto-fascist.md"]
 notes_about = ["authors/michael-moorcock.md"]
 books = ""
 +++

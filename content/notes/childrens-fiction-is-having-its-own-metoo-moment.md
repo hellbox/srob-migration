@@ -17,7 +17,7 @@ twitterauto = "Children's fiction is having its own #MeToo moment."
 facebookauto = "Two popular YA authors have been accused of sexual misbehavior. Are more to come?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/childrens-fiction-is-having-its-own-metoo-moment.md"
+notes_tags = ["notes/childrens-fiction-is-having-its-own-metoo-moment.md"]
 notes_about = ""
 books = ""
 +++

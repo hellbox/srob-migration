@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/george-saunders-wins-the-2017-man-booker-prize.md"
+notes_tags = ["notes/george-saunders-wins-the-2017-man-booker-prize.md"]
 notes_about = ["authors/george-saunders.md"]
 books = ""
 +++

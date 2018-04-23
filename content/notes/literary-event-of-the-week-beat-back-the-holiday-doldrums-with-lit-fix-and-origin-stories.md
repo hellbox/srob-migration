@@ -17,7 +17,7 @@ twitterauto = "There aren't many readings left in 2016. On December 14th, you'd 
 facebookauto = "There aren't many readings left in 2016. On December 14th, you'd better make your attendance count."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-beat-back-the-holiday-doldrums-with-lit-fix-and-origin-stories.md"
+notes_tags = ["notes/literary-event-of-the-week-beat-back-the-holiday-doldrums-with-lit-fix-and-origin-stories.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "This week, be sure to soak in some White Tears at @elliottbaybook
 facebookauto = "This week, be sure to soak in some White Tears at Elliott Bay Book Company."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-white-tears-reading-at-elliott-bay-book-company.md"
+notes_tags = ["notes/literary-event-of-the-week-white-tears-reading-at-elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

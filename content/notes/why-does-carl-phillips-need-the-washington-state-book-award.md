@@ -17,7 +17,7 @@ twitterauto = "Why do we nominate non-Washington poets for the Washington State 
 facebookauto = "Why do we nominate non-Washington poets for the Washington State Book Award? Susan Rich explores."
 make_image_tweet = "False"
 notes_byline = ["writers/susan-rich.md"]
-notes_tags = "notes/why-does-carl-phillips-need-the-washington-state-book-award.md"
+notes_tags = ["notes/why-does-carl-phillips-need-the-washington-state-book-award.md"]
 notes_about = ["authors/carl-phillips.md", "authors/rick-barot.md", "authors/katharine-whitcomb.md", "authors/jenifer-lawrence.md", "authors/jeannine-hall-gailey.md", "authors/martha-silano.md", "authors/michael-schmeltzer.md", "authors/maya-jewell-zeller.md"]
 books = ""
 +++

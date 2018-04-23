@@ -17,7 +17,7 @@ twitterauto = "Here is @rabihalameddine painted by @studiochristine for this wee
 facebookauto = "Portrait Gallery: Rabih Alameddine"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-rabih-alameddine.md"
+notes_tags = ["notes/portrait-gallery-rabih-alameddine.md"]
 notes_about = ["authors/rabih-alameddine.md"]
 books = ""
 +++

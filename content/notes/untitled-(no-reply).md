@@ -17,7 +17,7 @@ twitterauto = "Poet in Residence Kevin Craft returns with \"Untitled (No Reply)\
 facebookauto = "Poet in Residence Kevin Craft returns with \"Untitled (No Reply)\""
 make_image_tweet = "False"
 notes_byline = ["writers/kevin-craft.md"]
-notes_tags = "notes/untitled-(no-reply).md"
+notes_tags = ["notes/untitled-(no-reply).md"]
 notes_about = ""
 books = ""
 +++

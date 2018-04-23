@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post this week has pieces by 2 linguists: @margalitfox
 facebookauto = "The Sunday Post has two linguists (one who wrote a superb obituary, and the other who wrote about the Washington Post switching to a singular \"they\"), gendered language in poker, and remaking an Australian city. "
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-december-13-2015.md"
+notes_tags = ["notes/the-sunday-post-for-december-13-2015.md"]
 notes_about = ""
 books = ""
 +++

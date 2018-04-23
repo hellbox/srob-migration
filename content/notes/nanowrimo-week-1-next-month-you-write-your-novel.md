@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/nanowrimo-week-1-next-month-you-write-your-novel.md"
+notes_tags = ["notes/nanowrimo-week-1-next-month-you-write-your-novel.md"]
 notes_about = ["authors/john-irving.md", "authors/ira-glass.md"]
 books = ""
 +++

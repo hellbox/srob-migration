@@ -17,7 +17,7 @@ twitterauto = "Wherein we are kindly visited by @luxlotus to fill us in on what 
 facebookauto = "Wherein we are kindly visited by Lauren Cerand to fill us in on what she's reading."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-lauren-cerand.md"
+notes_tags = ["notes/whatcha-reading-lauren-cerand.md"]
 notes_about = ["authors/natalia-ginzburg.md", "authors/adam-federman.md", "authors/patrick-leigh-fermor.md", "authors/fulco-di-verdura.md", "authors/domenico-starnone.md", "authors/roberto-tiraboschi.md"]
 books = ""
 +++

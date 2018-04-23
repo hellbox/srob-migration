@@ -17,7 +17,7 @@ twitterauto = "It's about what gets stuck in your head, our annual Thanksgiving 
 facebookauto = "It's about what gets stuck in your head, our annual Thanksgiving essay, inspired by new music."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/morning-terror-nights-of-dread.md"
+notes_tags = ["notes/morning-terror-nights-of-dread.md"]
 notes_about = ""
 books = ""
 +++

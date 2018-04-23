@@ -10,5 +10,5 @@ last_updated = "2017-08-06T09:02:00-07:00"
 preview_url = "2270ac9f-1dcc-74fa-2f1b-2af23d38481c"
 name = "World Books"
 title = "World Books"
-books_publisher = "publishers/world-books.md"
+books_publisher = ["publishers/world-books.md"]
 +++

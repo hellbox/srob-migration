@@ -17,7 +17,7 @@ twitterauto = "\"Farthermore\" is the third poem from Poet in Residence @karyway
 facebookauto = "\"Farthermore\" is the third poem from Poet in Residence Kary Wayson"
 make_image_tweet = "False"
 notes_byline = ["writers/kary-wayson.md"]
-notes_tags = "notes/farthermore.md"
+notes_tags = ["notes/farthermore.md"]
 notes_about = ""
 books = ""
 +++

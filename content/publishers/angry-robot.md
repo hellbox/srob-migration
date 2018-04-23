@@ -10,5 +10,5 @@ last_updated = "2015-09-24T23:13:00-07:00"
 preview_url = "67fb8675-e0e1-4bab-8358-94a107502d44"
 name = "Angry Robot"
 title = "Angry Robot"
-books_publisher = "publishers/angry-robot.md"
+books_publisher = ["publishers/angry-robot.md"]
 +++

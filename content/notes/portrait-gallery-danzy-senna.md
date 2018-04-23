@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Author Danzy Senna #illustration by @studiochri
 facebookauto = "Portrait Gallery: Danzy Senna reads Monday, August 14th at Elliott Bay Book Company. Illustration by Christine Marie Larsen."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-danzy-senna.md"
+notes_tags = ["notes/portrait-gallery-danzy-senna.md"]
 notes_about = ["authors/danzy-senna.md"]
 books = ""
 +++

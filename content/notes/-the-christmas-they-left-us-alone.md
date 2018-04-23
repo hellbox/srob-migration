@@ -17,7 +17,7 @@ twitterauto = "It\u2019s our annual Christmas Day ghost story, by @hellbox. Don'
 facebookauto = "Our annual Christmas Day ghost story, by Martin McClellan, is up. But don't read it lightly. Don't read it alone in the dark."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/-the-christmas-they-left-us-alone.md"
+notes_tags = ["notes/-the-christmas-they-left-us-alone.md"]
 notes_about = ""
 books = ""
 +++

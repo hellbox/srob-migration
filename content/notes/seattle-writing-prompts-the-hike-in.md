@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts was on that hike that went really, really
 facebookauto = "Seattle Writing Prompts was on that hike that went really, really wrong...."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-hike-in.md"
+notes_tags = ["notes/seattle-writing-prompts-the-hike-in.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: I can't figure out how to read comics. Should I ke
 facebookauto = "In today's literary advice column: If you just can't figure out how comic books are supposed to work, should you keep trying?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-deflated-by-word-balloons.md"
+notes_tags = ["notes/the-help-desk-deflated-by-word-balloons.md"]
 notes_about = ["authors/alison-bechdel.md"]
 books = ""
 +++

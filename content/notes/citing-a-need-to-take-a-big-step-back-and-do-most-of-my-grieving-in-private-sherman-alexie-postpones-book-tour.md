@@ -17,7 +17,7 @@ twitterauto = "Citing a need \"to take a big step back and do most of my grievin
 facebookauto = "Citing a need \"to take a big step back and do most of my grieving in private,\" Sherman Alexie has indefinitely postponed his book tour."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/citing-a-need-to-take-a-big-step-back-and-do-most-of-my-grieving-in-private-sherman-alexie-postpones-book-tour.md"
+notes_tags = ["notes/citing-a-need-to-take-a-big-step-back-and-do-most-of-my-grieving-in-private-sherman-alexie-postpones-book-tour.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ["books/you-dont-have-to-say-you-love-me.md"]
 +++

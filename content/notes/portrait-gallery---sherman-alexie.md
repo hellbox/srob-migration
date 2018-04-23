@@ -17,7 +17,7 @@ twitterauto = "Bringing back @studiochristine's portrait of @Sherman_Alexie, rea
 facebookauto = "Throwing it back to Sherman Alexie in anticipation of his reading this Sunday at Queen Anne Book Co.!"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery---sherman-alexie.md"
+notes_tags = ["notes/portrait-gallery---sherman-alexie.md"]
 notes_about = ""
 books = ""
 +++

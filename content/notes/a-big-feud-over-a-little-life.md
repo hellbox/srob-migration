@@ -17,7 +17,7 @@ twitterauto = "When writing a book review, is it ever okay to criticize a book's
 facebookauto = "Is a recent review of \"A Little Life\" guilty of \"goldfinching,\" or punishing the book for being written by and for women?"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-big-feud-over-a-little-life.md"
+notes_tags = ["notes/a-big-feud-over-a-little-life.md"]
 notes_about = ["authors/hanya-yanagihara.md"]
 books = ["books/a-little-life.md"]
 +++

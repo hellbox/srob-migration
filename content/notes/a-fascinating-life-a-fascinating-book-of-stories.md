@@ -17,7 +17,7 @@ twitterauto = "Sponsor Roy Lisker, and @saggingmeniscus, are here to show the fi
 facebookauto = "Sponsor Roy Lisker is here this week to show you his collected works. Read a sample from one of his formalist short stories on the sponsorship page right now. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-fascinating-life-a-fascinating-book-of-stories.md"
+notes_tags = ["notes/a-fascinating-life-a-fascinating-book-of-stories.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "It's @accidentaltheo by @studiochristine! "
 facebookauto = "Christine Marie Larsen paints local treasure Lesley Hazleton in this week's Portrait Gallery."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-lesley-hazleton.md"
+notes_tags = ["notes/portrait-gallery-lesley-hazleton.md"]
 notes_about = ["authors/lesley-hazleton.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Here's information about upcoming Seattle Review of Books events 
 facebookauto = "If you're not getting enough Seattle Review of Books in your day-to-day life, SRoB co-founders Martin McClellan and Paul Constant will be reading at Phinney Books next week and teaching a class at Hugo House next month."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-seattle-review-of-books-is-coming-to-you.md"
+notes_tags = ["notes/the-seattle-review-of-books-is-coming-to-you.md"]
 notes_about = ""
 books = ""
 +++

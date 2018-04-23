@@ -17,7 +17,7 @@ twitterauto = "Uh, Margaret Atwood's new comic book isn't very good."
 facebookauto = "We love Margaret Atwood. We think Margaret Atwood should win the Nobel Prize for Literature. But her first-ever comic book, Angel Catbird, is very, very, very bad."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-margaret-atwoods-first-comic-angel-catbird-is-not-very-good.md"
+notes_tags = ["notes/thursday-comics-hangover-margaret-atwoods-first-comic-angel-catbird-is-not-very-good.md"]
 notes_about = ["authors/margaret-atwood.md", "authors/ta-nehisi-coates.md", "authors/william-gibson.md"]
 books = ""
 +++

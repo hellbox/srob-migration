@@ -17,7 +17,7 @@ twitterauto = "Introducing the new creative director at the Bureau of @Fearless_
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/an-interview-with-david-schmader-the-brand-new-creative-director-at-the-bureau-of-fearless-ideas.md"
+notes_tags = ["notes/an-interview-with-david-schmader-the-brand-new-creative-director-at-the-bureau-of-fearless-ideas.md"]
 notes_about = ["authors/david-schmader.md"]
 books = ""
 +++

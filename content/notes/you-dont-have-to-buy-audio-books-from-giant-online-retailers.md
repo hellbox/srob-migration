@@ -17,7 +17,7 @@ twitterauto = "Did you know you can buy audio books from Seattle-area independen
 facebookauto = "Did you know you can buy audio books from Seattle-area independent booksellers? "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/you-dont-have-to-buy-audio-books-from-giant-online-retailers.md"
+notes_tags = ["notes/you-dont-have-to-buy-audio-books-from-giant-online-retailers.md"]
 notes_about = ""
 books = ""
 +++

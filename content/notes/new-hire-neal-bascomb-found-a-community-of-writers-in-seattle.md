@@ -17,7 +17,7 @@ twitterauto = "Neal Bascomb moved to Seattle from Philadelphia last year. How do
 facebookauto = "Our latest New Hire interview is Neal Bascomb, a writer of historical non-fiction. What surprised him most about Seattle? What does he miss most about the east coast?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/new-hire-neal-bascomb-found-a-community-of-writers-in-seattle.md"
+notes_tags = ["notes/new-hire-neal-bascomb-found-a-community-of-writers-in-seattle.md"]
 notes_about = ["authors/neal-bascomb.md"]
 books = ""
 +++

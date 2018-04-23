@@ -17,7 +17,7 @@ twitterauto = "Let's go trope-flipping on Kickstarter."
 facebookauto = "The Kickstarter Fund goes trope flippin' this week."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/upside-down-inverted-tropes-in-storytelling-anthology---kickstarter-fund-project-8.md"
+notes_tags = ["notes/upside-down-inverted-tropes-in-storytelling-anthology---kickstarter-fund-project-8.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our thanks to Entre Rios Books, and their sponsorship for their a
 facebookauto = "Our thanks to this week's sponsor Entre Rios Books, and their amazing project Twelve Saints. Check out a full poem, and the matching artwork, from their book on the site through tomorrow. "
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-day-left-to-check-out-twelve-saints.md"
+notes_tags = ["notes/one-day-left-to-check-out-twelve-saints.md"]
 notes_about = ""
 books = ["books/twelve-saints.md"]
 +++

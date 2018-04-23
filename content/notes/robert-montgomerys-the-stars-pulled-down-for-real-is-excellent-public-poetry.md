@@ -17,7 +17,7 @@ twitterauto = "You have just five days left to appreciate the gorgeous sci-fi po
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/robert-montgomerys-the-stars-pulled-down-for-real-is-excellent-public-poetry.md"
+notes_tags = ["notes/robert-montgomerys-the-stars-pulled-down-for-real-is-excellent-public-poetry.md"]
 notes_about = ["authors/robert-montgomery.md"]
 books = ""
 +++

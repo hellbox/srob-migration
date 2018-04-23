@@ -17,7 +17,7 @@ twitterauto = "We love the @seattleweekly's new hybrid comics-music interview co
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/local-cartoonists-+-local-bands-=-true-love-4eva.md"
+notes_tags = ["notes/local-cartoonists-+-local-bands-=-true-love-4eva.md"]
 notes_about = ""
 books = ""
 +++

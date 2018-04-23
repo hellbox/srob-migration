@@ -17,7 +17,7 @@ twitterauto = "Paterson is a movie that celebrates reading and writing and life 
 facebookauto = "Paterson is a movie that celebrates reading and writing and life and public transit. You should see it while it's in theaters."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/here-is-a-movie-to-remind-you-why-you-love-reading-and-writing.md"
+notes_tags = ["notes/here-is-a-movie-to-remind-you-why-you-love-reading-and-writing.md"]
 notes_about = ""
 books = ""
 +++

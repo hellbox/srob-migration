@@ -17,7 +17,7 @@ twitterauto = "You used to read really embarrassing books. What if the books you
 facebookauto = "You probably used to read really embarrassing books. Here's a horrifying thought: what if the books you read now are just as embarrassing? Cienna Madrid investigates."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-i-used-to-read-terrible-books-are-the-books-i-read-now-just-as-terrible.md"
+notes_tags = ["notes/the-help-desk-i-used-to-read-terrible-books-are-the-books-i-read-now-just-as-terrible.md"]
 notes_about = ["authors/tom-robbins.md", "authors/chuck-palahniuk.md", "authors/jack-kerouac.md", "authors/ayn-rand.md"]
 books = ""
 +++

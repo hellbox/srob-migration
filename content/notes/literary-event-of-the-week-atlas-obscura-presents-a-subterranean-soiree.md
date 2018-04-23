@@ -17,7 +17,7 @@ twitterauto = "Our Event of the Week is a book launch party with @atlasobscura u
 facebookauto = "Come celebrate the new Seattle branch of Atlas Obscura with a book launch party under the streets of Seattle."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-atlas-obscura-presents-a-subterranean-soiree.md"
+notes_tags = ["notes/literary-event-of-the-week-atlas-obscura-presents-a-subterranean-soiree.md"]
 notes_about = ["authors/shin-yu-pai.md"]
 books = ""
 +++

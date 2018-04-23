@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/jourdan-imani-keith.md"]
-notes_tags = "notes/at-dungeness-spit.md"
+notes_tags = ["notes/at-dungeness-spit.md"]
 notes_about = ""
 books = ""
 +++

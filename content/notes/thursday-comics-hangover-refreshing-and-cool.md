@@ -17,7 +17,7 @@ twitterauto = "You guys, forget about the Marvel relaunches; the new Archie seri
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-refreshing-and-cool.md"
+notes_tags = ["notes/thursday-comics-hangover-refreshing-and-cool.md"]
 notes_about = ""
 books = ""
 +++

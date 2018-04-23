@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/have-you-looked-at-vegan-teenage-zombie-huntress-yet.md"
+notes_tags = ["notes/have-you-looked-at-vegan-teenage-zombie-huntress-yet.md"]
 notes_about = ["authors/gg-silverman.md"]
 books = ["books/vegan-teenage-zombie-huntress.md"]
 +++

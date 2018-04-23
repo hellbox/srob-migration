@@ -17,7 +17,7 @@ twitterauto = "So 2016 just threw its weirdest curveball yet: @fantagraphics is 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/fantagraphics-books-to-publish-superhero-comics(!!).md"
+notes_tags = ["notes/fantagraphics-books-to-publish-superhero-comics(!!).md"]
 notes_about = ""
 books = ""
 +++

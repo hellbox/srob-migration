@@ -17,7 +17,7 @@ twitterauto = "Stephenie Meyer \"...has rewritten Twilight with the genders of t
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/stephenie-meyer-wrote-a-gender-flipped-version-of-twilight.md"
+notes_tags = ["notes/stephenie-meyer-wrote-a-gender-flipped-version-of-twilight.md"]
 notes_about = ["authors/stephenie-meyer.md"]
 books = ["books/twilight.md"]
 +++

@@ -10,5 +10,5 @@ last_updated = "2016-07-14T20:37:00-07:00"
 preview_url = "c19e5621-b222-d740-04a8-c530ac1129f7"
 name = "Big Table Publishing Company"
 title = "Big Table Publishing Company"
-books_publisher = "publishers/big-table-publishing-company.md"
+books_publisher = ["publishers/big-table-publishing-company.md"]
 +++

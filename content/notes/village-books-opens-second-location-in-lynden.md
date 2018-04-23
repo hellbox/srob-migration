@@ -17,7 +17,7 @@ twitterauto = "Next time we're up north, we'll be sure to stop by the new branch
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/village-books-opens-second-location-in-lynden.md"
+notes_tags = ["notes/village-books-opens-second-location-in-lynden.md"]
 notes_about = ""
 books = ""
 +++

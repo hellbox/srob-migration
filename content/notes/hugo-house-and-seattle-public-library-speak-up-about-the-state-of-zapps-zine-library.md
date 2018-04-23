@@ -17,7 +17,7 @@ twitterauto = "We talked with the Hugo House and Seattle Public Library about th
 facebookauto = "We talked with the Hugo House and Seattle Public Library about the state of ZAPP's zine library. Here's what they had to say:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hugo-house-and-seattle-public-library-speak-up-about-the-state-of-zapps-zine-library.md"
+notes_tags = ["notes/hugo-house-and-seattle-public-library-speak-up-about-the-state-of-zapps-zine-library.md"]
 notes_about = ""
 books = ""
 +++

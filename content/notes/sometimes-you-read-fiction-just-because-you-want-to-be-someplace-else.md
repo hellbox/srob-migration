@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sometimes-you-read-fiction-just-because-you-want-to-be-someplace-else.md"
+notes_tags = ["notes/sometimes-you-read-fiction-just-because-you-want-to-be-someplace-else.md"]
 notes_about = ""
 books = ""
 +++

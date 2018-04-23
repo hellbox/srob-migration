@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-help-desk-is-closed-today.md"
+notes_tags = ["notes/the-help-desk-is-closed-today.md"]
 notes_about = ""
 books = ""
 +++

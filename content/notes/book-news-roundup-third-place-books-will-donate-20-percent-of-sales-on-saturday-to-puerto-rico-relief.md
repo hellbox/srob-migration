@@ -17,7 +17,7 @@ twitterauto = "This Saturday, @ThirdPlaceBooks is donating 20% of all sales to P
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-third-place-books-will-donate-20-percent-of-sales-on-saturday-to-puerto-rico-relief.md"
+notes_tags = ["notes/book-news-roundup-third-place-books-will-donate-20-percent-of-sales-on-saturday-to-puerto-rico-relief.md"]
 notes_about = ""
 books = ""
 +++

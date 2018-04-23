@@ -17,7 +17,7 @@ twitterauto = "Sunday Post: the #worldwideweb's 25th bday (thanks @timberners_le
 facebookauto = "In this week's Sunday Post, read pieces about celebrating the first website's 25th birthday, the challenges facing an island's caretaker, which couple uses more water than all LA homes combined, and being in the medical field at the time of a new disease like Zika. "
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/the-sunday-post-for-august-14-2016.md"
+notes_tags = ["notes/the-sunday-post-for-august-14-2016.md"]
 notes_about = ""
 books = ""
 +++

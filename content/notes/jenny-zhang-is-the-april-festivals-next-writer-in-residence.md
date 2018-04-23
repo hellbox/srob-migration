@@ -17,7 +17,7 @@ twitterauto = "Let's get acquainted with @APRILfestSEA's new writer-in-residence
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jenny-zhang-is-the-april-festivals-next-writer-in-residence.md"
+notes_tags = ["notes/jenny-zhang-is-the-april-festivals-next-writer-in-residence.md"]
 notes_about = ["authors/jenny-zhang.md"]
 books = ""
 +++

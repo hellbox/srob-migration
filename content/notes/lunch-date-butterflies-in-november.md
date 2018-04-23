@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-butterflies-in-november.md"
+notes_tags = ["notes/lunch-date-butterflies-in-november.md"]
 notes_about = ["authors/au\u00f0ur-ava-\u00f3lafsd\u00f3ttir.md"]
 books = ["books/butterflies-in-november.md"]
 +++

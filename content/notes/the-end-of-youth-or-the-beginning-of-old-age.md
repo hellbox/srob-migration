@@ -17,7 +17,7 @@ twitterauto = "At a reading last night, four writers wrested with old age and yo
 facebookauto = "At a reading last night, four writers wrested with old age and youth. Old age came out looking better."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-end-of-youth-or-the-beginning-of-old-age.md"
+notes_tags = ["notes/the-end-of-youth-or-the-beginning-of-old-age.md"]
 notes_about = ["authors/kelly-froh.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Open Books has a new owner, and she's taking over in August."
 facebookauto = "The new owner of Open Books has been announced!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/billie-swift-is-the-new-owner-of-open-books.md"
+notes_tags = ["notes/billie-swift-is-the-new-owner-of-open-books.md"]
 notes_about = ""
 books = ""
 +++

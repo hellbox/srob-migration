@@ -17,7 +17,7 @@ twitterauto = "Our last words for 2017: \u201check yes\u201d to everyone who wro
 facebookauto = "Our last words for 2017: \u201check yes\u201d to everyone who wrote for us this year."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-december-31-2017.md"
+notes_tags = ["notes/the-sunday-post-for-december-31-2017.md"]
 notes_about = ""
 books = ""
 +++

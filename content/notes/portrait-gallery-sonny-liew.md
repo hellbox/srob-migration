@@ -17,7 +17,7 @@ twitterauto = "It's @sonnyliew by @studiochristine! Liew appears at @ElliottBayB
 facebookauto = "It's Sonny Liew in the Portrait Gallery this week! Liew appears Monday at Elliott Bay Book Company."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-sonny-liew.md"
+notes_tags = ["notes/portrait-gallery-sonny-liew.md"]
 notes_about = ["authors/sonny-liew.md"]
 books = ""
 +++

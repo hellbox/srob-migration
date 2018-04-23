@@ -17,7 +17,7 @@ twitterauto = "Jessica Mooney won the APRIL/Seattle Review of Books writing cont
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jessica-mooney-won-the-april--seattle-review-of-books-writing-contest.md"
+notes_tags = ["notes/jessica-mooney-won-the-april--seattle-review-of-books-writing-contest.md"]
 notes_about = ""
 books = ""
 +++

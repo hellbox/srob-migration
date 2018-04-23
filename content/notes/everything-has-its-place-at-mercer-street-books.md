@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/everything-has-its-place-at-mercer-street-books.md"
+notes_tags = ["notes/everything-has-its-place-at-mercer-street-books.md"]
 notes_about = ""
 books = ""
 +++

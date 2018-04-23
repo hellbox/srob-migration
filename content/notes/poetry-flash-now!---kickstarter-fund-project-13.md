@@ -17,7 +17,7 @@ twitterauto = "It's all @poetryflash on the Kickstarter Fund today!"
 facebookauto = "The Kickstarter fund backs some old school Bay Area poetry people."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/poetry-flash-now!---kickstarter-fund-project-13.md"
+notes_tags = ["notes/poetry-flash-now!---kickstarter-fund-project-13.md"]
 notes_about = ""
 books = ""
 +++

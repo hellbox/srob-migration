@@ -17,7 +17,7 @@ twitterauto = "Are readers of commercial fiction less empathetic than readers of
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/are-readers-of-literary-fiction-more-empathetic-than-readers-of-commercial-fiction.md"
+notes_tags = ["notes/are-readers-of-literary-fiction-more-empathetic-than-readers-of-commercial-fiction.md"]
 notes_about = ""
 books = ""
 +++

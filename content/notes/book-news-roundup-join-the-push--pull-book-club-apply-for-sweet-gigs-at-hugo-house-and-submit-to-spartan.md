@@ -17,7 +17,7 @@ twitterauto = "Join @PushPullSeattle's book club, apply for sweet gigs @HugoHous
 facebookauto = "Join the Push/Pull book club, apply for sweet gigs at Hugo House, and submit to Spartan"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-join-the-push--pull-book-club-apply-for-sweet-gigs-at-hugo-house-and-submit-to-spartan.md"
+notes_tags = ["notes/book-news-roundup-join-the-push--pull-book-club-apply-for-sweet-gigs-at-hugo-house-and-submit-to-spartan.md"]
 notes_about = ""
 books = ""
 +++

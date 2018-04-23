@@ -17,7 +17,7 @@ twitterauto = "Find your new favorite Seattle-area children's author with the he
 facebookauto = "Our visit with Secret Garden Books continues, as we talk about Seattle's amazing children's literature scene."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/bookstore-of-the-month-why-does-seattle-have-so-many-great-authors-for-children.md"
+notes_tags = ["notes/bookstore-of-the-month-why-does-seattle-have-so-many-great-authors-for-children.md"]
 notes_about = ""
 books = ""
 +++

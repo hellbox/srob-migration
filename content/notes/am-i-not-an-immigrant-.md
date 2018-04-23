@@ -17,7 +17,7 @@ twitterauto = "An extra additional Tuesday poem today, from Seattle's Civic Poet
 facebookauto = "A timely additional Tuesday poem today, from Seattle's Civic Poet, Claudia Castro Luna"
 make_image_tweet = "False"
 notes_byline = ["writers/claudia-castro-luna.md"]
-notes_tags = "notes/am-i-not-an-immigrant-.md"
+notes_tags = ["notes/am-i-not-an-immigrant-.md"]
 notes_about = ""
 books = ""
 +++

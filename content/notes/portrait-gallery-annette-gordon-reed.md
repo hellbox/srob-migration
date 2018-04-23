@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @agordonreed speaks @writehedgebrook EQUIVOX 20
 facebookauto = "Portrait Gallery: Annette Gordon-Reed painted by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-annette-gordon-reed.md"
+notes_tags = ["notes/portrait-gallery-annette-gordon-reed.md"]
 notes_about = ""
 books = ""
 +++

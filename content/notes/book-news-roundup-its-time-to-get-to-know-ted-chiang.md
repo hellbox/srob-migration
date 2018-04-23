@@ -17,7 +17,7 @@ twitterauto = "Today in book news: Amazon Books' weird discount strategy and two
 facebookauto = "Our Book News Roundup features Amazon Books' weird discount strategy and two Seattle author profiles you have to read."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-its-time-to-get-to-know-ted-chiang.md"
+notes_tags = ["notes/book-news-roundup-its-time-to-get-to-know-ted-chiang.md"]
 notes_about = ["authors/elissa-washuta.md", "authors/ted-chiang.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Could you write your way to a free apartment? Find out in Book Ne
 facebookauto = "Our afternoon book news roundup includes the chance to write your way to a rent-free Seattle apartment."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-write-your-way-to-a-free-seattle-apartment.md"
+notes_tags = ["notes/book-news-roundup-write-your-way-to-a-free-seattle-apartment.md"]
 notes_about = ""
 books = ""
 +++

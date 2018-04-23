@@ -17,7 +17,7 @@ twitterauto = "Here's one great literary event for every day this week."
 facebookauto = "This week brings two literary festivals, a pair of group readings, and an election-day reading about ghosts fighting in World War II."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-2---november-8.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-2---november-8.md"]
 notes_about = ""
 books = ""
 +++

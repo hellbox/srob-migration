@@ -17,7 +17,7 @@ twitterauto = "Roll the dice to see if  you'll enjoy this biography of the inven
 facebookauto = "Roll the dice to see if  you'll enjoy this biography of the inventor of Dungeons & Dragons."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-rolling-the-dice-for-charisma.md"
+notes_tags = ["notes/thursday-comics-hangover-rolling-the-dice-for-charisma.md"]
 notes_about = ""
 books = ""
 +++

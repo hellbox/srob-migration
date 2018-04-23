@@ -17,7 +17,7 @@ twitterauto = "It's the @NaNoWriMo wrap-up! Learn Maria Semple's secret for draf
 facebookauto = "It's the @NaNoWriMo wrap-up! Learn Maria Semple's secret for drafting your novel. "
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/nanowrimo-week-6-now-you-finish-your-novel.md"
+notes_tags = ["notes/nanowrimo-week-6-now-you-finish-your-novel.md"]
 notes_about = ""
 books = ""
 +++

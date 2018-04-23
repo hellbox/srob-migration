@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery! @studiochristine paints writer @GhoshAmitav, sp
 facebookauto = "A bonus Portrait Gallery this week! Christine Marie Larsen paints Amitav Ghosh, who is speaking tomorrow at Town Hall."
 make_image_tweet = ""
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-amitav-ghosh.md"
+notes_tags = ["notes/portrait-gallery-amitav-ghosh.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Just because it's Thanksgiving week doesn't mean you can stop goi
 facebookauto = "Just because it's Thanksgiving week doesn't mean you can stop going to readings."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-20th---november-26th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-20th---november-26th.md"]
 notes_about = ""
 books = ""
 +++

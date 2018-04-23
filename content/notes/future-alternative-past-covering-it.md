@@ -17,7 +17,7 @@ twitterauto = "Start on the outside. @nisishawl covers the covers, and some new 
 facebookauto = "Start on the outside. Nisi Shawl covers the covers, and some new releases, in this month's Future Alternative Past"
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/future-alternative-past-covering-it.md"
+notes_tags = ["notes/future-alternative-past-covering-it.md"]
 notes_about = ["authors/patricia-mckillip.md", "authors/michael-sims.md", "authors/zahrah-farmer-castillo.md", "authors/ted-chiang.md", "authors/kai-ashante-wilson.md", "authors/nnedi-okorafor.md", "authors/octavia-butler.md", "authors/zen-cho.md", "authors/kurt-vonnegut.md"]
 books = ""
 +++

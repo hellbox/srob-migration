@@ -17,7 +17,7 @@ twitterauto = "Dear @HugoHouse: Should we start digging a bomb shelter in case o
 facebookauto = "Today in Book News Roundup: A controversial kid's book, a lawsuit involving the author of Pride and Prejudice and Zombies, and a way to get your fortune told for free."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-latest-childrens-book-controversy-is-a-doozy.md"
+notes_tags = ["notes/book-news-roundup-the-latest-childrens-book-controversy-is-a-doozy.md"]
 notes_about = ""
 books = ""
 +++

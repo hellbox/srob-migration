@@ -17,7 +17,7 @@ twitterauto = "Our literary advice column returns with a question from a lovelor
 facebookauto = "Our literary advice column returns from holiday break with a question from a lovelorn reader."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-reading-out-of-heartbreak.md"
+notes_tags = ["notes/the-help-desk-reading-out-of-heartbreak.md"]
 notes_about = ""
 books = ""
 +++

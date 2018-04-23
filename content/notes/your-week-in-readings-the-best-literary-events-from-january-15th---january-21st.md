@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings includes a lot of sci-fi and a fresh start 
 facebookauto = "Your Week in Readings includes a lot of sci-fi and a fresh start for the Chain Letter series."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-15th---january-21st.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-15th---january-21st.md"]
 notes_about = ""
 books = ""
 +++

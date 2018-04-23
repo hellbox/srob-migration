@@ -17,7 +17,7 @@ twitterauto = "\"In the beginning, it was innocent\" starts today's poem by Poet
 facebookauto = "\"In the beginning, it was innocent\" starts today's poem by Poet in Residence Tammy Robacker."
 make_image_tweet = "False"
 notes_byline = ["writers/tammy-robacker.md"]
-notes_tags = "notes/summer-of-boys.md"
+notes_tags = ["notes/summer-of-boys.md"]
 notes_about = ""
 books = ""
 +++

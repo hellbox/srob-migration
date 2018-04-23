@@ -17,7 +17,7 @@ twitterauto = "Seattle cartoonist Tom Van Deusen has published a comic book abou
 facebookauto = "A Seattle cartoonist named Tom Van Deusen has published a comic book about loser named Tom Van Deusen who suffers from a complete lack of self-awareness."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-hilarity-of-failure.md"
+notes_tags = ["notes/thursday-comics-hangover-the-hilarity-of-failure.md"]
 notes_about = ""
 books = ""
 +++

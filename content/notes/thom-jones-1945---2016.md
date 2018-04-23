@@ -17,7 +17,7 @@ twitterauto = "Sad to hear that Thom Jones, author of The Pugilist at Rest, has 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thom-jones-1945---2016.md"
+notes_tags = ["notes/thom-jones-1945---2016.md"]
 notes_about = ""
 books = ""
 +++

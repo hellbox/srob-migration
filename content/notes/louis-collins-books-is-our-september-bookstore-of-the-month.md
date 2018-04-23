@@ -17,7 +17,7 @@ twitterauto = "Once a year, Louis Collins Books, expands to become \"the best bo
 facebookauto = "Once a year, our October Bookstore of the Month, Louis Collins Books, expands to become \"the best bookstore in America.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/louis-collins-books-is-our-september-bookstore-of-the-month.md"
+notes_tags = ["notes/louis-collins-books-is-our-september-bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

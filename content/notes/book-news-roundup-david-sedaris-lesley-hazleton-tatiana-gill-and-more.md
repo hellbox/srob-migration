@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup features David Sedaris, @accidentaltheo
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-david-sedaris-lesley-hazleton-tatiana-gill-and-more.md"
+notes_tags = ["notes/book-news-roundup-david-sedaris-lesley-hazleton-tatiana-gill-and-more.md"]
 notes_about = ["authors/kurt-vonnegut.md", "authors/tatiana-gill.md", "authors/david-sedaris.md", "authors/lesley-hazleton.md"]
 books = ["books/agnostic.md"]
 +++

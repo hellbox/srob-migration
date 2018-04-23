@@ -17,7 +17,7 @@ twitterauto = "Open Books owner John Marshall is in the \"closing stages\" of se
 facebookauto = "Open Books owner John Marshall is in the \"closing stages\" of selling the shop to a new owner."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/open-books-owner-john-marshall-is-in-the-closing-stages-of-selling-the-shop-to-a-new-owner.md"
+notes_tags = ["notes/open-books-owner-john-marshall-is-in-the-closing-stages-of-selling-the-shop-to-a-new-owner.md"]
 notes_about = ""
 books = ""
 +++

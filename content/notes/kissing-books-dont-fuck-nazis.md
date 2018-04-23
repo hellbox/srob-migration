@@ -17,7 +17,7 @@ twitterauto = "Is there ever any room for nazi heroes in romance? @O_Waite sets 
 facebookauto = "Is there ever any room for nazi heroes in romance? Olivia Waite sets us right."
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/kissing-books-dont-fuck-nazis.md"
+notes_tags = ["notes/kissing-books-dont-fuck-nazis.md"]
 notes_about = ["authors/tamsen-parker.md", "authors/amanda-quick.md", "authors/alexis-daria.md", "authors/effie-calvin.md"]
 books = ""
 +++

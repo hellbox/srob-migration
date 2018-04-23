@@ -17,7 +17,7 @@ twitterauto = "Chemist, writer, feminist, and founder of Home Ec, Ellen Swallow 
 facebookauto = "Chemist, writer, feminist, first woman MIT student, and founder of the Home Economics movement, Ellen Swallow Richards, is Christine Marie Larsen's subject for today's Portrait Gallery."
 make_image_tweet = ""
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-ellen-swallow-richards.md"
+notes_tags = ["notes/portrait-gallery-ellen-swallow-richards.md"]
 notes_about = ""
 books = ""
 +++

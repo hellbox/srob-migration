@@ -17,7 +17,7 @@ twitterauto = "Is it too late to save Pepe the frog from Donald Trump's neo-Nazi
 facebookauto = "Is it too late to save Pepe the frog from Donald Trump's neo-Nazi supporters?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/can-you-save-a-frog-from-neo-nazis.md"
+notes_tags = ["notes/can-you-save-a-frog-from-neo-nazis.md"]
 notes_about = ""
 books = ""
 +++

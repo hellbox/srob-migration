@@ -17,7 +17,7 @@ twitterauto = "Is the TSA going to start rifling through your books and magazine
 facebookauto = "Is the TSA going to start rifling through your books and magazines?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/is-the-tsa-going-to-start-rifling-through-your-books-and-magazines.md"
+notes_tags = ["notes/is-the-tsa-going-to-start-rifling-through-your-books-and-magazines.md"]
 notes_about = ""
 books = ""
 +++

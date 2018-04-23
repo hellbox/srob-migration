@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: #poet Langston Hughes + a new Seattle arts org!
 facebookauto = "Portrait Gallery: Langston Hughes"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-langston-hughes.md"
+notes_tags = ["notes/portrait-gallery-langston-hughes.md"]
 notes_about = ["authors/langston-hughes.md"]
 books = ""
 +++

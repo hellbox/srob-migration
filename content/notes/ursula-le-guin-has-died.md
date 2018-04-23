@@ -17,7 +17,7 @@ twitterauto = "Ursula Le Guin has died at 88"
 facebookauto = "Ursula Le Guin has died at 88"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/ursula-le-guin-has-died.md"
+notes_tags = ["notes/ursula-le-guin-has-died.md"]
 notes_about = ["authors/ursula-k-le-guin.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Sorry, folks, but today's Book News Roundup is packed with bad ne
 facebookauto = "Sorry, folks, but today's Book News Roundup is packed with bad news."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-its-all-bad-news-kids.md"
+notes_tags = ["notes/book-news-roundup-its-all-bad-news-kids.md"]
 notes_about = ""
 books = ""
 +++

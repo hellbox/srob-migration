@@ -17,7 +17,7 @@ twitterauto = "Meet @ElliottBayBooks's Rick Simonson, the man who put literary S
 facebookauto = "It began when a restaurant employee took out the trash. Forty years later, Seattle is a globally recognized hub of literature. How are those two things connected?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/after-40-years-rick-simonson-is-still-representing-the-best-of-literary-seattle.md"
+notes_tags = ["notes/after-40-years-rick-simonson-is-still-representing-the-best-of-literary-seattle.md"]
 notes_about = ""
 books = ""
 +++

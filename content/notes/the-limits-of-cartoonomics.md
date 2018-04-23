@@ -17,7 +17,7 @@ twitterauto = "Can a cartoon book about economics change the way Democratic poli
 facebookauto = "Can a cartoon book about economics change the way Democratic politicians speak to ordinary people>"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-limits-of-cartoonomics.md"
+notes_tags = ["notes/the-limits-of-cartoonomics.md"]
 notes_about = ""
 books = ""
 +++

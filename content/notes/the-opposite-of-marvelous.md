@@ -17,7 +17,7 @@ twitterauto = "In less than a year, Marvel Comics has gone from a wildly excitin
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-opposite-of-marvelous.md"
+notes_tags = ["notes/the-opposite-of-marvelous.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ""
 +++

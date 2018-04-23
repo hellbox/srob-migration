@@ -17,7 +17,7 @@ twitterauto = "Anders Nilsen is a special guest @shortrunseattle. His latest com
 facebookauto = "Anders Nilsen is a special guest at this year's Short Run Seattle. His latest comic is a creation myth set in a ruined Middle East."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-anders-nilsen-is-speaking-in-tongues.md"
+notes_tags = ["notes/thursday-comics-hangover-anders-nilsen-is-speaking-in-tongues.md"]
 notes_about = ""
 books = ""
 +++

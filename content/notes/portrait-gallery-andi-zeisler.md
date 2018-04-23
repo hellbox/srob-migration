@@ -17,7 +17,7 @@ twitterauto = "It's @andizeisler in @studiochristine's Portrait Gallery today!"
 facebookauto = "It's Andi Zeisler of Bitch Magazine, in Portrait Gallery today."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-andi-zeisler.md"
+notes_tags = ["notes/portrait-gallery-andi-zeisler.md"]
 notes_about = ""
 books = ""
 +++

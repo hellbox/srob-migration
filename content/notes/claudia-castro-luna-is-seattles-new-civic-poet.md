@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/claudia-castro-luna-is-seattles-new-civic-poet.md"
+notes_tags = ["notes/claudia-castro-luna-is-seattles-new-civic-poet.md"]
 notes_about = ["authors/claudia-castro-luna.md"]
 books = ""
 +++

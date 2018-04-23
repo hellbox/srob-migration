@@ -17,7 +17,7 @@ twitterauto = "Our event of the week remixes found photo slides from the mid-20t
 facebookauto = "Our event of the week remixes found photo slides from the mid-20th century into something new."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-baby-boomer-at-the-factory.md"
+notes_tags = ["notes/literary-event-of-the-week-baby-boomer-at-the-factory.md"]
 notes_about = ["authors/marie-hausauer.md"]
 books = ""
 +++

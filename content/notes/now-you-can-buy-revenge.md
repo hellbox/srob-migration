@@ -17,7 +17,7 @@ twitterauto = "Beautiful broadsides of @elisacatrina's poem \"Revenge\" are for 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/now-you-can-buy-revenge.md"
+notes_tags = ["notes/now-you-can-buy-revenge.md"]
 notes_about = ["authors/elisa-chavez.md"]
 books = ""
 +++

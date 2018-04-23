@@ -17,7 +17,7 @@ twitterauto = "Do you need some book- or writing-related advice? Write us! advic
 facebookauto = "Do you need some book- or writing-related advice? Write our Help Desk columnist, Cienna Madrid! advice@seattlereviewofbooks.com"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/help-desk-is-closed-for-thanksgiving-break.md"
+notes_tags = ["notes/help-desk-is-closed-for-thanksgiving-break.md"]
 notes_about = ""
 books = ""
 +++

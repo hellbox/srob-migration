@@ -17,7 +17,7 @@ twitterauto = "We visited Ballard's newest comic shop/art gallery, The Grumpy Ol
 facebookauto = "We visited Ballard's newest comic shop/art gallery, The Grumpy Old Man Comics, Art & Collectibles."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/visual-art-and-comics-art-collide-at-grumpy-old-mans-comics-art-and-collectibles.md"
+notes_tags = ["notes/visual-art-and-comics-art-collide-at-grumpy-old-mans-comics-art-and-collectibles.md"]
 notes_about = ""
 books = ""
 +++

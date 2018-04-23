@@ -17,7 +17,7 @@ twitterauto = "This week, Seattle is hosting both the Short Run Festival and the
 facebookauto = "This week, Seattle is hosting both the Short Run Festival and the Cascadia Poetry Festival."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-events-of-the-week-short-run-and-the-cascadia-poetry-festival.md"
+notes_tags = ["notes/literary-events-of-the-week-short-run-and-the-cascadia-poetry-festival.md"]
 notes_about = ["authors/mita-mahato.md"]
 books = ""
 +++

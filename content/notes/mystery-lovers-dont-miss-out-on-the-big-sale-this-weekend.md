@@ -17,7 +17,7 @@ twitterauto = "This weekend, Friends of the @SPLBuzz are selling a ton of books.
 facebookauto = "The Friends of the Seattle Public Library are throwing a big book sale on Saturday. Some of the books they're selling are from the late, lamented Seattle Mystery Bookshop's collection."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/mystery-lovers-dont-miss-out-on-the-big-sale-this-weekend.md"
+notes_tags = ["notes/mystery-lovers-dont-miss-out-on-the-big-sale-this-weekend.md"]
 notes_about = ""
 books = ""
 +++

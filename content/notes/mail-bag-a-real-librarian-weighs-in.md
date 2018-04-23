@@ -17,7 +17,7 @@ twitterauto = "Reader @kerryhowell had a question for @ciennam about her Little 
 facebookauto = "We get mail! Today, a reader responds to Cienna Madrid, who responds back. Don't you love this kind of old-fashioned idea of letters and responding instead of a comments section?"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/mail-bag-a-real-librarian-weighs-in.md"
+notes_tags = ["notes/mail-bag-a-real-librarian-weighs-in.md"]
 notes_about = ""
 books = ""
 +++

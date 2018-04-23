@@ -10,5 +10,5 @@ last_updated = "2017-03-31T23:01:00-07:00"
 preview_url = "bb307709-a22b-8b48-64ad-727044b4aa8c"
 name = "Bold Strokes Books"
 title = "Bold Strokes Books"
-books_publisher = "publishers/bold-strokes-books.md"
+books_publisher = ["publishers/bold-strokes-books.md"]
 +++

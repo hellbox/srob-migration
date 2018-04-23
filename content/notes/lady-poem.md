@@ -17,7 +17,7 @@ twitterauto = "\"Lady Poem\" is the last work from October Poet in Residence @ka
 facebookauto = "\"Lady Poem\" is the last work from October Poet in Residence Kary Wayson"
 make_image_tweet = "False"
 notes_byline = ["writers/kary-wayson.md"]
-notes_tags = "notes/lady-poem.md"
+notes_tags = ["notes/lady-poem.md"]
 notes_about = ""
 books = ""
 +++

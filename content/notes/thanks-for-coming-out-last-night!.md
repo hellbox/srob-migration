@@ -17,7 +17,7 @@ twitterauto = "Thanks to everybody who showed up last night for the @cal4oclock 
 facebookauto = "Thanks to everybody who came last night for the California Four O'Clock launch party!"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/thanks-for-coming-out-last-night!.md"
+notes_tags = ["notes/thanks-for-coming-out-last-night!.md"]
 notes_about = ""
 books = ""
 +++

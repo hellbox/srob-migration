@@ -17,7 +17,7 @@ twitterauto = "Tonight's reading with @Nancy_Pearl benefits one of Seattle's bes
 facebookauto = "Tonight's Words West reading with Nancy Pearl benefits the C&P Coffee Company, which might be forced out of its home due to soaring real estate prices."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/tonights-words-west-reading-benefits-one-of-seattles-best-neighborhood-independent-coffee-shops.md"
+notes_tags = ["notes/tonights-words-west-reading-benefits-one-of-seattles-best-neighborhood-independent-coffee-shops.md"]
 notes_about = ["authors/nancy-pearl.md"]
 books = ""
 +++

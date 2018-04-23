@@ -17,7 +17,7 @@ twitterauto = "Downtown comics shop @ZanaduComics is raising money to keep its d
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/shoring-up-zanadu.md"
+notes_tags = ["notes/shoring-up-zanadu.md"]
 notes_about = ""
 books = ""
 +++

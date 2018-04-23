@@ -17,7 +17,7 @@ twitterauto = "Godzilla goes to Hell in the new comic book Godzilla in Hell. Yea
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-godzilla-goes-to-hell.md"
+notes_tags = ["notes/thursday-comics-hangover-godzilla-goes-to-hell.md"]
 notes_about = ""
 books = ""
 +++

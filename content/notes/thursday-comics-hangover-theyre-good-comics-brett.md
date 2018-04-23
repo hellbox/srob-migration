@@ -17,7 +17,7 @@ twitterauto = "@BrettHamil may not be the world's best cartoonist, but his carto
 facebookauto = "Brett Hamil may not be the world's best cartoonist, but his cartoons are indisputably funny."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-theyre-good-comics-brett.md"
+notes_tags = ["notes/thursday-comics-hangover-theyre-good-comics-brett.md"]
 notes_about = ["authors/brett-hamil.md"]
 books = ""
 +++

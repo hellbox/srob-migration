@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/national-book-awards-ceremony-live-stream.md"
+notes_tags = ["notes/national-book-awards-ceremony-live-stream.md"]
 notes_about = ""
 books = ""
 +++

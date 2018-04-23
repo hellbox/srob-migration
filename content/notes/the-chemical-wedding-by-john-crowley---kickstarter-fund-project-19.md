@@ -17,7 +17,7 @@ twitterauto = "We back @smallbeerpress with the Kickstarter Fund."
 facebookauto = "The Kickstarter Fund gets behind Small Beer Press."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-chemical-wedding-by-john-crowley---kickstarter-fund-project-19.md"
+notes_tags = ["notes/the-chemical-wedding-by-john-crowley---kickstarter-fund-project-19.md"]
 notes_about = ""
 books = ""
 +++

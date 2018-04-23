@@ -17,7 +17,7 @@ twitterauto = ".@SeattleMystery employees have pretty much seen it all\u2014exce
 facebookauto = "Seattle Mystery Bookshop has been around long enough that they've seen it all, and they shared their stories with us. One customer was despondent after the staff had to inform him that Sherlock Holmes wasn\u2019t a real person."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/finding-the-inner-mystery-geek-in-all-of-us-since-1990.md"
+notes_tags = ["notes/finding-the-inner-mystery-geek-in-all-of-us-since-1990.md"]
 notes_about = ""
 books = ""
 +++

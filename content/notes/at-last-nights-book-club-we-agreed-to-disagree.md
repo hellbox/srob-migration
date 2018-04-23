@@ -17,7 +17,7 @@ twitterauto = "Naomi Klein's latest book raised more questions than it answered 
 facebookauto = "Naomi Klein's latest book raised more questions than it answered at last night's book club."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-e-nelson.md"]
-notes_tags = "notes/at-last-nights-book-club-we-agreed-to-disagree.md"
+notes_tags = ["notes/at-last-nights-book-club-we-agreed-to-disagree.md"]
 notes_about = ""
 books = ""
 +++

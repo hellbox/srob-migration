@@ -17,7 +17,7 @@ twitterauto = "You have less than a week to visit Mockingbird books before it cl
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-last-days-of-mockingbird-books.md"
+notes_tags = ["notes/the-last-days-of-mockingbird-books.md"]
 notes_about = ""
 books = ""
 +++

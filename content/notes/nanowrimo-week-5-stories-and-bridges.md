@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/nanowrimo-week-5-stories-and-bridges.md"
+notes_tags = ["notes/nanowrimo-week-5-stories-and-bridges.md"]
 notes_about = ""
 books = ""
 +++

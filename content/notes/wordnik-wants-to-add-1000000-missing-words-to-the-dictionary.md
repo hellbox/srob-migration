@@ -17,7 +17,7 @@ twitterauto = "Go @wordnik! They're shooting to add 1,000,000 words to the dicti
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/wordnik-wants-to-add-1000000-missing-words-to-the-dictionary.md"
+notes_tags = ["notes/wordnik-wants-to-add-1000000-missing-words-to-the-dictionary.md"]
 notes_about = ""
 books = ""
 +++

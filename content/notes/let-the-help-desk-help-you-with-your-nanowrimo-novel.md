@@ -17,7 +17,7 @@ twitterauto = "Getting ready for National Novel Writing Month? Let @ciennam help
 facebookauto = "All November, our advice columnist Cienna Madrid wants to answer your writing-themed questions. Are you scared about National Novel Writing Month? Need a piece of advice for how to make your characters get in line? Let Cienna help you."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/let-the-help-desk-help-you-with-your-nanowrimo-novel.md"
+notes_tags = ["notes/let-the-help-desk-help-you-with-your-nanowrimo-novel.md"]
 notes_about = ""
 books = ""
 +++

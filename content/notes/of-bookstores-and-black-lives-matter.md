@@ -17,7 +17,7 @@ twitterauto = "When a white customer complained about a #BlackLivesMatter displa
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/of-bookstores-and-black-lives-matter.md"
+notes_tags = ["notes/of-bookstores-and-black-lives-matter.md"]
 notes_about = ""
 books = ""
 +++

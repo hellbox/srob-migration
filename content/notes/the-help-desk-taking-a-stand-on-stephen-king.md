@@ -17,7 +17,7 @@ twitterauto = "Is @stephenking a good writer or not? Advice columnist @ciennam h
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-taking-a-stand-on-stephen-king.md"
+notes_tags = ["notes/the-help-desk-taking-a-stand-on-stephen-king.md"]
 notes_about = ["authors/stephen-king.md"]
 books = ""
 +++

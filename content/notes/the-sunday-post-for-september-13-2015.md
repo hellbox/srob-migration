@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post links to pieces from: @sannewman, @leighanderson_
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-september-13-2015.md"
+notes_tags = ["notes/the-sunday-post-for-september-13-2015.md"]
 notes_about = ""
 books = ""
 +++

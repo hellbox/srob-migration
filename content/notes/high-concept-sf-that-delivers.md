@@ -17,7 +17,7 @@ twitterauto = "Sponsor @SteveToutonghi's gripping debut \"Join\" is now availabl
 facebookauto = "Sponsor Steve Toutonghi's gripping debut \"Join\" is now available in paperback!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/high-concept-sf-that-delivers.md"
+notes_tags = ["notes/high-concept-sf-that-delivers.md"]
 notes_about = ["authors/steve-toutonghi.md"]
 books = ["books/join.md"]
 +++

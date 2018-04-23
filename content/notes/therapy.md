@@ -17,7 +17,7 @@ twitterauto = "This week's poem from Poet in Residence @writer_sejones is called
 facebookauto = "This week's poem from Poet in Residence Sarah Jones is called \"Therapy\""
 make_image_tweet = "False"
 notes_byline = ["writers/sarah-jones.md"]
-notes_tags = "notes/therapy.md"
+notes_tags = ["notes/therapy.md"]
 notes_about = ""
 books = ""
 +++

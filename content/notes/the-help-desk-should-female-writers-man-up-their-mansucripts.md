@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-should-female-writers-man-up-their-mansucripts.md"
+notes_tags = ["notes/the-help-desk-should-female-writers-man-up-their-mansucripts.md"]
 notes_about = ""
 books = ""
 +++

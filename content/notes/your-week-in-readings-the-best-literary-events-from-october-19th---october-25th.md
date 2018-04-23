@@ -17,7 +17,7 @@ twitterauto = "Here are the best literary events for the next week of your life.
 facebookauto = "This week in readings brings novelists, poetry debut parties, new comics, and a discussion of how white Seattle's journalism scene is."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-october-19th---october-25th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-october-19th---october-25th.md"]
 notes_about = ""
 books = ""
 +++

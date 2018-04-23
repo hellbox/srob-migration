@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "New Internationalist "
 title = "New Internationalist "
-books_publisher = "publishers/new-internationalist-.md"
+books_publisher = ["publishers/new-internationalist-.md"]
 +++

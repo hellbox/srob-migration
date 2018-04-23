@@ -17,7 +17,7 @@ twitterauto = "\"Because there\u2019s a sparrow outside that appears to be dying
 facebookauto = "\"Because there\u2019s a sparrow outside that appears to be dying.\" starts \"Downpour\" by July Poet in Residence Kelli Russell Agodon"
 make_image_tweet = "False"
 notes_byline = ["writers/kelli-russell-agodon.md"]
-notes_tags = "notes/downpour.md"
+notes_tags = ["notes/downpour.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Here are three non-fiction books that knocked our (metaphorical) 
 facebookauto = "Here are three non-fiction books that knocked our (metaphorical) socks off this year."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/2017-in-review-the-non-fiction-books-that-made-my-year.md"
+notes_tags = ["notes/2017-in-review-the-non-fiction-books-that-made-my-year.md"]
 notes_about = ""
 books = ""
 +++

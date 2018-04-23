@@ -17,7 +17,7 @@ twitterauto = "Turning Jared Kushner to stone & more wishful thinking in the Sun
 facebookauto = "Turning Jared Kushner to stone & more wishful thinking in the Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-may-28-2017.md"
+notes_tags = ["notes/the-sunday-post-for-may-28-2017.md"]
 notes_about = ""
 books = ""
 +++

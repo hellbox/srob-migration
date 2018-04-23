@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup includes a rare Seattle reading from @c
 facebookauto = "Today's book news roundup includes a rare Seattle reading from our own Cienna Madrid and information about how to submit your work to a new book from the crew at Shout Your Abortion!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-cienna-madrid-reads-in-seattle-next-tuesday!.md"
+notes_tags = ["notes/book-news-roundup-cienna-madrid-reads-in-seattle-next-tuesday!.md"]
 notes_about = ""
 books = ""
 +++

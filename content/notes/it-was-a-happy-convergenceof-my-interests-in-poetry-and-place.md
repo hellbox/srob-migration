@@ -17,7 +17,7 @@ twitterauto = "Watch @ClaudiaC_L talk about her poetic map of Seattle on PBS @Ne
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/it-was-a-happy-convergenceof-my-interests-in-poetry-and-place.md"
+notes_tags = ["notes/it-was-a-happy-convergenceof-my-interests-in-poetry-and-place.md"]
 notes_about = ["authors/claudia-castro-luna.md"]
 books = ""
 +++

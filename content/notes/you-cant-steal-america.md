@@ -17,7 +17,7 @@ twitterauto = "What kind of story did Hillary Clinton tell at the DNC this week?
 facebookauto = "What kind of story did Hillary Clinton tell at the DNC this week?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/you-cant-steal-america.md"
+notes_tags = ["notes/you-cant-steal-america.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"...I recently watched a Very Bad Play in Seattle...\""
 facebookauto = "Here's a little rant about what happens when a theater company forgets the importance of language in Shakespeare plays."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/putting-on-a-shakespeare-play-the-language-should-be-the-boss.md"
+notes_tags = ["notes/putting-on-a-shakespeare-play-the-language-should-be-the-boss.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our weekly comics column gets excited about Bitch Planet and the 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-fantastic-voyage-from-saga-to-bitch-planet.md"
+notes_tags = ["notes/thursday-comics-hangover-the-fantastic-voyage-from-saga-to-bitch-planet.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Congratulations to @ramez, winner of the Philip K. Dick Award @no
 facebookauto = "The 39th annual Norwescon was all about community."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ramez-naam-wins-philip-k-dick-award-at-norwescon.md"
+notes_tags = ["notes/ramez-naam-wins-philip-k-dick-award-at-norwescon.md"]
 notes_about = ["authors/ramez-naam.md"]
 books = ""
 +++

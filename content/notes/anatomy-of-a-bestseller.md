@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/anatomy-of-a-bestseller.md"
+notes_tags = ["notes/anatomy-of-a-bestseller.md"]
 notes_about = ["authors/paula-hawkins.md"]
 books = ["books/the-girl-on-the-train.md"]
 +++

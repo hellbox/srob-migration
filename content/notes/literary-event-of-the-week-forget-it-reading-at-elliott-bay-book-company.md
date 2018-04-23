@@ -17,7 +17,7 @@ twitterauto = "Find out why all of Seattle is losing its mind over Anastacia-Ren
 facebookauto = "All of Seattle is losing its mind over Anastacia-Renee. Find out why at Elliott Bay this week."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-forget-it-reading-at-elliott-bay-book-company.md"
+notes_tags = ["notes/literary-event-of-the-week-forget-it-reading-at-elliott-bay-book-company.md"]
 notes_about = ["authors/anastacia-renee.md"]
 books = ""
 +++

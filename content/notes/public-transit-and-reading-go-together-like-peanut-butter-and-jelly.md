@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/public-transit-and-reading-go-together-like-peanut-butter-and-jelly.md"
+notes_tags = ["notes/public-transit-and-reading-go-together-like-peanut-butter-and-jelly.md"]
 notes_about = ""
 books = ""
 +++

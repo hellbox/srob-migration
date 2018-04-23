@@ -17,7 +17,7 @@ twitterauto = "Is it awful to ask for compensation if your poem is published in 
 facebookauto = "Is it awful to ask for compensation if your poem is being published in an anti-Trump anthology?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-even-in-an-age-of-trump-writers-should-be-paid-for-their-work.md"
+notes_tags = ["notes/the-help-desk-even-in-an-age-of-trump-writers-should-be-paid-for-their-work.md"]
 notes_about = ""
 books = ""
 +++

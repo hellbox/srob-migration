@@ -17,7 +17,7 @@ twitterauto = "Sad news: the University District Half Price Books on Roosevelt W
 facebookauto = "Sad news: the University District Half Price Books on Roosevelt Way is scheduled to close on April 6th."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/roosevelt-way-half-price-books-to-close-on-april-6th.md"
+notes_tags = ["notes/roosevelt-way-half-price-books-to-close-on-april-6th.md"]
 notes_about = ""
 books = ""
 +++

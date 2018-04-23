@@ -17,7 +17,7 @@ twitterauto = "A prize for Jane Wong, a resurrection for Gawker, and much more i
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-big-money.md"
+notes_tags = ["notes/book-news-roundup-big-money.md"]
 notes_about = ["authors/jane-wong.md"]
 books = ""
 +++

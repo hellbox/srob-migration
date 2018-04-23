@@ -17,7 +17,7 @@ twitterauto = "Seattle writer @GWillowWilson is a voice of reason in the current
 facebookauto = "Seattle writer G. Willow Wilson is a much-needed voice of reason in the current superhero diversity debate."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/on-diversity-and-superheroes.md"
+notes_tags = ["notes/on-diversity-and-superheroes.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ["books/ms-marvel-volume-1-no-normal.md"]
 +++

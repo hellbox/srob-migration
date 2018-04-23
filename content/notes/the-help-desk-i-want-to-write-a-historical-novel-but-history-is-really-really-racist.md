@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: Help! I want to write a historical novel, but hist
 facebookauto = "\"If you publish your manuscript, I can guarantee that no critic or reader will think, 'not enough N-words for my taste.'\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-i-want-to-write-a-historical-novel-but-history-is-really-really-racist.md"
+notes_tags = ["notes/the-help-desk-i-want-to-write-a-historical-novel-but-history-is-really-really-racist.md"]
 notes_about = ""
 books = ""
 +++

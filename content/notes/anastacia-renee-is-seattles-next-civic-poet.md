@@ -17,7 +17,7 @@ twitterauto = "Great news! Seattle's new Civic Poet is the astounding Anastacia-
 facebookauto = "Great news! Seattle's new Civic Poet is the astounding Anastacia-Renee!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/anastacia-renee-is-seattles-next-civic-poet.md"
+notes_tags = ["notes/anastacia-renee-is-seattles-next-civic-poet.md"]
 notes_about = ["authors/claudia-castro-luna.md", "authors/anastacia-renee.md"]
 books = ""
 +++

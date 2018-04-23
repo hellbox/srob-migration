@@ -17,7 +17,7 @@ twitterauto = "Here's a handy list of great literary nonprofits that could use y
 facebookauto = "Here's a handy list of great literary nonprofits that could use your #GiveBIG cash:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/looking-to-givebig-heres-a-list-of-good-literary-causes-that-need-your-help.md"
+notes_tags = ["notes/looking-to-givebig-heres-a-list-of-good-literary-causes-that-need-your-help.md"]
 notes_about = ""
 books = ""
 +++

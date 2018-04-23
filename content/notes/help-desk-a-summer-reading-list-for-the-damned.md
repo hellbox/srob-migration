@@ -17,7 +17,7 @@ twitterauto = "@ciennam offers up her summer reading list for the apocalypse."
 facebookauto = "Why do people read cheery books in the summer? Don't they know there's an apocalypse going on? Cienna Madrid offers up a summer reading list for people who know the world is in deep trouble."
 make_image_tweet = "True"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/help-desk-a-summer-reading-list-for-the-damned.md"
+notes_tags = ["notes/help-desk-a-summer-reading-list-for-the-damned.md"]
 notes_about = ""
 books = ""
 +++

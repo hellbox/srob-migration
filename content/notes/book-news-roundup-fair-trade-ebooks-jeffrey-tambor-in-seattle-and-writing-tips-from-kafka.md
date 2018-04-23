@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup features Kafka, Jeffrey Tambor, and Cor
 facebookauto = "If you're a Jeffrey Tambor fan, you should know that he's coming to Seattle. If you're not a Jeffrey Tambor fan, you should watch something with Jeffrey Tambor in it."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-fair-trade-ebooks-jeffrey-tambor-in-seattle-and-writing-tips-from-kafka.md"
+notes_tags = ["notes/book-news-roundup-fair-trade-ebooks-jeffrey-tambor-in-seattle-and-writing-tips-from-kafka.md"]
 notes_about = ""
 books = ""
 +++

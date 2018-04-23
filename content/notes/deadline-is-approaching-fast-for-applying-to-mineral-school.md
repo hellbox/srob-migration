@@ -17,7 +17,7 @@ twitterauto = "Sponsor @mineralschool is back to remind you to get your applicat
 facebookauto = "Sponsor Mineral School is back to remind you to get your applications in!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/deadline-is-approaching-fast-for-applying-to-mineral-school.md"
+notes_tags = ["notes/deadline-is-approaching-fast-for-applying-to-mineral-school.md"]
 notes_about = ""
 books = ""
 +++

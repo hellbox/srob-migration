@@ -17,7 +17,7 @@ twitterauto = "Our second from Poet in Residence,@buddy_and_buddy is titled \"Fi
 facebookauto = "Our second from Poet in Residence, Jeanine Walker, is titled \"First Confession\""
 make_image_tweet = "False"
 notes_byline = ["writers/jeanine-walker.md"]
-notes_tags = "notes/first-confession.md"
+notes_tags = ["notes/first-confession.md"]
 notes_about = ""
 books = ""
 +++

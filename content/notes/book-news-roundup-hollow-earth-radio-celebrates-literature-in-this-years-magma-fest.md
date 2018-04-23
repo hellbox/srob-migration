@@ -17,7 +17,7 @@ twitterauto = "This year's Magma Festival from @hollowearth includes some neat-s
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-hollow-earth-radio-celebrates-literature-in-this-years-magma-fest.md"
+notes_tags = ["notes/book-news-roundup-hollow-earth-radio-celebrates-literature-in-this-years-magma-fest.md"]
 notes_about = ["authors/mattilda-bernstein-sycamore.md"]
 books = ""
 +++

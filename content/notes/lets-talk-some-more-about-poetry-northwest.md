@@ -17,7 +17,7 @@ twitterauto = "Sponsor @poetrynw's new issue is dropping soon!"
 facebookauto = "Sponsor Poetry Northwest is keen for you to see their new issue, coming the first week of April. Get a preview on our site, and make sure you're signed up for a subscription so you can get it when it drops!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/lets-talk-some-more-about-poetry-northwest.md"
+notes_tags = ["notes/lets-talk-some-more-about-poetry-northwest.md"]
 notes_about = ""
 books = ""
 +++

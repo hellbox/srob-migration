@@ -17,7 +17,7 @@ twitterauto = "This morning, @ShelfAwareness broke the news that Amazon could be
 facebookauto = "Shelf Awareness is reporting that Amazon is quite possibly about to open a brick-and-mortar bookstore at University Village. Local booksellers have been approached with mysterious job offers. What will this mean for Seattle's literary culture? The speculation starts now."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-to-open-bookstore-in-university-village.md"
+notes_tags = ["notes/amazon-to-open-bookstore-in-university-village.md"]
 notes_about = ""
 books = ""
 +++

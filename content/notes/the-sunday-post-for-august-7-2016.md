@@ -17,7 +17,7 @@ twitterauto = "Sunday Post: the #DarienGap, @POTUS' piece in @glamourmag, the ar
 facebookauto = "Check out this week's Sunday Post for an article about perilous journeys through a lawless jungle, Obama's feminist piece for Glamour, a celebration of the Postal Service's 200th birthday, and what makes a good political speech. "
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/the-sunday-post-for-august-7-2016.md"
+notes_tags = ["notes/the-sunday-post-for-august-7-2016.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2017-08-28T15:59:00-07:00"
 preview_url = "83df3228-5066-a718-2a09-b64ea2e2eff8"
 name = "BookBaby"
 title = "BookBaby"
-books_publisher = "publishers/bookbaby.md"
+books_publisher = ["publishers/bookbaby.md"]
 +++

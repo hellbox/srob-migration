@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Vertigo Comics"
 title = "Vertigo Comics"
-books_publisher = "publishers/vertigo-comics.md"
+books_publisher = ["publishers/vertigo-comics.md"]
 +++

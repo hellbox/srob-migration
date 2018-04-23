@@ -17,7 +17,7 @@ twitterauto = "Seattle's smartest writer and a poetry mainstay welcome a dearly 
 facebookauto = "This week's Event of the Week: Help Rebecca Brown and Kreg Hasegawa welcome former Seattle poet Nico Vassilakis back to town!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-rebecca-brown-kreg-hasegawa-and-nico-vassilakis-.md"
+notes_tags = ["notes/literary-event-of-the-week-rebecca-brown-kreg-hasegawa-and-nico-vassilakis-.md"]
 notes_about = ["authors/rebecca-brown.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Stephen King's murder has been canceled."
 facebookauto = "Stephen King's murder has been canceled."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/stephen-kings-murder-has-been-canceled.md"
+notes_tags = ["notes/stephen-kings-murder-has-been-canceled.md"]
 notes_about = ["authors/stephen-king.md"]
 books = ""
 +++

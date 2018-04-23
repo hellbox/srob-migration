@@ -17,7 +17,7 @@ twitterauto = "Using Duchamp as a coping metaphor"
 facebookauto = "Using Duchamp as a coping metaphor"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-bride-on-our-wedding-day.md"
+notes_tags = ["notes/the-bride-on-our-wedding-day.md"]
 notes_about = ""
 books = ""
 +++

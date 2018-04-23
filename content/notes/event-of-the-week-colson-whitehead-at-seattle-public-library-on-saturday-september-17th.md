@@ -17,7 +17,7 @@ twitterauto = "Our event of the week is the latest entry in the Big O's Book Clu
 facebookauto = "Colson Whitehead is ten thousand times the novelist Jonathan Franzen is. So why has it taken so long for most of America to wake up to that fact?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-colson-whitehead-at-seattle-public-library-on-saturday-september-17th.md"
+notes_tags = ["notes/event-of-the-week-colson-whitehead-at-seattle-public-library-on-saturday-september-17th.md"]
 notes_about = ["authors/colson-whitehead.md"]
 books = ""
 +++

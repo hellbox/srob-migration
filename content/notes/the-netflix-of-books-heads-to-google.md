@@ -17,7 +17,7 @@ twitterauto = "Oyster, the \"Netflix for books,\" is closing because it forgot t
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-netflix-of-books-heads-to-google.md"
+notes_tags = ["notes/the-netflix-of-books-heads-to-google.md"]
 notes_about = ""
 books = ""
 +++

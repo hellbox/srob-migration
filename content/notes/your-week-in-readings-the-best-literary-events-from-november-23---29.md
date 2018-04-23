@@ -17,7 +17,7 @@ twitterauto = "Your Thanksgiving week in literary events kicks off with a wine-c
 facebookauto = "We've got a bunch of neat events for your Thanksgiving week, including a book club, a wine expert, a brain expert, and therapy dogs that help kids learn how to read."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-23---29.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-23---29.md"]
 notes_about = ["authors/colleen-frakes.md", "authors/jim-dodge.md", "authors/chimamanda-ngozi-adichie.md"]
 books = ["books/prison-island.md", "books/fup.md", "books/we-should-all-be-feminists.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "The Joyce Maynard event at Folio tonight has been canceled. "
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-joyce-maynard-reading-at-folio-tonight-has-been-canceled.md"
+notes_tags = ["notes/the-joyce-maynard-reading-at-folio-tonight-has-been-canceled.md"]
 notes_about = ""
 books = ""
 +++

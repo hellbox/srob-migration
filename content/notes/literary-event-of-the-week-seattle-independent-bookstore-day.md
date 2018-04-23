@@ -17,7 +17,7 @@ twitterauto = "This Saturday is Seattle Independent Bookstore Day! Here are our 
 facebookauto = "This Saturday is Seattle Independent Bookstore Day! Here are our picks for best way to spend your day:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-seattle-independent-bookstore-day.md"
+notes_tags = ["notes/literary-event-of-the-week-seattle-independent-bookstore-day.md"]
 notes_about = ["authors/ellen-forney.md", "authors/marie-hausauer.md", "authors/david-lasky.md", "authors/kelly-froh.md", "authors/megan-kelso.md", "authors/simon-hanselmann.md", "authors/mita-mahato.md", "authors/colleen-frakes.md"]
 books = ""
 +++

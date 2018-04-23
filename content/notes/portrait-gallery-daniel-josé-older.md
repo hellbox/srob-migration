@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @djolder #illustration by @studiochristine Batt
 facebookauto = "Portrait Gallery: Daniel Jose Older painted by Christine Marie Larsen. Reading Tuesday, July 18th at the Seattle Library, Central Branch."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-daniel-josé-older.md"
+notes_tags = ["notes/portrait-gallery-daniel-josé-older.md"]
 notes_about = ["authors/daniel-jose-older.md"]
 books = ""
 +++

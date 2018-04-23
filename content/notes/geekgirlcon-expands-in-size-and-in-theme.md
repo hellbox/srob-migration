@@ -17,7 +17,7 @@ twitterauto = "This year, @GeekGirlCon is expanding in a big way."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/geekgirlcon-expands-in-size-and-in-theme.md"
+notes_tags = ["notes/geekgirlcon-expands-in-size-and-in-theme.md"]
 notes_about = ""
 books = ""
 +++

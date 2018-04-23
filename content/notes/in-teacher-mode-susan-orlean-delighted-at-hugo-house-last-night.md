@@ -17,7 +17,7 @@ twitterauto = "If you missed @susanorlean at @hugohouse last night, you really m
 facebookauto = "Susan Orlean was fantastic at Hugo House last night."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/in-teacher-mode-susan-orlean-delighted-at-hugo-house-last-night.md"
+notes_tags = ["notes/in-teacher-mode-susan-orlean-delighted-at-hugo-house-last-night.md"]
 notes_about = ["authors/susan-orlean.md"]
 books = ""
 +++

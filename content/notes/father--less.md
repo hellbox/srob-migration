@@ -17,7 +17,7 @@ twitterauto = "The first poem from our March Poet in Residence, @jamaicabaldwin"
 facebookauto = "The first poem from our March Poet in Residence, Jamaica Baldwin"
 make_image_tweet = "False"
 notes_byline = ["writers/jamaica-baldwin.md"]
-notes_tags = "notes/father--less.md"
+notes_tags = ["notes/father--less.md"]
 notes_about = ""
 books = ""
 +++

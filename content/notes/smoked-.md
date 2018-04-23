@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is \"Smoked\" from Suzanne E. Edison"
 facebookauto = "Our Tuesday Poem is \"Smoked\" from Suzanne E. Edison."
 make_image_tweet = "False"
 notes_byline = ["writers/suzanne-e-edison.md"]
-notes_tags = "notes/smoked-.md"
+notes_tags = ["notes/smoked-.md"]
 notes_about = ""
 books = ""
 +++

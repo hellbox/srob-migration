@@ -17,7 +17,7 @@ twitterauto = "Book nerds! You have 2 chances to get your dance on this week. Pr
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/dancing-is-like-reading-with-your-body.md"
+notes_tags = ["notes/dancing-is-like-reading-with-your-body.md"]
 notes_about = ""
 books = ""
 +++

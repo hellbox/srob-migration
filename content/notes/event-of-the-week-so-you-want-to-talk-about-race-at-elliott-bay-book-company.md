@@ -17,7 +17,7 @@ twitterauto = "Our event of the week: Ijeoma Oluo reads at Elliott Bay Book Comp
 facebookauto = "Our event of the week: Ijeoma Oluo reads at Elliott Bay Book Company this Wednesday!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-so-you-want-to-talk-about-race-at-elliott-bay-book-company.md"
+notes_tags = ["notes/event-of-the-week-so-you-want-to-talk-about-race-at-elliott-bay-book-company.md"]
 notes_about = ["authors/ijeoma-oluo.md"]
 books = ["books/so-you-want-to-talk-about-race.md"]
 +++

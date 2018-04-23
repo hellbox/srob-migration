@@ -17,7 +17,7 @@ twitterauto = "Big news for Seattle publishing: @penguinrandom has bought @Sasqu
 facebookauto = "Big news for Seattle publishing: Big New York publisher Penguin Random House has bought Seattle independent press Sasquatch Books. Click through to read the terms of the deal, and to read Sasquatch publisher Gary Luke's challenge for Seattle Review of Books readers."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-publisher-sasquatch-books-has-been-bought-by-penguin-random-house.md"
+notes_tags = ["notes/seattle-publisher-sasquatch-books-has-been-bought-by-penguin-random-house.md"]
 notes_about = ["authors/kate-lebo.md", "authors/sam-ligon.md"]
 books = ""
 +++

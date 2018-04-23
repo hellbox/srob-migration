@@ -17,7 +17,7 @@ twitterauto = "Publishing Milo Yiannopoulos's book was never about free speech f
 facebookauto = "Milo Yiannopoulos's book was never about free speech for Simon & Schuster. It was only about one thing"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/simon-&-schuster-finally-cancels-dangerous-by-milo-yiannopoulos.md"
+notes_tags = ["notes/simon-&-schuster-finally-cancels-dangerous-by-milo-yiannopoulos.md"]
 notes_about = ""
 books = ""
 +++

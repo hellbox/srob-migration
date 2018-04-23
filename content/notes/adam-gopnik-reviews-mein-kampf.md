@@ -17,7 +17,7 @@ twitterauto = "Adam Gopnik just reviewed Mein Kampf.  But how many stars would h
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/adam-gopnik-reviews-mein-kampf.md"
+notes_tags = ["notes/adam-gopnik-reviews-mein-kampf.md"]
 notes_about = ""
 books = ""
 +++

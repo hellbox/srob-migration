@@ -17,7 +17,7 @@ twitterauto = "New Column by @aaronbaglady launching today! Aaron Bagley's Dream
 facebookauto = "New Column launching today! Aaron Bagley's Dream Comics. "
 make_image_tweet = "True"
 notes_byline = ["writers/aaron-bagley.md"]
-notes_tags = "notes/aaron-bagleys-dream-comics-the-village.md"
+notes_tags = ["notes/aaron-bagleys-dream-comics-the-village.md"]
 notes_about = ""
 books = ""
 +++

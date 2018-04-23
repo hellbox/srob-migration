@@ -10,5 +10,5 @@ last_updated = "2017-04-04T22:32:00-07:00"
 preview_url = "9f4e03dc-a2bf-469f-c6e9-e0846e6e0275"
 name = "Mount Analogue"
 title = "Mount Analogue"
-books_publisher = "publishers/mount-analogue.md"
+books_publisher = ["publishers/mount-analogue.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Read the winners of an Octavia Butler-themed writing contest in t
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-octavia-butler-themed-contest-winners-a-poetry-judge-and-rachel-dolezal.md"
+notes_tags = ["notes/book-news-roundup-octavia-butler-themed-contest-winners-a-poetry-judge-and-rachel-dolezal.md"]
 notes_about = ["authors/octavia-butler.md"]
 books = ""
 +++

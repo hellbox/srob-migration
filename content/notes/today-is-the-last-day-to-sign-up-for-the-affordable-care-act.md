@@ -17,7 +17,7 @@ twitterauto = "Hey, freelancers: Today's the last day to sign up for Obamacare. 
 facebookauto = "A reminder for all our readers who are freelance writers: Today is the last day to sign up for Obamacare. No matter what nonsense Republicans pull over the next year, if you sign up today, you are guaranteed to have health insurance coverage for the year of 2017. Please look into it, okay? We want you to be healthy."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/today-is-the-last-day-to-sign-up-for-the-affordable-care-act.md"
+notes_tags = ["notes/today-is-the-last-day-to-sign-up-for-the-affordable-care-act.md"]
 notes_about = ""
 books = ""
 +++

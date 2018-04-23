@@ -17,7 +17,7 @@ twitterauto = "One day left to read work from @PriscillaLong during her sponsors
 facebookauto = "Our thanks to sponsor Priscilla Long for her sponsorship. You have one more day to read her work on the site."
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-day-left-to-read-some-work-from-local-poet-priscilla-long.md"
+notes_tags = ["notes/one-day-left-to-read-some-work-from-local-poet-priscilla-long.md"]
 notes_about = ""
 books = ""
 +++

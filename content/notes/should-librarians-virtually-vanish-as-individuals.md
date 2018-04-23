@@ -17,7 +17,7 @@ twitterauto = "Is it possible for librarians to be apolitical? Should they aspir
 facebookauto = "Is it possible for librarians to be apolitical? Should they aspire to \"virtually vanish\" as individuals?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/should-librarians-virtually-vanish-as-individuals.md"
+notes_tags = ["notes/should-librarians-virtually-vanish-as-individuals.md"]
 notes_about = ""
 books = ""
 +++

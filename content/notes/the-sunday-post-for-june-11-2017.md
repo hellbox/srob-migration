@@ -17,7 +17,7 @@ twitterauto = "Cowboys on Wall Street, spiders on the ceiling, & homeruns by @me
 facebookauto = "Cowboys on Wall Street, spiders on the ceiling, and wonderful writing by Meehan Crist, Rumaan Alam, and David Sedaris in the Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-june-11-2017.md"
+notes_tags = ["notes/the-sunday-post-for-june-11-2017.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Your literary event of the week is a reclamation of the oldest ga
 facebookauto = "Your literary event of the week is a reclamation of the stories surrounding the oldest gay bar in Seattle."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-casino-a-palimpsest.md"
+notes_tags = ["notes/literary-event-of-the-week-casino-a-palimpsest.md"]
 notes_about = ["authors/storme-webber.md"]
 books = ""
 +++

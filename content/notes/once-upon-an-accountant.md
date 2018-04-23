@@ -17,7 +17,7 @@ twitterauto = "Our second from Poet in Residence Emily Bedard is called \"Once U
 facebookauto = "Our second from Poet in Residence Emily Bedard is called \"Once Upon an Accountant\""
 make_image_tweet = "False"
 notes_byline = ["writers/emily-bedard.md"]
-notes_tags = "notes/once-upon-an-accountant.md"
+notes_tags = ["notes/once-upon-an-accountant.md"]
 notes_about = ""
 books = ""
 +++

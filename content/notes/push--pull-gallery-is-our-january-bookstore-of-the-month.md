@@ -17,7 +17,7 @@ twitterauto = "Our January Bookstore of the Month is Ballard's own Push/Pull Gal
 facebookauto = "Our January Bookstore of the Month is Ballard's own Push/Pull Gallery, an art gallery that also sells underground comics."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/push--pull-gallery-is-our-january-bookstore-of-the-month.md"
+notes_tags = ["notes/push--pull-gallery-is-our-january-bookstore-of-the-month.md"]
 notes_about = ["authors/seth-goodkind.md"]
 books = ""
 +++

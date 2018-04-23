@@ -10,5 +10,5 @@ last_updated = "2017-07-06T23:05:00-07:00"
 preview_url = "e43e2cca-810d-c22b-1510-806b096b501f"
 name = "grabbackcomics.com"
 title = "grabbackcomics.com"
-books_publisher = "publishers/grabbackcomicscom.md"
+books_publisher = ["publishers/grabbackcomicscom.md"]
 +++

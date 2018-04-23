@@ -17,7 +17,7 @@ twitterauto = "Bumbershoot isn't the biggest literary event in town anymore, but
 facebookauto = "Bumbershoot isn't the biggest literary event in town anymore, but it's still packing some power."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-bumbershoot.md"
+notes_tags = ["notes/literary-event-of-the-week-bumbershoot.md"]
 notes_about = ["authors/ursula-k-le-guin.md"]
 books = ""
 +++

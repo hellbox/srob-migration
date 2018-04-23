@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts looks up at the walruses on the Arctic Bu
 facebookauto = "Seattle Writing Prompts looks up at the walruses on the Arctic Building"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-arctic-building.md"
+notes_tags = ["notes/seattle-writing-prompts-the-arctic-building.md"]
 notes_about = ""
 books = ""
 +++

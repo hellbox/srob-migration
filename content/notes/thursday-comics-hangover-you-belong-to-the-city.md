@@ -17,7 +17,7 @@ twitterauto = "These Seattle cartoonists are creating a European city that's bar
 facebookauto = "These Seattle cartoonists are creating a European city that's barely hanging on between World Wars."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-you-belong-to-the-city.md"
+notes_tags = ["notes/thursday-comics-hangover-you-belong-to-the-city.md"]
 notes_about = ""
 books = ""
 +++

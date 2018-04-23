@@ -17,7 +17,7 @@ twitterauto = "Our event of the week is the This Is How It Always Is release par
 facebookauto = "Our event of the week is the This Is How It Always Is release party at the downtown branch of the Seattle Public Library!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-this-is-how-it-always-is-paperback-release-reading-at-seattle-public-library.md"
+notes_tags = ["notes/literary-event-of-the-week-this-is-how-it-always-is-paperback-release-reading-at-seattle-public-library.md"]
 notes_about = ["authors/laurie-frankel.md"]
 books = ["books/this-is-how-it-always-is.md"]
 +++

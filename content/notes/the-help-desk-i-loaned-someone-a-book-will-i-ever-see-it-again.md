@@ -17,7 +17,7 @@ twitterauto = "So you loaned someone a book and they never returned it. What sho
 facebookauto = "It's happened to everyone: you loan a coworker a book. They never return it. What's the etiquette for that situation? Our advice columnist, Cienna Madrid, has some thoughts."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-i-loaned-someone-a-book-will-i-ever-see-it-again.md"
+notes_tags = ["notes/the-help-desk-i-loaned-someone-a-book-will-i-ever-see-it-again.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle-area reporter @ericacbarnett is working on a memoir and w
 facebookauto = "Seattle-area journalist Erica C. Barnett is working on a memoir for Viking Books."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-journalist-erica-c-barnett-is-hard-at-work-on-a-memoir.md"
+notes_tags = ["notes/seattle-journalist-erica-c-barnett-is-hard-at-work-on-a-memoir.md"]
 notes_about = ["authors/erica-c-barnett.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our picks for best literary events of the week are right here:"
 facebookauto = "Our picks for best literary events from April 20th-26th include a sci-fi thriller, a bunch of pot-themed happenings with David Schmader, and a big Fantagraphics comics party in Georgetown."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-20th-26th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-20th-26th.md"]
 notes_about = ["authors/david-schmader.md"]
 books = ["books/weed-the-users-guide.md"]
 +++

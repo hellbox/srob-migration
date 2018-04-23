@@ -17,7 +17,7 @@ twitterauto = "Our event of the week brings an excellent Redmond poet and transl
 facebookauto = "Our event of the week brings an excellent Redmond poet and translator to Elliott Bay Book Company."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-lena-khalaf-tuffaha-at-elliott-bay-book-company.md"
+notes_tags = ["notes/event-of-the-week-lena-khalaf-tuffaha-at-elliott-bay-book-company.md"]
 notes_about = ["authors/lena-khalaf-tuffaha-.md"]
 books = ["books/water-&amp;-salt.md"]
 +++

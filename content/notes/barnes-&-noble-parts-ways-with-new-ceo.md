@@ -17,7 +17,7 @@ twitterauto = "Barnes & Noble and their CEO parted ways. Yes, again."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/barnes-&-noble-parts-ways-with-new-ceo.md"
+notes_tags = ["notes/barnes-&-noble-parts-ways-with-new-ceo.md"]
 notes_about = ""
 books = ""
 +++

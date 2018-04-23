@@ -17,7 +17,7 @@ twitterauto = "Romance time! Short reviews of @kj_charles, @miasosaromance,@ICoo
 facebookauto = "Short reviews of KJ Charles, Mia Sosa, Isabel Cooper, and more @O_Waite's Kissing Books column."
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/kissing-books-she-works-hard-for-it-honey.md"
+notes_tags = ["notes/kissing-books-she-works-hard-for-it-honey.md"]
 notes_about = ["authors/everly-james.md", "authors/kj-charles.md", "authors/mia-sosa.md", "authors/isabel-cooper.md", "authors/betina-krahn.md"]
 books = ""
 +++

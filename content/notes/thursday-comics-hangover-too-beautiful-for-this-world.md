@@ -17,7 +17,7 @@ twitterauto = "Turns out, these comics were too beautiful to live in this world.
 facebookauto = "These comics were too beautiful to live in this world."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-too-beautiful-for-this-world.md"
+notes_tags = ["notes/thursday-comics-hangover-too-beautiful-for-this-world.md"]
 notes_about = ""
 books = ""
 +++

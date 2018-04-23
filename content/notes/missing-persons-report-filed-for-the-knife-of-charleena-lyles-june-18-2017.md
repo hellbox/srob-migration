@@ -17,7 +17,7 @@ twitterauto = "The first poem by February Poet in Residence Azura Tyabji grapple
 facebookauto = "The first poem by February Poet in Residence Azura Tyabji grapples with Charleena Lyles's fatal shooting."
 make_image_tweet = "False"
 notes_byline = ["writers/azura-tyabji.md"]
-notes_tags = "notes/missing-persons-report-filed-for-the-knife-of-charleena-lyles-june-18-2017.md"
+notes_tags = ["notes/missing-persons-report-filed-for-the-knife-of-charleena-lyles-june-18-2017.md"]
 notes_about = ""
 books = ""
 +++

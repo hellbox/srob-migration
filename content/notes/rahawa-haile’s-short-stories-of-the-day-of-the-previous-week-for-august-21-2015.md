@@ -17,7 +17,7 @@ twitterauto = "Shorts by @megpipe, @manualofstyle, and others in our weekly coll
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-august-21-2015.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-august-21-2015.md"]
 notes_about = ""
 books = ""
 +++

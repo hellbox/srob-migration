@@ -17,7 +17,7 @@ twitterauto = "Sometimes, you suddenly get the appeal of a cartoonist. This new 
 facebookauto = "Sometimes, you suddenly understand the appeal of a cartoonist. you never fully grasped. This new reissue of Cheap Novelties from Drawn and Quarterly is a good example."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-city-gone-by.md"
+notes_tags = ["notes/thursday-comics-hangover-the-city-gone-by.md"]
 notes_about = ""
 books = ""
 +++

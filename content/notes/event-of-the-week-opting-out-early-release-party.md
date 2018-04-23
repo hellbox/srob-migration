@@ -17,7 +17,7 @@ twitterauto = "Our literary event of the week is a book launch party and a goodb
 facebookauto = "Our literary event of the week is a book launch party and a goodbye party for Maged Zaher."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-opting-out-early-release-party.md"
+notes_tags = ["notes/event-of-the-week-opting-out-early-release-party.md"]
 notes_about = ["authors/maged-zaher.md"]
 books = ""
 +++

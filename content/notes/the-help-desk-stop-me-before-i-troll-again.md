@@ -17,7 +17,7 @@ twitterauto = "A reader writes to @ciennam: I can't seem to stop trolling a loca
 facebookauto = "In our advice column this week, a writer asks Cienna Madrid for help: he can't seem to stop trolling a local writer. How can he stop trolling? Should he stop trolling?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-stop-me-before-i-troll-again.md"
+notes_tags = ["notes/the-help-desk-stop-me-before-i-troll-again.md"]
 notes_about = ""
 books = ""
 +++

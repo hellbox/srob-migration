@@ -17,7 +17,7 @@ twitterauto = "A fundraiser for Standing Rock, a job @Sasquatchbooks, and more i
 facebookauto = "A fundraiser for Standing Rock, a job at Sasquatch Books, and more in Book News Roundup."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-get-a-publishing-job-help-standing-rock-and-ruin-your-mr-darcy-sex-dreams.md"
+notes_tags = ["notes/book-news-roundup-get-a-publishing-job-help-standing-rock-and-ruin-your-mr-darcy-sex-dreams.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

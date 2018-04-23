@@ -17,7 +17,7 @@ twitterauto = "Ever wonder what Nancy Pearl's ice cream would taste like?"
 facebookauto = "Ever wonder what Nancy Pearl's ice cream would taste like?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-what-does-nancy-pearls-ice-cream-taste-like.md"
+notes_tags = ["notes/book-news-roundup-what-does-nancy-pearls-ice-cream-taste-like.md"]
 notes_about = ""
 books = ""
 +++

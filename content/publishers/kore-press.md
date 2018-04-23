@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Kore Press"
 title = "Kore Press"
-books_publisher = "publishers/kore-press.md"
+books_publisher = ["publishers/kore-press.md"]
 +++

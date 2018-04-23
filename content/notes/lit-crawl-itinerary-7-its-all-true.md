@@ -17,7 +17,7 @@ twitterauto = "Today's @litcrawlseattle itinerary focuses on true stories of wor
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary-7-its-all-true.md"
+notes_tags = ["notes/lit-crawl-itinerary-7-its-all-true.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Join sponsor @uwlibraries on 5/2 for dinner with some of the PNW'
 facebookauto = "Join sponsor UW Libraries on May 2 for dinner with some of the PNW's most interesting writers \u2014\u00a0and a keynote by Ted Chiang! "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/join-uw-libraries-on-may-2-for-dinner-featuring-ted-chiang.md"
+notes_tags = ["notes/join-uw-libraries-on-may-2-for-dinner-featuring-ted-chiang.md"]
 notes_about = ["authors/ted-chiang.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our Event of the Week is Donald Ray Pollock reading @elliottbaybo
 facebookauto = "Donald Ray Pollock reads at Elliott Bay Book Company on July 25th. He says the secret to writing is just to keep your butt in the seat until you finally write something."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-donald-ray-pollock-at-elliott-bay-book-company.md"
+notes_tags = ["notes/literary-event-of-the-week-donald-ray-pollock-at-elliott-bay-book-company.md"]
 notes_about = ["authors/donald-ray-pollock.md"]
 books = ""
 +++

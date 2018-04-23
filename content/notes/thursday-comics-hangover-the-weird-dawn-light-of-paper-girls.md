@@ -17,7 +17,7 @@ twitterauto = "We've gone absolutely gaga over Brian K. Vaughan and @cliffchiang
 facebookauto = "The writer of Saga and the artist of Wonder Woman have joined forces to create a comic book about teenage girls on a newspaper delivery route. (It's got monsters and time travel and stuff, too.)"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-weird-dawn-light-of-paper-girls.md"
+notes_tags = ["notes/thursday-comics-hangover-the-weird-dawn-light-of-paper-girls.md"]
 notes_about = ["authors/brian-k-vaughan.md"]
 books = ""
 +++

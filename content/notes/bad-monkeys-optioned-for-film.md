@@ -17,7 +17,7 @@ twitterauto = ".@MargotRobbie is bringing Seattle author @bymattruff's great nov
 facebookauto = "Margot Robbie is bringing Seattle author Matt Ruff's novel Bad Monkeys to Hollywood"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/bad-monkeys-optioned-for-film.md"
+notes_tags = ["notes/bad-monkeys-optioned-for-film.md"]
 notes_about = ["authors/matt-ruff.md"]
 books = ["books/lovecraft-country.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-scottish-noir-and-books-galore-.md"
+notes_tags = ["notes/criminal-fiction-scottish-noir-and-books-galore-.md"]
 notes_about = ""
 books = ""
 +++

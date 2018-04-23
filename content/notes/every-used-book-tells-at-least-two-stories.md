@@ -17,7 +17,7 @@ twitterauto = "Talking with the Mercer Street Books staff about the neat things 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/every-used-book-tells-at-least-two-stories.md"
+notes_tags = ["notes/every-used-book-tells-at-least-two-stories.md"]
 notes_about = ""
 books = ""
 +++

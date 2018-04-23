@@ -17,7 +17,7 @@ twitterauto = "If you're in a Texas state prison, you can read Hitler's book but
 facebookauto = "If you're in a Texas state prison, you can read Hitler's book but not Harriet Beecher Stowe's book."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/texas-state-prison-gets-censorship-exactly-wrong.md"
+notes_tags = ["notes/texas-state-prison-gets-censorship-exactly-wrong.md"]
 notes_about = ""
 books = ""
 +++

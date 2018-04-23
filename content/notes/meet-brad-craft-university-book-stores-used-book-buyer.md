@@ -17,7 +17,7 @@ twitterauto = "Meet @UsedbuyerBrad from our bookstore of the month, @ubookstorer
 facebookauto = "The bookseller from this month's Bookstore of the Month learned to love reading thanks to bodice-ripping romances he bought at yard sales. \"They looked like classics to me,\u201d he says. The women on the covers \u201cwere in historical  costumes,\u201d"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-brad-craft-university-book-stores-used-book-buyer.md"
+notes_tags = ["notes/meet-brad-craft-university-book-stores-used-book-buyer.md"]
 notes_about = ""
 books = ""
 +++

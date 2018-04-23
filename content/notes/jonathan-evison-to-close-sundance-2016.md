@@ -17,7 +17,7 @@ twitterauto = "Excited to see that The Revised Fundamentals of Caregiving adapta
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jonathan-evison-to-close-sundance-2016.md"
+notes_tags = ["notes/jonathan-evison-to-close-sundance-2016.md"]
 notes_about = ["authors/jonathan-evison.md"]
 books = ["books/the-revised-fundamentals-of-caregiving.md"]
 +++

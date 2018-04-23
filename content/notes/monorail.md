@@ -17,7 +17,7 @@ twitterauto = "Tuesdays in December we remember Lucia Perillo by publishing her 
 facebookauto = "Tuesdays in December we remember Lucia Perillo by publishing her work. Today's the first: \"Monorail\""
 make_image_tweet = "False"
 notes_byline = ["writers/lucia-perillo.md"]
-notes_tags = "notes/monorail.md"
+notes_tags = ["notes/monorail.md"]
 notes_about = ["authors/lucia-perillo.md"]
 books = ""
 +++

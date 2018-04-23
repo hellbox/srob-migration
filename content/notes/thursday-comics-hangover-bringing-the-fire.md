@@ -17,7 +17,7 @@ twitterauto = "Due to bad weather at Snoqualmie Pass, there were no new comics i
 facebookauto = "The Grinch stole new comics day yesterday, but there's still some good stuff in your local comics store, including this nifty anthology based on the Prometheus myth."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-bringing-the-fire.md"
+notes_tags = ["notes/thursday-comics-hangover-bringing-the-fire.md"]
 notes_about = ["authors/grant-morrison.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Sponsor @uwlibraries is here to tell you about their event \"Lite
 facebookauto = "Sponsor UW Libraries is here to tell you about their event \"Literary Voices\", featuring Annie Proulx!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-chance-to-see-annie-proulx-live.md"
+notes_tags = ["notes/a-chance-to-see-annie-proulx-live.md"]
 notes_about = ""
 books = ""
 +++

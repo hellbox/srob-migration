@@ -17,7 +17,7 @@ twitterauto = "If you've ever dreamed of packing it up and moving to another cou
 facebookauto = "If you've ever dreamed of packing it up and moving to another country (and who hasn't?), sponsor Molly McCord's memoir is for you."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/with-the-greatest-of-ease.md"
+notes_tags = ["notes/with-the-greatest-of-ease.md"]
 notes_about = ["authors/molly-mccord.md"]
 books = ["books/the-art-of-trapeze.md"]
 +++

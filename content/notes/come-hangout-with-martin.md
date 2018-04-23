@@ -17,7 +17,7 @@ twitterauto = "Today @kickstarter is hosting a \"Creator Hangout\" with Martin a
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/come-hangout-with-martin.md"
+notes_tags = ["notes/come-hangout-with-martin.md"]
 notes_about = ""
 books = ""
 +++

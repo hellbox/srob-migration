@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts visits the dark side of Lake Washington B
 facebookauto = "Seattle Writing Prompts visits the dark side of Lake Washington Boulevard today"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-lake-washington-boulevard.md"
+notes_tags = ["notes/seattle-writing-prompts-lake-washington-boulevard.md"]
 notes_about = ""
 books = ""
 +++

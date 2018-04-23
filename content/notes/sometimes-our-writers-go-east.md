@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sometimes-our-writers-go-east.md"
+notes_tags = ["notes/sometimes-our-writers-go-east.md"]
 notes_about = ["authors/elissa-washuta.md"]
 books = ["books/starvation-mode.md", "books/my-body-is-a-book-of-rules.md"]
 +++

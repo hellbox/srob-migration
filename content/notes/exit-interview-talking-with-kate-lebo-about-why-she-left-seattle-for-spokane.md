@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane.md"
+notes_tags = ["notes/exit-interview-talking-with-kate-lebo-about-why-she-left-seattle-for-spokane.md"]
 notes_about = ["authors/kate-lebo.md"]
 books = ["books/pie-school.md", "books/a-commonplace-book-of-pie.md"]
 +++

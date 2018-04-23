@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = "A massive Mail Call!"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-april-18-2017.md"
+notes_tags = ["notes/mail-call-for-april-18-2017.md"]
 notes_about = ""
 books = ""
 +++

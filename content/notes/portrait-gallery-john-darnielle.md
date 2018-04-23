@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: John Darnielle @mountain_goats painted by @stud
 facebookauto = "Portrait Gallery: John Darnielle"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-john-darnielle.md"
+notes_tags = ["notes/portrait-gallery-john-darnielle.md"]
 notes_about = ["authors/john-darnielle.md"]
 books = ""
 +++

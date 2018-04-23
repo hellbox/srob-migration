@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Wishing a very Happy 85th Birthday to @Nichelle
 facebookauto = "Portrait Gallery: Happy 85th Birthday to Nichelle Nichols!"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-happy-birthday-nichelle!.md"
+notes_tags = ["notes/portrait-gallery-happy-birthday-nichelle!.md"]
 notes_about = ""
 books = ""
 +++

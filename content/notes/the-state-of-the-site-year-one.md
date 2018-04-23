@@ -17,7 +17,7 @@ twitterauto = "Happy 1st Birthday to us! Gather now for the State of the Site Ad
 facebookauto = "Happy 1st Birthday to us! Gather now for the State of the Site Address."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-state-of-the-site-year-one.md"
+notes_tags = ["notes/the-state-of-the-site-year-one.md"]
 notes_about = ""
 books = ""
 +++

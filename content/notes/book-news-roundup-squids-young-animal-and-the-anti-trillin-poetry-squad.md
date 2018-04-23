@@ -17,7 +17,7 @@ twitterauto = "Squids, Young Animal, and the anti-Trillin poetry squad. "
 facebookauto = "Today's Book News Roundup includes a cephalopod-themed writing contest, a new line of comics announced at Emerald City Comicon last night, and some response poems inspired by Calvin Trillin's racially insensitive New Yorker poem. "
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-squids-young-animal-and-the-anti-trillin-poetry-squad.md"
+notes_tags = ["notes/book-news-roundup-squids-young-animal-and-the-anti-trillin-poetry-squad.md"]
 notes_about = ["authors/sierra-nelson.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/nanowrimo-week-3-how-to-hate-writers-right.md"
+notes_tags = ["notes/nanowrimo-week-3-how-to-hate-writers-right.md"]
 notes_about = ""
 books = ""
 +++

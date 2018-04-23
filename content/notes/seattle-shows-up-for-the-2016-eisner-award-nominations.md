@@ -17,7 +17,7 @@ twitterauto = "Congratulations to @fantagraphics, @GWillowWilson, @Oatmeal, and 
 facebookauto = "The Eisner Awards\u00a0\u2014 basically the Oscars of comic books \u2014 have been announced, and Seattle is well-represented this year."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-shows-up-for-the-2016-eisner-award-nominations.md"
+notes_tags = ["notes/seattle-shows-up-for-the-2016-eisner-award-nominations.md"]
 notes_about = ["authors/noelle-stevenson.md", "authors/g-willow-wilson.md", "authors/brian-k-vaughan.md"]
 books = ["books/the-eternaut.md", "books/nimona.md", "books/ms-marvel.md"]
 +++

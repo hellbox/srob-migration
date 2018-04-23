@@ -17,7 +17,7 @@ twitterauto = "Let's talk about the limits of reading, and what it means when a 
 facebookauto = "Let's talk about the limits of reading, and what it means when a reader gives up control."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/can-you-read-a-video.md"
+notes_tags = ["notes/can-you-read-a-video.md"]
 notes_about = ""
 books = ""
 +++

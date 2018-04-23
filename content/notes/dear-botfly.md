@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is from @amaranthborsuk, and it's called \"Dear 
 facebookauto = "Our Tuesday Poem is from Amaranth Borsuk, and it's titled \"Dear Botfly\""
 make_image_tweet = "False"
 notes_byline = ["writers/amaranth-borsuk.md"]
-notes_tags = "notes/dear-botfly.md"
+notes_tags = ["notes/dear-botfly.md"]
 notes_about = ""
 books = ""
 +++

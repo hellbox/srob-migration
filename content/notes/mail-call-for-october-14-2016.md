@@ -17,7 +17,7 @@ twitterauto = "Mail Call! Some good books to stay inside with during the storm. 
 facebookauto = "Mail Call! Some good books to stay inside with during the storm. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-october-14-2016.md"
+notes_tags = ["notes/mail-call-for-october-14-2016.md"]
 notes_about = ""
 books = ""
 +++

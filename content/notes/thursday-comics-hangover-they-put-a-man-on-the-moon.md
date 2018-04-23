@@ -17,7 +17,7 @@ twitterauto = "Mooncop, from @DandQ, is a perfect sci-fi comic for a year when e
 facebookauto = "One day in the future, humans are abandoning a lunar colony because they don't like life in space. One man stands between a dwindling population and total boredom. That man...is Mooncop."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-they-put-a-man-on-the-moon.md"
+notes_tags = ["notes/thursday-comics-hangover-they-put-a-man-on-the-moon.md"]
 notes_about = ["authors/tom-gauld.md"]
 books = ["books/mooncop.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings includes a poetry brothel and a book about 
 facebookauto = "Your Week in Readings includes a poetry brothel and a book about an idiot."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-march-22nd---march-28th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-march-22nd---march-28th.md"]
 notes_about = ""
 books = ""
 +++

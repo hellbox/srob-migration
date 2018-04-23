@@ -17,7 +17,7 @@ twitterauto = ".@ubookstorereads is bringing Bernie Sanders to Seattle on Novemb
 facebookauto = "Bernie Sanders will be reading from a new memoir about his campaign at University Temple United Methodist Church on November 30th. Get your tickets from University Book Store now!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/university-book-store-is-bringing-bernie-sanders-to-seattle-on-november-30th.md"
+notes_tags = ["notes/university-book-store-is-bringing-bernie-sanders-to-seattle-on-november-30th.md"]
 notes_about = ""
 books = ""
 +++

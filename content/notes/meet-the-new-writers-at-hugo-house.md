@@ -17,7 +17,7 @@ twitterauto = "Meet the new faces @HugoHouse, including @ProfSonoraJha and @will
 facebookauto = "The Hugo House announced a whole bunch of new writers who'll be hanging around the House for the next year or so. Get excited about meeting these new faces:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-the-new-writers-at-hugo-house.md"
+notes_tags = ["notes/meet-the-new-writers-at-hugo-house.md"]
 notes_about = ["authors/willie-fitzgerald.md", "authors/sonora-jha.md"]
 books = ""
 +++

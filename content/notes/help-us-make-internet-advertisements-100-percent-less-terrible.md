@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/help-us-make-internet-advertisements-100-percent-less-terrible.md"
+notes_tags = ["notes/help-us-make-internet-advertisements-100-percent-less-terrible.md"]
 notes_about = ""
 books = ""
 +++

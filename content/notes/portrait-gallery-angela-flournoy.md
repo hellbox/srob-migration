@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: The Turner House author @angelaflournoy #illust
 facebookauto = "Portrait Gallery: Angela Flournoy"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-angela-flournoy.md"
+notes_tags = ["notes/portrait-gallery-angela-flournoy.md"]
 notes_about = ["authors/angela-flournoy.md"]
 books = ""
 +++

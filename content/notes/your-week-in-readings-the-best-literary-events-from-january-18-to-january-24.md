@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins at Seattle Center tonight."
 facebookauto = "Your week in readings include a couple events at Seattle Center, a reading about women at work, and a reading paired with a movie."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-18-to-january-24.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-18-to-january-24.md"]
 notes_about = ["authors/michelle-pe\u00f1aloza.md", "authors/peter-mountford.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-paige-embry.md"
+notes_tags = ["notes/whatcha-reading-paige-embry.md"]
 notes_about = ["authors/paige-embry.md"]
 books = ""
 +++

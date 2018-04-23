@@ -17,7 +17,7 @@ twitterauto = "Today's @SeattleLitCrawl itinerary is all poetry, all the time."
 facebookauto = "Today's Seattle Lit Crawl itinerary is all poetry, all the time."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary-3-all-poetry-all-the-time.md"
+notes_tags = ["notes/lit-crawl-itinerary-3-all-poetry-all-the-time.md"]
 notes_about = ["authors/quenton-baker.md", "authors/laura-da.md", "authors/shin-yu-pai.md", "authors/claudia-castro-luna.md"]
 books = ""
 +++

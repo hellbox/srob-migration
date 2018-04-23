@@ -17,7 +17,7 @@ twitterauto = "ZAPP 's statement: \"it is important that we make it clear: we di
 facebookauto = "ZAPP just issued a statement on their zine library collections: \"it is important that we make it clear: we did not give up the archive, it was taken from us.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/heres-zapps-official-statement-it-is-important-that-we-make-it-clear-we-did-not-give-up-the-archive-it-was-taken-from-us.md"
+notes_tags = ["notes/heres-zapps-official-statement-it-is-important-that-we-make-it-clear-we-did-not-give-up-the-archive-it-was-taken-from-us.md"]
 notes_about = ""
 books = ""
 +++

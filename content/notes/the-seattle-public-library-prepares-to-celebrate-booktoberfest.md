@@ -17,7 +17,7 @@ twitterauto = ".@SPLBuzz's Booktoberfest is like Octoberfest, only with more boo
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-seattle-public-library-prepares-to-celebrate-booktoberfest.md"
+notes_tags = ["notes/the-seattle-public-library-prepares-to-celebrate-booktoberfest.md"]
 notes_about = ""
 books = ""
 +++

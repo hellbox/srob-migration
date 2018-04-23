@@ -17,7 +17,7 @@ twitterauto = "Who doesn't love some new books on Friday night? Mail call!"
 facebookauto = "Friday night mail call! A few new things that rolled into our inbox today."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-september-25-2015.md"
+notes_tags = ["notes/mail-call-for-september-25-2015.md"]
 notes_about = ""
 books = ""
 +++

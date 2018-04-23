@@ -17,7 +17,7 @@ twitterauto = "Hey, Seattle: Can you help writer @ariannarebolini find her white
 facebookauto = "Hey, Seattle: Can you help Arianna Rebolini find her white Mead notebook? She was visiting the city and lost it and she needs it to finish writing her book."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lets-help-this-writer-find-her-notebook-seattle.md"
+notes_tags = ["notes/lets-help-this-writer-find-her-notebook-seattle.md"]
 notes_about = ""
 books = ""
 +++

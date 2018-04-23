@@ -17,7 +17,7 @@ twitterauto = "Our Event of the Week is a discussion of Chief Seattle's legacy a
 facebookauto = "Our Event of the Week is a discussion of Chief Seattle's legacy at Seattle Public Library."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-chief-seattle-and-the-town-that-took-his-name-reading-at-seattle-public-library.md"
+notes_tags = ["notes/event-of-the-week-chief-seattle-and-the-town-that-took-his-name-reading-at-seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

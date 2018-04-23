@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup includes a helpful tip for men who want
 facebookauto = "Today's Book News Roundup includes a helpful tip for men who want to talk to women reading in public."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-how-to-talk-to-a-woman-reading-a-book.md"
+notes_tags = ["notes/book-news-roundup-how-to-talk-to-a-woman-reading-a-book.md"]
 notes_about = ["authors/ej-koh.md", "authors/robert-lashley.md", "authors/sherman-alexie.md"]
 books = ""
 +++

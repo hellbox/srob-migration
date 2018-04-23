@@ -17,7 +17,7 @@ twitterauto = "Sponsor @anne_mendel brings class to Portland after the fall."
 facebookauto = "Sponsor Anne Mendel brings class to Portland after the fall."
 make_image_tweet = "True"
 notes_byline = ""
-notes_tags = "notes/a-white-gloved-apocalypse.md"
+notes_tags = ["notes/a-white-gloved-apocalypse.md"]
 notes_about = ""
 books = ""
 +++

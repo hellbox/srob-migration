@@ -17,7 +17,7 @@ twitterauto = "A new documentary about romance novels arrives @nwfilmforum this 
 facebookauto = "Love Between the Covers is a new documentary playing at Northwest Film Forum this weekend. It investigates why romance fiction has never gotten the respect that other genres, like sci-fi or superhero comics, have enjoyed. Could it be sexism? Yeah, it might be sexism."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/romance-novel-the-movie.md"
+notes_tags = ["notes/romance-novel-the-movie.md"]
 notes_about = ""
 books = ""
 +++

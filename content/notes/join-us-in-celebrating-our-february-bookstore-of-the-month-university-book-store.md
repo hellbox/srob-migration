@@ -17,7 +17,7 @@ twitterauto = "Hooray for @ubookstorereads, our February Bookstore of the Month!
 facebookauto = "Our February Bookstore of the Month is the oldest bookstore in Seattle. Can you guess who that is? (No fair peeking below!)"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/join-us-in-celebrating-our-february-bookstore-of-the-month-university-book-store.md"
+notes_tags = ["notes/join-us-in-celebrating-our-february-bookstore-of-the-month-university-book-store.md"]
 notes_about = ""
 books = ""
 +++

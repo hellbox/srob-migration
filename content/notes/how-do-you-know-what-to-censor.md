@@ -17,7 +17,7 @@ twitterauto = "About that \"censorship\" issue with @ABRAMSbooks"
 facebookauto = "About that \"censorship\" issue with Abrams Books."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/how-do-you-know-what-to-censor.md"
+notes_tags = ["notes/how-do-you-know-what-to-censor.md"]
 notes_about = ""
 books = ""
 +++

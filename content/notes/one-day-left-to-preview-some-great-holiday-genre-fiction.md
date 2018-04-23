@@ -17,7 +17,7 @@ twitterauto = "Our sponsors are the best. One more day to read excerpts from 4 s
 facebookauto = "Our sponsors are the best. One more day to read excerpts from 4 stories in Joy to the Worlds, from Grey Sun Press."
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-day-left-to-preview-some-great-holiday-genre-fiction.md"
+notes_tags = ["notes/one-day-left-to-preview-some-great-holiday-genre-fiction.md"]
 notes_about = ["authors/maia-chance.md", "authors/janine-a-southard.md", "authors/raven-oak.md", "authors/g-clemens.md"]
 books = ["books/joy-to-the-worlds.md"]
 +++

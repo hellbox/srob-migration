@@ -17,7 +17,7 @@ twitterauto = "This Labor Day, let's try to imagine a world where authors are pa
 facebookauto = "This Labor Day, let's try to imagine a world where authors are paid decent salaries for their labor."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-labor-day-proposal-lets-create-more-blue-collar-novelists.md"
+notes_tags = ["notes/a-labor-day-proposal-lets-create-more-blue-collar-novelists.md"]
 notes_about = ["authors/adam-rakunas.md"]
 books = ["books/windswept.md", "books/like-a-boss.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "We're 16 issues into Ta-Nehisi Coates's Black Panther series. How
 facebookauto = "We're 16 issues into Ta-Nehisi Coates's Black Panther series. How is it?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-coates-check.md"
+notes_tags = ["notes/thursday-comics-hangover-coates-check.md"]
 notes_about = ["authors/ta-nehisi-coates.md"]
 books = ""
 +++

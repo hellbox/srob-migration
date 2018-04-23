@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-hailes-short-stories-of-the-day-of-the-previous-week.md"
+notes_tags = ["notes/rahawa-hailes-short-stories-of-the-day-of-the-previous-week.md"]
 notes_about = ""
 books = ""
 +++

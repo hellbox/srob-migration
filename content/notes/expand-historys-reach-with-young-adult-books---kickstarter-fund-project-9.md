@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter fund backs @quindaropress"
 facebookauto = "The Kickstarter Fund backs historical YA books this week."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/expand-historys-reach-with-young-adult-books---kickstarter-fund-project-9.md"
+notes_tags = ["notes/expand-historys-reach-with-young-adult-books---kickstarter-fund-project-9.md"]
 notes_about = ""
 books = ""
 +++

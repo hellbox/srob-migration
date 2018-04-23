@@ -17,7 +17,7 @@ twitterauto = "Congratulations to all the 2017 @artisttrust GAP winners!"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/2017-artist-trust-gap-recipients-announced.md"
+notes_tags = ["notes/2017-artist-trust-gap-recipients-announced.md"]
 notes_about = ["authors/sarah-mangold.md", "authors/eroyn-franklin.md"]
 books = ""
 +++

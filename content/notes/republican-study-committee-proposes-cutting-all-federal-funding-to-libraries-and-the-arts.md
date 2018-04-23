@@ -17,7 +17,7 @@ twitterauto = "A proposed Republican budget cuts all federal funding for librari
 facebookauto = "A proposed Republican budget cuts all federal funding for libraries and the arts."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/republican-study-committee-proposes-cutting-all-federal-funding-to-libraries-and-the-arts.md"
+notes_tags = ["notes/republican-study-committee-proposes-cutting-all-federal-funding-to-libraries-and-the-arts.md"]
 notes_about = ""
 books = ""
 +++

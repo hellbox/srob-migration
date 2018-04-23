@@ -17,7 +17,7 @@ twitterauto = "Looking back at Seattle's literary 2016 and looking forward to wh
 facebookauto = "Looking back at Seattle's literary 2016 and looking forward to what you can do for Seattle in 2017."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/what-you-need-to-do-for-literary-seattle-in-2017.md"
+notes_tags = ["notes/what-you-need-to-do-for-literary-seattle-in-2017.md"]
 notes_about = ["authors/donna-miscolta.md", "authors/matt-ruff.md", "authors/nisi-shawl.md", "authors/matthew-simmons.md", "authors/sarah-glidden.md", "authors/lesley-hazleton.md", "authors/hannah-faith-notess.md", "authors/claudia-castro-luna.md", "authors/don-mee-choi.md", "authors/lucia-perillo.md", "authors/quenton-baker.md", "authors/maged-zaher.md"]
 books = ["books/hola-and-goodbye.md", "books/lovecraft-country.md", "books/everfair.md", "books/the-in-betweens.md", "books/rolling-blackouts.md", "books/agnostic.md", "books/the-multitude.md", "books/this-city.md", "books/hardly-war.md"]
 +++

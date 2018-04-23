@@ -17,7 +17,7 @@ twitterauto = "Our third from Poet in Resident Emily Bedard is titled \"Inside/O
 facebookauto = "Our third from Poet in Resident Emily Bedard is titled \"Inside/Outside\""
 make_image_tweet = "False"
 notes_byline = ["writers/emily-bedard.md"]
-notes_tags = "notes/inside--outside.md"
+notes_tags = ["notes/inside--outside.md"]
 notes_about = ""
 books = ""
 +++

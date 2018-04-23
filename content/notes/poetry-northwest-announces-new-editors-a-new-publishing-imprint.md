@@ -17,7 +17,7 @@ twitterauto = "Exciting news from @poetrynw today: new editors and a new publish
 facebookauto = "Exciting news at Poetry Northwest magazine: Kevin Craft is stepping down, three new editors are stepping up, and Craft is launching a new book publishing division!"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/poetry-northwest-announces-new-editors-a-new-publishing-imprint.md"
+notes_tags = ["notes/poetry-northwest-announces-new-editors-a-new-publishing-imprint.md"]
 notes_about = ["authors/sierra-nelson.md", "authors/kelly-froh.md"]
 books = ""
 +++

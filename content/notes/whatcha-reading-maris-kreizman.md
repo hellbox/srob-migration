@@ -17,7 +17,7 @@ twitterauto = "Hey there @mariskreizman, whatcha reading?"
 facebookauto = "Hey Maris Kreizman, whatcha reading?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-maris-kreizman.md"
+notes_tags = ["notes/whatcha-reading-maris-kreizman.md"]
 notes_about = ""
 books = ""
 +++

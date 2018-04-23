@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post! With pieces by @igalvin, @nappy_techie, and more
 facebookauto = "The terrors of OxyContin from the inside, Joan Didion, a remembrance of the Hugo House building, and being gaslighted by supposedly helpful rhetoric in the tech industry. It's the Sunday Post. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-may-8-2016.md"
+notes_tags = ["notes/the-sunday-post-for-may-8-2016.md"]
 notes_about = ["authors/sarah-galvin.md", "authors/joan-didion.md"]
 books = ""
 +++

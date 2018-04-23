@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: It's #SpellingBee time! Regionals Sunday on @TH
 facebookauto = "Portrait Gallery: Spelling Bee"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-spelling-bee.md"
+notes_tags = ["notes/portrait-gallery-spelling-bee.md"]
 notes_about = ""
 books = ""
 +++

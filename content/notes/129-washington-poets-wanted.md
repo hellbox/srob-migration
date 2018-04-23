@@ -17,7 +17,7 @@ twitterauto = "You live in Washington? You're a poet? You should probably submit
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/129-washington-poets-wanted.md"
+notes_tags = ["notes/129-washington-poets-wanted.md"]
 notes_about = ["authors/tod-marshall.md"]
 books = ""
 +++

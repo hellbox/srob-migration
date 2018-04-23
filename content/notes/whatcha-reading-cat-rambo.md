@@ -17,7 +17,7 @@ twitterauto = "What's @catrambo reading? @writerlouisa, @johnhornor, and @suddai
 facebookauto = "Wherein we ask: whatcha reading, Cat Rambo?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-cat-rambo.md"
+notes_tags = ["notes/whatcha-reading-cat-rambo.md"]
 notes_about = ["authors/cat-rambo.md"]
 books = ""
 +++

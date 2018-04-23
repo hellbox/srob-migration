@@ -17,7 +17,7 @@ twitterauto = "What does a literary agent actually DO, anyway?"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/everything-you-wanted-to-know-about-literary-agents-(but-was-afraid-to-ask).md"
+notes_tags = ["notes/everything-you-wanted-to-know-about-literary-agents-(but-was-afraid-to-ask).md"]
 notes_about = ""
 books = ""
 +++

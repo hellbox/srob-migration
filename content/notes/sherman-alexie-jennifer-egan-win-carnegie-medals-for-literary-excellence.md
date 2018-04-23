@@ -17,7 +17,7 @@ twitterauto = "Sherman Alexie won this year's Carnegie Award for literary excell
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sherman-alexie-jennifer-egan-win-carnegie-medals-for-literary-excellence.md"
+notes_tags = ["notes/sherman-alexie-jennifer-egan-win-carnegie-medals-for-literary-excellence.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ["books/you-dont-have-to-say-you-love-me.md"]
 +++

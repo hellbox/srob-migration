@@ -17,7 +17,7 @@ twitterauto = "Hey! @ScarecrowVideo's throwing a fundraising book fair! "
 facebookauto = "In today's Book News Roundup: Scarecrow Video is throwing a fundraising book fair, a classic David Bowie pro-literacy poster is available for sale again, and Octavia Butler's notebook is incredible."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-a-book-fair-for-scarecrow-and-a-poster-for-bowie.md"
+notes_tags = ["notes/book-news-roundup-a-book-fair-for-scarecrow-and-a-poster-for-bowie.md"]
 notes_about = ["authors/david-shields.md", "authors/octavia-butler.md"]
 books = ""
 +++

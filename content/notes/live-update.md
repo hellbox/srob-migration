@@ -17,7 +17,7 @@ twitterauto = "Thank you, @tejucole, for reminding us that poetry can and should
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/live-update.md"
+notes_tags = ["notes/live-update.md"]
 notes_about = ["authors/teju-cole.md"]
 books = ""
 +++

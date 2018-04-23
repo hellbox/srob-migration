@@ -17,7 +17,7 @@ twitterauto = "Last night, our book club had a great discussion about how Democr
 facebookauto = "Last night, our book club had a great discussion about how Democrats have let down rural America."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/is-a-company-town-with-no-company-still-a-town.md"
+notes_tags = ["notes/is-a-company-town-with-no-company-still-a-town.md"]
 notes_about = ["authors/amy-goldstein.md"]
 books = ["books/janesville.md"]
 +++

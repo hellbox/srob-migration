@@ -17,7 +17,7 @@ twitterauto = "Please don't read that awful, dumb Guardian story on Terry Pratch
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/todays-clickbait-alert-dont-read-the-terry-pratchett-story-thats-making-the-rounds.md"
+notes_tags = ["notes/todays-clickbait-alert-dont-read-the-terry-pratchett-story-thats-making-the-rounds.md"]
 notes_about = ["authors/terry-pratchett.md"]
 books = ["books/mort.md", "books/the-colour-of-magic.md"]
 +++

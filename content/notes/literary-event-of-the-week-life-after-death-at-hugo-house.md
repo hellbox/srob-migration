@@ -17,7 +17,7 @@ twitterauto = "Our Event of the Week is a remarkable account of a shooting that 
 facebookauto = "Our Event of the Week is a remarkable account of a shooting that rocked Seattle."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-life-after-death-at-hugo-house.md"
+notes_tags = ["notes/literary-event-of-the-week-life-after-death-at-hugo-house.md"]
 notes_about = ""
 books = ""
 +++

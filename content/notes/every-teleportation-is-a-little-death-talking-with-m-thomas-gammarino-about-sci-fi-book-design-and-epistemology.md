@@ -17,7 +17,7 @@ twitterauto = "Talking with M. Thomas Gammarino about how every teleportation is
 facebookauto = "M. Thomas Gammarino wrote a sci-fi novel about the movie Titanic. In an interview, we asked him why."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/every-teleportation-is-a-little-death-talking-with-m-thomas-gammarino-about-sci-fi-book-design-and-epistemology.md"
+notes_tags = ["notes/every-teleportation-is-a-little-death-talking-with-m-thomas-gammarino-about-sci-fi-book-design-and-epistemology.md"]
 notes_about = ["authors/kurt-vonnegut.md", "authors/octavia-butler.md", "authors/ursula-k-le-guin.md", "authors/john-updike.md", "authors/m-thomas-gammarino.md"]
 books = ["books/king-of-the-worlds.md"]
 +++

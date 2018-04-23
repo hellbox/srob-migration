@@ -17,7 +17,7 @@ twitterauto = "A writer has returned 100 years after his death, in android form.
 facebookauto = "A writer has returned 100 years after his death, in android form."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/dead-writer-returns-as-robot.md"
+notes_tags = ["notes/dead-writer-returns-as-robot.md"]
 notes_about = ""
 books = ""
 +++

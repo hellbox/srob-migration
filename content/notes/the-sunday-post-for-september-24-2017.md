@@ -17,7 +17,7 @@ twitterauto = "Don't miss @pmcottrell, @LiberianGirl95, @jmccknight, and more in
 facebookauto = "Reality's getting slippery in the Sunday Post, with articles on Snopes.com, obsession, imaginary boyfriends, and the god in the machine."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-september-24-2017.md"
+notes_tags = ["notes/the-sunday-post-for-september-24-2017.md"]
 notes_about = ""
 books = ""
 +++

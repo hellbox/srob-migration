@@ -17,7 +17,7 @@ twitterauto = "Tomorrow, be sure to celebrate Wombgenda, the newest comic from @
 facebookauto = "Tomorrow, Seattle cartoonist Tatiana Gill releases her newest comic Wombgenda, a comic about women's health, body image issues, and what it means to be a woman in Seattle in 2017."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-a-womb-with-a-view.md"
+notes_tags = ["notes/thursday-comics-hangover-a-womb-with-a-view.md"]
 notes_about = ["authors/tatiana-gill.md"]
 books = ""
 +++

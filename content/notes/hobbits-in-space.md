@@ -17,7 +17,7 @@ twitterauto = "What did J.G. Ballard think of the original Star Wars movie? Well
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hobbits-in-space.md"
+notes_tags = ["notes/hobbits-in-space.md"]
 notes_about = ["authors/jg-ballard.md"]
 books = ""
 +++

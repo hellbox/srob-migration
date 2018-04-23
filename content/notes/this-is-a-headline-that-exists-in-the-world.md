@@ -17,7 +17,7 @@ twitterauto = "24 hours after covering a subway car in Nazi symbols, Amazon is n
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-is-a-headline-that-exists-in-the-world.md"
+notes_tags = ["notes/this-is-a-headline-that-exists-in-the-world.md"]
 notes_about = ["authors/philip-k-dick.md"]
 books = ""
 +++

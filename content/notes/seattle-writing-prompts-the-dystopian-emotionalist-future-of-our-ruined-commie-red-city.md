@@ -17,7 +17,7 @@ twitterauto = "Guns! Minimum wage! Taxes! Seattle is doooooooomed! Today in Seat
 facebookauto = "Guns! Minimum wage! Taxes! Seattle is doooooooomed! Today in Seattle Writing Prompts: liberal dystopia."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-dystopian-emotionalist-future-of-our-ruined-commie-red-city.md"
+notes_tags = ["notes/seattle-writing-prompts-the-dystopian-emotionalist-future-of-our-ruined-commie-red-city.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The Seattle Antiquarian Bookfair is our sponsor again this week. 
 facebookauto = "The Seattle Antiquarian Bookfair is our sponsor again this week. October 10th & 11th -- mark your calendars!"
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-seattle-antiquarian-bookfair-is-coming-october-10th-&-11th.md"
+notes_tags = ["notes/the-seattle-antiquarian-bookfair-is-coming-october-10th-&-11th.md"]
 notes_about = ""
 books = ""
 +++

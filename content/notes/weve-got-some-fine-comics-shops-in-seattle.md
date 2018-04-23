@@ -17,7 +17,7 @@ twitterauto = "Seattle shops @Phoenix_Comics & @OutsiderJill \u200fare figuring 
 facebookauto = "Seattle stores like Phoenix Comics and Outside Comics & Geek Boutique are figuring out what the future of comics shops will look like."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/weve-got-some-fine-comics-shops-in-seattle.md"
+notes_tags = ["notes/weve-got-some-fine-comics-shops-in-seattle.md"]
 notes_about = ""
 books = ""
 +++

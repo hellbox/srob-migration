@@ -17,7 +17,7 @@ twitterauto = "Your week in readings: You'll be spending most of your time @THSE
 facebookauto = "Your week in readings includes a book about paper, a reading from Sebastian Junger, and a documentary about an author who never, strictly, existed."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-may-25th---may-31st.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-may-25th---may-31st.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ["books/shrill.md"]
 +++

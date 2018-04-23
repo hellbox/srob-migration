@@ -17,7 +17,7 @@ twitterauto = "Our event of the week is N.K. Jemisin reading @SPLBuzz for @Clari
 facebookauto = "N.K. Jemisin's science fiction is very interested in oppression, and struggle, and triumphing even when society is against you."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-nk-jemisin-at-the-seattle-public-library.md"
+notes_tags = ["notes/literary-event-of-the-week-nk-jemisin-at-the-seattle-public-library.md"]
 notes_about = ["authors/nk-jemisin.md"]
 books = ""
 +++

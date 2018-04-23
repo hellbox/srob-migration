@@ -17,7 +17,7 @@ twitterauto = "Watch  @ellen_forney talk about the installation of her @SoundTra
 facebookauto = "Ellen Forney is a Seattle treasure. Link Light rail makes Seattle better. Put these two together and you've got pure awesome."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ellen-forney-talks-about-her-art-in-capitol-hills-light-rail-station.md"
+notes_tags = ["notes/ellen-forney-talks-about-her-art-in-capitol-hills-light-rail-station.md"]
 notes_about = ["authors/ellen-forney.md"]
 books = ""
 +++

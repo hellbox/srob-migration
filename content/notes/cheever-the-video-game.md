@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/cheever-the-video-game.md"
+notes_tags = ["notes/cheever-the-video-game.md"]
 notes_about = ["authors/john-cheever.md", "authors/matthew-simmons.md"]
 books = ""
 +++

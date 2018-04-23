@@ -17,7 +17,7 @@ twitterauto = "We love you, and we love the residency program run by sponsor @Mi
 facebookauto = "We love you, and we love the residency program run by sponsor Mineral School. Shouldn't you be together? Don't miss the Feb. 15 application deadline!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/dont-miss-the-feb-15-application-deadline-for-mineral-school-residencies.md"
+notes_tags = ["notes/dont-miss-the-feb-15-application-deadline-for-mineral-school-residencies.md"]
 notes_about = ""
 books = ""
 +++

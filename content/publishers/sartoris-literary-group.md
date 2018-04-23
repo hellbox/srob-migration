@@ -10,5 +10,5 @@ last_updated = "2017-06-20T22:32:00-07:00"
 preview_url = "d850d091-8ca9-13d4-ef14-1357188f52d6"
 name = "Sartoris Literary Group"
 title = "Sartoris Literary Group"
-books_publisher = "publishers/sartoris-literary-group.md"
+books_publisher = ["publishers/sartoris-literary-group.md"]
 +++

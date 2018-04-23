@@ -17,7 +17,7 @@ twitterauto = "The #RNCinCLE was a big, weeklong story. But what kind of story w
 facebookauto = "The Republican National Convention was a big, weeklong story. But what kind of story was it?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/donald-trumps-story-is-broken.md"
+notes_tags = ["notes/donald-trumps-story-is-broken.md"]
 notes_about = ""
 books = ""
 +++

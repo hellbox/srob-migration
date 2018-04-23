@@ -17,7 +17,7 @@ twitterauto = "Take a look at what the kids of McClure Middle School are reading
 facebookauto = "Take a look at what the kids of McClure Middle School are reading this summer."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/happy-4th!-heres-the-best-summer-reading-list-youll-see-this-summer.md"
+notes_tags = ["notes/happy-4th!-heres-the-best-summer-reading-list-youll-see-this-summer.md"]
 notes_about = ""
 books = ""
 +++

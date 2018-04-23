@@ -17,7 +17,7 @@ twitterauto = "The world is full of telling images, says sponsor @LoisFStark. St
 facebookauto = "The world is full of telling images, says sponsor Lois Farfel Stark. Stop by the site for a few vivid examples. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/look-again.md"
+notes_tags = ["notes/look-again.md"]
 notes_about = ["authors/lois-farfel-stark.md"]
 books = ["books/the-telling-image.md"]
 +++

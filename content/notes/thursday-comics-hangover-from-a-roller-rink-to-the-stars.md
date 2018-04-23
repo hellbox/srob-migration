@@ -17,7 +17,7 @@ twitterauto = "Natalie Dupille's comics are fun, enthusiastic, and obsessed with
 facebookauto = "Natalie Dupille's comics are fun, enthusiastic, and obsessed with making science fun."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-from-a-roller-rink-to-the-stars.md"
+notes_tags = ["notes/thursday-comics-hangover-from-a-roller-rink-to-the-stars.md"]
 notes_about = ["authors/natalie-dupille.md"]
 books = ""
 +++

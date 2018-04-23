@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with zombies and then gets livelier.
 facebookauto = "Your week in readings begins with zombies and then gets livelier."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-22nd---february-28th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-22nd---february-28th.md"]
 notes_about = ["authors/mattilda-bernstein-sycamore.md"]
 books = ""
 +++

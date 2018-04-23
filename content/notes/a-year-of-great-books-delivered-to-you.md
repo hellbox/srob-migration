@@ -17,7 +17,7 @@ twitterauto = "Make 2018 a great year of reading with a Phinney by Post subscrip
 facebookauto = "Make 2018 a great year of reading with a Phinney by Post subscription hand-picked by sponsor Phinney Books."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-year-of-great-books-delivered-to-you.md"
+notes_tags = ["notes/a-year-of-great-books-delivered-to-you.md"]
 notes_about = ""
 books = ["books/phinney-by-post.md"]
 +++

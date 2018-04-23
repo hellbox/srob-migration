@@ -17,7 +17,7 @@ twitterauto = "Sponsor @sasquatchbooks is thirty, and they're here to say \"Than
 facebookauto = "Sponsor Sasquatch Books is thirty, and they're here to say \"Thank You, Seattle!\""
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/thirty-years-of-an-amazing-local-publisher.md"
+notes_tags = ["notes/thirty-years-of-an-amazing-local-publisher.md"]
 notes_about = ""
 books = ""
 +++

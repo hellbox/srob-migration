@@ -17,7 +17,7 @@ twitterauto = ".@Sherman_Alexie and @RealHughJackman are adapting Absolutely Tru
 facebookauto = "Seattle author Sherman Alexie is teaming up with Hugh Jackman to bring The Absolutely True Diary of a Part-Time Indian to cinemas."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sherman-alexie-to-adapt-the-absolutely-true-diary-of-a-part-time-indian-into-a-film.md"
+notes_tags = ["notes/sherman-alexie-to-adapt-the-absolutely-true-diary-of-a-part-time-indian-into-a-film.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ["books/absolutely-true-diary-of-a-part-time-indian.md"]
 +++

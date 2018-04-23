@@ -17,7 +17,7 @@ twitterauto = "How do you deal with someone who lies about reading everything? M
 facebookauto = "How do you deal with someone who lies about reading everything? Maybe starting a fire will help?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-lies-and-arson.md"
+notes_tags = ["notes/the-help-desk-lies-and-arson.md"]
 notes_about = ""
 books = ""
 +++

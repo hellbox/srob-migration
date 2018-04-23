@@ -17,7 +17,7 @@ twitterauto = "Now that Intruder is going away, what's next for Seattle's comics
 facebookauto = "Now that Intruder is going away, what's next for Seattle's comics scene?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/barging-right-on-in.md"
+notes_tags = ["notes/barging-right-on-in.md"]
 notes_about = ["authors/jim-woodring.md", "authors/david-lasky.md", "authors/marc-palm.md", "authors/max-clotfelter.md"]
 books = ""
 +++

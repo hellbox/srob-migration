@@ -17,7 +17,7 @@ twitterauto = "Go apply for the 2016 @jackstrawarts writers program, with very s
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/now-is-the-time-to-apply-for-the-jack-straw-writers-program.md"
+notes_tags = ["notes/now-is-the-time-to-apply-for-the-jack-straw-writers-program.md"]
 notes_about = ["authors/david-schmader.md", "authors/karen-finneyfrock.md"]
 books = ""
 +++

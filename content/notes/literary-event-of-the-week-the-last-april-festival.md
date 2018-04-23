@@ -17,7 +17,7 @@ twitterauto = "Say goodbye to APRIL on Saturday, and say goodbye to a moment in 
 facebookauto = "Say goodbye to APRIL on Saturday, and say goodbye to a moment in Seattle history."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-the-last-april-festival.md"
+notes_tags = ["notes/literary-event-of-the-week-the-last-april-festival.md"]
 notes_about = ["authors/elissa-washuta.md", "authors/matthew-simmons.md", "authors/maged-zaher.md", "authors/michelle-pe\u00f1aloza.md", "authors/jane-wong.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins tonight with Salman Rushdie and ends
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-14-to-september-20.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-14-to-september-20.md"]
 notes_about = ["authors/kate-lebo.md"]
 books = ""
 +++

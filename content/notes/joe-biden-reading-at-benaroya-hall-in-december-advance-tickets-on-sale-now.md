@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = "Joe Biden is coming to town in December to read from his new book, and Elliott Bay Book Company is selling advance tickets."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/joe-biden-reading-at-benaroya-hall-in-december-advance-tickets-on-sale-now.md"
+notes_tags = ["notes/joe-biden-reading-at-benaroya-hall-in-december-advance-tickets-on-sale-now.md"]
 notes_about = ""
 books = ""
 +++

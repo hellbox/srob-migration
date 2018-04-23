@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/also-this-week-in-readings-a-tuesday-night-reading-for-your-consideration.md"
+notes_tags = ["notes/also-this-week-in-readings-a-tuesday-night-reading-for-your-consideration.md"]
 notes_about = ["authors/karen-finneyfrock.md", "authors/corinne-manning.md"]
 books = ""
 +++

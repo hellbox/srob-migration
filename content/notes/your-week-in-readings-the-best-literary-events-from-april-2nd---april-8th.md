@@ -17,7 +17,7 @@ twitterauto = "Your week in readings features one hell of a debut party @HugoHou
 facebookauto = "Your week in readings features a hell of a debut party at Hugo House."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-2nd---april-8th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-2nd---april-8th.md"]
 notes_about = ""
 books = ""
 +++

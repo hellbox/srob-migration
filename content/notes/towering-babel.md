@@ -17,7 +17,7 @@ twitterauto = "Finding Babel, a remarkable tribute to a remarkable writer, scree
 facebookauto = "Looking for a SIFF movie to watch this weekend? Why not  give Finding Babel, a remarkable tribute to a remarkable writer, a try?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/towering-babel.md"
+notes_tags = ["notes/towering-babel.md"]
 notes_about = ""
 books = ""
 +++

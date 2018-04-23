@@ -17,7 +17,7 @@ twitterauto = "Vote with your wallet at @Seattle7Writers's annual holiday Bookfe
 facebookauto = "Vote with your wallet at Seattle 7 Writers' annual holiday Bookfest this weekend."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-seattle-7-writers-bookfest.md"
+notes_tags = ["notes/literary-event-of-the-week-seattle-7-writers-bookfest.md"]
 notes_about = ["authors/steven-arntson.md", "authors/garth-stein.md", "authors/sean-beaudoin.md", "authors/timothy-egan.md"]
 books = ""
 +++

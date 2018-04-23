@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @Milkweed_Books!"
 facebookauto = "The Kickstarter Fund backs Milkweed Books!"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/milkweed-books-because-bookshelves-should-never-be-boring---kickstarter-fund-project-34.md"
+notes_tags = ["notes/milkweed-books-because-bookshelves-should-never-be-boring---kickstarter-fund-project-34.md"]
 notes_about = ""
 books = ""
 +++

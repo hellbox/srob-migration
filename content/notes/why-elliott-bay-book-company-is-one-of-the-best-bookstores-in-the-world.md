@@ -17,7 +17,7 @@ twitterauto = "It's the people who make @elliottbaybooks, our November Bookstore
 facebookauto = "It's the people who make our November Bookstore of the Month great. Meet the staff of Elliott Bay Book Company."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/why-elliott-bay-book-company-is-one-of-the-best-bookstores-in-the-world.md"
+notes_tags = ["notes/why-elliott-bay-book-company-is-one-of-the-best-bookstores-in-the-world.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/david-sedaris.md"]
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2017-08-06T13:21:00-07:00"
 preview_url = "00637d52-937f-067b-6ec1-3b88d5de99fd"
 name = "Bison Books"
 title = "Bison Books"
-books_publisher = "publishers/bison-books.md"
+books_publisher = ["publishers/bison-books.md"]
 +++

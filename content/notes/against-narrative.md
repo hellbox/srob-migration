@@ -17,7 +17,7 @@ twitterauto = "You should go read @mikemeginnis's essay about @NarrativeMag."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/against-narrative.md"
+notes_tags = ["notes/against-narrative.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "This week's advice column tackles a big bookish issue: to write i
 facebookauto = "This week's advice column tackles a big bookish issue: to write in margins, or not to write in margins?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-rules-for-writing-in-books.md"
+notes_tags = ["notes/the-help-desk-rules-for-writing-in-books.md"]
 notes_about = ""
 books = ""
 +++

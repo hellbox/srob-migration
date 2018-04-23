@@ -17,7 +17,7 @@ twitterauto = "I dunno, tbh, sounds like she's got a lot to be jealous about. Bu
 facebookauto = "I dunno, tbh, sounds like she's got a lot to be jealous about. But Cienna Madrid sets it all right, like always, in the Help Desk."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-the-grass-is-always-green-eyed.md"
+notes_tags = ["notes/the-help-desk-the-grass-is-always-green-eyed.md"]
 notes_about = ""
 books = ""
 +++

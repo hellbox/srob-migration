@@ -17,7 +17,7 @@ twitterauto = "\"The truth always matters\": @O_Waite interviews @RoseLerner on 
 facebookauto = "New columnist Olivia Waite interviews author Rose Lerner about researching historical romance, from addressing social issues to where to lace (and unlace) a corset."
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/never-trust-aaron-burr-and-other-research-tips-from-a-historical-romance-author.md"
+notes_tags = ["notes/never-trust-aaron-burr-and-other-research-tips-from-a-historical-romance-author.md"]
 notes_about = ["authors/rose-lerner.md"]
 books = ["books/a-taste-of-honey.md"]
 +++

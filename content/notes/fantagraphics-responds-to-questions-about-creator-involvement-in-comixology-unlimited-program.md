@@ -17,7 +17,7 @@ twitterauto = "We heard from @fantagraphics associate publisher Eric Reynolds ab
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/fantagraphics-responds-to-questions-about-creator-involvement-in-comixology-unlimited-program.md"
+notes_tags = ["notes/fantagraphics-responds-to-questions-about-creator-involvement-in-comixology-unlimited-program.md"]
 notes_about = ""
 books = ""
 +++

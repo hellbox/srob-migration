@@ -17,7 +17,7 @@ twitterauto = "Let's take a moment to look back at some of the amazing poets we'
 facebookauto = "Let's take a moment to look back at some of the amazing poets we've published this past year."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/all-our-tuesday-poems.md"
+notes_tags = ["notes/all-our-tuesday-poems.md"]
 notes_about = ""
 books = ""
 +++

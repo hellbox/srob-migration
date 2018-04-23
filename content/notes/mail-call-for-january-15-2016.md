@@ -17,7 +17,7 @@ twitterauto = "Late Night Friday Mail Call! A big stack of good stuff. "
 facebookauto = "Friday Night Mail Call when you least expect it! Lots of good stuff in here."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-january-15-2016.md"
+notes_tags = ["notes/mail-call-for-january-15-2016.md"]
 notes_about = ""
 books = ""
 +++

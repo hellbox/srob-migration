@@ -17,7 +17,7 @@ twitterauto = "What kind of a monster breaks into a bookstore and steals almost 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/how-you-can-help-a-seattle-area-bookstore-that-was-burgled.md"
+notes_tags = ["notes/how-you-can-help-a-seattle-area-bookstore-that-was-burgled.md"]
 notes_about = ""
 books = ""
 +++

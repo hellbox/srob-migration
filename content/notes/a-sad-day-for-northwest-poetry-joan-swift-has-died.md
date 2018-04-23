@@ -17,7 +17,7 @@ twitterauto = "It's a sad day for Northwest poetry. Joan Swift has died."
 facebookauto = "Our condolences to Joan Swift's family and friends. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-sad-day-for-northwest-poetry-joan-swift-has-died.md"
+notes_tags = ["notes/a-sad-day-for-northwest-poetry-joan-swift-has-died.md"]
 notes_about = ["authors/joan-swift.md", "authors/kathleen-flenniken.md", "authors/theodore-roethke.md"]
 books = ""
 +++

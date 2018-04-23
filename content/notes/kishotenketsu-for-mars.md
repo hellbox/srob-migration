@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem by @evanjpeterson is \"Kishotenketsu for Mars\""
 facebookauto = "Our Tuesday Poem by Evan J Peterson is \"Kishotenketsu for Mars\""
 make_image_tweet = "False"
 notes_byline = ["writers/evan-j-peterson.md"]
-notes_tags = "notes/kishotenketsu-for-mars.md"
+notes_tags = ["notes/kishotenketsu-for-mars.md"]
 notes_about = ""
 books = ""
 +++

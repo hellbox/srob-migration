@@ -17,7 +17,7 @@ twitterauto = "We're featuring a full chapter from sponsor Jeffrey Warrens taugh
 facebookauto = "Sponsor Jeffrey Warren has brought his taut, technical thriller to us, and allowed us to run the whole first chapter."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-taut-high-tech-thriller.md"
+notes_tags = ["notes/a-taut-high-tech-thriller.md"]
 notes_about = ""
 books = ""
 +++

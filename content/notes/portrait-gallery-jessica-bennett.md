@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Jessica Bennett @jess7bennett by @studiochristi
 facebookauto = "This week's Portrait Gallery: Jessica Bennett by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-jessica-bennett.md"
+notes_tags = ["notes/portrait-gallery-jessica-bennett.md"]
 notes_about = ["authors/jessica-bennett.md"]
 books = ""
 +++

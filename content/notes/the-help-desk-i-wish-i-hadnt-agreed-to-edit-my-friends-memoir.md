@@ -17,7 +17,7 @@ twitterauto = "I agreed to edit a friend's memoir. Now all the awkward overshari
 facebookauto = "What should you do when you agree to edit a friend's memoir, and it's packed with gross details and too much oversharing?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-i-wish-i-hadnt-agreed-to-edit-my-friends-memoir.md"
+notes_tags = ["notes/the-help-desk-i-wish-i-hadnt-agreed-to-edit-my-friends-memoir.md"]
 notes_about = ""
 books = ""
 +++

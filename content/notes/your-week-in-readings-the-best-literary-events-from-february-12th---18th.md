@@ -17,7 +17,7 @@ twitterauto = "Your Valentine's week in readings starts @ThirdPlaceBooks and fea
 facebookauto = "Your Valentine's week in readings starts at Third Place Books Ravenna and features a couple of great-looking debuts."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-12th---18th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-12th---18th.md"]
 notes_about = ""
 books = ""
 +++

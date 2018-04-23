@@ -17,7 +17,7 @@ twitterauto = "Don't forget: #NBAwards-nominated author Hanya Yanagihara reads a
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-2015-national-book-award-winners-are.md"
+notes_tags = ["notes/the-2015-national-book-award-winners-are.md"]
 notes_about = ["authors/ta-nehisi-coates.md"]
 books = ["books/between-the-world-and-me.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Sponsor @loritwhaley teaches that we have a lot to learn from bus
 facebookauto = "Sponsor Lori Tsugawa Whaley  teaches that we have a lot to learn from bushido, the code of the samurai. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/modern-life-guided-by-a-set-of-tested-principles.md"
+notes_tags = ["notes/modern-life-guided-by-a-set-of-tested-principles.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Of course @emeraldcitycon is sold out, but here are a bunch of fr
 facebookauto = "Of course Emerald City Comicon is sold out, but here are a bunch of great, free comics events you can attend all weekend long."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-how-to-attend-eccc-without-attending-eccc.md"
+notes_tags = ["notes/thursday-comics-hangover-how-to-attend-eccc-without-attending-eccc.md"]
 notes_about = ""
 books = ""
 +++

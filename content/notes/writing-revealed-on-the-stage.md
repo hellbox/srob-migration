@@ -17,7 +17,7 @@ twitterauto = "So happy to have @hugohouse back as a sponsor! Learn about these 
 facebookauto = "Hugo House is back this week, highlighting two amazing series they're staging."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/writing-revealed-on-the-stage.md"
+notes_tags = ["notes/writing-revealed-on-the-stage.md"]
 notes_about = ""
 books = ""
 +++

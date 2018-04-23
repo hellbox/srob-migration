@@ -17,7 +17,7 @@ twitterauto = "15 years ago, the podcast S-Town almost certainly would be a book
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/some-stories-just-deserve-a-book.md"
+notes_tags = ["notes/some-stories-just-deserve-a-book.md"]
 notes_about = ""
 books = ""
 +++

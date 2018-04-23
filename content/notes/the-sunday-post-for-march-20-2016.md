@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post has work by @keltonsears, @geoffedgers, @DuneLawr
 facebookauto = "Stolen Stradivari, missing clarity, strange new architecture in downtown Seattle, and a different kind of journalistic harassment. All in today's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-march-20-2016.md"
+notes_tags = ["notes/the-sunday-post-for-march-20-2016.md"]
 notes_about = ""
 books = ""
 +++

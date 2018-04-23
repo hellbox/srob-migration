@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts rides the ferry back at night."
 facebookauto = "Seattle Writing Prompts rides the ferry back at night."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-that-ferry-ride-back-into-seattle-at-night.md"
+notes_tags = ["notes/seattle-writing-prompts-that-ferry-ride-back-into-seattle-at-night.md"]
 notes_about = ""
 books = ""
 +++

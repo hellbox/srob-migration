@@ -17,7 +17,7 @@ twitterauto = "Our book news roundup includes Shakespeare happenings @SPLBuzz an
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-who-wouldnt-read-a-prince-memoir.md"
+notes_tags = ["notes/book-news-roundup-who-wouldnt-read-a-prince-memoir.md"]
 notes_about = ""
 books = ""
 +++

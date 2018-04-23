@@ -17,7 +17,7 @@ twitterauto = "In the future, @editionsatplay argues, e-books will be their own 
 facebookauto = "A new partnership between Google and a London publisher is trying to reimagine what e-books can be. We're in favor of the idea, but what should these new books be called?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/welcome-to-our-bookstore-we-sell-books-that-cannot-be-printed.md"
+notes_tags = ["notes/welcome-to-our-bookstore-we-sell-books-that-cannot-be-printed.md"]
 notes_about = ["authors/reif-larsen.md"]
 books = ["books/the-selected-works-of-ts-spivet.md"]
 +++

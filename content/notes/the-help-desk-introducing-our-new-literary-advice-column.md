@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-introducing-our-new-literary-advice-column.md"
+notes_tags = ["notes/the-help-desk-introducing-our-new-literary-advice-column.md"]
 notes_about = ""
 books = ["books/how-to-win-friends-and-influence-people.md", "books/atlas-shrugged.md", "books/hemp-a-history.md"]
 +++

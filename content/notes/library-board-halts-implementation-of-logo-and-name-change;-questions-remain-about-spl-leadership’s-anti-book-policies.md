@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/library-board-halts-implementation-of-logo-and-name-change;-questions-remain-about-spl-leadership’s-anti-book-policies.md"
+notes_tags = ["notes/library-board-halts-implementation-of-logo-and-name-change;-questions-remain-about-spl-leadership’s-anti-book-policies.md"]
 notes_about = ""
 books = ""
 +++

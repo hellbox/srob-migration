@@ -17,7 +17,7 @@ twitterauto = "Many reviews, and an interview with @MegGardiner1, in @daneetstef
 facebookauto = "Many reviews, and an interview with Meg Gardiner, in Daneet Steffens' Criminal Fiction column"
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-all-in-the-family.md"
+notes_tags = ["notes/criminal-fiction-all-in-the-family.md"]
 notes_about = ["authors/james-lee-burke.md", "authors/meg-gardiner.md", "authors/sujata-massey.md", "authors/mick-herron.md", "authors/alafair-burke.md", "authors/sarah-pekkanen.md", "authors/greer-hendricks.md"]
 books = ""
 +++

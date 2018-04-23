@@ -17,7 +17,7 @@ twitterauto = "Sponsor @saggingmeniscus is here with a marvelous book about grow
 facebookauto = "Sponsor Sagging Meniscus Press is showing a marvelous book about growing up in old New York"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/remembering-a-new-york-now-gone-from-an-eye-witness.md"
+notes_tags = ["notes/remembering-a-new-york-now-gone-from-an-eye-witness.md"]
 notes_about = ["authors/fay-webern.md"]
 books = ["books/the-button-thief-of-east-14th-street.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Music in SFFH, plus reviews of @Marie_Lu, @Harkaway, and more in 
 facebookauto = "Music in SFFH, plus reviews of Marie Lu, Nick Harkaway, Alastair Reynold, and more in this month's Future Alternative Past, by Nisi Shawl."
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/future-alternative-past-sound-it-out.md"
+notes_tags = ["notes/future-alternative-past-sound-it-out.md"]
 notes_about = ["authors/nnedi-okorafor.md", "authors/grace-dillon.md", "authors/wanuri-kahiu.md", "authors/marie-lu.md", "authors/nick-harkaway.md", "authors/alastair-reynolds.md"]
 books = ""
 +++

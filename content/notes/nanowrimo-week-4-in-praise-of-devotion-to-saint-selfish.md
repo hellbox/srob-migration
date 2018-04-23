@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/nanowrimo-week-4-in-praise-of-devotion-to-saint-selfish.md"
+notes_tags = ["notes/nanowrimo-week-4-in-praise-of-devotion-to-saint-selfish.md"]
 notes_about = ""
 books = ""
 +++

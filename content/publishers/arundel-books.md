@@ -10,5 +10,5 @@ last_updated = "2018-02-18T15:38:00-08:00"
 preview_url = "2f81fd3a-cd0b-fa9a-fdf8-a6754d5b4b80"
 name = "Arundel Books"
 title = "Arundel Books"
-books_publisher = "publishers/arundel-books.md"
+books_publisher = ["publishers/arundel-books.md"]
 +++

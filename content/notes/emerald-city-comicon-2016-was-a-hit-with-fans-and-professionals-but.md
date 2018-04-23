@@ -17,7 +17,7 @@ twitterauto = "We asked comics professionals, fans, and vendors to rate their Em
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/emerald-city-comicon-2016-was-a-hit-with-fans-and-professionals-but.md"
+notes_tags = ["notes/emerald-city-comicon-2016-was-a-hit-with-fans-and-professionals-but.md"]
 notes_about = ""
 books = ""
 +++

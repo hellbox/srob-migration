@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes Lindy West in conversation with tw
 facebookauto = "Your week in readings includes Lindy West in conversation with two great women, Jonathan Evison, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-9th---april-15th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-9th---april-15th.md"]
 notes_about = ["authors/jonathan-evison.md", "authors/lindy-west.md", "authors/quenton-baker.md"]
 books = ""
 +++

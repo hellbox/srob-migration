@@ -17,7 +17,7 @@ twitterauto = "@Donna Miscolta on family, @ClintSmithIII on racial violence, @me
 facebookauto = "Donna Miscolta on family, Clint Smith on racial violence, Peter Mendelsund on W. G. Sebald, and more in the Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-december-24-2017.md"
+notes_tags = ["notes/the-sunday-post-for-december-24-2017.md"]
 notes_about = ""
 books = ""
 +++

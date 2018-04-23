@@ -17,7 +17,7 @@ twitterauto = "Your week of readings starts @SPLBuzz and continues with a book l
 facebookauto = "Here's one great literary event for every single day of this week!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-5th---11th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-5th---11th.md"]
 notes_about = ""
 books = ""
 +++

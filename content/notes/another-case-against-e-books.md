@@ -17,7 +17,7 @@ twitterauto = "People who read e-books on Barnes & Noble devices in the UK might
 facebookauto = "People who read e-books on Barnes & Noble devices in the UK might not have access to their e-books anymore. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/another-case-against-e-books.md"
+notes_tags = ["notes/another-case-against-e-books.md"]
 notes_about = ""
 books = ""
 +++

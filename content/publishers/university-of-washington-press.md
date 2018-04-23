@@ -10,5 +10,5 @@ last_updated = "2016-10-12T20:09:00-07:00"
 preview_url = "8928ff9d-4287-d796-f67e-72ebac83c72b"
 name = "University of Washington Press"
 title = "University of Washington Press"
-books_publisher = "publishers/university-of-washington-press.md"
+books_publisher = ["publishers/university-of-washington-press.md"]
 +++

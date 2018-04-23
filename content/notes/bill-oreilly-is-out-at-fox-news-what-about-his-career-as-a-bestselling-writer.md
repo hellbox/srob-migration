@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = "Good news: Bill O'Reilly has been fired from Fox News! Bad news: Two major corporate publishers are still enjoying a very profitable relationship with Bill O'Reilly. Will they continue to promote and publish his books, now that news of his alleged sexual improprieties are all over the internet?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/bill-oreilly-is-out-at-fox-news-what-about-his-career-as-a-bestselling-writer.md"
+notes_tags = ["notes/bill-oreilly-is-out-at-fox-news-what-about-his-career-as-a-bestselling-writer.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Today's Sunday Post features pieces by @tiffehr, @bcmerchant, @aa
 facebookauto = "Sunday Post time! Tiff Fehr gives advice on changing yourself by unlearning, Brian Merchant talks to Joe Halderman about The Forever War, Aaron Burkhalter looks at why books get banned, and Rahawa Haile goes on a journey of grief and discovery. "
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-september-27-2015.md"
+notes_tags = ["notes/the-sunday-post-for-september-27-2015.md"]
 notes_about = ""
 books = ""
 +++

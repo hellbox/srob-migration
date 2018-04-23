@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings features Jamie Ford and a big-ass zine part
 facebookauto = "Your Week in Readings features Jamie Ford and a big-ass zine party in a barber shop."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-13th---september-19th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-13th---september-19th.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/kelly-froh.md"]
 books = ""
 +++

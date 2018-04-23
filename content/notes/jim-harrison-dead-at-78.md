@@ -17,7 +17,7 @@ twitterauto = "Jim Harrison has died at 78."
 facebookauto = "Jim Harrison has died at 78."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/jim-harrison-dead-at-78.md"
+notes_tags = ["notes/jim-harrison-dead-at-78.md"]
 notes_about = ["authors/jim-harrison.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our event of the week features a Danish author who has written a 
 facebookauto = "Our event of the week is an appearance from a Danish author who has written a novel told entirely in headlines."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-how-to-tell-a-story-using-this-one-weird-trick.md"
+notes_tags = ["notes/literary-event-of-the-week-how-to-tell-a-story-using-this-one-weird-trick.md"]
 notes_about = ""
 books = ""
 +++

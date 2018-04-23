@@ -17,7 +17,7 @@ twitterauto = "Barnes & Noble wants to become a \"lifestyle brand?\" Bad idea. P
 facebookauto = "First Borders lost focus and died. Now Barnes & Noble is trying to de-emphasize books and promote itself as a \"lifestyle brand.\" This is an absolutely terrible idea."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/barnes-&-noble-wants-to-become-more-than-books.md"
+notes_tags = ["notes/barnes-&-noble-wants-to-become-more-than-books.md"]
 notes_about = ""
 books = ""
 +++

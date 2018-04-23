@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: If you could give one book to yourself as a teenag
 facebookauto = "Dear Cienna: If you could give one book to yourself as a teenager, what book would it be?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-what-book-would-you-give-to-your-teenage-self.md"
+notes_tags = ["notes/the-help-desk-what-book-would-you-give-to-your-teenage-self.md"]
 notes_about = ["authors/marilynne-robinson.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Let's close out the week with a special good-news-only edition of
 facebookauto = "It's been a crazy week. Let's close it out with a special good-news-only edition of Book News Roundup, shall we?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-all-good-news-all-poetry.md"
+notes_tags = ["notes/book-news-roundup-all-good-news-all-poetry.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/jane-wong.md", "authors/cody-walker.md"]
 books = ["books/the-trumpiad.md"]
 +++

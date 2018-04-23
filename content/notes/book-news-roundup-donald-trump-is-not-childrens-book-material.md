@@ -17,7 +17,7 @@ twitterauto = "Today in Book News Roundup: Sorry, there's some Trump in here."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-donald-trump-is-not-childrens-book-material.md"
+notes_tags = ["notes/book-news-roundup-donald-trump-is-not-childrens-book-material.md"]
 notes_about = ["authors/daemond-arrindell.md"]
 books = ""
 +++

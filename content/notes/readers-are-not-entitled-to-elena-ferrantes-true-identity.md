@@ -17,7 +17,7 @@ twitterauto = "As readers, we are not entitled to Elena Ferrante's true identity
 facebookauto = "As readers, we are not entitled to Elena Ferrante's true identity. Authors don't owe us their personal lives."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/readers-are-not-entitled-to-elena-ferrantes-true-identity.md"
+notes_tags = ["notes/readers-are-not-entitled-to-elena-ferrantes-true-identity.md"]
 notes_about = ""
 books = ""
 +++

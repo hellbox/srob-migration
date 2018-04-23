@@ -17,7 +17,7 @@ twitterauto = "Our thanks to @kelleyeskridge for sponsoring the site this week. 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/our-thanks-to-sponsor-kelley-eskridge.md"
+notes_tags = ["notes/our-thanks-to-sponsor-kelley-eskridge.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Join us tonight at @ThirdPlaceBooks Seward Park as we discuss Hop
 facebookauto = "Join us tonight at Third Place Books Seward Park as we discuss Rebecca Solnit's great book Hope in the Dark."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-reading-through-it-discusses-hope-in-the-dark.md"
+notes_tags = ["notes/literary-event-of-the-week-reading-through-it-discusses-hope-in-the-dark.md"]
 notes_about = ["authors/rebecca-solnit.md"]
 books = ""
 +++

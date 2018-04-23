@@ -17,7 +17,7 @@ twitterauto = "It's @rufreeman by @studiochristine in this week's Portrait Galle
 facebookauto = "This week, Christine Marie Larsen painted Ru Freeman for Portrait Gallery. Freeman is appearing tonight at the Elliott Bay Book Company."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-ru-freeman.md"
+notes_tags = ["notes/portrait-gallery-ru-freeman.md"]
 notes_about = ""
 books = ""
 +++

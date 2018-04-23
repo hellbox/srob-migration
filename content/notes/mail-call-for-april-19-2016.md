@@ -17,7 +17,7 @@ twitterauto = "Mail Call! What looks good to you?"
 facebookauto = "Mail Call! Look at that Mary Roach!"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-april-19-2016.md"
+notes_tags = ["notes/mail-call-for-april-19-2016.md"]
 notes_about = ""
 books = ""
 +++

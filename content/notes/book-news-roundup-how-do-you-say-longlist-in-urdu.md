@@ -17,7 +17,7 @@ twitterauto = "Our book news roundup features library closures in the UK, a tran
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-how-do-you-say-longlist-in-urdu.md"
+notes_tags = ["notes/book-news-roundup-how-do-you-say-longlist-in-urdu.md"]
 notes_about = ""
 books = ""
 +++

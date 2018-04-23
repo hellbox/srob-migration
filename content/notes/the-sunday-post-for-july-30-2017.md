@@ -17,7 +17,7 @@ twitterauto = "We love everyone in this week's Sunday Post, but @jessruliffson a
 facebookauto = "We love everyone in this week's Sunday Post, but Jess Ruliffson's graphic interview on serving as a trans person and Tabitha Blankenbiller's feisty argument for the right to wear skirts really sort of nailed it."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-july-30-2017.md"
+notes_tags = ["notes/the-sunday-post-for-july-30-2017.md"]
 notes_about = ""
 books = ""
 +++

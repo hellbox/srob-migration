@@ -17,7 +17,7 @@ twitterauto = "Great news for Greenwood and astronauts: @Fearless_Ideas reopens 
 facebookauto = "Great news for Greenwood, young writers, and astronauts: the Bureau of Fearless Ideas reopens its Space Travel Supply Company today! Stop by for some celebratory astronaut ice cream sometime soon."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-stars-(and-greenwood)-my-destination.md"
+notes_tags = ["notes/the-stars-(and-greenwood)-my-destination.md"]
 notes_about = ["authors/sarah-galvin.md"]
 books = ""
 +++

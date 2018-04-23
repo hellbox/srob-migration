@@ -17,7 +17,7 @@ twitterauto = "Another chain bookseller to bite the dust?"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/anybody-wanna-buy-a-bookstore-chain.md"
+notes_tags = ["notes/anybody-wanna-buy-a-bookstore-chain.md"]
 notes_about = ""
 books = ""
 +++

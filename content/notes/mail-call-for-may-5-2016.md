@@ -17,7 +17,7 @@ twitterauto = "And then we had the new Alan Moore."
 facebookauto = "Mail Call! Look at that top book. We got the new Alan Moore epic. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-may-5-2016.md"
+notes_tags = ["notes/mail-call-for-may-5-2016.md"]
 notes_about = ["authors/alan-moore.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Used bookselling shifted dramatically in 2000. How did Louis Coll
 facebookauto = "Used bookselling shifted dramatically in 2000. How did Louis Collins make the leap to digital?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/how-louis-collins-made-the-leap-from-physical-bookselling-to-digital.md"
+notes_tags = ["notes/how-louis-collins-made-the-leap-from-physical-bookselling-to-digital.md"]
 notes_about = ""
 books = ""
 +++

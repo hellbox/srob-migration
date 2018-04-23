@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/congratulations-to-laila-lalami.md"
+notes_tags = ["notes/congratulations-to-laila-lalami.md"]
 notes_about = ["authors/laila-lalami.md"]
 books = ["books/the-moors-account.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Which Seattle-area independent bookstore are you?"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/online-quizzes-are-silly-and-frivolous-and-totally-fun.md"
+notes_tags = ["notes/online-quizzes-are-silly-and-frivolous-and-totally-fun.md"]
 notes_about = ""
 books = ""
 +++

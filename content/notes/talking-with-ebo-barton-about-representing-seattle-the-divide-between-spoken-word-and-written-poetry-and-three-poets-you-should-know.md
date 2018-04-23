@@ -17,7 +17,7 @@ twitterauto = "We talked with Ebo Barton, who represented Seattle at the nationa
 facebookauto = "Ebo Barton, who recently represented Seattle in the national poetry slam in Flagstaff Arizona, talked with us about competitive spoken word, the divide between written and spoken poetry, and three local poets you should know."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-ebo-barton-about-representing-seattle-the-divide-between-spoken-word-and-written-poetry-and-three-poets-you-should-know.md"
+notes_tags = ["notes/talking-with-ebo-barton-about-representing-seattle-the-divide-between-spoken-word-and-written-poetry-and-three-poets-you-should-know.md"]
 notes_about = ["authors/ebo-barton.md"]
 books = ""
 +++

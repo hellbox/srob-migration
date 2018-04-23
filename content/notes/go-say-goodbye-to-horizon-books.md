@@ -17,7 +17,7 @@ twitterauto = "Go say goodbye to Horizon Books. After a half-century the used bo
 facebookauto = "Go say goodbye to Horizon Books. After a half-century the used bookseller is saying goodbye."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/go-say-goodbye-to-horizon-books.md"
+notes_tags = ["notes/go-say-goodbye-to-horizon-books.md"]
 notes_about = ""
 books = ""
 +++

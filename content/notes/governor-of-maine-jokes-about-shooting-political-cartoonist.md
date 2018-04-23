@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/governor-of-maine-jokes-about-shooting-political-cartoonist.md"
+notes_tags = ["notes/governor-of-maine-jokes-about-shooting-political-cartoonist.md"]
 notes_about = ""
 books = ""
 +++

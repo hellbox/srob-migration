@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes two @HugoHouse events and @Seattle
 facebookauto = "This week brings you a couple of big Hugo House events and a big party to celebrate the Ghosts of Seattle Past book launch."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-5th---april-11th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-5th---april-11th.md"]
 notes_about = ""
 books = ""
 +++

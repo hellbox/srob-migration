@@ -17,7 +17,7 @@ twitterauto = "A bookstore owner wants to carry an alt-right monster's book. Sho
 facebookauto = "A bookstore owner wants to carry an alt-right monster's book. Should the booksellers resist?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-my-bookstore-wants-to-carry-books-by-a-racist-monster!.md"
+notes_tags = ["notes/the-help-desk-my-bookstore-wants-to-carry-books-by-a-racist-monster!.md"]
 notes_about = ""
 books = ""
 +++

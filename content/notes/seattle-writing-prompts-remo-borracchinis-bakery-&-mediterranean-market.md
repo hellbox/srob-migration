@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts goes #sheetcaking at Borracchini's."
 facebookauto = "Seattle Writing Prompts gets its sheetcake on."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-remo-borracchinis-bakery-&-mediterranean-market.md"
+notes_tags = ["notes/seattle-writing-prompts-remo-borracchinis-bakery-&-mediterranean-market.md"]
 notes_about = ""
 books = ""
 +++

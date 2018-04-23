@@ -17,7 +17,7 @@ twitterauto = "Sponsor @saggingmeniscus brings proof, by @ccsysd05, that from gr
 facebookauto = "Okay, if you love literature and poetry that starts from severe restriction -- and we know a lot of you, like us, really do -- then you're going to love Sponsor Sagging Meniscus Press, and the work they're showing on the site this week, from Christopher Carter Sanderson."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-art-that-comes-from-restriction.md"
+notes_tags = ["notes/the-art-that-comes-from-restriction.md"]
 notes_about = ["authors/christopher-carter-sanderson.md"]
 books = ["books/the-too-brief-chronicle-of-judah-lowe.md"]
 +++

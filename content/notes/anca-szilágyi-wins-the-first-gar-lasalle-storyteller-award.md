@@ -17,7 +17,7 @@ twitterauto = "Congratulations to @ancawrites, who just won the first Gar LaSall
 facebookauto = "Seattle writer Anca Szil\u00e1gyi has been having a great year, and it just got even greater\u00a0\u2014 she just won the very first Gar LaSalle Storyteller Award from the good people at Artist Trust!"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/anca-szilágyi-wins-the-first-gar-lasalle-storyteller-award.md"
+notes_tags = ["notes/anca-szilágyi-wins-the-first-gar-lasalle-storyteller-award.md"]
 notes_about = ["authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

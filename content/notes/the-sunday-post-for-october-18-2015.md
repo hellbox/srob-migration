@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post this week has pieces by @kathrynschulz, @mfortki,
 facebookauto = "Thoreau bashing, made-up languages, apologies, and the nature of reality. All in today's Sunday Post."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-october-18-2015.md"
+notes_tags = ["notes/the-sunday-post-for-october-18-2015.md"]
 notes_about = ""
 books = ""
 +++

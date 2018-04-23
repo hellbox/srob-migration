@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = "Saturday Night's alright for fighting...where to put all your new books. Mail call!"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-october-17-2015.md"
+notes_tags = ["notes/mail-call-for-october-17-2015.md"]
 notes_about = ""
 books = ""
 +++

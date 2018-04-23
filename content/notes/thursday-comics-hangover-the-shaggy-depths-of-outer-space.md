@@ -17,7 +17,7 @@ twitterauto = "If you like shaggy-haired cosmic comics, you're gonna love the Lo
 facebookauto = "These French sci-fi comics are huger in scope than Star Wars and crazier than anything any American psychedelic cartoonist ever put to paper."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-shaggy-depths-of-outer-space.md"
+notes_tags = ["notes/thursday-comics-hangover-the-shaggy-depths-of-outer-space.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @tobitastic this week."
 facebookauto = "The Kickstarter Fund backs Tobi Hill-Meyer this week."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/nerve-endings-the-new-trans-erotic---kickstarter-fund-project-51.md"
+notes_tags = ["notes/nerve-endings-the-new-trans-erotic---kickstarter-fund-project-51.md"]
 notes_about = ""
 books = ""
 +++

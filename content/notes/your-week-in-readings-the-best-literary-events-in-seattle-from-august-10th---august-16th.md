@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes an intimate @Sherman_Alexie event 
 facebookauto = "Your week in readings includes an intimate Sherman Alexie event and a scratch for your Harry Potter itch."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-in-seattle-from-august-10th---august-16th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-in-seattle-from-august-10th---august-16th.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/natasha-marin.md"]
 books = ""
 +++

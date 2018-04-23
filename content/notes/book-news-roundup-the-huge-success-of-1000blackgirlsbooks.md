@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup includes #1000BlackGirlsBooks, a histor
 facebookauto = "Today's Book News Roundup includes #1000BlackGirlsBooks, a history of the Seattle Black Panthers, and more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-huge-success-of-1000blackgirlsbooks.md"
+notes_tags = ["notes/book-news-roundup-the-huge-success-of-1000blackgirlsbooks.md"]
 notes_about = ""
 books = ""
 +++

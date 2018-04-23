@@ -17,7 +17,7 @@ twitterauto = "Need something fun and literary to do? Here's one event for every
 facebookauto = "Need something fun and literary to do this week? Here's one event for every day of the week!"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-14th---september-20th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-14th---september-20th.md"]
 notes_about = ""
 books = ""
 +++

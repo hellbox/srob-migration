@@ -17,7 +17,7 @@ twitterauto = "We're loving the mix of medicine and espionage in @ChelseaCain's 
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-doctors-orders.md"
+notes_tags = ["notes/thursday-comics-hangover-doctors-orders.md"]
 notes_about = ["authors/chelsea-cain.md"]
 books = ""
 +++

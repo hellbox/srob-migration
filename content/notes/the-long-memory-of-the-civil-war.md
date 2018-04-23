@@ -17,7 +17,7 @@ twitterauto = "Sponsor Nick K Adams brought the Civil War alive with his great-g
 facebookauto = "Sponsor Nick K Adams brought the Civil War alive with his great-grandfather's letters home."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-long-memory-of-the-civil-war.md"
+notes_tags = ["notes/the-long-memory-of-the-civil-war.md"]
 notes_about = ""
 books = ""
 +++

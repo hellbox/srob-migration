@@ -17,7 +17,7 @@ twitterauto = "RIP, Katherine Dunn. Your writing made people want to be writers.
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/katherine-dunn-1945-2016.md"
+notes_tags = ["notes/katherine-dunn-1945-2016.md"]
 notes_about = ["authors/katherine-dunn.md"]
 books = ["books/geek-love.md"]
 +++

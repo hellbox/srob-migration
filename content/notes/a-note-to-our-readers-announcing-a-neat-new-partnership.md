@@ -17,7 +17,7 @@ twitterauto = "Starting today, you'll find some of our pieces in the @seattlewee
 facebookauto = "Starting this week, you'll be able to read selected Seattle Review of Books reviews and calendar entries in the print edition of the Seattle Weekly."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-note-to-our-readers-announcing-a-neat-new-partnership.md"
+notes_tags = ["notes/a-note-to-our-readers-announcing-a-neat-new-partnership.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"Are you a white man?\""
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/on-the-other-side-of-the-wall.md"
+notes_tags = ["notes/on-the-other-side-of-the-wall.md"]
 notes_about = ["authors/natasha-marin.md"]
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2016-05-30T21:33:00-07:00"
 preview_url = "389f25d5-406a-3265-2a27-ed08e332ac3b"
 name = "University of Georgia Press"
 title = "University of Georgia Press"
-books_publisher = "publishers/university-of-georgia-press.md"
+books_publisher = ["publishers/university-of-georgia-press.md"]
 +++

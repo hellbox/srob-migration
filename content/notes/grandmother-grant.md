@@ -17,7 +17,7 @@ twitterauto = "Our month of celebrating Madeline DeFrees continues, with her poe
 facebookauto = "Our month of celebrating Madeline DeFrees continues, with her poem \"Grandmother Grant\""
 make_image_tweet = ""
 notes_byline = ["writers/madeline-defrees.md"]
-notes_tags = "notes/grandmother-grant.md"
+notes_tags = ["notes/grandmother-grant.md"]
 notes_about = ""
 books = ""
 +++

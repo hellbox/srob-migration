@@ -17,7 +17,7 @@ twitterauto = "Evicted is such a good book it almost rendered me speechless."
 facebookauto = "Thanks to all who joined us last night for a stirring conversation about rent and low-income housing and poverty in Seattle."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/evicted-is-such-a-good-book-it-rendered-me-effectively-speechless.md"
+notes_tags = ["notes/evicted-is-such-a-good-book-it-rendered-me-effectively-speechless.md"]
 notes_about = ""
 books = ""
 +++

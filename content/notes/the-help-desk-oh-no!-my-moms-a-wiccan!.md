@@ -17,7 +17,7 @@ twitterauto = "Advice from @ciennam: \"Religion & butt play are 2 very personal 
 facebookauto = "Our advice columnist Cienna Madrid responds to a reader whose mother has come out of the closet as a practicing Wiccan. Cienna's advice begins, \"I understand your horror. Just last weekend my own dear mother let it slip that she\u2019s interested in butt play.\""
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-oh-no!-my-moms-a-wiccan!.md"
+notes_tags = ["notes/the-help-desk-oh-no!-my-moms-a-wiccan!.md"]
 notes_about = ""
 books = ""
 +++

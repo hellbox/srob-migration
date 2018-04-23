@@ -17,7 +17,7 @@ twitterauto = "You will never completely be rid of James Frey."
 facebookauto = "Oh, my God. Him again?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/you-will-never-be-completely-rid-of-james-frey.md"
+notes_tags = ["notes/you-will-never-be-completely-rid-of-james-frey.md"]
 notes_about = ""
 books = ""
 +++

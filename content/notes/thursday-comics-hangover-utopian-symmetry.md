@@ -17,7 +17,7 @@ twitterauto = "A new utopian sci-fi comic called Symmetry argues that perfection
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-utopian-symmetry.md"
+notes_tags = ["notes/thursday-comics-hangover-utopian-symmetry.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "In our comics column this week, we review Spider-Man: Homecoming.
 facebookauto = "In our comics column this week, we review Spider-Man: Homecoming."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-choose-your-spider-man.md"
+notes_tags = ["notes/thursday-comics-hangover-choose-your-spider-man.md"]
 notes_about = ""
 books = ""
 +++

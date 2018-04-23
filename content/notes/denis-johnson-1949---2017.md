@@ -17,7 +17,7 @@ twitterauto = "Reports are coming in that author Denis Johnson has died."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/denis-johnson-1949---2017.md"
+notes_tags = ["notes/denis-johnson-1949---2017.md"]
 notes_about = ""
 books = ""
 +++

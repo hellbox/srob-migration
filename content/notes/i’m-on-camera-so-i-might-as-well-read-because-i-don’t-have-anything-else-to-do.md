@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i’m-on-camera-so-i-might-as-well-read-because-i-don’t-have-anything-else-to-do.md"
+notes_tags = ["notes/i’m-on-camera-so-i-might-as-well-read-because-i-don’t-have-anything-else-to-do.md"]
 notes_about = ""
 books = ""
 +++

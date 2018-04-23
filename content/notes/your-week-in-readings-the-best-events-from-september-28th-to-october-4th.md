@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins tonight with a group reading from an
 facebookauto = "We've got a week's worth of readings for you, including two celebrations of the new book about Seattle's literary scene, a comics and zine fair, a reading from Stacey Levine, and a book club presentation with a screening of the last Hunger Games movie."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-events-from-september-28th-to-october-4th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-events-from-september-28th-to-october-4th.md"]
 notes_about = ["authors/ryan-boudinot.md", "authors/carolyne-wright.md"]
 books = ["books/raising-lilly-ledbetter.md", "books/the-octopus-rises.md"]
 +++

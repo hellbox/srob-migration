@@ -17,7 +17,7 @@ twitterauto = "Our latest advice column explores the ethics of adopting a child 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-advice-on-adopting-the-perfect-muse.md"
+notes_tags = ["notes/the-help-desk-advice-on-adopting-the-perfect-muse.md"]
 notes_about = ["authors/jonathan-franzen.md"]
 books = ""
 +++

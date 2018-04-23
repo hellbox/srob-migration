@@ -17,7 +17,7 @@ twitterauto = "We talked with @Adason15th's new events coordinator about book cl
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-bookshelves-where-science-and-humanities-meet.md"
+notes_tags = ["notes/the-bookshelves-where-science-and-humanities-meet.md"]
 notes_about = ""
 books = ""
 +++

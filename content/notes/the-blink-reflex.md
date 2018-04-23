@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is \"The Blink Reflex\", by Rick Barot."
 facebookauto = "Our Tuesday Poem is \"The Blink Reflex\", by Rick Barot."
 make_image_tweet = "False"
 notes_byline = ["writers/rick-barot.md"]
-notes_tags = "notes/the-blink-reflex.md"
+notes_tags = ["notes/the-blink-reflex.md"]
 notes_about = ""
 books = ""
 +++

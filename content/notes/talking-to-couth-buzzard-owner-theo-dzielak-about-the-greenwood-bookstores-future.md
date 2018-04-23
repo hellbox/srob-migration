@@ -17,7 +17,7 @@ twitterauto = "We talked with Couth Buzzard owner Theo Dzielak about his booksto
 facebookauto = "We talked with Couth Buzzard owner Theo Dzielak about his bookstore's future."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-to-couth-buzzard-owner-theo-dzielak-about-the-greenwood-bookstores-future.md"
+notes_tags = ["notes/talking-to-couth-buzzard-owner-theo-dzielak-about-the-greenwood-bookstores-future.md"]
 notes_about = ["authors/ursula-k-le-guin.md"]
 books = ""
 +++

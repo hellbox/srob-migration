@@ -17,7 +17,7 @@ twitterauto = "Mail Call! A Sunday night short stack."
 facebookauto = "A Sunday Night short stack."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-october-16-2016.md"
+notes_tags = ["notes/mail-call-for-october-16-2016.md"]
 notes_about = ""
 books = ""
 +++

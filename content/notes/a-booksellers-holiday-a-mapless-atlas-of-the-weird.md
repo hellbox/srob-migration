@@ -17,7 +17,7 @@ twitterauto = "We asked @elliottbaybooks bookseller Emma what book she wanted fo
 facebookauto = "We asked Elliott Bay Book Company bookseller Emma what book she wanted for the holidays."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-booksellers-holiday-a-mapless-atlas-of-the-weird.md"
+notes_tags = ["notes/a-booksellers-holiday-a-mapless-atlas-of-the-weird.md"]
 notes_about = ""
 books = ""
 +++

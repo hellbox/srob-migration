@@ -17,7 +17,7 @@ twitterauto = "An upcoming comics anthology tells stories of addiction and hitti
 facebookauto = "An upcoming comics anthology tells stories of addiction and hitting bottom."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-these-bottoms-are-the-tops.md"
+notes_tags = ["notes/thursday-comics-hangover-these-bottoms-are-the-tops.md"]
 notes_about = ["authors/tatiana-gill.md", "authors/max-clotfelter.md"]
 books = ""
 +++

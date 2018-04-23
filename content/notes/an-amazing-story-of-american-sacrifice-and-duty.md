@@ -17,7 +17,7 @@ twitterauto = "Sponsor @dmabooksvea brings us an amazing true story of a Japanes
 facebookauto = "Sponsor Sandra Vea brings us an amazing true story of a Japanese-American soldier in WWII."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/an-amazing-story-of-american-sacrifice-and-duty.md"
+notes_tags = ["notes/an-amazing-story-of-american-sacrifice-and-duty.md"]
 notes_about = ["authors/sandra-vea.md"]
 books = ["books/masao.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "We talked with @d_arrindell about the inflection point between po
 facebookauto = "We talked with Daemond Arrindell about the connection between theater and poetry."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-daemond-arrindell-about-poetry-performance-and-writing-in-a-community.md"
+notes_tags = ["notes/talking-with-daemond-arrindell-about-poetry-performance-and-writing-in-a-community.md"]
 notes_about = ["authors/daemond-arrindell.md"]
 books = ""
 +++

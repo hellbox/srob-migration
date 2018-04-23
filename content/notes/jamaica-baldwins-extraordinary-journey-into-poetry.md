@@ -17,7 +17,7 @@ twitterauto = ".@jamaicabaldwin came to poetry late, but luckily for us she's a 
 facebookauto = "We talked with poet Jamaica Baldwin about her journey as a poet. It began a few years ago with a cancer diagnosis, and she's been learning ever since."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jamaica-baldwins-extraordinary-journey-into-poetry.md"
+notes_tags = ["notes/jamaica-baldwins-extraordinary-journey-into-poetry.md"]
 notes_about = ["authors/jamaica-baldwin.md", "authors/maged-zaher.md", "authors/quenton-baker.md", "authors/kwame-dawes.md"]
 books = ""
 +++

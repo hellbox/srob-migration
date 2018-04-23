@@ -17,7 +17,7 @@ twitterauto = "Don't stampede or anything, but all books are 25% off @ubookstore
 facebookauto = "Don't stampede or anything, but all books are 25 percent off at University Book Store this weekend."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/public-service-announcement-all-books-at-university-book-store-are-25-percent-off-this-weekend.md"
+notes_tags = ["notes/public-service-announcement-all-books-at-university-book-store-are-25-percent-off-this-weekend.md"]
 notes_about = ""
 books = ""
 +++

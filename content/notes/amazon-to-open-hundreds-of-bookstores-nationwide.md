@@ -17,7 +17,7 @@ twitterauto = "Is Amazon preparing to open hundreds of Amazon Books stores natio
 facebookauto = "The other shoe drops. Or, the 400 other shoes drop: rumor has it that Amazon is about to open 400 Amazon Books around the country."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-to-open-hundreds-of-bookstores-nationwide.md"
+notes_tags = ["notes/amazon-to-open-hundreds-of-bookstores-nationwide.md"]
 notes_about = ""
 books = ""
 +++

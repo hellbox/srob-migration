@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/todays-the-day-to-tell-seattle-public-library-what-you-think.md"
+notes_tags = ["notes/todays-the-day-to-tell-seattle-public-library-what-you-think.md"]
 notes_about = ""
 books = ""
 +++

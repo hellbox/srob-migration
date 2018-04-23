@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery by @studiochristine - Seattle poet Natasha Marin
 facebookauto = "Today's Portrait Gallery is Seattle poet Natasha Marin, who is reading tonight at Vermillion Art Gallery and Bar."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery---natasha-marin.md"
+notes_tags = ["notes/portrait-gallery---natasha-marin.md"]
 notes_about = ""
 books = ""
 +++

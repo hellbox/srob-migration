@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: #comics #poet Mita Mahato Fri @ElliottBayBooks 
 facebookauto = "Portrait Gallery: Mita Mahato by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-mita-mahato.md"
+notes_tags = ["notes/portrait-gallery-mita-mahato.md"]
 notes_about = ["authors/mita-mahato.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Anastacia-Rene\u00e9 reads Tuesday 7/25 @Elliot
 facebookauto = "Portrait Gallery:  Anastacia-Rene\u00e9 by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-anastacia-reneé.md"
+notes_tags = ["notes/portrait-gallery-anastacia-reneé.md"]
 notes_about = ["authors/anastacia-renee.md"]
 books = ""
 +++

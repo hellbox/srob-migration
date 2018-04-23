@@ -17,7 +17,7 @@ twitterauto = "Get in on the great deal from @Microcosmmm, our Kickstarter Fund 
 facebookauto = "Microcosm Publishing is throwing a Kickstarter, and my goodness do they have a good bundle for you. This is worth checking out, and they are who we put our money into for our Kickstarter Fund project #3."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/making-room-for-good-trouble---kickstarter-fund-project-3.md"
+notes_tags = ["notes/making-room-for-good-trouble---kickstarter-fund-project-3.md"]
 notes_about = ""
 books = ""
 +++

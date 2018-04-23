@@ -17,7 +17,7 @@ twitterauto = "The date for this year's @LitCrawlSeattle has been announced and 
 facebookauto = "The date for this year's Lit Crawl has been announced, a new Amazon Books is opening, Harper Lee's will has been sealed, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-this-years-lit-crawl-is-october-27th.md"
+notes_tags = ["notes/book-news-roundup-this-years-lit-crawl-is-october-27th.md"]
 notes_about = ""
 books = ""
 +++

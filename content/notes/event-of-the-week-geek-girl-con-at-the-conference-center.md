@@ -17,7 +17,7 @@ twitterauto = "\"I want to be clear: the idea of 'reverse racism' is bunk.\" Why
 facebookauto = "\"I want to be clear: the idea of 'reverse racism' is bunk.\" Why Geek Girl Con matters now more than ever."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-geek-girl-con-at-the-conference-center.md"
+notes_tags = ["notes/event-of-the-week-geek-girl-con-at-the-conference-center.md"]
 notes_about = ""
 books = ""
 +++

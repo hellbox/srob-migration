@@ -17,7 +17,7 @@ twitterauto = "The owner of @SecretGardenBks recommends @choldenko's Chasing Sec
 facebookauto = "The owner of Secret Garden Books has two book recommendations for you: one with pictures and one without."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/holiday-gift-book-recommendation-3-chasing-secrets.md"
+notes_tags = ["notes/holiday-gift-book-recommendation-3-chasing-secrets.md"]
 notes_about = ""
 books = ""
 +++

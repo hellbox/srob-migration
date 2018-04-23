@@ -17,7 +17,7 @@ twitterauto = "Romance books make up 5 percent of print book sales and...how muc
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/romance-titles-make-up-44%-of-print-sales-(according-to-nielsen)-and-45%-of-ebook-sales-(according-the-author-earnings-report).md"
+notes_tags = ["notes/romance-titles-make-up-44%-of-print-sales-(according-to-nielsen)-and-45%-of-ebook-sales-(according-the-author-earnings-report).md"]
 notes_about = ""
 books = ""
 +++

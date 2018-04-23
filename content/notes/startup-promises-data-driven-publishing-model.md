@@ -17,7 +17,7 @@ twitterauto = "Okay, sure: here comes a data-driven book publisher."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/startup-promises-data-driven-publishing-model.md"
+notes_tags = ["notes/startup-promises-data-driven-publishing-model.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "It's @Sherman_Alexie in @studiochristine's Portrait Gallery!"
 facebookauto = "Hey look, Christine Larsen painted Sherman Alexie for this week's Portrait Gallery!"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-sherman-alexie.md"
+notes_tags = ["notes/portrait-gallery-sherman-alexie.md"]
 notes_about = ""
 books = ""
 +++

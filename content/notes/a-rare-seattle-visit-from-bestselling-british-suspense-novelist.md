@@ -17,7 +17,7 @@ twitterauto = "Sponsor @SJ_Watson is coming to @ubookstorereads to support his n
 facebookauto = "Sponsor SJ Watson is coming to University Book store to support his new thriller. Read a full chapter now."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-rare-seattle-visit-from-bestselling-british-suspense-novelist.md"
+notes_tags = ["notes/a-rare-seattle-visit-from-bestselling-british-suspense-novelist.md"]
 notes_about = ""
 books = ""
 +++

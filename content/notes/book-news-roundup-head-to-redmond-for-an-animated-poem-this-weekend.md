@@ -17,7 +17,7 @@ twitterauto = "Donald Trump probably doesn't want you to read this comic book. S
 facebookauto = "Donald Trump probably doesn't want you to read this comic book. So read it!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-head-to-redmond-for-an-animated-poem-this-weekend.md"
+notes_tags = ["notes/book-news-roundup-head-to-redmond-for-an-animated-poem-this-weekend.md"]
 notes_about = ["authors/shin-yu-pai.md"]
 books = ""
 +++

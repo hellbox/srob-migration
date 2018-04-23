@@ -17,7 +17,7 @@ twitterauto = "If you must buy books online, do it from @Powells\u2014and get 30
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/if-you-must-buy-books-online-do-it-this-way.md"
+notes_tags = ["notes/if-you-must-buy-books-online-do-it-this-way.md"]
 notes_about = ""
 books = ""
 +++

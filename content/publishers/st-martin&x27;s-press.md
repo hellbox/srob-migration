@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "St. Martin&#x27;s Press"
 title = "St. Martin&#x27;s Press"
-books_publisher = "publishers/st-martin&x27;s-press.md"
+books_publisher = ["publishers/st-martin&x27;s-press.md"]
 +++

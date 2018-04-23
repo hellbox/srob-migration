@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs an evocative mugshot project by @diarm
 facebookauto = "The Kickstarter Fund backs an evocative mugshot project by Diarmid Mogg."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/small-town-noir-mug-shots-from-new-castle-pa-1930-60---kickstarter-fund-project-23.md"
+notes_tags = ["notes/small-town-noir-mug-shots-from-new-castle-pa-1930-60---kickstarter-fund-project-23.md"]
 notes_about = ""
 books = ""
 +++

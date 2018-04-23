@@ -17,7 +17,7 @@ twitterauto = "Guys. GUYS. Captain America will be fine. It's okay."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/public-service-announcement-dont-freak-out-over-superhero-comics.md"
+notes_tags = ["notes/public-service-announcement-dont-freak-out-over-superhero-comics.md"]
 notes_about = ""
 books = ""
 +++

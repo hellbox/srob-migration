@@ -17,7 +17,7 @@ twitterauto = "We went to the X Y Z Gallery opening party last night. Here's wha
 facebookauto = "We went to the X Y Z Gallery opening party last night. Here's what we saw:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/what-we-saw-at-the-x-y-z-gallery-launch-party-last-night.md"
+notes_tags = ["notes/what-we-saw-at-the-x-y-z-gallery-launch-party-last-night.md"]
 notes_about = ""
 books = ""
 +++

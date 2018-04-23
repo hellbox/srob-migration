@@ -17,7 +17,7 @@ twitterauto = "What do booksellers want for the holidays? Wesley at @ThirdPlaceB
 facebookauto = "All month long, we're talking to booksellers about the books they'd like to receive as holiday gifts. Wesley from Third Place Books is excited about two new titles from the great small press Nightboat Books."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-booksellers-holiday-two-new-titles-from-nightboat-books.md"
+notes_tags = ["notes/a-booksellers-holiday-two-new-titles-from-nightboat-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "We talked with \u200e@PicadorUSA author Thomas Frank about the \"
 facebookauto = "We talked with Thomas Frank about the \"scam\" behind higher education in America."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-thomas-frank-about-the-fraud-and-scam-of-american-higher-education.md"
+notes_tags = ["notes/talking-with-thomas-frank-about-the-fraud-and-scam-of-american-higher-education.md"]
 notes_about = ["authors/thomas-frank.md"]
 books = ["books/listen-liberal.md"]
 +++

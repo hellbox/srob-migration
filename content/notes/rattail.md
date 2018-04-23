@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday poem by Anastacia Renee Tolbert starts \"the baby rat
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/anastacia-renee-tolbert.md"]
-notes_tags = "notes/rattail.md"
+notes_tags = ["notes/rattail.md"]
 notes_about = ""
 books = ""
 +++

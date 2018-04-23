@@ -17,7 +17,7 @@ twitterauto = "The owner of Open Books is retiring. Anyone want to buy a poetry 
 facebookauto = "The owner of Open Books, John Marshall, is retiring from bookselling. He's looking for someone to take over ownership of Open Books. So, uh, want to own one of the two poetry bookstores in America?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/anybody-want-to-buy-a-poetry-bookstore.md"
+notes_tags = ["notes/anybody-want-to-buy-a-poetry-bookstore.md"]
 notes_about = ""
 books = ""
 +++

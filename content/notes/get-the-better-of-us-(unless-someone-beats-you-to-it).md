@@ -17,7 +17,7 @@ twitterauto = "We have two sponsorship openings in August! Grab 'em while they'r
 facebookauto = "We have two sponsorship openings in August! Grab 'em while they're hot (and on sale). "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/get-the-better-of-us-(unless-someone-beats-you-to-it).md"
+notes_tags = ["notes/get-the-better-of-us-(unless-someone-beats-you-to-it).md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Franklin Foer reads @elliottbaybooks on Wednesday! We talked with
 facebookauto = "Franklin Foer reads at Elliott Bay Book Company on Wednesday. His book World Without Mind is the first essential book of the fall. We asked him why Big Tech is ruining thoughtfulness and consideration."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/franklin-foer-has-advice-for-any-city-looking-to-become-amazons-second-headquarters.md"
+notes_tags = ["notes/franklin-foer-has-advice-for-any-city-looking-to-become-amazons-second-headquarters.md"]
 notes_about = ""
 books = ""
 +++

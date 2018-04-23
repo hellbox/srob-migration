@@ -17,7 +17,7 @@ twitterauto = "Does Blade Runner 2049 honor the themes of Philip K. Dick's ficti
 facebookauto = "Does Blade Runner 2049 honor the themes of Philip K. Dick's fiction? Should it honor those themes, or have we moved on?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/does-blade-runner-2049-honor-the-themes-of-philip-k-dick.md"
+notes_tags = ["notes/does-blade-runner-2049-honor-the-themes-of-philip-k-dick.md"]
 notes_about = ["authors/philip-k-dick.md"]
 books = ""
 +++

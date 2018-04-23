@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup includes the future of bookselling & ev
 facebookauto = "Today's Book News Roundup includes the future of bookselling and every book recommended by President Obama."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-all-the-books-president-obama-recommended.md"
+notes_tags = ["notes/book-news-roundup-all-the-books-president-obama-recommended.md"]
 notes_about = ["authors/mattilda-bernstein-sycamore.md"]
 books = ""
 +++

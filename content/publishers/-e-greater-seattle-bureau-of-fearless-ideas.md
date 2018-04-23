@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = " e Greater Seattle Bureau of Fearless Ideas"
 title = " e Greater Seattle Bureau of Fearless Ideas"
-books_publisher = "publishers/-e-greater-seattle-bureau-of-fearless-ideas.md"
+books_publisher = ["publishers/-e-greater-seattle-bureau-of-fearless-ideas.md"]
 +++

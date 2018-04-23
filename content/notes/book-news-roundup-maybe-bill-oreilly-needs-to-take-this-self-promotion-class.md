@@ -17,7 +17,7 @@ twitterauto = "Eventually, every dumb conservative writer will get their comeupp
 facebookauto = "Seattle writers: learn how to promote yourselves! "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-maybe-bill-oreilly-needs-to-take-this-self-promotion-class.md"
+notes_tags = ["notes/book-news-roundup-maybe-bill-oreilly-needs-to-take-this-self-promotion-class.md"]
 notes_about = ["authors/natasha-marin.md"]
 books = ""
 +++

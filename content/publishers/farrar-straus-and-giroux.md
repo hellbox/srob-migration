@@ -10,5 +10,5 @@ last_updated = "2015-08-13T16:12:00-07:00"
 preview_url = "2cc40213-227b-736c-29e4-77b9130464a8"
 name = "Farrar, Straus and Giroux"
 title = "Farrar, Straus and Giroux"
-books_publisher = "publishers/farrar-straus-and-giroux.md"
+books_publisher = ["publishers/farrar-straus-and-giroux.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Join Neil Gaiman, Anne Tyler, and Art Spiegelman in their fight a
 facebookauto = "Join Neil Gaiman, Anne Tyler, and Art Spiegelman in their fight against Donald Trump's anti-art agenda."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/authors-protest-trumps-proposed-arts-budget-cuts.md"
+notes_tags = ["notes/authors-protest-trumps-proposed-arts-budget-cuts.md"]
 notes_about = ["authors/paul-auster.md"]
 books = ""
 +++

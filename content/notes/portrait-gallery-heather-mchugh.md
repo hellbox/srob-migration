@@ -17,7 +17,7 @@ twitterauto = "A review earlier, and now @heathermchugh, in the portrait gallery
 facebookauto = "It's Heather McHugh, in the Portrait Gallery, this week."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-heather-mchugh.md"
+notes_tags = ["notes/portrait-gallery-heather-mchugh.md"]
 notes_about = ["authors/heather-mchugh.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @GillianGaar + Shabazz Palaces Friday @Fantagra
 facebookauto = "Portrait Gallery: Gillian Gaar by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-gillian-gaar.md"
+notes_tags = ["notes/portrait-gallery-gillian-gaar.md"]
 notes_about = ""
 books = ""
 +++

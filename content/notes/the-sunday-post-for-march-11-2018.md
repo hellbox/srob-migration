@@ -17,7 +17,7 @@ twitterauto = "Our picks for your Sunday reading include G. M. Tam\u00e1s, Lili 
 facebookauto = "Our picks for your Sunday reading: G. M. Tam\u00e1s on the death of democracy, Lili Loofbourow on the male gaze, and Deborah Copaken's blow-by-blow experience of sexual harassment at the New York Observer, plus stories on the mathematics of happiness and the coming stinkbug armageddon."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-march-11-2018.md"
+notes_tags = ["notes/the-sunday-post-for-march-11-2018.md"]
 notes_about = ""
 books = ""
 +++

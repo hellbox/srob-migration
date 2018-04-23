@@ -17,7 +17,7 @@ twitterauto = "No other way to say it: @simonschuster is giving a white supremac
 facebookauto = "Simon & Schuster announced today that they're giving a white supremacist a quarter million dollars to write a book."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/simon-and-schuster-gives-a-quarter-million-dollars-to-white-supremacist-troll.md"
+notes_tags = ["notes/simon-and-schuster-gives-a-quarter-million-dollars-to-white-supremacist-troll.md"]
 notes_about = ""
 books = ""
 +++

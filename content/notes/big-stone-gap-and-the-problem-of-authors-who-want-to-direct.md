@@ -17,7 +17,7 @@ twitterauto = "Sometimes a novelist really shouldn't direct the movie adaptation
 facebookauto = "The movie adaptation of Big Stone Gap, which was directed by the novelist who wrote Big Stone Gap, is pretty bad. How bad? Well, you might think you accidentally drank cough syrup before watching it."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/big-stone-gap-and-the-problem-of-authors-who-want-to-direct.md"
+notes_tags = ["notes/big-stone-gap-and-the-problem-of-authors-who-want-to-direct.md"]
 notes_about = ["authors/adriana-trigiani.md"]
 books = ["books/big-stone-gap.md"]
 +++

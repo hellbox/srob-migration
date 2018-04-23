@@ -17,7 +17,7 @@ twitterauto = "Mean Girls Club is a gorgeous punk rock comic book."
 facebookauto = "\"They torture innocent people. They take fistfuls of pills and slap each other with fishes and punch well-meaning nurses right in the jaw. And then the mayhem really starts.\""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-mean-girls-gone-wild.md"
+notes_tags = ["notes/thursday-comics-hangover-mean-girls-gone-wild.md"]
 notes_about = ""
 books = ""
 +++

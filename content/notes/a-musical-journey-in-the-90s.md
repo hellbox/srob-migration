@@ -17,7 +17,7 @@ twitterauto = "Sponsor @mamster will be appearing at @Adason15th on March 19th! 
 facebookauto = "Sponsor Matthew Amster-Burton will be appearing at Ada's Technical Books on the 19th of March! Find our more about his amazingly cool debut novel on our page."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-musical-journey-in-the-90s.md"
+notes_tags = ["notes/a-musical-journey-in-the-90s.md"]
 notes_about = ""
 books = ""
 +++

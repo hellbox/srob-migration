@@ -17,7 +17,7 @@ twitterauto = "Mothers and daughters and book-borrowing: @ciennam has some thoug
 facebookauto = "Mothers and daughters and book-borrowing: our advice columnist has some thoughts."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-give-me-back-my-damn-books-mom.md"
+notes_tags = ["notes/the-help-desk-give-me-back-my-damn-books-mom.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "It is incredibly hard to avoid books with \"Girl\" or \"Wife\" in
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-trouble-with-girls.md"
+notes_tags = ["notes/the-trouble-with-girls.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portland's In Other Words bookstore explains their anti-Portlandi
 facebookauto = "The feminist bookstore featured in Portlandia has had it with what they claim to be the TV show's terrible behavior. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-trouble-with-portlandia.md"
+notes_tags = ["notes/the-trouble-with-portlandia.md"]
 notes_about = ""
 books = ""
 +++

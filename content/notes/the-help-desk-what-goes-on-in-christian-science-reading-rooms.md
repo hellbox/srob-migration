@@ -17,7 +17,7 @@ twitterauto = ".@ciennam visited a Christian Science Reading Room and it got...a
 facebookauto = "While researching a reader's question, Cienna Madrid visited a Christian Science Reading Room and it got kind of awkward."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-what-goes-on-in-christian-science-reading-rooms.md"
+notes_tags = ["notes/the-help-desk-what-goes-on-in-christian-science-reading-rooms.md"]
 notes_about = ""
 books = ""
 +++

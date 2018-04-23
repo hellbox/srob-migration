@@ -17,7 +17,7 @@ twitterauto = "We talked with Margot Kahn about her new @SealPress anthology on 
 facebookauto = "We talked with Margot Kahn about her new Seal Press anthology on women and home."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-margot-kahn-about-women-and-home.md"
+notes_tags = ["notes/talking-with-margot-kahn-about-women-and-home.md"]
 notes_about = ["authors/margot-kahn.md"]
 books = ""
 +++

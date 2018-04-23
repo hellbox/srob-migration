@@ -17,7 +17,7 @@ twitterauto = "What's the bookselling secret weapon at Queen Anne Book Company? 
 facebookauto = "What's the bookselling secret weapon at Queen Anne Book Company? It's the back patio."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/every-bookstore-should-include-a-bit-of-the-great-outdoors.md"
+notes_tags = ["notes/every-bookstore-should-include-a-bit-of-the-great-outdoors.md"]
 notes_about = ""
 books = ""
 +++

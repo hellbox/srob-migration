@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Mohsin Hamid #portrait #illustration by @studio
 facebookauto = "Portrait Gallery: Mohsin Hamid"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-mohsin-hamid.md"
+notes_tags = ["notes/portrait-gallery-mohsin-hamid.md"]
 notes_about = ["authors/mohsin-hamid.md"]
 books = ""
 +++

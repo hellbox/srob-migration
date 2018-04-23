@@ -17,7 +17,7 @@ twitterauto = "Book news roundup features the Pepe-demption, a look at dystopian
 facebookauto = "Book news roundup features the Pepe-demption, a look at dystopian fiction, and Bill Gates's summer reading."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-pepe-demption-tour-continues.md"
+notes_tags = ["notes/book-news-roundup-the-pepe-demption-tour-continues.md"]
 notes_about = ""
 books = ""
 +++

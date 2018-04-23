@@ -17,7 +17,7 @@ twitterauto = "Head to @THSEA tonight for a discussion about the eruption of Mou
 facebookauto = "Tonight's must-attend literary event is the debut of a book about the human cost of the eruption of Mount St. Helens."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-monday-in-readings-just-a-couple-of-steves-talking-at-town-hall.md"
+notes_tags = ["notes/your-monday-in-readings-just-a-couple-of-steves-talking-at-town-hall.md"]
 notes_about = ["authors/steve-olson.md"]
 books = ""
 +++

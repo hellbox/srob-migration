@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup is a doozy, packed with scholarships, p
 facebookauto = "Today's Book News Roundup is a doozy, packed with scholarships, prizes, and residencies"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-opportunities-available-for-poets-cartoonists-sci-fi-writers-and-more.md"
+notes_tags = ["notes/book-news-roundup-opportunities-available-for-poets-cartoonists-sci-fi-writers-and-more.md"]
 notes_about = ["authors/brett-hamil.md", "authors/george-rr-martin.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "A new book by Zora Neale Hurston in 2018 means next year's guaran
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/new-zora-neale-hurston-book-to-be-released-in-2018.md"
+notes_tags = ["notes/new-zora-neale-hurston-book-to-be-released-in-2018.md"]
 notes_about = ""
 books = ""
 +++

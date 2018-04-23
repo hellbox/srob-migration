@@ -17,7 +17,7 @@ twitterauto = "Some idiot parents threatened to sue to stop a reading from a boo
 facebookauto = "Some idiot parents threatened to sue to stop a reading from a book about a transgender girl. Maybe this book ought to become a bestseller?"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/parents-threaten-to-sue-school-over-reading-from-childrens-book-about-a-transgender-girl.md"
+notes_tags = ["notes/parents-threaten-to-sue-school-over-reading-from-childrens-book-about-a-transgender-girl.md"]
 notes_about = ""
 books = ""
 +++

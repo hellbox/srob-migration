@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: My willpower is shot. How do I put down the phone 
 facebookauto = "Dear Cienna: My willpower is shot. How do I put down the phone and pick up a book?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-how-do-i-put-down-the-phone-and-pick-up-the-book.md"
+notes_tags = ["notes/the-help-desk-how-do-i-put-down-the-phone-and-pick-up-the-book.md"]
 notes_about = ""
 books = ""
 +++

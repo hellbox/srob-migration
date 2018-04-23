@@ -17,7 +17,7 @@ twitterauto = "The Circle is Dave Eggers's second-most influential book. It's no
 facebookauto = "The Circle is Dave Eggers's second-most influential book. It's not a great movie."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/an-imperfect-circle.md"
+notes_tags = ["notes/an-imperfect-circle.md"]
 notes_about = ""
 books = ""
 +++

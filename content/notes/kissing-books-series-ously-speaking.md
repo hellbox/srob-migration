@@ -17,7 +17,7 @@ twitterauto = "The first Kissing Books of the year is here! Join @O_Waite as she
 facebookauto = "The first Kissing Books of the year is here! Join Olivia Waite as she looks through some series."
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/kissing-books-series-ously-speaking.md"
+notes_tags = ["notes/kissing-books-series-ously-speaking.md"]
 notes_about = ""
 books = ""
 +++

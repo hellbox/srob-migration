@@ -17,7 +17,7 @@ twitterauto = "Novelist Shann Ray has a lot to say about forgiveness and the vio
 facebookauto = "Poet and novelist Shann Ray has a lot to say about forgiveness and the violence of literature from the American west."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-shann-ray-about-forgiveness-masculinity-and-the-violence-of-western-literature.md"
+notes_tags = ["notes/talking-with-shann-ray-about-forgiveness-masculinity-and-the-violence-of-western-literature.md"]
 notes_about = ["authors/shann-ray.md"]
 books = ["books/american-copper.md"]
 +++

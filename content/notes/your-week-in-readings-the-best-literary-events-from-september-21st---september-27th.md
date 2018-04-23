@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes a talk about dying languages, a st
 facebookauto = "Your week in readings includes a grunge guide, a standup comedian, and a rubbernecking opportunity featuring a once-huge author whose new novel seems very questionable."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-21st---september-27th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-21st---september-27th.md"]
 notes_about = ""
 books = ""
 +++

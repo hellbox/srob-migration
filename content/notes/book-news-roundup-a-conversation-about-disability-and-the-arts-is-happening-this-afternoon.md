@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup includes a late invitation to join a co
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-a-conversation-about-disability-and-the-arts-is-happening-this-afternoon.md"
+notes_tags = ["notes/book-news-roundup-a-conversation-about-disability-and-the-arts-is-happening-this-afternoon.md"]
 notes_about = ["authors/nicola-griffith.md", "authors/chester-brown.md"]
 books = ["books/mary-wept-over-the-feet-of-jesus.md"]
 +++

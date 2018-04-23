@@ -17,7 +17,7 @@ twitterauto = "Tickets for @seattleu's underrated Search for Meaning Festival ar
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/searching-for-meaning-tickets-are-available-now!.md"
+notes_tags = ["notes/searching-for-meaning-tickets-are-available-now!.md"]
 notes_about = ""
 books = ""
 +++

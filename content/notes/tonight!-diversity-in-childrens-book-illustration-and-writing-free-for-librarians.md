@@ -17,7 +17,7 @@ twitterauto = "Tonight! Learn about diversity in Children's books, free for libr
 facebookauto = "At the SCBWI meeting tonight, the focus will be on diversity in children's books, and the program is free for librarians."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/tonight!-diversity-in-childrens-book-illustration-and-writing-free-for-librarians.md"
+notes_tags = ["notes/tonight!-diversity-in-childrens-book-illustration-and-writing-free-for-librarians.md"]
 notes_about = ""
 books = ""
 +++

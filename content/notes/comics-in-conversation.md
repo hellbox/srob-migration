@@ -17,7 +17,7 @@ twitterauto = "Last night, @GWillowWilson and @FaithErinHicks had a great conver
 facebookauto = "Last night, G. Willow Wilson and Faith Erin Hicks had a great conversation about comics at Elliott Bay Book Company."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/comics-in-conversation.md"
+notes_tags = ["notes/comics-in-conversation.md"]
 notes_about = ["authors/faith-erin-hicks.md", "authors/g-willow-wilson.md"]
 books = ["books/the-nameless-city.md", "books/the-stone-heart.md"]
 +++

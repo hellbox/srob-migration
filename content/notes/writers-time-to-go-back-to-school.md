@@ -17,7 +17,7 @@ twitterauto = "Sponsor @mineralschool is going to be at @splbuzz to talk residen
 facebookauto = "Sponsor Mineral School is going to be at the Seattle Public Library to talk residencies in a few weeks"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/writers-time-to-go-back-to-school.md"
+notes_tags = ["notes/writers-time-to-go-back-to-school.md"]
 notes_about = ""
 books = ""
 +++

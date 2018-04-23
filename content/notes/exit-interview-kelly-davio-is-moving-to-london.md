@@ -17,7 +17,7 @@ twitterauto = "In our latest Exit Interview we talk with poet @kellydavio about 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/exit-interview-kelly-davio-is-moving-to-london.md"
+notes_tags = ["notes/exit-interview-kelly-davio-is-moving-to-london.md"]
 notes_about = ["authors/kelly-davio.md"]
 books = ["books/burn-this-house.md"]
 +++

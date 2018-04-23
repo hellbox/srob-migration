@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts watches a building being torn down. "
 facebookauto = "Seattle Writing Prompts watches a building being torn down. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-(de)construction.md"
+notes_tags = ["notes/seattle-writing-prompts-(de)construction.md"]
 notes_about = ""
 books = ""
 +++

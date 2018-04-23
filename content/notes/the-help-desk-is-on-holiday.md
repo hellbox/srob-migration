@@ -17,7 +17,7 @@ twitterauto = "If you have any book- or writing-related problems, send them to a
 facebookauto = "Our advice columnist, Cienna Madrid, will be off for the next two weeks. If you have any book- or writing-related problems, you can always reach Cienna through email: advice@seattlereviewofbooks.com."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-help-desk-is-on-holiday.md"
+notes_tags = ["notes/the-help-desk-is-on-holiday.md"]
 notes_about = ""
 books = ""
 +++

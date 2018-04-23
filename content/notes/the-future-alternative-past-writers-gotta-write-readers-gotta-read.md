@@ -17,7 +17,7 @@ twitterauto = "In this month's Future Alternative Past, @nisishawl looks at @doc
 facebookauto = "In this month's Future Alternative Past, Nisi Shawl looks at Cory Doctorow and Kim Stanley Robinson."
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/the-future-alternative-past-writers-gotta-write-readers-gotta-read.md"
+notes_tags = ["notes/the-future-alternative-past-writers-gotta-write-readers-gotta-read.md"]
 notes_about = ["authors/cory-doctorow.md", "authors/kim-stanley-robinson.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The next Reading Through It book club meets @ThirdPlaceBooks Sewa
 facebookauto = "Remember: The next Reading Through It book club meets at Third Place Books Seward Park on April 5th at 7 pm. We'll be discussing What We Do Now : Standing Up for Your Values in Trump's America."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/reminder-you-have-a-week-and-a-half-to-prepare-for-the-next-reading-through-it-book-club.md"
+notes_tags = ["notes/reminder-you-have-a-week-and-a-half-to-prepare-for-the-next-reading-through-it-book-club.md"]
 notes_about = ""
 books = ""
 +++

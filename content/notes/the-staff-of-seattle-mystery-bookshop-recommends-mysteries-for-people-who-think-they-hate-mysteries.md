@@ -17,7 +17,7 @@ twitterauto = "We asked the staff of @SeattleMystery to recommend some mysteries
 facebookauto = "We asked the staff of Seattle Mystery Bookshop to recommend some mysteries for people who think they don't like mysteries. Our to-read list just got a whole lot longer."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-staff-of-seattle-mystery-bookshop-recommends-mysteries-for-people-who-think-they-hate-mysteries.md"
+notes_tags = ["notes/the-staff-of-seattle-mystery-bookshop-recommends-mysteries-for-people-who-think-they-hate-mysteries.md"]
 notes_about = ""
 books = ""
 +++

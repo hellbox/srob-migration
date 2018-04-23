@@ -17,7 +17,7 @@ twitterauto = "Amazon's new ad probably delivers a much-needed message of religi
 facebookauto = "Amazon's new ad probably delivers a much-needed message of religious tolerance. Who can say?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/new-amazon-ad-is-probably-pretty-inspiring-though-i-wouldnt-know.md"
+notes_tags = ["notes/new-amazon-ad-is-probably-pretty-inspiring-though-i-wouldnt-know.md"]
 notes_about = ""
 books = ""
 +++

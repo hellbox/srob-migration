@@ -17,7 +17,7 @@ twitterauto = "He needs complete quiet to read. His boyfriend needs music to rea
 facebookauto = "In today's advice column: he needs complete quiet to read. His boyfriend needs music to read. Can this relationship be saved?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-the-high-cost-of-oonce-oonce-oonce-oonce.md"
+notes_tags = ["notes/the-help-desk-the-high-cost-of-oonce-oonce-oonce-oonce.md"]
 notes_about = ""
 books = ""
 +++

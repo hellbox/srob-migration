@@ -17,7 +17,7 @@ twitterauto = "The last Kickstarter Fund Project backs a bookbinder from Portlan
 facebookauto = "The last Kickstarter Fund Project backs a bookbinder from Portland, and her memoir of learning her craft in China."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/china-under-the-covers-goes-to-press---kickstarter-fund-project-52.md"
+notes_tags = ["notes/china-under-the-covers-goes-to-press---kickstarter-fund-project-52.md"]
 notes_about = ""
 books = ""
 +++

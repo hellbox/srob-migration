@@ -17,7 +17,7 @@ twitterauto = "A new series takes one of the ugliest, most cynical dystopian com
 facebookauto = "A new series takes one of the ugliest, most cynical dystopian comics and turns it on its head."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-flipping-the-bird-at-dystopian-cynicism.md"
+notes_tags = ["notes/thursday-comics-hangover-flipping-the-bird-at-dystopian-cynicism.md"]
 notes_about = ""
 books = ""
 +++

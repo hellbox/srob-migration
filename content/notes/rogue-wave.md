@@ -17,7 +17,7 @@ twitterauto = "Today's poem, by @songsforsquid, opens with \"A rogue wave of old
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/sierra-nelson.md"]
-notes_tags = "notes/rogue-wave.md"
+notes_tags = ["notes/rogue-wave.md"]
 notes_about = ""
 books = ""
 +++

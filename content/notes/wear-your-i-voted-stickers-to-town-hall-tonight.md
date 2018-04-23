@@ -17,7 +17,7 @@ twitterauto = "Upset about Seattle's poor election turnout? @THSEA hosts a very 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/wear-your-i-voted-stickers-to-town-hall-tonight.md"
+notes_tags = ["notes/wear-your-i-voted-stickers-to-town-hall-tonight.md"]
 notes_about = ["authors/ari-berman.md"]
 books = ["books/give-us-the-ballot.md"]
 +++

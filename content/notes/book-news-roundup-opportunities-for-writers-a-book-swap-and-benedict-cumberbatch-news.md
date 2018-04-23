@@ -17,7 +17,7 @@ twitterauto = "Book News Roundup features great opportunities from @SeattleArts,
 facebookauto = "Our Book News Roundup features a fun book swap happening tomorrow and some neat opportunities for writers."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-opportunities-for-writers-a-book-swap-and-benedict-cumberbatch-news.md"
+notes_tags = ["notes/book-news-roundup-opportunities-for-writers-a-book-swap-and-benedict-cumberbatch-news.md"]
 notes_about = ["authors/claudia-castro-luna.md"]
 books = ["books/this-city.md"]
 +++

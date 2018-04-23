@@ -17,7 +17,7 @@ twitterauto = "The alt-right vs. art, print vs. digital, and Mars vs. Earth in a
 facebookauto = "The alt-right vs. art, print vs. digital, and Mars vs. Earth in a highly conflicted Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-may-21-2017.md"
+notes_tags = ["notes/the-sunday-post-for-may-21-2017.md"]
 notes_about = ""
 books = ""
 +++

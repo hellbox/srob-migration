@@ -17,7 +17,7 @@ twitterauto = "Let's talk about the high physical cost of drawing comics."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-pain-of-art.md"
+notes_tags = ["notes/the-pain-of-art.md"]
 notes_about = ""
 books = ""
 +++

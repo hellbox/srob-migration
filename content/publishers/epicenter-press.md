@@ -10,5 +10,5 @@ last_updated = "2016-11-17T19:46:00-08:00"
 preview_url = "a92edc5c-68a1-4658-eed6-76dde31fa151"
 name = "Epicenter Press"
 title = "Epicenter Press"
-books_publisher = "publishers/epicenter-press.md"
+books_publisher = ["publishers/epicenter-press.md"]
 +++

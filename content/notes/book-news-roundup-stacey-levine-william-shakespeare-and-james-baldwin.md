@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup includes stories on Stacey Levine, Jame
 facebookauto = "Today's Book News Roundup includes stories on Stacey Levine, James Baldwin, and William Shakespeare."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-stacey-levine-william-shakespeare-and-james-baldwin.md"
+notes_tags = ["notes/book-news-roundup-stacey-levine-william-shakespeare-and-james-baldwin.md"]
 notes_about = ["authors/stacey-levine.md", "authors/james-baldwin.md"]
 books = ""
 +++

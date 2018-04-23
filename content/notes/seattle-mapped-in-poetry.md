@@ -17,7 +17,7 @@ twitterauto = "We can't stop investigating this poetry-centric map of Seattle."
 facebookauto = "We can't stop investigating this poetry-centric map of Seattle."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-mapped-in-poetry.md"
+notes_tags = ["notes/seattle-mapped-in-poetry.md"]
 notes_about = ["authors/claudia-castro-luna.md", "authors/richard-hugo.md", "authors/denise-levertov.md", "authors/julene-tripp-weaver.md", "authors/elizabeth-austen.md", "authors/lena-khalaf-tuffaha-.md"]
 books = ""
 +++

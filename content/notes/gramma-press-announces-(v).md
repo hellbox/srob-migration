@@ -17,7 +17,7 @@ twitterauto = "We can't wait to read this book from Gramma Press."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/gramma-press-announces-(v).md"
+notes_tags = ["notes/gramma-press-announces-(v).md"]
 notes_about = ["authors/anastacia-renee.md"]
 books = ""
 +++

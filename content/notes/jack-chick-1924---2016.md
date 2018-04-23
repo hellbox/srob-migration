@@ -17,7 +17,7 @@ twitterauto = "Evangelical cartoonist Jack Chick has reportedly died."
 facebookauto = "Evangelical cartoonist Jack Chick, of Chick Tracts fame, has reportedly died."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jack-chick-1924---2016.md"
+notes_tags = ["notes/jack-chick-1924---2016.md"]
 notes_about = ""
 books = ""
 +++

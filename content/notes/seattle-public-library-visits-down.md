@@ -17,7 +17,7 @@ twitterauto = "Why did Seattle Public Library attendance dip considerably betwee
 facebookauto = "Why did Seattle Public Library attendance dip considerably between 2011 and 2014?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-public-library-visits-down.md"
+notes_tags = ["notes/seattle-public-library-visits-down.md"]
 notes_about = ""
 books = ""
 +++

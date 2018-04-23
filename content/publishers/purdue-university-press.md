@@ -10,5 +10,5 @@ last_updated = "2016-11-29T10:04:00-08:00"
 preview_url = "9175e324-3564-b293-1c03-fdd63b656de9"
 name = "Purdue University Press"
 title = "Purdue University Press"
-books_publisher = "publishers/purdue-university-press.md"
+books_publisher = ["publishers/purdue-university-press.md"]
 +++

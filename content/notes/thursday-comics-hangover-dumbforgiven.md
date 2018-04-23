@@ -17,7 +17,7 @@ twitterauto = "Why would Netflix pay tens of millions to a comics writer who's n
 facebookauto = "Why would Netflix pay tens of millions of dollars to a comics writer who's never had an original idea in his life?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-dumbforgiven.md"
+notes_tags = ["notes/thursday-comics-hangover-dumbforgiven.md"]
 notes_about = ""
 books = ""
 +++

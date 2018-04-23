@@ -10,5 +10,5 @@ last_updated = "2017-08-04T23:07:00-07:00"
 preview_url = "9f59ba2f-5452-bf24-5c02-5a5cc3a3879f"
 name = "Sorry House"
 title = "Sorry House"
-books_publisher = "publishers/sorry-house.md"
+books_publisher = ["publishers/sorry-house.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "This week: Engage in conversation with a local luminary about a t
 facebookauto = "This week: Engage in conversation with a local luminary about a truly great novel."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-garth-steins-book-club.md"
+notes_tags = ["notes/literary-event-of-the-week-garth-steins-book-club.md"]
 notes_about = ["authors/garth-stein.md"]
 books = ""
 +++

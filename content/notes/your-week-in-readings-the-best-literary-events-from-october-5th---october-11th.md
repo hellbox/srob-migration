@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with @sarahglidden at @elliottbayboo
 facebookauto = "Your week in readings kicks off with Seattle cartoonist Sarah Glidden reading at Elliott Bay Book Company tonight!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-october-5th---october-11th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-october-5th---october-11th.md"]
 notes_about = ["authors/sarah-glidden.md"]
 books = ""
 +++

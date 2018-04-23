@@ -10,5 +10,5 @@ last_updated = "2015-10-24T13:22:00-07:00"
 preview_url = "47bca8cd-c830-c182-a39a-624fe39ae1ca"
 name = "Cave Moon Press"
 title = "Cave Moon Press"
-books_publisher = "publishers/cave-moon-press.md"
+books_publisher = ["publishers/cave-moon-press.md"]
 +++

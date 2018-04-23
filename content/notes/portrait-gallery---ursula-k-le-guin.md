@@ -17,7 +17,7 @@ twitterauto = "#UrsulaLeGuin is this week's Portrait Gallery by @studiochristine
 facebookauto = "Portrait Gallery! This week it's Ursula K. Le Guin"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery---ursula-k-le-guin.md"
+notes_tags = ["notes/portrait-gallery---ursula-k-le-guin.md"]
 notes_about = ""
 books = ""
 +++

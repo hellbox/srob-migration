@@ -17,7 +17,7 @@ twitterauto = "The week's links: @imjasondiamond's favorite books, @nlcoomes' fa
 facebookauto = "Drop in on the Sunday Post for articles by Jason Diamond on his favorite imprint, Nina Coombs on her favorite animated heroines, and Christopher Glazek on America's \"favorite\" drug.</p>"
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-october-22-2017.md"
+notes_tags = ["notes/the-sunday-post-for-october-22-2017.md"]
 notes_about = ""
 books = ""
 +++

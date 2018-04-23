@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @designersbooks latest amazing reprodu
 facebookauto = "The Kickstarter Fund backs a reproduction of an amazing piece of design and art history."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-bolted-book-facsimile-an-exact-copy-of-depero-futurista---kickstarter-fund-project-43.md"
+notes_tags = ["notes/the-bolted-book-facsimile-an-exact-copy-of-depero-futurista---kickstarter-fund-project-43.md"]
 notes_about = ""
 books = ""
 +++

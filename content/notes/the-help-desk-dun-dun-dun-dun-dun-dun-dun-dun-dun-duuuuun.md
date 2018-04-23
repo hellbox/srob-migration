@@ -17,7 +17,7 @@ twitterauto = "Our kid is overdosing on Star Wars! @ciennam, you're our only hop
 facebookauto = "Our advice columnist this week offers some reading suggestions for a kid who has overdosed on Star Wars."
 make_image_tweet = "True"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-dun-dun-dun-dun-dun-dun-dun-dun-dun-duuuuun.md"
+notes_tags = ["notes/the-help-desk-dun-dun-dun-dun-dun-dun-dun-dun-dun-duuuuun.md"]
 notes_about = ""
 books = ["books/dune.md", "books/wrinkle-in-time.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts crosses Elliott Avenue and the train trac
 facebookauto = "Seattle Writing Prompts crosses Elliott Avenue and the train tracks to take in the view. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-thomas-street-overpass.md"
+notes_tags = ["notes/seattle-writing-prompts-the-thomas-street-overpass.md"]
 notes_about = ""
 books = ""
 +++

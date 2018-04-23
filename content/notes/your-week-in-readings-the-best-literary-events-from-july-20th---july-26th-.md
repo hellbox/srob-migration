@@ -17,7 +17,7 @@ twitterauto = "Your week in readings features an Inside Amy Schumer writer and a
 facebookauto = "Your week in readings will take you all around town, from a conversation between Lindy West and the head writer of Inside Amy Schumer to the Rainier BAAMFest to a celebration of an underrated sci-fi genius downtown."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-july-20th---july-26th-.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-july-20th---july-26th-.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ""
 +++

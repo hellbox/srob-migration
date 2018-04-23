@@ -17,7 +17,7 @@ twitterauto = "Congratulations to @fantagraphics author Ed Piskor! Now when will
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hip-hop-the-animated-series.md"
+notes_tags = ["notes/hip-hop-the-animated-series.md"]
 notes_about = ["authors/ed-piskor.md", "authors/jim-woodring.md"]
 books = ""
 +++

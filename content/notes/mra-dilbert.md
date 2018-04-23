@@ -17,7 +17,7 @@ twitterauto = "Finally! Someone came up with a good use for a Dilbert cartoon."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/mra-dilbert.md"
+notes_tags = ["notes/mra-dilbert.md"]
 notes_about = ""
 books = ""
 +++

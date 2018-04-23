@@ -17,7 +17,7 @@ twitterauto = "Sponsor @entreriosbooks is back, on the two-hundredth anniversary
 facebookauto = "Sponsor Entre Rios Books is back, on the two-hundredth anniversary of a famous week, to talk about Shelley."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/two-hundred-years-ago-this-week-.md"
+notes_tags = ["notes/two-hundred-years-ago-this-week-.md"]
 notes_about = ["authors/percy-bysshe-shelley.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "This Saturday @FantaBookstore, immerse yourself in the creepy hor
 facebookauto = "This Saturday at the Fantagraphics Bookstore and Gallery, the creepy horror of Josh Simmons will be unleashed on the world."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-unexpected-terror-of-josh-simmons.md"
+notes_tags = ["notes/thursday-comics-hangover-the-unexpected-terror-of-josh-simmons.md"]
 notes_about = ["authors/tom-van-deusen.md", "authors/eroyn-franklin.md", "authors/ben-horak.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Are we about to enter the age of the celebrity editor? If so, thi
 facebookauto = "Are we about to enter the age of the celebrity editor? If so, this comic is a great start."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-passing-in-the-night.md"
+notes_tags = ["notes/thursday-comics-hangover-passing-in-the-night.md"]
 notes_about = ""
 books = ""
 +++

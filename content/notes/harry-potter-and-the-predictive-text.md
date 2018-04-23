@@ -17,7 +17,7 @@ twitterauto = "One day, robots will write books. And those books will likely sel
 facebookauto = "One day, robots will write books. And those books will likely sell pretty well."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/harry-potter-and-the-predictive-text.md"
+notes_tags = ["notes/harry-potter-and-the-predictive-text.md"]
 notes_about = ""
 books = ""
 +++

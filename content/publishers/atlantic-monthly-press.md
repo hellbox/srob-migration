@@ -10,5 +10,5 @@ last_updated = "2015-10-11T20:30:00-07:00"
 preview_url = "96cc9634-ebd4-766a-1e6d-016a9febf95d"
 name = "Atlantic Monthly Press"
 title = "Atlantic Monthly Press"
-books_publisher = "publishers/atlantic-monthly-press.md"
+books_publisher = ["publishers/atlantic-monthly-press.md"]
 +++

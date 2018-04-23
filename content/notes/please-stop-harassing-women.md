@@ -17,7 +17,7 @@ twitterauto = "Hey, men. Here's an idea: why don't you stop harassing women, oka
 facebookauto = "A male fan harassed a cartoonist, asking her to rub her vagina on a copy of her book before sending it to him. When the cartoonist called him out on Twitter, he got mad, saying there was nothing sexual about his request. Here's an idea: why don't men stop harassing women?"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/please-stop-harassing-women.md"
+notes_tags = ["notes/please-stop-harassing-women.md"]
 notes_about = ["authors/julia-wertz.md"]
 books = ""
 +++

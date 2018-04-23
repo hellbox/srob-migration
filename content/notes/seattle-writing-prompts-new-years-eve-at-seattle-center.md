@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts visits the space needle on New Year's Eve
 facebookauto = "Seattle Writing Prompts visits the space needle on New Year's Eve, 18 years ago. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-new-years-eve-at-seattle-center.md"
+notes_tags = ["notes/seattle-writing-prompts-new-years-eve-at-seattle-center.md"]
 notes_about = ""
 books = ""
 +++

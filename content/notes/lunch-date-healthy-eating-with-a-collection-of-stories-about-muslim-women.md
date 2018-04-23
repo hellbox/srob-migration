@@ -17,7 +17,7 @@ twitterauto = "We took a short story out to lunch and accidentally discovered th
 facebookauto = "We took a short story out to lunch and accidentally discovered the cure to the Northwest winter blues."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-healthy-eating-with-a-collection-of-stories-about-muslim-women.md"
+notes_tags = ["notes/lunch-date-healthy-eating-with-a-collection-of-stories-about-muslim-women.md"]
 notes_about = ["authors/randa-jarrar.md"]
 books = ["books/him-me-muhammad-ali.md"]
 +++

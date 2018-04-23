@@ -17,7 +17,7 @@ twitterauto = "Our thanks to Chatwin Books and Nicole Sarracco for their sponsor
 facebookauto = "Our thanks to Chatwin Books for their support in sponsoring the site. Take a look at three poems from Nicole Sarracco, on the site right now. "
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/be-sure-to-read-these-nicole-sarracco-poems.md"
+notes_tags = ["notes/be-sure-to-read-these-nicole-sarracco-poems.md"]
 notes_about = ""
 books = ""
 +++

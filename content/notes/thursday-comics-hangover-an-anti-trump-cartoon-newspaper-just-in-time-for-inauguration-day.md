@@ -17,7 +17,7 @@ twitterauto = "On Trump's inauguration day, protesters will hand out copies of a
 facebookauto = "On Donald Trump's inauguration day, protesters will hand out copies of a free newspaper full of comics by women."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-an-anti-trump-cartoon-newspaper-just-in-time-for-inauguration-day.md"
+notes_tags = ["notes/thursday-comics-hangover-an-anti-trump-cartoon-newspaper-just-in-time-for-inauguration-day.md"]
 notes_about = ["authors/tatiana-gill.md"]
 books = ""
 +++

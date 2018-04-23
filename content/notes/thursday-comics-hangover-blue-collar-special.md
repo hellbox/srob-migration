@@ -17,7 +17,7 @@ twitterauto = "Comics have taken up the blue-collar stories that modern literary
 facebookauto = "Comics have taken up the blue-collar stories that modern literary fiction has mostly abandoned."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-blue-collar-special.md"
+notes_tags = ["notes/thursday-comics-hangover-blue-collar-special.md"]
 notes_about = ""
 books = ""
 +++

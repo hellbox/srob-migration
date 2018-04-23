@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery! @iLuvvit painted by @studiochristine"
 facebookauto = "Portrait Gallery! Luvvie Ajayi painted by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-luvvie-ajayi.md"
+notes_tags = ["notes/portrait-gallery-luvvie-ajayi.md"]
 notes_about = ["authors/luvvie-ajayi.md"]
 books = ""
 +++

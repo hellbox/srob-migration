@@ -17,7 +17,7 @@ twitterauto = "Congratulations to all the 2016 Pulitzer Prizewinners!"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/2016-pulitzer-prizes-announced.md"
+notes_tags = ["notes/2016-pulitzer-prizes-announced.md"]
 notes_about = ""
 books = ""
 +++

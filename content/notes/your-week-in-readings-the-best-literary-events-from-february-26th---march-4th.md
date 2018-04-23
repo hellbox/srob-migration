@@ -17,7 +17,7 @@ twitterauto = "Your week in readings starts in pajamas and ends with tax assista
 facebookauto = "Your week in readings starts in pajamas and ends with tax assistance."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-26th---march-4th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-26th---march-4th.md"]
 notes_about = ""
 books = ""
 +++

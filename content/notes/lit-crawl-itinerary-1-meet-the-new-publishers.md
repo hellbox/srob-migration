@@ -17,7 +17,7 @@ twitterauto = "Getting ready for @LitCrawlSeattle? We're presenting possible iti
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary-1-meet-the-new-publishers.md"
+notes_tags = ["notes/lit-crawl-itinerary-1-meet-the-new-publishers.md"]
 notes_about = ["authors/elissa-washuta.md", "authors/ej-koh.md", "authors/matthew-simmons.md"]
 books = ["books/starvation-mode.md"]
 +++

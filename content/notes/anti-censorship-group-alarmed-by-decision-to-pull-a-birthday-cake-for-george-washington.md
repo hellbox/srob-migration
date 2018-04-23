@@ -17,7 +17,7 @@ twitterauto = "Is this censorship, or is it just choosing not to publish a flawe
 facebookauto = "The National Coalition Against Censorship says that when Scholastic stopped publishing A Birthday Cake for George Washington, they were committing censorship. But is that true?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/anti-censorship-group-alarmed-by-decision-to-pull-a-birthday-cake-for-george-washington.md"
+notes_tags = ["notes/anti-censorship-group-alarmed-by-decision-to-pull-a-birthday-cake-for-george-washington.md"]
 notes_about = ["authors/ramin-ganeshram.md"]
 books = ["books/a-birthday-cake-for-george-washington.md"]
 +++

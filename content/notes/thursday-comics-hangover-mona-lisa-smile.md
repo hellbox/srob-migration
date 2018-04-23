@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-mona-lisa-smile.md"
+notes_tags = ["notes/thursday-comics-hangover-mona-lisa-smile.md"]
 notes_about = ["authors/mike-allred.md"]
 books = ""
 +++

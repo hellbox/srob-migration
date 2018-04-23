@@ -17,7 +17,7 @@ twitterauto = "The new issue from sponsor @poetrynw is all about the visuals. La
 facebookauto = "The winter/spring issue of sponsor Poetry Northwest is all about visual poetry. Lay eyes on a couple of sample spreads here, then subscribe or find them at a nearby bookstore."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-winter-cento-courtesy-of-sponsor-poetry-northwest.md"
+notes_tags = ["notes/a-winter-cento-courtesy-of-sponsor-poetry-northwest.md"]
 notes_about = ""
 books = ["books/poetry-northwest-(winter-&-spring-2018).md"]
 +++

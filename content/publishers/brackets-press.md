@@ -10,5 +10,5 @@ last_updated = "2017-05-07T19:24:00-07:00"
 preview_url = "e174b9be-e313-18a1-9b97-0b38ba95bd1e"
 name = "Brackets Press"
 title = "Brackets Press"
-books_publisher = "publishers/brackets-press.md"
+books_publisher = ["publishers/brackets-press.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Publishers have been shut down in Turkey. Weak leaders will alway
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/to-the-worlds-shame-turkeys-government-shuts-down-presses-.md"
+notes_tags = ["notes/to-the-worlds-shame-turkeys-government-shuts-down-presses-.md"]
 notes_about = ""
 books = ""
 +++

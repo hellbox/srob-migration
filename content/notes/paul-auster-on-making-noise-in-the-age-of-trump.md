@@ -17,7 +17,7 @@ twitterauto = "We interviewed Paul Auster on the role of the writer in the age o
 facebookauto = "We interviewed Paul Auster on the role of the writer in the age of Donald Trump."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/paul-auster-on-making-noise-in-the-age-of-trump.md"
+notes_tags = ["notes/paul-auster-on-making-noise-in-the-age-of-trump.md"]
 notes_about = ["authors/paul-auster.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "This noir story set in Miami looks like it's drawn by Dan Clowes 
 facebookauto = "This noir story set in Miami looks like it's drawn by Dan Clowes and it features a delight on every page."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-miami-vice.md"
+notes_tags = ["notes/thursday-comics-hangover-miami-vice.md"]
 notes_about = ""
 books = ""
 +++

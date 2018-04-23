@@ -17,7 +17,7 @@ twitterauto = "Cartoonist Noel Franklin just won a GAP Grant from @artisttrust. 
 facebookauto = "Seattle cartoonist Noel Franklin just won a GAP Grant from Artist Trust. Here's what she's doing with the cash."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-cartoonist-noel-franklin-about-her-new-award-short-run-and-her-next-book.md"
+notes_tags = ["notes/talking-with-cartoonist-noel-franklin-about-her-new-award-short-run-and-her-next-book.md"]
 notes_about = ["authors/tom-hart.md"]
 books = ["books/rosalie-lightning.md"]
 +++

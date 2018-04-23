@@ -17,7 +17,7 @@ twitterauto = "Four poets @elliottbaybook and a chance to help an orphanage thro
 facebookauto = "Four poets at Elliott Bay Book Company and a chance to help an orphanage through poetry are this week's highlights."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-december-11---december-17.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-december-11---december-17.md"]
 notes_about = ""
 books = ""
 +++

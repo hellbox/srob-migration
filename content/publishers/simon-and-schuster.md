@@ -10,5 +10,5 @@ last_updated = "2016-04-07T23:06:00-07:00"
 preview_url = "9f0940a8-0121-e466-befe-6951caa2c626"
 name = "Simon and Schuster"
 title = "Simon and Schuster"
-books_publisher = "publishers/simon-and-schuster.md"
+books_publisher = ["publishers/simon-and-schuster.md"]
 +++

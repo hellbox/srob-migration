@@ -17,7 +17,7 @@ twitterauto = "A surprise find leads @RealPaulaBurke to a story about poetry, Se
 facebookauto = "Archeologist Paula Johnson Burke unearths the story of Shinjiro Honda, a Japanese immigrant to Seattle who launched a poetry movement before the internment."
 make_image_tweet = "True"
 notes_byline = ["writers/paula-johnson-burke.md"]
-notes_tags = "notes/the-story-locked-in-a-stone.md"
+notes_tags = ["notes/the-story-locked-in-a-stone.md"]
 notes_about = ["authors/shinjiro-honda.md"]
 books = ""
 +++

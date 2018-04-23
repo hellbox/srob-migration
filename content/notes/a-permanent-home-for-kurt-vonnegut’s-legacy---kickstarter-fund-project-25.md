@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @vonnegutlibrary this week."
 facebookauto = "We back the Kurt Vonnegut Memorial Library this week with the Kickstarter Fund."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/a-permanent-home-for-kurt-vonnegut’s-legacy---kickstarter-fund-project-25.md"
+notes_tags = ["notes/a-permanent-home-for-kurt-vonnegut’s-legacy---kickstarter-fund-project-25.md"]
 notes_about = ["authors/kurt-vonnegut.md"]
 books = ""
 +++

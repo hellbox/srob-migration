@@ -17,7 +17,7 @@ twitterauto = "We could use more bloggers."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-saw-the-best-minds-of-my-generation-destroyed-by-tv-episode-recaps.md"
+notes_tags = ["notes/i-saw-the-best-minds-of-my-generation-destroyed-by-tv-episode-recaps.md"]
 notes_about = ""
 books = ""
 +++

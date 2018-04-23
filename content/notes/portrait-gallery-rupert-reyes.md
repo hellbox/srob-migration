@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @rupertreyes #illustration by @studiochristine"
 facebookauto = "Portrait Gallery: Rupert Reyes"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-rupert-reyes.md"
+notes_tags = ["notes/portrait-gallery-rupert-reyes.md"]
 notes_about = ["authors/rupert-reyes.md"]
 books = ""
 +++

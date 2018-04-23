@@ -17,7 +17,7 @@ twitterauto = "At our book club last night, people kept confusing Putin for Trum
 facebookauto = "At our book club last night, people kept confusing Vladimir Putin for Donald Trump, and vice versa."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-autocrat-and-the-dilettante.md"
+notes_tags = ["notes/the-autocrat-and-the-dilettante.md"]
 notes_about = ["authors/masha-gessen.md"]
 books = ""
 +++

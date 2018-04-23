@@ -17,7 +17,7 @@ twitterauto = "We dropped in at the first @readerfest, and found a lot of heart 
 facebookauto = "We dropped in at the first Readerfest, and found a lot of heart on a cloudy Seattle Saturday."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/visiting-the-first-readerfest.md"
+notes_tags = ["notes/visiting-the-first-readerfest.md"]
 notes_about = ["authors/nancy-kress.md", "authors/nicole-dieker.md", "authors/nisi-shawl.md"]
 books = ""
 +++

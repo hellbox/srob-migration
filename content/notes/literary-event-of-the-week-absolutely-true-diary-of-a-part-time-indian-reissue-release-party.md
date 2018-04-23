@@ -17,7 +17,7 @@ twitterauto = "When Sherman Alexie reads, you had better show up."
 facebookauto = "When Sherman Alexie reads, you had better show up. Especially now."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-absolutely-true-diary-of-a-part-time-indian-reissue-release-party.md"
+notes_tags = ["notes/literary-event-of-the-week-absolutely-true-diary-of-a-part-time-indian-reissue-release-party.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ["books/absolutely-true-diary-of-a-part-time-indian.md", "books/you-dont-have-to-say-you-love-me.md"]
 +++

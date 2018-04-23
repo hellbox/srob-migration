@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/madeline-defrees.md"]
-notes_tags = "notes/going-back-to-the-convent.md"
+notes_tags = ["notes/going-back-to-the-convent.md"]
 notes_about = ""
 books = ""
 +++

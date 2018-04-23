@@ -17,7 +17,7 @@ twitterauto = "Your week in readings features a presidential biography, a craft 
 facebookauto = "We choose one awesome event for every day of the week. Our picks this week include a true crime book, a presidential biography, and Urban Craft Uprising. Plus: the proverbial more!"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-nov-30---dec-6.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-nov-30---dec-6.md"]
 notes_about = ["authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

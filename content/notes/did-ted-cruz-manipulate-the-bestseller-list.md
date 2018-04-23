@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/did-ted-cruz-manipulate-the-bestseller-list.md"
+notes_tags = ["notes/did-ted-cruz-manipulate-the-bestseller-list.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "This month's Criminal Fiction, from @daneetsteffens, features  @C
 facebookauto = "This month's Criminal Fiction, from Daneet Steffens, features  Chevy Stevens, JA Jance, and others..."
 make_image_tweet = "True"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-the-nerve-jangling-opposite-of-the-proverbial-funny-bone.md"
+notes_tags = ["notes/criminal-fiction-the-nerve-jangling-opposite-of-the-proverbial-funny-bone.md"]
 notes_about = ["authors/ja-jance.md", "authors/brad-parks.md", "authors/fred-vargas.md", "authors/si\u00e2n-reynolds.md", "authors/sally-andrew.md", "authors/chevy-stevens.md"]
 books = ""
 +++

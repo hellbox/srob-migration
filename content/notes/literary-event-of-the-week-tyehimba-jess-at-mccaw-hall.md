@@ -17,7 +17,7 @@ twitterauto = "Our literary event of the week is Tyehimba Jess reading at McCaw 
 facebookauto = "Our literary event of the week is Tyehimba Jess reading at McCaw Hall this Sunday."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-tyehimba-jess-at-mccaw-hall.md"
+notes_tags = ["notes/literary-event-of-the-week-tyehimba-jess-at-mccaw-hall.md"]
 notes_about = ""
 books = ""
 +++

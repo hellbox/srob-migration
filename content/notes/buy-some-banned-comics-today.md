@@ -17,7 +17,7 @@ twitterauto = "Here are some banned comic books for you to buy. At least one of 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/buy-some-banned-comics-today.md"
+notes_tags = ["notes/buy-some-banned-comics-today.md"]
 notes_about = ""
 books = ""
 +++

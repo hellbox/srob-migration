@@ -17,7 +17,7 @@ twitterauto = "With Porchlit, local writers share a new piece of writing every d
 facebookauto = "With Porchlit, local writers share a new piece of writing every day from the porch of a house in Little Saigon."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/you-can-hear-the-whole-city-from-the-porch-at-12th-ave-s-and-s-king-st.md"
+notes_tags = ["notes/you-can-hear-the-whole-city-from-the-porch-at-12th-ave-s-and-s-king-st.md"]
 notes_about = ["authors/elissa-washuta.md", "authors/tess-gallagher.md", "authors/stacey-levine.md"]
 books = ""
 +++

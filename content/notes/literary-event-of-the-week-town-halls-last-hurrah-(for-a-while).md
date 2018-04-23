@@ -17,7 +17,7 @@ twitterauto = "Say see-you-later to @THSea with an all-day party designed to sen
 facebookauto = "This Friday, Town Hall is throwing a huge all-day party before closing for renovations. It's a chance to make your mark on one of Seattle's most beloved venues."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-town-halls-last-hurrah-(for-a-while).md"
+notes_tags = ["notes/literary-event-of-the-week-town-halls-last-hurrah-(for-a-while).md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "And the finalists for the 2017 Washington State Book Awards are..
 facebookauto = "And the finalists for the 2017 Washington State Book Awards are..."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/2017-washington-state-book-awards-finalists-announced.md"
+notes_tags = ["notes/2017-washington-state-book-awards-finalists-announced.md"]
 notes_about = ["authors/lindy-west.md", "authors/eli-sanders.md", "authors/matt-ruff.md", "authors/don-mee-choi.md"]
 books = ["books/shrill.md", "books/while-the-city-slept.md", "books/lovecraft-country.md"]
 +++

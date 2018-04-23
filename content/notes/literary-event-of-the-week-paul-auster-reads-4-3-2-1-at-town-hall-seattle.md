@@ -17,7 +17,7 @@ twitterauto = "This week, Paul Auster reads @THSEA. This is a big damn deal."
 facebookauto = "Paul Auster is coming to Town Hall Seattle this week. His newest novel, about a life running on four alternate tracks, is as big and ambitious as anything he's ever attempted in his career."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-paul-auster-reads-4-3-2-1-at-town-hall-seattle.md"
+notes_tags = ["notes/literary-event-of-the-week-paul-auster-reads-4-3-2-1-at-town-hall-seattle.md"]
 notes_about = ""
 books = ""
 +++

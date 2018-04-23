@@ -17,7 +17,7 @@ twitterauto = "Bookstore sales were up 2.5% in 2015\u2014the first increase sinc
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lets-end-the-week-on-an-up-note.md"
+notes_tags = ["notes/lets-end-the-week-on-an-up-note.md"]
 notes_about = ""
 books = ""
 +++

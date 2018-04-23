@@ -17,7 +17,7 @@ twitterauto = "In her report on Bauhaus's closures, @BJeanClement raises questio
 facebookauto = "The Bauhaus coffee chain seems to be closing down. What does that mean for the future of Twice Sold Tales in Ballard, which is subleasing from the Ballard Bauhaus?"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/anybody-have-some-space-to-sublet-in-ballard.md"
+notes_tags = ["notes/anybody-have-some-space-to-sublet-in-ballard.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Memoirs from the Obamas are likely to be published by Penguin Ran
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/obama-memoirs-coming-from-penguin-random-house.md"
+notes_tags = ["notes/obama-memoirs-coming-from-penguin-random-house.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "That Lionel Shriver speech about cultural appropriation that's go
 facebookauto = "That Lionel Shriver speech about cultural appropriation that's going around? Yeah, it's pretty dumb."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/on-lionel-shriver-and-cultural-appropriation-in-fiction.md"
+notes_tags = ["notes/on-lionel-shriver-and-cultural-appropriation-in-fiction.md"]
 notes_about = ["authors/g-willow-wilson.md", "authors/lionel-shriver.md"]
 books = ""
 +++

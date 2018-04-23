@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post, with pieces from: @jiatolentino, @SofiaSamatar, 
 facebookauto = "The end of the great male writing instructor, the words of fantasy, words with the most famous drag queen in the world, and sons relating to fathers, all in today's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-april-3-2016.md"
+notes_tags = ["notes/the-sunday-post-for-april-3-2016.md"]
 notes_about = ""
 books = ""
 +++

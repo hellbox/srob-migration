@@ -17,7 +17,7 @@ twitterauto = "Our friends @seattlish report that someone is suing Emerald City 
 facebookauto = "Our friends at Seattlish are reporting that someone is suing Emerald City Comicon for not paying its volunteers."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/class-action-lawsuit-filed-against-emerald-city-comicon-for-not-paying-its-volunteers.md"
+notes_tags = ["notes/class-action-lawsuit-filed-against-emerald-city-comicon-for-not-paying-its-volunteers.md"]
 notes_about = ""
 books = ""
 +++

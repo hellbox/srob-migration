@@ -17,7 +17,7 @@ twitterauto = "The star of Mystery Girl knows everything, and she's still a nice
 facebookauto = "Mystery Girl is a comic about a woman of color who knows everything, and uses that knowledge to solve mysteries. It's absolutely charming."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-know-it-all.md"
+notes_tags = ["notes/thursday-comics-hangover-the-know-it-all.md"]
 notes_about = ""
 books = ""
 +++

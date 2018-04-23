@@ -17,7 +17,7 @@ twitterauto = "Our sponsor Donald Kentop wrote a fascinating, engaged, beautiful
 facebookauto = "Our sponsor Donald Kentop wrote a fascinating, engaged, beautiful history of a tragic event. Join him tomorrow at the Seattle Public Library Ballard Branch, and through tomorrow, read two poems from his work Frozen by Fire on our site."
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-day-left-to-see-donald-kentops-frozen-by-fire.md"
+notes_tags = ["notes/one-day-left-to-see-donald-kentops-frozen-by-fire.md"]
 notes_about = ["authors/donald-kentop.md"]
 books = ["books/frozen-by-fire.md"]
 +++

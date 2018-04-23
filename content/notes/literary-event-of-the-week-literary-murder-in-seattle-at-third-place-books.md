@@ -17,7 +17,7 @@ twitterauto = "Tonight, a mystery author and a city walks expert discuss the bes
 facebookauto = "Tonight, a mystery author and a city walks expert discuss the best places in Seattle to commit murder."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-literary-murder-in-seattle-at-third-place-books.md"
+notes_tags = ["notes/literary-event-of-the-week-literary-murder-in-seattle-at-third-place-books.md"]
 notes_about = ["authors/david-b-williams.md"]
 books = ""
 +++

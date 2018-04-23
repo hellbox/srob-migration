@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/our-thanks-to-sponsor-darin-bradley.md"
+notes_tags = ["notes/our-thanks-to-sponsor-darin-bradley.md"]
 notes_about = ""
 books = ""
 +++

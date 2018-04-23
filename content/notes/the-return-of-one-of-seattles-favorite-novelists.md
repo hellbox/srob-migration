@@ -17,7 +17,7 @@ twitterauto = "Sponsor Maria Semple is appearing October 8th at @THSEA presented
 facebookauto = "Sponsor Maria Semple is appearing October 8th at Town Hall, presented by the Elliott Bay Book Company \u2014 grab your tickets today!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-return-of-one-of-seattles-favorite-novelists.md"
+notes_tags = ["notes/the-return-of-one-of-seattles-favorite-novelists.md"]
 notes_about = ["authors/maria-semple.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery time! Today @studiochristine paints Red Pine's b
 facebookauto = "Christine Marie Larsen's portrait gallery this week is a great image of Washington poet and writer Red Pine. Check out that beard!"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-red-pine.md"
+notes_tags = ["notes/portrait-gallery-red-pine.md"]
 notes_about = ["authors/red-pine.md"]
 books = ""
 +++

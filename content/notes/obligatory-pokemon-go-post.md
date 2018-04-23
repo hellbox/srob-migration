@@ -17,7 +17,7 @@ twitterauto = "After #PokemonGo, who's going to write the first augmented realit
 facebookauto = "Someday soon, someone is going to use the technology behind Pokemon Go to write a novel. Hopefully, that person will be from Seattle."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/obligatory-pokemon-go-post.md"
+notes_tags = ["notes/obligatory-pokemon-go-post.md"]
 notes_about = ""
 books = ""
 +++

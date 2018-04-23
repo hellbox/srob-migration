@@ -17,7 +17,7 @@ twitterauto = ".@ciennam settles a bet: Is technology making us more illiterate,
 facebookauto = "Is technology making us more illiterate, or are we reading more than ever? Our advice columnist settles a reader bet."
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-is-we-getting-more-illiterater.md"
+notes_tags = ["notes/the-help-desk-is-we-getting-more-illiterater.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Stop by for speculative political satire from sponsor @JoePonepin
 facebookauto = "Lighten your Monday with a little speculative political satire from sponsor Joe Ponepinto \u2014\u00a0then hear him read from his latest novel at King's Books in Tacoma in March or Elliott Bay Books in July. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-death-of-reason.md"
+notes_tags = ["notes/the-death-of-reason.md"]
 notes_about = ["authors/joe-ponepinto.md"]
 books = ["books/mr-neutron.md"]
 +++

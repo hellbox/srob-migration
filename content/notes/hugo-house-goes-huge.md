@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hugo-house-goes-huge.md"
+notes_tags = ["notes/hugo-house-goes-huge.md"]
 notes_about = ["authors/jonathan-lethem.md", "authors/heidi-julavits.md", "authors/dinaw-mengestu.md", "authors/maggie-nelson.md", "authors/susan-orlean.md", "authors/maged-zaher.md", "authors/sierra-nelson.md", "authors/sarah-galvin.md", "authors/peter-mountford.md"]
 books = ""
 +++

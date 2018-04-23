@@ -17,7 +17,7 @@ twitterauto = "Don't miss the chance to apply for a residency at the Mineral Sch
 facebookauto = "Don't miss the chance to apply for a residency at the Mineral School, our sponsor this week."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/applications-for-2018-mineral-school-residencies-are-open!.md"
+notes_tags = ["notes/applications-for-2018-mineral-school-residencies-are-open!.md"]
 notes_about = ""
 books = ""
 +++

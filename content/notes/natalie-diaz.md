@@ -17,7 +17,7 @@ twitterauto = "#Portrait Gallery: @NatalieGDiaz Tonight! @HugoHouse Poetry Acros
 facebookauto = "Poet Natalie Diaz painted by Christine Marie Larsen. Reading"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/natalie-diaz.md"
+notes_tags = ["notes/natalie-diaz.md"]
 notes_about = ""
 books = ""
 +++

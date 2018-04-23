@@ -17,7 +17,7 @@ twitterauto = "Sponsor @SeaArtsLectures is back with their amazing 2016/17 Seaso
 facebookauto = "Sponsor Seattle Arts & Lectures is back with their amazing 2016/17 Season"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/seattle-arts-&-lectures-amazing-2016--17-season.md"
+notes_tags = ["notes/seattle-arts-&-lectures-amazing-2016--17-season.md"]
 notes_about = ""
 books = ""
 +++

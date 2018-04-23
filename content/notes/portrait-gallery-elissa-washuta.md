@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Elissa Washuta @misswashuta painted by @studioc
 facebookauto = "Portrait Gallery: Elissa Washuta painted by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-elissa-washuta.md"
+notes_tags = ["notes/portrait-gallery-elissa-washuta.md"]
 notes_about = ["authors/elissa-washuta.md"]
 books = ""
 +++

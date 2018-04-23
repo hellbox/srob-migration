@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem \"Zac shares an acute observation\" is from @lio
 facebookauto = "Our Tuesday Poem \"Zac shares an acute observation\" is from Matthew Schnirman"
 make_image_tweet = "False"
 notes_byline = ["writers/matthew-schnirman.md"]
-notes_tags = "notes/zac-shares-an-acute-observation.md"
+notes_tags = ["notes/zac-shares-an-acute-observation.md"]
 notes_about = ""
 books = ""
 +++

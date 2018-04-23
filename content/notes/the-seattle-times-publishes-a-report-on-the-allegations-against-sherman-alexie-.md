@@ -17,7 +17,7 @@ twitterauto = "The Seattle Times has published a report on the allegations again
 facebookauto = "The Seattle Times has published a report on the allegations against Sherman Alexie."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-seattle-times-publishes-a-report-on-the-allegations-against-sherman-alexie-.md"
+notes_tags = ["notes/the-seattle-times-publishes-a-report-on-the-allegations-against-sherman-alexie-.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/litsa-dremousis.md"]
 books = ""
 +++

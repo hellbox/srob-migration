@@ -17,7 +17,7 @@ twitterauto = ".@stevenarntson remembers the great James McPherson, who passed a
 facebookauto = "Seattle writer Steven Arntson remembers the great James McPherson, who passed away last month, with a beautiful essay."
 make_image_tweet = "True"
 notes_byline = ["writers/steven-arntson.md"]
-notes_tags = "notes/remembering-james-alan-mcpherson.md"
+notes_tags = ["notes/remembering-james-alan-mcpherson.md"]
 notes_about = ["authors/steven-arntson.md", "authors/james-alan-mcpherson.md", "authors/ta-nehisi-coates.md", "authors/ralph-ellison.md"]
 books = ""
 +++

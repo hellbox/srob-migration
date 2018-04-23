@@ -17,7 +17,7 @@ twitterauto = "What's @queenannebookco superstar bookseller @ttigani been recomm
 facebookauto = "We interviewed superstar Queen Anne Book Company bookseller Tegan Tigani about what she's been recommending lately."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/queen-anne-book-companys-tegan-tigani-is-a-bookselling-celebrity.md"
+notes_tags = ["notes/queen-anne-book-companys-tegan-tigani-is-a-bookselling-celebrity.md"]
 notes_about = ""
 books = ""
 +++

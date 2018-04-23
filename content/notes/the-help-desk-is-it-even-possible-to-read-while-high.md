@@ -17,7 +17,7 @@ twitterauto = "Does @fantagraphics make the best books for stoners?"
 facebookauto = "Today, maybe the most useful Help Desk of all time: what should you do if you love books and you love pot, but you just can't read while high?"
 make_image_tweet = "True"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-is-it-even-possible-to-read-while-high.md"
+notes_tags = ["notes/the-help-desk-is-it-even-possible-to-read-while-high.md"]
 notes_about = ["authors/jim-woodring.md"]
 books = ""
 +++

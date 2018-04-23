@@ -17,7 +17,7 @@ twitterauto = "The good people @ShelfAwareness continue to raise important quest
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-books-continues-to-raise-questions.md"
+notes_tags = ["notes/amazon-books-continues-to-raise-questions.md"]
 notes_about = ""
 books = ""
 +++

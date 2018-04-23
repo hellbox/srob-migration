@@ -17,7 +17,7 @@ twitterauto = "Mail Call!"
 facebookauto = "Mail Call!"
 make_image_tweet = "True"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/mail-call-for-june-21-2016.md"
+notes_tags = ["notes/mail-call-for-june-21-2016.md"]
 notes_about = ""
 books = ""
 +++

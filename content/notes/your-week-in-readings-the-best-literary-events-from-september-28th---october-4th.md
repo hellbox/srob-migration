@@ -17,7 +17,7 @@ twitterauto = "Here's one great reading for every night of the week."
 facebookauto = "Your week in readings includes a grief ritual, a writing class, and a discussion about censorship."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-28th---october-4th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-28th---october-4th.md"]
 notes_about = ""
 books = ""
 +++

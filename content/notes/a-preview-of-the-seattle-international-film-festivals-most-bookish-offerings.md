@@ -17,7 +17,7 @@ twitterauto = "Are you excited for @SIFFnews? Here are some of the best bookish 
 facebookauto = "Are you excited for the Seattle International Film Festival? Here are some of the best bookish movies of the fest. (Spoiler alert; there's a lot of Roald Dahl.)"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-preview-of-the-seattle-international-film-festivals-most-bookish-offerings.md"
+notes_tags = ["notes/a-preview-of-the-seattle-international-film-festivals-most-bookish-offerings.md"]
 notes_about = ""
 books = ""
 +++

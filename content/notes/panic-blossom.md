@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/melanie-noel.md"]
-notes_tags = "notes/panic-blossom.md"
+notes_tags = ["notes/panic-blossom.md"]
 notes_about = ""
 books = ""
 +++

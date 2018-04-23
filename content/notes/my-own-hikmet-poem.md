@@ -17,7 +17,7 @@ twitterauto = "Poet in Residence @karywayson's second piece for us is called \"M
 facebookauto = "Poet in Residence Kary Wayson's second piece for us is called \"My Own Hikmet Poem\""
 make_image_tweet = "False"
 notes_byline = ["writers/kary-wayson.md"]
-notes_tags = "notes/my-own-hikmet-poem.md"
+notes_tags = ["notes/my-own-hikmet-poem.md"]
 notes_about = ""
 books = ""
 +++

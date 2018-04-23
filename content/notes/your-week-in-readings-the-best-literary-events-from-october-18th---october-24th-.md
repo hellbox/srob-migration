@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings includes a kidnapping and a well-researched
 facebookauto = "Your Week in Readings includes a kidnapping and a well-researched novel about a vivisectionist."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-october-18th---october-24th-.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-october-18th---october-24th-.md"]
 notes_about = ""
 books = ""
 +++

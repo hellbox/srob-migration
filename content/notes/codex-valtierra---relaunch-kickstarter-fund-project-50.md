@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs an awesome, illustrated Aztec revenge 
 facebookauto = "The Kickstarter Fund backs an awesome, illustrated Aztec revenge fantasy"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/codex-valtierra---relaunch-kickstarter-fund-project-50.md"
+notes_tags = ["notes/codex-valtierra---relaunch-kickstarter-fund-project-50.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Why won't @thestranger pay a young writer for their work?"
 facebookauto = "An update to yesterday's story: why won't The Stranger pay a young writer for their work?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/why-wont-the-stranger-pay-a-young-writer-for-their-work.md"
+notes_tags = ["notes/why-wont-the-stranger-pay-a-young-writer-for-their-work.md"]
 notes_about = ""
 books = ""
 +++

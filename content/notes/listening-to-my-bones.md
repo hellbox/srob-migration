@@ -17,7 +17,7 @@ twitterauto = "Joan Swift is our April Poet in Residence, in memoriam. "
 facebookauto = "Joan Swift is our April Poet in Residence, in memoriam."
 make_image_tweet = "False"
 notes_byline = ["writers/joan-swift.md"]
-notes_tags = "notes/listening-to-my-bones.md"
+notes_tags = ["notes/listening-to-my-bones.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Tonight is the launch party for Thick as Thieves, a new Seattle-a
 facebookauto = "Tonight is the launch party for Thick as Thieves, a new Seattle-area comics anthology inspired in part by the great comics that were part of Intruder."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/can-the-intruder-community-remain-as-thick-as-thieves.md"
+notes_tags = ["notes/can-the-intruder-community-remain-as-thick-as-thieves.md"]
 notes_about = ""
 books = ""
 +++

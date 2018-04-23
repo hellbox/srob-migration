@@ -17,7 +17,7 @@ twitterauto = "This week, try Dungeons & Dragons, drinking with sci-fi authors, 
 facebookauto = "This week in literary events: a chance to try Dungeons & Dragons, a swashbuckling sci-fi reading at a bar, an anthology of journalism featuring great Seattle non-fiction authors, and more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-august-24th---august-30th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-august-24th---august-30th.md"]
 notes_about = ["authors/sarah-glidden.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our August Bookstore of the Month is @SecretGardenBks!"
 facebookauto = "Secret Garden Books was founded 39 years ago. Along the way it's moved twice, started carrying adult books, and always employed exactly one male bookseller on its staff. It has always had the clickety-clackety brick floor at the front of the store."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/augusts-bookstore-of-the-month-is-secret-garden-books.md"
+notes_tags = ["notes/augusts-bookstore-of-the-month-is-secret-garden-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle's superheroes and superpowers in this week's Sunday Post 
 facebookauto = "Seattle's superheroes and superpowers in this week's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-may-7-2017.md"
+notes_tags = ["notes/the-sunday-post-for-may-7-2017.md"]
 notes_about = ""
 books = ""
 +++

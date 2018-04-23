@@ -17,7 +17,7 @@ twitterauto = "A new essay says reading Fight Club in 2016 is a \"chilling\" exp
 facebookauto = "A new essay says reading Fight Club in 2016 is a \"chilling\" experience that reveals where today's trolls, Trumpers, and Gamergaters were born."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/of-fight-club-and-fascism.md"
+notes_tags = ["notes/of-fight-club-and-fascism.md"]
 notes_about = ""
 books = ""
 +++

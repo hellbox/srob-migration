@@ -17,7 +17,7 @@ twitterauto = "Sponsor @hellbox just made his entire novel @cal4oclock free to r
 facebookauto = "Sponsor Martin McClellan just made his entire novel California Four O'Clock free to read online!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/pin-ups-from-the-50s-advertising-from-the-future.md"
+notes_tags = ["notes/pin-ups-from-the-50s-advertising-from-the-future.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Today we offer you a Christmas ghost story, titled \"Keys\", by @
 facebookauto = "On Christmas, we offer a Christmas ghost story for you, titled \"Keys\""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/keys.md"
+notes_tags = ["notes/keys.md"]
 notes_about = ""
 books = ""
 +++

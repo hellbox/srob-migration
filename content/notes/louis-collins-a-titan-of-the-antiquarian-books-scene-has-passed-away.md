@@ -17,7 +17,7 @@ twitterauto = "Sad news: Louis Collins, a titan of the antiquarian books scene, 
 facebookauto = "Sad news: Louis Collins, a titan of the antiquarian books scene, has passed away."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/louis-collins-a-titan-of-the-antiquarian-books-scene-has-passed-away.md"
+notes_tags = ["notes/louis-collins-a-titan-of-the-antiquarian-books-scene-has-passed-away.md"]
 notes_about = ""
 books = ""
 +++

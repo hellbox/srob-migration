@@ -17,7 +17,7 @@ twitterauto = "The National Book Critics Circle Awards have been announced, and 
 facebookauto = "The National Book Critics Circle Awards have been announced, and there are some damn fine books on the list."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/2016-national-book-critics-circle-awards-announced.md"
+notes_tags = ["notes/2016-national-book-critics-circle-awards-announced.md"]
 notes_about = ["authors/maggie-nelson.md"]
 books = ["books/the-argonauts.md"]
 +++

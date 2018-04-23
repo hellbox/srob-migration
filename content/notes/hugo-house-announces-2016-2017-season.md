@@ -17,7 +17,7 @@ twitterauto = "There's something for everyone in the @HugoHouse's 2016-2017 cale
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hugo-house-announces-2016-2017-season.md"
+notes_tags = ["notes/hugo-house-announces-2016-2017-season.md"]
 notes_about = ["authors/mattilda-bernstein-sycamore.md", "authors/ed-skoog.md", "authors/megan-kruse.md"]
 books = ""
 +++

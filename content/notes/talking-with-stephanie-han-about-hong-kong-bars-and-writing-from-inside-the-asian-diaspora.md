@@ -17,7 +17,7 @@ twitterauto = "\"Americans idealize the extrovert\" \u2014\u00a0Renee Simms talk
 facebookauto = "\"Americans idealize the extrovert\" \u2014\u00a0Renee Simms talks with Stephanie Han in this wonderful, long interview"
 make_image_tweet = "False"
 notes_byline = ["writers/renee-simms.md"]
-notes_tags = "notes/talking-with-stephanie-han-about-hong-kong-bars-and-writing-from-inside-the-asian-diaspora.md"
+notes_tags = ["notes/talking-with-stephanie-han-about-hong-kong-bars-and-writing-from-inside-the-asian-diaspora.md"]
 notes_about = ["authors/stephanie-han.md"]
 books = ""
 +++

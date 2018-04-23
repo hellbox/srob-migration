@@ -17,7 +17,7 @@ twitterauto = "You get to be a fly on the wall of this conversation between Neal
 facebookauto = "You get to be a fly on the wall of this conversation between Neal Stephenson and Andy Weir."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-artemis-reading-at-third-place-books.md"
+notes_tags = ["notes/literary-event-of-the-week-artemis-reading-at-third-place-books.md"]
 notes_about = ["authors/neal-stephenson.md"]
 books = ["books/seveneves.md"]
 +++

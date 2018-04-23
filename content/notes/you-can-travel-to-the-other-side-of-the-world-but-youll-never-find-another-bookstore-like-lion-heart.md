@@ -17,7 +17,7 @@ twitterauto = "You can travel to the other side of the world, but you'll never f
 facebookauto = "You can travel to the other side of the world, but you'll never find another shop like our Bookstore of the Month, Lion Heart Books."
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/you-can-travel-to-the-other-side-of-the-world-but-youll-never-find-another-bookstore-like-lion-heart.md"
+notes_tags = ["notes/you-can-travel-to-the-other-side-of-the-world-but-youll-never-find-another-bookstore-like-lion-heart.md"]
 notes_about = ["authors/barbara-kingsolver.md"]
 books = ""
 +++

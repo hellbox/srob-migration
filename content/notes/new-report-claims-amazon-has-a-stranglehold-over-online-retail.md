@@ -17,7 +17,7 @@ twitterauto = "A new report claims that Amazon captures \"nearly $1 in every $2 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/new-report-claims-amazon-has-a-stranglehold-over-online-retail.md"
+notes_tags = ["notes/new-report-claims-amazon-has-a-stranglehold-over-online-retail.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Rarely has a book about books felt so un-literary."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-a-library-full-of-empty-books.md"
+notes_tags = ["notes/thursday-comics-hangover-a-library-full-of-empty-books.md"]
 notes_about = ""
 books = ""
 +++

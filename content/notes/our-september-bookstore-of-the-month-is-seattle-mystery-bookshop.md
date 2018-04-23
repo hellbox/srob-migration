@@ -17,7 +17,7 @@ twitterauto = "Meet our Bookstore of the Month for September, @SeattleMystery!"
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/our-september-bookstore-of-the-month-is-seattle-mystery-bookshop.md"
+notes_tags = ["notes/our-september-bookstore-of-the-month-is-seattle-mystery-bookshop.md"]
 notes_about = ""
 books = ""
 +++

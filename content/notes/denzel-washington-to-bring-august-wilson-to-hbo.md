@@ -17,7 +17,7 @@ twitterauto = "Denzel Washington to produce all ten plays in Seattle playwright 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/denzel-washington-to-bring-august-wilson-to-hbo.md"
+notes_tags = ["notes/denzel-washington-to-bring-august-wilson-to-hbo.md"]
 notes_about = ["authors/august-wilson.md"]
 books = ""
 +++

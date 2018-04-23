@@ -17,7 +17,7 @@ twitterauto = "A reader puts it to @ciennam: can we take boys who read serious b
 facebookauto = "A reader puts it to Cienna Madrid: can we take boys who read serious books seriously?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-this-floor-boys-next-floor-mens.md"
+notes_tags = ["notes/the-help-desk-this-floor-boys-next-floor-mens.md"]
 notes_about = ""
 books = ""
 +++

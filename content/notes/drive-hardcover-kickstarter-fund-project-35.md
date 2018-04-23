@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @davekellett this week."
 facebookauto = "The Kickstarter Fund backs a humorous sci-fi comic. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/drive-hardcover-kickstarter-fund-project-35.md"
+notes_tags = ["notes/drive-hardcover-kickstarter-fund-project-35.md"]
 notes_about = ""
 books = ""
 +++

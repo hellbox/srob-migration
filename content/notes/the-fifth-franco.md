@@ -17,7 +17,7 @@ twitterauto = "The fifth issue of @TheJFReview is being published now, starting 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-fifth-franco.md"
+notes_tags = ["notes/the-fifth-franco.md"]
 notes_about = ""
 books = ""
 +++

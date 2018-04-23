@@ -17,7 +17,7 @@ twitterauto = "This magazine from @HumanitiesWA has new work from Jess Walter an
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/cant-start-a-fire-without-a-spark.md"
+notes_tags = ["notes/cant-start-a-fire-without-a-spark.md"]
 notes_about = ""
 books = ""
 +++

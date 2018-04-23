@@ -17,7 +17,7 @@ twitterauto = "Our June Bookstore of the Month is Third Place Seward Park!"
 facebookauto = "Our June Bookstore of the Month is Third Place Seward Park!"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/third-place-seward-park-is-our-june-bookstore-of-the-month.md"
+notes_tags = ["notes/third-place-seward-park-is-our-june-bookstore-of-the-month.md"]
 notes_about = ["authors/ta-nehisi-coates.md", "authors/claudia-rankine.md"]
 books = ["books/between-the-world-and-me.md", "books/citizen.md"]
 +++

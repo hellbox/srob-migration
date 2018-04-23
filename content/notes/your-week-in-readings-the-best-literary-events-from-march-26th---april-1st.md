@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes poetry, The Wire, and a doomed rel
 facebookauto = "Your week in readings includes poetry, The Wire, and a doomed relationship."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-march-26th---april-1st.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-march-26th---april-1st.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2016-09-05T19:41:00-07:00"
 preview_url = "0ba327da-9910-c1f9-4b17-64f99ff71bfc"
 name = "Da Capo"
 title = "Da Capo"
-books_publisher = "publishers/da-capo.md"
+books_publisher = ["publishers/da-capo.md"]
 +++

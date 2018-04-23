@@ -17,7 +17,7 @@ twitterauto = "We made history today. @allisonstieger became the first person to
 facebookauto = "For years, Amazon has encouraged their customers to browse independent bookstores and then buy the books from Amazon. Today, one brave Seattleite turned the tables: she became the first person in the world to browse a book at Amazon Books and then buy it from an independent bookstore. Here's to reverse showrooming!"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/independent-bookstore-fan-showrooms-amazon-books.md"
+notes_tags = ["notes/independent-bookstore-fan-showrooms-amazon-books.md"]
 notes_about = ["authors/alice-hoffman.md"]
 books = ["books/the-marriage-of-opposites.md"]
 +++

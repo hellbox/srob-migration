@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with a Ta-Nehisi Coates-approved nov
 facebookauto = "Your week in readings includes a bike ride with some sci-fi authors, a big comics show at SAM, and an eagerly awaited debut novel that's loved by Ta-Nehisi Coates."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-june-8th---june-14th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-june-8th---june-14th.md"]
 notes_about = ["authors/stacey-levine.md", "authors/adam-rakunas.md"]
 books = ""
 +++

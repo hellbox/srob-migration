@@ -17,7 +17,7 @@ twitterauto = "What does @Adason15th bookseller @mister_winter love about workin
 facebookauto = "We talked with Ada's Technical Books bookseller Steve Winter, who brings over two decades of bookselling experience to Capitol Hill's newest bookstore."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/an-interview-with-steve-winter-bookseller-at-adas-technical-books.md"
+notes_tags = ["notes/an-interview-with-steve-winter-bookseller-at-adas-technical-books.md"]
 notes_about = ""
 books = ""
 +++

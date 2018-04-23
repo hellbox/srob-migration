@@ -17,7 +17,7 @@ twitterauto = "Our reading of the week is Andi Zeisler at @THSEA this coming Mon
 facebookauto = "Our pick for Event of the Week is an onstage interview between Bitch magazine founder Andi Zeisler and Amelia Bonow at Town Hall Seattle."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-andi-zeisler-and-amelia-bonow-at-town-hall-seattle.md"
+notes_tags = ["notes/event-of-the-week-andi-zeisler-and-amelia-bonow-at-town-hall-seattle.md"]
 notes_about = ["authors/andi-zeisler.md", "authors/amelia-bonow.md"]
 books = ""
 +++

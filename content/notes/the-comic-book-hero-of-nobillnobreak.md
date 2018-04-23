@@ -17,7 +17,7 @@ twitterauto = "Now is a great time to read more about the comic book hero of #No
 facebookauto = "Now is a great time to read more about the comic book hero of #NoBillNoBreak."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-comic-book-hero-of-nobillnobreak.md"
+notes_tags = ["notes/the-comic-book-hero-of-nobillnobreak.md"]
 notes_about = ""
 books = ""
 +++

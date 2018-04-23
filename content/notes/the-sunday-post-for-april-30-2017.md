@@ -17,7 +17,7 @@ twitterauto = "In the Sunday Post, Rather tilts at Trump, digital and print squa
 facebookauto = "In this Sunday's Post, Dan Rather tilts at Trump, digital and print duke it out (again), and a phantom hosts the world's craziest ultramarathon. Enjoy!"
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-april-30-2017.md"
+notes_tags = ["notes/the-sunday-post-for-april-30-2017.md"]
 notes_about = ""
 books = ""
 +++

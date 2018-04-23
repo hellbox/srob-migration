@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = "Thursday mail call!"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-september-24-2015.md"
+notes_tags = ["notes/mail-call-for-september-24-2015.md"]
 notes_about = ""
 books = ""
 +++

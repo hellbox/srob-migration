@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @ozekiland #WordWorks #Meditation for Writers F
 facebookauto = "Portrait Gallery: Ruth Ozeki by Christine Marie Larsen. Friday at Washington Hall. \"Meditation for Writers\""
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-ruth-ozeki.md"
+notes_tags = ["notes/portrait-gallery-ruth-ozeki.md"]
 notes_about = ""
 books = ""
 +++

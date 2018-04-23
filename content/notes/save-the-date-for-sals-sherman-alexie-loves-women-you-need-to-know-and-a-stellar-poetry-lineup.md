@@ -17,7 +17,7 @@ twitterauto = "Check out sponsor @SeaArtsLectures' deftly curated lineup for 201
 facebookauto = "Fill your dance card with sponsor @SeaArtsLectures' deftly curated season, including Sherman Alexie Loves, Women You Need to Know, and one of the best poetry series in town."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/save-the-date-for-sals-sherman-alexie-loves-women-you-need-to-know-and-a-stellar-poetry-lineup.md"
+notes_tags = ["notes/save-the-date-for-sals-sherman-alexie-loves-women-you-need-to-know-and-a-stellar-poetry-lineup.md"]
 notes_about = ""
 books = ""
 +++

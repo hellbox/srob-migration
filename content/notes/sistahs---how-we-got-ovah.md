@@ -17,7 +17,7 @@ twitterauto = "JT Stewart's third set of poems from her month-long residency"
 facebookauto = "JT Stewart's third set of poems from her month-long residency"
 make_image_tweet = "False"
 notes_byline = ["writers/jt-stewart.md"]
-notes_tags = "notes/sistahs---how-we-got-ovah.md"
+notes_tags = ["notes/sistahs---how-we-got-ovah.md"]
 notes_about = ""
 books = ""
 +++

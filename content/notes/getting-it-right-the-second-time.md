@@ -17,7 +17,7 @@ twitterauto = "We almost didn't read the second book in this sci-fi series. We'r
 facebookauto = "We almost didn't read the second book in this sci-fi series. We're so glad someone talked us into it."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/getting-it-right-the-second-time.md"
+notes_tags = ["notes/getting-it-right-the-second-time.md"]
 notes_about = ["authors/becky-chambers.md"]
 books = ""
 +++

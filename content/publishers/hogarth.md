@@ -10,5 +10,5 @@ last_updated = "2018-02-19T17:31:00-08:00"
 preview_url = "67e931e2-f54f-2170-c3e8-7f71141872da"
 name = "Hogarth"
 title = "Hogarth"
-books_publisher = "publishers/hogarth.md"
+books_publisher = ["publishers/hogarth.md"]
 +++

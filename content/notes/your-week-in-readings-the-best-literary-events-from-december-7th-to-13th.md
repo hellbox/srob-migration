@@ -17,7 +17,7 @@ twitterauto = "Your week in readings kicks off with a reading about a dark time 
 facebookauto = "This week's reading events include Tess Gallagher, a collection of Seattle Mystery writers, and a night of musical interpretations of books written by local authors. Plus: Rick Steves!"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-december-7th-to-13th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-december-7th-to-13th.md"]
 notes_about = ["authors/donna-miscolta.md", "authors/maged-zaher.md", "authors/tess-gallagher.md"]
 books = ""
 +++

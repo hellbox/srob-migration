@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/new-ruda.md"
+notes_tags = ["notes/new-ruda.md"]
 notes_about = ["authors/pablo-neruda.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "A few good reads for Sunday, including a takedown of Ready Player
 facebookauto = "A few good reads for Sunday, including a takedown of Ready Player One and a peek under New York's feet."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-august-13-2017.md"
+notes_tags = ["notes/the-sunday-post-for-august-13-2017.md"]
 notes_about = ""
 books = ""
 +++

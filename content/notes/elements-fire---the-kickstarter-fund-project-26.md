@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @HeyElements. "
 facebookauto = "The Kickstarter Fund backs ELEMENTS: Fire, a comics anthology by people of color. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/elements-fire---the-kickstarter-fund-project-26.md"
+notes_tags = ["notes/elements-fire---the-kickstarter-fund-project-26.md"]
 notes_about = ""
 books = ""
 +++

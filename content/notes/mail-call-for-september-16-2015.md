@@ -17,7 +17,7 @@ twitterauto = "Mail call! Three books on the third day of the week."
 facebookauto = "Three books in our Wednesday night Mail call."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-september-16-2015.md"
+notes_tags = ["notes/mail-call-for-september-16-2015.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/google-searches-now-include-library-ebook-listings.md"
+notes_tags = ["notes/google-searches-now-include-library-ebook-listings.md"]
 notes_about = ""
 books = ""
 +++

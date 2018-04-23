@@ -17,7 +17,7 @@ twitterauto = "Check out sponsor @jabuttenwieser's memoir GUTS, then head to @El
 facebookauto = "Check out the prologue to sponsor Janet Buttenwieser's memoir GUTS, then head to Elliott Bay Books on March 31 to hear her read."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/get-a-peek-at-janet-buttenwiesers-new-memoir.md"
+notes_tags = ["notes/get-a-peek-at-janet-buttenwiesers-new-memoir.md"]
 notes_about = ["authors/janet-buttenwieser.md"]
 books = ["books/guts.md"]
 +++

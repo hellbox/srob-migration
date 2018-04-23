@@ -17,7 +17,7 @@ twitterauto = "Big fat mail call. Tons more on the site."
 facebookauto = "Big fat mail call \u2014 lots more on the site."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-august-3-2016.md"
+notes_tags = ["notes/mail-call-for-august-3-2016.md"]
 notes_about = ""
 books = ""
 +++

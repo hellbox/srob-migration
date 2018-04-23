@@ -17,7 +17,7 @@ twitterauto = "Save the date: Hometown Heroes, a free underground comics convent
 facebookauto = "Save the date: Hometown Heroes, a free underground comics convention, debuts on Friday, April 8."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/get-ready-for-hometown-heroes.md"
+notes_tags = ["notes/get-ready-for-hometown-heroes.md"]
 notes_about = ""
 books = ""
 +++

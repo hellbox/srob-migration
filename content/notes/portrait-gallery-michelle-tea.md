@@ -17,7 +17,7 @@ twitterauto = "This week @studiochristine painted @TeaMichelle for our Portrait 
 facebookauto = "Portrait Gallery: Michelle Tea. Friday, November 18th at Fred Wildlife Refuge."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-michelle-tea.md"
+notes_tags = ["notes/portrait-gallery-michelle-tea.md"]
 notes_about = ["authors/michelle-tea.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Here are some of the novels by Seattle authors that we loved this
 facebookauto = "Here are some of the novels by Seattle authors that we loved this year."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/2017-in-review-the-seattle-novels-that-made-my-year.md"
+notes_tags = ["notes/2017-in-review-the-seattle-novels-that-made-my-year.md"]
 notes_about = ""
 books = ""
 +++

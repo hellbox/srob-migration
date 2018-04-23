@@ -17,7 +17,7 @@ twitterauto = "Hey @NaNoWriMo writers! Let's talk about how we feel when we writ
 facebookauto = "For our second piece on NaNoWriMo, Martin McClellan looks at how it feels to write when we write, and how much we should let our emotions guide the writing process."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/nanowrimo-week-2-it-doesnt-matter-how-you-feel.md"
+notes_tags = ["notes/nanowrimo-week-2-it-doesnt-matter-how-you-feel.md"]
 notes_about = ""
 books = ""
 +++

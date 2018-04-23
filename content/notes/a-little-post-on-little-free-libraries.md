@@ -17,7 +17,7 @@ twitterauto = "If you think Little Free Libraries are the coolest, here's the po
 facebookauto = "If you think Little Free Libraries are the coolest, here's the post for you."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-little-post-on-little-free-libraries.md"
+notes_tags = ["notes/a-little-post-on-little-free-libraries.md"]
 notes_about = ["authors/tatiana-gill.md"]
 books = ""
 +++

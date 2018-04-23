@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund this week backed the game Losswords, by @Loc
 facebookauto = "The Kickstarter Fund backed a game called Losswords this week \u2014 looks really fun!"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/losswords-a-game-of-literary-portions---kickstarter-fund-project-15.md"
+notes_tags = ["notes/losswords-a-game-of-literary-portions---kickstarter-fund-project-15.md"]
 notes_about = ""
 books = ""
 +++

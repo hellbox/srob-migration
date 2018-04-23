@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Imagining Octavia Butler as a young person. #il
 facebookauto = "Portrait Gallery: Octavia at the Pond"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-octavia-at-the-pond.md"
+notes_tags = ["notes/portrait-gallery-octavia-at-the-pond.md"]
 notes_about = ""
 books = ""
 +++

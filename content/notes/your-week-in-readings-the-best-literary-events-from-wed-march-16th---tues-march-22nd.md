@@ -17,7 +17,7 @@ twitterauto = "Tonight, your week in readings heads to West Seattle to hear from
 facebookauto = "Your week in literary events includes a fancy book expo, a competitive storytelling event, and a discussion about how to make cities into utopias."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-wed-march-16th---tues-march-22nd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-wed-march-16th---tues-march-22nd.md"]
 notes_about = ["authors/ej-koh.md"]
 books = ""
 +++

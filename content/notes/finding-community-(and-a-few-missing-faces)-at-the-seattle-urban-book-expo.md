@@ -17,7 +17,7 @@ twitterauto = "Writer @DonnaMiscolta found community (and a few missing faces) a
 facebookauto = "Donna Miscolta dropped by the Seattle Urban Book Expo and "
 make_image_tweet = "False"
 notes_byline = ["writers/donna-miscolta.md"]
-notes_tags = "notes/finding-community-(and-a-few-missing-faces)-at-the-seattle-urban-book-expo.md"
+notes_tags = ["notes/finding-community-(and-a-few-missing-faces)-at-the-seattle-urban-book-expo.md"]
 notes_about = ""
 books = ""
 +++

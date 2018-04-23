@@ -17,7 +17,7 @@ twitterauto = "Presenting the winner of the very first @APRILfestSEA/@seattlerev
 facebookauto = "Presenting the winner of the very first APRIL Festival/Seattle Review of Books writing contest: \"Love Canal,\" by Jessica Mooney!"
 make_image_tweet = "False"
 notes_byline = ["writers/jessica-mooney.md"]
-notes_tags = "notes/love-canal.md"
+notes_tags = ["notes/love-canal.md"]
 notes_about = ""
 books = ""
 +++

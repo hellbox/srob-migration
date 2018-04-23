@@ -17,7 +17,7 @@ twitterauto = "Today's advice column: how can writers best channel their energy 
 facebookauto = "A reader asks: what can writers do to combat Trump, other than write long rants on Facebook? You should read Cienna Madrid's excellent response."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-what-can-writers-do-to-fight-trump.md"
+notes_tags = ["notes/the-help-desk-what-can-writers-do-to-fight-trump.md"]
 notes_about = ""
 books = ""
 +++

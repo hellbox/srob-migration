@@ -17,7 +17,7 @@ twitterauto = "A school librarian tells us what the kids really want: ninjas and
 facebookauto = "Our third interview with a school librarian gets into what the kids really want: ninjas and haunted things."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/give-the-people-what-they-want-ninjas-and-haunted-things.md"
+notes_tags = ["notes/give-the-people-what-they-want-ninjas-and-haunted-things.md"]
 notes_about = ""
 books = ""
 +++

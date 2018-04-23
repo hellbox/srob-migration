@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs a beer tasting card-game called @thepa
 facebookauto = "The Kickstarter Fund backs a beer tasting card-game called The Palate Deck"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-palate-deck-playing-cards-for-beer-tasting---kickstarter-fund-project-42.md"
+notes_tags = ["notes/the-palate-deck-playing-cards-for-beer-tasting---kickstarter-fund-project-42.md"]
 notes_about = ""
 books = ""
 +++

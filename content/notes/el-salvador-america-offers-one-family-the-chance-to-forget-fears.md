@@ -17,7 +17,7 @@ twitterauto = "An immigration story shared, from @ClaudiaC_L"
 facebookauto = "Claudia Castro Luna shares her immigration story"
 make_image_tweet = "True"
 notes_byline = ["writers/claudia-castro-luna.md"]
-notes_tags = "notes/el-salvador-america-offers-one-family-the-chance-to-forget-fears.md"
+notes_tags = ["notes/el-salvador-america-offers-one-family-the-chance-to-forget-fears.md"]
 notes_about = ""
 books = ""
 +++

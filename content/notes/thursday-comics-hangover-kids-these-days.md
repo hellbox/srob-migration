@@ -17,7 +17,7 @@ twitterauto = "If it's been a while since you read a comic that was an act of pu
 facebookauto = "If it's been a while since you read a comic that was an act of pure exuberance, this is for you:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-kids-these-days.md"
+notes_tags = ["notes/thursday-comics-hangover-kids-these-days.md"]
 notes_about = ""
 books = ""
 +++

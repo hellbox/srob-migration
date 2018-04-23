@@ -17,7 +17,7 @@ twitterauto = "For five years, one Seattle bus driver has kept a brilliant blog 
 facebookauto = "For five years, one Seattle bus driver has kept a brilliant blog about his experiences. We interviewed Nathan Vass about his time as a bus blogger."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-seattles-blogging-bus-driver-nathan-vass.md"
+notes_tags = ["notes/talking-with-seattles-blogging-bus-driver-nathan-vass.md"]
 notes_about = ["authors/nathan-vass.md"]
 books = ""
 +++

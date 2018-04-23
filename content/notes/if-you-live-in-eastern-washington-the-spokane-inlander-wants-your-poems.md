@@ -17,7 +17,7 @@ twitterauto = "If you're an eastern Washington poet, submit your work for @TheIn
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/if-you-live-in-eastern-washington-the-spokane-inlander-wants-your-poems.md"
+notes_tags = ["notes/if-you-live-in-eastern-washington-the-spokane-inlander-wants-your-poems.md"]
 notes_about = ""
 books = ""
 +++

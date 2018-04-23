@@ -17,7 +17,7 @@ twitterauto = "Sounds like the penultimate reading in the old Hugo House was inc
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-hugo-house-wept-for-itself.md"
+notes_tags = ["notes/the-hugo-house-wept-for-itself.md"]
 notes_about = ""
 books = ""
 +++

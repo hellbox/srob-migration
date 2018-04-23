@@ -17,7 +17,7 @@ twitterauto = "We want to join President Obama's book club."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/one-of-my-favorite-characters-in-fiction-is-a-pastor-in-gilead.md"
+notes_tags = ["notes/one-of-my-favorite-characters-in-fiction-is-a-pastor-in-gilead.md"]
 notes_about = ["authors/marilynne-robinson.md"]
 books = ["books/gilead.md"]
 +++

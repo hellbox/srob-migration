@@ -17,7 +17,7 @@ twitterauto = "Here's your Thanksgiving week literary calendar. "
 facebookauto = "Here's your Thanksgiving week literary calendar."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-23rd---november-29th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-23rd---november-29th.md"]
 notes_about = ""
 books = ""
 +++

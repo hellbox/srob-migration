@@ -17,7 +17,7 @@ twitterauto = "Ask local novelist Jonathan Evison anything you want on Reddit to
 facebookauto = "The brutally honest novelist Jonathan Evison\u2014once called  \u201cthe most honest white man alive\" by Sherman Alexie\u2014will be running a Reddit Ask Me Anything today. This is a great opportunity to ask those probing business questions you've been dying to ask a novelist all these years."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ask-jonathan-evison-anything.md"
+notes_tags = ["notes/ask-jonathan-evison-anything.md"]
 notes_about = ["authors/jonathan-evison.md"]
 books = ["books/the-revised-fundamentals-of-caregiving.md", "books/this-is-your-life-harriet-chance!.md"]
 +++

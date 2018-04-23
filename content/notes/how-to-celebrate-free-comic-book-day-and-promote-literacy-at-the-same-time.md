@@ -17,7 +17,7 @@ twitterauto = "We talked with @ComicsDungeon president Scott Tomlin about his ne
 facebookauto = "Just in time for Free Comic Book Day, we talked with Comics Dungeon president Scott Tomlin about his new nonprofit comics literacy project."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/how-to-celebrate-free-comic-book-day-and-promote-literacy-at-the-same-time.md"
+notes_tags = ["notes/how-to-celebrate-free-comic-book-day-and-promote-literacy-at-the-same-time.md"]
 notes_about = ""
 books = ""
 +++

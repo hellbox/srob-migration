@@ -17,7 +17,7 @@ twitterauto = "A bookseller asks @ciennam: should my boss really be complaining 
 facebookauto = "A bookseller asks our advice columnist: should my boss really be complaining about Amazon all the time?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-the-online-retailer-that-shall-not-be-named.md"
+notes_tags = ["notes/the-help-desk-the-online-retailer-that-shall-not-be-named.md"]
 notes_about = ""
 books = ""
 +++

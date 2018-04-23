@@ -17,7 +17,7 @@ twitterauto = "Writers, take note: sponsor Third Place Press' design & productio
 facebookauto = "Writers, take note: sponsor Third Place Press is ready with a slate of top-notch design and production services to help you bring your book into the world. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/publish-beautiful-books-with-third-place-press.md"
+notes_tags = ["notes/publish-beautiful-books-with-third-place-press.md"]
 notes_about = ""
 books = ["books/third-place-press-publishing-services.md"]
 +++

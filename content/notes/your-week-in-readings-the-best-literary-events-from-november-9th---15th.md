@@ -17,7 +17,7 @@ twitterauto = "Your week in readings starts tonight @elliottbaybook and also inc
 facebookauto = "Looking for something to do this week? Paul Constant has found the best literary event for every day from Monday to Sunday. There's a lot of different stuff packed into one week: sci-fi, comics, literary fiction, true stories from veterans, and a living magazine."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-9th---15th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-9th---15th.md"]
 notes_about = ["authors/jonathan-lethem.md"]
 books = ""
 +++

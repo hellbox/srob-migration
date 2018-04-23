@@ -17,7 +17,7 @@ twitterauto = "This week read about a very bad dog and Kansas in a destroyed Uni
 facebookauto = "This week's readings include an alternate Kansas in a destroyed United States of America and a story about a very bad dog."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-july-26th---august-1st.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-july-26th---august-1st.md"]
 notes_about = ""
 books = ""
 +++

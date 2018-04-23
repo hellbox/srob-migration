@@ -17,7 +17,7 @@ twitterauto = "This week, Sherman Alexie and Corinne Manning published new work.
 facebookauto = "This week, Sherman Alexie and Corinne Manning published new work. Seattle authors represent!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-authors-everywhere-read-new-work-from-sherman-alexie-and-corinne-manning.md"
+notes_tags = ["notes/seattle-authors-everywhere-read-new-work-from-sherman-alexie-and-corinne-manning.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/corinne-manning.md"]
 books = ""
 +++

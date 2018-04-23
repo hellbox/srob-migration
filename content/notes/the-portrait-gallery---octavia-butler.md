@@ -17,7 +17,7 @@ twitterauto = "#OctaviaButler is this week's Portrait Gallery, by @studiochristi
 facebookauto = "This week's Portrait Gallery is Octavia Butler, who would've turned 69 last Wednesday. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/the-portrait-gallery---octavia-butler.md"
+notes_tags = ["notes/the-portrait-gallery---octavia-butler.md"]
 notes_about = ["authors/octavia-butler.md"]
 books = ""
 +++

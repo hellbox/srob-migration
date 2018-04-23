@@ -17,7 +17,7 @@ twitterauto = "Keep Clam! It's Ivar Haglund for @studiochristine's Portrait Gall
 facebookauto = "The one, the only, the very Seattle Ivar Haglund, today's Portrait Gallery."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-ivar-haglund.md"
+notes_tags = ["notes/portrait-gallery-ivar-haglund.md"]
 notes_about = ""
 books = ""
 +++

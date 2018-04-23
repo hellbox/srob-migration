@@ -17,7 +17,7 @@ twitterauto = "Fall Crime! @daneetsteffens interviews @jajance, and reviews new 
 facebookauto = "It's the first Criminal Fiction of Fall! Daneet Steffens interviews JA Jance, and reviews new books by Sophie Hanna, Attica Locke,  John le Carr\u00e9, and Andrea Camilleri."
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-killer-podcasts.md"
+notes_tags = ["notes/criminal-fiction-killer-podcasts.md"]
 notes_about = ["authors/denise-mina.md", "authors/steve-cavanagh.md", "authors/luca-veste.md", "authors/ian-rankin.md", "authors/eva-dolan.md", "authors/mark-billingham.md", "authors/sophie-hannah.md", "authors/stuart-neville.md", "authors/ja-jance.md"]
 books = ""
 +++

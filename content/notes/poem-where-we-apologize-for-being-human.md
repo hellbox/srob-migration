@@ -17,7 +17,7 @@ twitterauto = "\"Poem Where We Apologize For Being Human\" is our third from Jul
 facebookauto = "\"Poem Where We Apologize For Being Human\" is our third from July Poet in Residence, Kelli Russell Agodon. "
 make_image_tweet = "False"
 notes_byline = ["writers/kelli-russell-agodon.md"]
-notes_tags = "notes/poem-where-we-apologize-for-being-human.md"
+notes_tags = ["notes/poem-where-we-apologize-for-being-human.md"]
 notes_about = ""
 books = ""
 +++

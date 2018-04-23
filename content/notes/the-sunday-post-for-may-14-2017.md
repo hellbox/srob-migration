@@ -17,7 +17,7 @@ twitterauto = "Madness, love, death, and poetry ... a little light reading in th
 facebookauto = "Madness, love, death, and poetry ... a little light reading in the Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-may-14-2017.md"
+notes_tags = ["notes/the-sunday-post-for-may-14-2017.md"]
 notes_about = ""
 books = ""
 +++

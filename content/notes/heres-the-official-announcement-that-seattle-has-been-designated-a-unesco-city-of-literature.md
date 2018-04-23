@@ -17,7 +17,7 @@ twitterauto = "Here's @seacityoflit's announcement that Seattle is officially a 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/heres-the-official-announcement-that-seattle-has-been-designated-a-unesco-city-of-literature.md"
+notes_tags = ["notes/heres-the-official-announcement-that-seattle-has-been-designated-a-unesco-city-of-literature.md"]
 notes_about = ""
 books = ""
 +++

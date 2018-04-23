@@ -17,7 +17,7 @@ twitterauto = "Today in Book News Roundup: Writing opportunities from @ZAPPSeatt
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-lindy-west-takes-on-jonathan-franzen.md"
+notes_tags = ["notes/book-news-roundup-lindy-west-takes-on-jonathan-franzen.md"]
 notes_about = ["authors/lindy-west.md", "authors/jonathan-franzen.md"]
 books = ""
 +++

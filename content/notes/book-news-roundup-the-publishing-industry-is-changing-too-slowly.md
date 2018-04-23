@@ -17,7 +17,7 @@ twitterauto = "Book News Roundup brings a couple of neat Seattle events and some
 facebookauto = "We have news of a couple neat Seattle events and some bad news about the publishing industry in today's Book News Roundup."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-publishing-industry-is-changing-too-slowly.md"
+notes_tags = ["notes/book-news-roundup-the-publishing-industry-is-changing-too-slowly.md"]
 notes_about = ["authors/tod-marshall.md"]
 books = ""
 +++

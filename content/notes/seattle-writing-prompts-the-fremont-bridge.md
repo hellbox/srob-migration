@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts visits the Fremont Bridge."
 facebookauto = "Seattle Writing Prompts visits the Fremont Bridge."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-fremont-bridge.md"
+notes_tags = ["notes/seattle-writing-prompts-the-fremont-bridge.md"]
 notes_about = ""
 books = ""
 +++

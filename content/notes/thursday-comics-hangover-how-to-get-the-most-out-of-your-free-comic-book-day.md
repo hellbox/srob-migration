@@ -17,7 +17,7 @@ twitterauto = "Don't forget: this Saturday is #FreeComicDay in Seattle. Here's o
 facebookauto = "Don't forget:\u00a0this Saturday is Free Comic Book Day in Seattle. Here's our guide to help you achieve maximum enjoyment:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-how-to-get-the-most-out-of-your-free-comic-book-day.md"
+notes_tags = ["notes/thursday-comics-hangover-how-to-get-the-most-out-of-your-free-comic-book-day.md"]
 notes_about = ["authors/tatiana-gill.md", "authors/g-willow-wilson.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Daniel Handler's All the Dirty Parts is just as enticing, funny, 
 facebookauto = "Daniel Handler appears in conversation with Sherman Alexie tonight. His new novel is allllllll about sex. That's a good and a bad thing."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/daniel-handlers-all-the-dirty-parts-is-just-as-enticing-funny-profane-and-frustrating-as-sex-itself.md"
+notes_tags = ["notes/daniel-handlers-all-the-dirty-parts-is-just-as-enticing-funny-profane-and-frustrating-as-sex-itself.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

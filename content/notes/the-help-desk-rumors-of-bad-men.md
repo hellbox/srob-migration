@@ -17,7 +17,7 @@ twitterauto = "Bad men make everything more complicated."
 facebookauto = "Bad men make everything more complicated."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-rumors-of-bad-men.md"
+notes_tags = ["notes/the-help-desk-rumors-of-bad-men.md"]
 notes_about = ""
 books = ""
 +++

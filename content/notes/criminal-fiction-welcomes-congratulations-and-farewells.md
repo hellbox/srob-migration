@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-welcomes-congratulations-and-farewells.md"
+notes_tags = ["notes/criminal-fiction-welcomes-congratulations-and-farewells.md"]
 notes_about = ["authors/eva-dolan.md", "authors/steve-cavanagh.md", "authors/jane-harper.md", "authors/charles-lenox.md", "authors/elizabeth-george.md", "authors/lisa-gardner.md", "authors/peter-temple.md", "authors/sarah-weinman.md"]
 books = ""
 +++

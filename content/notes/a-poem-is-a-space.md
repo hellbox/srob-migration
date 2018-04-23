@@ -17,7 +17,7 @@ twitterauto = "The second poem by Poet in Residence @estherhelfgott is called \"
 facebookauto = "The second poem by Poet in Residence Esther Altshul Helfgott is called \"A poem is a space\""
 make_image_tweet = "False"
 notes_byline = ["writers/esther-altshul-helfgott.md"]
-notes_tags = "notes/a-poem-is-a-space.md"
+notes_tags = ["notes/a-poem-is-a-space.md"]
 notes_about = ""
 books = ""
 +++

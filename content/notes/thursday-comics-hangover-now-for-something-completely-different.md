@@ -17,7 +17,7 @@ twitterauto = "A new anthology from Fantagraphics fuses the best of magazine ill
 facebookauto = "A new anthology from Fantagraphics fuses the best of magazine illustration with comics."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-now-for-something-completely-different.md"
+notes_tags = ["notes/thursday-comics-hangover-now-for-something-completely-different.md"]
 notes_about = ""
 books = ""
 +++

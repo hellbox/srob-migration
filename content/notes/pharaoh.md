@@ -17,7 +17,7 @@ twitterauto = "This week's poem from Lucia Perillo is titled \"Pharaoh\"."
 facebookauto = "This week's poem from Lucia Perillo is titled \"Pharaoh\"."
 make_image_tweet = "False"
 notes_byline = ["writers/lucia-perillo.md"]
-notes_tags = "notes/pharaoh.md"
+notes_tags = ["notes/pharaoh.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Here's the Karen Finneyfrock poem for America right now."
 facebookauto = "Karen Finneyfrock is speaking for the Statue of Liberty, and she's sick of our Trump-era B.S."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/karen-finneyfrock-gives-voice-to-the-statue-of-liberty.md"
+notes_tags = ["notes/karen-finneyfrock-gives-voice-to-the-statue-of-liberty.md"]
 notes_about = ["authors/karen-finneyfrock.md", "authors/elizabeth-austen.md"]
 books = ""
 +++

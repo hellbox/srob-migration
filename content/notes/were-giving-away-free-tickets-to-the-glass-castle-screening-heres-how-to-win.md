@@ -17,7 +17,7 @@ twitterauto = "Retweet this tweet by 5 pm today to win a chance to attend a VIP 
 facebookauto = "Comment on this post by 5 p.m. today for a chance to win a VIP prize pack and attend an early screening of #TheGlassCastle!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/were-giving-away-free-tickets-to-the-glass-castle-screening-heres-how-to-win.md"
+notes_tags = ["notes/were-giving-away-free-tickets-to-the-glass-castle-screening-heres-how-to-win.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Gramma Poetry"
 title = "Gramma Poetry"
-books_publisher = "publishers/gramma-poetry.md"
+books_publisher = ["publishers/gramma-poetry.md"]
 +++

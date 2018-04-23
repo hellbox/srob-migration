@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/murakami-the-video-game.md"
+notes_tags = ["notes/murakami-the-video-game.md"]
 notes_about = ["authors/haruki-murakami.md"]
 books = ""
 +++

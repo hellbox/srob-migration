@@ -17,7 +17,7 @@ twitterauto = ".@GWillowWilson, @accidentaltheo, and @tvandeusen make appearance
 facebookauto = "Here's what's going on in Seattle book news today, with a few extra links thrown in for good measure:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-seattles-housing-crisis-in-comic-form.md"
+notes_tags = ["notes/book-news-roundup-seattles-housing-crisis-in-comic-form.md"]
 notes_about = ["authors/lesley-hazleton.md", "authors/g-willow-wilson.md"]
 books = ["books/ms-marvel.md"]
 +++

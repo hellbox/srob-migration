@@ -17,7 +17,7 @@ twitterauto = "This week's Portrait Gallery from @studiochristine features Seatt
 facebookauto = "Charles Mudede is Christine Marie Larsen's subject this week for Portrait Gallery."
 make_image_tweet = ""
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-charles-mudede.md"
+notes_tags = ["notes/portrait-gallery-charles-mudede.md"]
 notes_about = ""
 books = ""
 +++

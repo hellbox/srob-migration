@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Relegation Books"
 title = "Relegation Books"
-books_publisher = "publishers/relegation-books.md"
+books_publisher = ["publishers/relegation-books.md"]
 +++

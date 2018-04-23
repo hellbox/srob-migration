@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/johanna-sinisalo-and-lola-rogers-tonight!.md"
+notes_tags = ["notes/johanna-sinisalo-and-lola-rogers-tonight!.md"]
 notes_about = ["authors/johanna-sinisalo.md"]
 books = ""
 +++

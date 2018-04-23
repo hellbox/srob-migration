@@ -17,7 +17,7 @@ twitterauto = "We talked with author Laurie Frankel about what it's like when yo
 facebookauto = "We talked with author Laurie Frankel about what it's like when your book goes paperback."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/second-times-the-charm-talking-with-laurie-frankel-about-the-pleasures-and-pains-of-paperbacks.md"
+notes_tags = ["notes/second-times-the-charm-talking-with-laurie-frankel-about-the-pleasures-and-pains-of-paperbacks.md"]
 notes_about = ["authors/laurie-frankel.md"]
 books = ["books/this-is-how-it-always-is.md"]
 +++

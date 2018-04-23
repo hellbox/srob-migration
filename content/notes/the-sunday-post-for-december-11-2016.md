@@ -17,7 +17,7 @@ twitterauto = "Filipino Drug Wars, Maple Syrup heists, Github troll-killing, and
 facebookauto = "Filipino Drug Wars, Maple Syrup heists, Github troll-killing, and Google suggest evil, all in the Sunday Post"
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-december-11-2016.md"
+notes_tags = ["notes/the-sunday-post-for-december-11-2016.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @Fantastic_Mag and @nisishawl."
 facebookauto = "The Kickstarter Fund backs Fantastic Stories of the Imagination, and their exclusive people of color edition, edited by Nisi Shawl."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/people-of-color-take-over-fantastic-stories---kickstarter-fund-project-48.md"
+notes_tags = ["notes/people-of-color-take-over-fantastic-stories---kickstarter-fund-project-48.md"]
 notes_about = ["authors/nisi-shawl.md"]
 books = ""
 +++

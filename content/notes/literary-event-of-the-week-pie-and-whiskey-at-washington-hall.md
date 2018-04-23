@@ -17,7 +17,7 @@ twitterauto = "Get your carbs and booze on at the Pie and Whiskey reading at Was
 facebookauto = "Get your carbs and booze on at the Pie and Whiskey reading at Washington Hall on Wednesday."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-pie-and-whiskey-at-washington-hall.md"
+notes_tags = ["notes/literary-event-of-the-week-pie-and-whiskey-at-washington-hall.md"]
 notes_about = ["authors/kate-lebo.md", "authors/sam-ligon.md", "authors/jess-walter.md", "authors/ed-skoog.md"]
 books = ""
 +++

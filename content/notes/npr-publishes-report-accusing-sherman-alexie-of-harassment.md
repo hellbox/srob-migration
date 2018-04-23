@@ -17,7 +17,7 @@ twitterauto = "NPR has published a report accusing Sherman Alexie of harassment.
 facebookauto = "NPR has published a report accusing Sherman Alexie of harassment."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/npr-publishes-report-accusing-sherman-alexie-of-harassment.md"
+notes_tags = ["notes/npr-publishes-report-accusing-sherman-alexie-of-harassment.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/jeanine-walker.md", "authors/elissa-washuta.md", "authors/erika-wurth.md"]
 books = ""
 +++

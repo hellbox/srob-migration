@@ -17,7 +17,7 @@ twitterauto = "This week's Portrait Gallery: Luzviminda Uruzi Carpenter by @stud
 facebookauto = "This week's Portrait Gallery: Luzviminda Uruzi Carpenter by @studiochristine"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-luzviminda-uruzi-“lulu”-carpenter.md"
+notes_tags = ["notes/portrait-gallery-luzviminda-uruzi-“lulu”-carpenter.md"]
 notes_about = ["authors/luzviminda-uruzi-\u201clulu\u201d-carpenter.md"]
 books = ""
 +++

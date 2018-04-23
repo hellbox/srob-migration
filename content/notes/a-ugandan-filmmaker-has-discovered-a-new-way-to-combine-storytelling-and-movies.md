@@ -17,7 +17,7 @@ twitterauto = "At @SIFFNews, you can watch a Ugandan action movie that comes wit
 facebookauto = "The Ugandan micro-movie-studio Wakaliwood makes action movies that come with their own color commentary narrated over the top."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-ugandan-filmmaker-has-discovered-a-new-way-to-combine-storytelling-and-movies.md"
+notes_tags = ["notes/a-ugandan-filmmaker-has-discovered-a-new-way-to-combine-storytelling-and-movies.md"]
 notes_about = ""
 books = ""
 +++

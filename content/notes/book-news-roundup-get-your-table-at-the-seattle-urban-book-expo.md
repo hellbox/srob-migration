@@ -17,7 +17,7 @@ twitterauto = "Sign up now to get a table at the Seattle Urban Book Expo."
 facebookauto = "Today in Book News Roundup: a book expo is looking for exhibitors, Clarion West is offering a few all-day classes this fall, and you can make book mixtapes on a new website."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-get-your-table-at-the-seattle-urban-book-expo.md"
+notes_tags = ["notes/book-news-roundup-get-your-table-at-the-seattle-urban-book-expo.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Congratulations to @thisisEJKoh for winning a prize & publication
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ej-koh-wins-the-pleiades-press-editors-prize-for-poetry.md"
+notes_tags = ["notes/ej-koh-wins-the-pleiades-press-editors-prize-for-poetry.md"]
 notes_about = ["authors/ej-koh.md"]
 books = ""
 +++

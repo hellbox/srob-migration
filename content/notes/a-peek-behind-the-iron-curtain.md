@@ -17,7 +17,7 @@ twitterauto = "Sponsor @islaisreading brings a sample her exquisitely written ex
 facebookauto = "This week, sponsor Isla McKetta brings a sample her exquisitely written exploration of Poland behind the Iron Curtain."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-peek-behind-the-iron-curtain.md"
+notes_tags = ["notes/a-peek-behind-the-iron-curtain.md"]
 notes_about = ""
 books = ""
 +++

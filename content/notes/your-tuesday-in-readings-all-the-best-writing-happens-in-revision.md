@@ -17,7 +17,7 @@ twitterauto = "Tonight's featured event is a roundtable on revision happening @H
 facebookauto = "Tonight's featured event is a roundtable on revision happening at Hugo House. Go learn the (secretly) most important part of writing."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-tuesday-in-readings-all-the-best-writing-happens-in-revision.md"
+notes_tags = ["notes/your-tuesday-in-readings-all-the-best-writing-happens-in-revision.md"]
 notes_about = ""
 books = ""
 +++

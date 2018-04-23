@@ -17,7 +17,7 @@ twitterauto = "Based on a book by a Bainbridge Island author, Last Flag Flying f
 facebookauto = "Based on a book by a Bainbridge Island author, Last Flag Flying follows a great American tradition."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/last-flag-flying-is-a-stellar-film-based-on-a-novel-by-a-bainbridge-island-author.md"
+notes_tags = ["notes/last-flag-flying-is-a-stellar-film-based-on-a-novel-by-a-bainbridge-island-author.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Shopping alert: all used books are 40 percent off at @ThirdPlaceB
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-little-selfishness-before-the-giving-starts.md"
+notes_tags = ["notes/a-little-selfishness-before-the-giving-starts.md"]
 notes_about = ""
 books = ""
 +++

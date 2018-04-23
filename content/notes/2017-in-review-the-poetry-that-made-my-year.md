@@ -17,7 +17,7 @@ twitterauto = "2017 has been a great year for Seattle poetry. Here are some stan
 facebookauto = "2017 has been a great year for Seattle poetry. Here are some standouts:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/2017-in-review-the-poetry-that-made-my-year.md"
+notes_tags = ["notes/2017-in-review-the-poetry-that-made-my-year.md"]
 notes_about = ""
 books = ""
 +++

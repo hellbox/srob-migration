@@ -17,7 +17,7 @@ twitterauto = "When someone is murdered in a city, the citizens all become parti
 facebookauto = "When someone is murdered in a city, the citizens all become participants."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/every-city-a-mystery.md"
+notes_tags = ["notes/every-city-a-mystery.md"]
 notes_about = ["authors/juan-carlos-reyes.md"]
 books = ["books/a-summers-lynching.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Why do people always say Superman is hard to write? "
 facebookauto = "Why do people always say Superman is hard to write? He's easy to write, and here's why."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-superman-trick.md"
+notes_tags = ["notes/thursday-comics-hangover-the-superman-trick.md"]
 notes_about = ""
 books = ""
 +++

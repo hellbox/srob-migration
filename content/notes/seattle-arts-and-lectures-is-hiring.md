@@ -17,7 +17,7 @@ twitterauto = "Want to help kids learn to love writing? @SeaArtsLectures is hiri
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-arts-and-lectures-is-hiring.md"
+notes_tags = ["notes/seattle-arts-and-lectures-is-hiring.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Still awake? Any of these in tonight's Mail Call speak to you?"
 facebookauto = "Books never sleep, why should we? We're pretty excited about the Richard Stark books. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-january-22-2016.md"
+notes_tags = ["notes/mail-call-for-january-22-2016.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "SRoB reader @unpaginated takes issue with our recent review of Ja
 facebookauto = "A reader writes in to protest our recent comments that Jack Chick's cartoons aren't as funny as they used to be."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/letter-to-the-editor-if-laughing-at-jack-chick-is-wrong-i-dont-wanna-be-right.md"
+notes_tags = ["notes/letter-to-the-editor-if-laughing-at-jack-chick-is-wrong-i-dont-wanna-be-right.md"]
 notes_about = ["authors/jack-chick.md"]
 books = ["books/bad-bob!.md"]
 +++

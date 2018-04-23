@@ -17,7 +17,7 @@ twitterauto = "We loved @tanehisicoates's stylish first issue of Black Panther."
 facebookauto = "The first issue of Ta-Nehisi Coates's Black Panther comic book came out yesterday! How was it?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-everybodys-talking-about-the-black-panther.md"
+notes_tags = ["notes/thursday-comics-hangover-everybodys-talking-about-the-black-panther.md"]
 notes_about = ["authors/ta-nehisi-coates.md"]
 books = ["books/between-the-world-and-me.md"]
 +++

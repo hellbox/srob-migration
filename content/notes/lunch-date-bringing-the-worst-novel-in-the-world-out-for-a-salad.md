@@ -17,7 +17,7 @@ twitterauto = "We took what might be the world's worst novel to lunch."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-bringing-the-worst-novel-in-the-world-out-for-a-salad.md"
+notes_tags = ["notes/lunch-date-bringing-the-worst-novel-in-the-world-out-for-a-salad.md"]
 notes_about = ""
 books = ""
 +++

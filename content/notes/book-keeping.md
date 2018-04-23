@@ -17,7 +17,7 @@ twitterauto = "This @KUOW report on the UW's new book conservation program is a 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-keeping.md"
+notes_tags = ["notes/book-keeping.md"]
 notes_about = ""
 books = ""
 +++

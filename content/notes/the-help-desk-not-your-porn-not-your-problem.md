@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: Someone is watching porn on public computers at th
 facebookauto = "Dear Cienna: Some guy is watching porn on public computers at the library! What should I do?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-not-your-porn-not-your-problem.md"
+notes_tags = ["notes/the-help-desk-not-your-porn-not-your-problem.md"]
 notes_about = ""
 books = ""
 +++

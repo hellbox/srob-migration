@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-los-angeles-is-a-magical-place.md"
+notes_tags = ["notes/thursday-comics-hangover-los-angeles-is-a-magical-place.md"]
 notes_about = ""
 books = ""
 +++

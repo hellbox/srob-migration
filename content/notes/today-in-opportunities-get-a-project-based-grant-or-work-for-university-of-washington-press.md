@@ -17,7 +17,7 @@ twitterauto = "Are you a Washington artist looking for some cash to finish a pro
 facebookauto = "Are you a Washington artist looking for some cash to finish a project? Click here:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/today-in-opportunities-get-a-project-based-grant-or-work-for-university-of-washington-press.md"
+notes_tags = ["notes/today-in-opportunities-get-a-project-based-grant-or-work-for-university-of-washington-press.md"]
 notes_about = ""
 books = ""
 +++

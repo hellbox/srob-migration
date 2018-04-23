@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @chloekbenjamin reads THE IMMORTALISTS tonight 
 facebookauto = "Portrait Gallery: Author Chloe Benjamin painted by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-chloe-benjamin.md"
+notes_tags = ["notes/portrait-gallery-chloe-benjamin.md"]
 notes_about = ""
 books = ""
 +++

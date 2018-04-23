@@ -17,7 +17,7 @@ twitterauto = "Bookselling is alive and well and living at the top of Queen Anne
 facebookauto = "The next time someone tries to tell you the publishing industry is dying, take them to the top of Queen Anne."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-joys-of-neighborhood-bookselling.md"
+notes_tags = ["notes/the-joys-of-neighborhood-bookselling.md"]
 notes_about = ""
 books = ""
 +++

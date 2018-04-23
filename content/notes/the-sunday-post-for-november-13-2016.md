@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post looks at....well. We all know what the Sunday Pos
 facebookauto = "The Sunday Post looks at....well. We all know what the Sunday Post is gonna talk about this week. No way around it."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-november-13-2016.md"
+notes_tags = ["notes/the-sunday-post-for-november-13-2016.md"]
 notes_about = ""
 books = ""
 +++

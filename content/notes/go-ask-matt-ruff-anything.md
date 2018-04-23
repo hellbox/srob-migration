@@ -17,7 +17,7 @@ twitterauto = "Novelist @bymattruff is on @reddit right now. Go ask him anything
 facebookauto = "If you've ever wanted to ask Matt Ruff a question, you're in luck! He's on Reddit right now, answering questions."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/go-ask-matt-ruff-anything.md"
+notes_tags = ["notes/go-ask-matt-ruff-anything.md"]
 notes_about = ["authors/matt-ruff.md"]
 books = ["books/lovecraft-country.md"]
 +++

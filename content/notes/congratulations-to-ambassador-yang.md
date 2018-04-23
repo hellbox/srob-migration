@@ -17,7 +17,7 @@ twitterauto = "Library of Congress names Ambassador for Young People's Literatur
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/congratulations-to-ambassador-yang.md"
+notes_tags = ["notes/congratulations-to-ambassador-yang.md"]
 notes_about = ["authors/gene-lueng-yang.md"]
 books = ""
 +++

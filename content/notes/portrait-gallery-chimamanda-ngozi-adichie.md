@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Chimamanda Ngozi Adichie #illustration by @stud
 facebookauto = "Portrait Gallery: Chimamanda Ngozi Adichie"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-chimamanda-ngozi-adichie.md"
+notes_tags = ["notes/portrait-gallery-chimamanda-ngozi-adichie.md"]
 notes_about = ["authors/chimamanda-ngozi-adichie.md"]
 books = ""
 +++

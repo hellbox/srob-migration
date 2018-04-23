@@ -10,5 +10,5 @@ last_updated = "2015-12-23T06:55:00-08:00"
 preview_url = "c4511222-5235-875e-0f6b-ecce0d946b87"
 name = "Mulholland Books"
 title = "Mulholland Books"
-books_publisher = "publishers/mulholland-books.md"
+books_publisher = ["publishers/mulholland-books.md"]
 +++

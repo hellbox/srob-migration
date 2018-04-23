@@ -17,7 +17,7 @@ twitterauto = "Here's a proposal for how to fix publishing's broken blurb system
 facebookauto = "Here's a proposal for how to fix publishing's broken blurb system."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/against-blurbs-and-for-endorsements.md"
+notes_tags = ["notes/against-blurbs-and-for-endorsements.md"]
 notes_about = ""
 books = ""
 +++

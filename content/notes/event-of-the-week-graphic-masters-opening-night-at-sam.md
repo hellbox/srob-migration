@@ -17,7 +17,7 @@ twitterauto = "In the beginning was our Event of the Week. And it was good."
 facebookauto = "Our Event of the Week is the opening night of the Graphic Masters show at Seattle Art Museum."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-graphic-masters-opening-night-at-sam.md"
+notes_tags = ["notes/event-of-the-week-graphic-masters-opening-night-at-sam.md"]
 notes_about = ["authors/mita-mahato.md", "authors/kelly-froh.md", "authors/jim-woodring.md", "authors/colleen-frakes.md"]
 books = ""
 +++

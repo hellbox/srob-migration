@@ -17,7 +17,7 @@ twitterauto = "You should make a resolution to join \u200f@EmWatson's feminist b
 facebookauto = "Emma Watson is starting a book club. Wait! That's not the best part. Emma Watson is starting a feminist book club. We would like to join immediately, please."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/today-in-fabulous-sentences.md"
+notes_tags = ["notes/today-in-fabulous-sentences.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "We'll follow you anywhere, @GWillowWilson."
 facebookauto = "Marvel Comics president Ike Perlmutter donated a million dollars to Donald Trump's big event last night. Seattle comics writer G. Willow Wilson wrote the perfect response:"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/g-willow-wilson-on-commercial-art-ethics-and-donald-trump.md"
+notes_tags = ["notes/g-willow-wilson-on-commercial-art-ethics-and-donald-trump.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ["books/ms-marvel.md"]
 +++

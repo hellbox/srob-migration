@@ -17,7 +17,7 @@ twitterauto = "Remember how Mein Kampf was going to be published in Germany for 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/its-a-hit(ler).md"
+notes_tags = ["notes/its-a-hit(ler).md"]
 notes_about = ""
 books = ""
 +++

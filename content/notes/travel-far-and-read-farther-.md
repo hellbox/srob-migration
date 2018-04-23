@@ -17,7 +17,7 @@ twitterauto = "Meet our first intern, Rebecca Garcia Moreno!"
 facebookauto = "Meet our first intern, Rebecca Garcia Moreno!"
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/travel-far-and-read-farther-.md"
+notes_tags = ["notes/travel-far-and-read-farther-.md"]
 notes_about = ""
 books = ""
 +++

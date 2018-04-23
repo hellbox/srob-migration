@@ -17,7 +17,7 @@ twitterauto = "So @fantagraphics just announced their latest contributor: @POTUS
 facebookauto = "Fantagraphics just announced their latest contributor: President Barack Obama."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/president-barack-obama-is-now-a-fantagraphics-contributor.md"
+notes_tags = ["notes/president-barack-obama-is-now-a-fantagraphics-contributor.md"]
 notes_about = ""
 books = ""
 +++

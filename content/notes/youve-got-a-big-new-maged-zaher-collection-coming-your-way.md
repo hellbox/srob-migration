@@ -17,7 +17,7 @@ twitterauto = "Today's cause for celebration: a Seattle publisher announced a hu
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/youve-got-a-big-new-maged-zaher-collection-coming-your-way.md"
+notes_tags = ["notes/youve-got-a-big-new-maged-zaher-collection-coming-your-way.md"]
 notes_about = ["authors/maged-zaher.md"]
 books = ""
 +++

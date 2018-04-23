@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/in-carkeek-park-the-words-grow-on-trees.md"
+notes_tags = ["notes/in-carkeek-park-the-words-grow-on-trees.md"]
 notes_about = ["authors/shin-yu-pai.md"]
 books = ["books/aux-arcs.md"]
 +++

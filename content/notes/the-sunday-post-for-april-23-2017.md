@@ -17,7 +17,7 @@ twitterauto = "Real science, false gods, how to read, and the last word on Rache
 facebookauto = "Real science, false gods, how to read, and the last word on Rachel Dolezal: the Sunday Post is up!"
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-april-23-2017.md"
+notes_tags = ["notes/the-sunday-post-for-april-23-2017.md"]
 notes_about = ""
 books = ""
 +++

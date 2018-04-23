@@ -17,7 +17,7 @@ twitterauto = "3 great independent Seattle presses have been living under one ro
 facebookauto = "Three great independent Seattle presses have been living under one roof for 8 months now. How's it working out for them?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-pleasures-and-pains-of-housing-three-seattle-small-presses-under-one-roof.md"
+notes_tags = ["notes/the-pleasures-and-pains-of-housing-three-seattle-small-presses-under-one-roof.md"]
 notes_about = ["authors/colleen-louise-barry.md"]
 books = ""
 +++

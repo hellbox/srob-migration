@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Washington State University Press"
 title = "Washington State University Press"
-books_publisher = "publishers/washington-state-university-press.md"
+books_publisher = ["publishers/washington-state-university-press.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Today in a very off-topic Help Desk: \"Buck up and compost, Joe.\
 facebookauto = "Today in a very off-topic Help Desk: \"Buck up and compost, Joe.\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-at-your-disposal.md"
+notes_tags = ["notes/the-help-desk-at-your-disposal.md"]
 notes_about = ""
 books = ""
 +++

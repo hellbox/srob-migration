@@ -17,7 +17,7 @@ twitterauto = "Today in Book News Roundup: Nicola Griffith, Ursula K. LeGuin, an
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-donald-trumps-reading-list-is-as-small-as-his-hands.md"
+notes_tags = ["notes/book-news-roundup-donald-trumps-reading-list-is-as-small-as-his-hands.md"]
 notes_about = ["authors/nicola-griffith.md", "authors/ursula-k-le-guin.md"]
 books = ""
 +++

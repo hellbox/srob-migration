@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: It's Sarah Galvin, reading this Saturday @never
 facebookauto = "For this week's Portrait Gallery, Sarah Galvin is back! See her read this Saturday in Capitol Hill. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery---sarah-galvin.md"
+notes_tags = ["notes/portrait-gallery---sarah-galvin.md"]
 notes_about = ""
 books = ""
 +++

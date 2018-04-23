@@ -17,7 +17,7 @@ twitterauto = "This week brings events for kids and a reading from Donna Miscolt
 facebookauto = "Lots of fun holiday readings for kids this week, along with other literary events."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-december-14th---december-20th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-december-14th---december-20th.md"]
 notes_about = ["authors/donna-miscolta.md"]
 books = ["books/hola-and-goodbye.md"]
 +++

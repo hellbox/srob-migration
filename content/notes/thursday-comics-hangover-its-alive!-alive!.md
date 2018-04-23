@@ -17,7 +17,7 @@ twitterauto = "Like Get Out & The Underground Railroad? This comic from @boomstu
 facebookauto = "It takes guts to write a sequel to Frankenstein, but Victor LaValle isn't just some writer. He's one of the most underrated American writers."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-its-alive!-alive!.md"
+notes_tags = ["notes/thursday-comics-hangover-its-alive!-alive!.md"]
 notes_about = ""
 books = ""
 +++

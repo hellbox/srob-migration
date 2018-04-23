@@ -17,7 +17,7 @@ twitterauto = "There are more bad-selling authors than good ones, points out @ci
 facebookauto = "There are more bad-selling authors than good ones, points out Cienna Madrid. So buck up, low-selling writer!"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-that-terrible-feeling-when-youve-finally-reached-your-goals.md"
+notes_tags = ["notes/the-help-desk-that-terrible-feeling-when-youve-finally-reached-your-goals.md"]
 notes_about = ""
 books = ""
 +++

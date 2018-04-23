@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/its-your-last-day-to-donate-a-book-to-prisoners-through-open-books.md"
+notes_tags = ["notes/its-your-last-day-to-donate-a-book-to-prisoners-through-open-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Sponsor @stevetoutonghi's book \"Join\" imagines a future where m
 facebookauto = "Sponsor Steve Toutonghi's book \"Join\" imagines a future where many minds make up a single consciousness. This one is really great."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-perfect-mind-meld.md"
+notes_tags = ["notes/the-perfect-mind-meld.md"]
 notes_about = ""
 books = ""
 +++

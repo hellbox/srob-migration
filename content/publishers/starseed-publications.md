@@ -10,5 +10,5 @@ last_updated = "2017-08-05T11:45:00-07:00"
 preview_url = "d977d24d-0c36-88d0-522c-d23c87b9186c"
 name = "Starseed Publications"
 title = "Starseed Publications"
-books_publisher = "publishers/starseed-publications.md"
+books_publisher = ["publishers/starseed-publications.md"]
 +++

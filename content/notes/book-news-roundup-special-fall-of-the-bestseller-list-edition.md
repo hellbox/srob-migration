@@ -17,7 +17,7 @@ twitterauto = "The New York Times is making a grave mistake by reducing their be
 facebookauto = "The New York Times is making a grave mistake by removing many of their bestseller lists."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-special-fall-of-the-bestseller-list-edition.md"
+notes_tags = ["notes/book-news-roundup-special-fall-of-the-bestseller-list-edition.md"]
 notes_about = ""
 books = ""
 +++

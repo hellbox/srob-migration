@@ -10,5 +10,5 @@ last_updated = "2015-09-20T21:48:00-07:00"
 preview_url = "be1af05d-ea42-f67c-11ba-bdbcf3a8d662"
 name = "Houghton Mifflin Harcourt"
 title = "Houghton Mifflin Harcourt"
-books_publisher = "publishers/houghton-mifflin-harcourt.md"
+books_publisher = ["publishers/houghton-mifflin-harcourt.md"]
 +++

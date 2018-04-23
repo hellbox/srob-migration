@@ -17,7 +17,7 @@ twitterauto = "In this week\u2019s Sunday Post, @pattersonhood on Petty, @mikein
 facebookauto = "In this week\u2019s Sunday Post, Patterson Hood on Tom Petty, Mike Davidson on the end of Newsvine, and David Dobbs and Nev Jones on going mad."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-october-8-2017.md"
+notes_tags = ["notes/the-sunday-post-for-october-8-2017.md"]
 notes_about = ""
 books = ""
 +++

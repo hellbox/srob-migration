@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Moss"
 title = "Moss"
-books_publisher = "publishers/moss.md"
+books_publisher = ["publishers/moss.md"]
 +++

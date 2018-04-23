@@ -17,7 +17,7 @@ twitterauto = "We interviewed an @SPLBuzz librarian about how the library chose 
 facebookauto = "We interviewed Angela Gough from the Seattle Public Library about how the library chose one book for all Seattle to read in 2017."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-librarian-andrea-gough-about-why-the-turner-house-is-the-book-all-seattle-should-read-in-2017.md"
+notes_tags = ["notes/talking-with-librarian-andrea-gough-about-why-the-turner-house-is-the-book-all-seattle-should-read-in-2017.md"]
 notes_about = ""
 books = ""
 +++

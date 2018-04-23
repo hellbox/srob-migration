@@ -17,7 +17,7 @@ twitterauto = "Semple! Local flavor in the Mail Call"
 facebookauto = "Some local flavor in this Mail Call"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-june-8-2016.md"
+notes_tags = ["notes/mail-call-for-june-8-2016.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Diversity training, book bingo, and news about @1JessWalter and @
 facebookauto = "Today in Book News Roundup: News about Jess Walter and Julia Wertz, along with other things not relating to authors with the initials \"JW.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-book-bingo-diversity-training-a-guest-for-short-run-and-an-award-for-jess-walter.md"
+notes_tags = ["notes/book-news-roundup-book-bingo-diversity-training-a-guest-for-short-run-and-an-award-for-jess-walter.md"]
 notes_about = ["authors/julia-wertz.md", "authors/jess-walter.md"]
 books = ""
 +++

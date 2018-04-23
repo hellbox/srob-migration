@@ -17,7 +17,7 @@ twitterauto = "We're big fans of @thisisEJKoh. After you read this interview, yo
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-meaning-of-thank-you-i-am-sorry.md"
+notes_tags = ["notes/the-meaning-of-thank-you-i-am-sorry.md"]
 notes_about = ["authors/ej-koh.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/fifty-shades-of-ama.md"
+notes_tags = ["notes/fifty-shades-of-ama.md"]
 notes_about = ["authors/el-james.md"]
 books = ["books/fifty-shades-of-grey.md"]
 +++

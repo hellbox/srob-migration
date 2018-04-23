@@ -17,7 +17,7 @@ twitterauto = "Seattle Public Library knows the public is unhappy with their reb
 facebookauto = "City Librarian Marcellus Turner has released a letter responding to public protestations of Seattle Public Library's rebranding campaign. Now that we know they're listening, let's make sure the library hears what we have to say."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-public-library-defends-rebranding-campaign-in-the-face-of-public-protests.md"
+notes_tags = ["notes/seattle-public-library-defends-rebranding-campaign-in-the-face-of-public-protests.md"]
 notes_about = ""
 books = ""
 +++

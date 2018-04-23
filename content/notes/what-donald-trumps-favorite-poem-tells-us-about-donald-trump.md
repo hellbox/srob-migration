@@ -17,7 +17,7 @@ twitterauto = "Donald Trump likes to cap off his speeches by reading a poem. Wha
 facebookauto = "Donald Trump likes to cap off his speeches by reading a poem. What does that poem have to teach us?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/what-donald-trumps-favorite-poem-tells-us-about-donald-trump.md"
+notes_tags = ["notes/what-donald-trumps-favorite-poem-tells-us-about-donald-trump.md"]
 notes_about = ""
 books = ""
 +++

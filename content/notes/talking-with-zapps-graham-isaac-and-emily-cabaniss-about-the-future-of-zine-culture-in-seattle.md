@@ -17,7 +17,7 @@ twitterauto = "We talked with the @ZAPPSeattle administration about the future o
 facebookauto = "We talked with ZAPP's administration about the future of Seattle's zine culture."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-zapps-graham-isaac-and-emily-cabaniss-about-the-future-of-zine-culture-in-seattle.md"
+notes_tags = ["notes/talking-with-zapps-graham-isaac-and-emily-cabaniss-about-the-future-of-zine-culture-in-seattle.md"]
 notes_about = ""
 books = ""
 +++

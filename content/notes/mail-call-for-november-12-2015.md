@@ -17,7 +17,7 @@ twitterauto = "Nothing better on a stormy night than looking at some new books. 
 facebookauto = "SeaTac is delayed, streets are gridlocked with cars in the intersections and the pedestrian box, rain is falling, and a bigger storm is brewing. Why not look at some of the latest books that've come through? It's time for Mail Call!"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-november-12-2015.md"
+notes_tags = ["notes/mail-call-for-november-12-2015.md"]
 notes_about = ""
 books = ""
 +++

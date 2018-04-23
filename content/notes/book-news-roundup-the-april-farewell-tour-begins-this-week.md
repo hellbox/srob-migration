@@ -17,7 +17,7 @@ twitterauto = "Our Book News Roundup pits traditional book reviews against Amazo
 facebookauto = "Our Book News Roundup pits traditional book reviews against Amazon reviews."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-april-farewell-tour-begins-this-week.md"
+notes_tags = ["notes/book-news-roundup-the-april-farewell-tour-begins-this-week.md"]
 notes_about = ""
 books = ""
 +++

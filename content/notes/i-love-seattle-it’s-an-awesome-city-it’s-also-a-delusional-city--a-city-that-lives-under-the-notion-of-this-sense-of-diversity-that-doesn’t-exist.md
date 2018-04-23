@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-love-seattle-it’s-an-awesome-city-it’s-also-a-delusional-city--a-city-that-lives-under-the-notion-of-this-sense-of-diversity-that-doesn’t-exist.md"
+notes_tags = ["notes/i-love-seattle-it’s-an-awesome-city-it’s-also-a-delusional-city--a-city-that-lives-under-the-notion-of-this-sense-of-diversity-that-doesn’t-exist.md"]
 notes_about = ["authors/maged-zaher.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "As Intruder prepares to disappear forever, it's getting more Intr
 facebookauto = "As Intruder prepares to disappear forever, it's getting more Intruder-ier than ever."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-final-countdown.md"
+notes_tags = ["notes/thursday-comics-hangover-the-final-countdown.md"]
 notes_about = ["authors/marc-palm.md", "authors/seth-goodkind.md"]
 books = ""
 +++

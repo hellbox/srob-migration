@@ -17,7 +17,7 @@ twitterauto = "\"Bunker\" is the title of this poem from February Poet In Reside
 facebookauto = "\"Bunker\" is the title of this poem from February Poet In Residence, Azura Tyabji"
 make_image_tweet = "False"
 notes_byline = ["writers/azura-tyabji.md"]
-notes_tags = "notes/bunker.md"
+notes_tags = ["notes/bunker.md"]
 notes_about = ""
 books = ""
 +++

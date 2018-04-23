@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-quick-note-on-problems-with-givebig.md"
+notes_tags = ["notes/a-quick-note-on-problems-with-givebig.md"]
 notes_about = ""
 books = ""
 +++

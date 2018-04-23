@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post today has pieces from @joshuabrustein, @danpiepen
 facebookauto = "The history of Alexa, naked bookplates, and high-tech high-fashion, today on the Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-april-24-2016.md"
+notes_tags = ["notes/the-sunday-post-for-april-24-2016.md"]
 notes_about = ""
 books = ""
 +++

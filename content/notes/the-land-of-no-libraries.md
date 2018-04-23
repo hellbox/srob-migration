@@ -17,7 +17,7 @@ twitterauto = "Libraries are closing in America. Voters are saying no to support
 facebookauto = "Libraries are closing in America. Voters are saying no to supporting the arts. What's going on?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-land-of-no-libraries.md"
+notes_tags = ["notes/the-land-of-no-libraries.md"]
 notes_about = ""
 books = ""
 +++

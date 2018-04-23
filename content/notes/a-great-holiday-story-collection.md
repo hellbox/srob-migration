@@ -17,7 +17,7 @@ twitterauto = "Grey Sun Press is our sponsor this week, with a completely engagi
 facebookauto = "Our sponsor this week is Grey Sun Press. They've published a fantastic collection of cross-genre holiday stories called \"Joy to the Worlds\". "
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-great-holiday-story-collection.md"
+notes_tags = ["notes/a-great-holiday-story-collection.md"]
 notes_about = ["authors/janine-a-southard.md", "authors/maia-chance.md", "authors/g-clemens.md", "authors/raven-oak.md"]
 books = ["books/joy-to-the-worlds.md"]
 +++

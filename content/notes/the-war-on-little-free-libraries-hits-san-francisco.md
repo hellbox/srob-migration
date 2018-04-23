@@ -17,7 +17,7 @@ twitterauto = "Is there such a thing as too many Little Free Libraries? If so, i
 facebookauto = "Is there such a thing as too many Little Free Libraries? If so, is Seattle getting close to over-saturation?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-war-on-little-free-libraries-hits-san-francisco.md"
+notes_tags = ["notes/the-war-on-little-free-libraries-hits-san-francisco.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Today brings news about @DonnaMiscolta, @accidentaltheo, & @Fearl
 facebookauto = "Here are four books you should buy from a local independent bookstore this weekend."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-four-books-you-should-really-look-into.md"
+notes_tags = ["notes/book-news-roundup-four-books-you-should-really-look-into.md"]
 notes_about = ["authors/lesley-hazleton.md", "authors/donna-miscolta.md", "authors/david-schmader.md", "authors/peter-mountford.md", "authors/megan-kelso.md"]
 books = ["books/agnostic.md", "books/hola-and-goodbye.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = ".@ThirdPlaceBooks managing partner @rbertsindelar and @paulconsta
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-week-in-book-podcasts.md"
+notes_tags = ["notes/this-week-in-book-podcasts.md"]
 notes_about = ""
 books = ""
 +++

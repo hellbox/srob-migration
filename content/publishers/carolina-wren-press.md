@@ -10,5 +10,5 @@ last_updated = "2016-11-05T20:15:00-07:00"
 preview_url = "83e25d50-f08d-4cef-f795-5e7083fbc478"
 name = "Carolina Wren Press"
 title = "Carolina Wren Press"
-books_publisher = "publishers/carolina-wren-press.md"
+books_publisher = ["publishers/carolina-wren-press.md"]
 +++

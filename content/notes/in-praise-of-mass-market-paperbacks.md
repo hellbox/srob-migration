@@ -17,7 +17,7 @@ twitterauto = "In praise of mass market paperbacks."
 facebookauto = "Harper Lee's estate is killing the cheap mass market edition of To Kill a Mockingbird. Here's why we need more affordable paperbacks, not less."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/in-praise-of-mass-market-paperbacks.md"
+notes_tags = ["notes/in-praise-of-mass-market-paperbacks.md"]
 notes_about = ""
 books = ""
 +++

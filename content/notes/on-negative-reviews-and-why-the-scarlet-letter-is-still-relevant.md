@@ -17,7 +17,7 @@ twitterauto = "The good folks @lithub interviewed @paulconstant about the tawdry
 facebookauto = "Literary Hub interviewed our cofounder Paul Constant about misconceptions people have about book critics. He has some opinions about negative book reviews."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/on-negative-reviews-and-why-the-scarlet-letter-is-still-relevant.md"
+notes_tags = ["notes/on-negative-reviews-and-why-the-scarlet-letter-is-still-relevant.md"]
 notes_about = ""
 books = ""
 +++

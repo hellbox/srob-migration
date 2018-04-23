@@ -17,7 +17,7 @@ twitterauto = "The Post dives into the male psyche & the digital jungle. Also, i
 facebookauto = "The Sunday Post dives deep: into the male psyche, under the waves, through the digital jungle. Also, it's okay to ask for money if you write, really."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-february-18-2018.md"
+notes_tags = ["notes/the-sunday-post-for-february-18-2018.md"]
 notes_about = ""
 books = ""
 +++

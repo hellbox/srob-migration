@@ -17,7 +17,7 @@ twitterauto = "A nice Sunday evening stack of goodness. "
 facebookauto = "A nice Sunday evening stack of goodness. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-may-21-2017.md"
+notes_tags = ["notes/mail-call-for-may-21-2017.md"]
 notes_about = ""
 books = ""
 +++

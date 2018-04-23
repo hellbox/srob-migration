@@ -17,7 +17,7 @@ twitterauto = "Facebook wants you to watch more video and stop reading long piec
 facebookauto = "Facebook wants you to watch more video and stop reading long pieces of writing. BuzzFeed just wants your attention. What do you want?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/why-youre-about-to-see-fewer-words-on-the-internet.md"
+notes_tags = ["notes/why-youre-about-to-see-fewer-words-on-the-internet.md"]
 notes_about = ""
 books = ""
 +++

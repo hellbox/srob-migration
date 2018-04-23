@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-july-28-2015.md"
+notes_tags = ["notes/mail-call-for-july-28-2015.md"]
 notes_about = ["authors/amitav-ghosh.md", "authors/sunil-yapa.md"]
 books = ""
 +++

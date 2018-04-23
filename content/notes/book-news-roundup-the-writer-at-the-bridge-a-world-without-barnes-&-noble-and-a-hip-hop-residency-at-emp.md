@@ -17,7 +17,7 @@ twitterauto = "All the news you need on Barnes & Noble, the e-book lawsuit, & wh
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-writer-at-the-bridge-a-world-without-barnes-&-noble-and-a-hip-hop-residency-at-emp.md"
+notes_tags = ["notes/book-news-roundup-the-writer-at-the-bridge-a-world-without-barnes-&-noble-and-a-hip-hop-residency-at-emp.md"]
 notes_about = ""
 books = ""
 +++

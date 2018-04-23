@@ -17,7 +17,7 @@ twitterauto = "Redmond's got a great-looking celebration of poetry coming up thi
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/find-poetry-in-redmond-this-weekend.md"
+notes_tags = ["notes/find-poetry-in-redmond-this-weekend.md"]
 notes_about = ["authors/sierra-nelson.md", "authors/shin-yu-pai.md"]
 books = ""
 +++

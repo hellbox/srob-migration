@@ -17,7 +17,7 @@ twitterauto = "There will be a bunch of gossipy books about the 2016 election in
 facebookauto = "There will be a bunch of gossipy books about the 2016 election in bookstores soon. Maybe don't read them?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/why-im-not-reading-the-new-book-about-hillary-clintons-campaign-and-why-you-shouldnt-either.md"
+notes_tags = ["notes/why-im-not-reading-the-new-book-about-hillary-clintons-campaign-and-why-you-shouldnt-either.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = "2015-12-12T14:56:00-08:00"
 preview_url = "7507f225-05cf-f64e-588c-65c9a6b3aea8"
 name = "Third Place Press"
 title = "Third Place Press"
-books_publisher = "publishers/third-place-press.md"
+books_publisher = ["publishers/third-place-press.md"]
 +++

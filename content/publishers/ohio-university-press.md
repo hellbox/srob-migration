@@ -10,5 +10,5 @@ last_updated = "2018-02-25T20:27:00-08:00"
 preview_url = "68f64cc1-fdb6-52f9-f6c4-4890a577475d"
 name = "Ohio University Press"
 title = "Ohio University Press"
-books_publisher = "publishers/ohio-university-press.md"
+books_publisher = ["publishers/ohio-university-press.md"]
 +++

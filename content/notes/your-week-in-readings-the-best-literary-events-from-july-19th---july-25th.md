@@ -17,7 +17,7 @@ twitterauto = "Your week in readings goes from Venus to the Lake Washington Ship
 facebookauto = "Your week in readings goes from Venus to the Lake Washington Ship Canal and back!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-july-19th---july-25th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-july-19th---july-25th.md"]
 notes_about = ""
 books = ""
 +++

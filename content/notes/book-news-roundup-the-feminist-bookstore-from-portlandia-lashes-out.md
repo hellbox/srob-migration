@@ -17,7 +17,7 @@ twitterauto = "Our book news roundup features @shortrunseattle, @1jesswalter, @t
 facebookauto = "Our book news roundup features the angriest feminist bookstore in all of Portland, the new Short Run schedule, a couple big prizes for writers, and an artificial intelligence that eats books."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-feminist-bookstore-from-portlandia-lashes-out.md"
+notes_tags = ["notes/book-news-roundup-the-feminist-bookstore-from-portlandia-lashes-out.md"]
 notes_about = ["authors/sarah-glidden.md", "authors/david-lasky.md", "authors/jess-walter.md"]
 books = ""
 +++

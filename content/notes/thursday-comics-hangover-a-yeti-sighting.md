@@ -17,7 +17,7 @@ twitterauto = "Three cheers for @rjcaseywrites and the punky comics outsiders @Y
 facebookauto = "A local comics publisher is making the kind of comics Mad Magazine used to specialize in."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-a-yeti-sighting.md"
+notes_tags = ["notes/thursday-comics-hangover-a-yeti-sighting.md"]
 notes_about = ["authors/rj-casey.md", "authors/ben-horak.md"]
 books = ""
 +++

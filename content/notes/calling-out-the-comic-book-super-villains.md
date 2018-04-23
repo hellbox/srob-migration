@@ -17,7 +17,7 @@ twitterauto = "Writer @alexdecampi is revealing some uncomfortable truths about 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/calling-out-the-comic-book-super-villains.md"
+notes_tags = ["notes/calling-out-the-comic-book-super-villains.md"]
 notes_about = ""
 books = ""
 +++

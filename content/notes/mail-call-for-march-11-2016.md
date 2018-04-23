@@ -17,7 +17,7 @@ twitterauto = "It's after 11:00. Do you know where your mail call is?"
 facebookauto = "Late night mail call!"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-march-11-2016.md"
+notes_tags = ["notes/mail-call-for-march-11-2016.md"]
 notes_about = ""
 books = ""
 +++

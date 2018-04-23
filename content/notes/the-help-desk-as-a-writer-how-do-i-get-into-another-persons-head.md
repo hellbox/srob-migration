@@ -17,7 +17,7 @@ twitterauto = "Empathy is important for writers. How do you stop your fiction fr
 facebookauto = "Our literary advice columnist takes a hard question from a NaNoWriMo novelist: how do you break free from your own experiences and get into the minds of others?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-as-a-writer-how-do-i-get-into-another-persons-head.md"
+notes_tags = ["notes/the-help-desk-as-a-writer-how-do-i-get-into-another-persons-head.md"]
 notes_about = ""
 books = ""
 +++

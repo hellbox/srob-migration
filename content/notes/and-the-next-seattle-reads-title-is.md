@@ -17,7 +17,7 @@ twitterauto = "The next Seattle Reads title was announced today. Here it is:"
 facebookauto = "The next Seattle Reads title was announced today. Here it is:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/and-the-next-seattle-reads-title-is.md"
+notes_tags = ["notes/and-the-next-seattle-reads-title-is.md"]
 notes_about = ""
 books = ""
 +++

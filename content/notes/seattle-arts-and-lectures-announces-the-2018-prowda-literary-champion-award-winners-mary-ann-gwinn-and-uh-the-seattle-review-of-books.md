@@ -17,7 +17,7 @@ twitterauto = "Thank you, @SeaArtsLectures, for honoring us alongside the great 
 facebookauto = "Thank you, Seattle Arts and Lectures, for honoring us alongside the great Mary Ann Gwinn as Prowda Literary Champions!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-arts-and-lectures-announces-the-2018-prowda-literary-champion-award-winners-mary-ann-gwinn-and-uh-the-seattle-review-of-books.md"
+notes_tags = ["notes/seattle-arts-and-lectures-announces-the-2018-prowda-literary-champion-award-winners-mary-ann-gwinn-and-uh-the-seattle-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "A reader asks @ciennam: This cute boy only reads big, overserious
 facebookauto = "In this week's advice column, Cienna Madrid tackles maybe the best question yet: \"There's this guy who rides the elevator with me at work pretty often. He always has a big, complex book in his hands \u2014 Bola\u00f1o, or DFW, or Knausgaard. He's pretty good looking, but I've held off smiling at him because I'm worried his choice of books means he's going to be pretty intellectually limited. Is there a safe way to test him in public before asking him out on a date?\""
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-a-cute-boy-only-reads-self-important-books-by-self-important-men-— what-do-i-do.md"
+notes_tags = ["notes/the-help-desk-a-cute-boy-only-reads-self-important-books-by-self-important-men-— what-do-i-do.md"]
 notes_about = ["authors/octavia-butler.md", "authors/jonathan-franzen.md"]
 books = ["books/bloodchild.md", "books/purity.md"]
 +++

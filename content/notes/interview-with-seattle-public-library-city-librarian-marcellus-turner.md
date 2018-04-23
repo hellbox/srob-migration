@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/laurel-holliday.md"]
-notes_tags = "notes/interview-with-seattle-public-library-city-librarian-marcellus-turner.md"
+notes_tags = ["notes/interview-with-seattle-public-library-city-librarian-marcellus-turner.md"]
 notes_about = ""
 books = ""
 +++

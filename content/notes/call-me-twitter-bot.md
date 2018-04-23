@@ -17,7 +17,7 @@ twitterauto = "Some days, only Herman Melville can interpret the news correctly.
 facebookauto = "Some days, only Herman Melville can interpret the news correctly."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/call-me-twitter-bot.md"
+notes_tags = ["notes/call-me-twitter-bot.md"]
 notes_about = ["authors/herman-melville.md"]
 books = ["books/moby-dick.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "It's time for @APRILfestSEA, and they're our sponsor this week!"
 facebookauto = "It's April Festival time, and they're our sponsor this week!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/april-festival-starts-tomorrow.md"
+notes_tags = ["notes/april-festival-starts-tomorrow.md"]
 notes_about = ""
 books = ""
 +++

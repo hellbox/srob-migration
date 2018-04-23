@@ -10,5 +10,5 @@ last_updated = "2017-04-30T16:31:00-07:00"
 preview_url = "cc978398-e25b-1157-f167-a2c57173af78"
 name = "Abrams Comic Arts"
 title = "Abrams Comic Arts"
-books_publisher = "publishers/abrams-comic-arts.md"
+books_publisher = ["publishers/abrams-comic-arts.md"]
 +++

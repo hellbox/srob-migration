@@ -17,7 +17,7 @@ twitterauto = "\"At Night, Asleep\" is the third poem from Poet in Residence @bu
 facebookauto = "\"At Night, Asleep\" is the third poem from Poet in Residence Jeanine Walker"
 make_image_tweet = "False"
 notes_byline = ["writers/jeanine-walker.md"]
-notes_tags = "notes/at-night-asleep.md"
+notes_tags = ["notes/at-night-asleep.md"]
 notes_about = ""
 books = ""
 +++

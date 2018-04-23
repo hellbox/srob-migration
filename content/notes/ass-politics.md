@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is \"Ass Politics\", by @trippweavepoet"
 facebookauto = "Our Tuesday Poem today is \"Ass Politics\", by Julene Tripp Weaver"
 make_image_tweet = "False"
 notes_byline = ["writers/julene-tripp-weaver.md"]
-notes_tags = "notes/ass-politics.md"
+notes_tags = ["notes/ass-politics.md"]
 notes_about = ""
 books = ""
 +++

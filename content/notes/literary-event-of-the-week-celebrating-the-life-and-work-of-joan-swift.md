@@ -17,7 +17,7 @@ twitterauto = "This week, celebrate the life and work of Joan Swift @openpoetryb
 facebookauto = "This week, celebrate the life and work of Joan Swift at Open Books."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-celebrating-the-life-and-work-of-joan-swift.md"
+notes_tags = ["notes/literary-event-of-the-week-celebrating-the-life-and-work-of-joan-swift.md"]
 notes_about = ["authors/joan-swift.md", "authors/sherman-alexie.md", "authors/sarah-galvin.md", "authors/jane-wong.md", "authors/robert-lashley.md"]
 books = ""
 +++

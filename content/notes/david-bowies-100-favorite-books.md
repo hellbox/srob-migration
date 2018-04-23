@@ -17,7 +17,7 @@ twitterauto = "David Bowie was a life-saving artist and a passionate reader."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/david-bowies-100-favorite-books.md"
+notes_tags = ["notes/david-bowies-100-favorite-books.md"]
 notes_about = ""
 books = ""
 +++

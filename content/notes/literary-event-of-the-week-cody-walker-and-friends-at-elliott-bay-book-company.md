@@ -17,7 +17,7 @@ twitterauto = "Our event of the week features a quintessentially Seattle poet wh
 facebookauto = "Our event of the week features a quintessentially Seattle poet who doesn't live in Seattle anymore."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-cody-walker-and-friends-at-elliott-bay-book-company.md"
+notes_tags = ["notes/literary-event-of-the-week-cody-walker-and-friends-at-elliott-bay-book-company.md"]
 notes_about = ["authors/cody-walker.md"]
 books = ["books/the-self-styled-no-child.md"]
 +++

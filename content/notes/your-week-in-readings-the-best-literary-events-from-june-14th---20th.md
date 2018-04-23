@@ -17,7 +17,7 @@ twitterauto = "This week, writers from eastern Washington and western Washington
 facebookauto = "This week, writers from eastern Washington and western Washington team up, bringing the state together."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-june-14th---20th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-june-14th---20th.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/tatiana-gill.md"]
 books = ""
 +++

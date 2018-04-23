@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is John Olson's \"The Matter of the Balcony Rail
 facebookauto = "Our Tuesday Poem is John Olson's \"The Matter of the Balcony Railing\""
 make_image_tweet = "False"
 notes_byline = ["writers/john-olson.md"]
-notes_tags = "notes/the-matter-of-the-balcony-railing.md"
+notes_tags = ["notes/the-matter-of-the-balcony-railing.md"]
 notes_about = ""
 books = ""
 +++

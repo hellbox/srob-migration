@@ -17,7 +17,7 @@ twitterauto = "Writers resist Trump @THSEA in our weekly look at the best events
 facebookauto = "This week in readings: writers resist Trump, writers celebrate new books, writers read at the Egyptian Theatre, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-11th---january-17th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-11th---january-17th.md"]
 notes_about = ["authors/cat-rambo.md", "authors/g-willow-wilson.md", "authors/jess-walter.md", "authors/tod-marshall.md"]
 books = ""
 +++

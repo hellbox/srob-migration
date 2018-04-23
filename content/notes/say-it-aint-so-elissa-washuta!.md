@@ -17,7 +17,7 @@ twitterauto = "We're so sad to hear @misswashuta is leaving Seattle!"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/say-it-aint-so-elissa-washuta!.md"
+notes_tags = ["notes/say-it-aint-so-elissa-washuta!.md"]
 notes_about = ["authors/elissa-washuta.md"]
 books = ""
 +++

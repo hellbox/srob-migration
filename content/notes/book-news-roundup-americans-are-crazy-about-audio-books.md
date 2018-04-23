@@ -17,7 +17,7 @@ twitterauto = "Audio books are booming, and so is Sherman Alexie. Check out toda
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-americans-are-crazy-about-audio-books.md"
+notes_tags = ["notes/book-news-roundup-americans-are-crazy-about-audio-books.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/neal-stephenson.md", "authors/neil-gaiman.md"]
 books = ""
 +++

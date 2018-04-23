@@ -17,7 +17,7 @@ twitterauto = "This Saturday, join @fantagraphics for a book fair that's just th
 facebookauto = "This Saturday, join Fantagraphics for a book fair that's just the right size."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-hot-off-the-press-book-fair-at-fantagraphics-bookstore-.md"
+notes_tags = ["notes/literary-event-of-the-week-hot-off-the-press-book-fair-at-fantagraphics-bookstore-.md"]
 notes_about = ["authors/simon-hanselmann.md"]
 books = ""
 +++

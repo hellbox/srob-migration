@@ -17,7 +17,7 @@ twitterauto = "Washington state's new poet laureate is Tod Marshall, from Spokan
 facebookauto = "Washington state's newest poet laureate is Tod Marshall, a Spokane poet and teacher. He's got some big shoes to fill."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/spokane-poet-tod-marshall-is-washingtons-new-poet-laureate.md"
+notes_tags = ["notes/spokane-poet-tod-marshall-is-washingtons-new-poet-laureate.md"]
 notes_about = ["authors/tod-marshall.md", "authors/kathleen-flenniken.md", "authors/elizabeth-austen.md"]
 books = ""
 +++

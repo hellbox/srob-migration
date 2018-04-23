@@ -17,7 +17,7 @@ twitterauto = "Darwyn Cooke was one of the best cartoonists in the business."
 facebookauto = "Darwyn Cooke worked on the Batman and Batman Beyond cartoons, and then he made one of the best novel-to-comic adaptations of all time."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/darwyn-cooke-1962---2016.md"
+notes_tags = ["notes/darwyn-cooke-1962---2016.md"]
 notes_about = ""
 books = ""
 +++

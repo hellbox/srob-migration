@@ -17,7 +17,7 @@ twitterauto = "Join us @thirdplacebooks on Wednesday to talk about Big Data."
 facebookauto = "Join us at Third Place Books on Wednesday to talk about Big Data."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-reading-through-it-book-club-at-third-place-books-seward-park.md"
+notes_tags = ["notes/literary-event-of-the-week-reading-through-it-book-club-at-third-place-books-seward-park.md"]
 notes_about = ""
 books = ""
 +++

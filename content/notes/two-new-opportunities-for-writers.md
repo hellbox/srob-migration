@@ -17,7 +17,7 @@ twitterauto = "Are you an aspiring writer? Check out these two new writing oppor
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/two-new-opportunities-for-writers.md"
+notes_tags = ["notes/two-new-opportunities-for-writers.md"]
 notes_about = ""
 books = ""
 +++

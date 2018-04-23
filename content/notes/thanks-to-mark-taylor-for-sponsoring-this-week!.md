@@ -17,7 +17,7 @@ twitterauto = "Thanks to our sponsor Mark Taylor. You really need to check out h
 facebookauto = "Our thanks to this week's sponsor Mark Taylor. One day left to check out a chapter from his novel Assassin Rabbit from the Dawn of Time -- ebook coming soon!"
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/thanks-to-mark-taylor-for-sponsoring-this-week!.md"
+notes_tags = ["notes/thanks-to-mark-taylor-for-sponsoring-this-week!.md"]
 notes_about = ["authors/mark-taylor.md"]
 books = ["books/assassin-rabbit-from-the-dawn-of-time.md"]
 +++

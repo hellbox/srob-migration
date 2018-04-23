@@ -17,7 +17,7 @@ twitterauto = "Your week of readings brings a trip to the moon and a sci-fi art 
 facebookauto = "Your week of readings brings a trip to the moon and an exhibit of art based on Nisi Shawl's excellent novel Everfair!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-may-17th---may-23rd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-may-17th---may-23rd.md"]
 notes_about = ["authors/doug-nufer.md", "authors/quenton-baker.md"]
 books = ""
 +++

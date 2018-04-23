@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes a local comic book show, a celebra
 facebookauto = "Your week in readings includes a local comic book show, a celebration of Greenwood, and more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-6th---12th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-6th---12th.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings brings a dystopian Joan of Arc story, a pai
 facebookauto = "Your Week in Readings brings a dystopian Joan of Arc story, a pair of plays, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-19th---april-25th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-19th---april-25th.md"]
 notes_about = ""
 books = ""
 +++

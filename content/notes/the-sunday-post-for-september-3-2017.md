@@ -17,7 +17,7 @@ twitterauto = "This week's Sunday reading: articles by @PaisleyRekdal, @ScottEsp
 facebookauto = "This week's Sunday reading includes Paisley Rekdal glossing her own verse, Scott Esposito on why books matter, Seward Darby on the women of the alt-right, and Ben Haas's week in a Hong Kong coffin home."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-september-3-2017.md"
+notes_tags = ["notes/the-sunday-post-for-september-3-2017.md"]
 notes_about = ""
 books = ""
 +++

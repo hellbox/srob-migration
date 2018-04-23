@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery and @studiochristine will be back soon. Check ou
 facebookauto = "Portrait Gallery will be back soon! Check out the archives over at the site. "
 make_image_tweet = "True"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/portrait-gallery-will-be-back-soon!.md"
+notes_tags = ["notes/portrait-gallery-will-be-back-soon!.md"]
 notes_about = ""
 books = ""
 +++

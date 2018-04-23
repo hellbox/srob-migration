@@ -17,7 +17,7 @@ twitterauto = "What should we do when the authors we love let us down?"
 facebookauto = "What should we do when the authors we love let us down?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-the-authors-of-our-disappointment.md"
+notes_tags = ["notes/the-help-desk-the-authors-of-our-disappointment.md"]
 notes_about = ""
 books = ""
 +++

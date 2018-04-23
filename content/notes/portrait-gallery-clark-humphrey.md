@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @studiochristine paints @clarkhumphrey"
 facebookauto = "Portrait Gallery \u2014 Christine Marie Larsen paints Clark Humphrey. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-clark-humphrey.md"
+notes_tags = ["notes/portrait-gallery-clark-humphrey.md"]
 notes_about = ""
 books = ""
 +++

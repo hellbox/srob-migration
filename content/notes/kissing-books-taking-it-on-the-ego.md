@@ -17,7 +17,7 @@ twitterauto = "In Kissing Books, @o_waite stares hard at the ego. Plus reviews @
 facebookauto = "In Kissing Books, Olivia Waite stares hard at the ego. Plus reviews Sera Trevor, Alyssa Cole, Beverly Jenkins, and more."
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/kissing-books-taking-it-on-the-ego.md"
+notes_tags = ["notes/kissing-books-taking-it-on-the-ego.md"]
 notes_about = ["authors/sera-trevor.md", "authors/shelly-ellis.md", "authors/alyssa-cole.md", "authors/beverly-jenkins.md", "authors/kathleen-morgan.md"]
 books = ""
 +++

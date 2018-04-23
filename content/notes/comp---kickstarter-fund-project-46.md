@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter fund backs @aronfay"
 facebookauto = "The Kickstarter fund backs a designer's notebook. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/comp---kickstarter-fund-project-46.md"
+notes_tags = ["notes/comp---kickstarter-fund-project-46.md"]
 notes_about = ""
 books = ""
 +++

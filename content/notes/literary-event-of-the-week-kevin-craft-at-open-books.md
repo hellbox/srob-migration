@@ -17,7 +17,7 @@ twitterauto = "Our event of the week is Kevin Craft's book launch party @openpoe
 facebookauto = "Kevin Craft launches his new book into the word at Open Books on Friday. You'll want to be there."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-kevin-craft-at-open-books.md"
+notes_tags = ["notes/literary-event-of-the-week-kevin-craft-at-open-books.md"]
 notes_about = ["authors/kevin-craft.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "It's the Sunday Post -- first of the year! A few articles that ca
 facebookauto = "Coloring books, Artificial Intelligence, old-timey fascism, in today's Sunday Post. "
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-january-3-2016.md"
+notes_tags = ["notes/the-sunday-post-for-january-3-2016.md"]
 notes_about = ""
 books = ""
 +++

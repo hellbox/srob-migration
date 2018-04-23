@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes discussions about women in science
 facebookauto = "Your week in readings includes discussions about women in science and a shooting at the Twilight Exit."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-june-21st---27th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-june-21st---27th.md"]
 notes_about = ["authors/doug-nufer.md", "authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

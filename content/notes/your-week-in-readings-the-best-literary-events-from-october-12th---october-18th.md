@@ -17,7 +17,7 @@ twitterauto = "Here's one great event for every day this week:"
 facebookauto = "This week features a celebration of great literary mag Moss, Bryan Cranston in conversation with Sherman Alexie, and absolutely nothing related to the election. (You're welcome.)"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-october-12th---october-18th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-october-12th---october-18th.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/shin-yu-pai.md", "authors/ej-koh.md", "authors/casandra-lopez.md"]
 books = ""
 +++

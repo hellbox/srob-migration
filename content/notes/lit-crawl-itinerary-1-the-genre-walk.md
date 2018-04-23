@@ -17,7 +17,7 @@ twitterauto = "Every day this week, we're offering a different itinerary for @Li
 facebookauto = "Every day this week, we're offering a different itinerary for Lit Crawl Seattle. First up: an all-genre evening!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary-1-the-genre-walk.md"
+notes_tags = ["notes/lit-crawl-itinerary-1-the-genre-walk.md"]
 notes_about = ""
 books = ""
 +++

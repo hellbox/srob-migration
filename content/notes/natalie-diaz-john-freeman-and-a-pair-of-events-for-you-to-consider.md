@@ -17,7 +17,7 @@ twitterauto = "Tonight: John Freeman and Natalie Diaz @SPLBuzz. Tomorrow: discus
 facebookauto = "Tonight, John Freeman will appear in conversation with the great indigenous poet Natalie Diaz. Tomorrow night, please join us to discuss Freeman's recent anthology about economic inequality."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/natalie-diaz-john-freeman-and-a-pair-of-events-for-you-to-consider.md"
+notes_tags = ["notes/natalie-diaz-john-freeman-and-a-pair-of-events-for-you-to-consider.md"]
 notes_about = ["authors/john-freeman.md"]
 books = ""
 +++

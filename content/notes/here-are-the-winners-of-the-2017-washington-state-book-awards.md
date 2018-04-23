@@ -17,7 +17,7 @@ twitterauto = "Congratulations to the winners of the 2017 Washington State Book 
 facebookauto = "Congratulations to the winners of the 2017 Washington State Book Awards!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/here-are-the-winners-of-the-2017-washington-state-book-awards.md"
+notes_tags = ["notes/here-are-the-winners-of-the-2017-washington-state-book-awards.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

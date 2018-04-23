@@ -17,7 +17,7 @@ twitterauto = "Writers in need of inspiration: the writing is on the wall. "
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-writing-prompt-2-writing-the-city.md"
+notes_tags = ["notes/seattle-writing-prompt-2-writing-the-city.md"]
 notes_about = ["authors/jonathan-lethem.md"]
 books = ["books/fortress-of-solitude.md"]
 +++

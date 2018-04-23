@@ -17,7 +17,7 @@ twitterauto = "The owner of our Bookstore of the Month has been selling books fo
 facebookauto = "The owner of our Bookstore of the Month has been selling books for a half a century, and he still loves books with all his heart."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-life-in-service-to-and-served-by-books.md"
+notes_tags = ["notes/a-life-in-service-to-and-served-by-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Should we assume that all authors of misogynistic fiction are ter
 facebookauto = "Many of the sexual predators we've seen exposed in #MeToo have produced terribly misogynistic work. Should we assume that all misogynistic authors are terrible people?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-do-only-terrible-men-write-books-about-terrible-men.md"
+notes_tags = ["notes/the-help-desk-do-only-terrible-men-write-books-about-terrible-men.md"]
 notes_about = ["authors/john-updike.md"]
 books = ""
 +++

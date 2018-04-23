@@ -17,7 +17,7 @@ twitterauto = "One reviewer has vowed to stop reading and reviewing books writte
 facebookauto = "One reviewer has vowed to stop reading and reviewing books written by men. That's important."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/against-reading-books-by-men.md"
+notes_tags = ["notes/against-reading-books-by-men.md"]
 notes_about = ""
 books = ""
 +++

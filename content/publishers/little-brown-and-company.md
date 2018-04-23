@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Little, Brown and Company"
 title = "Little, Brown and Company"
-books_publisher = "publishers/little-brown-and-company.md"
+books_publisher = ["publishers/little-brown-and-company.md"]
 +++

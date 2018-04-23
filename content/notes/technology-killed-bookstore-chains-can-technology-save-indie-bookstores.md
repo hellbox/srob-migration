@@ -17,7 +17,7 @@ twitterauto = "Technology killed bookstore chains. Can technology save indie boo
 facebookauto = "Technology killed bookstore chains. Can technology save indie bookstores? Glenn Fleishman looks into the matter for us. "
 make_image_tweet = "False"
 notes_byline = ["writers/glenn-fleishman.md"]
-notes_tags = "notes/technology-killed-bookstore-chains-can-technology-save-indie-bookstores.md"
+notes_tags = ["notes/technology-killed-bookstore-chains-can-technology-save-indie-bookstores.md"]
 notes_about = ""
 books = ""
 +++

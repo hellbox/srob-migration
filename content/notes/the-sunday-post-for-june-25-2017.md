@@ -17,7 +17,7 @@ twitterauto = "Fire in the Mission, letterpress in Seattle, rare birds in Scotla
 facebookauto = "Fire in the Mission District, letterpress in Seattle, rare birds in Scotland, and apocalypse everywhere in the Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-june-25-2017.md"
+notes_tags = ["notes/the-sunday-post-for-june-25-2017.md"]
 notes_about = ""
 books = ""
 +++

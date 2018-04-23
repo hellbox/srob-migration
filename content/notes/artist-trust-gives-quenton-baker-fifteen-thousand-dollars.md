@@ -17,7 +17,7 @@ twitterauto = "Congratulations on winning that $15,000 @artisttrust prize, Quent
 facebookauto = "Artist Trust just gave $15,000 to Seattle poet and teacher Quenton Baker. This is great news."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/artist-trust-gives-quenton-baker-fifteen-thousand-dollars.md"
+notes_tags = ["notes/artist-trust-gives-quenton-baker-fifteen-thousand-dollars.md"]
 notes_about = ["authors/quenton-baker.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle publisher @Chinmusicpress hosts an event in their Pike Pl
 facebookauto = "Seattle publisher Chin Music Press hosts an event in their Pike Place showroom this Saturday. It's our Event of the Week!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-leanne-dunic-at-the-chin-music-press-showroom.md"
+notes_tags = ["notes/literary-event-of-the-week-leanne-dunic-at-the-chin-music-press-showroom.md"]
 notes_about = ["authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

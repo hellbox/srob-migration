@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts chucks it all for a nice, hot bath"
 facebookauto = "Seattle Writing Prompts chucks it all for a nice, hot bath"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-baths.md"
+notes_tags = ["notes/seattle-writing-prompts-baths.md"]
 notes_about = ""
 books = ""
 +++

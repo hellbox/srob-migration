@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-2016-vida-count-is-in!.md"
+notes_tags = ["notes/the-2016-vida-count-is-in!.md"]
 notes_about = ["authors/nicola-griffith.md"]
 books = ""
 +++

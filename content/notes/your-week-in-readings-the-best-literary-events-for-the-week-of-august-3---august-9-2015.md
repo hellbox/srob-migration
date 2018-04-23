@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-for-the-week-of-august-3---august-9-2015.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-for-the-week-of-august-3---august-9-2015.md"]
 notes_about = ""
 books = ""
 +++

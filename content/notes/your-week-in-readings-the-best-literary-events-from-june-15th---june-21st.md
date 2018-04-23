@@ -17,7 +17,7 @@ twitterauto = "Your week in readings kicks off with Mary Roach @THSEA tonight!"
 facebookauto = "Here's a list of all the best literary events this week, beginning with Mary Roach's reading at Town Hall tonight."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-june-15th---june-21st.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-june-15th---june-21st.md"]
 notes_about = ["authors/maria-semple.md"]
 books = ""
 +++

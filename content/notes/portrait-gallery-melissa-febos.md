@@ -17,7 +17,7 @@ twitterauto = "It's @melissafebos for this week's #Portrait Gallery #illustratio
 facebookauto = "Portrait Gallery: Melissa Febos"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-melissa-febos.md"
+notes_tags = ["notes/portrait-gallery-melissa-febos.md"]
 notes_about = ["authors/melissa-febos.md"]
 books = ""
 +++

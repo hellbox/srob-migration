@@ -17,7 +17,7 @@ twitterauto = "Our suggested @litcrawlseattle itineraries continue with some edg
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary-5-edge-of-your-seat-stuff.md"
+notes_tags = ["notes/lit-crawl-itinerary-5-edge-of-your-seat-stuff.md"]
 notes_about = ""
 books = ""
 +++

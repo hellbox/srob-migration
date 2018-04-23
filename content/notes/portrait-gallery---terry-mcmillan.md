@@ -17,7 +17,7 @@ twitterauto = "Today's Portrait Gallery by @studiochristine is @MsTerryMcMillan.
 facebookauto = "It's Terry McMillan, painted by Christine Marie Larsen!"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery---terry-mcmillan.md"
+notes_tags = ["notes/portrait-gallery---terry-mcmillan.md"]
 notes_about = ["authors/terry-mcmillan.md"]
 books = ""
 +++

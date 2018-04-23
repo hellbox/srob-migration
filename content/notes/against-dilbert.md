@@ -17,7 +17,7 @@ twitterauto = "Tell the Seattle Times how you feel about their decision to run c
 facebookauto = "Tell the Seattle Times how you feel about their decision to run climate change denialist propaganda."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/against-dilbert.md"
+notes_tags = ["notes/against-dilbert.md"]
 notes_about = ""
 books = ""
 +++

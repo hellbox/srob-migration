@@ -17,7 +17,7 @@ twitterauto = "Sponsor Northwest Allied Arts is bringing David Sedaris to the Br
 facebookauto = "Sponsor Northwest Allied Arts is bringing David Sedaris to the Broadway Performance Hall for eight shows!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/seven-days-of-sedaris.md"
+notes_tags = ["notes/seven-days-of-sedaris.md"]
 notes_about = ""
 books = ""
 +++

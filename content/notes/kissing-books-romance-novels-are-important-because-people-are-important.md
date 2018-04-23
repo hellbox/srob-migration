@@ -17,7 +17,7 @@ twitterauto = "Today we have an exciting debut! Kissing Books, our monthly roman
 facebookauto = "Today we have an exciting debut! Kissing Books, our monthly romance column by Olivia Waite, is now live!"
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/kissing-books-romance-novels-are-important-because-people-are-important.md"
+notes_tags = ["notes/kissing-books-romance-novels-are-important-because-people-are-important.md"]
 notes_about = ""
 books = ""
 +++

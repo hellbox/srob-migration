@@ -17,7 +17,7 @@ twitterauto = "Where are the SF schools? And reviews of @matthaig1 and @SueBurke
 facebookauto = "Where are the SF schools? That and reviews of Matt Haig, Sue Burke, and more in Nisi Shawl's Future Alternative Past."
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/future-alternative-past-in-need-of-schooling.md"
+notes_tags = ["notes/future-alternative-past-in-need-of-schooling.md"]
 notes_about = ["authors/sue-burke.md", "authors/matt-haig.md", "authors/michael-andreasen.md"]
 books = ""
 +++

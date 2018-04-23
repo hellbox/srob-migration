@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts looks at Seattle's Privately Owned Public
 facebookauto = "Seattle Writing Prompts looks at Seattle's Privately Owned Public Spaces."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-seattles-privately-owned-public-spaces.md"
+notes_tags = ["notes/seattle-writing-prompts-seattles-privately-owned-public-spaces.md"]
 notes_about = ""
 books = ""
 +++

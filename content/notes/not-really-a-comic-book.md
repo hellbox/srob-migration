@@ -17,7 +17,7 @@ twitterauto = "Ever forget a dream you wanted to remember? Us, too. That's why w
 facebookauto = "Ever forget a dream you wanted to remember? Us, too. That's why we love this week's sample read from sponsor Kevin Marshall."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/not-really-a-comic-book.md"
+notes_tags = ["notes/not-really-a-comic-book.md"]
 notes_about = ["authors/kevin-marshall.md"]
 books = ["books/not-really-an-emotion.md"]
 +++

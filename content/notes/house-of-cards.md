@@ -17,7 +17,7 @@ twitterauto = "Oh, look. More live-action superhero adaptations. Hooray?"
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/house-of-cards.md"
+notes_tags = ["notes/house-of-cards.md"]
 notes_about = ""
 books = ""
 +++

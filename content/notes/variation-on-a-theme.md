@@ -17,7 +17,7 @@ twitterauto = "Seattle's Civic Poet @ClaudiaC_L provides our Tuesday Poem this w
 facebookauto = "Seattle's Civic Poet, Claudia Castro Luna, provides our Tuesday Poem this week: \"Variations on a theme\""
 make_image_tweet = ""
 notes_byline = ["writers/claudia-castro-luna.md"]
-notes_tags = "notes/variation-on-a-theme.md"
+notes_tags = ["notes/variation-on-a-theme.md"]
 notes_about = ""
 books = ""
 +++

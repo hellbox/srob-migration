@@ -17,7 +17,7 @@ twitterauto = "Seattle sends its love to @avidreader4101 for fighting the good f
 facebookauto = "In Australia, some \"men's rights\" nincompoops targeted a bookstore, and the bookstore fought back."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/mras-target-bookstore-bookstore-fights-back.md"
+notes_tags = ["notes/mras-target-bookstore-bookstore-fights-back.md"]
 notes_about = ""
 books = ""
 +++

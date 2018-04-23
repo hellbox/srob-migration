@@ -17,7 +17,7 @@ twitterauto = "We asked @3rdplacepress to share a summer book pick & he gave us 
 facebookauto = "We asked Vlad from Third Place Books to share a summer book pick and he gave us some great-looking fall books to look out for, too."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/heres-what-vlad-from-third-place-books-is-most-looking-forward-to-this-fall.md"
+notes_tags = ["notes/heres-what-vlad-from-third-place-books-is-most-looking-forward-to-this-fall.md"]
 notes_about = ["authors/danielle-dutton.md"]
 books = ["books/margaret-the-first.md"]
 +++

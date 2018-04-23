@@ -17,7 +17,7 @@ twitterauto = ".@elliottbaybooks might have a new landlord."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sounds-like-elliott-bay-book-company-has-a-new-landlord.md"
+notes_tags = ["notes/sounds-like-elliott-bay-book-company-has-a-new-landlord.md"]
 notes_about = ""
 books = ""
 +++

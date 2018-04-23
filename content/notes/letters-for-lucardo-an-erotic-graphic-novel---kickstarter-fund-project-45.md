@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs the latest from @iron_spike this week.
 facebookauto = "The Kickstarter Fund backs a queer, interracial, vampire-human erotic romance comic."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/letters-for-lucardo-an-erotic-graphic-novel---kickstarter-fund-project-45.md"
+notes_tags = ["notes/letters-for-lucardo-an-erotic-graphic-novel---kickstarter-fund-project-45.md"]
 notes_about = ""
 books = ""
 +++

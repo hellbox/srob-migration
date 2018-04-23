@@ -17,7 +17,7 @@ twitterauto = "Man, superhero comics are pretty weird."
 facebookauto = "Superhero comics are impossibly self-referential and obsessed with meta-narratives. Of course, that doesn't necessarily mean they're bad."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-super-weird.md"
+notes_tags = ["notes/thursday-comics-hangover-super-weird.md"]
 notes_about = ""
 books = ""
 +++

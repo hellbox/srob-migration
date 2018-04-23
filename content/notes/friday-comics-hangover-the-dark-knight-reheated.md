@@ -17,7 +17,7 @@ twitterauto = "The third volume in Frank Miller's Dark Knight Returns series cam
 facebookauto = "The third volume in Frank Miller's Dark Knight Returns series came out on Wednesday. How was it? Well, depends on how you feel about fan fiction."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/friday-comics-hangover-the-dark-knight-reheated.md"
+notes_tags = ["notes/friday-comics-hangover-the-dark-knight-reheated.md"]
 notes_about = ""
 books = ""
 +++

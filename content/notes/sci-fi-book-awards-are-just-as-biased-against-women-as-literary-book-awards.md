@@ -17,7 +17,7 @@ twitterauto = "Science fiction awards are just as biased against the voices of w
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sci-fi-book-awards-are-just-as-biased-against-women-as-literary-book-awards.md"
+notes_tags = ["notes/sci-fi-book-awards-are-just-as-biased-against-women-as-literary-book-awards.md"]
 notes_about = ["authors/nicola-griffith.md"]
 books = ""
 +++

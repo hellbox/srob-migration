@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @Emilferrisdraws @shortrunseattle this weekend!
 facebookauto = "Portrait Gallery: Emil Ferris by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-emil-ferris.md"
+notes_tags = ["notes/portrait-gallery-emil-ferris.md"]
 notes_about = ""
 books = ""
 +++

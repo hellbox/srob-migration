@@ -10,5 +10,5 @@ last_updated = "2015-12-27T13:53:00-08:00"
 preview_url = "b14c75a8-97c4-28ff-dbbc-86dd7a324cff"
 name = "Counterpoint"
 title = "Counterpoint"
-books_publisher = "publishers/counterpoint.md"
+books_publisher = ["publishers/counterpoint.md"]
 +++

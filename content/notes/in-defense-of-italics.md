@@ -17,7 +17,7 @@ twitterauto = "How do you feel about books with long passages in italics? "
 facebookauto = "Dear people who don't read books with long passages in italics: sorry, but you're missing out."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/in-defense-of-italics.md"
+notes_tags = ["notes/in-defense-of-italics.md"]
 notes_about = ["authors/richard-russo.md"]
 books = ["books/empire-falls.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Fire and Fury goes on sale tomorrow morning at 9 am ET. Please bu
 facebookauto = "Fire and Fury goes on sale tomorrow morning at 9 am ET. Please buy it from an independent bookstore, okay?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/donald-trump-tries-to-stop-book-from-being-published-accidentally-publishes-book-several-days-early-instead.md"
+notes_tags = ["notes/donald-trump-tries-to-stop-book-from-being-published-accidentally-publishes-book-several-days-early-instead.md"]
 notes_about = ""
 books = ""
 +++

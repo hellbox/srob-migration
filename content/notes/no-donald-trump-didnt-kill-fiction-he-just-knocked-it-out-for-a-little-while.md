@@ -17,7 +17,7 @@ twitterauto = "No, Donald Trump didn't kill fiction. He just knocked it out for 
 facebookauto = "Yes, it's hard to read fiction right now. But don't worry: there's good stuff on the way!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/no-donald-trump-didnt-kill-fiction-he-just-knocked-it-out-for-a-little-while.md"
+notes_tags = ["notes/no-donald-trump-didnt-kill-fiction-he-just-knocked-it-out-for-a-little-while.md"]
 notes_about = ""
 books = ""
 +++

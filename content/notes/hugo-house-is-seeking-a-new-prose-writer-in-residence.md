@@ -17,7 +17,7 @@ twitterauto = "Why not apply to be the @HugoHouse's prose writer in residence?"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hugo-house-is-seeking-a-new-prose-writer-in-residence.md"
+notes_tags = ["notes/hugo-house-is-seeking-a-new-prose-writer-in-residence.md"]
 notes_about = ""
 books = ""
 +++

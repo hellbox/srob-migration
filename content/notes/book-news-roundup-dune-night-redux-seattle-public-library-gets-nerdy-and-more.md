@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup includes a city councilmember's most in
 facebookauto = "Today's Book News Roundup includes a city councilmember's most influential book and the Seattle Public Library getting nerdy with comics education programming."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-dune-night-redux-seattle-public-library-gets-nerdy-and-more.md"
+notes_tags = ["notes/book-news-roundup-dune-night-redux-seattle-public-library-gets-nerdy-and-more.md"]
 notes_about = ""
 books = ""
 +++

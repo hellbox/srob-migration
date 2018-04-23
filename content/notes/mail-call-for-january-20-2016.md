@@ -17,7 +17,7 @@ twitterauto = "Mail Call! Nobody gets that @irismurdoch but me, so don't even th
 facebookauto = "Mail Call! That Iris Murdoch is mine, so just back way, friend. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-january-20-2016.md"
+notes_tags = ["notes/mail-call-for-january-20-2016.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Happy Holidays"
 facebookauto = "Portrait Gallery: Happy Holidays"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-happy-holidays.md"
+notes_tags = ["notes/portrait-gallery-happy-holidays.md"]
 notes_about = ""
 books = ""
 +++

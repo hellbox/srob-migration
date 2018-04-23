@@ -17,7 +17,7 @@ twitterauto = "It's Criminal Fiction, by @daneetsteffens, featuring an interview
 facebookauto = "It's Criminal Fiction, by Daneet Steffens, featuring an interview with Lori Rader-Day."
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-blood-in-the-cut.md"
+notes_tags = ["notes/criminal-fiction-blood-in-the-cut.md"]
 notes_about = ["authors/lori-rader-day.md", "authors/alex-marwood.md", "authors/mick-herron.md", "authors/christopher-brookmyre.md", "authors/stuart-neville.md", "authors/val-mcdermid.md", "authors/ian-rankin.md", "authors/mark-billingham.md", "authors/sabine-durrant.md", "authors/sarah-hilary.md", "authors/susie-steiner.md", "authors/eva-dolan.md", "authors/alex-segura.md", "authors/ann-cleeves.md", "authors/daniel-cole.md", "authors/sara-paretsky.md"]
 books = ""
 +++

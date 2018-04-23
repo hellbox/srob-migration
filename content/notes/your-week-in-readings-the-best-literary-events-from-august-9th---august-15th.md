@@ -17,7 +17,7 @@ twitterauto = "Your Week in Readings brings a haunted house story and a secret r
 facebookauto = "Your Week in Readings brings a haunted house story and a secret robot society."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-august-9th---august-15th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-august-9th---august-15th.md"]
 notes_about = ""
 books = ""
 +++

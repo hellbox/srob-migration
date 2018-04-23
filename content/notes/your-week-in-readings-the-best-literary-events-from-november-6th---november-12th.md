@@ -17,7 +17,7 @@ twitterauto = "There's all kinds of neat stuff happening this week, including ar
 facebookauto = "There's all kinds of neat stuff happening this week, including art and a radio show."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-6th---november-12th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-6th---november-12th.md"]
 notes_about = ["authors/clare-johnson.md"]
 books = ""
 +++

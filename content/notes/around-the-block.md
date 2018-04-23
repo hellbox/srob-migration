@@ -17,7 +17,7 @@ twitterauto = "Does writer's block exist? We asked Fran Lebowitz, and here's her
 facebookauto = "Does writer's block exist? We asked Fran Lebowitz, and here's her answer."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/around-the-block.md"
+notes_tags = ["notes/around-the-block.md"]
 notes_about = ["authors/fran-lebowitz.md"]
 books = ""
 +++

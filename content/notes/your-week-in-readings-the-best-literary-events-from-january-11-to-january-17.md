@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with @EAustenPoet reading @SPLBUZZ"
 facebookauto = "This weeks literary events include civic activism, Black Lives Matter, and a heavy dose of poetry. "
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-11-to-january-17.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-11-to-january-17.md"]
 notes_about = ""
 books = ""
 +++

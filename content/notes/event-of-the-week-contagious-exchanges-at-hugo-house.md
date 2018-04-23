@@ -17,7 +17,7 @@ twitterauto = "Our event of the week is Contagious Exchanges @HugoHouse."
 facebookauto = "Some people say the lack of LGBT bookstores in Seattle is a step in the right direction, but it's still super- =important to have spaces for queer writers and readers."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-contagious-exchanges-at-hugo-house.md"
+notes_tags = ["notes/event-of-the-week-contagious-exchanges-at-hugo-house.md"]
 notes_about = ["authors/mattilda-bernstein-sycamore.md", "authors/anastacia-renee.md"]
 books = ""
 +++

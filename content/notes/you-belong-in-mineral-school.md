@@ -17,7 +17,7 @@ twitterauto = "We're inspired and thrilled to have @mineralschool back as a retu
 facebookauto = "We're inspired and thrilled to have Mineral School back as a returning sponsor. Get your application in now!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/you-belong-in-mineral-school.md"
+notes_tags = ["notes/you-belong-in-mineral-school.md"]
 notes_about = ""
 books = ""
 +++

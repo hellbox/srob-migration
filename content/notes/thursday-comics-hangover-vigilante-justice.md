@@ -17,7 +17,7 @@ twitterauto = "Kill or Be Killed is a comic that mashes Taxi Driver up with the 
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-vigilante-justice.md"
+notes_tags = ["notes/thursday-comics-hangover-vigilante-justice.md"]
 notes_about = ""
 books = ""
 +++

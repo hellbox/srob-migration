@@ -17,7 +17,7 @@ twitterauto = "Our advice columnist is on vacation. Send her your literary etiqu
 facebookauto = "Our advice columnist is on vacation this week. If you hate it when she's gone, you should keep her busy by sending her your very best literary etiquette questions: advice@seattlereviewofbooks.com."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-help-desk-is-on-vacation-(again).md"
+notes_tags = ["notes/the-help-desk-is-on-vacation-(again).md"]
 notes_about = ""
 books = ""
 +++

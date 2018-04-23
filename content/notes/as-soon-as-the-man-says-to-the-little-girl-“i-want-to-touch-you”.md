@@ -17,7 +17,7 @@ twitterauto = "Our poet in residence for April. @buddy_and_buddy, delivers her f
 facebookauto = "Our poet in residence for April. Jeanine Walker, delivers her first poem of the month today."
 make_image_tweet = "False"
 notes_byline = ["writers/jeanine-walker.md"]
-notes_tags = "notes/as-soon-as-the-man-says-to-the-little-girl-“i-want-to-touch-you”.md"
+notes_tags = ["notes/as-soon-as-the-man-says-to-the-little-girl-“i-want-to-touch-you”.md"]
 notes_about = ""
 books = ""
 +++

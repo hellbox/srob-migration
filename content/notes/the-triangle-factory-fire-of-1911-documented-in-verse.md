@@ -17,7 +17,7 @@ twitterauto = "Our sponsor Donald Kentop explores a tragic American event in ver
 facebookauto = "Our sponsor this week, Donald Kentop, tells the story of an iconic American tragedy in verse, and in doing so, unlocks door into our own modern lives."
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-triangle-factory-fire-of-1911-documented-in-verse.md"
+notes_tags = ["notes/the-triangle-factory-fire-of-1911-documented-in-verse.md"]
 notes_about = ["authors/donald-kentop.md"]
 books = ["books/frozen-by-fire.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery! "
 facebookauto = "Portrait Gallery: Casandra Lopez "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-casandra-lopez.md"
+notes_tags = ["notes/portrait-gallery-casandra-lopez.md"]
 notes_about = ["authors/casandra-lopez.md"]
 books = ""
 +++

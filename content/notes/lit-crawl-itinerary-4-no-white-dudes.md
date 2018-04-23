@@ -17,7 +17,7 @@ twitterauto = "Our latest @litcrawlseattle itinerary is entirely free of reading
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary-4-no-white-dudes.md"
+notes_tags = ["notes/lit-crawl-itinerary-4-no-white-dudes.md"]
 notes_about = ["authors/elissa-washuta.md"]
 books = ""
 +++

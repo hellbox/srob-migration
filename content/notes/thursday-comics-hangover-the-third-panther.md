@@ -17,7 +17,7 @@ twitterauto = "Let's check in on the 3rd issue of the Black Panther to see how t
 facebookauto = "How's Ta-Nehisi Coates's Black Panther series going so far? It's pretty great, but there might be a weak link."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-third-panther.md"
+notes_tags = ["notes/thursday-comics-hangover-the-third-panther.md"]
 notes_about = ["authors/ta-nehisi-coates.md"]
 books = ""
 +++

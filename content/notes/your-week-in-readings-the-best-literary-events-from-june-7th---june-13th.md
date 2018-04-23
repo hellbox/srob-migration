@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins tonight @ThirdPlaceBooks Seward Park
 facebookauto = "Your Week in Readings includes Neal Stephenson, a talk about health care, a(n unfortunately timely) book club discussion of Vladimir Putin, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-june-7th---june-13th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-june-7th---june-13th.md"]
 notes_about = ["authors/neal-stephenson.md"]
 books = ""
 +++

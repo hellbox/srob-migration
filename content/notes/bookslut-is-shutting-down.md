@@ -17,7 +17,7 @@ twitterauto = "We'll miss you, @thebookslut. Thanks for 14 great years."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/bookslut-is-shutting-down.md"
+notes_tags = ["notes/bookslut-is-shutting-down.md"]
 notes_about = ""
 books = ""
 +++

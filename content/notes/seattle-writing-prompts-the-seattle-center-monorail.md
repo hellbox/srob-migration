@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts rides the Monorail today"
 facebookauto = "Seattle Writing Prompts rides the Monorail today"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-seattle-center-monorail.md"
+notes_tags = ["notes/seattle-writing-prompts-the-seattle-center-monorail.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "It's Thursday, and that means Paul's comics hangover is in. "
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-skin-deep.md"
+notes_tags = ["notes/thursday-comics-hangover-skin-deep.md"]
 notes_about = ""
 books = ""
 +++

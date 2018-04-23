@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @CopperCanyonPrs's WS Merwin project."
 facebookauto = "The Kickstarter Fund backs Copper Canyon Press' project to publish the essential WS Merwin."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-essential-ws-merwin---kickstarter-fund-project-44.md"
+notes_tags = ["notes/the-essential-ws-merwin---kickstarter-fund-project-44.md"]
 notes_about = ["authors/ws-merwin.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Check out these great pictures of our readers from last Friday's 
 facebookauto = "We have an Instagram account (http://instagram.com/seattlereviewof)! See us put it to good use on this post about thanking everybody for coming out last Friday. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/this-is-a-thank-you-post-and-a-call-to-instagram.md"
+notes_tags = ["notes/this-is-a-thank-you-post-and-a-call-to-instagram.md"]
 notes_about = ""
 books = ""
 +++

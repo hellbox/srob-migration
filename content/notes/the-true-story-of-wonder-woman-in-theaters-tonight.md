@@ -17,7 +17,7 @@ twitterauto = "Here's our review of a movie about the not-so-secret origins of W
 facebookauto = "Here's our review of a movie about the not-so-secret origins of Wonder Woman, and the three-way committed relationship that made the character possible."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-true-story-of-wonder-woman-in-theaters-tonight.md"
+notes_tags = ["notes/the-true-story-of-wonder-woman-in-theaters-tonight.md"]
 notes_about = ""
 books = ""
 +++

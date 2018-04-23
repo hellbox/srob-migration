@@ -17,7 +17,7 @@ twitterauto = "We're teaming up with @SeaArtsLectures to give away two tickets t
 facebookauto = "We're teaming up with Seattle Arts & Lectures to give away two tickets to see Annie Proulx! "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/win-tickets-to-see-annie-proulx.md"
+notes_tags = ["notes/win-tickets-to-see-annie-proulx.md"]
 notes_about = ""
 books = ""
 +++

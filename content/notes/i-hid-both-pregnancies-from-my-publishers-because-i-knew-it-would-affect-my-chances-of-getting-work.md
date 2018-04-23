@@ -17,7 +17,7 @@ twitterauto = ".@GWillowWilson on motherhood in the arts: \"Paid leave, sick lea
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-hid-both-pregnancies-from-my-publishers-because-i-knew-it-would-affect-my-chances-of-getting-work.md"
+notes_tags = ["notes/i-hid-both-pregnancies-from-my-publishers-because-i-knew-it-would-affect-my-chances-of-getting-work.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ["books/ms-marvel.md", "books/alif-the-unseen.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Is it ethical to posthumously publish the work of writers against
 facebookauto = "Today's question for our advice columnist: Is it ethical to posthumously publish the work of writers against their wishes?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-is-there-publishing-after-death.md"
+notes_tags = ["notes/the-help-desk-is-there-publishing-after-death.md"]
 notes_about = ["authors/harper-lee.md", "authors/vladimir-nabokov.md"]
 books = ["books/go-set-a-watchman.md"]
 +++

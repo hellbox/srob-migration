@@ -17,7 +17,7 @@ twitterauto = "Mark Oct. 14 and 15 for this week's sponsor, the Seattle Antiquar
 facebookauto = "Make sure to mark Oct. 14th and 15th for this week's sponsor, the Seattle Antiquarian Book Fair. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/mark-oct-14th-and-15th-for-the-seattle-antiquarian-book-fair.md"
+notes_tags = ["notes/mark-oct-14th-and-15th-for-the-seattle-antiquarian-book-fair.md"]
 notes_about = ""
 books = ""
 +++

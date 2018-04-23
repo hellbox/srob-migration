@@ -17,7 +17,7 @@ twitterauto = "Congrats to @sherman_alexie on his Kirkus Prize nomination! Come 
 facebookauto = "Congratulations to Sherman Alexie on his Kirkus Prize nomination!"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/sherman-alexie-is-finalist-for-kirkus-prize.md"
+notes_tags = ["notes/sherman-alexie-is-finalist-for-kirkus-prize.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/robert-lashley.md", "authors/ej-koh.md"]
 books = ""
 +++

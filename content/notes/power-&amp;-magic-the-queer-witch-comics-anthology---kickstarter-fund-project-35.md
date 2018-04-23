@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @powerandmagicpr"
 facebookauto = "The Kickstarter Fund backs a comics project about queer witches of color. Hell yeah!"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/power-&amp;-magic-the-queer-witch-comics-anthology---kickstarter-fund-project-35.md"
+notes_tags = ["notes/power-&amp;-magic-the-queer-witch-comics-anthology---kickstarter-fund-project-35.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Act fast! Our sponsor just released some tickets for the sold-out
 facebookauto = "Act fast! Our sponsor just released some tickets for the sold-out David Sedaris shows this Sunday"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/tickets-released-for-david-sedaris-performances-on-sunday.md"
+notes_tags = ["notes/tickets-released-for-david-sedaris-performances-on-sunday.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "It's @alexanderchee for this week's Portrait Gallery illustrated 
 facebookauto = "Portrait Gallery: Alexander Chee"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-alexander-chee.md"
+notes_tags = ["notes/portrait-gallery-alexander-chee.md"]
 notes_about = ["authors/alexander-chee.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/heres-something-to-do-if-youd-prefer-not-to-work.md"
+notes_tags = ["notes/heres-something-to-do-if-youd-prefer-not-to-work.md"]
 notes_about = ["authors/herman-melville.md"]
 books = ["books/bartleby.md"]
 +++

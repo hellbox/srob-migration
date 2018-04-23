@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/the-future-alternative-past-its-all-about-the-love.md"
+notes_tags = ["notes/the-future-alternative-past-its-all-about-the-love.md"]
 notes_about = ""
 books = ""
 +++

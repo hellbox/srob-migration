@@ -17,7 +17,7 @@ twitterauto = "Today's haul in our Mail Call!"
 facebookauto = "Today's haul in our Mail Call!"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-october-8-2015.md"
+notes_tags = ["notes/mail-call-for-october-8-2015.md"]
 notes_about = ""
 books = ""
 +++

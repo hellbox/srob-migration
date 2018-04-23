@@ -17,7 +17,7 @@ twitterauto = "Wondering what the @HugoHouse's last month on Capitol Hill for a 
 facebookauto = "T-minus one month to the Hugo House's last Capitol Hill event for a while."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/one-month-left-for-the-hugo-house-on-capitol-hill.md"
+notes_tags = ["notes/one-month-left-for-the-hugo-house-on-capitol-hill.md"]
 notes_about = ""
 books = ""
 +++

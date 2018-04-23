@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-public-library-patron-returns-book-40-years-late.md"
+notes_tags = ["notes/seattle-public-library-patron-returns-book-40-years-late.md"]
 notes_about = ""
 books = ""
 +++

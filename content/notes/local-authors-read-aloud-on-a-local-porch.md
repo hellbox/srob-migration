@@ -17,7 +17,7 @@ twitterauto = "Porchlit shares stories, poems, and essays read from a Seattle-ar
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/local-authors-read-aloud-on-a-local-porch.md"
+notes_tags = ["notes/local-authors-read-aloud-on-a-local-porch.md"]
 notes_about = ""
 books = ""
 +++

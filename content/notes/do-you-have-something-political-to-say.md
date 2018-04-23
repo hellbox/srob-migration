@@ -17,7 +17,7 @@ twitterauto = "If you have something political you want to share with the world,
 facebookauto = "If you have something political you want to share with the world, submit here:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/do-you-have-something-political-to-say.md"
+notes_tags = ["notes/do-you-have-something-political-to-say.md"]
 notes_about = ""
 books = ""
 +++

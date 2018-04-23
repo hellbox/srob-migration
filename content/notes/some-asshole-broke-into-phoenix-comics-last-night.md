@@ -17,7 +17,7 @@ twitterauto = "Last night, some asshole broke into @Phoenix_Comics. Maybe buy so
 facebookauto = "Last night, some asshole broke into Phoenix Comics and Games on Broadway. Maybe buy some comics or games from them this weekend?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/some-asshole-broke-into-phoenix-comics-last-night.md"
+notes_tags = ["notes/some-asshole-broke-into-phoenix-comics-last-night.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts rides the #3"
 facebookauto = "Seattle Writing Prompts rides the #3"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-3-bus.md"
+notes_tags = ["notes/seattle-writing-prompts-the-3-bus.md"]
 notes_about = ""
 books = ""
 +++

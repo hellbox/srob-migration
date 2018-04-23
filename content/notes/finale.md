@@ -17,7 +17,7 @@ twitterauto = "Our November Poet in Residence is Emily Bedard, and we begin with
 facebookauto = "Our November Poet in Residence is Emily Bedard, and we begin with her \"Finale\""
 make_image_tweet = "False"
 notes_byline = ["writers/emily-bedard.md"]
-notes_tags = "notes/finale.md"
+notes_tags = ["notes/finale.md"]
 notes_about = ""
 books = ""
 +++

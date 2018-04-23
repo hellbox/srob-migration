@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes a young adult novel, Gender Odysse
 facebookauto = "Your week in readings includes a young adult novel, Gender Odyssey, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-august-23rd---august-29th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-august-23rd---august-29th.md"]
 notes_about = ""
 books = ""
 +++

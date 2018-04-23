@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: #poet Nikki Giovanni #illustration by @studioch
 facebookauto = "Portrait Gallery: Poet Nikki Giovanni by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-nikki-giovanni.md"
+notes_tags = ["notes/portrait-gallery-nikki-giovanni.md"]
 notes_about = ["authors/nikki-giovanni.md"]
 books = ""
 +++

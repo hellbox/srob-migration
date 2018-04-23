@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @nealstephenson #illustration by @studiochristi
 facebookauto = "Portrait Gallery: Neal Stephenson painted by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-neal-stephenson.md"
+notes_tags = ["notes/portrait-gallery-neal-stephenson.md"]
 notes_about = ["authors/neal-stephenson.md"]
 books = ""
 +++

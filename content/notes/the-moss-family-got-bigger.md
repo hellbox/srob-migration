@@ -17,7 +17,7 @@ twitterauto = "The 5th issue of @mosslitmag is out, and it's wonderful."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-moss-family-got-bigger.md"
+notes_tags = ["notes/the-moss-family-got-bigger.md"]
 notes_about = ""
 books = ""
 +++

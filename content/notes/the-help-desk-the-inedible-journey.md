@@ -17,7 +17,7 @@ twitterauto = "Dear Cienna: I love my bookstore, but its cafe is HORRIBLE. How d
 facebookauto = "Dear Cienna: I love my bookstore, but its cafe is HORRIBLE. How do I convince them to make tastier food?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-the-inedible-journey.md"
+notes_tags = ["notes/the-help-desk-the-inedible-journey.md"]
 notes_about = ""
 books = ""
 +++

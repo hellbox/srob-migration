@@ -17,7 +17,7 @@ twitterauto = "Is music literature?  \u00af\\_(\u30c4)_/\u00af"
 facebookauto = "Should music be considered alongside literature, or as literature?  \u00af\\_(\u30c4)_/\u00af"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/is-music-literature-.md"
+notes_tags = ["notes/is-music-literature-.md"]
 notes_about = ""
 books = ""
 +++

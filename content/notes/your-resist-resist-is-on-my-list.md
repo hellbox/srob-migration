@@ -17,7 +17,7 @@ twitterauto = "We're big fans of the @PhinneyBooks Resist List. Keep up on curre
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-resist-resist-is-on-my-list.md"
+notes_tags = ["notes/your-resist-resist-is-on-my-list.md"]
 notes_about = ""
 books = ""
 +++

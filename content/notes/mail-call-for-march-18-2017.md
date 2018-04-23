@@ -17,7 +17,7 @@ twitterauto = "Massive mail call! Three big stacks on the site. "
 facebookauto = "Massive mail call! Three big stacks on the site."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-march-18-2017.md"
+notes_tags = ["notes/mail-call-for-march-18-2017.md"]
 notes_about = ""
 books = ""
 +++

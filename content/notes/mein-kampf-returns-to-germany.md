@@ -17,7 +17,7 @@ twitterauto = "70 years after Adolf Hitler's death, Mein Kampf will be available
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/mein-kampf-returns-to-germany.md"
+notes_tags = ["notes/mein-kampf-returns-to-germany.md"]
 notes_about = ""
 books = ""
 +++

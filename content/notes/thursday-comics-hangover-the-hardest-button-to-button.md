@@ -17,7 +17,7 @@ twitterauto = "Hey, remember your childhood? Here it comes again, in a comic tha
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-hardest-button-to-button.md"
+notes_tags = ["notes/thursday-comics-hangover-the-hardest-button-to-button.md"]
 notes_about = ""
 books = ""
 +++

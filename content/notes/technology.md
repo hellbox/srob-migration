@@ -17,7 +17,7 @@ twitterauto = "Our third poem from Joan Swift starts \"All the cell phone towers
 facebookauto = "Our third poem from Joan Swift starts \"All the cell phone towers are pagodas\""
 make_image_tweet = "False"
 notes_byline = ["writers/joan-swift.md"]
-notes_tags = "notes/technology.md"
+notes_tags = ["notes/technology.md"]
 notes_about = ""
 books = ""
 +++

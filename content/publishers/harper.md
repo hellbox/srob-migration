@@ -10,5 +10,5 @@ last_updated = "2015-05-07T08:34:00-07:00"
 preview_url = "1e527424-3f5d-5888-da14-54205092ea46"
 name = "Harper"
 title = "Harper"
-books_publisher = "publishers/harper.md"
+books_publisher = ["publishers/harper.md"]
 +++

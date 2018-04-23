@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/take-away-poems.md"
+notes_tags = ["notes/take-away-poems.md"]
 notes_about = ["authors/jt-stewart.md"]
 books = ""
 +++

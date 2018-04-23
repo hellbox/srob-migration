@@ -17,7 +17,7 @@ twitterauto = "Amazon has a quarter-billion dollars to blow on a prestige TV gam
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-amazon-has-too-much-money-to-spend.md"
+notes_tags = ["notes/book-news-roundup-amazon-has-too-much-money-to-spend.md"]
 notes_about = ""
 books = ""
 +++

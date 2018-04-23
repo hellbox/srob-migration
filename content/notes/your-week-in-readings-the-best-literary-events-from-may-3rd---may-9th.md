@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins tonight with a discussion of The Rig
 facebookauto = "Your week in readings begins tonight with our book club. Come on down to Third Place Books Seward Park for a meaningful discussion of The Righteous Mind."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-may-3rd---may-9th.md"]
 notes_about = ["authors/angela-flournoy.md", "authors/patricia-lockwood.md"]
 books = ["books/the-turner-house.md", "books/priestdaddy.md"]
 +++

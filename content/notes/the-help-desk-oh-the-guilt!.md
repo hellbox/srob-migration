@@ -17,7 +17,7 @@ twitterauto = "Should you feel guilty about buying used books? What if you go to
 facebookauto = "In this week's advice column, one letter-writer feels guilty about buying used books. Another feels guilty about going to readings and not buying a copy of the book. Cienna Madrid wants them to know what real guilt feels like."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-oh-the-guilt!.md"
+notes_tags = ["notes/the-help-desk-oh-the-guilt!.md"]
 notes_about = ""
 books = ""
 +++

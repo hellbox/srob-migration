@@ -17,7 +17,7 @@ twitterauto = "Tonight you should get drunk with librarians. Obviously. But what
 facebookauto = "Tonight, you should get drunk with librarians. Obviously. But what else is going on? We've picked one fantastic event for every day of the week, including Lit Crawl, Colum McCann, a reading in West Seattle, and a signing from Seattle author G. willow Wilson."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-events-from-october-19th-to-26th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-events-from-october-19th-to-26th.md"]
 notes_about = ""
 books = ""
 +++

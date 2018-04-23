@@ -17,7 +17,7 @@ twitterauto = "An interview with @ThirdPlaceBooks Seward Park manager Eric McDan
 facebookauto = "Here's a talk with Third Place Books Seward Park manager Eric McDaniel about leaving room to grow in his new bookstore."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/to-open-a-bookstore-you-have-to-leave-room-to-grow.md"
+notes_tags = ["notes/to-open-a-bookstore-you-have-to-leave-room-to-grow.md"]
 notes_about = ""
 books = ""
 +++

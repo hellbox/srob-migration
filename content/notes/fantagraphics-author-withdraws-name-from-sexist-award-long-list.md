@@ -17,7 +17,7 @@ twitterauto = "We're very glad that @fantagraphics and Dan Clowes are taking a s
 facebookauto = "The long list for a prestigious French comics award was released this morning. Of the 30 comics creators, absolutely no women were included. Thankfully, Seattle comics publisher Fantagraphics is doing something about it."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/fantagraphics-author-withdraws-name-from-sexist-award-long-list.md"
+notes_tags = ["notes/fantagraphics-author-withdraws-name-from-sexist-award-long-list.md"]
 notes_about = ["authors/dan-clowes.md"]
 books = ""
 +++

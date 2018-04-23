@@ -17,7 +17,7 @@ twitterauto = "Meet E. Lily Yu, the winner of this year's @artisttrust Gar LaSal
 facebookauto = "Meet E. Lily Yu, the winner of this year's Gar LaSalle Storyteller Award from Artist Trust! She's a major Seattle talent to watch."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-e-lily-yu-this-years-winner-of-the-gar-lasalle-storyteller-award.md"
+notes_tags = ["notes/meet-e-lily-yu-this-years-winner-of-the-gar-lasalle-storyteller-award.md"]
 notes_about = ["authors/anca-l-szil\u00e1gyi.md", "authors/peter-mountford.md", "authors/e-lily-yu.md"]
 books = ""
 +++

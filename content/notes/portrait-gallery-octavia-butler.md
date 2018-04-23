@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Celebrating the birthday of #SciFi #writer #Oct
 facebookauto = "Portrait Gallery: Octavia Butler painted by Christine Marie Larsen. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-octavia-butler.md"
+notes_tags = ["notes/portrait-gallery-octavia-butler.md"]
 notes_about = ["authors/octavia-butler.md"]
 books = ""
 +++

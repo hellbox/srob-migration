@@ -17,7 +17,7 @@ twitterauto = "Your week in readings features bees and a Valentine's inquiry int
 facebookauto = "Your week in readings features bees, the Great American Novel, bees, a Valentine's inquiry into the nature of love, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-8th---february-14th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-8th---february-14th.md"]
 notes_about = ["authors/chimamanda-ngozi-adichie.md"]
 books = ["books/americanah.md"]
 +++

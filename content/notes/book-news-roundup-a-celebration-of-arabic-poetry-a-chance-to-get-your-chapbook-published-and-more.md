@@ -17,7 +17,7 @@ twitterauto = "In today's Book News Roundup: a chapbook contest, a celebration o
 facebookauto = "In today's Book News Roundup: a chapbook contest, a celebration of Arabic poetry, and more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-a-celebration-of-arabic-poetry-a-chance-to-get-your-chapbook-published-and-more.md"
+notes_tags = ["notes/book-news-roundup-a-celebration-of-arabic-poetry-a-chance-to-get-your-chapbook-published-and-more.md"]
 notes_about = ["authors/kelly-froh.md"]
 books = ""
 +++

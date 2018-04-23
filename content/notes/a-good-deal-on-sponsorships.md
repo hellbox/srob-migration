@@ -17,7 +17,7 @@ twitterauto = "We've got a good deal on two upcoming sponsorships \u2014 and may
 facebookauto = "We've got a good deal on two upcoming sponsorships \u2014 and maybe you'll want to try something new with us?"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-good-deal-on-sponsorships.md"
+notes_tags = ["notes/a-good-deal-on-sponsorships.md"]
 notes_about = ""
 books = ""
 +++

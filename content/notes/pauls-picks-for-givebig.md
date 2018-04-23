@@ -17,7 +17,7 @@ twitterauto = "Paul's picks for #GiveBIG are @APRILfestSEA, @HugoHouse, and @THS
 facebookauto = "For GiveBIG, Paul Constant wants you to consider three Seattle-area literary nonprofits that are about to go through some huge changes."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/pauls-picks-for-givebig.md"
+notes_tags = ["notes/pauls-picks-for-givebig.md"]
 notes_about = ""
 books = ""
 +++

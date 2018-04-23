@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/laurel-holliday.md"]
-notes_tags = "notes/public-response-to-spl-survey-sharply-against-city-librarian-marcellus-turners-rebranding-plan.md"
+notes_tags = ["notes/public-response-to-spl-survey-sharply-against-city-librarian-marcellus-turners-rebranding-plan.md"]
 notes_about = ""
 books = ""
 +++

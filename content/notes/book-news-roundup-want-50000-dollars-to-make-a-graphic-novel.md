@@ -17,7 +17,7 @@ twitterauto = "A pair of profiles of Seattle-area authors kick off your Book New
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel.md"
+notes_tags = ["notes/book-news-roundup-want-50000-dollars-to-make-a-graphic-novel.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/greg-bem.md", "authors/nisi-shawl.md", "authors/colson-whitehead.md"]
 books = ["books/everfair.md", "books/the-underground-railroad.md"]
 +++

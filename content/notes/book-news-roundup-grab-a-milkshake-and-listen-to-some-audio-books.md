@@ -17,7 +17,7 @@ twitterauto = "All the book news that's fit to print, including #MakeMineMilksha
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-grab-a-milkshake-and-listen-to-some-audio-books.md"
+notes_tags = ["notes/book-news-roundup-grab-a-milkshake-and-listen-to-some-audio-books.md"]
 notes_about = ""
 books = ""
 +++

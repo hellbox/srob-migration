@@ -17,7 +17,7 @@ twitterauto = "That time Madeleine L'Engle helped @secretgardenbks open in Balla
 facebookauto = "Secret Garden Books has a long history with fantastic authors like Madeleine L'Engle, J.K. Rowling (who once promised to never let studios make Harry Potter movies) and Brian Jacques."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-time-madeleine-lengle-helped-introduce-secret-garden-books-to-ballard.md"
+notes_tags = ["notes/the-time-madeleine-lengle-helped-introduce-secret-garden-books-to-ballard.md"]
 notes_about = ["authors/madeleine-lengle.md"]
 books = ""
 +++

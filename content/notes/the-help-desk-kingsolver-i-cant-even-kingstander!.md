@@ -17,7 +17,7 @@ twitterauto = ".@ciennam on Kingsolver: \"I think I suffered a rage blackout for
 facebookauto = "Our advice columnist is not a huge fan of Barbara Kingsolver: \"I think I suffered a rage blackout for the entirety of Prodigal Summer.\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-kingsolver-i-cant-even-kingstander!.md"
+notes_tags = ["notes/the-help-desk-kingsolver-i-cant-even-kingstander!.md"]
 notes_about = ["authors/barbara-kingsolver.md"]
 books = ""
 +++

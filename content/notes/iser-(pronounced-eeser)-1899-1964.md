@@ -17,7 +17,7 @@ twitterauto = "Our final work by September Poet in Residence @estherhelfgott sta
 facebookauto = "Our final work by September Poet in Residence Esther Altshul Helfgott starts \"He died on August 15, 1964,\" "
 make_image_tweet = "False"
 notes_byline = ["writers/esther-altshul-helfgott.md"]
-notes_tags = "notes/iser-(pronounced-eeser)-1899-1964.md"
+notes_tags = ["notes/iser-(pronounced-eeser)-1899-1964.md"]
 notes_about = ""
 books = ""
 +++

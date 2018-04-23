@@ -17,7 +17,7 @@ twitterauto = "Your week in readings features a book about a Tacoma trolley disa
 facebookauto = "Your week in readings features a book about a Tacoma trolley disaster and a beautiful poetic map of Seattle."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-june-28th---july-4th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-june-28th---july-4th.md"]
 notes_about = ""
 books = ""
 +++

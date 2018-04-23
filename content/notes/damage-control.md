@@ -17,7 +17,7 @@ twitterauto = "The final poem from Poet in Residence @d_arrindell is called Dama
 facebookauto = "Daemond Arrindell's last poem as the August Poet in Residence is called Damage Control. The first line is: \"keep me safe\""
 make_image_tweet = "False"
 notes_byline = ["writers/daemond-arrindell.md"]
-notes_tags = "notes/damage-control.md"
+notes_tags = ["notes/damage-control.md"]
 notes_about = ""
 books = ""
 +++

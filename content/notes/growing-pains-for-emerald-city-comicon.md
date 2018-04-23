@@ -17,7 +17,7 @@ twitterauto = "What was your Emerald City Comicon experience like? Let us know!"
 facebookauto = "A few people we talked to at Emerald City Comicon had difficult experiences with organizational growing pains. How about you?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/growing-pains-for-emerald-city-comicon.md"
+notes_tags = ["notes/growing-pains-for-emerald-city-comicon.md"]
 notes_about = ""
 books = ""
 +++

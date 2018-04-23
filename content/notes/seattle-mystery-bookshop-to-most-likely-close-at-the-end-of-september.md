@@ -17,7 +17,7 @@ twitterauto = "Seattle Mystery Bookshop will \"most likely\" close at the end of
 facebookauto = "Seattle Mystery Bookshop will \"most likely\" close at the end of September."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-mystery-bookshop-to-most-likely-close-at-the-end-of-september.md"
+notes_tags = ["notes/seattle-mystery-bookshop-to-most-likely-close-at-the-end-of-september.md"]
 notes_about = ""
 books = ""
 +++

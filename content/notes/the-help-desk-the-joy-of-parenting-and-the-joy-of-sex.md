@@ -17,7 +17,7 @@ twitterauto = "What should you do when your kid accidentally discovers your erot
 facebookauto = "Our advice columnist Cienna Madrid addresses a sticky situation: what do you do when your kid discovers your erotica stash and starts acting out BDSM scenes with Ken and Barbie?"
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-the-joy-of-parenting-and-the-joy-of-sex.md"
+notes_tags = ["notes/the-help-desk-the-joy-of-parenting-and-the-joy-of-sex.md"]
 notes_about = ""
 books = ["books/the-joy-of-sex.md", "books/the-story-of-o.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "What's @lenizumas reading? So much great stuff! "
 facebookauto = "What's Leni Zumas reading?"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-leni-zumas.md"
+notes_tags = ["notes/whatcha-reading-leni-zumas.md"]
 notes_about = ["authors/leni-zumas.md", "authors/clarice-lispector.md", "authors/natalie-eilbert.md", "authors/alison-bechdel.md", "authors/genevieve-hudson.md", "authors/samantha-irby.md", "authors/chelsey-johnson.md", "authors/gabriela-torres-olivares.md", "authors/orlando-white.md"]
 books = ""
 +++

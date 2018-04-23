@@ -17,7 +17,7 @@ twitterauto = "This week @studiochristine paints Betty MacDonald"
 facebookauto = "Portrait Gallery: Betty MacDonald"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-betty-macdonald.md"
+notes_tags = ["notes/portrait-gallery-betty-macdonald.md"]
 notes_about = ["authors/betty-macdonald.md"]
 books = ""
 +++

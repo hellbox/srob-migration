@@ -17,7 +17,7 @@ twitterauto = "Read an essay from It's Just Nerves by this week's sponsor: write
 facebookauto = "Read an essay from It's Just Nerves by this week's sponsor: writer, editor, and much-missed Seattleite Kelly Davio."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/read-strong-is-the-new-sexy-from-sponsor-kelly-davio.md"
+notes_tags = ["notes/read-strong-is-the-new-sexy-from-sponsor-kelly-davio.md"]
 notes_about = ["authors/kelly-davio.md"]
 books = ["books/its-just-nerves.md"]
 +++

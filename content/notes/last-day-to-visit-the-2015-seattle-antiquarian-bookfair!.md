@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = "Last day to go checkout our sponsor the Seattle Antiquarian Bookfair -- get down to Seattle Center today to check it out!"
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/last-day-to-visit-the-2015-seattle-antiquarian-bookfair!.md"
+notes_tags = ["notes/last-day-to-visit-the-2015-seattle-antiquarian-bookfair!.md"]
 notes_about = ""
 books = ""
 +++

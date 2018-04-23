@@ -17,7 +17,7 @@ twitterauto = "We're partnering with poet and artist Clare Johnson to show her P
 facebookauto = "We're partnering with poet and artist Clare Johnson to show her Post-it Note project each week. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/were-publishing-clare-johnsons-post-it-note-project-on-our-instagram-account.md"
+notes_tags = ["notes/were-publishing-clare-johnsons-post-it-note-project-on-our-instagram-account.md"]
 notes_about = ["authors/clare-johnson.md"]
 books = ""
 +++

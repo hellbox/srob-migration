@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = "The Seattle Antiquarian Bookfair is this coming weekend, October 10th & 11th. Thank our sponsors by visiting and letting them know you saw them on The Seattle Review of Books. "
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-seattle-antiquarian-bookfair-is-this-coming-weekend-october-10th-&-11th.md"
+notes_tags = ["notes/the-seattle-antiquarian-bookfair-is-this-coming-weekend-october-10th-&-11th.md"]
 notes_about = ""
 books = ""
 +++

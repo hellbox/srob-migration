@@ -17,7 +17,7 @@ twitterauto = "We've got a new column starting later today \u2014 here's the sco
 facebookauto = "We've got a new column starting later today \u2014 here's the scoop. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/new-saturday-column.md"
+notes_tags = ["notes/new-saturday-column.md"]
 notes_about = ""
 books = ""
 +++

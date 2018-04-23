@@ -17,7 +17,7 @@ twitterauto = "A Lithuanian comics festival is our Kickstarter Fund recipient th
 facebookauto = "A Lithuanian comic book festival is who we picked to back for the Kickstarter Fund this week. There's plenty there, even if you have no plans to travel."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/comics-days---kickstarter-fund-project-7.md"
+notes_tags = ["notes/comics-days---kickstarter-fund-project-7.md"]
 notes_about = ""
 books = ""
 +++

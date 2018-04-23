@@ -17,7 +17,7 @@ twitterauto = "The second poem from April's Poet in Residence, Joan Swift is \"S
 facebookauto = "The second poem from April's Poet in Residence, Joan Swift is \"Shin-Ichi\u2019s Tricycle\""
 make_image_tweet = "False"
 notes_byline = ["writers/joan-swift.md"]
-notes_tags = "notes/shin-ichi’s-tricycle.md"
+notes_tags = ["notes/shin-ichi’s-tricycle.md"]
 notes_about = ""
 books = ""
 +++

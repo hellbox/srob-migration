@@ -17,7 +17,7 @@ twitterauto = "Small Careful Fires, by local cartoonist @kagwheeler, might just 
 facebookauto = "Small Careful Fires, by local cartoonist Katie Wheeler, might just be the antidote to Facebook anxiety."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-personal-touch.md"
+notes_tags = ["notes/thursday-comics-hangover-the-personal-touch.md"]
 notes_about = ["authors/katie-wheeler.md"]
 books = ""
 +++

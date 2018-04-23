@@ -17,7 +17,7 @@ twitterauto = "Sponsor Seattle7Writers had to cancel the Bookish Brunch. Here's 
 facebookauto = "Sponsor Seattle7Writers had to cancel the Bookish Brunch, sadly. Here's a note on the site about it."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/note-from-our-sponsor-bookish-brunch-is-cancelled.md"
+notes_tags = ["notes/note-from-our-sponsor-bookish-brunch-is-cancelled.md"]
 notes_about = ""
 books = ""
 +++

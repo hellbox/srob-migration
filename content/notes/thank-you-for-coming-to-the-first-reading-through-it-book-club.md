@@ -17,7 +17,7 @@ twitterauto = "Our first Reading Through It book club was a huge success, thanks
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thank-you-for-coming-to-the-first-reading-through-it-book-club.md"
+notes_tags = ["notes/thank-you-for-coming-to-the-first-reading-through-it-book-club.md"]
 notes_about = ["authors/jd-vance.md"]
 books = ["books/hillbilly-elegy.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"Poets get very territorial, and that's too bad; that's a waste 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/writing-a-novel-thats-going-well-is-about-the-best-kind-of-work-i-ever-did.md"
+notes_tags = ["notes/writing-a-novel-thats-going-well-is-about-the-best-kind-of-work-i-ever-did.md"]
 notes_about = ["authors/ursula-k-le-guin.md"]
 books = ""
 +++

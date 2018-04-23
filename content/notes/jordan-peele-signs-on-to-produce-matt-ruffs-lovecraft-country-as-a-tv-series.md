@@ -17,7 +17,7 @@ twitterauto = "Seattle author @bymattruff's book Lovecraft Country is being adap
 facebookauto = "Big news: Seattle novelist Matt Ruff's most recent novel Lovecraft Country is being adapted for HBO by none other than Get Out director Jordan Peele!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jordan-peele-signs-on-to-produce-matt-ruffs-lovecraft-country-as-a-tv-series.md"
+notes_tags = ["notes/jordan-peele-signs-on-to-produce-matt-ruffs-lovecraft-country-as-a-tv-series.md"]
 notes_about = ["authors/matt-ruff.md"]
 books = ["books/lovecraft-country.md"]
 +++

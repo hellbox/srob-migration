@@ -17,7 +17,7 @@ twitterauto = "We talked with Reza Aslan about why we're wired for faith and why
 facebookauto = "We talked with one of the greatest religious studies experts in the world about why we're wired to believe in talking trees."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-reza-aslan-about-why-were-wired-for-faith-and-how-farming-was-a-bad-bet-for-humanity.md"
+notes_tags = ["notes/talking-with-reza-aslan-about-why-were-wired-for-faith-and-how-farming-was-a-bad-bet-for-humanity.md"]
 notes_about = ["authors/lesley-hazleton.md", "authors/reza-aslan.md"]
 books = ["books/agnostic.md"]
 +++

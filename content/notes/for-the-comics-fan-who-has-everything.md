@@ -17,7 +17,7 @@ twitterauto = "Holiday gifts don't get much more unique than erotic greeting car
 facebookauto = "If you're looking for a unique gift this year, you can't get much more unique than erotic greeting cards from Ellen Forney."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/for-the-comics-fan-who-has-everything.md"
+notes_tags = ["notes/for-the-comics-fan-who-has-everything.md"]
 notes_about = ["authors/colleen-frakes.md", "authors/ellen-forney.md", "authors/kelly-froh.md"]
 books = ["books/prison-island.md", "books/tales-from-amazon-1-3.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "This week's excerpt is up! Check out a sample chapter from sponso
 facebookauto = "This week's excerpt is up! Check out a sample chapter from sponsor Paul Mullin's memoir, The Starting Gate. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/check-out-a-sample-from-the-starting-gate-courtesy-of-sponsor-paul-mullin.md"
+notes_tags = ["notes/check-out-a-sample-from-the-starting-gate-courtesy-of-sponsor-paul-mullin.md"]
 notes_about = ["authors/paul-mullin.md"]
 books = ["books/the-starting-gate.md"]
 +++

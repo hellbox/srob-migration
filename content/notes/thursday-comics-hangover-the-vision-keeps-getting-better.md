@@ -17,7 +17,7 @@ twitterauto = "No other superhero comic evokes Cheever and the Merchant of Venic
 facebookauto = "No other superhero comic evokes Cheever and the Merchant of Venice in a single issue."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-vision-keeps-getting-better.md"
+notes_tags = ["notes/thursday-comics-hangover-the-vision-keeps-getting-better.md"]
 notes_about = ""
 books = ""
 +++

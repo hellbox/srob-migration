@@ -17,7 +17,7 @@ twitterauto = "Folks, @clairevaye's @Tin_House essay about the \u201clittle whit
 facebookauto = "Have you read \"On Pandering,\" the essay by Claire Vaye Watkins that blew up the literary internet? We have, and we love it! What did you think?"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/todays-must-read-on-pandering.md"
+notes_tags = ["notes/todays-must-read-on-pandering.md"]
 notes_about = ""
 books = ""
 +++

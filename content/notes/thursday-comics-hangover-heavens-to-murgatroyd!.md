@@ -17,7 +17,7 @@ twitterauto = "Folks, the Snaggletooth comic is really good."
 facebookauto = "Folks, the Snaggletooth comic is really good."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-heavens-to-murgatroyd!.md"
+notes_tags = ["notes/thursday-comics-hangover-heavens-to-murgatroyd!.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Will your neighbors turn on you in times of crisis? @doctorow say
 facebookauto = "In a huge, long, wide-ranging interview, Nisi Shawl talks to Cory Doctorow about his work with the EFF and DRM in web browsers, protest movements, Utopianism, and why it's a lie that your neighbors turn on each other in moments of crisis. "
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/nisi-shawl-talking-to-cory-doctorow-aboutuh-everything-.md"
+notes_tags = ["notes/nisi-shawl-talking-to-cory-doctorow-aboutuh-everything-.md"]
 notes_about = ["authors/cory-doctorow.md"]
 books = ""
 +++

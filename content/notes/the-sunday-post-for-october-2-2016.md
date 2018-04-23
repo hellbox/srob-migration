@@ -17,7 +17,7 @@ twitterauto = "Fashionable children, talking race, feminizing Iceland's banking,
 facebookauto = "Fashionable children, talking about race, feminizing Iceland's banking industry, and friendships through up and down, all on today's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-october-2-2016.md"
+notes_tags = ["notes/the-sunday-post-for-october-2-2016.md"]
 notes_about = ""
 books = ""
 +++

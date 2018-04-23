@@ -17,7 +17,7 @@ twitterauto = "In the Sunday Post: Lindy West on losing your cool, the Outer Ban
 facebookauto = "In the Sunday Post: Lindy West on losing your cool, the Outer Banks on shifting sands, and artificial intelligence on a drug called love."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-july-16-2017.md"
+notes_tags = ["notes/the-sunday-post-for-july-16-2017.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Thanks to @SeaArtsLectures for naming us 2018 Prowda Literary Cha
 facebookauto = "Thanks to Seattle Arts and Lectures for naming us 2018 Prowda Literary Champions!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/watch-the-2018-prowda-literary-champions-award-video.md"
+notes_tags = ["notes/watch-the-2018-prowda-literary-champions-award-video.md"]
 notes_about = ""
 books = ""
 +++

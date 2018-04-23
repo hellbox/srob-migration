@@ -17,7 +17,7 @@ twitterauto = "How long is too long a delay before you give up on a comic? A yea
 facebookauto = "How long is too long a delay before you give up on a comic? A year? Two years? Three years?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-glaciers-move-faster-than-this-comic-book.md"
+notes_tags = ["notes/thursday-comics-hangover-glaciers-move-faster-than-this-comic-book.md"]
 notes_about = ""
 books = ""
 +++

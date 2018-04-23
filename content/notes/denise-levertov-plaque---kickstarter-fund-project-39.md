@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @Splabman's effort to honor Denise Lev
 facebookauto = "The Kickstarter Fund backs SPLAB, and Paul Nelson, in their effort to honor Denise Levertov"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/denise-levertov-plaque---kickstarter-fund-project-39.md"
+notes_tags = ["notes/denise-levertov-plaque---kickstarter-fund-project-39.md"]
 notes_about = ["authors/denise-levertov.md"]
 books = ""
 +++

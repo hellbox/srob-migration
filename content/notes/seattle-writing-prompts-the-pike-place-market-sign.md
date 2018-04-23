@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts stops by the big sign at the Pike Place M
 facebookauto = "Seattle Writing Prompts stops by the big sign at the Pike Place Market"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-pike-place-market-sign.md"
+notes_tags = ["notes/seattle-writing-prompts-the-pike-place-market-sign.md"]
 notes_about = ""
 books = ""
 +++

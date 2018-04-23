@@ -17,7 +17,7 @@ twitterauto = "Today in book news roundup: The trolls have won."
 facebookauto = "Today in book news roundup: The trolls have won. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-support-your-local-comics-newspaper.md"
+notes_tags = ["notes/book-news-roundup-support-your-local-comics-newspaper.md"]
 notes_about = ""
 books = ""
 +++

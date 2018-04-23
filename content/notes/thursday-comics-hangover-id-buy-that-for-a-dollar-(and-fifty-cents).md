@@ -17,7 +17,7 @@ twitterauto = "At a buck-fifty an issue, this wicked dark fantasy comic is a ste
 facebookauto = "At a buck-fifty an issue, this wicked dark fantasy comic is a steal."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-id-buy-that-for-a-dollar-(and-fifty-cents).md"
+notes_tags = ["notes/thursday-comics-hangover-id-buy-that-for-a-dollar-(and-fifty-cents).md"]
 notes_about = ""
 books = ""
 +++

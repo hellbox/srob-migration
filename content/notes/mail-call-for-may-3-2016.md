@@ -17,7 +17,7 @@ twitterauto = "Dunno about you, but I'm in the mood to stare at some books. "
 facebookauto = "Dunno about you, but I'm in the mood to stare at some books."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-may-3-2016.md"
+notes_tags = ["notes/mail-call-for-may-3-2016.md"]
 notes_about = ""
 books = ""
 +++

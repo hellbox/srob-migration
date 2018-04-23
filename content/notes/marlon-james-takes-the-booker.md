@@ -17,7 +17,7 @@ twitterauto = "Woooooo! @MarlonJames5 wins the Booker!"
 facebookauto = "Hurray! Marlon James takes the Booker for A Brief History of Seven Killings!"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/marlon-james-takes-the-booker.md"
+notes_tags = ["notes/marlon-james-takes-the-booker.md"]
 notes_about = ["authors/marlon-james.md"]
 books = ["books/a-brief-history-of-seven-killings.md"]
 +++

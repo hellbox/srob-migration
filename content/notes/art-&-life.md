@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is \"Art & Life\" by Priscilla Long. "
 facebookauto = "Our Tuesday Poem is \"Art & Life\" by Priscilla Long. "
 make_image_tweet = "False"
 notes_byline = ["writers/priscilla-long.md"]
-notes_tags = "notes/art-&-life.md"
+notes_tags = ["notes/art-&-life.md"]
 notes_about = ""
 books = ""
 +++

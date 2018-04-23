@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompt-the-pyramid-atop-the-skyscraper.md"
+notes_tags = ["notes/seattle-writing-prompt-the-pyramid-atop-the-skyscraper.md"]
 notes_about = ""
 books = ""
 +++

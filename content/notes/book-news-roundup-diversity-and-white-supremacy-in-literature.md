@@ -17,7 +17,7 @@ twitterauto = "Our book news roundup features a thoughtful essay about plagiaris
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-diversity-and-white-supremacy-in-literature.md"
+notes_tags = ["notes/book-news-roundup-diversity-and-white-supremacy-in-literature.md"]
 notes_about = ["authors/seth-goodkind.md"]
 books = ""
 +++

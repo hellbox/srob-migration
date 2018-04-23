@@ -17,7 +17,7 @@ twitterauto = "While we always love Jack Kirby's comics, it's hard to recommend 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-you-maniacs!-you-blew-it-all-up!.md"
+notes_tags = ["notes/thursday-comics-hangover-you-maniacs!-you-blew-it-all-up!.md"]
 notes_about = ["authors/jack-kirby.md"]
 books = ""
 +++

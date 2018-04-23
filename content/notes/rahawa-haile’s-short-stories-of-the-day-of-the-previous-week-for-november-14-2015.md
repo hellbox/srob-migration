@@ -17,7 +17,7 @@ twitterauto = "Short stories by @AlexKleeman, and @rahawahaile herself, in our w
 facebookauto = "After reading Rahawa Haile's short story picks for months, today we link to a podcast where she reads some of her own work. And, of course, the normal weekly wrap-up. "
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-november-14-2015.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-november-14-2015.md"]
 notes_about = ""
 books = ""
 +++

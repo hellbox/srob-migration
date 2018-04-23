@@ -17,7 +17,7 @@ twitterauto = "Tonight at 6:30 pm, Zanadu Comics is hosting its final discussion
 facebookauto = "Tonight at 6:30 pm, Zanadu Comics is hosting its final discussion group."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/go-talk-comics-at-zanadu-tonight.md"
+notes_tags = ["notes/go-talk-comics-at-zanadu-tonight.md"]
 notes_about = ""
 books = ""
 +++

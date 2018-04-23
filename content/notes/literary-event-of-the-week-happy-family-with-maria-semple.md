@@ -17,7 +17,7 @@ twitterauto = "Our reading of the week is Tracy Barone and Maria Semple at the S
 facebookauto = "Tracy Barone, the author of Happy Family, will be joined by Maria Semple at the Seattle Public Library this week."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-happy-family-with-maria-semple.md"
+notes_tags = ["notes/literary-event-of-the-week-happy-family-with-maria-semple.md"]
 notes_about = ["authors/maria-semple.md"]
 books = ["books/whered-you-go-bernadette.md"]
 +++

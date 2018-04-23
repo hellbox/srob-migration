@@ -17,7 +17,7 @@ twitterauto = "Here are all the best literary events int he week to come."
 facebookauto = "Your week in literary events features readings about weed, poetry, guns, and spoons as moat-building tools."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-27---may-3.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-27---may-3.md"]
 notes_about = ["authors/david-schmader.md"]
 books = ["books/weed-the-users-guide.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Pieces by @annawiener, @AmandaGefter, and @nicholas_seeley in the
 facebookauto = "On the inside of Silicon Valley, on the inside of your mind, and on the inside of noir as a genre, all in today's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-may-1-2016.md"
+notes_tags = ["notes/the-sunday-post-for-may-1-2016.md"]
 notes_about = ""
 books = ""
 +++

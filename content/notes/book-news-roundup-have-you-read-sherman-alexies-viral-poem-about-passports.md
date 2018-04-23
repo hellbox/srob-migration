@@ -17,7 +17,7 @@ twitterauto = "Viral poems, librarian detectives, and Sherman Alexie star in Boo
 facebookauto = "Viral poems, librarian detectives, JK Rowling's ferocious anti-Trumpism, and Sherman Alexie star in Book News Roundup."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-have-you-read-sherman-alexies-viral-poem-about-passports.md"
+notes_tags = ["notes/book-news-roundup-have-you-read-sherman-alexies-viral-poem-about-passports.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Help @TedRall continue his fight against @tronc for press account
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/help-ted-rall-fight-the-la-times.md"
+notes_tags = ["notes/help-ted-rall-fight-the-la-times.md"]
 notes_about = ["authors/ted-rall.md"]
 books = ["books/snowden.md"]
 +++

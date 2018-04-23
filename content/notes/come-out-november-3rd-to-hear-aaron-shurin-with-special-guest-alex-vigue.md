@@ -17,7 +17,7 @@ twitterauto = "Join sponsor @EntreRiosBooks Nov. 3 to launch Flowers & Sky by Aa
 facebookauto = "Join sponsor Entre R\u00edos Books this Friday at Open Books to celebrate the launch of Flower & Sky: Two Talks -- a new book by Aaron Shurin. Special guest Alex Vigue follows with a reading from his debut chapbook, The Man and the Myth. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/come-out-november-3rd-to-hear-aaron-shurin-with-special-guest-alex-vigue.md"
+notes_tags = ["notes/come-out-november-3rd-to-hear-aaron-shurin-with-special-guest-alex-vigue.md"]
 notes_about = ["authors/aaron-shurin.md", "authors/alex-vigue.md"]
 books = ["books/flowers-and-sky.md", "books/the-myth-of-man.md"]
 +++

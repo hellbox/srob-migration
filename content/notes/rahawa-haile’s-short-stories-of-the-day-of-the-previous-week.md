@@ -17,7 +17,7 @@ twitterauto = "It's @rahawahaile's short stories of the day, of the previous wee
 facebookauto = "Rahawa Haile\u2019s short stories of the day, of the previous week -- this week with a bonus interview!"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week.md"]
 notes_about = ["authors/rahawa-haile.md"]
 books = ""
 +++

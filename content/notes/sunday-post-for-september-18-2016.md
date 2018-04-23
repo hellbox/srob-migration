@@ -17,7 +17,7 @@ twitterauto = "Edward Albee, undercover substitute teaching, bad dads, and the r
 facebookauto = "Edward Albee, undercover substitute teaching, bad dads, and the race card, all in today's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/sunday-post-for-september-18-2016.md"
+notes_tags = ["notes/sunday-post-for-september-18-2016.md"]
 notes_about = ""
 books = ""
 +++

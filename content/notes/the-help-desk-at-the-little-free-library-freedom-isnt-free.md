@@ -17,7 +17,7 @@ twitterauto = "Dear Cienna: I can't stop taking books from my Little Free Librar
 facebookauto = "Dear Cienna: I can't stop taking books from my Little Free Library. My \"borrowing\" of books is bordering on theft. Help!"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-at-the-little-free-library-freedom-isnt-free.md"
+notes_tags = ["notes/the-help-desk-at-the-little-free-library-freedom-isnt-free.md"]
 notes_about = ""
 books = ""
 +++

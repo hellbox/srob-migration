@@ -17,7 +17,7 @@ twitterauto = "We talked with Maori author Nic Low about his trip to @SeattleCit
 facebookauto = "We talked with Maori author Nic Low about what Christchurch and Seattle can teach each other."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-nic-low-about-literature-and-the-outdoors-and-a-cultural-exchange-with-christchurch-.md"
+notes_tags = ["notes/talking-with-nic-low-about-literature-and-the-outdoors-and-a-cultural-exchange-with-christchurch-.md"]
 notes_about = ["authors/willie-fitzgerald.md"]
 books = ""
 +++

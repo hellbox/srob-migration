@@ -17,7 +17,7 @@ twitterauto = "Join @NisiShawl on a a look back at the fashion of the future, in
 facebookauto = "Join Nisi Shawl on a a look back at the fashion of the future, in this month's Future Alternative Past."
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/future-alternative-past-wheres-the-future-wear.md"
+notes_tags = ["notes/future-alternative-past-wheres-the-future-wear.md"]
 notes_about = ["authors/cj-cherryh.md", "authors/julie-c-dao.md", "authors/annalee-newitz.md", "authors/anna-kavan.md"]
 books = ""
 +++

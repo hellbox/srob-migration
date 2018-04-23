@@ -17,7 +17,7 @@ twitterauto = "We've picked one great literary event a day for the next week, ju
 facebookauto = "We've picked one great literary event a day for the next week, just for you! We've got sci-fi conventions, Vietnamese poets, hot young novelists, and much, much more."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-march-23rd---march-29th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-march-23rd---march-29th.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "We could happily lose days in any one of these beautiful reading 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/beautiful-places-to-read.md"
+notes_tags = ["notes/beautiful-places-to-read.md"]
 notes_about = ""
 books = ""
 +++

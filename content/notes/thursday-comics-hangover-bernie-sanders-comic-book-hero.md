@@ -17,7 +17,7 @@ twitterauto = "Will Ted Rall's Bernie Sanders biography make you feel the bern?"
 facebookauto = "Ted Rall's latest book is a biography of Bernie Sanders. Will it make you feel the bern?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-bernie-sanders-comic-book-hero.md"
+notes_tags = ["notes/thursday-comics-hangover-bernie-sanders-comic-book-hero.md"]
 notes_about = ["authors/ted-rall.md"]
 books = ["books/bernie.md", "books/snowden.md"]
 +++

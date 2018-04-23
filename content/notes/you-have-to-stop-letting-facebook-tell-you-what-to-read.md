@@ -17,7 +17,7 @@ twitterauto = "Don't leave your media consumption choices to Mark Zuckerberg. Re
 facebookauto = "Hello. The website you're reading this on right now is bad. Here's why:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/you-have-to-stop-letting-facebook-tell-you-what-to-read.md"
+notes_tags = ["notes/you-have-to-stop-letting-facebook-tell-you-what-to-read.md"]
 notes_about = ""
 books = ""
 +++

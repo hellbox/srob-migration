@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/an-editor’s-job—particularly-a-white-straight-editor—must-do-the-work-to-question-where-their-tastes-come-from.md"
+notes_tags = ["notes/an-editor’s-job—particularly-a-white-straight-editor—must-do-the-work-to-question-where-their-tastes-come-from.md"]
 notes_about = ""
 books = ""
 +++

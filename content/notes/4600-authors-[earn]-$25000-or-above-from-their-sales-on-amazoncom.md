@@ -17,7 +17,7 @@ twitterauto = "How many authors in America earn poverty wages or above? The answ
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/4600-authors-[earn]-$25000-or-above-from-their-sales-on-amazoncom.md"
+notes_tags = ["notes/4600-authors-[earn]-$25000-or-above-from-their-sales-on-amazoncom.md"]
 notes_about = ""
 books = ""
 +++

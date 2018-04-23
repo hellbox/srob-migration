@@ -10,5 +10,5 @@ last_updated = "2016-08-29T17:03:13+00:00"
 preview_url = ""
 name = "Houghton Mifflin"
 title = "Houghton Mifflin"
-books_publisher = "publishers/houghton-mifflin.md"
+books_publisher = ["publishers/houghton-mifflin.md"]
 +++

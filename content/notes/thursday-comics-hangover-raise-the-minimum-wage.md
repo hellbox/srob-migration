@@ -17,7 +17,7 @@ twitterauto = "One of the best relationship comics of the 90s is reborn as a com
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-raise-the-minimum-wage.md"
+notes_tags = ["notes/thursday-comics-hangover-raise-the-minimum-wage.md"]
 notes_about = ["authors/bob-fingerman.md"]
 books = ["books/maximum-minimum-wage.md"]
 +++

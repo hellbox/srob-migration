@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-ants-and-giants-win-a-miserable-week.md"
+notes_tags = ["notes/thursday-comics-hangover-ants-and-giants-win-a-miserable-week.md"]
 notes_about = ""
 books = ""
 +++

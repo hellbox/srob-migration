@@ -17,7 +17,7 @@ twitterauto = "Did you know that @secretgardenbooks brings all kinds of authors 
 facebookauto = "Secret Garden Books hosts tons of readings. You're not allowed to attend many of them unless you're a kid."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/bookstore-of-the-month-bringing-authors-to-kids.md"
+notes_tags = ["notes/bookstore-of-the-month-bringing-authors-to-kids.md"]
 notes_about = ""
 books = ""
 +++

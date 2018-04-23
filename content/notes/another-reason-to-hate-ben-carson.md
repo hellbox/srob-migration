@@ -17,7 +17,7 @@ twitterauto = "Wait, which Republican presidential candidate believes the govern
 facebookauto = "A Republican presidential candidate believes the government should be spying on libraries. Just let that roll around in your head for a little bit."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/another-reason-to-hate-ben-carson.md"
+notes_tags = ["notes/another-reason-to-hate-ben-carson.md"]
 notes_about = ""
 books = ""
 +++

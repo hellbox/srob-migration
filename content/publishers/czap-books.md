@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Czap Books"
 title = "Czap Books"
-books_publisher = "publishers/czap-books.md"
+books_publisher = ["publishers/czap-books.md"]
 +++

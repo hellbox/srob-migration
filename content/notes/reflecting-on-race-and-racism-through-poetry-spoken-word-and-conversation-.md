@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/donna-miscolta.md"]
-notes_tags = "notes/reflecting-on-race-and-racism-through-poetry-spoken-word-and-conversation-.md"
+notes_tags = ["notes/reflecting-on-race-and-racism-through-poetry-spoken-word-and-conversation-.md"]
 notes_about = ""
 books = ""
 +++

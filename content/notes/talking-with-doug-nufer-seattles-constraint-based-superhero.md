@@ -17,7 +17,7 @@ twitterauto = "An interview with Seattle Oulipian genius Doug Nufer about which 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"
+notes_tags = ["notes/talking-with-doug-nufer-seattles-constraint-based-superhero.md"]
 notes_about = ["authors/doug-nufer.md"]
 books = ["books/lifeline-rule.md", "books/negativeland.md", "books/never-again.md"]
 +++

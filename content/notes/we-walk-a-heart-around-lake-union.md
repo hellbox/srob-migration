@@ -17,7 +17,7 @@ twitterauto = "The Tuesday Poem today is from @pennyzola: \"We Walk A Heart Arou
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/michelle-pe\u00f1aloza.md"]
-notes_tags = "notes/we-walk-a-heart-around-lake-union.md"
+notes_tags = ["notes/we-walk-a-heart-around-lake-union.md"]
 notes_about = ""
 books = ""
 +++

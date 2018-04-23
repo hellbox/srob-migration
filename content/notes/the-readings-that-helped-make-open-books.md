@@ -17,7 +17,7 @@ twitterauto = "Open Books owner John Marshall remembers some of his favorite aut
 facebookauto = "Open Books owner John Marshall remembers some of his favorite author events."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-readings-that-helped-make-open-books.md"
+notes_tags = ["notes/the-readings-that-helped-make-open-books.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

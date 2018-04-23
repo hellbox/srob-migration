@@ -17,7 +17,7 @@ twitterauto = "J.A. Jance on why she's happy to \"write the kinds of books that 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-ja-jance-about-the-literature-of-seattle.md"
+notes_tags = ["notes/talking-with-ja-jance-about-the-literature-of-seattle.md"]
 notes_about = ["authors/ja-jance.md"]
 books = ""
 +++

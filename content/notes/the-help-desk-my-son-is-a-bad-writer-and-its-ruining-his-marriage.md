@@ -17,7 +17,7 @@ twitterauto = "Hey, @ciennam: My son is a bad writer, and it's costing him his m
 facebookauto = "Here is a context-free line from this week's advice column: \"...at a certain point, you have to put that baby in a closet and shut the door.\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-my-son-is-a-bad-writer-and-its-ruining-his-marriage.md"
+notes_tags = ["notes/the-help-desk-my-son-is-a-bad-writer-and-its-ruining-his-marriage.md"]
 notes_about = ""
 books = ""
 +++

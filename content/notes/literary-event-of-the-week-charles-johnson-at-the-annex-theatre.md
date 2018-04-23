@@ -17,7 +17,7 @@ twitterauto = "This Thursday, you have an amazing opportunity to hear Charles Jo
 facebookauto = "This Thursday, you have an amazing opportunity to hear Charles Johnson talk about writing."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-charles-johnson-at-the-annex-theatre.md"
+notes_tags = ["notes/literary-event-of-the-week-charles-johnson-at-the-annex-theatre.md"]
 notes_about = ["authors/charles-johnson.md"]
 books = ""
 +++

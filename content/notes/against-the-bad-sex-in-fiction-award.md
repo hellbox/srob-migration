@@ -17,7 +17,7 @@ twitterauto = "It's time to retire the Bad Sex in Fiction Award. Let's talk abou
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/against-the-bad-sex-in-fiction-award.md"
+notes_tags = ["notes/against-the-bad-sex-in-fiction-award.md"]
 notes_about = ""
 books = ""
 +++

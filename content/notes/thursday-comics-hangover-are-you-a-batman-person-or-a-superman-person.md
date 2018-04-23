@@ -17,7 +17,7 @@ twitterauto = "Are you a Batman person or a Superman person? What would make you
 facebookauto = "Are you a Superman person or a Batman person? What would it take to make you change your mind?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-are-you-a-batman-person-or-a-superman-person.md"
+notes_tags = ["notes/thursday-comics-hangover-are-you-a-batman-person-or-a-superman-person.md"]
 notes_about = ""
 books = ""
 +++

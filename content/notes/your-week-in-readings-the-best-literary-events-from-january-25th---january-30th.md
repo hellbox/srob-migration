@@ -17,7 +17,7 @@ twitterauto = "This week, we're highlighting a reading for the homeless, a new b
 facebookauto = "This week, we're highlighting a reading for the homeless, a new barroom lit series, and a talk on writer residencies."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-25th---january-30th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-25th---january-30th.md"]
 notes_about = ["authors/jon-raymond.md", "authors/natasha-marin.md", "authors/claudia-castro-luna.md"]
 books = ""
 +++

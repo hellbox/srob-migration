@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/she-changed-comics---kickstarter-fund-project-14.md"
+notes_tags = ["notes/she-changed-comics---kickstarter-fund-project-14.md"]
 notes_about = ""
 books = ""
 +++

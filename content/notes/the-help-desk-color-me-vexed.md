@@ -17,7 +17,7 @@ twitterauto = "A Seattle-area bookseller is getting tired of the \"adult colorin
 facebookauto = "In today's Help Desk, a Seattle-area bookseller is getting tired of the \"adult coloring book\" craze."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-color-me-vexed.md"
+notes_tags = ["notes/the-help-desk-color-me-vexed.md"]
 notes_about = ""
 books = ""
 +++

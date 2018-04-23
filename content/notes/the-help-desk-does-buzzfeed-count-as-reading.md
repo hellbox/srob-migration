@@ -17,7 +17,7 @@ twitterauto = "Sure, we're reading more in the age of the internet. But does tha
 facebookauto = "Sure, we're reading more in the age of the internet. But does that make us more literate?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-does-buzzfeed-count-as-reading.md"
+notes_tags = ["notes/the-help-desk-does-buzzfeed-count-as-reading.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Poet Gary Copeland Lilley @LilleyGary painted b
 facebookauto = "Portrait Gallery: Poet Gary Copeland Lilley painted by Christine Marie Larsen. Copeland will be reading at Open Books Friday night with Robert Lashley."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-gary-copeland-lilley.md"
+notes_tags = ["notes/portrait-gallery-gary-copeland-lilley.md"]
 notes_about = ["authors/gary-copeland-lilley.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"...they form what they call a fellowship, but can we just be ho
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-had-to-laugh-at-all-this-trouble-about-a-little-golden-ring.md"
+notes_tags = ["notes/i-had-to-laugh-at-all-this-trouble-about-a-little-golden-ring.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "You can't get much more mainstream than this comic's \"special zi
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-an-alternative-to-the-alternative.md"
+notes_tags = ["notes/thursday-comics-hangover-an-alternative-to-the-alternative.md"]
 notes_about = ""
 books = ""
 +++

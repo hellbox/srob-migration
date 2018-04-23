@@ -17,7 +17,7 @@ twitterauto = "Our May Bookstore of the Month is @queenannebookco."
 facebookauto = "Our May Bookstore of the Month is Queen Anne Book Company, which feels delightfully like an island bookstore."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/queen-anne-book-company-is-our-may-bookstore-of-the-month.md"
+notes_tags = ["notes/queen-anne-book-company-is-our-may-bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

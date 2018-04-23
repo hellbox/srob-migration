@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @FaithErinHicks #portrait #illustration by @stu
 facebookauto = "Portrait Gallery: Faith Erin Hicks  | Tuesday April 4th: The Stone Heart Reading"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-faith-erin-hicks.md"
+notes_tags = ["notes/portrait-gallery-faith-erin-hicks.md"]
 notes_about = ["authors/faith-erin-hicks.md"]
 books = ""
 +++

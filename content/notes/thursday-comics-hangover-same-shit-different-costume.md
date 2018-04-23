@@ -17,7 +17,7 @@ twitterauto = "But really: how many action figures can we sell of this?"
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-same-shit-different-costume.md"
+notes_tags = ["notes/thursday-comics-hangover-same-shit-different-costume.md"]
 notes_about = ""
 books = ""
 +++

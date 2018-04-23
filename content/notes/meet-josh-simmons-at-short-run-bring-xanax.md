@@ -17,7 +17,7 @@ twitterauto = ".@shortrunseattle exhibitor Josh Simmons explains what he loves a
 facebookauto = "Cartoonist Josh Simmons is debuting a new horror comic at this year's Short Run Comix & Arts Festival. He has some suggestions for how you should prepare for this year's Short Run."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-josh-simmons-at-short-run-bring-xanax.md"
+notes_tags = ["notes/meet-josh-simmons-at-short-run-bring-xanax.md"]
 notes_about = ["authors/josh-simmons.md"]
 books = ""
 +++

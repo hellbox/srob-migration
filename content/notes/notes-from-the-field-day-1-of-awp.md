@@ -17,7 +17,7 @@ twitterauto = "Our first report from @RachelLaKessler, from on the ground at #AW
 facebookauto = "Our first report from Rachel Kessler, on the ground in Los Angeles, for AWP."
 make_image_tweet = "False"
 notes_byline = ["writers/rachel-kessler.md"]
-notes_tags = "notes/notes-from-the-field-day-1-of-awp.md"
+notes_tags = ["notes/notes-from-the-field-day-1-of-awp.md"]
 notes_about = ["authors/claudia-rankine.md", "authors/liz-bradfield.md"]
 books = ""
 +++

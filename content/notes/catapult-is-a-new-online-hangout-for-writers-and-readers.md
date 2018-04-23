@@ -17,7 +17,7 @@ twitterauto = "Will @CatapultStory finally crack the code for online writing com
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/catapult-is-a-new-online-hangout-for-writers-and-readers.md"
+notes_tags = ["notes/catapult-is-a-new-online-hangout-for-writers-and-readers.md"]
 notes_about = ""
 books = ""
 +++

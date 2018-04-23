@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-harriet-angeline-powers.md"
+notes_tags = ["notes/portrait-gallery-harriet-angeline-powers.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Why didn't anyone tell us that conservative judges have a David F
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/conservative-judges-love-david-foster-wallace-apparently.md"
+notes_tags = ["notes/conservative-judges-love-david-foster-wallace-apparently.md"]
 notes_about = ""
 books = ""
 +++

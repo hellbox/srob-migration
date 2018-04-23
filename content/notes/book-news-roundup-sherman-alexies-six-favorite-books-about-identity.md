@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup includes stories about @Sherman_Alexie,
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-sherman-alexies-six-favorite-books-about-identity.md"
+notes_tags = ["notes/book-news-roundup-sherman-alexies-six-favorite-books-about-identity.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

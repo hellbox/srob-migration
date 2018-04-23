@@ -10,5 +10,5 @@ last_updated = "2017-08-31T22:19:00-07:00"
 preview_url = "4c72b177-9ee8-711a-8630-eb1437343ba9"
 name = "Island Press"
 title = "Island Press"
-books_publisher = "publishers/island-press.md"
+books_publisher = ["publishers/island-press.md"]
 +++

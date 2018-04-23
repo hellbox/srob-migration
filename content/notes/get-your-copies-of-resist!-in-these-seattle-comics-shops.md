@@ -17,7 +17,7 @@ twitterauto = "Here's where to pick up your copies of the Resist! anti-Trump com
 facebookauto = "Here's where to pick up your copies of the Resist! anti-Trump comics newspaper this weekend:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/get-your-copies-of-resist!-in-these-seattle-comics-shops.md"
+notes_tags = ["notes/get-your-copies-of-resist!-in-these-seattle-comics-shops.md"]
 notes_about = ["authors/tatiana-gill.md"]
 books = ""
 +++

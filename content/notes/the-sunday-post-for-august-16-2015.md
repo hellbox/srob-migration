@@ -17,7 +17,7 @@ twitterauto = "This week's Sunday post has four items on Conrad, Carnegie, Patte
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-august-16-2015.md"
+notes_tags = ["notes/the-sunday-post-for-august-16-2015.md"]
 notes_about = ""
 books = ""
 +++

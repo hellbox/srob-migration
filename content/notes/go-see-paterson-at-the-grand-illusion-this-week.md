@@ -17,7 +17,7 @@ twitterauto = "Lovers of movies and poetry and public transit: Go see Paterson a
 facebookauto = "Lovers of movies and poetry and public transit: Go see Paterson at the Grand Illusion Cinema this week. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/go-see-paterson-at-the-grand-illusion-this-week.md"
+notes_tags = ["notes/go-see-paterson-at-the-grand-illusion-this-week.md"]
 notes_about = ""
 books = ""
 +++

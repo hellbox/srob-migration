@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts finds itself thinking about shipping cont
 facebookauto = "Seattle Writing Prompts finds itself thinking about shipping containers"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-shipping-containers.md"
+notes_tags = ["notes/seattle-writing-prompts-shipping-containers.md"]
 notes_about = ""
 books = ""
 +++

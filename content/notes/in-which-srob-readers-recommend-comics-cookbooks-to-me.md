@@ -17,7 +17,7 @@ twitterauto = "Our readers had some great comics cookbook recommendations!"
 facebookauto = "Yesterday, we wondered why there weren't any good comics cookbooks. Three of our readers responded with some great recommendations."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/in-which-srob-readers-recommend-comics-cookbooks-to-me.md"
+notes_tags = ["notes/in-which-srob-readers-recommend-comics-cookbooks-to-me.md"]
 notes_about = ["authors/colleen-frakes.md"]
 books = ""
 +++

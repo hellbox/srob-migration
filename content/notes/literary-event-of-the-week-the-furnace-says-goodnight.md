@@ -17,7 +17,7 @@ twitterauto = "This week's Literary Event of the Week is the Furnace Reading ser
 facebookauto = "The Furnace Reading Series is closing out with a bang (and violating its one mission statement) with a big show this month."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-the-furnace-says-goodnight.md"
+notes_tags = ["notes/literary-event-of-the-week-the-furnace-says-goodnight.md"]
 notes_about = ["authors/corinne-manning.md", "authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

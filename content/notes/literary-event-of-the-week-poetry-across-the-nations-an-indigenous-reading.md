@@ -17,7 +17,7 @@ twitterauto = "This week, Seattle hosts the launch of a new nationwide project t
 facebookauto = "This week, Seattle hosts the launch of a new nationwide project to elevate the voices of Native women poets."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-poetry-across-the-nations-an-indigenous-reading.md"
+notes_tags = ["notes/literary-event-of-the-week-poetry-across-the-nations-an-indigenous-reading.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "A documentary @SIFFNews focuses on the storytelling side of Ronal
 facebookauto = "A documentary at SIFF focuses on the storytelling side of Ronald Reagan's presidency."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-storyteller-in-chief.md"
+notes_tags = ["notes/the-storyteller-in-chief.md"]
 notes_about = ""
 books = ""
 +++

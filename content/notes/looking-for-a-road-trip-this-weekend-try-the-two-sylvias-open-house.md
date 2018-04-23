@@ -17,7 +17,7 @@ twitterauto = "Road trip! Head to Kingston this Saturday for the @twosylviaspres
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/looking-for-a-road-trip-this-weekend-try-the-two-sylvias-open-house.md"
+notes_tags = ["notes/looking-for-a-road-trip-this-weekend-try-the-two-sylvias-open-house.md"]
 notes_about = ["authors/michelle-pe\u00f1aloza.md", "authors/kelli-russell-agodon.md", "authors/susan-rich.md", "authors/esther-altshul-helfgott.md"]
 books = ""
 +++

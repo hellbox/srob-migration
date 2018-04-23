@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/thanks-to-you-were-turning-two.md"
+notes_tags = ["notes/thanks-to-you-were-turning-two.md"]
 notes_about = ""
 books = ""
 +++

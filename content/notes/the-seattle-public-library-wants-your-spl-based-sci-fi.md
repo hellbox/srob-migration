@@ -17,7 +17,7 @@ twitterauto = "On January 1st, @SPLBuzz is launching a flash science fiction con
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-seattle-public-library-wants-your-spl-based-sci-fi.md"
+notes_tags = ["notes/the-seattle-public-library-wants-your-spl-based-sci-fi.md"]
 notes_about = ["authors/octavia-butler.md"]
 books = ""
 +++

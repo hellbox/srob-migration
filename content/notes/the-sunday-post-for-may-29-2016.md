@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post has pieces by: @tonytula, @bertclere, @kelseymsut
 facebookauto = "Frog and Toad, Salon.com, What it's like to be a 13 year old girl in this era, and who controls the naming of novels? All in today's Sunday Post. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-may-29-2016.md"
+notes_tags = ["notes/the-sunday-post-for-may-29-2016.md"]
 notes_about = ""
 books = ""
 +++

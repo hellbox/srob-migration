@@ -10,5 +10,5 @@ last_updated = "2017-10-29T14:05:00-07:00"
 preview_url = "c5ce2a6a-9307-18bf-21bf-ce470186ea77"
 name = "Squares & Rebels"
 title = "Squares & Rebels"
-books_publisher = "publishers/squares-&-rebels.md"
+books_publisher = ["publishers/squares-&-rebels.md"]
 +++

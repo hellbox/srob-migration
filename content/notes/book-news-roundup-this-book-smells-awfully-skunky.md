@@ -17,7 +17,7 @@ twitterauto = "Today in book news roundup: a scratch-and-sniff book about pot?"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-this-book-smells-awfully-skunky.md"
+notes_tags = ["notes/book-news-roundup-this-book-smells-awfully-skunky.md"]
 notes_about = ""
 books = ""
 +++

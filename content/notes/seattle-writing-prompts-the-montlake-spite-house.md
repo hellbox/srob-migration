@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts brings a little spite (house) into your d
 facebookauto = "Seattle Writing Prompts brings a little spite (house) into your day"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-montlake-spite-house.md"
+notes_tags = ["notes/seattle-writing-prompts-the-montlake-spite-house.md"]
 notes_about = ""
 books = ""
 +++

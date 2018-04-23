@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/jane-wong.md"]
-notes_tags = "notes/apology-in-the-age-of-construction.md"
+notes_tags = ["notes/apology-in-the-age-of-construction.md"]
 notes_about = ""
 books = ""
 +++

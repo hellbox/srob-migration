@@ -17,7 +17,7 @@ twitterauto = "Living in isolation, the known great bard, how to get your attent
 facebookauto = "Living in isolation, the known great bard, how to get your attention back, and more, in the Sunday Post "
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-january-15-2017.md"
+notes_tags = ["notes/the-sunday-post-for-january-15-2017.md"]
 notes_about = ""
 books = ""
 +++

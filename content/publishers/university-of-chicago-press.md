@@ -10,5 +10,5 @@ last_updated = "2017-08-08T18:01:00-07:00"
 preview_url = "033950bb-978a-e760-0b7a-81b6b4815702"
 name = "University of Chicago Press"
 title = "University of Chicago Press"
-books_publisher = "publishers/university-of-chicago-press.md"
+books_publisher = ["publishers/university-of-chicago-press.md"]
 +++

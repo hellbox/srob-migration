@@ -17,7 +17,7 @@ twitterauto = "Italian news sources are reporting that author Umberto Eco has di
 facebookauto = "We're sad to share the news that italian news sources are reporting that author Umberto Eco has died. This has been a sad day for literature around the world."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/umberto-eco-1932---2016.md"
+notes_tags = ["notes/umberto-eco-1932---2016.md"]
 notes_about = ""
 books = ""
 +++

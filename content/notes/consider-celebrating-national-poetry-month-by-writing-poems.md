@@ -17,7 +17,7 @@ twitterauto = "It's National Poetry Month: how about writing a poem each day dur
 facebookauto = "It's National Poetry Month: how about writing a poem each day during April?"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/consider-celebrating-national-poetry-month-by-writing-poems.md"
+notes_tags = ["notes/consider-celebrating-national-poetry-month-by-writing-poems.md"]
 notes_about = ""
 books = ""
 +++

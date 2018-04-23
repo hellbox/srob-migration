@@ -17,7 +17,7 @@ twitterauto = "Tintin books were really racist. Is it okay to read Tintin books?
 facebookauto = "In this week's advice column, Cienna Madrid contributes the following sentence to the world of letters: \"Lewis Carroll was a monogamous pedophile, Flannery O'Connor was a devout Catholic and Ayn Rand claimed to be human.\""
 make_image_tweet = "True"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-tintin-is-a-racist-and-i-dont-know-what-to-do-about-it.md"
+notes_tags = ["notes/the-help-desk-tintin-is-a-racist-and-i-dont-know-what-to-do-about-it.md"]
 notes_about = ""
 books = ""
 +++

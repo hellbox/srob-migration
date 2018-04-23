@@ -17,7 +17,7 @@ twitterauto = "We got a very important correction from @TeaMichelle about celebr
 facebookauto = "Michelle Tea wants you to know that she would never have sex with Brad Pitt."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/brad-pitt-or-matt-dillon-michelle-tea-has-opinions.md"
+notes_tags = ["notes/brad-pitt-or-matt-dillon-michelle-tea-has-opinions.md"]
 notes_about = ["authors/michelle-tea.md", "authors/sarah-galvin.md"]
 books = ["books/black-wave.md"]
 +++

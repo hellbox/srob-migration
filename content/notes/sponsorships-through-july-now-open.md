@@ -17,7 +17,7 @@ twitterauto = "We've just released the next block of sponsor opportunities on th
 facebookauto = "We've just released the next block of sponsorship openings. Last time, we sold out completely. If you're thinking about partnering with us for some effective, inexpensive advertising, act fast!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/sponsorships-through-july-now-open.md"
+notes_tags = ["notes/sponsorships-through-july-now-open.md"]
 notes_about = ""
 books = ""
 +++

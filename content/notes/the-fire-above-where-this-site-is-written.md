@@ -17,7 +17,7 @@ twitterauto = "Yet another place #WhereWeWrite"
 facebookauto = "Another spot from #WhereWeWrite."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-fire-above-where-this-site-is-written.md"
+notes_tags = ["notes/the-fire-above-where-this-site-is-written.md"]
 notes_about = ""
 books = ""
 +++

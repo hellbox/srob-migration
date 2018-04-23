@@ -17,7 +17,7 @@ twitterauto = "You've got a difficult choice between two readings  to make tomor
 facebookauto = "Thursday night, you'll have to choose which event you want to attend: a young, fun poetry barbecue? Or one of the grand masters of Seattle poetry?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-events-of-the-week-koon-woon-and-margin-shift.md"
+notes_tags = ["notes/literary-events-of-the-week-koon-woon-and-margin-shift.md"]
 notes_about = ""
 books = ""
 +++

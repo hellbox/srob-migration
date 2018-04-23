@@ -17,7 +17,7 @@ twitterauto = "Get ready for events with Ottessa Moshfegh and Ross Gay this week
 facebookauto = "Get ready for events with Ottessa Moshfegh and Ross Gay this week, plus new outings from the Looseleaf and Margin Shift reading series."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-1st---february-7th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-1st---february-7th.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "We're cautiously optimistic about the relaunch of the Evergreen R
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/evergreen-grows-again.md"
+notes_tags = ["notes/evergreen-grows-again.md"]
 notes_about = ""
 books = ""
 +++

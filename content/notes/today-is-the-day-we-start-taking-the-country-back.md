@@ -17,7 +17,7 @@ twitterauto = "Today is the day we start taking the country back."
 facebookauto = "Today is the day we start taking the country back."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/today-is-the-day-we-start-taking-the-country-back.md"
+notes_tags = ["notes/today-is-the-day-we-start-taking-the-country-back.md"]
 notes_about = ["authors/elisa-chavez.md"]
 books = ""
 +++

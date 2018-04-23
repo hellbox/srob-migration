@@ -17,7 +17,7 @@ twitterauto = "They don't even know how to use bookshelves correctly."
 facebookauto = "What's on the bookshelves at President Trump's State Department? Well, uh, not much."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/they-dont-even-know-how-to-use-bookshelves-correctly.md"
+notes_tags = ["notes/they-dont-even-know-how-to-use-bookshelves-correctly.md"]
 notes_about = ""
 books = ""
 +++

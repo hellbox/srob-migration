@@ -17,7 +17,7 @@ twitterauto = "For sale: Truman Capote, slightly used."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/truman-capote-for-sale.md"
+notes_tags = ["notes/truman-capote-for-sale.md"]
 notes_about = ["authors/truman-capote.md"]
 books = ""
 +++

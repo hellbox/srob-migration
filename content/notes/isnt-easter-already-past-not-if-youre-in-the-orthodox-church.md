@@ -17,7 +17,7 @@ twitterauto = "Sponsor Charlotte Riggle is back to show her book about Easter in
 facebookauto = "Sponsor Charlotte Riggle is back to show her book about Pascha, the Orthodox Easter -- this year, it's being celebrated on May 1st."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/isnt-easter-already-past-not-if-youre-in-the-orthodox-church.md"
+notes_tags = ["notes/isnt-easter-already-past-not-if-youre-in-the-orthodox-church.md"]
 notes_about = ["authors/charlotte-riggle.md"]
 books = ["books/catherines-pascha.md"]
 +++

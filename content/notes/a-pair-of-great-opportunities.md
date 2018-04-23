@@ -17,7 +17,7 @@ twitterauto = "A pair of neat literary opportunities, from @hugohouse and @artis
 facebookauto = "Today in literary opportunities: Artist Trust is giving out $1500 grants to 60 Washington artists, and Hugo House is hiring a marketing manager. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-pair-of-great-opportunities.md"
+notes_tags = ["notes/a-pair-of-great-opportunities.md"]
 notes_about = ""
 books = ""
 +++

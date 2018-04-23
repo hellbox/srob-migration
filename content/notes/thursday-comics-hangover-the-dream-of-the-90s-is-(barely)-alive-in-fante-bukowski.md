@@ -17,7 +17,7 @@ twitterauto = "Remember the 1990s? Boy, this comic sure does."
 facebookauto = "Remember the 1990s? Boy, this comic sure does."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-dream-of-the-90s-is-(barely)-alive-in-fante-bukowski.md"
+notes_tags = ["notes/thursday-comics-hangover-the-dream-of-the-90s-is-(barely)-alive-in-fante-bukowski.md"]
 notes_about = ""
 books = ""
 +++

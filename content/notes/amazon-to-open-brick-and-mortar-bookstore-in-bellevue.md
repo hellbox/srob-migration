@@ -17,7 +17,7 @@ twitterauto = "Get ready for another brick-and-mortar Amazon store, this time in
 facebookauto = "Get ready for another brick-and-mortar Amazon store, this time in Bellevue."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-to-open-brick-and-mortar-bookstore-in-bellevue.md"
+notes_tags = ["notes/amazon-to-open-brick-and-mortar-bookstore-in-bellevue.md"]
 notes_about = ""
 books = ""
 +++

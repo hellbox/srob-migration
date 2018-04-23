@@ -17,7 +17,7 @@ twitterauto = "Whatcha reading, @donnamiscolta?@NoleyReid, among others."
 facebookauto = "Whatcha reading, Donna Miscolta?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-donna-miscolta.md"
+notes_tags = ["notes/whatcha-reading-donna-miscolta.md"]
 notes_about = ["authors/donna-miscolta.md", "authors/noley-reid.md", "authors/mario-bellatin.md"]
 books = ""
 +++

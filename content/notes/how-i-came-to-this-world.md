@@ -17,7 +17,7 @@ twitterauto = "Our second from @trippweavepoet is titled \"How I Came to this Wo
 facebookauto = "Our second from Julene Tripp Weaver is titled \"How I Came to this World\""
 make_image_tweet = "False"
 notes_byline = ["writers/julene-tripp-weaver.md"]
-notes_tags = "notes/how-i-came-to-this-world.md"
+notes_tags = ["notes/how-i-came-to-this-world.md"]
 notes_about = ""
 books = ""
 +++

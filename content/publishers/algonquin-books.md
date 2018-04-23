@@ -10,5 +10,5 @@ last_updated = "2015-09-07T18:27:00-07:00"
 preview_url = "a6a8b116-494d-bdce-f6ae-c6fb65b7f560"
 name = "Algonquin Books"
 title = "Algonquin Books"
-books_publisher = "publishers/algonquin-books.md"
+books_publisher = ["publishers/algonquin-books.md"]
 +++

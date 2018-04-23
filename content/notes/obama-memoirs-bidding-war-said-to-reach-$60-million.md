@@ -17,7 +17,7 @@ twitterauto = "That's a lot of money for a presidential memoir."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/obama-memoirs-bidding-war-said-to-reach-$60-million.md"
+notes_tags = ["notes/obama-memoirs-bidding-war-said-to-reach-$60-million.md"]
 notes_about = ""
 books = ""
 +++

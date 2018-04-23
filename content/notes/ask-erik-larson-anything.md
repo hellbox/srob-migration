@@ -17,7 +17,7 @@ twitterauto = "Seattle author Erik Larson wants you to ask him anything."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ask-erik-larson-anything.md"
+notes_tags = ["notes/ask-erik-larson-anything.md"]
 notes_about = ["authors/erik-larson.md"]
 books = ""
 +++

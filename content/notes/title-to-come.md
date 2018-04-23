@@ -17,7 +17,7 @@ twitterauto = "Did you know that The Sun Also Rises was originally going to be t
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/title-to-come.md"
+notes_tags = ["notes/title-to-come.md"]
 notes_about = ""
 books = ""
 +++

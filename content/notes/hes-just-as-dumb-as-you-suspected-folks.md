@@ -17,7 +17,7 @@ twitterauto = "\u201cA man who is his own lawyer has a fool for his client.\u201
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hes-just-as-dumb-as-you-suspected-folks.md"
+notes_tags = ["notes/hes-just-as-dumb-as-you-suspected-folks.md"]
 notes_about = ""
 books = ""
 +++

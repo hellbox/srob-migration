@@ -17,7 +17,7 @@ twitterauto = "On Saturday, @seattlecourtney visited 17 bookstores in a single d
 facebookauto = "\"Seventeen bookstores, 120 miles, two ferries, at least a dozen bridges.\" Here's one reader's story of how she and her daughter celebrated Independent Bookstore Day."
 make_image_tweet = "False"
 notes_byline = ["writers/courtney-hudak.md"]
-notes_tags = "notes/seventeen-bookstores-in-a-single-day-my-independent-bookstore-day-journey.md"
+notes_tags = ["notes/seventeen-bookstores-in-a-single-day-my-independent-bookstore-day-journey.md"]
 notes_about = ["authors/chimamanda-ngozi-adichie.md"]
 books = ["books/we-should-all-be-feminists.md"]
 +++

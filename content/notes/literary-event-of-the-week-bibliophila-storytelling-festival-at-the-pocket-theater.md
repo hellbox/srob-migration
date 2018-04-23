@@ -17,7 +17,7 @@ twitterauto = "Are you ready for a 3-day book festival featuring improv, nudity,
 facebookauto = "Are you ready for a three-day book festival featuring performance, nudity, and badass women of color? Of course you are."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-bibliophila-storytelling-festival-at-the-pocket-theater.md"
+notes_tags = ["notes/literary-event-of-the-week-bibliophila-storytelling-festival-at-the-pocket-theater.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "If you're gonna go big with your superheroes, you might as well g
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-over-the-top.md"
+notes_tags = ["notes/thursday-comics-hangover-over-the-top.md"]
 notes_about = ""
 books = ""
 +++

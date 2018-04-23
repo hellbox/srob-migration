@@ -17,7 +17,7 @@ twitterauto = "Read an excerpt from our sponsor's novel Cretaceous World for a s
 facebookauto = "Check out an excerpt from sponsor Howard W. Robertson's Cretaceous World for a very different take on the end game for global warming \u2014 one where metaphysics live side by side with hope, family, and a park full of thunder lizards."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/love-in-the-time-of-brontosaurs.md"
+notes_tags = ["notes/love-in-the-time-of-brontosaurs.md"]
 notes_about = ["authors/howard-w-robertson.md"]
 books = ["books/love-in-the-cretaceous.md"]
 +++

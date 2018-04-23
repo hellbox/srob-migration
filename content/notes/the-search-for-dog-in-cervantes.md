@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-search-for-dog-in-cervantes.md"
+notes_tags = ["notes/the-search-for-dog-in-cervantes.md"]
 notes_about = ["authors/cervantes.md"]
 books = ""
 +++

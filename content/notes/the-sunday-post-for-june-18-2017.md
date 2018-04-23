@@ -17,7 +17,7 @@ twitterauto = "Fear of heights, low humor, & finding middle ground with @RahawaH
 facebookauto = "Fear of heights on the high wire, low humor in a children's book, and finding middle ground with Rahawa Haile's father in the Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-june-18-2017.md"
+notes_tags = ["notes/the-sunday-post-for-june-18-2017.md"]
 notes_about = ""
 books = ""
 +++

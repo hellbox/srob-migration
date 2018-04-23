@@ -17,7 +17,7 @@ twitterauto = ".@ciennam's Help Desk column responds to the @nytimes's new liter
 facebookauto = "In this week's Help Desk, Cienna Madrid offers some advice to the founders of the Seattle Review of Books, who are upset that the New York Times is launching a literary advice column called Help Desk. Is there any nobility in theft?"
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-the-other-help-desk.md"
+notes_tags = ["notes/the-help-desk-the-other-help-desk.md"]
 notes_about = ""
 books = ""
 +++

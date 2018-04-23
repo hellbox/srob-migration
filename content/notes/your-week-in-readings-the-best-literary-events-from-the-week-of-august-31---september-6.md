@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with a @RedHenPress celebration @ell
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-the-week-of-august-31---september-6.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-the-week-of-august-31---september-6.md"]
 notes_about = ["authors/elissa-washuta.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Because @ciennam was sick last week, you get TWO Help Desk questi
 facebookauto = "This week's advice column features TWO questions: one about book-to-film adaptations and another about reading sexy books in public places."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-secret-romances-and-sexy-pirates.md"
+notes_tags = ["notes/the-help-desk-secret-romances-and-sexy-pirates.md"]
 notes_about = ""
 books = ""
 +++

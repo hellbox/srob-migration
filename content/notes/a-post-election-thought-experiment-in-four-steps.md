@@ -17,7 +17,7 @@ twitterauto = "A little post-election thought experiment pitting @JeffBezos agai
 facebookauto = "Here's a little post-election thought experiment pitting Jeff Bezos against your local bookstore owner."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-post-election-thought-experiment-in-four-steps.md"
+notes_tags = ["notes/a-post-election-thought-experiment-in-four-steps.md"]
 notes_about = ""
 books = ""
 +++

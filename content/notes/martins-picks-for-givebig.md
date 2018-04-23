@@ -17,7 +17,7 @@ twitterauto = "Who to #GiveBIG to? Perhaps @clarionwest, @writehedgebrook, or @F
 facebookauto = "Who to #GiveBIG to? Perhaps Clarion West, Hedgebrook, or the Bureau of Fearless Ideas?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/martins-picks-for-givebig.md"
+notes_tags = ["notes/martins-picks-for-givebig.md"]
 notes_about = ""
 books = ""
 +++

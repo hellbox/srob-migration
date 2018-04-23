@@ -17,7 +17,7 @@ twitterauto = "Australian author detained at LAX, says she'll likely never visit
 facebookauto = "Australian kids' book author Mem Fox was detained at LAX earlier this month. Fox has visited the US over a hundred times in her career, but she says now she will likely never return."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/“this-is-what-happens-when-extremists-take-power”.md"
+notes_tags = ["notes/“this-is-what-happens-when-extremists-take-power”.md"]
 notes_about = ""
 books = ""
 +++

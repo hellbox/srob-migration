@@ -17,7 +17,7 @@ twitterauto = "Don't forget the Anarchist Book Fair tomorrow at the Vera Project
 facebookauto = "Don't forget the Anarchist Book Fair tomorrow at the Vera Project!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-joan-didion-goes-to-the-movies.md"
+notes_tags = ["notes/book-news-roundup-joan-didion-goes-to-the-movies.md"]
 notes_about = ""
 books = ""
 +++

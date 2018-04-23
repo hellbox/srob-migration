@@ -17,7 +17,7 @@ twitterauto = "What do you do when a man in power at an arts organization talks 
 facebookauto = "What do you do when a man in power at an arts organization talks like a locker-room dirtbag?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-locker-room-talk-and-the-arts.md"
+notes_tags = ["notes/the-help-desk-locker-room-talk-and-the-arts.md"]
 notes_about = ""
 books = ""
 +++

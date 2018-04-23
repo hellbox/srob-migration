@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup includes a local cartoonist, a beloved 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-welcome-to-seattle-simon-hanselmann!.md"
+notes_tags = ["notes/book-news-roundup-welcome-to-seattle-simon-hanselmann!.md"]
 notes_about = ""
 books = ""
 +++

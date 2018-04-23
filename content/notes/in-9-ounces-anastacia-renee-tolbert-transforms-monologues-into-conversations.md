@@ -17,7 +17,7 @@ twitterauto = "A review of former @HugoHouse Writer-in-Residence Anastacia Renee
 facebookauto = "Last weekend, former Hugo House Writer-in-Residence Anastacia Renee Tolbert performed an enthralling one-woman show. Read more about her monologues and messages: "
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/in-9-ounces-anastacia-renee-tolbert-transforms-monologues-into-conversations.md"
+notes_tags = ["notes/in-9-ounces-anastacia-renee-tolbert-transforms-monologues-into-conversations.md"]
 notes_about = ["authors/anastacia-renee.md"]
 books = ""
 +++

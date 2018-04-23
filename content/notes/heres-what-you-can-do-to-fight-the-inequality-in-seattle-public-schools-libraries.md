@@ -17,7 +17,7 @@ twitterauto = "Seattle school librarian @eadsreads talks about how you can help 
 facebookauto = "Seattle's public school libraries are in crisis. Kids in the poorest neighborhoods are not getting access to the books they need.  Learn about what you can do to help in the fight for #SPSLibraryEquity."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/heres-what-you-can-do-to-fight-the-inequality-in-seattle-public-schools-libraries.md"
+notes_tags = ["notes/heres-what-you-can-do-to-fight-the-inequality-in-seattle-public-schools-libraries.md"]
 notes_about = ""
 books = ""
 +++

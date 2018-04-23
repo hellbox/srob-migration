@@ -17,7 +17,7 @@ twitterauto = "It's @KatWithSword, @jessicagross, @SofiaSamatar, and more in @ra
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-december-12-2015.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-december-12-2015.md"]
 notes_about = ""
 books = ""
 +++

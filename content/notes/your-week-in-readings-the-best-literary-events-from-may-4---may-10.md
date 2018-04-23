@@ -17,7 +17,7 @@ twitterauto = "Events happening this week include a dragon-riding novel and a ta
 facebookauto = "Some cool upcoming events include the fight for a $15 minimum wage, a dragon-riding novel, and a party where you get to trash the Hugo House."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-may-4---may-10.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-may-4---may-10.md"]
 notes_about = ["authors/neal-bascomb.md"]
 books = ""
 +++

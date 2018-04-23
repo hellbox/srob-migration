@@ -17,7 +17,7 @@ twitterauto = "The Lit Fix reading scheduled for tonight has been canceled at th
 facebookauto = "The Lit Fix reading scheduled for tonight has been canceled at the last minute."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/tonights-lit-fix-reading-has-been-canceled-.md"
+notes_tags = ["notes/tonights-lit-fix-reading-has-been-canceled-.md"]
 notes_about = ""
 books = ""
 +++

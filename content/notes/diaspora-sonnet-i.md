@@ -17,7 +17,7 @@ twitterauto = "Our Poet in Residence for May is @Oliver_delapaz, and his first p
 facebookauto = "Our Poet in Residence for May is Oliver de la Paz, and his first poem is titled \"Diaspora Sonnet I\""
 make_image_tweet = "False"
 notes_byline = ["writers/oliver-de-la-paz.md"]
-notes_tags = "notes/diaspora-sonnet-i.md"
+notes_tags = ["notes/diaspora-sonnet-i.md"]
 notes_about = ""
 books = ""
 +++

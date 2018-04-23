@@ -10,5 +10,5 @@ last_updated = "2018-02-18T15:17:00-08:00"
 preview_url = "c255b5b7-1972-8258-0009-ad260ec379d8"
 name = "Transcentainment Comics"
 title = "Transcentainment Comics"
-books_publisher = "publishers/transcentainment-comics.md"
+books_publisher = ["publishers/transcentainment-comics.md"]
 +++

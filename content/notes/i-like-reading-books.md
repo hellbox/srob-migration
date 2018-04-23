@@ -17,7 +17,7 @@ twitterauto = "\"Our incoming president simply doesn't seem to enjoy reading.\""
 facebookauto = "\"It is time to come to terms with the fact that our incoming president simply doesn't seem to enjoy reading.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-like-reading-books.md"
+notes_tags = ["notes/i-like-reading-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Dear [  ] reader [  ] follower [  ] curious rival, @ciennam clock
 facebookauto = "Dear [  ] reader [   ] follower [   ] curious rival, Cienna Madrid clocks the checkbox on a clueless form rejection.  "
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-checkboxes-of-despair.md"
+notes_tags = ["notes/the-help-desk-checkboxes-of-despair.md"]
 notes_about = ""
 books = ""
 +++

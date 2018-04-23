@@ -17,7 +17,7 @@ twitterauto = "We are thrilled to announce our new monthly column on SFFH by @ni
 facebookauto = "We are thrilled to announce our new monthly column on science fiction, fantasy, and horror, by Nisi Shawl, the Future Alternative Past."
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/the-future-alternative-past-our-inaugural-science-fiction-fantasy-and-horror-column.md"
+notes_tags = ["notes/the-future-alternative-past-our-inaugural-science-fiction-fantasy-and-horror-column.md"]
 notes_about = ""
 books = ""
 +++

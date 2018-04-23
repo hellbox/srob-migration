@@ -17,7 +17,7 @@ twitterauto = "Congratulations to new @The_Rumpus Saturday editor, @misswashuta!
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/elissa-washutas-making-a-rumpus.md"
+notes_tags = ["notes/elissa-washutas-making-a-rumpus.md"]
 notes_about = ["authors/elissa-washuta.md"]
 books = ""
 +++

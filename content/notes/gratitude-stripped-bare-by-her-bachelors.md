@@ -17,7 +17,7 @@ twitterauto = "Gratitude, stripped bare by her bachelors. "
 facebookauto = "Gratitude, stripped bare by her bachelors. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/gratitude-stripped-bare-by-her-bachelors.md"
+notes_tags = ["notes/gratitude-stripped-bare-by-her-bachelors.md"]
 notes_about = ""
 books = ""
 +++

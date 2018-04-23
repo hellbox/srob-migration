@@ -17,7 +17,7 @@ twitterauto = "Last night's @HugoHouse craft talk with Mary Gaitskill was all ab
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/mary-gaitskill-and-the-invisible-force-between-words.md"
+notes_tags = ["notes/mary-gaitskill-and-the-invisible-force-between-words.md"]
 notes_about = ["authors/vladimir-nabokov.md", "authors/charles-dickens.md", "authors/mary-gaitskill.md"]
 books = ""
 +++

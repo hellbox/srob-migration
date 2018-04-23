@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins tonight with a pair of international
 facebookauto = "Your week in readings includes books you can eat, a pair of well-respected literary authors, and an agnostic's manifesto."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-march-30th---april-5th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-march-30th---april-5th.md"]
 notes_about = ["authors/lesley-hazleton.md"]
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Robert Lowell"
 title = "Robert Lowell"
-books_publisher = "publishers/robert-lowell.md"
+books_publisher = ["publishers/robert-lowell.md"]
 +++

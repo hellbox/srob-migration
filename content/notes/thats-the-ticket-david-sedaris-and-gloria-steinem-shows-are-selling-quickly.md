@@ -17,7 +17,7 @@ twitterauto = "David Sedaris tickets are almost sold out, & tickets to see Glori
 facebookauto = "We're just warning you in advance: David Sedaris tickets are almost sold out. And tickets to see Gloria Steinem and Cheryl Strayed in conversation are running low, too. It's not too early to start planning your Novembers, people."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thats-the-ticket-david-sedaris-and-gloria-steinem-shows-are-selling-quickly.md"
+notes_tags = ["notes/thats-the-ticket-david-sedaris-and-gloria-steinem-shows-are-selling-quickly.md"]
 notes_about = ["authors/david-sedaris.md", "authors/gloria-steinem.md"]
 books = ["books/my-life-on-the-road.md"]
 +++

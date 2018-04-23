@@ -17,7 +17,7 @@ twitterauto = "This weekend, the Comics and Medicine Conference comes to town. W
 facebookauto = "This weekend, the Comics and Medicine Conference comes to town. We talked with a founder about its origins and why she believes that everyone should be interested in the intersection between graphic novels and healthcare."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-didnt-set-out-to-do-it-but-what-i-had-done-was-i-made-a-comic-talking-with-mk-czerwiec-cofounder-of-the-comics-and-medicine-conference.md"
+notes_tags = ["notes/i-didnt-set-out-to-do-it-but-what-i-had-done-was-i-made-a-comic-talking-with-mk-czerwiec-cofounder-of-the-comics-and-medicine-conference.md"]
 notes_about = ["authors/ellen-forney.md", "authors/mita-mahato.md", "authors/david-lasky.md"]
 books = ""
 +++

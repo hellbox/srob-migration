@@ -17,7 +17,7 @@ twitterauto = "If David Sedaris talks about the hypothetical death of your pet, 
 facebookauto = "Paul Constant introduced David Sedaris last night by reading a blog post titled \u201cMy Co-Worker Karen Had a Bad Encounter With Funny Man David Sedaris.\u201d"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/why-a-dog-owner-in-maine-doesnt-like-david-sedaris.md"
+notes_tags = ["notes/why-a-dog-owner-in-maine-doesnt-like-david-sedaris.md"]
 notes_about = ["authors/david-sedaris.md"]
 books = ""
 +++

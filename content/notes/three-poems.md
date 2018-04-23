@@ -17,7 +17,7 @@ twitterauto = "The Tuesday poem today is three short pieces from Maged Zaher. "
 facebookauto = "Three short poems from Maged Zaher today are our Tuesday Poem. "
 make_image_tweet = "False"
 notes_byline = ["writers/maged-zaher.md"]
-notes_tags = "notes/three-poems.md"
+notes_tags = ["notes/three-poems.md"]
 notes_about = ""
 books = ""
 +++

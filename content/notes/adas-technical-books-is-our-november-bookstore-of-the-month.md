@@ -17,7 +17,7 @@ twitterauto = "Our November Bookstore of the Month is Ada's Technical Books! (@A
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/adas-technical-books-is-our-november-bookstore-of-the-month.md"
+notes_tags = ["notes/adas-technical-books-is-our-november-bookstore-of-the-month.md"]
 notes_about = ""
 books = ""
 +++

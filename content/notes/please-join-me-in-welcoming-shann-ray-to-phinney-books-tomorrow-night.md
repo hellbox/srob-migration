@@ -17,7 +17,7 @@ twitterauto = "Tomorrow @PhinneyBooks, @paulconstant will be in conversation wit
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/please-join-me-in-welcoming-shann-ray-to-phinney-books-tomorrow-night.md"
+notes_tags = ["notes/please-join-me-in-welcoming-shann-ray-to-phinney-books-tomorrow-night.md"]
 notes_about = ["authors/shann-ray.md"]
 books = ""
 +++

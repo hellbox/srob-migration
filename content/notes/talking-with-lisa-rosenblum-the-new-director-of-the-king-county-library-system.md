@@ -17,7 +17,7 @@ twitterauto = "We interviewed Lisa Rosenblum, the brand-new director of King Cou
 facebookauto = "What books do you think Lisa Rosenblum, the new director of King County Library System, should read to learn about the region?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-lisa-rosenblum-the-new-director-of-the-king-county-library-system.md"
+notes_tags = ["notes/talking-with-lisa-rosenblum-the-new-director-of-the-king-county-library-system.md"]
 notes_about = ""
 books = ""
 +++

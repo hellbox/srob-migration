@@ -17,7 +17,7 @@ twitterauto = "How many books on President Obama's summer reading list have you 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/heres-president-obamas-summer-reading-list.md"
+notes_tags = ["notes/heres-president-obamas-summer-reading-list.md"]
 notes_about = ""
 books = ""
 +++

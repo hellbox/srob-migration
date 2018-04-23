@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/“i-expect-emma-is-going-to-marry-mr-knightly”-.md"
+notes_tags = ["notes/“i-expect-emma-is-going-to-marry-mr-knightly”-.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Find out why #womenintranslation is a hashtag crusade that deserv
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/more-women-in-translation-please.md"
+notes_tags = ["notes/more-women-in-translation-please.md"]
 notes_about = ""
 books = ""
 +++

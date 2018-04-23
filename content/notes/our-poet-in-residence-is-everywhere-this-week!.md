@@ -17,7 +17,7 @@ twitterauto = "Our March Poet in Residence is doing two reading events this week
 facebookauto = "Our March Poet in Residence is doing two reading events this week \u2014 once with ice cream!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/our-poet-in-residence-is-everywhere-this-week!.md"
+notes_tags = ["notes/our-poet-in-residence-is-everywhere-this-week!.md"]
 notes_about = ["authors/julene-tripp-weaver.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts visits the airport"
 facebookauto = "Seattle Writing Prompts visits the airport"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-seatac-airport.md"
+notes_tags = ["notes/seattle-writing-prompts-seatac-airport.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "OMG @thelindywest in Mail Call!"
 facebookauto = "OMG Lindy West in Mail Call!"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-march-29-2016.md"
+notes_tags = ["notes/mail-call-for-march-29-2016.md"]
 notes_about = ""
 books = ""
 +++

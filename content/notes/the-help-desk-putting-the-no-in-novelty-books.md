@@ -17,7 +17,7 @@ twitterauto = "\"My husband's family knows I love books, so the problem is that 
 facebookauto = "\"My husband's family knows I love books, so the problem is that they buy me books. Why is it a problem?\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-putting-the-no-in-novelty-books.md"
+notes_tags = ["notes/the-help-desk-putting-the-no-in-novelty-books.md"]
 notes_about = ""
 books = ""
 +++

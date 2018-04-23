@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/laurel-holliday.md"]
-notes_tags = "notes/library-board-scrambles-for-special-meeting-on-rebranding-issue;-city-hall-reacts.md"
+notes_tags = ["notes/library-board-scrambles-for-special-meeting-on-rebranding-issue;-city-hall-reacts.md"]
 notes_about = ""
 books = ""
 +++

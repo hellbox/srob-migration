@@ -17,7 +17,7 @@ twitterauto = "Are you ready for Readerfest? It's happening this weekend at Magn
 facebookauto = "Are you ready for Readerfest? It's happening this weekend at Magnuson Park!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-readerfest.md"
+notes_tags = ["notes/literary-event-of-the-week-readerfest.md"]
 notes_about = ["authors/nisi-shawl.md", "authors/kathleen-alcala.md"]
 books = ""
 +++

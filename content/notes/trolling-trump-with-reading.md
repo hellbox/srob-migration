@@ -17,7 +17,7 @@ twitterauto = "Visibly ignoring Donald Trump is FUN-damental!"
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/trolling-trump-with-reading.md"
+notes_tags = ["notes/trolling-trump-with-reading.md"]
 notes_about = ""
 books = ""
 +++

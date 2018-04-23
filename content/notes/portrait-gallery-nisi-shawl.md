@@ -17,7 +17,7 @@ twitterauto = "#Sci-fi Author @NisiShawl #illustration by @studiochristine / #Ev
 facebookauto = "Portrait Gallery: Nisi Shawl painted by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-nisi-shawl.md"
+notes_tags = ["notes/portrait-gallery-nisi-shawl.md"]
 notes_about = ["authors/nisi-shawl.md"]
 books = ["books/everfair.md"]
 +++

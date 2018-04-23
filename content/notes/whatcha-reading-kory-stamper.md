@@ -17,7 +17,7 @@ twitterauto = "What does a lexicographer read for work and fun? Let @KoryStamper
 facebookauto = "What does a lexicographer read for work and fun? Let Kory Stamper tell you all about it. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-kory-stamper.md"
+notes_tags = ["notes/whatcha-reading-kory-stamper.md"]
 notes_about = ["authors/michelle-mcnamara.md", "authors/philip-ball.md", "authors/hilary-mantel.md", "authors/deane-b-judd.md", "authors/lynne-murphy.md", "authors/vesper-stamper.md", "authors/douglas-adams.md", "authors/kory-stamper.md"]
 books = ""
 +++

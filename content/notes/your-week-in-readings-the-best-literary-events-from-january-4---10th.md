@@ -17,7 +17,7 @@ twitterauto = "This week in Seattle readings: remembering Madeline DeFrees and t
 facebookauto = "Your week in readings features a discussion about America's lack of talent, a celebration of the life of Madeline DeFrees, and two debut short story collections."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-4---10th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-4---10th.md"]
 notes_about = ["authors/peter-mountford.md", "authors/madeline-defrees.md"]
 books = ""
 +++

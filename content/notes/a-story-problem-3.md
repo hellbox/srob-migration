@@ -17,7 +17,7 @@ twitterauto = "Our fourth, from May Poet in Residence @Oliver_delaPaz, is anothe
 facebookauto = "Our fourth, from May Poet in Residence Oliver de la Paz, is another story problem. "
 make_image_tweet = "False"
 notes_byline = ["writers/oliver-de-la-paz.md"]
-notes_tags = "notes/a-story-problem-3.md"
+notes_tags = ["notes/a-story-problem-3.md"]
 notes_about = ""
 books = ""
 +++

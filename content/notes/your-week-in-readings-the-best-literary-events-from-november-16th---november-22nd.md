@@ -17,7 +17,7 @@ twitterauto = "This week, you'll want to attend readings by @TeaMichelle and @ed
 facebookauto = "Your week in readings include a reading by Ed Skoog, sci-fi and comics launch parties, and much more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-16th---november-22nd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-16th---november-22nd.md"]
 notes_about = ["authors/michelle-tea.md", "authors/matthew-simmons.md"]
 books = ["books/black-wave.md"]
 +++

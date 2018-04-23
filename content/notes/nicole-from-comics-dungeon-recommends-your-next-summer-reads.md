@@ -17,7 +17,7 @@ twitterauto = "What is Nicole @ComicsDungeon recommending this summer?"
 facebookauto = "We asked Nicole Lamb at the Comics Dungeon to give us one great summer book recommendation. Instead, she offered up two."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/nicole-from-comics-dungeon-recommends-your-next-summer-reads.md"
+notes_tags = ["notes/nicole-from-comics-dungeon-recommends-your-next-summer-reads.md"]
 notes_about = ""
 books = ""
 +++

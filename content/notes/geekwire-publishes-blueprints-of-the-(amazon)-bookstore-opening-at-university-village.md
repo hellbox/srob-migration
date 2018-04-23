@@ -17,7 +17,7 @@ twitterauto = "Geekwire has published the blueprints of that rumored University 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/geekwire-publishes-blueprints-of-the-(amazon)-bookstore-opening-at-university-village.md"
+notes_tags = ["notes/geekwire-publishes-blueprints-of-the-(amazon)-bookstore-opening-at-university-village.md"]
 notes_about = ""
 books = ""
 +++

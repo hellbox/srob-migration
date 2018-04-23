@@ -17,7 +17,7 @@ twitterauto = "Hola and Goodbye author @DonnaMiscolta painted by @studiochristin
 facebookauto = "Portrait Gallery: Donna Miscolta"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-donna-miscolta.md"
+notes_tags = ["notes/portrait-gallery-donna-miscolta.md"]
 notes_about = ["authors/donna-miscolta.md"]
 books = ""
 +++

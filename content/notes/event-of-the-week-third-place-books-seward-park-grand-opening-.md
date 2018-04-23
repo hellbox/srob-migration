@@ -17,7 +17,7 @@ twitterauto = "Our Event of the Week is the grand opening of @ThirdPlaceBooks Se
 facebookauto = "This Saturday, the Seward Park branch of Third Place Books finally opens, with a bunch of Seattle-area authors on the scene. It's our Even of the Week."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-third-place-books-seward-park-grand-opening-.md"
+notes_tags = ["notes/event-of-the-week-third-place-books-seward-park-grand-opening-.md"]
 notes_about = ""
 books = ""
 +++

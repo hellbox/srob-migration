@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Spiegel &amp; Grau"
 title = "Spiegel &amp; Grau"
-books_publisher = "publishers/spiegel-&amp;-grau.md"
+books_publisher = ["publishers/spiegel-&amp;-grau.md"]
 +++

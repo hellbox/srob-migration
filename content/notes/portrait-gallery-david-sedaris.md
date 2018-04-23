@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: #DavidSedaris reads all week long @SeattleCentr
 facebookauto = "Portrait Gallery: David Sedaris illustration by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-david-sedaris.md"
+notes_tags = ["notes/portrait-gallery-david-sedaris.md"]
 notes_about = ["authors/david-sedaris.md"]
 books = ""
 +++

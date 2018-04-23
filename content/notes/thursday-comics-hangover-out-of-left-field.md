@@ -17,7 +17,7 @@ twitterauto = "Ugh. Can someone explain this Batman comic to us?"
 facebookauto = "Ugh. Can someone explain the ending of this Batman comic to us?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-out-of-left-field.md"
+notes_tags = ["notes/thursday-comics-hangover-out-of-left-field.md"]
 notes_about = ""
 books = ""
 +++

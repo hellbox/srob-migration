@@ -17,7 +17,7 @@ twitterauto = "Make no mistake: This video game is just as literary as a comic b
 facebookauto = "Make no mistake: This video game is just as literary as a comic book."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-cliff-the-deer-and-the-choices-you-make.md"
+notes_tags = ["notes/the-cliff-the-deer-and-the-choices-you-make.md"]
 notes_about = ""
 books = ""
 +++

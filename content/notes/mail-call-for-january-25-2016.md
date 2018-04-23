@@ -17,7 +17,7 @@ twitterauto = "Mail Call! Reader survey: how many know Brigid Brophy? If so, hav
 facebookauto = "Mail Call! How many of you reading this are familiar with Brigid Brophy? Have you read much of her work?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-january-25-2016.md"
+notes_tags = ["notes/mail-call-for-january-25-2016.md"]
 notes_about = ["authors/brigid-brophy.md"]
 books = ""
 +++

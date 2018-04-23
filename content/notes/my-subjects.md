@@ -17,7 +17,7 @@ twitterauto = "October's Poet in Residence @karywayson is in the house, and her 
 facebookauto = "October's Poet in Residence Kary Wayson is in the house, and her first poem is called \"My Subjects\""
 make_image_tweet = "False"
 notes_byline = ["writers/kary-wayson.md"]
-notes_tags = "notes/my-subjects.md"
+notes_tags = ["notes/my-subjects.md"]
 notes_about = ""
 books = ""
 +++

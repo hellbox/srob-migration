@@ -17,7 +17,7 @@ twitterauto = "Today in book news: @fantagraphics scores big, and a portrait of 
 facebookauto = "Today in book news: @fantagraphics scores big, against Little Free Libraries, and a portrait of Seattle's book theft network."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-fantagraphics-scores-big-stacey-levine-resurfaces-and-a-case-is-made-against-little-free-libraries.md"
+notes_tags = ["notes/book-news-roundup-fantagraphics-scores-big-stacey-levine-resurfaces-and-a-case-is-made-against-little-free-libraries.md"]
 notes_about = ["authors/stacey-levine.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle in 2017 can learn an awful lot from a novel about Detroit
 facebookauto = "Seattle in 2017 can learn an awful lot from a novel about Detroit in 2008."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-seattle-reads-the-turner-house.md"
+notes_tags = ["notes/literary-event-of-the-week-seattle-reads-the-turner-house.md"]
 notes_about = ["authors/angela-flournoy.md"]
 books = ["books/the-turner-house.md"]
 +++

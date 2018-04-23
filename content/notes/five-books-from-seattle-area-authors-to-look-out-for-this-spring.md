@@ -17,7 +17,7 @@ twitterauto = "Here are five books we can't wait to read this spring."
 facebookauto = "Here are five books by Seattle-area authors that we can't wait to read this spring."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/five-books-from-seattle-area-authors-to-look-out-for-this-spring.md"
+notes_tags = ["notes/five-books-from-seattle-area-authors-to-look-out-for-this-spring.md"]
 notes_about = ["authors/robert-lashley.md"]
 books = ""
 +++

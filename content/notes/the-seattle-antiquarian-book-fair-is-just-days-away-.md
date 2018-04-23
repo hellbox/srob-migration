@@ -17,7 +17,7 @@ twitterauto = "Don't miss this week's sponsor, the Seattle Antiquarian Book Fair
 facebookauto = "We're all anticipation for the Seattle Antiquarian Book Fair, coming up this weekend. Many thanks to the Fair for sponsoring, and we hope to see you all there!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-seattle-antiquarian-book-fair-is-just-days-away-.md"
+notes_tags = ["notes/the-seattle-antiquarian-book-fair-is-just-days-away-.md"]
 notes_about = ""
 books = ""
 +++

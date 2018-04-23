@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jonathan-franzen-is-becoming-the-donald-trump-of-the-literary-world.md"
+notes_tags = ["notes/jonathan-franzen-is-becoming-the-donald-trump-of-the-literary-world.md"]
 notes_about = ""
 books = ""
 +++

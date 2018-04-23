@@ -17,7 +17,7 @@ twitterauto = "\"They felt the wind on the down of their necks\", is the start o
 facebookauto = "Erin Malone is the author of our Tuesday poem, Time Capsule. First line: \"They felt the wind on the down of their necks\""
 make_image_tweet = ""
 notes_byline = ["writers/erin-malone.md"]
-notes_tags = "notes/time-capsule.md"
+notes_tags = ["notes/time-capsule.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/kissing-books-the-sunrise-of-your-enemy.md"
+notes_tags = ["notes/kissing-books-the-sunrise-of-your-enemy.md"]
 notes_about = ["authors/carsen-taite.md", "authors/alisha-rai.md", "authors/jasmine-gower.md", "authors/beverly-jenkins.md", "authors/tessa-dare.md"]
 books = ""
 +++

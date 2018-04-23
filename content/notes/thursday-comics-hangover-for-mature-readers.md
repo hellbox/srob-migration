@@ -17,7 +17,7 @@ twitterauto = "This melancholy comic is for mature readers in more ways than one
 facebookauto = "This melancholy comic is for mature readers in more ways than one."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-for-mature-readers.md"
+notes_tags = ["notes/thursday-comics-hangover-for-mature-readers.md"]
 notes_about = ""
 books = ""
 +++

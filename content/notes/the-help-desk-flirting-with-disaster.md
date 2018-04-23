@@ -17,7 +17,7 @@ twitterauto = "When men get flirty on the bus, @ciennam says you should \"get co
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-flirting-with-disaster.md"
+notes_tags = ["notes/the-help-desk-flirting-with-disaster.md"]
 notes_about = ""
 books = ""
 +++

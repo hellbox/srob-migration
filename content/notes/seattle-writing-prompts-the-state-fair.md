@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts pops by the State Fair."
 facebookauto = "Seattle Writing Prompts pops by the State Fair."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-state-fair.md"
+notes_tags = ["notes/seattle-writing-prompts-the-state-fair.md"]
 notes_about = ""
 books = ""
 +++

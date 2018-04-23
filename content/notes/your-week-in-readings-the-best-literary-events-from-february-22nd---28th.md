@@ -17,7 +17,7 @@ twitterauto = "Your week in readings kicks off at @ElliottBayBooks tonight, with
 facebookauto = "Here are the best events happening every day this week, including a comics convention, an island book club, and a reading from the local branch of the African-American Writers Alliance."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-22nd---28th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-22nd---28th.md"]
 notes_about = ""
 books = ""
 +++

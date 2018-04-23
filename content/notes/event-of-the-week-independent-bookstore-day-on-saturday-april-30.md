@@ -17,7 +17,7 @@ twitterauto = "Hope you're getting ready to celebrate Independent Bookstore Day 
 facebookauto = "Here's eerything you need to know about Independent Bookstore Day, which is happening this Saturday"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-independent-bookstore-day-on-saturday-april-30.md"
+notes_tags = ["notes/event-of-the-week-independent-bookstore-day-on-saturday-april-30.md"]
 notes_about = ""
 books = ""
 +++

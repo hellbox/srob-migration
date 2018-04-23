@@ -17,7 +17,7 @@ twitterauto = "Our literary event of the week is a new reading series at Capitol
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-nevertold-casket-company-reading-1.md"
+notes_tags = ["notes/literary-event-of-the-week-nevertold-casket-company-reading-1.md"]
 notes_about = ["authors/sarah-galvin.md", "authors/david-schmader.md", "authors/jenny-zhang.md"]
 books = ["books/the-three-einsteins.md", "books/weed-the-users-guide.md"]
 +++

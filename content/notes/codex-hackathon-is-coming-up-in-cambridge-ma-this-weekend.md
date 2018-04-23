@@ -17,7 +17,7 @@ twitterauto = "If you have ideas about the future of books, you should think abo
 facebookauto = "The CODEX Hackathon is happening in Cambridge next weekend, and it's a great way to help make the future of books and reading."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/codex-hackathon-is-coming-up-in-cambridge-ma-this-weekend.md"
+notes_tags = ["notes/codex-hackathon-is-coming-up-in-cambridge-ma-this-weekend.md"]
 notes_about = ""
 books = ""
 +++

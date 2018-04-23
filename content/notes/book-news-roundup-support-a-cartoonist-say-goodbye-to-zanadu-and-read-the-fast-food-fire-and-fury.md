@@ -17,7 +17,7 @@ twitterauto = "All the book news you need:"
 facebookauto = "All the book news you need:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-support-a-cartoonist-say-goodbye-to-zanadu-and-read-the-fast-food-fire-and-fury.md"
+notes_tags = ["notes/book-news-roundup-support-a-cartoonist-say-goodbye-to-zanadu-and-read-the-fast-food-fire-and-fury.md"]
 notes_about = ["authors/sarah-glidden.md"]
 books = ""
 +++

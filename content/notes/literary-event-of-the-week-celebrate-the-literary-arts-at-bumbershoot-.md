@@ -17,7 +17,7 @@ twitterauto = "Our literary event of the week is Bumbershoot, which is a hell of
 facebookauto = "Our literary event of the week is Bumbershoot, which is the arts festival Paul Allen should've invested in."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-celebrate-the-literary-arts-at-bumbershoot-.md"
+notes_tags = ["notes/literary-event-of-the-week-celebrate-the-literary-arts-at-bumbershoot-.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/-our-magazine’s-mission-is-to-maintain-standards-of-quality-always-and-everywhere-in-burgers-in-bike-trails-and-in-readers.md"
+notes_tags = ["notes/-our-magazine’s-mission-is-to-maintain-standards-of-quality-always-and-everywhere-in-burgers-in-bike-trails-and-in-readers.md"]
 notes_about = ""
 books = ""
 +++

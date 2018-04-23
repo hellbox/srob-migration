@@ -17,7 +17,7 @@ twitterauto = "Sponsor @paulvidich has mastered the modern classic espionage nov
 facebookauto = "Sponsor Paul Vidich has mastered the modern classic espionage novel."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-modern-mid-century-spy-novel.md"
+notes_tags = ["notes/the-modern-mid-century-spy-novel.md"]
 notes_about = ["authors/paul-vidich.md"]
 books = ["books/an-honorable-man.md"]
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "The University of Virginia Press"
 title = "The University of Virginia Press"
-books_publisher = "publishers/the-university-of-virginia-press.md"
+books_publisher = ["publishers/the-university-of-virginia-press.md"]
 +++

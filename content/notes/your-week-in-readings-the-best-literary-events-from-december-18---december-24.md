@@ -17,7 +17,7 @@ twitterauto = "A translator get-together, a talk about video games, and more in 
 facebookauto = "A translator get-together, a talk about video games, and more in this week's roundup of best readings."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-december-18---december-24.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-december-18---december-24.md"]
 notes_about = ""
 books = ""
 +++

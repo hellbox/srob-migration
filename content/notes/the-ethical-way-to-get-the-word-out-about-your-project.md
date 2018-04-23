@@ -17,7 +17,7 @@ twitterauto = "Our sponsorship program has been a huge success. Here's a check-i
 facebookauto = "We took a big risk with our sponsorship program. Here's some real talk on how its working, and how you can sign up for a slot, if you're interested. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-ethical-way-to-get-the-word-out-about-your-project.md"
+notes_tags = ["notes/the-ethical-way-to-get-the-word-out-about-your-project.md"]
 notes_about = ""
 books = ""
 +++

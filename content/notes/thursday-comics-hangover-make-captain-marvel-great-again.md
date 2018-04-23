@@ -17,7 +17,7 @@ twitterauto = "A schlubby middle-aged alt weekly writer gains unlimited power in
 facebookauto = "A schlubby middle-aged alt weekly writer gains unlimited power in Mark Waid and Tom Peyer's new comic Captain Kid."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-make-captain-marvel-great-again.md"
+notes_tags = ["notes/thursday-comics-hangover-make-captain-marvel-great-again.md"]
 notes_about = ""
 books = ""
 +++

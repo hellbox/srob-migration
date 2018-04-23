@@ -17,7 +17,7 @@ twitterauto = "It's Emerald City Comicon time again! Here are all the fun free t
 facebookauto = "It's Emerald City Comicon time again! Here are all the fun free things you can do without a show pass:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-first-second-at-seattle-public-library.md"
+notes_tags = ["notes/literary-event-of-the-week-first-second-at-seattle-public-library.md"]
 notes_about = ["authors/gene-lueng-yang.md", "authors/g-willow-wilson.md"]
 books = ""
 +++

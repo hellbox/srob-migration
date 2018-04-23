@@ -17,7 +17,7 @@ twitterauto = "The last @rahawahaile wrap-up has stories from @jesmimi, @novicsa
 facebookauto = "It's the last Rahawa Haile Short Story of the Day wrap up! Great stories from a neat project that is now over. "
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-january-2-2016.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-january-2-2016.md"]
 notes_about = ""
 books = ""
 +++

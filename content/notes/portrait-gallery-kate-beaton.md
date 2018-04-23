@@ -17,7 +17,7 @@ twitterauto = "New column! @studiochristine painted @beatonna for us, since we a
 facebookauto = "New column! Christine Marie Larsen paints authors in the Portrait Gallery. Our inaugural column is a portrait of Step Aside, Pops author Kate Beaton. "
 make_image_tweet = ""
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-kate-beaton.md"
+notes_tags = ["notes/portrait-gallery-kate-beaton.md"]
 notes_about = ["authors/kate-beaton.md"]
 books = ["books/step-aside-pops.md"]
 +++

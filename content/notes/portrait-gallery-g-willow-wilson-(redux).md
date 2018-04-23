@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Evening w/ @GWillowWilson + @HumanitiesWA Oct 2
 facebookauto = "Portrait Gallery: G. Willow Wilson (redux) by Christine Marie Larsen. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-g-willow-wilson-(redux).md"
+notes_tags = ["notes/portrait-gallery-g-willow-wilson-(redux).md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ""
 +++

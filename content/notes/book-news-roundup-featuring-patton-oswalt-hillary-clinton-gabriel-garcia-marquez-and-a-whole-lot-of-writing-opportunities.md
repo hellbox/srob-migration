@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup features @HillaryClinton, @pattonoswalt
 facebookauto = "Who's Hillary Clinton's favorite author? What famous author is now on Colombian money? Which Seattle-area magazine is offering a yearlong writer-in-residence position? These questions and more answered in today's Book News Roundup!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-featuring-patton-oswalt-hillary-clinton-gabriel-garcia-marquez-and-a-whole-lot-of-writing-opportunities.md"
+notes_tags = ["notes/book-news-roundup-featuring-patton-oswalt-hillary-clinton-gabriel-garcia-marquez-and-a-whole-lot-of-writing-opportunities.md"]
 notes_about = ["authors/patton-oswalt.md", "authors/david-lasky.md", "authors/eroyn-franklin.md"]
 books = ""
 +++

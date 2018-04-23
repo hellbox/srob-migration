@@ -17,7 +17,7 @@ twitterauto = "We talked with Charles Johnson about @Seattle7Writers writers and
 facebookauto = "\"It really is a network, as Martin Luther King would say, a network of mutuality, that brings a book into being.\" We talked with Charles Johnson about writers and community."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-charles-johnson-about-community-retirement-and-writing-a-whole-lot-of-books.md"
+notes_tags = ["notes/talking-with-charles-johnson-about-community-retirement-and-writing-a-whole-lot-of-books.md"]
 notes_about = ["authors/charles-johnson.md", "authors/garth-stein.md"]
 books = ""
 +++

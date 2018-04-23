@@ -17,7 +17,7 @@ twitterauto = "It's a Very Special Help Desk Christmas episode, complete with ti
 facebookauto = "Does Cienna Madrid have a favorite Christmas book? And what are her favorite literary charities? Find out in this very special Help Desk Christmas episode!"
 make_image_tweet = "True"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-a-very-help-desk-christmas.md"
+notes_tags = ["notes/the-help-desk-a-very-help-desk-christmas.md"]
 notes_about = ["authors/david-sedaris.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "This Friday, @HugoHouse throws an especially timely reading about
 facebookauto = "This Friday, Hugo House throws an especially timely reading about life in exile."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-hugo-literary-series-exile.md"
+notes_tags = ["notes/literary-event-of-the-week-hugo-literary-series-exile.md"]
 notes_about = ["authors/megan-kruse.md"]
 books = ["books/call-me-home.md"]
 +++

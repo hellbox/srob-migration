@@ -17,7 +17,7 @@ twitterauto = "In a divorce, who gets custody of the books? @ciennam is on the c
 facebookauto = "Even the most amicable of divorces gets testy when it comes time to determine who gets custody of the books. Cienna Madrid helps a couple figure out how to divide their bookshelves fairly."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-in-a-divorce-who-gets-custody-of-the-bookshelves.md"
+notes_tags = ["notes/the-help-desk-in-a-divorce-who-gets-custody-of-the-bookshelves.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Who will win this year's Nobel Prize for Literature? (Nobody know
 facebookauto = "This post contains the Seattle Review of Books's first-ever (and likely only) piece of financial advice. Pay attention to it unless you want to lose some money."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/youll-have-to-wait-a-little-longer-to-find-out-who-won-the-nobel-prize-for-literature-this-year.md"
+notes_tags = ["notes/youll-have-to-wait-a-little-longer-to-find-out-who-won-the-nobel-prize-for-literature-this-year.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "November's Criminal Fiction, from @daneetsteffens, is here, featu
 facebookauto = "November's Criminal Fiction, from Daneet Steffens, is here, featuring an interview with Justine Larbalestier, a look at five new engaging titles, and a tip for great podcast you're sure to love if you love crime ficiton."
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-november-thanks-and-remember-to-add-zombies-or-psychopaths.md"
+notes_tags = ["notes/criminal-fiction-november-thanks-and-remember-to-add-zombies-or-psychopaths.md"]
 notes_about = ["authors/ian-rankin.md", "authors/stuart-neville.md", "authors/-cl-taylor.md", "authors/craig-robertson.md", "authors/mark-billingham.md", "authors/ruth-ware.md", "authors/michael-connelly.md", "authors/linwood-barclay.md", "authors/charles-finch.md", "authors/suzanne-chazin.md", "authors/lee-child.md", "authors/justine-larbalestier.md", "authors/megan-abbott.md", "authors/joanna-bourne.md", "authors/isak-dinesen.md", "authors/leanne-hall.md", "authors/alaya-dawn-johnson.md", "authors/attica-locke.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Holy cow is this week packed full of great things for you to do."
 facebookauto = "Holy cow is this week packed full of great things for you to do."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-march-5th---march-11th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-march-5th---march-11th.md"]
 notes_about = ""
 books = ""
 +++

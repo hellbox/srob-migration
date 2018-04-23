@@ -17,7 +17,7 @@ twitterauto = "David Sedaris will workshop his upcoming book for a week in Seatt
 facebookauto = "Did you know that every time David Sedaris is about to release a new book, he reads the manuscript in a weeklong \"workshop\" session? And did you know that he chose Seattle as the city where he's going to workshop his next book? Buy tickets now for the week of January 14th."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/david-sedaris-to-workshop-his-upcoming-book-at-broadway-performance-hall.md"
+notes_tags = ["notes/david-sedaris-to-workshop-his-upcoming-book-at-broadway-performance-hall.md"]
 notes_about = ["authors/david-sedaris.md"]
 books = ""
 +++

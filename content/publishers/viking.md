@@ -10,5 +10,5 @@ last_updated = "2016-01-30T17:03:00-08:00"
 preview_url = "2dbf3b0e-bb03-9d89-5fe7-4502d60cfcf2"
 name = "Viking"
 title = "Viking"
-books_publisher = "publishers/viking.md"
+books_publisher = ["publishers/viking.md"]
 +++

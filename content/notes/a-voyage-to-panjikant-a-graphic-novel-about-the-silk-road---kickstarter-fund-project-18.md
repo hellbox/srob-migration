@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund this week backs @mdabaie."
 facebookauto = "The Kickstarter Fund backs a graphic novel of a girl raised in a Sogdian family that trades on the Silk Road."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/a-voyage-to-panjikant-a-graphic-novel-about-the-silk-road---kickstarter-fund-project-18.md"
+notes_tags = ["notes/a-voyage-to-panjikant-a-graphic-novel-about-the-silk-road---kickstarter-fund-project-18.md"]
 notes_about = ""
 books = ""
 +++

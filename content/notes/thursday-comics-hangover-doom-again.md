@@ -17,7 +17,7 @@ twitterauto = "We fell in love at first sight with the art in Doom Patrol #1. We
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-doom-again.md"
+notes_tags = ["notes/thursday-comics-hangover-doom-again.md"]
 notes_about = ""
 books = ""
 +++

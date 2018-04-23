@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts tries to get the elevator to stop on 13."
 facebookauto = "Seattle Writing Prompts tries to get the elevator to stop on 13."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-thirteenth-floor.md"
+notes_tags = ["notes/seattle-writing-prompts-the-thirteenth-floor.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Jane Wong headlines our Event of the Week @elliottbaybooks this S
 facebookauto = "Jane Wong headlines our Event of the Week at Elliott Bay Book Company this Saturday."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-wong--akbar--peñaloza--lewis.md"
+notes_tags = ["notes/literary-event-of-the-week-wong--akbar--peñaloza--lewis.md"]
 notes_about = ["authors/jane-wong.md", "authors/sherman-alexie.md", "authors/michelle-pe\u00f1aloza.md"]
 books = ""
 +++

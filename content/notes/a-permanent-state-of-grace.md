@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-permanent-state-of-grace.md"
+notes_tags = ["notes/a-permanent-state-of-grace.md"]
 notes_about = ["authors/grace-jones.md"]
 books = ["books/ill-never-write-my-memoirs.md"]
 +++

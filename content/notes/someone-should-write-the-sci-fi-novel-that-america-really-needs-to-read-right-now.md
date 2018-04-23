@@ -17,7 +17,7 @@ twitterauto = "An idea for sci-fi writers: Give us a novel where humanity finall
 facebookauto = "Science fiction always skips ahead to the fascist-free future where racism is no longer an issue. Some sci-fi author should write a novel about how that happens."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/someone-should-write-the-sci-fi-novel-that-america-really-needs-to-read-right-now.md"
+notes_tags = ["notes/someone-should-write-the-sci-fi-novel-that-america-really-needs-to-read-right-now.md"]
 notes_about = ["authors/neal-stephenson.md"]
 books = ["books/seveneves.md"]
 +++

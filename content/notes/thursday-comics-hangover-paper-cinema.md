@@ -17,7 +17,7 @@ twitterauto = "Coin-Op is the most wonderful new comic series you haven\u2019t h
 facebookauto = "The film-obsessed brother-sister comic Coin-Op is the most wonderful new comic series you haven't heard about yet."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-paper-cinema.md"
+notes_tags = ["notes/thursday-comics-hangover-paper-cinema.md"]
 notes_about = ["authors/peter-and-maria-hoey.md"]
 books = ""
 +++

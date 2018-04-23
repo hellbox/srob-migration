@@ -17,7 +17,7 @@ twitterauto = "Take a  peek at sponsor @MemoirGuru's Song of the Plains, a sweep
 facebookauto = "This week's sponsor is Linda Joy Myers, sharing a chapter from Song of the Plains: a story as broad as the Oklahoma landscape where it's set and as tightly knit as the three generations of women at its heart."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/wide-open-spaces-tightly-knit-lives.md"
+notes_tags = ["notes/wide-open-spaces-tightly-knit-lives.md"]
 notes_about = ["authors/linda-joy-myers.md"]
 books = ["books/song-of-the-plains.md"]
 +++

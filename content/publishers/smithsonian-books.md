@@ -10,5 +10,5 @@ last_updated = "2018-03-10T14:41:00-08:00"
 preview_url = "b42c9782-95a0-922c-b26a-dcbf2bd414c1"
 name = "Smithsonian Books"
 title = "Smithsonian Books"
-books_publisher = "publishers/smithsonian-books.md"
+books_publisher = ["publishers/smithsonian-books.md"]
 +++

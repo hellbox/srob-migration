@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post ranges wide this week, from Libya's slave auction
 facebookauto = "The Sunday Post ranges wide this week, from Libya's slave auctions to the hummingbird's tongue."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-december-10-2017.md"
+notes_tags = ["notes/the-sunday-post-for-december-10-2017.md"]
 notes_about = ""
 books = ""
 +++

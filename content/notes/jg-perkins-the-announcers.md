@@ -17,7 +17,7 @@ twitterauto = "Thanks to our sponsor Chatwin Books, we have two full excerpts fr
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/jg-perkins-the-announcers.md"
+notes_tags = ["notes/jg-perkins-the-announcers.md"]
 notes_about = ""
 books = ""
 +++

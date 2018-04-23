@@ -17,7 +17,7 @@ twitterauto = "Pieces from @rahawahaile, @peterpomeranzev, @williefitz, and @Hud
 facebookauto = "Hiking the Appalachian Trail while black, the humor of fascists, schlubby Steve Bannon, and how #DeleteUber actually #ChangedUber, all in today's Sunday Post"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-february-5-2017.md"
+notes_tags = ["notes/the-sunday-post-for-february-5-2017.md"]
 notes_about = ""
 books = ""
 +++

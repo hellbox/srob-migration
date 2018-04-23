@@ -17,7 +17,7 @@ twitterauto = "We're publishing Lucia Perillo poems every Tuesday in December. H
 facebookauto = "We're publishing Lucia Perillo poems every Tuesday in December. Here's our second: \"Dona\""
 make_image_tweet = "False"
 notes_byline = ["writers/lucia-perillo.md"]
-notes_tags = "notes/dona.md"
+notes_tags = ["notes/dona.md"]
 notes_about = ""
 books = ""
 +++

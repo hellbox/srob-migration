@@ -17,7 +17,7 @@ twitterauto = "Our third @litcrawlseattle itinerary involves offbeat readings fr
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary-3-readings-for-people-who-hate-readings.md"
+notes_tags = ["notes/lit-crawl-itinerary-3-readings-for-people-who-hate-readings.md"]
 notes_about = ""
 books = ""
 +++

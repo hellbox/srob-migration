@@ -17,7 +17,7 @@ twitterauto = "Raise money for Eastside Mosque and celebrate women at work with 
 facebookauto = "Raise money for Eastside Mosque and celebrate women at work with two upcoming events."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/two-more-events-to-keep-in-mind-trivia-for-a-cause-and-raising-lily-ledbetter.md"
+notes_tags = ["notes/two-more-events-to-keep-in-mind-trivia-for-a-cause-and-raising-lily-ledbetter.md"]
 notes_about = ""
 books = ["books/raising-lilly-ledbetter.md"]
 +++

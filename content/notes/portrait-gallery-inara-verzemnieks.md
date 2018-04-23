@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @inaraverz reads from Among the Living & the De
 facebookauto = "Portrait Gallery: Writer Inara Verzemnieks painted by Christine Marie Larsen. She reads Thursday, July 27th from her new family history, Among the Living and the Dead: A Tale of Exile and Homecoming on the War Roads of Europe. It\u2019s a story of how her family traveled from Latvia to Washington state, where she was raised. Seattle Public Library, 1000 4th Ave., 386-4636, http://spl.org. Free. All ages. 7 p.m."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-inara-verzemnieks.md"
+notes_tags = ["notes/portrait-gallery-inara-verzemnieks.md"]
 notes_about = ""
 books = ""
 +++

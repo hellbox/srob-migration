@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Maria Alyokhina #illustration by @studiochristi
 facebookauto = "Portrait Gallery: Maria Alyokhina illustration by Christine Marie Larsen."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-maria-alyokhina.md"
+notes_tags = ["notes/portrait-gallery-maria-alyokhina.md"]
 notes_about = ["authors/maria-alyokhina.md"]
 books = ""
 +++

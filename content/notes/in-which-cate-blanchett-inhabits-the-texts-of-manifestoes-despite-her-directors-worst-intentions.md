@@ -17,7 +17,7 @@ twitterauto = "Cate Blanchett brings a dozen manifestoes to life in her new movi
 facebookauto = "No actor on earth can inhabit a text like Cate Blanchett, and she's got some terrific writing to inhabit in her new movie Manifesto. Too bad her director keeps trying to get in the way."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/in-which-cate-blanchett-inhabits-the-texts-of-manifestoes-despite-her-directors-worst-intentions.md"
+notes_tags = ["notes/in-which-cate-blanchett-inhabits-the-texts-of-manifestoes-despite-her-directors-worst-intentions.md"]
 notes_about = ""
 books = ""
 +++

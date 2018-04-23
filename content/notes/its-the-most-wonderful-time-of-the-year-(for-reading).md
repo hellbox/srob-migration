@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/its-the-most-wonderful-time-of-the-year-(for-reading).md"
+notes_tags = ["notes/its-the-most-wonderful-time-of-the-year-(for-reading).md"]
 notes_about = ""
 books = ""
 +++

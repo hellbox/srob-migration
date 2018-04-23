@@ -17,7 +17,7 @@ twitterauto = "Our second @litcrawlseattle itinerary reveals an excellent cross-
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawl-itinerary--2-meet-the-poets.md"
+notes_tags = ["notes/lit-crawl-itinerary--2-meet-the-poets.md"]
 notes_about = ""
 books = ""
 +++

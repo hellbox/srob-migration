@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Thunder&#x27;s Mouth Press"
 title = "Thunder&#x27;s Mouth Press"
-books_publisher = "publishers/thunder&x27;s-mouth-press.md"
+books_publisher = ["publishers/thunder&x27;s-mouth-press.md"]
 +++

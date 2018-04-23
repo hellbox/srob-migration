@@ -17,7 +17,7 @@ twitterauto = "You think your weekend was an emotional roller coaster? Try being
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ms-marvel-wins-international-comics-award.md"
+notes_tags = ["notes/ms-marvel-wins-international-comics-award.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ["books/ms-marvel.md"]
 +++

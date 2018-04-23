@@ -17,7 +17,7 @@ twitterauto = "Did you know you can just walk into your neighborhood library and
 facebookauto = "Did you know you can just walk into your neighborhood library and scoop up the newest, hottest books?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/feel-free-to-soak-up-zadie-smiths-brilliance.md"
+notes_tags = ["notes/feel-free-to-soak-up-zadie-smiths-brilliance.md"]
 notes_about = ["authors/zadie-smith.md"]
 books = ""
 +++

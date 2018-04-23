@@ -17,7 +17,7 @@ twitterauto = "Sunday Post is up! Racing the refugee ban, @kevinjameswong on Pea
 facebookauto = "In this week's Sunday Post: racing the refugee ban, a character study of Peanuts' Marcie, and celebrating the Outer Space Treaty's golden anniversary."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-january-29-2017.md"
+notes_tags = ["notes/the-sunday-post-for-january-29-2017.md"]
 notes_about = ""
 books = ""
 +++

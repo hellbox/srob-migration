@@ -17,7 +17,7 @@ twitterauto = "An interview with @Candace918. Her book Peace Weavers, from @wsu_
 facebookauto = "Candace Wellman's new book Peace Weavers tells untold histories of four Salish women, and talks about some uncomfortable truths in the history of Bellingham, and northern Washington."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/uncovering-the-true-stories-of-salish-native-women-and-intercultural-marriage.md"
+notes_tags = ["notes/uncovering-the-true-stories-of-salish-native-women-and-intercultural-marriage.md"]
 notes_about = ["authors/candace-wellman.md"]
 books = ["books/peace-weavers.md"]
 +++

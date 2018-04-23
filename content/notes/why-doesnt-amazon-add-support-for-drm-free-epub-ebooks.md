@@ -17,7 +17,7 @@ twitterauto = "\"Why doesn\u2019t Amazon add support for ePub ebooks to Kindles?
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/why-doesnt-amazon-add-support-for-drm-free-epub-ebooks.md"
+notes_tags = ["notes/why-doesnt-amazon-add-support-for-drm-free-epub-ebooks.md"]
 notes_about = ""
 books = ""
 +++

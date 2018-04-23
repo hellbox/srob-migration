@@ -17,7 +17,7 @@ twitterauto = "Who wants to know where @ciennam keeps her lottery tickets?"
 facebookauto = "Who wants to know where Cienna Madrid keeps her lottery tickets?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-how-to-teach-the-lottery.md"
+notes_tags = ["notes/the-help-desk-how-to-teach-the-lottery.md"]
 notes_about = ""
 books = ""
 +++

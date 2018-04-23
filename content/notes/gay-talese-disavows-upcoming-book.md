@@ -17,7 +17,7 @@ twitterauto = "What does the scandal surrounding Gay Talese's upcoming book mean
 facebookauto = "Will New Journalism fall under increased scrutiny now that Gay Talese's upcoming book has been revealed to have some serious factual inaccuracies?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/gay-talese-disavows-upcoming-book.md"
+notes_tags = ["notes/gay-talese-disavows-upcoming-book.md"]
 notes_about = ["authors/gay-talese.md"]
 books = ""
 +++

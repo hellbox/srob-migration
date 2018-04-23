@@ -17,7 +17,7 @@ twitterauto = "Kevin Craft, our Poet in Residence for January, kicks the month a
 facebookauto = "Kevin Craft, our Poet in Residence for January, kicks the month and the year off in a big way."
 make_image_tweet = "False"
 notes_byline = ["writers/kevin-craft.md"]
-notes_tags = "notes/a-few-preexisting-conditions.md"
+notes_tags = ["notes/a-few-preexisting-conditions.md"]
 notes_about = ""
 books = ""
 +++

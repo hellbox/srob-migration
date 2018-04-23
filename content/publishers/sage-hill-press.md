@@ -10,5 +10,5 @@ last_updated = "2017-07-20T22:23:00-07:00"
 preview_url = "473ac8fd-ec5a-6ad1-8a96-c1174ada8fb0"
 name = "Sage Hill Press"
 title = "Sage Hill Press"
-books_publisher = "publishers/sage-hill-press.md"
+books_publisher = ["publishers/sage-hill-press.md"]
 +++

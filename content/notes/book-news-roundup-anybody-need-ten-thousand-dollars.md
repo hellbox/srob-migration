@@ -17,7 +17,7 @@ twitterauto = "In Book News Roundup: a $10,000 prize for Seattle-area fiction wr
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-anybody-need-ten-thousand-dollars.md"
+notes_tags = ["notes/book-news-roundup-anybody-need-ten-thousand-dollars.md"]
 notes_about = ["authors/david-schmader.md"]
 books = ["books/weed-the-users-guide.md"]
 +++

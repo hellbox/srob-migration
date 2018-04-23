@@ -17,7 +17,7 @@ twitterauto = "#AWP16 is over, and everybody's gone home. @RachelLaKessler looks
 facebookauto = "#AWP16 is over, and everybody's gone home. Rachel Kessler offers one look back. "
 make_image_tweet = "False"
 notes_byline = ["writers/rachel-kessler.md"]
-notes_tags = "notes/notes-from-the-field---awp-wrap-up-the-day-after.md"
+notes_tags = ["notes/notes-from-the-field---awp-wrap-up-the-day-after.md"]
 notes_about = ["authors/kevin-young.md", "authors/rachel-kushner.md", "authors/franny-choi.md", "authors/john-hankiewicz.md", "authors/nick-courtright.md", "authors/bianca-stone.md", "authors/corinne-manning.md", "authors/katie-ogle.md", "authors/sierra-nelson.md", "authors/mark-doty.md", "authors/kimiko-hahn.md", "authors/cd-wright.md"]
 books = ""
 +++

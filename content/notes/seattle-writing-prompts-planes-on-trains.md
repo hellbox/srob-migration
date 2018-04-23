@@ -17,7 +17,7 @@ twitterauto = "Seattle writing prompts rides the rails, and skies, today."
 facebookauto = "Seattle writing prompts rides the rails, and skies, today"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-planes-on-trains.md"
+notes_tags = ["notes/seattle-writing-prompts-planes-on-trains.md"]
 notes_about = ""
 books = ""
 +++

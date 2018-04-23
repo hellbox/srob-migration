@@ -17,7 +17,7 @@ twitterauto = "The comics industry has a history of sexual harassment and a cult
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/comic-book-professionals-accused-of-assault-comics-publishers-accused-of-sweeping-accusations-under-the-rug.md"
+notes_tags = ["notes/comic-book-professionals-accused-of-assault-comics-publishers-accused-of-sweeping-accusations-under-the-rug.md"]
 notes_about = ""
 books = ""
 +++

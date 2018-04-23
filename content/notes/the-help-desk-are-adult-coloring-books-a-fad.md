@@ -17,7 +17,7 @@ twitterauto = "Are adult coloring books a fad? If they are a fad, does that matt
 facebookauto = "Are adult coloring books a fad? If they are a fad, does that matter? Would the publishing industry be stronger if it didn't chase after every fad imaginable?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-are-adult-coloring-books-a-fad.md"
+notes_tags = ["notes/the-help-desk-are-adult-coloring-books-a-fad.md"]
 notes_about = ["authors/ernest-cline.md", "authors/e-b-white.md", "authors/sheryl-sandberg.md"]
 books = ["books/charlottes-web.md", "books/ready-player-one.md", "books/lean-in.md"]
 +++

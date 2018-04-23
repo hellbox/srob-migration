@@ -17,7 +17,7 @@ twitterauto = "Our month of @elisacatrina continues with today's poem whose titl
 facebookauto = "Our month of Elisa Chavez continues with today's poem whose title is too long to print here"
 make_image_tweet = "False"
 notes_byline = ["writers/elisa-chavez.md"]
-notes_tags = "notes/that-awkward-moment-when-he-says-“you’re-so-sweet”-and-all-i-can-think-is-“nah-man-i’m-a-velociraptor”.md"
+notes_tags = ["notes/that-awkward-moment-when-he-says-“you’re-so-sweet”-and-all-i-can-think-is-“nah-man-i’m-a-velociraptor”.md"]
 notes_about = ""
 books = ""
 +++

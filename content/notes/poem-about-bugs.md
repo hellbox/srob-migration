@@ -17,7 +17,7 @@ twitterauto = "\"Poem About Bugs\" by @writer_sejones starts with \"Let\u2019s b
 facebookauto = "\"Poem About Bugs\" by @writer_sejones starts with \"Let\u2019s begin with bark beetles\""
 make_image_tweet = "False"
 notes_byline = ["writers/sarah-jones.md"]
-notes_tags = "notes/poem-about-bugs.md"
+notes_tags = ["notes/poem-about-bugs.md"]
 notes_about = ""
 books = ""
 +++

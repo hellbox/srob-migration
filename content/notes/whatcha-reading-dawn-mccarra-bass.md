@@ -17,7 +17,7 @@ twitterauto = "Hey @despra, whatcha reading? "
 facebookauto = "Hey Dawn McCarra Bass, whatcha reading?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/whatcha-reading-dawn-mccarra-bass.md"
+notes_tags = ["notes/whatcha-reading-dawn-mccarra-bass.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Orson Welles co-wrote a manuscript making fun of Ernest Hemingway
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/orson-welles-thought-ernest-hemingway-was-a-jackass.md"
+notes_tags = ["notes/orson-welles-thought-ernest-hemingway-was-a-jackass.md"]
 notes_about = ["authors/ernest-hemingway.md"]
 books = ""
 +++

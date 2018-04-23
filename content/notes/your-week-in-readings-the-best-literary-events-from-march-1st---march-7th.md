@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with a discussion of Strangers in Th
 facebookauto = "Your week in readings begins with a discussion of Strangers in Their Own Land tonight at Third Place Books Seward Park."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-march-1st---march-7th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-march-1st---march-7th.md"]
 notes_about = ""
 books = ""
 +++

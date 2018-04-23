@@ -17,7 +17,7 @@ twitterauto = "Take a lunchtime poetry break with @twosylviaspress author Cecili
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/two-sylvias-press-poet-cecilia-woloch-in-the-new-york-times.md"
+notes_tags = ["notes/two-sylvias-press-poet-cecilia-woloch-in-the-new-york-times.md"]
 notes_about = ""
 books = ""
 +++

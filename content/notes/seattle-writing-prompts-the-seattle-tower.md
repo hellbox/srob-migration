@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts looks up at the deco facade of the Seattl
 facebookauto = "Seattle Writing Prompts looks up at the deco facade of the Seattle Tower"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-seattle-tower.md"
+notes_tags = ["notes/seattle-writing-prompts-the-seattle-tower.md"]
 notes_about = ""
 books = ""
 +++

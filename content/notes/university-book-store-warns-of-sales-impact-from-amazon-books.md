@@ -17,7 +17,7 @@ twitterauto = "Amazon Books is hurting sales @ubookstorereads. This is terrible.
 facebookauto = "University Book Store says that Amazon Books is causing a negative impact on their sales. Here's why that's horrible."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/university-book-store-warns-of-sales-impact-from-amazon-books.md"
+notes_tags = ["notes/university-book-store-warns-of-sales-impact-from-amazon-books.md"]
 notes_about = ""
 books = ""
 +++

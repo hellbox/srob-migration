@@ -17,7 +17,7 @@ twitterauto = "We are so excited for this year's @APRILfestSEA! "
 facebookauto = "It's time to get excited for the APRIL Festival, which features a metric ton of local talent, a fireside chat, a competitive event featuring a drag queen going head-to-head with writers, and much more."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/get-ready-for-this-years-april-festival.md"
+notes_tags = ["notes/get-ready-for-this-years-april-festival.md"]
 notes_about = ["authors/sarah-galvin.md", "authors/jenny-zhang.md", "authors/kelly-froh.md", "authors/ej-koh.md", "authors/maged-zaher.md", "authors/anastacia-renee.md", "authors/david-schmader.md"]
 books = ""
 +++

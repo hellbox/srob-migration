@@ -17,7 +17,7 @@ twitterauto = "Join us and the @seattleweekly at @ThirdPlaceBooks Seward Park fo
 facebookauto = "The Urban Archipelago failed. Progressives can't just shelter in our cities and expect the rest of the country to go our way. So what next? Join us for a special series of discussions about moving forward in Trump's America"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/reading-through-it-join-us-for-a-discussion-of-how-to-move-forward-in-donald-trump’s-america.md"
+notes_tags = ["notes/reading-through-it-join-us-for-a-discussion-of-how-to-move-forward-in-donald-trump’s-america.md"]
 notes_about = ["authors/claudia-rankine.md"]
 books = ["books/citizen.md"]
 +++

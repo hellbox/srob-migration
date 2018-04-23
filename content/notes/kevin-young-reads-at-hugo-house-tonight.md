@@ -17,7 +17,7 @@ twitterauto = "You should consider going to see Kevin Young, one of our best poe
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/kevin-young-reads-at-hugo-house-tonight.md"
+notes_tags = ["notes/kevin-young-reads-at-hugo-house-tonight.md"]
 notes_about = ""
 books = ""
 +++

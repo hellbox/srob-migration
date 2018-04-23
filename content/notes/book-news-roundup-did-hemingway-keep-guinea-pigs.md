@@ -17,7 +17,7 @@ twitterauto = "Today in book news: great news, insufferable news, and a wonderfu
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-did-hemingway-keep-guinea-pigs.md"
+notes_tags = ["notes/book-news-roundup-did-hemingway-keep-guinea-pigs.md"]
 notes_about = ""
 books = ""
 +++

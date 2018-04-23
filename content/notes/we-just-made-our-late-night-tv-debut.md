@@ -17,7 +17,7 @@ twitterauto = "Pretty excited to see ourselves on @LateNightSeth's show. (Too ba
 facebookauto = "We were very excited to see ourselves on Late Night with Seth Meyers tonight! Of course, we wish it was for a happier occasion."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/we-just-made-our-late-night-tv-debut.md"
+notes_tags = ["notes/we-just-made-our-late-night-tv-debut.md"]
 notes_about = ""
 books = ""
 +++

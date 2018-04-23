@@ -17,7 +17,7 @@ twitterauto = "This conservative author is a bad thinker, a shameless opportunis
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/conservative-author-clearly-has-no-respect-for-booksellers.md"
+notes_tags = ["notes/conservative-author-clearly-has-no-respect-for-booksellers.md"]
 notes_about = ["authors/adam-rakunas.md"]
 books = ""
 +++

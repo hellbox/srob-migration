@@ -17,7 +17,7 @@ twitterauto = "Our month of celebrating Madeline DeFrees continues with her poem
 facebookauto = "Our month of celebrating Madeline DeFrees continues with her poem \"In the locker room\""
 make_image_tweet = ""
 notes_byline = ["writers/madeline-defrees.md"]
-notes_tags = "notes/in-the-locker-room.md"
+notes_tags = ["notes/in-the-locker-room.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Here are some online book sales you can feel good about, from @me
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/here-are-some-online-book-sales-you-can-feel-good-about.md"
+notes_tags = ["notes/here-are-some-online-book-sales-you-can-feel-good-about.md"]
 notes_about = ""
 books = ""
 +++

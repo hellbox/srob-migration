@@ -17,7 +17,7 @@ twitterauto = "Here are the two things @KUOW must do to regain Seattle's trust"
 facebookauto = "All we want from KUOW is this: don't give a platform to Nazis, and apologize to groups who they imperiled with their reckless coverage. Is that really so hard?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/here-are-the-two-things-kuow-must-do-to-regain-seattles-trust.md"
+notes_tags = ["notes/here-are-the-two-things-kuow-must-do-to-regain-seattles-trust.md"]
 notes_about = ""
 books = ""
 +++

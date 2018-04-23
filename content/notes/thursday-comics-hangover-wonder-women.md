@@ -17,7 +17,7 @@ twitterauto = "Getting ready for Wonder Woman? Here are some comics you might en
 facebookauto = "There's an actually good Supergirl on TV. The Wonder Woman movie is coming out. And there are some great superhero comics starring women on the shelves right now."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-wonder-women.md"
+notes_tags = ["notes/thursday-comics-hangover-wonder-women.md"]
 notes_about = ""
 books = ""
 +++

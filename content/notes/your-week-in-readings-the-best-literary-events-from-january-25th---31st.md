@@ -17,7 +17,7 @@ twitterauto = "Your week in readings starts with a brainy talk about saving Eart
 facebookauto = "There are so many great events this week, including a sci-fi reading, a few locally sourced events, a big damn comics party, a Star Trek-themed library party, and the great Maggie Nelson."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-25th---31st.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-25th---31st.md"]
 notes_about = ["authors/michelle-pe\u00f1aloza.md", "authors/ann-pancake.md", "authors/casandra-lopez.md", "authors/maggie-nelson.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "We took Naomi Klein's Trump book to a vegetarian burger chain."
 facebookauto = "We took Naomi Klein's Trump book to a vegetarian burger chain."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-taking-a-naomi-klein-book-to-the-new-veggie-burger-bar-at-amazon-whole-foods.md"
+notes_tags = ["notes/lunch-date-taking-a-naomi-klein-book-to-the-new-veggie-burger-bar-at-amazon-whole-foods.md"]
 notes_about = ""
 books = ""
 +++

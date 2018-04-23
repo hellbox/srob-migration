@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/matt-furies-legal-battle-for-the-soul-of-pepe-the-frog-continues.md"
+notes_tags = ["notes/matt-furies-legal-battle-for-the-soul-of-pepe-the-frog-continues.md"]
 notes_about = ""
 books = ""
 +++

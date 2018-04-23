@@ -17,7 +17,7 @@ twitterauto = "This ghost story begins with a heart transplant and continues wit
 facebookauto = "This ghost story begins with a heart transplant and continues with a crime spree."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-a-lot-of-heart.md"
+notes_tags = ["notes/thursday-comics-hangover-a-lot-of-heart.md"]
 notes_about = ""
 books = ""
 +++

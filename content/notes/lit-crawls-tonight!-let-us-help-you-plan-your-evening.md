@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lit-crawls-tonight!-let-us-help-you-plan-your-evening.md"
+notes_tags = ["notes/lit-crawls-tonight!-let-us-help-you-plan-your-evening.md"]
 notes_about = ""
 books = ""
 +++

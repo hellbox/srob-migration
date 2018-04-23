@@ -17,7 +17,7 @@ twitterauto = "Yesterday, @KUOW gave a platform to a Nazi. It's up to all of us 
 facebookauto = "Yesterday, KUOW gave a platform to a Nazi. It's up to all of us to let them know that's not ok."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hey-kuow-its-never-okay-to-give-a-nazi-a-platform.md"
+notes_tags = ["notes/hey-kuow-its-never-okay-to-give-a-nazi-a-platform.md"]
 notes_about = ""
 books = ""
 +++

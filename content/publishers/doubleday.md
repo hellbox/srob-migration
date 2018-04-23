@@ -10,5 +10,5 @@ last_updated = "2018-01-28T12:47:00-08:00"
 preview_url = "e2aeb7e7-be92-1055-d65f-5f253fd88b04"
 name = "Doubleday"
 title = "Doubleday"
-books_publisher = "publishers/doubleday.md"
+books_publisher = ["publishers/doubleday.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup includes the most prolific comics pirat
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-pirate-shrugs.md"
+notes_tags = ["notes/book-news-roundup-the-pirate-shrugs.md"]
 notes_about = ""
 books = ""
 +++

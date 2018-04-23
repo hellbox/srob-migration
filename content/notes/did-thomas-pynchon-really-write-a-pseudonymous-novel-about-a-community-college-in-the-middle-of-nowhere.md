@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/did-thomas-pynchon-really-write-a-pseudonymous-novel-about-a-community-college-in-the-middle-of-nowhere.md"
+notes_tags = ["notes/did-thomas-pynchon-really-write-a-pseudonymous-novel-about-a-community-college-in-the-middle-of-nowhere.md"]
 notes_about = ["authors/thomas-pynchon.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Not to brag, but we've read a lot of guilty pleasures."
 facebookauto = "Today in Book News Roundup: A new movie about Wonder Woman, a couple of wonderful local reviews, and a bad misreading of Jane Austen."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-why-did-the-robot-kill-itself.md"
+notes_tags = ["notes/book-news-roundup-why-did-the-robot-kill-itself.md"]
 notes_about = ""
 books = ""
 +++

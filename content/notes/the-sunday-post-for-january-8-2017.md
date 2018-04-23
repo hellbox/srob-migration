@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post: book repair, animal autopsies, old young comedia
 facebookauto = "The Sunday Post: book repair, animal autopsies, old young comedians, losing art critics, and megacity architecture."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-january-8-2017.md"
+notes_tags = ["notes/the-sunday-post-for-january-8-2017.md"]
 notes_about = ""
 books = ""
 +++

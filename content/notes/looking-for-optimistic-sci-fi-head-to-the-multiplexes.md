@@ -17,7 +17,7 @@ twitterauto = "You say you want a new golden age of sci-fi? The good news is, we
 facebookauto = "You say you want a new golden age of sci-fi? The good news is, we're already living in it."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/looking-for-optimistic-sci-fi-head-to-the-multiplexes.md"
+notes_tags = ["notes/looking-for-optimistic-sci-fi-head-to-the-multiplexes.md"]
 notes_about = ["authors/neal-stephenson.md", "authors/nisi-shawl.md"]
 books = ["books/everfair.md"]
 +++

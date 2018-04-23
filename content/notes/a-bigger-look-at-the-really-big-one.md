@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-bigger-look-at-the-really-big-one.md"
+notes_tags = ["notes/a-bigger-look-at-the-really-big-one.md"]
 notes_about = ["authors/sandi-doughton.md"]
 books = ["books/full-rip-90.md"]
 +++

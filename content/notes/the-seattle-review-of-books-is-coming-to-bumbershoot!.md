@@ -17,7 +17,7 @@ twitterauto = "We're so excited to bring @thisisEJKoh, @Misterlashley, and @Sher
 facebookauto = "The rumors are true:  the Seattle Review of Books is incredibly excited to be presenting a show at Bumbershoot this year!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-seattle-review-of-books-is-coming-to-bumbershoot!.md"
+notes_tags = ["notes/the-seattle-review-of-books-is-coming-to-bumbershoot!.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/ej-koh.md", "authors/robert-lashley.md"]
 books = ""
 +++

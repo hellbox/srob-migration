@@ -17,7 +17,7 @@ twitterauto = "We asked Jessixa Bagley to recommend a favorite book for holiday 
 facebookauto = "We asked Jessixa Bagley to recommend a favorite book for holiday gift-giving. Here's what she picked for you:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/looking-for-a-holiday-gift-book-jessixa-bagley-recommends-louis-undercover-.md"
+notes_tags = ["notes/looking-for-a-holiday-gift-book-jessixa-bagley-recommends-louis-undercover-.md"]
 notes_about = ["authors/jessixa-bagley.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/everybody-take-cover-— franzens-back.md"
+notes_tags = ["notes/everybody-take-cover-— franzens-back.md"]
 notes_about = ""
 books = ["books/purity.md", "books/freedom.md"]
 +++

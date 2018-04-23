@@ -17,7 +17,7 @@ twitterauto = "Seattle had no new comics yesterday because comics distribution i
 facebookauto = "Seattle had no new comic books yesterday because comics distribution is a dumb and horrible business."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-snow-day.md"
+notes_tags = ["notes/thursday-comics-hangover-snow-day.md"]
 notes_about = ""
 books = ""
 +++

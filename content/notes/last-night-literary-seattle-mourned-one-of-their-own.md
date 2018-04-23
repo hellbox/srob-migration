@@ -17,7 +17,7 @@ twitterauto = "Last night @openpoetrybooks, writers gathered to say goodbye to J
 facebookauto = "Last night at Open Books, writers gathered to say goodbye to Joan Swift, and to celebrate her last book."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/last-night-literary-seattle-mourned-one-of-their-own.md"
+notes_tags = ["notes/last-night-literary-seattle-mourned-one-of-their-own.md"]
 notes_about = ["authors/joan-swift.md", "authors/tess-gallagher.md"]
 books = ""
 +++

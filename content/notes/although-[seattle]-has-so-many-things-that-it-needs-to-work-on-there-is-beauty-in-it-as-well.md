@@ -17,7 +17,7 @@ twitterauto = "Our interview with Azura Tjabji might just be the most inspiring 
 facebookauto = "Our interview with Azura Tjabji might just be the most inspiring thing you'll read this week."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/although-[seattle]-has-so-many-things-that-it-needs-to-work-on-there-is-beauty-in-it-as-well.md"
+notes_tags = ["notes/although-[seattle]-has-so-many-things-that-it-needs-to-work-on-there-is-beauty-in-it-as-well.md"]
 notes_about = ["authors/azura-tyabji.md"]
 books = ""
 +++

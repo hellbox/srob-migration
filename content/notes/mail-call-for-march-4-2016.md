@@ -17,7 +17,7 @@ twitterauto = "A modest Friday night Mail Call for you all."
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-march-4-2016.md"
+notes_tags = ["notes/mail-call-for-march-4-2016.md"]
 notes_about = ""
 books = ""
 +++

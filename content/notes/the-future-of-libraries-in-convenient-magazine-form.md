@@ -17,7 +17,7 @@ twitterauto = "If you care about libraries, here's a great (free) resource for y
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-future-of-libraries-in-convenient-magazine-form.md"
+notes_tags = ["notes/the-future-of-libraries-in-convenient-magazine-form.md"]
 notes_about = ""
 books = ""
 +++

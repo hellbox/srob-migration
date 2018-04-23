@@ -17,7 +17,7 @@ twitterauto = "Two today in the Sunday Post: one from @rachsyme, and one from @b
 facebookauto = "Two pieces in today's Sunday Post: on returning home to family, and a long look at selfies."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-november-22-2015.md"
+notes_tags = ["notes/the-sunday-post-for-november-22-2015.md"]
 notes_about = ""
 books = ""
 +++

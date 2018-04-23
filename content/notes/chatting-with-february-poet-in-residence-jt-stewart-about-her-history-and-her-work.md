@@ -17,7 +17,7 @@ twitterauto = "We chatted with our February Poet in Residence JT Stewart about h
 facebookauto = "We chatted with our February Poet in Residence JT Stewart about her history and her work"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/chatting-with-february-poet-in-residence-jt-stewart-about-her-history-and-her-work.md"
+notes_tags = ["notes/chatting-with-february-poet-in-residence-jt-stewart-about-her-history-and-her-work.md"]
 notes_about = ""
 books = ""
 +++

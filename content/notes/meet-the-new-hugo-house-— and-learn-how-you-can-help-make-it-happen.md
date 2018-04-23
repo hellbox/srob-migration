@@ -17,7 +17,7 @@ twitterauto = "Here are the plans for the new @HugoHouse. It's time to make this
 facebookauto = "The Hugo House has released the design for its new space. And now they're asking your help to make the designs a reality."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-the-new-hugo-house-— and-learn-how-you-can-help-make-it-happen.md"
+notes_tags = ["notes/meet-the-new-hugo-house-— and-learn-how-you-can-help-make-it-happen.md"]
 notes_about = ""
 books = ""
 +++

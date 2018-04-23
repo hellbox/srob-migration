@@ -17,7 +17,7 @@ twitterauto = "A recap of the big drunky @HugoHouse party on Saturday night."
 facebookauto = "We attended the Hugo House's Epilogue/Prologue party on Saturday, and we read what everyone wrote on the walls."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/writing-center-gets-written-on.md"
+notes_tags = ["notes/writing-center-gets-written-on.md"]
 notes_about = ["authors/david-lasky.md", "authors/greg-stump.md", "authors/sherman-alexie.md", "authors/stacey-levine.md", "authors/octavia-butler.md"]
 books = ""
 +++

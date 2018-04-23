@@ -17,7 +17,7 @@ twitterauto = "We talked with @davidschmader about weed, writing, and insulting 
 facebookauto = "We talked with David Schmader about his new book on the history and use of pot, whether it's okay to make fun of Nancy Reagan, and why writing about Showgirls is so life-affirming."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/everybody-is-dying-so-you-shouldn’t-waste-people’s-time.md"
+notes_tags = ["notes/everybody-is-dying-so-you-shouldn’t-waste-people’s-time.md"]
 notes_about = ["authors/david-schmader.md"]
 books = ["books/weed-the-users-guide.md"]
 +++

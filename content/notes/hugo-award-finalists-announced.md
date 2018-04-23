@@ -17,7 +17,7 @@ twitterauto = "The Hugo Awards finalists have been announced!"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hugo-award-finalists-announced.md"
+notes_tags = ["notes/hugo-award-finalists-announced.md"]
 notes_about = ["authors/neal-stephenson.md", "authors/ann-leckie.md"]
 books = ["books/seveneves.md", "books/ancillary-justice.md"]
 +++

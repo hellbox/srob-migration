@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter fund backs the @InternetReview_"
 facebookauto = "The Kickstarter Fund backs an awesome indie magazine, that seeks to capture the garbage fire of 2016, called the Internet Review. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-internet-review-of-2016---kickstarter-fund-project-50.md"
+notes_tags = ["notes/the-internet-review-of-2016---kickstarter-fund-project-50.md"]
 notes_about = ""
 books = ""
 +++

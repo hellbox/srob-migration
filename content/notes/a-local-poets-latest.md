@@ -17,7 +17,7 @@ twitterauto = "Our thanks to poet @PriscillaLong for her sponsorship this week"
 facebookauto = "Priscilla Long is our sponsor this week. Read three poems from her latest book, Crossing Over."
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-local-poets-latest.md"
+notes_tags = ["notes/a-local-poets-latest.md"]
 notes_about = ["authors/priscilla-long.md"]
 books = ["books/crossing-over.md"]
 +++

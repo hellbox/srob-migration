@@ -17,7 +17,7 @@ twitterauto = "Gawker.com is shutting down. Here's the book you should read abou
 facebookauto = "Gawker.com is shutting down. Here's the book you should read about Gawker."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/gawkercom-shutting-down.md"
+notes_tags = ["notes/gawkercom-shutting-down.md"]
 notes_about = ""
 books = ""
 +++

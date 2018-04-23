@@ -17,7 +17,7 @@ twitterauto = "At their best, comics anthologies are like a wild and hilarious c
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-scary-stories-to-tell-in-the-dark.md"
+notes_tags = ["notes/thursday-comics-hangover-scary-stories-to-tell-in-the-dark.md"]
 notes_about = ["authors/noel-franklin.md", "authors/colleen-frakes.md", "authors/kelly-froh.md", "authors/max-clotfelter.md", "authors/ben-horak.md"]
 books = ""
 +++

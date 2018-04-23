@@ -17,7 +17,7 @@ twitterauto = "Thor: Ragnarok is not a great movie, but it definitely contains p
 facebookauto = "Thor: Ragnarok is not a great movie, but it definitely contains pieces of great movies in it."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thor-ragnarok-throws-out-thor-and-starts-over-its-the-right-choice.md"
+notes_tags = ["notes/thor-ragnarok-throws-out-thor-and-starts-over-its-the-right-choice.md"]
 notes_about = ""
 books = ""
 +++

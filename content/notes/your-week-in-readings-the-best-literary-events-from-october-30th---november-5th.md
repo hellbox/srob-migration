@@ -17,7 +17,7 @@ twitterauto = "Your week is entirely dominated by @shortrunseattle events!"
 facebookauto = "Your week in readings is dominated by Short Run events."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-october-30th---november-5th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-october-30th---november-5th.md"]
 notes_about = ["authors/julia-wertz.md"]
 books = ""
 +++

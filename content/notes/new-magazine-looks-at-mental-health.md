@@ -17,7 +17,7 @@ twitterauto = "We talked to @anxymag's @bobbie about creating a print magazine f
 facebookauto = "We talked to Anxy Magazine's Editor-in-Chief, Bobbie Johnson, about how they do what they do. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/new-magazine-looks-at-mental-health.md"
+notes_tags = ["notes/new-magazine-looks-at-mental-health.md"]
 notes_about = ""
 books = ""
 +++

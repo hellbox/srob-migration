@@ -17,7 +17,7 @@ twitterauto = "This week in literary events includes a rum-drunk reading from a 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-september-7-to-september-13.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-september-7-to-september-13.md"]
 notes_about = ""
 books = ""
 +++

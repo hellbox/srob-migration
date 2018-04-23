@@ -17,7 +17,7 @@ twitterauto = "The Washington State Book Award winners have been announced."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-washington-state-book-awards-winners-share-something-in-common.md"
+notes_tags = ["notes/the-washington-state-book-awards-winners-share-something-in-common.md"]
 notes_about = ""
 books = ""
 +++

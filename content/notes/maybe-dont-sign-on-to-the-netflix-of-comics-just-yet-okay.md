@@ -17,7 +17,7 @@ twitterauto = "Maybe don't sign on to the \"Netflix of Comics\" just yet, okay?"
 facebookauto = "The \"Netflix of Comics\" is here, and it seems as though nobody told your favorite comics creators that they were involved!"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/maybe-dont-sign-on-to-the-netflix-of-comics-just-yet-okay.md"
+notes_tags = ["notes/maybe-dont-sign-on-to-the-netflix-of-comics-just-yet-okay.md"]
 notes_about = ""
 books = ""
 +++

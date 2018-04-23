@@ -17,7 +17,7 @@ twitterauto = "Our literary event of the week celebrates the life and work of Cr
 facebookauto = "Our literary event of the week celebrates the life and work of Crysta Casey."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-celebrating-crysta-casey.md"
+notes_tags = ["notes/literary-event-of-the-week-celebrating-crysta-casey.md"]
 notes_about = ""
 books = ""
 +++

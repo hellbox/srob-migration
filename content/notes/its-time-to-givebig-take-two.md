@@ -17,7 +17,7 @@ twitterauto = "Okay, for real this time: It's time to #GiveBIG. Seattle-area non
 facebookauto = "Okay, for real this time: It's time to GiveBIG. Seattle-area nonprofits could really use your help."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/its-time-to-givebig-take-two.md"
+notes_tags = ["notes/its-time-to-givebig-take-two.md"]
 notes_about = ""
 books = ""
 +++

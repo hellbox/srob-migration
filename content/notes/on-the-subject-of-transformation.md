@@ -17,7 +17,7 @@ twitterauto = "\"On the Subject of Transformation\" is the latest from August Po
 facebookauto = "August Poet in Residence Daemond Arrindell latest is \"On the Subject of Transformation\""
 make_image_tweet = "False"
 notes_byline = ["writers/daemond-arrindell.md"]
-notes_tags = "notes/on-the-subject-of-transformation.md"
+notes_tags = ["notes/on-the-subject-of-transformation.md"]
 notes_about = ""
 books = ""
 +++

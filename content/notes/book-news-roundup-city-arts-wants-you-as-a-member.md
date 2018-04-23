@@ -17,7 +17,7 @@ twitterauto = "Today in book news: Save City Arts, go to the Orcas Island Litera
 facebookauto = "Today in book news: Save City Arts, go to the Orcas Island Literary Festival, and buy a comics spinner rack!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-city-arts-wants-you-as-a-member.md"
+notes_tags = ["notes/book-news-roundup-city-arts-wants-you-as-a-member.md"]
 notes_about = ["authors/kim-fu.md"]
 books = ""
 +++

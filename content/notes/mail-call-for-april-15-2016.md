@@ -17,7 +17,7 @@ twitterauto = "Mail Call! A few Seattle writers in this pile...."
 facebookauto = "Mail call! A few Seattle authors in there...."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-april-15-2016.md"
+notes_tags = ["notes/mail-call-for-april-15-2016.md"]
 notes_about = ""
 books = ""
 +++

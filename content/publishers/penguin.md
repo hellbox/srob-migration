@@ -10,5 +10,5 @@ last_updated = "2018-02-13T13:11:00-08:00"
 preview_url = "194cddf5-6e92-bb13-d773-d569a155f3a4"
 name = "Penguin"
 title = "Penguin"
-books_publisher = "publishers/penguin.md"
+books_publisher = ["publishers/penguin.md"]
 +++

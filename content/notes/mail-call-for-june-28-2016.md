@@ -17,7 +17,7 @@ twitterauto = "What a stack! That's some mighty fine Mail Call."
 facebookauto = "What a stack! That's some mighty fine Mail Call."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-june-28-2016.md"
+notes_tags = ["notes/mail-call-for-june-28-2016.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Join us @ThirdPlaceBooks Seward Park tongiht for our post-Trump b
 facebookauto = "Our book club meets tonight at Third Place Books Seward Park. Join us!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-reading-through-it-at-third-place-books-seward-park.md"
+notes_tags = ["notes/literary-event-of-the-week-reading-through-it-at-third-place-books-seward-park.md"]
 notes_about = ""
 books = ""
 +++

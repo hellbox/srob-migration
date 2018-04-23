@@ -17,7 +17,7 @@ twitterauto = "Today in things we wish weren't news: Donald Trump, Amazon Books,
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-where-will-amazon-open-their-next-bookstore.md"
+notes_tags = ["notes/book-news-roundup-where-will-amazon-open-their-next-bookstore.md"]
 notes_about = ["authors/elissa-washuta.md", "authors/matt-ruff.md", "authors/jane-wong.md"]
 books = ["books/lovecraft-country.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "How @ATFHQ traces guns, @FoxNews women's revenge on #RogerAiles, 
 facebookauto = "Sunday Post: the inefficient system behind gun tracing, Fox News' Roger Ailes called out at last, Seattle's native The Oatmeal, & two more excellent pieces on language for your long weekend reading. "
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/the-sunday-post-for-september-4-2016.md"
+notes_tags = ["notes/the-sunday-post-for-september-4-2016.md"]
 notes_about = ""
 books = ""
 +++

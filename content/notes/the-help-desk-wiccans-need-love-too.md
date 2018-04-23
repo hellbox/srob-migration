@@ -17,7 +17,7 @@ twitterauto = "\"Is your mom aware of the fantastic work the Satanic Temple has 
 facebookauto = "\"Is [your mom] aware of the fantastic work the Satanic Temple has spearheaded lately?\""
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-wiccans-need-love-too.md"
+notes_tags = ["notes/the-help-desk-wiccans-need-love-too.md"]
 notes_about = ""
 books = ""
 +++

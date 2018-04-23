@@ -17,7 +17,7 @@ twitterauto = "It's the Sunday Post! With pieces by @kashhill, @alexanderchee, @
 facebookauto = "Today's Sunday post: learn what young Margaret Atwood sounded like; bristle as Kashmir Hill forges a fake business from scratch; wonder at John Scalzi's logic on how many novels a year is too many to write; and what could be better than a piece about Elena Ferrante? How about piece on Elena Ferrante written by Alexander Chee. We've got one for you."
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-september-20-2015.md"
+notes_tags = ["notes/the-sunday-post-for-september-20-2015.md"]
 notes_about = ""
 books = ""
 +++

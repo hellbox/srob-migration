@@ -17,7 +17,7 @@ twitterauto = "Neil Gaiman talks about the relevancy of ancient myths."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/make-asgard-great-again.md"
+notes_tags = ["notes/make-asgard-great-again.md"]
 notes_about = ""
 books = ""
 +++

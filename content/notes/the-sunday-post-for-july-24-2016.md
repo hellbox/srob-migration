@@ -17,7 +17,7 @@ twitterauto = "Sunday Post: #MiloYiannopoulos banned, @realDonaldTrump's ghostwr
 facebookauto = "The Sunday Post: Milo Yiannopoulos got banned from Twitter, Calvin and Hobbes is great literature, Trump's ghostwriter feels \"a deep sense of remorse,\" and what happens on the dark web"
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/the-sunday-post-for-july-24-2016.md"
+notes_tags = ["notes/the-sunday-post-for-july-24-2016.md"]
 notes_about = ["authors/bill-watterson.md"]
 books = ["books/the-art-of-the-deal.md"]
 +++

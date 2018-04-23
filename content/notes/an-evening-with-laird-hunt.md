@@ -17,7 +17,7 @@ twitterauto = "Sponsor @ThirdPlaceBooks is hosting @LairdHunt on Tuesday the 25t
 facebookauto = "Join sponsor Third Place Books for an appearance by author Laird Hunt, on Tuesday the 25th."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/an-evening-with-laird-hunt.md"
+notes_tags = ["notes/an-evening-with-laird-hunt.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Are you prepared for the new @SPLBuzz website? Personally, we can
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-get-ready-for-seattle-public-librarys-new-website.md"
+notes_tags = ["notes/book-news-roundup-get-ready-for-seattle-public-librarys-new-website.md"]
 notes_about = ""
 books = ""
 +++

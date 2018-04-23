@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "The Bobbs-Merrill Company"
 title = "The Bobbs-Merrill Company"
-books_publisher = "publishers/the-bobbs-merrill-company.md"
+books_publisher = ["publishers/the-bobbs-merrill-company.md"]
 +++

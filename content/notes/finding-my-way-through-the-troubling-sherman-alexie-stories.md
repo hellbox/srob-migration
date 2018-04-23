@@ -17,7 +17,7 @@ twitterauto = "\"I believe the women who talked to NPR about being sexually hara
 facebookauto = "\"I believe the women who talked to NPR about being sexually harassed by Sherman Alexie...\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/finding-my-way-through-the-troubling-sherman-alexie-stories.md"
+notes_tags = ["notes/finding-my-way-through-the-troubling-sherman-alexie-stories.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

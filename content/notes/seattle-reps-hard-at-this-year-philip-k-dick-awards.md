@@ -17,7 +17,7 @@ twitterauto = "Congratulations to @ramez, @rakdaddy, and @brendacooper for the P
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/seattle-reps-hard-at-this-year-philip-k-dick-awards.md"
+notes_tags = ["notes/seattle-reps-hard-at-this-year-philip-k-dick-awards.md"]
 notes_about = ["authors/adam-rakunas.md"]
 books = ""
 +++

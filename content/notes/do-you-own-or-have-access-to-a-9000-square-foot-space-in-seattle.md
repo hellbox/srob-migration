@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/do-you-own-or-have-access-to-a-9000-square-foot-space-in-seattle.md"
+notes_tags = ["notes/do-you-own-or-have-access-to-a-9000-square-foot-space-in-seattle.md"]
 notes_about = ""
 books = ""
 +++

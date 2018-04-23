@@ -17,7 +17,7 @@ twitterauto = "\"Waking\" is the fourth and final poem from March Poet in Reside
 facebookauto = "\"Waking\" is the fourth and final poem from March Poet in Residence, Julene Tripp Weaver"
 make_image_tweet = "False"
 notes_byline = ["writers/julene-tripp-weaver.md"]
-notes_tags = "notes/waking.md"
+notes_tags = ["notes/waking.md"]
 notes_about = ""
 books = ""
 +++

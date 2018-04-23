@@ -17,7 +17,7 @@ twitterauto = "Elisa Chavez is our first Poet in Residence."
 facebookauto = "Our first Poet in Residence is Elisa Chavez."
 make_image_tweet = "True"
 notes_byline = ["writers/elisa-chavez.md"]
-notes_tags = "notes/revenge.md"
+notes_tags = ["notes/revenge.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Find all the week's noteworthy events here:"
 facebookauto = "This week in readings: Eli Sanders! Bernie Sanders! Ivar the Famous Clam Guy! What's not to love?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-1st-7th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-1st-7th.md"]
 notes_about = ["authors/anastacia-renee.md", "authors/storme-webber.md", "authors/eli-sanders.md", "authors/nancy-pearl.md"]
 books = ["books/while-the-city-slept.md"]
 +++

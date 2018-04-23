@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/sunday-post-for-october-25-2015.md"
+notes_tags = ["notes/sunday-post-for-october-25-2015.md"]
 notes_about = ""
 books = ""
 +++

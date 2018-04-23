@@ -17,7 +17,7 @@ twitterauto = "What happens when you take a book about America's political divid
 facebookauto = "We took a book about America's political divide to a really good sandwich shop in Ballard."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-americas-worsening-political-divide-with-a-side-of-corned-beef.md"
+notes_tags = ["notes/lunch-date-americas-worsening-political-divide-with-a-side-of-corned-beef.md"]
 notes_about = ["authors/arlie-russell-hochschild.md"]
 books = ["books/strangers-in-their-own-land.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Is it just me, or has 2017 been a bad year for novels?"
 facebookauto = "Paul Constant asks what may be a controversial question: \"Is it just me, or has 2017 been a bad year for novels?\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md"
+notes_tags = ["notes/is-it-just-me-or-has-2017-been-a-bad-year-for-novels.md"]
 notes_about = ["authors/patricia-lockwood.md", "authors/sherman-alexie.md", "authors/claudia-rankine.md"]
 books = ["books/priestdaddy.md", "books/you-dont-have-to-say-you-love-me.md", "books/citizen.md"]
 +++

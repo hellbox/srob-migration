@@ -17,7 +17,7 @@ twitterauto = "It's official: the 30,000 zines that made up ZAPP have changed ha
 facebookauto = "It's official: the 30,000 zines that made up the Zine Archive and Publishing Project library  have changed hands from the Hugo House to Seattle Public Library. The zines are currently being inventoried and they will begin to be available to patrons starting this fall."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hugo-house-officially-donates-the-zapp-zine-library-to-seattle-public-library.md"
+notes_tags = ["notes/hugo-house-officially-donates-the-zapp-zine-library-to-seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

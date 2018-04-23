@@ -17,7 +17,7 @@ twitterauto = "Fanfic writers are saying the latest Star Wars movie is plagiariz
 facebookauto = "Fanfic writers are saying the latest Star Wars movie is plagiarized from their work. That's nonsense."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-is-not-the-plagiarism-story-youre-looking-for.md"
+notes_tags = ["notes/this-is-not-the-plagiarism-story-youre-looking-for.md"]
 notes_about = ""
 books = ""
 +++

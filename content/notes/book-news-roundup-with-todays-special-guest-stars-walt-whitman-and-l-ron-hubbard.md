@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup features special guest stars Walt Whitm
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-with-todays-special-guest-stars-walt-whitman-and-l-ron-hubbard.md"
+notes_tags = ["notes/book-news-roundup-with-todays-special-guest-stars-walt-whitman-and-l-ron-hubbard.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/el-doctorow-1931---2015.md"
+notes_tags = ["notes/el-doctorow-1931---2015.md"]
 notes_about = ["authors/el-doctorow.md"]
 books = ["books/the-march.md", "books/ragtime.md"]
 +++

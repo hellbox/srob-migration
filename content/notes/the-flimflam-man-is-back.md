@@ -17,7 +17,7 @@ twitterauto = "Sponsor Pope Brock's Charlatan is a vivid look at a famous flimfl
 facebookauto = "You do not want to miss (we're serious) this week's inside peek: Charlatan, by sponsor Pope Brock."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-flimflam-man-is-back.md"
+notes_tags = ["notes/the-flimflam-man-is-back.md"]
 notes_about = ["authors/pope-brock.md"]
 books = ["books/charlatan.md"]
 +++

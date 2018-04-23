@@ -17,7 +17,7 @@ twitterauto = "Kansas City man facing charges for asking questions in a library.
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/man-facing-charges-for-asking-questions-at-a-library.md"
+notes_tags = ["notes/man-facing-charges-for-asking-questions-at-a-library.md"]
 notes_about = ""
 books = ""
 +++

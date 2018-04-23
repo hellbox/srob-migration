@@ -17,7 +17,7 @@ twitterauto = "The Bible is not Tennessee's official state book."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-bible-is-not-tennessees-official-state-book.md"
+notes_tags = ["notes/the-bible-is-not-tennessees-official-state-book.md"]
 notes_about = ""
 books = ""
 +++

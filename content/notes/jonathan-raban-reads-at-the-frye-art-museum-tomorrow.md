@@ -17,7 +17,7 @@ twitterauto = "When Jonathan Raban shows up for a reading, you'd damn well bette
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/jonathan-raban-reads-at-the-frye-art-museum-tomorrow.md"
+notes_tags = ["notes/jonathan-raban-reads-at-the-frye-art-museum-tomorrow.md"]
 notes_about = ["authors/jonathan-raban.md"]
 books = ""
 +++

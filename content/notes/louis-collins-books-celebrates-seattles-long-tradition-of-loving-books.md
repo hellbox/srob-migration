@@ -17,7 +17,7 @@ twitterauto = "Seattle is a relatively new city. Is it hard to find rare and ant
 facebookauto = "Seattle is a relatively new city. Is it hard to find rare and antiquarian books here?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/louis-collins-books-celebrates-seattles-long-tradition-of-loving-books.md"
+notes_tags = ["notes/louis-collins-books-celebrates-seattles-long-tradition-of-loving-books.md"]
 notes_about = ""
 books = ""
 +++

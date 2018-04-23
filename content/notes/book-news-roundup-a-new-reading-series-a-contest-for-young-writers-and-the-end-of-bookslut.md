@@ -17,7 +17,7 @@ twitterauto = "Our Book News Roundup column brings news of a new reading series 
 facebookauto = "Our Book News Roundup column brings news of a new reading series and a contest for young writers."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-a-new-reading-series-a-contest-for-young-writers-and-the-end-of-bookslut.md"
+notes_tags = ["notes/book-news-roundup-a-new-reading-series-a-contest-for-young-writers-and-the-end-of-bookslut.md"]
 notes_about = ["authors/eli-sanders.md", "authors/karen-finneyfrock.md", "authors/mattilda-bernstein-sycamore.md"]
 books = ["books/while-the-city-slept.md"]
 +++

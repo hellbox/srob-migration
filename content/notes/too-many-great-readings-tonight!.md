@@ -17,7 +17,7 @@ twitterauto = "There are three great-looking events happening tonight. Which are
 facebookauto = "There are three great-looking events happening tonight. Which are you going to?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/too-many-great-readings-tonight!.md"
+notes_tags = ["notes/too-many-great-readings-tonight!.md"]
 notes_about = ""
 books = ""
 +++

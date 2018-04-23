@@ -17,7 +17,7 @@ twitterauto = "How was your #IndependentBookstoreDay? Here are some of the thing
 facebookauto = "How was your #IndependentBookstoreDay? Here are some of the things we saw:"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/our-independent-bookstore-day-in-photos.md"
+notes_tags = ["notes/our-independent-bookstore-day-in-photos.md"]
 notes_about = ""
 books = ""
 +++

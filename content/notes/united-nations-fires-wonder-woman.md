@@ -17,7 +17,7 @@ twitterauto = "The United Nations has fired Wonder Woman."
 facebookauto = "The United Nations has fired its newest ambassador to promote empowerment for women and girls around the globe. Her name? Wonder Woman."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/united-nations-fires-wonder-woman.md"
+notes_tags = ["notes/united-nations-fires-wonder-woman.md"]
 notes_about = ""
 books = ""
 +++

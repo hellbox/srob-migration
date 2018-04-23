@@ -10,5 +10,5 @@ last_updated = "2017-09-28T22:12:00-07:00"
 preview_url = "04bfedc6-41bc-06be-1c73-4cc851c82640"
 name = "Pleiades Press"
 title = "Pleiades Press"
-books_publisher = "publishers/pleiades-press.md"
+books_publisher = ["publishers/pleiades-press.md"]
 +++

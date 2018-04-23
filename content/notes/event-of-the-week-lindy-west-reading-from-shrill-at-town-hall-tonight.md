@@ -17,7 +17,7 @@ twitterauto = "Our event of the week is @thelindywest reading @THSEA tonight!"
 facebookauto = "Lindy West reads at Town Hall Seattle tonight. She is a Seattle author, through and through, and we're lucky to have her."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-lindy-west-reading-from-shrill-at-town-hall-tonight.md"
+notes_tags = ["notes/event-of-the-week-lindy-west-reading-from-shrill-at-town-hall-tonight.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ["books/shrill.md"]
 +++

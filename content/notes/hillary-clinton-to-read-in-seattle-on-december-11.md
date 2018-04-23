@@ -17,7 +17,7 @@ twitterauto = "Sign up now to buy tickets to see @HillaryClinton \u200fin Seattl
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hillary-clinton-to-read-in-seattle-on-december-11.md"
+notes_tags = ["notes/hillary-clinton-to-read-in-seattle-on-december-11.md"]
 notes_about = ""
 books = ""
 +++

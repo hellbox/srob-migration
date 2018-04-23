@@ -17,7 +17,7 @@ twitterauto = "Sponsor @EntreRiosBooks is back! You've seen the incredible Twelv
 facebookauto = "Entre Rios books is back as a sponsor this week, with their absolutely gorgeous book that marries tintype photographic collages and poetry, Twelve Saints. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/collage-and-poetry-together.md"
+notes_tags = ["notes/collage-and-poetry-together.md"]
 notes_about = ["authors/knox-gardner.md"]
 books = ["books/twelve-saints.md"]
 +++

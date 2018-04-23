@@ -17,7 +17,7 @@ twitterauto = "Today's Sunday Post has pieces by @vcunningham, @charliejane, and
 facebookauto = "The Sunday Post is here, with a profile of the man behind a black literary movement, an appraisal of what it means to be a modern science fiction author, and a a piece that questions whether female superheroines are good roll models for girls."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-february-6-2016.md"
+notes_tags = ["notes/the-sunday-post-for-february-6-2016.md"]
 notes_about = ""
 books = ""
 +++

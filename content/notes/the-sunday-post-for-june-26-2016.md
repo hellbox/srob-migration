@@ -17,7 +17,7 @@ twitterauto = "Sunday Post: @PsychToday on #Brexit, female road trippers in lit,
 facebookauto = "The Sunday Post covers the psychology behind Brexit, the lack of female road trippers in literature, the quietest square inch in the US, and how personalities aren't as unchanging as we thought. "
 make_image_tweet = "False"
 notes_byline = ["writers/rebecca-garcia-moreno.md"]
-notes_tags = "notes/the-sunday-post-for-june-26-2016.md"
+notes_tags = ["notes/the-sunday-post-for-june-26-2016.md"]
 notes_about = ""
 books = ""
 +++

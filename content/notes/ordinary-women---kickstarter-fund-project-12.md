@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund puts money into @femfreq this week."
 facebookauto = "Feminist Frequency is back with a new video series, but they're falling behind on their funding goal. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/ordinary-women---kickstarter-fund-project-12.md"
+notes_tags = ["notes/ordinary-women---kickstarter-fund-project-12.md"]
 notes_about = ""
 books = ""
 +++

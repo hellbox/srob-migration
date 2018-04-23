@@ -17,7 +17,7 @@ twitterauto = "Our last from January Poet in Residence, Kevin Craft, is titled \
 facebookauto = "Our last from January Poet in Residence, Kevin Craft, is titled \"Hibernation, Warming\""
 make_image_tweet = "False"
 notes_byline = ["writers/kevin-craft.md"]
-notes_tags = "notes/hibernation-warming.md"
+notes_tags = ["notes/hibernation-warming.md"]
 notes_about = ""
 books = ""
 +++

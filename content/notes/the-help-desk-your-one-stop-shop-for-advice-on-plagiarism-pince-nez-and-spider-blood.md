@@ -17,7 +17,7 @@ twitterauto = "Your one-stop shop for advice on plagiarism, pince-nez, and spide
 facebookauto = "This week's Help Desk is a special rapid-fire mail bag edition! Consider it your one-stop shop for advice on plagiarism, pince-nez, and spider blood."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-your-one-stop-shop-for-advice-on-plagiarism-pince-nez-and-spider-blood.md"
+notes_tags = ["notes/the-help-desk-your-one-stop-shop-for-advice-on-plagiarism-pince-nez-and-spider-blood.md"]
 notes_about = ["authors/timothy-egan.md"]
 books = ""
 +++

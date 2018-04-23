@@ -17,7 +17,7 @@ twitterauto = "Congratulations to Han Kang, whose The Vegetarian just won the Ma
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/vegetarian-wins-award.md"
+notes_tags = ["notes/vegetarian-wins-award.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Today in Book News Roundup, we follow a book through @SPLBuzz and
 facebookauto = "In today's Book News Roundup, we follow a book through Seattle Public Library and tell you about some new classes from Artist Trust."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-follow-a-book-through-the-seattle-public-library.md"
+notes_tags = ["notes/book-news-roundup-follow-a-book-through-the-seattle-public-library.md"]
 notes_about = ""
 books = ""
 +++

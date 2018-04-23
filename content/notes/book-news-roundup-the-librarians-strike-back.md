@@ -17,7 +17,7 @@ twitterauto = "In today's Book News Roundup: As Trumpy forces take over, the lib
 facebookauto = "In today's Book News Roundup: As Trumpy forces take over, the librarians strike back."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-librarians-strike-back.md"
+notes_tags = ["notes/book-news-roundup-the-librarians-strike-back.md"]
 notes_about = ["authors/david-shields.md", "authors/jen-graves.md"]
 books = ""
 +++

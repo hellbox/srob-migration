@@ -17,7 +17,7 @@ twitterauto = "Pieces from @join_scout, @SEMcBain, and @alex_shephard in today's
 facebookauto = "Driverless cars in our driver-full city, grade inflation on book reviews, and are we losing our brains, now that we can outsource them to our phones? All in today's Sunday Post"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-june-12-2016.md"
+notes_tags = ["notes/the-sunday-post-for-june-12-2016.md"]
 notes_about = ""
 books = ""
 +++

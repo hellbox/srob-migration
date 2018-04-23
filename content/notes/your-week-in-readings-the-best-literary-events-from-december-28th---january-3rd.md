@@ -17,7 +17,7 @@ twitterauto = "Your week in readings includes a Joan Didion book club and a huge
 facebookauto = "Your week in readings includes a Joan Didion book club and a huge book sale."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-december-28th---january-3rd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-december-28th---january-3rd.md"]
 notes_about = ""
 books = ""
 +++

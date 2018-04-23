@@ -17,7 +17,7 @@ twitterauto = "Read an essay by Reagan Jackson from the new Fly to the Assemblie
 facebookauto = "A new anthology from sponsor Third Place Press is a call to action for Seattle as a city of resistance. Read an excerpt, by Reagan Jackson, available this week only for our readers."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/fly-to-the-assemblies!-calls-seattle-to-action.md"
+notes_tags = ["notes/fly-to-the-assemblies!-calls-seattle-to-action.md"]
 notes_about = ["authors/marcus-harrison-green.md"]
 books = ["books/fly-to-the-assemblies!.md"]
 +++

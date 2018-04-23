@@ -17,7 +17,7 @@ twitterauto = "Lunch date takes @helytimes to @ilcorvopasta"
 facebookauto = "For a Lunch Date, Martin takes Steve Hely's latest to Il Corvo for some pasta ."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/lunch-date-go-south-young(ish)-man.md"
+notes_tags = ["notes/lunch-date-go-south-young(ish)-man.md"]
 notes_about = ["authors/steve-hely.md"]
 books = ""
 +++

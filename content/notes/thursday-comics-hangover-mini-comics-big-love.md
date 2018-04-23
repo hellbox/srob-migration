@@ -17,7 +17,7 @@ twitterauto = "We checked out minicomics from @eltripol, @ColleenFrakes, and @Jo
 facebookauto = "This week's comics column looks at a Chick Tract exploration of Frank Herbert's Dune series and a love letter to Ruth Bader Ginsburg."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-mini-comics-big-love.md"
+notes_tags = ["notes/thursday-comics-hangover-mini-comics-big-love.md"]
 notes_about = ["authors/colleen-frakes.md"]
 books = ["books/prison-island.md"]
 +++

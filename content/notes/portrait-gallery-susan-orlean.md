@@ -17,7 +17,7 @@ twitterauto = "It's @susanorlean painted by @studiochristine! "
 facebookauto = "Christine Marie Larsen paints writer Susan Orlean in today's portrait gallery."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-susan-orlean.md"
+notes_tags = ["notes/portrait-gallery-susan-orlean.md"]
 notes_about = ["authors/susan-orlean.md"]
 books = ""
 +++

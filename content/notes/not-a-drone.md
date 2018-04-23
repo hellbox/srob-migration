@@ -17,7 +17,7 @@ twitterauto = "\"Not a drone.\" Wonderful! Thanks for clarifying, @ThirdPlaceBoo
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/not-a-drone.md"
+notes_tags = ["notes/not-a-drone.md"]
 notes_about = ""
 books = ""
 +++

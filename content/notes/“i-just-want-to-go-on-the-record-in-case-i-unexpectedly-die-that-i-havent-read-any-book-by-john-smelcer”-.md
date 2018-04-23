@@ -17,7 +17,7 @@ twitterauto = "\u201cI just want to go on the record, in case I unexpectedly die
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/“i-just-want-to-go-on-the-record-in-case-i-unexpectedly-die-that-i-havent-read-any-book-by-john-smelcer”-.md"
+notes_tags = ["notes/“i-just-want-to-go-on-the-record-in-case-i-unexpectedly-die-that-i-havent-read-any-book-by-john-smelcer”-.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Wallingford's Wide World Travel & Maps has launched a crowd-fundi
 facebookauto = "In a last-ditch effort to stay open, Wallingford's Wide World Travel & Maps has launched a crowd-funding campaign."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/wide-world-books-launches-crowdfunding-campaign.md"
+notes_tags = ["notes/wide-world-books-launches-crowdfunding-campaign.md"]
 notes_about = ""
 books = ""
 +++

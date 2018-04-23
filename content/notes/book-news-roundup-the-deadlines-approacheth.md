@@ -17,7 +17,7 @@ twitterauto = "Someone is giving away $10,000 to a local fiction writer. Could y
 facebookauto = "Someone is giving away $10,000 to a local fiction writer. Could you be that writer?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-the-deadlines-approacheth.md"
+notes_tags = ["notes/book-news-roundup-the-deadlines-approacheth.md"]
 notes_about = ""
 books = ""
 +++

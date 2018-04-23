@@ -17,7 +17,7 @@ twitterauto = "What made @maggiesmithpoet's poem \"Good Bones\" go viral in @Wax
 facebookauto = "What made Maggie Smith's \"Good Bones\" go viral last week, after Waxwings Magazine published it? We put Kellie Russell Agodon on the case."
 make_image_tweet = "False"
 notes_byline = ["writers/kelli-russell-agodon.md"]
-notes_tags = "notes/a-poet-explores-when-poems-go-viral.md"
+notes_tags = ["notes/a-poet-explores-when-poems-go-viral.md"]
 notes_about = ["authors/fatimah-asghar.md", "authors/maggie-smith.md", "authors/tarfia-faizullah.md", "authors/warsan-shire.md", "authors/danez-smith.md", "authors/patricia-lockwood.md", "authors/wh-auden.md", "authors/billy-collins.md"]
 books = ""
 +++

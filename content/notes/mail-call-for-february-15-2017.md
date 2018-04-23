@@ -17,7 +17,7 @@ twitterauto = "Some exciting upcoming releases from Seattle writers in this Mail
 facebookauto = "Some exciting upcoming releases from Seattle writers in this Mail Call stack!"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-february-15-2017.md"
+notes_tags = ["notes/mail-call-for-february-15-2017.md"]
 notes_about = ""
 books = ""
 +++

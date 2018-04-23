@@ -17,7 +17,7 @@ twitterauto = "Rest in peace, Oliver Sacks."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/oliver-sacks-1933---2015.md"
+notes_tags = ["notes/oliver-sacks-1933---2015.md"]
 notes_about = ["authors/oliver-sacks.md", "authors/richard-powers.md"]
 books = ""
 +++

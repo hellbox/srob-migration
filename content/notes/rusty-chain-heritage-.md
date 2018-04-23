@@ -17,7 +17,7 @@ twitterauto = "\"Rusty Chain Heritage\" is the third poem from March Poet in Res
 facebookauto = "\"Rusty Chain Heritage\" is the third poem from March Poet in Residence Julene Trip Weaver"
 make_image_tweet = "False"
 notes_byline = ["writers/julene-tripp-weaver.md"]
-notes_tags = "notes/rusty-chain-heritage-.md"
+notes_tags = ["notes/rusty-chain-heritage-.md"]
 notes_about = ""
 books = ""
 +++

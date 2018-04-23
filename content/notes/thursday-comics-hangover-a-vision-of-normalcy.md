@@ -17,7 +17,7 @@ twitterauto = "Marvel's new Vision comic written by @TomKingTK is shaping up to 
 facebookauto = "Sometimes when you start reading a new comic book, you know you're in for something really special. This is the case with Marvel's The Vision, a book which feels about as related to superhero comics as the Moore/Bissette Swamp Thing series. There's some weird, wonderful stuff going on in this book."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-a-vision-of-normalcy.md"
+notes_tags = ["notes/thursday-comics-hangover-a-vision-of-normalcy.md"]
 notes_about = ""
 books = ""
 +++

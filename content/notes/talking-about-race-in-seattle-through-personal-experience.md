@@ -17,7 +17,7 @@ twitterauto = "Sponsor Lisa Richesson has written an evocative and probing memoi
 facebookauto = "Sponsor Lisa Richesson has written an evocative and probing memoir \"White Lady, Black Sons\" about race, and family, and Seattle's divisive past"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/talking-about-race-in-seattle-through-personal-experience.md"
+notes_tags = ["notes/talking-about-race-in-seattle-through-personal-experience.md"]
 notes_about = ["authors/lisa-richesson.md"]
 books = ["books/white-lady-black-sons.md"]
 +++

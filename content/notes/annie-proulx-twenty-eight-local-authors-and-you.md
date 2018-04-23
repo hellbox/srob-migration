@@ -17,7 +17,7 @@ twitterauto = "Time to grab tickets for sponsor @uwlibraries event \"Literary Vo
 facebookauto = "Time to grab tickets for sponsor @uwlibraries event \"Literary Voices\", featuring Annie Proulx!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/annie-proulx-twenty-eight-local-authors-and-you.md"
+notes_tags = ["notes/annie-proulx-twenty-eight-local-authors-and-you.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Has @nisishawl gone to the dogs? No, but there are great dog stor
 facebookauto = "Has Nisi Shawl gone to the dogs? No, but she'll tell you about all the great stories about them, in this month's Future Alternative Past."
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/the-future-alternative-past-now-with-animal-pictures.md"
+notes_tags = ["notes/the-future-alternative-past-now-with-animal-pictures.md"]
 notes_about = ["authors/harlan-ellison.md", "authors/connie-willis.md", "authors/stephen-king.md", "authors/kelly-link.md", "authors/bradley-denton.md", "authors/steven-brust.md", "authors/kim-wilkins.md", "authors/daniel-h-wilson.md"]
 books = ""
 +++

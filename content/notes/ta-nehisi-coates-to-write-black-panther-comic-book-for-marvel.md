@@ -17,7 +17,7 @@ twitterauto = "We're very excited to hear @tanehisicoates is writing a Black Pan
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/ta-nehisi-coates-to-write-black-panther-comic-book-for-marvel.md"
+notes_tags = ["notes/ta-nehisi-coates-to-write-black-panther-comic-book-for-marvel.md"]
 notes_about = ["authors/ta-nehisi-coates.md"]
 books = ["books/between-the-world-and-me.md"]
 +++

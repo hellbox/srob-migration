@@ -17,7 +17,7 @@ twitterauto = "A reader writes to @ciennam: \"My entire life, I\u2019ve suspecte
 facebookauto = "A reader writes to our literary advice columnist: \"My entire life, I\u2019ve suspected poetry to be a scam.\"  Her response:"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-is-poetry-a-scam.md"
+notes_tags = ["notes/the-help-desk-is-poetry-a-scam.md"]
 notes_about = ["authors/karen-finneyfrock.md", "authors/sylvia-plath.md"]
 books = ""
 +++

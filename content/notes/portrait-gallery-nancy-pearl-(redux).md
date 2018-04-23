@@ -17,7 +17,7 @@ twitterauto = "Fave librarian @Nancy_Pearl reads from George & Lizzie 9/5 @SPLBu
 facebookauto = "Nancy Pearl reads from her new book Tuesday, September 5th at the Seattle Public Library. Portrait by Christine Marie Larsen."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-nancy-pearl-(redux).md"
+notes_tags = ["notes/portrait-gallery-nancy-pearl-(redux).md"]
 notes_about = ["authors/nancy-pearl.md"]
 books = ""
 +++

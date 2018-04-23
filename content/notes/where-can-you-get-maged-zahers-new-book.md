@@ -17,7 +17,7 @@ twitterauto = "If you want a copy of Maged Zaher's newest book right now, you'll
 facebookauto = "If you want a copy of Maged Zaher's newest book right now, you'll have to visit Pioneer Square."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/where-can-you-get-maged-zahers-new-book.md"
+notes_tags = ["notes/where-can-you-get-maged-zahers-new-book.md"]
 notes_about = ["authors/maged-zaher.md"]
 books = ["books/opting-out.md"]
 +++

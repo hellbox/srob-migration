@@ -17,7 +17,7 @@ twitterauto = "This week in readings includes a punk rock flea market and a libr
 facebookauto = "This week in readings includes a punk rock flea market and a library tour."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-december-21st---december-27th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-december-21st---december-27th.md"]
 notes_about = ""
 books = ""
 +++

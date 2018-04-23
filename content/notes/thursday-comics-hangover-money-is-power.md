@@ -17,7 +17,7 @@ twitterauto = "We can't get over how good @JHickman's The Black Monday Murders i
 facebookauto = "The Black Monday Murders imagines that a super-rich cabal of Americans are using black magic to control the stock market. So, based on a true story?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-money-is-power.md"
+notes_tags = ["notes/thursday-comics-hangover-money-is-power.md"]
 notes_about = ""
 books = ""
 +++

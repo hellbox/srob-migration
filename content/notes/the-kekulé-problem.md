@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-kekulé-problem.md"
+notes_tags = ["notes/the-kekulé-problem.md"]
 notes_about = ["authors/cormac-mccarthy.md"]
 books = ""
 +++

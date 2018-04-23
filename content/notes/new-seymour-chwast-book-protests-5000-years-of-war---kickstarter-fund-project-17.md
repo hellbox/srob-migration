@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund got behind @designersbooks this week."
 facebookauto = "The Kickstarter Fund backs a famous designers new book, with a brilliant anti-war illustration and message. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/new-seymour-chwast-book-protests-5000-years-of-war---kickstarter-fund-project-17.md"
+notes_tags = ["notes/new-seymour-chwast-book-protests-5000-years-of-war---kickstarter-fund-project-17.md"]
 notes_about = ""
 books = ""
 +++

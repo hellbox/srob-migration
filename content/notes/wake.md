@@ -17,7 +17,7 @@ twitterauto = "Our powerful Tuesday Poem is by @mikokuro."
 facebookauto = "Our powerful Tuesday Poem is by Natasha Marin"
 make_image_tweet = "True"
 notes_byline = ["writers/natasha-marin.md"]
-notes_tags = "notes/wake.md"
+notes_tags = ["notes/wake.md"]
 notes_about = ""
 books = ""
 +++

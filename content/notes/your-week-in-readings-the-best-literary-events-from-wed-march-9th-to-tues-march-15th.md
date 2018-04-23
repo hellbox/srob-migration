@@ -17,7 +17,7 @@ twitterauto = "Introducing the new Your Week in Readings! What do you think of t
 facebookauto = "We're trying a new format for Your Week in Readings: more information, more opinions, one in-depth show preview per week. Let us know what you think!"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-wed-march-9th-to-tues-march-15th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-wed-march-9th-to-tues-march-15th.md"]
 notes_about = ["authors/dan-clowes.md"]
 books = ""
 +++

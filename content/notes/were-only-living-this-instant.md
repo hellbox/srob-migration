@@ -17,7 +17,7 @@ twitterauto = "Sponsor @kenboynton translated a near-death experience into a sma
 facebookauto = "Sponsor Ken Boynton translated a near-death experience into a smart, funny, quick, important fable"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/were-only-living-this-instant.md"
+notes_tags = ["notes/were-only-living-this-instant.md"]
 notes_about = ["authors/ken-boynton.md"]
 books = ""
 +++

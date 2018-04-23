@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem, \"The Quick\", is by @bill_carty"
 facebookauto = "Bill Carty is out poet today, with his work \"The Quick\""
 make_image_tweet = "False"
 notes_byline = ["writers/bill-carty.md"]
-notes_tags = "notes/the-quick.md"
+notes_tags = ["notes/the-quick.md"]
 notes_about = ""
 books = ""
 +++

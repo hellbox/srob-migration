@@ -17,7 +17,7 @@ twitterauto = "Push/Pull is packed full of weird, fun minicomics and zines. Here
 facebookauto = "When you spend time browsing the shelves at Push/Pull, you'll likely find a handwritten love letter that's been launched out into the universe."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/browsing-the-shelves-at-push--pull.md"
+notes_tags = ["notes/browsing-the-shelves-at-push--pull.md"]
 notes_about = ["authors/seth-goodkind.md"]
 books = ""
 +++

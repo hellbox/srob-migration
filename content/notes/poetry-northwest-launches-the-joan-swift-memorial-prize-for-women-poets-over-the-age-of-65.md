@@ -17,7 +17,7 @@ twitterauto = "Women poets over 65! @poetrynw is launching a new prize, in honor
 facebookauto = "Women poets over 65! Poetry Northwest is launching a new prize, in honor of Joan Swift. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/poetry-northwest-launches-the-joan-swift-memorial-prize-for-women-poets-over-the-age-of-65.md"
+notes_tags = ["notes/poetry-northwest-launches-the-joan-swift-memorial-prize-for-women-poets-over-the-age-of-65.md"]
 notes_about = ["authors/joan-swift.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Our fairytale president, health care via good samaritan, and book
 facebookauto = "Our fairytale president, health care via good samaritan, and book-burning under the midnight sun in the Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-june-4-2017.md"
+notes_tags = ["notes/the-sunday-post-for-june-4-2017.md"]
 notes_about = ""
 books = ""
 +++

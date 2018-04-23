@@ -17,7 +17,7 @@ twitterauto = "Last night's Lit Crawl was loud and quiet and good and not so goo
 facebookauto = "Last night's Lit Crawl was loud and quiet and good and not so good and there was a really bad bartender."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/what-you-missed-at-lit-crawl-while-you-were-busy-attending-lit-crawl.md"
+notes_tags = ["notes/what-you-missed-at-lit-crawl-while-you-were-busy-attending-lit-crawl.md"]
 notes_about = ["authors/mattilda-bernstein-sycamore.md", "authors/jane-wong.md", "authors/sierra-nelson.md", "authors/tobi-hill-meyer.md"]
 books = ""
 +++

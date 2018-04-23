@@ -17,7 +17,7 @@ twitterauto = "The new @michael_deforge comic from @DandQ is a deconstructed com
 facebookauto = "It begins like an ordinary comic strip. And then it gets weird. Really, really weird."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-queen-of-the-wild-frontier.md"
+notes_tags = ["notes/thursday-comics-hangover-queen-of-the-wild-frontier.md"]
 notes_about = ["authors/michael-deforge.md"]
 books = ["books/sticks-angelica-folk-hero.md"]
 +++

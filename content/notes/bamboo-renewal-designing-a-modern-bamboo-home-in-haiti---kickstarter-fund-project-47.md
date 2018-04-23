@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs a project to build shelters in Haiti, 
 facebookauto = "The Kickstarter Fund backs a project to build shelters in Comiers, Haiti. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/bamboo-renewal-designing-a-modern-bamboo-home-in-haiti---kickstarter-fund-project-47.md"
+notes_tags = ["notes/bamboo-renewal-designing-a-modern-bamboo-home-in-haiti---kickstarter-fund-project-47.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"The Seattle Mystery Bookshop will close on Saturday, September 
 facebookauto = "\"The Seattle Mystery Bookshop will close on Saturday, September 30th at the end of the day.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-seattle-mystery-bookshop-will-close-on-saturday-september-30th-at-the-end-of-the-day.md"
+notes_tags = ["notes/the-seattle-mystery-bookshop-will-close-on-saturday-september-30th-at-the-end-of-the-day.md"]
 notes_about = ""
 books = ""
 +++

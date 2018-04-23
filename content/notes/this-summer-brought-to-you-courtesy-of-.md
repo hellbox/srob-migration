@@ -17,7 +17,7 @@ twitterauto = "In the debut novel by sponsor @FrankMurtaugh, Trey Milligan comes
 facebookauto = "Love a little, die a little, and break the law. Sponsor Frank Murtaugh's debut novel features baseball, friendship, and an unexpected coming of age for 13-year-old Trey Milligan."
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/this-summer-brought-to-you-courtesy-of-.md"
+notes_tags = ["notes/this-summer-brought-to-you-courtesy-of-.md"]
 notes_about = ["authors/frank-murtaugh.md"]
 books = ["books/treys-company.md"]
 +++

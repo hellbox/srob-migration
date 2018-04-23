@@ -17,7 +17,7 @@ twitterauto = "APRIL Festival's Managing Director, @t_m_at, is stepping down. We
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/april-managing-director-tara-atkinson-to-step-down.md"
+notes_tags = ["notes/april-managing-director-tara-atkinson-to-step-down.md"]
 notes_about = ["authors/ed-skoog.md", "authors/hannah-sanghee-park.md"]
 books = ""
 +++

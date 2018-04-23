@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/kristen-steenbeeke.md"]
-notes_tags = "notes/the-familiar.md"
+notes_tags = ["notes/the-familiar.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "You probably hate raccoons. Here's a comic that might make you fe
 facebookauto = "You probably hate raccoons. Marie Hausauer's newest comic might make you feel bad for them."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-dead-mammal.md"
+notes_tags = ["notes/thursday-comics-hangover-the-dead-mammal.md"]
 notes_about = ["authors/marie-hausauer.md"]
 books = ""
 +++

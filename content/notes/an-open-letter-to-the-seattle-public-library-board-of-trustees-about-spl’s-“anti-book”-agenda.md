@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/an-open-letter-to-the-seattle-public-library-board-of-trustees-about-spl’s-“anti-book”-agenda.md"
+notes_tags = ["notes/an-open-letter-to-the-seattle-public-library-board-of-trustees-about-spl’s-“anti-book”-agenda.md"]
 notes_about = ""
 books = ""
 +++

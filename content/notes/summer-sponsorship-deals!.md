@@ -17,7 +17,7 @@ twitterauto = "Some last-minute bargains on summer sponsorships!"
 facebookauto = "Some last-minute bargains on summer sponsorships!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/summer-sponsorship-deals!.md"
+notes_tags = ["notes/summer-sponsorship-deals!.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/susan-rich.md"]
-notes_tags = "notes/the-seattle-school.md"
+notes_tags = ["notes/the-seattle-school.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Thomas Frank reads from Listen Liberal at @THSEA on Tuesday, Apri
 facebookauto = "Thomas Frank reads from Listen Liberal at Town Hall Seattle on Tuesday, April 18th. We took the book out for a sandwich."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lunch-date-persecuting-liberal-elites-at-a-fancy-banh-mi-shop.md"
+notes_tags = ["notes/lunch-date-persecuting-liberal-elites-at-a-fancy-banh-mi-shop.md"]
 notes_about = ""
 books = ["books/listen-liberal.md"]
 +++

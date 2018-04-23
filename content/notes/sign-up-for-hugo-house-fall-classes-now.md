@@ -17,7 +17,7 @@ twitterauto = "Registration for @HugoHouse fall courses is now open. Here are so
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/sign-up-for-hugo-house-fall-classes-now.md"
+notes_tags = ["notes/sign-up-for-hugo-house-fall-classes-now.md"]
 notes_about = ""
 books = ""
 +++

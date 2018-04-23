@@ -17,7 +17,7 @@ twitterauto = "ALERT ALERT ALERT: Cate Blanchett has been spotted at the downtow
 facebookauto = "ALERT ALERT ALERT: Cate Blanchett has been spotted at the downtown branch of the Seattle Public Library!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/cate-blanchett-spotted-at-downtown-seattle-public-library.md"
+notes_tags = ["notes/cate-blanchett-spotted-at-downtown-seattle-public-library.md"]
 notes_about = ["authors/maria-semple.md"]
 books = ["books/whered-you-go-bernadette.md"]
 +++

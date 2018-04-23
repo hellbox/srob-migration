@@ -17,7 +17,7 @@ twitterauto = "The Seattle Urban Book Expo is on August 26th at Washington Hall.
 facebookauto = "The Seattle Urban Book Expo is on August 26th at Washington Hall. Here's what to expect:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/we-really-are-one-of-the-top-literary-cities-of-the-world-what-to-expect-from-this-years-seattle-urban-book-expo.md"
+notes_tags = ["notes/we-really-are-one-of-the-top-literary-cities-of-the-world-what-to-expect-from-this-years-seattle-urban-book-expo.md"]
 notes_about = ""
 books = ""
 +++

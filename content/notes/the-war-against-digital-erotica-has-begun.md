@@ -17,7 +17,7 @@ twitterauto = "It just got a lot harder to find erotic fiction online."
 facebookauto = "It just got a lot harder to find erotic fiction online."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-war-against-digital-erotica-has-begun.md"
+notes_tags = ["notes/the-war-against-digital-erotica-has-begun.md"]
 notes_about = ""
 books = ""
 +++

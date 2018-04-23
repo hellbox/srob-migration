@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Sweet Air Publishing"
 title = "Sweet Air Publishing"
-books_publisher = "publishers/sweet-air-publishing.md"
+books_publisher = ["publishers/sweet-air-publishing.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Of course literature has its own Harvey Weinsteins."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/yes-literature-has-its-own-harvey-weinsteins.md"
+notes_tags = ["notes/yes-literature-has-its-own-harvey-weinsteins.md"]
 notes_about = ""
 books = ""
 +++

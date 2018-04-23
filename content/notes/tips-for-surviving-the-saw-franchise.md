@@ -17,7 +17,7 @@ twitterauto = "Practical poetry, as our month of @elisacatrina continues: \"Tips
 facebookauto = "Practical poetry, as our month of Elise Chavez continues: \"Tips for Surviving the Saw Franchise\""
 make_image_tweet = "False"
 notes_byline = ["writers/elisa-chavez.md"]
-notes_tags = "notes/tips-for-surviving-the-saw-franchise.md"
+notes_tags = ["notes/tips-for-surviving-the-saw-franchise.md"]
 notes_about = ""
 books = ""
 +++

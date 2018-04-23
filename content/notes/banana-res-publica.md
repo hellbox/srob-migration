@@ -17,7 +17,7 @@ twitterauto = "Our third from Poet in Residence Kevin Craft is titled \"Banana R
 facebookauto = "Our third from Poet in Residence Kevin Craft is titled \"Banana Res Publica\""
 make_image_tweet = "False"
 notes_byline = ["writers/kevin-craft.md"]
-notes_tags = "notes/banana-res-publica.md"
+notes_tags = ["notes/banana-res-publica.md"]
 notes_about = ""
 books = ""
 +++

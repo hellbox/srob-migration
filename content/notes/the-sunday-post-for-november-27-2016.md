@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post, from @despra, has screen horror, nearly-blind ch
 facebookauto = "The Sunday Post has screen horror, nearly-blind chefs, the Decameron, and Margaret Hamilton <3."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-november-27-2016.md"
+notes_tags = ["notes/the-sunday-post-for-november-27-2016.md"]
 notes_about = ""
 books = ""
 +++

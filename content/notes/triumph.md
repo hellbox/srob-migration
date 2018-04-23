@@ -17,7 +17,7 @@ twitterauto = "Today's poem by @alexthegb, called \"Triumph\", starts \"I always
 facebookauto = "The Tuesday Poem is by Alex Gallo-Brown, and it's called \"Triumph\""
 make_image_tweet = "False"
 notes_byline = ["writers/alex-gallo-brown.md"]
-notes_tags = "notes/triumph.md"
+notes_tags = ["notes/triumph.md"]
 notes_about = ""
 books = ""
 +++

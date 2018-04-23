@@ -17,7 +17,7 @@ twitterauto = "Congratulations to @misswashuta, who won one of this year's two A
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award.md"
+notes_tags = ["notes/elissa-washuta-wins-artist-trust-2016-arts-innovator-award.md"]
 notes_about = ["authors/elissa-washuta.md"]
 books = ["books/starvation-mode.md", "books/my-body-is-a-book-of-rules.md"]
 +++

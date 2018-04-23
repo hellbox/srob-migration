@@ -17,7 +17,7 @@ twitterauto = "Who would dare to write a sequel to The Wind in the Willows? Find
 facebookauto = "Who would dare to write a sequel to The Wind in the Willows? Find out this Tuesday!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-the-river-bank-at-elliott-bay-book-company.md"
+notes_tags = ["notes/literary-event-of-the-week-the-river-bank-at-elliott-bay-book-company.md"]
 notes_about = ""
 books = ""
 +++

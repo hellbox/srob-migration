@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery by @studiochristine: Happy Birthday, Arthur Rimb
 facebookauto = "Portrait Gallery: Happy Birthday, Arthur Rimbaud. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-arthur-rimbaud.md"
+notes_tags = ["notes/portrait-gallery-arthur-rimbaud.md"]
 notes_about = ["authors/arthur-rimbaud.md"]
 books = ""
 +++

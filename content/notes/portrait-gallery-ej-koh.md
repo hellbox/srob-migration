@@ -17,7 +17,7 @@ twitterauto = "Look! @studiochristine painted @thisisEJKoh! "
 facebookauto = "Christine Marie Larsen painted local poet EJ Koh for this week's Portrait Gallery. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-ej-koh.md"
+notes_tags = ["notes/portrait-gallery-ej-koh.md"]
 notes_about = ""
 books = ""
 +++

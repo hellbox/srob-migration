@@ -17,7 +17,7 @@ twitterauto = "The @HugoHouse asked a farmer's market to write a collaborative p
 facebookauto = "The Hugo House set up a typewriter at the University District Farmer's Market and asked passersby to write a line in a collaborative poem. The resulting poem might not be great literature, but it's an accurate thermometer of the mood of a Seattle crowd in mid-November."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-university-district-farmers-market-wrote-a-poem.md"
+notes_tags = ["notes/the-university-district-farmers-market-wrote-a-poem.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Word-lovers, this is the play for you!"
 facebookauto = "Word-lovers, this is the play for you!"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-impossibility-of-now-is-a-play-about-love-and-language-and-falling-in-love-with-language.md"
+notes_tags = ["notes/the-impossibility-of-now-is-a-play-about-love-and-language-and-falling-in-love-with-language.md"]
 notes_about = ""
 books = ""
 +++

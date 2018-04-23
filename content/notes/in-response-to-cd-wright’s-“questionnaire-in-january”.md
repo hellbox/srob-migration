@@ -17,7 +17,7 @@ twitterauto = "Samar Abulhassan is our poet this week, with her new work \"In Re
 facebookauto = "Samar Abulhassan's poem \"In Response to C.D. Wright\u2019s 'Questionnaire in January'\" is our Tuesday Poem."
 make_image_tweet = "False"
 notes_byline = ["writers/samar-abulhassan.md"]
-notes_tags = "notes/in-response-to-cd-wright’s-“questionnaire-in-january”.md"
+notes_tags = ["notes/in-response-to-cd-wright’s-“questionnaire-in-january”.md"]
 notes_about = ""
 books = ""
 +++

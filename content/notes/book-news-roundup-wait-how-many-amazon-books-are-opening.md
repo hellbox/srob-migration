@@ -17,7 +17,7 @@ twitterauto = "How many Amazon Books will there be? And when is @shortrunseattle
 facebookauto = "Our Book News Roundup includes more Amazon Books whispers, a rumor about a local reading series, some great Short Run news, and a little hope for diversity in the publishing industry."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-wait-how-many-amazon-books-are-opening.md"
+notes_tags = ["notes/book-news-roundup-wait-how-many-amazon-books-are-opening.md"]
 notes_about = ""
 books = ""
 +++

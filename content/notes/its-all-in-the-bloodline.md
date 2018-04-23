@@ -17,7 +17,7 @@ twitterauto = "Our thanks to @akelleherauthor for being this week's sponsor!"
 facebookauto = "Anne Kelleher is our sponsor this week, and she wonders what would happen if a modern-day person really did carry the bloodline of Jesus Christ. Her supernatural thriller The Jesus Gene explores that question."
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/its-all-in-the-bloodline.md"
+notes_tags = ["notes/its-all-in-the-bloodline.md"]
 notes_about = ["authors/anne-kelleher.md"]
 books = ["books/the-jesus-gene.md"]
 +++

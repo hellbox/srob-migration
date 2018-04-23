@@ -17,7 +17,7 @@ twitterauto = "It's time, once more, for midnight Harry Potter book release part
 facebookauto = "It's time, once more, for midnight Harry Potter book release parties."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-harry-potter-and-the-inexorable-march-of-time.md"
+notes_tags = ["notes/literary-event-of-the-week-harry-potter-and-the-inexorable-march-of-time.md"]
 notes_about = ["authors/jk-rowling.md"]
 books = ""
 +++

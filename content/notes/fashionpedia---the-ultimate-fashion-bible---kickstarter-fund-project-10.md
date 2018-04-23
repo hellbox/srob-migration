@@ -17,7 +17,7 @@ twitterauto = "Fa-fa-fa-fa-fasionable Kickstarter projects this week."
 facebookauto = "Kickstarter Fund goes into fashion this week. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/fashionpedia---the-ultimate-fashion-bible---kickstarter-fund-project-10.md"
+notes_tags = ["notes/fashionpedia---the-ultimate-fashion-bible---kickstarter-fund-project-10.md"]
 notes_about = ""
 books = ""
 +++

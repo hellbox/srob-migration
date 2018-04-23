@@ -17,7 +17,7 @@ twitterauto = "Talking with Danielle Hulton (@AdasBooks), the owner of the wonde
 facebookauto = "As Ada's Technical Books prepares for its third holiday season on 15th Avenue, we chat with owner Danielle Hulton about what she's learned and what she's planning to do next."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/three-holidays-in-adas-technical-books-is-growing-up.md"
+notes_tags = ["notes/three-holidays-in-adas-technical-books-is-growing-up.md"]
 notes_about = ["authors/margaret-atwood.md"]
 books = ["books/winter.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "William Gass, one of the most brilliant and under-appreciated nov
 facebookauto = "William Gass, one of the most brilliant and under-appreciated novelists of the 20th century, has died."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/william-gass-1924---2017.md"
+notes_tags = ["notes/william-gass-1924---2017.md"]
 notes_about = ""
 books = ""
 +++

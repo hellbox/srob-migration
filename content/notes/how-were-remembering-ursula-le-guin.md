@@ -17,7 +17,7 @@ twitterauto = "We're reading the many tributes to Ursula Le Guin and we're learn
 facebookauto = "We're reading the many tributes to Ursula Le Guin and we're learning so much."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/how-were-remembering-ursula-le-guin.md"
+notes_tags = ["notes/how-were-remembering-ursula-le-guin.md"]
 notes_about = ["authors/ursula-k-le-guin.md"]
 books = ""
 +++

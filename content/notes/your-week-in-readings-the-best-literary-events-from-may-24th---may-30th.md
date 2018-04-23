@@ -17,7 +17,7 @@ twitterauto = "Your week of readings features refugees, comics memoirs, and much
 facebookauto = "Your week of readings features refugees, Folklife, long-awaited comics memoirs, and much more!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-may-24th---may-30th.md"]
 notes_about = ["authors/david-schmader.md", "authors/elissa-washuta.md", "authors/paul-mullin.md", "authors/noel-franklin.md"]
 books = ["books/weed-the-users-guide.md", "books/the-starting-gate.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "We talked with an owner of Redmond's brand-new bookstore, @BrckMr
 facebookauto = "Make room for a new bookstore in the Seattle region: Brick & Mortar Books just opened last week in Redmond Town Center. We talked with one of their owners, who has no bookselling experience but who is excited to learn!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/talking-with-an-owner-of-the-seattle-areas-newest-bookstore-brick-and-mortar-books.md"
+notes_tags = ["notes/talking-with-an-owner-of-the-seattle-areas-newest-bookstore-brick-and-mortar-books.md"]
 notes_about = ""
 books = ""
 +++

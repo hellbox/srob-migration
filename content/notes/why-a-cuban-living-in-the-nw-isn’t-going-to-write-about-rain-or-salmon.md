@@ -17,7 +17,7 @@ twitterauto = "The Tuesday Poem is by Felicia Gonzolez: \"why a Cuban living in 
 facebookauto = "Felicia Gonzolez is the author of our Tuesday Poem, titled \"why a Cuban living in the NW isn\u2019t going to write about rain or salmon\""
 make_image_tweet = ""
 notes_byline = ["writers/felicia-gonzalez.md"]
-notes_tags = "notes/why-a-cuban-living-in-the-nw-isn’t-going-to-write-about-rain-or-salmon.md"
+notes_tags = ["notes/why-a-cuban-living-in-the-nw-isn’t-going-to-write-about-rain-or-salmon.md"]
 notes_about = ""
 books = ""
 +++

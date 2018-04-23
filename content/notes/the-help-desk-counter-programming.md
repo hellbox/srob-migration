@@ -17,7 +17,7 @@ twitterauto = "What should a family of avid readers do to include the one kid wh
 facebookauto = "This week's advice column about the odd duck from a family of avid readers. He doesn't like books but he loves computer programming. What should they do?"
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-counter-programming.md"
+notes_tags = ["notes/the-help-desk-counter-programming.md"]
 notes_about = ["authors/william-gibson.md"]
 books = ["books/neuromancer.md"]
 +++

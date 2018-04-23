@@ -17,7 +17,7 @@ twitterauto = "Hope you have time to sit down & spend a few moments with a book 
 facebookauto = "It's the end of the year. Hope you have time to sit down and spend a few moments with a book you love."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-books.md"
+notes_tags = ["notes/portrait-gallery-books.md"]
 notes_about = ""
 books = ""
 +++

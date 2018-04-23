@@ -17,7 +17,7 @@ twitterauto = "Your week in readings kicks off with @HugoHouse's literary fortun
 facebookauto = "Your week in readings include a literary fortune-telling exhibition at the Sorrento, a women-only period-themed reading event, and an appearance from Life of Pi author Yann Martel."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-february-8th---14th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-february-8th---14th.md"]
 notes_about = ["authors/stacey-levine.md", "authors/sierra-nelson.md"]
 books = ""
 +++

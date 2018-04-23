@@ -17,7 +17,7 @@ twitterauto = "The Glass Castle isn't a perfect film, but it's got some perfecti
 facebookauto = "The film adaptation of Jeannette Walls's memoir The Glass Castle isn't a perfect film, but it's got some perfection inside of it."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-glass-castle-puts-a-hollywood-lie-on-a-true-story.md"
+notes_tags = ["notes/the-glass-castle-puts-a-hollywood-lie-on-a-true-story.md"]
 notes_about = ""
 books = ""
 +++

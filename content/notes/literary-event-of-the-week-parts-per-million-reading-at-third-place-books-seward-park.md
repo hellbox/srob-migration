@@ -17,7 +17,7 @@ twitterauto = "Our Literary Event of the Week is a novel set in the dark ages of
 facebookauto = "Our Literary Event of the Week is a novel set in the dark ages of American activism."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-parts-per-million-reading-at-third-place-books-seward-park.md"
+notes_tags = ["notes/literary-event-of-the-week-parts-per-million-reading-at-third-place-books-seward-park.md"]
 notes_about = ""
 books = ""
 +++

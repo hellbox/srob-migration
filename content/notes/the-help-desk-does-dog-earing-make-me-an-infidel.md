@@ -17,7 +17,7 @@ twitterauto = "Our advice columnist @ciennam addresses the Most Important Litera
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-does-dog-earing-make-me-an-infidel.md"
+notes_tags = ["notes/the-help-desk-does-dog-earing-make-me-an-infidel.md"]
 notes_about = ""
 books = ""
 +++

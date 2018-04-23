@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-use-of-large-hands-dark-shadows-blood-stains-figures-with-slouch-hats-the-airbrushed-backgrounds-the-skulls.md"
+notes_tags = ["notes/the-use-of-large-hands-dark-shadows-blood-stains-figures-with-slouch-hats-the-airbrushed-backgrounds-the-skulls.md"]
 notes_about = ""
 books = ""
 +++

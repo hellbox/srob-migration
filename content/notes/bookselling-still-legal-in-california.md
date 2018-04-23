@@ -17,7 +17,7 @@ twitterauto = "Don't believe what you've heard: California didn't just make book
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/bookselling-still-legal-in-california.md"
+notes_tags = ["notes/bookselling-still-legal-in-california.md"]
 notes_about = ""
 books = ""
 +++

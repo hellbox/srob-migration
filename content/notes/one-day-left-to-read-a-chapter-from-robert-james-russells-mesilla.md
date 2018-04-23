@@ -17,7 +17,7 @@ twitterauto = "One day left! Read a full chapter from @robhollywood's upcoming M
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-day-left-to-read-a-chapter-from-robert-james-russells-mesilla.md"
+notes_tags = ["notes/one-day-left-to-read-a-chapter-from-robert-james-russells-mesilla.md"]
 notes_about = ""
 books = ""
 +++

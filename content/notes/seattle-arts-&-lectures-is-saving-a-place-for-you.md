@@ -17,7 +17,7 @@ twitterauto = "This week's sponsor, @SeaArtsLectures, launches a stellar anniver
 facebookauto = "A huge thanks to Seattle Arts & Lectures for sponsoring us this week! Check out their stunning 30th anniversary lineup and subscribe to the series \u2014 or grab the first single-event tickets starting July 24."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/seattle-arts-&-lectures-is-saving-a-place-for-you.md"
+notes_tags = ["notes/seattle-arts-&-lectures-is-saving-a-place-for-you.md"]
 notes_about = ""
 books = ""
 +++

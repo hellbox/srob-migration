@@ -17,7 +17,7 @@ twitterauto = "Quick! Guess how many books Dolly Parton has donated to families 
 facebookauto = "Quick! Guess how many books Dolly Parton has donated to families in need."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-did-you-need-another-reason-to-love-dolly-parton.md"
+notes_tags = ["notes/book-news-roundup-did-you-need-another-reason-to-love-dolly-parton.md"]
 notes_about = ""
 books = ""
 +++

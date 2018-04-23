@@ -17,7 +17,7 @@ twitterauto = "We talked with awesome comics journalist @sarahglidden about her 
 facebookauto = "We interviewed Sarah Glidden, an excellent cartoonist who just moved to Seattle, about why she moved here. So far, she doesn't like the public transportation and she thinks the Seattle freeze is a myth. Sounds like she's got the city pretty well figured out!"
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/new-hire-sarah-glidden-doesnt-believe-in-the-seattle-freeze.md"
+notes_tags = ["notes/new-hire-sarah-glidden-doesnt-believe-in-the-seattle-freeze.md"]
 notes_about = ["authors/sarah-glidden.md"]
 books = ["books/how-to-understand-israel-in-60-days-or-less.md"]
 +++

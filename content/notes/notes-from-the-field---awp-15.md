@@ -17,7 +17,7 @@ twitterauto = "Todays #AWP16 roundup from @RachelLaKessler begins with a panic a
 facebookauto = "Todays #AWP16 roundup from Rachel Kessler begins with a panic attack and only gets livelier from there."
 make_image_tweet = "False"
 notes_byline = ["writers/rachel-kessler.md"]
-notes_tags = "notes/notes-from-the-field---awp-15.md"
+notes_tags = ["notes/notes-from-the-field---awp-15.md"]
 notes_about = ""
 books = ""
 +++

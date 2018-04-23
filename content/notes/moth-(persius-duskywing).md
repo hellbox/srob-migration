@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is by JM Miller, and the first line is: \"Its wi
 facebookauto = "Our Tuesday Poem is by JM Miller, and is called \"Moth (Persius Duskywing)\""
 make_image_tweet = "False"
 notes_byline = ["writers/jm-miller.md"]
-notes_tags = "notes/moth-(persius-duskywing).md"
+notes_tags = ["notes/moth-(persius-duskywing).md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "\u201cThis is probably the best job in the world,\u201d says a sc
 facebookauto = "Here's an interview with a school librarian about the importance of bringing fresh-baked cookies to work on your first day."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/trying-to-make-a-splash-as-a-librarian-bring-cookies.md"
+notes_tags = ["notes/trying-to-make-a-splash-as-a-librarian-bring-cookies.md"]
 notes_about = ""
 books = ""
 +++

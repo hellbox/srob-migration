@@ -17,7 +17,7 @@ twitterauto = "What should you do when your favorite used bookseller publicly sh
 facebookauto = "What should you do when your favorite used bookseller publicly shames you on Facebook for dog-earing your books?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-you-cant-dog-ear-a-facebook.md"
+notes_tags = ["notes/the-help-desk-you-cant-dog-ear-a-facebook.md"]
 notes_about = ""
 books = ""
 +++

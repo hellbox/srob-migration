@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: Are writing residencies really worth all that extr
 facebookauto = "Dear Cienna: Are writing residencies really worth all that extra work?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-writing-residencies-at-the-end-of-the-world.md"
+notes_tags = ["notes/the-help-desk-writing-residencies-at-the-end-of-the-world.md"]
 notes_about = ""
 books = ""
 +++

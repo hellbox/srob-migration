@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Aug 7 @ubookstorereads Seattle Mystery Authors 
 facebookauto = "Portrait Gallery: Jim Ziskin takes part August 7 in a group discussion Seattle Mystery Authors Tell All. Illustration by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-jim-ziskin.md"
+notes_tags = ["notes/portrait-gallery-jim-ziskin.md"]
 notes_about = ["authors/jim-ziskin.md"]
 books = ""
 +++

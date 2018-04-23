@@ -17,7 +17,7 @@ twitterauto = "The last line in this video is one of the most damning responses 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-suppose-this-is-a-kind-of-honor.md"
+notes_tags = ["notes/i-suppose-this-is-a-kind-of-honor.md"]
 notes_about = ["authors/john-green.md"]
 books = ""
 +++

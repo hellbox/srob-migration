@@ -17,7 +17,7 @@ twitterauto = "You're having a bad time, probably. Why not go to a nice event fo
 facebookauto = "You're having a bad time, probably. Why not go to a nice event for a change?"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-passing-the-torch-at-the-seattle-public-library.md"
+notes_tags = ["notes/literary-event-of-the-week-passing-the-torch-at-the-seattle-public-library.md"]
 notes_about = ["authors/tod-marshall.md", "authors/claudia-castro-luna.md", "authors/anastacia-renee.md", "authors/quenton-baker.md"]
 books = ["books/wa-129.md"]
 +++

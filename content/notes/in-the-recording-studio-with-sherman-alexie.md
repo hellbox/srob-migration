@@ -17,7 +17,7 @@ twitterauto = "We were in the studio for the recording session for Sherman Alexi
 facebookauto = "We were in the studio for the recording session for Sherman Alexie's new book. Here's what we saw:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/in-the-recording-studio-with-sherman-alexie.md"
+notes_tags = ["notes/in-the-recording-studio-with-sherman-alexie.md"]
 notes_about = ["authors/sherman-alexie.md"]
 books = ["books/you-dont-have-to-say-you-love-me.md"]
 +++

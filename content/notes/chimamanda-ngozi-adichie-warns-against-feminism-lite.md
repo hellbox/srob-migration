@@ -17,7 +17,7 @@ twitterauto = "Unless you follow Chimamanda Ngozi Adichie on Facebook, you proba
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/chimamanda-ngozi-adichie-warns-against-feminism-lite.md"
+notes_tags = ["notes/chimamanda-ngozi-adichie-warns-against-feminism-lite.md"]
 notes_about = ["authors/chimamanda-ngozi-adichie.md"]
 books = ""
 +++

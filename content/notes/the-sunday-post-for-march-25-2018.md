@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = "Why we should turn to art when times are bleak, profanity in poetry, hipsters as a dying term, and making a Chinese Typewriter. All in today's Sunday Post. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-march-25-2018.md"
+notes_tags = ["notes/the-sunday-post-for-march-25-2018.md"]
 notes_about = ""
 books = ""
 +++

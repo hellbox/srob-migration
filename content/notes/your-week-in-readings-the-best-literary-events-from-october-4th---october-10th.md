@@ -17,7 +17,7 @@ twitterauto = "Nasty women and mortician traditions from around the world figure
 facebookauto = "Nasty women and mortician traditions from around the world figure into this week's readings calendar!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-october-4th---october-10th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-october-4th---october-10th.md"]
 notes_about = ""
 books = ""
 +++

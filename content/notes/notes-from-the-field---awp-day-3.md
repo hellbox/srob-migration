@@ -17,7 +17,7 @@ twitterauto = "On #AWP16's final day @RachelLaKessler finds a poet waylaid by a 
 facebookauto = "It's the last day of AWP, and the book sellers are letting their stock go cheap so they don't have to haul them home. Rachel Kessler finds the poets, and finds the poetry. "
 make_image_tweet = "False"
 notes_byline = ["writers/rachel-kessler.md"]
-notes_tags = "notes/notes-from-the-field---awp-day-3.md"
+notes_tags = ["notes/notes-from-the-field---awp-day-3.md"]
 notes_about = ["authors/victoria-chang.md", "authors/kevin-young.md", "authors/kimiko-hahn.md", "authors/mark-doty.md", "authors/melissa-stein.md", "authors/anis-mojgani.md", "authors/rachel-mckibbens.md", "authors/cody-walker.md"]
 books = ""
 +++

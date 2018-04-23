@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Pizza Party Comics"
 title = "Pizza Party Comics"
-books_publisher = "publishers/pizza-party-comics.md"
+books_publisher = ["publishers/pizza-party-comics.md"]
 +++

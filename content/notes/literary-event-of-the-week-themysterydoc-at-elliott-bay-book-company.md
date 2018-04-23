@@ -17,7 +17,7 @@ twitterauto = "In the wrong hands, Matthew McIntosh\u2019s second novel, theMyst
 facebookauto = "In the wrong hands, Matthew McIntosh\u2019s second novel, theMystery.doc, could be a murder weapon..."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-themysterydoc-at-elliott-bay-book-company.md"
+notes_tags = ["notes/literary-event-of-the-week-themysterydoc-at-elliott-bay-book-company.md"]
 notes_about = ["authors/matthew-mcintosh.md"]
 books = ""
 +++

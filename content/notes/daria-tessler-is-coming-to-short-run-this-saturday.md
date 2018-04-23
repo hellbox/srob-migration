@@ -17,7 +17,7 @@ twitterauto = "We talked with Daria Tessler about the work she's bringing to @sh
 facebookauto = "We talked with Daria Tessler about the work she's bringing to Short Run Seattle this year."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/daria-tessler-is-coming-to-short-run-this-saturday.md"
+notes_tags = ["notes/daria-tessler-is-coming-to-short-run-this-saturday.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "\"Gum & Eating Peanuts\" is the fourth poem from Poet in Residenc
 facebookauto = "\"Gum & Eating Peanuts\" is the fourth poem from Poet in Residence Kary Wayson"
 make_image_tweet = "False"
 notes_byline = ["writers/kary-wayson.md"]
-notes_tags = "notes/glugs-of-amber-winelight-lay.md"
+notes_tags = ["notes/glugs-of-amber-winelight-lay.md"]
 notes_about = ""
 books = ""
 +++

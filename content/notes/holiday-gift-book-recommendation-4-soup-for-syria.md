@@ -17,7 +17,7 @@ twitterauto = "Our holiday bookseller recommendation series comes to a close wit
 facebookauto = "Our holiday bookseller recommendation series comes to a close with Elliott Bay Book Company's pick:  Soup for Syria, an all-star celebrity cookbook that benefits Syrian refugees."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/holiday-gift-book-recommendation-4-soup-for-syria.md"
+notes_tags = ["notes/holiday-gift-book-recommendation-4-soup-for-syria.md"]
 notes_about = ""
 books = ""
 +++

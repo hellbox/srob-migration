@@ -17,7 +17,7 @@ twitterauto = "The @parisreview has redesigned their site, so we found a few of 
 facebookauto = "The Paris Review has redesigned their site, so we found a few of our favorite interviews. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-paris-review-has-redesigned-their-site.md"
+notes_tags = ["notes/the-paris-review-has-redesigned-their-site.md"]
 notes_about = ""
 books = ""
 +++

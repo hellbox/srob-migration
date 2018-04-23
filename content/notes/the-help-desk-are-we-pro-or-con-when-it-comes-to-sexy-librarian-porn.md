@@ -17,7 +17,7 @@ twitterauto = "Sexy librarian porn: Yea or nay?"
 facebookauto = "Is sexy librarian porn good for librarians or bad for librarians?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-are-we-pro-or-con-when-it-comes-to-sexy-librarian-porn.md"
+notes_tags = ["notes/the-help-desk-are-we-pro-or-con-when-it-comes-to-sexy-librarian-porn.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts walks high above the street over a sky br
 facebookauto = "Seattle Writing Prompts walks high above the street over a sky bridge."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-macys-sky-bridge.md"
+notes_tags = ["notes/seattle-writing-prompts-the-macys-sky-bridge.md"]
 notes_about = ""
 books = ""
 +++

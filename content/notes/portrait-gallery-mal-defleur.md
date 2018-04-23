@@ -17,7 +17,7 @@ twitterauto = "Say hello to Mal DeFleur, presented by @studiochristine for your 
 facebookauto = "If you go to APRIL Festival's \"A Poet, a Playwright, a Novelist and a Drag Queen\" tonight, you'll have an encounter with the charming Mal DeFleur. We offer you her portrait today, to better prepare you for her radiance."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-mal-defleur.md"
+notes_tags = ["notes/portrait-gallery-mal-defleur.md"]
 notes_about = ""
 books = ""
 +++

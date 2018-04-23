@@ -17,7 +17,7 @@ twitterauto = "Our special #SDCC2016-themed News Roundup features new stuff from
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-g-willow-wilson-reads-from-her-new-novel-roxane-gay-to-write-a-marvel-comic.md"
+notes_tags = ["notes/book-news-roundup-g-willow-wilson-reads-from-her-new-novel-roxane-gay-to-write-a-marvel-comic.md"]
 notes_about = ["authors/ta-nehisi-coates.md", "authors/g-willow-wilson.md"]
 books = ""
 +++

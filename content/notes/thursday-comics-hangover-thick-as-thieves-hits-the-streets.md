@@ -17,7 +17,7 @@ twitterauto = "The first issue of the new free Seattle comic newspaper Thick as 
 facebookauto = "The first issue of the new free Seattle comic newspaper Thick as Thieves just hit the streets. Go find a copy."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-thick-as-thieves-hits-the-streets.md"
+notes_tags = ["notes/thursday-comics-hangover-thick-as-thieves-hits-the-streets.md"]
 notes_about = ["authors/marie-hausauer.md"]
 books = ""
 +++

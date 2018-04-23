@@ -10,5 +10,5 @@ last_updated = "2015-12-28T09:11:00-08:00"
 preview_url = "469d82b1-a17b-28ce-08f1-c8c8f86590a2"
 name = "Pond House Press"
 title = "Pond House Press"
-books_publisher = "publishers/pond-house-press.md"
+books_publisher = ["publishers/pond-house-press.md"]
 +++

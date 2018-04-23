@@ -17,7 +17,7 @@ twitterauto = "Our Tuesday Poem is by @meghantmcclure, and it's titled \"Bruise:
 facebookauto = "Our Tuesday Poem is by Meghan McClure, and it's titled \"Bruise: A Study\""
 make_image_tweet = "False"
 notes_byline = ["writers/meghan-mcclure.md"]
-notes_tags = "notes/bruise-a-study.md"
+notes_tags = ["notes/bruise-a-study.md"]
 notes_about = ""
 books = ""
 +++

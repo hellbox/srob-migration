@@ -17,7 +17,7 @@ twitterauto = "It's @rahawahaile short story time, with: @kristen_arnett, @megpo
 facebookauto = "Rahawa Haile made up for lost time this week, with nine stories (one a simple picture story"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-november-21-2015.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-november-21-2015.md"]
 notes_about = ""
 books = ""
 +++

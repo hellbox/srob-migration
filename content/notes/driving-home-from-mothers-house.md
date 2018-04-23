@@ -17,7 +17,7 @@ twitterauto = "\"Driving Home From Mother's House\" is our third from September 
 facebookauto = "\"Driving Home From Mother's House\" is our third from September Poet in Residence Esther Altshul Helfgott"
 make_image_tweet = "False"
 notes_byline = ["writers/esther-altshul-helfgott.md"]
-notes_tags = "notes/driving-home-from-mothers-house.md"
+notes_tags = ["notes/driving-home-from-mothers-house.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Find self-hating book critics, poets winning Twitter forever, and
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-poet-wins-twitter-literature-needs-diversity-and-a-self-hating-book-critic.md"
+notes_tags = ["notes/book-news-roundup-poet-wins-twitter-literature-needs-diversity-and-a-self-hating-book-critic.md"]
 notes_about = ""
 books = ""
 +++

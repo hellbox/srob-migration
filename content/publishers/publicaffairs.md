@@ -10,5 +10,5 @@ last_updated = "2016-09-19T20:48:00-07:00"
 preview_url = "33638eeb-1df7-e940-9cf2-82985cd2443e"
 name = "PublicAffairs"
 title = "PublicAffairs"
-books_publisher = "publishers/publicaffairs.md"
+books_publisher = ["publishers/publicaffairs.md"]
 +++

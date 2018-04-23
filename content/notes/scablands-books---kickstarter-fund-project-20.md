@@ -17,7 +17,7 @@ twitterauto = "Poetry out of Spokane! The Kickstarter Project backs @SharmaShiel
 facebookauto = "Today the Kickstarter Fund backs a double-book poetry project out of Spokane. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/scablands-books---kickstarter-fund-project-20.md"
+notes_tags = ["notes/scablands-books---kickstarter-fund-project-20.md"]
 notes_about = ""
 books = ""
 +++

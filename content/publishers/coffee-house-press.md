@@ -10,5 +10,5 @@ last_updated = "2016-07-22T21:41:00-07:00"
 preview_url = "fbc0a106-46f7-125a-e6b3-96ade2dc8a61"
 name = "Coffee House Press"
 title = "Coffee House Press"
-books_publisher = "publishers/coffee-house-press.md"
+books_publisher = ["publishers/coffee-house-press.md"]
 +++

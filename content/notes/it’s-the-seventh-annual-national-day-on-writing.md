@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/it’s-the-seventh-annual-national-day-on-writing.md"
+notes_tags = ["notes/it’s-the-seventh-annual-national-day-on-writing.md"]
 notes_about = ["authors/cat-rambo.md", "authors/elise-blackwell.md"]
 books = ""
 +++

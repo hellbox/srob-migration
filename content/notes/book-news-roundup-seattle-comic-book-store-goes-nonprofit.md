@@ -17,7 +17,7 @@ twitterauto = "Wallingford's Comics Dungeon is going nonprofit! And much more in
 facebookauto = "Wallingford's Comics Dungeon is going nonprofit! And much more in Book News Roundup."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-seattle-comic-book-store-goes-nonprofit.md"
+notes_tags = ["notes/book-news-roundup-seattle-comic-book-store-goes-nonprofit.md"]
 notes_about = ["authors/megan-kruse.md"]
 books = ""
 +++

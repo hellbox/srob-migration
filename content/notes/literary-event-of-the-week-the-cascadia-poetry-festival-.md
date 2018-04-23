@@ -17,7 +17,7 @@ twitterauto = "Your literary event of the week is the Cascadia Poetry Festival!"
 facebookauto = "Your literary event of the week is the Cascadia Poetry Festival!"
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-the-cascadia-poetry-festival-.md"
+notes_tags = ["notes/literary-event-of-the-week-the-cascadia-poetry-festival-.md"]
 notes_about = ""
 books = ""
 +++

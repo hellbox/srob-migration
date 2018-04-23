@@ -17,7 +17,7 @@ twitterauto = "Cartoonist Marc Palm broke his right arm. So he taught himself ho
 facebookauto = "Seattle cartoonist Marc Palm broke his right arm. So he taught himself how to draw with his left."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/when-this-cartoonist-broke-his-right-arm-he-taught-himself-how-to-draw-with-his-left.md"
+notes_tags = ["notes/when-this-cartoonist-broke-his-right-arm-he-taught-himself-how-to-draw-with-his-left.md"]
 notes_about = ["authors/marc-palm.md", "authors/ben-horak.md"]
 books = ["books/punch-to-kill.md"]
 +++

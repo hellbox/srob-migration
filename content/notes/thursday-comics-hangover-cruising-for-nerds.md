@@ -17,7 +17,7 @@ twitterauto = "A superhero faces a mystery on a nerd cruise in @ChelseaCain's Mo
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-cruising-for-nerds.md"
+notes_tags = ["notes/thursday-comics-hangover-cruising-for-nerds.md"]
 notes_about = ""
 books = ""
 +++

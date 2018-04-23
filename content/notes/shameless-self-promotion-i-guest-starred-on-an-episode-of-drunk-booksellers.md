@@ -17,7 +17,7 @@ twitterauto = "Check out our own @paulconstant's guest-appearance on the fabulou
 facebookauto = "Check out our own Paul Constant's guest-appearance on the fabulous Drunk Booksellers podcast!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/shameless-self-promotion-i-guest-starred-on-an-episode-of-drunk-booksellers.md"
+notes_tags = ["notes/shameless-self-promotion-i-guest-starred-on-an-episode-of-drunk-booksellers.md"]
 notes_about = ""
 books = ""
 +++

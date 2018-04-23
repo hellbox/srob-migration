@@ -17,7 +17,7 @@ twitterauto = "Talking with @CatapultStory author Danielle Dutton about a woman 
 facebookauto = "Talking with author and publisher Danielle Dutton about the woman who Virginia Woolf once described as an overgrown cucumber."
 make_image_tweet = "False"
 notes_byline = ["writers/frances-chiem.md"]
-notes_tags = "notes/danielle-dutton’s-paper-bodies.md"
+notes_tags = ["notes/danielle-dutton’s-paper-bodies.md"]
 notes_about = ["authors/danielle-dutton.md"]
 books = ["books/margaret-the-first.md"]
 +++

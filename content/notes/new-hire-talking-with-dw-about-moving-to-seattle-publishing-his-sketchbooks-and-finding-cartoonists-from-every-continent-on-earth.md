@@ -17,7 +17,7 @@ twitterauto = "We interviewed @fantagraphics cartoonist DW about why he chose to
 facebookauto = "This Saturday, Fantagraphics hosts a launch party for a new book by a cartoonist named DW. We asked DW why he recently moved to Seattle. "
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/new-hire-talking-with-dw-about-moving-to-seattle-publishing-his-sketchbooks-and-finding-cartoonists-from-every-continent-on-earth.md"
+notes_tags = ["notes/new-hire-talking-with-dw-about-moving-to-seattle-publishing-his-sketchbooks-and-finding-cartoonists-from-every-continent-on-earth.md"]
 notes_about = ["authors/marc-palm.md", "authors/max-clotfelter.md", "authors/marie-hausauer.md", "authors/tom-van-deusen.md"]
 books = ""
 +++

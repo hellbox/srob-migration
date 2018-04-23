@@ -10,5 +10,5 @@ last_updated = "2016-09-10T08:43:00-07:00"
 preview_url = "12622205-26c0-2641-f850-5efddc3238e2"
 name = "Epigraph Publishing"
 title = "Epigraph Publishing"
-books_publisher = "publishers/epigraph-publishing.md"
+books_publisher = ["publishers/epigraph-publishing.md"]
 +++

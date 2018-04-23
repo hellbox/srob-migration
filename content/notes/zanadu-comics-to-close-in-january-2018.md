@@ -17,7 +17,7 @@ twitterauto = "Zanadu Comics has been selling comics in downtown Seattle since 1
 facebookauto = "Zanadu Comics has been selling comics in downtown Seattle since 1975. It's closing next year."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/zanadu-comics-to-close-in-january-2018.md"
+notes_tags = ["notes/zanadu-comics-to-close-in-january-2018.md"]
 notes_about = ""
 books = ""
 +++

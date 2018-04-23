@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with this memoir about being a woman
 facebookauto = "Your week in readings begins with a memoir about being a woman in the sciences at Town Hall tonight."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-13th---april-19th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-13th---april-19th.md"]
 notes_about = ["authors/claire-vaye-watkins.md"]
 books = ["books/gold-fame-citrus.md"]
 +++

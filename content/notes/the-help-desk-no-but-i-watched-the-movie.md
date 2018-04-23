@@ -17,7 +17,7 @@ twitterauto = "Finally, @ciennam settles the books vs. movies argument, once and
 facebookauto = "Our advice columnist answers the burning question: are movies ever better than books?"
 make_image_tweet = ""
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-no-but-i-watched-the-movie.md"
+notes_tags = ["notes/the-help-desk-no-but-i-watched-the-movie.md"]
 notes_about = ""
 books = ""
 +++

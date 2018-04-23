@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with Obama and continues through a m
 facebookauto = "Your week in readings begins with Obama and continues through a moon-based poetry reading."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-27th---december-3rd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-27th---december-3rd.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Your week in readings kicks off @THSEA with a reading about pande
 facebookauto = "Your week in readings includes a book about Winnie the Pooh, a reading at a Peruvian chicken joint, and a reading from an under-appreciated giant in Seattle poetry."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-events-from-feb-29th---march-6th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-events-from-feb-29th---march-6th.md"]
 notes_about = ["authors/ej-koh.md", "authors/megan-kruse.md"]
 books = ["books/call-me-home.md"]
 +++

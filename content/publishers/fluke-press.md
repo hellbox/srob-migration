@@ -10,5 +10,5 @@ last_updated = "2016-01-26T08:45:00-08:00"
 preview_url = "92e7a504-828b-4fee-ecf7-321f814c760d"
 name = "Fluke Press"
 title = "Fluke Press"
-books_publisher = "publishers/fluke-press.md"
+books_publisher = ["publishers/fluke-press.md"]
 +++

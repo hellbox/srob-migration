@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Image Comics"
 title = "Image Comics"
-books_publisher = "publishers/image-comics.md"
+books_publisher = ["publishers/image-comics.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/kathleen-flenniken.md"]
-notes_tags = "notes/waking-up-strange.md"
+notes_tags = ["notes/waking-up-strange.md"]
 notes_about = ""
 books = ""
 +++

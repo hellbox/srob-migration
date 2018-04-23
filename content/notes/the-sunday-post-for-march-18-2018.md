@@ -17,7 +17,7 @@ twitterauto = "We read great articles this week on writing sober, talking to sat
 facebookauto = "We read great articles this week on writing sober, talking to satellites, and the, ahem, great responsibility that comes with great wealth. We think you should read them too! "
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-march-18-2018.md"
+notes_tags = ["notes/the-sunday-post-for-march-18-2018.md"]
 notes_about = ""
 books = ""
 +++

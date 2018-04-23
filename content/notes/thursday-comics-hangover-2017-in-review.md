@@ -17,7 +17,7 @@ twitterauto = "Here are some of the best comics made by Seattle cartoonists in 2
 facebookauto = "Here are some of the best comics made by Seattle cartoonists in 2017."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-2017-in-review.md"
+notes_tags = ["notes/thursday-comics-hangover-2017-in-review.md"]
 notes_about = ""
 books = ""
 +++

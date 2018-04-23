@@ -17,7 +17,7 @@ twitterauto = "Step lively! This week we're featuring a full chapter from @robho
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/robert-james-russells-mesilla.md"
+notes_tags = ["notes/robert-james-russells-mesilla.md"]
 notes_about = ""
 books = ""
 +++

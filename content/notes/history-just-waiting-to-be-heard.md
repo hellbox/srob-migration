@@ -17,7 +17,7 @@ twitterauto = "You can lose whole afternoons exploring the @PENamerican \u200far
 facebookauto = "Here are some highlights from the PEN America historical archives, including Haruki Murakami's first-ever public appearance."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/history-just-waiting-to-be-heard.md"
+notes_tags = ["notes/history-just-waiting-to-be-heard.md"]
 notes_about = ""
 books = ""
 +++

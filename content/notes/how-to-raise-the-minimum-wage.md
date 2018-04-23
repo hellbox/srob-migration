@@ -17,7 +17,7 @@ twitterauto = "Last night @THSEA, some of the major players behind Seattle's $15
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/how-to-raise-the-minimum-wage.md"
+notes_tags = ["notes/how-to-raise-the-minimum-wage.md"]
 notes_about = ["authors/david-rolf.md"]
 books = ""
 +++

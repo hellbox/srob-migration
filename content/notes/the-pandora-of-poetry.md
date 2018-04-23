@@ -17,7 +17,7 @@ twitterauto = "Looking for a new poet to fall in love with? Give the Pandora of 
 facebookauto = "Looking for a new poet to fall in love with? Give the Pandora of poetry a try."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-pandora-of-poetry.md"
+notes_tags = ["notes/the-pandora-of-poetry.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/maged-zaher.md", "authors/karen-finneyfrock.md", "authors/kelli-russell-agodon.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "What do writers and readers do now? We talked with founders of th
 facebookauto = "Donald Trump's inauguration is on Friday. What should writers and readers do now? We talked with founders of the Seattle branch of #WritersResist."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/on-the-future-of-seattle-writers-resist-our-values-are-under-attack-in-a-very-real-way-.md"
+notes_tags = ["notes/on-the-future-of-seattle-writers-resist-our-values-are-under-attack-in-a-very-real-way-.md"]
 notes_about = ["authors/sam-ligon.md", "authors/kristen-millares-young.md"]
 books = ""
 +++

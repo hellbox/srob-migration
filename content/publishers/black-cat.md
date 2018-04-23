@@ -10,5 +10,5 @@ last_updated = "2015-06-22T19:56:00-07:00"
 preview_url = "88f552b4-ff26-a371-73dd-398a42d41a67"
 name = "Black Cat"
 title = "Black Cat"
-books_publisher = "publishers/black-cat.md"
+books_publisher = ["publishers/black-cat.md"]
 +++

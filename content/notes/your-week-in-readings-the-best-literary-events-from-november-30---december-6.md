@@ -17,7 +17,7 @@ twitterauto = "This week in readings brings Charles Johnson, Michael Chabon, and
 facebookauto = "This week in readings brings Charles Johnson, Michael Chabon, and Thomas Friedman, plus a literary crawl in Rainier Valley and Urban Craft Uprising!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-november-30---december-6.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-november-30---december-6.md"]
 notes_about = ""
 books = ""
 +++

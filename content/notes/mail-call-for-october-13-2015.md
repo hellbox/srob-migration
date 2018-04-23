@@ -17,7 +17,7 @@ twitterauto = "Mail Call for Tuesday -- and look! Seattle writer @bymattruff's l
 facebookauto = "Tuesday evening mail call! Matt Ruff's newest, and some other jewels. "
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-october-13-2015.md"
+notes_tags = ["notes/mail-call-for-october-13-2015.md"]
 notes_about = ""
 books = ""
 +++

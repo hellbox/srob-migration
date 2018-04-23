@@ -17,7 +17,7 @@ twitterauto = "Read #TrumpBookReport and then vote like your life depends on it.
 facebookauto = "Read #TrumpBookReport and then vote like your life depends on it. Because it does."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/trumpbookreport.md"
+notes_tags = ["notes/trumpbookreport.md"]
 notes_about = ""
 books = ""
 +++

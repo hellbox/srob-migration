@@ -17,7 +17,7 @@ twitterauto = "Sponsor @Atelier26Books is here this week to show an under apprec
 facebookauto = "Atelier26 Books is here to show a collection of Thoreau's funniest moments. Yes, that Thoreau!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/waitwho-was-really-funny-really.md"
+notes_tags = ["notes/waitwho-was-really-funny-really.md"]
 notes_about = ["authors/m-allen-cunningham.md"]
 books = ["books/funny-ass-thoreau.md"]
 +++

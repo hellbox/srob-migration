@@ -17,7 +17,7 @@ twitterauto = "Your week in readings features Robert Lashley, APRIL, and a whole
 facebookauto = "Your week in readings features Robert Lashley, APRIL, and a whole lot more."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-march-29th---april-4th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-march-29th---april-4th.md"]
 notes_about = ["authors/g-willow-wilson.md", "authors/robert-lashley.md"]
 books = ""
 +++

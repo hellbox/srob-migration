@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/my-love-for-you-is-novel.md"
+notes_tags = ["notes/my-love-for-you-is-novel.md"]
 notes_about = ""
 books = ""
 +++

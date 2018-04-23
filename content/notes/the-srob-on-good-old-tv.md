@@ -17,7 +17,7 @@ twitterauto = "Did you see our own @paulconstant on @nbcnews last week? "
 facebookauto = "Paul Constant was on national TV last week talking about the Amazon bookstore. Did you see him?"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-srob-on-good-old-tv.md"
+notes_tags = ["notes/the-srob-on-good-old-tv.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Join us this coming Wednesday @ThirdPlaceBooks Seward Park to tal
 facebookauto = "Everybody's talking about Reading Through It, our book club that's trying to make sense of the Trump presidency. This Wednesday, we're discussing Jane Mayer's great book about the Koch Brothers, Dark Money. Join us!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/look-ma!-were-in-slate!.md"
+notes_tags = ["notes/look-ma!-were-in-slate!.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "We asked @ubookstorereads bookseller Jason what book he wants for
 facebookauto = "We asked University Book Store bookseller Jason what books he'd like for the holidays."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-booksellers-holiday-two-journeys-to-the-heart-of-ancient-rome.md"
+notes_tags = ["notes/a-booksellers-holiday-two-journeys-to-the-heart-of-ancient-rome.md"]
 notes_about = ""
 books = ""
 +++

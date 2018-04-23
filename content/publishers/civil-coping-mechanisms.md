@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Civil Coping Mechanisms"
 title = "Civil Coping Mechanisms"
-books_publisher = "publishers/civil-coping-mechanisms.md"
+books_publisher = ["publishers/civil-coping-mechanisms.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "We asked @ancawrites to recommend a good book for holiday giving.
 facebookauto = "We asked Anca Szilagyi to recommend a good book for holiday giving. Here's the book she picked for you:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/looking-for-a-holiday-gift-book-anca-szilágyi-recommends-the-dud-avocado.md"
+notes_tags = ["notes/looking-for-a-holiday-gift-book-anca-szilágyi-recommends-the-dud-avocado.md"]
 notes_about = ["authors/anca-l-szil\u00e1gyi.md"]
 books = ""
 +++

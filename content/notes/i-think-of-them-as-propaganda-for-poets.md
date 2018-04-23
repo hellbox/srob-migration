@@ -17,7 +17,7 @@ twitterauto = "We talked with Expedition Press founder Myrna Keliher about her \
 facebookauto = "We talked with Expedition Press founder Myrna Keliher about her \"propaganda for poets.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-think-of-them-as-propaganda-for-poets.md"
+notes_tags = ["notes/i-think-of-them-as-propaganda-for-poets.md"]
 notes_about = ["authors/shin-yu-pai.md", "authors/jane-wong.md", "authors/lena-khalaf-tuffaha-.md"]
 books = ""
 +++

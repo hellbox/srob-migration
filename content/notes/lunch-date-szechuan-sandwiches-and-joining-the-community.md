@@ -17,7 +17,7 @@ twitterauto = "A new Lunch Date! Martin takes @loriamay's book 'The Write Crowd'
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/lunch-date-szechuan-sandwiches-and-joining-the-community.md"
+notes_tags = ["notes/lunch-date-szechuan-sandwiches-and-joining-the-community.md"]
 notes_about = ""
 books = ["books/the-write-crowd.md"]
 +++

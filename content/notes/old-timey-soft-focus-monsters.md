@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/sarah-mangold.md"]
-notes_tags = "notes/old-timey-soft-focus-monsters.md"
+notes_tags = ["notes/old-timey-soft-focus-monsters.md"]
 notes_about = ""
 books = ""
 +++

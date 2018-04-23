@@ -10,5 +10,5 @@ last_updated = "2017-04-28T22:13:00-07:00"
 preview_url = "44ddbdfa-a8a2-4424-870b-4a5716427cde"
 name = "Carnegie-Mellon University Press"
 title = "Carnegie-Mellon University Press"
-books_publisher = "publishers/carnegie-mellon-university-press.md"
+books_publisher = ["publishers/carnegie-mellon-university-press.md"]
 +++

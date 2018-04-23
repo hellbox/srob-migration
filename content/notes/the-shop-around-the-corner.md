@@ -17,7 +17,7 @@ twitterauto = "We used to root for indie bookstores to beat chain booksellers. T
 facebookauto = "We used to root for indie bookstores to beat chain booksellers. Things are weirder now."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-shop-around-the-corner.md"
+notes_tags = ["notes/the-shop-around-the-corner.md"]
 notes_about = ""
 books = ""
 +++

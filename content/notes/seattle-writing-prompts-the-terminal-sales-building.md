@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts visits a design studio in the Terminal Sa
 facebookauto = "Seattle Writing Prompts visits a design studio in the Terminal Sales Building."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-terminal-sales-building.md"
+notes_tags = ["notes/seattle-writing-prompts-the-terminal-sales-building.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-education-of-mercer-street-books.md"
+notes_tags = ["notes/the-education-of-mercer-street-books.md"]
 notes_about = ""
 books = ""
 +++

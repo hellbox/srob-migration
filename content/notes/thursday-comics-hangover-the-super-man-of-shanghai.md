@@ -17,7 +17,7 @@ twitterauto = "What happens when you transplant Superman into China?"
 facebookauto = ""
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-super-man-of-shanghai.md"
+notes_tags = ["notes/thursday-comics-hangover-the-super-man-of-shanghai.md"]
 notes_about = ["authors/gene-lueng-yang.md"]
 books = ""
 +++

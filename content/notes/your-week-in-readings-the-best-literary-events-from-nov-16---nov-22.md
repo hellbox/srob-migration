@@ -17,7 +17,7 @@ twitterauto = "Your week of literary events begins tonight with a biography of L
 facebookauto = "Here's one great literary event for every day this week including biographies of Lady Bird Johnson and the inventor of Dungeons & Dragons, a holiday book fair, and an event featuring El Bibliobandido."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-nov-16---nov-22.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-nov-16---nov-22.md"]
 notes_about = ""
 books = ""
 +++

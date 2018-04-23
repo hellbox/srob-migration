@@ -17,7 +17,7 @@ twitterauto = "If you're heading to #ECCC over the weekend, be sure to check out
 facebookauto = "If you're heading to #ECCC over the weekend, be sure to check out the awesome pop-up library."
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/theres-a-pop-up-library-at-eccc.md"
+notes_tags = ["notes/theres-a-pop-up-library-at-eccc.md"]
 notes_about = ""
 books = ""
 +++

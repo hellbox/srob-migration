@@ -17,7 +17,7 @@ twitterauto = "We all miss Katherine Dunn. @SharmaShields offers up some authors
 facebookauto = "Katherine Dunn's death left us with a powerful need to find more weird fiction. Here are some authors who are carrying on the Geek Love legacy."
 make_image_tweet = "False"
 notes_byline = ["writers/sharma-shields.md"]
-notes_tags = "notes/heroes-of-weirdness-in-honor-of-katherine-dunn.md"
+notes_tags = ["notes/heroes-of-weirdness-in-honor-of-katherine-dunn.md"]
 notes_about = ["authors/kelly-link.md", "authors/katherine-dunn.md"]
 books = ["books/geek-love.md"]
 +++

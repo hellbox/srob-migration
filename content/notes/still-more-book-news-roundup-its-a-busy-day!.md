@@ -17,7 +17,7 @@ twitterauto = "We're excited about free Sundays at the @henryartgallery and the 
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/still-more-book-news-roundup-its-a-busy-day!.md"
+notes_tags = ["notes/still-more-book-news-roundup-its-a-busy-day!.md"]
 notes_about = ""
 books = ""
 +++

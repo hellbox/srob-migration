@@ -17,7 +17,7 @@ twitterauto = "Clear your calendar on April 15, and get to Benaroya to see Lindy
 facebookauto = "Clear your calendar on April 15, and get to Benaroya to see Lindy West."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/the-witches-are-coming-and-theyre-bringing-lindy-west.md"
+notes_tags = ["notes/the-witches-are-coming-and-theyre-bringing-lindy-west.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Erma Blood, the pseudonymous founder of Grab Back Comics, wants y
 facebookauto = "We interviewed Erma Blood, the pseudonymous founder of Grab Back Comics, about her goal to share comics by survivors of sexual assault with the world."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/grab-back-comics-gives-a-voice-to-survivors-of-sexual-assault.md"
+notes_tags = ["notes/grab-back-comics-gives-a-voice-to-survivors-of-sexual-assault.md"]
 notes_about = ""
 books = ""
 +++

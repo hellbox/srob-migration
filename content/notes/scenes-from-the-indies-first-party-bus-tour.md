@@ -17,7 +17,7 @@ twitterauto = "Scenes from the #IndiesFirst Party Bus tour, featuring @ThirdPlac
 facebookauto = "This is what happens when you stick 25 writers on a bus and drive them around to three Seattle-area bookstores:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/scenes-from-the-indies-first-party-bus-tour.md"
+notes_tags = ["notes/scenes-from-the-indies-first-party-bus-tour.md"]
 notes_about = ["authors/sherman-alexie.md", "authors/sarah-glidden.md", "authors/g-willow-wilson.md", "authors/jane-wong.md", "authors/quenton-baker.md"]
 books = ""
 +++

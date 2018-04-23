@@ -17,7 +17,7 @@ twitterauto = "Our Literary Event of the Week this week offers a Zen Buddhist ta
 facebookauto = "Our Literary Event of the Week this week offers a Zen Buddhist take on writing."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-meditation-for-writers-at-washington-hall.md"
+notes_tags = ["notes/literary-event-of-the-week-meditation-for-writers-at-washington-hall.md"]
 notes_about = ["authors/ruth-ozeki.md"]
 books = ""
 +++

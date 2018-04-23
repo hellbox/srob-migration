@@ -17,7 +17,7 @@ twitterauto = "A computer is just a tool, and like any tool, it can be used in s
 facebookauto = "A computer is just a tool, and like any tool, it can be used in service of prejudice."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/pay-no-attention-to-the-brogrammer-behind-the-curtain.md"
+notes_tags = ["notes/pay-no-attention-to-the-brogrammer-behind-the-curtain.md"]
 notes_about = ""
 books = ""
 +++

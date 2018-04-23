@@ -17,7 +17,7 @@ twitterauto = "Bruce Lee painted by @Studiochristine for the Portrait Gallery"
 facebookauto = "Portrait Gallery: Bruce Lee"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-bruce-lee.md"
+notes_tags = ["notes/portrait-gallery-bruce-lee.md"]
 notes_about = ["authors/bruce-lee.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery is back with a portrait of @misterlashley by @st
 facebookauto = "Portrait Gallery is back with a portrait of Robert Lashley"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-robert-lashley.md"
+notes_tags = ["notes/portrait-gallery-robert-lashley.md"]
 notes_about = ""
 books = ""
 +++

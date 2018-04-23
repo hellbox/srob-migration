@@ -17,7 +17,7 @@ twitterauto = "Today's Book News Roundup includes big news from Seattle writer @
 facebookauto = "Today's Book News Roundup includes big news from Seattle writer Richard Chiem!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-a-king-of-joy-a-book-bunker-and-a-chance-to-win-a-washington-state-book-award.md"
+notes_tags = ["notes/book-news-roundup-a-king-of-joy-a-book-bunker-and-a-chance-to-win-a-washington-state-book-award.md"]
 notes_about = ["authors/richard-chiem.md"]
 books = ["books/you-private-person.md"]
 +++

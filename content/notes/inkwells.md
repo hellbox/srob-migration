@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/deborah-woodard.md"]
-notes_tags = "notes/inkwells.md"
+notes_tags = ["notes/inkwells.md"]
 notes_about = ""
 books = ""
 +++

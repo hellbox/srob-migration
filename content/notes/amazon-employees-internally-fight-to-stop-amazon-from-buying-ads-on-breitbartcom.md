@@ -17,7 +17,7 @@ twitterauto = "Amazon employees are trying to get their company to stop advertis
 facebookauto = "Amazon employees are trying to get their company to stop advertising on Breitbart. Maybe you can help?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-employees-internally-fight-to-stop-amazon-from-buying-ads-on-breitbartcom.md"
+notes_tags = ["notes/amazon-employees-internally-fight-to-stop-amazon-from-buying-ads-on-breitbartcom.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "What's better than looking forward to a new Lindy West book? Look
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lindy-west-to-publish-two-new-books-including-a-grand-theory-of-america.md"
+notes_tags = ["notes/lindy-west-to-publish-two-new-books-including-a-grand-theory-of-america.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ""
 +++

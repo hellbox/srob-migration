@@ -17,7 +17,7 @@ twitterauto = "Did Google delete Dennis Cooper's blog?"
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/google-deleted-dennis-coopers-blog-for-some-damn-reason.md"
+notes_tags = ["notes/google-deleted-dennis-coopers-blog-for-some-damn-reason.md"]
 notes_about = ""
 books = ""
 +++

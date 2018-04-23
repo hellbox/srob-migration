@@ -17,7 +17,7 @@ twitterauto = "Today's Sunday Post, with pieces by @PatrickIber, @kissane, and o
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-august-30-2015.md"
+notes_tags = ["notes/the-sunday-post-for-august-30-2015.md"]
 notes_about = ""
 books = ""
 +++

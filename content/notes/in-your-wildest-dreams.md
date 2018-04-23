@@ -17,7 +17,7 @@ twitterauto = "Sponsor @HumanitiesWA is here to let you know it's time to regist
 facebookauto = "Sponsor Humanities Washington is here to let you know it's time to register for their Bedtime Stories fundraiser!"
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/in-your-wildest-dreams.md"
+notes_tags = ["notes/in-your-wildest-dreams.md"]
 notes_about = ""
 books = ""
 +++

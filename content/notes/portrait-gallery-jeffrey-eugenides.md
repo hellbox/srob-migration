@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Jeffrey Eugenides #FreshComplaint Friday @Ellio
 facebookauto = "Portrait Gallery: Jeffrey Eugenides "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-jeffrey-eugenides.md"
+notes_tags = ["notes/portrait-gallery-jeffrey-eugenides.md"]
 notes_about = ["authors/jeffrey-eugenides.md"]
 books = ""
 +++

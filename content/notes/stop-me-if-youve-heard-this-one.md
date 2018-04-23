@@ -17,7 +17,7 @@ twitterauto = "If you're going to give a talk about the writing craft, you'd bet
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/stop-me-if-youve-heard-this-one.md"
+notes_tags = ["notes/stop-me-if-youve-heard-this-one.md"]
 notes_about = ""
 books = ""
 +++

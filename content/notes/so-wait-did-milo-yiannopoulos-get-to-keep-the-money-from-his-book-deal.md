@@ -17,7 +17,7 @@ twitterauto = "So @simonschuster cancelled Milo's book deal. Now what? Does he g
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/so-wait-did-milo-yiannopoulos-get-to-keep-the-money-from-his-book-deal.md"
+notes_tags = ["notes/so-wait-did-milo-yiannopoulos-get-to-keep-the-money-from-his-book-deal.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "In a visual medium like comics, it's exceedingly important to sho
 facebookauto = "In a visual medium like comics, it's exceedingly important to show and not tell."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-less-talk-more-rock.md"
+notes_tags = ["notes/thursday-comics-hangover-less-talk-more-rock.md"]
 notes_about = ""
 books = ""
 +++

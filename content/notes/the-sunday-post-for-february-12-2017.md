@@ -17,7 +17,7 @@ twitterauto = "4,000 books, 50 shades, 12-year olds, shit-gibbons, and gator dea
 facebookauto = "4,000 books, 50 shades, 12-year olds, shit-gibbons, and gator deaths, all in today\u2019s Sunday Post by Dawn McCarra Bass"
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-february-12-2017.md"
+notes_tags = ["notes/the-sunday-post-for-february-12-2017.md"]
 notes_about = ""
 books = ""
 +++

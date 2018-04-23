@@ -17,7 +17,7 @@ twitterauto = "Why worry about year-end lists when @NPR's Book Concierge can fin
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-book-concierge-returns.md"
+notes_tags = ["notes/the-book-concierge-returns.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "See why at least one person calls the New York publishing industr
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/it’s-the-whitest-place-i’ve-ever-been.md"
+notes_tags = ["notes/it’s-the-whitest-place-i’ve-ever-been.md"]
 notes_about = ["authors/rahawa-haile.md"]
 books = ""
 +++

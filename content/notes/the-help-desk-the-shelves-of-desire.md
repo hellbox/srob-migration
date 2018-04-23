@@ -17,7 +17,7 @@ twitterauto = "Are you ethically required to share bookshelves with your partner
 facebookauto = "Are you ethically required to share bookshelves with your partner?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-the-shelves-of-desire.md"
+notes_tags = ["notes/the-help-desk-the-shelves-of-desire.md"]
 notes_about = ""
 books = ""
 +++

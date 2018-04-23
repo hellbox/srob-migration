@@ -17,7 +17,7 @@ twitterauto = "In search of erotica from a woman's perspective, @ciennam asks a 
 facebookauto = "In search of erotica from a woman's perspective, Cienna Madrid asks a bag of a famous person's hair for help."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-erotica-tips-from-a-bag-of-hair.md"
+notes_tags = ["notes/the-help-desk-erotica-tips-from-a-bag-of-hair.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "What's happening in the crime fiction world? @daneetsteffens's co
 facebookauto = "What's happening in the crime fiction world? Daneet Steffens column is here to guide us through!"
 make_image_tweet = "False"
 notes_byline = ["writers/daneet-steffens.md"]
-notes_tags = "notes/criminal-fiction-mailing-lists-and-twitter-follows.md"
+notes_tags = ["notes/criminal-fiction-mailing-lists-and-twitter-follows.md"]
 notes_about = ["authors/sarah-weinman.md", "authors/steph-cha.md", "authors/charles-finch.md", "authors/jordan-foster.md", "authors/oline-cogdill.md", "authors/ian-rankin.md", "authors/jp-delaney.md", "authors/jane-harper.md", "authors/jonathan-moore.md", "authors/gregg-hurwitz.md", "authors/peter-swanson.md", "authors/ingrid-thoft.md"]
 books = ""
 +++

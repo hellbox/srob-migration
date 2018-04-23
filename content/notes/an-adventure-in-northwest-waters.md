@@ -17,7 +17,7 @@ twitterauto = "Sponsor @epicenterpress is here to share @susanmconrad's incredib
 facebookauto = "Sponsor Epicenter Press here to share Susan Marie Conrad's incredible true story."
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/an-adventure-in-northwest-waters.md"
+notes_tags = ["notes/an-adventure-in-northwest-waters.md"]
 notes_about = ["authors/susan-marie-conrad.md"]
 books = ["books/inside.md"]
 +++

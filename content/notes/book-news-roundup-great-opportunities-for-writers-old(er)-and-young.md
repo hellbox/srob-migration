@@ -17,7 +17,7 @@ twitterauto = "Today's book news roundup brings good news for writers under the 
 facebookauto = "Today's book news roundup brings good news for writers under the age of 24 and over the age of 50."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-great-opportunities-for-writers-old(er)-and-young.md"
+notes_tags = ["notes/book-news-roundup-great-opportunities-for-writers-old(er)-and-young.md"]
 notes_about = ["authors/tom-gauld.md"]
 books = ""
 +++

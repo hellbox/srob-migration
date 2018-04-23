@@ -17,7 +17,7 @@ twitterauto = "A book that recast slave-owning Thomas Jefferson as a civil right
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-our-dystopian-president.md"
+notes_tags = ["notes/book-news-roundup-our-dystopian-president.md"]
 notes_about = ["authors/nisi-shawl.md"]
 books = ""
 +++

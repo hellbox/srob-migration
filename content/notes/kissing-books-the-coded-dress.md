@@ -17,7 +17,7 @@ twitterauto = "What threads does @o_waite pull in the latest Kissing Books? @alo
 facebookauto = "What threads does Olivia Waite pull on in this month's Kissing Books? Plus, reviews of: Jen Wang, Carla de Guzman, Loretta Chase, Cat Sebastian, and Mary Burchell. "
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/kissing-books-the-coded-dress.md"
+notes_tags = ["notes/kissing-books-the-coded-dress.md"]
 notes_about = ["authors/jen-wang.md", "authors/carla-de-guzman.md", "authors/loretta-chase.md", "authors/cat-sebastian.md", "authors/mary-burchell.md"]
 books = ""
 +++

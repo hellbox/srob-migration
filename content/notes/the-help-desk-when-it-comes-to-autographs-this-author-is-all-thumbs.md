@@ -17,7 +17,7 @@ twitterauto = "This author has such bad handwriting that \"every time I sign a c
 facebookauto = "This author has such bad handwriting that \"every time I sign a copy of my book, I feel like I\u2019m defacing it.\" What should he do?"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-help-desk-when-it-comes-to-autographs-this-author-is-all-thumbs.md"
+notes_tags = ["notes/the-help-desk-when-it-comes-to-autographs-this-author-is-all-thumbs.md"]
 notes_about = ""
 books = ""
 +++

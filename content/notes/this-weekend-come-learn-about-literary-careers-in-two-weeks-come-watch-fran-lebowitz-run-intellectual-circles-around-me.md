@@ -17,7 +17,7 @@ twitterauto = "Our co-founder, @paulconstant, is taking part in two upcoming eve
 facebookauto = "Our co-founder, Paul Constant, is taking part in two upcoming events. Learn about them here:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-weekend-come-learn-about-literary-careers-in-two-weeks-come-watch-fran-lebowitz-run-intellectual-circles-around-me.md"
+notes_tags = ["notes/this-weekend-come-learn-about-literary-careers-in-two-weeks-come-watch-fran-lebowitz-run-intellectual-circles-around-me.md"]
 notes_about = ""
 books = ""
 +++

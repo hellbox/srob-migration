@@ -17,7 +17,7 @@ twitterauto = "Mistaken identity, ink blots, and a brand-new take on a very old 
 facebookauto = "Mistaken identity, ink blots, and a brand-new take on a very old poem in this week's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-november-5-2017.md"
+notes_tags = ["notes/the-sunday-post-for-november-5-2017.md"]
 notes_about = ""
 books = ""
 +++

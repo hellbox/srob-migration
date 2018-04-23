@@ -17,7 +17,7 @@ twitterauto = "Just a few days left before Anne Lamott's event on April 8, hoste
 facebookauto = "Good news for Anne Lamott fans (current and future): she'll be at Benaroya Hall just a week from now, and there are still a few seats left. Thanks to sponsor Northwest Associated Arts for making sure our readers know!"
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-week-left-to-reserve-a-seat-at-anne-lamotts-april-8-event.md"
+notes_tags = ["notes/one-week-left-to-reserve-a-seat-at-anne-lamotts-april-8-event.md"]
 notes_about = ["authors/anne-lamott.md"]
 books = ""
 +++

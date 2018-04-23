@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Poet and podcaster @heyteebs #illustration by @
 facebookauto = "Portrait Gallery: Poet and podcaster Tommy Pico illustration by Christine Marie Larsen"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-tommy-pico.md"
+notes_tags = ["notes/portrait-gallery-tommy-pico.md"]
 notes_about = ["authors/tommy-pico.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The New York Times is consolidating its book coverage. Here's why
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/at-the-new-york-times-books-are-books.md"
+notes_tags = ["notes/at-the-new-york-times-books-are-books.md"]
 notes_about = ""
 books = ""
 +++

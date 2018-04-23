@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/brian-mcguigan-is-the-new-program-director-at-artist-trust.md"
+notes_tags = ["notes/brian-mcguigan-is-the-new-program-director-at-artist-trust.md"]
 notes_about = ""
 books = ""
 +++

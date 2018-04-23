@@ -17,7 +17,7 @@ twitterauto = "Congratulations to all the authors nominated for the Washington S
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/washington-state-book-awards-finalists-announced.md"
+notes_tags = ["notes/washington-state-book-awards-finalists-announced.md"]
 notes_about = ["authors/kim-an-lieberman.md", "authors/peter-mountford.md", "authors/elissa-washuta.md", "authors/kelli-russell-agodon.md"]
 books = ["books/my-body-is-a-book-of-rules.md"]
 +++

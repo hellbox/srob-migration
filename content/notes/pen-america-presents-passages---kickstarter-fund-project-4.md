@@ -17,7 +17,7 @@ twitterauto = "We just backed @PENamerican's Kickstarter."
 facebookauto = "The Kickstarter Fund invests in international translation this week, with a new journal from PEN American Center."
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/pen-america-presents-passages---kickstarter-fund-project-4.md"
+notes_tags = ["notes/pen-america-presents-passages---kickstarter-fund-project-4.md"]
 notes_about = ""
 books = ""
 +++

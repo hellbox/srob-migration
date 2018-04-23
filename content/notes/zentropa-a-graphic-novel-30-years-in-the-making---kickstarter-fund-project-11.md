@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs @johnmahoneyjohn's Zentropa this week.
 facebookauto = "A nearly deadly tumor leads an artist to create a work evoking the kind of stories you would find the magazine Heavy Metal. The Kickstarter Fund this week backs Zentropa. "
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/zentropa-a-graphic-novel-30-years-in-the-making---kickstarter-fund-project-11.md"
+notes_tags = ["notes/zentropa-a-graphic-novel-30-years-in-the-making---kickstarter-fund-project-11.md"]
 notes_about = ""
 books = ""
 +++

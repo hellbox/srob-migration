@@ -17,7 +17,7 @@ twitterauto = "This week's Help Desk leaves us but with one question: will @cien
 facebookauto = "This week's Help Desk leaves us but with one question: will Cienna Madrid cut her hair like Mia Farrow's?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-ill-bet-his-place-smells-like-tannis-root.md"
+notes_tags = ["notes/the-help-desk-ill-bet-his-place-smells-like-tannis-root.md"]
 notes_about = ""
 books = ""
 +++

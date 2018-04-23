@@ -17,7 +17,7 @@ twitterauto = "Translation seems like a thankless job. Here's why translators do
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-am-honored-to-be-her-bridge-into-english.md"
+notes_tags = ["notes/i-am-honored-to-be-her-bridge-into-english.md"]
 notes_about = ""
 books = ""
 +++

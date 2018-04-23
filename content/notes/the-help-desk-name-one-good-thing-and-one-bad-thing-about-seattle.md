@@ -17,7 +17,7 @@ twitterauto = "In this week's Help Desk, a tourist wants to know the best and wo
 facebookauto = "In this week's Help Desk, a tourist wants to know the best and worst parts of literary Seattle."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-name-one-good-thing-and-one-bad-thing-about-seattle.md"
+notes_tags = ["notes/the-help-desk-name-one-good-thing-and-one-bad-thing-about-seattle.md"]
 notes_about = ""
 books = ""
 +++

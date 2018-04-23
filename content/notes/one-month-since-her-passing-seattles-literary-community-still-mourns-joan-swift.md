@@ -17,7 +17,7 @@ twitterauto = "We talked with Tess Gallagher, Sherman Alexie and others about wh
 facebookauto = "We talked with Tess Gallagher, Sherman Alexie and others about why they love Joan Swift."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/one-month-since-her-passing-seattles-literary-community-still-mourns-joan-swift.md"
+notes_tags = ["notes/one-month-since-her-passing-seattles-literary-community-still-mourns-joan-swift.md"]
 notes_about = ["authors/joan-swift.md", "authors/tess-gallagher.md", "authors/sherman-alexie.md", "authors/esther-altshul-helfgott.md"]
 books = ""
 +++

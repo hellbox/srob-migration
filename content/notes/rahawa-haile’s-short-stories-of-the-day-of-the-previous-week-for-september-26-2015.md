@@ -17,7 +17,7 @@ twitterauto = "These @rahawahaile's short stories of the day feature @grayamelia
 facebookauto = "It's time for Rahawa Haile\u2019s short stories of the day, of the previous week. "
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-september-26-2015.md"
+notes_tags = ["notes/rahawa-haile’s-short-stories-of-the-day-of-the-previous-week-for-september-26-2015.md"]
 notes_about = ""
 books = ""
 +++

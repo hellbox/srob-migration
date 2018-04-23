@@ -17,7 +17,7 @@ twitterauto = "Today in Book News Roundup: a new poetry publication, a prizewinn
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-iceland-comes-to-seattle-this-week.md"
+notes_tags = ["notes/book-news-roundup-iceland-comes-to-seattle-this-week.md"]
 notes_about = ["authors/sarah-galvin.md"]
 books = ""
 +++

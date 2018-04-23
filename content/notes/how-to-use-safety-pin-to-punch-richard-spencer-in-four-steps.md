@@ -17,7 +17,7 @@ twitterauto = "Our last poem, by Poet in Residence Azura Tyabji, is about punchi
 facebookauto = "Our last poem, by Poet in Residence Azura Tyabji, is about punching nazis."
 make_image_tweet = "False"
 notes_byline = ["writers/azura-tyabji.md"]
-notes_tags = "notes/how-to-use-safety-pin-to-punch-richard-spencer-in-four-steps.md"
+notes_tags = ["notes/how-to-use-safety-pin-to-punch-richard-spencer-in-four-steps.md"]
 notes_about = ""
 books = ""
 +++

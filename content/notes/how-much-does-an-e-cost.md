@@ -17,7 +17,7 @@ twitterauto = "It's time for the state of the e-book, 2016 edition."
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/how-much-does-an-e-cost.md"
+notes_tags = ["notes/how-much-does-an-e-cost.md"]
 notes_about = ""
 books = ""
 +++

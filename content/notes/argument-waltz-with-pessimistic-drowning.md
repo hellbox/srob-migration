@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/kelli-russell-agodon.md"]
-notes_tags = "notes/argument-waltz-with-pessimistic-drowning.md"
+notes_tags = ["notes/argument-waltz-with-pessimistic-drowning.md"]
 notes_about = ""
 books = ""
 +++

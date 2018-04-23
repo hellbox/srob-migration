@@ -17,7 +17,7 @@ twitterauto = "Our first from December Poet in Residence @writer_sejones is call
 facebookauto = "Our first from December Poet in Residence @writer_sejones is called \"Relish\""
 make_image_tweet = "False"
 notes_byline = ["writers/sarah-jones.md"]
-notes_tags = "notes/relish.md"
+notes_tags = ["notes/relish.md"]
 notes_about = ""
 books = ""
 +++

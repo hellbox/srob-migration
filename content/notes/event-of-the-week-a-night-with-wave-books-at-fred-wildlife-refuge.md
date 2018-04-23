@@ -17,7 +17,7 @@ twitterauto = "Our literary event of the week is Wave Books at Fred Wildlife Ref
 facebookauto = "Our literary event of the week is Wave Books at Fred Wildlife Refuge."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/event-of-the-week-a-night-with-wave-books-at-fred-wildlife-refuge.md"
+notes_tags = ["notes/event-of-the-week-a-night-with-wave-books-at-fred-wildlife-refuge.md"]
 notes_about = ["authors/maged-zaher.md", "authors/don-mee-choi.md"]
 books = ["books/hardly-war.md"]
 +++

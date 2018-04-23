@@ -17,7 +17,7 @@ twitterauto = "The return of @htmlgiant."
 facebookauto = "Famous book blog HTMLGiant, which shut down two years ago, just started publishing new posts today, like nothing ever happened. It's pretty cool."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-return-of-htmlgiant.md"
+notes_tags = ["notes/the-return-of-htmlgiant.md"]
 notes_about = ""
 books = ""
 +++

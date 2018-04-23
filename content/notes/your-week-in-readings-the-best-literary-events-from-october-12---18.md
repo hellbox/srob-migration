@@ -17,7 +17,7 @@ twitterauto = "Tonight's best literary event is a group reading with @t_m_at, @B
 facebookauto = "We've got a Rainier Valley Lit Crawl, a pair of sci-fi readings, a comics party, and a chance to get drunk with Seattle's finest librarians happening this week. Here's one great event for every day of the week."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-october-12---18.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-october-12---18.md"]
 notes_about = ["authors/kate-lebo.md", "authors/nancy-kress.md"]
 books = ""
 +++

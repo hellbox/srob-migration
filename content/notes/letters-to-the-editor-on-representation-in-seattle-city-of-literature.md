@@ -17,7 +17,7 @@ twitterauto = "Writer @katkat_alcala sends a letter to the editor about race and
 facebookauto = "Writer Kathleen Alcal\u00e1 takes issue to our review of the anthology \"Seattle: City of Literature.\" She asks, why should the few writers of color who did contribute to the anthology be forced to apologize for their contributions?"
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/letters-to-the-editor-on-representation-in-seattle-city-of-literature.md"
+notes_tags = ["notes/letters-to-the-editor-on-representation-in-seattle-city-of-literature.md"]
 notes_about = ["authors/ryan-boudinot.md", "authors/kathleen-alcala.md", "authors/donna-miscolta.md"]
 books = ["books/seattle-city-of-literature.md"]
 +++

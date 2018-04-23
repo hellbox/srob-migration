@@ -17,7 +17,7 @@ twitterauto = "Congratulations to @misswashuta, the new Fremont Bridge writer-in
 facebookauto = "Congratulations to Elissa Washuta for landing the sweet Fremont Bridge writer-in-residence position."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/elissa-washuta-is-your-first-fremont-bridge-writer-in-residence.md"
+notes_tags = ["notes/elissa-washuta-is-your-first-fremont-bridge-writer-in-residence.md"]
 notes_about = ["authors/elissa-washuta.md"]
 books = ["books/starvation-mode.md"]
 +++

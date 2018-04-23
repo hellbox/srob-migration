@@ -17,7 +17,7 @@ twitterauto = "Your week in readings begins with a big sale @ThirdPlaceBooks tod
 facebookauto = "Your week in readings includes a discussion of G. Willow Wilson's first novel and a new local YA author."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-january-1---january-7.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-january-1---january-7.md"]
 notes_about = ""
 books = ""
 +++

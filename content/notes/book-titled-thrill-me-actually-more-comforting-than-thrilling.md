@@ -17,7 +17,7 @@ twitterauto = "A how-to-write guide titled \"Thrill Me\" is actually more comfor
 facebookauto = "A how-to-write guide titled \"Thrill Me\" is actually more comforting than anything else. Guess \"Comfort Me\" didn't have the same ring to it."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-titled-thrill-me-actually-more-comforting-than-thrilling.md"
+notes_tags = ["notes/book-titled-thrill-me-actually-more-comforting-than-thrilling.md"]
 notes_about = ""
 books = ""
 +++

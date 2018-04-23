@@ -17,7 +17,7 @@ twitterauto = "Volcanoes! Salmon! Whiteness! And much more coming up for your we
 facebookauto = "Your week in readings brings a conversation about whiteness, a book about salmon, and a talk about volcanoes."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-may-31st---june-6th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-may-31st---june-6th.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ""
 +++

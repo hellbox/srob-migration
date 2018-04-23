@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: The WA Nat'l Park Fund's Discovery Group Over t
 facebookauto = "The Washington National Park Fund's Discovery Group hosts their Over The Top fundraiser on Friday, September 22.  Hear presentations from experts in their fields on projects happening now in your national parks in Washington State. "
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-washington-national-parks-fund.md"
+notes_tags = ["notes/portrait-gallery-washington-national-parks-fund.md"]
 notes_about = ""
 books = ""
 +++

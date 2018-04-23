@@ -17,7 +17,7 @@ twitterauto = "Quenton Baker and Tea Obreht both committed beautiful acts of lit
 facebookauto = "At the Hugo House's first homeless Literary Series event, Quenton Baker and Tea Obreht both committed beautiful acts of literary theft on Friday night."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/theft-and-art-and-chandeliers-at-hugo-houses-literary-series.md"
+notes_tags = ["notes/theft-and-art-and-chandeliers-at-hugo-houses-literary-series.md"]
 notes_about = ["authors/quenton-baker.md", "authors/peter-mountford.md"]
 books = ""
 +++

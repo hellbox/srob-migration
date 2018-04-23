@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/i-think-theres-been-a-polar-shift-to-the-west.md"
+notes_tags = ["notes/i-think-theres-been-a-polar-shift-to-the-west.md"]
 notes_about = ""
 books = ""
 +++

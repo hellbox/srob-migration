@@ -17,7 +17,7 @@ twitterauto = "Two un=produced screenplays about Stephen King won awards yesterd
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/stephen-king-is-the-new-john-malkovich-apparently.md"
+notes_tags = ["notes/stephen-king-is-the-new-john-malkovich-apparently.md"]
 notes_about = ["authors/stephen-king.md"]
 books = ""
 +++

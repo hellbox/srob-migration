@@ -17,7 +17,7 @@ twitterauto = "Your week in readings kicks off tonight with a reading from @desc
 facebookauto = "Your week in readings includes a cookbook, a conversation about race and gender, a prolific sci-fi author, and a series of recommended short books for the 4th of July weekend."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-june-29th---july-5th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-june-29th---july-5th.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Author @nicolaz calls the lack of women's voices in this year's M
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/they-put-the-man-in-the-man-booker-prize.md"
+notes_tags = ["notes/they-put-the-man-in-the-man-booker-prize.md"]
 notes_about = ["authors/nicola-griffith.md"]
 books = ""
 +++

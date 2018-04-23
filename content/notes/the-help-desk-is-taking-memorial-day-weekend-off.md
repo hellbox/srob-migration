@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-help-desk-is-taking-memorial-day-weekend-off.md"
+notes_tags = ["notes/the-help-desk-is-taking-memorial-day-weekend-off.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompt: the Butterworth Building"
 facebookauto = "Seattle Writing Prompt: the Butterworth Building"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-ghosts-and-fires.md"
+notes_tags = ["notes/seattle-writing-prompts-ghosts-and-fires.md"]
 notes_about = ""
 books = ""
 +++

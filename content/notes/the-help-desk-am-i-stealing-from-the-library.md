@@ -17,7 +17,7 @@ twitterauto = "Dear @ciennam: I moved to the midwest, but I still borrow from Se
 facebookauto = "Our latest advice column: I moved to the midwest, but I still borrow electronic books and media from Seattle Public Library. Is this wrong?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-am-i-stealing-from-the-library.md"
+notes_tags = ["notes/the-help-desk-am-i-stealing-from-the-library.md"]
 notes_about = ""
 books = ""
 +++

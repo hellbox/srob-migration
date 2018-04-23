@@ -17,7 +17,7 @@ twitterauto = "In the Sunday Post: Obama, Trump, T Bone Burnett, and whistleblow
 facebookauto = "In the Sunday Post: Obama, Trump, T Bone Burnett, and whistleblowers with powerful families. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-november-20-2016.md"
+notes_tags = ["notes/the-sunday-post-for-november-20-2016.md"]
 notes_about = ""
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Nicole Dieker"
 title = "Nicole Dieker"
-books_publisher = "publishers/nicole-dieker.md"
+books_publisher = ["publishers/nicole-dieker.md"]
 +++

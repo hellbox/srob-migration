@@ -10,5 +10,5 @@ last_updated = "2017-06-25T21:48:00-07:00"
 preview_url = "9354470f-df08-2f0d-9ddc-874d0ae2f83b"
 name = "Marvel Comics"
 title = "Marvel Comics"
-books_publisher = "publishers/marvel-comics.md"
+books_publisher = ["publishers/marvel-comics.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "Last night @THSEA, @thelindywest talked about writing her book in
 facebookauto = "Lindy West wrote her book, Shrill, in \"a bat-haunted cabin in Maine.\" She also said she's finally come to realize that a lot of her process is \"me in my underwear at five AM eating Swedish fish and crying.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/lindy-wests-writing-process-involves-a-bat-haunted-cabin-in-maine.md"
+notes_tags = ["notes/lindy-wests-writing-process-involves-a-bat-haunted-cabin-in-maine.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ["books/shrill.md"]
 +++

@@ -17,7 +17,7 @@ twitterauto = "For decades, Mark Mouser ran the bargain book section @ubookstore
 facebookauto = "For decades, Mark Mouser has been handling the bargain book section at University Book Store. Last week, he retired. We interviewed him about his fascinating job."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/for-decades-mark-mouser-gave-authors-a-second-shot-at-greatness.md"
+notes_tags = ["notes/for-decades-mark-mouser-gave-authors-a-second-shot-at-greatness.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: @librarycongress' new librarian, #CarlaHayden! 
 facebookauto = "This week's Portrait Gallery is Dr. Carla Hayden, the 14th Librarian of Congress and first woman/first black LoC!"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery---carla-hayden.md"
+notes_tags = ["notes/portrait-gallery---carla-hayden.md"]
 notes_about = ""
 books = ""
 +++

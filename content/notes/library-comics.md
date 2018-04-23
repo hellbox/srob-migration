@@ -17,7 +17,7 @@ twitterauto = "A comic book about library science scratches all our book-nerd it
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/library-comics.md"
+notes_tags = ["notes/library-comics.md"]
 notes_about = ["authors/colleen-frakes.md"]
 books = ["books/prison-island.md"]
 +++

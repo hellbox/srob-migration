@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post, with pieces by @lydialaurenson, @thelindywest, a
 facebookauto = "The Sunday Post: secret societies, racist Trump supporters, and all the plans for the LA River. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-sunday-post-for-march-13-2016.md"
+notes_tags = ["notes/the-sunday-post-for-march-13-2016.md"]
 notes_about = ""
 books = ""
 +++

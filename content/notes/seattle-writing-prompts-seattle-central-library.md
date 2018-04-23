@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts walks the stacks at the Central Library"
 facebookauto = "Seattle Writing Prompts walks the stacks at the Central Library"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-seattle-central-library.md"
+notes_tags = ["notes/seattle-writing-prompts-seattle-central-library.md"]
 notes_about = ""
 books = ""
 +++

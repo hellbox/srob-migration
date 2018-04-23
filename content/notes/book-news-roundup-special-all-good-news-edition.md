@@ -17,7 +17,7 @@ twitterauto = "Congratulations to all the literary winners of the city's Civic P
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-special-all-good-news-edition.md"
+notes_tags = ["notes/book-news-roundup-special-all-good-news-edition.md"]
 notes_about = ""
 books = ""
 +++

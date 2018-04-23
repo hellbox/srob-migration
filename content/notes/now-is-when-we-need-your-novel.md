@@ -17,7 +17,7 @@ twitterauto = "Dear @nanowrimo writer: we need you now, please don't give up. "
 facebookauto = "Dear NaNoWriMo writer: we need you now, please don't give up. "
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/now-is-when-we-need-your-novel.md"
+notes_tags = ["notes/now-is-when-we-need-your-novel.md"]
 notes_about = ""
 books = ""
 +++

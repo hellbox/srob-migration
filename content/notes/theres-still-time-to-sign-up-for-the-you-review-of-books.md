@@ -17,7 +17,7 @@ twitterauto = "There's still time to sign up for our book reviewing course @Hugo
 facebookauto = "There's still time to sign up for the book reviewing class taught by Seattle Review of Books co-founders Martin McClellan and Paul Constant."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/theres-still-time-to-sign-up-for-the-you-review-of-books.md"
+notes_tags = ["notes/theres-still-time-to-sign-up-for-the-you-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

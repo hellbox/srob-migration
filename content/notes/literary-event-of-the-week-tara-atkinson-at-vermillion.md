@@ -17,7 +17,7 @@ twitterauto = "Our Event of the Week: a boyfriend-related celebration at Vermill
 facebookauto = "Our Event of the Week is a boyfriend-related celebration at Vermillion, starring ex-APRIL curator Tara Atkinson!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-tara-atkinson-at-vermillion.md"
+notes_tags = ["notes/literary-event-of-the-week-tara-atkinson-at-vermillion.md"]
 notes_about = ["authors/tara-atkinson.md", "authors/stacey-levine.md", "authors/willie-fitzgerald.md"]
 books = ["books/boyfriends.md"]
 +++

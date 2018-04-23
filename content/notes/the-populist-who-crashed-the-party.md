@@ -17,7 +17,7 @@ twitterauto = "At @THSEA last night, Thomas Frank accused the Democratic Party o
 facebookauto = "At Town Hall Seattle last night, Thomas Frank accused the Democratic Party of \"militant complacency.\""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-populist-who-crashed-the-party.md"
+notes_tags = ["notes/the-populist-who-crashed-the-party.md"]
 notes_about = ["authors/thomas-frank.md"]
 books = ["books/listen-liberal.md"]
 +++

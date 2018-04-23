@@ -17,7 +17,7 @@ twitterauto = "The Kickstarter Fund backs The Calligraphy of Alice"
 facebookauto = "The Kickstarter Fund backs The Calligraphy of Alice"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/the-calligraphy-of-alice---kickstarter-fund-project-28.md"
+notes_tags = ["notes/the-calligraphy-of-alice---kickstarter-fund-project-28.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Caf\u00e9 Racer, which has been the hub of Seattle's cartooning c
 facebookauto = "Caf\u00e9 Racer, which has been the hub of Seattle's cartooning community, is set to close on Wednesday."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/cafe-racer-to-close-on-wednesday.md"
+notes_tags = ["notes/cafe-racer-to-close-on-wednesday.md"]
 notes_about = ""
 books = ""
 +++

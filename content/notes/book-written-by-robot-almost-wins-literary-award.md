@@ -17,7 +17,7 @@ twitterauto = "A novel co-written by artificial intelligence nearly won a litera
 facebookauto = "A novel co-written by artificial intelligence nearly won a literary prize in Japan."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-written-by-robot-almost-wins-literary-award.md"
+notes_tags = ["notes/book-written-by-robot-almost-wins-literary-award.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "This week, celebrate Seattle's authors of color at the Seattle Ur
 facebookauto = "This week, celebrate Seattle's authors of color at the Seattle Urban Book Expo!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-seattle-urban-book-expo-at-washington-hall.md"
+notes_tags = ["notes/literary-event-of-the-week-seattle-urban-book-expo-at-washington-hall.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "This week's comics column is about a book that demonstrates how w
 facebookauto = "This week's comics column is about a book that demonstrates how women use stories to save their lives."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-women-tell-stories-in-order-to-live.md"
+notes_tags = ["notes/thursday-comics-hangover-women-tell-stories-in-order-to-live.md"]
 notes_about = ""
 books = ""
 +++

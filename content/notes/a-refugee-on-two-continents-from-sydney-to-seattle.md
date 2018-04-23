@@ -17,7 +17,7 @@ twitterauto = "Cross continents and decades with sponsor @ElizCFowler in her mem
 facebookauto = "Cross continents and decades with sponsor Elizabeth Fowler in her memoir, Lonely Refugee. "
 make_image_tweet = "False"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/a-refugee-on-two-continents-from-sydney-to-seattle.md"
+notes_tags = ["notes/a-refugee-on-two-continents-from-sydney-to-seattle.md"]
 notes_about = ["authors/elizabeth-c-fowler.md"]
 books = ["books/lonely-refugee.md"]
 +++

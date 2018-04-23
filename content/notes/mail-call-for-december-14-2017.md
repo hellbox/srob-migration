@@ -17,7 +17,7 @@ twitterauto = "Mail Call! Maybe you want to pitch us on one of these (or another
 facebookauto = "Mail Call! Maybe you want to pitch us on one of these (or another) book?"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/mail-call-for-december-14-2017.md"
+notes_tags = ["notes/mail-call-for-december-14-2017.md"]
 notes_about = ""
 books = ""
 +++

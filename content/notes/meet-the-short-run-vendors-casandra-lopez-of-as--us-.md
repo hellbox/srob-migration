@@ -17,7 +17,7 @@ twitterauto = "Our October Bookstore of the Month will only exist for one day \u
 facebookauto = "Every Wednesday this month, we're highlighting a different Short Run Small Press Festival presenter. Today, meet Casandra Lopez of As/Us magazine."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/meet-the-short-run-vendors-casandra-lopez-of-as--us-.md"
+notes_tags = ["notes/meet-the-short-run-vendors-casandra-lopez-of-as--us-.md"]
 notes_about = ["authors/elissa-washuta.md", "authors/casandra-lopez.md"]
 books = ""
 +++

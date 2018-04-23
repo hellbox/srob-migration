@@ -17,7 +17,7 @@ twitterauto = "The APRIL Festival is throwing a pledge drive. Can you spare ten 
 facebookauto = "The APRIL Festival is throwing a pledge drive, complete with tote bags. This is your chance to support independent literature in Seattle."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/its-time-to-fund-april.md"
+notes_tags = ["notes/its-time-to-fund-april.md"]
 notes_about = ""
 books = ""
 +++

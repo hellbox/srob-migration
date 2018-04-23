@@ -17,7 +17,7 @@ twitterauto = "Dear Cienna: Help! My children are demons and I need some books t
 facebookauto = "Dear Cienna: Help! Summer boredom has hit and my children are demons. I need some books to ward them off."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-books-to-ward-off-demon-children.md"
+notes_tags = ["notes/the-help-desk-books-to-ward-off-demon-children.md"]
 notes_about = ""
 books = ""
 +++

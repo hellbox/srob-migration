@@ -17,7 +17,7 @@ twitterauto = "The Sunday Post has essays by @ClaireDederer and @elissawashuta t
 facebookauto = "The Sunday Post links to stellar essays by Claire Dederer and Elissa Washuta this week, plus inside looks at professional hockey and professional ... Twitch?"
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-november-26-2017.md"
+notes_tags = ["notes/the-sunday-post-for-november-26-2017.md"]
 notes_about = ""
 books = ""
 +++

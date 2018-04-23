@@ -17,7 +17,7 @@ twitterauto = "Do you want to support us? Here's a very simple way!"
 facebookauto = "Do you want to support us? Here's a very simple way!"
 make_image_tweet = "False"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/how-can-you-support-the-seattle-review-of-books.md"
+notes_tags = ["notes/how-can-you-support-the-seattle-review-of-books.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Thanks to @pearlepubs for being our Poet in Residence for June. R
 facebookauto = "Thanks to Tammy Robacker for being our Poet in Residence for June. Read her last poem of the month, The Cuckoo Clock."
 make_image_tweet = "False"
 notes_byline = ["writers/tammy-robacker.md"]
-notes_tags = "notes/the-cuckoo-clock-.md"
+notes_tags = ["notes/the-cuckoo-clock-.md"]
 notes_about = ""
 books = ""
 +++

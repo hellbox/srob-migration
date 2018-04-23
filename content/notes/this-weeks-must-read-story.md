@@ -17,7 +17,7 @@ twitterauto = "Why haven't you read @mirajacob's wonderful post on race and the 
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/this-weeks-must-read-story.md"
+notes_tags = ["notes/this-weeks-must-read-story.md"]
 notes_about = ""
 books = ""
 +++

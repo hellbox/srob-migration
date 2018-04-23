@@ -17,7 +17,7 @@ twitterauto = "This week: Enlightenment, poetry, and the best brunch ever."
 facebookauto = "This week: Enlightenment, poetry, and the best brunch evert."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-march-12th---march-18th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-march-12th---march-18th.md"]
 notes_about = ""
 books = ""
 +++

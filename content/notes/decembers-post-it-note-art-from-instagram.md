@@ -17,7 +17,7 @@ twitterauto = "December's Post-it note wrap up from Clare Johnson!"
 facebookauto = "December's Post-it note wrap up from Clare Johnson!"
 make_image_tweet = "False"
 notes_byline = ["writers/clare-johnson.md"]
-notes_tags = "notes/decembers-post-it-note-art-from-instagram.md"
+notes_tags = ["notes/decembers-post-it-note-art-from-instagram.md"]
 notes_about = ""
 books = ""
 +++

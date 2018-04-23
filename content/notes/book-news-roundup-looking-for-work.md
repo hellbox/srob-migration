@@ -17,7 +17,7 @@ twitterauto = "Looking for a job with literature and the arts? We've got a coupl
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-looking-for-work.md"
+notes_tags = ["notes/book-news-roundup-looking-for-work.md"]
 notes_about = ""
 books = ""
 +++

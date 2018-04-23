@@ -17,7 +17,7 @@ twitterauto = "Ugh. You don't want to work with your loser friend, but can you s
 facebookauto = "Ugh. You don't want to work with your loser friend, but can you slag them? Cienna Madrid sets you straight. "
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-dont-slag-me-broseph.md"
+notes_tags = ["notes/the-help-desk-dont-slag-me-broseph.md"]
 notes_about = ""
 books = ""
 +++

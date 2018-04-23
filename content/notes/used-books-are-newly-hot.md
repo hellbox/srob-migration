@@ -17,7 +17,7 @@ twitterauto = "Used bookstores are on the rise, says Jeff Bezos's newspaper."
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/used-books-are-newly-hot.md"
+notes_tags = ["notes/used-books-are-newly-hot.md"]
 notes_about = ""
 books = ""
 +++

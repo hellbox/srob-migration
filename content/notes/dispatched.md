@@ -17,7 +17,7 @@ twitterauto = "Christine Deavel is our Tuesday poet, with a new prose-poem calle
 facebookauto = "Christine Deavel is our Tuesday poet, with a new prose-poem called \"Dispatch\""
 make_image_tweet = ""
 notes_byline = ["writers/christine-deavel.md"]
-notes_tags = "notes/dispatched.md"
+notes_tags = ["notes/dispatched.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Let's settle it for good: is romance feminist? Kissing Books auth
 facebookauto = "Let's settle it for good: is romance feminist? Kissing Books author Olivia Waite tackles the big question"
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/kissing-books-the-other-f-word.md"
+notes_tags = ["notes/kissing-books-the-other-f-word.md"]
 notes_about = ["authors/julie-garwood.md", "authors/pema-donyo.md", "authors/alexis-daria.md", "authors/rose-lerner.md", "authors/lorelei-brown.md", "authors/courtney-milan.md"]
 books = ""
 +++

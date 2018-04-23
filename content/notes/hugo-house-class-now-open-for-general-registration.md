@@ -17,7 +17,7 @@ twitterauto = "Our @hugohouse class is now open to everybody. Please consider jo
 facebookauto = "Our Hugo House class is now open to everybody. Please join us!"
 make_image_tweet = ""
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/hugo-house-class-now-open-for-general-registration.md"
+notes_tags = ["notes/hugo-house-class-now-open-for-general-registration.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "The final piece by April Poet in Residence @buddy_and_buddy is ti
 facebookauto = "The final piece by April Poet in Residence Jeanine Walker is titled \"Conversation\""
 make_image_tweet = "False"
 notes_byline = ["writers/jeanine-walker.md"]
-notes_tags = "notes/conversation-.md"
+notes_tags = ["notes/conversation-.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Some comic books aren't comic. Some graphic novels aren't novels.
 facebookauto = "Some comic books aren't comic. Some graphic novels aren't novels. What should we call these things?"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-what-should-we-call-serious-comic-books-and-non-fictional-graphic-novels.md"
+notes_tags = ["notes/the-help-desk-what-should-we-call-serious-comic-books-and-non-fictional-graphic-novels.md"]
 notes_about = ""
 books = ""
 +++

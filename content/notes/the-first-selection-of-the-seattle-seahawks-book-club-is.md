@@ -17,7 +17,7 @@ twitterauto = "Michael Bennett is our new favorite Seahawk. He just started a bo
 facebookauto = "Michael Bennett is our new favorite Seahawk. He just started a book club for his teammates."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-first-selection-of-the-seattle-seahawks-book-club-is.md"
+notes_tags = ["notes/the-first-selection-of-the-seattle-seahawks-book-club-is.md"]
 notes_about = ""
 books = ""
 +++

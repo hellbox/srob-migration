@@ -17,7 +17,7 @@ twitterauto = "Martha Kreiner is our poet this week, and her piece \"Vessel\" ha
 facebookauto = "Martha Kreiner is our poet this week, and her piece \"Vessel\" has this first line: \"There\u2019s this vessel I feel\""
 make_image_tweet = "False"
 notes_byline = ["writers/martha-kreiner.md"]
-notes_tags = "notes/vessel.md"
+notes_tags = ["notes/vessel.md"]
 notes_about = ""
 books = ""
 +++

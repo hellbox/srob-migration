@@ -17,7 +17,7 @@ twitterauto = "Congratulations to @GWillowWilson & the other Hugo Award winners!
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/hugo-award-winners-announced.md"
+notes_tags = ["notes/hugo-award-winners-announced.md"]
 notes_about = ["authors/g-willow-wilson.md"]
 books = ["books/the-three-body-problem.md"]
 +++

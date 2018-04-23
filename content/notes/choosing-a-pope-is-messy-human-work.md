@@ -17,7 +17,7 @@ twitterauto = "Looking for a ripping good thriller for the plane? You should con
 facebookauto = "If you've ever wondered what happens behind the scenes when the cardinals gather to choose a Pope, Conclave is the book for you."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/choosing-a-pope-is-messy-human-work.md"
+notes_tags = ["notes/choosing-a-pope-is-messy-human-work.md"]
 notes_about = ["authors/robert-harris.md"]
 books = ["books/conclave.md"]
 +++

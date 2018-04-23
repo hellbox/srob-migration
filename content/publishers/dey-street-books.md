@@ -10,5 +10,5 @@ last_updated = "2016-07-22T21:43:00-07:00"
 preview_url = "f66e0e6b-12d6-e36a-e1ff-29a8c505eebe"
 name = "Dey Street Books"
 title = "Dey Street Books"
-books_publisher = "publishers/dey-street-books.md"
+books_publisher = ["publishers/dey-street-books.md"]
 +++

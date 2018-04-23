@@ -17,7 +17,7 @@ twitterauto = "Here's a genius idea for browsing books anonymously."
 facebookauto = "Ever wanted to browse books anonymously without knowing the author or seeing the cover? Now you can:"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/browsing-first-pages-with-recommendmeabookcom.md"
+notes_tags = ["notes/browsing-first-pages-with-recommendmeabookcom.md"]
 notes_about = ""
 books = ""
 +++

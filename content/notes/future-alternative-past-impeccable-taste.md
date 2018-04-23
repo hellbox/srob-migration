@@ -17,7 +17,7 @@ twitterauto = "In today's succulent and nutrient-rich column, @NisiShawl gnaws o
 facebookauto = "In today's succulent and nutrient-rich column, Nisi Shawl gnaws on food in SFFH"
 make_image_tweet = "False"
 notes_byline = ["writers/nisi-shawl.md"]
-notes_tags = "notes/future-alternative-past-impeccable-taste.md"
+notes_tags = ["notes/future-alternative-past-impeccable-taste.md"]
 notes_about = ["authors/ann-leckie.md", "authors/kari-maaren.md", "authors/peter-s-beagle.md"]
 books = ""
 +++

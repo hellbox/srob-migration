@@ -17,7 +17,7 @@ twitterauto = ".@SIFFnews brings a documentary about a nerd who hit it big in Ho
 facebookauto = "This Friday and Saturday, SIFF brings a biography-turned-documentary about a nerd who hit it big in Hollywood."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-the-seattle-international-film-festival.md"
+notes_tags = ["notes/literary-event-of-the-week-the-seattle-international-film-festival.md"]
 notes_about = ""
 books = ""
 +++

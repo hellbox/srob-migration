@@ -17,7 +17,7 @@ twitterauto = "Here's a list of all the great events and giveaways local booksto
 facebookauto = "Here's a list of all the great events and giveaways local bookstores are offering for Small Business Saturday."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/dont-forget-small-business-saturday!.md"
+notes_tags = ["notes/dont-forget-small-business-saturday!.md"]
 notes_about = ""
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "November sucked, but your @nanowrimo novel is done. @ciennam tell
 facebookauto = "November sucked, but your NaNoWriMo novel is done. Cienna Madrid tells you what to do next. And a bonus love question from one of today's youths!"
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-a-twofer!-nanowrimo-hangovers-and-teenage-(heart)-kicks.md"
+notes_tags = ["notes/the-help-desk-a-twofer!-nanowrimo-hangovers-and-teenage-(heart)-kicks.md"]
 notes_about = ""
 books = ""
 +++

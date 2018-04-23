@@ -17,7 +17,7 @@ twitterauto = "We visited the Understory at Amazon's Spheres. It left us with so
 facebookauto = "We visited the Understory at Amazon's Spheres. It left us with some questions."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/a-story-for-another-time.md"
+notes_tags = ["notes/a-story-for-another-time.md"]
 notes_about = ""
 books = ""
 +++

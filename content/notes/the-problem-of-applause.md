@@ -17,7 +17,7 @@ twitterauto = ""
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/the-problem-of-applause.md"
+notes_tags = ["notes/the-problem-of-applause.md"]
 notes_about = ["authors/ta-nehisi-coates.md"]
 books = ["books/between-the-world-and-me.md"]
 +++

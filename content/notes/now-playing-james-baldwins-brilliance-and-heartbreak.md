@@ -17,7 +17,7 @@ twitterauto = "Now playing @SIFFNews: a literary documentary about the brillianc
 facebookauto = "Now playing at the Egyptian: a literary documentary about the brilliance and heartbreak of James Baldwin."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/now-playing-james-baldwins-brilliance-and-heartbreak.md"
+notes_tags = ["notes/now-playing-james-baldwins-brilliance-and-heartbreak.md"]
 notes_about = ["authors/james-baldwin.md"]
 books = ""
 +++

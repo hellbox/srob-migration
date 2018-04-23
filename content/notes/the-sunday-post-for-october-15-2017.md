@@ -17,7 +17,7 @@ twitterauto = "True facts, true crime, and the truly righteous Rebecca Solnit in
 facebookauto = "True facts, true crime, and the truly righteous Rebecca Solnit in this week's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-october-15-2017.md"
+notes_tags = ["notes/the-sunday-post-for-october-15-2017.md"]
 notes_about = ""
 books = ""
 +++

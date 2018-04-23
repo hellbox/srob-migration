@@ -17,7 +17,7 @@ twitterauto = "For #InternationalWomensDay, the women painted by @studiochristin
 facebookauto = "Portrait Gallery celebrates #InternationalWomensDay with a look back at all the women Christine Marie Larsen has painted on our pages"
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-internationalwomensday.md"
+notes_tags = ["notes/portrait-gallery-internationalwomensday.md"]
 notes_about = ""
 books = ""
 +++

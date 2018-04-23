@@ -17,7 +17,7 @@ twitterauto = "Looks like Elliott Bay Book Company is going to open a branch at 
 facebookauto = "Looks like Elliott Bay Book Company is going to open a branch at SeaTac Airport!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-elliott-bay-book-company-goes-to-the-airport.md"
+notes_tags = ["notes/book-news-roundup-elliott-bay-book-company-goes-to-the-airport.md"]
 notes_about = ""
 books = ""
 +++

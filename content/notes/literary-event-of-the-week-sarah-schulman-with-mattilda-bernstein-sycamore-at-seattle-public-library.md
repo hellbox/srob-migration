@@ -17,7 +17,7 @@ twitterauto = "Our literary event of the week is provocative, in the very best s
 facebookauto = "Our literary event of the week is provocative, in the very best sense of the word."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-sarah-schulman-with-mattilda-bernstein-sycamore-at-seattle-public-library.md"
+notes_tags = ["notes/literary-event-of-the-week-sarah-schulman-with-mattilda-bernstein-sycamore-at-seattle-public-library.md"]
 notes_about = ["authors/mattilda-bernstein-sycamore.md"]
 books = ""
 +++

@@ -17,7 +17,7 @@ twitterauto = "Antioch Review published a transphobic essay, and now the literar
 facebookauto = "Antioch Review published a transphobic essay, and now the literary community is letting them know this is not okay."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/antioch-review-publishes-transphobic-essay.md"
+notes_tags = ["notes/antioch-review-publishes-transphobic-essay.md"]
 notes_about = ""
 books = ""
 +++

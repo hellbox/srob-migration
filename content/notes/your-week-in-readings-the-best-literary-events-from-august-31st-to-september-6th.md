@@ -17,7 +17,7 @@ twitterauto = "This week brings book debut parties from Megan Snyder-Camp and @N
 facebookauto = "This week, you should attend the release parties for brand new books from Seattle authors Megan Snyder-Camp and Nisi Shawl!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-august-31st-to-september-6th.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-august-31st-to-september-6th.md"]
 notes_about = ""
 books = ""
 +++

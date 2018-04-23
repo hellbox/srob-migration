@@ -17,7 +17,7 @@ twitterauto = "This week: Poetry in translation, sci-fi writers in conversation,
 facebookauto = "This week in readings: Poetry in translation, sci-fi writers in conversation, and cats fighting dogs!"
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/your-week-in-readings-the-best-literary-events-from-april-16th---april-22nd.md"
+notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-16th---april-22nd.md"]
 notes_about = ["authors/anca-l-szil\u00e1gyi.md", "authors/ross-mcmeekin.md", "authors/cat-rambo.md"]
 books = ["books/daughters-of-the-air.md", "books/the-hummingbirds.md"]
 +++

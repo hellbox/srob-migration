@@ -17,7 +17,7 @@ twitterauto = "If you like Elmore Leonard but wish he told more semen jokes, you
 facebookauto = "If you like Elmore Leonard but wish he told more semen jokes, you might enjoy this heist comic."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-the-fix-is-in.md"
+notes_tags = ["notes/thursday-comics-hangover-the-fix-is-in.md"]
 notes_about = ""
 books = ""
 +++

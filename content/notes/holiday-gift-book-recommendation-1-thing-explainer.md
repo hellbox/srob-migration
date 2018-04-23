@@ -17,7 +17,7 @@ twitterauto = "Our holiday gift book guide begins with a bookseller from @ravenn
 facebookauto = "Every Wednesday through Christmas, we're going to talk with a different bookseller about the book they're most excited about giving as a gift. Our first bookseller, Alex Gholz at Third Place Books Ravenna, is super-thrilled about Randall Munroe's new book Thing Explainer."
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/holiday-gift-book-recommendation-1-thing-explainer.md"
+notes_tags = ["notes/holiday-gift-book-recommendation-1-thing-explainer.md"]
 notes_about = ["authors/randall-munroe.md"]
 books = ["books/thing-explainer.md"]
 +++

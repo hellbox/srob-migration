@@ -17,7 +17,7 @@ twitterauto = "In today's book news roundup: @HugoHouse, @fbpress, & @jackstrawa
 facebookauto = "Our first book news roundup of 2016 involves a series of literary fortune-telling evenings, a bunch of writers programs, and a few exciting moves for Seattle authors. "
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-its-2016!-get-published-and-get-your-fortune-told.md"
+notes_tags = ["notes/book-news-roundup-its-2016!-get-published-and-get-your-fortune-told.md"]
 notes_about = ["authors/sarah-galvin.md", "authors/david-schmader.md", "authors/karen-finneyfrock.md", "authors/shin-yu-pai.md", "authors/ej-koh.md", "authors/megan-kruse.md"]
 books = ""
 +++

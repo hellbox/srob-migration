@@ -17,7 +17,7 @@ twitterauto = "Today in book news: a 30-year-old comic that predicted our curren
 facebookauto = "Today in book news: a 30-year-old comic that predicted our current political mess."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-of-whoppers-and-romance.md"
+notes_tags = ["notes/book-news-roundup-of-whoppers-and-romance.md"]
 notes_about = ["authors/quenton-baker.md", "authors/sherman-alexie.md", "authors/lindy-west.md", "authors/ej-koh.md", "authors/robert-lashley.md", "authors/shin-yu-pai.md"]
 books = ""
 +++

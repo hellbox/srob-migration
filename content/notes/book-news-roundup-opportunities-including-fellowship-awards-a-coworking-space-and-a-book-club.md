@@ -17,7 +17,7 @@ twitterauto = "All the Book News that's fit to print, including fellowships, cow
 facebookauto = "All the Book News that's fit to print, including fellowships, coworking spaces, and a book club."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-opportunities-including-fellowship-awards-a-coworking-space-and-a-book-club.md"
+notes_tags = ["notes/book-news-roundup-opportunities-including-fellowship-awards-a-coworking-space-and-a-book-club.md"]
 notes_about = ""
 books = ""
 +++

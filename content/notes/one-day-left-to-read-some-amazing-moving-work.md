@@ -17,7 +17,7 @@ twitterauto = "Local poet Esther Altshul Helfgott is our sponsor this week. Come
 facebookauto = "Local poet Esther Altshul Helfgott is our sponsor this week. Come read a selection of her work before tomorrow."
 make_image_tweet = ""
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/one-day-left-to-read-some-amazing-moving-work.md"
+notes_tags = ["notes/one-day-left-to-read-some-amazing-moving-work.md"]
 notes_about = ["authors/esther-altshul-helfgott.md"]
 books = ["books/dear-alzheimers.md"]
 +++

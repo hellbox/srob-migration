@@ -17,7 +17,7 @@ twitterauto = "Every affair is political, but political affairs are the worst."
 facebookauto = "Every affair is political, but political affairs are the worst."
 make_image_tweet = "True"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/thursday-comics-hangover-politics-is-best-served-cold.md"
+notes_tags = ["notes/thursday-comics-hangover-politics-is-best-served-cold.md"]
 notes_about = ""
 books = ""
 +++

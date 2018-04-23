@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Spuyten Duyvil"
 title = "Spuyten Duyvil"
-books_publisher = "publishers/spuyten-duyvil.md"
+books_publisher = ["publishers/spuyten-duyvil.md"]
 +++

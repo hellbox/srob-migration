@@ -17,7 +17,7 @@ twitterauto = "Your literary event of the week is hosted by @ShoutYrAbortion. Aw
 facebookauto = "This week's event of the week is a reading from a Christian doctor who makes a moral case for abortion."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/literary-event-of-the-week-lifes-work-reading-at-town-hall.md"
+notes_tags = ["notes/literary-event-of-the-week-lifes-work-reading-at-town-hall.md"]
 notes_about = ["authors/lindy-west.md"]
 books = ""
 +++

@@ -10,5 +10,5 @@ last_updated = ""
 preview_url = ""
 name = "Picador USA"
 title = "Picador USA"
-books_publisher = "publishers/picador-usa.md"
+books_publisher = ["publishers/picador-usa.md"]
 +++

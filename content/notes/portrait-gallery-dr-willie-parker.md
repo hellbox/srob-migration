@@ -17,7 +17,7 @@ twitterauto = "An #illustration of @DrWillieParker by @studiochristine. Tues @TH
 facebookauto = "Dr. Willie Parker illustration by Christine Marie Larsen in celebration of his new book \"Life's Work: A Moral Argument for Choice\""
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-dr-willie-parker.md"
+notes_tags = ["notes/portrait-gallery-dr-willie-parker.md"]
 notes_about = ["authors/dr-willie-parker.md"]
 books = ""
 +++

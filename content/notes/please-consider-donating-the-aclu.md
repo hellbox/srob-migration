@@ -17,7 +17,7 @@ twitterauto = "We've donated our sponsorship slot this week to encourage you to 
 facebookauto = "We've donated our sponsorship slot this week to encourage you to donate to the ACLU. "
 make_image_tweet = "True"
 notes_byline = ["writers/the-seattle-review-of-books.md"]
-notes_tags = "notes/please-consider-donating-the-aclu.md"
+notes_tags = ["notes/please-consider-donating-the-aclu.md"]
 notes_about = ""
 books = ""
 +++

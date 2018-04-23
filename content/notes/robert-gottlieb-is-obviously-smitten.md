@@ -17,7 +17,7 @@ twitterauto = "When it comes to romance, Robert Gottlieb is obviously wiping the
 facebookauto = "When it comes to romance, Robert Gottlieb is obviously wiping the little hearts from his eyes, says Olivia Waite."
 make_image_tweet = "False"
 notes_byline = ["writers/olivia-waite.md"]
-notes_tags = "notes/robert-gottlieb-is-obviously-smitten.md"
+notes_tags = ["notes/robert-gottlieb-is-obviously-smitten.md"]
 notes_about = ["authors/robert-gottlieb.md"]
 books = ""
 +++

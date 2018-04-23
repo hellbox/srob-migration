@@ -17,7 +17,7 @@ twitterauto = "Seattle Writing Prompts drops by the Olympic Sculpture Park"
 facebookauto = "Seattle Writing Prompts drops by the Olympic Sculpture Park"
 make_image_tweet = "True"
 notes_byline = ["writers/martin-mcclellan.md"]
-notes_tags = "notes/seattle-writing-prompts-the-olympic-sculpture-park.md"
+notes_tags = ["notes/seattle-writing-prompts-the-olympic-sculpture-park.md"]
 notes_about = ""
 books = ""
 +++

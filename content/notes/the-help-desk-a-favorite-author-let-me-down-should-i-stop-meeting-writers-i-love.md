@@ -17,7 +17,7 @@ twitterauto = "What do you do if you meet a favorite author and they turn out to
 facebookauto = "Dear Cienna: Once, I met an author I loved and it was a total letdown. She was narcissistic and bored by all the people who came out to hear her read, and I disliked her so much it made my skin crawl. Now I can't enjoy her books because it reminds me of how unpleasant she was. Should I bother going to readings anymore? I don't want to lose any more favorite authors, and the risk of them being jerks is scaring me away."
 make_image_tweet = "False"
 notes_byline = ["writers/cienna-madrid.md"]
-notes_tags = "notes/the-help-desk-a-favorite-author-let-me-down-should-i-stop-meeting-writers-i-love.md"
+notes_tags = ["notes/the-help-desk-a-favorite-author-let-me-down-should-i-stop-meeting-writers-i-love.md"]
 notes_about = ""
 books = ""
 +++

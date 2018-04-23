@@ -17,7 +17,7 @@ twitterauto = "Today in book news: Octavia Butler predicted Donald Trump and boo
 facebookauto = ""
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/book-news-roundup-octavia-butler-predicts-donald-trump-bookstore-sales-climb-almost-10-percent-in-april.md"
+notes_tags = ["notes/book-news-roundup-octavia-butler-predicts-donald-trump-bookstore-sales-climb-almost-10-percent-in-april.md"]
 notes_about = ""
 books = ""
 +++

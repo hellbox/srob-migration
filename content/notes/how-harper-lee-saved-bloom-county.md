@@ -17,7 +17,7 @@ twitterauto = "How Harper Lee saved Bloom County. Yes, we freely admit that this
 facebookauto = ""
 make_image_tweet = ""
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/how-harper-lee-saved-bloom-county.md"
+notes_tags = ["notes/how-harper-lee-saved-bloom-county.md"]
 notes_about = ["authors/harper-lee.md"]
 books = ["books/go-set-a-watchman.md"]
 +++

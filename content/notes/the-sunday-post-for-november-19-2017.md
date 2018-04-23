@@ -17,7 +17,7 @@ twitterauto = "Why journalists are awesome, Lidia Yuknavitch on leaving Florida,
 facebookauto = "Why journalists are awesome, Lidia Yuknavitch on leaving Florida, and bumblers unmasked in this week's Sunday Post."
 make_image_tweet = "False"
 notes_byline = ["writers/dawn-mccarra-bass.md"]
-notes_tags = "notes/the-sunday-post-for-november-19-2017.md"
+notes_tags = ["notes/the-sunday-post-for-november-19-2017.md"]
 notes_about = ""
 books = ""
 +++

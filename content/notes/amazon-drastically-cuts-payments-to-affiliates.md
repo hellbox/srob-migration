@@ -17,7 +17,7 @@ twitterauto = "A change from Amazon today will likely mean the end for some book
 facebookauto = "A change from Amazon today will likely mean the end for some book bloggers."
 make_image_tweet = "False"
 notes_byline = ["writers/paul-constant.md"]
-notes_tags = "notes/amazon-drastically-cuts-payments-to-affiliates.md"
+notes_tags = ["notes/amazon-drastically-cuts-payments-to-affiliates.md"]
 notes_about = ""
 books = ""
 +++

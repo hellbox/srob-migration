@@ -17,7 +17,7 @@ twitterauto = "Portrait Gallery: Kelly Link by @studiochristine. See @haszombies
 facebookauto = "Portrait Gallery: Kelly Link by Christine Marie Larsen. Kelly Link will be giving a Word Works talk for Hugo House at the Frye Art Museum this Friday, Sept. 8."
 make_image_tweet = "True"
 notes_byline = ["writers/christine-marie-larsen.md"]
-notes_tags = "notes/portrait-gallery-kelly-link.md"
+notes_tags = ["notes/portrait-gallery-kelly-link.md"]
 notes_about = ["authors/kelly-link.md"]
 books = ""
 +++
