@@ -236,7 +236,7 @@ for key in j['data']:
             except KeyError:
               markdown.write('preview_url = ""\n')
             ## END STANDARD DATA BLOCK ##   
-            markdown.write('byline = %s\n' % (json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
+            markdown.write('name = %s\n' % (json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
             markdown.write('title = %s\n' % (json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
             try:
                 markdown.write('alphabetize_by = %s\n' % (json.dumps(j['data']['authors'][author]['alphabetize_by']).encode('utf-8')))
@@ -324,7 +324,7 @@ for key in j['data']:
             except KeyError:
               markdown.write('preview_url = ""\n')
             ## END STANDARD DATA BLOCK ##           
-            markdown.write('byline = %s\n' % (json.dumps(j['data']['writers'][writer]['name']).encode('utf-8')))
+            markdown.write('name = %s\n' % (json.dumps(j['data']['writers'][writer]['name']).encode('utf-8')))
             markdown.write('title = %s\n' % (json.dumps(j['data']['writers'][writer]['name']).encode('utf-8')))
             try:
               markdown.write('alphabetize_by = %s\n' % (json.dumps(j['data']['writers'][writer]['alphabetize_by']).encode('utf-8')))
@@ -409,7 +409,7 @@ for key in j['data']:
             except KeyError:
               markdown.write('preview_url = ""\n')
             ## END STANDARD DATA BLOCK ##           
-            markdown.write('byline = %s\n' % (json.dumps(j['data']['translators'][translator]['name']).encode('utf-8')))
+            markdown.write('name = %s\n' % (json.dumps(j['data']['translators'][translator]['name']).encode('utf-8')))
             markdown.write('title = %s\n' % (json.dumps(j['data']['translators'][translator]['name']).encode('utf-8')))
             markdown.write('alphabetize_by = ""\n')
             markdown.write('is_draft = ""\n')
