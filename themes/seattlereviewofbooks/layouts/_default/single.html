@@ -1,3 +1,7 @@
+{{ print "<em>this is text</em>" | safeHTML }}
+{{ $holder := "<em>this is text</em>" }}
+{{ $holder | safeHTML }}
+
 <h1>{{ .Section }} — {{ .Params.name }}</h1>
 
 {{ $tags := .Site.RegularPages.RelatedIndices . "notes_tags"}}
