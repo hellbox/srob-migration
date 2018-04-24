@@ -36,29 +36,40 @@
 
                     review{{ if eq (len $byline) 1}}s{{ end }}
 
-                    {{ range $i, $v := $reviewsbooks }}
+                    {{/* range $i, $v := $reviewsbooks }}
                         {{ range $.Params.name }}
                             {{ .Site.RegularPages.RelatedIndices . "books_author" }}
                         {{ end }}
                         {{ with $v.Params.name }}{{ $.Scratch.SetInMap "books" . . }}{{ end }}                        
                     {{ end }}
-                   {{/* with ($.Scratch.Get "books") }}                        
-                        <em>{{ delimit . ", " ", and " }}</em>
+                   {{ with ($.Scratch.GetSortedMapValues "books") }}                        
+                        {{ delimit . ", " ", and " }}
                         
                     {{ end }}
                     {{ $.Scratch.Delete "books" */}}
 
+
                     {{ range $reviewsbooks }}
                         {{ $save := .Params.name }}                        
                         {{ range where ( $.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers" }}                        
-                            {{ $.Scratch.SetInMap "bookstring" (print "<em>" $save "</em> by " .Params.name) (print "<em>" $save "</em> by " .Params.name) }}                            
+                            {{/* $.Scratch.SetInMap "bookstring" (print "<em>" $save "</em> by " .Params.name) (print "<em>" $save "</em> by " .Params.name) */}}
+                            {{ $.Scratch.SetInMap "bookstring" .Params.name $save }}
                         {{ end }}
                     {{ end }}
 
-                    {{ with ($.Scratch.Get "bookstring") }}
+                    {{ range $i, $v := $.Scratch.Get "bookstring" }}
+                        <em>{{ $v }}</em> by {{ $i }}
+                    {{ end }}
+
+
+                    {{ $.Scratch.Delete "bookstring" }}
+
+                    {{/* with ($.Scratch.Get "bookstring") }}
                         {{ delimit . ", " ", and " }}
                     {{ end }}
-                    {{ $.Scratch.Delete "bookstring" }}
+                    {{ $.Scratch.Delete "bookstring" */}}
+
+                    <!-- TODO: SET WRITERS COMMA SEPARATED, THEN "REVIEWS" THEN BOOKS WITH AUTHOR MATCHING -->
 
                 </p>
                 <div class="dek">{{ .Params.dek }}</div>
