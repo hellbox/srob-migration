@@ -1,7 +1,20 @@
-{{ .Scratch.SetInMap "greetings" "english" "Hello" }}
-{{ .Scratch.SetInMap "greetings" "french" "Bonjour" }}
-{{ .Scratch.Get "greetings" }}
+//SetInMap but use author name for the name of the map, then add books to it. Coudl be a single dimension, right? <br>
+{{ $.Scratch.Set "Herman Melville" "" }}
+{{ $.Scratch.Add "Herman Melville" "Moby Dick" }}
+{{ $.Scratch.Add "Herman Mellville" "The Confidance Man" }}
+{{ $.Scratch.Add "Herman Mellville" "Omoo"}}
+{{ $.Scratch.Set "John Prine" "" }}
+{{ $.Scratch.Add "John Prine" "All the Best" }}
+{{ $.Scratch.Set "Iris Murdoch" "" }}
+{{ $.Scratch.Add "Iris Murdoch" "Metaphysics Without Morals" }}
+{{/* delimit ($.Scratch.Get "Herman Melville") ", " */}}
+{{ $.Scratch.Delete "Herman Melville" }}
 
+{{ $.Scratch.Add "key" "result" }}
+{{ $.Scratch.Get "key" }}
+{{ delimit ($.Scratch.Get "key") ", " }}
+
+{{/* }}
 <h1>{{ .Section }} — {{ .Params.name }}</h1>
 
 {{ $tags := .Site.RegularPages.RelatedIndices . "notes_tags"}}
@@ -27,3 +40,4 @@
 
 {{ .Content }}
 
+*/}}
