@@ -48,29 +48,29 @@
                             {{ $.Scratch.SetInMap "bookstring" $bookname .Params.name }}
                             */}}
                             {{/* Creates a scratch with a key of the author's name and the value of bookname. If an author has more than one book, it will add to it on each subsequent loop. Output is a table of books keyed to an author name */}}
-                            {{ $.Scratch.Add .Params.name $bookname }} 
+                            {{ $.Scratch.Add .Params.name (slice $bookname) }} 
                             {{/* We need an array of author names too, to loop through and as key pulls later */}}
-                            {{ $.Scratch.Add "authornames" .Params.name }}
+                            {{ $.Scratch.Add "authornames" (slice .Params.name) }}
                         {{ end }}                            
-                    {{ end }}}
+                    {{ end }}
 
                     {{/* Add all books from an an author to a list so we can delimit and output it */}}
-                    {{ with $.Scratch.Get "authornames" }}
-                        {{ len ($.Scratch.Get .) }}
-                        {{/* Saving for formatting help later }}
-                        {{ $authorlist := (print "<em>" ($.Scratch.Get .) "</em> by " . ) }}
-                        */}}
-                    {{ end }}                 
- 
+                    {{ range $.Scratch.Get "authornames" }}
+                        {{ $authorlist := (print "<em>" (delimit ($.Scratch.Get .) "," ", and " ) "</em> by " . ) }}
+                        {{ $.Scratch.Add "stringcombine" (slice $authorlist) }}
+                    {{ end }}
+                    {{ with $.Scratch.Get "stringcombine" }} 
+                        {{ delimit . ", " ", and "}}
 
-
+                    {{ end }}      
 
                     {{/* Clean the whole mess from memory */}}
                     {{ with $.Scratch.Get "authornames" }}
-                        {{ $.Scratch.Delete . }}
+                        {{/* $.Scratch.Delete . */}}
                     {{ end }}
                     {{ $.Scratch.Delete "booklist" }}
                     {{ $.Scratch.Delete "authornames" }}
+                    {{ $.Scratch.Delete "stringcombine" }}
 
 
 
