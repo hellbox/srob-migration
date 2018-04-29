@@ -4,13 +4,15 @@ import os
 import time
 
 outputpath = 'output/'
+# Creates an array to track repeated authors
+writers = []
 # Load JSON object
 with open('srob-firebase.json') as json_data:
     j = json.load(json_data)
     # Look for the node title "data"
     data = j['data']
 
-
+# A function to remove illegal characters so we can build urls and sane paths
 def sanitizestring( string ):
     bug = string.replace(' ', '-').replace('.','').replace(':','').replace('\'','').replace('/','--').replace(',','').replace('\"','').replace('#','').replace('?','').lower()
     return bug
@@ -20,6 +22,11 @@ def findstring( string ):
     breakup = string.split()
     # Looksup the correct node, returns it as a formatted string, with the folder and filename   
     return breakup[0] + "/" + sanitizestring(j['data'][breakup[0]][breakup[1]]['name']) + ".md"
+
+# Refactoring into a function the repetitive shit
+def makewriter( writer ):
+
+
 
 # Select child
 for key in j['data']:
@@ -209,8 +216,21 @@ for key in j['data']:
         if not os.path.exists('output/writers'):
             os.makedirs('output/writers')
 
-        for author in j['data']['authors']:  
+        #call that function here 
+
+        for author in j['data']['authors']:
+            for matches in writers:
+                if matches == j['data']['authors'][author]['name']:
+                    print("skipping " + matches)
             lc_name = sanitizestring(j['data']['authors'][author]['name'])            
+            try: 
+                if j['data']['authors'][author]['delete_me_please_2']:
+                    doubleauthor = True
+                    writers.append(j['data']['authors'][author]['name'])
+                    #print("true: " + j['data']['authors'][author]['name'])
+            except KeyError:
+                doubleauthor = False
+                
             markdown = open('output/writers/' + lc_name + '.md','w')
             markdown.write('+++\n')
             markdown.write('index = %s\n' % json.dumps(author.encode('utf-8')))
@@ -294,8 +314,13 @@ for key in j['data']:
                     thedate = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(j['data']['writers'][writer]['_sort_publish_date']))
                 except KeyError:
                     thedate = 'xxxx-xx-xx'        
-            lc_name = sanitizestring(j['data']['writers'][writer]['name'])      
-            markdown = open('output/writers/' + lc_name + '.md', 'w')
+            lc_name = sanitizestring(j['data']['writers'][writer]['name'])
+            if not os.path.exists('output/writers/' + lc_name + '.md'):
+                markdown = open('output/writers/' + lc_name + '.md','w')
+            else:
+                if not os.path.exists('output/writers/_tomerge'):
+                    os.makedirs('output/writers/_tomerge')
+                markdown = open('output/writers/_tomerge/' + lc_name + '.md','w')                 
             markdown.write('+++\n')
             markdown.write('index = %s\n' % json.dumps(writer.encode('utf-8')))
             ## STANDARD DATA BLOCK ## 
@@ -605,7 +630,6 @@ for key in j['data']:
             #    markdown.write('books_author = %s\n' % json.dumps(index_builder))
             #except KeyError:
             #    markdown.write('books_author = ""\n') 
-#
 
             try:
                 index_builder = []
@@ -1160,10 +1184,3 @@ for key in j['data']:
 
         markdown.write('+++\n\n')  
         markdown.close()
-             
-
-
-
-
-# TODO:
-# 1. Replace ## REPLACE WITH STANDARD DATA BLOCK
