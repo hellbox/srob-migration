@@ -140,7 +140,7 @@
     {{ else if eq .Params.type "Column" }}
         <li>Column: <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ else if eq .Params.type "Poem" }}        
-    <li>Poem: <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ template "theme/partials/poems.html" . }}
     {{ else if eq .Params.type "Interview" }}        
     <li>Interview: <a href="{{ .RelPermalink }}">{{ .Title }}</a></li> 
     {{ else if eq .Params.type "Fiction" }}        
