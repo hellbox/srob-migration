@@ -31,5 +31,8 @@ includeNewer = true
 [[related.indices]]
     name = "books_author"
     weight = 104
+[[related.indices]]
+    name = "notes_byline"
+    weight = 105
 
 
