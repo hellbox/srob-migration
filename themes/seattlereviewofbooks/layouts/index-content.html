@@ -50,7 +50,7 @@
                         {{/* Some books have more than one authors. We'll compile them and pass them as a single author */}}
                         {{ if gt (len (( $.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers")) 1 }}
                             {{ range where ( $.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers" }}
-                                {{/* Loop over man authors and put in a holding Scratch */}}
+                                {{/* Loop over authors and put in a holding Scratch */}}
                                 {{ $.Scratch.Add "multiauthor" (slice .Params.name) }}
                             {{ end }}  
                             {{/* Take that Scratch and break it into a delimited string */}}                          
@@ -68,7 +68,7 @@
                             {{ $.Scratch.Delete "multiauthorholder" }}
 
                         {{ else }} {{/* Book has a single author so we can not worry about the bullshit above */}}
-                            {{ range where ( $.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers" }}
+                            {{ range where ($.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers" }} 
                                 {{/* Creates a scratch with a key of the author's name and the value of bookname. If an author has more than one book, it will add to it on each subsequent loop. Output is a table of books keyed to an author name */}}
                                 {{ $.Scratch.Add .Params.name (slice $bookname) }} 
                                 {{/* We need an array of author names too, to loop through and as key pulls later */}}
@@ -94,43 +94,13 @@
                     {{ $.Scratch.Delete "booklist" }}
                     {{ $.Scratch.Delete "authornames" }}
                     {{ $.Scratch.Delete "stringcombine" }}
+{{/* 
+TO DO:
+1. Fix issue with repeating book titles: Elissa Washuta — line 70, make it only loop on the first item
+2. Fix issue with some books and authors not appearing
+3. Some books missing: gutenberg
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!--/*
-working code shoving aside for the moment
-
-                    {{ range $i, $v := $.Scratch.Get "bookstring" }}                                                
-                        {{ $authorbook := (print "<em>" $i "</em> by " $v ) }}
-                    {{ end }}                    
-
-                    {{ with ($.Scratch.Get "bookstring" ) }}
-                        {{ delimit . ", " ", and " }}
-                    {{ end }}
-                    {{ $.Scratch.Delete "bookstring" }}
-
-1. ✓ Loop through books
-2. ✓ get associated authors and add to Scratch with a key of author name and name of the book
-3. ✓ Add author name a list of scratch called "authors"
-4. ✓ end loop
-5. Loop through authors
-6. Call the author as key and push the delimited list of their books to a Scratch with the name of the author in the format of _book name_, and _book name_ by Author Name
-7. Delete original Scratch with author name key
-
-
-
-
-/*-->                    
+*/}}
 
                 
                 </p>
