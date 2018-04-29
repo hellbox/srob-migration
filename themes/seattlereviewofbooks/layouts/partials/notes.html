@@ -1,0 +1,9 @@
+<div class="note-note">
+    <div class="title">
+        <strong><em><a href="{{ .RelPermalink }}">{{ .Title }}</a></em></strong>
+        </div>
+        <div class="note">
+            {{ .Content }}
+        </div>
+        <time>Published <a href="{{ .Params.link }}"><abbr class="timeago" title="{{/* item.publish_date|date('c') */}}"></abbr></a> by {{/* byline */}}<a href="{{/* url to writer */}}">{{/*  writer name */}}</a>{{/* delimit writers **/}}</time>
+</div>
