@@ -78,9 +78,12 @@
                     {{ end }}
 
                     {{/* Add all books from an an author to a list so we can delimit and output it */}}
-                    {{ range $.Scratch.Get "authornames" }}
-                        {{ $authorlist := (print "<em>" (delimit ($.Scratch.Get .) ", " ", and " ) "</em> by " . ) }}
+
+                    {{ range $index, $very := $.Scratch.Get "authornames" }}
+                        {{ if eq $index 0 }}
+                        {{ $authorlist := (print "<em>" (delimit ($.Scratch.Get . ) ", " ", and " ) "</em> by " . ) }}
                         {{ $.Scratch.Add "stringcombine" (slice $authorlist) }}
+                        {{ end }}
                     {{ end }}
                     {{/* Then, take those longer lists and combine them in a total list of all the books in a review */}}
                     {{ with $.Scratch.Get "stringcombine" }} 
@@ -96,9 +99,9 @@
                     {{ $.Scratch.Delete "stringcombine" }}
 {{/* 
 TO DO:
-1. Fix issue with repeating book titles: Elissa Washuta — line 70, make it only loop on the first item
-2. Fix issue with some books and authors not appearing
-3. Some books missing: gutenberg
+1. Fix issue with repeating book titles: Elissa Washuta — line 70, something is making the loop repeat twice? Or report twice?
+2. Fix issue with some books and authors not appearing — issue with merging writers over authors in python app
+3. Some books missing: gutenberg same as #2
 
 */}}
 

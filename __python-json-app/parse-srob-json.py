@@ -6,7 +6,29 @@ import time
 outputpath = 'output/'
 # Creates an array to track repeated authors
 writers = []
+
+authors = { "_sort_create_date":"sort_create_date",
+            "_sort_last_updated":"sort_last_updated",
+            "_sort_publish_date":"sort_publish_date",
+            "alphabetize_by":"alphabetize_by",
+            "books":[],
+            "create_date":"create_date",
+            "delete_me_please_2": [],
+            "isDraft":"isDraft",
+            "is_seattle__pnw_writer":"is_seattle_pnw_writer",
+            "last_updated":"last_updated",
+            "name":"name",
+            "notes":[],
+            "preview_url":"preview_url",
+            "publish_date": "publish_date",
+            "reviews":[],
+            }
+
+
+
+
 # Load JSON object
+# TODO: load this from the direct url instead of from a local file
 with open('srob-firebase.json') as json_data:
     j = json.load(json_data)
     # Look for the node title "data"
@@ -23,14 +45,77 @@ def findstring( string ):
     # Looksup the correct node, returns it as a formatted string, with the folder and filename   
     return breakup[0] + "/" + sanitizestring(j['data'][breakup[0]][breakup[1]]['name']) + ".md"
 
-# Refactoring into a function the repetitive shit
-def makewriter( writer ):
+def relmapper(plural, singular, item, filename):
+    try:
+        index_builder = []
+        for book in j['data'][plural][singular][item]:
+            book = findstring(book)
+            index_builder.append(book.encode('utf-8'))
+        markdown.write( filename + '= %s\n' % json.dumps(index_builder))
+    except KeyError:
+        markdown.write(filename + '= ""\n')
 
+# Refactoring into a function the repetitive shit
+def makewriter( plural, singular ):
+    markdown.write('index = %s\n' % json.dumps(singular.encode('utf-8')))
+    ## STANDARD DATA BLOCK ##        
+    markdown.write('sort_create_date = %d\n' % j['data'][plural][singular]['_sort_create_date'])
+    markdown.write('sort_last_updated = %d\n' % j['data'][plural][singular]['_sort_last_updated'])
+    try:
+      markdown.write('sort_publish_date = %d\n' % j['data'][plural][singular]['_sort_publish_date']) 
+    except KeyError:
+      markdown.write('sort_publish_date = ""\n')
+    markdown.write('create_date = %s\n' % (json.dumps(j['data'][plural][singular]['create_date']).encode('utf-8')))
+    try:
+      markdown.write('publish_date = %s\n' % json.dumps(j['data'][plural][singular]['publish_date'].encode('utf-8')))
+    except KeyError:   
+      markdown.write('publish_date = ""\n')
+    try:
+      markdown.write('date = %s\n' % json.dumps(j['data'][plural][singular]['publish_date'].encode('utf-8')))
+    except KeyError:   
+      markdown.write('date = %s\n' % (json.dumps(j['data'][plural][singular]['create_date']).encode('utf-8')))                 
+    markdown.write('last_updated = %s\n' % json.dumps((j['data'][plural][singular]['last_updated']).encode('utf-8')))
+    try:
+      markdown.write('preview_url = %s\n' % (json.dumps(j['data'][plural][singular]['preview_url']).encode('utf-8')))
+    except KeyError:
+      markdown.write('preview_url = ""\n')
+    ## END STANDARD DATA BLOCK ##   
+    markdown.write('name = %s\n' % (json.dumps(j['data'][plural][singular]['name']).encode('utf-8')))
+    markdown.write('title = %s\n' % (json.dumps(j['data'][plural][singular]['name']).encode('utf-8')))
+    try:
+        markdown.write('alphabetize_by = %s\n' % (json.dumps(j['data'][plural][singular]['alphabetize_by']).encode('utf-8')))
+    except KeyError:
+        markdown.write('alphabetize_by = ""\n')            
+    try:
+        markdown.write('is_draft = %s\n' % (json.dumps(j['data'][plural][singular]['is_draft'])))
+    except KeyError:
+        markdown.write('is_draft = ""\n')
+    try:
+        markdown.write('is_seattle_pnw_writer = %s\n' % (json.dumps(j['data'][plural][singular]['is_seattle__pnw_writer'])))
+    except KeyError:
+        markdown.write('is_seattle_pnw_writer = ""\n')
+    markdown.write('written_about = ""\n')
+
+    relmapper(plural, singular, 'books', 'books_author')
+    relmapper(plural, singular, 'sponsorships_author', 'sponsorships_author')
+
+    # for the related content lookup keys
+    author_temp = ('authors %s' % json.dumps(author.encode('utf-8')).replace('"',''))
+    author_temp = findstring( author_temp ).replace('authors','writers').encode('utf-8')            
+    markdown.write('reviews_about = ["%s"]\n' % author_temp )            
+    markdown.write('notes_about = ["%s"]\n' % author_temp )
+    markdown.write('email = ""\n')
+    markdown.write('twitter = ""\n')
+    markdown.write('website = ""\n')
+    markdown.write('bio = ""\n')
+    markdown.write('reviews_byline = ""\n')
+    markdown.write('notes_byline = ""\n')
+    markdown.write('books_translator = ""\n')    
 
 
 # Select child
 for key in j['data']:
-    print("---------- working with key '%s'--------" % key)
+    #print("---------- working with key '%s'--------" % key)
 
     # Let's start with the single items
     if key == 'about':
@@ -213,96 +298,45 @@ for key in j['data']:
     # AUTHORS/WRITERS/TRANSLATORS AREA
 
     elif key == 'authors' or key == 'writers' or key == 'translators':
+        # print j['data'].keys()
+        for parent in j['data'].keys():
+            print(parent)
+            for value in findkeys(d, parent):
+                for child_key, child_value in value.items():
+                    if child_value:
+                        print(child_value)
+                    else:
+                        # do that
+
         if not os.path.exists('output/writers'):
             os.makedirs('output/writers')
-
-        #call that function here 
-
         for author in j['data']['authors']:
-            for matches in writers:
-                if matches == j['data']['authors'][author]['name']:
-                    print("skipping " + matches)
-            lc_name = sanitizestring(j['data']['authors'][author]['name'])            
-            try: 
-                if j['data']['authors'][author]['delete_me_please_2']:
-                    doubleauthor = True
-                    writers.append(j['data']['authors'][author]['name'])
-                    #print("true: " + j['data']['authors'][author]['name'])
-            except KeyError:
-                doubleauthor = False
-                
+            # Start directory
+            lc_name = sanitizestring(j['data']['authors'][author]['name']) 
             markdown = open('output/writers/' + lc_name + '.md','w')
             markdown.write('+++\n')
-            markdown.write('index = %s\n' % json.dumps(author.encode('utf-8')))
-            ## STANDARD DATA BLOCK ##        
-            markdown.write('sort_create_date = %d\n' % j['data']['authors'][author]['_sort_create_date'])
-            markdown.write('sort_last_updated = %d\n' % j['data']['authors'][author]['_sort_last_updated'])
-            try:
-              markdown.write('sort_publish_date = %d\n' % j['data']['authors'][author]['_sort_publish_date']) 
-            except KeyError:
-              markdown.write('sort_publish_date = ""\n')
-            markdown.write('create_date = %s\n' % (json.dumps(j['data']['authors'][author]['create_date']).encode('utf-8')))
-            try:
-              markdown.write('publish_date = %s\n' % json.dumps(j['data']['authors'][author]['publish_date'].encode('utf-8')))
-            except KeyError:   
-              markdown.write('publish_date = ""\n')
-            try:
-              markdown.write('date = %s\n' % json.dumps(j['data']['authors'][author]['publish_date'].encode('utf-8')))
-            except KeyError:   
-              markdown.write('date = %s\n' % (json.dumps(j['data']['authors'][author]['create_date']).encode('utf-8')))                 
-            markdown.write('last_updated = %s\n' % json.dumps((j['data']['authors'][author]['last_updated']).encode('utf-8')))
-            try:
-              markdown.write('preview_url = %s\n' % (json.dumps(j['data']['authors'][author]['preview_url']).encode('utf-8')))
-            except KeyError:
-              markdown.write('preview_url = ""\n')
-            ## END STANDARD DATA BLOCK ##   
-            markdown.write('name = %s\n' % (json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
-            markdown.write('title = %s\n' % (json.dumps(j['data']['authors'][author]['name']).encode('utf-8')))
-            try:
-                markdown.write('alphabetize_by = %s\n' % (json.dumps(j['data']['authors'][author]['alphabetize_by']).encode('utf-8')))
-            except KeyError:
-                markdown.write('alphabetize_by = ""\n')            
-            try:
-                markdown.write('is_draft = %s\n' % (json.dumps(j['data']['authors'][author]['is_draft'])))
-            except KeyError:
-                markdown.write('is_draft = ""\n')
-            try:
-                markdown.write('is_seattle_pnw_writer = %s\n' % (json.dumps(j['data']['authors'][author]['is_seattle__pnw_writer'])))
-            except KeyError:
-                markdown.write('is_seattle_pnw_writer = ""\n')
-            markdown.write('written_about = ""\n')
+            
+            #call that function here and pass along author
+            
+            makewriter( 'authors', author )
+            #for matches in writers:
+            #    if matches == j['data']['authors'][author]['name']:
+            #        # print("skipping " + matches)
+           #
+            #    try: 
+            #        if j['data']['authors'][author]['delete_me_please_2']:
+            #            doubleauthor = True
+            #            writers.append(j['data']['authors'][author]['name'])
+            #            # print("true: " + j['data']['authors'][author]['name'])
+            #    except KeyError:
+            #        doubleauthor = False
 
-            try:
-                index_builder = []
-                for book in j['data']['authors'][author]['books']:
-                    book = findstring(book)
-                    index_builder.append(book.encode('utf-8'))
-                markdown.write('books_author = %s\n' % json.dumps(index_builder))
-            except KeyError:
-                markdown.write('books_author = ""\n')
-
-            # for the related content lookup keys
-            author_temp = ('authors %s' % json.dumps(author.encode('utf-8')).replace('"',''))
-            author_temp = findstring( author_temp ).replace('authors','writers').encode('utf-8')            
-            markdown.write('reviews_about = ["%s"]\n' % author_temp )            
-            markdown.write('notes_about = ["%s"]\n' % author_temp )
-            try:
-                index_builder = []
-                for sponsorship in j['data']['authors'][author]['sponsorships_author']:
-                    sponsorship = findstring(sponsorship)
-                    index_builder.append(sponsorship.encode('utf-8'))
-                markdown.write('sponsorships_author = %s\n' % json.dumps(index_builder))
-            except KeyError:
-                markdown.write('sponsorships_author = ""\n')
-            markdown.write('email = ""\n')
-            markdown.write('twitter = ""\n')
-            markdown.write('website = ""\n')
-            markdown.write('bio = ""\n')
-            markdown.write('reviews_byline = ""\n')
-            markdown.write('notes_byline = ""\n')
-            markdown.write('books_translator = ""\n')
             markdown.write('+++\n')
             markdown.close()
+
+    
+
+
 
         # START THE WRITERS 
 
