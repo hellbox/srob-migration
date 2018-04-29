@@ -1,0 +1,5 @@
+<div class="note-interview">
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <time>Published <abbr class="timeago" title="{{ .Params.publish_date }}"></abbr> by {{ with ($.Scratch.Get "names") }}{{ delimit . "," " and " }}{{ end }}</time>        
+    <div class="interview"><pre>{{ .Content }}</pre></div>        
+</div>
