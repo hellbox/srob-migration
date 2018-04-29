@@ -1,0 +1,5 @@
+<div class="note-politics">
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <i class="em em-us"></i><time>Published <abbr class="timeago" title="{{ .Params.publish_date }}"></abbr> by {{ with ($.Scratch.Get "names") }}{{ delimit . "," " and " }}{{ end }}</time>        
+    <div class="politics"><pre>{{ .Content }}</pre></div>        
+</div>
