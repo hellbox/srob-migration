@@ -1,0 +1,7 @@
+<div class="note-poem">
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <time>by {{ with ($.Scratch.Get "names") }}{{ delimit . "," " and " }}{{ end }}</time>
+        <div class="poem"><pre>{{ .Content }}</pre></div>
+        <time>Published <abbr class="timeago" title="{{ .Params.publish_date }}"></abbr> </time>
+</div>
+

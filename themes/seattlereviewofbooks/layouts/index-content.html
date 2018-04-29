@@ -134,20 +134,9 @@
             include "templates/sponsorships/sponsorship.partial.html" */}}
         </div> 
     {{ end }} 
-       
-    {{ if eq .Params.type "Note"}}        
-        {{ template "theme/partials/notes.html" . }}
-    {{ else if eq .Params.type "Column" }}
-        <li>Column: <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-    {{ else if eq .Params.type "Poem" }}        
-        {{ template "theme/partials/poems.html" . }}
-    {{ else if eq .Params.type "Interview" }}        
-    <li>Interview: <a href="{{ .RelPermalink }}">{{ .Title }}</a></li> 
-    {{ else if eq .Params.type "Fiction" }}        
-    <li>Fiction: <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>         
-    {{ else if eq .Params.type "Politics" }}        
-    <li>Politics: <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>             
-    {{ end }}
+
+    {{/* pulls in all types of notes */}}
+    {{ template "theme/partials/notes-wrapper.html" . }}       
   
     {{ end }}
 {{ end }}
