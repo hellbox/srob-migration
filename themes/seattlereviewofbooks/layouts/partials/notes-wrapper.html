@@ -3,7 +3,9 @@
 {{ range $i, $v := $byline }}
     {{ $linkbuilder := (print "<a href='" .RelPermalink "'>" $v.Params.name "</a>") }}    
     {{ with $v.Params.name }}{{ $.Scratch.SetInMap "names" $linkbuilder $linkbuilder }}{{ end }}
-{{ end }}                    
+{{ end }}
+    
+    {{ .Params.type }}                    
     
     {{ if eq .Params.type "Note"}}        
         {{ template "theme/partials/notes-notes.html" . }}

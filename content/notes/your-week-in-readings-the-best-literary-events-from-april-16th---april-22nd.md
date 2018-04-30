@@ -21,10 +21,9 @@ notes_tags = ["notes/your-week-in-readings-the-best-literary-events-from-april-1
 notes_about = ["authors/anca-l-szil\u00e1gyi.md", "authors/ross-mcmeekin.md", "authors/cat-rambo.md"]
 books = ["books/daughters-of-the-air.md", "books/the-hummingbirds.md"]
 +++
-<p class="noindent"><h5>**Monday, April 16: Subcontinental Drift**</h5></p>
+<h5>**Monday, April 16: Subcontinental Drift**</h5>
 The local open mic night "celebrating South Asian culture" celebrates spring with new work on the theme "Transitions." Event copy says "Our performers come to a safe-space to share comedy sketches, prose they've written, spoken-word they're inspired by, music they want to perform, and of course, dance."
 *Northwest Film Forum, 1515 12th Ave, subdriftsea@gmail.com, https://www.facebook.com/events/164396617594662/, $10.
-
 <p class="noindent"><h5>**Tuesday, April 17:** *Love and Trouble* **Reading**</h5></p>
 *Seatte Times* columnist Nicole Brodeur joins memoirist Claire Dederer in conversation to celebrate the paperback publication of her midlife memoir, *Love and Trouble*. 
 *University Book Store,  4326 University Way N.E., 634-3400, http://www2.bookstore.washington.edu/, 7 pm, free.* 
@@ -34,7 +33,6 @@ The local open mic night "celebrating South Asian culture" celebrates spring wit
 <p class="noindent"><h5>**Wednesday, April 18: Sandra O'Dell and Cat Rambo **</h5></p>
 Two sci-fi authors, Sandra Odell and Cat Rambo, talk about their most recent books. Odell's short story collection is titled *Godfall and Other Stories*. Rambo is the author of *Hearts of Tabat*, which is the second book in a series about a city that is going through tremendous societal upheaval.  
 .*University Book Store,  4326 University Way N.E., 634-3400, http://www2.bookstore.washington.edu/, 7 pm, free. *
-
 <p class="noindent"><h5>**Thursday, April 19: Dock Street Salon**</h5></p>
 Two local authors who have published new novels in the last few months, Anca Szilágyi (author of [*Daughters of the Air*](http://www.seattlereviewofbooks.com/reviews/a-fairy-tale-of-new-york/)) and Ross McMeekin (author of [*The Hummingbirds*]( http://www.seattlereviewofbooks.com/reviews/the-dark-side-of-the-sun/)), will read and discuss what it's like to publish a new book.
 *Phinney Books, 7405 Greenwood Ave. N, 297-2665, http://phinneybooks.com, 7 pm, free.*

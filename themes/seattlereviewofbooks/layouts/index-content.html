@@ -13,7 +13,8 @@
 {{ end }}
 
 <div class="container note">
-{{ range .Paginator.Pages }}
+{{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections )}}
+{{ range $paginator.Pages }}
     {{ if eq .Params.type "Review" }}
         {{/* Set up related records for the reviews loop */}}
         {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
@@ -116,7 +117,7 @@
                 </div>             
              </div>      
     
-    {{ end }}{{/* Ends reviews section */}}    
+    {{ end }}{{/* Ends reviews section */}}  
     <div class="row">
         <div class="col-sm-1">
             <div class="share-links small share-column">
@@ -141,7 +142,7 @@
             INSERT SPONORSHIP HERE 
             include "templates/sponsorships/sponsorship.partial.html" }}
         </div> 
-        {{ end */}}  
+        {{ end */}}
 {{ end }}
 </div>
 {{ template "_internal/pagination.html" . }}

@@ -23,7 +23,9 @@ books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>
 
-<p class="noindent">**Dear Cienna,**</p> 
+<p class="noindent">
+**Dear Cienna,**
+</p> 
 
 <p class="noindent">**I had some friends recently talking about how great Columbo was, and that led to wondering if that character could be played by anybody but Peter Falk. Notably, if we rebooted *Columbo*, what woman could play the detective?**</p>
 
