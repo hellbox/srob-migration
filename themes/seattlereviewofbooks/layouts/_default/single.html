@@ -1,43 +1,5 @@
-//SetInMap but use author name for the name of the map, then add books to it. Coudl be a single dimension, right? <br>
-{{ $.Scratch.Set "Herman Melville" "" }}
-{{ $.Scratch.Add "Herman Melville" "Moby Dick" }}
-{{ $.Scratch.Add "Herman Mellville" "The Confidance Man" }}
-{{ $.Scratch.Add "Herman Mellville" "Omoo"}}
-{{ $.Scratch.Set "John Prine" "" }}
-{{ $.Scratch.Add "John Prine" "All the Best" }}
-{{ $.Scratch.Set "Iris Murdoch" "" }}
-{{ $.Scratch.Add "Iris Murdoch" "Metaphysics Without Morals" }}
-{{/* delimit ($.Scratch.Get "Herman Melville") ", " */}}
-{{ $.Scratch.Delete "Herman Melville" }}
+{{ .Title }}
 
-{{ $.Scratch.Add "key" "result" }}
-{{ $.Scratch.Get "key" }}
-{{ delimit ($.Scratch.Get "key") ", " }}
-
-{{/* }}
-<h1>{{ .Section }} — {{ .Params.name }}</h1>
-
-{{ $tags := .Site.RegularPages.RelatedIndices . "notes_tags"}}
-{{ $books := .Site.RegularPages.RelatedIndices . "reviews_books" }}
-{{ $byline := .Site.RegularPages.RelatedIndices . "reviews_byline" }}
-{{ $author := .Site.RegularPages.RelatedIndices . "books_author" }}
-
-<h1>Books in this review</h1>
-<ul>{{ range $books }}<li><a href="{{ .Permalink }}">{{ .Params.name }}</a></li>{{ end }}</ul>
-
-<h1>Author of the books</h1>
-<ul>{{ range $author }}<li><a href="{{ .Permalink }}">{{ .Params.name }}</a></li>{{ end }}</ul>
-
-<h1>Writers of this review</h1>
-<ul>{{ range $byline }}<li><a href="{{ .Permalink }}">{{ .Params.name }}</a></li>{{ end }}</ul>
-
-<!-- WORKS as expected, but returns some /tags/ as well as /notes/ that will have to be filtered.
-    Tags to notes, notes to tags: <ul>{{ range $tags }}<li><a href="{{ .Permalink }}">{{ .Params.name }}</a></li>{{ end }}</ul> -->
+{{ .Content | markdownify }}
 
 
-
-
-
-{{ .Content }}
-
-*/}}
