@@ -12,11 +12,13 @@
     {{ else if eq .Params.type "Poem" }}        
         {{ template "theme/partials/notes-poems.html" . }}
     {{ else if eq .Params.type "Interview" }}        
-     
+        {{ template "theme/partials/notes-interviews.html" . }} 
     {{ else if eq .Params.type "Fiction" }}        
-            
-    {{ else if eq .Params.type "Politics" }}        
+        {{ template "theme/partials/notes-fiction.html" . }}            
+    {{ else if eq .Params.type "Politics" }}
+        {{ template "theme/partials/notes-politics.html" . }}    
                 
     {{ end }}
+    <div class="note-end"></div>
 
 {{ $.Scratch.Delete "names" }}
