@@ -1,0 +1,27 @@
+<li class="book">
+    <div class="book-data">
+        <div class="book-image"><img src="{{/* book.image|imageSize('auto', 'auto') */}}"></div>
+        <div class="book-title">{{/* book.name */}}</div>
+        <div class="book-author">
+            by {{/*  for author in book.author_relationship  */}}
+            {{/* author.name */}}{{/*  if loop.revindex0 > 0  */}}, {{/*  endif  */}}{{/*  if loop.revindex == 2  */}} and{{/*  set multiples = true  */}}{{/*  endif  */}}<br>{{/*  endfor  */}}            
+            {{/*  for translator in book.translator  */}} Translated by {{/* translator.name */}} {{/*  endfor  */}}
+        </div>
+    </div>
+    <div class="book-publication">
+        {{/*  for publisher in book.publisher_relationship  */}} {{/* publisher.name */}} {{/*  endfor  */}}<br>
+        {{/* book.publication_date|date('F d, Y') */}}<br>
+        {{/* book.page_count */}} pages<br>
+    </div>
+    <div class="book-srob">
+        <em>{{/* book.how_we_acquired */}}</em>
+    </div>
+    {{/*  if book.alt_purchase_link  */}}
+    <a href="{{/* book.alt_purchase_link */}}" class="online-purchase">{{/*  if book.alt_purchase_label  */}}{{/* book.alt_purchase_label */}}{{/*  else  */}}Buy online{{/*  endif  */}}</a>
+    {{/*  else  */}}
+    <a href="http://www.indiebound.org/book/{{/* book.isbn_13 */}}?aff=hellbox" class="indie-bound">Buy on IndieBound</a>
+    {{/*  endif  */}}
+    {{/*  if book.ebook_purchase  */}}
+    <a href="{{/* book.ebook_purchase */}}" class="ebook-purchase">{{/*  if book.alt_ebook_label  */}}{{/* book.alt_ebook_label */}}{{/*  else  */}}Buy ebook{{/*  endif  */}}</a>
+    {{/*  endif  */}}
+</li>
