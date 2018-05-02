@@ -6,17 +6,17 @@
 {{ end }}
                           
     {{ if eq .Params.type "Note"}}        
-        {{ template "theme/partials/notes-notes.html" . }}
+        {{ partial "notes-notes.html" . }}
     {{ else if eq .Params.type "Column" }}
-        {{ template "theme/partials/notes-columns.html" . }}
+        {{ partial "notes-columns.html" . }}
     {{ else if eq .Params.type "Poem" }}        
-        {{ template "theme/partials/notes-poems.html" . }}
+        {{ partial "notes-poems.html" . }}
     {{ else if eq .Params.type "Interview" }}        
-        {{ template "theme/partials/notes-interviews.html" . }} 
+        {{ partial "notes-interviews.html" . }} 
     {{ else if eq .Params.type "Fiction" }}        
-        {{ template "theme/partials/notes-fiction.html" . }}            
+        {{ partial "notes-fiction.html" . }}            
     {{ else if eq .Params.type "Politics" }}
-        {{ template "theme/partials/notes-politics.html" . }}    
+        {{ partial "notes-politics.html" . }}    
                 
     {{ end }}
     <div class="note-end"></div>

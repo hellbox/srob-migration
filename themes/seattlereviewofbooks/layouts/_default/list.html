@@ -126,7 +126,7 @@
             </div>
         </div>
         <div class="col-sm-6">
-            {{ partial "notes-wrapper.html" . }}
+            {{ partialCached "notes-wrapper.html" . }}
             {{/* if eq (add $index 1) $len }}
                 <div class="mobile-sponsor">
                     {{
