@@ -3,20 +3,19 @@
 {{ range $i, $v := $byline }}
     {{ $linkbuilder := (print "<a href='" .RelPermalink "'>" $v.Params.name "</a>") }}    
     {{ with $v.Params.name }}{{ $.Scratch.SetInMap "names" $linkbuilder $linkbuilder }}{{ end }}
-{{ end }}
-                          
+{{ end }}               
     {{ if eq .Params.type "Note"}}        
-        {{ partial "notes-notes.html" . }}
+        {{ partialCached "notes-notes.html" . }}
     {{ else if eq .Params.type "Column" }}
-        {{ partial "notes-columns.html" . }}
+        {{ partialCached "notes-columns.html" . }}
     {{ else if eq .Params.type "Poem" }}        
-        {{ partial "notes-poems.html" . }}
+        {{ partialCached "notes-poems.html" . }}
     {{ else if eq .Params.type "Interview" }}        
-        {{ partial "notes-interviews.html" . }} 
+        {{ partialCached "notes-interviews.html" . }} 
     {{ else if eq .Params.type "Fiction" }}        
-        {{ partial "notes-fiction.html" . }}            
+        {{ partialCached "notes-fiction.html" . }}            
     {{ else if eq .Params.type "Politics" }}
-        {{ partial "notes-politics.html" . }}    
+        {{ partialCached "notes-politics.html" . }}    
                 
     {{ end }}
     <div class="note-end"></div>
