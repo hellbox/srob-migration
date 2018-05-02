@@ -23,15 +23,16 @@
                         {{ end }}</br>
                         </strong>
                         </h4>
-                        {{ $.Scratch.Delete "names" }}
                         <div class="writes-about">writes about</div>
                     </div>
                 </div>
                 <ul class="books reviews-page">
-                    {{/* for book in review.books_in_this_review */}}
-                    {{/* include "templates/partials/books.partial.html" */}}
-                    {{/* if loop.last */}}{{/* if loop.index > 3 */}} <a href="#" class="more-books">and {{/* loop.index - 3 */}} more (show)</a> {{/* endif */}}{{/* endif*/}}
-                    {{/* endfor */}}
+                    {{ range $i, $v := $reviewsbooks }}
+                    {{ partial "book.html" }}
+                    {{ if and (gt (len $reviewsbooks) 3) (eq (sub (len $reviewsbooks) 1) $i) }}
+                        <a href="#" class="more-books">and {{ sub (len $reviewsbooks) 3 }} more (show)</a>
+                    {{ end }}
+                    {{ end }}
                 </ul>
             </div>
             {{/* if loop.index == 3 */}}
