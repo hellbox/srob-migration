@@ -1,3 +1,5 @@
+{{/* TODO: * add in OG and twitters share meta data 
+            * Check what I'm missing from original templates */}}
 <div class="note-poem">
     <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         <time>by {{ with ($.Scratch.Get "names") }}{{ delimit . "," " and " }}{{ end }}</time>
