@@ -12,6 +12,7 @@
 <link rel="amphtml" href="http://mercury.postlight.com/amp?url=http://www.seattlereviewofbooks.com">
 {{ end }}
 
+{{ define "content" }}
 <div class="container note">
 {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections )}}
 {{ range $paginator.Pages }}
@@ -149,7 +150,7 @@
     {{/* Pagination goes here include "templates/partials/paginator.html" */}}
 </div>
 </div>
-
+{{ end }}
 
 
 {{/* comments here 
