@@ -1,1 +1,49 @@
-Reviews list page
+{{/* TODO: Add OG content */}}
+{{ define "content" }}
+
+<div class="container reviews">
+    <div class="col-sm-12">
+        <h1 class="reviews-header">Our reviews</h1>
+        <div class="row review-row">
+            {{ $paginator := .Paginate (where .Data.Pages "Type" "Review") }}
+            {{ range $paginator.Pages }}
+            <div class="col-sm-3 review-card">
+                <div class="review-data">
+                    <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+                    <a href="{{/* url(review) */}}"><h2 class="review-title">{{/* review.name */}}</h2></a>
+                    <div class="review-author">
+                        <h4>
+                        <strong>
+                        {{/* for relation in review.by */}}
+            <a href="{{/* url(relation) */}}">{{/* relation.name */}}</a>{{/* if loop.revindex0 > 0 */}}, {{/* endif */}}{{/* if loop.revindex == 2 */}} and{{/* set multiples = true */}}{{/* endif */}}<br>{{/* endfor */}}
+                        </strong>
+                        </h4>
+                        <div class="writes-about">writes about</div>
+                    </div>
+                </div>
+                <ul class="books reviews-page">
+                    {{/* for book in review.books_in_this_review */}}
+                    {{/* include "templates/partials/books.partial.html" */}}
+                    {{/* if loop.last */}}{{/* if loop.index > 3 */}} <a href="#" class="more-books">and {{/* loop.index - 3 */}} more (show)</a> {{/* endif */}}{{/* endif*/}}
+                    {{/* endfor */}}
+                </ul>
+            </div>
+            {{/* if loop.index == 3 */}}
+            <div class="col-sm-3 sponsor-card">
+                {{/* include "templates/sponsorships/sponsorship.partial.html" */}}
+            </div>
+        </div>
+        <div class="row review-row">
+            {{/* elseif loop.index == 7 */}}
+        </div>
+        <div class="row review-row">
+            {{/* endif */}}
+            {{ end }}
+        </div>
+    </div>
+    <div>
+        {{/* include "templates/partials/paginator.html" */}}
+    </div>
+</div>
+
+{{ end }}
