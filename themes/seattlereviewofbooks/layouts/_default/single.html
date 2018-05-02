@@ -1,5 +1,5 @@
-{{ .Title }}
+{{ define "content" }}
 
-{{ .Content | markdownify }}
+{{ .Params.type }}
 
-
+{{ end }}

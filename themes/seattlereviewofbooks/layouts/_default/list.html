@@ -13,7 +13,7 @@
 {{ end }}
 
 {{ define "content" }}
-<div class="container note">
+<div class="container">
 {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections )}}
 {{ range $paginator.Pages }}
     {{ if eq .Params.type "Review" }}
