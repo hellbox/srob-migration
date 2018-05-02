@@ -1,23 +1,29 @@
 {{/* TODO: Add OG content */}}
 {{ define "content" }}
-
 <div class="container reviews">
     <div class="col-sm-12">
         <h1 class="reviews-header">Our reviews</h1>
         <div class="row review-row">
             {{ $paginator := .Paginate (where .Data.Pages "Type" "Review") }}
             {{ range $paginator.Pages }}
+            {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
+            {{ $reviewsbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
             <div class="col-sm-3 review-card">
                 <div class="review-data">
                     <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
-                    <a href="{{/* url(review) */}}"><h2 class="review-title">{{/* review.name */}}</h2></a>
+                    <a href="{{ .RelPermalink }}"><h2 class="review-title">{{ .Title }}</h2></a>
                     <div class="review-author">
                         <h4>
                         <strong>
-                        {{/* for relation in review.by */}}
-            <a href="{{/* url(relation) */}}">{{/* relation.name */}}</a>{{/* if loop.revindex0 > 0 */}}, {{/* endif */}}{{/* if loop.revindex == 2 */}} and{{/* set multiples = true */}}{{/* endif */}}<br>{{/* endfor */}}
+                        {{ range $i, $v := $byline }}
+                            {{ if and (gt (len $byline) 1) (gt $i 0) }}
+                                 and 
+                            {{ end }}
+                            <a href="{{ $v.Permalink }}">{{ $v.Params.name }}</a>
+                        {{ end }}</br>
                         </strong>
                         </h4>
+                        {{ $.Scratch.Delete "names" }}
                         <div class="writes-about">writes about</div>
                     </div>
                 </div>
@@ -42,8 +48,7 @@
         </div>
     </div>
     <div>
-        {{/* include "templates/partials/paginator.html" */}}
+        {{ template "_internal/pagination.html" . }}
     </div>
 </div>
-
 {{ end }}
