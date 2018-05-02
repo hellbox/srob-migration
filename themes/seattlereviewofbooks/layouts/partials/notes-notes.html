@@ -1,10 +1,3 @@
-{{ $byline := where ( .Site.RegularPages.RelatedIndices . "notes_byline" ) "Type" "writers" }}
-{{/* Makes a nice list of site writer bylines */}}
-{{ range $i, $v := $byline }}
-    {{ $linkbuilder := (print "<a href='" .RelPermalink "'>" $v.Params.name "</a>") }}    
-    {{ with $v.Params.name }}{{ $.Scratch.SetInMap "names" $linkbuilder $linkbuilder }}{{ end }}
-{{ end }}                    
-    
 <div class="note-note">
     <div class="title">
         <strong><em><a href="{{ .Params.link }}">{{ .Title }}</a></em></strong>
@@ -14,5 +7,3 @@
         </div>
         <time>Published <a href="{{ .RelPermalink }}"><abbr class="timeago" title="{{ .Params.publish_date }}"></abbr></a> by {{ with ($.Scratch.Get "names") }}{{ delimit . "," " and " }}{{ end }}</time>
 </div>
-
-{{ $.Scratch.Delete "names" }}

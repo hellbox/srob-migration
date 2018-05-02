@@ -1,5 +1,15 @@
 {{ define "content" }}
-
-{{ .Params.type }}
+<div class="container note">
+    <div class="row">
+        <div class="col-sm-1">
+            <div class="share-links small share-column">
+                {{ partial "share-links.html" }}
+            </div>
+        </div>
+        <div class="col-sm-6">                
+            {{ partial "notes-wrapper.html" . }}  
+        </div>
+    </div>
+</div>
 
 {{ end }}
