@@ -10,7 +10,8 @@ last_updated = "2018-04-06T10:36:00-07:00"
 preview_url = "22463c13-6287-952e-0832-858360925c03"
 name = "The Help Desk: On gender-swapping the classics"
 title = "The Help Desk: On gender-swapping the classics"
-type = "Column"
+subtype = "Column"
+type = "notes"
 link = ""
 shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523036118536/Screen%20Shot%202018-04-06%20at%2010.34.45%20AM.png"
 twitterauto = "Great point from @ciennam in this week's Help Desk:"
@@ -23,9 +24,7 @@ books = ""
 +++
 <p class="intro">*Every Friday, Cienna Madrid offers solutions to life’s most vexing literary problems. Do you need a book recommendation to send your worst cousin on her birthday? Is it okay to read erotica on public transit? Cienna can help. Send your questions to* advice@seattlereviewofbooks.com.</p>
 
-<p class="noindent">
-**Dear Cienna,**
-</p> 
+<p class="noindent">**Dear Cienna,**</p> 
 
 <p class="noindent">**I had some friends recently talking about how great Columbo was, and that led to wondering if that character could be played by anybody but Peter Falk. Notably, if we rebooted *Columbo*, what woman could play the detective?**</p>
 

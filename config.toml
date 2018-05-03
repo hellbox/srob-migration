@@ -8,7 +8,7 @@ paginate = "20"
 
 [params]
     description = "From writers to readers, from booksellers to librarians, from new releases to antiquarian discoveries, the Seattle Review of Books examines exactly what it means to love books and writing in Seattle in the 21st century. The book review is an underrated art form, and we publish as much beautiful writing about books as humanly possible."
-    mainSections = ["reviews", "Note", "Column", "Poem", "Interview", "Fiction", "Politics"]
+    mainSections = ["reviews", "notes"]
 
 [related]
 includeNewer = true

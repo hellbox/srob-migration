@@ -4,18 +4,18 @@
     {{ $linkbuilder := (print "<a href='" .RelPermalink "'>" $v.Params.name "</a>") }}    
     {{ with $v.Params.name }}{{ $.Scratch.SetInMap "names" $linkbuilder $linkbuilder }}{{ end }}
 {{ end }}               
-    {{ if eq .Params.type "Note"}}        
-        {{ partialCached "notes-notes.html" . }}
-    {{ else if eq .Params.type "Column" }}
-        {{ partialCached "notes-columns.html" . }}
-    {{ else if eq .Params.type "Poem" }}        
-        {{ partialCached "notes-poems.html" . }}
-    {{ else if eq .Params.type "Interview" }}        
-        {{ partialCached "notes-interviews.html" . }} 
-    {{ else if eq .Params.type "Fiction" }}        
-        {{ partialCached "notes-fiction.html" . }}            
-    {{ else if eq .Params.type "Politics" }}
-        {{ partialCached "notes-politics.html" . }}    
+    {{ if eq .Params.subtype "Note"}}        
+        {{ partial "notes-notes.html" . }}
+    {{ else if eq .Params.subtype "Column" }}
+        {{ partial "notes-columns.html" . }}
+    {{ else if eq .Params.subtype "Poem" }}        
+        {{ partial "notes-poems.html" . }}
+    {{ else if eq .Params.subtype "Interview" }}        
+        {{ partial "notes-interviews.html" . }} 
+    {{ else if eq .Params.subtype "Fiction" }}        
+        {{ partial "notes-fiction.html" . }}            
+    {{ else if eq .Params.subtype "Politics" }}
+        {{ partial "notes-politics.html" . }}    
                 
     {{ end }}
     <div class="note-end"></div>

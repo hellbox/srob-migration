@@ -1,16 +1,17 @@
 +++
 index = "-L9hTG9E5n68Vo3Pzmym"
 sort_create_date = 1523328780
-sort_last_updated = 1523329080
+sort_last_updated = 1524079920
 sort_publish_date = 1524070260
 create_date = "2018-04-09T19:53:00-07:00"
 publish_date = "2018-04-18T09:51:00-07:00"
 date = "2018-04-18T09:51:00-07:00"
-last_updated = "2018-04-09T19:58:00-07:00"
+last_updated = "2018-04-18T12:32:00-07:00"
 preview_url = "6f217862-9ac5-4c7a-5bd6-695b09dcdcc0"
 name = "Bring your own book to Book Club, the most literary improv show in the known universe"
 title = "Bring your own book to Book Club, the most literary improv show in the known universe"
-type = "Interview"
+subtype = "Interview"
+type = "notes"
 link = ""
 shareimage = "http://seattlereviewofbooks.com/webhook-uploads/1523327617970/book%20club.jpg"
 twitterauto = "We talked with the stars of the drunkest, most literary improv show in the whole universe."
@@ -31,7 +32,7 @@ books = ""
 
 The show concept originally came from Amalia and I making fun of trend-obsessed mommy bloggers, which quickly devolved into us revealing tragic backstories for imaginary people we were just making fun of. Seattle's Improv scene is having a real explosion of experimental unscripted theatre right now, and we've been performing together for ten years, so the show felt like it would be fun! 
  
-<p class="noindent">**AMALIA**: Yeah, the show itself has evolved some and obviously the content is different every time, but the premise has pretty much always stayed the same. As we were starting to really get into it riffing on this idea, we discovered that there is basically endless of material to be found within the archetype of these vapid, secretly desperate, moneyed women. We could throw these characters into a slice-of-life type setting with just a suggestion for an idea from the audience and there would be plenty to run with (or Zumba with, or Kegel with, pick your poison), but having the addition of the book from the audience keeps the surprises coming in real-time for us and gives us a device to build tension, break it, give a moment a button or an ally-oop, and even lovingly throw each other under the bus once in a while. We've got to stay on our toes after all.</p>
+<p class="noindent">**AMALIA**: Yeah, the show itself has evolved some and obviously the content is different every time, but the premise has pretty much always stayed the same. As we were starting to really get into it riffing on this idea, we discovered that there is basically endless material to be found within the archetype of these vapid, secretly desperate, moneyed women. We could throw these characters into a slice-of-life type setting with just a suggestion for an idea from the audience and there would be plenty to run with (or Zumba with, or Kegel with, pick your poison), but having the addition of the book from the audience keeps the surprises coming in real-time for us and gives us a device to build tension, break it, give a moment a button or an ally-oop, and even lovingly throw each other under the bus once in a while. We've got to stay on our toes after all.</p>
   
 <p class="noindent">**I used to run the book clubs at Elliott Bay Book Company, and it seems as though "book club ladies" are a relatively easy target for mockery. There are a ton of easy book club jokes in pop culture-mean-spirited jokes about rich white ladies who drink a lot and can barely read, which doesn't reflect the reality of book clubs as I know them. You play with these expectations but you don't come from a place of superiority. How do you manage to avoid the cliches and find something worthwhile to investigate in your characters? Have your relationships with the characters changed over time?**</p>
  

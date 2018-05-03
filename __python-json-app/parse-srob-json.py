@@ -870,7 +870,7 @@ for key in j['data']:
         markdown.write('name = %s\n' % (json.dumps(j['data']['notes'][note]['name']).encode('utf-8')))
         markdown.write('title = %s\n' % (json.dumps(j['data']['notes'][note]['name']).encode('utf-8')))
         markdown.write('subtype = %s\n' % (json.dumps(j['data']['notes'][note]['type']).encode('utf-8')))
-        markdown.write('type = "note"')
+        markdown.write('type = "notes"\n')
 
         try:
           markdown.write('link = %s\n' % (json.dumps(j['data']['notes'][note]['url']).encode('utf-8')))
