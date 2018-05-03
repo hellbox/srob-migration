@@ -1,33 +1,42 @@
 +++
 sort_create_date = 1434640200
-sort_last_updated = 1496325780
+sort_last_updated = 1524777480
 sort_publish_date = ""
 create_date = "2015-06-18T08:10:00-07:00"
 publish_date = ""
 date = "2015-06-18T08:10:00-07:00"
-last_updated = "2017-06-01T07:03:00-07:00"
+last_updated = "2018-04-26T14:18:00-07:00"
 preview_url = "077ab535-36c5-400b-f8eb-6b3878caefb6"
 name = "About the Seattle Review of Books"
 title = "About the Seattle Review of Books"
-layouts = "simple"
-type = "singles"
+type = "simple"
 +++
+
+<h2>Hello!</h2>
+
+The _Seattle Review of Books_ is an award-winning book review website, with a decided Seattle sensibility. We publish book reviews, columns, poetry, and occasionally fiction, not to mention news about the Seattle literary scene. We've been publishing daily since June of 2015. 
 
 <h2>Seattle is the greatest book city in the United States</h2>
 
-We have marvelous bookstores, excellent libraries, a vibrant community of writers, the most eager readers, world-famous institutions devoted to the art and craft of writing and reading, and a tremendous readings scene that hosts thousands of literary events a year. But for a multitude of reasons, Seattle’s media barely bothers to cover books at all. 
+We have marvelous bookstores, excellent libraries, a vibrant community of writers, the most eager readers, world-famous institutions devoted to the art and craft of writing and reading, and a tremendous readings scene that hosts thousands of literary events a year.
 
-We felt it was time for a publishing venture that intends to reflect, record, and celebrate our underserved literary community. From writers to readers, from booksellers to librarians, from new releases to antiquarian discoveries, we want to examine exactly what it means to love books and writing in Seattle in the 21st century. We believe the book review is an underrated art form, and we want to publish as much beautiful writing about books as humanly possible.
+We started the _SRoB_ in 2015 because we felt it was time for a publishing venture that reflects, records, and celebrates our underserved literary community. From writers to readers, from booksellers to librarians, from new releases to antiquarian discoveries, we want to examine exactly what it means to love books and writing in Seattle in the 21st century. We believe the book review is an underrated art form, and we want to publish as much beautiful writing about books as humanly possible.
 
 <h2>Who’s behind the site?</h2>
 
-*The Seattle Review of Books* was founded by Martin McClellan and Paul Constant.
+*The Seattle Review of Books* was founded by Martin McClellan and Paul Constant. Our associate editor is Dawn McCarra Bass.
 
-Paul has written for [The Progressive](http://www.progressive.org "The Progressive | Peace and social justice since 1909"), [Newsweek](http://www.newsweek.com "News, Analysis, Politics, Business, Technology, Lifestyle, Photos and Video - Newsweek"), [Re/Code](http://recode.net "Re/code | Tech News, Reviews & Analysis"), [the Utne Reader](http://example.com/), and many North American alternative weeklies. He’s worked in the book business for two decades, starting as a bookseller (originally at Borders Books and Music, then at Boston’s grand old [Brattle Bookshop](http://www.brattlebookshop.com "Brattle Book Shop") and Seattle’s own [Elliott Bay Book Company](http://www.elliottbaybook.com "Welcome to Elliott Bay Book Company online! | The Elliott Bay Book Company")) and then becoming a literary critic. He serves as the Seattle correspondent for national book news site Literary Hub. Formerly the books editor for the [Seattle Stranger](http://www.elliottbaybook.com "Welcome to Elliott Bay Book Company online! | The Elliott Bay Book Company"), Paul is now a fellow at [Civic Ventures](http://civicskunkworks.com "Skunk Works"), a public policy incubator based out of Seattle.
+Paul has written for the *New York Observer*, the *Los Angeles Times*, the *Seattle Times*, the *Progressive*, *Newsweek*, Re/Code, the *Utne Reader*, and many North American alternative weeklies. He’s worked in the book business for two decades as a bookseller, a journalist, and a literary critic. Paul is a fellow at Civic Ventures, a public policy incubator based out of Seattle.
 
-[Martin](http://martinmcclellan.com "Martin McClellan is a novelist and designer living in Seattle.") is a novelist (his first, [California Four O’Clock](http://kck.st/1Gb8Otp "California Four O'Clock: A novel about the lore of pin-ups by Martin McClellan &mdash; Kickstarter"), was published in 2015 by a successful Kickstarter campaign), and life-long reader. He designs websites, apps, and other things for a living in the healthcare industry. 
+[Martin](http://martinmcclellan.com "Martin McClellan is a novelist and designer living in Seattle.") is a novelist (his first, [California Four O’Clock](http://kck.st/1Gb8Otp "California Four O'Clock: A novel about the lore of pin-ups by Martin McClellan &mdash; Kickstarter"), was published in 2015 by a successful Kickstarter campaign), and life-long reader. He's a designer for the augmented writing company [Textio](http://textio.com). 
 
-Using restaurant terminology: Paul is responsible for the front-of-the-house, and Martin is running the kitchen (and occasionally delivering food). 
+Dawn McCarra Bass is a writer and editor with one foot in books and the other in &mdash; books (including a stint at the University of Chicago Press). During the day, she does marketing and brand strategy under the code name Backtalk Communications.
+
+We used to say that using restaurant terminology: Paul is responsible for the front-of-the-house, and Martin is running the kitchen (and occasionally delivering food). But Dawn completely breaks that metaphor, and, as of yet, a better one hasn't occurred to us.
+
+<h2>Didn't you win an award or something?</h2>
+
+Yes! In 2018, the *Seattle Review of Books* received Seattle Arts & Lectures [Prowda Literary Champions Award](http://www.seattlereviewofbooks.com/notes/2018/01/03/seattle-arts-and-lectures-announces-the-2018-prowda-literary-champion-award-winners-mary-ann-gwinn-and-uh-the-seattle-review-of-books/), alongside Mary Ann Gwinn, one of Seattle's great practitioners of the art of book reviewing. Past recipients include the owners of Open Books, Friends of the Library’s Chris Higashi, and Book-It Repertory Theatre. We're humbled to be mentioned in the same breath with all of them.
 
 <h2>What's the difference between Reviews and Notes?</h2>
 
@@ -35,7 +44,7 @@ Substantial, thoughtful reviews are the heart of *The Seattle Review of Books*. 
 	
 Our Notes — short posts, articles, and columns — are our blog. Through them we run local and national book news, interviews with local authors, columns, an ongoing Bookstore of the Month series, and profile pieces. Our notes will be more frequently updated than Reviews — every weekday.
 
-<h2>How can you claim to celebrate the diversity of Seattle’s literary scene? Aren’t you a couple of white dudes?</h2>
+<h2>How can you claim to celebrate the diversity of Seattle’s literary scene? Aren't your founders just a couple of white dudes?</h2>
 
 Yes, but we are actively dedicated to diversity in the books that we cover, and in the reviewers who cover them. Diversity is a cornerstone belief of *The Seattle Review of Books*. We hope to encourage a new generation of book reviewers with a wide variety of perspectives to share their reading lives with the world. We also intend to hire an ombudsman to publish yearly “diversity reports” examining the race, gender, sexuality, and cultural perspectives of authors we feature, so that we don’t perpetuate the publishing industry’s ongoing institutional preference for books by straight white dudes. We encourage ongoing transparency and conversation on this topic. 
 
@@ -64,15 +73,15 @@ We can guarantee that your writing will land in front of dedicated book-lovers: 
 
 <h2>Where is your calendar?</h2>
 
-We’re working on it! The calendar should be live sometime this fall, and we’ll make a big announcement when it’s ready. For now, we’ll be running a column about the best-looking readings of the week every Monday.
+We don't have a full-fledged calendar (for now), but we publish recommendations every week for the [best-looking readings](http://www.seattlereviewofbooks.com/tags/your-week-in-readings/) and highlight an [event of the week](http://www.seattlereviewofbooks.com/tags/event-of-the-week/).
 
 <h2>What's up with that gorgeous typography?</h2>
 
 Our typefaces &mdash; Seravek for the body copy, and Anchor for the headlines &mdash; were generously provided by the [Process Type Foundry](http://processtypefoundry.com "Process Type Foundry") for use on our site. 
 
-We picked Anchor because its elegant tight tracking and rounded corners gave a stalwart but non-stuffy feel to the page. It condensed nicely for long book (and post titles), but is very legible, and works with aplomb at any size you want it.
+We picked Anchor because its elegant tight tracking and rounded corners gave a stalwart but non-stuffy feel to the page. It condensed nicely for long book (and post titles) but is very legible, and works with grace at any size you want it.
 
-Seravek is just a lovely face to read long texts. It sets like a dream, scales beautifully, and infuses the text with a nice energy. To our eyes, it feels both modern and classic.
+Seravek is just a lovely face for reading long text. It sets like a dream, scales beautifully, and infuses the text with a nice energy. To our eyes, it feels both modern and classic.
 
 Big thanks to Process Type for their help with our project.
 
