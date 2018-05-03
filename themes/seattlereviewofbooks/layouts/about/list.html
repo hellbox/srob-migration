@@ -1,0 +1,52 @@
+{{ define "content" }}
+<div class="container about">
+    <div class="row">
+        <div class="col-sm-7 content">
+            <h1>{{ .Name }}</h1>
+            <div class="social-links-about social-links">
+             Follow <a href="https://twitter.com/seattlereviewof" title="Review of Books (@seattlereviewof) | Twitter">@seattlereviewof on Twitter</a> <br>
+             Check out <a href="https://instagram.com/seattlereviewof" title="Review of Books (@seattlereviewof) | Instagram">@seattlereviewof on Instagram</a> <br>             
+             Like <a href="https://www.facebook.com/seattlereviewof" title="Seattle Review of Books on Facebook">the Seattle Review of Books on Facebook</a> <br>
+             We have an <a href="http://seattlereviewofbooks.com/feed.xml" title="The Seattle Review of Books">RSS feed</a>
+                
+            </div>
+            {{ .Content }}
+
+            <div class="note-end"></div>
+        </div>
+        <div class="col-sm-4 col-sm-offset-6 scrolling-form" data-spy="affix" data-offset-bottom="300">
+            <div class="contact-form">
+                <h1>Contact us</h1>
+                <div id="form-messages"></div>
+                <form id="ajax-contact" method="post" action="http://helpers.seattlereviewofbooks.com/mailer.php">
+                    <div class="selecter">
+                        <label for="type">Reason for contact</label>
+                        <select name="type" id="type">
+                            <option value="sponsorships">I'd like to talk about sponsorships</option>
+                            <option value="queries">I'm a publicist or author and have a query or a question about a query</option>
+                            <option value="submissions">I'm interested in writing for the Seattle Review of Books</option>
+                            <option value="bug">I want to report an issue or a bug with the site</option>                            
+                            <option value="info">None of your selections suit me, and I will explain my purpose</option>
+                        </select>
+                    </div>
+                    <div class="field">
+                        <label for="name">Name:</label><br>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="field">
+                        <label for="email">Email:</label><br>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="field">
+                        <label for="message">Message:</label><br>
+                        <textarea id="message" name="message" required rows="5"></textarea>
+                    </div>
+                    <div class="field">
+                        <button type="submit" class="sponsor-form-submit">Send</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
