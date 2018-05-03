@@ -1,27 +1,59 @@
-<li class="book">
+
+<li class="book">    
     <div class="book-data">
-        <div class="book-image"><img src="{{/* book.image|imageSize('auto', 'auto') */}}"></div>
-        <div class="book-title">{{/* book.name */}}</div>
+        <div class="book-image"><img src="{{ range .Params.image }}{{ .resize_url }}{{ end }}"></div>
+        <div class="book-title">{{ .Params.name }}</div>
         <div class="book-author">
-            by {{/*  for author in book.author_relationship  */}}
-            {{/* author.name */}}{{/*  if loop.revindex0 > 0  */}}, {{/*  endif  */}}{{/*  if loop.revindex == 2  */}} and{{/*  set multiples = true  */}}{{/*  endif  */}}<br>{{/*  endfor  */}}            
-            {{/*  for translator in book.translator  */}} Translated by {{/* translator.name */}} {{/*  endfor  */}}
+        {{/* Get associated author name */}}
+        {{/* Some books have more than one author. 
+             We'll compile them and pass them as a single author */}}
+            {{ $bookname := .Params.name }}
+            {{ if gt (len (( $.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers")) 1 }}
+                {{ range where ( $.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers" }}
+                    {{/* Loop over authors and put in a holding Scratch */}}
+                    {{ $.Scratch.Add "multiauthor" (slice .Params.name) }}
+                {{ end }}  
+                {{/* Take that Scratch and break it into a delimited string */}}                          
+                {{ with $.Scratch.Get "multiauthor" }}
+                    {{ $.Scratch.Add "multiauthorholder" (delimit . ", " " and ") }}
+                {{ end }}
+                {{/* Convert that list to a string so that we can use it as a Scratch name */}}
+                {{ $authorstring := string ($.Scratch.Get "multiauthorholder") }} 
+                {{/* Add it to the variable with author names as key */}}                                                      
+                {{ $.Scratch.Add $authorstring (slice $bookname) }}
+                {{/* Add it also to "authornames" lists so we can use that to find our keys later */}}                            
+                {{ $.Scratch.Add "authornames" (slice $authorstring) }}
+                {{/* Dump the temporary variables */}}
+                {{ $.Scratch.Delete "multiauthor" }}
+                {{ $.Scratch.Delete "multiauthorholder" }}
+    
+                {{ else }} {{/* Book has a single author so we can not worry about the bullshit above */}}
+                    {{ range where ($.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers" }} 
+                    {{/* Creates a scratch with a key of the author's name and the value of bookname. If an author has more than one book, it will add to it on each subsequent loop. Output is a table of books keyed to an author name */}}
+                    {{ $.Scratch.Add .Params.name (slice $bookname) }} 
+                    {{/* We need an array of author names too, to loop through and as key pulls later */}}
+                    {{ $.Scratch.Add "authornames" (slice .Params.name) }}
+                {{ end }}
+            {{ end }}                           
+            by {{ range $i, $v:= $.Scratch.Get "authornames" }}{{ if eq $i 0}}{{ . }}{{ end }}{{ end }}<br>
+            {{ .Params.translator_relationhip }}            
+            {{/*  TODO: ADD TRANSLATOR   Translated by {{ translator.name  }} {{   endfor  */}}
         </div>
     </div>
-    <div class="book-publication">
+    <div class="book-publication">    
         {{/*  for publisher in book.publisher_relationship  */}} {{/* publisher.name */}} {{/*  endfor  */}}<br>
-        {{/* book.publication_date|date('F d, Y') */}}<br>
-        {{/* book.page_count */}} pages<br>
+        {{ .Date.Format "January 2, 2006" }}<br>
+        {{ .Params.page_count }} pages<br>
     </div>
     <div class="book-srob">
-        <em>{{/* book.how_we_acquired */}}</em>
+        <em>{{ .Params.how_we_acquired }}</em>
     </div>
-    {{/*  if book.alt_purchase_link  */}}
-    <a href="{{/* book.alt_purchase_link */}}" class="online-purchase">{{/*  if book.alt_purchase_label  */}}{{/* book.alt_purchase_label */}}{{/*  else  */}}Buy online{{/*  endif  */}}</a>
-    {{/*  else  */}}
-    <a href="http://www.indiebound.org/book/{{/* book.isbn_13 */}}?aff=hellbox" class="indie-bound">Buy on IndieBound</a>
-    {{/*  endif  */}}
-    {{/*  if book.ebook_purchase  */}}
-    <a href="{{/* book.ebook_purchase */}}" class="ebook-purchase">{{/*  if book.alt_ebook_label  */}}{{/* book.alt_ebook_label */}}{{/*  else  */}}Buy ebook{{/*  endif  */}}</a>
-    {{/*  endif  */}}
+    {{  if .Params.alt_purchase_link }}
+    <a href="{{/* book.alt_purchase_link */}}" class="online-purchase">{{  if .Params.alt_purchase_label  }}{{ .Params.alt_purchase_label }}{{  else  }}Buy online{{  end  }}</a>
+    {{  else  }}
+    <a href="http://www.indiebound.org/book/{{ .Params.isbn_13 }}?aff=hellbox" class="indie-bound">Buy on IndieBound</a>
+    {{  end  }}
+    {{  if .Params.ebook_purchase }}
+    <a href="{{ .Params.ebook_purchase }}" class="ebook-purchase">{{ if .Params.alt_ebook_label  }}{{ .Params.alt_ebook_label }}{{  else  }}Buy ebook{{ end }}</a>
+    {{  end  }}
 </li>

@@ -28,7 +28,7 @@
                 </div>
                 <ul class="books reviews-page">
                     {{ range $i, $v := $reviewsbooks }}
-                    {{ partial "book.html" }}
+                    {{ partial "book.html" . }}
                     {{ if and (gt (len $reviewsbooks) 3) (eq (sub (len $reviewsbooks) 1) $i) }}
                         <a href="#" class="more-books">and {{ sub (len $reviewsbooks) 3 }} more (show)</a>
                     {{ end }}
