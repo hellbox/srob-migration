@@ -1,1 +1,128 @@
-This is a single reviews page
+{{ define "content" }}
+<div class="container review">
+    <div class="row">
+        <div class="col-sm-9">
+            <h1>{{ .Title }}</h1>
+        </div>
+        <div class="col-sm-3 sponsorship-top">
+            {{/* TODO include "templates/sponsorships/sponsorship.partial.html"  */}}
+        </div>
+    </div>
+    <div class="row review">
+        <div class="col-sm-3 meta">
+            {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
+            {{ $reviewsbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
+            <h4 class="writers"> <strong>
+                {{ range $i, $v := $byline }}
+                    {{ if and (gt (len $byline) 1) (gt $i 0) }}
+                        and 
+                    {{ end }}
+                    <a href="{{ $v.Permalink }}">{{ $v.Params.name }}</a>
+                {{ end }}</br></strong>
+            </h4>
+            <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+            <div class="share-links share-column">
+                {{ partial "share-links" }}
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="review-title">
+            </div>
+            <div class="review-text">
+                {{ .Content }}
+            </div>
+            <div class="end"></div>
+            <div class="share-links bottom-share">
+                <p>Share this review: </p>
+                {{ partial "share-links" }}
+            </div>
+        </div>
+        <div class="col-sm-3 review-sidebar">
+            <strong>Books in this review: </strong>
+            <div class="review-card">
+                <div class="review-data">
+                    <ul>
+                    {{ range $i, $v := $reviewsbooks }}
+                    {{ partial "book.html" . }}
+                    {{ if and (gt (len $reviewsbooks) 1) (eq (sub (len $reviewsbooks) 1) $i) }}
+                    </ul></div></div><div class="review-card"><div class="review-data"><ul>
+                    {{ end }}
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-3 meta">
+            <h4> <strong>About the writer{{ if gt $byline 1}}s{{ end }}
+            </strong>
+            </h4>
+        </div>
+        
+        <div class="col-sm-6 bio">
+        {{ range $i, $v := $byline }}
+            {{ $v.Params.bio | markdownify }}
+
+            {{ $v.Params.twitter }}
+            <p class="noindent">
+            Follow {{ $v.Params.twitter }} on Twitter: <a href="http://twitter.com/{{ $v.Params.twitter }}">@{{ $v.Params.twitter }}</a>
+            </p>
+            {{ if and (gt (len $reviewsbooks) 1) (ge (len $reviewsbooks) $i) }}
+            <div class="break"></div>
+            {{ end }}
+            {{ end }}            
+        </div>
+      
+    </div>
+     <!-- RECENT REVIEWS ROW-->
+    <div class="row">
+        <div class="col-sm-6">
+            <h1>Other recent reviews</h1>
+        </div>
+    </div>
+    <div class="row review-row" data-search-index="false">
+        {{/* TODO set loopamount = 3  */}}
+        {{/* for review in reviews  */}}
+        {{/* if loop.index <= loopamount  */}}
+        {{/* if item.name == review.name  */}}
+            {{/* set loopamount = 4  */}}
+        {{/* endif  */}}
+        {{/* if item.name != review.name  */}}
+        <div class="col-sm-3 review-card">
+            <div class="review-data">
+                <div class="date">{{/*review.publish_date|date('F d, Y') */}}</div>
+                <a href="{{/*url(review) */}}"><h2 class="review-title">{{/*review.name */}}</h2></a>
+                <div class="review-author">
+                    <h4>
+                    <strong>
+                    {{/* for relation in review.by  */}}
+                    <a href="{{/*url(relation) */}}">{{/*relation.name */}}</a>{{/* if not loop.last  */}}&amp;<br>{{/* endif  */}}
+                    {{/* endfor  */}}
+                    </strong>
+                    </h4>
+                    <div class="writes-about">writes about</div>
+                </div>
+            </div>
+            <ul class="books reviews-page">
+                {{/* for book in review.books_in_this_review  */}}
+                {{/* include "templates/partials/books.partial.html"  */}}
+                {{/* if loop.last  */}}{{/* if loop.index > 3  */}} <a href="#" class="more-books">and {{/*loop.index - 3 */}} more (show)</a> {{/* endif  */}}{{/* endif */}}
+                {{/* endfor  */}}
+            </ul>
+        </div>
+        {{/* if loop.index == loopamount  */}}
+        <div class="col-sm-3 sponsor-card">
+            {{/* include "templates/sponsorships/sponsorship.partial.html"  */}}
+        </div>
+        {{/* endif  */}}
+        {{/* endif  */}}
+        {{/* endif  */}}
+        {{/* endfor  */}}
+    </div>
+   
+    <!-- RECENT REVIEWS ROW -->
+</div>
+</div>
+{{ end }}

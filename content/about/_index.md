@@ -9,6 +9,8 @@ last_updated = "2017-06-01T07:03:00-07:00"
 preview_url = "077ab535-36c5-400b-f8eb-6b3878caefb6"
 name = "About the Seattle Review of Books"
 title = "About the Seattle Review of Books"
+layouts = "simple"
+type = "singles"
 +++
 
 <h2>Seattle is the greatest book city in the United States</h2>
