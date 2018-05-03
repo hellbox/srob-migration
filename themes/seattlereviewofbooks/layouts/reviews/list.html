@@ -4,7 +4,7 @@
     <div class="col-sm-12">
         <h1 class="reviews-header">Our reviews</h1>
         <div class="row review-row">
-            {{ $paginator := .Paginate (where .Data.Pages "Type" "Review") }}
+            {{ $paginator := .Paginate (where .Data.Pages "Type" "reviews") }}
             {{ range $i, $v:= $paginator.Pages }}
             {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
             {{ $reviewsbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}

@@ -1,16 +1,16 @@
 +++
 index = "-L9Dbir5mSm1badxsbj4"
 sort_create_date = 1522811160
-sort_last_updated = 1523301480
+sort_last_updated = 1523477640
 sort_publish_date = 1523473260
 create_date = "2018-04-03T20:06:00-07:00"
 publish_date = "2018-04-11T12:01:00-07:00"
 date = "2018-04-11T12:01:00-07:00"
-last_updated = "2018-04-09T12:18:00-07:00"
+last_updated = "2018-04-11T13:14:00-07:00"
 preview_url = "d23824a3-3750-eb3c-0435-376311483ae5"
 name = "\"...the goddamn Great American Landscaping Novel\""
 title = "\"...the goddamn Great American Landscaping Novel\""
-dek = "Jonathan Evison reads from his new novel, Lawn Boy, tonight at University Book Store. It's a book that draws a line in the class war and lands squarely on the side of America's blue-collar workers."
+dek = "Bainbridge Island author Jonathan Evison's latest novel is a book that draws a line in the class war and lands squarely on the side of America's blue-collar workers."
 type = "reviews"
 facebookauto = "Jonathan Evison reads at University Book Store tonight. His new novel Lawn Boy is a salvo in the class war."
 twitterauto = "Jonathan Evison reads @ubookstorereads tonight. His new novel Lawn Boy is a salvo in the class war."

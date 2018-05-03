@@ -1,17 +1,17 @@
 +++
 index = "-L9fefrn47pUEG6KCAOe"
 sort_create_date = 1523298480
-sort_last_updated = 1523390880
+sort_last_updated = 1523470920
 sort_publish_date = 1523386860
 create_date = "2018-04-09T11:28:00-07:00"
 publish_date = "2018-04-10T12:01:00-07:00"
 date = "2018-04-10T12:01:00-07:00"
-last_updated = "2018-04-10T13:08:00-07:00"
+last_updated = "2018-04-11T11:22:00-07:00"
 preview_url = "bcb76ea8-5f82-21f7-6fb9-515f716768ad"
 name = "Take this sentence, for example"
 title = "Take this sentence, for example"
 dek = "Jez Burrows created a book of stories made up of example sentences from dictionaries, and in doing so, created a new form of wordplay and entertainment. "
-type = "Review"
+type = "reviews"
 facebookauto = "In Dictionary Stories, Jez Burrows has created a novel form of crafting stories."
 twitterauto = "In Dictionary Stories, @jezburrows has created a novel form of crafting stories. "
 reviews_byline = ["writers/martin-mcclellan.md"]
@@ -34,7 +34,7 @@ McPhee writes about lifting the definitions which illuminate the words you have 
 
 His final writing used that turn-of-phrase: "A canoe trip has become simply a rite of oneness with certain terrain, a diversion of the field, an act performed not because it is necessary but because there is value in the act itself."
 
-(James Somers did a wonderful investigation of what dictionary McPhee was using, since more modern dictionaries are not nearly as lyrical. He not only discovers it, but [gives instructions on how to install it on your phone or computer]((http://jsomers.net/blog/dictionary "You&#8217;re probably using the wrong dictionary &laquo;  the jsomers.net blog").)
+(James Somers did a wonderful investigation of what dictionary McPhee was using, since more modern dictionaries are not nearly as lyrical. He not only discovers it, but <a href="http://jsomers.net/blog/dictionary">gives instructions on how to install it on your phone or computer</a>.)
 
 Smart writers like McPHee have used dictionaries to aid their writing for years, and although much of that use comes through well-turned definitions, even more comes from the under-appreciated writing that gives us sunny context in dark horizons of words: the example sentence. 
 
