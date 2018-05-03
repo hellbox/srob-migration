@@ -5,7 +5,7 @@
         <h1 class="reviews-header">Our reviews</h1>
         <div class="row review-row">
             {{ $paginator := .Paginate (where .Data.Pages "Type" "Review") }}
-            {{ range $paginator.Pages }}
+            {{ range $i, $v:= $paginator.Pages }}
             {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
             {{ $reviewsbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
             <div class="col-sm-3 review-card">
@@ -35,16 +35,16 @@
                     {{ end }}
                 </ul>
             </div>
-            {{/* if loop.index == 3 */}}
+            {{ if eq $i 3}}
             <div class="col-sm-3 sponsor-card">
                 {{/* include "templates/sponsorships/sponsorship.partial.html" */}}
             </div>
         </div>
         <div class="row review-row">
-            {{/* elseif loop.index == 7 */}}
+            {{ else if eq $i 7 }}
         </div>
         <div class="row review-row">
-            {{/* endif */}}
+            {{ end }}
             {{ end }}
         </div>
     </div>
