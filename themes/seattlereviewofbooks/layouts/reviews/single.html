@@ -83,7 +83,7 @@
         </div>
     </div>
     <div class="row review-row" data-search-index="false">
-        {{ range first 3 ( where .Site.Pages "Type" "reviews") }}
+        {{ range first 4 ( where .Site.Pages "Type" "reviews") }}
         {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
         {{ $reviewsbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
         <div class="col-sm-3 review-card">
@@ -93,9 +93,9 @@
                 <div class="review-author">
                     <h4>
                     <strong>
-                {{ range $i, $v := $byline }}
-                    {{ if and (gt (len $byline) 1) (gt $i 0) }}
-                        and 
+                    {{ range $i, $v := $byline }}
+                        {{ if and (gt (len $byline) 1) (gt $i 0) }}
+                            and 
                     {{ end }}
                     <a href="{{ $v.Permalink }}">{{ $v.Params.name }}</a>
                 {{ end }}</br></strong>
@@ -112,11 +112,11 @@
                     {{ end }}
             </ul>
         </div>
+        {{ end }}
         {{/* if loop.index == loopamount  */}}
         <div class="col-sm-3 sponsor-card">
             {{/* include "templates/sponsorships/sponsorship.partial.html"  */}}
         </div>
-        {{ end }}
     </div>
    </div>
 </div>
