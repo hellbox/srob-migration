@@ -16,7 +16,7 @@
                 <li><em>Tuesday</em>: <a href="/tags/tuesday-poem/">Tuesday Poem</a></li>
                 <li><em>Wednesday</em>: <a href="/tags/interviews">Interviews</a></li>
                 <li><em>Thursday</em>: <a href="/tags/thursday-comics-hangover/">Thursday Comics Hangover</a> &amp; <a href="/tags/portrait-gallery/">Portrait Gallery</a></li>
-                <li><em>Friday</em>: <a href="http://www.seattlereviewofbooks.com/tags/aaron-bagleys-dream-comics" title="The Seattle Review of Books">Aaron Bagley's Dream Comics</a> &amp; <a href="/tags/the-help-desk/">The Help Desk</a></li>
+                <li><em>Friday</em>: <a href="http://www.seattlereviewofbooks.com/tags/aaron-bagleys-dream-comics" title="The Seattle Review of Books">Aaron Bagley&rsquo;s Dream Comics</a> &amp; <a href="/tags/the-help-desk/">The Help Desk</a></li>
                 <li><em>Saturday</em>: <a href="http://www.seattlereviewofbooks.com/tags/whatcha-reading?" title="The Seattle Review of Books">Whatcha Reading?</a></li>
                 <li><em>Sunday</em>: <a href="/tags/the-sunday-post/">The Sunday Post</a></li>
             </ul>
@@ -24,10 +24,10 @@
         <div class="col-sm-3 content">
             <h3>Regular Columns</h3>
             <ul>
-                <li><a href="http://www.seattlereviewofbooks.com/tags/criminal-fiction" title="The Seattle Review of Books">Criminal Fiction</a> — Daneet Steffens's monthly column about mystery, suspense, and crime drama.</li>
-                <li><a href="http://www.seattlereviewofbooks.com/tags/the-future-alternative-past" title="The Seattle Review of Books">The Future Alternative Past</a> — Nisi Shawl's monthly column about science fiction, fantasy, and horror.</li>
-                <li><a href="http://www.seattlereviewofbooks.com/tags/kissing-books/" title="The Seattle Review of Books">Kissing Books</a> — Olivia Waite's monthly column about Romance Novels.</li>
-                <li>Post-it notes from Instagram — our monthly collection of Clare Johnson's weekly Post-it art, which we post weekly <a href="https://www.instagram.com/seattlereviewof/" title="The Seattle Review of Books (@seattlereviewof) • Instagram photos and videos">on our Instagram</a></li>
+                <li><a href="http://www.seattlereviewofbooks.com/tags/criminal-fiction" title="The Seattle Review of Books">Criminal Fiction</a> — Daneet Steffens&rsquo;s monthly column about mystery, suspense, and crime drama.</li>
+                <li><a href="http://www.seattlereviewofbooks.com/tags/the-future-alternative-past" title="The Seattle Review of Books">The Future Alternative Past</a> — Nisi Shawl&rsquo;s monthly column about science fiction, fantasy, and horror.</li>
+                <li><a href="http://www.seattlereviewofbooks.com/tags/kissing-books/" title="The Seattle Review of Books">Kissing Books</a> — Olivia Waite&rsquo;s monthly column about Romance Novels.</li>
+                <li>Post-it notes from Instagram — our monthly collection of Clare Johnson&rsquo;s weekly Post-it art, which we post weekly <a href="https://www.instagram.com/seattlereviewof/" title="The Seattle Review of Books (@seattlereviewof) • Instagram photos and videos">on our Instagram</a></li>
                 <li><a href="/tags/letters-to-the-editor" title="The Seattle Review of Books">Letters To the Editor</a> (send your own <a href="/about">on our about page</a>)</li>
                 <li><a href="/tags/book-news-roundup/" title="The Seattle Review of Books">Book News Roundup</a></li>
                 <li><a href="/tags/new-hire/" title="The Seattle Review of Books">New Hire</a></li>
@@ -48,7 +48,7 @@
             <h3>Retired Columns</h3>
             <ul>
                 <li><a href="/tags/kickstarter-fund/">The Kickstarter Fund</a></li></li>
-                <li><a href="/tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week/">Rahawa Haile's Short Story of the Day for the Previous Week</a></li>
+                <li><a href="/tags/rahawa-hailes-short-story-of-the-day-of-the-previous-week/">Rahawa Haile&rsquo;s Short Story of the Day for the Previous Week</a></li>
             </ul>
         </div>
         </div>
@@ -61,51 +61,37 @@
         <div class="col-sm-3">
             <h3>Notes</h3>
             <ul class="stuff-lists">
-            {{ range first 10 (where .Site.RegularPages "Type" "notes") }}
-                <li><a href="{{ .Permalink }}">{{ .Title }}</a><br><span class="writer-name">by {{/* for writer in note.byline*/}}{{/*writer.name*/}}{{/* endfor*/}}</span></li>
+            {{ range first 10 (( where .Site.Pages ".Params.subtype" "Note") sort .Site.Pages "date" "desc") }}
+            {{ $byline := where ( .Site.RegularPages.RelatedIndices . "notes_byline" ) "Type" "writers" }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a><br><span class="writer-name">by {{ range $byline }}{{ .Params.name }}{{ end }}</span></li>
             {{ end }}
             </ul>
         </div>
         <div class="col-sm-3">
             <h3>Interviews</h3>
             <ul class="stuff-lists">
-                {{/* set interviewcount = 1*/}}
-                {{/* for note in notes*/}}
-                {{/* if note.type|lower == "interview"*/}}
-                {{/* if interviewcount <= 10*/}}
-                <li><a href="{{/*url(note)*/}}">{{/*note.name*/}}</a><br><span class="writer-name">by {{/* for writer in note.byline*/}}{{/*writer.name*/}}{{/* endfor*/}}</span></li>
-                {{/* set interviewcount = interviewcount + 1*/}}
-                {{/* endif*/}}
-                {{/* endif*/}}
-                {{/* endfor*/}}
+            {{ range first 10 (( where .Site.Pages ".Params.subtype" "Interview") sort .Site.Pages "date" "desc") }}
+            {{ $byline := where ( .Site.RegularPages.RelatedIndices . "notes_byline" ) "Type" "writers" }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a><br><span class="writer-name">by {{ range $byline }}{{ .Params.name }}{{ end }}</span></li>
+            {{ end }}
             </ul>
         </div>
         <div class="col-sm-3">
             <h3>Columns</h3>
             <ul class="stuff-lists">
-                {{/* set columncount = 1*/}}
-                {{/* for note in notes*/}}
-                {{/* if note.type|lower == "column"*/}}
-                {{/* if columncount <= 10*/}}
-                <li><a href="{{/*url(note)*/}}">{{/*note.name*/}}</a><br><span class="writer-name">by {{/* for writer in note.byline*/}}{{/*writer.name*/}}{{/* endfor*/}}</span></li>
-                {{/* set columncount = columncount + 1*/}}
-                {{/* endif*/}}
-                {{/* endif*/}}
-                {{/* endfor*/}}
+            {{ range first 10 (( where .Site.Pages ".Params.subtype" "Column") sort .Site.Pages "date" "desc") }}
+            {{ $byline := where ( .Site.RegularPages.RelatedIndices . "notes_byline" ) "Type" "writers" }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a><br><span class="writer-name">by {{ range $byline }}{{ .Params.name }}{{ end }}</span></li>
+            {{ end }}
             </ul>
         </div>
         <div class="col-sm-3">
             <h3>Poems</h3>
             <ul class="stuff-lists">
-                {{/* set poemcount = 1*/}}
-                {{/* for note in notes*/}}
-                {{/* if note.type|lower == "poem"*/}}
-                {{/* if poemcount <= 10*/}}
-                <li><a href="{{/*url(note)*/}}">{{/*note.name*/}}</a><br><span class="writer-name">by {{/* for poet in note.byline*/}}{{/*poet.name*/}}{{/* endfor*/}}</span></li>
-                {{/* set poemcount = poemcount + 1*/}}
-                {{/* endif*/}}
-                {{/* endif*/}}
-                {{/* endfor*/}}
+            {{ range first 10 (( where .Site.Pages ".Params.subtype" "Poem") sort .Site.Pages "date" "desc") }}
+            {{ $byline := where ( .Site.RegularPages.RelatedIndices . "notes_byline" ) "Type" "writers" }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a><br><span class="writer-name">by {{ range $byline }}{{ .Params.name }}{{ end }}</span></li>
+            {{ end }}
             </ul>
         </div>
     </div>
@@ -114,41 +100,42 @@
             <h2>Some recent reviews</h2>
         </div>
     </div>
-    <div class="row review-row" data-search-index="false">
-        {{/* for review in reviews*/}}
-        {{/* endfor*/}}
-        {{/* set loopamount = 3*/}}
-        {{/* for review in reviews*/}}
-        {{/* if loop.index <= loopamount*/}}
+
+<div class="row review-row" data-search-index="false">
+        {{ range first 3 ( where .Site.Pages "Type" "reviews") }}
+        {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
+        {{ $reviewsbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
         <div class="col-sm-3 review-card">
             <div class="review-data">
-                <div class="date">{{/*review.publish_date|date('F d, Y')*/}}</div>
-                <a href="{{/*url(review)*/}}"><h2 class="review-title">{{/*review.name*/}}</h2></a>
+                <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+                <a href="{{ .Permalink }}"><h2 class="review-title">{{ .Title }}</h2></a>
                 <div class="review-author">
                     <h4>
                     <strong>
-                    {{/* for relation in review.by*/}}
-                    <a href="{{/*url(relation)*/}}">{{/*relation.name*/}}</a>{{/* if not loop.last*/}}&amp;<br>{{/* endif*/}}
-                    {{/* endfor*/}}
-                    </strong>
+                    {{ range $i, $v := $byline }}
+                        {{ if and (gt (len $byline) 1) (gt $i 0) }}
+                            and 
+                    {{ end }}
+                    <a href="{{ $v.Permalink }}">{{ $v.Params.name }}</a>
+                {{ end }}</br></strong>
                     </h4>
                     <div class="writes-about">writes about</div>
                 </div>
             </div>
             <ul class="books reviews-page">
-                {{/* for book in review.books_in_this_review*/}}
-                {{/* include "templates/partials/books.partial.html"*/}}
-                {{/* if loop.last*/}}{{/* if loop.index > 3*/}} <a href="#" class="more-books">and {{/*loop.index - 3*/}} more (show)</a> {{/* endif*/}}{{/* endif%}
-                {{/* endfor*/}}
+                    {{ range $i, $v := $reviewsbooks }}
+                    {{ partial "book.html" . }}
+                    {{ if and (gt (len $reviewsbooks) 1) (eq (sub (len $reviewsbooks) 1) $i) }}
+                        <a href="#" class="more-books">and {{ sub (len $reviewsbooks) 3 }} more (show)</a>
+                    {{ end }}
+                    {{ end }}
             </ul>
         </div>
-        {{/* if loop.index == loopamount*/}}
+        {{/* if loop.index == loopamount  */}}
         <div class="col-sm-3 sponsor-card">
-            {{/* include "templates/sponsorships/sponsorship.partial.html"*/}}
+            {{/* include "templates/sponsorships/sponsorship.partial.html"  */}}
         </div>
-        {{/* endif*/}}
-        {{/* endif*/}}
-        {{/* endfor*/}}
+        {{ end }}
     </div>
 </div>
 {{ end }}

@@ -83,46 +83,42 @@
         </div>
     </div>
     <div class="row review-row" data-search-index="false">
-        {{/* TODO set loopamount = 3  */}}
-        {{/* for review in reviews  */}}
-        {{/* if loop.index <= loopamount  */}}
-        {{/* if item.name == review.name  */}}
-            {{/* set loopamount = 4  */}}
-        {{/* endif  */}}
-        {{/* if item.name != review.name  */}}
+        {{ range first 3 ( where .Site.Pages "Type" "reviews") }}
+        {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
+        {{ $reviewsbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
         <div class="col-sm-3 review-card">
             <div class="review-data">
-                <div class="date">{{/*review.publish_date|date('F d, Y') */}}</div>
-                <a href="{{/*url(review) */}}"><h2 class="review-title">{{/*review.name */}}</h2></a>
+                <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+                <a href="{{ .Permalink }}"><h2 class="review-title">{{ .Title }}</h2></a>
                 <div class="review-author">
                     <h4>
                     <strong>
-                    {{/* for relation in review.by  */}}
-                    <a href="{{/*url(relation) */}}">{{/*relation.name */}}</a>{{/* if not loop.last  */}}&amp;<br>{{/* endif  */}}
-                    {{/* endfor  */}}
-                    </strong>
+                {{ range $i, $v := $byline }}
+                    {{ if and (gt (len $byline) 1) (gt $i 0) }}
+                        and 
+                    {{ end }}
+                    <a href="{{ $v.Permalink }}">{{ $v.Params.name }}</a>
+                {{ end }}</br></strong>
                     </h4>
                     <div class="writes-about">writes about</div>
                 </div>
             </div>
             <ul class="books reviews-page">
-                {{/* for book in review.books_in_this_review  */}}
-                {{/* include "templates/partials/books.partial.html"  */}}
-                {{/* if loop.last  */}}{{/* if loop.index > 3  */}} <a href="#" class="more-books">and {{/*loop.index - 3 */}} more (show)</a> {{/* endif  */}}{{/* endif */}}
-                {{/* endfor  */}}
+                    {{ range $i, $v := $reviewsbooks }}
+                    {{ partial "book.html" . }}
+                    {{ if and (gt (len $reviewsbooks) 1) (eq (sub (len $reviewsbooks) 1) $i) }}
+                        <a href="#" class="more-books">and {{ sub (len $reviewsbooks) 3 }} more (show)</a>
+                    {{ end }}
+                    {{ end }}
             </ul>
         </div>
         {{/* if loop.index == loopamount  */}}
         <div class="col-sm-3 sponsor-card">
             {{/* include "templates/sponsorships/sponsorship.partial.html"  */}}
         </div>
-        {{/* endif  */}}
-        {{/* endif  */}}
-        {{/* endif  */}}
-        {{/* endfor  */}}
+        {{ end }}
     </div>
-   
-    <!-- RECENT REVIEWS ROW -->
+   </div>
 </div>
 </div>
 {{ end }}
