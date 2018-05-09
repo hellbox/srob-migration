@@ -1,0 +1,94 @@
+{{/*  extends "templates/partials/base.html" */}}
+{{/*  block title */}}{{/*  parent */}} - writers{{/*  endblock */}}
+{{/*  block content */}}
+<div class="container writers">
+    <div class="row">
+        <div class="col-sm-4">
+            {{/*  set writers = cms.writers */}}
+            {{/*  set writers = writers|sort("alphabetize_by") */}}
+            <h1>People who write here</h1>
+            <ul>
+                {{/*  for writer in writers */}}
+                    {{/*  if writer.reviews_by[0] || writer.notes_byline[0] */}}
+                    {{/*  if loopletterwriter != writer.alphabetize_by|first */}}
+                    {{/*  if writer.alphabatize_by != 'a' */}}
+                        </ul>
+                    {{/*  endif */}}
+                    <li class="sort-letters">{{/* writer.alphabetize_by|upper|first */}}
+                    </li>
+                    <ul>
+                {{/*  endif */}}
+                    <li class="author-name"><a href="{{/* url(writer) */}}">{{/* writer.name */}}</a> <br>
+                        <ul class="writers-output">
+                        {{/*  set review_count = 0 */}}
+                        {{/*  set poem_count = 0 */}}
+                        {{/*  set interview_count = 0 */}}
+                        {{/*  set note_count = 0 */}}
+                        {{/*  set column_count = 0 */}}
+                        {{/*  for item in writer.reviews_by */}}
+                        {{/*  set review_count = review_count + 1 */}}
+                        {{/*  if loop.last */}}
+                            <li>{{/* review_count */}} review{{/*  if review_count > 1 */}}s{{/*  endif */}}</li>
+                        {{/*  endif */}}
+                        {{/*  endfor */}}
+                        {{/*  for item in writer.notes_byline */}}
+                        {{/*  if item.type|lower == 'poem' */}}                        
+                            {{/*  set poem_count = poem_count + 1 */}}
+                        {{/*  endif */}}    
+                        {{/*  if item.type|lower == 'interview' */}}    
+                            {{/*  set interview_count = interview_count + 1 */}}
+                        {{/*  endif */}}    
+                        {{/*  if item.type|lower == 'note' */}}                            
+                            {{/*  set note_count = note_count + 1 */}}
+                        {{/*  endif */}}    
+                        {{/*  if item.type|lower == 'column' */}}
+                            {{/*  set column_count = column_count + 1 */}}
+                        {{/*  endif */}}
+                        {{/*  if loop.last */}}
+                        {{/*  if poem_count */}}<li>{{/* poem_count */}} poem{{/*  if poem_count > 1 */}}s{{/*  endif */}}</li>{{/*  endif */}}
+                        {{/*  if interview_count */}}<li>{{/* interview_count */}} interview{{/*  if interview_count > 1 */}}s{{/*  endif */}}</li>{{/*  endif */}}
+                        {{/*  if note_count */}}<li>{{/* note_count */}} note{{/*  if note_count > 1 */}}s{{/*  endif */}}</li>{{/*  endif */}}
+                        {{/*  if column_count */}}<li>{{/* column_count */}} column{{/*  if column_count > 1 */}}s{{/*  endif */}}</li>{{/*  endif */}}
+
+                        {{/*  endif */}}
+                        {{/*  endfor */}}
+
+                        </ul>
+                    </li>
+                    {{/*  set loopletterwriter = writer.alphabetize_by|first */}}
+                    {{/*  endif */}}
+                    
+                {{/*  endfor */}}
+            </ul>
+        </div>
+        <div class="col-sm-4">
+            {{/*  set authors = cms.authors */}}            
+            {{/*  set authors = authors|sort("alphabetize_by") */}}
+
+            <h1>People we write about</h1>
+            <ul>
+                {{/*  for author in authors */}}  
+                {{/*  if author.reviews || author.notes */}}
+
+                {{/*  if loopletter != author.alphabetize_by|first */}}
+                    {{/*  if author.alphabatize_by != 'a' */}}
+                        </ul>
+                    {{/*  endif */}}
+                    <li class="sort-letters">{{/* author.alphabetize_by|upper|first */}}</li>
+                    <ul>
+                {{/*  endif */}}
+                
+                <li class="author-name"><a href="{{/* url(author) */}}">{{/* author.name */}}</a> {{/*  if author.is_seattle__pnw_writer%}<span class="northwest">NORTHWEST WRITER</span>{{/*  endif */}}</li>
+                
+                {{/*  set loopletter = author.alphabetize_by|first */}}
+                {{/*  endif */}}
+                {{/*  endfor */}}
+            </ul>
+          
+        </div>
+        <div class="col-sm-3 col-sm-offset-7 sponsor">
+            {{/*  include "templates/sponsorships/sponsorship.partial.html" */}}
+        </div>
+    </div>
+</div>
+  {{/*  endblock */}}

@@ -1,0 +1,41 @@
+{{/*  extends "templates/partials/base.html" */}}
+{{/*  block title */}}{{/*  parent */}} - {{/* item.name*/}}{{/*  endblock */}}
+{{/*  block content */}}
+<div class="container note">
+    <div class="row">
+            <div class="col-sm-8">
+        <h1>{{/* item.name*/}}</h1>        
+
+            {{/* item.bio|markdown*/}}
+            {{/*  if item.twitter */}}Follow on <a href="http://twitter.com/{{/* item.twitter*/}}">Twitter</a>{{/*  endif */}}
+        </div>
+        <div class="col-sm-3 col-sm-offset-7 sponsor" data-spy="affix">
+            {{/*  include "templates/sponsorships/sponsorship.partial.html" */}}
+        </div>
+    </div>
+    <div class="row content-by">
+        <div class="col-sm-4">
+            <h2>Reviews by {{/* item.name*/}}</h2>
+            <ul class="stuff-lists">
+              {{/*  set reviews = item.reviews_by|sort('publish_date', true) */}}
+                {{/*  for review in reviews */}}
+                <li>
+                    <a href="{{/* url(review)*/}}">{{/* review.name*/}}</a>
+                </li>
+                {{/*  endfor */}}
+            </ul>
+        </div>
+        <div class="col-sm-4">
+            <h2>Notes by {{/* item.name*/}}</h2>
+            <ul class="stuff-lists">
+            {{/*  set notes = item.notes_byline|sort('publish_date', true) */}}
+                {{/*  for note in notes */}}
+                <li>
+                    <a href="{{/* url(note)*/}}">{{/* note.name*/}}</a>
+                </li>
+                {{/*  endfor */}}
+            </ul>
+        </div>
+    </div>
+</div>
+{{/*  endblock */}}

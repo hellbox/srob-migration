@@ -1,0 +1,203 @@
+{{ define "head_extra" }}
+{{/* TODO: put this in its own area */}}
+<meta property="fb:app_id" content="481146972233231"/>
+<meta property="og:url" content="http://www.seattlereviewofbooks.com">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Seattle Review of Books">
+<meta property="og:description" content="Reviews, notes, interviews, articles, and poetry from The Seattle Review of Books.">
+<meta property="og:image:url" content="http://helpers.seattlereviewofbooks.com/images/srob-logo.png">
+<meta property="og:type" content="website">
+<meta property="article:published_time" content="{{/* TODO: add published timestamp */}}">
+<meta property="article:section" content="books">
+<link rel="amphtml" href="http://mercury.postlight.com/amp?url=http://www.seattlereviewofbooks.com">
+{{ end }}
+
+<div class="container note">
+{{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections )}}
+{{ range $paginator.Pages }}
+    {{ if eq .Params.type "Review" }}
+        {{/* Set up related records for the reviews loop */}}
+        {{ $byline := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "writers" }}
+        {{ $reviewsbooks := where ( .Site.RegularPages.RelatedIndices . "reviews_books" ) "Type" "books" }}
+        {{ $reviewstags := where ( .Site.RegularPages.RelatedIndices . "reviews_tags" ) "Type" "tags" }}
+            <div class="row">
+                <div class="col-sm-7 inline-review">
+                    <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+                    <p class="date">Published {{ .Date.Format "January 2, 2006 at 3:04pm" }}<p>
+                    <p class="noindent review-meta">
+    
+                        {{/* Makes a nice list of site writer bylines */}}
+                        {{ range $i, $v := $byline }}
+                            {{ with $v.Params.name }}{{ $.Scratch.SetInMap "names" . . }}{{ end }}
+                        {{ end }}                    
+    
+                        {{ with ($.Scratch.Get "names") }}
+                            {{ delimit . "," " and " }}
+                        {{ end }}
+                        {{ $.Scratch.Delete "names" }}            
+    
+                        review{{ if eq (len $byline) 1}}s{{ end }}
+    
+                        {{/* Then we loop through books to grab authors and 
+                            append the byline in a tragically complex way 
+                            
+                            Let the overly complex author sorting and assingment bghin 
+    
+                            */}}
+                        {{ range $reviewsbooks }}
+    
+                            {{/* Set variables for use in loops */}}
+                            {{ $bookname := .Params.name }}
+               
+    
+                            {{/* Get associated author name */}}
+    
+                            {{/* Some books have more than one author. 
+                                We'll compile them and pass them as a single author */}}
+                            {{ if gt (len (( $.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers")) 1 }}
+                                {{ range where ( $.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers" }}
+                                    {{/* Loop over authors and put in a holding Scratch */}}
+                                    {{ $.Scratch.Add "multiauthor" (slice .Params.name) }}
+                                {{ end }}  
+                                {{/* Take that Scratch and break it into a delimited string */}}                          
+                                {{ with $.Scratch.Get "multiauthor" }}
+                                    {{ $.Scratch.Add "multiauthorholder" (delimit . ", " " and ") }}
+                                {{ end }}
+                                {{/* Convert that list to a string so that we can use it as a Scratch name */}}
+                                {{ $authorstring := string ($.Scratch.Get "multiauthorholder") }} 
+                                {{/* Add it to the variable with author names as key */}}                                                      
+                                {{ $.Scratch.Add $authorstring (slice $bookname) }}
+                                {{/* Add it also to "authornames" lists so we can use that to find our keys later */}}                            
+                                {{ $.Scratch.Add "authornames" (slice $authorstring) }}
+                                {{/* Dump the temporary variables */}}
+                                {{ $.Scratch.Delete "multiauthor" }}
+                                {{ $.Scratch.Delete "multiauthorholder" }}
+    
+                            {{ else }} {{/* Book has a single author so we can not worry about the bullshit above */}}
+                                {{ range where ($.Site.RegularPages.RelatedIndices . "books_author" ) "Type" "writers" }} 
+                                    {{/* Creates a scratch with a key of the author's name and the value of bookname. If an author has more than one book, it will add to it on each subsequent loop. Output is a table of books keyed to an author name */}}
+                                    {{ $.Scratch.Add .Params.name (slice $bookname) }} 
+                                    {{/* We need an array of author names too, to loop through and as key pulls later */}}
+                                    {{ $.Scratch.Add "authornames" (slice .Params.name) }}
+                                {{ end }}
+                            {{ end }}                            
+                        {{ end }}
+    
+                        {{/* Add all books from an an author to a list so we can delimit and output it */}}
+    
+                        {{ range $index, $very := $.Scratch.Get "authornames" }}
+                            {{/* Only the first one to avoid doubling */}}
+                            {{ if eq $index 0 }}
+                                {{ $authorlist := (print "<em>" (delimit ($.Scratch.Get . ) ", " ", and " ) "</em> by " . ) }}
+                                {{ $.Scratch.Add "stringcombine" (slice $authorlist) }}
+                            {{ end }}
+                        {{ end }}
+                        {{/* Then, take those longer lists and combine them 
+                            in a total list of all the books in a review */}}
+                        {{ with $.Scratch.Get "stringcombine" }} 
+                            {{ delimit . ", " ", and "}}
+                        {{ end }}      
+    
+                        {{/* Clean the whole mess from memory */}}
+                        {{ with $.Scratch.Get "authornames" }}
+                            {{ $.Scratch.Delete (index ( . ) 0) }}
+                        {{ end }}
+                        {{ $.Scratch.Delete "booklist" }}
+                        {{ $.Scratch.Delete "authornames" }}
+                        {{ $.Scratch.Delete "stringcombine" }}
+    
+                        {{/* AND DONE with the author byline line. Whew. that was way too complex and fraught
+                            One todo here: the python script is overwriting authors with writers due to the way I built it. fix that
+                        */}}
+                    
+                    </p>
+                    <div class="dek">{{ .Params.dek | safeHTML }}</div>
+                    <p class="noindent"><a href="{{ .RelPermalink }}">Read this review now</a></p>
+                <div class="item-end"></div>             
+                </div>             
+             </div>      
+    
+    {{ end }}{{/* Ends reviews section */}}  
+    <div class="row">
+        <div class="col-sm-1">
+            <div class="share-links small share-column">
+                {{ template "theme/partials/share-links.partial.html"}}
+                {{/* TODO include "templates/partials/share-links.partial.html" */}}
+            </div>
+        </div>
+        <div class="col-sm-6">
+            {{ template "theme/partials/notes-wrapper.html" . }}
+            {{/* if eq (add $index 1) $len }}
+                <div class="mobile-sponsor">
+                    {{
+                    INSERT SPONORSHIP HERE FOR MOBILE
+                    include "templates/sponsorships/sponsorship.partial.html" }}
+                </div> 
+            {{ end */}} 
+        </div>  
+        </div>     
+        {{/* if eq $index 0 }}
+        <div class="col-sm-3 col-sm-offset-7 sponsor">
+            {{
+            INSERT SPONORSHIP HERE 
+            include "templates/sponsorships/sponsorship.partial.html" }}
+        </div> 
+        {{ end */}}
+{{ end }}
+</div>
+{{ template "_internal/pagination.html" . }}
+    {{/* Pagination goes here include "templates/partials/paginator.html" */}}
+</div>
+</div>
+
+
+
+{{/* comments here 
+
+OLD CONTENT TO RECKON WITH
+
+
+    {% else %}
+
+    <div class="row">
+        <div class="col-sm-1">
+            <div class="share-links small share-column">
+                {% include "templates/partials/share-links.partial.html" %}
+            </div>
+        </div>
+        <div class="col-sm-6">
+            {% if item.type|lower == 'column' %}
+            {% include "templates/notes/note-column.partial.html" %}
+            {% elseif item.type|lower == 'note' %}
+            {% include "templates/notes/note-note.partial.html" %}
+            {% elseif item.type|lower == 'interview' %}
+            {% include "templates/notes/note-interview.partial.html" %}
+            {% elseif item.type|lower == 'poem' %}
+            {% include "templates/notes/note-poem.partial.html" %}
+            {% elseif item.type|lower == 'fiction' %}
+            {% include "templates/notes/note-fiction.partial.html" %}
+            {% elseif item.type|lower == 'politics' %}
+            {% include "templates/notes/note-politics.partial.html" %}            
+            {% endif %}
+            <div class="note-end"></div>
+
+            {% if loop.last %}{# inserts mobile ad after main stream #}
+                 <div class="mobile-sponsor">
+                    {% include "templates/sponsorships/sponsorship.partial.html" %}
+                </div>
+            {% endif %}
+
+        </div>
+        {% if loop.first %}
+        <div class="col-sm-3 col-sm-offset-7 sponsor">
+            {% include "templates/sponsorships/sponsorship.partial.html" %}
+        </div>
+        {% endif %}
+    </div>
+    {% endif %}
+    {% endfor %}
+    {% include "templates/partials/paginator.html" %}
+</div>
+</div>
+{% endblock %}
+*/}}
