@@ -1,94 +1,68 @@
-{{/*  extends "templates/partials/base.html" */}}
-{{/*  block title */}}{{/*  parent */}} - writers{{/*  endblock */}}
-{{/*  block content */}}
+{{ define "content" }}
 <div class="container writers">
     <div class="row">
         <div class="col-sm-4">
-            {{/*  set writers = cms.writers */}}
-            {{/*  set writers = writers|sort("alphabetize_by") */}}
             <h1>People who write here</h1>
             <ul>
-                {{/*  for writer in writers */}}
-                    {{/*  if writer.reviews_by[0] || writer.notes_byline[0] */}}
-                    {{/*  if loopletterwriter != writer.alphabetize_by|first */}}
-                    {{/*  if writer.alphabatize_by != 'a' */}}
-                        </ul>
-                    {{/*  endif */}}
-                    <li class="sort-letters">{{/* writer.alphabetize_by|upper|first */}}
-                    </li>
-                    <ul>
-                {{/*  endif */}}
-                    <li class="author-name"><a href="{{/* url(writer) */}}">{{/* writer.name */}}</a> <br>
-                        <ul class="writers-output">
-                        {{/*  set review_count = 0 */}}
-                        {{/*  set poem_count = 0 */}}
-                        {{/*  set interview_count = 0 */}}
-                        {{/*  set note_count = 0 */}}
-                        {{/*  set column_count = 0 */}}
-                        {{/*  for item in writer.reviews_by */}}
-                        {{/*  set review_count = review_count + 1 */}}
-                        {{/*  if loop.last */}}
-                            <li>{{/* review_count */}} review{{/*  if review_count > 1 */}}s{{/*  endif */}}</li>
-                        {{/*  endif */}}
-                        {{/*  endfor */}}
-                        {{/*  for item in writer.notes_byline */}}
-                        {{/*  if item.type|lower == 'poem' */}}                        
-                            {{/*  set poem_count = poem_count + 1 */}}
-                        {{/*  endif */}}    
-                        {{/*  if item.type|lower == 'interview' */}}    
-                            {{/*  set interview_count = interview_count + 1 */}}
-                        {{/*  endif */}}    
-                        {{/*  if item.type|lower == 'note' */}}                            
-                            {{/*  set note_count = note_count + 1 */}}
-                        {{/*  endif */}}    
-                        {{/*  if item.type|lower == 'column' */}}
-                            {{/*  set column_count = column_count + 1 */}}
-                        {{/*  endif */}}
-                        {{/*  if loop.last */}}
-                        {{/*  if poem_count */}}<li>{{/* poem_count */}} poem{{/*  if poem_count > 1 */}}s{{/*  endif */}}</li>{{/*  endif */}}
-                        {{/*  if interview_count */}}<li>{{/* interview_count */}} interview{{/*  if interview_count > 1 */}}s{{/*  endif */}}</li>{{/*  endif */}}
-                        {{/*  if note_count */}}<li>{{/* note_count */}} note{{/*  if note_count > 1 */}}s{{/*  endif */}}</li>{{/*  endif */}}
-                        {{/*  if column_count */}}<li>{{/* column_count */}} column{{/*  if column_count > 1 */}}s{{/*  endif */}}</li>{{/*  endif */}}
-
-                        {{/*  endif */}}
-                        {{/*  endfor */}}
-
+                {{ $.Scratch.Set "loopletter" "" }}
+                {{ range sort .Pages ".Params.alphabetize_by" }}
+                    {{ if .Params.alphabetize_by }}                    
+                        {{ if or (.Params.reviews_byline) (.Params.notes_byline )}}
+                            {{ if ne ( $.Scratch.Get "loopletter") (substr .Params.alphabetize_by 0 1) }}
+                                {{ if ne (substr .Params.alphabetize_by 0 1 | lower ) "a" }}
+                                    </ul>
+                                {{ end }}
+                                <li class="sort-letters">{{ substr .Params.alphabetize_by 0 1 | upper }}</li>
+                                <ul>
+                            {{ end }}
+                            <li class="author-name"><a href="{{ .RelPermalink }}">{{ .Params.name }}</a>{{ if .Params.is_seattle_pnw_writer }} <span class="northwest">NORTHWEST&nbsp;WRITER</span>{{ end }}<br>
+                            <ul class="writers-output">
+                            {{ $reviews := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "reviews" }}
+                            {{ $notes :=  where (.Site.RegularPages.RelatedIndices . "notes_byline" ) "Type" "notes" }}
+                            {{ $note := (where $notes ".Params.subtype" "Note") }}
+                            {{ $interview := (where $notes ".Params.subtype" "Interview") }}
+                            {{ $poem := (where $notes ".Params.subtype" "Poem") }}
+                            {{ $column := (where $notes ".Params.subtype" "Column") }}
+                        
+                            {{ if $reviews }}<li>{{ len $reviews }} review{{ if gt $reviews 1 }}s{{ end }}</li>{{ end }}
+                            {{ if $poem }}<li>{{ len $poem }} poem{{ if gt (len $poem) 1 }}s{{ end }}</li>{{ end }}
+                            {{ if $interview }}<li>{{ len $interview }} interview{{ if gt (len $interview) 1 }}s{{ end }}</li>{{ end }}
+                            {{ if $note }}<li>{{ len $note }} note{{ if gt (len $note) 1 }}s{{ end }}</li>{{ end }}
+                            {{ if $column }}<li>{{ len $column }} column{{ if gt (len $column) 1 }}s{{ end }}</li>{{ end }}
+                        {{ end }}
                         </ul>
                     </li>
-                    {{/*  set loopletterwriter = writer.alphabetize_by|first */}}
-                    {{/*  endif */}}
-                    
-                {{/*  endfor */}}
+                    {{  $.Scratch.Set  "loopletter" (substr .Params.alphabetize_by 0 1) }}                    
+                    {{ end }}
+                {{ end }}
+                {{ $.Scratch.Delete "loopletter" }}
             </ul>
         </div>
         <div class="col-sm-4">
-            {{/*  set authors = cms.authors */}}            
-            {{/*  set authors = authors|sort("alphabetize_by") */}}
-
             <h1>People we write about</h1>
             <ul>
-                {{/*  for author in authors */}}  
-                {{/*  if author.reviews || author.notes */}}
-
-                {{/*  if loopletter != author.alphabetize_by|first */}}
-                    {{/*  if author.alphabatize_by != 'a' */}}
-                        </ul>
-                    {{/*  endif */}}
-                    <li class="sort-letters">{{/* author.alphabetize_by|upper|first */}}</li>
-                    <ul>
-                {{/*  endif */}}
-                
-                <li class="author-name"><a href="{{/* url(author) */}}">{{/* author.name */}}</a> {{/*  if author.is_seattle__pnw_writer%}<span class="northwest">NORTHWEST WRITER</span>{{/*  endif */}}</li>
-                
-                {{/*  set loopletter = author.alphabetize_by|first */}}
-                {{/*  endif */}}
-                {{/*  endfor */}}
-            </ul>
-          
+                {{ $.Scratch.Set "loopletter" "" }}
+                {{ range sort .Pages ".Params.alphabetize_by" }}
+                    {{ if .Params.alphabetize_by }}
+                        {{ if or (.Params.reviews_about) (.Params.notes_about) }}
+                            {{ if ne ($.Scratch.Get "loopletter") (substr .Params.alphabetize_by 0 1) }}
+                                {{ if ne (substr .Params.alphabetize_by 0 1 | lower ) "a" }}
+                                    </ul>
+                                {{ end }}
+                                <li class="sort-letters">{{ substr .Params.alphabetize_by 0 1 | upper}}</li>
+                                <ul>
+                            {{ end }}                
+                            <li class="author-name"><a href="{{ .RelPermalink }}">{{ .Params.name }}</a>{{ if .Params.is_seattle_pnw_writer }} <span class="northwest">NORTHWEST&nbsp;WRITER</span>{{ end }}</li>                
+                            {{ $.Scratch.Set "loopletter" (substr .Params.alphabetize_by 0 1) }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+                {{ $.Scratch.Delete "loopletter" }}
+            </ul>          
         </div>
         <div class="col-sm-3 col-sm-offset-7 sponsor">
             {{/*  include "templates/sponsorships/sponsorship.partial.html" */}}
         </div>
     </div>
 </div>
-  {{/*  endblock */}}
+{{ end }}
