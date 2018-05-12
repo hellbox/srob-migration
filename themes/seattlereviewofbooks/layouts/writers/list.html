@@ -7,7 +7,7 @@
                 {{ $.Scratch.Set "loopletter" "" }}
                 {{ range sort .Pages ".Params.alphabetize_by" }}
                     {{ if .Params.alphabetize_by }}                    
-                        {{ if or (.Params.reviews_byline) (.Params.notes_byline )}}
+                        {{ if or (.Params.reviews_byline) (.Params.notes_byline )}}                            
                             {{ if ne ( $.Scratch.Get "loopletter") (substr .Params.alphabetize_by 0 1) }}
                                 {{ if ne (substr .Params.alphabetize_by 0 1 | lower ) "a" }}
                                     </ul>
@@ -15,7 +15,7 @@
                                 <li class="sort-letters">{{ substr .Params.alphabetize_by 0 1 | upper }}</li>
                                 <ul>
                             {{ end }}
-                            <li class="author-name"><a href="{{ .RelPermalink }}">{{ .Params.name }}</a>{{ if .Params.is_seattle_pnw_writer }} <span class="northwest">NORTHWEST&nbsp;WRITER</span>{{ end }}<br>
+                            <li class="author-name"><a href="{{ .RelPermalink }}">{{ .Params.name }}</a>{{ if .Params.is_seattle_pnw_writer }}&nbsp;<span class="northwest">NORTHWEST&nbsp;WRITER</span>{{ end }}<br>
                             <ul class="writers-output">
                             {{ $reviews := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "reviews" }}
                             {{ $notes :=  where (.Site.RegularPages.RelatedIndices . "notes_byline" ) "Type" "notes" }}
@@ -29,10 +29,11 @@
                             {{ if $interview }}<li>{{ len $interview }} interview{{ if gt (len $interview) 1 }}s{{ end }}</li>{{ end }}
                             {{ if $note }}<li>{{ len $note }} note{{ if gt (len $note) 1 }}s{{ end }}</li>{{ end }}
                             {{ if $column }}<li>{{ len $column }} column{{ if gt (len $column) 1 }}s{{ end }}</li>{{ end }}
-                        {{ end }}
-                        </ul>
+                            {{  $.Scratch.Set  "loopletter" (substr .Params.alphabetize_by 0 1) }}
+                            </ul>
+                        {{ end }}                        
                     </li>
-                    {{  $.Scratch.Set  "loopletter" (substr .Params.alphabetize_by 0 1) }}                    
+                    
                     {{ end }}
                 {{ end }}
                 {{ $.Scratch.Delete "loopletter" }}
@@ -52,7 +53,7 @@
                                 <li class="sort-letters">{{ substr .Params.alphabetize_by 0 1 | upper}}</li>
                                 <ul>
                             {{ end }}                
-                            <li class="author-name"><a href="{{ .RelPermalink }}">{{ .Params.name }}</a>{{ if .Params.is_seattle_pnw_writer }} <span class="northwest">NORTHWEST&nbsp;WRITER</span>{{ end }}</li>                
+                            <li class="author-name"><a href="{{ .RelPermalink }}">{{ .Params.name }}</a>{{ if .Params.is_seattle_pnw_writer }}&nbsp;<span class="northwest">NORTHWEST&nbsp;WRITER</span>{{ end }}</li>                
                             {{ $.Scratch.Set "loopletter" (substr .Params.alphabetize_by 0 1) }}
                         {{ end }}
                     {{ end }}
