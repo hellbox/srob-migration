@@ -1,41 +1,95 @@
-{{/*  extends "templates/partials/base.html" */}}
-{{/*  block title */}}{{/*  parent */}} - {{/* item.name*/}}{{/*  endblock */}}
-{{/*  block content */}}
+{{ define "content" }}
+
+{{ $reviews := where ( .Site.RegularPages.RelatedIndices . "reviews_byline" ) "Type" "reviews" }}
+{{ $notes :=  where (.Site.RegularPages.RelatedIndices . "notes_byline" ) "Type" "notes" }}
+{{ $note := (where $notes ".Params.subtype" "Note") }}
+{{ $interview := (where $notes ".Params.subtype" "Interview") }}
+{{ $poem := (where $notes ".Params.subtype" "Poem") }}
+{{ $column := (where $notes ".Params.subtype" "Column") }}
 <div class="container note">
     <div class="row">
             <div class="col-sm-8">
-        <h1>{{/* item.name*/}}</h1>        
-
-            {{/* item.bio|markdown*/}}
-            {{/*  if item.twitter */}}Follow on <a href="http://twitter.com/{{/* item.twitter*/}}">Twitter</a>{{/*  endif */}}
+        <h1>{{ .Params.name }}</h1>        
+            {{ .Params.bio | markdownify }}
+            {{ if .Params.twitter }}Follow on <a href="http://twitter.com/{{ .Params.twitter }}">Twitter</a>{{ end }}
         </div>
         <div class="col-sm-3 col-sm-offset-7 sponsor" data-spy="affix">
-            {{/*  include "templates/sponsorships/sponsorship.partial.html" */}}
+            {{/* TODO include "templates/sponsorships/sponsorship.partial.html" */}}
         </div>
     </div>
-    <div class="row content-by">
+    <div class="row content-by col-sm-8">     
+    {{ if $reviews }}           
         <div class="col-sm-4">
-            <h2>Reviews by {{/* item.name*/}}</h2>
+            <h2>Reviews by {{ .Params.name }}</h2>
             <ul class="stuff-lists">
-              {{/*  set reviews = item.reviews_by|sort('publish_date', true) */}}
-                {{/*  for review in reviews */}}
+                {{ range $reviews }}
                 <li>
-                    <a href="{{/* url(review)*/}}">{{/* review.name*/}}</a>
+                    <a href="{{  .RelPermalink }}">{{ .Params.name }}</a>
                 </li>
-                {{/*  endfor */}}
+                {{ end }}
             </ul>
         </div>
+    </div>
+    {{ end }}
+    {{ if $notes }}
         <div class="col-sm-4">
-            <h2>Notes by {{/* item.name*/}}</h2>
-            <ul class="stuff-lists">
-            {{/*  set notes = item.notes_byline|sort('publish_date', true) */}}
-                {{/*  for note in notes */}}
-                <li>
-                    <a href="{{/* url(note)*/}}">{{/* note.name*/}}</a>
-                </li>
-                {{/*  endfor */}}
-            </ul>
+            {{ if $poem }}
+                <h2>Poetry by {{ .Params.name }}</h2>
+                <ul class="stuff-lists">  
+                {{ range $poem }}
+                    <li>
+                        <a href="{{  .RelPermalink }}">{{ .Params.name }}</a>
+                 </li>
+                {{ end }}
+                </ul>
+            {{ end }}
+            </div>   
+            
+        {{ if $column }}
+        
+            <div class="col-sm-4">
+                <h2>Columns by {{ .Params.name }}</h2>
+                <ul class="stuff-lists">  
+                {{ range $column }}
+                    <li>
+                        <a href="{{  .RelPermalink }}">{{ .Params.name }}</a>
+                 </li>
+                {{ end }}
+                </ul>
+            </div>
+        
+        {{ end }}
+        {{ if $interview }}
+        
+            <div class="col-sm-4">
+                <h2>Interviews by {{ .Params.name }}</h2>
+                <ul class="stuff-lists">  
+                {{ range $interview }}
+                    <li>
+                        <a href="{{  .RelPermalink }}">{{ .Params.name }}</a>
+                 </li>
+                {{ end }}
+                </ul>
+            </div>
+        
+        {{ end }}
+        {{ if $note }}
+        
+            <div class="col-sm-4">        
+                <h2>Notes by {{ .Params.name }}</h2>
+                <ul class="stuff-lists">  
+                {{ range $note }}
+                    <li>
+                        <a href="{{  .RelPermalink }}">{{ .Params.name }}</a>
+                 </li>
+                {{ end }}
+                </ul>
+            </div>
+
+        {{ end }}                          
+        {{ end }}
         </div>
     </div>
 </div>
-{{/*  endblock */}}
+
+{{ end }}
