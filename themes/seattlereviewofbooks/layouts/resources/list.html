@@ -1,0 +1,14 @@
+{{ define "content" }}
+
+<div class="container about">
+    <div class="row">
+        <div class="col-sm-8 col-sm-offset-2 content">        
+        <h1>{{ .Name }}</h1>
+            {{ .Content | markdownify }}                   
+          <div class="note-end"></div>         
+        </div> 
+        </div>
+    </div>
+</div>
+
+{{ end }}
